@@ -1,0 +1,563 @@
+{
+  "make": "Holden",
+  "models": {
+    "48-215 (FX)": {
+      "1948": ["Standard","Utility"],
+      "1949": ["Standard","Utility"],
+      "1950": ["Standard","Utility"],
+      "1951": ["Standard","Utility"],
+      "1952": ["Standard","Utility"],
+      "1953": ["Standard","Utility","Business Sedan"]
+    },
+    "FJ": {
+      "1953": ["Standard","Utility","Business Sedan"],
+      "1954": ["Standard","Utility","Business Sedan"],
+      "1955": ["Standard","Utility","Business Sedan"],
+      "1956": ["Standard","Utility","Business Sedan"]
+    },
+    "FC": {
+      "1958": ["Standard","Special","Utility"],
+      "1959": ["Standard","Special","Utility"],
+      "1960": ["Standard","Special","Utility"]
+    },
+    "FB": {
+      "1960": ["Standard","Special","Utility"],
+      "1961": ["Standard","Special","Utility"]
+    },
+    "EK": {
+      "1961": ["Standard","Special","Utility"],
+      "1962": ["Standard","Special","Utility"]
+    },
+    "EJ": {
+      "1962": ["Standard","Special","Premier","Utility"],
+      "1963": ["Standard","Special","Premier","Utility"]
+    },
+    "EH": {
+      "1963": ["Standard","Special","Premier","Utility"],
+      "1964": ["Standard","Special","Premier","S4","Utility"],
+      "1965": ["Standard","Special","Premier","S4","Utility"]
+    },
+    "HD": {
+      "1965": ["Standard","Special","Premier","Utility"],
+      "1966": ["Standard","Special","Premier","Utility"]
+    },
+    "HR": {
+      "1966": ["Standard","Special","Premier","Utility"],
+      "1967": ["Standard","Special","Premier","Utility"],
+      "1968": ["Standard","Special","Premier","Utility"]
+    },
+    "HK": {
+      "1968": ["Belmont","Kingswood","Brougham","Premier","GTS 186","GTS 307","Monaro GTS","Monaro GTS 327","Utility"],
+      "1969": ["Belmont","Kingswood","Brougham","Premier","GTS 186","GTS 307","Monaro GTS","Monaro GTS 327","Utility"]
+    },
+    "HT": {
+      "1969": ["Belmont","Kingswood","Brougham","Premier","GTS 186","GTS 308","GTS 350","Monaro GTS","Monaro GTS 350","Utility"],
+      "1970": ["Belmont","Kingswood","Brougham","Premier","GTS 186","GTS 308","GTS 350","Monaro GTS","Monaro GTS 350","Utility"]
+    },
+    "HG": {
+      "1970": ["Belmont","Kingswood","Brougham","Premier","SS","Monaro GTS","Monaro GTS 350","Utility"],
+      "1971": ["Belmont","Kingswood","Brougham","Premier","SS","Monaro GTS","Monaro GTS 350","Utility"]
+    },
+    "HQ": {
+      "1971": ["Belmont","Kingswood","Brougham","Premier","SS","Monaro GTS","Monaro GTS 308","Monaro GTS 350","Utility","One Tonner"],
+      "1972": ["Belmont","Kingswood","Brougham","Premier","SS","Monaro GTS","Monaro GTS 308","Monaro GTS 350","Utility","One Tonner"],
+      "1973": ["Belmont","Kingswood","Brougham","Premier","SS","Monaro GTS","Utility","One Tonner"],
+      "1974": ["Belmont","Kingswood","Brougham","Premier","SS","Utility","One Tonner"]
+    },
+    "HJ": {
+      "1974": ["Belmont","Kingswood","Brougham","Premier","SS","Sandman","Utility","One Tonner"],
+      "1975": ["Belmont","Kingswood","Brougham","Premier","SS","Sandman","Utility","One Tonner"],
+      "1976": ["Belmont","Kingswood","Brougham","Premier","SS","Sandman","Utility","One Tonner"]
+    },
+    "HX": {
+      "1976": ["Kingswood","Brougham","Premier","SS","Sandman","Utility","One Tonner"],
+      "1977": ["Kingswood","Brougham","Premier","SS","Sandman","Utility","One Tonner"]
+    },
+    "HZ": {
+      "1977": ["Kingswood","Brougham","Premier","SS","Sandman","Utility","One Tonner"],
+      "1978": ["Kingswood","Brougham","Premier","SS","Sandman","Utility","One Tonner"],
+      "1979": ["Kingswood","Brougham","Premier","SS","Utility","One Tonner"],
+      "1980": ["Kingswood Ute","One Tonner"]
+    },
+    "Torana": {
+      "1967": ["LC S","LC SL"],
+      "1968": ["LC S","LC SL"],
+      "1969": ["LC S","LC SL","LC GTR"],
+      "1970": ["LC S","LC SL","LC GTR","LC GTR XU-1","LJ S","LJ SL"],
+      "1971": ["LJ S","LJ SL","LJ GTR","LJ GTR XU-1"],
+      "1972": ["LJ SL","LJ GTR XU-1","LH SL","LH SL/R"],
+      "1973": ["LH SL","LH SL/R","LH SL/R 5000"],
+      "1974": ["LH SL","LH SL/R","LH SL/R 5000","LX SL"],
+      "1975": ["LX SL","LX SL/R","LX SL/R 5000","LX A9X"],
+      "1976": ["LX SL","LX SL/R 5000","LX A9X","LX SS"],
+      "1977": ["LX A9X","LX SS","UC SL"],
+      "1978": ["UC SL","UC SL/R"],
+      "1979": ["UC SL"]
+    },
+    "Gemini": {
+      "1975": ["TC SL","TC SL/E"],
+      "1976": ["TC SL","TC SL/E"],
+      "1977": ["TC SL","TC SL/E"],
+      "1978": ["TC SL","TC SL/E","TD SL"],
+      "1979": ["TD SL","TD SL/E","TD SLX"],
+      "1980": ["TD SL","TD SL/E","TD SLX"],
+      "1981": ["TE SL","TE SL/E","TE SLX"],
+      "1982": ["TE SL","TE SL/E","TE SLX","TF SL"],
+      "1983": ["TF SL","TF SL/E"],
+      "1984": ["TF SL","TF SL/E"],
+      "1985": ["TF SL","TF SL/E"]
+    },
+    "Commodore (VC)": {
+      "1980": ["VC SL","VC SL/E","VC Berlina","VC Executive"],
+      "1981": ["VC SL","VC SL/E","VC Berlina","VC Executive"]
+    },
+    "Commodore (VH)": {
+      "1981": ["VH SL","VH SL/E","VH Berlina","VH Executive","VH SS"],
+      "1982": ["VH SL","VH SL/E","VH Berlina","VH Executive","VH SS"],
+      "1983": ["VH SL","VH SL/E","VH Berlina","VH Executive","VH SS","VH Brock HDT"]
+    },
+    "Camira": {
+      "1982": ["JB SL","JB SLE","JB SLX"],
+      "1983": ["JB SL","JB SLE","JB SLX","JD SL"],
+      "1984": ["JD SL","JD SLE","JD SLX"],
+      "1985": ["JD SL","JD SLE","JD SLX","JE SL"],
+      "1986": ["JE SL","JE SLE","JE SLX","JE CDX"],
+      "1987": ["JE SL","JE SLE","JE SLX","JE CDX"],
+      "1988": ["JE SL","JE SLE","JE CDX"]
+    },
+    "Commodore (VK)": {
+      "1984": ["VK SL","VK SL/E","VK Berlina","VK Calais","VK SS","VK Brock HDT"],
+      "1985": ["VK SL","VK SL/E","VK Berlina","VK Calais","VK SS","VK Brock HDT"],
+      "1986": ["VK SL","VK SL/E","VK Berlina","VK Calais","VK SS"]
+    },
+    "Commodore (VL)": {
+      "1986": ["VL Executive","VL Berlina","VL Calais","VL SS","VL Calais Turbo"],
+      "1987": ["VL Executive","VL Berlina","VL Calais","VL SS","VL Calais Turbo"],
+      "1988": ["VL Executive","VL Berlina","VL Calais","VL SS","VL Calais Turbo","VL Group A SS"]
+    },
+    "Commodore (VN)": {
+      "1988": ["VN Executive","VN Berlina","VN Calais","VN SS","VN SSE"],
+      "1989": ["VN Executive","VN Berlina","VN Calais","VN SS","VN SSE"],
+      "1990": ["VN Executive","VN Berlina","VN Calais","VN SS","VN SSE"]
+    },
+    "Commodore (VP)": {
+      "1991": ["VP Executive","VP Berlina","VP Calais","VP SS","VP S Pack"],
+      "1992": ["VP Executive","VP Berlina","VP Calais","VP SS","VP S Pack"],
+      "1993": ["VP Executive","VP Berlina","VP Calais","VP SS","VP S Pack"]
+    },
+    "Commodore (VR)": {
+      "1993": ["VR Executive","VR Berlina","VR Calais","VR SS","VR S Pack"],
+      "1994": ["VR Executive","VR Berlina","VR Calais","VR SS","VR S Pack"],
+      "1995": ["VR Executive","VR Berlina","VR Calais","VR SS","VR S Pack"]
+    },
+    "Commodore (VS)": {
+      "1995": ["VS Executive","VS Berlina","VS Calais","VS SS","VS S Pack","VS Acclaim"],
+      "1996": ["VS Executive","VS Berlina","VS Calais","VS SS","VS S Pack","VS Acclaim"],
+      "1997": ["VS Executive","VS Berlina","VS Calais","VS SS","VS S Pack"]
+    },
+    "Commodore (VT)": {
+      "1997": ["VT Executive","VT Berlina","VT Calais","VT SS","VT S Pack"],
+      "1998": ["VT Executive","VT Berlina","VT Calais","VT SS","VT S Pack","VT T-Series"],
+      "1999": ["VT II Executive","VT II Berlina","VT II Calais","VT II SS","VT II Olympic Edition"]
+    },
+    "Commodore (VX)": {
+      "2000": ["VX Executive","VX Berlina","VX Calais","VX SS","VX S Pack","VX Acclaim"],
+      "2001": ["VX II Executive","VX II Berlina","VX II Calais","VX II SS","VX II S Pack"]
+    },
+    "Commodore (VY)": {
+      "2002": ["VY Executive","VY Berlina","VY Calais","VY SS","VY SV6","VY SV8","VY S Pack"],
+      "2003": ["VY II Executive","VY II Berlina","VY II Calais","VY II SS","VY II SV6","VY II SV8"]
+    },
+    "Commodore (VZ)": {
+      "2004": ["VZ Executive","VZ Berlina","VZ Calais","VZ SS","VZ SV6","VZ SV8"],
+      "2005": ["VZ Executive","VZ Berlina","VZ Calais","VZ SS","VZ SV6","VZ SV8","VZ Storm"],
+      "2006": ["VZ Executive","VZ Berlina","VZ Calais","VZ SS","VZ SV6","VZ SV8","VZ Adventra"]
+    },
+    "Commodore (VE)": {
+      "2006": ["VE Omega","VE Berlina","VE Calais","VE SS","VE SV6","VE SS V8","VE Calais V"],
+      "2007": ["VE Omega","VE Berlina","VE Calais","VE SS","VE SV6","VE SS V8","VE Calais V","VE Sportwagon SV6","VE Sportwagon SS"],
+      "2008": ["VE Omega","VE Berlina","VE Calais","VE SS","VE SV6","VE SS V8","VE Calais V","VE Sportwagon SV6","VE Sportwagon SS"],
+      "2009": ["VE Berlina","VE Calais","VE SS","VE SV6","VE SS V8","VE Calais V","VE Sportwagon SV6","VE Sportwagon SS"],
+      "2010": ["VE II Omega","VE II Berlina","VE II Calais","VE II SS","VE II SV6","VE II SS V8","VE II Calais V","VE II Sportwagon"],
+      "2011": ["VE II Omega","VE II Berlina","VE II Calais","VE II SS","VE II SV6","VE II SS V8","VE II Calais V","VE II Sportwagon"],
+      "2012": ["VE II Berlina","VE II Calais","VE II SS","VE II SV6","VE II SS V8","VE II Calais V","VE II Sportwagon"]
+    },
+    "Commodore (VF)": {
+      "2013": ["VF Evoke","VF Equipe","VF SV6","VF SS","VF SS V8","VF Calais","VF Calais V","VF Sportwagon SV6","VF Sportwagon SS"],
+      "2014": ["VF Evoke","VF Equipe","VF SV6","VF SS","VF SS V8","VF Calais","VF Calais V","VF Sportwagon SV6","VF Sportwagon SS"],
+      "2015": ["VF II Evoke","VF II Equipe","VF II SV6","VF II SS","VF II SS V8","VF II Calais","VF II Calais V","VF II SS V REDLINE","VF II Sportwagon"],
+      "2016": ["VF II Evoke","VF II Equipe","VF II SV6","VF II SS","VF II SS V8","VF II Calais","VF II Calais V","VF II SS V REDLINE","VF II Sportwagon"],
+      "2017": ["VF II Evoke","VF II Equipe","VF II SV6","VF II SS","VF II SS V8","VF II Calais","VF II Calais V","VF II SS V REDLINE","VF II Sportwagon"]
+    },
+    "Commodore (ZB)": {
+      "2018": ["ZB LT","ZB RS","ZB RS-V","ZB VXR","ZB Calais","ZB Calais-V","ZB LT Sportwagon","ZB RS Sportwagon","ZB Calais-V Sportwagon"],
+      "2019": ["ZB LT","ZB RS","ZB RS-V","ZB VXR","ZB Calais","ZB Calais-V","ZB LT Sportwagon","ZB RS Sportwagon","ZB Calais-V Sportwagon"],
+      "2020": ["ZB LT","ZB RS","ZB RS-V","ZB VXR","ZB Calais","ZB Calais-V"]
+    },
+    "Monaro": {
+      "1968": ["HK GTS 186","HK GTS 307","HK GTS 327"],
+      "1969": ["HK GTS 186","HK GTS 307","HK GTS 327","HT GTS 186","HT GTS 308","HT GTS 350"],
+      "1970": ["HT GTS 186","HT GTS 308","HT GTS 350","HG GTS 186","HG GTS 308","HG GTS 350"],
+      "1971": ["HG GTS 350","HQ GTS 253","HQ GTS 308","HQ GTS 350"],
+      "1972": ["HQ GTS 253","HQ GTS 308","HQ GTS 350"],
+      "1973": ["HQ GTS 253","HQ GTS 308"],
+      "1974": ["HJ GTS"],
+      "1975": ["HJ GTS"],
+      "1976": ["HX GTS"],
+      "1977": ["HX GTS","HZ GTS"],
+      "2001": ["V2 CV8 Coupe"],
+      "2002": ["V2 CV8 Coupe","V2 CV8-Z Coupe"],
+      "2003": ["V2 CV8 Coupe","V2 CV8-Z Coupe"],
+      "2004": ["VZ CV8 Coupe","VZ CV8-Z Coupe"],
+      "2005": ["VZ CV8 Coupe","VZ CV8-Z Coupe"]
+    },
+    "Statesman": {
+      "1971": ["HQ Statesman"],
+      "1972": ["HQ Statesman","HQ Statesman De Ville"],
+      "1973": ["HQ Statesman De Ville"],
+      "1974": ["HJ Statesman","HJ Statesman De Ville"],
+      "1975": ["HJ Statesman","HJ Statesman De Ville"],
+      "1976": ["HX Statesman","HX Statesman De Ville"],
+      "1977": ["HX Statesman De Ville","HZ Statesman"],
+      "1978": ["HZ Statesman","HZ Statesman De Ville"],
+      "1979": ["HZ Statesman","HZ Statesman De Ville"],
+      "1980": ["WB Statesman"],
+      "1981": ["WB Statesman","WB Statesman De Ville"],
+      "1982": ["WB Statesman","WB Statesman De Ville"],
+      "1983": ["WB Statesman","WB Statesman De Ville"],
+      "1984": ["VK Statesman","VK Caprice"],
+      "1985": ["VK Statesman","VK Caprice"],
+      "1986": ["VL Statesman","VL Caprice"],
+      "1987": ["VL Statesman","VL Caprice"],
+      "1988": ["VL Statesman","VL Caprice","VN Statesman"],
+      "1989": ["VN Statesman","VN Caprice"],
+      "1990": ["VN Statesman","VN Caprice"],
+      "1991": ["VP Statesman","VP Caprice"],
+      "1992": ["VP Statesman","VP Caprice"],
+      "1993": ["VP Statesman","VP Caprice","VR Statesman"],
+      "1994": ["VR Statesman","VR Caprice"],
+      "1995": ["VR Statesman","VR Caprice","VS Statesman"],
+      "1996": ["VS Statesman","VS Caprice"],
+      "1997": ["VS Statesman","VS Caprice","WH Statesman"],
+      "1998": ["WH Statesman","WH Caprice"],
+      "1999": ["WH Statesman","WH Caprice"],
+      "2000": ["WH Statesman","WH Caprice"],
+      "2001": ["WK Statesman","WK Caprice"],
+      "2002": ["WK Statesman","WK Caprice"],
+      "2003": ["WK Statesman","WK Caprice","WL Statesman"],
+      "2004": ["WL Statesman","WL Caprice"],
+      "2005": ["WL Statesman","WL Caprice"],
+      "2006": ["WL Statesman","WL Caprice","WM Statesman"],
+      "2007": ["WM Statesman","WM Caprice"],
+      "2008": ["WM Statesman","WM Caprice"],
+      "2009": ["WM Statesman","WM Caprice"],
+      "2010": ["WM Statesman","WM Caprice"],
+      "2011": ["WN Caprice","WN Caprice V"],
+      "2012": ["WN Caprice","WN Caprice V"],
+      "2013": ["WN Caprice","WN Caprice V"],
+      "2014": ["WN Caprice","WN Caprice V"],
+      "2015": ["WN Caprice","WN Caprice V"],
+      "2016": ["WN Caprice","WN Caprice V"],
+      "2017": ["WN Caprice","WN Caprice V"]
+    },
+    "Commodore Ute": {
+      "1990": ["VN Ute SL","VN Ute SS"],
+      "1991": ["VP Ute SL","VP Ute SS"],
+      "1992": ["VP Ute SL","VP Ute SS"],
+      "1993": ["VP Ute SL","VP Ute SS","VR Ute S"],
+      "1994": ["VR Ute S","VR Ute SS"],
+      "1995": ["VR Ute S","VR Ute SS","VS Ute S"],
+      "1996": ["VS Ute S","VS Ute SS"],
+      "1997": ["VS Ute S","VS Ute SS"],
+      "2000": ["VU Ute S","VU Ute SV6","VU Ute SS","VU Ute SS Thunder"],
+      "2001": ["VU Ute S","VU Ute SV6","VU Ute SS","VU Ute SS Thunder"],
+      "2002": ["VY Ute S","VY Ute SV6","VY Ute SS","VY Ute SS Thunder"],
+      "2003": ["VY Ute S","VY Ute SV6","VY Ute SS","VY Ute SS Thunder"],
+      "2004": ["VZ Ute S","VZ Ute SV6","VZ Ute SS","VZ Ute SS Thunder"],
+      "2005": ["VZ Ute S","VZ Ute SV6","VZ Ute SS","VZ Ute SS Thunder"],
+      "2006": ["VZ Ute S","VZ Ute SV6","VZ Ute SS","VZ Ute SS Thunder"],
+      "2007": ["VE Ute Omega","VE Ute SV6","VE Ute SS","VE Ute SS Thunder"],
+      "2008": ["VE Ute Omega","VE Ute SV6","VE Ute SS","VE Ute SS Thunder"],
+      "2009": ["VE Ute Omega","VE Ute SV6","VE Ute SS","VE Ute SS Thunder"],
+      "2010": ["VE II Ute Omega","VE II Ute SV6","VE II Ute SS","VE II Ute SS Thunder"],
+      "2011": ["VE II Ute Omega","VE II Ute SV6","VE II Ute SS","VE II Ute SS Thunder","VE II Ute SS STORM"],
+      "2012": ["VE II Ute Omega","VE II Ute SV6","VE II Ute SS","VE II Ute SS Thunder","VE II Ute SS STORM"],
+      "2013": ["VF Ute SV6","VF Ute SS","VF Ute SS Thunder","VF Ute SS STORM"]
+    },
+    "HSV Commodore": {
+      "1988": ["VN Group A SS","VN Walkinshaw"],
+      "1989": ["VN Group A SS","VN Walkinshaw","VN GTS"],
+      "1990": ["VP SV90","VP GTS"],
+      "1991": ["VP GTS","VP Manta"],
+      "1992": ["VP GTS","VP Senator","VP Maloo"],
+      "1993": ["VR GTS","VR Senator","VR Maloo","VR Clubsport"],
+      "1994": ["VR GTS","VR Senator","VR Maloo","VR Clubsport"],
+      "1995": ["VS GTS","VS Senator","VS Maloo","VS Clubsport"],
+      "1996": ["VS GTS","VS Senator","VS Maloo","VS Clubsport"],
+      "1997": ["VS GTS","VS Senator","VS Clubsport","VT GTS"],
+      "1998": ["VT GTS","VT Senator","VT Clubsport","VT Maloo"],
+      "1999": ["VT GTS","VT Senator","VT Clubsport","VT Maloo"],
+      "2000": ["VX GTS","VX Senator","VX Clubsport","VX Maloo"],
+      "2001": ["VX GTS","VX Senator","VX Clubsport","VX Maloo"],
+      "2002": ["VY GTS","VY Senator","VY Clubsport","VY Maloo","VY Coupe GTO"],
+      "2003": ["VY GTS","VY Senator","VY Clubsport","VY Maloo","VY Coupe GTO","VY Coupe GTO Convertible"],
+      "2004": ["VZ GTS","VZ Senator","VZ Clubsport","VZ Maloo","VZ Coupe GTO"],
+      "2005": ["VZ GTS","VZ Senator","VZ Clubsport","VZ Maloo","VZ Coupe GTO","VZ Coupe GTO Convertible"],
+      "2006": ["VZ GTS","VZ Senator","VZ Clubsport","VZ Maloo"],
+      "2007": ["VE GTS","VE Senator","VE Clubsport","VE Maloo","VE Clubsport R8"],
+      "2008": ["VE GTS","VE Senator","VE Clubsport R8","VE Maloo R8","VE W427"],
+      "2009": ["VE GTS","VE Senator","VE Clubsport R8","VE Maloo R8"],
+      "2010": ["VE II GTS","VE II Senator","VE II Clubsport R8","VE II Maloo R8"],
+      "2011": ["VE II GTS","VE II Senator","VE II Clubsport R8","VE II Maloo R8","VE II GTS-R"],
+      "2012": ["VE II GTS","VE II Clubsport R8","VE II Maloo R8","VE II GTS-R"],
+      "2013": ["VF GTS GEN-F LSA","VF GTS GEN-F LS3","VF Clubsport R8","VF Maloo R8","VF Maloo R8 LSA","VF Clubsport R8 LSA"],
+      "2014": ["VF GTS GEN-F LSA","VF GTS GEN-F LS3","VF Clubsport R8","VF Maloo R8","VF Clubsport R8 LSA","VF Maloo R8 LSA"],
+      "2015": ["VF II GTS GEN-F2","VF II GTS GEN-F2 25th Anniversary","VF II Clubsport R8","VF II Maloo R8","VF II GTSR"],
+      "2016": ["VF II GTS GEN-F2","VF II GTS GEN-F2 25th Anniversary","VF II Clubsport R8","VF II Maloo R8","VF II GTSR","VF II GTSR Maloo"],
+      "2017": ["VF II GTS GEN-F2","VF II Clubsport R8","VF II Maloo R8","VF II GTSR","VF II GTSR Maloo","VF II W1"]
+    },
+    "Barina": {
+      "1985": ["SB Standard","SB SE"],
+      "1986": ["SB Standard","SB SE"],
+      "1987": ["SB Standard","SB SE","MB Standard"],
+      "1988": ["MB Standard","MB SE","MB Sportsgirl"],
+      "1989": ["MB Standard","MB SE","MB Sportsgirl"],
+      "1990": ["MB Standard","MB SE"],
+      "1991": ["ML Standard","ML City","ML SE"],
+      "1992": ["ML Standard","ML City","ML SE"],
+      "1993": ["ML Standard","ML City","ML SE"],
+      "1994": ["ML Standard","ML SE"],
+      "1995": ["XC City","XC SE"],
+      "1996": ["XC City","XC SE","XC SRi"],
+      "1997": ["XC City","XC SE","XC SRi"],
+      "1998": ["XC City","XC SE"],
+      "1999": ["XC City","XC SE"],
+      "2000": ["XC City","XC SE"],
+      "2001": ["XC City","XC SE"],
+      "2002": ["XC City","XC SE","XC SRi"],
+      "2003": ["XC City","XC SE","XC SRi"],
+      "2004": ["XC City","XC SE"],
+      "2005": ["TK LS","TK LX","TK SXi"],
+      "2006": ["TK LS","TK LX","TK SXi"],
+      "2007": ["TK LS","TK LX","TK SXi"],
+      "2008": ["TK LS","TK LX"],
+      "2009": ["TK LS","TK LX","TK CDX"],
+      "2010": ["TK LS","TK LX","TK CDX"],
+      "2011": ["TM LS","TM LT","TM CDX","TM RS"],
+      "2012": ["TM LS","TM LT","TM CDX","TM RS"],
+      "2013": ["TM LS","TM LT","TM CDX","TM RS"],
+      "2014": ["TM LS","TM LT","TM CDX","TM RS"],
+      "2015": ["TM LS","TM LT","TM CDX","TM RS"],
+      "2016": ["TM LS","TM LT","TM CDX","TM RS"],
+      "2017": ["TM LS","TM LT","TM CDX","TM RS"],
+      "2018": ["TM LS","TM LT","TM RS"]
+    },
+    "Barina Spark": {
+      "2010": ["MJ LS","MJ LT"],
+      "2011": ["MJ LS","MJ LT"],
+      "2012": ["MJ LS","MJ LT"],
+      "2013": ["MJ LS","MJ LT"],
+      "2014": ["MJ LS","MJ LT"],
+      "2015": ["MJ LS","MJ LT"],
+      "2016": ["MP LS","MP LT"],
+      "2017": ["MP LS","MP LT"],
+      "2018": ["MP LS","MP LT"]
+    },
+    "Astra": {
+      "1996": ["TR City","TR GL","TR GLS","TR CD"],
+      "1997": ["TR City","TR GL","TR GLS","TR CD","TR SRi"],
+      "1998": ["TR City","TR GL","TR GLS","TR CD","TR SRi"],
+      "1999": ["TS City","TS Classic","TS Equipe","TS SRi","TS Convertible"],
+      "2000": ["TS City","TS Classic","TS Equipe","TS SRi","TS Convertible"],
+      "2001": ["TS City","TS Classic","TS Equipe","TS SRi"],
+      "2002": ["TS City","TS Classic","TS Equipe","TS SRi"],
+      "2003": ["TS City","TS Classic","TS Equipe","TS SRi"],
+      "2004": ["AH CD","AH CDX","AH SRi","AH SRi Turbo"],
+      "2005": ["AH CD","AH CDX","AH SRi","AH SRi Turbo"],
+      "2006": ["AH CD","AH CDX","AH SRi","AH SRi Turbo","AH TwinTop"],
+      "2007": ["AH CD","AH CDX","AH SRi","AH SRi Turbo","AH TwinTop"],
+      "2008": ["AH CD","AH CDX","AH SRi","AH SRi Turbo","AH TwinTop"],
+      "2009": ["AH CD","AH CDX","AH SRi","AH SRi Turbo"],
+      "2016": ["BK LS","BK LT","BK LTZ","BK RS","BK RS-V"],
+      "2017": ["BK LS","BK LT","BK LTZ","BK RS","BK RS-V"],
+      "2018": ["BL LS","BL LT","BL LTZ","BL RS"]
+    },
+    "Cruze": {
+      "2009": ["JG CD","JG CDX","JG Equipe","JG SRi"],
+      "2010": ["JG CD","JG CDX","JG Equipe","JG SRi"],
+      "2011": ["JH CD","JH CDX","JH Equipe","JH SRi","JH SRi-V"],
+      "2012": ["JH CD","JH CDX","JH Equipe","JH SRi","JH SRi-V"],
+      "2013": ["JH CD","JH CDX","JH Equipe","JH SRi","JH SRi-V"],
+      "2014": ["JH CD","JH CDX","JH Equipe","JH SRi","JH SRi-V"],
+      "2015": ["JH CD","JH CDX","JH Equipe","JH SRi","JH SRi-V"],
+      "2016": ["JH CD","JH CDX","JH SRi"]
+    },
+    "Captiva": {
+      "2006": ["CG CX","CG LX","CG LX Plus"],
+      "2007": ["CG CX","CG LX","CG LX Plus"],
+      "2008": ["CG CX","CG LX","CG LX Plus"],
+      "2009": ["CG CX","CG LX","CG LX Plus"],
+      "2010": ["CG CX","CG LX","CG LX Plus"],
+      "2011": ["CG CX","CG LX","CG LX Plus"],
+      "2012": ["CG LS","CG LT","CG LTZ"],
+      "2013": ["CG LS","CG LT","CG LTZ"],
+      "2014": ["CG LS","CG LT","CG LTZ"],
+      "2015": ["CG LS","CG LT","CG LTZ"],
+      "2016": ["CG LS","CG LT","CG LTZ"],
+      "2017": ["CG LS","CG LT","CG LTZ"],
+      "2018": ["CG LS","CG LT","CG LTZ"]
+    },
+    "Colorado": {
+      "2008": ["RC LX","RC LT"],
+      "2009": ["RC LX","RC LT"],
+      "2010": ["RC LX","RC LT","RC LT Space Cab"],
+      "2011": ["RC LX","RC LT","RC Space Cab LX"],
+      "2012": ["RG LX","RG LT","RG LTZ","RG Z71"],
+      "2013": ["RG LX","RG LT","RG LTZ","RG Z71"],
+      "2014": ["RG LX","RG LT","RG LTZ","RG Z71"],
+      "2015": ["RG LS","RG LT","RG LTZ","RG Z71"],
+      "2016": ["RG LS","RG LT","RG LTZ","RG Z71"],
+      "2017": ["RG LS","RG LT","RG LTZ","RG Z71","RG LSX"],
+      "2018": ["RG LS","RG LT","RG LTZ","RG Z71","RG LSX"],
+      "2019": ["RG LS","RG LT","RG LTZ","RG Z71","RG LSX"],
+      "2020": ["RG LS","RG LT","RG LTZ","RG Z71"]
+    },
+    "Colorado 7": {
+      "2013": ["LT","LTZ"],
+      "2014": ["LT","LTZ"],
+      "2015": ["LT","LTZ"],
+      "2016": ["LT","LTZ"]
+    },
+    "Rodeo": {
+      "1996": ["TF LX","TF LT"],
+      "1997": ["TF LX","TF LT"],
+      "1998": ["TF LX","TF LT"],
+      "1999": ["TF LX","TF LT"],
+      "2000": ["RA LX","RA LT"],
+      "2001": ["RA LX","RA LT"],
+      "2002": ["RA LX","RA LT","RA LT Plus"],
+      "2003": ["RA LX","RA LT","RA LT Plus"],
+      "2004": ["RA LX","RA LT","RA LT Plus"],
+      "2005": ["RA LX","RA LT","RA LT Plus"],
+      "2006": ["RA LX","RA LT","RA LT Plus"],
+      "2007": ["RA LX","RA LT","RA LT Plus"],
+      "2008": ["RA LX","RA LT","RA LT Plus"]
+    },
+    "Jackaroo": {
+      "1992": ["Standard","DX","SE"],
+      "1993": ["Standard","DX","SE"],
+      "1994": ["Standard","DX","SE"],
+      "1995": ["Standard","DX","SE"],
+      "1996": ["Standard","DX","SE"],
+      "1997": ["UBS Standard","UBS DX","UBS SE"],
+      "1998": ["UBS Standard","UBS DX","UBS SE"],
+      "1999": ["UBS Standard","UBS DX","UBS SE"],
+      "2000": ["UBS Standard","UBS DX","UBS SE"],
+      "2001": ["UBS Standard","UBS DX","UBS SE"],
+      "2002": ["UBS Standard","UBS SE"],
+      "2003": ["UBS Standard","UBS SE"]
+    },
+    "Frontera": {
+      "1999": ["Standard","Sport"],
+      "2000": ["Standard","Sport"],
+      "2001": ["Standard","Sport"],
+      "2002": ["Standard","Sport"],
+      "2003": ["Standard","Sport"]
+    },
+    "Trax": {
+      "2013": ["TJ LS","TJ LT","TJ LTZ"],
+      "2014": ["TJ LS","TJ LT","TJ LTZ"],
+      "2015": ["TJ LS","TJ LT","TJ LTZ"],
+      "2016": ["TJ LS","TJ LT","TJ LTZ"],
+      "2017": ["TJ LS","TJ LT","TJ LTZ"],
+      "2018": ["TJ LS","TJ LT","TJ LTZ"],
+      "2019": ["TJ LS","TJ LT","TJ LTZ"],
+      "2020": ["TJ LS","TJ LT","TJ LTZ"]
+    },
+    "Trailblazer": {
+      "2015": ["LT","LTZ"],
+      "2016": ["LT","LTZ"],
+      "2017": ["LT","LTZ"],
+      "2018": ["LT","LTZ"],
+      "2019": ["LT","LTZ"],
+      "2020": ["LT","LTZ"]
+    },
+    "Equinox": {
+      "2018": ["LS","LT","LTZ"],
+      "2019": ["LS","LT","LTZ"],
+      "2020": ["LS","LT","LTZ"]
+    },
+    "Acadia": {
+      "2018": ["LT","LTZ"],
+      "2019": ["LT","LTZ"],
+      "2020": ["LT","LTZ"]
+    },
+    "Volt": {
+      "2012": ["Standard"],
+      "2013": ["Standard"],
+      "2014": ["Standard"],
+      "2015": ["Standard"]
+    },
+    "Malibu": {
+      "2013": ["CD","CDX"],
+      "2014": ["CD","CDX"],
+      "2015": ["CD","CDX"],
+      "2016": ["LS","LT"]
+    },
+    "Epica": {
+      "2007": ["CDX"],
+      "2008": ["CDX"],
+      "2009": ["CDX","CDXi"],
+      "2010": ["CDX","CDXi"],
+      "2011": ["CDX"]
+    },
+    "Viva": {
+      "2005": ["JF LS","JF LT"],
+      "2006": ["JF LS","JF LT"],
+      "2007": ["JF LS","JF LT"],
+      "2008": ["JF LS","JF LT"],
+      "2009": ["JF LS","JF LT"]
+    },
+    "Vectra": {
+      "1997": ["JS CD","JS CDX"],
+      "1998": ["JS CD","JS CDX","JS SRi"],
+      "1999": ["JS CD","JS CDX","JS SRi"],
+      "2000": ["JS CD","JS CDX","JS SRi"],
+      "2001": ["JS CD","JS CDX","JS SRi"],
+      "2002": ["ZC CD","ZC CDX","ZC SRi"],
+      "2003": ["ZC CD","ZC CDX","ZC SRi"],
+      "2004": ["ZC CD","ZC CDX","ZC SRi"],
+      "2005": ["ZC CD","ZC CDX"]
+    },
+    "Nova": {
+      "1989": ["LE Hatch","LE Sedan"],
+      "1990": ["LF Hatch","LF Sedan"],
+      "1991": ["LF Hatch","LF Sedan"],
+      "1992": ["LF Hatch","LF Sedan","LF GS"],
+      "1993": ["LF Hatch","LF Sedan","LF GS"],
+      "1994": ["LG Hatch","LG Sedan","LG GS","LG SRi"],
+      "1995": ["LG Hatch","LG Sedan","LG SRi"],
+      "1996": ["LG Hatch","LG Sedan"]
+    },
+    "Apollo": {
+      "1989": ["JK LE","JK GL","JK GLX"],
+      "1990": ["JK LE","JK GL","JK GLX"],
+      "1991": ["JL LE","JL GL","JL GLX"],
+      "1992": ["JL LE","JL GL","JL GLX"],
+      "1993": ["JM LE","JM GL","JM GLX"],
+      "1994": ["JM LE","JM GL","JM GLX"],
+      "1995": ["JM LE","JM GL","JM GLX"],
+      "1996": ["JM LE","JM GL"]
+    },
+    "Cascada": {
+      "2016": ["Standard"],
+      "2017": ["Standard"],
+      "2018": ["Standard"]
+    },
+    "Insignia": {
+      "2018": ["LT","LTZ"],
+      "2019": ["LT","LTZ"],
+      "2020": ["LT","LTZ"]
+    }
+  }
+}
