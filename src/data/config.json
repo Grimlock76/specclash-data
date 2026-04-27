@@ -1,0 +1,135 @@
+{
+  "labels": {
+    "en": "Engine",
+    "di": "Displacement",
+    "cy": "Cylinders",
+    "hp": "Horsepower",
+    "tq": "Torque",
+    "tx": "Transmission",
+    "dr": "Drivetrain",
+    "z1": "0-100 km/h",
+    "qm": "Quarter Mile",
+    "ts": "Top Speed",
+    "fc": "City L/100km",
+    "fh": "Hwy L/100km",
+    "fx": "Combined L/100km",
+    "ft": "Fuel Type",
+    "wt": "Kerb Weight",
+    "se": "Seating",
+    "ca": "Cargo",
+    "pr": "Price (new)"
+  },
+  "groups": [
+    {
+      "label": "ENGINE",
+      "keys": [
+        "en",
+        "di",
+        "cy",
+        "hp",
+        "tq",
+        "tx",
+        "dr"
+      ]
+    },
+    {
+      "label": "PERFORMANCE",
+      "keys": [
+        "z1",
+        "qm",
+        "ts"
+      ]
+    },
+    {
+      "label": "EFFICIENCY",
+      "keys": [
+        "fc",
+        "fh",
+        "fx",
+        "ft"
+      ]
+    },
+    {
+      "label": "DIMENSIONS",
+      "keys": [
+        "wt",
+        "se",
+        "ca"
+      ]
+    },
+    {
+      "label": "PRICING",
+      "keys": [
+        "pr"
+      ]
+    }
+  ],
+  "slotColors": [
+    "#C8F04A",
+    "#60C8FF",
+    "#FF7043",
+    "#B39DFF"
+  ],
+  "scoring": [
+    {
+      "key": "hp",
+      "label": "Power",
+      "higher": true,
+      "weight": 3
+    },
+    {
+      "key": "tq",
+      "label": "Torque",
+      "higher": true,
+      "weight": 2
+    },
+    {
+      "key": "z1",
+      "label": "0-100 km/h",
+      "higher": false,
+      "weight": 3
+    },
+    {
+      "key": "qm",
+      "label": "Quarter Mile",
+      "higher": false,
+      "weight": 2
+    },
+    {
+      "key": "ts",
+      "label": "Top Speed",
+      "higher": true,
+      "weight": 1
+    },
+    {
+      "key": "fc",
+      "label": "City Fuel",
+      "higher": false,
+      "weight": 1
+    },
+    {
+      "key": "fh",
+      "label": "Hwy Fuel",
+      "higher": false,
+      "weight": 1
+    },
+    {
+      "key": "fx",
+      "label": "Combined Fuel",
+      "higher": false,
+      "weight": 2
+    },
+    {
+      "key": "wt",
+      "label": "Weight",
+      "higher": false,
+      "weight": 1
+    },
+    {
+      "key": "pr",
+      "label": "Price",
+      "higher": false,
+      "weight": 1
+    }
+  ]
+}

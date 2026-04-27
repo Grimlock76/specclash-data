@@ -1,0 +1,421 @@
+[
+  {
+    "id": "ss-v-redline",
+    "match": ["SS V Redline", "SS V REDLINE"],
+    "title": "SS V Redline",
+    "base": "SS V",
+    "summary": "Track-focused pack over the SS V with enhanced chassis hardware.",
+    "highlights": [
+      "Magnetic Ride Control adaptive dampers (VF II)",
+      "Brembo 6-piston front / 4-piston rear brakes",
+      "Recaro sport seats with suede inserts",
+      "Unique Redline badging and exterior accents",
+      "Performance-tuned steering and suspension",
+      "Available in exclusive Redline colour palette"
+    ]
+  },
+  {
+    "id": "ss-black",
+    "match": ["SS Black"],
+    "title": "SS Black Edition",
+    "base": "SS",
+    "summary": "Visual appearance pack over the SS — same V8 hardware, blacked-out aesthetic.",
+    "highlights": [
+      "Gloss black exterior trim and body accents",
+      "19\" gloss black alloy wheels",
+      "Black roof rails (Sportwagon)",
+      "Black interior accents and badging",
+      "All standard SS mechanical and safety features"
+    ]
+  },
+  {
+    "id": "sv6-black",
+    "match": ["SV6 Black"],
+    "title": "SV6 Black Edition",
+    "base": "SV6",
+    "summary": "Appearance pack over the SV6 — blacked-out styling with a sport suspension tune.",
+    "highlights": [
+      "Gloss black exterior trim and grille surround",
+      "18\" gloss black alloy wheels",
+      "Black roof rails (Sportwagon)",
+      "Sport-tuned suspension (firmer than standard SV6)",
+      "Black interior trim accents",
+      "Same 3.6L LFX V6 drivetrain as standard SV6"
+    ]
+  },
+  {
+    "id": "ss-thunder",
+    "match": ["SS Thunder", "SS THUNDER"],
+    "title": "SS Thunder",
+    "base": "SS",
+    "summary": "Limited-run special edition with factory-fitted performance and appearance extras.",
+    "highlights": [
+      "HSV-developed sports exhaust system",
+      "Lowered sports suspension",
+      "19\" polished alloy wheels",
+      "Unique Thunder badging",
+      "Performance brake package",
+      "Available in exclusive Thunder colour options"
+    ]
+  },
+  {
+    "id": "sv6-storm",
+    "match": ["SV6 Storm", "Sportwagon Storm", "Storm"],
+    "title": "Storm Edition",
+    "base": "SV6",
+    "summary": "Limited appearance and handling special edition based on the SV6.",
+    "highlights": [
+      "Unique Storm exterior colour options (e.g. Storm Blue, Heron White)",
+      "Sport-tuned suspension over standard SV6",
+      "18\" alloy wheels with unique finish",
+      "Storm-specific badging and decals",
+      "Same 3.6L V6 drivetrain as standard SV6"
+    ]
+  },
+  {
+    "id": "ute-storm",
+    "match": ["Ute SS STORM", "Ute SV6 Storm"],
+    "title": "Ute Storm Edition",
+    "base": "SS / SV6 Ute",
+    "summary": "Appearance and handling special edition on the Commodore Ute.",
+    "highlights": [
+      "Unique Storm exterior colour options",
+      "Sport-tuned suspension",
+      "Unique alloy wheel finish",
+      "Storm-specific badging",
+      "Tub liner and sports bar included"
+    ]
+  },
+  {
+    "id": "hsv-gts",
+    "match": ["GTS"],
+    "title": "HSV GTS",
+    "base": "Clubsport R8",
+    "summary": "HSV's flagship sedan — the most powerful and feature-laden car in the range.",
+    "highlights": [
+      "LS9 supercharged V8 (Gen-F) or LSA (GEN-F2) — up to 430 kW",
+      "Magnetic Ride Control adaptive suspension",
+      "Brembo 6-piston Alcon front brakes",
+      "Recaro front seats with suede/leather",
+      "Unique GTS bodykit and 20\" alloys",
+      "HUD, premium Harman Kardon audio"
+    ]
+  },
+  {
+    "id": "hsv-clubsport-r8",
+    "match": ["Clubsport R8"],
+    "title": "HSV Clubsport R8",
+    "base": "Clubsport",
+    "summary": "HSV's core performance sedan with LS3 power and serious chassis upgrades.",
+    "highlights": [
+      "LS3 6.2L V8 (317–340 kW depending on year)",
+      "HSV-tuned Magnetic Ride Control (later models)",
+      "Brembo 6-piston front brakes",
+      "HSV sport suspension and steering tune",
+      "19\" forged alloy wheels",
+      "Recaro or sport bucket seats"
+    ]
+  },
+  {
+    "id": "hsv-clubsport",
+    "match": ["Clubsport"],
+    "title": "HSV Clubsport",
+    "base": "SS",
+    "summary": "HSV's entry performance variant with comprehensive factory modifications.",
+    "highlights": [
+      "HSV-tuned V8 engine (varied by series)",
+      "HSV sport suspension and steering tune",
+      "Larger Brembo brake package",
+      "HSV 18\"/19\" alloy wheels",
+      "Sport interior with HSV badging",
+      "Upgraded exhaust system"
+    ]
+  },
+  {
+    "id": "calais-v",
+    "match": ["Calais V"],
+    "title": "Calais V",
+    "base": "Calais",
+    "summary": "Top luxury trim with V8 power — combines the Calais luxury features with the SS drivetrain.",
+    "highlights": [
+      "6.0L / 6.2L V8 (LS2/LS3 depending on series)",
+      "All Calais luxury features",
+      "19\" alloy wheels (vs 18\" on Calais V6)",
+      "Brembo front brake upgrade",
+      "Heads-up display (VF)",
+      "Premium leather and wood-grain interior"
+    ]
+  },
+  {
+    "id": "calais",
+    "match": ["Calais"],
+    "title": "Calais",
+    "base": "Berlina",
+    "summary": "Flagship luxury grade with premium interior and technology features.",
+    "highlights": [
+      "3.6L V6 as standard (V8 on Calais V variant)",
+      "Leather-appointed seats",
+      "Dual-zone electronic climate control",
+      "Bose premium audio system",
+      "18\" alloy wheels",
+      "Parking sensors front and rear",
+      "Heads-up display (VF era)"
+    ]
+  },
+  {
+    "id": "ss-v",
+    "match": ["SS V"],
+    "title": "SS V",
+    "base": "SS",
+    "summary": "Enhanced SS with additional luxury and tech features over the base SS.",
+    "highlights": [
+      "All SS mechanical hardware",
+      "Leather seats standard",
+      "Sunroof",
+      "Premium audio upgrade",
+      "Additional driver assist features"
+    ]
+  },
+  {
+    "id": "ss",
+    "match": ["\\bSS\\b"],
+    "title": "SS",
+    "base": "SV6",
+    "summary": "Performance V8 variant with serious chassis, brake and drivetrain upgrades.",
+    "highlights": [
+      "6.0L L98 or 6.2L LS3 V8 (depending on year)",
+      "6-speed manual or auto transmission",
+      "Sports suspension and steering tune",
+      "Brembo front brake upgrade (larger rotors)",
+      "19\" alloy wheels (vs 18\" on SV6)",
+      "Leather seats",
+      "SS-specific bodykit and badging"
+    ]
+  },
+  {
+    "id": "sv6",
+    "match": ["\\bSV6\\b"],
+    "title": "SV6",
+    "base": "Berlina / Equipe",
+    "summary": "The sporty V6 grade — a step up from the base Omega/Evoke in equipment and dynamics.",
+    "highlights": [
+      "3.6L V6 Alloytec / LFX SIDI engine",
+      "6-speed automatic (5-speed on early VE)",
+      "Sport-tuned suspension vs Omega",
+      "18\" alloy wheels",
+      "Cloth/leather combination interior",
+      "Dual-zone climate control",
+      "MyLink / IQ infotainment (VE/VF era)",
+      "Rear parking sensors"
+    ]
+  },
+  {
+    "id": "berlina",
+    "match": ["Berlina"],
+    "title": "Berlina",
+    "base": "Omega / Evoke",
+    "summary": "Mid-grade variant adding comfort and convenience features over the base trim.",
+    "highlights": [
+      "Same drivetrain options as Omega",
+      "17\" alloy wheels (vs 16\" steelies on Omega)",
+      "Cruise control standard",
+      "Front and rear power windows",
+      "Enhanced audio system",
+      "Body-coloured exterior trim"
+    ]
+  },
+  {
+    "id": "equipe",
+    "match": ["Equipe"],
+    "title": "Equipe",
+    "base": "Evoke",
+    "summary": "VF mid-grade equivalent to the Berlina with additional comfort features.",
+    "highlights": [
+      "17\" alloy wheels",
+      "Cruise control",
+      "Rear parking sensors",
+      "Enhanced MyLink infotainment",
+      "Body-coloured exterior trim"
+    ]
+  },
+  {
+    "id": "omega-evoke",
+    "match": ["Omega", "Evoke"],
+    "title": "Omega / Evoke",
+    "base": "Base",
+    "summary": "Entry-level Commodore grade — no-frills specification with the full safety suite.",
+    "highlights": [
+      "3.0L / 3.6L V6 (year dependent)",
+      "16\" steel wheels (early) / 17\" alloys (later)",
+      "6 airbags standard",
+      "5-star ANCAP (VF era)",
+      "6-speed automatic",
+      "MyLink 7\" touchscreen (VF)"
+    ]
+  },
+  {
+    "id": "fpv-gt-e",
+    "match": ["GT-E"],
+    "title": "FPV GT-E",
+    "base": "GT",
+    "summary": "FPV's ultimate high-performance model with supercharged power.",
+    "highlights": [
+      "5.0L Boss 290 supercharged V8 — up to 362 kW",
+      "6-speed Tremec manual transmission",
+      "FPV Brembo 6-piston brakes",
+      "Bilstein suspension with FPV tune",
+      "20\" forged alloy wheels",
+      "Recaro sport seats"
+    ]
+  },
+  {
+    "id": "fpv-gt",
+    "match": ["FPV GT", "\\bGT\\b"],
+    "title": "FPV GT",
+    "base": "XR8",
+    "summary": "Ford Performance Vehicles' core performance model based on the Falcon platform.",
+    "highlights": [
+      "5.4L Boss 260 V8 / 5.0L Boss 290 (later)",
+      "FPV sport suspension and steering tune",
+      "Brembo 4-piston front brakes",
+      "19\" alloy wheels",
+      "Leather Recaro seats",
+      "FPV bodykit and badging"
+    ]
+  },
+  {
+    "id": "xr8",
+    "match": ["XR8"],
+    "title": "XR8",
+    "base": "XR6 Turbo",
+    "summary": "Ford's flagship performance V8 Falcon with the 5.4L Boss engine.",
+    "highlights": [
+      "5.4L Boss 260 V8 (260 kW / 490 Nm)",
+      "6-speed ZF automatic or 5-speed manual",
+      "Sports suspension and steering tune",
+      "Brembo front brakes",
+      "18\" alloy wheels",
+      "Leather sports seats"
+    ]
+  },
+  {
+    "id": "xr6-turbo",
+    "match": ["XR6 Turbo"],
+    "title": "XR6 Turbo",
+    "base": "XR6",
+    "summary": "Turbocharged inline-6 powerhouse — the benchmark of Australian performance value.",
+    "highlights": [
+      "4.0L Barra inline-6 with Garrett turbo",
+      "245–270 kW (depending on year and tune)",
+      "6-speed ZF auto or 5-speed manual",
+      "Sports suspension and steering tune",
+      "Brembo front brake upgrade",
+      "18\" alloy wheels",
+      "Leather sports seats"
+    ]
+  },
+  {
+    "id": "xr6",
+    "match": ["\\bXR6\\b"],
+    "title": "XR6",
+    "base": "Futura",
+    "summary": "Sports appearance and dynamics upgrade over the base Falcon range.",
+    "highlights": [
+      "4.0L Barra inline-6 (naturally aspirated)",
+      "Sport-tuned suspension",
+      "17\" alloy wheels",
+      "Sports front seats",
+      "Unique XR bodykit and badging"
+    ]
+  },
+  {
+    "id": "g6e-turbo",
+    "match": ["G6E Turbo"],
+    "title": "G6E Turbo",
+    "base": "G6E",
+    "summary": "Flagship luxury Falcon with turbocharged power — the XR6 Turbo in a suit.",
+    "highlights": [
+      "4.0L turbocharged Barra inline-6",
+      "245–270 kW (year dependent)",
+      "Premium leather interior",
+      "18\" alloy wheels",
+      "Xenon headlights",
+      "Premium audio and full tech pack"
+    ]
+  },
+  {
+    "id": "g6e",
+    "match": ["G6E"],
+    "title": "G6E",
+    "base": "G6",
+    "summary": "Top luxury Falcon grade with premium comfort and technology.",
+    "highlights": [
+      "4.0L naturally aspirated inline-6",
+      "Premium leather trim",
+      "Xenon headlights",
+      "Sunroof",
+      "Premium audio system",
+      "18\" alloy wheels"
+    ]
+  },
+  {
+    "id": "mustang-gt",
+    "match": ["Mustang GT", "GT Fastback", "GT Convertible"],
+    "title": "Mustang GT",
+    "base": "EcoBoost",
+    "summary": "The full V8 Mustang experience with the 5.0L Coyote engine.",
+    "highlights": [
+      "5.0L Coyote V8 — 306–339 kW (year dependent)",
+      "MagneRide adaptive suspension (Performance Pack)",
+      "Brembo 4-piston front brakes",
+      "19\" alloy wheels",
+      "Recaro sport seats (Performance Pack)",
+      "Launch Control and Line Lock (manual)"
+    ]
+  },
+  {
+    "id": "territory-tx",
+    "match": ["Territory TS", "Territory TX"],
+    "title": "Territory TS / TX",
+    "base": "Territory Base",
+    "summary": "Upper mid-grade Territory with comfort and towing upgrades.",
+    "highlights": [
+      "3.5L V6 (190 kW) standard",
+      "AWD available",
+      "Leather-appointed seats",
+      "7-seat configuration",
+      "Tow bar and trailer sway control",
+      "Premium audio"
+    ]
+  },
+  {
+    "id": "ranger-wildtrak",
+    "match": ["Wildtrak"],
+    "title": "Ranger Wildtrak",
+    "base": "XLT",
+    "summary": "Adventure-focused Ranger with rugged styling and off-road capability.",
+    "highlights": [
+      "Bi-turbo diesel (3.2L or 2.0L depending on gen)",
+      "Sport exterior styling pack",
+      "18\" alloy wheels",
+      "Sports bar and side steps standard",
+      "Off-road mode selector",
+      "Leather sports seats"
+    ]
+  },
+  {
+    "id": "ranger-raptor",
+    "match": ["Raptor"],
+    "title": "Ranger Raptor",
+    "base": "Wildtrak",
+    "summary": "Factory off-road performance truck with Fox suspension and a wide-track body.",
+    "highlights": [
+      "2.0L Bi-turbo diesel (156 kW) or 3.0L EcoBoost V6 (later gen)",
+      "Fox Racing 2.5\" position-sensitive bypass shocks",
+      "50 mm wider track with flared guards",
+      "Off-road 285/70 BFGoodrich All-Terrain tyres",
+      "Terrain Management System with Baja mode",
+      "Unique Raptor bodykit and 17\" alloys"
+    ]
+  }
+]
