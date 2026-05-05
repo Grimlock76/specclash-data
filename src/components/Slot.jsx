@@ -109,7 +109,7 @@ export default function Slot({ index, onResult, onClear }) {
       </div>
       {err && <p style={{ color: '#ff4444', fontSize: 12, marginTop: 6, lineHeight: 1.3 }}>{err}</p>}
       {ok  && <p style={{ color, fontSize: 12, marginTop: 6 }}>✓ Loaded</p>}
-      {ok  && <TrimBadge trim={trim} color={color} />}
+      {ok  && <TrimBadge trim={trim} make={make} color={color} />}
     </div>
   )
 }

@@ -14,7 +14,11 @@
       "seats": 4,
       "weight": 1060,
       "bodyStyle": "Coupe",
-      "price": "~$14,500"
+      "price": "~$14,500",
+      "cargo": 200,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|Silvia|1983|ZX": {
       "engine": "CA18E 1.8L SOHC I4",
@@ -30,7 +34,11 @@
       "seats": 4,
       "weight": 1040,
       "bodyStyle": "Coupe",
-      "price": "~$12,500"
+      "price": "~$12,500",
+      "cargo": 200,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|Silvia|1984|Turbo": {
       "engine": "CA18ET 1.8L SOHC Turbo I4",
@@ -46,7 +54,11 @@
       "seats": 4,
       "weight": 1060,
       "bodyStyle": "Coupe",
-      "price": "~$15,100"
+      "price": "~$15,100",
+      "cargo": 200,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|Silvia|1984|ZX": {
       "engine": "CA18E 1.8L SOHC I4",
@@ -62,7 +74,11 @@
       "seats": 4,
       "weight": 1040,
       "bodyStyle": "Coupe",
-      "price": "~$13,100"
+      "price": "~$13,100",
+      "cargo": 200,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|Silvia|1985|Turbo": {
       "engine": "CA18ET 1.8L SOHC Turbo I4",
@@ -78,7 +94,11 @@
       "seats": 4,
       "weight": 1060,
       "bodyStyle": "Coupe",
-      "price": "~$15,700"
+      "price": "~$15,700",
+      "cargo": 200,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|Silvia|1985|ZX": {
       "engine": "CA18E 1.8L SOHC I4",
@@ -94,7 +114,11 @@
       "seats": 4,
       "weight": 1040,
       "bodyStyle": "Coupe",
-      "price": "~$13,700"
+      "price": "~$13,700",
+      "cargo": 200,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|Silvia|1986|Turbo": {
       "engine": "CA18ET 1.8L SOHC Turbo I4",
@@ -110,7 +134,11 @@
       "seats": 4,
       "weight": 1060,
       "bodyStyle": "Coupe",
-      "price": "~$16,300"
+      "price": "~$16,300",
+      "cargo": 200,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|Silvia|1986|ZX": {
       "engine": "CA18E 1.8L SOHC I4",
@@ -126,7 +154,11 @@
       "seats": 4,
       "weight": 1040,
       "bodyStyle": "Coupe",
-      "price": "~$14,300"
+      "price": "~$14,300",
+      "cargo": 200,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|Silvia|1987|Turbo": {
       "engine": "CA18ET 1.8L SOHC Turbo I4",
@@ -142,7 +174,11 @@
       "seats": 4,
       "weight": 1060,
       "bodyStyle": "Coupe",
-      "price": "~$16,900"
+      "price": "~$16,900",
+      "cargo": 200,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|Silvia|1987|ZX": {
       "engine": "CA18E 1.8L SOHC I4",
@@ -158,7 +194,11 @@
       "seats": 4,
       "weight": 1040,
       "bodyStyle": "Coupe",
-      "price": "~$14,900"
+      "price": "~$14,900",
+      "cargo": 200,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|Silvia|1988|Turbo": {
       "engine": "CA18ET 1.8L SOHC Turbo I4",
@@ -174,7 +214,11 @@
       "seats": 4,
       "weight": 1060,
       "bodyStyle": "Coupe",
-      "price": "~$17,500"
+      "price": "~$17,500",
+      "cargo": 200,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|Silvia|1988|ZX": {
       "engine": "CA18E 1.8L SOHC I4",
@@ -190,7 +234,11 @@
       "seats": 4,
       "weight": 1040,
       "bodyStyle": "Coupe",
-      "price": "~$15,500"
+      "price": "~$15,500",
+      "cargo": 200,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|Silvia|1989|Q's": {
       "engine": "CA18DE 1.8L DOHC I4",
@@ -206,7 +254,11 @@
       "seats": 4,
       "weight": 1090,
       "bodyStyle": "Coupe",
-      "price": "~$22,000"
+      "price": "~$22,000",
+      "cargo": 200,
+      "acceleration": 9,
+      "topSpeed": 200,
+      "quarterMile": "~17.0 sec"
     },
     "Nissan|Silvia|1990|Q's": {
       "engine": "CA18DE 1.8L DOHC I4",
@@ -222,7 +274,11 @@
       "seats": 4,
       "weight": 1090,
       "bodyStyle": "Coupe",
-      "price": "~$23,500"
+      "price": "~$23,500",
+      "cargo": 200,
+      "acceleration": 9,
+      "topSpeed": 200,
+      "quarterMile": "~17.0 sec"
     },
     "Nissan|Silvia|1991|Q's": {
       "engine": "CA18DE 1.8L DOHC I4",
@@ -238,7 +294,11 @@
       "seats": 4,
       "weight": 1090,
       "bodyStyle": "Coupe",
-      "price": "~$25,000"
+      "price": "~$25,000",
+      "cargo": 200,
+      "acceleration": 9,
+      "topSpeed": 200,
+      "quarterMile": "~17.0 sec"
     },
     "Nissan|Silvia|1992|Q's": {
       "engine": "CA18DE 1.8L DOHC I4",
@@ -254,7 +314,11 @@
       "seats": 4,
       "weight": 1090,
       "bodyStyle": "Coupe",
-      "price": "~$26,500"
+      "price": "~$26,500",
+      "cargo": 200,
+      "acceleration": 9,
+      "topSpeed": 200,
+      "quarterMile": "~17.0 sec"
     },
     "Nissan|Silvia|1993|Q's": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -270,7 +334,11 @@
       "seats": 4,
       "weight": 1150,
       "bodyStyle": "Coupe",
-      "price": "~$33,500"
+      "price": "~$33,500",
+      "cargo": 200,
+      "acceleration": 9,
+      "topSpeed": 200,
+      "quarterMile": "~17.0 sec"
     },
     "Nissan|Silvia|1993|K's": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -286,7 +354,11 @@
       "seats": 4,
       "weight": 1185,
       "bodyStyle": "Coupe",
-      "price": "~$39,500"
+      "price": "~$39,500",
+      "cargo": 200,
+      "acceleration": 7.5,
+      "topSpeed": 220,
+      "quarterMile": "~15.5 sec"
     },
     "Nissan|Silvia|1994|Q's": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -302,7 +374,11 @@
       "seats": 4,
       "weight": 1150,
       "bodyStyle": "Coupe",
-      "price": "~$34,700"
+      "price": "~$34,700",
+      "cargo": 200,
+      "acceleration": 9,
+      "topSpeed": 200,
+      "quarterMile": "~17.0 sec"
     },
     "Nissan|Silvia|1994|K's": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -318,7 +394,11 @@
       "seats": 4,
       "weight": 1185,
       "bodyStyle": "Coupe",
-      "price": "~$40,700"
+      "price": "~$40,700",
+      "cargo": 200,
+      "acceleration": 7.5,
+      "topSpeed": 220,
+      "quarterMile": "~15.5 sec"
     },
     "Nissan|Silvia|1995|Q's": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -334,7 +414,11 @@
       "seats": 4,
       "weight": 1150,
       "bodyStyle": "Coupe",
-      "price": "~$35,900"
+      "price": "~$35,900",
+      "cargo": 200,
+      "acceleration": 9,
+      "topSpeed": 200,
+      "quarterMile": "~17.0 sec"
     },
     "Nissan|Silvia|1995|K's": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -350,7 +434,11 @@
       "seats": 4,
       "weight": 1185,
       "bodyStyle": "Coupe",
-      "price": "~$41,900"
+      "price": "~$41,900",
+      "cargo": 200,
+      "acceleration": 7.5,
+      "topSpeed": 220,
+      "quarterMile": "~15.5 sec"
     },
     "Nissan|Silvia|1996|Q's": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -366,7 +454,11 @@
       "seats": 4,
       "weight": 1150,
       "bodyStyle": "Coupe",
-      "price": "~$37,100"
+      "price": "~$37,100",
+      "cargo": 200,
+      "acceleration": 9,
+      "topSpeed": 200,
+      "quarterMile": "~17.0 sec"
     },
     "Nissan|Silvia|1996|K's": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -382,7 +474,11 @@
       "seats": 4,
       "weight": 1185,
       "bodyStyle": "Coupe",
-      "price": "~$43,100"
+      "price": "~$43,100",
+      "cargo": 200,
+      "acceleration": 7.5,
+      "topSpeed": 220,
+      "quarterMile": "~15.5 sec"
     },
     "Nissan|Silvia|1997|Q's": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -398,7 +494,11 @@
       "seats": 4,
       "weight": 1150,
       "bodyStyle": "Coupe",
-      "price": "~$38,300"
+      "price": "~$38,300",
+      "cargo": 200,
+      "acceleration": 9,
+      "topSpeed": 200,
+      "quarterMile": "~17.0 sec"
     },
     "Nissan|Silvia|1997|K's": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -414,7 +514,11 @@
       "seats": 4,
       "weight": 1185,
       "bodyStyle": "Coupe",
-      "price": "~$44,300"
+      "price": "~$44,300",
+      "cargo": 200,
+      "acceleration": 7.5,
+      "topSpeed": 220,
+      "quarterMile": "~15.5 sec"
     },
     "Nissan|Silvia|1998|Q's": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -430,7 +534,11 @@
       "seats": 4,
       "weight": 1150,
       "bodyStyle": "Coupe",
-      "price": "~$39,500"
+      "price": "~$39,500",
+      "cargo": 200,
+      "acceleration": 9,
+      "topSpeed": 200,
+      "quarterMile": "~17.0 sec"
     },
     "Nissan|Silvia|1998|K's": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -446,7 +554,11 @@
       "seats": 4,
       "weight": 1185,
       "bodyStyle": "Coupe",
-      "price": "~$45,500"
+      "price": "~$45,500",
+      "cargo": 200,
+      "acceleration": 7.5,
+      "topSpeed": 220,
+      "quarterMile": "~15.5 sec"
     },
     "Nissan|Silvia|1999|Spec-S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -462,7 +574,11 @@
       "seats": 4,
       "weight": 1170,
       "bodyStyle": "Coupe",
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "cargo": 200,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Silvia|1999|Spec-R": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -478,7 +594,11 @@
       "seats": 4,
       "weight": 1200,
       "bodyStyle": "Coupe",
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "cargo": 200,
+      "acceleration": 6.8,
+      "topSpeed": 230,
+      "quarterMile": "~14.8 sec"
     },
     "Nissan|Silvia|2000|Spec-S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -494,7 +614,11 @@
       "seats": 4,
       "weight": 1170,
       "bodyStyle": "Coupe",
-      "price": "~$40,800"
+      "price": "~$40,800",
+      "cargo": 200,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Silvia|2000|Spec-R": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -510,7 +634,11 @@
       "seats": 4,
       "weight": 1200,
       "bodyStyle": "Coupe",
-      "price": "~$45,800"
+      "price": "~$45,800",
+      "cargo": 200,
+      "acceleration": 6.8,
+      "topSpeed": 230,
+      "quarterMile": "~14.8 sec"
     },
     "Nissan|Silvia|2001|Spec-S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -526,7 +654,11 @@
       "seats": 4,
       "weight": 1170,
       "bodyStyle": "Coupe",
-      "price": "~$41,600"
+      "price": "~$41,600",
+      "cargo": 200,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Silvia|2001|Spec-R": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -542,7 +674,11 @@
       "seats": 4,
       "weight": 1200,
       "bodyStyle": "Coupe",
-      "price": "~$46,600"
+      "price": "~$46,600",
+      "cargo": 200,
+      "acceleration": 6.8,
+      "topSpeed": 230,
+      "quarterMile": "~14.8 sec"
     },
     "Nissan|Silvia|2002|Spec-S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -558,7 +694,11 @@
       "seats": 4,
       "weight": 1170,
       "bodyStyle": "Coupe",
-      "price": "~$42,400"
+      "price": "~$42,400",
+      "cargo": 200,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Silvia|2002|Spec-R": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -574,7 +714,11 @@
       "seats": 4,
       "weight": 1200,
       "bodyStyle": "Coupe",
-      "price": "~$47,400"
+      "price": "~$47,400",
+      "cargo": 200,
+      "acceleration": 6.8,
+      "topSpeed": 230,
+      "quarterMile": "~14.8 sec"
     },
     "Nissan|200SX|1989|Turbo": {
       "engine": "CA18DET 1.8L DOHC Turbo I4",
@@ -590,7 +734,11 @@
       "seats": 4,
       "weight": 1100,
       "bodyStyle": "Coupe",
-      "price": "~$27,000"
+      "price": "~$27,000",
+      "cargo": 210,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|200SX|1990|Turbo": {
       "engine": "CA18DET 1.8L DOHC Turbo I4",
@@ -606,7 +754,11 @@
       "seats": 4,
       "weight": 1100,
       "bodyStyle": "Coupe",
-      "price": "~$28,200"
+      "price": "~$28,200",
+      "cargo": 210,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|200SX|1991|Turbo": {
       "engine": "CA18DET 1.8L DOHC Turbo I4",
@@ -622,7 +774,11 @@
       "seats": 4,
       "weight": 1100,
       "bodyStyle": "Coupe",
-      "price": "~$29,400"
+      "price": "~$29,400",
+      "cargo": 210,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|200SX|1992|Turbo": {
       "engine": "CA18DET 1.8L DOHC Turbo I4",
@@ -638,7 +794,11 @@
       "seats": 4,
       "weight": 1100,
       "bodyStyle": "Coupe",
-      "price": "~$30,600"
+      "price": "~$30,600",
+      "cargo": 210,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|200SX|1993|Turbo": {
       "engine": "CA18DET 1.8L DOHC Turbo I4",
@@ -654,7 +814,11 @@
       "seats": 4,
       "weight": 1100,
       "bodyStyle": "Coupe",
-      "price": "~$31,800"
+      "price": "~$31,800",
+      "cargo": 210,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|200SX|1994|SR20DET": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -670,7 +834,11 @@
       "seats": 4,
       "weight": 1185,
       "bodyStyle": "Coupe",
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "cargo": 210,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|200SX|1995|SR20DET": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -686,7 +854,11 @@
       "seats": 4,
       "weight": 1185,
       "bodyStyle": "Coupe",
-      "price": "~$39,200"
+      "price": "~$39,200",
+      "cargo": 210,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|200SX|1996|SR20DET": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -702,7 +874,11 @@
       "seats": 4,
       "weight": 1185,
       "bodyStyle": "Coupe",
-      "price": "~$40,400"
+      "price": "~$40,400",
+      "cargo": 210,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|200SX|1997|SR20DET": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -718,7 +894,11 @@
       "seats": 4,
       "weight": 1185,
       "bodyStyle": "Coupe",
-      "price": "~$41,600"
+      "price": "~$41,600",
+      "cargo": 210,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|200SX|1998|SR20DET": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -734,7 +914,11 @@
       "seats": 4,
       "weight": 1185,
       "bodyStyle": "Coupe",
-      "price": "~$42,800"
+      "price": "~$42,800",
+      "cargo": 210,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.3 sec"
     },
     "Nissan|180SX|1989|Type X": {
       "engine": "CA18DET 1.8L DOHC Turbo I4",
@@ -750,7 +934,11 @@
       "seats": 4,
       "weight": 1100,
       "bodyStyle": "Coupe",
-      "price": "~$28,000"
+      "price": "~$28,000",
+      "cargo": 200,
+      "acceleration": 6.9,
+      "topSpeed": 225,
+      "quarterMile": "~15.0 sec"
     },
     "Nissan|180SX|1990|Type X": {
       "engine": "CA18DET 1.8L DOHC Turbo I4",
@@ -766,7 +954,11 @@
       "seats": 4,
       "weight": 1100,
       "bodyStyle": "Coupe",
-      "price": "~$29,500"
+      "price": "~$29,500",
+      "cargo": 200,
+      "acceleration": 6.9,
+      "topSpeed": 225,
+      "quarterMile": "~15.0 sec"
     },
     "Nissan|180SX|1991|Type X": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -782,7 +974,11 @@
       "seats": 4,
       "weight": 1130,
       "bodyStyle": "Coupe",
-      "price": "~$31,000"
+      "price": "~$31,000",
+      "cargo": 200,
+      "acceleration": 6.9,
+      "topSpeed": 225,
+      "quarterMile": "~15.0 sec"
     },
     "Nissan|180SX|1991|Type S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -798,7 +994,11 @@
       "seats": 4,
       "weight": 1100,
       "bodyStyle": "Coupe",
-      "price": "~$28,000"
+      "price": "~$28,000",
+      "cargo": 200,
+      "acceleration": 9,
+      "topSpeed": 200,
+      "quarterMile": "~17.0 sec"
     },
     "Nissan|180SX|1992|Type X": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -814,7 +1014,11 @@
       "seats": 4,
       "weight": 1130,
       "bodyStyle": "Coupe",
-      "price": "~$32,500"
+      "price": "~$32,500",
+      "cargo": 200,
+      "acceleration": 6.9,
+      "topSpeed": 225,
+      "quarterMile": "~15.0 sec"
     },
     "Nissan|180SX|1992|Type S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -830,7 +1034,11 @@
       "seats": 4,
       "weight": 1100,
       "bodyStyle": "Coupe",
-      "price": "~$29,500"
+      "price": "~$29,500",
+      "cargo": 200,
+      "acceleration": 9,
+      "topSpeed": 200,
+      "quarterMile": "~17.0 sec"
     },
     "Nissan|180SX|1993|Type X": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -846,7 +1054,11 @@
       "seats": 4,
       "weight": 1130,
       "bodyStyle": "Coupe",
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "cargo": 200,
+      "acceleration": 6.9,
+      "topSpeed": 225,
+      "quarterMile": "~15.0 sec"
     },
     "Nissan|180SX|1993|Type S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -862,7 +1074,11 @@
       "seats": 4,
       "weight": 1100,
       "bodyStyle": "Coupe",
-      "price": "~$31,000"
+      "price": "~$31,000",
+      "cargo": 200,
+      "acceleration": 9,
+      "topSpeed": 200,
+      "quarterMile": "~17.0 sec"
     },
     "Nissan|180SX|1994|Type X": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -878,7 +1094,11 @@
       "seats": 4,
       "weight": 1130,
       "bodyStyle": "Coupe",
-      "price": "~$35,500"
+      "price": "~$35,500",
+      "cargo": 200,
+      "acceleration": 6.9,
+      "topSpeed": 225,
+      "quarterMile": "~15.0 sec"
     },
     "Nissan|180SX|1994|Type S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -894,7 +1114,11 @@
       "seats": 4,
       "weight": 1100,
       "bodyStyle": "Coupe",
-      "price": "~$32,500"
+      "price": "~$32,500",
+      "cargo": 200,
+      "acceleration": 9,
+      "topSpeed": 200,
+      "quarterMile": "~17.0 sec"
     },
     "Nissan|180SX|1995|Type X": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -910,7 +1134,11 @@
       "seats": 4,
       "weight": 1130,
       "bodyStyle": "Coupe",
-      "price": "~$37,000"
+      "price": "~$37,000",
+      "cargo": 200,
+      "acceleration": 6.9,
+      "topSpeed": 225,
+      "quarterMile": "~15.0 sec"
     },
     "Nissan|180SX|1995|Type S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -926,7 +1154,11 @@
       "seats": 4,
       "weight": 1100,
       "bodyStyle": "Coupe",
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "cargo": 200,
+      "acceleration": 9,
+      "topSpeed": 200,
+      "quarterMile": "~17.0 sec"
     },
     "Nissan|180SX|1996|Type X": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -942,7 +1174,11 @@
       "seats": 4,
       "weight": 1130,
       "bodyStyle": "Coupe",
-      "price": "~$38,500"
+      "price": "~$38,500",
+      "cargo": 200,
+      "acceleration": 6.9,
+      "topSpeed": 225,
+      "quarterMile": "~15.0 sec"
     },
     "Nissan|180SX|1996|Type S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -958,7 +1194,11 @@
       "seats": 4,
       "weight": 1100,
       "bodyStyle": "Coupe",
-      "price": "~$35,500"
+      "price": "~$35,500",
+      "cargo": 200,
+      "acceleration": 9,
+      "topSpeed": 200,
+      "quarterMile": "~17.0 sec"
     },
     "Nissan|180SX|1997|Type X": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -974,7 +1214,11 @@
       "seats": 4,
       "weight": 1130,
       "bodyStyle": "Coupe",
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "cargo": 200,
+      "acceleration": 6.9,
+      "topSpeed": 225,
+      "quarterMile": "~15.0 sec"
     },
     "Nissan|180SX|1997|Type S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -990,7 +1234,11 @@
       "seats": 4,
       "weight": 1100,
       "bodyStyle": "Coupe",
-      "price": "~$37,000"
+      "price": "~$37,000",
+      "cargo": 200,
+      "acceleration": 9,
+      "topSpeed": 200,
+      "quarterMile": "~17.0 sec"
     },
     "Nissan|180SX|1998|Type X": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -1006,7 +1254,11 @@
       "seats": 4,
       "weight": 1130,
       "bodyStyle": "Coupe",
-      "price": "~$41,500"
+      "price": "~$41,500",
+      "cargo": 200,
+      "acceleration": 6.9,
+      "topSpeed": 225,
+      "quarterMile": "~15.0 sec"
     },
     "Nissan|180SX|1998|Type S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -1022,7 +1274,11 @@
       "seats": 4,
       "weight": 1100,
       "bodyStyle": "Coupe",
-      "price": "~$38,500"
+      "price": "~$38,500",
+      "cargo": 200,
+      "acceleration": 9,
+      "topSpeed": 200,
+      "quarterMile": "~17.0 sec"
     },
     "Nissan|240Z|1969|240Z": {
       "engine": "L24 2.4L SOHC I6",
@@ -1038,7 +1294,11 @@
       "seats": 2,
       "weight": 1000,
       "bodyStyle": "Coupe",
-      "price": "~$4,800"
+      "price": "~$4,800",
+      "cargo": 180,
+      "acceleration": 8,
+      "topSpeed": 205,
+      "quarterMile": "~16.0 sec"
     },
     "Nissan|240Z|1970|240Z": {
       "engine": "L24 2.4L SOHC I6",
@@ -1054,7 +1314,11 @@
       "seats": 2,
       "weight": 1000,
       "bodyStyle": "Coupe",
-      "price": "~$5,000"
+      "price": "~$5,000",
+      "cargo": 180,
+      "acceleration": 8,
+      "topSpeed": 205,
+      "quarterMile": "~16.0 sec"
     },
     "Nissan|240Z|1971|240Z": {
       "engine": "L24 2.4L SOHC I6",
@@ -1070,7 +1334,11 @@
       "seats": 2,
       "weight": 1000,
       "bodyStyle": "Coupe",
-      "price": "~$5,200"
+      "price": "~$5,200",
+      "cargo": 180,
+      "acceleration": 8,
+      "topSpeed": 205,
+      "quarterMile": "~16.0 sec"
     },
     "Nissan|240Z|1972|240Z": {
       "engine": "L24 2.4L SOHC I6",
@@ -1086,7 +1354,11 @@
       "seats": 2,
       "weight": 1000,
       "bodyStyle": "Coupe",
-      "price": "~$5,400"
+      "price": "~$5,400",
+      "cargo": 180,
+      "acceleration": 8,
+      "topSpeed": 205,
+      "quarterMile": "~16.0 sec"
     },
     "Nissan|240Z|1973|240Z": {
       "engine": "L24 2.4L SOHC I6",
@@ -1102,7 +1374,11 @@
       "seats": 2,
       "weight": 1000,
       "bodyStyle": "Coupe",
-      "price": "~$5,600"
+      "price": "~$5,600",
+      "cargo": 180,
+      "acceleration": 8,
+      "topSpeed": 205,
+      "quarterMile": "~16.0 sec"
     },
     "Nissan|280ZX|1978|280ZX": {
       "engine": "L28E 2.8L SOHC I6",
@@ -1118,7 +1394,11 @@
       "seats": 2,
       "weight": 1200,
       "bodyStyle": "Coupe",
-      "price": "~$12,000"
+      "price": "~$12,000",
+      "cargo": 175,
+      "acceleration": 10.5,
+      "topSpeed": 195,
+      "quarterMile": "~18.0 sec"
     },
     "Nissan|280ZX|1978|280ZX Turbo": {
       "engine": "L28ET 2.8L SOHC Turbo I6",
@@ -1134,7 +1414,11 @@
       "seats": 2,
       "weight": 1240,
       "bodyStyle": "Coupe",
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "cargo": 175,
+      "acceleration": 8.5,
+      "topSpeed": 215,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|280ZX|1979|280ZX": {
       "engine": "L28E 2.8L SOHC I6",
@@ -1150,7 +1434,11 @@
       "seats": 2,
       "weight": 1200,
       "bodyStyle": "Coupe",
-      "price": "~$12,600"
+      "price": "~$12,600",
+      "cargo": 175,
+      "acceleration": 10.5,
+      "topSpeed": 195,
+      "quarterMile": "~18.0 sec"
     },
     "Nissan|280ZX|1979|280ZX Turbo": {
       "engine": "L28ET 2.8L SOHC Turbo I6",
@@ -1166,7 +1454,11 @@
       "seats": 2,
       "weight": 1240,
       "bodyStyle": "Coupe",
-      "price": "~$15,600"
+      "price": "~$15,600",
+      "cargo": 175,
+      "acceleration": 8.5,
+      "topSpeed": 215,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|280ZX|1980|280ZX": {
       "engine": "L28E 2.8L SOHC I6",
@@ -1182,7 +1474,11 @@
       "seats": 2,
       "weight": 1200,
       "bodyStyle": "Coupe",
-      "price": "~$13,200"
+      "price": "~$13,200",
+      "cargo": 175,
+      "acceleration": 10.5,
+      "topSpeed": 195,
+      "quarterMile": "~18.0 sec"
     },
     "Nissan|280ZX|1980|280ZX Turbo": {
       "engine": "L28ET 2.8L SOHC Turbo I6",
@@ -1198,7 +1494,11 @@
       "seats": 2,
       "weight": 1240,
       "bodyStyle": "Coupe",
-      "price": "~$16,200"
+      "price": "~$16,200",
+      "cargo": 175,
+      "acceleration": 8.5,
+      "topSpeed": 215,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|280ZX|1981|280ZX": {
       "engine": "L28E 2.8L SOHC I6",
@@ -1214,7 +1514,11 @@
       "seats": 2,
       "weight": 1200,
       "bodyStyle": "Coupe",
-      "price": "~$13,800"
+      "price": "~$13,800",
+      "cargo": 175,
+      "acceleration": 10.5,
+      "topSpeed": 195,
+      "quarterMile": "~18.0 sec"
     },
     "Nissan|280ZX|1981|280ZX Turbo": {
       "engine": "L28ET 2.8L SOHC Turbo I6",
@@ -1230,7 +1534,11 @@
       "seats": 2,
       "weight": 1240,
       "bodyStyle": "Coupe",
-      "price": "~$16,800"
+      "price": "~$16,800",
+      "cargo": 175,
+      "acceleration": 8.5,
+      "topSpeed": 215,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|280ZX|1982|280ZX": {
       "engine": "L28E 2.8L SOHC I6",
@@ -1246,7 +1554,11 @@
       "seats": 2,
       "weight": 1200,
       "bodyStyle": "Coupe",
-      "price": "~$14,400"
+      "price": "~$14,400",
+      "cargo": 175,
+      "acceleration": 10.5,
+      "topSpeed": 195,
+      "quarterMile": "~18.0 sec"
     },
     "Nissan|280ZX|1982|280ZX Turbo": {
       "engine": "L28ET 2.8L SOHC Turbo I6",
@@ -1262,7 +1574,11 @@
       "seats": 2,
       "weight": 1240,
       "bodyStyle": "Coupe",
-      "price": "~$17,400"
+      "price": "~$17,400",
+      "cargo": 175,
+      "acceleration": 8.5,
+      "topSpeed": 215,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|280ZX|1983|280ZX": {
       "engine": "L28E 2.8L SOHC I6",
@@ -1278,7 +1594,11 @@
       "seats": 2,
       "weight": 1200,
       "bodyStyle": "Coupe",
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "cargo": 175,
+      "acceleration": 10.5,
+      "topSpeed": 195,
+      "quarterMile": "~18.0 sec"
     },
     "Nissan|280ZX|1983|280ZX Turbo": {
       "engine": "L28ET 2.8L SOHC Turbo I6",
@@ -1294,7 +1614,11 @@
       "seats": 2,
       "weight": 1240,
       "bodyStyle": "Coupe",
-      "price": "~$18,000"
+      "price": "~$18,000",
+      "cargo": 175,
+      "acceleration": 8.5,
+      "topSpeed": 215,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Stagea|1996|25RX": {
       "engine": "RB25DE 2.5L DOHC I6",
@@ -1310,7 +1634,11 @@
       "seats": 5,
       "weight": 1530,
       "bodyStyle": "Wagon",
-      "price": "~$37,000"
+      "price": "~$37,000",
+      "cargo": 800,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Stagea|1996|25RS": {
       "engine": "RB25DET 2.5L DOHC Turbo I6",
@@ -1326,7 +1654,11 @@
       "seats": 5,
       "weight": 1570,
       "bodyStyle": "Wagon",
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "cargo": 800,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Stagea|1997|25RX": {
       "engine": "RB25DE 2.5L DOHC I6",
@@ -1342,7 +1674,11 @@
       "seats": 5,
       "weight": 1530,
       "bodyStyle": "Wagon",
-      "price": "~$38,500"
+      "price": "~$38,500",
+      "cargo": 800,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Stagea|1997|25RS": {
       "engine": "RB25DET 2.5L DOHC Turbo I6",
@@ -1358,7 +1694,11 @@
       "seats": 5,
       "weight": 1570,
       "bodyStyle": "Wagon",
-      "price": "~$43,500"
+      "price": "~$43,500",
+      "cargo": 800,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Stagea|1998|25RX": {
       "engine": "RB25DE 2.5L DOHC I6",
@@ -1374,7 +1714,11 @@
       "seats": 5,
       "weight": 1530,
       "bodyStyle": "Wagon",
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "cargo": 800,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Stagea|1998|25RS": {
       "engine": "RB25DET 2.5L DOHC Turbo I6",
@@ -1390,7 +1734,11 @@
       "seats": 5,
       "weight": 1570,
       "bodyStyle": "Wagon",
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "cargo": 800,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Stagea|1999|25RX": {
       "engine": "RB25DE 2.5L DOHC I6",
@@ -1406,7 +1754,11 @@
       "seats": 5,
       "weight": 1530,
       "bodyStyle": "Wagon",
-      "price": "~$41,500"
+      "price": "~$41,500",
+      "cargo": 800,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Stagea|1999|25RS": {
       "engine": "RB25DET 2.5L DOHC Turbo I6",
@@ -1422,7 +1774,11 @@
       "seats": 5,
       "weight": 1570,
       "bodyStyle": "Wagon",
-      "price": "~$46,500"
+      "price": "~$46,500",
+      "cargo": 800,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Stagea|2000|25RX": {
       "engine": "RB25DE 2.5L DOHC I6",
@@ -1438,7 +1794,11 @@
       "seats": 5,
       "weight": 1530,
       "bodyStyle": "Wagon",
-      "price": "~$43,000"
+      "price": "~$43,000",
+      "cargo": 800,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Stagea|2000|25RS": {
       "engine": "RB25DET 2.5L DOHC Turbo I6",
@@ -1454,7 +1814,11 @@
       "seats": 5,
       "weight": 1570,
       "bodyStyle": "Wagon",
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "cargo": 800,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Stagea|2001|25RX": {
       "engine": "RB25DE 2.5L DOHC I6",
@@ -1470,7 +1834,11 @@
       "seats": 5,
       "weight": 1530,
       "bodyStyle": "Wagon",
-      "price": "~$44,500"
+      "price": "~$44,500",
+      "cargo": 800,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Stagea|2001|25RS": {
       "engine": "RB25DET 2.5L DOHC Turbo I6",
@@ -1486,7 +1854,11 @@
       "seats": 5,
       "weight": 1570,
       "bodyStyle": "Wagon",
-      "price": "~$49,500"
+      "price": "~$49,500",
+      "cargo": 800,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Stagea|2001|25X": {
       "engine": "VQ25DED 2.5L DOHC I6",
@@ -1502,7 +1874,11 @@
       "seats": 5,
       "weight": 1620,
       "bodyStyle": "Wagon",
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "cargo": 800,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Stagea|2001|250RS": {
       "engine": "VQ30DET 3.0L DOHC Turbo V6",
@@ -1518,7 +1894,11 @@
       "seats": 5,
       "weight": 1680,
       "bodyStyle": "Wagon",
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "cargo": 800,
+      "acceleration": 7.5,
+      "topSpeed": 230,
+      "quarterMile": "~15.8 sec"
     },
     "Nissan|Stagea|2002|25X": {
       "engine": "VQ25DED 2.5L DOHC I6",
@@ -1534,7 +1914,11 @@
       "seats": 5,
       "weight": 1620,
       "bodyStyle": "Wagon",
-      "price": "~$43,200"
+      "price": "~$43,200",
+      "cargo": 800,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Stagea|2002|250RS": {
       "engine": "VQ30DET 3.0L DOHC Turbo V6",
@@ -1550,7 +1934,11 @@
       "seats": 5,
       "weight": 1680,
       "bodyStyle": "Wagon",
-      "price": "~$53,200"
+      "price": "~$53,200",
+      "cargo": 800,
+      "acceleration": 7.5,
+      "topSpeed": 230,
+      "quarterMile": "~15.8 sec"
     },
     "Nissan|Stagea|2003|25X": {
       "engine": "VQ25DED 2.5L DOHC I6",
@@ -1566,7 +1954,11 @@
       "seats": 5,
       "weight": 1620,
       "bodyStyle": "Wagon",
-      "price": "~$44,400"
+      "price": "~$44,400",
+      "cargo": 800,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Stagea|2003|250RS": {
       "engine": "VQ30DET 3.0L DOHC Turbo V6",
@@ -1582,7 +1974,11 @@
       "seats": 5,
       "weight": 1680,
       "bodyStyle": "Wagon",
-      "price": "~$54,400"
+      "price": "~$54,400",
+      "cargo": 800,
+      "acceleration": 7.5,
+      "topSpeed": 230,
+      "quarterMile": "~15.8 sec"
     },
     "Nissan|Stagea|2004|25X": {
       "engine": "VQ25DED 2.5L DOHC I6",
@@ -1598,7 +1994,11 @@
       "seats": 5,
       "weight": 1620,
       "bodyStyle": "Wagon",
-      "price": "~$45,600"
+      "price": "~$45,600",
+      "cargo": 800,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Stagea|2004|250RS": {
       "engine": "VQ30DET 3.0L DOHC Turbo V6",
@@ -1614,7 +2014,11 @@
       "seats": 5,
       "weight": 1680,
       "bodyStyle": "Wagon",
-      "price": "~$55,600"
+      "price": "~$55,600",
+      "cargo": 800,
+      "acceleration": 7.5,
+      "topSpeed": 230,
+      "quarterMile": "~15.8 sec"
     },
     "Nissan|Stagea|2005|25X": {
       "engine": "VQ25DED 2.5L DOHC I6",
@@ -1630,7 +2034,11 @@
       "seats": 5,
       "weight": 1620,
       "bodyStyle": "Wagon",
-      "price": "~$46,800"
+      "price": "~$46,800",
+      "cargo": 800,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Stagea|2005|250RS": {
       "engine": "VQ30DET 3.0L DOHC Turbo V6",
@@ -1646,7 +2054,11 @@
       "seats": 5,
       "weight": 1680,
       "bodyStyle": "Wagon",
-      "price": "~$56,800"
+      "price": "~$56,800",
+      "cargo": 800,
+      "acceleration": 7.5,
+      "topSpeed": 230,
+      "quarterMile": "~15.8 sec"
     },
     "Nissan|Stagea|2006|25X": {
       "engine": "VQ25DED 2.5L DOHC I6",
@@ -1662,7 +2074,11 @@
       "seats": 5,
       "weight": 1620,
       "bodyStyle": "Wagon",
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "cargo": 800,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Stagea|2006|250RS": {
       "engine": "VQ30DET 3.0L DOHC Turbo V6",
@@ -1678,7 +2094,11 @@
       "seats": 5,
       "weight": 1680,
       "bodyStyle": "Wagon",
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "cargo": 800,
+      "acceleration": 7.5,
+      "topSpeed": 230,
+      "quarterMile": "~15.8 sec"
     },
     "Nissan|Stagea|2007|25X": {
       "engine": "VQ25DED 2.5L DOHC I6",
@@ -1694,7 +2114,11 @@
       "seats": 5,
       "weight": 1620,
       "bodyStyle": "Wagon",
-      "price": "~$49,200"
+      "price": "~$49,200",
+      "cargo": 800,
+      "acceleration": 8.5,
+      "topSpeed": 210,
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Stagea|2007|250RS": {
       "engine": "VQ30DET 3.0L DOHC Turbo V6",
@@ -1710,7 +2134,11 @@
       "seats": 5,
       "weight": 1680,
       "bodyStyle": "Wagon",
-      "price": "~$59,200"
+      "price": "~$59,200",
+      "cargo": 800,
+      "acceleration": 7.5,
+      "topSpeed": 230,
+      "quarterMile": "~15.8 sec"
     },
     "Nissan|Leaf|2012|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -1728,7 +2156,10 @@
       "seats": 5,
       "weight": 1476,
       "bodyStyle": "Hatch",
-      "price": "~$51,500"
+      "price": "~$51,500",
+      "cargo": 420,
+      "acceleration": 8.5,
+      "topSpeed": 144
     },
     "Nissan|Leaf|2012|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -1746,7 +2177,10 @@
       "seats": 5,
       "weight": 1476,
       "bodyStyle": "Hatch",
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "cargo": 420,
+      "acceleration": 7.9,
+      "topSpeed": 150
     },
     "Nissan|Leaf|2013|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -1764,7 +2198,10 @@
       "seats": 5,
       "weight": 1476,
       "bodyStyle": "Hatch",
-      "price": "~$49,500"
+      "price": "~$49,500",
+      "cargo": 420,
+      "acceleration": 8.5,
+      "topSpeed": 144
     },
     "Nissan|Leaf|2013|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -1782,7 +2219,10 @@
       "seats": 5,
       "weight": 1476,
       "bodyStyle": "Hatch",
-      "price": "~$53,000"
+      "price": "~$53,000",
+      "cargo": 420,
+      "acceleration": 7.9,
+      "topSpeed": 150
     },
     "Nissan|Leaf|2014|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -1800,7 +2240,10 @@
       "seats": 5,
       "weight": 1476,
       "bodyStyle": "Hatch",
-      "price": "~$47,500"
+      "price": "~$47,500",
+      "cargo": 420,
+      "acceleration": 8.5,
+      "topSpeed": 144
     },
     "Nissan|Leaf|2014|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -1818,7 +2261,10 @@
       "seats": 5,
       "weight": 1476,
       "bodyStyle": "Hatch",
-      "price": "~$51,000"
+      "price": "~$51,000",
+      "cargo": 420,
+      "acceleration": 7.9,
+      "topSpeed": 150
     },
     "Nissan|Leaf|2015|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -1836,7 +2282,10 @@
       "seats": 5,
       "weight": 1476,
       "bodyStyle": "Hatch",
-      "price": "~$45,500"
+      "price": "~$45,500",
+      "cargo": 420,
+      "acceleration": 8.5,
+      "topSpeed": 144
     },
     "Nissan|Leaf|2015|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -1854,7 +2303,10 @@
       "seats": 5,
       "weight": 1476,
       "bodyStyle": "Hatch",
-      "price": "~$49,000"
+      "price": "~$49,000",
+      "cargo": 420,
+      "acceleration": 7.9,
+      "topSpeed": 150
     },
     "Nissan|Leaf|2016|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -1872,7 +2324,10 @@
       "seats": 5,
       "weight": 1530,
       "bodyStyle": "Hatch",
-      "price": "~$40,990"
+      "price": "~$40,990",
+      "cargo": 420,
+      "acceleration": 8.5,
+      "topSpeed": 144
     },
     "Nissan|Leaf|2016|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -1890,7 +2345,10 @@
       "seats": 5,
       "weight": 1530,
       "bodyStyle": "Hatch",
-      "price": "~$44,490"
+      "price": "~$44,490",
+      "cargo": 420,
+      "acceleration": 7.9,
+      "topSpeed": 150
     },
     "Nissan|Leaf|2017|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -1908,7 +2366,10 @@
       "seats": 5,
       "weight": 1530,
       "bodyStyle": "Hatch",
-      "price": "~$41,990"
+      "price": "~$41,990",
+      "cargo": 420,
+      "acceleration": 8.5,
+      "topSpeed": 144
     },
     "Nissan|Leaf|2017|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -1926,7 +2387,10 @@
       "seats": 5,
       "weight": 1530,
       "bodyStyle": "Hatch",
-      "price": "~$45,490"
+      "price": "~$45,490",
+      "cargo": 420,
+      "acceleration": 7.9,
+      "topSpeed": 150
     },
     "Nissan|Leaf|2018|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -1944,7 +2408,10 @@
       "seats": 5,
       "weight": 1558,
       "bodyStyle": "Hatch",
-      "price": "~$49,990"
+      "price": "~$49,990",
+      "cargo": 420,
+      "acceleration": 8.5,
+      "topSpeed": 144
     },
     "Nissan|Leaf|2018|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -1962,7 +2429,10 @@
       "seats": 5,
       "weight": 1558,
       "bodyStyle": "Hatch",
-      "price": "~$53,990"
+      "price": "~$53,990",
+      "cargo": 420,
+      "acceleration": 7.9,
+      "topSpeed": 150
     },
     "Nissan|Leaf|2019|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -1980,7 +2450,10 @@
       "seats": 5,
       "weight": 1558,
       "bodyStyle": "Hatch",
-      "price": "~$50,690"
+      "price": "~$50,690",
+      "cargo": 420,
+      "acceleration": 8.5,
+      "topSpeed": 144
     },
     "Nissan|Leaf|2019|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -1998,7 +2471,10 @@
       "seats": 5,
       "weight": 1558,
       "bodyStyle": "Hatch",
-      "price": "~$54,690"
+      "price": "~$54,690",
+      "cargo": 420,
+      "acceleration": 7.9,
+      "topSpeed": 150
     },
     "Nissan|Leaf|2019|e+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2016,7 +2492,10 @@
       "seats": 5,
       "weight": 1695,
       "bodyStyle": "Hatch",
-      "price": "~$62,690"
+      "price": "~$62,690",
+      "cargo": 420,
+      "acceleration": 6.5,
+      "topSpeed": 157
     },
     "Nissan|Leaf|2020|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2034,7 +2513,10 @@
       "seats": 5,
       "weight": 1558,
       "bodyStyle": "Hatch",
-      "price": "~$51,390"
+      "price": "~$51,390",
+      "cargo": 420,
+      "acceleration": 8.5,
+      "topSpeed": 144
     },
     "Nissan|Leaf|2020|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2052,7 +2534,10 @@
       "seats": 5,
       "weight": 1558,
       "bodyStyle": "Hatch",
-      "price": "~$55,390"
+      "price": "~$55,390",
+      "cargo": 420,
+      "acceleration": 7.9,
+      "topSpeed": 150
     },
     "Nissan|Leaf|2020|e+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2070,7 +2555,10 @@
       "seats": 5,
       "weight": 1695,
       "bodyStyle": "Hatch",
-      "price": "~$63,390"
+      "price": "~$63,390",
+      "cargo": 420,
+      "acceleration": 6.5,
+      "topSpeed": 157
     },
     "Nissan|Leaf|2021|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2088,7 +2576,10 @@
       "seats": 5,
       "weight": 1558,
       "bodyStyle": "Hatch",
-      "price": "~$52,090"
+      "price": "~$52,090",
+      "cargo": 420,
+      "acceleration": 8.5,
+      "topSpeed": 144
     },
     "Nissan|Leaf|2021|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2106,7 +2597,10 @@
       "seats": 5,
       "weight": 1558,
       "bodyStyle": "Hatch",
-      "price": "~$56,090"
+      "price": "~$56,090",
+      "cargo": 420,
+      "acceleration": 7.9,
+      "topSpeed": 150
     },
     "Nissan|Leaf|2021|e+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2124,7 +2618,10 @@
       "seats": 5,
       "weight": 1695,
       "bodyStyle": "Hatch",
-      "price": "~$64,090"
+      "price": "~$64,090",
+      "cargo": 420,
+      "acceleration": 6.5,
+      "topSpeed": 157
     },
     "Nissan|Leaf|2022|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2142,7 +2639,10 @@
       "seats": 5,
       "weight": 1558,
       "bodyStyle": "Hatch",
-      "price": "~$52,790"
+      "price": "~$52,790",
+      "cargo": 420,
+      "acceleration": 8.5,
+      "topSpeed": 144
     },
     "Nissan|Leaf|2022|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2160,7 +2660,10 @@
       "seats": 5,
       "weight": 1558,
       "bodyStyle": "Hatch",
-      "price": "~$56,790"
+      "price": "~$56,790",
+      "cargo": 420,
+      "acceleration": 7.9,
+      "topSpeed": 150
     },
     "Nissan|Leaf|2022|e+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2178,7 +2681,10 @@
       "seats": 5,
       "weight": 1695,
       "bodyStyle": "Hatch",
-      "price": "~$64,790"
+      "price": "~$64,790",
+      "cargo": 420,
+      "acceleration": 6.5,
+      "topSpeed": 157
     },
     "Nissan|Leaf|2023|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2196,7 +2702,10 @@
       "seats": 5,
       "weight": 1558,
       "bodyStyle": "Hatch",
-      "price": "~$53,490"
+      "price": "~$53,490",
+      "cargo": 420,
+      "acceleration": 8.5,
+      "topSpeed": 144
     },
     "Nissan|Leaf|2023|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2214,7 +2723,10 @@
       "seats": 5,
       "weight": 1558,
       "bodyStyle": "Hatch",
-      "price": "~$57,490"
+      "price": "~$57,490",
+      "cargo": 420,
+      "acceleration": 7.9,
+      "topSpeed": 150
     },
     "Nissan|Leaf|2023|e+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2232,7 +2744,10 @@
       "seats": 5,
       "weight": 1695,
       "bodyStyle": "Hatch",
-      "price": "~$65,490"
+      "price": "~$65,490",
+      "cargo": 420,
+      "acceleration": 6.5,
+      "topSpeed": 157
     },
     "Nissan|Leaf|2024|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2250,7 +2765,10 @@
       "seats": 5,
       "weight": 1558,
       "bodyStyle": "Hatch",
-      "price": "~$54,190"
+      "price": "~$54,190",
+      "cargo": 420,
+      "acceleration": 8.5,
+      "topSpeed": 144
     },
     "Nissan|Leaf|2024|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2268,7 +2786,10 @@
       "seats": 5,
       "weight": 1558,
       "bodyStyle": "Hatch",
-      "price": "~$58,190"
+      "price": "~$58,190",
+      "cargo": 420,
+      "acceleration": 7.9,
+      "topSpeed": 150
     },
     "Nissan|Leaf|2024|e+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2286,7 +2807,10 @@
       "seats": 5,
       "weight": 1695,
       "bodyStyle": "Hatch",
-      "price": "~$66,190"
+      "price": "~$66,190",
+      "cargo": 420,
+      "acceleration": 6.5,
+      "topSpeed": 157
     },
     "Nissan|Leaf|2025|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2304,7 +2828,10 @@
       "seats": 5,
       "weight": 1558,
       "bodyStyle": "Hatch",
-      "price": "~$54,890"
+      "price": "~$54,890",
+      "cargo": 420,
+      "acceleration": 8.5,
+      "topSpeed": 144
     },
     "Nissan|Leaf|2025|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2322,7 +2849,10 @@
       "seats": 5,
       "weight": 1558,
       "bodyStyle": "Hatch",
-      "price": "~$58,890"
+      "price": "~$58,890",
+      "cargo": 420,
+      "acceleration": 7.9,
+      "topSpeed": 150
     },
     "Nissan|Leaf|2025|e+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2340,7 +2870,10 @@
       "seats": 5,
       "weight": 1695,
       "bodyStyle": "Hatch",
-      "price": "~$66,890"
+      "price": "~$66,890",
+      "cargo": 420,
+      "acceleration": 6.5,
+      "topSpeed": 157
     },
     "Nissan|Leaf|2026|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2358,7 +2891,10 @@
       "seats": 5,
       "weight": 1558,
       "bodyStyle": "Hatch",
-      "price": "~$55,590"
+      "price": "~$55,590",
+      "cargo": 420,
+      "acceleration": 8.5,
+      "topSpeed": 144
     },
     "Nissan|Leaf|2026|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2376,7 +2912,10 @@
       "seats": 5,
       "weight": 1558,
       "bodyStyle": "Hatch",
-      "price": "~$59,590"
+      "price": "~$59,590",
+      "cargo": 420,
+      "acceleration": 7.9,
+      "topSpeed": 150
     },
     "Nissan|Leaf|2026|e+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2394,7 +2933,10 @@
       "seats": 5,
       "weight": 1695,
       "bodyStyle": "Hatch",
-      "price": "~$67,590"
+      "price": "~$67,590",
+      "cargo": 420,
+      "acceleration": 6.5,
+      "topSpeed": 157
     },
     "Nissan|Kicks|2020|ST": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2410,7 +2952,11 @@
       "seats": 5,
       "weight": 1256,
       "bodyStyle": "SUV",
-      "price": "~$24,990"
+      "price": "~$24,990",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Kicks|2020|ST-L": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2426,7 +2972,11 @@
       "seats": 5,
       "weight": 1265,
       "bodyStyle": "SUV",
-      "price": "~$27,990"
+      "price": "~$27,990",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Kicks|2020|Ti": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2442,7 +2992,11 @@
       "seats": 5,
       "weight": 1270,
       "bodyStyle": "SUV",
-      "price": "~$31,990"
+      "price": "~$31,990",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Kicks|2021|ST": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2458,7 +3012,11 @@
       "seats": 5,
       "weight": 1256,
       "bodyStyle": "SUV",
-      "price": "~$25,690"
+      "price": "~$25,690",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Kicks|2021|ST-L": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2474,7 +3032,11 @@
       "seats": 5,
       "weight": 1265,
       "bodyStyle": "SUV",
-      "price": "~$28,690"
+      "price": "~$28,690",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Kicks|2021|Ti": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2490,7 +3052,11 @@
       "seats": 5,
       "weight": 1270,
       "bodyStyle": "SUV",
-      "price": "~$32,690"
+      "price": "~$32,690",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Kicks|2022|ST": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2506,7 +3072,11 @@
       "seats": 5,
       "weight": 1256,
       "bodyStyle": "SUV",
-      "price": "~$26,390"
+      "price": "~$26,390",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Kicks|2022|ST-L": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2522,7 +3092,11 @@
       "seats": 5,
       "weight": 1265,
       "bodyStyle": "SUV",
-      "price": "~$29,390"
+      "price": "~$29,390",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Kicks|2022|Ti": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2538,7 +3112,11 @@
       "seats": 5,
       "weight": 1270,
       "bodyStyle": "SUV",
-      "price": "~$33,390"
+      "price": "~$33,390",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Kicks|2023|ST": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2554,7 +3132,11 @@
       "seats": 5,
       "weight": 1256,
       "bodyStyle": "SUV",
-      "price": "~$27,090"
+      "price": "~$27,090",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Kicks|2023|ST-L": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2570,7 +3152,11 @@
       "seats": 5,
       "weight": 1265,
       "bodyStyle": "SUV",
-      "price": "~$30,090"
+      "price": "~$30,090",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Kicks|2023|Ti": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2586,7 +3172,11 @@
       "seats": 5,
       "weight": 1270,
       "bodyStyle": "SUV",
-      "price": "~$34,090"
+      "price": "~$34,090",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Kicks|2024|ST": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2602,7 +3192,11 @@
       "seats": 5,
       "weight": 1256,
       "bodyStyle": "SUV",
-      "price": "~$27,790"
+      "price": "~$27,790",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Kicks|2024|ST-L": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2618,7 +3212,11 @@
       "seats": 5,
       "weight": 1265,
       "bodyStyle": "SUV",
-      "price": "~$30,790"
+      "price": "~$30,790",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Kicks|2024|Ti": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2634,7 +3232,11 @@
       "seats": 5,
       "weight": 1270,
       "bodyStyle": "SUV",
-      "price": "~$34,790"
+      "price": "~$34,790",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Kicks|2025|ST": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2650,7 +3252,11 @@
       "seats": 5,
       "weight": 1256,
       "bodyStyle": "SUV",
-      "price": "~$28,490"
+      "price": "~$28,490",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Kicks|2025|ST-L": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2666,7 +3272,11 @@
       "seats": 5,
       "weight": 1265,
       "bodyStyle": "SUV",
-      "price": "~$31,490"
+      "price": "~$31,490",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Kicks|2025|Ti": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2682,7 +3292,11 @@
       "seats": 5,
       "weight": 1270,
       "bodyStyle": "SUV",
-      "price": "~$35,490"
+      "price": "~$35,490",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Kicks|2026|ST": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2698,7 +3312,11 @@
       "seats": 5,
       "weight": 1256,
       "bodyStyle": "SUV",
-      "price": "~$29,190"
+      "price": "~$29,190",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Kicks|2026|ST-L": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2714,7 +3332,11 @@
       "seats": 5,
       "weight": 1265,
       "bodyStyle": "SUV",
-      "price": "~$32,190"
+      "price": "~$32,190",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Kicks|2026|Ti": {
       "engine": "HR16DE 1.6L DOHC I4",
@@ -2730,7 +3352,11 @@
       "seats": 5,
       "weight": 1270,
       "bodyStyle": "SUV",
-      "price": "~$36,190"
+      "price": "~$36,190",
+      "cargo": 423,
+      "acceleration": 12.3,
+      "topSpeed": 165,
+      "quarterMile": "~18.5 sec"
     },
     "Nissan|Ariya|2022|Engage": {
       "engine": "AC Synchronous Motor FWD",
@@ -2748,7 +3374,10 @@
       "seats": 5,
       "weight": 1965,
       "bodyStyle": "SUV",
-      "price": "~$59,990"
+      "price": "~$59,990",
+      "cargo": 415,
+      "acceleration": 7.5,
+      "topSpeed": 160
     },
     "Nissan|Ariya|2022|Engage+": {
       "engine": "AC Synchronous Motor FWD",
@@ -2766,7 +3395,10 @@
       "seats": 5,
       "weight": 2080,
       "bodyStyle": "SUV",
-      "price": "~$71,990"
+      "price": "~$71,990",
+      "cargo": 415,
+      "acceleration": 7.5,
+      "topSpeed": 160
     },
     "Nissan|Ariya|2022|Engage+ e-4ORCE": {
       "engine": "Dual AC Synchronous Motor AWD",
@@ -2784,7 +3416,10 @@
       "seats": 5,
       "weight": 2230,
       "bodyStyle": "SUV",
-      "price": "~$81,990"
+      "price": "~$81,990",
+      "cargo": 415,
+      "acceleration": 5.7,
+      "topSpeed": 200
     },
     "Nissan|Ariya|2023|Engage": {
       "engine": "AC Synchronous Motor FWD",
@@ -2802,7 +3437,10 @@
       "seats": 5,
       "weight": 1965,
       "bodyStyle": "SUV",
-      "price": "~$61,490"
+      "price": "~$61,490",
+      "cargo": 415,
+      "acceleration": 7.5,
+      "topSpeed": 160
     },
     "Nissan|Ariya|2023|Engage+": {
       "engine": "AC Synchronous Motor FWD",
@@ -2820,7 +3458,10 @@
       "seats": 5,
       "weight": 2080,
       "bodyStyle": "SUV",
-      "price": "~$73,490"
+      "price": "~$73,490",
+      "cargo": 415,
+      "acceleration": 7.5,
+      "topSpeed": 160
     },
     "Nissan|Ariya|2023|Engage+ e-4ORCE": {
       "engine": "Dual AC Synchronous Motor AWD",
@@ -2838,7 +3479,10 @@
       "seats": 5,
       "weight": 2230,
       "bodyStyle": "SUV",
-      "price": "~$83,490"
+      "price": "~$83,490",
+      "cargo": 415,
+      "acceleration": 5.7,
+      "topSpeed": 200
     },
     "Nissan|Ariya|2024|Engage": {
       "engine": "AC Synchronous Motor FWD",
@@ -2856,7 +3500,10 @@
       "seats": 5,
       "weight": 1965,
       "bodyStyle": "SUV",
-      "price": "~$62,990"
+      "price": "~$62,990",
+      "cargo": 415,
+      "acceleration": 7.5,
+      "topSpeed": 160
     },
     "Nissan|Ariya|2024|Engage+": {
       "engine": "AC Synchronous Motor FWD",
@@ -2874,7 +3521,10 @@
       "seats": 5,
       "weight": 2080,
       "bodyStyle": "SUV",
-      "price": "~$74,990"
+      "price": "~$74,990",
+      "cargo": 415,
+      "acceleration": 7.5,
+      "topSpeed": 160
     },
     "Nissan|Ariya|2024|Engage+ e-4ORCE": {
       "engine": "Dual AC Synchronous Motor AWD",
@@ -2892,7 +3542,10 @@
       "seats": 5,
       "weight": 2230,
       "bodyStyle": "SUV",
-      "price": "~$84,990"
+      "price": "~$84,990",
+      "cargo": 415,
+      "acceleration": 5.7,
+      "topSpeed": 200
     },
     "Nissan|Ariya|2025|Engage": {
       "engine": "AC Synchronous Motor FWD",
@@ -2910,7 +3563,10 @@
       "seats": 5,
       "weight": 1965,
       "bodyStyle": "SUV",
-      "price": "~$64,490"
+      "price": "~$64,490",
+      "cargo": 415,
+      "acceleration": 7.5,
+      "topSpeed": 160
     },
     "Nissan|Ariya|2025|Engage+": {
       "engine": "AC Synchronous Motor FWD",
@@ -2928,7 +3584,10 @@
       "seats": 5,
       "weight": 2080,
       "bodyStyle": "SUV",
-      "price": "~$76,490"
+      "price": "~$76,490",
+      "cargo": 415,
+      "acceleration": 7.5,
+      "topSpeed": 160
     },
     "Nissan|Ariya|2025|Engage+ e-4ORCE": {
       "engine": "Dual AC Synchronous Motor AWD",
@@ -2946,7 +3605,10 @@
       "seats": 5,
       "weight": 2230,
       "bodyStyle": "SUV",
-      "price": "~$86,490"
+      "price": "~$86,490",
+      "cargo": 415,
+      "acceleration": 5.7,
+      "topSpeed": 200
     },
     "Nissan|Ariya|2026|Engage": {
       "engine": "AC Synchronous Motor FWD",
@@ -2964,7 +3626,10 @@
       "seats": 5,
       "weight": 1965,
       "bodyStyle": "SUV",
-      "price": "~$65,990"
+      "price": "~$65,990",
+      "cargo": 415,
+      "acceleration": 7.5,
+      "topSpeed": 160
     },
     "Nissan|Ariya|2026|Engage+": {
       "engine": "AC Synchronous Motor FWD",
@@ -2982,7 +3647,10 @@
       "seats": 5,
       "weight": 2080,
       "bodyStyle": "SUV",
-      "price": "~$77,990"
+      "price": "~$77,990",
+      "cargo": 415,
+      "acceleration": 7.5,
+      "topSpeed": 160
     },
     "Nissan|Ariya|2026|Engage+ e-4ORCE": {
       "engine": "Dual AC Synchronous Motor AWD",
@@ -3000,7 +3668,10 @@
       "seats": 5,
       "weight": 2230,
       "bodyStyle": "SUV",
-      "price": "~$87,990"
+      "price": "~$87,990",
+      "cargo": 415,
+      "acceleration": 5.7,
+      "topSpeed": 200
     },
     "Nissan|Juke|2022|ST": {
       "engine": "HR13DDT 1.3L DOHC Turbo I4",
@@ -3016,7 +3687,11 @@
       "seats": 5,
       "weight": 1269,
       "bodyStyle": "SUV",
-      "price": "~$32,990"
+      "price": "~$32,990",
+      "cargo": 354,
+      "acceleration": 10.3,
+      "topSpeed": 180,
+      "quarterMile": "~17.8 sec"
     },
     "Nissan|Juke|2022|ST-L": {
       "engine": "HR13DDT 1.3L DOHC Turbo I4",
@@ -3032,7 +3707,11 @@
       "seats": 5,
       "weight": 1272,
       "bodyStyle": "SUV",
-      "price": "~$36,990"
+      "price": "~$36,990",
+      "cargo": 354,
+      "acceleration": 10.3,
+      "topSpeed": 180,
+      "quarterMile": "~17.8 sec"
     },
     "Nissan|Juke|2023|ST": {
       "engine": "HR13DDT 1.3L DOHC Turbo I4",
@@ -3048,7 +3727,11 @@
       "seats": 5,
       "weight": 1269,
       "bodyStyle": "SUV",
-      "price": "~$33,790"
+      "price": "~$33,790",
+      "cargo": 354,
+      "acceleration": 10.3,
+      "topSpeed": 180,
+      "quarterMile": "~17.8 sec"
     },
     "Nissan|Juke|2023|ST-L": {
       "engine": "HR13DDT 1.3L DOHC Turbo I4",
@@ -3064,7 +3747,11 @@
       "seats": 5,
       "weight": 1272,
       "bodyStyle": "SUV",
-      "price": "~$37,790"
+      "price": "~$37,790",
+      "cargo": 354,
+      "acceleration": 10.3,
+      "topSpeed": 180,
+      "quarterMile": "~17.8 sec"
     },
     "Nissan|Juke|2024|ST": {
       "engine": "HR13DDT 1.3L DOHC Turbo I4",
@@ -3080,7 +3767,11 @@
       "seats": 5,
       "weight": 1269,
       "bodyStyle": "SUV",
-      "price": "~$34,590"
+      "price": "~$34,590",
+      "cargo": 354,
+      "acceleration": 10.3,
+      "topSpeed": 180,
+      "quarterMile": "~17.8 sec"
     },
     "Nissan|Juke|2024|ST-L": {
       "engine": "HR13DDT 1.3L DOHC Turbo I4",
@@ -3096,7 +3787,11 @@
       "seats": 5,
       "weight": 1272,
       "bodyStyle": "SUV",
-      "price": "~$38,590"
+      "price": "~$38,590",
+      "cargo": 354,
+      "acceleration": 10.3,
+      "topSpeed": 180,
+      "quarterMile": "~17.8 sec"
     },
     "Nissan|Juke|2025|ST": {
       "engine": "HR13DDT 1.3L DOHC Turbo I4",
@@ -3112,7 +3807,11 @@
       "seats": 5,
       "weight": 1269,
       "bodyStyle": "SUV",
-      "price": "~$35,390"
+      "price": "~$35,390",
+      "cargo": 354,
+      "acceleration": 10.3,
+      "topSpeed": 180,
+      "quarterMile": "~17.8 sec"
     },
     "Nissan|Juke|2025|ST-L": {
       "engine": "HR13DDT 1.3L DOHC Turbo I4",
@@ -3128,7 +3827,11 @@
       "seats": 5,
       "weight": 1272,
       "bodyStyle": "SUV",
-      "price": "~$39,390"
+      "price": "~$39,390",
+      "cargo": 354,
+      "acceleration": 10.3,
+      "topSpeed": 180,
+      "quarterMile": "~17.8 sec"
     },
     "Nissan|Juke|2026|ST": {
       "engine": "HR13DDT 1.3L DOHC Turbo I4",
@@ -3144,7 +3847,11 @@
       "seats": 5,
       "weight": 1269,
       "bodyStyle": "SUV",
-      "price": "~$36,190"
+      "price": "~$36,190",
+      "cargo": 354,
+      "acceleration": 10.3,
+      "topSpeed": 180,
+      "quarterMile": "~17.8 sec"
     },
     "Nissan|Juke|2026|ST-L": {
       "engine": "HR13DDT 1.3L DOHC Turbo I4",
@@ -3160,7 +3867,11 @@
       "seats": 5,
       "weight": 1272,
       "bodyStyle": "SUV",
-      "price": "~$40,190"
+      "price": "~$40,190",
+      "cargo": 354,
+      "acceleration": 10.3,
+      "topSpeed": 180,
+      "quarterMile": "~17.8 sec"
     }
   }
 }

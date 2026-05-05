@@ -14,7 +14,11 @@
       "weight": 1930,
       "bodyStyle": "SUV",
       "transmission": "6-speed manual",
-      "price": "~$39,990"
+      "price": "~$39,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2016|GLS": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -30,7 +34,11 @@
       "weight": 1960,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$50,990"
+      "price": "~$50,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2016|Exceed": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -46,7 +54,11 @@
       "weight": 1980,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$59,990"
+      "price": "~$59,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2017|GLX": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -62,7 +74,11 @@
       "weight": 1930,
       "bodyStyle": "SUV",
       "transmission": "6-speed manual",
-      "price": "~$40,790"
+      "price": "~$40,790",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2017|GLS": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -78,7 +94,11 @@
       "weight": 1960,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$51,790"
+      "price": "~$51,790",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2017|Exceed": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -94,7 +114,11 @@
       "weight": 1980,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$60,790"
+      "price": "~$60,790",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2018|GLX": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -110,7 +134,11 @@
       "weight": 1930,
       "bodyStyle": "SUV",
       "transmission": "6-speed manual",
-      "price": "~$41,590"
+      "price": "~$41,590",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2018|GLS": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -126,7 +154,11 @@
       "weight": 1960,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$52,590"
+      "price": "~$52,590",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2018|Exceed": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -142,7 +174,11 @@
       "weight": 1980,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$61,590"
+      "price": "~$61,590",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2019|GLX": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -158,7 +194,11 @@
       "weight": 1930,
       "bodyStyle": "SUV",
       "transmission": "6-speed manual",
-      "price": "~$42,390"
+      "price": "~$42,390",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2019|GLS": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -174,7 +214,11 @@
       "weight": 1960,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$53,390"
+      "price": "~$53,390",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2019|Exceed": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -190,7 +234,11 @@
       "weight": 1980,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$62,390"
+      "price": "~$62,390",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2020|GLX": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -206,7 +254,11 @@
       "weight": 1930,
       "bodyStyle": "SUV",
       "transmission": "6-speed manual",
-      "price": "~$43,990"
+      "price": "~$43,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2020|GLX+": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -222,7 +274,11 @@
       "weight": 1930,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$46,990"
+      "price": "~$46,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2020|GLS": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -238,7 +294,11 @@
       "weight": 1960,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$52,990"
+      "price": "~$52,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2020|Exceed": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -254,7 +314,11 @@
       "weight": 1980,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$62,990"
+      "price": "~$62,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2021|GLX": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -270,7 +334,11 @@
       "weight": 1930,
       "bodyStyle": "SUV",
       "transmission": "6-speed manual",
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2021|GLX+": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -286,7 +354,11 @@
       "weight": 1930,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$47,990"
+      "price": "~$47,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2021|GLS": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -302,7 +374,11 @@
       "weight": 1960,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$53,990"
+      "price": "~$53,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2021|Exceed": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -318,7 +394,11 @@
       "weight": 1980,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$63,990"
+      "price": "~$63,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2022|GLX": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -334,7 +414,11 @@
       "weight": 1930,
       "bodyStyle": "SUV",
       "transmission": "6-speed manual",
-      "price": "~$45,990"
+      "price": "~$45,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2022|GLX+": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -350,7 +434,11 @@
       "weight": 1930,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$48,990"
+      "price": "~$48,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2022|GLS": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -366,7 +454,11 @@
       "weight": 1960,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2022|Exceed": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -382,7 +474,11 @@
       "weight": 1980,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$64,990"
+      "price": "~$64,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2023|GLX": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -398,7 +494,11 @@
       "weight": 1930,
       "bodyStyle": "SUV",
       "transmission": "6-speed manual",
-      "price": "~$46,990"
+      "price": "~$46,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2023|GLX+": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -414,7 +514,11 @@
       "weight": 1930,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$49,990"
+      "price": "~$49,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2023|GLS": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -430,7 +534,11 @@
       "weight": 1960,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$55,990"
+      "price": "~$55,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2023|Exceed": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -446,7 +554,11 @@
       "weight": 1980,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$65,990"
+      "price": "~$65,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2024|GLX": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -462,7 +574,11 @@
       "weight": 1930,
       "bodyStyle": "SUV",
       "transmission": "6-speed manual",
-      "price": "~$47,990"
+      "price": "~$47,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2024|GLX+": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -478,7 +594,11 @@
       "weight": 1930,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$50,990"
+      "price": "~$50,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2024|GLS": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -494,7 +614,11 @@
       "weight": 1960,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$56,990"
+      "price": "~$56,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2024|Exceed": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -510,7 +634,11 @@
       "weight": 1980,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$66,990"
+      "price": "~$66,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2025|GLX": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -526,7 +654,11 @@
       "weight": 1930,
       "bodyStyle": "SUV",
       "transmission": "6-speed manual",
-      "price": "~$48,990"
+      "price": "~$48,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2025|GLX+": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -542,7 +674,11 @@
       "weight": 1930,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$51,990"
+      "price": "~$51,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2025|GLS": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -558,7 +694,11 @@
       "weight": 1960,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2025|Exceed": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -574,7 +714,11 @@
       "weight": 1980,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$67,990"
+      "price": "~$67,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2026|GLX": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -590,7 +734,11 @@
       "weight": 1930,
       "bodyStyle": "SUV",
       "transmission": "6-speed manual",
-      "price": "~$49,990"
+      "price": "~$49,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2026|GLX+": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -606,7 +754,11 @@
       "weight": 1930,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$52,990"
+      "price": "~$52,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2026|GLS": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -622,7 +774,11 @@
       "weight": 1960,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$58,990"
+      "price": "~$58,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Pajero Sport|2026|Exceed": {
       "engine": "4N15 2.4L DOHC MIVEC Diesel I4",
@@ -638,7 +794,11 @@
       "weight": 1980,
       "bodyStyle": "SUV",
       "transmission": "8-speed automatic",
-      "price": "~$68,990"
+      "price": "~$68,990",
+      "cargo": 505,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Lancer|2008|Ralliart": {
       "engine": "4B11 2.0L DOHC MIVEC Turbo I4",
@@ -654,7 +814,11 @@
       "seats": 5,
       "weight": 1465,
       "bodyStyle": "Sedan",
-      "price": "~$39,990"
+      "price": "~$39,990",
+      "cargo": 360,
+      "acceleration": 6.3,
+      "topSpeed": 240,
+      "quarterMile": "~14.6 sec"
     },
     "Mitsubishi|Lancer|2009|Ralliart": {
       "engine": "4B11 2.0L DOHC MIVEC Turbo I4",
@@ -670,7 +834,11 @@
       "seats": 5,
       "weight": 1465,
       "bodyStyle": "Sedan",
-      "price": "~$40,590"
+      "price": "~$40,590",
+      "cargo": 360,
+      "acceleration": 6.3,
+      "topSpeed": 240,
+      "quarterMile": "~14.6 sec"
     },
     "Mitsubishi|Lancer|2010|Ralliart": {
       "engine": "4B11 2.0L DOHC MIVEC Turbo I4",
@@ -686,7 +854,11 @@
       "seats": 5,
       "weight": 1465,
       "bodyStyle": "Sedan",
-      "price": "~$41,190"
+      "price": "~$41,190",
+      "cargo": 360,
+      "acceleration": 6.3,
+      "topSpeed": 240,
+      "quarterMile": "~14.6 sec"
     },
     "Mitsubishi|Lancer|2011|Ralliart": {
       "engine": "4B11 2.0L DOHC MIVEC Turbo I4",
@@ -702,7 +874,11 @@
       "seats": 5,
       "weight": 1465,
       "bodyStyle": "Sedan",
-      "price": "~$41,790"
+      "price": "~$41,790",
+      "cargo": 360,
+      "acceleration": 6.3,
+      "topSpeed": 240,
+      "quarterMile": "~14.6 sec"
     },
     "Mitsubishi|Lancer|2012|Ralliart": {
       "engine": "4B11 2.0L DOHC MIVEC Turbo I4",
@@ -718,7 +894,11 @@
       "seats": 5,
       "weight": 1465,
       "bodyStyle": "Sedan",
-      "price": "~$42,390"
+      "price": "~$42,390",
+      "cargo": 360,
+      "acceleration": 6.3,
+      "topSpeed": 240,
+      "quarterMile": "~14.6 sec"
     },
     "Mitsubishi|Lancer|2013|Ralliart": {
       "engine": "4B11 2.0L DOHC MIVEC Turbo I4",
@@ -734,7 +914,11 @@
       "seats": 5,
       "weight": 1465,
       "bodyStyle": "Sedan",
-      "price": "~$42,990"
+      "price": "~$42,990",
+      "cargo": 360,
+      "acceleration": 6.3,
+      "topSpeed": 240,
+      "quarterMile": "~14.6 sec"
     },
     "Mitsubishi|Lancer|2014|Ralliart": {
       "engine": "4B11 2.0L DOHC MIVEC Turbo I4",
@@ -750,7 +934,11 @@
       "seats": 5,
       "weight": 1465,
       "bodyStyle": "Sedan",
-      "price": "~$43,590"
+      "price": "~$43,590",
+      "cargo": 360,
+      "acceleration": 6.3,
+      "topSpeed": 240,
+      "quarterMile": "~14.6 sec"
     },
     "Mitsubishi|Lancer|2015|Ralliart": {
       "engine": "4B11 2.0L DOHC MIVEC Turbo I4",
@@ -766,7 +954,11 @@
       "seats": 5,
       "weight": 1465,
       "bodyStyle": "Sedan",
-      "price": "~$44,190"
+      "price": "~$44,190",
+      "cargo": 360,
+      "acceleration": 6.3,
+      "topSpeed": 240,
+      "quarterMile": "~14.6 sec"
     },
     "Mitsubishi|Lancer|2008|VRX Sportback": {
       "engine": "4B11 2.0L DOHC MIVEC I4",
@@ -782,7 +974,11 @@
       "seats": 5,
       "weight": 1360,
       "bodyStyle": "Hatch",
-      "price": "~$25,990"
+      "price": "~$25,990",
+      "cargo": 360,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.5 sec"
     },
     "Mitsubishi|Lancer|2009|VRX Sportback": {
       "engine": "4B11 2.0L DOHC MIVEC I4",
@@ -798,7 +994,11 @@
       "seats": 5,
       "weight": 1360,
       "bodyStyle": "Hatch",
-      "price": "~$26,590"
+      "price": "~$26,590",
+      "cargo": 360,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.5 sec"
     },
     "Mitsubishi|Lancer|2010|VRX Sportback": {
       "engine": "4B11 2.0L DOHC MIVEC I4",
@@ -814,7 +1014,11 @@
       "seats": 5,
       "weight": 1360,
       "bodyStyle": "Hatch",
-      "price": "~$27,190"
+      "price": "~$27,190",
+      "cargo": 360,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.5 sec"
     },
     "Mitsubishi|Lancer|2010|ES Sportback": {
       "engine": "4A91 1.5L DOHC MIVEC I4",
@@ -830,7 +1034,11 @@
       "seats": 5,
       "weight": 1260,
       "bodyStyle": "Hatch",
-      "price": "~$22,190"
+      "price": "~$22,190",
+      "cargo": 360,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.5 sec"
     },
     "Mitsubishi|Lancer|2011|VRX Sportback": {
       "engine": "4B11 2.0L DOHC MIVEC I4",
@@ -846,7 +1054,11 @@
       "seats": 5,
       "weight": 1360,
       "bodyStyle": "Hatch",
-      "price": "~$27,790"
+      "price": "~$27,790",
+      "cargo": 360,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.5 sec"
     },
     "Mitsubishi|Lancer|2011|ES Sportback": {
       "engine": "4A91 1.5L DOHC MIVEC I4",
@@ -862,7 +1074,11 @@
       "seats": 5,
       "weight": 1260,
       "bodyStyle": "Hatch",
-      "price": "~$22,790"
+      "price": "~$22,790",
+      "cargo": 360,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.5 sec"
     },
     "Mitsubishi|Lancer|2012|VRX Sportback": {
       "engine": "4B11 2.0L DOHC MIVEC I4",
@@ -878,7 +1094,11 @@
       "seats": 5,
       "weight": 1360,
       "bodyStyle": "Hatch",
-      "price": "~$28,390"
+      "price": "~$28,390",
+      "cargo": 360,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.5 sec"
     },
     "Mitsubishi|Lancer|2012|ES Sportback": {
       "engine": "4A91 1.5L DOHC MIVEC I4",
@@ -894,7 +1114,11 @@
       "seats": 5,
       "weight": 1260,
       "bodyStyle": "Hatch",
-      "price": "~$23,390"
+      "price": "~$23,390",
+      "cargo": 360,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.5 sec"
     },
     "Mitsubishi|Lancer|2013|VRX Sportback": {
       "engine": "4B11 2.0L DOHC MIVEC I4",
@@ -910,7 +1134,11 @@
       "seats": 5,
       "weight": 1360,
       "bodyStyle": "Hatch",
-      "price": "~$28,990"
+      "price": "~$28,990",
+      "cargo": 360,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.5 sec"
     },
     "Mitsubishi|Lancer|2013|ES Sportback": {
       "engine": "4A91 1.5L DOHC MIVEC I4",
@@ -926,7 +1154,11 @@
       "seats": 5,
       "weight": 1260,
       "bodyStyle": "Hatch",
-      "price": "~$23,990"
+      "price": "~$23,990",
+      "cargo": 360,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.5 sec"
     },
     "Mitsubishi|Lancer|2014|VRX Sportback": {
       "engine": "4B11 2.0L DOHC MIVEC I4",
@@ -942,7 +1174,11 @@
       "seats": 5,
       "weight": 1360,
       "bodyStyle": "Hatch",
-      "price": "~$29,590"
+      "price": "~$29,590",
+      "cargo": 360,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.5 sec"
     },
     "Mitsubishi|Lancer|2014|ES Sportback": {
       "engine": "4A91 1.5L DOHC MIVEC I4",
@@ -958,7 +1194,11 @@
       "seats": 5,
       "weight": 1260,
       "bodyStyle": "Hatch",
-      "price": "~$24,590"
+      "price": "~$24,590",
+      "cargo": 360,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.5 sec"
     },
     "Mitsubishi|Lancer|2015|VRX Sportback": {
       "engine": "4B11 2.0L DOHC MIVEC I4",
@@ -974,7 +1214,11 @@
       "seats": 5,
       "weight": 1360,
       "bodyStyle": "Hatch",
-      "price": "~$30,190"
+      "price": "~$30,190",
+      "cargo": 360,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.5 sec"
     },
     "Mitsubishi|Lancer|2015|ES Sportback": {
       "engine": "4A91 1.5L DOHC MIVEC I4",
@@ -990,7 +1234,11 @@
       "seats": 5,
       "weight": 1260,
       "bodyStyle": "Hatch",
-      "price": "~$25,190"
+      "price": "~$25,190",
+      "cargo": 360,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.5 sec"
     },
     "Mitsubishi|Lancer|2016|VRX Sportback": {
       "engine": "4B11 2.0L DOHC MIVEC I4",
@@ -1006,7 +1254,11 @@
       "seats": 5,
       "weight": 1360,
       "bodyStyle": "Hatch",
-      "price": "~$30,790"
+      "price": "~$30,790",
+      "cargo": 360,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.5 sec"
     },
     "Mitsubishi|Lancer|2016|ES Sportback": {
       "engine": "4A91 1.5L DOHC MIVEC I4",
@@ -1022,7 +1274,11 @@
       "seats": 5,
       "weight": 1260,
       "bodyStyle": "Hatch",
-      "price": "~$25,790"
+      "price": "~$25,790",
+      "cargo": 360,
+      "acceleration": 9.5,
+      "topSpeed": 195,
+      "quarterMile": "~17.5 sec"
     },
     "Mitsubishi|Colt|2004|1.5": {
       "engine": "4A91 1.5L DOHC MIVEC I4",
@@ -1038,7 +1294,11 @@
       "seats": 5,
       "weight": 1050,
       "bodyStyle": "Hatch",
-      "price": "~$17,990"
+      "price": "~$17,990",
+      "cargo": 275,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Colt|2004|CZT": {
       "engine": "4G15T 1.5L SOHC Turbo I4",
@@ -1054,7 +1314,11 @@
       "seats": 5,
       "weight": 1060,
       "bodyStyle": "Hatch",
-      "price": "~$21,990"
+      "price": "~$21,990",
+      "cargo": 275,
+      "acceleration": 8,
+      "topSpeed": 195,
+      "quarterMile": "~16.3 sec"
     },
     "Mitsubishi|Colt|2005|1.5": {
       "engine": "4A91 1.5L DOHC MIVEC I4",
@@ -1070,7 +1334,11 @@
       "seats": 5,
       "weight": 1050,
       "bodyStyle": "Hatch",
-      "price": "~$18,590"
+      "price": "~$18,590",
+      "cargo": 275,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Colt|2005|CZT": {
       "engine": "4G15T 1.5L SOHC Turbo I4",
@@ -1086,7 +1354,11 @@
       "seats": 5,
       "weight": 1060,
       "bodyStyle": "Hatch",
-      "price": "~$22,590"
+      "price": "~$22,590",
+      "cargo": 275,
+      "acceleration": 8,
+      "topSpeed": 195,
+      "quarterMile": "~16.3 sec"
     },
     "Mitsubishi|Colt|2006|1.5": {
       "engine": "4A91 1.5L DOHC MIVEC I4",
@@ -1102,7 +1374,11 @@
       "seats": 5,
       "weight": 1050,
       "bodyStyle": "Hatch",
-      "price": "~$19,190"
+      "price": "~$19,190",
+      "cargo": 275,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Colt|2006|CZT": {
       "engine": "4G15T 1.5L SOHC Turbo I4",
@@ -1118,7 +1394,11 @@
       "seats": 5,
       "weight": 1060,
       "bodyStyle": "Hatch",
-      "price": "~$23,190"
+      "price": "~$23,190",
+      "cargo": 275,
+      "acceleration": 8,
+      "topSpeed": 195,
+      "quarterMile": "~16.3 sec"
     },
     "Mitsubishi|Colt|2007|1.5": {
       "engine": "4A91 1.5L DOHC MIVEC I4",
@@ -1134,7 +1414,11 @@
       "seats": 5,
       "weight": 1050,
       "bodyStyle": "Hatch",
-      "price": "~$19,790"
+      "price": "~$19,790",
+      "cargo": 275,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Colt|2007|CZT": {
       "engine": "4G15T 1.5L SOHC Turbo I4",
@@ -1150,7 +1434,11 @@
       "seats": 5,
       "weight": 1060,
       "bodyStyle": "Hatch",
-      "price": "~$23,790"
+      "price": "~$23,790",
+      "cargo": 275,
+      "acceleration": 8,
+      "topSpeed": 195,
+      "quarterMile": "~16.3 sec"
     },
     "Mitsubishi|Colt|2008|1.5": {
       "engine": "4A91 1.5L DOHC MIVEC I4",
@@ -1166,7 +1454,11 @@
       "seats": 5,
       "weight": 1050,
       "bodyStyle": "Hatch",
-      "price": "~$20,390"
+      "price": "~$20,390",
+      "cargo": 275,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Colt|2008|CZT": {
       "engine": "4G15T 1.5L SOHC Turbo I4",
@@ -1182,7 +1474,11 @@
       "seats": 5,
       "weight": 1060,
       "bodyStyle": "Hatch",
-      "price": "~$24,390"
+      "price": "~$24,390",
+      "cargo": 275,
+      "acceleration": 8,
+      "topSpeed": 195,
+      "quarterMile": "~16.3 sec"
     },
     "Mitsubishi|Colt|2009|1.5": {
       "engine": "4A91 1.5L DOHC MIVEC I4",
@@ -1198,7 +1494,11 @@
       "seats": 5,
       "weight": 1050,
       "bodyStyle": "Hatch",
-      "price": "~$20,990"
+      "price": "~$20,990",
+      "cargo": 275,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Colt|2009|CZT": {
       "engine": "4G15T 1.5L SOHC Turbo I4",
@@ -1214,7 +1514,11 @@
       "seats": 5,
       "weight": 1060,
       "bodyStyle": "Hatch",
-      "price": "~$24,990"
+      "price": "~$24,990",
+      "cargo": 275,
+      "acceleration": 8,
+      "topSpeed": 195,
+      "quarterMile": "~16.3 sec"
     },
     "Mitsubishi|Colt|2010|1.5": {
       "engine": "4A91 1.5L DOHC MIVEC I4",
@@ -1230,7 +1534,11 @@
       "seats": 5,
       "weight": 1050,
       "bodyStyle": "Hatch",
-      "price": "~$21,590"
+      "price": "~$21,590",
+      "cargo": 275,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Colt|2010|CZT": {
       "engine": "4G15T 1.5L SOHC Turbo I4",
@@ -1246,7 +1554,11 @@
       "seats": 5,
       "weight": 1060,
       "bodyStyle": "Hatch",
-      "price": "~$25,590"
+      "price": "~$25,590",
+      "cargo": 275,
+      "acceleration": 8,
+      "topSpeed": 195,
+      "quarterMile": "~16.3 sec"
     },
     "Mitsubishi|Colt|2011|1.5": {
       "engine": "4A91 1.5L DOHC MIVEC I4",
@@ -1262,7 +1574,11 @@
       "seats": 5,
       "weight": 1050,
       "bodyStyle": "Hatch",
-      "price": "~$22,190"
+      "price": "~$22,190",
+      "cargo": 275,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Colt|2011|CZT": {
       "engine": "4G15T 1.5L SOHC Turbo I4",
@@ -1278,7 +1594,11 @@
       "seats": 5,
       "weight": 1060,
       "bodyStyle": "Hatch",
-      "price": "~$26,190"
+      "price": "~$26,190",
+      "cargo": 275,
+      "acceleration": 8,
+      "topSpeed": 195,
+      "quarterMile": "~16.3 sec"
     },
     "Mitsubishi|Colt|2012|1.5": {
       "engine": "4A91 1.5L DOHC MIVEC I4",
@@ -1294,7 +1614,11 @@
       "seats": 5,
       "weight": 1050,
       "bodyStyle": "Hatch",
-      "price": "~$22,790"
+      "price": "~$22,790",
+      "cargo": 275,
+      "acceleration": 10.5,
+      "topSpeed": 175,
+      "quarterMile": "~18.0 sec"
     },
     "Mitsubishi|Colt|2012|CZT": {
       "engine": "4G15T 1.5L SOHC Turbo I4",
@@ -1310,7 +1634,11 @@
       "seats": 5,
       "weight": 1060,
       "bodyStyle": "Hatch",
-      "price": "~$26,790"
+      "price": "~$26,790",
+      "cargo": 275,
+      "acceleration": 8,
+      "topSpeed": 195,
+      "quarterMile": "~16.3 sec"
     },
     "Mitsubishi|Grandis|2004|Grandis": {
       "engine": "4G69 2.4L SOHC MIVEC I4",
@@ -1326,7 +1654,11 @@
       "seats": 7,
       "weight": 1680,
       "bodyStyle": "Van",
-      "price": "~$29,990"
+      "price": "~$29,990",
+      "cargo": 130,
+      "acceleration": 11.5,
+      "topSpeed": 180,
+      "quarterMile": "~18.8 sec"
     },
     "Mitsubishi|Grandis|2005|Grandis": {
       "engine": "4G69 2.4L SOHC MIVEC I4",
@@ -1342,7 +1674,11 @@
       "seats": 7,
       "weight": 1680,
       "bodyStyle": "Van",
-      "price": "~$30,890"
+      "price": "~$30,890",
+      "cargo": 130,
+      "acceleration": 11.5,
+      "topSpeed": 180,
+      "quarterMile": "~18.8 sec"
     },
     "Mitsubishi|Grandis|2006|Grandis": {
       "engine": "4G69 2.4L SOHC MIVEC I4",
@@ -1358,7 +1694,11 @@
       "seats": 7,
       "weight": 1680,
       "bodyStyle": "Van",
-      "price": "~$31,790"
+      "price": "~$31,790",
+      "cargo": 130,
+      "acceleration": 11.5,
+      "topSpeed": 180,
+      "quarterMile": "~18.8 sec"
     },
     "Mitsubishi|Grandis|2006|VR-X": {
       "engine": "4G69 2.4L SOHC MIVEC I4",
@@ -1374,7 +1714,11 @@
       "seats": 7,
       "weight": 1690,
       "bodyStyle": "Van",
-      "price": "~$36,790"
+      "price": "~$36,790",
+      "cargo": 130,
+      "acceleration": 11.5,
+      "topSpeed": 180,
+      "quarterMile": "~18.8 sec"
     },
     "Mitsubishi|Grandis|2007|Grandis": {
       "engine": "4G69 2.4L SOHC MIVEC I4",
@@ -1390,7 +1734,11 @@
       "seats": 7,
       "weight": 1680,
       "bodyStyle": "Van",
-      "price": "~$32,690"
+      "price": "~$32,690",
+      "cargo": 130,
+      "acceleration": 11.5,
+      "topSpeed": 180,
+      "quarterMile": "~18.8 sec"
     },
     "Mitsubishi|Grandis|2007|VR-X": {
       "engine": "4G69 2.4L SOHC MIVEC I4",
@@ -1406,7 +1754,11 @@
       "seats": 7,
       "weight": 1690,
       "bodyStyle": "Van",
-      "price": "~$37,690"
+      "price": "~$37,690",
+      "cargo": 130,
+      "acceleration": 11.5,
+      "topSpeed": 180,
+      "quarterMile": "~18.8 sec"
     },
     "Mitsubishi|Grandis|2008|Grandis": {
       "engine": "4G69 2.4L SOHC MIVEC I4",
@@ -1422,7 +1774,11 @@
       "seats": 7,
       "weight": 1680,
       "bodyStyle": "Van",
-      "price": "~$33,590"
+      "price": "~$33,590",
+      "cargo": 130,
+      "acceleration": 11.5,
+      "topSpeed": 180,
+      "quarterMile": "~18.8 sec"
     },
     "Mitsubishi|Grandis|2008|VR-X": {
       "engine": "4G69 2.4L SOHC MIVEC I4",
@@ -1438,7 +1794,11 @@
       "seats": 7,
       "weight": 1690,
       "bodyStyle": "Van",
-      "price": "~$38,590"
+      "price": "~$38,590",
+      "cargo": 130,
+      "acceleration": 11.5,
+      "topSpeed": 180,
+      "quarterMile": "~18.8 sec"
     },
     "Mitsubishi|Grandis|2009|Grandis": {
       "engine": "4G69 2.4L SOHC MIVEC I4",
@@ -1454,7 +1814,11 @@
       "seats": 7,
       "weight": 1680,
       "bodyStyle": "Van",
-      "price": "~$34,490"
+      "price": "~$34,490",
+      "cargo": 130,
+      "acceleration": 11.5,
+      "topSpeed": 180,
+      "quarterMile": "~18.8 sec"
     },
     "Mitsubishi|Grandis|2009|VR-X": {
       "engine": "4G69 2.4L SOHC MIVEC I4",
@@ -1470,7 +1834,11 @@
       "seats": 7,
       "weight": 1690,
       "bodyStyle": "Van",
-      "price": "~$39,490"
+      "price": "~$39,490",
+      "cargo": 130,
+      "acceleration": 11.5,
+      "topSpeed": 180,
+      "quarterMile": "~18.8 sec"
     },
     "Mitsubishi|Grandis|2010|Grandis": {
       "engine": "4G69 2.4L SOHC MIVEC I4",
@@ -1486,7 +1854,11 @@
       "seats": 7,
       "weight": 1680,
       "bodyStyle": "Van",
-      "price": "~$35,390"
+      "price": "~$35,390",
+      "cargo": 130,
+      "acceleration": 11.5,
+      "topSpeed": 180,
+      "quarterMile": "~18.8 sec"
     },
     "Mitsubishi|Grandis|2010|VR-X": {
       "engine": "4G69 2.4L SOHC MIVEC I4",
@@ -1502,7 +1874,11 @@
       "seats": 7,
       "weight": 1690,
       "bodyStyle": "Van",
-      "price": "~$40,390"
+      "price": "~$40,390",
+      "cargo": 130,
+      "acceleration": 11.5,
+      "topSpeed": 180,
+      "quarterMile": "~18.8 sec"
     },
     "Mitsubishi|Grandis|2011|Grandis": {
       "engine": "4G69 2.4L SOHC MIVEC I4",
@@ -1518,7 +1894,11 @@
       "seats": 7,
       "weight": 1680,
       "bodyStyle": "Van",
-      "price": "~$36,290"
+      "price": "~$36,290",
+      "cargo": 130,
+      "acceleration": 11.5,
+      "topSpeed": 180,
+      "quarterMile": "~18.8 sec"
     },
     "Mitsubishi|Grandis|2011|VR-X": {
       "engine": "4G69 2.4L SOHC MIVEC I4",
@@ -1534,7 +1914,11 @@
       "seats": 7,
       "weight": 1690,
       "bodyStyle": "Van",
-      "price": "~$41,290"
+      "price": "~$41,290",
+      "cargo": 130,
+      "acceleration": 11.5,
+      "topSpeed": 180,
+      "quarterMile": "~18.8 sec"
     }
   }
 }

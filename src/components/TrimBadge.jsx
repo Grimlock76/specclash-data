@@ -1,9 +1,9 @@
 import { useState } from 'react'
 import { getTrimInfo } from '../utils/trimInfo.js'
 
-export default function TrimBadge({ trim, color }) {
+export default function TrimBadge({ trim, make, color }) {
   const [open, setOpen] = useState(false)
-  const info = getTrimInfo(trim)
+  const info = getTrimInfo(trim, make)
   if (!info) return null
 
   return (

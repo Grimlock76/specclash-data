@@ -1,7 +1,13 @@
 [
   {
     "id": "ss-v-redline",
-    "match": ["SS V Redline", "SS V REDLINE"],
+    "makes": [
+      "Holden"
+    ],
+    "match": [
+      "SS V Redline",
+      "SS V REDLINE"
+    ],
     "title": "SS V Redline",
     "base": "SS V",
     "summary": "Track-focused pack over the SS V with enhanced chassis hardware.",
@@ -16,7 +22,12 @@
   },
   {
     "id": "ss-black",
-    "match": ["SS Black"],
+    "makes": [
+      "Holden"
+    ],
+    "match": [
+      "SS Black"
+    ],
     "title": "SS Black Edition",
     "base": "SS",
     "summary": "Visual appearance pack over the SS — same V8 hardware, blacked-out aesthetic.",
@@ -30,7 +41,12 @@
   },
   {
     "id": "sv6-black",
-    "match": ["SV6 Black"],
+    "makes": [
+      "Holden"
+    ],
+    "match": [
+      "SV6 Black"
+    ],
     "title": "SV6 Black Edition",
     "base": "SV6",
     "summary": "Appearance pack over the SV6 — blacked-out styling with a sport suspension tune.",
@@ -45,7 +61,13 @@
   },
   {
     "id": "ss-thunder",
-    "match": ["SS Thunder", "SS THUNDER"],
+    "makes": [
+      "Holden"
+    ],
+    "match": [
+      "SS Thunder",
+      "SS THUNDER"
+    ],
     "title": "SS Thunder",
     "base": "SS",
     "summary": "Limited-run special edition with factory-fitted performance and appearance extras.",
@@ -60,7 +82,14 @@
   },
   {
     "id": "sv6-storm",
-    "match": ["SV6 Storm", "Sportwagon Storm", "Storm"],
+    "makes": [
+      "Holden"
+    ],
+    "match": [
+      "SV6 Storm",
+      "Sportwagon Storm",
+      "Storm"
+    ],
     "title": "Storm Edition",
     "base": "SV6",
     "summary": "Limited appearance and handling special edition based on the SV6.",
@@ -74,7 +103,13 @@
   },
   {
     "id": "ute-storm",
-    "match": ["Ute SS STORM", "Ute SV6 Storm"],
+    "makes": [
+      "Holden"
+    ],
+    "match": [
+      "Ute SS STORM",
+      "Ute SV6 Storm"
+    ],
     "title": "Ute Storm Edition",
     "base": "SS / SV6 Ute",
     "summary": "Appearance and handling special edition on the Commodore Ute.",
@@ -88,7 +123,12 @@
   },
   {
     "id": "hsv-gts",
-    "match": ["GTS"],
+    "makes": [
+      "HSV"
+    ],
+    "match": [
+      "GTS"
+    ],
     "title": "HSV GTS",
     "base": "Clubsport R8",
     "summary": "HSV's flagship sedan — the most powerful and feature-laden car in the range.",
@@ -103,7 +143,12 @@
   },
   {
     "id": "hsv-clubsport-r8",
-    "match": ["Clubsport R8"],
+    "makes": [
+      "HSV"
+    ],
+    "match": [
+      "Clubsport R8"
+    ],
     "title": "HSV Clubsport R8",
     "base": "Clubsport",
     "summary": "HSV's core performance sedan with LS3 power and serious chassis upgrades.",
@@ -118,7 +163,12 @@
   },
   {
     "id": "hsv-clubsport",
-    "match": ["Clubsport"],
+    "makes": [
+      "HSV"
+    ],
+    "match": [
+      "Clubsport"
+    ],
     "title": "HSV Clubsport",
     "base": "SS",
     "summary": "HSV's entry performance variant with comprehensive factory modifications.",
@@ -133,7 +183,12 @@
   },
   {
     "id": "calais-v",
-    "match": ["Calais V"],
+    "makes": [
+      "Holden"
+    ],
+    "match": [
+      "Calais V"
+    ],
     "title": "Calais V",
     "base": "Calais",
     "summary": "Top luxury trim with V8 power — combines the Calais luxury features with the SS drivetrain.",
@@ -148,7 +203,12 @@
   },
   {
     "id": "calais",
-    "match": ["Calais"],
+    "makes": [
+      "Holden"
+    ],
+    "match": [
+      "Calais"
+    ],
     "title": "Calais",
     "base": "Berlina",
     "summary": "Flagship luxury grade with premium interior and technology features.",
@@ -164,7 +224,12 @@
   },
   {
     "id": "ss-v",
-    "match": ["SS V"],
+    "makes": [
+      "Holden"
+    ],
+    "match": [
+      "SS V"
+    ],
     "title": "SS V",
     "base": "SS",
     "summary": "Enhanced SS with additional luxury and tech features over the base SS.",
@@ -178,7 +243,12 @@
   },
   {
     "id": "ss",
-    "match": ["\\bSS\\b"],
+    "makes": [
+      "Holden"
+    ],
+    "match": [
+      "\\bSS\\b"
+    ],
     "title": "SS",
     "base": "SV6",
     "summary": "Performance V8 variant with serious chassis, brake and drivetrain upgrades.",
@@ -194,7 +264,12 @@
   },
   {
     "id": "sv6",
-    "match": ["\\bSV6\\b"],
+    "makes": [
+      "Holden"
+    ],
+    "match": [
+      "\\bSV6\\b"
+    ],
     "title": "SV6",
     "base": "Berlina / Equipe",
     "summary": "The sporty V6 grade — a step up from the base Omega/Evoke in equipment and dynamics.",
@@ -211,7 +286,12 @@
   },
   {
     "id": "berlina",
-    "match": ["Berlina"],
+    "makes": [
+      "Holden"
+    ],
+    "match": [
+      "Berlina"
+    ],
     "title": "Berlina",
     "base": "Omega / Evoke",
     "summary": "Mid-grade variant adding comfort and convenience features over the base trim.",
@@ -226,7 +306,12 @@
   },
   {
     "id": "equipe",
-    "match": ["Equipe"],
+    "makes": [
+      "Holden"
+    ],
+    "match": [
+      "Equipe"
+    ],
     "title": "Equipe",
     "base": "Evoke",
     "summary": "VF mid-grade equivalent to the Berlina with additional comfort features.",
@@ -240,7 +325,13 @@
   },
   {
     "id": "omega-evoke",
-    "match": ["Omega", "Evoke"],
+    "makes": [
+      "Holden"
+    ],
+    "match": [
+      "Omega",
+      "Evoke"
+    ],
     "title": "Omega / Evoke",
     "base": "Base",
     "summary": "Entry-level Commodore grade — no-frills specification with the full safety suite.",
@@ -255,7 +346,12 @@
   },
   {
     "id": "fpv-gt-e",
-    "match": ["GT-E"],
+    "makes": [
+      "FPV"
+    ],
+    "match": [
+      "GT-E"
+    ],
     "title": "FPV GT-E",
     "base": "GT",
     "summary": "FPV's ultimate high-performance model with supercharged power.",
@@ -270,7 +366,13 @@
   },
   {
     "id": "fpv-gt",
-    "match": ["FPV GT", "\\bGT\\b"],
+    "makes": [
+      "FPV"
+    ],
+    "match": [
+      "FPV GT",
+      "\\bGT\\b"
+    ],
     "title": "FPV GT",
     "base": "XR8",
     "summary": "Ford Performance Vehicles' core performance model based on the Falcon platform.",
@@ -285,7 +387,12 @@
   },
   {
     "id": "xr8",
-    "match": ["XR8"],
+    "makes": [
+      "Ford"
+    ],
+    "match": [
+      "XR8"
+    ],
     "title": "XR8",
     "base": "XR6 Turbo",
     "summary": "Ford's flagship performance V8 Falcon with the 5.4L Boss engine.",
@@ -300,7 +407,12 @@
   },
   {
     "id": "xr6-turbo",
-    "match": ["XR6 Turbo"],
+    "makes": [
+      "Ford"
+    ],
+    "match": [
+      "XR6 Turbo"
+    ],
     "title": "XR6 Turbo",
     "base": "XR6",
     "summary": "Turbocharged inline-6 powerhouse — the benchmark of Australian performance value.",
@@ -316,7 +428,12 @@
   },
   {
     "id": "xr6",
-    "match": ["\\bXR6\\b"],
+    "makes": [
+      "Ford"
+    ],
+    "match": [
+      "\\bXR6\\b"
+    ],
     "title": "XR6",
     "base": "Futura",
     "summary": "Sports appearance and dynamics upgrade over the base Falcon range.",
@@ -330,7 +447,12 @@
   },
   {
     "id": "g6e-turbo",
-    "match": ["G6E Turbo"],
+    "makes": [
+      "Ford"
+    ],
+    "match": [
+      "G6E Turbo"
+    ],
     "title": "G6E Turbo",
     "base": "G6E",
     "summary": "Flagship luxury Falcon with turbocharged power — the XR6 Turbo in a suit.",
@@ -345,7 +467,12 @@
   },
   {
     "id": "g6e",
-    "match": ["G6E"],
+    "makes": [
+      "Ford"
+    ],
+    "match": [
+      "G6E"
+    ],
     "title": "G6E",
     "base": "G6",
     "summary": "Top luxury Falcon grade with premium comfort and technology.",
@@ -360,7 +487,14 @@
   },
   {
     "id": "mustang-gt",
-    "match": ["Mustang GT", "GT Fastback", "GT Convertible"],
+    "makes": [
+      "Ford"
+    ],
+    "match": [
+      "Mustang GT",
+      "GT Fastback",
+      "GT Convertible"
+    ],
     "title": "Mustang GT",
     "base": "EcoBoost",
     "summary": "The full V8 Mustang experience with the 5.0L Coyote engine.",
@@ -375,7 +509,13 @@
   },
   {
     "id": "territory-tx",
-    "match": ["Territory TS", "Territory TX"],
+    "makes": [
+      "Ford"
+    ],
+    "match": [
+      "Territory TS",
+      "Territory TX"
+    ],
     "title": "Territory TS / TX",
     "base": "Territory Base",
     "summary": "Upper mid-grade Territory with comfort and towing upgrades.",
@@ -390,7 +530,12 @@
   },
   {
     "id": "ranger-wildtrak",
-    "match": ["Wildtrak"],
+    "makes": [
+      "Ford"
+    ],
+    "match": [
+      "Wildtrak"
+    ],
     "title": "Ranger Wildtrak",
     "base": "XLT",
     "summary": "Adventure-focused Ranger with rugged styling and off-road capability.",
@@ -405,7 +550,12 @@
   },
   {
     "id": "ranger-raptor",
-    "match": ["Raptor"],
+    "makes": [
+      "Ford"
+    ],
+    "match": [
+      "Raptor"
+    ],
     "title": "Ranger Raptor",
     "base": "Wildtrak",
     "summary": "Factory off-road performance truck with Fox suspension and a wide-track body.",
@@ -416,6 +566,1774 @@
       "Off-road 285/70 BFGoodrich All-Terrain tyres",
       "Terrain Management System with Baja mode",
       "Unique Raptor bodykit and 17\" alloys"
+    ]
+  },
+  {
+    "id": "toyota-gr",
+    "makes": [
+      "Toyota"
+    ],
+    "match": [
+      "\\bGR\\b"
+    ],
+    "title": "GR (Gazoo Racing)",
+    "base": "Sport / ZR",
+    "summary": "Toyota's full Gazoo Racing performance variant — homologation-derived hot hatch hardware.",
+    "highlights": [
+      "1.6L turbocharged 3-cylinder G16E-GTS (200 kW / 370 Nm)",
+      "GR-Four all-wheel drive system with torque split",
+      "Sport-tuned Torsen rear differential",
+      "18\" BBS forged alloy wheels with Michelin Pilot Sport 4 tyres",
+      "GR-specific sport suspension and braking package",
+      "Unique circuit red interior accents and GR badging"
+    ]
+  },
+  {
+    "id": "toyota-gr-sport",
+    "makes": [
+      "Toyota"
+    ],
+    "match": [
+      "GR Sport"
+    ],
+    "title": "GR Sport",
+    "base": "GXL / SR5 / SX",
+    "summary": "Sport appearance and chassis pack applied across multiple models — firmer tune without the full GR drivetrain.",
+    "highlights": [
+      "GR-specific bumpers, side skirts and badging",
+      "Unique 18\" or 20\" alloy wheel design",
+      "Sport-tuned suspension (firmer than standard grade)",
+      "Red-accented interior trim and sport seats",
+      "Available on RAV4, Prado, Fortuner, HiLux",
+      "Same powertrain as equivalent standard grade"
+    ]
+  },
+  {
+    "id": "toyota-gts",
+    "makes": [
+      "Toyota"
+    ],
+    "match": [
+      "\\bGTS\\b"
+    ],
+    "title": "GTS",
+    "base": "GT",
+    "summary": "Top-specification trim across Supra and Celica ranges — maximum equipment and performance.",
+    "highlights": [
+      "Full factory sport equipment (leather, sunroof, premium audio)",
+      "Larger alloy wheel fitment vs GT",
+      "Supra GTS: BMW-sourced B58 3.0L turbo six 250 kW in AU spec",
+      "Celica GTS: 1ZZ-GE or 2ZZ-GE with optional 6-speed manual",
+      "Sport-tuned suspension over base GT",
+      "GTS-specific interior trim and badging"
+    ]
+  },
+  {
+    "id": "toyota-gt-four",
+    "makes": [
+      "Toyota"
+    ],
+    "match": [
+      "GT-Four"
+    ],
+    "title": "Celica GT-Four",
+    "base": "GT Turbo",
+    "summary": "Homologation AWD Celica built for WRC — the most capable and collectible Celica variant.",
+    "highlights": [
+      "3S-GTE 2.0L turbocharged 4-cylinder (147–165 kW)",
+      "Viscous-coupled all-wheel drive (ST185) or mechanical AWD (ST205)",
+      "Torsen centre differential (ST205 RC)",
+      "Limited-slip rear differential",
+      "4-wheel disc brakes with ABS",
+      "World Rally Championship homologation spec"
+    ]
+  },
+  {
+    "id": "toyota-sportivo",
+    "makes": [
+      "Toyota"
+    ],
+    "match": [
+      "Sportivo"
+    ],
+    "title": "Sportivo",
+    "base": "Ascent Sport / SX",
+    "summary": "Sport appearance upgrade over mid-grade Corolla and Camry — styling focus rather than mechanical change.",
+    "highlights": [
+      "Sport bodykit with unique front and rear bumpers",
+      "17\" alloy wheels",
+      "Sport seats with unique fabric/leather trim",
+      "Body-coloured door mirrors and mouldings",
+      "Same powertrain as equivalent standard grade",
+      "Sportivo badging and interior accents"
+    ]
+  },
+  {
+    "id": "toyota-levin-zr",
+    "makes": [
+      "Toyota"
+    ],
+    "match": [
+      "Levin ZR"
+    ],
+    "title": "Levin ZR",
+    "base": "Levin",
+    "summary": "Top-spec Corolla hatch with full comfort and technology pack added over the Levin base.",
+    "highlights": [
+      "17\" alloy wheels (vs 16\" on Levin)",
+      "Leather-accented seats with power driver adjustment",
+      "Satellite navigation standard",
+      "Dual-zone climate control",
+      "Rear parking camera",
+      "Premium JBL audio system"
+    ]
+  },
+  {
+    "id": "toyota-zr",
+    "makes": [
+      "Toyota"
+    ],
+    "match": [
+      "\\bZR\\b"
+    ],
+    "title": "ZR",
+    "base": "Ascent Sport / SX",
+    "summary": "Top-specification Corolla sedan/hatch — adds full tech and comfort items over the Sport grade.",
+    "highlights": [
+      "17\" alloy wheels",
+      "Leather-accented interior",
+      "Satellite navigation",
+      "Rear parking sensors and camera",
+      "Dual-zone climate control",
+      "Premium audio system"
+    ]
+  },
+  {
+    "id": "toyota-sr5",
+    "makes": [
+      "Toyota"
+    ],
+    "match": [
+      "SR5"
+    ],
+    "title": "SR5",
+    "base": "SR",
+    "summary": "Mid-upper HiLux/4Runner grade — a significant comfort and equipment upgrade over the SR.",
+    "highlights": [
+      "17\" or 18\" alloy wheels (vs 17\" steel on SR)",
+      "Leather-appointed seats",
+      "Satellite navigation with larger touchscreen",
+      "Rear parking camera",
+      "Rear diff lock (4x4 models)",
+      "Sports bar and side steps (HiLux)"
+    ]
+  },
+  {
+    "id": "toyota-rogue",
+    "makes": [
+      "Toyota"
+    ],
+    "match": [
+      "Rogue"
+    ],
+    "title": "HiLux Rogue",
+    "base": "SR5",
+    "summary": "Adventure-spec HiLux with heavy-duty suspension and premium outdoor features.",
+    "highlights": [
+      "Bilstein shock absorbers and lifted suspension",
+      "18\" matte-finish alloy wheels with all-terrain tyres",
+      "Bull bar, side steps and sports bar standard",
+      "Leather seats with unique Rogue interior trim",
+      "Satellite navigation and 9\" touchscreen",
+      "2.8L turbo diesel — same output as SR5"
+    ]
+  },
+  {
+    "id": "toyota-ultima",
+    "makes": [
+      "Toyota"
+    ],
+    "match": [
+      "Ultima"
+    ],
+    "title": "HiLux Ultima",
+    "base": "SR5",
+    "summary": "Flagship HiLux trim with full luxury and technology fitment.",
+    "highlights": [
+      "Leather seats with power adjustment and heating",
+      "9\" touchscreen with satellite navigation",
+      "360-degree cameras and parking sensors",
+      "Blind-spot monitoring and rear cross-traffic alert",
+      "18\" alloy wheels",
+      "Premium JBL audio system"
+    ]
+  },
+  {
+    "id": "toyota-gxl",
+    "makes": [
+      "Toyota"
+    ],
+    "match": [
+      "GXL"
+    ],
+    "title": "GXL",
+    "base": "GX / SR5",
+    "summary": "Mid-upper grade across LandCruiser, Prado and HiLux — comfort upgrade over the base GX.",
+    "highlights": [
+      "Leather-appointed seats",
+      "Dual-zone climate control",
+      "Satellite navigation",
+      "Rear parking sensors and camera",
+      "17\" or 18\" alloy wheels",
+      "Rear diff lock (LandCruiser/Prado)"
+    ]
+  },
+  {
+    "id": "toyota-vx",
+    "makes": [
+      "Toyota"
+    ],
+    "match": [
+      "\\bVX\\b"
+    ],
+    "title": "VX",
+    "base": "GXL",
+    "summary": "Penultimate LandCruiser grade with near-Sahara specification and serious off-road hardware.",
+    "highlights": [
+      "Kinetic Dynamic Suspension System (KDSS) — later models",
+      "Crawl Control and Multi-terrain Select",
+      "Full leather interior with power front seats",
+      "Premium audio and satellite navigation",
+      "Front and rear locking differentials",
+      "20\" alloy wheels"
+    ]
+  },
+  {
+    "id": "toyota-sahara",
+    "makes": [
+      "Toyota"
+    ],
+    "match": [
+      "Sahara"
+    ],
+    "title": "LandCruiser Sahara",
+    "base": "VX",
+    "summary": "Flagship LandCruiser — luxury SUV comfort layered on top of full off-road hardware.",
+    "highlights": [
+      "Full leather interior with power-adjustable and heated/cooled front seats",
+      "12.3\" multimedia display with JBL premium audio (300-series)",
+      "Electronic Kinematic Dynamic Suspension System (E-KDSS on 300-series)",
+      "Head-up display and panoramic view monitor",
+      "Front and rear locking differentials + Crawl Control",
+      "20\" alloy wheels with unique Sahara styling"
+    ]
+  },
+  {
+    "id": "toyota-kakadu",
+    "makes": [
+      "Toyota"
+    ],
+    "match": [
+      "Kakadu"
+    ],
+    "title": "Kakadu",
+    "base": "VX / Cruiser",
+    "summary": "Top-of-range Prado and LandCruiser grade — full luxury with factory off-road upgrades.",
+    "highlights": [
+      "Leather interior with heated and ventilated front seats",
+      "Premium JBL audio and satellite navigation",
+      "Factory snorkel and underbody protection",
+      "Side steps and nudge bar standard",
+      "Crawl Control and Multi-Terrain Select",
+      "20\" alloy wheels"
+    ]
+  },
+  {
+    "id": "toyota-crusade",
+    "makes": [
+      "Toyota"
+    ],
+    "match": [
+      "Crusade"
+    ],
+    "title": "Crusade",
+    "base": "Grande / SL",
+    "summary": "Flagship Kluger and Fortuner trim — full luxury specification with premium technology.",
+    "highlights": [
+      "Full leather interior with power-adjustable front seats",
+      "Panoramic roof (Kluger)",
+      "Premium JBL audio system",
+      "Heads-up display",
+      "18\" or 20\" alloy wheels",
+      "Full suite of active safety (Toyota Safety Sense)"
+    ]
+  },
+  {
+    "id": "toyota-grande",
+    "makes": [
+      "Toyota"
+    ],
+    "match": [
+      "Grande"
+    ],
+    "title": "Grande",
+    "base": "GXL / SX",
+    "summary": "Luxury top-spec grade used on Tarago and Kluger — premium comfort over the GXL.",
+    "highlights": [
+      "Full leather seating throughout",
+      "Power-sliding rear doors (Tarago)",
+      "Dual-zone or tri-zone climate control",
+      "Premium audio with navigation",
+      "Power-adjustable and heated front seats",
+      "17\" or 18\" alloy wheels"
+    ]
+  },
+  {
+    "id": "toyota-atara-sl",
+    "makes": [
+      "Toyota"
+    ],
+    "match": [
+      "Atara SL"
+    ],
+    "title": "Aurion Atara SL",
+    "base": "Atara SX",
+    "summary": "Flagship Aurion trim — adds luxury comfort items to the already well-equipped Atara SX.",
+    "highlights": [
+      "Leather interior with heated and cooled front seats",
+      "10-speaker JBL premium audio system",
+      "Power driver seat with memory function",
+      "Satellite navigation",
+      "Rear privacy glass and parking sensors",
+      "18\" alloy wheels"
+    ]
+  },
+  {
+    "id": "toyota-cruiser-70",
+    "makes": [
+      "Toyota"
+    ],
+    "match": [
+      "Cruiser"
+    ],
+    "title": "Cruiser",
+    "base": "GXL / SR5",
+    "summary": "Top utility-grade LandCruiser and HiLux Surf trim — maximum equipment without full luxury spec.",
+    "highlights": [
+      "Full leather interior",
+      "Dual-zone climate control",
+      "Satellite navigation",
+      "Rear entertainment screen (some variants)",
+      "17\" or 18\" alloy wheels",
+      "Enhanced off-road hardware (diff lock, terrain management)"
+    ]
+  },
+  {
+    "id": "mazda-mps",
+    "makes": [
+      "Mazda"
+    ],
+    "match": [
+      "MPS"
+    ],
+    "title": "MPS (Mazdaspeed)",
+    "base": "SP23 / Sport",
+    "summary": "Mazda's factory performance variant — turbocharged, stiffened and focused on driving dynamics.",
+    "highlights": [
+      "2.3L turbocharged MZR engine (184 kW / 380 Nm on Mazda3 MPS)",
+      "Sport-tuned suspension with stiffer springs and dampers",
+      "Front limited-slip differential (Mazda3 MPS)",
+      "Brembo 4-piston front brake calipers",
+      "18\" alloy wheels with performance tyres",
+      "Recaro sport seats, unique MPS bodykit and badging"
+    ]
+  },
+  {
+    "id": "mazda-turbo-ii",
+    "makes": [
+      "Mazda"
+    ],
+    "match": [
+      "Turbo II"
+    ],
+    "title": "RX-7 Turbo II",
+    "base": "Base",
+    "summary": "Twin-turbocharged flagship RX-7 — the definitive version of Mazda's rotary sports car.",
+    "highlights": [
+      "13B-REW twin-sequential rotary — 176 kW / 294 Nm",
+      "Sequential twin-turbo system (primary + secondary)",
+      "Sport-tuned suspension with front/rear strut tower braces",
+      "4-wheel disc brakes with ABS",
+      "Limited-slip rear differential",
+      "Sport seats and unique Type R / RZ interior"
+    ]
+  },
+  {
+    "id": "mazda-atenza",
+    "makes": [
+      "Mazda"
+    ],
+    "match": [
+      "Atenza"
+    ],
+    "title": "Atenza",
+    "base": "Touring",
+    "summary": "Flagship Mazda6 trim for earlier generations — full luxury and technology specification.",
+    "highlights": [
+      "Leather interior with heated front seats",
+      "BOSE premium audio system",
+      "Satellite navigation",
+      "Sunroof",
+      "18\" alloy wheels",
+      "All active safety features available on the platform"
+    ]
+  },
+  {
+    "id": "mazda-azami",
+    "makes": [
+      "Mazda"
+    ],
+    "match": [
+      "Azami"
+    ],
+    "title": "Azami",
+    "base": "GT / Touring",
+    "summary": "Top-of-range grade for current Mazda SUVs and Mazda6 — premium luxury specification.",
+    "highlights": [
+      "Nappa leather interior with ventilated front seats",
+      "12-speaker BOSE premium audio",
+      "Head-up display",
+      "Mazda Connect with 10.25\" screen",
+      "Full LED adaptive headlights",
+      "18\" or 19\" alloy wheels"
+    ]
+  },
+  {
+    "id": "mazda-akari",
+    "makes": [
+      "Mazda"
+    ],
+    "match": [
+      "Akari"
+    ],
+    "title": "Akari",
+    "base": "Touring",
+    "summary": "Upper-mid luxury grade in current Mazda CX range — significant comfort step over Touring.",
+    "highlights": [
+      "Leather-appointed seats with heated fronts",
+      "10.25\" Mazda Connect infotainment",
+      "Full LED headlights with auto-levelling",
+      "Rear parking sensors and 360-view camera",
+      "18\" or 20\" alloy wheels",
+      "Wireless phone charging"
+    ]
+  },
+  {
+    "id": "mazda-asaki",
+    "makes": [
+      "Mazda"
+    ],
+    "match": [
+      "Asaki"
+    ],
+    "title": "Asaki",
+    "base": "Akari",
+    "summary": "Flagship CX-60/CX-80/CX-90 trim — the most luxurious Mazda available in Australia.",
+    "highlights": [
+      "Nappa leather interior with ventilated and heated front seats",
+      "12-speaker BOSE premium audio",
+      "Head-up display",
+      "Panoramic sunroof",
+      "21\" alloy wheels",
+      "Mazda's full i-Activsense safety suite"
+    ]
+  },
+  {
+    "id": "mazda-genki",
+    "makes": [
+      "Mazda"
+    ],
+    "match": [
+      "Genki"
+    ],
+    "title": "Genki",
+    "base": "Maxx / Neo",
+    "summary": "Sport-flavoured trim for Mazda2/3/CX-3 — styling and feature upgrade over the base grades.",
+    "highlights": [
+      "Sport bodykit with unique front and rear bumpers",
+      "17\" alloy wheels",
+      "Leather-accented sport seats",
+      "Satellite navigation standard",
+      "Rear parking camera",
+      "Genki-specific interior trim accents"
+    ]
+  },
+  {
+    "id": "mazda-grand-touring",
+    "makes": [
+      "Mazda"
+    ],
+    "match": [
+      "Grand Touring"
+    ],
+    "title": "Grand Touring",
+    "base": "Touring",
+    "summary": "Top luxury variant for Mazda6 and CX-9 — maximum comfort and technology on the platform.",
+    "highlights": [
+      "Full leather interior with heated and cooled front seats",
+      "BOSE 12-speaker premium audio",
+      "Head-up display",
+      "Sunroof / panoramic roof",
+      "Power-adjustable driver seat with memory",
+      "19\" alloy wheels"
+    ]
+  },
+  {
+    "id": "mazda-rf-gt",
+    "makes": [
+      "Mazda"
+    ],
+    "match": [
+      "RF GT"
+    ],
+    "title": "MX-5 RF GT",
+    "base": "MX-5 RF / Sport",
+    "summary": "Top-spec MX-5 RF fastback — the most premium and powerful version of the modern MX-5.",
+    "highlights": [
+      "2.0L Skyactiv-G (135 kW / 205 Nm)",
+      "BOSE 9-speaker premium audio",
+      "Full leather seats with heating",
+      "Bilstein sport dampers",
+      "Satellite navigation",
+      "Brembo front brake calipers"
+    ]
+  },
+  {
+    "id": "mazda-sp",
+    "makes": [
+      "Mazda"
+    ],
+    "match": [
+      "\\bSP\\b",
+      "SP20",
+      "SP23",
+      "SP25"
+    ],
+    "title": "SP / SP23 / SP25",
+    "base": "Maxx / Neo",
+    "summary": "Sport-spec Mazda3 and Mazda6 variants — performance-oriented equipment without full MPS hardware.",
+    "highlights": [
+      "2.3L or 2.5L naturally aspirated four-cylinder",
+      "Sport-tuned suspension",
+      "17\" alloy wheels",
+      "Leather-accented sport seats",
+      "Satellite navigation",
+      "SP-specific bodykit and badging"
+    ]
+  },
+  {
+    "id": "mazda-astina",
+    "makes": [
+      "Mazda"
+    ],
+    "match": [
+      "Astina"
+    ],
+    "title": "Astina",
+    "base": "GLX",
+    "summary": "Top-spec Mazda323/626 trim for classic models — full luxury fitment of the era.",
+    "highlights": [
+      "Full factory luxury specification for era",
+      "Power windows and central locking standard",
+      "Premium fabric or leather seating",
+      "Alloy wheels",
+      "Enhanced audio system",
+      "Astina-specific badging and trim"
+    ]
+  },
+  {
+    "id": "mazda-gtx",
+    "makes": [
+      "Mazda"
+    ],
+    "match": [
+      "GTX"
+    ],
+    "title": "GTX",
+    "base": "GT",
+    "summary": "Top performance trim in classic Mazda range — above GT in equipment and specification.",
+    "highlights": [
+      "Full factory equipment of the era",
+      "Alloy wheels",
+      "Enhanced performance tune vs GT",
+      "Leather or premium fabric interior",
+      "Unique GTX badging",
+      "Sports suspension package"
+    ]
+  },
+  {
+    "id": "mazda-touring",
+    "makes": [
+      "Mazda"
+    ],
+    "match": [
+      "\\bTouring\\b"
+    ],
+    "title": "Touring",
+    "base": "Maxx / Pure / Neo",
+    "summary": "Mid-upper grade across the Mazda range — adds genuine comfort and technology items over the base grades.",
+    "highlights": [
+      "Satellite navigation standard",
+      "Leather-appointed seats",
+      "Dual-zone climate control",
+      "Rear parking camera",
+      "17\" alloy wheels",
+      "Advanced safety features (i-Activsense)"
+    ]
+  },
+  {
+    "id": "mazda-stouring",
+    "makes": [
+      "Mazda"
+    ],
+    "match": [
+      "sTouring"
+    ],
+    "title": "sTouring",
+    "base": "Touring",
+    "summary": "Sport Touring variant for Mazda6 — sport suspension tune and styling added to Touring specification.",
+    "highlights": [
+      "Firmer sport-tuned suspension",
+      "18\" alloy wheels (vs 17\" on Touring)",
+      "Sport bodykit elements",
+      "All Touring comfort and technology features",
+      "Skyactiv-G 2.5L or Skyactiv-D 2.2L diesel",
+      "sTouring badging"
+    ]
+  },
+  {
+    "id": "nissan-gt-r",
+    "makes": [
+      "Nissan"
+    ],
+    "match": [
+      "GT-R"
+    ],
+    "title": "GT-R",
+    "base": "Standalone",
+    "summary": "Nissan's iconic supercar — twin-turbocharged AWD with track-focused engineering.",
+    "highlights": [
+      "3.8L twin-turbocharged VR38DETT V6 — 357–441 kW (model year dependent)",
+      "ATTESA E-TS all-wheel drive with torque vectoring",
+      "Bilstein DampTronic adjustable dampers",
+      "Brembo 6-piston front / 4-piston rear brakes",
+      "RAYS 20\" forged alloy wheels",
+      "Launch Control, 6-speed dual-clutch transmission"
+    ]
+  },
+  {
+    "id": "nissan-nismo",
+    "makes": [
+      "Nissan"
+    ],
+    "match": [
+      "NISMO"
+    ],
+    "title": "NISMO",
+    "base": "GT-R / Ti-S / ST-X",
+    "summary": "Nissan Motorsport performance variant — factory track tuning applied to production models.",
+    "highlights": [
+      "GT-R NISMO: 441 kW VR38DETT with titanium exhaust and GT3-derived turbochargers",
+      "NISMO-tuned suspension and aero package",
+      "Recaro bucket seats with NISMO branding",
+      "NISMO Sachs performance dampers",
+      "Exclusive NISMO bodykit and 20\" wheels",
+      "Specific ECU mapping for track performance"
+    ]
+  },
+  {
+    "id": "nissan-track-edition",
+    "makes": [
+      "Nissan"
+    ],
+    "match": [
+      "Track Edition"
+    ],
+    "title": "GT-R Track Edition",
+    "base": "GT-R Premium",
+    "summary": "Between Premium and NISMO — track-oriented hardware without full NISMO price premium.",
+    "highlights": [
+      "3.8L VR38DETT — same output as Premium (357 kW)",
+      "NISMO-tuned Bilstein DampTronic suspension",
+      "Brembo 6-piston carbon-ceramic brakes",
+      "Lightweight NISMO wheels",
+      "Reduced sound deadening for weight saving",
+      "Recaro sport seats"
+    ]
+  },
+  {
+    "id": "nissan-gt-t",
+    "makes": [
+      "Nissan"
+    ],
+    "match": [
+      "GT-T"
+    ],
+    "title": "Skyline GT-T",
+    "base": "GTS-T",
+    "summary": "Upper turbocharged Skyline — step below the GT-R with RWD turbo performance.",
+    "highlights": [
+      "2.5L RB25DET turbocharged inline-six",
+      "5-speed manual or 4-speed auto",
+      "Sport-tuned rear-wheel drive suspension",
+      "HICAS four-wheel steering (some models)",
+      "16\" or 17\" alloy wheels",
+      "GT-T sport interior and badging"
+    ]
+  },
+  {
+    "id": "nissan-gts-t",
+    "makes": [
+      "Nissan"
+    ],
+    "match": [
+      "GTS-T"
+    ],
+    "title": "Skyline GTS-T",
+    "base": "GTS",
+    "summary": "Entry turbocharged Skyline — adds the RB20DET turbo over the naturally aspirated GTS.",
+    "highlights": [
+      "2.0L RB20DET turbocharged inline-six (up to 147 kW)",
+      "5-speed manual transmission",
+      "Sport suspension tune over standard GTS",
+      "15\" or 16\" alloy wheels",
+      "GTS-T-specific interior and badging",
+      "Rear-wheel drive platform"
+    ]
+  },
+  {
+    "id": "nissan-sss",
+    "makes": [
+      "Nissan"
+    ],
+    "match": [
+      "\\bSSS\\b"
+    ],
+    "title": "SSS",
+    "base": "Ti / Q",
+    "summary": "Super Sports Saloon — Nissan's sport trim for Skyline and Pulsar models.",
+    "highlights": [
+      "Sport-tuned suspension (stiffer springs and dampers)",
+      "Sport seats with enhanced lateral support",
+      "Alloy wheels",
+      "Sport steering wheel",
+      "SSS-specific badging and bodykit",
+      "Enhanced audio and interior trim"
+    ]
+  },
+  {
+    "id": "nissan-ti-l",
+    "makes": [
+      "Nissan"
+    ],
+    "match": [
+      "Ti-L"
+    ],
+    "title": "Ti-L",
+    "base": "Ti",
+    "summary": "Flagship Nissan SUV trim — adds the full luxury and technology package over the Ti.",
+    "highlights": [
+      "Premium leather interior with ventilated front seats",
+      "BOSE premium audio system",
+      "Around View Monitor (360-degree camera)",
+      "Head-up display",
+      "20\" alloy wheels",
+      "Power tailgate with foot sensor"
+    ]
+  },
+  {
+    "id": "nissan-ti-s",
+    "makes": [
+      "Nissan"
+    ],
+    "match": [
+      "Ti-S"
+    ],
+    "title": "Ti-S",
+    "base": "Ti",
+    "summary": "Sport-luxury flagship Nissan SUV trim — sporty styling over the Ti with luxury retention.",
+    "highlights": [
+      "Sport bodykit and unique exterior trim",
+      "20\" or 21\" alloy wheels",
+      "Sport-tuned suspension over Ti",
+      "Full leather interior",
+      "BOSE premium audio",
+      "Full active safety suite"
+    ]
+  },
+  {
+    "id": "nissan-ti",
+    "makes": [
+      "Nissan"
+    ],
+    "match": [
+      "\\bTi\\b"
+    ],
+    "title": "Ti",
+    "base": "ST-L / ST-X",
+    "summary": "Upper-specification Nissan SUV and Patrol grade — premium comfort over the standard ST grades.",
+    "highlights": [
+      "Leather-appointed seats with heating",
+      "Satellite navigation with large touchscreen",
+      "Around View Monitor",
+      "18\" or 20\" alloy wheels",
+      "Dual-zone climate control",
+      "Full active safety suite"
+    ]
+  },
+  {
+    "id": "nissan-pro4x",
+    "makes": [
+      "Nissan"
+    ],
+    "match": [
+      "PRO-4X"
+    ],
+    "title": "Navara PRO-4X",
+    "base": "ST-X",
+    "summary": "Adventure-grade Navara with Bilstein shocks, off-road styling and premium interiors.",
+    "highlights": [
+      "Bilstein monotube shock absorbers",
+      "18\" black alloy wheels with all-terrain tyres",
+      "Electronic locking rear differential",
+      "Rock rails and unique PRO-4X bodykit",
+      "Leather-appointed seats with red contrast stitching",
+      "2.3L twin-turbo diesel — same tune as ST-X"
+    ]
+  },
+  {
+    "id": "nissan-st-x",
+    "makes": [
+      "Nissan"
+    ],
+    "match": [
+      "ST-X"
+    ],
+    "title": "ST-X",
+    "base": "ST-L",
+    "summary": "Top-spec Navara and X-Trail without the PRO-4X package — maximum equipment on the platform.",
+    "highlights": [
+      "Leather-appointed seats",
+      "Satellite navigation with 8\" touchscreen",
+      "Around View Monitor",
+      "18\" alloy wheels",
+      "Electronic rear diff lock (Navara 4x4)",
+      "Rear parking sensors and camera"
+    ]
+  },
+  {
+    "id": "mitsubishi-evolution-x",
+    "makes": [
+      "Mitsubishi"
+    ],
+    "match": [
+      "Evolution X"
+    ],
+    "title": "Lancer Evolution X",
+    "base": "GSR / RS",
+    "summary": "Final generation Lancer Evolution — turbocharged with twin-clutch transmission option.",
+    "highlights": [
+      "4B11T 2.0L MIVEC turbocharged inline-4 (217 kW / 366 Nm)",
+      "S-AWC Super All-Wheel Control with ACD and AYC",
+      "TC-SST twin-clutch sport transmission (GSR) or 5-speed manual (RS)",
+      "Brembo 4-piston front brakes",
+      "Recaro sport seats (GSR)",
+      "Final Evolution — production ended 2016"
+    ]
+  },
+  {
+    "id": "mitsubishi-evolution",
+    "makes": [
+      "Mitsubishi"
+    ],
+    "match": [
+      "\\bEvolution\\b"
+    ],
+    "title": "Lancer Evolution",
+    "base": "GSR / RS",
+    "summary": "Mitsubishi's homologation WRC weapon — the definitive turbocharged AWD performance Lancer.",
+    "highlights": [
+      "4G63T 2.0L turbocharged inline-4 (147–206 kW depending on variant)",
+      "Active Centre Differential (ACD) AWD system",
+      "Super AYC active yaw control rear diff",
+      "Brembo 4-piston front brake calipers",
+      "Recaro sport bucket seats",
+      "Rally-derived suspension geometry"
+    ]
+  },
+  {
+    "id": "mitsubishi-gsr",
+    "makes": [
+      "Mitsubishi"
+    ],
+    "match": [
+      "\\bGSR\\b"
+    ],
+    "title": "Evolution GSR",
+    "base": "RS",
+    "summary": "Fully-equipped Evolution — adds luxury and comfort items over the stripped-out RS.",
+    "highlights": [
+      "Full comfort specification (electric windows, air conditioning, audio)",
+      "Leather Recaro seats vs cloth RS seats",
+      "Automatic climate control",
+      "Power mirrors and central locking",
+      "Same powertrain and AWD hardware as RS",
+      "Heavier than RS but daily-driveable"
+    ]
+  },
+  {
+    "id": "mitsubishi-vr4",
+    "makes": [
+      "Mitsubishi"
+    ],
+    "match": [
+      "VR-4"
+    ],
+    "title": "3000GT VR-4",
+    "base": "Base / Twin Turbo",
+    "summary": "Top-spec 3000GT with all-wheel drive, all-wheel steering and twin-turbo power.",
+    "highlights": [
+      "6G72TT 3.0L twin-turbocharged V6 (206 kW / 407 Nm)",
+      "Full-time active all-wheel drive",
+      "Active rear-wheel steering",
+      "4-wheel ABS disc brakes",
+      "Active aerodynamics (front and rear spoilers)",
+      "Sport seats with air conditioning and full equipment"
+    ]
+  },
+  {
+    "id": "mitsubishi-twin-turbo",
+    "makes": [
+      "Mitsubishi"
+    ],
+    "match": [
+      "Twin Turbo"
+    ],
+    "title": "3000GT Twin Turbo",
+    "base": "Base",
+    "summary": "Turbocharged 3000GT — twin-turbocharged V6 without the full AWD/AWS hardware of the VR-4.",
+    "highlights": [
+      "6G72TT 3.0L twin-turbocharged V6 (206 kW)",
+      "Front-wheel drive (vs AWD on VR-4)",
+      "Sport suspension",
+      "4-wheel disc brakes",
+      "Full factory equipment",
+      "More affordable entry to 3000GT turbo power"
+    ]
+  },
+  {
+    "id": "mitsubishi-vrx",
+    "makes": [
+      "Mitsubishi"
+    ],
+    "match": [
+      "\\bVRX\\b"
+    ],
+    "title": "VRX",
+    "base": "VR-X / LS",
+    "summary": "Top-spec Lancer and Outlander — full equipment plus sport styling over the standard grades.",
+    "highlights": [
+      "Sport exterior styling with unique bumpers and 18\" alloys",
+      "Leather-appointed seats",
+      "Satellite navigation with large touchscreen",
+      "Rear parking camera",
+      "Dual-zone climate control",
+      "Full active safety suite (later models)"
+    ]
+  },
+  {
+    "id": "mitsubishi-ralliart",
+    "makes": [
+      "Mitsubishi"
+    ],
+    "match": [
+      "Ralliart"
+    ],
+    "title": "Ralliart",
+    "base": "VRX / GTS",
+    "summary": "Factory Mitsubishi Motorsport tuned variant — turbocharged performance with AWD.",
+    "highlights": [
+      "2.0L turbocharged 4B11 (177 kW — detuned vs Evo X GSR)",
+      "Twin-clutch SST transmission standard",
+      "S-AWC all-wheel control (simplified vs Evolution)",
+      "Sport suspension tune",
+      "Recaro front seats",
+      "Ralliart bodykit and 18\" alloy wheels"
+    ]
+  },
+  {
+    "id": "mitsubishi-exceed",
+    "makes": [
+      "Mitsubishi"
+    ],
+    "match": [
+      "Exceed"
+    ],
+    "title": "Exceed",
+    "base": "LS / GLX",
+    "summary": "Top-specification Outlander and Pajero grade — maximum luxury and technology.",
+    "highlights": [
+      "Full leather interior with heated front seats",
+      "Power panoramic sunroof (Outlander)",
+      "Rockford Fosgate premium audio (Outlander later gen)",
+      "Around View Monitor",
+      "20\" alloy wheels",
+      "Full active safety suite"
+    ]
+  },
+  {
+    "id": "mitsubishi-phev-exceed",
+    "makes": [
+      "Mitsubishi"
+    ],
+    "match": [
+      "PHEV Exceed"
+    ],
+    "title": "Outlander PHEV Exceed",
+    "base": "PHEV ES / PHEV",
+    "summary": "Flagship plug-in hybrid Outlander — full luxury over the base PHEV specification.",
+    "highlights": [
+      "2.4L MIVEC petrol + twin electric motors (165 kW combined)",
+      "Twin motor AWD with torque vectoring",
+      "Full leather interior with heating and ventilation",
+      "Bose premium audio",
+      "Power panoramic sunroof",
+      "Full active safety suite with adaptive cruise"
+    ]
+  },
+  {
+    "id": "hyundai-n-performance",
+    "makes": [
+      "Hyundai"
+    ],
+    "match": [
+      "N Performance"
+    ],
+    "title": "N Performance Pack",
+    "base": "N",
+    "summary": "Optional upgrade package on the N adding track-focused hardware.",
+    "highlights": [
+      "Michelin Pilot Sport Cup 2 tyres",
+      "Electronic LSD with enhanced calibration",
+      "Torque vectoring via brake bias",
+      "N-specific suspension recalibration",
+      "Data logging via cluster display",
+      "Exclusive colour and interior accents"
+    ]
+  },
+  {
+    "id": "hyundai-n-line",
+    "makes": [
+      "Hyundai"
+    ],
+    "match": [
+      "N Line"
+    ],
+    "title": "N Line",
+    "base": "Elite / Active",
+    "summary": "Sport appearance and light dynamics pack — styling upgrade without full N mechanical hardware.",
+    "highlights": [
+      "N Line-specific bumpers, side skirts and rear diffuser",
+      "18\" or 19\" N Line alloy wheels",
+      "Sport-tuned suspension (firmer than standard)",
+      "N Line interior with sport seats and steering wheel",
+      "1.6L turbo (Elantra/Tucson) or 2.5L turbo (Sonata)",
+      "Same powertrain options as standard grade"
+    ]
+  },
+  {
+    "id": "hyundai-n",
+    "makes": [
+      "Hyundai"
+    ],
+    "match": [
+      "(?<![A-Za-z])N(?! Line| Performance)(?![A-Za-z])"
+    ],
+    "title": "N",
+    "base": "N Line",
+    "summary": "Hyundai's full performance variant — real mechanical upgrades beyond N Line's appearance pack.",
+    "highlights": [
+      "i30 N: 2.0L turbocharged 4-cylinder (202 kW / 353 Nm)",
+      "Electronic limited-slip front differential",
+      "N-specific sport suspension with adaptive dampers",
+      "Brembo 4-piston front brakes with 345mm rotors",
+      "N gearshift with rev-matching manual or N DCT",
+      "Exclusive N bodykit, 19\" wheels and Pirelli P-Zero tyres"
+    ]
+  },
+  {
+    "id": "hyundai-highlander",
+    "makes": [
+      "Hyundai"
+    ],
+    "match": [
+      "Highlander"
+    ],
+    "title": "Highlander",
+    "base": "Elite",
+    "summary": "Flagship Santa Fe and Tucson trim — the maximum specification available in the range.",
+    "highlights": [
+      "Full leather interior with heated and ventilated front seats",
+      "Panoramic sunroof",
+      "BOSE premium audio (Santa Fe)",
+      "Head-up display",
+      "19\" or 20\" alloy wheels",
+      "Full active safety and driver assist suite"
+    ]
+  },
+  {
+    "id": "hyundai-elite",
+    "makes": [
+      "Hyundai"
+    ],
+    "match": [
+      "Elite"
+    ],
+    "title": "Elite",
+    "base": "Active / SR",
+    "summary": "Mid-upper Hyundai grade — adds genuine luxury items over the base Active specification.",
+    "highlights": [
+      "Leather-appointed seats with heated fronts",
+      "7\" or 8\" touchscreen infotainment",
+      "Rear parking camera",
+      "Dual-zone climate control",
+      "17\" or 18\" alloy wheels",
+      "Blind-spot collision warning"
+    ]
+  },
+  {
+    "id": "hyundai-sr-turbo",
+    "makes": [
+      "Hyundai"
+    ],
+    "match": [
+      "SR Turbo"
+    ],
+    "title": "SR Turbo",
+    "base": "SR",
+    "summary": "Turbocharged sport variant — adds forced induction power over the naturally aspirated SR.",
+    "highlights": [
+      "1.6L turbocharged GDI 4-cylinder (150 kW / 265 Nm)",
+      "6-speed dual-clutch transmission",
+      "Sport suspension tune over standard SR",
+      "18\" alloy wheels",
+      "SR Turbo-specific bodykit and badging",
+      "Performance exhaust note"
+    ]
+  },
+  {
+    "id": "hyundai-trophy",
+    "makes": [
+      "Hyundai"
+    ],
+    "match": [
+      "Trophy"
+    ],
+    "title": "Veloster Trophy",
+    "base": "Turbo",
+    "summary": "Limited production Veloster special — track-focused with Pirelli tyres and handling upgrades.",
+    "highlights": [
+      "1.6L turbocharged 4-cylinder (150 kW)",
+      "Pirelli P-Zero summer tyres",
+      "Sport-tuned suspension",
+      "Limited-slip differential",
+      "Unique Trophy exterior livery",
+      "Track-oriented brake package"
+    ]
+  },
+  {
+    "id": "kia-gt",
+    "makes": [
+      "Kia"
+    ],
+    "match": [
+      "\\bGT\\b"
+    ],
+    "title": "GT",
+    "base": "Sport",
+    "summary": "Kia's top performance trim — Stinger GT is a proper rear-drive sports sedan.",
+    "highlights": [
+      "Stinger GT: 3.3L twin-turbo V6 (272 kW / 510 Nm)",
+      "Rear-wheel drive with limited-slip differential",
+      "Brembo 4-piston front brake calipers",
+      "Adaptive suspension with multiple drive modes",
+      "GT-specific sport seats and interior trim",
+      "19\" alloy wheels with Michelin Pilot Sport 4 tyres"
+    ]
+  },
+  {
+    "id": "kia-gt-sport",
+    "makes": [
+      "Kia"
+    ],
+    "match": [
+      "GT Sport"
+    ],
+    "title": "GT Sport",
+    "base": "GT",
+    "summary": "Top-of-range Stinger trim — adds luxury and technology items over the base GT.",
+    "highlights": [
+      "3.3L twin-turbo V6 — same 272 kW output",
+      "Heads-up display",
+      "360-degree camera system",
+      "Premium Harman Kardon audio (15 speakers)",
+      "Power-adjustable and heated/cooled front seats",
+      "Suede/leather interior and sport steering wheel"
+    ]
+  },
+  {
+    "id": "kia-gt-line",
+    "makes": [
+      "Kia"
+    ],
+    "match": [
+      "GT-Line"
+    ],
+    "title": "GT-Line",
+    "base": "S / Si",
+    "summary": "Sport appearance pack for Kia SUVs and sedans — styling upgrade without GT powertrain.",
+    "highlights": [
+      "GT Line-specific bumpers, side skirts and gloss black accents",
+      "18\" or 19\" GT-Line alloy wheels",
+      "Sport-tuned suspension (firmer than standard)",
+      "GT-Line interior with sport seats and paddle shifters",
+      "Ambient interior lighting",
+      "Same powertrain as equivalent standard grade"
+    ]
+  },
+  {
+    "id": "kia-gt-line-x",
+    "makes": [
+      "Kia"
+    ],
+    "match": [
+      "GT-Line X",
+      "GT-Line AWD",
+      "GT-Line EV"
+    ],
+    "title": "GT-Line X / AWD / EV",
+    "base": "GT-Line",
+    "summary": "Top of the GT-Line family — adds maximum tech or the AWD/EV powertrain over base GT-Line.",
+    "highlights": [
+      "Full leather interior (GT-Line X)",
+      "Panoramic sunroof",
+      "Head-up display",
+      "MERIDIAN premium audio system (some models)",
+      "AWD powertrain (GT-Line AWD) or electric motor (GT-Line EV)",
+      "19\" or 20\" alloy wheels"
+    ]
+  },
+  {
+    "id": "kia-platinum",
+    "makes": [
+      "Kia"
+    ],
+    "match": [
+      "Platinum"
+    ],
+    "title": "Platinum",
+    "base": "SLi / GT-Line X",
+    "summary": "Flagship Kia trim — the absolute top specification available on each model.",
+    "highlights": [
+      "Nappa leather interior with heating and ventilation",
+      "Panoramic curved OLED display (EV6/EV9 Platinum)",
+      "MERIDIAN 14-speaker premium audio",
+      "Heads-up display with augmented reality",
+      "20\" or 21\" alloy wheels",
+      "Full active safety and driver assist suite"
+    ]
+  },
+  {
+    "id": "kia-sli",
+    "makes": [
+      "Kia"
+    ],
+    "match": [
+      "\\bSLi\\b",
+      "SLi Hybrid",
+      "SLi YP"
+    ],
+    "title": "SLi",
+    "base": "Si / Si Hybrid",
+    "summary": "Top comfort-spec Kia for Sportage and Sorento — significant step up from mid-grade Si.",
+    "highlights": [
+      "Leather-appointed seats with heated fronts",
+      "8\" or 10.25\" navigation touchscreen",
+      "Dual-zone or tri-zone climate control (7-seat)",
+      "Panoramic sunroof",
+      "18\" or 19\" alloy wheels",
+      "Full active safety and blind-spot monitoring"
+    ]
+  },
+  {
+    "id": "vw-gti-clubsport",
+    "makes": [
+      "Volkswagen"
+    ],
+    "match": [
+      "GTI Clubsport"
+    ],
+    "title": "Golf GTI Clubsport",
+    "base": "GTI Performance",
+    "summary": "Track-focused GTI homologation variant — the most extreme production GTI available.",
+    "highlights": [
+      "2.0L EA888 TSI — 221 kW (vs 180 kW standard GTI)",
+      "XDS+ electronic differential lock front and rear",
+      "DCC adaptive dampers standard",
+      "Akebono 4-piston front brakes",
+      "19\" Pretoria alloys with Michelin Pilot Sport 4S",
+      "Specific Clubsport bodykit with extended rear diffuser"
+    ]
+  },
+  {
+    "id": "vw-gti-performance",
+    "makes": [
+      "Volkswagen"
+    ],
+    "match": [
+      "GTI Performance"
+    ],
+    "title": "Golf GTI Performance",
+    "base": "GTI",
+    "summary": "Step-up GTI with more power and handling upgrades over the standard GTI.",
+    "highlights": [
+      "2.0L TSI — 195 kW (vs 180 kW on standard GTI)",
+      "Mechanical limited-slip front differential (VAQ)",
+      "DCC adaptive chassis control",
+      "Progressive steering",
+      "19\" alloy wheels",
+      "Sport seats with increased lateral support"
+    ]
+  },
+  {
+    "id": "vw-gti",
+    "makes": [
+      "Volkswagen"
+    ],
+    "match": [
+      "\\bGTI\\b"
+    ],
+    "title": "Golf GTI",
+    "base": "Highline / Comfortline",
+    "summary": "The original hot hatch — turbocharged, sport-tuned and class-defining since 1976.",
+    "highlights": [
+      "2.0L turbocharged TSI (162–180 kW depending on generation)",
+      "6-speed manual or 7-speed DSG",
+      "Sport-tuned suspension (15–20 mm lower than Golf)",
+      "Front electronic differential lock (XDS)",
+      "18\" Pretoria alloy wheels",
+      "GTI-specific bodykit, red brake calipers and plaid sport seats"
+    ]
+  },
+  {
+    "id": "vw-r",
+    "makes": [
+      "Volkswagen"
+    ],
+    "match": [
+      "\\bR\\b(?!\\d|-Line|-32)"
+    ],
+    "title": "Golf R / Polo R",
+    "base": "GTI Clubsport",
+    "summary": "VW's flagship performance model — AWD, maximum power and the fastest production Golf.",
+    "highlights": [
+      "2.0L TSI — 228–235 kW (generation dependent)",
+      "4MOTION all-wheel drive with torque vectoring rear axle",
+      "DCC adaptive dampers standard",
+      "Akebono 4-piston front brakes",
+      "19\" Pretoria alloys with Michelin Pilot Sport 4S",
+      "R-specific bodykit, blue brake calipers and R badge"
+    ]
+  },
+  {
+    "id": "vw-r32",
+    "makes": [
+      "Volkswagen"
+    ],
+    "match": [
+      "R32"
+    ],
+    "title": "Golf R32",
+    "base": "GTI",
+    "summary": "Pre-R Golf performance flagship — 3.2L VR6 with Haldex AWD and a distinctive exhaust note.",
+    "highlights": [
+      "3.2L VR6 naturally aspirated — 184 kW / 320 Nm",
+      "4MOTION Haldex all-wheel drive",
+      "6-speed DSG or 6-speed manual",
+      "Sport-tuned suspension",
+      "18\" alloy wheels",
+      "R32-specific exhaust, bodykit and blue brake calipers"
+    ]
+  },
+  {
+    "id": "vw-highline",
+    "makes": [
+      "Volkswagen"
+    ],
+    "match": [
+      "Highline"
+    ],
+    "title": "Highline",
+    "base": "Comfortline",
+    "summary": "Top comfort grade for VW Polo, Golf and Tiguan — adds premium technology over Comfortline.",
+    "highlights": [
+      "8\" or 9.2\" touchscreen with navigation",
+      "Leather or leather-effect upholstery",
+      "Ambient interior lighting",
+      "Park Distance Control front and rear",
+      "17\" or 18\" alloy wheels",
+      "Active Info Display digital instrument cluster"
+    ]
+  },
+  {
+    "id": "vw-comfortline",
+    "makes": [
+      "Volkswagen"
+    ],
+    "match": [
+      "Comfortline"
+    ],
+    "title": "Comfortline",
+    "base": "Trendline",
+    "summary": "Mid-grade VW — meaningful step up in technology and comfort over the entry Trendline.",
+    "highlights": [
+      "8\" composition media touchscreen",
+      "Keyless entry and push-button start",
+      "Rear view camera",
+      "Front assist collision warning",
+      "16\" or 17\" alloy wheels",
+      "Enhanced cloth interior trim"
+    ]
+  },
+  {
+    "id": "vw-alltrack",
+    "makes": [
+      "Volkswagen"
+    ],
+    "match": [
+      "Alltrack"
+    ],
+    "title": "Passat/Golf Alltrack",
+    "base": "Highline Wagon",
+    "summary": "Lifestyle wagon variant with raised ride height and 4MOTION AWD for light off-road use.",
+    "highlights": [
+      "4MOTION all-wheel drive standard",
+      "20 mm raised ride height vs standard wagon",
+      "Off-road mode selector (on/off-road, snow)",
+      "All-terrain styled bumpers and side mouldings",
+      "18\" alloy wheels",
+      "All Highline comfort and technology features"
+    ]
+  },
+  {
+    "id": "bmw-m3-competition",
+    "makes": [
+      "BMW"
+    ],
+    "match": [
+      "M3 Competition"
+    ],
+    "title": "M3 Competition",
+    "base": "M3",
+    "summary": "Track-biased M3 — higher output, firmer tune and lighter weight delete of some comfort items.",
+    "highlights": [
+      "S58 3.0L twin-turbo inline-6 — 375 kW (vs 353 kW base M3)",
+      "M xDrive AWD optional, RWD standard",
+      "M-specific adaptive suspension — firmer Competition setting",
+      "M Carbon ceramic brakes optional",
+      "20\" front / 21\" rear Competition wheels",
+      "Competition-specific exhaust and aerodynamic package"
+    ]
+  },
+  {
+    "id": "bmw-m3",
+    "makes": [
+      "BMW"
+    ],
+    "match": [
+      "\\bM3\\b"
+    ],
+    "title": "M3",
+    "base": "340i / 330i",
+    "summary": "BMW's definitive sports sedan — purpose-built performance over the standard 3 Series.",
+    "highlights": [
+      "S58 3.0L twin-turbo inline-6 — 353 kW / 550 Nm",
+      "6-speed manual or 8-speed M Steptronic",
+      "M Sport differential (electronically controlled LSD)",
+      "M-developed adaptive suspension",
+      "19\" front / 20\" rear M alloys",
+      "M carbon fibre roof and unique M3 bodywork"
+    ]
+  },
+  {
+    "id": "bmw-m5-competition",
+    "makes": [
+      "BMW"
+    ],
+    "match": [
+      "M5 Competition"
+    ],
+    "title": "M5 Competition",
+    "base": "M5",
+    "summary": "Track-focused M5 — maximum output and firmer chassis tune over the standard M5.",
+    "highlights": [
+      "S63 4.4L twin-turbo V8 — 460 kW (vs 441 kW base M5)",
+      "M xDrive AWD with 2WD mode",
+      "M-specific adaptive suspension — Competition calibration",
+      "Carbon ceramic brakes optional",
+      "20\" Competition alloy wheels",
+      "Carbon fibre exterior and interior accents"
+    ]
+  },
+  {
+    "id": "bmw-m5",
+    "makes": [
+      "BMW"
+    ],
+    "match": [
+      "\\bM5\\b"
+    ],
+    "title": "M5",
+    "base": "550i / 540i",
+    "summary": "BMW's flagship performance super-sedan — AWD, twin-turbo V8 and full luxury interior.",
+    "highlights": [
+      "S63 4.4L twin-turbo V8 — 441 kW / 750 Nm",
+      "M xDrive all-wheel drive with 2WD mode",
+      "M-developed adaptive suspension",
+      "20\" M alloy wheels",
+      "M Sport seats with full leather",
+      "Full luxury interior with all 5 Series technology"
+    ]
+  },
+  {
+    "id": "bmw-m135i",
+    "makes": [
+      "BMW"
+    ],
+    "match": [
+      "M135i"
+    ],
+    "title": "M135i",
+    "base": "125i / 120i",
+    "summary": "Hot 1 Series with factory M Performance hardware — the quickest front-drive BMW.",
+    "highlights": [
+      "B48 2.0L turbocharged inline-4 — 225 kW / 450 Nm",
+      "xDrive all-wheel drive standard",
+      "M Sport suspension and adaptive dampers",
+      "Front and rear M Sport brakes",
+      "18\" M alloy wheels",
+      "M Sport bodykit and unique interior accents"
+    ]
+  },
+  {
+    "id": "bmw-m140i",
+    "makes": [
+      "BMW"
+    ],
+    "match": [
+      "M140i"
+    ],
+    "title": "M140i",
+    "base": "M135i / 125i",
+    "summary": "Final F20 1 Series hot variant — inline-6 rear-drive performance before the FWD switch.",
+    "highlights": [
+      "B58 3.0L turbocharged inline-6 — 250 kW / 500 Nm",
+      "Rear-wheel drive with M Sport differential",
+      "8-speed M Steptronic automatic",
+      "M Sport adaptive suspension",
+      "18\" M alloy wheels",
+      "Last 1 Series with RWD and inline-6 combination"
+    ]
+  },
+  {
+    "id": "bmw-m2",
+    "makes": [
+      "BMW"
+    ],
+    "match": [
+      "M2 Coupe"
+    ],
+    "title": "M2",
+    "base": "M240i",
+    "summary": "BMW's entry M coupe — pure, compact and rear-wheel drive with full M hardware.",
+    "highlights": [
+      "S58 3.0L twin-turbo inline-6 — 338 kW / 550 Nm",
+      "6-speed manual or 8-speed M Steptronic",
+      "M-specific rear subframe and suspension geometry",
+      "M Carbon ceramic brakes optional",
+      "19\" front / 20\" rear forged M alloys",
+      "Unique M2 widened bodywork"
+    ]
+  },
+  {
+    "id": "bmw-m240i",
+    "makes": [
+      "BMW"
+    ],
+    "match": [
+      "M240i Coupe",
+      "M240i xDrive Coupe"
+    ],
+    "title": "M240i",
+    "base": "220i / 218i",
+    "summary": "M Performance 2 Series — inline-6 power and M Sport hardware without full M2 spec.",
+    "highlights": [
+      "B58 3.0L turbocharged inline-6 — 250–285 kW",
+      "xDrive AWD or RWD (market dependent)",
+      "M Sport adaptive suspension",
+      "M Sport brakes",
+      "18\" M alloy wheels",
+      "M Sport bodykit and interior"
+    ]
+  },
+  {
+    "id": "bmw-m40i",
+    "makes": [
+      "BMW"
+    ],
+    "match": [
+      "M40i"
+    ],
+    "title": "M40i",
+    "base": "xDrive30i / xDrive35i",
+    "summary": "M Performance variant across X3/X4/X5/Z4 — inline-6 power with M chassis tune.",
+    "highlights": [
+      "B58 3.0L turbocharged inline-6 — 265–290 kW (model dependent)",
+      "xDrive AWD standard",
+      "M Sport adaptive suspension",
+      "M Sport brakes with blue calipers",
+      "20\" or 21\" M alloy wheels",
+      "M Sport bodykit and full leather interior"
+    ]
+  },
+  {
+    "id": "bmw-m50i",
+    "makes": [
+      "BMW"
+    ],
+    "match": [
+      "M50i"
+    ],
+    "title": "M50i",
+    "base": "xDrive40i",
+    "summary": "V8 M Performance X5/X6/X7 — near-M output with full luxury interior retained.",
+    "highlights": [
+      "S63 4.4L twin-turbo V8 — 390 kW / 750 Nm",
+      "xDrive AWD with active rear differential",
+      "Adaptive M suspension",
+      "M Sport brakes",
+      "21\" or 22\" M alloy wheels",
+      "Full luxury interior with Harman Kardon or Bowers & Wilkins audio"
+    ]
+  },
+  {
+    "id": "bmw-m550i",
+    "makes": [
+      "BMW"
+    ],
+    "match": [
+      "M550i"
+    ],
+    "title": "M550i",
+    "base": "540i",
+    "summary": "M Performance 5 Series — V8 power step below the full M5 with luxury prioritised.",
+    "highlights": [
+      "S63 4.4L twin-turbo V8 — 390 kW / 750 Nm",
+      "xDrive AWD standard",
+      "Adaptive M suspension",
+      "M Sport brakes",
+      "20\" M alloy wheels",
+      "Full 5 Series luxury — massage seats, Bowers & Wilkins audio"
+    ]
+  },
+  {
+    "id": "bmw-340i",
+    "makes": [
+      "BMW"
+    ],
+    "match": [
+      "340i"
+    ],
+    "title": "340i",
+    "base": "330i / 328i",
+    "summary": "Top inline-6 3 Series before M3 — meaningful power and equipment step over the 330i.",
+    "highlights": [
+      "B58 3.0L turbocharged inline-6 — 240–265 kW",
+      "8-speed ZF automatic (M Steptronic)",
+      "Adaptive M suspension optional",
+      "M Sport bodykit standard in Australia",
+      "18\" or 19\" alloy wheels",
+      "Full 3 Series luxury specification"
+    ]
+  },
+  {
+    "id": "bmw-335i",
+    "makes": [
+      "BMW"
+    ],
+    "match": [
+      "335i"
+    ],
+    "title": "335i",
+    "base": "328i / 320i",
+    "summary": "N55 turbocharged inline-6 3 Series — the performance choice before the 340i era.",
+    "highlights": [
+      "N55 3.0L turbocharged inline-6 — 225 kW / 400 Nm",
+      "8-speed ZF automatic or 6-speed manual",
+      "Sport-tuned suspension",
+      "M Sport kit optional",
+      "18\" alloy wheels",
+      "Twin-pipe sport exhaust"
+    ]
+  },
+  {
+    "id": "bmw-550i",
+    "makes": [
+      "BMW"
+    ],
+    "match": [
+      "550i"
+    ],
+    "title": "550i",
+    "base": "535i / 528i",
+    "summary": "V8 5 Series — luxury saloon with V8 power before the M Performance 550i era.",
+    "highlights": [
+      "N63 4.4L twin-turbo V8 — 300–330 kW (generation dependent)",
+      "8-speed ZF automatic",
+      "Adaptive suspension standard",
+      "xDrive AWD available",
+      "19\" alloy wheels",
+      "Full 5 Series luxury specification"
+    ]
+  },
+  {
+    "id": "bmw-535i",
+    "makes": [
+      "BMW"
+    ],
+    "match": [
+      "535i"
+    ],
+    "title": "535i",
+    "base": "528i / 520i",
+    "summary": "Inline-6 top spec 5 Series — meaningful power and equipment over the 528i.",
+    "highlights": [
+      "N55 3.0L turbocharged inline-6 — 225 kW / 400 Nm",
+      "8-speed ZF automatic",
+      "M Sport Package available",
+      "Adaptive suspension optional",
+      "18\" or 19\" alloy wheels",
+      "Full luxury specification with iDrive"
     ]
   }
 ]
