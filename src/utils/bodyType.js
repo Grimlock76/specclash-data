@@ -109,6 +109,10 @@ function getBodyType(model, trim = '') {
   if (/\bcayenne\b|\bmacan\b/.test(m)) return 'SUV'
   if (/\bpanamera\b|\btaycan\b/.test(m)) return 'Sedan'
 
+  // ── Suzuki ──
+  if (/\bjimny\b|\bvitara\b|\bs-cross\b|\bgrand vitara\b/.test(m)) return 'SUV'
+  if (/\bswift\b|\bbaleno\b|\bignis\b/.test(m)) return 'Hatch'
+
   // ── Mercedes-Benz ──
   if (/\bg-class\b|\bglc\b|\bgle\b|\bgls\b|\bgla\b|\bglb\b|\beqa\b|\beqb\b|\beqc\b/.test(m)) return 'SUV'
   if (/\bamg gt\b|\bcla\b|\bslk\b|\bslc\b|\bsl\b/.test(m)) return 'Coupe'

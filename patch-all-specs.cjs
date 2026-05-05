@@ -86,6 +86,8 @@ function getBodyStyle(model, trim) {
   if (/\b911\b|\b718\b|\bboxster\b|\bcayman\b/.test(m)) return 'Coupe'
   if (/\bcayenne\b|\bmacan\b/.test(m)) return 'SUV'
   if (/\bpanamera\b|\btaycan\b/.test(m)) return 'Sedan'
+  if (/\bjimny\b|\bvitara\b|\bs-cross\b|\bgrand vitara\b/.test(m)) return 'SUV'
+  if (/\bswift\b|\bbaleno\b|\bignis\b/.test(m)) return 'Hatch'
   if (/\bg-class\b|\bglc\b|\bgle\b|\bgls\b|\bgla\b|\bglb\b|\beqa\b|\beqb\b|\beqc\b/.test(m)) return 'SUV'
   if (/\bamg gt\b|\bcla\b|\bslk\b|\bslc\b|\bsl\b/.test(m)) return 'Coupe'
   if (/\ba-class\b|\bb-class\b/.test(m)) return 'Hatch'
@@ -340,10 +342,14 @@ const CARGO = {
     'Outlander': ()=> 450, 'ASX': ()=> 393, 'Eclipse Cross': ()=> 448,
     'Pajero': ()=> 899, 'Triton': ()=> 1090, 'Lancer': ()=> 370,
   },
+  'Suzuki': {
+    'Swift': ()=> 204, 'Jimny': ()=> 85, 'Vitara': ()=> 375,
+    'Grand Vitara': ()=> 450, 'Baleno': ()=> 268, 'S-Cross': ()=> 430, 'Ignis': ()=> 267,
+  },
 }
 
 // ── Main patch loop ───────────────────────────────────────────────────────────
-const SUPPLEMENTS = [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53]
+const SUPPLEMENTS = [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
 
 let totalFields = 0
 
