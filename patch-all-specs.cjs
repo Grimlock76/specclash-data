@@ -89,6 +89,9 @@ function getBodyStyle(model, trim) {
   if (/\bjimny\b|\bvitara\b|\bs-cross\b|\bgrand vitara\b/.test(m)) return 'SUV'
   if (/\bswift\b|\bbaleno\b|\bignis\b/.test(m)) return 'Hatch'
   if (/\bdefender\b|\bdiscovery\b|\brange rover\b|\bfreelander\b/.test(m)) return 'SUV'
+  if (/\bxc40\b|\bxc60\b|\bxc90\b|\bc40\b|\bex30\b|\bex90\b/.test(m)) return 'SUV'
+  if (/\bv40\b|\bv60\b|\bv90\b/.test(m)) return 'Wagon'
+  if (/\bs60\b|\bs90\b/.test(m)) return 'Sedan'
   if (/\bg-class\b|\bglc\b|\bgle\b|\bgls\b|\bgla\b|\bglb\b|\beqa\b|\beqb\b|\beqc\b/.test(m)) return 'SUV'
   if (/\bamg gt\b|\bcla\b|\bslk\b|\bslc\b|\bsl\b/.test(m)) return 'Coupe'
   if (/\ba-class\b|\bb-class\b/.test(m)) return 'Hatch'
@@ -357,10 +360,16 @@ const CARGO = {
     'Range Rover Velar': ()=> 673,
     'Freelander': ()=> 755,
   },
+  'Volvo': {
+    'S60': ()=> 442, 'S90': ()=> 500,
+    'V40': ()=> 335, 'V60': ()=> 529, 'V90': ()=> 560,
+    'XC40': ()=> 460, 'XC60': ()=> 505, 'XC90': ()=> 314,
+    'C40 Recharge': ()=> 419, 'EX30': ()=> 318, 'EX90': ()=> 310,
+  },
 }
 
 // ── Main patch loop ───────────────────────────────────────────────────────────
-const SUPPLEMENTS = [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55]
+const SUPPLEMENTS = [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56]
 
 let totalFields = 0
 

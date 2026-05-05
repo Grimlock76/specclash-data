@@ -116,6 +116,11 @@ function getBodyType(model, trim = '') {
   // ── Land Rover ──
   if (/\bdefender\b|\bdiscovery\b|\brange rover\b|\bfreelander\b/.test(m)) return 'SUV'
 
+  // ── Volvo ──
+  if (/\bxc40\b|\bxc60\b|\bxc90\b|\bc40\b|\bex30\b|\bex90\b/.test(m)) return 'SUV'
+  if (/\bv40\b|\bv60\b|\bv90\b/.test(m)) return 'Wagon'
+  if (/\bs60\b|\bs90\b/.test(m)) return 'Sedan'
+
   // ── Mercedes-Benz ──
   if (/\bg-class\b|\bglc\b|\bgle\b|\bgls\b|\bgla\b|\bglb\b|\beqa\b|\beqb\b|\beqc\b/.test(m)) return 'SUV'
   if (/\bamg gt\b|\bcla\b|\bslk\b|\bslc\b|\bsl\b/.test(m)) return 'Coupe'
