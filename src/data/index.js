@@ -53,6 +53,7 @@ import supplement51 from './supplement51.json'
 import supplement52 from './supplement52.json'
 import supplement53 from './supplement53.json'
 import supplement54 from './supplement54.json'
+import supplement55 from './supplement55.json'
 
 export const MAKES = makesData
 
@@ -89,7 +90,8 @@ export const MAKES = makesData
 // supplement52: BMW additions — 6 Series, 8 Series, Z3, i5, i7, 2 Series Active Tourer
 // supplement53: Audi S/RS standalone models — S3, RS3, S4, RS4, S5, RS5, S6, RS6, S7, RS7, S8, RS Q3, SQ5, SQ7, SQ8, RS Q8
 // supplement54: Suzuki (Swift, Jimny, Vitara, Grand Vitara, Baleno, S-Cross, Ignis)
-export const SPECS = Object.assign({}, supplement1.specs, supplement2.specs, supplement3.specs, supplement4.specs, supplement5.specs, supplement6.specs, supplement7.specs, supplement8.specs, holden.specs, ford.specs, supplement9.specs, supplement10.specs, supplement11.specs, supplement12.specs, supplement13.specs, supplement14.specs, supplement15.specs, supplement16.specs, supplement17.specs, supplement18.specs, supplement19.specs, supplement20.specs, supplement21.specs, supplement22.specs, supplement23.specs, supplement24.specs, supplement25.specs, supplement26.specs, supplement27.specs, supplement28.specs, supplement29.specs, supplement30.specs, supplement31.specs, supplement32.specs, supplement33.specs, supplement36.specs, supplement37.specs, supplement38.specs, supplement39.specs, supplement40.specs, supplement41.specs, supplement42.specs, supplement43.specs, supplement44.specs, supplement45.specs, supplement46.specs, supplement47.specs, supplement48.specs, supplement49.specs, supplement50.specs, supplement51.specs, supplement52.specs, supplement53.specs, supplement54.specs)
+// supplement55: Land Rover (Defender, Discovery, Discovery Sport, Range Rover, Range Rover Sport, Range Rover Evoque, Range Rover Velar, Freelander)
+export const SPECS = Object.assign({}, supplement1.specs, supplement2.specs, supplement3.specs, supplement4.specs, supplement5.specs, supplement6.specs, supplement7.specs, supplement8.specs, holden.specs, ford.specs, supplement9.specs, supplement10.specs, supplement11.specs, supplement12.specs, supplement13.specs, supplement14.specs, supplement15.specs, supplement16.specs, supplement17.specs, supplement18.specs, supplement19.specs, supplement20.specs, supplement21.specs, supplement22.specs, supplement23.specs, supplement24.specs, supplement25.specs, supplement26.specs, supplement27.specs, supplement28.specs, supplement29.specs, supplement30.specs, supplement31.specs, supplement32.specs, supplement33.specs, supplement36.specs, supplement37.specs, supplement38.specs, supplement39.specs, supplement40.specs, supplement41.specs, supplement42.specs, supplement43.specs, supplement44.specs, supplement45.specs, supplement46.specs, supplement47.specs, supplement48.specs, supplement49.specs, supplement50.specs, supplement51.specs, supplement52.specs, supplement53.specs, supplement54.specs, supplement55.specs)
 
 // Models in new-format supplements that are RWD but don't advertise it in the engine string
 const KNOWN_RWD = {

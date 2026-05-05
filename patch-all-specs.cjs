@@ -88,6 +88,7 @@ function getBodyStyle(model, trim) {
   if (/\bpanamera\b|\btaycan\b/.test(m)) return 'Sedan'
   if (/\bjimny\b|\bvitara\b|\bs-cross\b|\bgrand vitara\b/.test(m)) return 'SUV'
   if (/\bswift\b|\bbaleno\b|\bignis\b/.test(m)) return 'Hatch'
+  if (/\bdefender\b|\bdiscovery\b|\brange rover\b|\bfreelander\b/.test(m)) return 'SUV'
   if (/\bg-class\b|\bglc\b|\bgle\b|\bgls\b|\bgla\b|\bglb\b|\beqa\b|\beqb\b|\beqc\b/.test(m)) return 'SUV'
   if (/\bamg gt\b|\bcla\b|\bslk\b|\bslc\b|\bsl\b/.test(m)) return 'Coupe'
   if (/\ba-class\b|\bb-class\b/.test(m)) return 'Hatch'
@@ -346,10 +347,20 @@ const CARGO = {
     'Swift': ()=> 204, 'Jimny': ()=> 85, 'Vitara': ()=> 375,
     'Grand Vitara': ()=> 450, 'Baleno': ()=> 268, 'S-Cross': ()=> 430, 'Ignis': ()=> 267,
   },
+  'Land Rover': {
+    'Defender': y => y >= 2020 ? 400 : 68,
+    'Discovery': y => y >= 2017 ? 1231 : y >= 2010 ? 1069 : 1001,
+    'Discovery Sport': ()=> 981,
+    'Range Rover': y => y >= 2022 ? 818 : y >= 2013 ? 909 : 550,
+    'Range Rover Sport': y => y >= 2022 ? 780 : y >= 2013 ? 784 : 710,
+    'Range Rover Evoque': y => y >= 2019 ? 591 : 575,
+    'Range Rover Velar': ()=> 673,
+    'Freelander': ()=> 755,
+  },
 }
 
 // ── Main patch loop ───────────────────────────────────────────────────────────
-const SUPPLEMENTS = [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+const SUPPLEMENTS = [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55]
 
 let totalFields = 0
 
