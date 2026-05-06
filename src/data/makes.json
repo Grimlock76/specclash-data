@@ -23711,5 +23711,71 @@
       "2025": ["Trophy"],
       "2026": ["Trophy"]
     }
+  },
+  "GWM": {
+    "Haval H2": {
+      "2015": ["LUX", "Premium"],
+      "2016": ["LUX", "Premium"],
+      "2017": ["LUX", "Premium"],
+      "2018": ["LUX", "Premium"],
+      "2019": ["LUX", "Premium"],
+      "2020": ["LUX", "Premium"],
+      "2021": ["LUX", "Premium"]
+    },
+    "Haval H6": {
+      "2015": ["LUX", "Premium"],
+      "2016": ["LUX", "Premium"],
+      "2017": ["LUX", "Premium"],
+      "2018": ["LUX", "Premium"],
+      "2019": ["LUX", "Premium"],
+      "2020": ["LUX", "Premium"],
+      "2021": ["LUX", "Premium"],
+      "2022": ["LUX", "Premium", "Ultra"],
+      "2023": ["LUX", "Premium", "Ultra"],
+      "2024": ["LUX", "Premium", "Ultra PHEV"],
+      "2025": ["LUX", "Premium", "Ultra PHEV"],
+      "2026": ["LUX", "Premium", "Ultra PHEV"]
+    },
+    "Haval H9": {
+      "2015": ["LUX", "Premium"],
+      "2016": ["LUX", "Premium"],
+      "2017": ["LUX", "Premium"],
+      "2018": ["LUX", "Premium"],
+      "2019": ["LUX", "Premium"],
+      "2020": ["LUX", "Premium"],
+      "2021": ["LUX", "Premium"],
+      "2022": ["LUX", "Premium"],
+      "2023": ["LUX", "Premium"],
+      "2024": ["LUX", "Premium"],
+      "2025": ["LUX", "Premium"],
+      "2026": ["LUX", "Premium"]
+    },
+    "Haval Jolion": {
+      "2021": ["LUX", "Premium", "Ultra"],
+      "2022": ["LUX", "Premium", "Ultra"],
+      "2023": ["LUX", "Premium", "Ultra"],
+      "2024": ["LUX", "Premium", "Ultra"],
+      "2025": ["LUX", "Premium", "Ultra"],
+      "2026": ["LUX", "Premium", "Ultra"]
+    },
+    "Ute": {
+      "2021": ["Standard", "Premium", "Cannon-L"],
+      "2022": ["Standard", "Premium", "Cannon-L"],
+      "2023": ["Standard", "Premium", "Cannon-L"],
+      "2024": ["Standard", "Premium", "Cannon-L"],
+      "2025": ["Standard", "Premium", "Cannon-L"],
+      "2026": ["Standard", "Premium", "Cannon-L"]
+    },
+    "Tank 300": {
+      "2023": ["LUX", "Ultra"],
+      "2024": ["LUX", "Ultra"],
+      "2025": ["LUX", "Ultra PHEV"],
+      "2026": ["LUX", "Ultra PHEV"]
+    },
+    "Tank 500": {
+      "2024": ["LUX", "Ultra PHEV"],
+      "2025": ["LUX", "Ultra PHEV"],
+      "2026": ["LUX", "Ultra PHEV"]
+    }
   }
 }
