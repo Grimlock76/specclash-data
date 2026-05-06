@@ -23600,5 +23600,48 @@
       "2025": ["RWD", "AWD", "Cyberbeast"],
       "2026": ["RWD", "AWD", "Cyberbeast"]
     }
+  },
+  "Isuzu": {
+    "D-MAX": {
+      "2003": ["SX", "LS"],
+      "2004": ["SX", "LS"],
+      "2005": ["SX", "LS"],
+      "2006": ["SX", "LS"],
+      "2007": ["SX", "LS"],
+      "2008": ["SX", "LS"],
+      "2009": ["SX", "LS"],
+      "2010": ["SX", "LS"],
+      "2011": ["SX", "LS"],
+      "2012": ["SX", "LS", "LS-U"],
+      "2013": ["SX", "LS", "LS-U"],
+      "2014": ["SX", "LS", "LS-U"],
+      "2015": ["SX", "LS", "LS-U"],
+      "2016": ["SX", "LS", "LS-U"],
+      "2017": ["SX", "LS", "LS-U"],
+      "2018": ["SX", "LS", "LS-U"],
+      "2019": ["SX", "LS", "LS-U"],
+      "2020": ["SX", "LS", "LS-U", "X-Terrain"],
+      "2021": ["SX", "LS", "LS-U", "X-Terrain"],
+      "2022": ["SX", "LS", "LS-U", "X-Terrain"],
+      "2023": ["SX", "LS", "LS-U", "X-Terrain"],
+      "2024": ["SX", "LS", "LS-U", "X-Terrain"],
+      "2025": ["SX", "LS", "LS-U", "X-Terrain"],
+      "2026": ["SX", "LS", "LS-U", "X-Terrain"]
+    },
+    "MU-X": {
+      "2014": ["LS-M", "LS-T", "LS-U"],
+      "2015": ["LS-M", "LS-T", "LS-U"],
+      "2016": ["LS-M", "LS-T", "LS-U"],
+      "2017": ["LS-M", "LS-T", "LS-U"],
+      "2018": ["LS-M", "LS-T", "LS-U"],
+      "2019": ["LS-M", "LS-T", "LS-U"],
+      "2020": ["LS-M", "LS-T", "LS-U"],
+      "2021": ["LS-M", "LS-T", "LS-U"],
+      "2022": ["LS-M", "LS-T", "LS-U", "X-Terrain"],
+      "2023": ["LS-M", "LS-T", "LS-U", "X-Terrain"],
+      "2024": ["LS-M", "LS-T", "LS-U", "X-Terrain"],
+      "2025": ["LS-T", "LS-U", "X-Terrain"],
+      "2026": ["LS-T", "LS-U", "X-Terrain"]
+    }
   }
 }

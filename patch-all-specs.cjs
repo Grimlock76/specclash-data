@@ -94,6 +94,8 @@ function getBodyStyle(model, trim) {
   if (/\bs60\b|\bs90\b/.test(m)) return 'Sedan'
   if (/\bmodel y\b|\bmodel x\b|\bcybertruck\b/.test(m)) return 'SUV'
   if (/\bmodel 3\b|\bmodel s\b/.test(m)) return 'Sedan'
+  if (/\bd-max\b/.test(m)) return 'Ute'
+  if (/\bmu-x\b/.test(m)) return 'SUV'
   if (/\bg-class\b|\bglc\b|\bgle\b|\bgls\b|\bgla\b|\bglb\b|\beqa\b|\beqb\b|\beqc\b/.test(m)) return 'SUV'
   if (/\bamg gt\b|\bcla\b|\bslk\b|\bslc\b|\bsl\b/.test(m)) return 'Coupe'
   if (/\ba-class\b|\bb-class\b/.test(m)) return 'Hatch'
@@ -373,10 +375,14 @@ const CARGO = {
     'Model S': ()=> 744, 'Model X': ()=> 2830,
     'Cybertruck': ()=> 1130,
   },
+  'Isuzu': {
+    'D-MAX': ()=> 1090,
+    'MU-X': ()=> 621,
+  },
 }
 
 // ── Main patch loop ───────────────────────────────────────────────────────────
-const SUPPLEMENTS = [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57]
+const SUPPLEMENTS = [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58]
 
 let totalFields = 0
 
