@@ -23543,5 +23543,62 @@
       "2025": ["Twin Motor", "Twin Motor Performance"],
       "2026": ["Twin Motor", "Twin Motor Performance"]
     }
+  },
+  "Tesla": {
+    "Model 3": {
+      "2017": ["Standard Range", "Long Range", "Performance"],
+      "2018": ["Standard Range", "Long Range", "Performance"],
+      "2019": ["Standard Range", "Long Range", "Performance"],
+      "2020": ["Standard Range", "Long Range", "Performance"],
+      "2021": ["Standard Range RWD", "Long Range AWD", "Performance"],
+      "2022": ["Standard Range RWD", "Long Range AWD", "Performance"],
+      "2023": ["Standard Range RWD", "Long Range AWD", "Performance"],
+      "2024": ["RWD", "Long Range AWD", "Performance"],
+      "2025": ["RWD", "Long Range AWD", "Performance"],
+      "2026": ["RWD", "Long Range AWD", "Performance"]
+    },
+    "Model Y": {
+      "2020": ["Long Range AWD", "Performance"],
+      "2021": ["Long Range AWD", "Performance"],
+      "2022": ["Rear-Wheel Drive", "Long Range AWD", "Performance"],
+      "2023": ["Rear-Wheel Drive", "Long Range AWD", "Performance"],
+      "2024": ["Rear-Wheel Drive", "Long Range AWD", "Performance"],
+      "2025": ["Rear-Wheel Drive", "Long Range AWD", "Performance"],
+      "2026": ["Rear-Wheel Drive", "Long Range AWD", "Performance"]
+    },
+    "Model S": {
+      "2013": ["Base", "Performance"],
+      "2014": ["Base", "Performance"],
+      "2015": ["Base", "Performance"],
+      "2016": ["75D", "P100D"],
+      "2017": ["75D", "P100D"],
+      "2018": ["75D", "P100D"],
+      "2019": ["75D", "P100D"],
+      "2020": ["Long Range", "Plaid"],
+      "2021": ["Long Range", "Plaid"],
+      "2022": ["Long Range", "Plaid"],
+      "2023": ["Long Range", "Plaid"],
+      "2024": ["Long Range", "Plaid"],
+      "2025": ["Long Range", "Plaid"],
+      "2026": ["Long Range", "Plaid"]
+    },
+    "Model X": {
+      "2016": ["75D", "P100D"],
+      "2017": ["75D", "P100D"],
+      "2018": ["75D", "P100D"],
+      "2019": ["75D", "P100D"],
+      "2020": ["Long Range", "Plaid"],
+      "2021": ["Long Range", "Plaid"],
+      "2022": ["Long Range", "Plaid"],
+      "2023": ["Long Range", "Plaid"],
+      "2024": ["Long Range", "Plaid"],
+      "2025": ["Long Range", "Plaid"],
+      "2026": ["Long Range", "Plaid"]
+    },
+    "Cybertruck": {
+      "2024": ["RWD", "AWD", "Cyberbeast"],
+      "2025": ["RWD", "AWD", "Cyberbeast"],
+      "2026": ["RWD", "AWD", "Cyberbeast"]
+    }
   }
 }
