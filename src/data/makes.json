@@ -23777,5 +23777,40 @@
       "2025": ["LUX", "Ultra PHEV"],
       "2026": ["LUX", "Ultra PHEV"]
     }
+  },
+  "BYD": {
+    "Atto 3": {
+      "2022": ["Standard Range", "Extended Range"],
+      "2023": ["Standard Range", "Extended Range"],
+      "2024": ["Standard Range", "Extended Range"],
+      "2025": ["Standard Range", "Extended Range"],
+      "2026": ["Standard Range", "Extended Range"]
+    },
+    "Seal": {
+      "2023": ["Standard Range RWD", "Long Range RWD", "AWD Performance"],
+      "2024": ["Standard Range RWD", "Long Range RWD", "AWD Performance"],
+      "2025": ["Standard Range RWD", "Long Range RWD", "AWD Performance"],
+      "2026": ["Standard Range RWD", "Long Range RWD", "AWD Performance"]
+    },
+    "Dolphin": {
+      "2023": ["Standard Range", "Extended Range"],
+      "2024": ["Standard Range", "Extended Range"],
+      "2025": ["Standard Range", "Extended Range"],
+      "2026": ["Standard Range", "Extended Range"]
+    },
+    "Shark": {
+      "2025": ["Premium"],
+      "2026": ["Premium"]
+    },
+    "Sealion 6": {
+      "2024": ["PHEV", "PHEV AWD"],
+      "2025": ["PHEV", "PHEV AWD"],
+      "2026": ["PHEV", "PHEV AWD"]
+    },
+    "Sealion 7": {
+      "2024": ["Standard Range", "Long Range AWD"],
+      "2025": ["Standard Range", "Long Range AWD"],
+      "2026": ["Standard Range", "Long Range AWD"]
+    }
   }
 }
