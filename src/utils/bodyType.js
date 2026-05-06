@@ -129,6 +129,11 @@ function getBodyType(model, trim = '') {
   if (/\bd-max\b/.test(m)) return 'Ute'
   if (/\bmu-x\b/.test(m)) return 'SUV'
 
+  // ── MG ──
+  if (/\bzs ev\b|\bzs\b|\bmg hs\b/.test(m)) return 'SUV'
+  if (/\bmg3\b|\bmg4\b|\bmg6\b/.test(m)) return 'Hatch'
+  if (/\bcyberster\b/.test(m)) return 'Coupe'
+
   // ── Mercedes-Benz ──
   if (/\bg-class\b|\bglc\b|\bgle\b|\bgls\b|\bgla\b|\bglb\b|\beqa\b|\beqb\b|\beqc\b/.test(m)) return 'SUV'
   if (/\bamg gt\b|\bcla\b|\bslk\b|\bslc\b|\bsl\b/.test(m)) return 'Coupe'

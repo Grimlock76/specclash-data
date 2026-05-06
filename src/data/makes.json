@@ -23643,5 +23643,73 @@
       "2025": ["LS-T", "LS-U", "X-Terrain"],
       "2026": ["LS-T", "LS-U", "X-Terrain"]
     }
+  },
+  "MG": {
+    "MG3": {
+      "2011": ["Core", "Excite"],
+      "2012": ["Core", "Excite"],
+      "2013": ["Core", "Excite"],
+      "2014": ["Core", "Excite"],
+      "2015": ["Core", "Excite"],
+      "2016": ["Core", "Excite"],
+      "2017": ["Core", "Excite"],
+      "2018": ["Core", "Excite"],
+      "2019": ["Core", "Excite"],
+      "2020": ["Core", "Excite"],
+      "2021": ["Core", "Excite"],
+      "2022": ["Core", "Excite"],
+      "2023": ["Core", "Excite"],
+      "2024": ["Core", "Excite"],
+      "2025": ["Core", "Excite"],
+      "2026": ["Core", "Excite"]
+    },
+    "MG6": {
+      "2012": ["Standard", "Magnette"],
+      "2013": ["Standard", "Magnette"],
+      "2014": ["Standard", "Magnette"],
+      "2015": ["Standard", "Magnette"],
+      "2016": ["Standard", "Magnette"],
+      "2017": ["Standard", "Magnette"],
+      "2018": ["Standard", "Magnette"]
+    },
+    "ZS": {
+      "2018": ["Excite", "Essence"],
+      "2019": ["Excite", "Essence"],
+      "2020": ["Excite", "Essence"],
+      "2021": ["Excite", "Essence"],
+      "2022": ["Excite", "Essence"],
+      "2023": ["Excite", "Essence"],
+      "2024": ["Excite", "Essence"],
+      "2025": ["Excite", "Essence"],
+      "2026": ["Excite", "Essence"]
+    },
+    "ZS EV": {
+      "2021": ["Standard Range", "Long Range"],
+      "2022": ["Standard Range", "Long Range"],
+      "2023": ["Standard Range", "Long Range"],
+      "2024": ["Standard Range", "Long Range"],
+      "2025": ["Standard Range", "Long Range"],
+      "2026": ["Standard Range", "Long Range"]
+    },
+    "MG HS": {
+      "2020": ["Core", "Excite", "Essence"],
+      "2021": ["Core", "Excite", "Essence"],
+      "2022": ["Core", "Excite", "Essence"],
+      "2023": ["Core", "Excite", "Essence", "PHEV"],
+      "2024": ["Core", "Excite", "Essence", "PHEV"],
+      "2025": ["Excite", "Essence", "PHEV"],
+      "2026": ["Excite", "Essence", "PHEV"]
+    },
+    "MG4": {
+      "2023": ["Excite 51", "Excite 64", "Essence 64", "X-Power"],
+      "2024": ["Excite 51", "Excite 64", "Essence 64", "X-Power"],
+      "2025": ["Excite 51", "Excite 64", "Essence 64", "X-Power"],
+      "2026": ["Excite 51", "Excite 64", "Essence 64", "X-Power"]
+    },
+    "Cyberster": {
+      "2024": ["Trophy"],
+      "2025": ["Trophy"],
+      "2026": ["Trophy"]
+    }
   }
 }
