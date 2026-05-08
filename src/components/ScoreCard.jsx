@@ -6,14 +6,18 @@ export default function ScoreCard({ loaded }) {
   if (loaded.length < 2) return null
 
   const scores = loaded.map(c => ({ idx: c.idx, label: c.label, score: 0, wins: 0, cats: [] }))
+  const allEV = loaded.every(c => c.specs?.ft === 'Electric')
+  const someEV = loaded.some(c => c.specs?.ft === 'Electric')
 
   CATEGORIES.forEach(cat => {
+    if (cat.key === 'fc' && someEV && !allEV) return
+    const higher = (cat.key === 'fc' && allEV) ? true : cat.higher
     const vals = loaded.map(c => {
       const n = parseFloat((c.specs?.[cat.key] || '').replace(/[^0-9.]/g, ''))
       return isNaN(n) ? null : { idx: c.idx, n }
     }).filter(Boolean)
     if (vals.length < 2) return
-    const bestVal = cat.higher ? Math.max(...vals.map(v => v.n)) : Math.min(...vals.map(v => v.n))
+    const bestVal = higher ? Math.max(...vals.map(v => v.n)) : Math.min(...vals.map(v => v.n))
     const winners = vals.filter(v => v.n === bestVal)
     if (winners.length === 1) {
       const winner = scores.find(s => s.idx === winners[0].idx)

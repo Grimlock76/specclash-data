@@ -8,16 +8,21 @@ const HIGHER = ['hp', 'tq', 'ts']
 
 function getBest(key, loaded) {
   if (loaded.length < 2) return null
+  const allEV = loaded.every(c => c.specs?.ft === 'Electric')
+  const someEV = loaded.some(c => c.specs?.ft === 'Electric')
+  if (key === 'fc' && someEV && !allEV) return null
   const vals = loaded.map(c => {
     const n = parseFloat((c.specs?.[key] || '').replace(/[^0-9.]/g, ''))
     return isNaN(n) ? null : { idx: c.idx, n }
   }).filter(Boolean)
   if (vals.length < 2) return null
+  const isLower = LOWER.includes(key) && !(key === 'fc' && allEV)
+  const isHigher = HIGHER.includes(key) || (key === 'fc' && allEV)
   let best
-  if (LOWER.includes(key)) {
+  if (isLower) {
     const min = Math.min(...vals.map(v => v.n))
     best = vals.filter(v => v.n === min)
-  } else if (HIGHER.includes(key)) {
+  } else if (isHigher) {
     const max = Math.max(...vals.map(v => v.n))
     best = vals.filter(v => v.n === max)
   } else return null
@@ -28,6 +33,13 @@ export default function SpecTable({ loaded }) {
   if (loaded.length === 0) return null
 
   const allSame = key => loaded.length > 1 && loaded.every(c => c.specs?.[key] === loaded[0].specs?.[key])
+  const hasEV = loaded.some(c => c.specs?.ft === 'Electric')
+  const allEV = loaded.length > 0 && loaded.every(c => c.specs?.ft === 'Electric')
+  const getLabel = key => {
+    if (hasEV && key === 'di') return allEV ? 'Battery' : 'Displacement / Battery'
+    if (hasEV && key === 'fc') return allEV ? 'Range (WLTP)' : 'City / Range'
+    return S[key] || key
+  }
 
   return (
     <div style={{ padding: '28px 24px 60px', overflowX: 'auto' }}>
@@ -53,7 +65,7 @@ export default function SpecTable({ loaded }) {
                 const same = allSame(key)
                 return (
                   <tr key={key} style={{ borderBottom: '1px solid #0f0f0f' }}>
-                    <td style={{ padding: '8px 12px', fontSize: 13, color: '#888', whiteSpace: 'nowrap' }}>{S[key] || key}</td>
+                    <td style={{ padding: '8px 12px', fontSize: 13, color: '#888', whiteSpace: 'nowrap' }}>{getLabel(key)}</td>
                     {loaded.map(c => {
                       const val = c.specs?.[key] || '—'
                       const isBest = best === c.idx
