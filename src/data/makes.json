@@ -12990,6 +12990,11 @@
         "Ultimate AWD"
       ]
     },
+    "Ioniq 5 N": {
+      "2024": ["N"],
+      "2025": ["N"],
+      "2026": ["N"]
+    },
     "Ioniq 6": {
       "2022": [
         "Active",
@@ -13617,6 +13622,11 @@
         "GT-Line",
         "GT Sport"
       ]
+    },
+    "EV9": {
+      "2024": ["Air Long Range", "Earth Long Range", "GT-Line"],
+      "2025": ["Air Long Range", "Earth Long Range", "GT-Line"],
+      "2026": ["Air Long Range", "Earth Long Range", "GT-Line"]
     },
     "EV6": {
       "2021": [
@@ -15158,6 +15168,11 @@
         "206TSI R-Line",
         "Shooting Brake 206TSI"
       ]
+    },
+    "ID.7": {
+      "2024": ["Pro", "Pro S"],
+      "2025": ["Pro", "Pro S"],
+      "2026": ["Pro", "Pro S"]
     },
     "ID.4": {
       "2022": [
@@ -18788,6 +18803,12 @@
         "EQC 400 4MATIC"
       ]
     },
+    "EQE SUV": {
+      "2023": ["350", "500 4MATIC", "AMG EQE 43"],
+      "2024": ["350", "500 4MATIC", "AMG EQE 43"],
+      "2025": ["350", "500 4MATIC", "AMG EQE 43"],
+      "2026": ["350", "500 4MATIC", "AMG EQE 43"]
+    },
     "EQE": {
       "2022": [
         "EQE 350",
@@ -18814,6 +18835,12 @@
         "EQE 500 4MATIC",
         "AMG EQE 43"
       ]
+    },
+    "EQS SUV": {
+      "2023": ["450", "580 4MATIC", "AMG EQS 53"],
+      "2024": ["450", "580 4MATIC", "AMG EQS 53"],
+      "2025": ["450", "580 4MATIC", "AMG EQS 53"],
+      "2026": ["450", "580 4MATIC", "AMG EQS 53"]
     },
     "EQS": {
       "2021": [
@@ -20150,18 +20177,22 @@
       ],
       "2023": [
         "VTi",
+        "VTi-L",
         "VTi-LX"
       ],
       "2024": [
         "VTi",
+        "VTi-L",
         "VTi-LX"
       ],
       "2025": [
         "VTi",
+        "VTi-L",
         "VTi-LX"
       ],
       "2026": [
         "VTi",
+        "VTi-L",
         "VTi-LX"
       ]
     },

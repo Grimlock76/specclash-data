@@ -48,7 +48,7 @@ function getBodyType(model, trim = '') {
 
   // ── Kia ──
   if (/\bstinger\b/.test(m)) return 'Sedan'
-  if (/\bsportage\b|\bsorento\b|\bseltos\b|\btelluride\b|\bniro\b|\bev6\b/.test(m)) return 'SUV'
+  if (/\bsportage\b|\bsorento\b|\bseltos\b|\btelluride\b|\bniro\b|\bev6\b|\bev9\b/.test(m)) return 'SUV'
   if (/\bcarnival\b/.test(m)) return 'Van'
   if (/\brio\b|\bcerato\b|\bpicanto\b|\bsoul\b/.test(m)) return 'Hatch'
   if (/\boptima\b|\bcadenza\b/.test(m)) return 'Sedan'
@@ -66,7 +66,7 @@ function getBodyType(model, trim = '') {
   if (/\bamarok\b/.test(m)) return 'Ute'
   if (/\bmultivan\b|\btransporter\b|\bcaravelle\b/.test(m)) return 'Van'
   if (/\bgolf wagon\b/.test(m)) return 'Wagon'
-  if (/\bjetta\b|\bpassat\b|\barteon\b/.test(m)) return 'Sedan'
+  if (/\bjetta\b|\bpassat\b|\barteon\b|\bid\.7\b/.test(m)) return 'Sedan'
   if (/\bgolf\b|\bpolo\b|\bbeetle\b|\bid\.3\b/.test(m)) return 'Hatch'
 
   // ── Mitsubishi ──
@@ -149,7 +149,7 @@ function getBodyType(model, trim = '') {
   if (/\bg70\b|\bg80\b|\bg90\b/.test(m)) return 'Sedan'
 
   // ── Mercedes-Benz ──
-  if (/\bg-class\b|\bglc\b|\bgle\b|\bgls\b|\bgla\b|\bglb\b|\beqa\b|\beqb\b|\beqc\b/.test(m)) return 'SUV'
+  if (/\bg-class\b|\bglc\b|\bgle\b|\bgls\b|\bgla\b|\bglb\b|\beqa\b|\beqb\b|\beqc\b|\beqe suv\b|\beqs suv\b/.test(m)) return 'SUV'
   if (/\bamg gt\b|\bcla\b|\bslk\b|\bslc\b|\bsl\b/.test(m)) return 'Coupe'
   if (/\ba-class\b|\bb-class\b/.test(m)) return 'Hatch'
   if (/\bc-class\b|\be-class\b|\bs-class\b|\bcls\b|\beqe\b|\beqs\b/.test(m)) return 'Sedan'

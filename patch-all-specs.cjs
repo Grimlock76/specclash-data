@@ -42,7 +42,7 @@ function getBodyStyle(model, trim) {
   if (/\bioniq 6\b|\bsonata\b|\belantra\b|\bi45\b|\bi40\b/.test(m)) return 'Sedan'
   if (/\bexcel\b|\bgetz\b|\baccent\b|\bi20\b|\bi30\b|\bioniq\b/.test(m)) return 'Hatch'
   if (/\bstinger\b/.test(m)) return 'Sedan'
-  if (/\bsportage\b|\bsorento\b|\bseltos\b|\btelluride\b|\bniro\b|\bev6\b/.test(m)) return 'SUV'
+  if (/\bsportage\b|\bsorento\b|\bseltos\b|\btelluride\b|\bniro\b|\bev6\b|\bev9\b/.test(m)) return 'SUV'
   if (/\bcarnival\b/.test(m)) return 'Van'
   if (/\brio\b|\bcerato\b|\bpicanto\b|\bsoul\b/.test(m)) return 'Hatch'
   if (/\boptima\b|\bcadenza\b/.test(m)) return 'Sedan'
@@ -56,7 +56,7 @@ function getBodyStyle(model, trim) {
   if (/\bamarok\b/.test(m)) return 'Ute'
   if (/\bmultivan\b|\btransporter\b|\bcaravelle\b/.test(m)) return 'Van'
   if (/\bgolf wagon\b/.test(m)) return 'Wagon'
-  if (/\bjetta\b|\bpassat\b|\barteon\b/.test(m)) return 'Sedan'
+  if (/\bjetta\b|\bpassat\b|\barteon\b|\bid\.7\b/.test(m)) return 'Sedan'
   if (/\bgolf\b|\bpolo\b|\bbeetle\b|\bid\.3\b/.test(m)) return 'Hatch'
   if (/\bstarion\b|\b3000gt\b|\bgto\b|\beclipse spyder\b|\bfto\b/.test(m)) return 'Coupe'
   if (/\beclipse\b/.test(m)) return 'Coupe'
@@ -107,7 +107,7 @@ function getBodyStyle(model, trim) {
   if (/\bshark\b/.test(m)) return 'Ute'
   if (/\bgv70\b|\bgv80\b/.test(m)) return 'SUV'
   if (/\bg70\b|\bg80\b|\bg90\b/.test(m)) return 'Sedan'
-  if (/\bg-class\b|\bglc\b|\bgle\b|\bgls\b|\bgla\b|\bglb\b|\beqa\b|\beqb\b|\beqc\b/.test(m)) return 'SUV'
+  if (/\bg-class\b|\bglc\b|\bgle\b|\bgls\b|\bgla\b|\bglb\b|\beqa\b|\beqb\b|\beqc\b|\beqe suv\b|\beqs suv\b/.test(m)) return 'SUV'
   if (/\bamg gt\b|\bcla\b|\bslk\b|\bslc\b|\bsl\b/.test(m)) return 'Coupe'
   if (/\ba-class\b|\bb-class\b/.test(m)) return 'Hatch'
   if (/\bc-class\b|\be-class\b|\bs-class\b|\bcls\b|\beqe\b|\beqs\b/.test(m)) return 'Sedan'
@@ -409,10 +409,22 @@ const CARGO = {
     'G70': ()=> 290, 'G80': ()=> 430, 'G90': ()=> 449,
     'GV70': ()=> 690, 'GV80': ()=> 719,
   },
+  'Kia': {
+    'EV9': ()=> 333,
+  },
+  'Hyundai': {
+    'Ioniq 5 N': ()=> 527,
+  },
+  'Mercedes-Benz': {
+    'EQE SUV': ()=> 520, 'EQS SUV': ()=> 645,
+  },
+  'Volkswagen': {
+    'ID.7': ()=> 532,
+  },
 }
 
 // ── Main patch loop ───────────────────────────────────────────────────────────
-const SUPPLEMENTS = [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62]
+const SUPPLEMENTS = [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63]
 
 let totalFields = 0
 
