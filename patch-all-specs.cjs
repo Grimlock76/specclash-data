@@ -113,6 +113,24 @@ function getBodyStyle(model, trim) {
   if (/\bc-class\b|\be-class\b|\bs-class\b|\bcls\b|\beqe\b|\beqs\b/.test(m)) return 'Sedan'
   if (/\bgladiator\b/.test(m)) return 'Ute'
   if (/\bwrangler\b|\bgrand cherokee\b|\bcherokee\b|\bcompass\b|\brenegade\b/.test(m)) return 'SUV'
+  if (/\b1500\b|\b2500\b/.test(m)) return 'Ute'
+  if (/\bgiulia\b/.test(m)) return 'Sedan'
+  if (/\bstelvio\b|\btonale\b/.test(m)) return 'SUV'
+  if (/\bf-type\b/.test(m)) return 'Coupe'
+  if (/\bf-pace\b|\be-pace\b|\bi-pace\b/.test(m)) return 'SUV'
+  if (/\bxe\b|\bxf\b|\bxj\b/.test(m)) return 'Sedan'
+  if (/\bformentor\b/.test(m)) return 'SUV'
+  if (/\bborn\b|\bleon\b/.test(m)) return 'Hatch'
+  if (/\bpolestar 2\b/.test(m)) return 'Sedan'
+  if (/\bpolestar 3\b|\bpolestar 4\b/.test(m)) return 'SUV'
+  if (/\benyaq\b|\bkaroq\b|\bkodiaq\b/.test(m)) return 'SUV'
+  if (/\bsuperb\b/.test(m)) return 'Sedan'
+  if (/\boctavia\b|\bfabia\b/.test(m)) return 'Hatch'
+  if (/\bt60\b/.test(m)) return 'Ute'
+  if (/\bmifa\b/.test(m)) return 'Van'
+  if (/\bomoda\b|\btiggo\b/.test(m)) return 'SUV'
+  if (/\bkoleos\b|\barkana\b/.test(m)) return 'SUV'
+  if (/\bclio\b|\bmegane\b/.test(m)) return 'Hatch'
   return 'Sedan'
 }
 
@@ -417,10 +435,39 @@ const CARGO = {
     'Cherokee': ()=> 673, 'Compass': ()=> 438,
     'Renegade': ()=> 351, 'Gladiator': ()=> 1069,
   },
+  'RAM': {
+    '1500 Classic': ()=> 1090, '1500': ()=> 1090, '1500 TRX': ()=> 1090, '2500': ()=> 1090,
+  },
+  'Alfa Romeo': {
+    'Giulia': ()=> 480, 'Stelvio': ()=> 525, 'Tonale': ()=> 500,
+  },
+  'Jaguar': {
+    'F-Pace': ()=> 650, 'F-Type': ()=> 196, 'E-Pace': ()=> 577,
+    'I-Pace': ()=> 656, 'XE': ()=> 455, 'XF': ()=> 540,
+  },
+  'CUPRA': {
+    'Formentor': ()=> 450, 'Born': ()=> 385, 'Leon': ()=> 380,
+  },
+  'Polestar': {
+    'Polestar 2': ()=> 405, 'Polestar 3': ()=> 484, 'Polestar 4': ()=> 526,
+  },
+  'Skoda': {
+    'Octavia': ()=> 590, 'Superb': ()=> 625, 'Karoq': ()=> 521,
+    'Kodiaq': ()=> 630, 'Enyaq': ()=> 585, 'Fabia': ()=> 380,
+  },
+  'LDV': {
+    'T60': ()=> 1090, 'MIFA 9': ()=> 600,
+  },
+  'Chery': {
+    'Omoda 5': ()=> 410, 'Tiggo 7 Pro': ()=> 475, 'Tiggo 8 Pro': ()=> 615,
+  },
+  'Renault': {
+    'Clio': ()=> 391, 'Megane E-Tech': ()=> 440, 'Koleos': ()=> 458, 'Arkana': ()=> 480,
+  },
 }
 
 // ── Main patch loop ───────────────────────────────────────────────────────────
-const SUPPLEMENTS = [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64]
+const SUPPLEMENTS = [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70]
 
 let totalFields = 0
 

@@ -158,6 +158,42 @@ function getBodyType(model, trim = '') {
   if (/\bgladiator\b/.test(m)) return 'Ute'
   if (/\bwrangler\b|\bgrand cherokee\b|\bcherokee\b|\bcompass\b|\brenegade\b/.test(m)) return 'SUV'
 
+  // ── RAM ──
+  if (/\b1500\b|\b2500\b/.test(m)) return 'Ute'
+
+  // ── Alfa Romeo ──
+  if (/\bgiulia\b/.test(m)) return 'Sedan'
+  if (/\bstelvio\b|\btonale\b/.test(m)) return 'SUV'
+
+  // ── Jaguar ──
+  if (/\bf-type\b/.test(m)) return 'Coupe'
+  if (/\bf-pace\b|\be-pace\b|\bi-pace\b/.test(m)) return 'SUV'
+  if (/\bxe\b|\bxf\b|\bxj\b/.test(m)) return 'Sedan'
+
+  // ── CUPRA ──
+  if (/\bformentor\b/.test(m)) return 'SUV'
+  if (/\bborn\b|\bleon\b/.test(m)) return 'Hatch'
+
+  // ── Polestar ──
+  if (/\bpolestar 2\b/.test(m)) return 'Sedan'
+  if (/\bpolestar 3\b|\bpolestar 4\b/.test(m)) return 'SUV'
+
+  // ── Skoda ──
+  if (/\benyaq\b|\bkaroq\b|\bkodiaq\b/.test(m)) return 'SUV'
+  if (/\bsuperb\b/.test(m)) return 'Sedan'
+  if (/\boctavia\b|\bfabia\b/.test(m)) return 'Hatch'
+
+  // ── LDV ──
+  if (/\bt60\b/.test(m)) return 'Ute'
+  if (/\bmifa\b/.test(m)) return 'Van'
+
+  // ── Chery ──
+  if (/\bomoda\b|\btiggo\b/.test(m)) return 'SUV'
+
+  // ── Renault ──
+  if (/\bkoleos\b|\barkana\b/.test(m)) return 'SUV'
+  if (/\bclio\b|\bmegane\b/.test(m)) return 'Hatch'
+
   return 'Sedan'
 }
 

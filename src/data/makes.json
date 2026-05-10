@@ -23984,5 +23984,311 @@
       "2025": ["Sport S", "Rubicon"],
       "2026": ["Sport S", "Rubicon"]
     }
+  },
+  "RAM": {
+    "1500 Classic": {
+      "2019": ["Express", "Warlock", "Laramie Sport"],
+      "2020": ["Express", "Warlock", "Laramie Sport"],
+      "2021": ["Express", "Warlock", "Laramie Sport"]
+    },
+    "1500": {
+      "2019": ["Express", "Warlock", "Laramie", "Limited"],
+      "2020": ["Express", "Warlock", "Laramie", "Limited"],
+      "2021": ["Express", "Warlock", "Laramie", "Limited"],
+      "2022": ["Express", "Warlock", "Laramie", "Limited"],
+      "2023": ["Express", "Warlock", "Laramie", "Limited"],
+      "2024": ["Express", "Warlock", "Laramie", "Limited"],
+      "2025": ["Express", "Warlock", "Laramie", "Limited"],
+      "2026": ["Express", "Warlock", "Laramie", "Limited"]
+    },
+    "1500 TRX": {
+      "2022": ["TRX"],
+      "2023": ["TRX"],
+      "2024": ["TRX"],
+      "2025": ["TRX"],
+      "2026": ["TRX"]
+    },
+    "2500": {
+      "2021": ["Laramie", "Longhorn"],
+      "2022": ["Laramie", "Longhorn"],
+      "2023": ["Laramie", "Longhorn"],
+      "2024": ["Laramie", "Longhorn"],
+      "2025": ["Laramie", "Longhorn"],
+      "2026": ["Laramie", "Longhorn"]
+    }
+  },
+  "Alfa Romeo": {
+    "Giulia": {
+      "2017": ["Ti", "Veloce", "Quadrifoglio"],
+      "2018": ["Ti", "Veloce", "Quadrifoglio"],
+      "2019": ["Ti", "Veloce", "Quadrifoglio"],
+      "2020": ["Ti", "Veloce", "Quadrifoglio"],
+      "2021": ["Ti", "Veloce", "Quadrifoglio"],
+      "2022": ["Ti", "Veloce", "Quadrifoglio"],
+      "2023": ["Ti", "Veloce", "Quadrifoglio"],
+      "2024": ["Ti", "Veloce", "Quadrifoglio"],
+      "2025": ["Ti", "Veloce", "Quadrifoglio"],
+      "2026": ["Ti", "Veloce", "Quadrifoglio"]
+    },
+    "Stelvio": {
+      "2017": ["Ti", "Veloce", "Quadrifoglio"],
+      "2018": ["Ti", "Veloce", "Quadrifoglio"],
+      "2019": ["Ti", "Veloce", "Quadrifoglio"],
+      "2020": ["Ti", "Veloce", "Quadrifoglio"],
+      "2021": ["Ti", "Veloce", "Quadrifoglio"],
+      "2022": ["Ti", "Veloce", "Quadrifoglio"],
+      "2023": ["Ti", "Veloce", "Quadrifoglio"],
+      "2024": ["Ti", "Veloce", "Quadrifoglio"],
+      "2025": ["Ti", "Veloce", "Quadrifoglio"],
+      "2026": ["Ti", "Veloce", "Quadrifoglio"]
+    },
+    "Tonale": {
+      "2023": ["Sprint", "Veloce PHEV"],
+      "2024": ["Sprint", "Veloce PHEV"],
+      "2025": ["Sprint", "Veloce PHEV"],
+      "2026": ["Sprint", "Veloce PHEV"]
+    }
+  },
+  "Jaguar": {
+    "F-Pace": {
+      "2016": ["Prestige", "R-Sport", "Portfolio", "SVR"],
+      "2017": ["Prestige", "R-Sport", "Portfolio", "SVR"],
+      "2018": ["Prestige", "R-Sport", "Portfolio", "SVR"],
+      "2019": ["Prestige", "R-Sport", "Portfolio", "SVR"],
+      "2020": ["Prestige", "R-Sport", "Portfolio", "SVR"],
+      "2021": ["Prestige", "R-Dynamic S", "R-Dynamic SE", "SVR"],
+      "2022": ["Prestige", "R-Dynamic S", "R-Dynamic SE", "SVR"],
+      "2023": ["Prestige", "R-Dynamic S", "R-Dynamic SE", "SVR"],
+      "2024": ["Prestige", "R-Dynamic S", "R-Dynamic SE", "SVR"],
+      "2025": ["Prestige", "R-Dynamic S", "R-Dynamic SE", "SVR"],
+      "2026": ["Prestige", "R-Dynamic S", "R-Dynamic SE", "SVR"]
+    },
+    "F-Type": {
+      "2013": ["V6 S", "V8 R"],
+      "2014": ["V6 S", "V8 R"],
+      "2015": ["V6 S", "V8 R"],
+      "2016": ["V6 S", "V8 R"],
+      "2017": ["V6 S", "V8 R"],
+      "2018": ["V6 S", "V8 R"],
+      "2019": ["V6 S", "V8 R"],
+      "2020": ["P300", "R"],
+      "2021": ["P300", "R"],
+      "2022": ["P300", "R"],
+      "2023": ["P300", "R"],
+      "2024": ["P300", "R"],
+      "2025": ["P300", "R"],
+      "2026": ["P300", "R"]
+    },
+    "E-Pace": {
+      "2017": ["P200", "P300"],
+      "2018": ["P200", "P300"],
+      "2019": ["P200", "P300"],
+      "2020": ["P200", "P300"],
+      "2021": ["P200", "P300"],
+      "2022": ["P200", "P300"],
+      "2023": ["P200", "P300"],
+      "2024": ["P200", "P300"],
+      "2025": ["P200", "P300"],
+      "2026": ["P200", "P300"]
+    },
+    "I-Pace": {
+      "2018": ["EV400 SE"],
+      "2019": ["EV400 SE"],
+      "2020": ["EV400 SE"],
+      "2021": ["EV400 SE"],
+      "2022": ["EV400 SE"],
+      "2023": ["EV400 SE"],
+      "2024": ["EV400 SE"],
+      "2025": ["EV400 SE"],
+      "2026": ["EV400 SE"]
+    },
+    "XE": {
+      "2015": ["20d", "P250", "S"],
+      "2016": ["20d", "P250", "S"],
+      "2017": ["20d", "P250", "S"],
+      "2018": ["20d", "P250", "S"],
+      "2019": ["20d", "P250", "S"]
+    },
+    "XF": {
+      "2016": ["20d", "P250", "P300", "S"],
+      "2017": ["20d", "P250", "P300", "S"],
+      "2018": ["20d", "P250", "P300", "S"],
+      "2019": ["20d", "P250", "P300", "S"],
+      "2020": ["20d", "P250", "P300", "S"],
+      "2021": ["20d", "P250", "P300", "S"]
+    }
+  },
+  "CUPRA": {
+    "Formentor": {
+      "2021": ["V1", "VZ", "VZ5"],
+      "2022": ["V1", "VZ", "VZ5"],
+      "2023": ["V1", "VZ", "VZ5"],
+      "2024": ["V1", "VZ", "VZ5"],
+      "2025": ["V1", "VZ", "VZ5"],
+      "2026": ["V1", "VZ", "VZ5"]
+    },
+    "Born": {
+      "2023": ["V1", "VZ"],
+      "2024": ["V1", "VZ"],
+      "2025": ["V1", "VZ"],
+      "2026": ["V1", "VZ"]
+    }
+  },
+  "Polestar": {
+    "Polestar 2": {
+      "2021": ["Long Range Single Motor", "Long Range Dual Motor"],
+      "2022": ["Long Range Single Motor", "Long Range Dual Motor"],
+      "2023": ["Long Range Single Motor", "Long Range Dual Motor"],
+      "2024": ["Long Range Single Motor", "Long Range Dual Motor"],
+      "2025": ["Long Range Single Motor", "Long Range Dual Motor"],
+      "2026": ["Long Range Single Motor", "Long Range Dual Motor"]
+    },
+    "Polestar 3": {
+      "2024": ["Long Range Dual Motor", "Performance Pack"],
+      "2025": ["Long Range Dual Motor", "Performance Pack"],
+      "2026": ["Long Range Dual Motor", "Performance Pack"]
+    },
+    "Polestar 4": {
+      "2024": ["Long Range Single Motor", "Long Range Dual Motor"],
+      "2025": ["Long Range Single Motor", "Long Range Dual Motor"],
+      "2026": ["Long Range Single Motor", "Long Range Dual Motor"]
+    }
+  },
+  "Skoda": {
+    "Octavia": {
+      "2014": ["Style", "RS"],
+      "2015": ["Style", "RS"],
+      "2016": ["Style", "RS"],
+      "2017": ["Style", "RS"],
+      "2018": ["Style", "RS"],
+      "2019": ["Style", "RS"],
+      "2020": ["Style", "RS"],
+      "2021": ["Style", "RS"],
+      "2022": ["Style", "RS"],
+      "2023": ["Style", "RS"],
+      "2024": ["Style", "RS"],
+      "2025": ["Style", "RS"],
+      "2026": ["Style", "RS"]
+    },
+    "Superb": {
+      "2016": ["Style", "Sportline"],
+      "2017": ["Style", "Sportline"],
+      "2018": ["Style", "Sportline"],
+      "2019": ["Style", "Sportline"],
+      "2020": ["Style", "Sportline"],
+      "2021": ["Style", "Sportline"],
+      "2022": ["Style", "Sportline"],
+      "2023": ["Style", "Sportline"],
+      "2024": ["Style", "Sportline"],
+      "2025": ["Style", "Sportline"],
+      "2026": ["Style", "Sportline"]
+    },
+    "Karoq": {
+      "2018": ["Style", "Sportline"],
+      "2019": ["Style", "Sportline"],
+      "2020": ["Style", "Sportline"],
+      "2021": ["Style", "Sportline"],
+      "2022": ["Style", "Sportline"],
+      "2023": ["Style", "Sportline"],
+      "2024": ["Style", "Sportline"],
+      "2025": ["Style", "Sportline"],
+      "2026": ["Style", "Sportline"]
+    },
+    "Kodiaq": {
+      "2017": ["Style", "Sportline"],
+      "2018": ["Style", "Sportline"],
+      "2019": ["Style", "Sportline"],
+      "2020": ["Style", "Sportline"],
+      "2021": ["Style", "Sportline"],
+      "2022": ["Style", "Sportline"],
+      "2023": ["Style", "Sportline"]
+    },
+    "Enyaq": {
+      "2022": ["60", "85", "RS"],
+      "2023": ["60", "85", "RS"],
+      "2024": ["60", "85", "RS"],
+      "2025": ["60", "85", "RS"],
+      "2026": ["60", "85", "RS"]
+    },
+    "Fabia": {
+      "2022": ["Style", "Monte Carlo"],
+      "2023": ["Style", "Monte Carlo"],
+      "2024": ["Style", "Monte Carlo"],
+      "2025": ["Style", "Monte Carlo"],
+      "2026": ["Style", "Monte Carlo"]
+    }
+  },
+  "LDV": {
+    "T60": {
+      "2018": ["S", "Luxe"],
+      "2019": ["S", "Luxe"],
+      "2020": ["S", "Luxe"],
+      "2021": ["S", "Luxe"],
+      "2022": ["S", "Luxe"],
+      "2023": ["S", "Luxe"],
+      "2024": ["S", "Luxe"],
+      "2025": ["S", "Luxe"],
+      "2026": ["S", "Luxe"]
+    },
+    "MIFA 9": {
+      "2023": ["EV"],
+      "2024": ["EV"],
+      "2025": ["EV"],
+      "2026": ["EV"]
+    }
+  },
+  "Chery": {
+    "Omoda 5": {
+      "2023": ["Turbo"],
+      "2024": ["Turbo"],
+      "2025": ["Turbo"],
+      "2026": ["Turbo"]
+    },
+    "Tiggo 7 Pro": {
+      "2023": ["Turbo"],
+      "2024": ["Turbo"],
+      "2025": ["Turbo"],
+      "2026": ["Turbo"]
+    },
+    "Tiggo 8 Pro": {
+      "2023": ["Turbo"],
+      "2024": ["Turbo"],
+      "2025": ["Turbo"],
+      "2026": ["Turbo"]
+    }
+  },
+  "Renault": {
+    "Clio": {
+      "2020": ["Intens", "RS Line"],
+      "2021": ["Intens", "RS Line"],
+      "2022": ["Intens", "RS Line"],
+      "2023": ["Intens", "RS Line"],
+      "2024": ["Intens", "RS Line"],
+      "2025": ["Intens", "RS Line"],
+      "2026": ["Intens", "RS Line"]
+    },
+    "Megane E-Tech": {
+      "2022": ["EV60"],
+      "2023": ["EV60"],
+      "2024": ["EV60"],
+      "2025": ["EV60"],
+      "2026": ["EV60"]
+    },
+    "Koleos": {
+      "2019": ["Life", "Intens"],
+      "2020": ["Life", "Intens"],
+      "2021": ["Life", "Intens"],
+      "2022": ["Life", "Intens"],
+      "2023": ["Life", "Intens"],
+      "2024": ["Life", "Intens"],
+      "2025": ["Life", "Intens"],
+      "2026": ["Life", "Intens"]
+    },
+    "Arkana": {
+      "2023": ["RS Line E-Tech"],
+      "2024": ["RS Line E-Tech"],
+      "2025": ["RS Line E-Tech"],
+      "2026": ["RS Line E-Tech"]
+    }
   }
 }
