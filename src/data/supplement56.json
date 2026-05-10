@@ -18,7 +18,8 @@
       "acceleration": 10.2,
       "topSpeed": 210,
       "cargo": 460,
-      "quarterMile": "~17.5 sec"
+      "quarterMile": "~17.5 sec",
+      "price": "~$42,990"
     },
     "Volvo|S60|2002|T5": {
       "engine": "2.3L I5 Turbo",
@@ -38,7 +39,8 @@
       "acceleration": 7,
       "topSpeed": 245,
       "cargo": 460,
-      "quarterMile": "~15.4 sec"
+      "quarterMile": "~15.4 sec",
+      "price": "~$54,990"
     },
     "Volvo|S60|2006|2.4": {
       "engine": "2.4L I5",
@@ -58,7 +60,8 @@
       "acceleration": 10.2,
       "topSpeed": 210,
       "cargo": 460,
-      "quarterMile": "~17.5 sec"
+      "quarterMile": "~17.5 sec",
+      "price": "~$44,990"
     },
     "Volvo|S60|2006|T5": {
       "engine": "2.4L I5 Turbo",
@@ -78,7 +81,8 @@
       "acceleration": 8.4,
       "topSpeed": 235,
       "cargo": 460,
-      "quarterMile": "~16.1 sec"
+      "quarterMile": "~16.1 sec",
+      "price": "~$56,990"
     },
     "Volvo|S60|2011|T4": {
       "engine": "1.6L I4 Turbo",
@@ -98,7 +102,8 @@
       "acceleration": 9,
       "topSpeed": 220,
       "cargo": 432,
-      "quarterMile": "~16.5 sec"
+      "quarterMile": "~16.5 sec",
+      "price": "~$47,990"
     },
     "Volvo|S60|2011|T5": {
       "engine": "2.0L I4 Turbo",
@@ -118,7 +123,8 @@
       "acceleration": 8.3,
       "topSpeed": 230,
       "cargo": 432,
-      "quarterMile": "~15.9 sec"
+      "quarterMile": "~15.9 sec",
+      "price": "~$54,990"
     },
     "Volvo|S60|2011|T6": {
       "engine": "3.0L I6 Turbo",
@@ -138,7 +144,8 @@
       "acceleration": 6.2,
       "topSpeed": 250,
       "cargo": 432,
-      "quarterMile": "~14.5 sec"
+      "quarterMile": "~14.5 sec",
+      "price": "~$62,990"
     },
     "Volvo|S60|2015|T4": {
       "engine": "2.0L I4 Turbo",
@@ -158,7 +165,8 @@
       "acceleration": 8.9,
       "topSpeed": 220,
       "cargo": 432,
-      "quarterMile": "~16.5 sec"
+      "quarterMile": "~16.5 sec",
+      "price": "~$49,990"
     },
     "Volvo|S60|2015|T5": {
       "engine": "2.0L I4 Turbo",
@@ -178,7 +186,8 @@
       "acceleration": 7.2,
       "topSpeed": 230,
       "cargo": 432,
-      "quarterMile": "~15.4 sec"
+      "quarterMile": "~15.4 sec",
+      "price": "~$56,990"
     },
     "Volvo|S60|2019|T5": {
       "engine": "2.0L I4 Turbo",
@@ -198,7 +207,8 @@
       "acceleration": 7,
       "topSpeed": 230,
       "cargo": 442,
-      "quarterMile": "~15.2 sec"
+      "quarterMile": "~15.2 sec",
+      "price": "~$59,990"
     },
     "Volvo|S60|2019|T6": {
       "engine": "2.0L I4 Twin Turbo",
@@ -218,7 +228,8 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "cargo": 442,
-      "quarterMile": "~14.3 sec"
+      "quarterMile": "~14.3 sec",
+      "price": "~$69,990"
     },
     "Volvo|S60|2023|B4": {
       "engine": "2.0L I4 Mild Hybrid",
@@ -238,7 +249,8 @@
       "acceleration": 8.5,
       "topSpeed": 220,
       "cargo": 442,
-      "quarterMile": "~16.1 sec"
+      "quarterMile": "~16.1 sec",
+      "price": "~$67,990"
     },
     "Volvo|S60|2023|B5": {
       "engine": "2.0L I4 Mild Hybrid Turbo",
@@ -258,7 +270,8 @@
       "acceleration": 7,
       "topSpeed": 230,
       "cargo": 442,
-      "quarterMile": "~15.2 sec"
+      "quarterMile": "~15.2 sec",
+      "price": "~$74,990"
     },
     "Volvo|S60|2023|T8 Recharge": {
       "engine": "2.0L I4 PHEV",
@@ -278,7 +291,8 @@
       "cargo": 442,
       "quarterMile": "~13.2 sec",
       "fh": 1.4,
-      "fx": 2.1
+      "fx": 2.1,
+      "price": "~$89,990"
     },
     "Volvo|S90|2017|T5": {
       "engine": "2.0L I4 Turbo",
@@ -298,7 +312,8 @@
       "acceleration": 7.4,
       "topSpeed": 230,
       "cargo": 500,
-      "quarterMile": "~15.6 sec"
+      "quarterMile": "~15.6 sec",
+      "price": "~$62,990"
     },
     "Volvo|S90|2017|T6": {
       "engine": "2.0L I4 Twin Turbo",
@@ -318,7 +333,8 @@
       "acceleration": 6,
       "topSpeed": 250,
       "cargo": 500,
-      "quarterMile": "~14.3 sec"
+      "quarterMile": "~14.3 sec",
+      "price": "~$72,990"
     },
     "Volvo|S90|2017|T8 Recharge": {
       "engine": "2.0L I4 PHEV",
@@ -338,7 +354,8 @@
       "cargo": 500,
       "quarterMile": "~13.4 sec",
       "fh": 1.6,
-      "fx": 2.3
+      "fx": 2.3,
+      "price": "~$87,990"
     },
     "Volvo|S90|2021|B5": {
       "engine": "2.0L I4 Mild Hybrid",
@@ -358,7 +375,8 @@
       "acceleration": 7.4,
       "topSpeed": 230,
       "cargo": 500,
-      "quarterMile": "~15.6 sec"
+      "quarterMile": "~15.6 sec",
+      "price": "~$74,990"
     },
     "Volvo|S90|2021|T8 Recharge": {
       "engine": "2.0L I4 PHEV",
@@ -378,7 +396,8 @@
       "cargo": 500,
       "quarterMile": "~13.4 sec",
       "fh": 1.6,
-      "fx": 2.3
+      "fx": 2.3,
+      "price": "~$92,990"
     },
     "Volvo|S90|2024|B5": {
       "engine": "2.0L I4 Mild Hybrid",
@@ -398,7 +417,8 @@
       "acceleration": 7.4,
       "topSpeed": 230,
       "cargo": 500,
-      "quarterMile": "~15.6 sec"
+      "quarterMile": "~15.6 sec",
+      "price": "~$79,990"
     },
     "Volvo|S90|2024|T8 Recharge": {
       "engine": "2.0L I4 PHEV",
@@ -418,7 +438,8 @@
       "cargo": 500,
       "quarterMile": "~13.2 sec",
       "fh": 1.3,
-      "fx": 2
+      "fx": 2,
+      "price": "~$97,990"
     },
     "Volvo|V60|2011|T4": {
       "engine": "1.6L I4 Turbo",
@@ -438,7 +459,8 @@
       "acceleration": 9.2,
       "topSpeed": 220,
       "cargo": 430,
-      "quarterMile": "~16.7 sec"
+      "quarterMile": "~16.7 sec",
+      "price": "~$49,990"
     },
     "Volvo|V60|2011|T5": {
       "engine": "2.0L I4 Turbo",
@@ -458,7 +480,8 @@
       "acceleration": 8.5,
       "topSpeed": 230,
       "cargo": 430,
-      "quarterMile": "~16.1 sec"
+      "quarterMile": "~16.1 sec",
+      "price": "~$54,990"
     },
     "Volvo|V60|2011|T6": {
       "engine": "3.0L I6 Turbo",
@@ -478,7 +501,8 @@
       "acceleration": 6.5,
       "topSpeed": 250,
       "cargo": 430,
-      "quarterMile": "~14.7 sec"
+      "quarterMile": "~14.7 sec",
+      "price": "~$64,990"
     },
     "Volvo|V60|2015|T5": {
       "engine": "2.0L I4 Turbo",
@@ -498,7 +522,8 @@
       "acceleration": 7.4,
       "topSpeed": 230,
       "cargo": 430,
-      "quarterMile": "~15.6 sec"
+      "quarterMile": "~15.6 sec",
+      "price": "~$56,990"
     },
     "Volvo|V60|2019|T5": {
       "engine": "2.0L I4 Turbo",
@@ -518,7 +543,8 @@
       "acceleration": 7.2,
       "topSpeed": 230,
       "cargo": 529,
-      "quarterMile": "~15.4 sec"
+      "quarterMile": "~15.4 sec",
+      "price": "~$62,990"
     },
     "Volvo|V60|2019|T6": {
       "engine": "2.0L I4 Twin Turbo",
@@ -538,7 +564,8 @@
       "acceleration": 6.1,
       "topSpeed": 250,
       "cargo": 529,
-      "quarterMile": "~14.4 sec"
+      "quarterMile": "~14.4 sec",
+      "price": "~$72,990"
     },
     "Volvo|V60|2022|B5": {
       "engine": "2.0L I4 Mild Hybrid",
@@ -558,7 +585,8 @@
       "acceleration": 7.2,
       "topSpeed": 230,
       "cargo": 529,
-      "quarterMile": "~15.4 sec"
+      "quarterMile": "~15.4 sec",
+      "price": "~$74,990"
     },
     "Volvo|V60|2022|T8 Recharge": {
       "engine": "2.0L I4 PHEV",
@@ -578,7 +606,8 @@
       "cargo": 529,
       "quarterMile": "~13.2 sec",
       "fh": 1.4,
-      "fx": 2.1
+      "fx": 2.1,
+      "price": "~$89,990"
     },
     "Volvo|V60|2025|B5": {
       "engine": "2.0L I4 Mild Hybrid",
@@ -598,7 +627,8 @@
       "acceleration": 7.2,
       "topSpeed": 230,
       "cargo": 529,
-      "quarterMile": "~15.4 sec"
+      "quarterMile": "~15.4 sec",
+      "price": "~$76,990"
     },
     "Volvo|V90|2017|T5": {
       "engine": "2.0L I4 Turbo",
@@ -618,7 +648,8 @@
       "acceleration": 7.8,
       "topSpeed": 230,
       "cargo": 560,
-      "quarterMile": "~15.9 sec"
+      "quarterMile": "~15.9 sec",
+      "price": "~$69,990"
     },
     "Volvo|V90|2017|T6": {
       "engine": "2.0L I4 Twin Turbo",
@@ -638,7 +669,8 @@
       "acceleration": 6.2,
       "topSpeed": 250,
       "cargo": 560,
-      "quarterMile": "~14.5 sec"
+      "quarterMile": "~14.5 sec",
+      "price": "~$79,990"
     },
     "Volvo|V90|2017|T8 Recharge": {
       "engine": "2.0L I4 PHEV",
@@ -658,7 +690,8 @@
       "cargo": 560,
       "quarterMile": "~13.6 sec",
       "fh": 1.7,
-      "fx": 2.6
+      "fx": 2.6,
+      "price": "~$89,990"
     },
     "Volvo|V90|2021|B5": {
       "engine": "2.0L I4 Mild Hybrid",
@@ -678,7 +711,8 @@
       "acceleration": 7.8,
       "topSpeed": 230,
       "cargo": 560,
-      "quarterMile": "~15.9 sec"
+      "quarterMile": "~15.9 sec",
+      "price": "~$79,990"
     },
     "Volvo|V90|2021|T8 Recharge": {
       "engine": "2.0L I4 PHEV",
@@ -698,7 +732,8 @@
       "cargo": 560,
       "quarterMile": "~13.6 sec",
       "fh": 1.7,
-      "fx": 2.6
+      "fx": 2.6,
+      "price": "~$94,990"
     },
     "Volvo|V90|2024|B5": {
       "engine": "2.0L I4 Mild Hybrid",
@@ -718,7 +753,8 @@
       "acceleration": 7.8,
       "topSpeed": 230,
       "cargo": 560,
-      "quarterMile": "~15.9 sec"
+      "quarterMile": "~15.9 sec",
+      "price": "~$84,990"
     },
     "Volvo|V90|2024|T8 Recharge": {
       "engine": "2.0L I4 PHEV",
@@ -738,7 +774,8 @@
       "cargo": 560,
       "quarterMile": "~13.4 sec",
       "fh": 1.4,
-      "fx": 2.1
+      "fx": 2.1,
+      "price": "~$99,990"
     },
     "Volvo|V40|2013|T3": {
       "engine": "1.6L I4 Turbo",
@@ -758,7 +795,8 @@
       "acceleration": 10.2,
       "topSpeed": 215,
       "cargo": 335,
-      "quarterMile": "~17.5 sec"
+      "quarterMile": "~17.5 sec",
+      "price": "~$37,990"
     },
     "Volvo|V40|2013|T4": {
       "engine": "1.6L I4 Turbo",
@@ -778,7 +816,8 @@
       "acceleration": 9,
       "topSpeed": 220,
       "cargo": 335,
-      "quarterMile": "~16.5 sec"
+      "quarterMile": "~16.5 sec",
+      "price": "~$42,990"
     },
     "Volvo|V40|2013|T5": {
       "engine": "2.0L I4 Turbo",
@@ -798,7 +837,8 @@
       "acceleration": 7.6,
       "topSpeed": 230,
       "cargo": 335,
-      "quarterMile": "~15.7 sec"
+      "quarterMile": "~15.7 sec",
+      "price": "~$52,990"
     },
     "Volvo|V40|2017|T3": {
       "engine": "1.5L I3 Turbo",
@@ -818,7 +858,8 @@
       "acceleration": 10,
       "topSpeed": 215,
       "cargo": 335,
-      "quarterMile": "~17.3 sec"
+      "quarterMile": "~17.3 sec",
+      "price": "~$39,990"
     },
     "Volvo|V40|2017|T4": {
       "engine": "2.0L I4 Turbo",
@@ -838,7 +879,8 @@
       "acceleration": 8.6,
       "topSpeed": 225,
       "cargo": 335,
-      "quarterMile": "~16.2 sec"
+      "quarterMile": "~16.2 sec",
+      "price": "~$44,990"
     },
     "Volvo|V40|2017|T5": {
       "engine": "2.0L I4 Turbo",
@@ -858,7 +900,8 @@
       "acceleration": 7.6,
       "topSpeed": 230,
       "cargo": 335,
-      "quarterMile": "~15.7 sec"
+      "quarterMile": "~15.7 sec",
+      "price": "~$54,990"
     },
     "Volvo|XC40|2018|T4": {
       "engine": "2.0L I4 Turbo",
@@ -878,7 +921,8 @@
       "acceleration": 8.5,
       "topSpeed": 205,
       "cargo": 460,
-      "quarterMile": "~16.1 sec"
+      "quarterMile": "~16.1 sec",
+      "price": "~$47,990"
     },
     "Volvo|XC40|2018|T5": {
       "engine": "2.0L I4 Twin Turbo",
@@ -898,7 +942,8 @@
       "acceleration": 6.4,
       "topSpeed": 210,
       "cargo": 460,
-      "quarterMile": "~14.7 sec"
+      "quarterMile": "~14.7 sec",
+      "price": "~$54,990"
     },
     "Volvo|XC40|2021|B3": {
       "engine": "1.5L I3 Mild Hybrid",
@@ -918,7 +963,8 @@
       "acceleration": 10.5,
       "topSpeed": 195,
       "cargo": 460,
-      "quarterMile": "~17.8 sec"
+      "quarterMile": "~17.8 sec",
+      "price": "~$49,990"
     },
     "Volvo|XC40|2021|B5": {
       "engine": "2.0L I4 Mild Hybrid",
@@ -938,7 +984,8 @@
       "acceleration": 6.4,
       "topSpeed": 210,
       "cargo": 460,
-      "quarterMile": "~14.7 sec"
+      "quarterMile": "~14.7 sec",
+      "price": "~$56,990"
     },
     "Volvo|XC40|2021|Recharge P8": {
       "engine": "Dual Motor Electric",
@@ -957,7 +1004,8 @@
       "acceleration": 4.9,
       "topSpeed": 180,
       "cargo": 419,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "price": "~$74,990"
     },
     "Volvo|XC40|2024|B4": {
       "engine": "2.0L I4 Mild Hybrid",
@@ -977,7 +1025,8 @@
       "acceleration": 8.9,
       "topSpeed": 200,
       "cargo": 460,
-      "quarterMile": "~16.4 sec"
+      "quarterMile": "~16.4 sec",
+      "price": "~$54,990"
     },
     "Volvo|XC40|2024|Recharge": {
       "engine": "Single Motor Electric",
@@ -996,7 +1045,8 @@
       "acceleration": 7.4,
       "topSpeed": 160,
       "cargo": 419,
-      "quarterMile": "~15.6 sec"
+      "quarterMile": "~15.6 sec",
+      "price": "~$69,990"
     },
     "Volvo|XC60|2009|T6": {
       "engine": "3.0L I6 Turbo",
@@ -1016,7 +1066,8 @@
       "acceleration": 7.5,
       "topSpeed": 210,
       "cargo": 495,
-      "quarterMile": "~15.6 sec"
+      "quarterMile": "~15.6 sec",
+      "price": "~$62,990"
     },
     "Volvo|XC60|2009|T5": {
       "engine": "2.4L I5 Turbo",
@@ -1036,7 +1087,8 @@
       "acceleration": 9,
       "topSpeed": 200,
       "cargo": 495,
-      "quarterMile": "~16.5 sec"
+      "quarterMile": "~16.5 sec",
+      "price": "~$52,990"
     },
     "Volvo|XC60|2013|T5": {
       "engine": "2.0L I4 Turbo",
@@ -1056,7 +1108,8 @@
       "acceleration": 9.2,
       "topSpeed": 200,
       "cargo": 495,
-      "quarterMile": "~16.7 sec"
+      "quarterMile": "~16.7 sec",
+      "price": "~$54,990"
     },
     "Volvo|XC60|2013|T6": {
       "engine": "3.0L I6 Turbo",
@@ -1076,7 +1129,8 @@
       "acceleration": 6.8,
       "topSpeed": 210,
       "cargo": 495,
-      "quarterMile": "~15.0 sec"
+      "quarterMile": "~15.0 sec",
+      "price": "~$64,990"
     },
     "Volvo|XC60|2018|T5": {
       "engine": "2.0L I4 Turbo",
@@ -1096,7 +1150,8 @@
       "acceleration": 6.9,
       "topSpeed": 210,
       "cargo": 505,
-      "quarterMile": "~15.1 sec"
+      "quarterMile": "~15.1 sec",
+      "price": "~$59,990"
     },
     "Volvo|XC60|2018|T6": {
       "engine": "2.0L I4 Twin Turbo",
@@ -1116,7 +1171,8 @@
       "acceleration": 5.8,
       "topSpeed": 230,
       "cargo": 505,
-      "quarterMile": "~14.1 sec"
+      "quarterMile": "~14.1 sec",
+      "price": "~$69,990"
     },
     "Volvo|XC60|2018|T8 Recharge": {
       "engine": "2.0L I4 PHEV",
@@ -1136,7 +1192,8 @@
       "cargo": 505,
       "quarterMile": "~13.7 sec",
       "fh": 1.8,
-      "fx": 2.7
+      "fx": 2.7,
+      "price": "~$84,990"
     },
     "Volvo|XC60|2022|B5": {
       "engine": "2.0L I4 Mild Hybrid",
@@ -1156,7 +1213,8 @@
       "acceleration": 6.9,
       "topSpeed": 210,
       "cargo": 505,
-      "quarterMile": "~15.1 sec"
+      "quarterMile": "~15.1 sec",
+      "price": "~$74,990"
     },
     "Volvo|XC60|2022|T8 Recharge": {
       "engine": "2.0L I4 PHEV",
@@ -1176,7 +1234,8 @@
       "cargo": 505,
       "quarterMile": "~13.4 sec",
       "fh": 1.6,
-      "fx": 2.3
+      "fx": 2.3,
+      "price": "~$89,990"
     },
     "Volvo|XC60|2025|B5": {
       "engine": "2.0L I4 Mild Hybrid",
@@ -1196,7 +1255,8 @@
       "acceleration": 6.9,
       "topSpeed": 210,
       "cargo": 505,
-      "quarterMile": "~15.1 sec"
+      "quarterMile": "~15.1 sec",
+      "price": "~$77,990"
     },
     "Volvo|XC60|2025|T8 Recharge": {
       "engine": "2.0L I4 PHEV",
@@ -1216,7 +1276,8 @@
       "cargo": 505,
       "quarterMile": "~13.4 sec",
       "fh": 1.6,
-      "fx": 2.3
+      "fx": 2.3,
+      "price": "~$92,990"
     },
     "Volvo|XC90|2003|T6": {
       "engine": "2.9L I6 Twin Turbo",
@@ -1236,7 +1297,8 @@
       "acceleration": 9.2,
       "topSpeed": 200,
       "cargo": 314,
-      "quarterMile": "~16.7 sec"
+      "quarterMile": "~16.7 sec",
+      "price": "~$69,990"
     },
     "Volvo|XC90|2003|2.5T": {
       "engine": "2.5L I5 Turbo",
@@ -1256,7 +1318,8 @@
       "acceleration": 10.5,
       "topSpeed": 195,
       "cargo": 314,
-      "quarterMile": "~17.8 sec"
+      "quarterMile": "~17.8 sec",
+      "price": "~$64,990"
     },
     "Volvo|XC90|2008|T6": {
       "engine": "2.9L I6 Twin Turbo",
@@ -1276,7 +1339,8 @@
       "acceleration": 9,
       "topSpeed": 200,
       "cargo": 314,
-      "quarterMile": "~16.5 sec"
+      "quarterMile": "~16.5 sec",
+      "price": "~$79,990"
     },
     "Volvo|XC90|2008|V8": {
       "engine": "4.4L V8",
@@ -1296,7 +1360,8 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "cargo": 314,
-      "quarterMile": "~16.1 sec"
+      "quarterMile": "~16.1 sec",
+      "price": "~$89,990"
     },
     "Volvo|XC90|2016|T5": {
       "engine": "2.0L I4 Turbo",
@@ -1316,7 +1381,8 @@
       "acceleration": 7.7,
       "topSpeed": 210,
       "cargo": 314,
-      "quarterMile": "~15.8 sec"
+      "quarterMile": "~15.8 sec",
+      "price": "~$74,990"
     },
     "Volvo|XC90|2016|T6": {
       "engine": "2.0L I4 Twin Turbo",
@@ -1336,7 +1402,8 @@
       "acceleration": 6.5,
       "topSpeed": 230,
       "cargo": 314,
-      "quarterMile": "~14.7 sec"
+      "quarterMile": "~14.7 sec",
+      "price": "~$84,990"
     },
     "Volvo|XC90|2016|T8 Recharge": {
       "engine": "2.0L I4 PHEV",
@@ -1356,7 +1423,8 @@
       "cargo": 314,
       "quarterMile": "~13.9 sec",
       "fh": 1.7,
-      "fx": 2.6
+      "fx": 2.6,
+      "price": "~$99,990"
     },
     "Volvo|XC90|2020|B5": {
       "engine": "2.0L I4 Mild Hybrid",
@@ -1376,7 +1444,8 @@
       "acceleration": 7.7,
       "topSpeed": 210,
       "cargo": 314,
-      "quarterMile": "~15.8 sec"
+      "quarterMile": "~15.8 sec",
+      "price": "~$84,990"
     },
     "Volvo|XC90|2020|T8 Recharge": {
       "engine": "2.0L I4 PHEV",
@@ -1396,7 +1465,8 @@
       "cargo": 314,
       "quarterMile": "~13.9 sec",
       "fh": 1.7,
-      "fx": 2.6
+      "fx": 2.6,
+      "price": "~$99,990"
     },
     "Volvo|XC90|2024|B5": {
       "engine": "2.0L I4 Mild Hybrid",
@@ -1416,7 +1486,8 @@
       "acceleration": 7.7,
       "topSpeed": 210,
       "cargo": 314,
-      "quarterMile": "~15.8 sec"
+      "quarterMile": "~15.8 sec",
+      "price": "~$89,990"
     },
     "Volvo|XC90|2024|T8 Recharge": {
       "engine": "2.0L I4 PHEV",
@@ -1436,7 +1507,8 @@
       "cargo": 314,
       "quarterMile": "~13.7 sec",
       "fh": 1.6,
-      "fx": 2.3
+      "fx": 2.3,
+      "price": "~$104,990"
     },
     "Volvo|C40 Recharge|2022|Single Motor": {
       "engine": "Single Motor Electric",
@@ -1455,7 +1527,8 @@
       "acceleration": 7.4,
       "topSpeed": 160,
       "cargo": 419,
-      "quarterMile": "~15.6 sec"
+      "quarterMile": "~15.6 sec",
+      "price": "~$64,990"
     },
     "Volvo|C40 Recharge|2022|Twin Motor": {
       "engine": "Dual Motor Electric",
@@ -1474,7 +1547,8 @@
       "acceleration": 4.7,
       "topSpeed": 180,
       "cargo": 419,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "price": "~$74,990"
     },
     "Volvo|C40 Recharge|2025|Extended Range": {
       "engine": "Single Motor Electric",
@@ -1493,7 +1567,8 @@
       "acceleration": 6.2,
       "topSpeed": 180,
       "cargo": 419,
-      "quarterMile": "~14.5 sec"
+      "quarterMile": "~14.5 sec",
+      "price": "~$69,990"
     },
     "Volvo|EX30|2024|Single Motor": {
       "engine": "Single Motor Electric",
@@ -1512,7 +1587,8 @@
       "acceleration": 5.3,
       "topSpeed": 180,
       "cargo": 318,
-      "quarterMile": "~13.7 sec"
+      "quarterMile": "~13.7 sec",
+      "price": "~$44,990"
     },
     "Volvo|EX30|2024|Twin Motor": {
       "engine": "Dual Motor Electric",
@@ -1531,7 +1607,8 @@
       "acceleration": 3.6,
       "topSpeed": 180,
       "cargo": 318,
-      "quarterMile": "~12.4 sec"
+      "quarterMile": "~12.4 sec",
+      "price": "~$54,990"
     },
     "Volvo|EX30|2025|Extended Range": {
       "engine": "Single Motor Electric",
@@ -1550,7 +1627,8 @@
       "acceleration": 5.7,
       "topSpeed": 180,
       "cargo": 318,
-      "quarterMile": "~14.0 sec"
+      "quarterMile": "~14.0 sec",
+      "price": "~$47,990"
     },
     "Volvo|EX90|2025|Twin Motor": {
       "engine": "Dual Motor Electric",
@@ -1569,7 +1647,8 @@
       "acceleration": 5.9,
       "topSpeed": 180,
       "cargo": 310,
-      "quarterMile": "~14.2 sec"
+      "quarterMile": "~14.2 sec",
+      "price": "~$119,990"
     },
     "Volvo|EX90|2025|Twin Motor Performance": {
       "engine": "Dual Motor Electric Performance",
@@ -1588,7 +1667,8 @@
       "acceleration": 4.9,
       "topSpeed": 180,
       "cargo": 310,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "price": "~$139,990"
     },
     "Volvo|S60|2009|2.4": {
       "engine": "2.4L I5",
@@ -1608,7 +1688,8 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "cargo": 442,
-      "quarterMile": "~16.8 sec"
+      "quarterMile": "~16.8 sec",
+      "price": "~$46,990"
     },
     "Volvo|S60|2014|T6": {
       "engine": "3.0L I6 Turbo",
@@ -1628,7 +1709,8 @@
       "acceleration": 5.2,
       "topSpeed": 250,
       "cargo": 442,
-      "quarterMile": "~13.5 sec"
+      "quarterMile": "~13.5 sec",
+      "price": "~$64,990"
     },
     "Volvo|S60|2018|T4": {
       "engine": "2.0L I4 Turbo",
@@ -1648,7 +1730,8 @@
       "acceleration": 6.4,
       "topSpeed": 215,
       "cargo": 442,
-      "quarterMile": "~14.7 sec"
+      "quarterMile": "~14.7 sec",
+      "price": "~$52,990"
     },
     "Volvo|S60|2021|T5": {
       "engine": "2.0L I4 Turbo",
@@ -1668,7 +1751,8 @@
       "acceleration": 5.2,
       "topSpeed": 235,
       "cargo": 442,
-      "quarterMile": "~13.5 sec"
+      "quarterMile": "~13.5 sec",
+      "price": "~$62,990"
     },
     "Volvo|S60|2021|T6": {
       "engine": "2.0L I4 Twin Turbo",
@@ -1688,7 +1772,8 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "cargo": 442,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "price": "~$72,990"
     },
     "Volvo|S60|2025|B4": {
       "engine": "2.0L I4 Mild Hybrid",
@@ -1708,7 +1793,8 @@
       "acceleration": 6.3,
       "topSpeed": 235,
       "cargo": 442,
-      "quarterMile": "~14.6 sec"
+      "quarterMile": "~14.6 sec",
+      "price": "~$69,990"
     },
     "Volvo|S60|2025|B5": {
       "engine": "2.0L I4 Mild Hybrid Turbo",
@@ -1728,7 +1814,8 @@
       "acceleration": 5.4,
       "topSpeed": 235,
       "cargo": 442,
-      "quarterMile": "~13.7 sec"
+      "quarterMile": "~13.7 sec",
+      "price": "~$76,990"
     },
     "Volvo|S60|2025|T8 Recharge": {
       "engine": "2.0L I4 PHEV",
@@ -1748,7 +1835,8 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "cargo": 442,
-      "quarterMile": "~12.7 sec"
+      "quarterMile": "~12.7 sec",
+      "price": "~$92,990"
     },
     "Volvo|S90|2020|T5": {
       "engine": "2.0L I4 Turbo",
@@ -1768,7 +1856,8 @@
       "acceleration": 5.4,
       "topSpeed": 235,
       "cargo": 500,
-      "quarterMile": "~13.7 sec"
+      "quarterMile": "~13.7 sec",
+      "price": "~$64,990"
     },
     "Volvo|S90|2020|T6": {
       "engine": "2.0L I4 Twin Turbo",
@@ -1788,7 +1877,8 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "cargo": 500,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "price": "~$74,990"
     },
     "Volvo|V60|2014|T4": {
       "engine": "1.6L I4 Turbo",
@@ -1808,7 +1898,8 @@
       "acceleration": 7.1,
       "topSpeed": 215,
       "cargo": 529,
-      "quarterMile": "~15.4 sec"
+      "quarterMile": "~15.4 sec",
+      "price": "~$51,990"
     },
     "Volvo|V60|2014|T6": {
       "engine": "3.0L I6 Turbo",
@@ -1828,7 +1919,8 @@
       "acceleration": 5.3,
       "topSpeed": 250,
       "cargo": 529,
-      "quarterMile": "~13.6 sec"
+      "quarterMile": "~13.6 sec",
+      "price": "~$67,990"
     },
     "Volvo|V60|2017|T4": {
       "engine": "2.0L I4 Turbo",
@@ -1848,7 +1940,8 @@
       "acceleration": 6.6,
       "topSpeed": 215,
       "cargo": 529,
-      "quarterMile": "~14.9 sec"
+      "quarterMile": "~14.9 sec",
+      "price": "~$53,990"
     },
     "Volvo|V60|2025|T8 Recharge": {
       "engine": "2.0L I4 PHEV",
@@ -1868,7 +1961,8 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "cargo": 529,
-      "quarterMile": "~12.7 sec"
+      "quarterMile": "~12.7 sec",
+      "price": "~$92,990"
     },
     "Volvo|V90|2019|T5": {
       "engine": "2.0L I4 Turbo",
@@ -1888,7 +1982,8 @@
       "acceleration": 5.5,
       "topSpeed": 235,
       "cargo": 560,
-      "quarterMile": "~13.8 sec"
+      "quarterMile": "~13.8 sec",
+      "price": "~$71,990"
     },
     "Volvo|V90|2019|T6": {
       "engine": "2.0L I4 Twin Turbo",
@@ -1908,7 +2003,8 @@
       "acceleration": 5,
       "topSpeed": 250,
       "cargo": 560,
-      "quarterMile": "~13.3 sec"
+      "quarterMile": "~13.3 sec",
+      "price": "~$81,990"
     },
     "Volvo|XC60|2020|T5": {
       "engine": "2.0L I4 Turbo",
@@ -1928,7 +2024,8 @@
       "acceleration": 5.7,
       "topSpeed": 235,
       "cargo": 505,
-      "quarterMile": "~14.0 sec"
+      "quarterMile": "~14.0 sec",
+      "price": "~$61,990"
     },
     "Volvo|XC60|2020|T6": {
       "engine": "2.0L I4 Twin Turbo",
@@ -1948,7 +2045,8 @@
       "acceleration": 5,
       "topSpeed": 250,
       "cargo": 505,
-      "quarterMile": "~13.3 sec"
+      "quarterMile": "~13.3 sec",
+      "price": "~$71,990"
     },
     "Volvo|XC90|2006|2.5T": {
       "engine": "2.5L I5 Turbo",
@@ -1968,7 +2066,8 @@
       "acceleration": 8.3,
       "topSpeed": 235,
       "cargo": 314,
-      "quarterMile": "~16.6 sec"
+      "quarterMile": "~16.6 sec",
+      "price": "~$67,990"
     },
     "Volvo|XC90|2012|T6": {
       "engine": "2.9L I6 Twin Turbo",
@@ -1988,7 +2087,8 @@
       "acceleration": 6.7,
       "topSpeed": 250,
       "cargo": 314,
-      "quarterMile": "~15.0 sec"
+      "quarterMile": "~15.0 sec",
+      "price": "~$84,990"
     },
     "Volvo|XC90|2012|V8": {
       "engine": "4.4L V8",
@@ -2008,7 +2108,8 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "cargo": 314,
-      "quarterMile": "~14.6 sec"
+      "quarterMile": "~14.6 sec",
+      "price": "~$94,990"
     },
     "Volvo|XC90|2019|T5": {
       "engine": "2.0L I4 Turbo",
@@ -2028,7 +2129,8 @@
       "acceleration": 6.1,
       "topSpeed": 235,
       "cargo": 314,
-      "quarterMile": "~14.4 sec"
+      "quarterMile": "~14.4 sec",
+      "price": "~$77,990"
     },
     "Volvo|XC90|2019|T6": {
       "engine": "2.0L I4 Twin Turbo",
@@ -2048,7 +2150,8 @@
       "acceleration": 5.3,
       "topSpeed": 250,
       "cargo": 314,
-      "quarterMile": "~13.6 sec"
+      "quarterMile": "~13.6 sec",
+      "price": "~$87,990"
     },
     "Volvo|C40 Recharge|2024|Twin Motor": {
       "engine": "Dual Motor Electric",
@@ -2066,7 +2169,8 @@
       "bodyStyle": "SUV",
       "acceleration": 3.3,
       "topSpeed": 200,
-      "cargo": 419
+      "cargo": 419,
+      "price": "~$77,990"
     }
   }
 }

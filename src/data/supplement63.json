@@ -17,7 +17,8 @@
       "acceleration": 9.4,
       "topSpeed": 185,
       "cargo": 333,
-      "quarterMile": "~17.1 sec"
+      "quarterMile": "~17.1 sec",
+      "price": "~$89,990"
     },
     "Kia|EV9|2024|Earth Long Range": {
       "engine": "Single Motor Electric",
@@ -36,7 +37,8 @@
       "acceleration": 9.4,
       "topSpeed": 185,
       "cargo": 333,
-      "quarterMile": "~17.1 sec"
+      "quarterMile": "~17.1 sec",
+      "price": "~$99,990"
     },
     "Kia|EV9|2024|GT-Line": {
       "engine": "Dual Motor Electric",
@@ -55,7 +57,8 @@
       "acceleration": 5.3,
       "topSpeed": 200,
       "cargo": 333,
-      "quarterMile": "~13.5 sec"
+      "quarterMile": "~13.5 sec",
+      "price": "~$109,990"
     },
     "Hyundai|Ioniq 5 N|2024|N": {
       "engine": "Dual Motor Electric",
@@ -74,7 +77,8 @@
       "acceleration": 3.4,
       "topSpeed": 260,
       "cargo": 527,
-      "quarterMile": "~11.7 sec"
+      "quarterMile": "~11.7 sec",
+      "price": "~$109,990"
     },
     "Honda|CR-V|2024|VTi": {
       "engine": "2.0L i-MMD e:HEV",
@@ -94,7 +98,8 @@
       "cargo": 589,
       "fh": 4.8,
       "fx": 7.1,
-      "quarterMile": "~16.1 sec"
+      "quarterMile": "~16.1 sec",
+      "price": "~$47,990"
     },
     "Honda|CR-V|2024|VTi-L": {
       "engine": "2.0L i-MMD e:HEV",
@@ -114,7 +119,8 @@
       "cargo": 589,
       "fh": 4.8,
       "fx": 7.1,
-      "quarterMile": "~16.1 sec"
+      "quarterMile": "~16.1 sec",
+      "price": "~$55,990"
     },
     "Honda|CR-V|2024|VTi-LX": {
       "engine": "2.0L i-MMD e:HEV",
@@ -134,7 +140,8 @@
       "cargo": 589,
       "fh": 4.8,
       "fx": 7.1,
-      "quarterMile": "~16.1 sec"
+      "quarterMile": "~16.1 sec",
+      "price": "~$61,990"
     },
     "Volkswagen|ID.7|2024|Pro": {
       "engine": "Single Motor Electric",
@@ -153,7 +160,8 @@
       "acceleration": 6.5,
       "topSpeed": 180,
       "cargo": 532,
-      "quarterMile": "~14.6 sec"
+      "quarterMile": "~14.6 sec",
+      "price": "~$74,990"
     },
     "Volkswagen|ID.7|2024|Pro S": {
       "engine": "Single Motor Electric",
@@ -172,7 +180,8 @@
       "acceleration": 6.5,
       "topSpeed": 180,
       "cargo": 532,
-      "quarterMile": "~14.6 sec"
+      "quarterMile": "~14.6 sec",
+      "price": "~$84,990"
     },
     "Mercedes-Benz|EQE SUV|2023|350": {
       "engine": "Single Motor Electric",
@@ -191,7 +200,8 @@
       "acceleration": 6.6,
       "topSpeed": 210,
       "cargo": 520,
-      "quarterMile": "~14.8 sec"
+      "quarterMile": "~14.8 sec",
+      "price": "~$119,990"
     },
     "Mercedes-Benz|EQE SUV|2023|500 4MATIC": {
       "engine": "Dual Motor Electric",
@@ -210,7 +220,8 @@
       "acceleration": 4.9,
       "topSpeed": 210,
       "cargo": 520,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "price": "~$139,990"
     },
     "Mercedes-Benz|EQE SUV|2023|AMG EQE 43": {
       "engine": "Dual Motor Electric",
@@ -229,7 +240,8 @@
       "acceleration": 4.2,
       "topSpeed": 210,
       "cargo": 520,
-      "quarterMile": "~12.4 sec"
+      "quarterMile": "~12.4 sec",
+      "price": "~$179,990"
     },
     "Mercedes-Benz|EQE SUV|2025|350": {
       "engine": "Single Motor Electric",
@@ -248,7 +260,8 @@
       "acceleration": 6.6,
       "topSpeed": 210,
       "cargo": 520,
-      "quarterMile": "~14.8 sec"
+      "quarterMile": "~14.8 sec",
+      "price": "~$124,990"
     },
     "Mercedes-Benz|EQE SUV|2025|500 4MATIC": {
       "engine": "Dual Motor Electric",
@@ -267,7 +280,8 @@
       "acceleration": 4.9,
       "topSpeed": 210,
       "cargo": 520,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "price": "~$144,990"
     },
     "Mercedes-Benz|EQE SUV|2025|AMG EQE 43": {
       "engine": "Dual Motor Electric",
@@ -286,7 +300,8 @@
       "acceleration": 4.2,
       "topSpeed": 210,
       "cargo": 520,
-      "quarterMile": "~12.4 sec"
+      "quarterMile": "~12.4 sec",
+      "price": "~$184,990"
     },
     "Mercedes-Benz|EQS SUV|2023|450": {
       "engine": "Single Motor Electric",
@@ -305,7 +320,8 @@
       "acceleration": 6.3,
       "topSpeed": 210,
       "cargo": 645,
-      "quarterMile": "~14.4 sec"
+      "quarterMile": "~14.4 sec",
+      "price": "~$159,990"
     },
     "Mercedes-Benz|EQS SUV|2023|580 4MATIC": {
       "engine": "Dual Motor Electric",
@@ -324,7 +340,8 @@
       "acceleration": 4.7,
       "topSpeed": 210,
       "cargo": 645,
-      "quarterMile": "~12.9 sec"
+      "quarterMile": "~12.9 sec",
+      "price": "~$189,990"
     },
     "Mercedes-Benz|EQS SUV|2023|AMG EQS 53": {
       "engine": "Dual Motor Electric",
@@ -343,7 +360,8 @@
       "acceleration": 4,
       "topSpeed": 250,
       "cargo": 645,
-      "quarterMile": "~12.1 sec"
+      "quarterMile": "~12.1 sec",
+      "price": "~$249,990"
     },
     "Mercedes-Benz|EQS SUV|2025|450": {
       "engine": "Single Motor Electric",
@@ -362,7 +380,8 @@
       "acceleration": 6.3,
       "topSpeed": 210,
       "cargo": 645,
-      "quarterMile": "~14.4 sec"
+      "quarterMile": "~14.4 sec",
+      "price": "~$164,990"
     },
     "Mercedes-Benz|EQS SUV|2025|580 4MATIC": {
       "engine": "Dual Motor Electric",
@@ -381,7 +400,8 @@
       "acceleration": 4.7,
       "topSpeed": 210,
       "cargo": 645,
-      "quarterMile": "~12.9 sec"
+      "quarterMile": "~12.9 sec",
+      "price": "~$194,990"
     },
     "Mercedes-Benz|EQS SUV|2025|AMG EQS 53": {
       "engine": "Dual Motor Electric",
@@ -400,7 +420,8 @@
       "acceleration": 4,
       "topSpeed": 250,
       "cargo": 645,
-      "quarterMile": "~12.1 sec"
+      "quarterMile": "~12.1 sec",
+      "price": "~$254,990"
     }
   }
 }

@@ -18,7 +18,8 @@
       "drivetrain": "AWD",
       "fh": 6.3,
       "fx": 12,
-      "quarterMile": "~13.2 sec"
+      "quarterMile": "~13.2 sec",
+      "price": "~$54,990"
     },
     "Audi|S3|2017|S3": {
       "engine": "2.0 TFSI quattro",
@@ -38,7 +39,8 @@
       "drivetrain": "AWD",
       "fh": 6.3,
       "fx": 12,
-      "quarterMile": "~13.2 sec"
+      "quarterMile": "~13.2 sec",
+      "price": "~$59,990"
     },
     "Audi|S3|2020|S3": {
       "engine": "2.0 TFSI quattro",
@@ -58,7 +60,8 @@
       "drivetrain": "AWD",
       "fh": 6.7,
       "fx": 12.8,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "price": "~$63,990"
     },
     "Audi|RS3|2011|RS3": {
       "engine": "2.5 TFSI",
@@ -78,7 +81,8 @@
       "drivetrain": "AWD",
       "fh": 8,
       "fx": 15.2,
-      "quarterMile": "~12.9 sec"
+      "quarterMile": "~12.9 sec",
+      "price": "~$74,990"
     },
     "Audi|RS3|2017|RS3": {
       "engine": "2.5 TFSI",
@@ -98,7 +102,8 @@
       "drivetrain": "AWD",
       "fh": 7.5,
       "fx": 14.4,
-      "quarterMile": "~12.4 sec"
+      "quarterMile": "~12.4 sec",
+      "price": "~$84,990"
     },
     "Audi|RS3|2022|RS3": {
       "engine": "2.5 TFSI",
@@ -139,7 +144,8 @@
       "drivetrain": "AWD",
       "fh": 9.6,
       "fx": 18.3,
-      "quarterMile": "~13.9 sec"
+      "quarterMile": "~13.9 sec",
+      "price": "~$84,990"
     },
     "Audi|S4|2007|S4": {
       "engine": "4.2 V8",
@@ -159,7 +165,8 @@
       "drivetrain": "AWD",
       "fh": 9.6,
       "fx": 18.3,
-      "quarterMile": "~13.9 sec"
+      "quarterMile": "~13.9 sec",
+      "price": "~$94,990"
     },
     "Audi|S4|2010|S4": {
       "engine": "3.0 TFSI supercharged",
@@ -179,7 +186,8 @@
       "drivetrain": "AWD",
       "fh": 7,
       "fx": 13.4,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "price": "~$99,990"
     },
     "Audi|S4|2016|S4": {
       "engine": "3.0 TFSI",
@@ -199,7 +207,8 @@
       "drivetrain": "AWD",
       "fh": 6.2,
       "fx": 11.8,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "price": "~$109,900"
     },
     "Audi|S4|2018|S4": {
       "engine": "3.0 TFSI quattro",
@@ -219,7 +228,8 @@
       "drivetrain": "AWD",
       "fh": 6.2,
       "fx": 11.8,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "price": "~$114,900"
     },
     "Audi|S4|2024|S4": {
       "engine": "3.0 TFSI",
@@ -239,7 +249,8 @@
       "drivetrain": "AWD",
       "fh": 6.2,
       "fx": 11.8,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "price": "~$119,900"
     },
     "Audi|RS4|2004|RS4 Avant": {
       "engine": "4.2 V8",
@@ -259,7 +270,8 @@
       "drivetrain": "AWD",
       "fh": 9.6,
       "fx": 18.3,
-      "quarterMile": "~13.2 sec"
+      "quarterMile": "~13.2 sec",
+      "price": "~$139,990"
     },
     "Audi|RS4|2012|RS4 Avant": {
       "engine": "4.2 V8",
@@ -279,7 +291,8 @@
       "drivetrain": "AWD",
       "fh": 9.6,
       "fx": 18.3,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "price": "~$144,990"
     },
     "Audi|RS4|2019|RS4 Avant": {
       "engine": "2.9 TFSI biturbo",
@@ -299,7 +312,8 @@
       "drivetrain": "AWD",
       "fh": 8.1,
       "fx": 15.5,
-      "quarterMile": "~12.4 sec"
+      "quarterMile": "~12.4 sec",
+      "price": "~$149,900"
     },
     "Audi|RS4|2022|RS4 Avant": {
       "engine": "2.9 TFSI biturbo",
@@ -340,7 +354,8 @@
       "drivetrain": "AWD",
       "fh": 9.3,
       "fx": 17.6,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "price": "~$89,990"
     },
     "Audi|S5|2012|S5": {
       "engine": "3.0 TFSI supercharged",
@@ -360,7 +375,8 @@
       "drivetrain": "AWD",
       "fh": 7.8,
       "fx": 14.8,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "price": "~$92,990"
     },
     "Audi|S5|2014|S5": {
       "engine": "3.0 TFSI supercharged",
@@ -380,7 +396,8 @@
       "drivetrain": "AWD",
       "fh": 7.8,
       "fx": 14.8,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "price": "~$94,990"
     },
     "Audi|S5|2017|S5": {
       "engine": "3.0 TFSI",
@@ -400,7 +417,8 @@
       "drivetrain": "AWD",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "price": "~$97,900"
     },
     "Audi|S5|2022|S5": {
       "engine": "3.0 TFSI",
@@ -441,7 +459,8 @@
       "drivetrain": "AWD",
       "fh": 10,
       "fx": 19,
-      "quarterMile": "~12.8 sec"
+      "quarterMile": "~12.8 sec",
+      "price": "~$149,990"
     },
     "Audi|RS5|2018|RS5": {
       "engine": "2.9 TFSI biturbo",
@@ -461,7 +480,8 @@
       "drivetrain": "AWD",
       "fh": 8.1,
       "fx": 15.5,
-      "quarterMile": "~12.2 sec"
+      "quarterMile": "~12.2 sec",
+      "price": "~$154,900"
     },
     "Audi|RS5|2021|RS5": {
       "engine": "2.9 TFSI biturbo",
@@ -502,7 +522,8 @@
       "drivetrain": "AWD",
       "fh": 10.4,
       "fx": 19.7,
-      "quarterMile": "~14.3 sec"
+      "quarterMile": "~14.3 sec",
+      "price": "~$109,990"
     },
     "Audi|S6|2012|S6": {
       "engine": "4.0 V8 TFSI",
@@ -522,7 +543,8 @@
       "drivetrain": "AWD",
       "fh": 8.5,
       "fx": 16.2,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "price": "~$119,990"
     },
     "Audi|S6|2014|S6": {
       "engine": "4.0 V8 TFSI quattro",
@@ -542,7 +564,8 @@
       "drivetrain": "AWD",
       "fh": 8.1,
       "fx": 15.4,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "price": "~$124,990"
     },
     "Audi|RS6|2007|RS6 Avant": {
       "engine": "5.0 V10 TFSI biturbo",
@@ -562,7 +585,8 @@
       "drivetrain": "AWD",
       "fh": 11.1,
       "fx": 21.2,
-      "quarterMile": "~12.9 sec"
+      "quarterMile": "~12.9 sec",
+      "price": "~$169,990"
     },
     "Audi|RS6|2015|RS6 Avant": {
       "engine": "4.0 V8 TFSI biturbo",
@@ -582,7 +606,8 @@
       "drivetrain": "AWD",
       "fh": 8.5,
       "fx": 16.2,
-      "quarterMile": "~12.2 sec"
+      "quarterMile": "~12.2 sec",
+      "price": "~$179,990"
     },
     "Audi|RS6|2019|RS6 Avant": {
       "engine": "4.0 V8 TFSI biturbo",
@@ -602,7 +627,8 @@
       "drivetrain": "AWD",
       "fh": 8.9,
       "fx": 16.9,
-      "quarterMile": "~11.9 sec"
+      "quarterMile": "~11.9 sec",
+      "price": "~$189,900"
     },
     "Audi|RS6|2022|RS6 Avant": {
       "engine": "4.0 V8 TFSI biturbo",
@@ -664,7 +690,8 @@
       "drivetrain": "AWD",
       "fh": 8.5,
       "fx": 16.2,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "price": "~$134,990"
     },
     "Audi|S7|2016|S7": {
       "engine": "4.0 V8 TFSI quattro",
@@ -684,7 +711,8 @@
       "drivetrain": "AWD",
       "fh": 7.3,
       "fx": 14,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "price": "~$139,990"
     },
     "Audi|S7|2018|S7": {
       "engine": "2.9 TFSI biturbo",
@@ -704,7 +732,8 @@
       "drivetrain": "AWD",
       "fh": 7,
       "fx": 13.4,
-      "quarterMile": "~12.8 sec"
+      "quarterMile": "~12.8 sec",
+      "price": "~$144,900"
     },
     "Audi|RS7|2014|RS7": {
       "engine": "4.0 V8 TFSI biturbo",
@@ -724,7 +753,8 @@
       "drivetrain": "AWD",
       "fh": 8.9,
       "fx": 16.9,
-      "quarterMile": "~12.2 sec"
+      "quarterMile": "~12.2 sec",
+      "price": "~$189,990"
     },
     "Audi|RS7|2020|RS7": {
       "engine": "4.0 V8 TFSI biturbo",
@@ -744,7 +774,8 @@
       "drivetrain": "AWD",
       "fh": 9.3,
       "fx": 17.6,
-      "quarterMile": "~11.9 sec"
+      "quarterMile": "~11.9 sec",
+      "price": "~$199,900"
     },
     "Audi|RS7|2022|RS7": {
       "engine": "4.0 V8 TFSI biturbo",
@@ -785,7 +816,8 @@
       "drivetrain": "AWD",
       "fh": 10,
       "fx": 19,
-      "quarterMile": "~12.4 sec"
+      "quarterMile": "~12.4 sec",
+      "price": "~$199,990"
     },
     "Audi|S8|2016|S8": {
       "engine": "4.0 V8 TFSI quattro",
@@ -805,7 +837,8 @@
       "drivetrain": "AWD",
       "fh": 9,
       "fx": 17.1,
-      "quarterMile": "~12.5 sec"
+      "quarterMile": "~12.5 sec",
+      "price": "~$204,990"
     },
     "Audi|S8|2018|S8": {
       "engine": "4.0 V8 TFSI",
@@ -825,7 +858,8 @@
       "drivetrain": "AWD",
       "fh": 8.9,
       "fx": 16.9,
-      "quarterMile": "~12.1 sec"
+      "quarterMile": "~12.1 sec",
+      "price": "~$209,900"
     },
     "Audi|RS Q3|2011|RS Q3": {
       "engine": "2.5 TFSI",
@@ -845,7 +879,8 @@
       "drivetrain": "AWD",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "price": "~$64,990"
     },
     "Audi|RS Q3|2015|RS Q3": {
       "engine": "2.5 TFSI",
@@ -949,7 +984,8 @@
       "drivetrain": "AWD",
       "fh": 7.8,
       "fx": 14.8,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "price": "~$79,990"
     },
     "Audi|SQ5|2017|SQ5": {
       "engine": "3.0 V6 TFSI",
@@ -969,7 +1005,8 @@
       "drivetrain": "AWD",
       "fh": 7.8,
       "fx": 14.8,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "price": "~$89,990"
     },
     "Audi|SQ5|2019|SQ5": {
       "engine": "3.0 V6 TFSI quattro",
@@ -989,7 +1026,8 @@
       "drivetrain": "AWD",
       "fh": 7.1,
       "fx": 13.5,
-      "quarterMile": "~13.7 sec"
+      "quarterMile": "~13.7 sec",
+      "price": "~$94,900"
     },
     "Audi|SQ5|2022|SQ5": {
       "engine": "3.0 V6 TFSI",
@@ -1051,7 +1089,8 @@
       "drivetrain": "AWD",
       "fh": 7.3,
       "fx": 12.5,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "price": "~$129,900"
     },
     "Audi|SQ7|2020|SQ7": {
       "engine": "4.0 V8 TDI",
@@ -1134,7 +1173,8 @@
       "drivetrain": "AWD",
       "fh": 9,
       "fx": 17.2,
-      "quarterMile": "~12.4 sec"
+      "quarterMile": "~12.4 sec",
+      "price": "~$159,900"
     },
     "Audi|SQ8|2022|SQ8": {
       "engine": "4.0 V8 TFSI quattro",
@@ -1196,7 +1236,8 @@
       "drivetrain": "AWD",
       "fh": 8.9,
       "fx": 16.9,
-      "quarterMile": "~12.1 sec"
+      "quarterMile": "~12.1 sec",
+      "price": "~$199,900"
     },
     "Audi|RS Q8|2022|RS Q8": {
       "engine": "4.0 V8 TFSI biturbo",
@@ -1258,7 +1299,8 @@
       "drivetrain": "AWD",
       "fh": 6.7,
       "fx": 12.8,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "price": "~$67,900"
     },
     "Audi|S4|2022|S4": {
       "engine": "3.0 TFSI",
@@ -1278,7 +1320,8 @@
       "drivetrain": "AWD",
       "fh": 6.2,
       "fx": 11.8,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "price": "~$117,900"
     },
     "Audi|S5|2024|S5": {
       "engine": "3.0 TFSI",
@@ -1298,7 +1341,8 @@
       "drivetrain": "AWD",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "price": "~$109,900"
     },
     "Audi|S6|2016|S6": {
       "engine": "4.0 V8 TFSI quattro",
@@ -1318,7 +1362,8 @@
       "drivetrain": "AWD",
       "fh": 8.1,
       "fx": 15.4,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "price": "~$129,900"
     },
     "Audi|S6|2020|S6": {
       "engine": "2.9 V6 TFSI biturbo",
@@ -1338,7 +1383,8 @@
       "drivetrain": "AWD",
       "fh": 7,
       "fx": 13.4,
-      "quarterMile": "~12.8 sec"
+      "quarterMile": "~12.8 sec",
+      "price": "~$139,900"
     },
     "Audi|S6|2024|S6": {
       "engine": "2.9 V6 TFSI biturbo",
@@ -1379,7 +1425,8 @@
       "drivetrain": "AWD",
       "fh": 7,
       "fx": 13.4,
-      "quarterMile": "~12.8 sec"
+      "quarterMile": "~12.8 sec",
+      "price": "~$149,900"
     },
     "Audi|S7|2024|S7": {
       "engine": "2.9 TFSI biturbo",
@@ -1441,7 +1488,8 @@
       "drivetrain": "AWD",
       "fh": 8.9,
       "fx": 16.9,
-      "quarterMile": "~12.1 sec"
+      "quarterMile": "~12.1 sec",
+      "price": "~$219,900"
     },
     "Audi|S8|2024|S8": {
       "engine": "4.0 V8 TFSI biturbo",

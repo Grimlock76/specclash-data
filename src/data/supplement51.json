@@ -18,7 +18,8 @@
       "acceleration": 6.9,
       "topSpeed": 220,
       "cargo": 430,
-      "quarterMile": "~15.2 sec"
+      "quarterMile": "~15.2 sec",
+      "price": "~$60,900"
     },
     "Audi|Q3 Sportback|2020|40 TFSI quattro": {
       "engine": "2.0L I4 TFSI",
@@ -38,7 +39,8 @@
       "acceleration": 6.2,
       "topSpeed": 220,
       "cargo": 430,
-      "quarterMile": "~14.5 sec"
+      "quarterMile": "~14.5 sec",
+      "price": "~$70,900"
     },
     "Audi|Q3 Sportback|2020|RS Q3": {
       "engine": "2.5L I5 TFSI",
@@ -58,7 +60,8 @@
       "acceleration": 3.7,
       "topSpeed": 280,
       "cargo": 430,
-      "quarterMile": "~12.0 sec"
+      "quarterMile": "~12.0 sec",
+      "price": "~$90,900"
     },
     "Audi|Q3 Sportback|2021|35 TFSI": {
       "engine": "1.5L I4 TFSI",
@@ -78,7 +81,8 @@
       "acceleration": 6.9,
       "topSpeed": 220,
       "cargo": 430,
-      "quarterMile": "~15.2 sec"
+      "quarterMile": "~15.2 sec",
+      "price": "~$60,900"
     },
     "Audi|Q3 Sportback|2021|40 TFSI quattro": {
       "engine": "2.0L I4 TFSI",
@@ -98,7 +102,8 @@
       "acceleration": 6.2,
       "topSpeed": 220,
       "cargo": 430,
-      "quarterMile": "~14.5 sec"
+      "quarterMile": "~14.5 sec",
+      "price": "~$70,900"
     },
     "Audi|Q3 Sportback|2021|RS Q3": {
       "engine": "2.5L I5 TFSI",
@@ -118,7 +123,8 @@
       "acceleration": 3.7,
       "topSpeed": 280,
       "cargo": 430,
-      "quarterMile": "~12.0 sec"
+      "quarterMile": "~12.0 sec",
+      "price": "~$90,900"
     },
     "Audi|Q3 Sportback|2022|35 TFSI": {
       "engine": "1.5L I4 TFSI",
@@ -138,7 +144,8 @@
       "acceleration": 6.9,
       "topSpeed": 220,
       "cargo": 430,
-      "quarterMile": "~15.2 sec"
+      "quarterMile": "~15.2 sec",
+      "price": "~$60,900"
     },
     "Audi|Q3 Sportback|2022|40 TFSI quattro": {
       "engine": "2.0L I4 TFSI",
@@ -158,7 +165,8 @@
       "acceleration": 6.2,
       "topSpeed": 220,
       "cargo": 430,
-      "quarterMile": "~14.5 sec"
+      "quarterMile": "~14.5 sec",
+      "price": "~$70,900"
     },
     "Audi|Q3 Sportback|2022|RS Q3": {
       "engine": "2.5L I5 TFSI",
@@ -178,7 +186,8 @@
       "acceleration": 3.7,
       "topSpeed": 280,
       "cargo": 430,
-      "quarterMile": "~12.0 sec"
+      "quarterMile": "~12.0 sec",
+      "price": "~$90,900"
     },
     "Audi|Q3 Sportback|2023|35 TFSI": {
       "engine": "1.5L I4 TFSI",
@@ -198,7 +207,8 @@
       "acceleration": 6.9,
       "topSpeed": 220,
       "cargo": 430,
-      "quarterMile": "~15.2 sec"
+      "quarterMile": "~15.2 sec",
+      "price": "~$60,900"
     },
     "Audi|Q3 Sportback|2023|40 TFSI quattro": {
       "engine": "2.0L I4 TFSI",
@@ -218,7 +228,8 @@
       "acceleration": 6.2,
       "topSpeed": 220,
       "cargo": 430,
-      "quarterMile": "~14.5 sec"
+      "quarterMile": "~14.5 sec",
+      "price": "~$70,900"
     },
     "Audi|Q3 Sportback|2023|RS Q3": {
       "engine": "2.5L I5 TFSI",
@@ -238,7 +249,8 @@
       "acceleration": 3.7,
       "topSpeed": 280,
       "cargo": 430,
-      "quarterMile": "~12.0 sec"
+      "quarterMile": "~12.0 sec",
+      "price": "~$90,900"
     },
     "Audi|Q3 Sportback|2024|35 TFSI": {
       "engine": "1.5L I4 TFSI",
@@ -258,7 +270,8 @@
       "acceleration": 6.9,
       "topSpeed": 220,
       "cargo": 430,
-      "quarterMile": "~15.2 sec"
+      "quarterMile": "~15.2 sec",
+      "price": "~$63,900"
     },
     "Audi|Q3 Sportback|2024|40 TFSI quattro": {
       "engine": "2.0L I4 TFSI",
@@ -278,7 +291,8 @@
       "acceleration": 6.2,
       "topSpeed": 220,
       "cargo": 430,
-      "quarterMile": "~14.5 sec"
+      "quarterMile": "~14.5 sec",
+      "price": "~$73,900"
     },
     "Audi|Q3 Sportback|2024|RS Q3": {
       "engine": "2.5L I5 TFSI",
@@ -298,7 +312,8 @@
       "acceleration": 3.7,
       "topSpeed": 280,
       "cargo": 430,
-      "quarterMile": "~12.0 sec"
+      "quarterMile": "~12.0 sec",
+      "price": "~$93,900"
     },
     "Audi|Q3 Sportback|2025|35 TFSI": {
       "engine": "1.5L I4 TFSI",
@@ -318,7 +333,8 @@
       "acceleration": 6.9,
       "topSpeed": 220,
       "cargo": 430,
-      "quarterMile": "~15.2 sec"
+      "quarterMile": "~15.2 sec",
+      "price": "~$63,900"
     },
     "Audi|Q3 Sportback|2025|40 TFSI quattro": {
       "engine": "2.0L I4 TFSI",
@@ -338,7 +354,8 @@
       "acceleration": 6.2,
       "topSpeed": 220,
       "cargo": 430,
-      "quarterMile": "~14.5 sec"
+      "quarterMile": "~14.5 sec",
+      "price": "~$73,900"
     },
     "Audi|Q3 Sportback|2025|RS Q3": {
       "engine": "2.5L I5 TFSI",
@@ -358,7 +375,8 @@
       "acceleration": 3.7,
       "topSpeed": 280,
       "cargo": 430,
-      "quarterMile": "~12.0 sec"
+      "quarterMile": "~12.0 sec",
+      "price": "~$93,900"
     },
     "Audi|Q3 Sportback|2026|35 TFSI": {
       "engine": "1.5L I4 TFSI",
@@ -378,7 +396,8 @@
       "acceleration": 6.9,
       "topSpeed": 220,
       "cargo": 430,
-      "quarterMile": "~15.2 sec"
+      "quarterMile": "~15.2 sec",
+      "price": "~$63,900"
     },
     "Audi|Q3 Sportback|2026|40 TFSI quattro": {
       "engine": "2.0L I4 TFSI",
@@ -398,7 +417,8 @@
       "acceleration": 6.2,
       "topSpeed": 220,
       "cargo": 430,
-      "quarterMile": "~14.5 sec"
+      "quarterMile": "~14.5 sec",
+      "price": "~$73,900"
     },
     "Audi|Q3 Sportback|2026|RS Q3": {
       "engine": "2.5L I5 TFSI",
@@ -418,7 +438,8 @@
       "acceleration": 3.7,
       "topSpeed": 280,
       "cargo": 430,
-      "quarterMile": "~12.0 sec"
+      "quarterMile": "~12.0 sec",
+      "price": "~$93,900"
     },
     "Audi|Q5 Sportback|2021|45 TFSI quattro": {
       "engine": "2.0L I4 TFSI",
@@ -438,7 +459,8 @@
       "acceleration": 5.7,
       "topSpeed": 245,
       "cargo": 510,
-      "quarterMile": "~14.0 sec"
+      "quarterMile": "~14.0 sec",
+      "price": "~$84,900"
     },
     "Audi|Q5 Sportback|2021|SQ5": {
       "engine": "3.0L V6 TFSI",
@@ -458,7 +480,8 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "cargo": 510,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "price": "~$99,900"
     },
     "Audi|Q5 Sportback|2022|45 TFSI quattro": {
       "engine": "2.0L I4 TFSI",
@@ -478,7 +501,8 @@
       "acceleration": 5.7,
       "topSpeed": 245,
       "cargo": 510,
-      "quarterMile": "~14.0 sec"
+      "quarterMile": "~14.0 sec",
+      "price": "~$84,900"
     },
     "Audi|Q5 Sportback|2022|SQ5": {
       "engine": "3.0L V6 TFSI",
@@ -498,7 +522,8 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "cargo": 510,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "price": "~$99,900"
     },
     "Audi|Q5 Sportback|2023|45 TFSI quattro": {
       "engine": "2.0L I4 TFSI",
@@ -518,7 +543,8 @@
       "acceleration": 5.7,
       "topSpeed": 245,
       "cargo": 510,
-      "quarterMile": "~14.0 sec"
+      "quarterMile": "~14.0 sec",
+      "price": "~$84,900"
     },
     "Audi|Q5 Sportback|2023|SQ5": {
       "engine": "3.0L V6 TFSI",
@@ -538,7 +564,8 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "cargo": 510,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "price": "~$99,900"
     },
     "Audi|Q5 Sportback|2024|45 TFSI quattro": {
       "engine": "2.0L I4 TFSI",
@@ -558,7 +585,8 @@
       "acceleration": 5.7,
       "topSpeed": 245,
       "cargo": 510,
-      "quarterMile": "~14.0 sec"
+      "quarterMile": "~14.0 sec",
+      "price": "~$87,900"
     },
     "Audi|Q5 Sportback|2024|SQ5": {
       "engine": "3.0L V6 TFSI",
@@ -578,7 +606,8 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "cargo": 510,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "price": "~$102,900"
     },
     "Audi|Q5 Sportback|2025|45 TFSI quattro": {
       "engine": "2.0L I4 TFSI",
@@ -598,7 +627,8 @@
       "acceleration": 5.7,
       "topSpeed": 245,
       "cargo": 510,
-      "quarterMile": "~14.0 sec"
+      "quarterMile": "~14.0 sec",
+      "price": "~$87,900"
     },
     "Audi|Q5 Sportback|2025|SQ5": {
       "engine": "3.0L V6 TFSI",
@@ -618,7 +648,8 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "cargo": 510,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "price": "~$102,900"
     },
     "Audi|Q5 Sportback|2026|45 TFSI quattro": {
       "engine": "2.0L I4 TFSI",
@@ -638,7 +669,8 @@
       "acceleration": 5.7,
       "topSpeed": 245,
       "cargo": 510,
-      "quarterMile": "~14.0 sec"
+      "quarterMile": "~14.0 sec",
+      "price": "~$87,900"
     },
     "Audi|Q5 Sportback|2026|SQ5": {
       "engine": "3.0L V6 TFSI",
@@ -658,7 +690,8 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "cargo": 510,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "price": "~$102,900"
     },
     "Audi|Q6 e-tron|2024|55 quattro": {
       "engine": "Dual motor electric",
@@ -674,7 +707,8 @@
       "weight": 2250,
       "seats": 5,
       "bodyStyle": "SUV",
-      "cargo": 526
+      "cargo": 526,
+      "price": "~$107,900"
     },
     "Audi|Q6 e-tron|2024|SQ6": {
       "engine": "Dual motor electric",
@@ -690,7 +724,8 @@
       "weight": 2285,
       "seats": 5,
       "bodyStyle": "SUV",
-      "cargo": 526
+      "cargo": 526,
+      "price": "~$129,900"
     },
     "Audi|Q6 e-tron|2025|55 quattro": {
       "engine": "Dual motor electric",
@@ -706,7 +741,8 @@
       "weight": 2250,
       "seats": 5,
       "bodyStyle": "SUV",
-      "cargo": 526
+      "cargo": 526,
+      "price": "~$107,900"
     },
     "Audi|Q6 e-tron|2025|SQ6": {
       "engine": "Dual motor electric",
@@ -722,7 +758,8 @@
       "weight": 2285,
       "seats": 5,
       "bodyStyle": "SUV",
-      "cargo": 526
+      "cargo": 526,
+      "price": "~$129,900"
     },
     "Audi|Q6 e-tron|2026|55 quattro": {
       "engine": "Dual motor electric",
@@ -738,7 +775,8 @@
       "weight": 2250,
       "seats": 5,
       "bodyStyle": "SUV",
-      "cargo": 526
+      "cargo": 526,
+      "price": "~$107,900"
     },
     "Audi|Q6 e-tron|2026|SQ6": {
       "engine": "Dual motor electric",
@@ -754,7 +792,8 @@
       "weight": 2285,
       "seats": 5,
       "bodyStyle": "SUV",
-      "cargo": 526
+      "cargo": 526,
+      "price": "~$129,900"
     },
     "Audi|S1|2014|S1 Sportback": {
       "engine": "2.0L I4 TFSI",
@@ -774,7 +813,8 @@
       "acceleration": 4.3,
       "topSpeed": 245,
       "cargo": 335,
-      "quarterMile": "~12.6 sec"
+      "quarterMile": "~12.6 sec",
+      "price": "~$42,990"
     },
     "Audi|S1|2015|S1 Sportback": {
       "engine": "2.0L I4 TFSI",
@@ -794,7 +834,8 @@
       "acceleration": 4.3,
       "topSpeed": 245,
       "cargo": 335,
-      "quarterMile": "~12.6 sec"
+      "quarterMile": "~12.6 sec",
+      "price": "~$42,990"
     },
     "Audi|S1|2016|S1 Sportback": {
       "engine": "2.0L I4 TFSI",
@@ -814,7 +855,8 @@
       "acceleration": 4.3,
       "topSpeed": 245,
       "cargo": 335,
-      "quarterMile": "~12.6 sec"
+      "quarterMile": "~12.6 sec",
+      "price": "~$42,990"
     },
     "Audi|S1|2017|S1 Sportback": {
       "engine": "2.0L I4 TFSI",
@@ -834,7 +876,8 @@
       "acceleration": 4.3,
       "topSpeed": 245,
       "cargo": 335,
-      "quarterMile": "~12.6 sec"
+      "quarterMile": "~12.6 sec",
+      "price": "~$44,990"
     },
     "Audi|S1|2018|S1 Sportback": {
       "engine": "2.0L I4 TFSI",
@@ -854,7 +897,8 @@
       "acceleration": 4.3,
       "topSpeed": 245,
       "cargo": 335,
-      "quarterMile": "~12.6 sec"
+      "quarterMile": "~12.6 sec",
+      "price": "~$44,990"
     },
     "Audi|A4 allroad|2009|2.0 TFSI quattro": {
       "engine": "2.0L I4 TFSI",
@@ -874,7 +918,8 @@
       "acceleration": 5.7,
       "topSpeed": 245,
       "cargo": 495,
-      "quarterMile": "~14.0 sec"
+      "quarterMile": "~14.0 sec",
+      "price": "~$62,990"
     },
     "Audi|A4 allroad|2009|2.0 TDI quattro": {
       "engine": "2.0L I4 TDI",
@@ -894,7 +939,8 @@
       "acceleration": 7.8,
       "topSpeed": 220,
       "cargo": 495,
-      "quarterMile": "~16.1 sec"
+      "quarterMile": "~16.1 sec",
+      "price": "~$64,990"
     },
     "Audi|A4 allroad|2012|2.0 TFSI quattro": {
       "engine": "2.0L I4 TFSI",
@@ -914,7 +960,8 @@
       "acceleration": 5.8,
       "topSpeed": 245,
       "cargo": 495,
-      "quarterMile": "~14.1 sec"
+      "quarterMile": "~14.1 sec",
+      "price": "~$62,990"
     },
     "Audi|A4 allroad|2012|2.0 TDI quattro": {
       "engine": "2.0L I4 TDI",
@@ -934,7 +981,8 @@
       "acceleration": 6.7,
       "topSpeed": 220,
       "cargo": 495,
-      "quarterMile": "~15.0 sec"
+      "quarterMile": "~15.0 sec",
+      "price": "~$64,990"
     },
     "Audi|A4 allroad|2014|2.0 TFSI quattro": {
       "engine": "2.0L I4 TFSI",
@@ -954,7 +1002,8 @@
       "acceleration": 5.8,
       "topSpeed": 245,
       "cargo": 495,
-      "quarterMile": "~14.1 sec"
+      "quarterMile": "~14.1 sec",
+      "price": "~$62,990"
     },
     "Audi|A4 allroad|2014|2.0 TDI quattro": {
       "engine": "2.0L I4 TDI",
@@ -974,7 +1023,8 @@
       "acceleration": 6.7,
       "topSpeed": 220,
       "cargo": 495,
-      "quarterMile": "~15.0 sec"
+      "quarterMile": "~15.0 sec",
+      "price": "~$64,990"
     },
     "Audi|A4 allroad|2016|45 TFSI quattro": {
       "engine": "2.0L I4 TFSI",
@@ -994,7 +1044,8 @@
       "acceleration": 5.4,
       "topSpeed": 245,
       "cargo": 495,
-      "quarterMile": "~13.7 sec"
+      "quarterMile": "~13.7 sec",
+      "price": "~$77,900"
     },
     "Audi|A4 allroad|2016|40 TDI quattro": {
       "engine": "2.0L I4 TDI",
@@ -1014,7 +1065,8 @@
       "acceleration": 6.6,
       "topSpeed": 220,
       "cargo": 495,
-      "quarterMile": "~14.9 sec"
+      "quarterMile": "~14.9 sec",
+      "price": "~$79,900"
     },
     "Audi|A4 allroad|2019|45 TFSI quattro": {
       "engine": "2.0L I4 TFSI",
@@ -1034,7 +1086,8 @@
       "acceleration": 5.4,
       "topSpeed": 245,
       "cargo": 495,
-      "quarterMile": "~13.7 sec"
+      "quarterMile": "~13.7 sec",
+      "price": "~$77,900"
     },
     "Audi|A4 allroad|2019|40 TDI quattro": {
       "engine": "2.0L I4 TDI",
@@ -1054,7 +1107,8 @@
       "acceleration": 6.6,
       "topSpeed": 220,
       "cargo": 495,
-      "quarterMile": "~14.9 sec"
+      "quarterMile": "~14.9 sec",
+      "price": "~$79,900"
     },
     "Audi|A4 allroad|2022|45 TFSI quattro": {
       "engine": "2.0L I4 TFSI",
@@ -1074,7 +1128,8 @@
       "acceleration": 5.4,
       "topSpeed": 245,
       "cargo": 495,
-      "quarterMile": "~13.7 sec"
+      "quarterMile": "~13.7 sec",
+      "price": "~$82,900"
     },
     "Audi|A4 allroad|2022|40 TDI quattro": {
       "engine": "2.0L I4 TDI",
@@ -1094,7 +1149,8 @@
       "acceleration": 6.7,
       "topSpeed": 220,
       "cargo": 495,
-      "quarterMile": "~15.0 sec"
+      "quarterMile": "~15.0 sec",
+      "price": "~$84,900"
     },
     "Audi|A4 allroad|2025|45 TFSI quattro": {
       "engine": "2.0L I4 TFSI",
@@ -1114,7 +1170,8 @@
       "acceleration": 5.4,
       "topSpeed": 245,
       "cargo": 495,
-      "quarterMile": "~13.7 sec"
+      "quarterMile": "~13.7 sec",
+      "price": "~$84,900"
     },
     "Audi|A6 allroad|2001|2.7T biturbo": {
       "engine": "2.7L V6 biturbo",
@@ -1134,7 +1191,8 @@
       "acceleration": 5.9,
       "topSpeed": 245,
       "cargo": 565,
-      "quarterMile": "~14.2 sec"
+      "quarterMile": "~14.2 sec",
+      "price": "~$84,990"
     },
     "Audi|A6 allroad|2001|2.5 TDI": {
       "engine": "2.5L I5 TDI",
@@ -1154,7 +1212,8 @@
       "acceleration": 8.1,
       "topSpeed": 220,
       "cargo": 565,
-      "quarterMile": "~16.4 sec"
+      "quarterMile": "~16.4 sec",
+      "price": "~$79,990"
     },
     "Audi|A6 allroad|2003|2.7T biturbo": {
       "engine": "2.7L V6 biturbo",
@@ -1174,7 +1233,8 @@
       "acceleration": 5.9,
       "topSpeed": 245,
       "cargo": 565,
-      "quarterMile": "~14.2 sec"
+      "quarterMile": "~14.2 sec",
+      "price": "~$84,990"
     },
     "Audi|A6 allroad|2003|2.5 TDI": {
       "engine": "2.5L I5 TDI",
@@ -1194,7 +1254,8 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "cargo": 565,
-      "quarterMile": "~15.8 sec"
+      "quarterMile": "~15.8 sec",
+      "price": "~$79,990"
     },
     "Audi|A6 allroad|2006|3.0 TFSI quattro": {
       "engine": "3.0L V6 TFSI",
@@ -1214,7 +1275,8 @@
       "acceleration": 5.4,
       "topSpeed": 245,
       "cargo": 565,
-      "quarterMile": "~13.7 sec"
+      "quarterMile": "~13.7 sec",
+      "price": "~$109,990"
     },
     "Audi|A6 allroad|2006|3.0 TDI quattro": {
       "engine": "3.0L V6 TDI",
@@ -1234,7 +1296,8 @@
       "acceleration": 6.4,
       "topSpeed": 245,
       "cargo": 565,
-      "quarterMile": "~14.7 sec"
+      "quarterMile": "~14.7 sec",
+      "price": "~$104,990"
     },
     "Audi|A6 allroad|2009|3.0 TFSI quattro": {
       "engine": "3.0L V6 TFSI",
@@ -1254,7 +1317,8 @@
       "acceleration": 5,
       "topSpeed": 245,
       "cargo": 565,
-      "quarterMile": "~13.3 sec"
+      "quarterMile": "~13.3 sec",
+      "price": "~$109,990"
     },
     "Audi|A6 allroad|2009|3.0 TDI quattro": {
       "engine": "3.0L V6 TDI",
@@ -1274,7 +1338,8 @@
       "acceleration": 5.8,
       "topSpeed": 245,
       "cargo": 565,
-      "quarterMile": "~14.1 sec"
+      "quarterMile": "~14.1 sec",
+      "price": "~$104,990"
     },
     "Audi|A6 allroad|2012|3.0 TFSI quattro": {
       "engine": "3.0L V6 TFSI",
@@ -1294,7 +1359,8 @@
       "acceleration": 5,
       "topSpeed": 245,
       "cargo": 565,
-      "quarterMile": "~13.3 sec"
+      "quarterMile": "~13.3 sec",
+      "price": "~$119,900"
     },
     "Audi|A6 allroad|2012|3.0 TDI quattro": {
       "engine": "3.0L V6 TDI",
@@ -1314,7 +1380,8 @@
       "acceleration": 5.6,
       "topSpeed": 245,
       "cargo": 565,
-      "quarterMile": "~13.9 sec"
+      "quarterMile": "~13.9 sec",
+      "price": "~$114,900"
     },
     "Audi|A6 allroad|2015|3.0 TFSI quattro": {
       "engine": "3.0L V6 TFSI",
@@ -1334,7 +1401,8 @@
       "acceleration": 5,
       "topSpeed": 245,
       "cargo": 565,
-      "quarterMile": "~13.3 sec"
+      "quarterMile": "~13.3 sec",
+      "price": "~$119,900"
     },
     "Audi|A6 allroad|2015|3.0 TDI quattro": {
       "engine": "3.0L V6 TDI",
@@ -1354,7 +1422,8 @@
       "acceleration": 5.6,
       "topSpeed": 245,
       "cargo": 565,
-      "quarterMile": "~13.9 sec"
+      "quarterMile": "~13.9 sec",
+      "price": "~$114,900"
     },
     "Audi|A6 allroad|2017|3.0 TFSI quattro": {
       "engine": "3.0L V6 TFSI",
@@ -1374,7 +1443,8 @@
       "acceleration": 5,
       "topSpeed": 245,
       "cargo": 565,
-      "quarterMile": "~13.3 sec"
+      "quarterMile": "~13.3 sec",
+      "price": "~$119,900"
     },
     "Audi|A6 allroad|2017|3.0 TDI quattro": {
       "engine": "3.0L V6 TDI",
@@ -1394,7 +1464,8 @@
       "acceleration": 5.6,
       "topSpeed": 245,
       "cargo": 565,
-      "quarterMile": "~13.9 sec"
+      "quarterMile": "~13.9 sec",
+      "price": "~$114,900"
     },
     "Audi|A6 allroad|2019|55 TFSI quattro": {
       "engine": "3.0L V6 TFSI",
@@ -1414,7 +1485,8 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "cargo": 565,
-      "quarterMile": "~13.2 sec"
+      "quarterMile": "~13.2 sec",
+      "price": "~$129,900"
     },
     "Audi|A6 allroad|2019|50 TDI quattro": {
       "engine": "3.0L V6 TDI",
@@ -1434,7 +1506,8 @@
       "acceleration": 5.7,
       "topSpeed": 245,
       "cargo": 565,
-      "quarterMile": "~14.0 sec"
+      "quarterMile": "~14.0 sec",
+      "price": "~$124,900"
     },
     "Audi|A6 allroad|2022|55 TFSI quattro": {
       "engine": "3.0L V6 TFSI",
@@ -1454,7 +1527,8 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "cargo": 565,
-      "quarterMile": "~13.2 sec"
+      "quarterMile": "~13.2 sec",
+      "price": "~$129,900"
     },
     "Audi|A6 allroad|2022|50 TDI quattro": {
       "engine": "3.0L V6 TDI",
@@ -1474,7 +1548,8 @@
       "acceleration": 5.7,
       "topSpeed": 245,
       "cargo": 565,
-      "quarterMile": "~14.0 sec"
+      "quarterMile": "~14.0 sec",
+      "price": "~$124,900"
     },
     "Audi|A6 allroad|2025|55 TFSI quattro": {
       "engine": "3.0L V6 TFSI",
@@ -1494,7 +1569,8 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "cargo": 565,
-      "quarterMile": "~13.2 sec"
+      "quarterMile": "~13.2 sec",
+      "price": "~$134,900"
     },
     "Audi|A6 allroad|2025|50 TDI quattro": {
       "engine": "3.0L V6 TDI",
@@ -1514,7 +1590,8 @@
       "acceleration": 5.7,
       "topSpeed": 245,
       "cargo": 565,
-      "quarterMile": "~14.0 sec"
+      "quarterMile": "~14.0 sec",
+      "price": "~$129,900"
     },
     "Audi|80|1979|GL": {
       "engine": "1.6L I4",
@@ -1534,7 +1611,8 @@
       "acceleration": 9.1,
       "topSpeed": 195,
       "cargo": 350,
-      "quarterMile": "~17.4 sec"
+      "quarterMile": "~17.4 sec",
+      "price": "~$9,490"
     },
     "Audi|80|1982|GLS": {
       "engine": "1.6L I4",
@@ -1554,7 +1632,8 @@
       "acceleration": 9.1,
       "topSpeed": 195,
       "cargo": 350,
-      "quarterMile": "~17.4 sec"
+      "quarterMile": "~17.4 sec",
+      "price": "~$11,990"
     },
     "Audi|80|1984|GTE": {
       "engine": "1.8L I4",
@@ -1574,7 +1653,8 @@
       "acceleration": 6.8,
       "topSpeed": 195,
       "cargo": 350,
-      "quarterMile": "~15.1 sec"
+      "quarterMile": "~15.1 sec",
+      "price": "~$18,990"
     },
     "Audi|80|1986|GTE": {
       "engine": "1.8L I4",
@@ -1594,7 +1674,8 @@
       "acceleration": 6.5,
       "topSpeed": 195,
       "cargo": 350,
-      "quarterMile": "~14.8 sec"
+      "quarterMile": "~14.8 sec",
+      "price": "~$20,990"
     },
     "Audi|80|1987|80": {
       "engine": "1.8L I4",
@@ -1614,7 +1695,8 @@
       "acceleration": 8.1,
       "topSpeed": 195,
       "cargo": 350,
-      "quarterMile": "~16.4 sec"
+      "quarterMile": "~16.4 sec",
+      "price": "~$22,990"
     },
     "Audi|80|1989|80 E": {
       "engine": "2.0L I4",
@@ -1634,7 +1716,8 @@
       "acceleration": 6.8,
       "topSpeed": 195,
       "cargo": 350,
-      "quarterMile": "~15.1 sec"
+      "quarterMile": "~15.1 sec",
+      "price": "~$24,990"
     },
     "Audi|80|1991|80 quattro": {
       "engine": "2.0L I4",
@@ -1654,7 +1737,8 @@
       "acceleration": 7.4,
       "topSpeed": 195,
       "cargo": 350,
-      "quarterMile": "~15.7 sec"
+      "quarterMile": "~15.7 sec",
+      "price": "~$28,990"
     },
     "Audi|80|1993|80": {
       "engine": "2.0L I4",
@@ -1674,7 +1758,8 @@
       "acceleration": 6.9,
       "topSpeed": 195,
       "cargo": 350,
-      "quarterMile": "~15.2 sec"
+      "quarterMile": "~15.2 sec",
+      "price": "~$29,990"
     },
     "Audi|80|1994|80 V6": {
       "engine": "2.6L V6",
@@ -1694,7 +1779,8 @@
       "acceleration": 6.7,
       "topSpeed": 220,
       "cargo": 350,
-      "quarterMile": "~15.0 sec"
+      "quarterMile": "~15.0 sec",
+      "price": "~$32,990"
     },
     "Audi|90|1987|90E": {
       "engine": "2.0L I4",
@@ -1714,7 +1800,8 @@
       "acceleration": 6.3,
       "topSpeed": 195,
       "cargo": 350,
-      "quarterMile": "~14.6 sec"
+      "quarterMile": "~14.6 sec",
+      "price": "~$25,990"
     },
     "Audi|90|1989|90": {
       "engine": "2.3L I5",
@@ -1734,7 +1821,8 @@
       "acceleration": 6.4,
       "topSpeed": 220,
       "cargo": 350,
-      "quarterMile": "~14.7 sec"
+      "quarterMile": "~14.7 sec",
+      "price": "~$27,990"
     },
     "Audi|90|1990|90 quattro": {
       "engine": "2.3L I5",
@@ -1754,7 +1842,8 @@
       "acceleration": 7,
       "topSpeed": 220,
       "cargo": 350,
-      "quarterMile": "~15.3 sec"
+      "quarterMile": "~15.3 sec",
+      "price": "~$30,990"
     },
     "Audi|100|1983|100": {
       "engine": "1.9L I5",
@@ -1774,7 +1863,8 @@
       "acceleration": 7.2,
       "topSpeed": 195,
       "cargo": 450,
-      "quarterMile": "~15.5 sec"
+      "quarterMile": "~15.5 sec",
+      "price": "~$17,490"
     },
     "Audi|100|1985|100 CD": {
       "engine": "2.2L I5",
@@ -1794,7 +1884,8 @@
       "acceleration": 6.6,
       "topSpeed": 220,
       "cargo": 450,
-      "quarterMile": "~14.9 sec"
+      "quarterMile": "~14.9 sec",
+      "price": "~$18,990"
     },
     "Audi|100|1988|100": {
       "engine": "2.3L I5",
@@ -1814,7 +1905,8 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "cargo": 450,
-      "quarterMile": "~15.8 sec"
+      "quarterMile": "~15.8 sec",
+      "price": "~$29,990"
     },
     "Audi|100|1990|100 quattro": {
       "engine": "2.3L I5",
@@ -1834,7 +1926,8 @@
       "acceleration": 8.2,
       "topSpeed": 220,
       "cargo": 450,
-      "quarterMile": "~16.5 sec"
+      "quarterMile": "~16.5 sec",
+      "price": "~$34,990"
     },
     "Audi|100|1991|100": {
       "engine": "2.8L V6",
@@ -1854,7 +1947,8 @@
       "acceleration": 6.6,
       "topSpeed": 220,
       "cargo": 450,
-      "quarterMile": "~14.9 sec"
+      "quarterMile": "~14.9 sec",
+      "price": "~$35,990"
     },
     "Audi|100|1993|100 quattro": {
       "engine": "2.8L V6",
@@ -1874,7 +1968,8 @@
       "acceleration": 7.1,
       "topSpeed": 220,
       "cargo": 450,
-      "quarterMile": "~15.4 sec"
+      "quarterMile": "~15.4 sec",
+      "price": "~$39,990"
     },
     "Audi|Coupe|1988|Coupe GT": {
       "engine": "2.3L I5",
@@ -1894,7 +1989,8 @@
       "acceleration": 6.3,
       "topSpeed": 220,
       "cargo": 280,
-      "quarterMile": "~14.6 sec"
+      "quarterMile": "~14.6 sec",
+      "price": "~$29,990"
     },
     "Audi|Coupe|1990|Coupe": {
       "engine": "2.3L I5",
@@ -1914,7 +2010,8 @@
       "acceleration": 6.3,
       "topSpeed": 220,
       "cargo": 280,
-      "quarterMile": "~14.6 sec"
+      "quarterMile": "~14.6 sec",
+      "price": "~$32,990"
     },
     "Audi|Coupe|1992|S2 Coupe": {
       "engine": "2.2L I5 turbo",
@@ -1934,7 +2031,8 @@
       "acceleration": 5.2,
       "topSpeed": 245,
       "cargo": 280,
-      "quarterMile": "~13.5 sec"
+      "quarterMile": "~13.5 sec",
+      "price": "~$69,990"
     },
     "Audi|Coupe|1993|Coupe V6": {
       "engine": "2.6L V6",
@@ -1954,7 +2052,8 @@
       "acceleration": 6.7,
       "topSpeed": 220,
       "cargo": 280,
-      "quarterMile": "~15.0 sec"
+      "quarterMile": "~15.0 sec",
+      "price": "~$39,990"
     },
     "Audi|Quattro|1982|Quattro": {
       "engine": "2.1L I5 turbo",
@@ -1974,7 +2073,8 @@
       "acceleration": 5.5,
       "topSpeed": 220,
       "cargo": 350,
-      "quarterMile": "~13.8 sec"
+      "quarterMile": "~13.8 sec",
+      "price": "~$49,990"
     },
     "Audi|Quattro|1985|Quattro": {
       "engine": "2.2L I5 turbo",
@@ -1994,7 +2094,8 @@
       "acceleration": 5.1,
       "topSpeed": 245,
       "cargo": 350,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "price": "~$54,990"
     },
     "Audi|Quattro|1989|Quattro 20V": {
       "engine": "2.2L I5 20V turbo",
@@ -2014,7 +2115,8 @@
       "acceleration": 4,
       "topSpeed": 245,
       "cargo": 350,
-      "quarterMile": "~12.3 sec"
+      "quarterMile": "~12.3 sec",
+      "price": "~$79,990"
     },
     "Audi|Cabriolet|1993|Cabriolet 2.3": {
       "engine": "2.3L I5",
@@ -2034,7 +2136,8 @@
       "acceleration": 7.4,
       "topSpeed": 220,
       "cargo": 260,
-      "quarterMile": "~15.7 sec"
+      "quarterMile": "~15.7 sec",
+      "price": "~$49,990"
     },
     "Audi|Cabriolet|1995|Cabriolet 2.6": {
       "engine": "2.6L V6",
@@ -2054,7 +2157,8 @@
       "acceleration": 7.9,
       "topSpeed": 220,
       "cargo": 260,
-      "quarterMile": "~16.2 sec"
+      "quarterMile": "~16.2 sec",
+      "price": "~$54,990"
     },
     "Audi|Cabriolet|1998|Cabriolet 2.8": {
       "engine": "2.8L V6",
@@ -2074,7 +2178,8 @@
       "acceleration": 7.2,
       "topSpeed": 220,
       "cargo": 260,
-      "quarterMile": "~15.5 sec"
+      "quarterMile": "~15.5 sec",
+      "price": "~$62,990"
     },
     "Audi|Cabriolet|2000|Cabriolet 2.8": {
       "engine": "2.8L V6",
@@ -2094,7 +2199,8 @@
       "acceleration": 7.2,
       "topSpeed": 220,
       "cargo": 260,
-      "quarterMile": "~15.5 sec"
+      "quarterMile": "~15.5 sec",
+      "price": "~$64,990"
     },
     "Audi|S2|1992|S2 Coupe": {
       "engine": "2.2L I5 20V turbo",
@@ -2114,7 +2220,8 @@
       "acceleration": 5.2,
       "topSpeed": 245,
       "cargo": 350,
-      "quarterMile": "~13.5 sec"
+      "quarterMile": "~13.5 sec",
+      "price": "~$79,990"
     },
     "Audi|S2|1994|S2 Avant": {
       "engine": "2.2L I5 20V turbo",
@@ -2134,7 +2241,8 @@
       "acceleration": 5.4,
       "topSpeed": 245,
       "cargo": 350,
-      "quarterMile": "~13.7 sec"
+      "quarterMile": "~13.7 sec",
+      "price": "~$84,990"
     },
     "Audi|RS2 Avant|1994|RS2 Avant": {
       "engine": "2.2L I5 20V turbo",
@@ -2154,7 +2262,8 @@
       "acceleration": 4.4,
       "topSpeed": 245,
       "cargo": 460,
-      "quarterMile": "~12.7 sec"
+      "quarterMile": "~12.7 sec",
+      "price": "~$119,990"
     },
     "Audi|RS2 Avant|1995|RS2 Avant": {
       "engine": "2.2L I5 20V turbo",
@@ -2174,7 +2283,8 @@
       "acceleration": 4.4,
       "topSpeed": 245,
       "cargo": 460,
-      "quarterMile": "~12.7 sec"
+      "quarterMile": "~12.7 sec",
+      "price": "~$119,990"
     },
     "Audi|A2|2000|1.4": {
       "engine": "1.4L I4",
@@ -2194,7 +2304,8 @@
       "acceleration": 8.5,
       "topSpeed": 195,
       "cargo": 280,
-      "quarterMile": "~16.8 sec"
+      "quarterMile": "~16.8 sec",
+      "price": "~$27,990"
     },
     "Audi|A2|2002|1.4": {
       "engine": "1.4L I4",
@@ -2214,7 +2325,8 @@
       "acceleration": 8.5,
       "topSpeed": 195,
       "cargo": 280,
-      "quarterMile": "~16.8 sec"
+      "quarterMile": "~16.8 sec",
+      "price": "~$29,990"
     },
     "Audi|A2|2004|1.4 TDI": {
       "engine": "1.4L I3 TDI",
@@ -2234,7 +2346,8 @@
       "acceleration": 9.7,
       "topSpeed": 195,
       "cargo": 280,
-      "quarterMile": "~18.0 sec"
+      "quarterMile": "~18.0 sec",
+      "price": "~$29,990"
     },
     "Audi|V8|1989|V8 quattro 3.6": {
       "engine": "3.6L V8",
@@ -2254,7 +2367,8 @@
       "acceleration": 6.6,
       "topSpeed": 245,
       "cargo": 540,
-      "quarterMile": "~14.9 sec"
+      "quarterMile": "~14.9 sec",
+      "price": "~$89,990"
     },
     "Audi|V8|1991|V8 quattro 4.2": {
       "engine": "4.2L V8",
@@ -2274,7 +2388,8 @@
       "acceleration": 6.2,
       "topSpeed": 245,
       "cargo": 540,
-      "quarterMile": "~14.5 sec"
+      "quarterMile": "~14.5 sec",
+      "price": "~$94,990"
     },
     "Audi|V8|1993|V8 quattro 4.2": {
       "engine": "4.2L V8",
@@ -2294,7 +2409,8 @@
       "acceleration": 6.2,
       "topSpeed": 245,
       "cargo": 540,
-      "quarterMile": "~14.5 sec"
+      "quarterMile": "~14.5 sec",
+      "price": "~$99,990"
     }
   }
 }

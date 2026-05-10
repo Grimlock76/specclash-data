@@ -18,7 +18,8 @@
       "acceleration": 9.5,
       "topSpeed": 175,
       "cargo": 142,
-      "quarterMile": "~17.8 sec"
+      "quarterMile": "~17.8 sec",
+      "price": "~$38,990"
     },
     "Jeep|Wrangler|2007|Sahara": {
       "engine": "3.8L V6",
@@ -38,7 +39,8 @@
       "acceleration": 9.8,
       "topSpeed": 172,
       "cargo": 142,
-      "quarterMile": "~18.1 sec"
+      "quarterMile": "~18.1 sec",
+      "price": "~$43,990"
     },
     "Jeep|Wrangler|2007|Rubicon": {
       "engine": "3.8L V6",
@@ -58,7 +60,8 @@
       "acceleration": 10,
       "topSpeed": 170,
       "cargo": 142,
-      "quarterMile": "~18.3 sec"
+      "quarterMile": "~18.3 sec",
+      "price": "~$47,990"
     },
     "Jeep|Wrangler|2012|Sport": {
       "engine": "3.6L V6 Pentastar",
@@ -78,7 +81,8 @@
       "acceleration": 8.5,
       "topSpeed": 185,
       "cargo": 142,
-      "quarterMile": "~16.8 sec"
+      "quarterMile": "~16.8 sec",
+      "price": "~$41,990"
     },
     "Jeep|Wrangler|2012|Sahara": {
       "engine": "3.6L V6 Pentastar",
@@ -98,7 +102,8 @@
       "acceleration": 9,
       "topSpeed": 182,
       "cargo": 142,
-      "quarterMile": "~17.3 sec"
+      "quarterMile": "~17.3 sec",
+      "price": "~$47,990"
     },
     "Jeep|Wrangler|2012|Rubicon": {
       "engine": "3.6L V6 Pentastar",
@@ -118,7 +123,8 @@
       "acceleration": 8.8,
       "topSpeed": 180,
       "cargo": 142,
-      "quarterMile": "~17.1 sec"
+      "quarterMile": "~17.1 sec",
+      "price": "~$51,990"
     },
     "Jeep|Wrangler|2018|Sport": {
       "engine": "3.6L V6 Pentastar",
@@ -138,7 +144,8 @@
       "acceleration": 8.2,
       "topSpeed": 185,
       "cargo": 142,
-      "quarterMile": "~16.5 sec"
+      "quarterMile": "~16.5 sec",
+      "price": "~$44,990"
     },
     "Jeep|Wrangler|2018|Sport S": {
       "engine": "3.6L V6 Pentastar",
@@ -158,7 +165,8 @@
       "acceleration": 8.5,
       "topSpeed": 183,
       "cargo": 142,
-      "quarterMile": "~16.8 sec"
+      "quarterMile": "~16.8 sec",
+      "price": "~$49,990"
     },
     "Jeep|Wrangler|2018|Sahara": {
       "engine": "3.6L V6 Pentastar",
@@ -178,7 +186,8 @@
       "acceleration": 8.7,
       "topSpeed": 182,
       "cargo": 142,
-      "quarterMile": "~17.0 sec"
+      "quarterMile": "~17.0 sec",
+      "price": "~$54,990"
     },
     "Jeep|Wrangler|2018|Rubicon": {
       "engine": "3.6L V6 Pentastar",
@@ -198,7 +207,8 @@
       "acceleration": 9,
       "topSpeed": 178,
       "cargo": 142,
-      "quarterMile": "~17.3 sec"
+      "quarterMile": "~17.3 sec",
+      "price": "~$59,990"
     },
     "Jeep|Wrangler|2022|Sport S": {
       "engine": "3.6L V6 Pentastar",
@@ -218,7 +228,8 @@
       "acceleration": 8.5,
       "topSpeed": 183,
       "cargo": 142,
-      "quarterMile": "~16.8 sec"
+      "quarterMile": "~16.8 sec",
+      "price": "~$52,990"
     },
     "Jeep|Wrangler|2022|Sahara": {
       "engine": "3.6L V6 Pentastar",
@@ -238,7 +249,8 @@
       "acceleration": 8.7,
       "topSpeed": 182,
       "cargo": 142,
-      "quarterMile": "~17.0 sec"
+      "quarterMile": "~17.0 sec",
+      "price": "~$59,990"
     },
     "Jeep|Wrangler|2022|Rubicon": {
       "engine": "3.6L V6 Pentastar",
@@ -258,7 +270,8 @@
       "acceleration": 9,
       "topSpeed": 178,
       "cargo": 142,
-      "quarterMile": "~17.3 sec"
+      "quarterMile": "~17.3 sec",
+      "price": "~$64,990"
     },
     "Jeep|Wrangler|2022|Rubicon 392": {
       "engine": "6.4L HEMI V8",
@@ -278,7 +291,8 @@
       "acceleration": 6.7,
       "topSpeed": 190,
       "cargo": 142,
-      "quarterMile": "~15.0 sec"
+      "quarterMile": "~15.0 sec",
+      "price": "~$109,990"
     },
     "Jeep|Wrangler|2022|4xe": {
       "engine": "2.0L I4 Turbo PHEV",
@@ -298,7 +312,8 @@
       "acceleration": 6,
       "topSpeed": 177,
       "cargo": 142,
-      "quarterMile": "~14.3 sec"
+      "quarterMile": "~14.3 sec",
+      "price": "~$79,990"
     },
     "Jeep|Grand Cherokee|2005|Laredo": {
       "engine": "3.7L V6",
@@ -318,7 +333,8 @@
       "acceleration": 10.5,
       "topSpeed": 175,
       "cargo": 970,
-      "quarterMile": "~18.8 sec"
+      "quarterMile": "~18.8 sec",
+      "price": "~$46,990"
     },
     "Jeep|Grand Cherokee|2005|Limited": {
       "engine": "4.7L V8",
@@ -338,7 +354,8 @@
       "acceleration": 9.8,
       "topSpeed": 180,
       "cargo": 970,
-      "quarterMile": "~18.1 sec"
+      "quarterMile": "~18.1 sec",
+      "price": "~$56,990"
     },
     "Jeep|Grand Cherokee|2005|Overland": {
       "engine": "5.7L HEMI V8",
@@ -358,7 +375,8 @@
       "acceleration": 8.2,
       "topSpeed": 195,
       "cargo": 970,
-      "quarterMile": "~16.5 sec"
+      "quarterMile": "~16.5 sec",
+      "price": "~$69,990"
     },
     "Jeep|Grand Cherokee|2011|Laredo": {
       "engine": "3.6L V6 Pentastar",
@@ -378,7 +396,8 @@
       "acceleration": 9,
       "topSpeed": 185,
       "cargo": 970,
-      "quarterMile": "~17.3 sec"
+      "quarterMile": "~17.3 sec",
+      "price": "~$51,990"
     },
     "Jeep|Grand Cherokee|2011|Limited": {
       "engine": "3.6L V6 Pentastar",
@@ -398,7 +417,8 @@
       "acceleration": 9.2,
       "topSpeed": 183,
       "cargo": 970,
-      "quarterMile": "~17.5 sec"
+      "quarterMile": "~17.5 sec",
+      "price": "~$61,990"
     },
     "Jeep|Grand Cherokee|2011|Overland": {
       "engine": "5.7L HEMI V8",
@@ -418,7 +438,8 @@
       "acceleration": 7.8,
       "topSpeed": 200,
       "cargo": 970,
-      "quarterMile": "~16.1 sec"
+      "quarterMile": "~16.1 sec",
+      "price": "~$74,990"
     },
     "Jeep|Grand Cherokee|2011|SRT8": {
       "engine": "6.4L HEMI V8",
@@ -438,7 +459,8 @@
       "acceleration": 5,
       "topSpeed": 250,
       "cargo": 970,
-      "quarterMile": "~13.3 sec"
+      "quarterMile": "~13.3 sec",
+      "price": "~$89,990"
     },
     "Jeep|Grand Cherokee|2016|Laredo": {
       "engine": "3.6L V6 Pentastar",
@@ -458,7 +480,8 @@
       "acceleration": 8.8,
       "topSpeed": 185,
       "cargo": 970,
-      "quarterMile": "~17.1 sec"
+      "quarterMile": "~17.1 sec",
+      "price": "~$53,990"
     },
     "Jeep|Grand Cherokee|2016|Limited": {
       "engine": "3.6L V6 Pentastar",
@@ -478,7 +501,8 @@
       "acceleration": 9,
       "topSpeed": 183,
       "cargo": 970,
-      "quarterMile": "~17.3 sec"
+      "quarterMile": "~17.3 sec",
+      "price": "~$66,990"
     },
     "Jeep|Grand Cherokee|2016|Summit": {
       "engine": "5.7L HEMI V8",
@@ -498,7 +522,8 @@
       "acceleration": 7.5,
       "topSpeed": 200,
       "cargo": 970,
-      "quarterMile": "~15.8 sec"
+      "quarterMile": "~15.8 sec",
+      "price": "~$84,990"
     },
     "Jeep|Grand Cherokee|2016|SRT": {
       "engine": "6.4L HEMI V8",
@@ -518,7 +543,8 @@
       "acceleration": 4.8,
       "topSpeed": 257,
       "cargo": 970,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "price": "~$89,990"
     },
     "Jeep|Grand Cherokee|2016|Trackhawk": {
       "engine": "6.2L Supercharged HEMI V8",
@@ -538,7 +564,8 @@
       "acceleration": 3.7,
       "topSpeed": 290,
       "cargo": 970,
-      "quarterMile": "~12.0 sec"
+      "quarterMile": "~12.0 sec",
+      "price": "~$149,990"
     },
     "Jeep|Grand Cherokee|2022|Laredo": {
       "engine": "3.6L V6 Pentastar",
@@ -558,7 +585,8 @@
       "acceleration": 8.5,
       "topSpeed": 190,
       "cargo": 1000,
-      "quarterMile": "~16.8 sec"
+      "quarterMile": "~16.8 sec",
+      "price": "~$59,990"
     },
     "Jeep|Grand Cherokee|2022|Limited": {
       "engine": "3.6L V6 Pentastar",
@@ -578,7 +606,8 @@
       "acceleration": 8.7,
       "topSpeed": 188,
       "cargo": 1000,
-      "quarterMile": "~17.0 sec"
+      "quarterMile": "~17.0 sec",
+      "price": "~$74,990"
     },
     "Jeep|Grand Cherokee|2022|Summit": {
       "engine": "5.7L HEMI V8",
@@ -598,7 +627,8 @@
       "acceleration": 7.2,
       "topSpeed": 200,
       "cargo": 1000,
-      "quarterMile": "~15.5 sec"
+      "quarterMile": "~15.5 sec",
+      "price": "~$94,990"
     },
     "Jeep|Grand Cherokee|2022|4xe": {
       "engine": "2.0L I4 Turbo PHEV",
@@ -618,7 +648,8 @@
       "acceleration": 6,
       "topSpeed": 195,
       "cargo": 1000,
-      "quarterMile": "~14.3 sec"
+      "quarterMile": "~14.3 sec",
+      "price": "~$84,990"
     },
     "Jeep|Cherokee|2008|Sport": {
       "engine": "3.7L V6",
@@ -638,7 +669,8 @@
       "acceleration": 10,
       "topSpeed": 175,
       "cargo": 673,
-      "quarterMile": "~18.3 sec"
+      "quarterMile": "~18.3 sec",
+      "price": "~$32,990"
     },
     "Jeep|Cherokee|2008|Limited": {
       "engine": "4.7L V8",
@@ -658,7 +690,8 @@
       "acceleration": 9.5,
       "topSpeed": 180,
       "cargo": 673,
-      "quarterMile": "~17.8 sec"
+      "quarterMile": "~17.8 sec",
+      "price": "~$39,990"
     },
     "Jeep|Cherokee|2014|Sport": {
       "engine": "2.4L I4 Tigershark",
@@ -678,7 +711,8 @@
       "acceleration": 10.5,
       "topSpeed": 185,
       "cargo": 673,
-      "quarterMile": "~18.8 sec"
+      "quarterMile": "~18.8 sec",
+      "price": "~$29,990"
     },
     "Jeep|Cherokee|2014|Limited": {
       "engine": "3.2L V6 Pentastar",
@@ -698,7 +732,8 @@
       "acceleration": 9,
       "topSpeed": 190,
       "cargo": 673,
-      "quarterMile": "~17.3 sec"
+      "quarterMile": "~17.3 sec",
+      "price": "~$36,990"
     },
     "Jeep|Cherokee|2014|Trailhawk": {
       "engine": "3.2L V6 Pentastar",
@@ -718,7 +753,8 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "cargo": 673,
-      "quarterMile": "~17.8 sec"
+      "quarterMile": "~17.8 sec",
+      "price": "~$39,990"
     },
     "Jeep|Cherokee|2019|Sport": {
       "engine": "2.4L I4 Tigershark",
@@ -738,7 +774,8 @@
       "acceleration": 10,
       "topSpeed": 185,
       "cargo": 673,
-      "quarterMile": "~18.3 sec"
+      "quarterMile": "~18.3 sec",
+      "price": "~$31,990"
     },
     "Jeep|Cherokee|2019|Limited": {
       "engine": "3.2L V6 Pentastar",
@@ -758,7 +795,8 @@
       "acceleration": 8.8,
       "topSpeed": 190,
       "cargo": 673,
-      "quarterMile": "~17.1 sec"
+      "quarterMile": "~17.1 sec",
+      "price": "~$37,990"
     },
     "Jeep|Cherokee|2019|Trailhawk": {
       "engine": "3.2L V6 Pentastar",
@@ -778,7 +816,8 @@
       "acceleration": 9.2,
       "topSpeed": 185,
       "cargo": 673,
-      "quarterMile": "~17.5 sec"
+      "quarterMile": "~17.5 sec",
+      "price": "~$41,990"
     },
     "Jeep|Compass|2017|Sport": {
       "engine": "2.4L I4 Tigershark",
@@ -798,7 +837,8 @@
       "acceleration": 10.5,
       "topSpeed": 185,
       "cargo": 438,
-      "quarterMile": "~18.8 sec"
+      "quarterMile": "~18.8 sec",
+      "price": "~$24,990"
     },
     "Jeep|Compass|2017|Limited": {
       "engine": "2.4L I4 Tigershark",
@@ -818,7 +858,8 @@
       "acceleration": 10.8,
       "topSpeed": 183,
       "cargo": 438,
-      "quarterMile": "~19.1 sec"
+      "quarterMile": "~19.1 sec",
+      "price": "~$30,990"
     },
     "Jeep|Compass|2017|Trailhawk": {
       "engine": "2.4L I4 Tigershark",
@@ -838,7 +879,8 @@
       "acceleration": 11,
       "topSpeed": 180,
       "cargo": 438,
-      "quarterMile": "~19.3 sec"
+      "quarterMile": "~19.3 sec",
+      "price": "~$35,990"
     },
     "Jeep|Compass|2022|Sport": {
       "engine": "2.4L I4 Tigershark",
@@ -858,7 +900,8 @@
       "acceleration": 10.2,
       "topSpeed": 185,
       "cargo": 438,
-      "quarterMile": "~18.5 sec"
+      "quarterMile": "~18.5 sec",
+      "price": "~$27,990"
     },
     "Jeep|Compass|2022|Longitude": {
       "engine": "2.4L I4 Tigershark",
@@ -878,7 +921,8 @@
       "acceleration": 10.5,
       "topSpeed": 183,
       "cargo": 438,
-      "quarterMile": "~18.8 sec"
+      "quarterMile": "~18.8 sec",
+      "price": "~$32,990"
     },
     "Jeep|Compass|2022|Limited": {
       "engine": "2.4L I4 Tigershark",
@@ -898,7 +942,8 @@
       "acceleration": 10.8,
       "topSpeed": 183,
       "cargo": 438,
-      "quarterMile": "~19.1 sec"
+      "quarterMile": "~19.1 sec",
+      "price": "~$36,990"
     },
     "Jeep|Compass|2022|Trailhawk": {
       "engine": "2.4L I4 Tigershark",
@@ -918,7 +963,8 @@
       "acceleration": 11,
       "topSpeed": 180,
       "cargo": 438,
-      "quarterMile": "~19.3 sec"
+      "quarterMile": "~19.3 sec",
+      "price": "~$39,990"
     },
     "Jeep|Compass|2022|4xe": {
       "engine": "1.3L I4 Turbo PHEV",
@@ -938,7 +984,8 @@
       "acceleration": 7.5,
       "topSpeed": 200,
       "cargo": 438,
-      "quarterMile": "~15.8 sec"
+      "quarterMile": "~15.8 sec",
+      "price": "~$54,990"
     },
     "Jeep|Renegade|2015|Sport": {
       "engine": "1.4L I4 MultiAir Turbo",
@@ -958,7 +1005,8 @@
       "acceleration": 11.5,
       "topSpeed": 175,
       "cargo": 351,
-      "quarterMile": "~19.8 sec"
+      "quarterMile": "~19.8 sec",
+      "price": "~$24,490"
     },
     "Jeep|Renegade|2015|Limited": {
       "engine": "2.4L I4 Tigershark",
@@ -978,7 +1026,8 @@
       "acceleration": 11,
       "topSpeed": 185,
       "cargo": 351,
-      "quarterMile": "~19.3 sec"
+      "quarterMile": "~19.3 sec",
+      "price": "~$30,490"
     },
     "Jeep|Renegade|2015|Trailhawk": {
       "engine": "2.4L I4 Tigershark",
@@ -998,7 +1047,8 @@
       "acceleration": 11.3,
       "topSpeed": 180,
       "cargo": 351,
-      "quarterMile": "~19.6 sec"
+      "quarterMile": "~19.6 sec",
+      "price": "~$35,490"
     },
     "Jeep|Renegade|2020|Sport": {
       "engine": "1.3L I4 Turbo",
@@ -1018,7 +1068,8 @@
       "acceleration": 11,
       "topSpeed": 180,
       "cargo": 351,
-      "quarterMile": "~19.3 sec"
+      "quarterMile": "~19.3 sec",
+      "price": "~$26,490"
     },
     "Jeep|Renegade|2020|Limited": {
       "engine": "1.3L I4 Turbo",
@@ -1038,7 +1089,8 @@
       "acceleration": 11.2,
       "topSpeed": 178,
       "cargo": 351,
-      "quarterMile": "~19.5 sec"
+      "quarterMile": "~19.5 sec",
+      "price": "~$32,490"
     },
     "Jeep|Renegade|2020|Trailhawk": {
       "engine": "1.3L I4 Turbo",
@@ -1058,7 +1110,8 @@
       "acceleration": 11.5,
       "topSpeed": 175,
       "cargo": 351,
-      "quarterMile": "~19.8 sec"
+      "quarterMile": "~19.8 sec",
+      "price": "~$37,490"
     },
     "Jeep|Gladiator|2020|Sport S": {
       "engine": "3.6L V6 Pentastar",
@@ -1078,7 +1131,8 @@
       "acceleration": 8.5,
       "topSpeed": 185,
       "cargo": 1069,
-      "quarterMile": "~16.8 sec"
+      "quarterMile": "~16.8 sec",
+      "price": "~$62,990"
     },
     "Jeep|Gladiator|2020|Overland": {
       "engine": "3.6L V6 Pentastar",
@@ -1098,7 +1152,8 @@
       "acceleration": 8.8,
       "topSpeed": 183,
       "cargo": 1069,
-      "quarterMile": "~17.1 sec"
+      "quarterMile": "~17.1 sec",
+      "price": "~$71,990"
     },
     "Jeep|Gladiator|2020|Rubicon": {
       "engine": "3.6L V6 Pentastar",
@@ -1118,7 +1173,8 @@
       "acceleration": 9.2,
       "topSpeed": 178,
       "cargo": 1069,
-      "quarterMile": "~17.5 sec"
+      "quarterMile": "~17.5 sec",
+      "price": "~$79,990"
     },
     "Jeep|Gladiator|2024|Sport S": {
       "engine": "3.6L V6 Pentastar",
@@ -1138,7 +1194,8 @@
       "acceleration": 8.5,
       "topSpeed": 185,
       "cargo": 1069,
-      "quarterMile": "~16.8 sec"
+      "quarterMile": "~16.8 sec",
+      "price": "~$64,990"
     },
     "Jeep|Gladiator|2024|Rubicon": {
       "engine": "3.6L V6 Pentastar",
@@ -1158,7 +1215,8 @@
       "acceleration": 9,
       "topSpeed": 178,
       "cargo": 1069,
-      "quarterMile": "~17.3 sec"
+      "quarterMile": "~17.3 sec",
+      "price": "~$81,990"
     }
   }
 }

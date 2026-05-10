@@ -18,7 +18,8 @@
       "acceleration": 10.5,
       "topSpeed": 180,
       "cargo": 204,
-      "quarterMile": "~17.5 sec"
+      "quarterMile": "~17.5 sec",
+      "price": "~$14,990"
     },
     "Suzuki|Swift|2007|GLX": {
       "engine": "1.5L I4",
@@ -38,7 +39,8 @@
       "acceleration": 11.2,
       "topSpeed": 175,
       "cargo": 204,
-      "quarterMile": "~17.8 sec"
+      "quarterMile": "~17.8 sec",
+      "price": "~$17,990"
     },
     "Suzuki|Swift|2008|Sport": {
       "engine": "1.6L I4",
@@ -58,7 +60,8 @@
       "acceleration": 8.5,
       "topSpeed": 200,
       "cargo": 204,
-      "quarterMile": "~16.5 sec"
+      "quarterMile": "~16.5 sec",
+      "price": "~$24,990"
     },
     "Suzuki|Swift|2011|GL": {
       "engine": "1.4L I4",
@@ -78,7 +81,8 @@
       "acceleration": 11.5,
       "topSpeed": 175,
       "cargo": 204,
-      "quarterMile": "~17.9 sec"
+      "quarterMile": "~17.9 sec",
+      "price": "~$15,990"
     },
     "Suzuki|Swift|2011|GLX": {
       "engine": "1.4L I4",
@@ -98,7 +102,8 @@
       "acceleration": 12.2,
       "topSpeed": 170,
       "cargo": 204,
-      "quarterMile": "~18.2 sec"
+      "quarterMile": "~18.2 sec",
+      "price": "~$18,990"
     },
     "Suzuki|Swift|2013|Sport": {
       "engine": "1.6L I4",
@@ -118,7 +123,8 @@
       "acceleration": 7.6,
       "topSpeed": 210,
       "cargo": 180,
-      "quarterMile": "~15.8 sec"
+      "quarterMile": "~15.8 sec",
+      "price": "~$25,990"
     },
     "Suzuki|Swift|2015|GL": {
       "engine": "1.4L I4",
@@ -138,7 +144,8 @@
       "acceleration": 11.5,
       "topSpeed": 175,
       "cargo": 204,
-      "quarterMile": "~17.9 sec"
+      "quarterMile": "~17.9 sec",
+      "price": "~$16,990"
     },
     "Suzuki|Swift|2015|GLX": {
       "engine": "1.4L I4",
@@ -158,7 +165,8 @@
       "acceleration": 12.2,
       "topSpeed": 170,
       "cargo": 204,
-      "quarterMile": "~18.2 sec"
+      "quarterMile": "~18.2 sec",
+      "price": "~$19,990"
     },
     "Suzuki|Swift|2016|Sport": {
       "engine": "1.6L I4",
@@ -178,7 +186,8 @@
       "acceleration": 7.6,
       "topSpeed": 210,
       "cargo": 180,
-      "quarterMile": "~15.8 sec"
+      "quarterMile": "~15.8 sec",
+      "price": "~$26,990"
     },
     "Suzuki|Swift|2018|GLX Turbo": {
       "engine": "1.0L I3 Boosterjet Turbo",
@@ -198,7 +207,8 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "cargo": 204,
-      "quarterMile": "~17.0 sec"
+      "quarterMile": "~17.0 sec",
+      "price": "~$22,490"
     },
     "Suzuki|Swift|2019|GL": {
       "engine": "1.2L I4 DualJet",
@@ -218,7 +228,8 @@
       "acceleration": 12.3,
       "topSpeed": 170,
       "cargo": 204,
-      "quarterMile": "~18.4 sec"
+      "quarterMile": "~18.4 sec",
+      "price": "~$18,490"
     },
     "Suzuki|Swift|2019|GLX": {
       "engine": "1.2L I4 DualJet",
@@ -238,7 +249,8 @@
       "acceleration": 12.3,
       "topSpeed": 170,
       "cargo": 204,
-      "quarterMile": "~18.4 sec"
+      "quarterMile": "~18.4 sec",
+      "price": "~$21,490"
     },
     "Suzuki|Swift|2019|Sport": {
       "engine": "1.4L I4 Boosterjet Turbo",
@@ -258,7 +270,8 @@
       "acceleration": 7.9,
       "topSpeed": 210,
       "cargo": 204,
-      "quarterMile": "~15.9 sec"
+      "quarterMile": "~15.9 sec",
+      "price": "~$27,490"
     },
     "Suzuki|Swift|2022|GLX Turbo": {
       "engine": "1.0L I3 Boosterjet Turbo",
@@ -278,7 +291,8 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "cargo": 204,
-      "quarterMile": "~17.0 sec"
+      "quarterMile": "~17.0 sec",
+      "price": "~$24,990"
     },
     "Suzuki|Swift|2022|Sport": {
       "engine": "1.4L I4 Boosterjet Turbo",
@@ -298,7 +312,8 @@
       "acceleration": 7.9,
       "topSpeed": 210,
       "cargo": 204,
-      "quarterMile": "~15.9 sec"
+      "quarterMile": "~15.9 sec",
+      "price": "~$29,990"
     },
     "Suzuki|Swift|2023|GL": {
       "engine": "1.2L I4 DualJet",
@@ -318,7 +333,8 @@
       "acceleration": 12.3,
       "topSpeed": 170,
       "cargo": 204,
-      "quarterMile": "~18.4 sec"
+      "quarterMile": "~18.4 sec",
+      "price": "~$20,990"
     },
     "Suzuki|Swift|2023|GLX": {
       "engine": "1.2L I4 DualJet",
@@ -338,7 +354,8 @@
       "acceleration": 12.3,
       "topSpeed": 170,
       "cargo": 204,
-      "quarterMile": "~18.4 sec"
+      "quarterMile": "~18.4 sec",
+      "price": "~$23,490"
     },
     "Suzuki|Swift|2025|GL": {
       "engine": "1.2L I3 Mild Hybrid",
@@ -358,7 +375,8 @@
       "acceleration": 12,
       "topSpeed": 170,
       "cargo": 197,
-      "quarterMile": "~18.2 sec"
+      "quarterMile": "~18.2 sec",
+      "price": "~$21,990"
     },
     "Suzuki|Swift|2025|GLX": {
       "engine": "1.2L I3 Mild Hybrid",
@@ -378,7 +396,8 @@
       "acceleration": 12,
       "topSpeed": 170,
       "cargo": 197,
-      "quarterMile": "~18.2 sec"
+      "quarterMile": "~18.2 sec",
+      "price": "~$24,490"
     },
     "Suzuki|Swift|2025|Sport": {
       "engine": "1.2L I3 Mild Hybrid",
@@ -398,7 +417,8 @@
       "acceleration": 11.5,
       "topSpeed": 175,
       "cargo": 197,
-      "quarterMile": "~17.9 sec"
+      "quarterMile": "~17.9 sec",
+      "price": "~$31,490"
     },
     "Suzuki|Jimny|2003|JX": {
       "engine": "1.3L I4",
@@ -418,7 +438,8 @@
       "acceleration": 13.5,
       "topSpeed": 145,
       "cargo": 85,
-      "quarterMile": "~19.5 sec"
+      "quarterMile": "~19.5 sec",
+      "price": "~$18,490"
     },
     "Suzuki|Jimny|2003|JLX": {
       "engine": "1.3L I4",
@@ -438,7 +459,8 @@
       "acceleration": 13.5,
       "topSpeed": 145,
       "cargo": 85,
-      "quarterMile": "~19.5 sec"
+      "quarterMile": "~19.5 sec",
+      "price": "~$21,490"
     },
     "Suzuki|Jimny|2003|JLX-L": {
       "engine": "1.3L I4",
@@ -458,7 +480,8 @@
       "acceleration": 14.5,
       "topSpeed": 140,
       "cargo": 85,
-      "quarterMile": "~19.8 sec"
+      "quarterMile": "~19.8 sec",
+      "price": "~$22,990"
     },
     "Suzuki|Jimny|2007|JX": {
       "engine": "1.3L I4",
@@ -478,7 +501,8 @@
       "acceleration": 13.5,
       "topSpeed": 145,
       "cargo": 85,
-      "quarterMile": "~19.5 sec"
+      "quarterMile": "~19.5 sec",
+      "price": "~$19,490"
     },
     "Suzuki|Jimny|2007|JLX": {
       "engine": "1.3L I4",
@@ -498,7 +522,8 @@
       "acceleration": 13.5,
       "topSpeed": 145,
       "cargo": 85,
-      "quarterMile": "~19.5 sec"
+      "quarterMile": "~19.5 sec",
+      "price": "~$22,490"
     },
     "Suzuki|Jimny|2007|JLX-L": {
       "engine": "1.3L I4",
@@ -518,7 +543,8 @@
       "acceleration": 14.5,
       "topSpeed": 140,
       "cargo": 85,
-      "quarterMile": "~19.8 sec"
+      "quarterMile": "~19.8 sec",
+      "price": "~$23,990"
     },
     "Suzuki|Jimny|2012|JX": {
       "engine": "1.3L I4",
@@ -538,7 +564,8 @@
       "acceleration": 13.5,
       "topSpeed": 145,
       "cargo": 85,
-      "quarterMile": "~19.5 sec"
+      "quarterMile": "~19.5 sec",
+      "price": "~$20,490"
     },
     "Suzuki|Jimny|2012|JLX": {
       "engine": "1.3L I4",
@@ -558,7 +585,8 @@
       "acceleration": 13.5,
       "topSpeed": 145,
       "cargo": 85,
-      "quarterMile": "~19.5 sec"
+      "quarterMile": "~19.5 sec",
+      "price": "~$23,490"
     },
     "Suzuki|Jimny|2012|JLX-L": {
       "engine": "1.3L I4",
@@ -578,7 +606,8 @@
       "acceleration": 14.5,
       "topSpeed": 140,
       "cargo": 85,
-      "quarterMile": "~19.8 sec"
+      "quarterMile": "~19.8 sec",
+      "price": "~$24,990"
     },
     "Suzuki|Jimny|2016|JX": {
       "engine": "1.3L I4",
@@ -598,7 +627,8 @@
       "acceleration": 13.5,
       "topSpeed": 145,
       "cargo": 85,
-      "quarterMile": "~19.5 sec"
+      "quarterMile": "~19.5 sec",
+      "price": "~$22,990"
     },
     "Suzuki|Jimny|2016|JLX": {
       "engine": "1.3L I4",
@@ -618,7 +648,8 @@
       "acceleration": 13.5,
       "topSpeed": 145,
       "cargo": 85,
-      "quarterMile": "~19.5 sec"
+      "quarterMile": "~19.5 sec",
+      "price": "~$25,990"
     },
     "Suzuki|Jimny|2016|JLX-L": {
       "engine": "1.3L I4",
@@ -638,7 +669,8 @@
       "acceleration": 14.5,
       "topSpeed": 140,
       "cargo": 85,
-      "quarterMile": "~19.8 sec"
+      "quarterMile": "~19.8 sec",
+      "price": "~$26,990"
     },
     "Suzuki|Jimny|2020|Lite": {
       "engine": "1.5L I4",
@@ -658,7 +690,8 @@
       "acceleration": 12,
       "topSpeed": 150,
       "cargo": 85,
-      "quarterMile": "~18.3 sec"
+      "quarterMile": "~18.3 sec",
+      "price": "~$22,990"
     },
     "Suzuki|Jimny|2020|JLX": {
       "engine": "1.5L I4",
@@ -678,7 +711,8 @@
       "acceleration": 12,
       "topSpeed": 150,
       "cargo": 85,
-      "quarterMile": "~18.3 sec"
+      "quarterMile": "~18.3 sec",
+      "price": "~$26,990"
     },
     "Suzuki|Jimny|2020|JLX-L": {
       "engine": "1.5L I4",
@@ -698,7 +732,8 @@
       "acceleration": 13,
       "topSpeed": 145,
       "cargo": 85,
-      "quarterMile": "~18.8 sec"
+      "quarterMile": "~18.8 sec",
+      "price": "~$28,490"
     },
     "Suzuki|Jimny|2024|Lite": {
       "engine": "1.5L I4",
@@ -718,7 +753,8 @@
       "acceleration": 12,
       "topSpeed": 150,
       "cargo": 85,
-      "quarterMile": "~18.3 sec"
+      "quarterMile": "~18.3 sec",
+      "price": "~$24,990"
     },
     "Suzuki|Jimny|2024|JLX": {
       "engine": "1.5L I4",
@@ -738,7 +774,8 @@
       "acceleration": 12,
       "topSpeed": 150,
       "cargo": 85,
-      "quarterMile": "~18.3 sec"
+      "quarterMile": "~18.3 sec",
+      "price": "~$28,990"
     },
     "Suzuki|Jimny|2024|JLX-L": {
       "engine": "1.5L I4",
@@ -758,7 +795,8 @@
       "acceleration": 13,
       "topSpeed": 145,
       "cargo": 85,
-      "quarterMile": "~18.8 sec"
+      "quarterMile": "~18.8 sec",
+      "price": "~$31,490"
     },
     "Suzuki|Jimny|2024|5-door": {
       "engine": "1.5L I4",
@@ -778,7 +816,8 @@
       "acceleration": 12.5,
       "topSpeed": 145,
       "cargo": 210,
-      "quarterMile": "~18.6 sec"
+      "quarterMile": "~18.6 sec",
+      "price": "~$34,990"
     },
     "Suzuki|Grand Vitara|2001|GLS": {
       "engine": "2.0L I4",
@@ -798,7 +837,8 @@
       "acceleration": 12,
       "topSpeed": 165,
       "cargo": 450,
-      "quarterMile": "~18.2 sec"
+      "quarterMile": "~18.2 sec",
+      "price": "~$27,990"
     },
     "Suzuki|Grand Vitara|2001|V6": {
       "engine": "2.5L V6",
@@ -818,7 +858,8 @@
       "acceleration": 10.5,
       "topSpeed": 175,
       "cargo": 450,
-      "quarterMile": "~17.8 sec"
+      "quarterMile": "~17.8 sec",
+      "price": "~$34,990"
     },
     "Suzuki|Grand Vitara|2004|GLS": {
       "engine": "2.0L I4",
@@ -838,7 +879,8 @@
       "acceleration": 12,
       "topSpeed": 165,
       "cargo": 450,
-      "quarterMile": "~18.2 sec"
+      "quarterMile": "~18.2 sec",
+      "price": "~$30,990"
     },
     "Suzuki|Grand Vitara|2004|V6": {
       "engine": "2.5L V6",
@@ -858,7 +900,8 @@
       "acceleration": 10.5,
       "topSpeed": 175,
       "cargo": 450,
-      "quarterMile": "~17.8 sec"
+      "quarterMile": "~17.8 sec",
+      "price": "~$37,990"
     },
     "Suzuki|Grand Vitara|2007|GL": {
       "engine": "2.0L I4",
@@ -878,7 +921,8 @@
       "acceleration": 11,
       "topSpeed": 180,
       "cargo": 450,
-      "quarterMile": "~17.9 sec"
+      "quarterMile": "~17.9 sec",
+      "price": "~$25,990"
     },
     "Suzuki|Grand Vitara|2007|GLS": {
       "engine": "2.0L I4",
@@ -898,7 +942,8 @@
       "acceleration": 11.5,
       "topSpeed": 175,
       "cargo": 450,
-      "quarterMile": "~18.1 sec"
+      "quarterMile": "~18.1 sec",
+      "price": "~$33,990"
     },
     "Suzuki|Grand Vitara|2007|Sport": {
       "engine": "2.0L I4",
@@ -918,7 +963,8 @@
       "acceleration": 10.8,
       "topSpeed": 180,
       "cargo": 450,
-      "quarterMile": "~17.8 sec"
+      "quarterMile": "~17.8 sec",
+      "price": "~$37,990"
     },
     "Suzuki|Grand Vitara|2012|GL": {
       "engine": "2.4L I4",
@@ -938,7 +984,8 @@
       "acceleration": 10.2,
       "topSpeed": 185,
       "cargo": 450,
-      "quarterMile": "~17.6 sec"
+      "quarterMile": "~17.6 sec",
+      "price": "~$27,990"
     },
     "Suzuki|Grand Vitara|2012|GLS": {
       "engine": "2.4L I4",
@@ -958,7 +1005,8 @@
       "acceleration": 10.8,
       "topSpeed": 180,
       "cargo": 450,
-      "quarterMile": "~17.9 sec"
+      "quarterMile": "~17.9 sec",
+      "price": "~$35,990"
     },
     "Suzuki|Grand Vitara|2012|Sport": {
       "engine": "2.4L I4",
@@ -978,7 +1026,8 @@
       "acceleration": 10,
       "topSpeed": 185,
       "cargo": 450,
-      "quarterMile": "~17.5 sec"
+      "quarterMile": "~17.5 sec",
+      "price": "~$39,990"
     },
     "Suzuki|Grand Vitara|2015|GL": {
       "engine": "2.4L I4",
@@ -998,7 +1047,8 @@
       "acceleration": 10.2,
       "topSpeed": 185,
       "cargo": 450,
-      "quarterMile": "~17.6 sec"
+      "quarterMile": "~17.6 sec",
+      "price": "~$28,990"
     },
     "Suzuki|Grand Vitara|2015|GLS": {
       "engine": "2.4L I4",
@@ -1018,7 +1068,8 @@
       "acceleration": 10.8,
       "topSpeed": 180,
       "cargo": 450,
-      "quarterMile": "~17.9 sec"
+      "quarterMile": "~17.9 sec",
+      "price": "~$36,990"
     },
     "Suzuki|Grand Vitara|2015|Sport": {
       "engine": "2.4L I4",
@@ -1038,7 +1089,8 @@
       "acceleration": 10,
       "topSpeed": 185,
       "cargo": 450,
-      "quarterMile": "~17.5 sec"
+      "quarterMile": "~17.5 sec",
+      "price": "~$40,990"
     },
     "Suzuki|Grand Vitara|2024|GL": {
       "engine": "1.5L I4 Mild Hybrid",
@@ -1058,7 +1110,8 @@
       "acceleration": 12.5,
       "topSpeed": 170,
       "cargo": 373,
-      "quarterMile": "~18.5 sec"
+      "quarterMile": "~18.5 sec",
+      "price": "~$32,990"
     },
     "Suzuki|Grand Vitara|2024|GLX": {
       "engine": "1.5L I4 Mild Hybrid",
@@ -1078,7 +1131,8 @@
       "acceleration": 12.8,
       "topSpeed": 165,
       "cargo": 373,
-      "quarterMile": "~18.7 sec"
+      "quarterMile": "~18.7 sec",
+      "price": "~$37,990"
     },
     "Suzuki|Vitara|2016|RT": {
       "engine": "1.6L I4",
@@ -1098,7 +1152,8 @@
       "acceleration": 10,
       "topSpeed": 180,
       "cargo": 375,
-      "quarterMile": "~17.3 sec"
+      "quarterMile": "~17.3 sec",
+      "price": "~$22,990"
     },
     "Suzuki|Vitara|2016|RT-S": {
       "engine": "1.6L I4",
@@ -1118,7 +1173,8 @@
       "acceleration": 10.5,
       "topSpeed": 175,
       "cargo": 375,
-      "quarterMile": "~17.6 sec"
+      "quarterMile": "~17.6 sec",
+      "price": "~$27,990"
     },
     "Suzuki|Vitara|2016|S Turbo": {
       "engine": "1.4L I4 Boosterjet Turbo",
@@ -1138,7 +1194,8 @@
       "acceleration": 9,
       "topSpeed": 185,
       "cargo": 375,
-      "quarterMile": "~16.8 sec"
+      "quarterMile": "~16.8 sec",
+      "price": "~$33,990"
     },
     "Suzuki|Vitara|2020|GL": {
       "engine": "1.4L I4 Boosterjet Mild Hybrid",
@@ -1158,7 +1215,8 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "cargo": 375,
-      "quarterMile": "~17.0 sec"
+      "quarterMile": "~17.0 sec",
+      "price": "~$24,990"
     },
     "Suzuki|Vitara|2020|GLX": {
       "engine": "1.4L I4 Boosterjet Mild Hybrid",
@@ -1178,7 +1236,8 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "cargo": 375,
-      "quarterMile": "~17.0 sec"
+      "quarterMile": "~17.0 sec",
+      "price": "~$29,990"
     },
     "Suzuki|Vitara|2020|GLX Turbo": {
       "engine": "1.4L I4 Boosterjet Mild Hybrid",
@@ -1198,7 +1257,8 @@
       "acceleration": 9,
       "topSpeed": 185,
       "cargo": 375,
-      "quarterMile": "~16.8 sec"
+      "quarterMile": "~16.8 sec",
+      "price": "~$35,990"
     },
     "Suzuki|Vitara|2024|GL": {
       "engine": "1.4L I4 Boosterjet Mild Hybrid",
@@ -1218,7 +1278,8 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "cargo": 375,
-      "quarterMile": "~17.0 sec"
+      "quarterMile": "~17.0 sec",
+      "price": "~$26,990"
     },
     "Suzuki|Vitara|2024|GLX": {
       "engine": "1.4L I4 Boosterjet Mild Hybrid",
@@ -1238,7 +1299,8 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "cargo": 375,
-      "quarterMile": "~17.0 sec"
+      "quarterMile": "~17.0 sec",
+      "price": "~$31,990"
     },
     "Suzuki|Vitara|2024|GLX Turbo": {
       "engine": "1.4L I4 Boosterjet Mild Hybrid",
@@ -1258,7 +1320,8 @@
       "acceleration": 9,
       "topSpeed": 185,
       "cargo": 375,
-      "quarterMile": "~16.8 sec"
+      "quarterMile": "~16.8 sec",
+      "price": "~$37,990"
     },
     "Suzuki|Baleno|2017|GL": {
       "engine": "1.0L I3 Boosterjet Turbo",
@@ -1278,7 +1341,8 @@
       "acceleration": 10.5,
       "topSpeed": 180,
       "cargo": 268,
-      "quarterMile": "~17.5 sec"
+      "quarterMile": "~17.5 sec",
+      "price": "~$16,490"
     },
     "Suzuki|Baleno|2017|GLX": {
       "engine": "1.0L I3 Boosterjet Turbo",
@@ -1298,7 +1362,8 @@
       "acceleration": 10.5,
       "topSpeed": 180,
       "cargo": 268,
-      "quarterMile": "~17.5 sec"
+      "quarterMile": "~17.5 sec",
+      "price": "~$18,490"
     },
     "Suzuki|Baleno|2021|GL": {
       "engine": "1.0L I3 Boosterjet Turbo",
@@ -1318,7 +1383,8 @@
       "acceleration": 10.5,
       "topSpeed": 180,
       "cargo": 268,
-      "quarterMile": "~17.5 sec"
+      "quarterMile": "~17.5 sec",
+      "price": "~$18,990"
     },
     "Suzuki|Baleno|2021|GLX": {
       "engine": "1.0L I3 Boosterjet Turbo",
@@ -1338,7 +1404,8 @@
       "acceleration": 10.5,
       "topSpeed": 180,
       "cargo": 268,
-      "quarterMile": "~17.5 sec"
+      "quarterMile": "~17.5 sec",
+      "price": "~$21,490"
     },
     "Suzuki|S-Cross|2014|GL": {
       "engine": "1.6L I4",
@@ -1358,7 +1425,8 @@
       "acceleration": 10.5,
       "topSpeed": 180,
       "cargo": 430,
-      "quarterMile": "~17.5 sec"
+      "quarterMile": "~17.5 sec",
+      "price": "~$22,490"
     },
     "Suzuki|S-Cross|2014|GLX": {
       "engine": "1.6L I4",
@@ -1378,7 +1446,8 @@
       "acceleration": 10.5,
       "topSpeed": 180,
       "cargo": 430,
-      "quarterMile": "~17.5 sec"
+      "quarterMile": "~17.5 sec",
+      "price": "~$26,490"
     },
     "Suzuki|S-Cross|2018|GL": {
       "engine": "1.4L I4 Boosterjet Turbo",
@@ -1398,7 +1467,8 @@
       "acceleration": 9,
       "topSpeed": 190,
       "cargo": 430,
-      "quarterMile": "~16.8 sec"
+      "quarterMile": "~16.8 sec",
+      "price": "~$24,490"
     },
     "Suzuki|S-Cross|2018|GLX": {
       "engine": "1.4L I4 Boosterjet Turbo",
@@ -1418,7 +1488,8 @@
       "acceleration": 9,
       "topSpeed": 190,
       "cargo": 430,
-      "quarterMile": "~16.8 sec"
+      "quarterMile": "~16.8 sec",
+      "price": "~$27,490"
     },
     "Suzuki|S-Cross|2018|GLX Turbo": {
       "engine": "1.4L I4 Boosterjet Turbo",
@@ -1438,7 +1509,8 @@
       "acceleration": 9,
       "topSpeed": 190,
       "cargo": 430,
-      "quarterMile": "~16.8 sec"
+      "quarterMile": "~16.8 sec",
+      "price": "~$32,490"
     },
     "Suzuki|S-Cross|2023|GL": {
       "engine": "1.4L I4 Boosterjet Mild Hybrid",
@@ -1458,7 +1530,8 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "cargo": 430,
-      "quarterMile": "~17.0 sec"
+      "quarterMile": "~17.0 sec",
+      "price": "~$28,990"
     },
     "Suzuki|S-Cross|2023|GLX": {
       "engine": "1.4L I4 Boosterjet Mild Hybrid",
@@ -1478,7 +1551,8 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "cargo": 430,
-      "quarterMile": "~17.0 sec"
+      "quarterMile": "~17.0 sec",
+      "price": "~$32,990"
     },
     "Suzuki|S-Cross|2023|GLX Turbo": {
       "engine": "1.4L I4 Boosterjet Mild Hybrid",
@@ -1498,7 +1572,8 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "cargo": 430,
-      "quarterMile": "~17.0 sec"
+      "quarterMile": "~17.0 sec",
+      "price": "~$38,990"
     },
     "Suzuki|S-Cross|2025|GL": {
       "engine": "1.4L I4 Boosterjet Mild Hybrid",
@@ -1518,7 +1593,8 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "cargo": 430,
-      "quarterMile": "~17.0 sec"
+      "quarterMile": "~17.0 sec",
+      "price": "~$30,990"
     },
     "Suzuki|S-Cross|2025|GLX": {
       "engine": "1.4L I4 Boosterjet Mild Hybrid",
@@ -1538,7 +1614,8 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "cargo": 430,
-      "quarterMile": "~17.0 sec"
+      "quarterMile": "~17.0 sec",
+      "price": "~$34,990"
     },
     "Suzuki|S-Cross|2025|GLX Turbo": {
       "engine": "1.4L I4 Boosterjet Mild Hybrid",
@@ -1558,7 +1635,8 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "cargo": 430,
-      "quarterMile": "~17.0 sec"
+      "quarterMile": "~17.0 sec",
+      "price": "~$40,990"
     },
     "Suzuki|Ignis|2018|GL": {
       "engine": "1.2L I4 DualJet",
@@ -1578,7 +1656,8 @@
       "acceleration": 12.5,
       "topSpeed": 160,
       "cargo": 267,
-      "quarterMile": "~18.5 sec"
+      "quarterMile": "~18.5 sec",
+      "price": "~$17,490"
     },
     "Suzuki|Ignis|2018|GLX": {
       "engine": "1.2L I4 DualJet",
@@ -1598,7 +1677,8 @@
       "acceleration": 12.5,
       "topSpeed": 160,
       "cargo": 267,
-      "quarterMile": "~18.5 sec"
+      "quarterMile": "~18.5 sec",
+      "price": "~$19,490"
     },
     "Suzuki|Ignis|2021|GL": {
       "engine": "1.2L I4 DualJet",
@@ -1618,7 +1698,8 @@
       "acceleration": 12.5,
       "topSpeed": 160,
       "cargo": 267,
-      "quarterMile": "~18.5 sec"
+      "quarterMile": "~18.5 sec",
+      "price": "~$18,990"
     },
     "Suzuki|Ignis|2021|GLX": {
       "engine": "1.2L I4 DualJet",
@@ -1638,7 +1719,8 @@
       "acceleration": 12.5,
       "topSpeed": 160,
       "cargo": 267,
-      "quarterMile": "~18.5 sec"
+      "quarterMile": "~18.5 sec",
+      "price": "~$20,990"
     }
   }
 }

@@ -18,7 +18,8 @@
       "acceleration": 5.5,
       "topSpeed": 245,
       "cargo": 420,
-      "quarterMile": "~13.8 sec"
+      "quarterMile": "~13.8 sec",
+      "price": "~$124,990"
     },
     "BMW|6 Series|2004|645Ci": {
       "engine": "4.4L V8",
@@ -38,7 +39,8 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "cargo": 420,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "price": "~$179,990"
     },
     "BMW|6 Series|2007|630i": {
       "engine": "3.0L I6",
@@ -58,7 +60,8 @@
       "acceleration": 5.5,
       "topSpeed": 245,
       "cargo": 420,
-      "quarterMile": "~13.8 sec"
+      "quarterMile": "~13.8 sec",
+      "price": "~$129,990"
     },
     "BMW|6 Series|2007|650i": {
       "engine": "4.8L V8",
@@ -78,7 +81,8 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "cargo": 420,
-      "quarterMile": "~12.7 sec"
+      "quarterMile": "~12.7 sec",
+      "price": "~$169,990"
     },
     "BMW|6 Series|2007|M6": {
       "engine": "5.0L V10",
@@ -98,7 +102,8 @@
       "acceleration": 3.4,
       "topSpeed": 280,
       "cargo": 420,
-      "quarterMile": "~11.7 sec"
+      "quarterMile": "~11.7 sec",
+      "price": "~$274,990"
     },
     "BMW|6 Series|2009|M6": {
       "engine": "5.0L V10",
@@ -118,7 +123,8 @@
       "acceleration": 3.4,
       "topSpeed": 280,
       "cargo": 420,
-      "quarterMile": "~11.7 sec"
+      "quarterMile": "~11.7 sec",
+      "price": "~$279,990"
     },
     "BMW|6 Series|2012|640i": {
       "engine": "3.0L I6 turbo",
@@ -138,7 +144,8 @@
       "acceleration": 4.6,
       "topSpeed": 245,
       "cargo": 420,
-      "quarterMile": "~12.9 sec"
+      "quarterMile": "~12.9 sec",
+      "price": "~$154,990"
     },
     "BMW|6 Series|2012|650i": {
       "engine": "4.4L V8 biturbo",
@@ -158,7 +165,8 @@
       "acceleration": 4,
       "topSpeed": 250,
       "cargo": 420,
-      "quarterMile": "~12.3 sec"
+      "quarterMile": "~12.3 sec",
+      "price": "~$184,990"
     },
     "BMW|6 Series|2014|650i": {
       "engine": "4.4L V8 biturbo",
@@ -178,7 +186,8 @@
       "acceleration": 4,
       "topSpeed": 250,
       "cargo": 420,
-      "quarterMile": "~12.3 sec"
+      "quarterMile": "~12.3 sec",
+      "price": "~$189,990"
     },
     "BMW|6 Series|2016|640i": {
       "engine": "3.0L I6 turbo",
@@ -198,7 +207,8 @@
       "acceleration": 4.6,
       "topSpeed": 245,
       "cargo": 420,
-      "quarterMile": "~12.9 sec"
+      "quarterMile": "~12.9 sec",
+      "price": "~$164,990"
     },
     "BMW|6 Series|2016|650i": {
       "engine": "4.4L V8 biturbo",
@@ -218,7 +228,8 @@
       "acceleration": 4,
       "topSpeed": 250,
       "cargo": 420,
-      "quarterMile": "~12.3 sec"
+      "quarterMile": "~12.3 sec",
+      "price": "~$194,990"
     },
     "BMW|6 Series|2016|M6": {
       "engine": "4.4L V8 biturbo",
@@ -238,7 +249,8 @@
       "acceleration": 3,
       "topSpeed": 290,
       "cargo": 420,
-      "quarterMile": "~11.3 sec"
+      "quarterMile": "~11.3 sec",
+      "price": "~$294,990"
     },
     "BMW|6 Series|2015|640i": {
       "engine": "3.0L I6 turbo",
@@ -258,7 +270,8 @@
       "acceleration": 4.6,
       "topSpeed": 245,
       "cargo": 420,
-      "quarterMile": "~12.9 sec"
+      "quarterMile": "~12.9 sec",
+      "price": "~$159,990"
     },
     "BMW|6 Series|2015|M6": {
       "engine": "4.4L V8 biturbo",
@@ -278,7 +291,8 @@
       "acceleration": 3,
       "topSpeed": 290,
       "cargo": 420,
-      "quarterMile": "~11.3 sec"
+      "quarterMile": "~11.3 sec",
+      "price": "~$289,990"
     },
     "BMW|8 Series|2019|840i": {
       "engine": "3.0L I6 turbo",
@@ -298,7 +312,8 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "cargo": 420,
-      "quarterMile": "~12.8 sec"
+      "quarterMile": "~12.8 sec",
+      "price": "~$204,990"
     },
     "BMW|8 Series|2019|M850i xDrive": {
       "engine": "4.4L V8 biturbo",
@@ -318,7 +333,8 @@
       "acceleration": 3.4,
       "topSpeed": 250,
       "cargo": 420,
-      "quarterMile": "~11.7 sec"
+      "quarterMile": "~11.7 sec",
+      "price": "~$259,990"
     },
     "BMW|8 Series|2021|840i": {
       "engine": "3.0L I6 turbo",
@@ -338,7 +354,8 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "cargo": 420,
-      "quarterMile": "~12.8 sec"
+      "quarterMile": "~12.8 sec",
+      "price": "~$209,990"
     },
     "BMW|8 Series|2021|M850i xDrive": {
       "engine": "4.4L V8 biturbo",
@@ -358,7 +375,8 @@
       "acceleration": 3.4,
       "topSpeed": 250,
       "cargo": 420,
-      "quarterMile": "~11.7 sec"
+      "quarterMile": "~11.7 sec",
+      "price": "~$264,990"
     },
     "BMW|8 Series|2021|M8 Competition": {
       "engine": "4.4L V8 biturbo",
@@ -378,7 +396,8 @@
       "acceleration": 3,
       "topSpeed": 290,
       "cargo": 420,
-      "quarterMile": "~11.3 sec"
+      "quarterMile": "~11.3 sec",
+      "price": "~$339,990"
     },
     "BMW|8 Series|2023|840i": {
       "engine": "3.0L I6 turbo",
@@ -398,7 +417,8 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "cargo": 420,
-      "quarterMile": "~12.8 sec"
+      "quarterMile": "~12.8 sec",
+      "price": "~$214,900"
     },
     "BMW|8 Series|2023|M850i xDrive": {
       "engine": "4.4L V8 biturbo",
@@ -418,7 +438,8 @@
       "acceleration": 3.4,
       "topSpeed": 250,
       "cargo": 420,
-      "quarterMile": "~11.7 sec"
+      "quarterMile": "~11.7 sec",
+      "price": "~$269,900"
     },
     "BMW|8 Series|2023|M8 Competition": {
       "engine": "4.4L V8 biturbo",
@@ -438,7 +459,8 @@
       "acceleration": 3,
       "topSpeed": 290,
       "cargo": 420,
-      "quarterMile": "~11.3 sec"
+      "quarterMile": "~11.3 sec",
+      "price": "~$349,900"
     },
     "BMW|8 Series|2025|840i": {
       "engine": "3.0L I6 turbo",
@@ -458,7 +480,8 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "cargo": 420,
-      "quarterMile": "~12.8 sec"
+      "quarterMile": "~12.8 sec",
+      "price": "~$219,900"
     },
     "BMW|8 Series|2025|M850i xDrive": {
       "engine": "4.4L V8 biturbo",
@@ -478,7 +501,8 @@
       "acceleration": 3.4,
       "topSpeed": 250,
       "cargo": 420,
-      "quarterMile": "~11.7 sec"
+      "quarterMile": "~11.7 sec",
+      "price": "~$274,900"
     },
     "BMW|8 Series|2025|M8 Competition": {
       "engine": "4.4L V8 biturbo",
@@ -498,7 +522,8 @@
       "acceleration": 3,
       "topSpeed": 290,
       "cargo": 420,
-      "quarterMile": "~11.3 sec"
+      "quarterMile": "~11.3 sec",
+      "price": "~$354,900"
     },
     "BMW|Z3|1996|Z3 1.9": {
       "engine": "1.9L I4",
@@ -518,7 +543,8 @@
       "acceleration": 7.4,
       "topSpeed": 195,
       "cargo": 210,
-      "quarterMile": "~15.7 sec"
+      "quarterMile": "~15.7 sec",
+      "price": "~$49,990"
     },
     "BMW|Z3|1998|Z3 1.9": {
       "engine": "1.9L I4",
@@ -538,7 +564,8 @@
       "acceleration": 7.4,
       "topSpeed": 195,
       "cargo": 210,
-      "quarterMile": "~15.7 sec"
+      "quarterMile": "~15.7 sec",
+      "price": "~$51,990"
     },
     "BMW|Z3|1998|Z3 2.8": {
       "engine": "2.8L I6",
@@ -558,7 +585,8 @@
       "acceleration": 5.4,
       "topSpeed": 220,
       "cargo": 210,
-      "quarterMile": "~13.7 sec"
+      "quarterMile": "~13.7 sec",
+      "price": "~$64,990"
     },
     "BMW|Z3|2000|Z3 2.2i": {
       "engine": "2.2L I6",
@@ -578,7 +606,8 @@
       "acceleration": 5.9,
       "topSpeed": 220,
       "cargo": 210,
-      "quarterMile": "~14.2 sec"
+      "quarterMile": "~14.2 sec",
+      "price": "~$67,990"
     },
     "BMW|Z3|2000|Z3 3.0i": {
       "engine": "3.0L I6",
@@ -598,7 +627,8 @@
       "acceleration": 4.8,
       "topSpeed": 245,
       "cargo": 210,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "price": "~$79,990"
     },
     "BMW|Z3|2000|M Roadster": {
       "engine": "3.2L I6",
@@ -618,7 +648,8 @@
       "acceleration": 3.6,
       "topSpeed": 245,
       "cargo": 210,
-      "quarterMile": "~11.9 sec"
+      "quarterMile": "~11.9 sec",
+      "price": "~$124,990"
     },
     "BMW|Z3|2002|Z3 2.2i": {
       "engine": "2.2L I6",
@@ -638,7 +669,8 @@
       "acceleration": 5.9,
       "topSpeed": 220,
       "cargo": 210,
-      "quarterMile": "~14.2 sec"
+      "quarterMile": "~14.2 sec",
+      "price": "~$69,990"
     },
     "BMW|Z3|2002|M Roadster": {
       "engine": "3.2L I6",
@@ -658,7 +690,8 @@
       "acceleration": 3.6,
       "topSpeed": 245,
       "cargo": 210,
-      "quarterMile": "~11.9 sec"
+      "quarterMile": "~11.9 sec",
+      "price": "~$129,990"
     },
     "BMW|i5|2023|eDrive40": {
       "engine": "Rear electric motor",
@@ -674,7 +707,8 @@
       "weight": 2105,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 490
+      "cargo": 490,
+      "price": "~$134,900"
     },
     "BMW|i5|2023|M60 xDrive": {
       "engine": "Dual motor electric",
@@ -690,7 +724,8 @@
       "weight": 2340,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 490
+      "cargo": 490,
+      "price": "~$179,900"
     },
     "BMW|i5|2024|eDrive40": {
       "engine": "Rear electric motor",
@@ -706,7 +741,8 @@
       "weight": 2105,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 490
+      "cargo": 490,
+      "price": "~$134,900"
     },
     "BMW|i5|2024|M60 xDrive": {
       "engine": "Dual motor electric",
@@ -722,7 +758,8 @@
       "weight": 2340,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 490
+      "cargo": 490,
+      "price": "~$179,900"
     },
     "BMW|i5|2025|eDrive40": {
       "engine": "Rear electric motor",
@@ -738,7 +775,8 @@
       "weight": 2105,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 490
+      "cargo": 490,
+      "price": "~$139,900"
     },
     "BMW|i5|2025|M60 xDrive": {
       "engine": "Dual motor electric",
@@ -754,7 +792,8 @@
       "weight": 2340,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 490
+      "cargo": 490,
+      "price": "~$184,900"
     },
     "BMW|i5|2026|eDrive40": {
       "engine": "Rear electric motor",
@@ -770,7 +809,8 @@
       "weight": 2105,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 490
+      "cargo": 490,
+      "price": "~$139,900"
     },
     "BMW|i5|2026|M60 xDrive": {
       "engine": "Dual motor electric",
@@ -786,7 +826,8 @@
       "weight": 2340,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 490
+      "cargo": 490,
+      "price": "~$184,900"
     },
     "BMW|i7|2022|eDrive50": {
       "engine": "Rear electric motor",
@@ -802,7 +843,8 @@
       "weight": 2640,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 500
+      "cargo": 500,
+      "price": "~$219,900"
     },
     "BMW|i7|2022|xDrive60": {
       "engine": "Dual motor electric",
@@ -818,7 +860,8 @@
       "weight": 2720,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 500
+      "cargo": 500,
+      "price": "~$239,900"
     },
     "BMW|i7|2023|eDrive50": {
       "engine": "Rear electric motor",
@@ -834,7 +877,8 @@
       "weight": 2640,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 500
+      "cargo": 500,
+      "price": "~$219,900"
     },
     "BMW|i7|2023|xDrive60": {
       "engine": "Dual motor electric",
@@ -850,7 +894,8 @@
       "weight": 2720,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 500
+      "cargo": 500,
+      "price": "~$239,900"
     },
     "BMW|i7|2023|M70 xDrive": {
       "engine": "Dual motor electric",
@@ -866,7 +911,8 @@
       "weight": 2780,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 500
+      "cargo": 500,
+      "price": "~$359,900"
     },
     "BMW|i7|2024|eDrive50": {
       "engine": "Rear electric motor",
@@ -882,7 +928,8 @@
       "weight": 2640,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 500
+      "cargo": 500,
+      "price": "~$224,900"
     },
     "BMW|i7|2024|xDrive60": {
       "engine": "Dual motor electric",
@@ -898,7 +945,8 @@
       "weight": 2720,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 500
+      "cargo": 500,
+      "price": "~$244,900"
     },
     "BMW|i7|2024|M70 xDrive": {
       "engine": "Dual motor electric",
@@ -914,7 +962,8 @@
       "weight": 2780,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 500
+      "cargo": 500,
+      "price": "~$364,900"
     },
     "BMW|i7|2025|eDrive50": {
       "engine": "Rear electric motor",
@@ -930,7 +979,8 @@
       "weight": 2640,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 500
+      "cargo": 500,
+      "price": "~$224,900"
     },
     "BMW|i7|2025|xDrive60": {
       "engine": "Dual motor electric",
@@ -946,7 +996,8 @@
       "weight": 2720,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 500
+      "cargo": 500,
+      "price": "~$244,900"
     },
     "BMW|i7|2025|M70 xDrive": {
       "engine": "Dual motor electric",
@@ -962,7 +1013,8 @@
       "weight": 2780,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 500
+      "cargo": 500,
+      "price": "~$364,900"
     },
     "BMW|i7|2026|eDrive50": {
       "engine": "Rear electric motor",
@@ -978,7 +1030,8 @@
       "weight": 2640,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 500
+      "cargo": 500,
+      "price": "~$229,900"
     },
     "BMW|i7|2026|xDrive60": {
       "engine": "Dual motor electric",
@@ -994,7 +1047,8 @@
       "weight": 2720,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 500
+      "cargo": 500,
+      "price": "~$249,900"
     },
     "BMW|i7|2026|M70 xDrive": {
       "engine": "Dual motor electric",
@@ -1010,7 +1064,8 @@
       "weight": 2780,
       "seats": 5,
       "bodyStyle": "Sedan",
-      "cargo": 500
+      "cargo": 500,
+      "price": "~$369,900"
     },
     "BMW|2 Series Active Tourer|2015|218i": {
       "engine": "1.5L I3 turbo",
@@ -1030,7 +1085,8 @@
       "acceleration": 7.1,
       "topSpeed": 220,
       "cargo": 468,
-      "quarterMile": "~15.4 sec"
+      "quarterMile": "~15.4 sec",
+      "price": "~$39,990"
     },
     "BMW|2 Series Active Tourer|2015|220i": {
       "engine": "2.0L I4 turbo",
@@ -1050,7 +1106,8 @@
       "acceleration": 6,
       "topSpeed": 220,
       "cargo": 468,
-      "quarterMile": "~14.3 sec"
+      "quarterMile": "~14.3 sec",
+      "price": "~$45,990"
     },
     "BMW|2 Series Active Tourer|2017|218i": {
       "engine": "1.5L I3 turbo",
@@ -1070,7 +1127,8 @@
       "acceleration": 7.1,
       "topSpeed": 220,
       "cargo": 468,
-      "quarterMile": "~15.4 sec"
+      "quarterMile": "~15.4 sec",
+      "price": "~$39,990"
     },
     "BMW|2 Series Active Tourer|2017|220i": {
       "engine": "2.0L I4 turbo",
@@ -1090,7 +1148,8 @@
       "acceleration": 6,
       "topSpeed": 220,
       "cargo": 468,
-      "quarterMile": "~14.3 sec"
+      "quarterMile": "~14.3 sec",
+      "price": "~$45,990"
     },
     "BMW|2 Series Active Tourer|2019|218i": {
       "engine": "1.5L I3 turbo",
@@ -1110,7 +1169,8 @@
       "acceleration": 6.9,
       "topSpeed": 220,
       "cargo": 468,
-      "quarterMile": "~15.2 sec"
+      "quarterMile": "~15.2 sec",
+      "price": "~$39,990"
     },
     "BMW|2 Series Active Tourer|2019|220i": {
       "engine": "2.0L I4 turbo",
@@ -1130,7 +1190,8 @@
       "acceleration": 5.6,
       "topSpeed": 220,
       "cargo": 468,
-      "quarterMile": "~13.9 sec"
+      "quarterMile": "~13.9 sec",
+      "price": "~$45,990"
     },
     "BMW|2 Series Active Tourer|2021|218i": {
       "engine": "1.5L I3 turbo",
@@ -1150,7 +1211,8 @@
       "acceleration": 6.9,
       "topSpeed": 220,
       "cargo": 468,
-      "quarterMile": "~15.2 sec"
+      "quarterMile": "~15.2 sec",
+      "price": "~$44,990"
     },
     "BMW|2 Series Active Tourer|2021|220i": {
       "engine": "2.0L I4 turbo",
@@ -1170,7 +1232,8 @@
       "acceleration": 5.6,
       "topSpeed": 220,
       "cargo": 468,
-      "quarterMile": "~13.9 sec"
+      "quarterMile": "~13.9 sec",
+      "price": "~$51,990"
     }
   }
 }

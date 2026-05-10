@@ -18,7 +18,8 @@
       "acceleration": 13.5,
       "topSpeed": 167,
       "cargo": 285,
-      "quarterMile": "~19.4 sec"
+      "quarterMile": "~19.4 sec",
+      "price": "~$14,990"
     },
     "MG|MG3|2011|Excite": {
       "engine": "1.5L I4",
@@ -38,7 +39,8 @@
       "acceleration": 14,
       "topSpeed": 165,
       "cargo": 285,
-      "quarterMile": "~19.8 sec"
+      "quarterMile": "~19.8 sec",
+      "price": "~$16,990"
     },
     "MG|MG3|2016|Core": {
       "engine": "1.5L I4",
@@ -58,7 +60,8 @@
       "acceleration": 12.5,
       "topSpeed": 172,
       "cargo": 285,
-      "quarterMile": "~18.8 sec"
+      "quarterMile": "~18.8 sec",
+      "price": "~$15,990"
     },
     "MG|MG3|2016|Excite": {
       "engine": "1.5L I4",
@@ -78,7 +81,8 @@
       "acceleration": 13,
       "topSpeed": 170,
       "cargo": 285,
-      "quarterMile": "~19.2 sec"
+      "quarterMile": "~19.2 sec",
+      "price": "~$17,990"
     },
     "MG|MG3|2021|Core": {
       "engine": "1.5L I4",
@@ -98,7 +102,8 @@
       "acceleration": 12.5,
       "topSpeed": 172,
       "cargo": 285,
-      "quarterMile": "~18.8 sec"
+      "quarterMile": "~18.8 sec",
+      "price": "~$16,990"
     },
     "MG|MG3|2021|Excite": {
       "engine": "1.5L I4",
@@ -118,7 +123,8 @@
       "acceleration": 13.5,
       "topSpeed": 168,
       "cargo": 285,
-      "quarterMile": "~19.4 sec"
+      "quarterMile": "~19.4 sec",
+      "price": "~$18,990"
     },
     "MG|MG3|2024|Core": {
       "engine": "1.5L I4",
@@ -138,7 +144,8 @@
       "acceleration": 12.5,
       "topSpeed": 172,
       "cargo": 293,
-      "quarterMile": "~18.8 sec"
+      "quarterMile": "~18.8 sec",
+      "price": "~$18,990"
     },
     "MG|MG3|2024|Excite": {
       "engine": "1.5L I4",
@@ -158,7 +165,8 @@
       "acceleration": 12.5,
       "topSpeed": 172,
       "cargo": 293,
-      "quarterMile": "~18.8 sec"
+      "quarterMile": "~18.8 sec",
+      "price": "~$21,490"
     },
     "MG|MG6|2012|Standard": {
       "engine": "1.8L I4 Turbo",
@@ -178,7 +186,8 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "cargo": 380,
-      "quarterMile": "~17.1 sec"
+      "quarterMile": "~17.1 sec",
+      "price": "~$18,990"
     },
     "MG|MG6|2012|Magnette": {
       "engine": "1.8L I4 Turbo",
@@ -198,7 +207,8 @@
       "acceleration": 9.8,
       "topSpeed": 198,
       "cargo": 380,
-      "quarterMile": "~17.3 sec"
+      "quarterMile": "~17.3 sec",
+      "price": "~$22,990"
     },
     "MG|MG6|2016|Standard": {
       "engine": "1.5L I4 Turbo",
@@ -218,7 +228,8 @@
       "acceleration": 10.2,
       "topSpeed": 195,
       "cargo": 380,
-      "quarterMile": "~17.5 sec"
+      "quarterMile": "~17.5 sec",
+      "price": "~$19,990"
     },
     "MG|MG6|2016|Magnette": {
       "engine": "1.5L I4 Turbo",
@@ -238,7 +249,8 @@
       "acceleration": 10.5,
       "topSpeed": 193,
       "cargo": 380,
-      "quarterMile": "~17.8 sec"
+      "quarterMile": "~17.8 sec",
+      "price": "~$23,990"
     },
     "MG|ZS|2018|Excite": {
       "engine": "1.5L I4",
@@ -258,7 +270,8 @@
       "acceleration": 12.8,
       "topSpeed": 173,
       "cargo": 448,
-      "quarterMile": "~19.0 sec"
+      "quarterMile": "~19.0 sec",
+      "price": "~$19,990"
     },
     "MG|ZS|2018|Essence": {
       "engine": "1.0L I3 Turbo",
@@ -278,7 +291,8 @@
       "acceleration": 12.5,
       "topSpeed": 175,
       "cargo": 448,
-      "quarterMile": "~18.8 sec"
+      "quarterMile": "~18.8 sec",
+      "price": "~$24,990"
     },
     "MG|ZS|2022|Excite": {
       "engine": "1.5L I4",
@@ -298,7 +312,8 @@
       "acceleration": 12.8,
       "topSpeed": 173,
       "cargo": 448,
-      "quarterMile": "~19.0 sec"
+      "quarterMile": "~19.0 sec",
+      "price": "~$22,990"
     },
     "MG|ZS|2022|Essence": {
       "engine": "1.5L I4 Turbo",
@@ -318,7 +333,8 @@
       "acceleration": 9,
       "topSpeed": 185,
       "cargo": 448,
-      "quarterMile": "~16.5 sec"
+      "quarterMile": "~16.5 sec",
+      "price": "~$27,990"
     },
     "MG|ZS|2025|Excite": {
       "engine": "1.5L I4",
@@ -338,7 +354,8 @@
       "acceleration": 12.8,
       "topSpeed": 173,
       "cargo": 448,
-      "quarterMile": "~19.0 sec"
+      "quarterMile": "~19.0 sec",
+      "price": "~$23,990"
     },
     "MG|ZS|2025|Essence": {
       "engine": "1.5L I4 Turbo",
@@ -358,7 +375,8 @@
       "acceleration": 9,
       "topSpeed": 185,
       "cargo": 448,
-      "quarterMile": "~16.5 sec"
+      "quarterMile": "~16.5 sec",
+      "price": "~$28,990"
     },
     "MG|ZS EV|2021|Standard Range": {
       "engine": "Single Motor Electric",
@@ -377,7 +395,8 @@
       "acceleration": 8.6,
       "topSpeed": 150,
       "cargo": 448,
-      "quarterMile": "~16.2 sec"
+      "quarterMile": "~16.2 sec",
+      "price": "~$34,990"
     },
     "MG|ZS EV|2021|Long Range": {
       "engine": "Single Motor Electric",
@@ -396,7 +415,8 @@
       "acceleration": 8.2,
       "topSpeed": 175,
       "cargo": 448,
-      "quarterMile": "~16.0 sec"
+      "quarterMile": "~16.0 sec",
+      "price": "~$39,990"
     },
     "MG|ZS EV|2024|Standard Range": {
       "engine": "Single Motor Electric",
@@ -415,7 +435,8 @@
       "acceleration": 8.2,
       "topSpeed": 160,
       "cargo": 448,
-      "quarterMile": "~16.0 sec"
+      "quarterMile": "~16.0 sec",
+      "price": "~$36,990"
     },
     "MG|ZS EV|2024|Long Range": {
       "engine": "Single Motor Electric",
@@ -434,7 +455,8 @@
       "acceleration": 7.9,
       "topSpeed": 175,
       "cargo": 448,
-      "quarterMile": "~15.7 sec"
+      "quarterMile": "~15.7 sec",
+      "price": "~$41,990"
     },
     "MG|MG HS|2020|Core": {
       "engine": "1.5L I4 Turbo",
@@ -454,7 +476,8 @@
       "acceleration": 9.9,
       "topSpeed": 185,
       "cargo": 507,
-      "quarterMile": "~17.3 sec"
+      "quarterMile": "~17.3 sec",
+      "price": "~$26,990"
     },
     "MG|MG HS|2020|Excite": {
       "engine": "1.5L I4 Turbo",
@@ -474,7 +497,8 @@
       "acceleration": 9.9,
       "topSpeed": 185,
       "cargo": 507,
-      "quarterMile": "~17.3 sec"
+      "quarterMile": "~17.3 sec",
+      "price": "~$29,990"
     },
     "MG|MG HS|2020|Essence": {
       "engine": "2.0L I4 Turbo",
@@ -494,7 +518,8 @@
       "acceleration": 7.5,
       "topSpeed": 205,
       "cargo": 507,
-      "quarterMile": "~15.6 sec"
+      "quarterMile": "~15.6 sec",
+      "price": "~$34,990"
     },
     "MG|MG HS|2023|Core": {
       "engine": "1.5L I4 Turbo",
@@ -514,7 +539,8 @@
       "acceleration": 9.5,
       "topSpeed": 190,
       "cargo": 507,
-      "quarterMile": "~17.1 sec"
+      "quarterMile": "~17.1 sec",
+      "price": "~$28,990"
     },
     "MG|MG HS|2023|Excite": {
       "engine": "1.5L I4 Turbo",
@@ -534,7 +560,8 @@
       "acceleration": 9.5,
       "topSpeed": 190,
       "cargo": 507,
-      "quarterMile": "~17.1 sec"
+      "quarterMile": "~17.1 sec",
+      "price": "~$31,990"
     },
     "MG|MG HS|2023|Essence": {
       "engine": "2.0L I4 Turbo",
@@ -554,7 +581,8 @@
       "acceleration": 7.3,
       "topSpeed": 205,
       "cargo": 507,
-      "quarterMile": "~15.4 sec"
+      "quarterMile": "~15.4 sec",
+      "price": "~$36,990"
     },
     "MG|MG HS|2023|PHEV": {
       "engine": "1.5L I4 Turbo PHEV",
@@ -574,7 +602,8 @@
       "cargo": 507,
       "quarterMile": "~14.7 sec",
       "fh": 1.1,
-      "fx": 1.7
+      "fx": 1.7,
+      "price": "~$44,990"
     },
     "MG|MG HS|2025|Excite": {
       "engine": "1.5L I4 Turbo",
@@ -594,7 +623,8 @@
       "acceleration": 9.5,
       "topSpeed": 190,
       "cargo": 507,
-      "quarterMile": "~17.1 sec"
+      "quarterMile": "~17.1 sec",
+      "price": "~$32,990"
     },
     "MG|MG HS|2025|Essence": {
       "engine": "2.0L I4 Turbo",
@@ -614,7 +644,8 @@
       "acceleration": 7.3,
       "topSpeed": 205,
       "cargo": 507,
-      "quarterMile": "~15.4 sec"
+      "quarterMile": "~15.4 sec",
+      "price": "~$37,990"
     },
     "MG|MG HS|2025|PHEV": {
       "engine": "1.5L I4 Turbo PHEV",
@@ -634,7 +665,8 @@
       "cargo": 507,
       "quarterMile": "~14.5 sec",
       "fh": 1.1,
-      "fx": 1.6
+      "fx": 1.6,
+      "price": "~$46,990"
     },
     "MG|MG4|2023|Excite 51": {
       "engine": "Single Motor Electric",
@@ -653,7 +685,8 @@
       "acceleration": 7.7,
       "topSpeed": 160,
       "cargo": 363,
-      "quarterMile": "~15.8 sec"
+      "quarterMile": "~15.8 sec",
+      "price": "~$34,990"
     },
     "MG|MG4|2023|Excite 64": {
       "engine": "Single Motor Electric",
@@ -672,7 +705,8 @@
       "acceleration": 7.7,
       "topSpeed": 160,
       "cargo": 363,
-      "quarterMile": "~15.8 sec"
+      "quarterMile": "~15.8 sec",
+      "price": "~$39,990"
     },
     "MG|MG4|2023|Essence 64": {
       "engine": "Single Motor Electric",
@@ -691,7 +725,8 @@
       "acceleration": 7.7,
       "topSpeed": 160,
       "cargo": 363,
-      "quarterMile": "~15.8 sec"
+      "quarterMile": "~15.8 sec",
+      "price": "~$44,990"
     },
     "MG|MG4|2023|X-Power": {
       "engine": "Dual Motor Electric",
@@ -710,7 +745,8 @@
       "acceleration": 3.8,
       "topSpeed": 200,
       "cargo": 363,
-      "quarterMile": "~12.3 sec"
+      "quarterMile": "~12.3 sec",
+      "price": "~$54,990"
     },
     "MG|MG4|2025|Excite 51": {
       "engine": "Single Motor Electric",
@@ -729,7 +765,8 @@
       "acceleration": 7.7,
       "topSpeed": 160,
       "cargo": 363,
-      "quarterMile": "~15.8 sec"
+      "quarterMile": "~15.8 sec",
+      "price": "~$36,990"
     },
     "MG|MG4|2025|Excite 64": {
       "engine": "Single Motor Electric",
@@ -748,7 +785,8 @@
       "acceleration": 7.7,
       "topSpeed": 160,
       "cargo": 363,
-      "quarterMile": "~15.8 sec"
+      "quarterMile": "~15.8 sec",
+      "price": "~$41,990"
     },
     "MG|MG4|2025|Essence 64": {
       "engine": "Single Motor Electric",
@@ -767,7 +805,8 @@
       "acceleration": 7.7,
       "topSpeed": 160,
       "cargo": 363,
-      "quarterMile": "~15.8 sec"
+      "quarterMile": "~15.8 sec",
+      "price": "~$46,990"
     },
     "MG|MG4|2025|X-Power": {
       "engine": "Dual Motor Electric",
@@ -786,7 +825,8 @@
       "acceleration": 3.8,
       "topSpeed": 200,
       "cargo": 363,
-      "quarterMile": "~12.3 sec"
+      "quarterMile": "~12.3 sec",
+      "price": "~$56,990"
     },
     "MG|Cyberster|2024|Trophy": {
       "engine": "Dual Motor Electric",
@@ -805,7 +845,8 @@
       "acceleration": 3.2,
       "topSpeed": 200,
       "cargo": 170,
-      "quarterMile": "~11.6 sec"
+      "quarterMile": "~11.6 sec",
+      "price": "~$69,990"
     },
     "MG|Cyberster|2025|Trophy": {
       "engine": "Dual Motor Electric",
@@ -824,7 +865,8 @@
       "acceleration": 3.2,
       "topSpeed": 200,
       "cargo": 170,
-      "quarterMile": "~11.6 sec"
+      "quarterMile": "~11.6 sec",
+      "price": "~$69,990"
     }
   }
 }
