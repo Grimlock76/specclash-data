@@ -23891,5 +23891,98 @@
       "2025": ["2.5T", "3.5T", "Electrified"],
       "2026": ["2.5T", "3.5T", "Electrified"]
     }
+  },
+  "Jeep": {
+    "Wrangler": {
+      "2005": ["Sport", "Sahara", "Rubicon"],
+      "2006": ["Sport", "Sahara", "Rubicon"],
+      "2007": ["Sport", "Sahara", "Rubicon"],
+      "2008": ["Sport", "Sahara", "Rubicon"],
+      "2009": ["Sport", "Sahara", "Rubicon"],
+      "2010": ["Sport", "Sahara", "Rubicon"],
+      "2011": ["Sport", "Sahara", "Rubicon"],
+      "2012": ["Sport", "Sahara", "Rubicon"],
+      "2013": ["Sport", "Sahara", "Rubicon"],
+      "2014": ["Sport", "Sahara", "Rubicon"],
+      "2016": ["Sport", "Sport S", "Sahara", "Rubicon"],
+      "2017": ["Sport", "Sport S", "Sahara", "Rubicon"],
+      "2018": ["Sport", "Sport S", "Sahara", "Rubicon"],
+      "2019": ["Sport", "Sport S", "Sahara", "Rubicon"],
+      "2020": ["Sport S", "Sahara", "Rubicon", "Rubicon 392", "4xe"],
+      "2021": ["Sport S", "Sahara", "Rubicon", "Rubicon 392", "4xe"],
+      "2022": ["Sport S", "Sahara", "Rubicon", "Rubicon 392", "4xe"],
+      "2023": ["Sport S", "Sahara", "Rubicon", "Rubicon 392", "4xe"],
+      "2024": ["Sport S", "Sahara", "Rubicon", "Rubicon 392", "4xe"]
+    },
+    "Grand Cherokee": {
+      "2005": ["Laredo", "Limited", "Overland"],
+      "2006": ["Laredo", "Limited", "Overland"],
+      "2007": ["Laredo", "Limited", "Overland"],
+      "2009": ["Laredo", "Limited", "Overland", "SRT8"],
+      "2010": ["Laredo", "Limited", "Overland", "SRT8"],
+      "2011": ["Laredo", "Limited", "Overland", "SRT8"],
+      "2012": ["Laredo", "Limited", "Overland", "SRT8"],
+      "2013": ["Laredo", "Limited", "Overland", "SRT8"],
+      "2014": ["Laredo", "Limited", "Summit", "SRT", "Trackhawk"],
+      "2015": ["Laredo", "Limited", "Summit", "SRT", "Trackhawk"],
+      "2016": ["Laredo", "Limited", "Summit", "SRT", "Trackhawk"],
+      "2017": ["Laredo", "Limited", "Summit", "SRT", "Trackhawk"],
+      "2018": ["Laredo", "Limited", "Summit", "SRT", "Trackhawk"],
+      "2020": ["Laredo", "Limited", "Summit", "4xe"],
+      "2021": ["Laredo", "Limited", "Summit", "4xe"],
+      "2022": ["Laredo", "Limited", "Summit", "4xe"],
+      "2023": ["Laredo", "Limited", "Summit", "4xe"],
+      "2024": ["Laredo", "Limited", "Summit", "4xe"]
+    },
+    "Cherokee": {
+      "2006": ["Sport", "Limited"],
+      "2007": ["Sport", "Limited"],
+      "2008": ["Sport", "Limited"],
+      "2009": ["Sport", "Limited"],
+      "2010": ["Sport", "Limited"],
+      "2012": ["Sport", "Limited", "Trailhawk"],
+      "2013": ["Sport", "Limited", "Trailhawk"],
+      "2014": ["Sport", "Limited", "Trailhawk"],
+      "2015": ["Sport", "Limited", "Trailhawk"],
+      "2016": ["Sport", "Limited", "Trailhawk"],
+      "2017": ["Sport", "Limited", "Trailhawk"],
+      "2018": ["Sport", "Limited", "Trailhawk"],
+      "2019": ["Sport", "Limited", "Trailhawk"],
+      "2020": ["Sport", "Limited", "Trailhawk"],
+      "2021": ["Sport", "Limited", "Trailhawk"]
+    },
+    "Compass": {
+      "2015": ["Sport", "Limited", "Trailhawk"],
+      "2016": ["Sport", "Limited", "Trailhawk"],
+      "2017": ["Sport", "Limited", "Trailhawk"],
+      "2018": ["Sport", "Limited", "Trailhawk"],
+      "2019": ["Sport", "Limited", "Trailhawk"],
+      "2020": ["Sport", "Longitude", "Limited", "Trailhawk", "4xe"],
+      "2021": ["Sport", "Longitude", "Limited", "Trailhawk", "4xe"],
+      "2022": ["Sport", "Longitude", "Limited", "Trailhawk", "4xe"],
+      "2023": ["Sport", "Longitude", "Limited", "Trailhawk", "4xe"],
+      "2024": ["Sport", "Longitude", "Limited", "Trailhawk", "4xe"]
+    },
+    "Renegade": {
+      "2015": ["Sport", "Limited", "Trailhawk"],
+      "2016": ["Sport", "Limited", "Trailhawk"],
+      "2017": ["Sport", "Limited", "Trailhawk"],
+      "2018": ["Sport", "Limited", "Trailhawk"],
+      "2019": ["Sport", "Limited", "Trailhawk"],
+      "2020": ["Sport", "Limited", "Trailhawk"],
+      "2021": ["Sport", "Limited", "Trailhawk"],
+      "2022": ["Sport", "Limited", "Trailhawk"]
+    },
+    "Gladiator": {
+      "2018": ["Sport S", "Overland", "Rubicon"],
+      "2019": ["Sport S", "Overland", "Rubicon"],
+      "2020": ["Sport S", "Overland", "Rubicon"],
+      "2021": ["Sport S", "Overland", "Rubicon"],
+      "2022": ["Sport S", "Overland", "Rubicon"],
+      "2023": ["Sport S", "Rubicon"],
+      "2024": ["Sport S", "Rubicon"],
+      "2025": ["Sport S", "Rubicon"],
+      "2026": ["Sport S", "Rubicon"]
+    }
   }
 }

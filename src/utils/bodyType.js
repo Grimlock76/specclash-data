@@ -154,6 +154,10 @@ function getBodyType(model, trim = '') {
   if (/\ba-class\b|\bb-class\b/.test(m)) return 'Hatch'
   if (/\bc-class\b|\be-class\b|\bs-class\b|\bcls\b|\beqe\b|\beqs\b/.test(m)) return 'Sedan'
 
+  // ── Jeep ──
+  if (/\bgladiator\b/.test(m)) return 'Ute'
+  if (/\bwrangler\b|\bgrand cherokee\b|\bcherokee\b|\bcompass\b|\brenegade\b/.test(m)) return 'SUV'
+
   return 'Sedan'
 }
 

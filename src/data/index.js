@@ -62,6 +62,7 @@ import supplement60 from './supplement60.json'
 import supplement61 from './supplement61.json'
 import supplement62 from './supplement62.json'
 import supplement63 from './supplement63.json'
+import supplement64 from './supplement64.json'
 
 export const MAKES = makesData
 
@@ -107,7 +108,8 @@ export const MAKES = makesData
 // supplement61: BYD (Atto 3, Seal, Dolphin, Shark, Sealion 6, Sealion 7)
 // supplement62: Genesis (G70, G80, G90, GV70, GV80)
 // supplement63: gap-fills — Kia EV9, Hyundai Ioniq 5 N, Honda CR-V e:HEV, VW ID.7, Mercedes EQE/EQS SUV
-export const SPECS = Object.assign({}, supplement1.specs, supplement2.specs, supplement3.specs, supplement4.specs, supplement5.specs, supplement6.specs, supplement7.specs, supplement8.specs, holden.specs, ford.specs, supplement9.specs, supplement10.specs, supplement11.specs, supplement12.specs, supplement13.specs, supplement14.specs, supplement15.specs, supplement16.specs, supplement17.specs, supplement18.specs, supplement19.specs, supplement20.specs, supplement21.specs, supplement22.specs, supplement23.specs, supplement24.specs, supplement25.specs, supplement26.specs, supplement27.specs, supplement28.specs, supplement29.specs, supplement30.specs, supplement31.specs, supplement32.specs, supplement33.specs, supplement36.specs, supplement37.specs, supplement38.specs, supplement39.specs, supplement40.specs, supplement41.specs, supplement42.specs, supplement43.specs, supplement44.specs, supplement45.specs, supplement46.specs, supplement47.specs, supplement48.specs, supplement49.specs, supplement50.specs, supplement51.specs, supplement52.specs, supplement53.specs, supplement54.specs, supplement55.specs, supplement56.specs, supplement57.specs, supplement58.specs, supplement59.specs, supplement60.specs, supplement61.specs, supplement62.specs, supplement63.specs)
+// supplement64: Jeep (Wrangler, Grand Cherokee, Cherokee, Compass, Renegade, Gladiator)
+export const SPECS = Object.assign({}, supplement1.specs, supplement2.specs, supplement3.specs, supplement4.specs, supplement5.specs, supplement6.specs, supplement7.specs, supplement8.specs, holden.specs, ford.specs, supplement9.specs, supplement10.specs, supplement11.specs, supplement12.specs, supplement13.specs, supplement14.specs, supplement15.specs, supplement16.specs, supplement17.specs, supplement18.specs, supplement19.specs, supplement20.specs, supplement21.specs, supplement22.specs, supplement23.specs, supplement24.specs, supplement25.specs, supplement26.specs, supplement27.specs, supplement28.specs, supplement29.specs, supplement30.specs, supplement31.specs, supplement32.specs, supplement33.specs, supplement36.specs, supplement37.specs, supplement38.specs, supplement39.specs, supplement40.specs, supplement41.specs, supplement42.specs, supplement43.specs, supplement44.specs, supplement45.specs, supplement46.specs, supplement47.specs, supplement48.specs, supplement49.specs, supplement50.specs, supplement51.specs, supplement52.specs, supplement53.specs, supplement54.specs, supplement55.specs, supplement56.specs, supplement57.specs, supplement58.specs, supplement59.specs, supplement60.specs, supplement61.specs, supplement62.specs, supplement63.specs, supplement64.specs)
 
 // Models in new-format supplements that are RWD but don't advertise it in the engine string
 const KNOWN_RWD = {

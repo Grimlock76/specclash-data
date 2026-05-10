@@ -111,6 +111,8 @@ function getBodyStyle(model, trim) {
   if (/\bamg gt\b|\bcla\b|\bslk\b|\bslc\b|\bsl\b/.test(m)) return 'Coupe'
   if (/\ba-class\b|\bb-class\b/.test(m)) return 'Hatch'
   if (/\bc-class\b|\be-class\b|\bs-class\b|\bcls\b|\beqe\b|\beqs\b/.test(m)) return 'Sedan'
+  if (/\bgladiator\b/.test(m)) return 'Ute'
+  if (/\bwrangler\b|\bgrand cherokee\b|\bcherokee\b|\bcompass\b|\brenegade\b/.test(m)) return 'SUV'
   return 'Sedan'
 }
 
@@ -247,6 +249,7 @@ const CARGO = {
     'EQC':      ()=> 500,
     'EQE':      ()=> 430,
     'EQS':      ()=> 610,
+    'EQE SUV':  ()=> 520, 'EQS SUV':  ()=> 645,
   },
   'Subaru': {
     'Impreza':  ()=> 255,
@@ -312,7 +315,7 @@ const CARGO = {
     'Passat': ()=> 586, 'Tiguan': ()=> 615, 'Touareg': ()=> 810,
     'Amarok': ()=> 1090, 'T-Roc': ()=> 445, 'Multivan': ()=> 469,
     'Beetle': ()=> 310, 'Jetta': ()=> 510, 'Scirocco': ()=> 312,
-    'Arteon': ()=> 563, 'ID.3': ()=> 385, 'ID.4': ()=> 543, 'ID.5': ()=> 549,
+    'Arteon': ()=> 563, 'ID.3': ()=> 385, 'ID.4': ()=> 543, 'ID.5': ()=> 549, 'ID.7': ()=> 532,
   },
   'BMW': {
     '1 Series': ()=> 370, '2 Series': ()=> 390, '3 Series': ()=> 480,
@@ -350,12 +353,12 @@ const CARGO = {
     'i30': ()=> 381, 'i30 N': ()=> 381, 'Tucson': ()=> 620,
     'Santa Fe': ()=> 703, 'Kona': ()=> 361, 'Ioniq 5': ()=> 527,
     'Ioniq 6': ()=> 401, 'Elantra': ()=> 458, 'Sonata': ()=> 510,
-    'Palisade': ()=> 509, 'Staria': ()=> 651,
+    'Palisade': ()=> 509, 'Staria': ()=> 651, 'Ioniq 5 N': ()=> 527,
   },
   'Kia': {
     'Sportage': ()=> 587, 'Sorento': ()=> 721, 'Rio': ()=> 325,
     'Cerato': ()=> 454, 'Stinger': ()=> 406, 'EV6': ()=> 490,
-    'Seltos': ()=> 433, 'Niro': ()=> 451, 'Carnival': ()=> 627,
+    'Seltos': ()=> 433, 'Niro': ()=> 451, 'Carnival': ()=> 627, 'EV9': ()=> 333,
   },
   'Mitsubishi': {
     'Outlander': ()=> 450, 'ASX': ()=> 393, 'Eclipse Cross': ()=> 448,
@@ -409,22 +412,15 @@ const CARGO = {
     'G70': ()=> 290, 'G80': ()=> 430, 'G90': ()=> 449,
     'GV70': ()=> 690, 'GV80': ()=> 719,
   },
-  'Kia': {
-    'EV9': ()=> 333,
-  },
-  'Hyundai': {
-    'Ioniq 5 N': ()=> 527,
-  },
-  'Mercedes-Benz': {
-    'EQE SUV': ()=> 520, 'EQS SUV': ()=> 645,
-  },
-  'Volkswagen': {
-    'ID.7': ()=> 532,
+  'Jeep': {
+    'Wrangler': ()=> 142, 'Grand Cherokee': y => y >= 2022 ? 1000 : 970,
+    'Cherokee': ()=> 673, 'Compass': ()=> 438,
+    'Renegade': ()=> 351, 'Gladiator': ()=> 1069,
   },
 }
 
 // ── Main patch loop ───────────────────────────────────────────────────────────
-const SUPPLEMENTS = [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63]
+const SUPPLEMENTS = [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64]
 
 let totalFields = 0
 
