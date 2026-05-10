@@ -18,7 +18,8 @@
       "acceleration": 8.9,
       "topSpeed": 209,
       "cargo": 650,
-      "quarterMile": "~17.2 sec"
+      "quarterMile": "~17.2 sec",
+      "price": "~$62,980"
     },
     "Jaguar|F-Pace|2016|R-Sport": {
       "engine": "2.0T Turbo",
@@ -38,7 +39,8 @@
       "acceleration": 7,
       "topSpeed": 222,
       "cargo": 650,
-      "quarterMile": "~15.3 sec"
+      "quarterMile": "~15.3 sec",
+      "price": "~$71,980"
     },
     "Jaguar|F-Pace|2016|Portfolio": {
       "engine": "3.0 SC Supercharged",
@@ -58,7 +60,8 @@
       "acceleration": 6.4,
       "topSpeed": 235,
       "cargo": 650,
-      "quarterMile": "~14.7 sec"
+      "quarterMile": "~14.7 sec",
+      "price": "~$87,980"
     },
     "Jaguar|F-Pace|2016|SVR": {
       "engine": "5.0 SC V8",
@@ -78,7 +81,8 @@
       "acceleration": 4.3,
       "topSpeed": 283,
       "cargo": 650,
-      "quarterMile": "~12.6 sec"
+      "quarterMile": "~12.6 sec",
+      "price": "~$139,980"
     },
     "Jaguar|F-Pace|2021|Prestige": {
       "engine": "2.0D Turbo Diesel",
@@ -98,7 +102,8 @@
       "acceleration": 8.5,
       "topSpeed": 213,
       "cargo": 650,
-      "quarterMile": "~16.8 sec"
+      "quarterMile": "~16.8 sec",
+      "price": "~$77,490"
     },
     "Jaguar|F-Pace|2021|R-Dynamic S": {
       "engine": "2.0T Turbo P250",
@@ -118,7 +123,8 @@
       "acceleration": 6.8,
       "topSpeed": 222,
       "cargo": 650,
-      "quarterMile": "~15.1 sec"
+      "quarterMile": "~15.1 sec",
+      "price": "~$87,490"
     },
     "Jaguar|F-Pace|2021|R-Dynamic SE": {
       "engine": "2.0T Turbo P300",
@@ -138,7 +144,8 @@
       "acceleration": 6.3,
       "topSpeed": 235,
       "cargo": 650,
-      "quarterMile": "~14.6 sec"
+      "quarterMile": "~14.6 sec",
+      "price": "~$99,490"
     },
     "Jaguar|F-Pace|2021|SVR": {
       "engine": "5.0 SC V8",
@@ -158,7 +165,8 @@
       "acceleration": 4.3,
       "topSpeed": 283,
       "cargo": 650,
-      "quarterMile": "~12.6 sec"
+      "quarterMile": "~12.6 sec",
+      "price": "~$151,490"
     },
     "Jaguar|F-Pace|2024|Prestige": {
       "engine": "2.0D Turbo Diesel",
@@ -178,7 +186,8 @@
       "acceleration": 8.5,
       "topSpeed": 213,
       "cargo": 650,
-      "quarterMile": "~16.8 sec"
+      "quarterMile": "~16.8 sec",
+      "price": "~$82,490"
     },
     "Jaguar|F-Pace|2024|R-Dynamic S": {
       "engine": "2.0T Turbo P250",
@@ -198,7 +207,8 @@
       "acceleration": 6.8,
       "topSpeed": 222,
       "cargo": 650,
-      "quarterMile": "~15.1 sec"
+      "quarterMile": "~15.1 sec",
+      "price": "~$92,490"
     },
     "Jaguar|F-Pace|2024|R-Dynamic SE": {
       "engine": "2.0T Turbo P300",
@@ -218,7 +228,8 @@
       "acceleration": 6.3,
       "topSpeed": 235,
       "cargo": 650,
-      "quarterMile": "~14.6 sec"
+      "quarterMile": "~14.6 sec",
+      "price": "~$104,490"
     },
     "Jaguar|F-Pace|2024|SVR": {
       "engine": "5.0 SC V8",
@@ -238,7 +249,8 @@
       "acceleration": 4.3,
       "topSpeed": 283,
       "cargo": 650,
-      "quarterMile": "~12.6 sec"
+      "quarterMile": "~12.6 sec",
+      "price": "~$161,490"
     },
     "Jaguar|F-Type|2013|V6 S": {
       "engine": "3.0 SC V6",
@@ -258,7 +270,8 @@
       "acceleration": 5.1,
       "topSpeed": 285,
       "cargo": 196,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "price": "~$89,450"
     },
     "Jaguar|F-Type|2013|V8 R": {
       "engine": "5.0 SC V8",
@@ -278,7 +291,8 @@
       "acceleration": 4.6,
       "topSpeed": 300,
       "cargo": 196,
-      "quarterMile": "~12.9 sec"
+      "quarterMile": "~12.9 sec",
+      "price": "~$122,450"
     },
     "Jaguar|F-Type|2020|P300": {
       "engine": "2.0T Turbo",
@@ -298,7 +312,8 @@
       "acceleration": 5.7,
       "topSpeed": 262,
       "cargo": 196,
-      "quarterMile": "~14.0 sec"
+      "quarterMile": "~14.0 sec",
+      "price": "~$102,990"
     },
     "Jaguar|F-Type|2020|R": {
       "engine": "5.0 SC V8",
@@ -318,7 +333,8 @@
       "acceleration": 4.2,
       "topSpeed": 300,
       "cargo": 196,
-      "quarterMile": "~12.5 sec"
+      "quarterMile": "~12.5 sec",
+      "price": "~$161,990"
     },
     "Jaguar|F-Type|2024|P300": {
       "engine": "2.0T Turbo",
@@ -338,7 +354,8 @@
       "acceleration": 5.7,
       "topSpeed": 262,
       "cargo": 196,
-      "quarterMile": "~14.0 sec"
+      "quarterMile": "~14.0 sec",
+      "price": "~$109,990"
     },
     "Jaguar|F-Type|2024|R": {
       "engine": "5.0 SC V8",
@@ -358,7 +375,8 @@
       "acceleration": 4.2,
       "topSpeed": 300,
       "cargo": 196,
-      "quarterMile": "~12.5 sec"
+      "quarterMile": "~12.5 sec",
+      "price": "~$171,990"
     },
     "Jaguar|E-Pace|2017|P200": {
       "engine": "2.0T Turbo",
@@ -378,7 +396,8 @@
       "acceleration": 8.6,
       "topSpeed": 208,
       "cargo": 577,
-      "quarterMile": "~16.9 sec"
+      "quarterMile": "~16.9 sec",
+      "price": "~$47,980"
     },
     "Jaguar|E-Pace|2017|P300": {
       "engine": "2.0T Turbo",
@@ -398,7 +417,8 @@
       "acceleration": 7,
       "topSpeed": 230,
       "cargo": 577,
-      "quarterMile": "~15.3 sec"
+      "quarterMile": "~15.3 sec",
+      "price": "~$62,980"
     },
     "Jaguar|E-Pace|2021|P200": {
       "engine": "2.0T Turbo",
@@ -418,7 +438,8 @@
       "acceleration": 8.6,
       "topSpeed": 208,
       "cargo": 577,
-      "quarterMile": "~16.9 sec"
+      "quarterMile": "~16.9 sec",
+      "price": "~$52,490"
     },
     "Jaguar|E-Pace|2021|P300": {
       "engine": "2.0T Turbo",
@@ -438,7 +459,8 @@
       "acceleration": 7,
       "topSpeed": 230,
       "cargo": 577,
-      "quarterMile": "~15.3 sec"
+      "quarterMile": "~15.3 sec",
+      "price": "~$67,490"
     },
     "Jaguar|E-Pace|2024|P200": {
       "engine": "2.0T Turbo",
@@ -458,7 +480,8 @@
       "acceleration": 8.6,
       "topSpeed": 208,
       "cargo": 577,
-      "quarterMile": "~16.9 sec"
+      "quarterMile": "~16.9 sec",
+      "price": "~$56,490"
     },
     "Jaguar|E-Pace|2024|P300": {
       "engine": "2.0T Turbo",
@@ -478,7 +501,8 @@
       "acceleration": 7,
       "topSpeed": 230,
       "cargo": 577,
-      "quarterMile": "~15.3 sec"
+      "quarterMile": "~15.3 sec",
+      "price": "~$71,490"
     },
     "Jaguar|I-Pace|2018|EV400 SE": {
       "engine": "Dual Motor Electric",
@@ -497,7 +521,8 @@
       "acceleration": 4.8,
       "topSpeed": 200,
       "cargo": 656,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "price": "~$119,450"
     },
     "Jaguar|I-Pace|2021|EV400 SE": {
       "engine": "Dual Motor Electric",
@@ -516,7 +541,8 @@
       "acceleration": 4.8,
       "topSpeed": 200,
       "cargo": 656,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "price": "~$131,490"
     },
     "Jaguar|I-Pace|2024|EV400 SE": {
       "engine": "Dual Motor Electric",
@@ -535,7 +561,8 @@
       "acceleration": 4.8,
       "topSpeed": 200,
       "cargo": 656,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "price": "~$137,490"
     },
     "Jaguar|XE|2015|20d": {
       "engine": "2.0D Turbo Diesel",
@@ -555,7 +582,8 @@
       "acceleration": 8.1,
       "topSpeed": 218,
       "cargo": 455,
-      "quarterMile": "~16.4 sec"
+      "quarterMile": "~16.4 sec",
+      "price": "~$49,980"
     },
     "Jaguar|XE|2015|P250": {
       "engine": "2.0T Turbo",
@@ -575,7 +603,8 @@
       "acceleration": 7.3,
       "topSpeed": 233,
       "cargo": 455,
-      "quarterMile": "~15.6 sec"
+      "quarterMile": "~15.6 sec",
+      "price": "~$54,980"
     },
     "Jaguar|XE|2015|S": {
       "engine": "3.0 SC V6",
@@ -595,7 +624,8 @@
       "acceleration": 5,
       "topSpeed": 250,
       "cargo": 455,
-      "quarterMile": "~13.3 sec"
+      "quarterMile": "~13.3 sec",
+      "price": "~$64,980"
     },
     "Jaguar|XE|2018|20d": {
       "engine": "2.0D Turbo Diesel",
@@ -615,7 +645,8 @@
       "acceleration": 8.1,
       "topSpeed": 218,
       "cargo": 455,
-      "quarterMile": "~16.4 sec"
+      "quarterMile": "~16.4 sec",
+      "price": "~$51,990"
     },
     "Jaguar|XE|2018|P250": {
       "engine": "2.0T Turbo",
@@ -635,7 +666,8 @@
       "acceleration": 7.3,
       "topSpeed": 233,
       "cargo": 455,
-      "quarterMile": "~15.6 sec"
+      "quarterMile": "~15.6 sec",
+      "price": "~$57,990"
     },
     "Jaguar|XE|2018|S": {
       "engine": "3.0 SC V6",
@@ -655,7 +687,8 @@
       "acceleration": 5,
       "topSpeed": 250,
       "cargo": 455,
-      "quarterMile": "~13.3 sec"
+      "quarterMile": "~13.3 sec",
+      "price": "~$69,990"
     },
     "Jaguar|XF|2016|20d": {
       "engine": "2.0D Turbo Diesel",
@@ -675,7 +708,8 @@
       "acceleration": 8.1,
       "topSpeed": 218,
       "cargo": 540,
-      "quarterMile": "~16.4 sec"
+      "quarterMile": "~16.4 sec",
+      "price": "~$62,980"
     },
     "Jaguar|XF|2016|P250": {
       "engine": "2.0T Turbo",
@@ -695,7 +729,8 @@
       "acceleration": 7,
       "topSpeed": 235,
       "cargo": 540,
-      "quarterMile": "~15.3 sec"
+      "quarterMile": "~15.3 sec",
+      "price": "~$64,980"
     },
     "Jaguar|XF|2016|P300": {
       "engine": "3.0 SC V6",
@@ -715,7 +750,8 @@
       "acceleration": 6.4,
       "topSpeed": 250,
       "cargo": 540,
-      "quarterMile": "~14.7 sec"
+      "quarterMile": "~14.7 sec",
+      "price": "~$71,980"
     },
     "Jaguar|XF|2016|S": {
       "engine": "3.0 SC V6",
@@ -735,7 +771,8 @@
       "acceleration": 5.8,
       "topSpeed": 250,
       "cargo": 540,
-      "quarterMile": "~14.1 sec"
+      "quarterMile": "~14.1 sec",
+      "price": "~$84,980"
     },
     "Jaguar|XF|2019|20d": {
       "engine": "2.0D Turbo Diesel",
@@ -755,7 +792,8 @@
       "acceleration": 8.1,
       "topSpeed": 218,
       "cargo": 540,
-      "quarterMile": "~16.4 sec"
+      "quarterMile": "~16.4 sec",
+      "price": "~$67,990"
     },
     "Jaguar|XF|2019|P250": {
       "engine": "2.0T Turbo",
@@ -775,7 +813,8 @@
       "acceleration": 7,
       "topSpeed": 235,
       "cargo": 540,
-      "quarterMile": "~15.3 sec"
+      "quarterMile": "~15.3 sec",
+      "price": "~$69,990"
     },
     "Jaguar|XF|2019|P300": {
       "engine": "3.0 SC V6",
@@ -795,7 +834,8 @@
       "acceleration": 6.4,
       "topSpeed": 250,
       "cargo": 540,
-      "quarterMile": "~14.7 sec"
+      "quarterMile": "~14.7 sec",
+      "price": "~$76,990"
     },
     "Jaguar|XF|2019|S": {
       "engine": "3.0 SC V6",
@@ -815,7 +855,8 @@
       "acceleration": 5.8,
       "topSpeed": 250,
       "cargo": 540,
-      "quarterMile": "~14.1 sec"
+      "quarterMile": "~14.1 sec",
+      "price": "~$89,990"
     },
     "Jaguar|F-Pace|2018|R-Sport": {
       "engine": "2.0T Turbo",
@@ -835,7 +876,8 @@
       "acceleration": 7,
       "topSpeed": 222,
       "cargo": 650,
-      "quarterMile": "~15.3 sec"
+      "quarterMile": "~15.3 sec",
+      "price": "~$73,980"
     },
     "Jaguar|F-Pace|2018|Portfolio": {
       "engine": "3.0 SC Supercharged",
@@ -855,7 +897,8 @@
       "acceleration": 6.4,
       "topSpeed": 235,
       "cargo": 650,
-      "quarterMile": "~14.7 sec"
+      "quarterMile": "~14.7 sec",
+      "price": "~$89,980"
     },
     "Jaguar|F-Type|2017|V6 S": {
       "engine": "3.0 SC V6",
@@ -875,7 +918,8 @@
       "acceleration": 5.1,
       "topSpeed": 285,
       "cargo": 196,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "price": "~$93,450"
     },
     "Jaguar|F-Type|2017|V8 R": {
       "engine": "5.0 SC V8",
@@ -895,7 +939,8 @@
       "acceleration": 4.6,
       "topSpeed": 300,
       "cargo": 196,
-      "quarterMile": "~12.9 sec"
+      "quarterMile": "~12.9 sec",
+      "price": "~$129,450"
     }
   }
 }
