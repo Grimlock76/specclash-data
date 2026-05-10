@@ -183,19 +183,18 @@ function estimateCurrentPrice(prStr, year) {
   const age = 2026 - parseInt(year)
   if (age < 1 || age > 35) return null
   let factor
-  if (age <= 1) factor = 0.83
-  else if (age <= 2) factor = 0.72
-  else if (age <= 3) factor = 0.63
-  else if (age <= 5) factor = 0.53
-  else if (age <= 8) factor = 0.43
-  else if (age <= 12) factor = 0.34
-  else if (age <= 20) factor = 0.22
-  else if (age <= 35) factor = 0.14
-  else factor = 0.09
+  if (age <= 1) factor = 0.85
+  else if (age <= 2) factor = 0.77
+  else if (age <= 3) factor = 0.70
+  else if (age <= 5) factor = 0.63
+  else if (age <= 8) factor = 0.57
+  else if (age <= 12) factor = 0.55
+  else if (age <= 20) factor = 0.33
+  else factor = 0.21
   const mid = base * factor
   const round = v => v < 20000 ? Math.round(v / 500) * 500 : Math.round(v / 1000) * 1000
-  const lo = round(mid * 0.80)
-  const hi = round(mid * 1.25)
+  const lo = round(mid * 0.84)
+  const hi = round(mid * 1.30)
   if (lo < 500) return null
   const fmt = v => '$' + v.toLocaleString()
   return `~${fmt(lo)}–${fmt(hi)}`
