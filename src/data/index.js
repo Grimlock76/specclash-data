@@ -176,19 +176,49 @@ function normalizeSpec(spec, make = '', model = '', trim = '') {
   }
 }
 
+function estimateCurrentPrice(prStr, year) {
+  if (!prStr || prStr === '—') return null
+  const base = parseFloat(prStr.replace(/[^0-9]/g, ''))
+  if (!base || base < 1000) return null
+  const age = 2026 - parseInt(year)
+  if (age < 1 || age > 35) return null
+  let factor
+  if (age <= 1) factor = 0.83
+  else if (age <= 2) factor = 0.72
+  else if (age <= 3) factor = 0.63
+  else if (age <= 5) factor = 0.53
+  else if (age <= 8) factor = 0.43
+  else if (age <= 12) factor = 0.34
+  else if (age <= 20) factor = 0.22
+  else if (age <= 35) factor = 0.14
+  else factor = 0.09
+  const mid = base * factor
+  const round = v => v < 20000 ? Math.round(v / 500) * 500 : Math.round(v / 1000) * 1000
+  const lo = round(mid * 0.80)
+  const hi = round(mid * 1.25)
+  if (lo < 500) return null
+  const fmt = v => '$' + v.toLocaleString()
+  return `~${fmt(lo)}–${fmt(hi)}`
+}
+
 export function lookup(make, model, year, trim) {
-  const exact = `${make}|${model}|${year}|${trim}`
-  if (SPECS[exact]) return normalizeSpec(SPECS[exact], make, model, trim)
-  const noMake = `${model}|${year}|${trim}`
-  if (SPECS[noMake]) return normalizeSpec(SPECS[noMake], make, model, trim)
   const yr = parseInt(year)
+  const withPC = spec => {
+    if (!spec || yr >= 2024) return spec
+    const pc = estimateCurrentPrice(spec.pr, year)
+    return pc ? { ...spec, pc } : spec
+  }
+  const exact = `${make}|${model}|${year}|${trim}`
+  if (SPECS[exact]) return withPC(normalizeSpec(SPECS[exact], make, model, trim))
+  const noMake = `${model}|${year}|${trim}`
+  if (SPECS[noMake]) return withPC(normalizeSpec(SPECS[noMake], make, model, trim))
   for (let delta = 1; delta <= 2; delta++) {
     for (const sign of [-1, 1]) {
       const tryYear = (yr + sign * delta).toString()
       const k1 = `${make}|${model}|${tryYear}|${trim}`
-      if (SPECS[k1]) return normalizeSpec(SPECS[k1], make, model, trim)
+      if (SPECS[k1]) return withPC(normalizeSpec(SPECS[k1], make, model, trim))
       const k2 = `${model}|${tryYear}|${trim}`
-      if (SPECS[k2]) return normalizeSpec(SPECS[k2], make, model, trim)
+      if (SPECS[k2]) return withPC(normalizeSpec(SPECS[k2], make, model, trim))
     }
   }
   return null
