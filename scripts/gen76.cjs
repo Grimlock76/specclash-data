@@ -17,17 +17,17 @@ function ferrariSpec(model, year, trim) {
       if (trim === 'Spider') return {en:'3.4L DOHC 32v V8',di:'3405cc',cy:'8',hp:'312',tq:'323 Nm',tx:'6-speed manual',dr:'RWD',z1:'5.8',qm:'14.1',ts:'275 km/h',fc:'18.5',fh:'13.0',fx:'15.5',ft:'Petrol',wt:'1410 kg',se:'2',ca:'100 L',pr:'A$175,000',pc:'A$95,000–210,000'};
       return {en:'3.4L DOHC 32v V8',di:'3405cc',cy:'8',hp:'300',tq:'315 Nm',tx:'6-speed manual',dr:'RWD',z1:'5.9',qm:'14.2',ts:'270 km/h',fc:'18.5',fh:'13.0',fx:'15.5',ft:'Petrol',wt:'1380 kg',se:'2',ca:'100 L',pr:'A$160,000',pc:'A$85,000–200,000'};
     case 'F355':
-      if (trim === 'Berlinetta') return {en:'3.5L DOHC 40v V8',di:'3496cc',cy:'8',hp:'381',tq:'363 Nm',tx:'6-speed manual',dr:'RWD',z1:'4.7',qm:'13.1',ts:'295 km/h',fc:'18.5',fh:'13.5',fx:'15.7',ft:'Petrol',wt:'1350 kg',se:'2',ca:'100 L',pr:'A$230,000',pc:'A$110,000–250,000'};
-      if (trim === 'Spider') return {en:'3.5L DOHC 40v V8',di:'3496cc',cy:'8',hp:'381',tq:'363 Nm',tx:'6-speed manual',dr:'RWD',z1:'4.8',qm:'13.2',ts:'290 km/h',fc:'19.0',fh:'14.0',fx:'16.0',ft:'Petrol',wt:'1400 kg',se:'2',ca:'100 L',pr:'A$255,000',pc:'A$125,000–275,000'};
-      return {en:'3.5L DOHC 40v V8',di:'3496cc',cy:'8',hp:'381',tq:'363 Nm',tx:'6-speed manual',dr:'RWD',z1:'4.8',qm:'13.2',ts:'292 km/h',fc:'18.8',fh:'13.8',fx:'15.9',ft:'Petrol',wt:'1370 kg',se:'2',ca:'100 L',pr:'A$245,000',pc:'A$115,000–260,000'};
+      if (trim === 'Berlinetta') return {en:'3.5L DOHC 40v V8',di:'3496cc',cy:'8',hp:'375',tq:'363 Nm',tx:'6-speed manual',dr:'RWD',z1:'4.7',qm:'13.1',ts:'295 km/h',fc:'18.5',fh:'13.5',fx:'15.7',ft:'Petrol',wt:'1350 kg',se:'2',ca:'100 L',pr:'A$230,000',pc:'A$110,000–250,000'};
+      if (trim === 'Spider') return {en:'3.5L DOHC 40v V8',di:'3496cc',cy:'8',hp:'375',tq:'363 Nm',tx:'6-speed manual',dr:'RWD',z1:'4.8',qm:'13.2',ts:'290 km/h',fc:'19.0',fh:'14.0',fx:'16.0',ft:'Petrol',wt:'1400 kg',se:'2',ca:'100 L',pr:'A$255,000',pc:'A$125,000–275,000'};
+      return {en:'3.5L DOHC 40v V8',di:'3496cc',cy:'8',hp:'375',tq:'363 Nm',tx:'6-speed manual',dr:'RWD',z1:'4.8',qm:'13.2',ts:'292 km/h',fc:'18.8',fh:'13.8',fx:'15.9',ft:'Petrol',wt:'1370 kg',se:'2',ca:'100 L',pr:'A$245,000',pc:'A$115,000–260,000'};
     case '360 Modena':
       if (trim === 'Challenge Stradale') return {en:'3.6L DOHC 40v V8',di:'3586cc',cy:'8',hp:'425',tq:'385 Nm',tx:'6-speed F1 paddle',dr:'RWD',z1:'4.0',qm:'12.1',ts:'300 km/h',fc:'19.0',fh:'13.5',fx:'16.0',ft:'Petrol',wt:'1255 kg',se:'2',ca:'100 L',pr:'A$385,000',pc:'A$250,000–450,000'};
       if (trim === 'Spider') return {en:'3.6L DOHC 40v V8',di:'3586cc',cy:'8',hp:'400',tq:'373 Nm',tx:'6-speed F1 paddle',dr:'RWD',z1:'4.5',qm:'12.6',ts:'295 km/h',fc:'19.0',fh:'13.5',fx:'16.0',ft:'Petrol',wt:'1450 kg',se:'2',ca:'100 L',pr:'A$340,000',pc:'A$190,000–360,000'};
       return {en:'3.6L DOHC 40v V8',di:'3586cc',cy:'8',hp:'400',tq:'373 Nm',tx:'6-speed F1 paddle',dr:'RWD',z1:'4.5',qm:'12.6',ts:'295 km/h',fc:'19.0',fh:'13.5',fx:'16.0',ft:'Petrol',wt:'1390 kg',se:'2',ca:'100 L',pr:'A$310,000',pc:'A$175,000–330,000'};
     case 'F430':
       if (trim === 'Scuderia') return {en:'4.3L DOHC 32v V8',di:'4308cc',cy:'8',hp:'510',tq:'465 Nm',tx:'6-speed F1 paddle',dr:'RWD',z1:'3.6',qm:'11.6',ts:'320 km/h',fc:'18.5',fh:'13.5',fx:'15.6',ft:'Petrol',wt:'1350 kg',se:'2',ca:'100 L',pr:'A$495,000',pc:'A$350,000–600,000'};
-      if (trim === 'Spider') return {en:'4.3L DOHC 32v V8',di:'4308cc',cy:'8',hp:'483',tq:'465 Nm',tx:'6-speed F1 paddle',dr:'RWD',z1:'4.0',qm:'12.2',ts:'310 km/h',fc:'18.5',fh:'13.5',fx:'15.6',ft:'Petrol',wt:'1600 kg',se:'2',ca:'100 L',pr:'A$450,000',pc:'A$290,000–510,000'};
-      return {en:'4.3L DOHC 32v V8',di:'4308cc',cy:'8',hp:'483',tq:'465 Nm',tx:'6-speed F1 paddle',dr:'RWD',z1:'4.0',qm:'12.2',ts:'315 km/h',fc:'18.0',fh:'13.0',fx:'15.2',ft:'Petrol',wt:'1450 kg',se:'2',ca:'100 L',pr:'A$410,000',pc:'A$270,000–480,000'};
+      if (trim === 'Spider') return {en:'4.3L DOHC 32v V8',di:'4308cc',cy:'8',hp:'490',tq:'465 Nm',tx:'6-speed F1 paddle',dr:'RWD',z1:'4.0',qm:'12.2',ts:'310 km/h',fc:'18.5',fh:'13.5',fx:'15.6',ft:'Petrol',wt:'1600 kg',se:'2',ca:'100 L',pr:'A$450,000',pc:'A$290,000–510,000'};
+      return {en:'4.3L DOHC 32v V8',di:'4308cc',cy:'8',hp:'490',tq:'465 Nm',tx:'6-speed F1 paddle',dr:'RWD',z1:'4.0',qm:'12.2',ts:'315 km/h',fc:'18.0',fh:'13.0',fx:'15.2',ft:'Petrol',wt:'1450 kg',se:'2',ca:'100 L',pr:'A$410,000',pc:'A$270,000–480,000'};
     case '458 Italia':
       if (trim === 'Speciale') return {en:'4.5L DOHC 32v V8',di:'4497cc',cy:'8',hp:'605',tq:'540 Nm',tx:'7-speed dual clutch',dr:'RWD',z1:'3.0',qm:'10.9',ts:'325 km/h',fc:'15.5',fh:'11.5',fx:'13.0',ft:'Petrol',wt:'1395 kg',se:'2',ca:'230 L',pr:'A$695,000',pc:'A$500,000–850,000'};
       if (trim === 'Spider') return {en:'4.5L DOHC 32v V8',di:'4497cc',cy:'8',hp:'562',tq:'540 Nm',tx:'7-speed dual clutch',dr:'RWD',z1:'3.4',qm:'11.2',ts:'320 km/h',fc:'15.5',fh:'11.5',fx:'13.0',ft:'Petrol',wt:'1600 kg',se:'2',ca:'230 L',pr:'A$595,000',pc:'A$380,000–680,000'};
@@ -55,8 +55,11 @@ function ferrariSpec(model, year, trim) {
       if (trim === 'Aperta') return {en:'6.3L V12 + KERS hybrid',di:'6262cc',cy:'12',hp:'963',tq:'900 Nm',tx:'7-speed dual clutch',dr:'RWD',z1:'2.9',qm:'10.8',ts:'350 km/h',fc:'12.0',fh:'9.5',fx:'10.5',ft:'Petrol/Hybrid',wt:'1270 kg',se:'2',ca:'50 L',pr:'A$3,200,000',pc:'A$6,000,000+'};
       return {en:'6.3L V12 + KERS hybrid',di:'6262cc',cy:'12',hp:'963',tq:'900 Nm',tx:'7-speed dual clutch',dr:'RWD',z1:'2.9',qm:'10.8',ts:'350 km/h',fc:'12.0',fh:'9.5',fx:'10.5',ft:'Petrol/Hybrid',wt:'1255 kg',se:'2',ca:'50 L',pr:'A$2,800,000',pc:'A$5,500,000+'};
     case 'California':
+      // 2009-2014: 4.3L naturally-aspirated V8, 460hp
+      return {en:'4.3L DOHC 32v V8',di:'4297cc',cy:'8',hp:'460',tq:'485 Nm',tx:'7-speed dual clutch',dr:'RWD',z1:'3.8',qm:'12.0',ts:'310 km/h',fc:'13.0',fh:'9.5',fx:'10.9',ft:'Petrol',wt:'1725 kg',se:'2+2',ca:'240 L',pr:'A$350,000',pc:'A$175,000–310,000'};
     case 'California T':
-      return {en:'3.9L twin-turbo V8',di:'3902cc',cy:'8',hp:'552',tq:'755 Nm',tx:'7-speed dual clutch',dr:'RWD',z1:'3.6',qm:'11.7',ts:'316 km/h',fc:'10.8',fh:'8.5',fx:'9.4',ft:'Petrol',wt:'1735 kg',se:'2+2',ca:'240 L',pr:'A$425,000',pc:'A$280,000–480,000'};
+      // 2014-2017: 3.9L twin-turbo V8, 552hp
+      return {en:'3.9L twin-turbo V8',di:'3855cc',cy:'8',hp:'552',tq:'755 Nm',tx:'7-speed dual clutch',dr:'RWD',z1:'3.6',qm:'11.7',ts:'316 km/h',fc:'10.8',fh:'8.5',fx:'9.4',ft:'Petrol',wt:'1735 kg',se:'2+2',ca:'240 L',pr:'A$425,000',pc:'A$280,000–480,000'};
     case 'Portofino':
       if (trim === 'M') return {en:'3.9L twin-turbo V8',di:'3902cc',cy:'8',hp:'620',tq:'760 Nm',tx:'8-speed dual clutch',dr:'RWD',z1:'3.45',qm:'11.3',ts:'320 km/h',fc:'11.5',fh:'9.0',fx:'10.0',ft:'Petrol',wt:'1785 kg',se:'2+2',ca:'210 L',pr:'A$545,000',pc:'A$430,000–640,000'};
       return {en:'3.9L twin-turbo V8',di:'3902cc',cy:'8',hp:'600',tq:'760 Nm',tx:'7-speed dual clutch',dr:'RWD',z1:'3.5',qm:'11.4',ts:'320 km/h',fc:'11.0',fh:'8.5',fx:'9.5',ft:'Petrol',wt:'1755 kg',se:'2+2',ca:'210 L',pr:'A$495,000',pc:'A$380,000–590,000'};

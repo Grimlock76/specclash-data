@@ -104,7 +104,8 @@ function pontiacSpec(model, year, trim) {
         if (trim === 'Judge' || trim === 'The Judge') return {en:'6.6L Ram Air IV V8',di:'6555cc',cy:'8',hp:'370',tq:'637 Nm',tx:'4-speed manual',dr:'RWD',z1:'5.8',qm:'14.1',ts:'205 km/h',fc:'20.5',fh:'14.0',fx:'17.0',ft:'Petrol',wt:'1645 kg',se:'4',ca:'290 L',pr:'A$3,800',pc:'A$65,000–180,000'};
         return {en:'6.6L V8',di:'6555cc',cy:'8',hp:'350',tq:'610 Nm',tx:'4-speed manual',dr:'RWD',z1:'6.0',qm:'14.3',ts:'200 km/h',fc:'20.0',fh:'13.5',fx:'16.5',ft:'Petrol',wt:'1600 kg',se:'4',ca:'290 L',pr:'A$3,200',pc:'A$45,000–140,000'};
       }
-      return {en:'5.7L LS1 V8',di:'5665cc',cy:'8',hp:'350',tq:'452 Nm',tx:'6-speed manual',dr:'RWD',z1:'5.3',qm:'13.7',ts:'250 km/h',fc:'14.5',fh:'10.0',fx:'11.9',ft:'Petrol',wt:'1650 kg',se:'4',ca:'385 L',pr:'A$55,000',pc:'A$18,000–42,000'};
+      if (y <= 2004) return {en:'5.7L LS1 V8',di:'5665cc',cy:'8',hp:'350',tq:'452 Nm',tx:'6-speed manual',dr:'RWD',z1:'5.3',qm:'13.7',ts:'250 km/h',fc:'14.5',fh:'10.0',fx:'11.9',ft:'Petrol',wt:'1650 kg',se:'4',ca:'385 L',pr:'A$55,000',pc:'A$18,000–42,000'};
+      return {en:'6.0L LS2 V8',di:'5967cc',cy:'8',hp:'400',tq:'542 Nm',tx:'6-speed manual',dr:'RWD',z1:'4.9',qm:'13.2',ts:'260 km/h',fc:'14.0',fh:'9.5',fx:'11.4',ft:'Petrol',wt:'1650 kg',se:'4',ca:'385 L',pr:'A$58,000',pc:'A$20,000–48,000'};
     }
     case 'Grand Prix': {
       if (y <= 1987) return {en:'5.0L V8',di:'4999cc',cy:'8',hp:'165',tq:'353 Nm',tx:'4-speed automatic',dr:'RWD',z1:'9.5',qm:'17.2',ts:'185 km/h',fc:'17.0',fh:'11.5',fx:'13.9',ft:'Petrol',wt:'1610 kg',se:'4',ca:'450 L',pr:'A$8,500',pc:'A$4,000–14,000'};

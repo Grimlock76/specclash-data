@@ -238,13 +238,20 @@ function citroenSpec(model, year, trim) {
       if (trim === 'A')   return { ...base, pr:500+(y-1948)*30, pc:15000 }
       if (trim === 'AZ')  return { ...base, en:'0.4L Flat-2', di:425, hp:12, ts:90, pr:600+(y-1948)*30, pc:14000 }
     }
-    if (y >= 1961 && y <= 1974) {
-      const mid = { ...base, en:'0.6L Flat-2', di:602, hp:18, tq:39, ts:108 }
-      if (trim === 'A' || trim === 'AZ') return { ...mid, pr:700+(y-1961)*40, pc:10000 }
-      if (trim === '6')          return { ...mid, pr:900+(y-1961)*40, pc:12000 }
-      if (trim === 'Special')    return { ...mid, pr:950+(y-1961)*40, pc:11000 }
-      if (trim === 'Charleston') return { ...mid, pr:1200+(y-1961)*50, pc:14000+(1974-y)*300 }
-      if (trim === 'Dolly')      return { ...mid, pr:1100+(y-1961)*50, pc:13000+(1974-y)*300 }
+    if (y >= 1961 && y <= 1969) {
+      // 435cc engine making 12-18hp (AZ/AZL series)
+      const pre70 = { ...base, en:'0.435L Flat-2', di:435, hp:12, tq:27, ts:100 }
+      if (trim === 'A' || trim === 'AZ') return { ...pre70, pr:600+(y-1961)*35, pc:9000+(1969-y)*200 }
+      if (trim === '6' || trim === 'Special') return { ...pre70, hp:18, tq:34, ts:110, pr:800+(y-1961)*35, pc:10000+(1969-y)*200 }
+    }
+    if (y >= 1970 && y <= 1974) {
+      // 602cc engine introduced 1970, 29hp
+      const mid = { ...base, en:'0.6L Flat-2', di:602, hp:29, tq:44, ts:118 }
+      if (trim === 'A' || trim === 'AZ') return { ...mid, pr:1000+(y-1970)*80, pc:9000+(1974-y)*200 }
+      if (trim === '6')          return { ...mid, pr:1200+(y-1970)*80, pc:11000+(1974-y)*200 }
+      if (trim === 'Special')    return { ...mid, pr:1250+(y-1970)*80, pc:10000+(1974-y)*200 }
+      if (trim === 'Charleston') return { ...mid, pr:1400+(y-1970)*80, pc:12000+(1974-y)*300 }
+      if (trim === 'Dolly')      return { ...mid, pr:1300+(y-1970)*80, pc:11500+(1974-y)*300 }
     }
     if (y >= 1975 && y <= 1990) {
       const late = { ...base, en:'0.65L Flat-2', di:652, cy:2, hp:29, tq:44, ts:120 }
