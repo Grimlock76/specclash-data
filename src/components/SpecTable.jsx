@@ -29,12 +29,13 @@ function getBest(key, loaded) {
   return best.length === 1 ? best[0].idx : null
 }
 
-export default function SpecTable({ loaded }) {
+export default function SpecTable({ loaded, onShare }) {
   if (loaded.length === 0) return null
 
   const allSame = key => loaded.length > 1 && loaded.every(c => c.specs?.[key] === loaded[0].specs?.[key])
   const hasEV = loaded.some(c => c.specs?.ft === 'Electric')
   const allEV = loaded.length > 0 && loaded.every(c => c.specs?.ft === 'Electric')
+
   const getLabel = key => {
     if (hasEV && key === 'di') return allEV ? 'Battery' : 'Displacement / Battery'
     if (hasEV && key === 'fc') return allEV ? 'Range (WLTP)' : 'City / Range'
@@ -42,48 +43,56 @@ export default function SpecTable({ loaded }) {
   }
 
   return (
-    <div style={{ padding: '28px 24px 60px', overflowX: 'auto' }}>
-      <table style={{ width: '100%', borderCollapse: 'collapse', minWidth: 400 }}>
-        <thead>
-          <tr>
-            <th style={{ width: 140, textAlign: 'left', padding: '10px 12px', color: '#999', fontSize: 14, letterSpacing: 3, fontFamily: "'Barlow Condensed'", textTransform: 'uppercase', borderBottom: '1px solid #181818' }}>SPEC</th>
-            {loaded.map(c => (
-              <th key={c.idx} style={{ padding: '10px 12px', textAlign: 'center', borderBottom: `2px solid ${COLORS[c.idx]}`, borderLeft: '1px solid #141414', minWidth: 140 }}>
-                <div style={{ color: COLORS[c.idx], fontFamily: "'Barlow Condensed'", fontSize: 14, fontWeight: 700, letterSpacing: 1.5, textTransform: 'uppercase' }}>{c.label}</div>
-              </th>
+    <div style={{ padding: '20px 24px 60px' }}>
+      {/* Toolbar */}
+      <div className="no-print" style={{ display: 'flex', gap: 8, marginBottom: 14, justifyContent: 'flex-end' }}>
+        <button className="tbl-btn" onClick={() => window.print()}>⎙ Print</button>
+        {onShare && <button className="tbl-btn" onClick={onShare}>↗ Share</button>}
+      </div>
+
+      <div style={{ overflowX: 'auto' }}>
+        <table style={{ width: '100%', borderCollapse: 'collapse', minWidth: 400 }}>
+          <thead>
+            <tr>
+              <th style={{ width: 140, textAlign: 'left', padding: '10px 12px', color: '#999', fontSize: 14, letterSpacing: 3, fontFamily: "'Barlow Condensed', sans-serif", textTransform: 'uppercase', borderBottom: '1px solid #181818', fontWeight: 600 }}>SPEC</th>
+              {loaded.map(c => (
+                <th key={c.idx} style={{ padding: '10px 12px', textAlign: 'center', borderBottom: `2px solid ${COLORS[c.idx]}`, borderLeft: '1px solid #141414', minWidth: 140 }}>
+                  <div style={{ color: COLORS[c.idx], fontFamily: "'Barlow Condensed', sans-serif", fontSize: 14, fontWeight: 700, letterSpacing: 1.5, textTransform: 'uppercase' }}>{c.label}</div>
+                </th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {GROUPS.map(g => (
+              <Fragment key={g.label}>
+                <tr>
+                  <td colSpan={loaded.length + 1} style={{ padding: '14px 12px 5px', fontFamily: "'Barlow Condensed', sans-serif", fontSize: 14, letterSpacing: 3, color: '#C8F04A', textTransform: 'uppercase', borderTop: '1px solid #141414' }}>{g.label}</td>
+                </tr>
+                {g.keys.map(key => {
+                  const best = getBest(key, loaded)
+                  const same = allSame(key)
+                  return (
+                    <tr key={key} className="spec-row" style={{ borderBottom: '1px solid #0f0f0f' }}>
+                      <td style={{ padding: '8px 12px', fontSize: 13, color: '#888', whiteSpace: 'nowrap' }}>{getLabel(key)}</td>
+                      {loaded.map(c => {
+                        const val = c.specs?.[key] || '—'
+                        const isBest = best === c.idx
+                        return (
+                          <td key={c.idx} style={{ padding: '8px 12px', textAlign: 'center', borderLeft: '1px solid #0f0f0f', fontSize: 15, fontWeight: isBest ? 600 : 400, color: same ? '#484848' : isBest ? COLORS[c.idx] : '#d8d8d8' }}>
+                            {isBest && !same && <span style={{ fontSize: 10, marginRight: 4, color: COLORS[c.idx] }}>▲</span>}
+                            {val}
+                          </td>
+                        )
+                      })}
+                    </tr>
+                  )
+                })}
+              </Fragment>
             ))}
-          </tr>
-        </thead>
-        <tbody>
-          {GROUPS.map(g => (
-            <Fragment key={g.label}>
-              <tr>
-                <td colSpan={loaded.length + 1} style={{ padding: '14px 12px 5px', fontFamily: "'Barlow Condensed'", fontSize: 14, letterSpacing: 3, color: '#C8F04A', textTransform: 'uppercase', borderTop: '1px solid #141414' }}>{g.label}</td>
-              </tr>
-              {g.keys.map(key => {
-                const best = getBest(key, loaded)
-                const same = allSame(key)
-                return (
-                  <tr key={key} style={{ borderBottom: '1px solid #0f0f0f' }}>
-                    <td style={{ padding: '8px 12px', fontSize: 13, color: '#888', whiteSpace: 'nowrap' }}>{getLabel(key)}</td>
-                    {loaded.map(c => {
-                      const val = c.specs?.[key] || '—'
-                      const isBest = best === c.idx
-                      return (
-                        <td key={c.idx} style={{ padding: '8px 12px', textAlign: 'center', borderLeft: '1px solid #0f0f0f', fontSize: 15, fontWeight: isBest ? 600 : 400, color: same ? '#484848' : isBest ? COLORS[c.idx] : '#d8d8d8' }}>
-                          {isBest && !same && <span style={{ fontSize: 10, marginRight: 4, color: COLORS[c.idx] }}>▲</span>}
-                          {val}
-                        </td>
-                      )
-                    })}
-                  </tr>
-                )
-              })}
-            </Fragment>
-          ))}
-        </tbody>
-      </table>
-      <p style={{ color: '#1a1a1a', fontSize: 11, marginTop: 16, textAlign: 'center' }}>▲ = best value. Greyed = identical.</p>
+          </tbody>
+        </table>
+        <p style={{ color: '#1e1e1e', fontSize: 11, marginTop: 16, textAlign: 'center' }}>▲ = best value · greyed = identical</p>
+      </div>
     </div>
   )
 }

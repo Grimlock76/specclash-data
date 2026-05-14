@@ -1,19 +1,22 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { MAKES, lookup } from '../data/index.js'
 import { BODY_TYPES, getBodyType } from '../utils/bodyType.js'
 import TrimBadge from './TrimBadge.jsx'
+import SearchSelect from './SearchSelect.jsx'
 
 const COLORS = ['#C8F04A', '#60C8FF', '#FF7043', '#B39DFF']
+const BODY_LABELS = {
+  All: '— Body Type —', Sedan: 'Sedan', Wagon: 'Wagon',
+  Ute: 'Ute', SUV: 'SUV', Coupe: 'Coupe', Hatch: 'Hatchback', Van: 'Van / Commercial'
+}
 
-const BODY_LABELS = { All: '— Body Type —', Sedan: 'Sedan', Wagon: 'Wagon', Ute: 'Ute', SUV: 'SUV', Coupe: 'Coupe', Hatch: 'Hatchback', Van: 'Van / Commercial' }
-
-export default function Slot({ index, onResult, onClear }) {
+export default function Slot({ index, initial, onResult, onClear }) {
   const color = COLORS[index]
-  const [make, setMake]         = useState('Holden')
+  const [make, setMake]         = useState(initial?.make || 'Holden')
   const [bodyType, setBodyType] = useState('All')
-  const [model, setModel]       = useState('')
-  const [year, setYear]         = useState('')
-  const [trim, setTrim]         = useState('')
+  const [model, setModel]       = useState(initial?.model || '')
+  const [year, setYear]         = useState(initial?.year || '')
+  const [trim, setTrim]         = useState(initial?.trim || '')
   const [err, setErr]           = useState('')
   const [ok, setOk]             = useState(false)
 
@@ -27,12 +30,27 @@ export default function Slot({ index, onResult, onClear }) {
         )
         .sort((a, b) => a.localeCompare(b))
     : []
-  const years  = model ? Object.keys(MAKES[make]?.[model] || {}).sort() : []
-  const trims  = model && year
+  const years = model
+    ? Object.keys(MAKES[make]?.[model] || {})
+        .filter(y => bodyType === 'All' ||
+          (MAKES[make]?.[model]?.[y] || []).some(t => getBodyType(model, t) === bodyType))
+        .sort()
+    : []
+  const trims = model && year
     ? (MAKES[make]?.[model]?.[year] || []).filter(t =>
         bodyType === 'All' || getBodyType(model, t) === bodyType
       )
     : []
+
+  useEffect(() => {
+    if (!initial?.make || !initial?.model || !initial?.year || !initial?.trim) return
+    const specs = lookup(initial.make, initial.model, initial.year, initial.trim)
+    if (specs) {
+      setOk(true)
+      const label = `${initial.year} ${initial.make} ${initial.model}${initial.trim ? ' ' + initial.trim : ''}`
+      onResult(index, { make: initial.make, model: initial.model, year: initial.year, trim: initial.trim, label, specs })
+    }
+  }, [])
 
   const clear = () => {
     setMake('Holden'); setBodyType('All'); setModel(''); setYear(''); setTrim('')
@@ -43,8 +61,12 @@ export default function Slot({ index, onResult, onClear }) {
     setErr('')
     const label = `${year} ${make} ${model}${trim ? ' ' + trim : ''}`
     const specs = lookup(make, model, year, trim)
-    if (specs) { setOk(true); onResult(index, { label, specs }) }
-    else setErr('Specs for this exact trim not yet in DB. Try a nearby year or different trim.')
+    if (specs) {
+      setOk(true)
+      onResult(index, { make, model, year, trim, label, specs })
+    } else {
+      setErr('Specs not found. Try a nearby year or different trim.')
+    }
   }
 
   const sel = {
@@ -61,32 +83,40 @@ export default function Slot({ index, onResult, onClear }) {
       border: `1px solid ${ok ? color + '55' : '#1a1a1a'}`,
       borderTop: `3px solid ${ok ? color : '#1e1e1e'}`,
       borderRadius: 12, padding: '14px 14px 12px',
-      flex: '1 1 140px', minWidth: 140,
       boxShadow: ok ? `0 0 20px ${color}18` : 'none',
       transition: 'box-shadow 0.3s'
     }}>
       <div style={{
-        fontFamily: "'Barlow Condensed'", fontSize: 13, fontWeight: 800,
-        letterSpacing: 2.5, color: ok ? color : '#2a2a2a',
-        textTransform: 'uppercase', marginBottom: 10
+        fontSize: 13, fontWeight: 800, letterSpacing: 2.5,
+        color: ok ? color : '#2a2a2a', textTransform: 'uppercase', marginBottom: 10
       }}>CAR {index + 1}</div>
 
-      <select value={make} onChange={e => { setMake(e.target.value); setModel(''); setYear(''); setTrim(''); setErr(''); setOk(false); onClear(index) }} style={sel}>
-        {makes.map(m => <option key={m} value={m}>{m}</option>)}
-      </select>
+      <SearchSelect
+        options={makes}
+        value={make}
+        placeholder="— Make —"
+        loadedColor={ok ? color : null}
+        onChange={v => { setMake(v); setModel(''); setYear(''); setTrim(''); setErr(''); setOk(false); onClear(index) }}
+      />
 
       <select value={bodyType} onChange={e => { setBodyType(e.target.value); setModel(''); setYear(''); setTrim(''); setErr(''); setOk(false); onClear(index) }} style={sel}>
         {BODY_TYPES.map(bt => <option key={bt} value={bt}>{BODY_LABELS[bt]}</option>)}
       </select>
 
-      <select value={model} onChange={e => { setModel(e.target.value); setYear(''); setTrim(''); setErr(''); setOk(false); onClear(index) }} style={sel}>
-        <option value="">— Model —</option>
-        {models.map(m => <option key={m} value={m}>{m}</option>)}
-      </select>
+      <SearchSelect
+        options={models}
+        value={model}
+        placeholder="— Model —"
+        loadedColor={ok ? color : null}
+        disabled={!make}
+        onChange={v => { setModel(v); setYear(''); setTrim(''); setErr(''); setOk(false); onClear(index) }}
+      />
+
       <select value={year} onChange={e => { setYear(e.target.value); setTrim(''); setErr(''); setOk(false); onClear(index) }} style={sel}>
         <option value="">— Year —</option>
         {years.map(y => <option key={y} value={y}>{y}</option>)}
       </select>
+
       <select value={trim} onChange={e => { setTrim(e.target.value); setErr(''); setOk(false); onClear(index) }} style={sel}>
         <option value="">— Trim —</option>
         {trims.map(t => <option key={t} value={t}>{t}</option>)}
@@ -97,8 +127,7 @@ export default function Slot({ index, onResult, onClear }) {
           flex: 1, background: (!model || !year || !trim) ? '#111' : color,
           color: (!model || !year || !trim) ? '#2a2a2a' : '#000',
           border: 'none', borderRadius: 7, padding: '10px 0',
-          fontSize: 14, fontWeight: 700, fontFamily: "'Barlow Condensed'",
-          letterSpacing: 1.5, textTransform: 'uppercase',
+          fontSize: 14, fontWeight: 700, letterSpacing: 1.5, textTransform: 'uppercase',
           cursor: (!model || !year || !trim) ? 'default' : 'pointer',
           transition: 'background 0.15s'
         }}>LOAD</button>

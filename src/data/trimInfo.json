@@ -182,6 +182,46 @@
     ]
   },
   {
+    "id": "zb-calais-v",
+    "makes": [
+      "Holden"
+    ],
+    "match": [
+      "ZB Calais-V"
+    ],
+    "title": "ZB Calais-V",
+    "base": "ZB Calais",
+    "summary": "Range-topping ZB Commodore — 3.6L V6 with AWD, adaptive suspension and full European luxury.",
+    "highlights": [
+      "3.6L Sidi V6 — 235 kW / 381 Nm",
+      "9-speed automatic, AWD standard",
+      "Leather interior with heated and ventilated front seats",
+      "Adaptive suspension with drive mode selector",
+      "Heads-up display and BOSE premium audio",
+      "Opel Insignia GSi-derived platform — turbocharged V6, no V8"
+    ]
+  },
+  {
+    "id": "zb-calais",
+    "makes": [
+      "Holden"
+    ],
+    "match": [
+      "ZB Calais"
+    ],
+    "title": "ZB Calais",
+    "base": "ZB RS-V",
+    "summary": "ZB Commodore luxury grade — premium comfort and technology upgrades over the sport RS-V.",
+    "highlights": [
+      "2.0L Turbo I4 — 191 kW / 400 Nm",
+      "9-speed automatic, FWD/AWD",
+      "Leather-appointed seats with heated fronts",
+      "8.0\" MyLink infotainment with satellite navigation",
+      "Dual-zone electronic climate control",
+      "Active safety suite with autonomous emergency braking"
+    ]
+  },
+  {
     "id": "calais-v",
     "makes": [
       "Holden"

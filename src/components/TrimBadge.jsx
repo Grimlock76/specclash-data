@@ -24,7 +24,7 @@ export default function TrimBadge({ trim, make, color }) {
       </button>
 
       {open && (
-        <div style={{ marginTop: 4, background: '#080808', border: `1px solid ${color}22`, borderRadius: 6, padding: '10px 12px' }}>
+        <div style={{ marginTop: 4, background: '#0a0a0a', border: `1px solid ${color}22`, borderRadius: 6, padding: '10px 12px' }}>
           <div style={{ fontFamily: "'Barlow Condensed'", fontSize: 14, fontWeight: 700, color, letterSpacing: 1, marginBottom: 2 }}>
             {info.title}
           </div>

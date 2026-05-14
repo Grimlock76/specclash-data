@@ -1,88 +1,137 @@
-import { useState } from 'react'
+import { useState, useCallback } from 'react'
 import './index.css'
 import Slot from './components/Slot'
 import ScoreCard from './components/ScoreCard'
 import SpecTable from './components/SpecTable'
 import ProPanel from './components/ProPanel'
+import { MAKES } from './data/index.js'
 
-const COLORS = ['#C8F04A', '#60C8FF', '#FF7043', '#B39DFF']
+const MAKES_COUNT = Object.keys(MAKES).length
+
+function parseUrlCars() {
+  try {
+    const p = new URLSearchParams(window.location.search)
+    return Array.from({ length: 4 }, (_, i) => {
+      const v = p.get(`c${i}`)
+      if (!v) return null
+      const [make, model, year, trim] = v.split('|')
+      return make && model && year && trim ? { make, model, year, trim } : null
+    })
+  } catch {
+    return Array(4).fill(null)
+  }
+}
+
+function readPro() {
+  try { return localStorage.getItem('sc_pro') === '1' } catch { return false }
+}
 
 export default function App() {
-  const [cars, setCars]             = useState(Array(4).fill(null))
-  const [isPro, setIsPro]           = useState(false)
-  const [showPro, setShowPro]       = useState(false)
+  const [cars, setCars]       = useState(Array(4).fill(null))
+  const [initials]            = useState(parseUrlCars)
+  const [isPro, setIsPro]     = useState(readPro)
+  const [showPro, setShowPro] = useState(false)
+  const [toast, setToast]     = useState(false)
 
-  const onResult = (i, r) => setCars(p => { const n = [...p]; n[i] = r; return n })
-  const onClear  = (i)    => setCars(p => { const n = [...p]; n[i] = null; return n })
+  const onResult = useCallback((i, r) => setCars(p => { const n = [...p]; n[i] = r; return n }), [])
+  const onClear  = useCallback((i)    => setCars(p => { const n = [...p]; n[i] = null; return n }), [])
 
-  const activeSlots = isPro ? [0, 1, 2, 3] : [0, 1]
+  const activatePro = () => {
+    try { localStorage.setItem('sc_pro', '1') } catch {}
+    setIsPro(true); setShowPro(false)
+  }
+  const deactivatePro = () => {
+    try { localStorage.removeItem('sc_pro') } catch {}
+    setIsPro(false); setShowPro(false)
+  }
+
+  const share = useCallback(() => {
+    const params = cars
+      .map((c, i) => c ? `c${i}=${encodeURIComponent([c.make, c.model, c.year, c.trim].join('|'))}` : null)
+      .filter(Boolean).join('&')
+    const url = `${window.location.origin}${window.location.pathname}${params ? '?' + params : ''}`
+    navigator.clipboard?.writeText(url).catch(() => {})
+    window.history.replaceState(null, '', url)
+    setToast(true)
+    setTimeout(() => setToast(false), 2000)
+  }, [cars])
+
   const loaded = cars
     .map((c, i) => c ? { ...c, idx: i } : null)
-    .filter((c, i) => c && activeSlots.includes(i))
     .filter(Boolean)
+    .filter(c => isPro || c.idx < 2)
+
+  const activeSlots = isPro ? [0, 1, 2, 3] : [0, 1]
+  const anyLoaded = loaded.length > 0
 
   return (
-    <div style={{ minHeight: '100vh', background: '#080808', color: '#e0e0e0', fontFamily: "'Barlow Condensed', sans-serif" }}>
+    <div style={{ minHeight: '100vh', background: '#0a0a0a', color: '#e0e0e0', fontFamily: "'Barlow Condensed', sans-serif" }}>
+
       {/* Header */}
-      <div style={{ padding: '22px 24px 16px', borderBottom: '1px solid #141414', display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between' }}>
+      <div className="no-print" style={{ padding: '20px 24px 16px', borderBottom: '1px solid #141414', display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', gap: 12 }}>
         <div>
-          <div style={{ display: 'flex', alignItems: 'baseline', gap: 10 }}>
-            <span style={{ fontFamily: "'Barlow Condensed'", fontSize: 28, fontWeight: 800, letterSpacing: 4, color: '#fff', textTransform: 'uppercase' }}>SPEC</span>
-            <span style={{ fontFamily: "'Barlow Condensed'", fontSize: 28, fontWeight: 400, letterSpacing: 4, color: '#C8F04A', textTransform: 'uppercase' }}>CLASH</span>
-            <span style={{ fontFamily: "'Barlow Condensed'", fontSize: 15, letterSpacing: 2, color: '#444', textTransform: 'uppercase', marginLeft: 8 }}>AU Edition</span>
+          <div style={{ display: 'flex', alignItems: 'baseline', gap: 0 }}>
+            <span style={{ fontSize: 30, fontWeight: 800, letterSpacing: 4, color: '#fff', textTransform: 'uppercase' }}>SPEC</span>
+            <span style={{ fontSize: 30, fontWeight: 800, letterSpacing: 4, color: '#C8F04A', textTransform: 'uppercase' }}>CLASH</span>
           </div>
-          <p style={{ color: '#555', fontSize: 13, marginTop: 4 }}>
-            {isPro ? 'PRO · 4 cars · Holden, Ford, Toyota, Mazda, Nissan & Mitsubishi' : 'FREE · 2 cars · Tap ★ for Pro'}
+          <p style={{ color: '#444', fontSize: 12, marginTop: 3, letterSpacing: 1 }}>
+            {isPro ? `PRO · 4 cars · ${MAKES_COUNT} makes` : `FREE · 2 cars · ${MAKES_COUNT} makes`}
           </p>
         </div>
-        <button onClick={() => setShowPro(p => !p)} style={{
-          background: isPro ? '#1a1a0a' : '#0f0f0f',
-          border: `1px solid ${isPro ? '#C8F04A' : '#2a2a2a'}`,
-          borderRadius: 20, padding: '8px 16px', cursor: 'pointer',
-          display: 'flex', alignItems: 'center', gap: 7, marginTop: 4, flexShrink: 0
-        }}>
-          <span style={{ fontSize: 14, color: isPro ? '#C8F04A' : '#666' }}>★</span>
-          <span style={{ fontFamily: "'Barlow Condensed'", fontSize: 14, fontWeight: 700, letterSpacing: 1.5, color: isPro ? '#C8F04A' : '#666', textTransform: 'uppercase' }}>
-            {isPro ? 'PRO ✓' : 'GO PRO'}
-          </span>
-        </button>
+        <div style={{ display: 'flex', gap: 8, alignItems: 'center', flexShrink: 0, marginTop: 6 }}>
+          {anyLoaded && (
+            <button className="hdr-btn" onClick={share}>
+              <span style={{ fontSize: 12 }}>↗</span> Share
+            </button>
+          )}
+          <button className={`hdr-btn${isPro ? ' active' : ''}`} onClick={() => setShowPro(p => !p)}>
+            <span>★</span>{isPro ? 'PRO ✓' : 'GO PRO'}
+          </button>
+        </div>
       </div>
 
-      {/* Pro panel */}
+      {/* Pro panel overlay */}
       {showPro && (
-        <ProPanel
-          isPro={isPro}
-          onClose={() => setShowPro(false)}
-          onActivate={() => { setIsPro(true); setShowPro(false) }}
-          onDowngrade={() => { setIsPro(false); setShowPro(false) }}
-        />
+        <div className="modal-backdrop" onClick={e => e.target === e.currentTarget && setShowPro(false)}>
+          <ProPanel
+            isPro={isPro}
+            onClose={() => setShowPro(false)}
+            onActivate={activatePro}
+            onDeactivate={deactivatePro}
+          />
+        </div>
       )}
 
-      {/* Car slots */}
-      <div style={{ padding: '20px 24px 0' }}>
-        <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
+      {/* Slots */}
+      <div className="no-print" style={{ padding: '20px 24px 0' }}>
+        <div className="slot-grid">
           {activeSlots.map(i => (
-            <Slot key={i} index={i} onResult={onResult} onClear={onClear} />
+            <Slot key={i} index={i} initial={initials[i]} onResult={onResult} onClear={onClear} />
           ))}
           {!isPro && (
-            <div onClick={() => setShowPro(true)} style={{
-              flex: '1 1 140px', minWidth: 140, background: '#0a0a0a',
-              border: '1px dashed #1e1e1e', borderRadius: 12, padding: '16px 14px',
-              cursor: 'pointer', display: 'flex', flexDirection: 'column',
-              alignItems: 'center', justifyContent: 'center', gap: 6
-            }}>
-              <span style={{ fontSize: 22, color: '#333' }}>+</span>
-              <span style={{ fontFamily: "'Barlow Condensed'", fontSize: 11, letterSpacing: 2, color: '#333', textTransform: 'uppercase' }}>Pro Only</span>
+            <div className="pro-slot" onClick={() => setShowPro(true)}>
+              <span style={{ fontSize: 22, color: '#2a2a2a' }}>+</span>
+              <span style={{ fontSize: 11, letterSpacing: 2, color: '#2a2a2a', textTransform: 'uppercase', fontWeight: 700 }}>Pro Only</span>
+            </div>
+          )}
+          {!isPro && (
+            <div className="pro-slot" onClick={() => setShowPro(true)}>
+              <span style={{ fontSize: 22, color: '#2a2a2a' }}>+</span>
+              <span style={{ fontSize: 11, letterSpacing: 2, color: '#2a2a2a', textTransform: 'uppercase', fontWeight: 700 }}>Pro Only</span>
             </div>
           )}
         </div>
-        {loaded.length === 0 && (
-          <p style={{ color: '#222', fontSize: 13, marginTop: 14 }}>Select make, model, year and trim — then hit Load.</p>
+        {!anyLoaded && (
+          <p style={{ color: '#252525', fontSize: 13, marginTop: 16, letterSpacing: 1 }}>
+            Select a make, model, year and trim — then hit LOAD.
+          </p>
         )}
       </div>
 
       {loaded.length >= 2 && <ScoreCard loaded={loaded} />}
-      <SpecTable loaded={loaded} />
+      {loaded.length > 0 && <SpecTable loaded={loaded} onShare={share} />}
+
+      {toast && <div key={Date.now()} className="toast">Link Copied ✓</div>}
     </div>
   )
 }
