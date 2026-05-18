@@ -1,0 +1,170 @@
+'use strict'
+// gen79.cjs — Chevrolet classic small/mid-size cars
+// Covers: Bel Air, Corvair, Chevelle, Nova, El Camino
+const fs = require('fs')
+const specs = {}
+
+function add(make, model, year, trim, s) {
+  specs[`${make}|${model}|${year}|${trim}`] = s
+}
+
+// ───────────────────────────────────────────────────────────────
+// BEL AIR (1953–1975)
+// ───────────────────────────────────────────────────────────────
+// Base I6 (1953–1957) and V8 (1958–1975)
+add('Chevrolet','Bel Air',1953,'Base',{en:'3.9L I6 OHV',di:'3.9L',cy:'6',hp:'86 kW (115 hp)',tq:'254 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1430 kg',se:'6',pr:'$1,820'})
+add('Chevrolet','Bel Air',1957,'Base',{en:'4.1L I6 OHV',di:'4.1L',cy:'6',hp:'93 kW (125 hp)',tq:'271 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1510 kg',se:'6',pr:'$2,238'})
+add('Chevrolet','Bel Air',1961,'Base',{en:'4.6L V8 OHV',di:'4.6L',cy:'8',hp:'119 kW (160 hp)',tq:'339 Nm',tx:'Powerglide 2-speed Auto',dr:'RWD',ft:'Petrol',wt:'1580 kg',se:'6',pr:'$2,262'})
+add('Chevrolet','Bel Air',1965,'Base',{en:'5.4L V8 OHV',di:'5.4L',cy:'8',hp:'134 kW (180 hp)',tq:'354 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1640 kg',se:'6',pr:'$2,468'})
+add('Chevrolet','Bel Air',1969,'Base',{en:'5.0L V8 OHV',di:'5.0L',cy:'8',hp:'149 kW (200 hp)',tq:'373 Nm',tx:'3-speed Automatic',dr:'RWD',ft:'Petrol',wt:'1710 kg',se:'6',pr:'$2,726'})
+add('Chevrolet','Bel Air',1973,'Base',{en:'5.7L V8 OHV',di:'5.7L',cy:'8',hp:'119 kW (160 hp)',tq:'339 Nm',tx:'3-speed Automatic',dr:'RWD',ft:'Petrol',wt:'1810 kg',se:'6',pr:'$3,350',fc:'20.0',fh:'13.5',fx:'17.0',ft:'Petrol'})
+add('Chevrolet','Bel Air',1975,'Base',{en:'5.0L V8 OHV',di:'5.0L',cy:'8',hp:'97 kW (130 hp)',tq:'305 Nm',tx:'Turbo-Hydramatic Auto',dr:'RWD',ft:'Petrol',wt:'1860 kg',se:'6',pr:'$3,950',fc:'21.0',fh:'14.0',fx:'18.0'})
+
+// V8 trim (1955–1957 only, I6 = Base above)
+add('Chevrolet','Bel Air',1956,'V8',{en:'4.3L V8 OHV',di:'4.3L',cy:'8',hp:'121 kW (162 hp)',tq:'305 Nm',tx:'Powerglide 2-speed Auto',dr:'RWD',ft:'Petrol',wt:'1490 kg',se:'6',pr:'$2,258',z1:'~11.0 sec',ts:'~180 km/h'})
+
+// Fuel Injection (1957 only — famous Ramjet FI 283hp V8)
+add('Chevrolet','Bel Air',1957,'Fuel Injection',{en:'4.6L V8 OHV Ramjet Fuel Injection',di:'4.6L',cy:'8',hp:'211 kW (283 hp)',tq:'407 Nm',tx:'Powerglide 2-speed Auto',dr:'RWD',ft:'Petrol',wt:'1520 kg',se:'6',pr:'$3,020',z1:'~8.5 sec',ts:'~195 km/h'})
+
+// ───────────────────────────────────────────────────────────────
+// CORVAIR (1960–1969)
+// ───────────────────────────────────────────────────────────────
+// Base (1960–1964) — 2.3L flat-6 air-cooled
+add('Chevrolet','Corvair',1960,'Base',{en:'2.3L Flat-6 OHV Air-Cooled',di:'2.3L',cy:'6',hp:'60 kW (80 hp)',tq:'175 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1090 kg',se:'4',pr:'$1,984',z1:'~16.0 sec',ts:'~145 km/h'})
+add('Chevrolet','Corvair',1963,'Base',{en:'2.3L Flat-6 OHV Air-Cooled',di:'2.3L',cy:'6',hp:'64 kW (86 hp)',tq:'183 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1100 kg',se:'4',pr:'$2,054',z1:'~15.5 sec',ts:'~148 km/h'})
+
+// Monza (1960–1969)
+add('Chevrolet','Corvair',1960,'Monza',{en:'2.3L Flat-6 OHV Air-Cooled',di:'2.3L',cy:'6',hp:'64 kW (86 hp)',tq:'183 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1100 kg',se:'4',pr:'$2,238',z1:'~14.5 sec',ts:'~152 km/h'})
+add('Chevrolet','Corvair',1963,'Monza',{en:'2.3L Flat-6 OHV Air-Cooled',di:'2.3L',cy:'6',hp:'71 kW (95 hp)',tq:'197 Nm',tx:'4-speed Manual',dr:'RWD',ft:'Petrol',wt:'1120 kg',se:'4',pr:'$2,314',z1:'~13.5 sec',ts:'~160 km/h'})
+add('Chevrolet','Corvair',1966,'Monza',{en:'2.7L Flat-6 OHV Air-Cooled',di:'2.7L',cy:'6',hp:'86 kW (115 hp)',tq:'222 Nm',tx:'4-speed Manual',dr:'RWD',ft:'Petrol',wt:'1180 kg',se:'4',pr:'$2,694',z1:'~12.0 sec',ts:'~168 km/h'})
+add('Chevrolet','Corvair',1969,'Monza',{en:'2.7L Flat-6 OHV Air-Cooled',di:'2.7L',cy:'6',hp:'78 kW (105 hp)',tq:'210 Nm',tx:'3-speed Automatic',dr:'RWD',ft:'Petrol',wt:'1200 kg',se:'4',pr:'$2,522',z1:'~13.0 sec',ts:'~162 km/h'})
+
+// Spyder (1962–1964 only, turbocharged)
+add('Chevrolet','Corvair',1962,'Spyder',{en:'2.3L Turbocharged Flat-6 OHV',di:'2.3L',cy:'6',hp:'112 kW (150 hp)',tq:'249 Nm',tx:'4-speed Manual',dr:'RWD',ft:'Petrol',wt:'1120 kg',se:'4',pr:'$2,594',z1:'~9.8 sec',qm:'~17.5 sec',ts:'~190 km/h'})
+
+// 500 (1965–1969)
+add('Chevrolet','Corvair',1965,'500',{en:'2.7L Flat-6 OHV Air-Cooled',di:'2.7L',cy:'6',hp:'71 kW (95 hp)',tq:'200 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1070 kg',se:'4',pr:'$2,066',z1:'~14.0 sec',ts:'~155 km/h'})
+add('Chevrolet','Corvair',1968,'500',{en:'2.7L Flat-6 OHV Air-Cooled',di:'2.7L',cy:'6',hp:'71 kW (95 hp)',tq:'200 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1080 kg',se:'4',pr:'$2,243',z1:'~14.5 sec',ts:'~152 km/h'})
+
+// Corsa (1965–1966, hottest trim)
+add('Chevrolet','Corvair',1965,'Corsa',{en:'2.7L Flat-6 OHV Air-Cooled (4-carb)',di:'2.7L',cy:'6',hp:'119 kW (160 hp)',tq:'256 Nm',tx:'4-speed Manual',dr:'RWD',ft:'Petrol',wt:'1130 kg',se:'4',pr:'$2,519',z1:'~9.5 sec',qm:'~17.2 sec',ts:'~195 km/h'})
+
+// ───────────────────────────────────────────────────────────────
+// CHEVELLE (1964–1977)
+// ───────────────────────────────────────────────────────────────
+// Base
+add('Chevrolet','Chevelle',1964,'Base',{en:'3.8L I6 OHV',di:'3.8L',cy:'6',hp:'90 kW (120 hp)',tq:'271 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1420 kg',se:'6',pr:'$2,194'})
+add('Chevrolet','Chevelle',1968,'Base',{en:'4.1L I6 OHV',di:'4.1L',cy:'6',hp:'104 kW (140 hp)',tq:'305 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1480 kg',se:'6',pr:'$2,574'})
+add('Chevrolet','Chevelle',1972,'Base',{en:'5.7L V8 OHV',di:'5.7L',cy:'8',hp:'112 kW (150 hp)',tq:'339 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1590 kg',se:'6',pr:'$2,980'})
+add('Chevrolet','Chevelle',1976,'Base',{en:'5.0L V8 OHV',di:'5.0L',cy:'8',hp:'97 kW (130 hp)',tq:'305 Nm',tx:'Turbo-Hydramatic Auto',dr:'RWD',ft:'Petrol',wt:'1610 kg',se:'6',pr:'$3,760',fc:'20.5',fh:'13.5',fx:'17.5'})
+
+// Malibu (trim name, not the standalone Malibu model)
+add('Chevrolet','Chevelle',1964,'Malibu',{en:'4.6L V8 OHV',di:'4.6L',cy:'8',hp:'119 kW (160 hp)',tq:'339 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1460 kg',se:'6',pr:'$2,540'})
+add('Chevrolet','Chevelle',1968,'Malibu',{en:'5.4L V8 OHV',di:'5.4L',cy:'8',hp:'134 kW (180 hp)',tq:'361 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1540 kg',se:'6',pr:'$2,797'})
+add('Chevrolet','Chevelle',1972,'Malibu',{en:'5.7L V8 OHV',di:'5.7L',cy:'8',hp:'119 kW (160 hp)',tq:'339 Nm',tx:'Turbo-Hydramatic Auto',dr:'RWD',ft:'Petrol',wt:'1640 kg',se:'6',pr:'$3,220'})
+add('Chevrolet','Chevelle',1975,'Malibu',{en:'5.7L V8 OHV',di:'5.7L',cy:'8',hp:'104 kW (140 hp)',tq:'312 Nm',tx:'Turbo-Hydramatic Auto',dr:'RWD',ft:'Petrol',wt:'1700 kg',se:'6',pr:'$3,900',fc:'21.0',fh:'14.0',fx:'18.0'})
+
+// Malibu SS (1964–1965)
+add('Chevrolet','Chevelle',1964,'Malibu SS',{en:'5.4L V8 OHV',di:'5.4L',cy:'8',hp:'179 kW (240 hp)',tq:'420 Nm',tx:'4-speed Manual',dr:'RWD',ft:'Petrol',wt:'1470 kg',se:'4',pr:'$2,984',z1:'~8.5 sec',qm:'~16.0 sec',ts:'~195 km/h'})
+
+// SS 396 (1966–1972)
+add('Chevrolet','Chevelle',1966,'SS 396',{en:'6.5L V8 OHV',di:'6.5L',cy:'8',hp:'209 kW (280 hp)',tq:'475 Nm',tx:'4-speed Manual',dr:'RWD',ft:'Petrol',wt:'1580 kg',se:'4',pr:'$2,776',z1:'~7.2 sec',qm:'~15.2 sec',ts:'~205 km/h'})
+add('Chevrolet','Chevelle',1970,'SS 396',{en:'6.5L V8 OHV',di:'6.5L',cy:'8',hp:'220 kW (295 hp)',tq:'502 Nm',tx:'4-speed Manual',dr:'RWD',ft:'Petrol',wt:'1660 kg',se:'4',pr:'$3,294',z1:'~6.8 sec',qm:'~14.9 sec',ts:'~210 km/h'})
+
+// COPO 427 (1969 only — dealer-ordered 427 L72)
+add('Chevrolet','Chevelle',1969,'COPO 427',{en:'7.0L V8 OHV L72',di:'7.0L',cy:'8',hp:'313 kW (425 hp)',tq:'617 Nm',tx:'4-speed Manual',dr:'RWD',ft:'Petrol',wt:'1640 kg',se:'4',pr:'$4,200',z1:'~5.8 sec',qm:'~13.9 sec',ts:'~220 km/h'})
+
+// SS 454 (1970–1972)
+add('Chevrolet','Chevelle',1970,'SS 454',{en:'7.4L V8 OHV LS5',di:'7.4L',cy:'8',hp:'261 kW (360 hp)',tq:'678 Nm',tx:'4-speed Manual',dr:'RWD',ft:'Petrol',wt:'1700 kg',se:'4',pr:'$3,420',z1:'~6.0 sec',qm:'~14.5 sec',ts:'~215 km/h'})
+
+// LS6 (1970–1972 — peak muscle Chevelle, 450 hp)
+add('Chevrolet','Chevelle',1970,'LS6',{en:'7.4L V8 OHV LS6',di:'7.4L',cy:'8',hp:'336 kW (450 hp)',tq:'678 Nm',tx:'4-speed Manual',dr:'RWD',ft:'Petrol',wt:'1725 kg',se:'4',pr:'$4,475',z1:'~6.1 sec',qm:'~13.8 sec',ts:'~220 km/h'})
+
+// Heavy Chevy (1971–1972 budget muscle)
+add('Chevrolet','Chevelle',1971,'Heavy Chevy',{en:'5.7L V8 OHV',di:'5.7L',cy:'8',hp:'179 kW (240 hp)',tq:'380 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1600 kg',se:'4',pr:'$3,050',z1:'~8.0 sec',ts:'~190 km/h'})
+
+// Malibu Classic (1973–1977)
+add('Chevrolet','Chevelle',1975,'Malibu Classic',{en:'5.7L V8 OHV',di:'5.7L',cy:'8',hp:'104 kW (140 hp)',tq:'312 Nm',tx:'Turbo-Hydramatic Auto',dr:'RWD',ft:'Petrol',wt:'1730 kg',se:'6',pr:'$4,050',fc:'21.0',fh:'14.0',fx:'18.0'})
+
+// Laguna (1973–1976 luxury coupe)
+add('Chevrolet','Chevelle',1974,'Laguna',{en:'5.7L V8 OHV',di:'5.7L',cy:'8',hp:'119 kW (160 hp)',tq:'339 Nm',tx:'Turbo-Hydramatic Auto',dr:'RWD',ft:'Petrol',wt:'1690 kg',se:'5',pr:'$4,347',fc:'21.5',fh:'14.5',fx:'18.5'})
+
+// Laguna S-3 (1975 only — NASCAR-derived nose)
+add('Chevrolet','Chevelle',1975,'Laguna S-3',{en:'5.7L V8 OHV',di:'5.7L',cy:'8',hp:'119 kW (160 hp)',tq:'339 Nm',tx:'Turbo-Hydramatic Auto',dr:'RWD',ft:'Petrol',wt:'1700 kg',se:'5',pr:'$4,550',fc:'21.5',fh:'14.5',fx:'18.5'})
+
+// ───────────────────────────────────────────────────────────────
+// NOVA (1962–1979, 1985–1988)
+// ───────────────────────────────────────────────────────────────
+// Base
+add('Chevrolet','Nova',1962,'Base',{en:'2.5L I4 OHV',di:'2.5L',cy:'4',hp:'60 kW (80 hp)',tq:'188 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1170 kg',se:'4',pr:'$2,206'})
+add('Chevrolet','Nova',1966,'Base',{en:'3.2L I6 OHV',di:'3.2L',cy:'6',hp:'86 kW (115 hp)',tq:'244 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1300 kg',se:'4',pr:'$2,316'})
+add('Chevrolet','Nova',1970,'Base',{en:'4.1L I6 OHV',di:'4.1L',cy:'6',hp:'93 kW (125 hp)',tq:'271 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1380 kg',se:'4',pr:'$2,456'})
+add('Chevrolet','Nova',1974,'Base',{en:'5.0L V8 OHV',di:'5.0L',cy:'8',hp:'97 kW (130 hp)',tq:'305 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1460 kg',se:'4',pr:'$3,204',fc:'20.0',fh:'13.5',fx:'17.5'})
+add('Chevrolet','Nova',1978,'Base',{en:'5.0L V8 OHV',di:'5.0L',cy:'8',hp:'97 kW (130 hp)',tq:'305 Nm',tx:'3-speed Automatic',dr:'RWD',ft:'Petrol',wt:'1490 kg',se:'5',pr:'$3,799',fc:'20.5',fh:'13.5',fx:'17.5'})
+// 1985–1988 Nova (rebadged Toyota Sprinter/Corolla)
+add('Chevrolet','Nova',1986,'Base',{en:'1.6L I4 SOHC',di:'1.6L',cy:'4',hp:'56 kW (75 hp)',tq:'127 Nm',tx:'5-speed Manual',dr:'FWD',ft:'Petrol',wt:'960 kg',se:'5',pr:'$7,579',fc:'8.5',fh:'6.0',fx:'7.5'})
+
+// SS
+add('Chevrolet','Nova',1962,'SS',{en:'3.2L I6 OHV',di:'3.2L',cy:'6',hp:'82 kW (110 hp)',tq:'244 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1200 kg',se:'4',pr:'$2,550',z1:'~14.0 sec',ts:'~160 km/h'})
+add('Chevrolet','Nova',1966,'SS',{en:'4.6L V8 OHV',di:'4.6L',cy:'8',hp:'134 kW (180 hp)',tq:'339 Nm',tx:'4-speed Manual',dr:'RWD',ft:'Petrol',wt:'1350 kg',se:'4',pr:'$2,793',z1:'~10.0 sec',ts:'~180 km/h'})
+add('Chevrolet','Nova',1970,'SS',{en:'5.7L V8 OHV',di:'5.7L',cy:'8',hp:'179 kW (240 hp)',tq:'380 Nm',tx:'4-speed Manual',dr:'RWD',ft:'Petrol',wt:'1430 kg',se:'4',pr:'$3,226',z1:'~7.5 sec',qm:'~15.7 sec',ts:'~195 km/h'})
+add('Chevrolet','Nova',1974,'SS',{en:'5.7L V8 OHV',di:'5.7L',cy:'8',hp:'119 kW (160 hp)',tq:'339 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1490 kg',se:'4',pr:'$3,740',z1:'~9.5 sec',ts:'~185 km/h'})
+
+// SS 396 (1966–1970)
+add('Chevrolet','Nova',1968,'SS 396',{en:'6.5L V8 OHV',di:'6.5L',cy:'8',hp:'209 kW (280 hp)',tq:'475 Nm',tx:'4-speed Manual',dr:'RWD',ft:'Petrol',wt:'1460 kg',se:'4',pr:'$3,150',z1:'~6.8 sec',qm:'~14.8 sec',ts:'~205 km/h'})
+
+// LN (1973–1975 luxury trim)
+add('Chevrolet','Nova',1974,'LN',{en:'5.7L V8 OHV',di:'5.7L',cy:'8',hp:'119 kW (160 hp)',tq:'339 Nm',tx:'Turbo-Hydramatic Auto',dr:'RWD',ft:'Petrol',wt:'1490 kg',se:'5',pr:'$3,650',fc:'20.0',fh:'13.5',fx:'17.5'})
+
+// Concours (1976–1977)
+add('Chevrolet','Nova',1976,'Concours',{en:'5.7L V8 OHV',di:'5.7L',cy:'8',hp:'104 kW (140 hp)',tq:'339 Nm',tx:'Turbo-Hydramatic Auto',dr:'RWD',ft:'Petrol',wt:'1520 kg',se:'5',pr:'$3,944',fc:'21.0',fh:'14.0',fx:'18.0'})
+
+// Custom (1978–1979)
+add('Chevrolet','Nova',1978,'Custom',{en:'5.0L V8 OHV',di:'5.0L',cy:'8',hp:'97 kW (130 hp)',tq:'305 Nm',tx:'Turbo-Hydramatic Auto',dr:'RWD',ft:'Petrol',wt:'1510 kg',se:'5',pr:'$4,210',fc:'21.0',fh:'14.0',fx:'18.0'})
+
+// ───────────────────────────────────────────────────────────────
+// EL CAMINO (1959–1987)
+// ───────────────────────────────────────────────────────────────
+// Base
+add('Chevrolet','El Camino',1959,'Base',{en:'3.9L I6 OHV',di:'3.9L',cy:'6',hp:'86 kW (115 hp)',tq:'254 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1570 kg',se:'3',pr:'$2,447'})
+add('Chevrolet','El Camino',1964,'Base',{en:'4.1L I6 OHV',di:'4.1L',cy:'6',hp:'93 kW (125 hp)',tq:'271 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1590 kg',se:'3',pr:'$2,524'})
+add('Chevrolet','El Camino',1968,'Base',{en:'4.1L I6 OHV',di:'4.1L',cy:'6',hp:'104 kW (140 hp)',tq:'305 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1650 kg',se:'3',pr:'$2,724'})
+add('Chevrolet','El Camino',1972,'Base',{en:'5.7L V8 OHV',di:'5.7L',cy:'8',hp:'119 kW (160 hp)',tq:'339 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1720 kg',se:'3',pr:'$3,019'})
+add('Chevrolet','El Camino',1976,'Base',{en:'5.0L V8 OHV',di:'5.0L',cy:'8',hp:'97 kW (130 hp)',tq:'305 Nm',tx:'Turbo-Hydramatic Auto',dr:'RWD',ft:'Petrol',wt:'1760 kg',se:'3',pr:'$3,789',fc:'21.0',fh:'14.0',fx:'18.0'})
+add('Chevrolet','El Camino',1980,'Base',{en:'3.8L V6 OHV',di:'3.8L',cy:'6',hp:'86 kW (115 hp)',tq:'271 Nm',tx:'3-speed Automatic',dr:'RWD',ft:'Petrol',wt:'1690 kg',se:'3',pr:'$5,835',fc:'17.0',fh:'11.5',fx:'15.0'})
+add('Chevrolet','El Camino',1986,'Base',{en:'3.8L V6 OHV',di:'3.8L',cy:'6',hp:'93 kW (125 hp)',tq:'278 Nm',tx:'4-speed Automatic',dr:'RWD',ft:'Petrol',wt:'1620 kg',se:'3',pr:'$9,124',fc:'16.0',fh:'11.0',fx:'14.0'})
+
+// Custom
+add('Chevrolet','El Camino',1964,'Custom',{en:'4.6L V8 OHV',di:'4.6L',cy:'8',hp:'119 kW (160 hp)',tq:'339 Nm',tx:'Powerglide 2-speed Auto',dr:'RWD',ft:'Petrol',wt:'1630 kg',se:'3',pr:'$2,900'})
+add('Chevrolet','El Camino',1968,'Custom',{en:'5.0L V8 OHV',di:'5.0L',cy:'8',hp:'149 kW (200 hp)',tq:'373 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1700 kg',se:'3',pr:'$3,100'})
+add('Chevrolet','El Camino',1972,'Custom',{en:'5.7L V8 OHV',di:'5.7L',cy:'8',hp:'134 kW (180 hp)',tq:'380 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1740 kg',se:'3',pr:'$3,350'})
+
+// SS (1964–1967, 1973–1987)
+add('Chevrolet','El Camino',1965,'SS',{en:'5.4L V8 OHV',di:'5.4L',cy:'8',hp:'179 kW (240 hp)',tq:'420 Nm',tx:'4-speed Manual',dr:'RWD',ft:'Petrol',wt:'1660 kg',se:'3',pr:'$3,200',z1:'~8.0 sec',ts:'~195 km/h'})
+add('Chevrolet','El Camino',1974,'SS',{en:'5.7L V8 OHV',di:'5.7L',cy:'8',hp:'119 kW (160 hp)',tq:'339 Nm',tx:'Turbo-Hydramatic Auto',dr:'RWD',ft:'Petrol',wt:'1740 kg',se:'3',pr:'$3,850',fc:'21.0',fh:'14.0',fx:'18.0'})
+add('Chevrolet','El Camino',1978,'SS',{en:'5.0L V8 OHV',di:'5.0L',cy:'8',hp:'104 kW (140 hp)',tq:'312 Nm',tx:'3-speed Automatic',dr:'RWD',ft:'Petrol',wt:'1730 kg',se:'3',pr:'$5,200',fc:'21.5',fh:'14.0',fx:'18.5'})
+add('Chevrolet','El Camino',1982,'SS',{en:'5.0L V8 OHV',di:'5.0L',cy:'8',hp:'97 kW (130 hp)',tq:'305 Nm',tx:'4-speed Automatic',dr:'RWD',ft:'Petrol',wt:'1660 kg',se:'3',pr:'$7,250',fc:'19.5',fh:'13.0',fx:'17.0'})
+add('Chevrolet','El Camino',1986,'SS',{en:'5.0L V8 OHV',di:'5.0L',cy:'8',hp:'104 kW (140 hp)',tq:'312 Nm',tx:'4-speed Automatic',dr:'RWD',ft:'Petrol',wt:'1650 kg',se:'3',pr:'$10,350',fc:'18.5',fh:'12.5',fx:'16.0'})
+
+// SS 396 (1968–1970)
+add('Chevrolet','El Camino',1969,'SS 396',{en:'6.5L V8 OHV',di:'6.5L',cy:'8',hp:'209 kW (280 hp)',tq:'475 Nm',tx:'4-speed Manual',dr:'RWD',ft:'Petrol',wt:'1730 kg',se:'3',pr:'$3,550',z1:'~6.8 sec',qm:'~15.0 sec',ts:'~205 km/h'})
+
+// SS 454 (1970–1972)
+add('Chevrolet','El Camino',1971,'SS 454',{en:'7.4L V8 OHV LS5',di:'7.4L',cy:'8',hp:'261 kW (360 hp)',tq:'678 Nm',tx:'4-speed Manual',dr:'RWD',ft:'Petrol',wt:'1760 kg',se:'3',pr:'$3,900',z1:'~6.0 sec',qm:'~14.6 sec',ts:'~215 km/h'})
+
+// Heavy Chevy (1971–1972)
+add('Chevrolet','El Camino',1971,'Heavy Chevy',{en:'5.7L V8 OHV',di:'5.7L',cy:'8',hp:'179 kW (240 hp)',tq:'380 Nm',tx:'3-speed Manual',dr:'RWD',ft:'Petrol',wt:'1720 kg',se:'3',pr:'$3,400',z1:'~8.0 sec',ts:'~190 km/h'})
+
+// Classic (1973–1977)
+add('Chevrolet','El Camino',1975,'Classic',{en:'5.7L V8 OHV',di:'5.7L',cy:'8',hp:'104 kW (140 hp)',tq:'312 Nm',tx:'Turbo-Hydramatic Auto',dr:'RWD',ft:'Petrol',wt:'1780 kg',se:'3',pr:'$4,310',fc:'21.5',fh:'14.0',fx:'18.5'})
+
+// Royal Knight (1978–1984)
+add('Chevrolet','El Camino',1980,'Royal Knight',{en:'5.0L V8 OHV',di:'5.0L',cy:'8',hp:'97 kW (130 hp)',tq:'305 Nm',tx:'3-speed Automatic',dr:'RWD',ft:'Petrol',wt:'1720 kg',se:'3',pr:'$6,050',fc:'21.0',fh:'14.0',fx:'18.0'})
+add('Chevrolet','El Camino',1983,'Royal Knight',{en:'5.0L V8 OHV',di:'5.0L',cy:'8',hp:'97 kW (130 hp)',tq:'305 Nm',tx:'4-speed Automatic',dr:'RWD',ft:'Petrol',wt:'1700 kg',se:'3',pr:'$8,295',fc:'20.5',fh:'13.5',fx:'17.5'})
+
+// ───────────────────────────────────────────────────────────────
+// Write output
+// ───────────────────────────────────────────────────────────────
+const out = { specs }
+fs.writeFileSync('src/data/supplement79.json', JSON.stringify(out, null, 2))
+console.log('supplement79.json written —', Object.keys(specs).length, 'entries')

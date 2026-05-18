@@ -78,7 +78,12 @@ const s75 = JSON.parse(fs.readFileSync('src/data/supplement75.json','utf8'));
 const s76 = JSON.parse(fs.readFileSync('src/data/supplement76.json','utf8'));
 const s77 = JSON.parse(fs.readFileSync('src/data/supplement77.json','utf8'));
 const s78 = JSON.parse(fs.readFileSync('src/data/supplement78.json','utf8'));
-const SPECS = Object.assign({}, holden.specs, ford.specs, s1.specs, s2.specs, s3.specs, s4.specs, s5.specs, s6.specs, s7.specs, s8.specs, s9.specs, s10.specs, s11.specs, s12.specs, s13.specs, s14.specs, s15.specs, s16.specs, s17.specs, s18.specs, s19.specs, s20.specs, s21.specs, s22.specs, s23.specs, s24.specs, s25.specs, s26.specs, s27.specs, s28.specs, s29.specs, s30.specs, s31.specs, s32.specs, s33.specs, s36.specs, s37.specs, s38.specs, s39.specs, s40.specs, s41.specs, s42.specs, s43.specs, s44.specs, s45.specs, s46.specs, s47.specs, s48.specs, s49.specs, s50.specs, s51.specs, s52.specs, s53.specs, s54.specs, s55.specs, s56.specs, s57.specs, s58.specs, s59.specs, s60.specs, s61.specs, s62.specs, s63.specs, s64.specs, s65.specs, s66.specs, s67.specs, s68.specs, s69.specs, s70.specs, s71.specs, s72.specs, s73.specs, s74.specs, s75.specs, s76.specs, s77.specs, s78.specs);
+const s79 = JSON.parse(fs.readFileSync('src/data/supplement79.json','utf8'));
+const s80 = JSON.parse(fs.readFileSync('src/data/supplement80.json','utf8'));
+const s81 = JSON.parse(fs.readFileSync('src/data/supplement81.json','utf8'));
+const s82 = JSON.parse(fs.readFileSync('src/data/supplement82.json','utf8'));
+const s83 = JSON.parse(fs.readFileSync('src/data/supplement83.json','utf8'));
+const SPECS = Object.assign({}, holden.specs, ford.specs, s1.specs, s2.specs, s3.specs, s4.specs, s5.specs, s6.specs, s7.specs, s8.specs, s9.specs, s10.specs, s11.specs, s12.specs, s13.specs, s14.specs, s15.specs, s16.specs, s17.specs, s18.specs, s19.specs, s20.specs, s21.specs, s22.specs, s23.specs, s24.specs, s25.specs, s26.specs, s27.specs, s28.specs, s29.specs, s30.specs, s31.specs, s32.specs, s33.specs, s36.specs, s37.specs, s38.specs, s39.specs, s40.specs, s41.specs, s42.specs, s43.specs, s44.specs, s45.specs, s46.specs, s47.specs, s48.specs, s49.specs, s50.specs, s51.specs, s52.specs, s53.specs, s54.specs, s55.specs, s56.specs, s57.specs, s58.specs, s59.specs, s60.specs, s61.specs, s62.specs, s63.specs, s64.specs, s65.specs, s66.specs, s67.specs, s68.specs, s69.specs, s70.specs, s71.specs, s72.specs, s73.specs, s74.specs, s75.specs, s76.specs, s77.specs, s78.specs, s79.specs, s80.specs, s81.specs, s82.specs, s83.specs);
 
 function lookup(make, model, year, trim) {
   const yr = parseInt(year);

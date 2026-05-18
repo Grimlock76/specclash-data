@@ -77,6 +77,11 @@ import supplement75 from './supplement75.json'
 import supplement76 from './supplement76.json'
 import supplement77 from './supplement77.json'
 import supplement78 from './supplement78.json'
+import supplement79 from './supplement79.json'
+import supplement80 from './supplement80.json'
+import supplement81 from './supplement81.json'
+import supplement82 from './supplement82.json'
+import supplement83 from './supplement83.json'
 
 export const MAKES = makesData
 
@@ -142,7 +147,12 @@ export const MAKES = makesData
 // supplement76: Ferrari + Lamborghini
 // supplement77: Maserati + Pontiac
 // supplement78: Chrysler (incl. Valiant AU) + Citroën
-export const SPECS = Object.assign({}, supplement1.specs, supplement2.specs, supplement3.specs, supplement4.specs, supplement5.specs, supplement6.specs, supplement7.specs, supplement8.specs, holden.specs, ford.specs, supplement9.specs, supplement10.specs, supplement11.specs, supplement12.specs, supplement13.specs, supplement14.specs, supplement15.specs, supplement16.specs, supplement17.specs, supplement18.specs, supplement19.specs, supplement20.specs, supplement21.specs, supplement22.specs, supplement23.specs, supplement24.specs, supplement25.specs, supplement26.specs, supplement27.specs, supplement28.specs, supplement29.specs, supplement30.specs, supplement31.specs, supplement32.specs, supplement33.specs, supplement36.specs, supplement37.specs, supplement38.specs, supplement39.specs, supplement40.specs, supplement41.specs, supplement42.specs, supplement43.specs, supplement44.specs, supplement45.specs, supplement46.specs, supplement47.specs, supplement48.specs, supplement49.specs, supplement50.specs, supplement51.specs, supplement52.specs, supplement53.specs, supplement54.specs, supplement55.specs, supplement56.specs, supplement57.specs, supplement58.specs, supplement59.specs, supplement60.specs, supplement61.specs, supplement62.specs, supplement63.specs, supplement64.specs, supplement65.specs, supplement66.specs, supplement67.specs, supplement68.specs, supplement69.specs, supplement70.specs, supplement71.specs, supplement72.specs, supplement73.specs, supplement74.specs, supplement75.specs, supplement76.specs, supplement77.specs, supplement78.specs)
+// supplement79: Chevrolet classics — Bel Air, Corvair, Chevelle, Nova, El Camino
+// supplement80: Chevrolet — Monte Carlo, Caprice, Corvette C1-C4, Camaro Gen1-Gen4 + 2024
+// supplement81: Chevrolet — Impala, Malibu, S-10, Blazer K5
+// supplement82: Chevrolet — Silverado, Colorado, Tahoe, Suburban, Avalanche, Trailblazer, Blazer modern, Equinox, Traverse, Cruze, Sonic, Spark, Trax, Volt, Bolt EV
+// supplement83: Chevrolet gap-fills — Avalanche, Camaro, Caprice, Chevelle, Colorado, Corvette, Cruze, El Camino, Equinox, Impala, Malibu, Monte Carlo, S-10, Silverado, Sonic, Spark, Suburban, Tahoe, Trailblazer, Traverse, Trax (204 entries)
+export const SPECS = Object.assign({}, supplement1.specs, supplement2.specs, supplement3.specs, supplement4.specs, supplement5.specs, supplement6.specs, supplement7.specs, supplement8.specs, holden.specs, ford.specs, supplement9.specs, supplement10.specs, supplement11.specs, supplement12.specs, supplement13.specs, supplement14.specs, supplement15.specs, supplement16.specs, supplement17.specs, supplement18.specs, supplement19.specs, supplement20.specs, supplement21.specs, supplement22.specs, supplement23.specs, supplement24.specs, supplement25.specs, supplement26.specs, supplement27.specs, supplement28.specs, supplement29.specs, supplement30.specs, supplement31.specs, supplement32.specs, supplement33.specs, supplement36.specs, supplement37.specs, supplement38.specs, supplement39.specs, supplement40.specs, supplement41.specs, supplement42.specs, supplement43.specs, supplement44.specs, supplement45.specs, supplement46.specs, supplement47.specs, supplement48.specs, supplement49.specs, supplement50.specs, supplement51.specs, supplement52.specs, supplement53.specs, supplement54.specs, supplement55.specs, supplement56.specs, supplement57.specs, supplement58.specs, supplement59.specs, supplement60.specs, supplement61.specs, supplement62.specs, supplement63.specs, supplement64.specs, supplement65.specs, supplement66.specs, supplement67.specs, supplement68.specs, supplement69.specs, supplement70.specs, supplement71.specs, supplement72.specs, supplement73.specs, supplement74.specs, supplement75.specs, supplement76.specs, supplement77.specs, supplement78.specs, supplement79.specs, supplement80.specs, supplement81.specs, supplement82.specs, supplement83.specs)
 
 // Models in new-format supplements that are RWD but don't advertise it in the engine string
 const KNOWN_RWD = {
