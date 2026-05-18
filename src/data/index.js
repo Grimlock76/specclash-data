@@ -210,7 +210,7 @@ function normalizeSpec(spec, make = '', model = '', trim = '') {
 // AU collectible performance cars hold value well above standard depreciation curves
 const COLLECTIBLE_FACTOR = { HSV: 1.6 }
 
-function estimateCurrentPrice(prStr, year, make = '', trim = '') {
+function estimateCurrentPrice(prStr, year, make = '', model = '', trim = '') {
   if (!prStr || prStr === '—') return null
   const base = parseFloat(prStr.replace(/[^0-9]/g, ''))
   if (!base || base < 1000) return null
@@ -226,7 +226,8 @@ function estimateCurrentPrice(prStr, year, make = '', trim = '') {
   else if (age <= 20) factor = 0.33
   else factor = 0.21
   let collectible = COLLECTIBLE_FACTOR[make] || 1.0
-  if (make === 'Holden' && /\bss\b/i.test(trim)) collectible = 1.5
+  if (make === 'Holden' && /\bss\b/i.test(trim))
+    collectible = model === 'Commodore Ute' ? 2.1 : 1.5
   const mid = base * factor * collectible
   const round = v => v < 20000 ? Math.round(v / 500) * 500 : Math.round(v / 1000) * 1000
   const lo = round(mid * 0.84)
@@ -241,7 +242,7 @@ export function lookup(make, model, year, trim) {
   const withPC = spec => {
     if (!spec || yr >= 2024) return spec
     if (spec.pc) return spec
-    const pc = estimateCurrentPrice(spec.pr, year, make, trim)
+    const pc = estimateCurrentPrice(spec.pr, year, make, model, trim)
     return pc ? { ...spec, pc } : spec
   }
   const exact = `${make}|${model}|${year}|${trim}`
