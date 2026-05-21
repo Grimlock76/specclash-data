@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { MAKES, lookup } from '../data/index.js'
+import { MAKES, lookup, preloadMake } from '../data/index.js'
 import { BODY_TYPES, getBodyType } from '../utils/bodyType.js'
 import TrimBadge from './TrimBadge.jsx'
 import SearchSelect from './SearchSelect.jsx'
@@ -19,6 +19,7 @@ export default function Slot({ index, initial, onResult, onClear }) {
   const [trim, setTrim]         = useState(initial?.trim || '')
   const [err, setErr]           = useState('')
   const [ok, setOk]             = useState(false)
+  const [loading, setLoading]   = useState(false)
 
   const makes  = Object.keys(MAKES).sort()
   const models = make
@@ -44,12 +45,14 @@ export default function Slot({ index, initial, onResult, onClear }) {
 
   useEffect(() => {
     if (!initial?.make || !initial?.model || !initial?.year || !initial?.trim) return
-    const specs = lookup(initial.make, initial.model, initial.year, initial.trim)
-    if (specs) {
+    let cancelled = false
+    lookup(initial.make, initial.model, initial.year, initial.trim).then(specs => {
+      if (cancelled || !specs) return
       setOk(true)
       const label = `${initial.year} ${initial.make} ${initial.model}${initial.trim ? ' ' + initial.trim : ''}`
       onResult(index, { make: initial.make, model: initial.model, year: initial.year, trim: initial.trim, label, specs })
-    }
+    })
+    return () => { cancelled = true }
   }, [])
 
   const clear = () => {
@@ -57,15 +60,20 @@ export default function Slot({ index, initial, onResult, onClear }) {
     setErr(''); setOk(false); onClear(index)
   }
 
-  const load = () => {
+  const load = async () => {
     setErr('')
-    const label = `${year} ${make} ${model}${trim ? ' ' + trim : ''}`
-    const specs = lookup(make, model, year, trim)
-    if (specs) {
-      setOk(true)
-      onResult(index, { make, model, year, trim, label, specs })
-    } else {
-      setErr('Specs not found. Try a nearby year or different trim.')
+    setLoading(true)
+    try {
+      const label = `${year} ${make} ${model}${trim ? ' ' + trim : ''}`
+      const specs = await lookup(make, model, year, trim)
+      if (specs) {
+        setOk(true)
+        onResult(index, { make, model, year, trim, label, specs })
+      } else {
+        setErr('Specs not found. Try a nearby year or different trim.')
+      }
+    } finally {
+      setLoading(false)
     }
   }
 
@@ -96,7 +104,7 @@ export default function Slot({ index, initial, onResult, onClear }) {
         value={make}
         placeholder="— Make —"
         loadedColor={ok ? color : null}
-        onChange={v => { setMake(v); setModel(''); setYear(''); setTrim(''); setErr(''); setOk(false); onClear(index) }}
+        onChange={v => { setMake(v); setModel(''); setYear(''); setTrim(''); setErr(''); setOk(false); onClear(index); preloadMake(v) }}
       />
 
       <select value={bodyType} onChange={e => { setBodyType(e.target.value); setModel(''); setYear(''); setTrim(''); setErr(''); setOk(false); onClear(index) }} style={sel}>
@@ -123,14 +131,14 @@ export default function Slot({ index, initial, onResult, onClear }) {
       </select>
 
       <div style={{ display: 'flex', gap: 7, marginTop: 4 }}>
-        <button onClick={load} disabled={!model || !year || !trim} style={{
-          flex: 1, background: (!model || !year || !trim) ? '#111' : color,
-          color: (!model || !year || !trim) ? '#2a2a2a' : '#000',
+        <button onClick={load} disabled={!model || !year || !trim || loading} style={{
+          flex: 1, background: (!model || !year || !trim || loading) ? '#111' : color,
+          color: (!model || !year || !trim || loading) ? '#2a2a2a' : '#000',
           border: 'none', borderRadius: 7, padding: '10px 0',
           fontSize: 14, fontWeight: 700, letterSpacing: 1.5, textTransform: 'uppercase',
-          cursor: (!model || !year || !trim) ? 'default' : 'pointer',
+          cursor: (!model || !year || !trim || loading) ? 'default' : 'pointer',
           transition: 'background 0.15s'
-        }}>LOAD</button>
+        }}>{loading ? '...' : 'LOAD'}</button>
         <button onClick={clear} style={{
           background: '#111', color: '#333', border: '1px solid #1a1a1a',
           borderRadius: 7, padding: '10px 11px', fontSize: 15, cursor: 'pointer'

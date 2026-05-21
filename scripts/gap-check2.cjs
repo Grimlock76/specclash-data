@@ -93,7 +93,20 @@ const s90 = JSON.parse(fs.readFileSync('src/data/supplement90.json','utf8'));
 const s91 = JSON.parse(fs.readFileSync('src/data/supplement91.json','utf8'));
 const s92 = JSON.parse(fs.readFileSync('src/data/supplement92.json','utf8'));
 const s93 = JSON.parse(fs.readFileSync('src/data/supplement93.json','utf8'));
-const SPECS = Object.assign({}, holden.specs, ford.specs, s1.specs, s2.specs, s3.specs, s4.specs, s5.specs, s6.specs, s7.specs, s8.specs, s9.specs, s10.specs, s11.specs, s12.specs, s13.specs, s14.specs, s15.specs, s16.specs, s17.specs, s18.specs, s19.specs, s20.specs, s21.specs, s22.specs, s23.specs, s24.specs, s25.specs, s26.specs, s27.specs, s28.specs, s29.specs, s30.specs, s31.specs, s32.specs, s33.specs, s36.specs, s37.specs, s38.specs, s39.specs, s40.specs, s41.specs, s42.specs, s43.specs, s44.specs, s45.specs, s46.specs, s47.specs, s48.specs, s49.specs, s50.specs, s51.specs, s52.specs, s53.specs, s54.specs, s55.specs, s56.specs, s57.specs, s58.specs, s59.specs, s60.specs, s61.specs, s62.specs, s63.specs, s64.specs, s65.specs, s66.specs, s67.specs, s68.specs, s69.specs, s70.specs, s71.specs, s72.specs, s73.specs, s74.specs, s75.specs, s76.specs, s77.specs, s78.specs, s79.specs, s80.specs, s81.specs, s82.specs, s83.specs, s84.specs, s85.specs, s86.specs, s87.specs, s88.specs, s89.specs, s90.specs, s91.specs, s92.specs, s93.specs);
+const s94 = JSON.parse(fs.readFileSync('src/data/supplement94.json','utf8'));
+const s95 = JSON.parse(fs.readFileSync('src/data/supplement95.json','utf8'));
+const s96 = JSON.parse(fs.readFileSync('src/data/supplement96.json','utf8'));
+const s97 = JSON.parse(fs.readFileSync('src/data/supplement97.json','utf8'));
+const s98 = JSON.parse(fs.readFileSync('src/data/supplement98.json','utf8'));
+const s99 = JSON.parse(fs.readFileSync('src/data/supplement99.json','utf8'));
+const s100 = JSON.parse(fs.readFileSync('src/data/supplement100.json','utf8'));
+const s101 = JSON.parse(fs.readFileSync('src/data/supplement101.json','utf8'));
+const s102 = JSON.parse(fs.readFileSync('src/data/supplement102.json','utf8'));
+const s103 = JSON.parse(fs.readFileSync('src/data/supplement103.json','utf8'));
+const s104 = JSON.parse(fs.readFileSync('src/data/supplement104.json','utf8'));
+const s105 = JSON.parse(fs.readFileSync('src/data/supplement105.json','utf8'));
+const s106 = JSON.parse(fs.readFileSync('src/data/supplement106.json','utf8'));
+const SPECS = Object.assign({}, holden.specs, ford.specs, s1.specs, s2.specs, s3.specs, s4.specs, s5.specs, s6.specs, s7.specs, s8.specs, s9.specs, s10.specs, s11.specs, s12.specs, s13.specs, s14.specs, s15.specs, s16.specs, s17.specs, s18.specs, s19.specs, s20.specs, s21.specs, s22.specs, s23.specs, s24.specs, s25.specs, s26.specs, s27.specs, s28.specs, s29.specs, s30.specs, s31.specs, s32.specs, s33.specs, s36.specs, s37.specs, s38.specs, s39.specs, s40.specs, s41.specs, s42.specs, s43.specs, s44.specs, s45.specs, s46.specs, s47.specs, s48.specs, s49.specs, s50.specs, s51.specs, s52.specs, s53.specs, s54.specs, s55.specs, s56.specs, s57.specs, s58.specs, s59.specs, s60.specs, s61.specs, s62.specs, s63.specs, s64.specs, s65.specs, s66.specs, s67.specs, s68.specs, s69.specs, s70.specs, s71.specs, s72.specs, s73.specs, s74.specs, s75.specs, s76.specs, s77.specs, s78.specs, s79.specs, s80.specs, s81.specs, s82.specs, s83.specs, s84.specs, s85.specs, s86.specs, s87.specs, s88.specs, s89.specs, s90.specs, s91.specs, s92.specs, s93.specs, s94.specs, s95.specs, s96.specs, s97.specs, s98.specs, s99.specs, s100.specs, s101.specs, s102.specs, s103.specs, s104.specs, s105.specs, s106.specs);
 
 function lookup(make, model, year, trim) {
   const yr = parseInt(year);

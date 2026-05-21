@@ -1,178 +1,165 @@
 import makesData from './makes.json'
 import holden from './holden.json'
 import ford from './ford.json'
-import supplement1 from './supplement1.json'
-import supplement2 from './supplement2.json'
-import supplement3 from './supplement3.json'
-import supplement4 from './supplement4.json'
-import supplement5 from './supplement5.json'
-import supplement6 from './supplement6.json'
-import supplement7 from './supplement7.json'
-import supplement8 from './supplement8.json'
-import supplement9 from './supplement9.json'
-import supplement10 from './supplement10.json'
-import supplement11 from './supplement11.json'
-import supplement12 from './supplement12.json'
-import supplement13 from './supplement13.json'
-import supplement14 from './supplement14.json'
-import supplement15 from './supplement15.json'
-import supplement16 from './supplement16.json'
-import supplement17 from './supplement17.json'
-import supplement18 from './supplement18.json'
-import supplement19 from './supplement19.json'
-import supplement20 from './supplement20.json'
-import supplement21 from './supplement21.json'
-import supplement22 from './supplement22.json'
-import supplement23 from './supplement23.json'
-import supplement24 from './supplement24.json'
-import supplement25 from './supplement25.json'
-import supplement26 from './supplement26.json'
-import supplement27 from './supplement27.json'
-import supplement28 from './supplement28.json'
-import supplement29 from './supplement29.json'
-import supplement30 from './supplement30.json'
-import supplement31 from './supplement31.json'
-import supplement32 from './supplement32.json'
-import supplement33 from './supplement33.json'
-import supplement36 from './supplement36.json'
-import supplement37 from './supplement37.json'
-import supplement38 from './supplement38.json'
-import supplement39 from './supplement39.json'
-import supplement40 from './supplement40.json'
-import supplement41 from './supplement41.json'
-import supplement42 from './supplement42.json'
-import supplement43 from './supplement43.json'
-import supplement44 from './supplement44.json'
-import supplement45 from './supplement45.json'
-import supplement46 from './supplement46.json'
-import supplement47 from './supplement47.json'
-import supplement48 from './supplement48.json'
-import supplement49 from './supplement49.json'
-import supplement50 from './supplement50.json'
-import supplement51 from './supplement51.json'
-import supplement52 from './supplement52.json'
-import supplement53 from './supplement53.json'
-import supplement54 from './supplement54.json'
-import supplement55 from './supplement55.json'
-import supplement56 from './supplement56.json'
-import supplement57 from './supplement57.json'
-import supplement58 from './supplement58.json'
-import supplement59 from './supplement59.json'
-import supplement60 from './supplement60.json'
-import supplement61 from './supplement61.json'
-import supplement62 from './supplement62.json'
-import supplement63 from './supplement63.json'
-import supplement64 from './supplement64.json'
-import supplement65 from './supplement65.json'
-import supplement66 from './supplement66.json'
-import supplement67 from './supplement67.json'
-import supplement68 from './supplement68.json'
-import supplement69 from './supplement69.json'
-import supplement70 from './supplement70.json'
-import supplement71 from './supplement71.json'
-import supplement72 from './supplement72.json'
-import supplement73 from './supplement73.json'
-import supplement74 from './supplement74.json'
-import supplement75 from './supplement75.json'
-import supplement76 from './supplement76.json'
-import supplement77 from './supplement77.json'
-import supplement78 from './supplement78.json'
-import supplement79 from './supplement79.json'
-import supplement80 from './supplement80.json'
-import supplement81 from './supplement81.json'
-import supplement82 from './supplement82.json'
-import supplement83 from './supplement83.json'
-import supplement84 from './supplement84.json'
-import supplement85 from './supplement85.json'
-import supplement86 from './supplement86.json'
-import supplement87 from './supplement87.json'
-import supplement88 from './supplement88.json'
-import supplement89 from './supplement89.json'
-import supplement90 from './supplement90.json'
-import supplement91 from './supplement91.json'
-import supplement92 from './supplement92.json'
-import supplement93 from './supplement93.json'
+import s1 from './supplement1.json'
+import s2 from './supplement2.json'
+import s3 from './supplement3.json'
+import s4 from './supplement4.json'
+import s5 from './supplement5.json'
+import s6 from './supplement6.json'
+import s7 from './supplement7.json'
+import s8 from './supplement8.json'
+import s9 from './supplement9.json'
 
 export const MAKES = makesData
 
-// supplements 1-8 fill gaps; holden/ford are authoritative; supplement9 corrects errors in source data
-// supplement20 overrides confirmed spec errors across supplements 10-19
-// supplements 21-24: Mazda (classic + modern) and Nissan (classic + utility/SUV)
-// supplement25: Mitsubishi classics (Sigma, Galant, Lancer, Starion, 3000GT, Colt)
-// supplement26: Mitsubishi AU-market (Pajero, Magna, Verada, Triton, Outlander, ASX, Eclipse Cross, Mirage, L300/Express)
-// supplement27: Mitsubishi global (Eclipse, FTO, GTO, Diamante, Delica, Space Star, i-MiEV, RVR, Carisma, Challenger)
-// supplement28: 2024-2026 extensions (all active makes) + Nissan 400Z
-// supplement29: Toyota missing models (Prius all gens, Prius C, Prius V, BZ4X, Crown crossover, Granvia)
-// supplement30: Nissan missing models (Silvia S12-S15, 200SX, 180SX, 240Z, 280ZX, Stagea, Leaf, Kicks, Ariya, Juke F16)
-// supplement31: Mitsubishi missing models (Pajero Sport, Lancer Ralliart/Sportback, Colt Z30, Grandis)
-// supplement32: Hyundai (Excel, Getz, Accent, i20, i30, i30 N, Elantra, Sonata, i45, i40, Veloster, Coupe, Genesis Coupe, Terracan, ix35, Tucson, Santa Fe, Kona, Ioniq, Ioniq 5, Ioniq 6, Palisade, Staria)
-// supplement33: Kia (Sportage, Sorento, Rio, Cerato, Carnival, Stinger, EV6, Seltos, Niro, Picanto, Soul, Optima, Telluride)
-// supplement36: Volkswagen (Golf Mk4-8, Polo, Passat, Tiguan, Touareg, Amarok, T-Roc, Multivan, Beetle, Jetta, Scirocco, Arteon, ID.4)
-// supplement37: BMW (1/2/3/5/7 Series, X1/X3/X5, Z4)
-// supplement38: Mercedes-Benz
-// supplement39: BMW missing models (4 Series, M2, M4, X2, X4, X6, X7, i3, i4, iX, iX3)
-// supplement40: Volkswagen missing models (ID.3, ID.5)
-// supplement41: All hybrid/PHEV models (Toyota Camry/Corolla/RAV4/Kluger, Mazda CX-60/CX-90/MX-30 R-EV,
-//               Nissan Qashqai/X-Trail e-Power, Hyundai Tucson/Santa Fe/Sonata/Kona Hybrid,
-//               Kia Sportage/Sorento Hybrid/PHEV, VW Golf GTE/Passat GTE, BMW 330e/530e/X5 45e)
-// supplement42: Subaru (Impreza, WRX, Liberty, Forester, Outback, XV, Levorg, BRZ, Solterra, Tribeca)
-// supplement43: Honda (Civic, Accord, CR-V, HR-V, Jazz, NSX, S2000, Integra, Prelude, Odyssey, Legend, ZR-V, e:Ny1)
-// supplement44: Lexus (IS, ES, GS, LS, UX, NX, RX, GX, LX, LC, RC, CT, RZ)
-// supplement45: Audi (A3/S3/RS3, A4/S4/RS4, A6/S6/RS6, TT/TTS/TT RS, R8, Q3/RS Q3, Q5/SQ5, Q7/SQ7, e-tron, Q8 e-tron/SQ8)
-// supplement46: Porsche (911, 718/Boxster, Cayenne, Macan, Panamera, Taycan)
-// supplement47: Audi additions (A1, A5/S5/RS5, A7/S7/RS7, A8/S8, Q2, e-tron GT/RS e-tron GT, RS Q8)
-// supplement48: Mercedes-Benz additions (S-Class, B-Class, CLS, SLK/SLC, SL, G-Class, AMG GT, GLB, EQA/EQB/EQC/EQE/EQS, AMG performance)
-// supplement49: gap-fills — Subaru Impreza (2014-2026 4th/5th gen), BMW 7 Series (2023-2026 G70), Mercedes-Benz E-Class (2024-2026 W214), Mercedes-Benz B-Class (2023-2024)
-// supplement50: Audi completions — Q8 (petrol 2019-2026), Q4 e-tron (2022-2026), year gap-fills for A3/A4/A5/A6/A7/A8/Q3/Q5/Q7, S3 weight corrections
-// supplement51: Audi additions — Q3 Sportback, Q5 Sportback, Q6 e-tron, S1, A4 allroad, A6 allroad, classics (80, 90, 100, Coupe, Quattro, Cabriolet, S2, RS2 Avant, A2, V8)
-// supplement52: BMW additions — 6 Series, 8 Series, Z3, i5, i7, 2 Series Active Tourer
-// supplement53: Audi S/RS standalone models — S3, RS3, S4, RS4, S5, RS5, S6, RS6, S7, RS7, S8, RS Q3, SQ5, SQ7, SQ8, RS Q8
-// supplement54: Suzuki (Swift, Jimny, Vitara, Grand Vitara, Baleno, S-Cross, Ignis)
-// supplement55: Land Rover (Defender, Discovery, Discovery Sport, Range Rover, Range Rover Sport, Range Rover Evoque, Range Rover Velar, Freelander)
-// supplement56: Volvo (S60, S90, V40, V60, V90, XC40, XC60, XC90, C40 Recharge, EX30, EX90)
-// supplement57: Tesla (Model 3, Model Y, Model S, Model X, Cybertruck)
-// supplement58: Isuzu (D-MAX, MU-X)
-// supplement59: MG (MG3, MG6, ZS, ZS EV, MG HS, MG4, Cyberster)
-// supplement60: GWM (Haval H2, H6, H9, Jolion, GWM Ute, Tank 300, Tank 500)
-// supplement61: BYD (Atto 3, Seal, Dolphin, Shark, Sealion 6, Sealion 7)
-// supplement62: Genesis (G70, G80, G90, GV70, GV80)
-// supplement63: gap-fills — Kia EV9, Hyundai Ioniq 5 N, Honda CR-V e:HEV, VW ID.7, Mercedes EQE/EQS SUV
-// supplement64: Jeep (Wrangler, Grand Cherokee, Cherokee, Compass, Renegade, Gladiator)
-// supplement65: RAM (1500 Classic, 1500, 1500 TRX, 2500)
-// supplement66: Alfa Romeo (Giulia, Stelvio, Tonale)
-// supplement67: Jaguar (F-Pace, F-Type, E-Pace, I-Pace, XE, XF)
-// supplement68: CUPRA (Formentor, Born) + Polestar (Polestar 2, 3, 4)
-// supplement69: Skoda (Octavia, Superb, Karoq, Kodiaq, Enyaq, Fabia)
-// supplement70: LDV (T60, MIFA 9) + Chery (Omoda 5, Tiggo 7/8 Pro) + Renault (Clio, Megane E-Tech, Koleos, Arkana)
-// supplement71: Global non-AU market cars — Toyota Supra A80 JDM (1999-2002), Nissan 350Z (2003-2009),
-//               Dodge Challenger/Charger/Viper, Chevrolet Corvette (C5-C8)/Camaro (Gen5-Gen6) + Lancia/Datsun base specs
-// supplement72: Lancia — full model coverage (Delta, Stratos, Beta, Aprilia, Ardea, Aurelia, Appia, Flaminia, Flavia,
-//               Fulvia, Beta Montecarlo, Gamma, Rally 037, Prisma, Thema, Y10, Dedra, Kappa, Zeta, Ypsilon, Lybra,
-//               Thesis, Phedra, Musa, Delta II, Flavia II, Voyager, New Ypsilon, Trevi + pre-war alphabet series)
-// supplement73: Datsun — full model coverage (510, 1000, 1200, Fairladies, Z-cars, 120Y, 180B, 200B, 280ZX,
-//               Skyline, Laurel, Patrol, Cedric, Cherry, Silvia, 910/410 Bluebird, 620/720 Ute, Go/Go+/Redi-GO,
-//               on-DO, mi-DO, Bluebird 310, Silvia CSP311, F10, Sunny)
-// supplement74: Fiat + Peugeot
-// supplement75: Daihatsu + Saab
-// supplement76: Ferrari + Lamborghini
-// supplement77: Maserati + Pontiac
-// supplement78: Chrysler (incl. Valiant AU) + Citroën
-// supplement79: Chevrolet classics — Bel Air, Corvair, Chevelle, Nova, El Camino
-// supplement80: Chevrolet — Monte Carlo, Caprice, Corvette C1-C4, Camaro Gen1-Gen4 + 2024
-// supplement81: Chevrolet — Impala, Malibu, S-10, Blazer K5
-// supplement82: Chevrolet — Silverado, Colorado, Tahoe, Suburban, Avalanche, Trailblazer, Blazer modern, Equinox, Traverse, Cruze, Sonic, Spark, Trax, Volt, Bolt EV
-// supplement83: Chevrolet gap-fills — Avalanche, Camaro, Caprice, Chevelle, Colorado, Corvette, Cruze, El Camino, Equinox, Impala, Malibu, Monte Carlo, S-10, Silverado, Sonic, Spark, Suburban, Tahoe, Trailblazer, Traverse, Trax (204 entries)
-// supplement84: Rolls-Royce — Silver Cloud, Silver Shadow, Corniche, Camargue, Silver Spirit/Spur, Silver Seraph, Phantom, Ghost, Wraith, Dawn, Cullinan (320 entries)
-// supplement85: Bentley — T-Series, Mulsanne, Eight, Turbo R, Continental R, Azure, Arnage, Continental GT/GTC/Flying Spur (all gens), Bentayga (294 entries)
-// supplement86: Aston Martin — DB4–DB12, Vantage (all gens), Vanquish, DBS, Rapide, DBX (243 entries)
-// supplement87: McLaren — F1, MP4-12C, P1, 650S, 675LT, 540C, 570S, 720S, Senna, GT, 765LT, Artura, 750S (103 entries)
-// supplement88: Lotus — Esprit (S1–V8), Elise, Exige, Evora, Emira, Eletre, Emeya (244 entries)
-// supplement89: Mini — Classic BMC (1959–2000), R50/R53, R56, F56/F57/F54/F60, Mini Electric, F66 (478 entries)
-// supplement90: SsangYong — Musso, Korando, Rexton, Tivoli, Actyon + Infiniti G35/G37/Q50/Q60/QX50/QX60/QX70/QX80 (330 entries)
-// supplement91: Triumph — TR2–TR8, Spitfire, GT6, Stag, Herald, Vitesse, 2000/2500, Dolomite, Acclaim (200 entries)
-// supplement92: Austin-Healey — 100/4, 100 Six, 3000 MkI–III, Sprite + Rover P5/P5B/P6/SD1/800/400-45/75 (322 entries)
-// supplement93: Oldsmobile (88, Delta 88, 98, 442, Cutlass, Toronado, Aurora) + AMC (Rambler–Eagle) + Lincoln (Continental–Aviator) (970 entries)
-export const SPECS = Object.assign({}, supplement1.specs, supplement2.specs, supplement3.specs, supplement4.specs, supplement5.specs, supplement6.specs, supplement7.specs, supplement8.specs, holden.specs, ford.specs, supplement9.specs, supplement10.specs, supplement11.specs, supplement12.specs, supplement13.specs, supplement14.specs, supplement15.specs, supplement16.specs, supplement17.specs, supplement18.specs, supplement19.specs, supplement20.specs, supplement21.specs, supplement22.specs, supplement23.specs, supplement24.specs, supplement25.specs, supplement26.specs, supplement27.specs, supplement28.specs, supplement29.specs, supplement30.specs, supplement31.specs, supplement32.specs, supplement33.specs, supplement36.specs, supplement37.specs, supplement38.specs, supplement39.specs, supplement40.specs, supplement41.specs, supplement42.specs, supplement43.specs, supplement44.specs, supplement45.specs, supplement46.specs, supplement47.specs, supplement48.specs, supplement49.specs, supplement50.specs, supplement51.specs, supplement52.specs, supplement53.specs, supplement54.specs, supplement55.specs, supplement56.specs, supplement57.specs, supplement58.specs, supplement59.specs, supplement60.specs, supplement61.specs, supplement62.specs, supplement63.specs, supplement64.specs, supplement65.specs, supplement66.specs, supplement67.specs, supplement68.specs, supplement69.specs, supplement70.specs, supplement71.specs, supplement72.specs, supplement73.specs, supplement74.specs, supplement75.specs, supplement76.specs, supplement77.specs, supplement78.specs, supplement79.specs, supplement80.specs, supplement81.specs, supplement82.specs, supplement83.specs, supplement84.specs, supplement85.specs, supplement86.specs, supplement87.specs, supplement88.specs, supplement89.specs, supplement90.specs, supplement91.specs, supplement92.specs, supplement93.specs)
+// Core specs always in memory at startup (Holden, Ford, HSV, FPV base data ~858 KB)
+const cache = Object.assign({},
+  s1.specs, s2.specs, s3.specs, s4.specs, s5.specs,
+  s6.specs, s7.specs, s8.specs,
+  holden.specs, ford.specs,
+  s9.specs
+)
+
+// Lazy loaders for supplement10-106 (Vite code-splits these into separate chunks)
+const SUPP_LOADERS = import.meta.glob('./supplement*.json')
+const loadedNums = new Set()
+
+// supplements needed per make (supplements 1-9 / holden / ford are in the core above)
+const MAKE_SUPPS = {
+  'Ford':          [28],
+  'Toyota':        [10,11,12,13,14,15,16,17,18,19,20,28,29,41,71],
+  'Mazda':         [21,22,28,41],
+  'Nissan':        [23,24,28,30,41,71],
+  'Mitsubishi':    [20,25,26,27,28,31],
+  'Hyundai':       [32,41,63],
+  'Kia':           [33,41,63],
+  'Volkswagen':    [36,40,41,63],
+  'BMW':           [37,39,41,49,52],
+  'Mercedes-Benz': [38,48,49,63],
+  'Subaru':        [42,49],
+  'Honda':         [43,63],
+  'Lexus':         [44],
+  'Audi':          [45,47,50,51,53],
+  'Porsche':       [46],
+  'Suzuki':        [54],
+  'Land Rover':    [55],
+  'Volvo':         [56],
+  'Tesla':         [57],
+  'Isuzu':         [58],
+  'MG':            [59,104],
+  'GWM':           [60],
+  'BYD':           [61],
+  'Genesis':       [62],
+  'Jeep':          [64],
+  'RAM':           [65],
+  'Alfa Romeo':    [66],
+  'Jaguar':        [67],
+  'CUPRA':         [68],
+  'Polestar':      [68],
+  'Skoda':         [69],
+  'Chery':         [70],
+  'LDV':           [70],
+  'Renault':       [70],
+  'Chevrolet':     [71,79,80,81,82,83],
+  'Dodge':         [71],
+  'Lancia':        [71,72],
+  'Datsun':        [71,73],
+  'Fiat':          [74],
+  'Peugeot':       [74],
+  'Daihatsu':      [75],
+  'Saab':          [75],
+  'Ferrari':       [76],
+  'Lamborghini':   [76],
+  'Maserati':      [77],
+  'Pontiac':       [77],
+  'Chrysler':      [78],
+  'Citroën':       [78],
+  'Rolls-Royce':   [84],
+  'Bentley':       [85],
+  'Aston Martin':  [86],
+  'McLaren':       [87],
+  'Lotus':         [88],
+  'Mini':          [89],
+  'SsangYong':     [90],
+  'Infiniti':      [90],
+  'Triumph':       [91],
+  'Austin-Healey': [92],
+  'Rover':         [92],
+  'Oldsmobile':    [93],
+  'AMC':           [93],
+  'Lincoln':       [93],
+  'Cadillac':      [94],
+  'Buick':         [95],
+  'Mercury':       [95],
+  'Plymouth':      [96],
+  'De Soto':       [96],
+  'Studebaker':    [96],
+  'Hudson':        [97],
+  'Nash':          [97],
+  'Packard':       [97],
+  'Vauxhall':      [98],
+  'Morgan':        [98],
+  'De Tomaso':     [98],
+  'Alpine':        [98],
+  'Opel':          [99],
+  'SEAT':          [99],
+  'Bugatti':       [100],
+  'Pagani':        [100],
+  'Koenigsegg':    [100],
+  'TVR':           [101],
+  'Bristol':       [101],
+  'Jensen':        [101],
+  'AC':            [101],
+  'Alpina':        [102],
+  'Dacia':         [102],
+  'Smart':         [102],
+  'Austin':        [103],
+  'Hillman':       [103],
+  'Morris':        [103],
+  'Sunbeam':       [103],
+  'Abarth':        [104],
+  'DS':            [104],
+  'Wiesmann':      [104],
+  'Autobianchi':   [105],
+  'Caterham':      [105],
+  'DAF':           [105],
+  'Lada':          [105],
+  'Matra':         [105],
+  'NSU':           [105],
+  'Simca':         [105],
+  'Riley':         [106],
+  'Wolseley':      [106],
+  'Singer':        [106],
+  'Standard':      [106],
+  'Reliant':       [106],
+  'Panhard':       [106],
+  'Innocenti':     [106],
+  'Ginetta':       [106],
+  'Marcos':        [106],
+  'Facel Vega':    [106],
+}
+
+async function ensureSupp(n) {
+  if (loadedNums.has(n)) return
+  loadedNums.add(n)
+  const loader = SUPP_LOADERS[`./supplement${n}.json`]
+  if (!loader) return
+  const mod = await loader()
+  Object.assign(cache, mod.default.specs)
+}
+
+// Exported so Slot can fire-and-forget preloads on make selection
+export function preloadMake(make) {
+  const nums = MAKE_SUPPS[make]
+  if (nums) nums.forEach(n => ensureSupp(n))
+}
+
+async function primeCache(make) {
+  const nums = MAKE_SUPPS[make]
+  if (!nums) return
+  await Promise.all(nums.map(ensureSupp))
+}
 
 // Models in new-format supplements that are RWD but don't advertise it in the engine string
 const KNOWN_RWD = {
@@ -228,11 +215,49 @@ function normalizeSpec(spec, make = '', model = '', trim = '') {
 }
 
 // AU collectible performance cars hold value well above standard depreciation curves
-const COLLECTIBLE_FACTOR = { HSV: 1.6 }
+const COLLECTIBLE_FACTOR = {
+  HSV:           1.6,   // AU muscle, strong local demand
+  Ferrari:       1.45,  // minimal depreciation, many models appreciate
+  Lamborghini:   1.5,   // Huracan/Aventador hold extremely well
+  Bugatti:       2.2,   // pure investment, always appreciates
+  Pagani:        2.2,   // hand-built ultra-rarity, always appreciates
+  Koenigsegg:    2.2,   // same
+  McLaren:       1.15,  // F1/Senna appreciate; 720S/GT4 modest depreciation
+  'Aston Martin':1.15,  // DB11/Vantage moderate; classic DB5 etc off scale
+  'Rolls-Royce': 1.3,   // retains strongly esp. Phantom/Cullinan
+  Bentley:       1.2,   // Continental/Mulsanne hold well
+  Porsche:       1.25,  // 911 barely moves; 718/Macan some depreciation
+  Lotus:         1.15,  // Exige/Evija hold reasonably
+  Morgan:        1.2,   // hand-built, limited supply
+  Wiesmann:      1.3,   // ultra-rare, appreciating
+  Caterham:      1.2,   // track classics hold value
+  TVR:           1.3,   // cult following, limited supply
+}
+
+// Current AUD conversion rates (May 2026)
+const FX = { USD: 1.402, GBP: 1.863, EUR: 1.628, RUB: 0.0198, JPY: 0.0095, INR: 0.0145 }
+
+function parsePriceAUD(prStr) {
+  if (!prStr || prStr === '—' || prStr === '-' || prStr === 'N/A') return null
+  const s = String(prStr)
+  // Indian rupee lakh notation: ₹3.5L
+  const inrLakh = s.match(/₹\s*([\d.]+)\s*L/i)
+  if (inrLakh) return parseFloat(inrLakh[1]) * 100000 * FX.INR
+  let rate = 1
+  if (/£/.test(s)) rate = FX.GBP
+  else if (/€/.test(s)) rate = FX.EUR
+  else if (/₽/.test(s)) rate = FX.RUB
+  else if (/₹/.test(s)) rate = FX.INR
+  else if (/¥|Â¥/.test(s)) rate = FX.JPY
+  else if (/USD/i.test(s)) rate = FX.USD
+  const num = parseFloat(s.replace(/[^0-9.]/g, ''))
+  if (!num) return null
+  return num * rate
+}
 
 function estimateCurrentPrice(prStr, year, make = '', model = '', trim = '') {
   if (!prStr || prStr === '—') return null
-  const base = parseFloat(prStr.replace(/[^0-9]/g, ''))
+  const base = parsePriceAUD(prStr)
   if (!base || base < 1000) return null
   const age = 2026 - parseInt(year)
   if (age < 1 || age > 35) return null
@@ -243,11 +268,35 @@ function estimateCurrentPrice(prStr, year, make = '', model = '', trim = '') {
   else if (age <= 5) factor = 0.63
   else if (age <= 8) factor = 0.57
   else if (age <= 12) factor = 0.55
+  else if (age <= 14) factor = 0.45
   else if (age <= 20) factor = 0.33
   else factor = 0.21
   let collectible = COLLECTIBLE_FACTOR[make] || 1.0
-  if (make === 'Holden' && /\bss\b/i.test(trim))
-    collectible = model === 'Commodore Ute' ? 2.1 : 1.5
+  if (make === 'Holden' && /\bss\b/i.test(trim)) {
+    const yr2 = parseInt(year)
+    const isWagon = /sportwagon/i.test(trim)
+    if (model === 'Commodore Ute') {
+      collectible = 2.1                     // VE/VF SS utes — strong collector demand
+    } else if (yr2 >= 2016 && !isWagon) {
+      collectible = 1.65                    // final VF II sedans — last-of-line premium
+    } else if (yr2 === 2014) {
+      collectible = 1.25                    // early VF — modest premium
+    } else {
+      collectible = 1.5                     // VE era, 2013 VF, 2015+ wagons/sedans
+    }
+  }
+  // BMW M cars hold value far better than standard BMW (M2/M3/M4/M5/M8)
+  if (make === 'BMW' && /\bm[2345]|m8\b/i.test(model + ' ' + trim)) {
+    collectible = 1.45
+  }
+  // Porsche GT variants barely depreciate — GT3, GT3 RS, GT4, Cayman GT4
+  if (make === 'Porsche' && /\bgt[34]\b|gt3 rs/i.test(model + ' ' + trim)) {
+    collectible = 1.8
+  }
+  // McLaren 720S, Senna, P1 hold very strongly
+  if (make === 'McLaren' && /720s|senna|\bp1\b/i.test(model + ' ' + trim)) {
+    collectible = 1.5
+  }
   const mid = base * factor * collectible
   const round = v => v < 20000 ? Math.round(v / 500) * 500 : Math.round(v / 1000) * 1000
   const lo = round(mid * 0.84)
@@ -257,7 +306,8 @@ function estimateCurrentPrice(prStr, year, make = '', model = '', trim = '') {
   return `~${fmt(lo)}–${fmt(hi)}`
 }
 
-export function lookup(make, model, year, trim) {
+export async function lookup(make, model, year, trim) {
+  await primeCache(make)
   const yr = parseInt(year)
   const withPC = spec => {
     if (!spec || yr >= 2024) return spec
@@ -266,16 +316,16 @@ export function lookup(make, model, year, trim) {
     return pc ? { ...spec, pc } : spec
   }
   const exact = `${make}|${model}|${year}|${trim}`
-  if (SPECS[exact]) return withPC(normalizeSpec(SPECS[exact], make, model, trim))
+  if (cache[exact]) return withPC(normalizeSpec(cache[exact], make, model, trim))
   const noMake = `${model}|${year}|${trim}`
-  if (SPECS[noMake]) return withPC(normalizeSpec(SPECS[noMake], make, model, trim))
+  if (cache[noMake]) return withPC(normalizeSpec(cache[noMake], make, model, trim))
   for (let delta = 1; delta <= 2; delta++) {
     for (const sign of [-1, 1]) {
       const tryYear = (yr + sign * delta).toString()
       const k1 = `${make}|${model}|${tryYear}|${trim}`
-      if (SPECS[k1]) return withPC(normalizeSpec(SPECS[k1], make, model, trim))
+      if (cache[k1]) return withPC(normalizeSpec(cache[k1], make, model, trim))
       const k2 = `${model}|${tryYear}|${trim}`
-      if (SPECS[k2]) return withPC(normalizeSpec(SPECS[k2], make, model, trim))
+      if (cache[k2]) return withPC(normalizeSpec(cache[k2], make, model, trim))
     }
   }
   return null

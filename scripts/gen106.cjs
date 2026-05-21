@@ -1,0 +1,332 @@
+'use strict';
+const fs = require('fs');
+
+const specs = {};
+function add(make, model, year, trim, s) {
+  specs[`${make}|${model}|${year}|${trim}`] = s;
+}
+function addYears(make, model, years, trim, s) {
+  for (const yr of years) add(make, model, yr, trim, { ...s });
+}
+
+// ── Riley ───────────────────────────────────────────────────────────────────
+// Riley RMB 1945–1952 (pre-BMC, 2.5L twin-cam)
+addYears('Riley','RMB',[1946,1948,1950,1952],'2.5 Sedan',
+  {en:'2.5L I4 Twin-Cam',di:2443,cy:4,hp:100,tq:183,tx:'4-speed Manual',dr:'RWD',z1:14.0,ts:170,fc:13.5,fh:10.5,fx:16.0,ft:'Petrol',wt:1350,se:5,ca:310,pr:4200});
+addYears('Riley','RMB',[1946,1948,1950,1952],'2.5 Drophead',
+  {en:'2.5L I4 Twin-Cam',di:2443,cy:4,hp:100,tq:183,tx:'4-speed Manual',dr:'RWD',z1:14.5,ts:168,fc:13.5,fh:10.5,fx:16.0,ft:'Petrol',wt:1370,se:4,ca:240,pr:5200});
+
+// Riley RME / RMF 1952–1955 (pre-BMC, twin-cam 1.5)
+addYears('Riley','RME',[1952,1954],'1.5 Sedan',
+  {en:'1.5L I4 Twin-Cam',di:1489,cy:4,hp:54,tq:101,tx:'4-speed Manual',dr:'RWD',z1:19.0,ts:132,fc:10.5,fh:8.0,fx:12.5,ft:'Petrol',wt:1100,se:5,ca:290,pr:3200});
+
+// Riley Pathfinder 1953–1957 (large saloon, 2.5L)
+addYears('Riley','Pathfinder',[1954,1956],'2.5 Sedan',
+  {en:'2.5L I4 Twin-Cam',di:2443,cy:4,hp:110,tq:198,tx:'4-speed Manual',dr:'RWD',z1:13.5,ts:170,fc:13.0,fh:10.0,fx:15.5,ft:'Petrol',wt:1380,se:5,ca:320,pr:5200});
+
+// Riley Two-Point-Six 1957–1959
+addYears('Riley','Two-Point-Six',[1957,1958,1959],'2.6 Sedan',
+  {en:'2.6L I6',di:2639,cy:6,hp:102,tq:190,tx:'4-speed Manual',dr:'RWD',z1:14.0,ts:166,fc:13.5,fh:10.5,fx:16.0,ft:'Petrol',wt:1400,se:5,ca:320,pr:5800});
+
+// Riley 1.5 (BMC era) 1957–1965
+addYears('Riley','1.5',[1958,1960,1962,1964],'1.5 Standard',
+  {en:'1.5L I4',di:1489,cy:4,hp:63,tq:109,tx:'4-speed Manual',dr:'RWD',z1:17.0,ts:148,fc:10.0,fh:8.0,fx:12.0,ft:'Petrol',wt:930,se:4,ca:270,pr:3600});
+addYears('Riley','1.5',[1958,1960,1962,1964],'1.5 de Luxe',
+  {en:'1.5L I4',di:1489,cy:4,hp:68,tq:113,tx:'4-speed Manual',dr:'RWD',z1:15.5,ts:153,fc:10.5,fh:8.5,fx:12.5,ft:'Petrol',wt:940,se:4,ca:270,pr:4100});
+
+// Riley 4/72 (Farina) 1961–1969
+addYears('Riley','4/72',[1961,1963,1965,1967,1969],'1.6 Standard',
+  {en:'1.6L I4',di:1622,cy:4,hp:68,tq:113,tx:'4-speed Manual',dr:'RWD',z1:16.0,ts:150,fc:10.5,fh:8.5,fx:12.5,ft:'Petrol',wt:1010,se:5,ca:290,pr:4200});
+addYears('Riley','4/72',[1961,1963,1965,1967,1969],'1.6 de Luxe',
+  {en:'1.6L I4',di:1622,cy:4,hp:68,tq:113,tx:'4-speed Overdrive Manual',dr:'RWD',z1:15.5,ts:152,fc:10.5,fh:8.5,fx:12.5,ft:'Petrol',wt:1015,se:5,ca:290,pr:4700});
+
+// Riley Elf (Mini-based) 1961–1969
+addYears('Riley','Elf',[1962,1964,1966,1968],'0.85 Standard',
+  {en:'0.85L I4',di:848,cy:4,hp:34,tq:61,tx:'4-speed Manual',dr:'FWD',z1:23.0,ts:115,fc:7.5,fh:6.0,fx:9.0,ft:'Petrol',wt:615,se:4,ca:170,pr:2400});
+addYears('Riley','Elf',[1966,1968],'1.0 Mk III',
+  {en:'1.0L I4',di:998,cy:4,hp:38,tq:69,tx:'4-speed Manual',dr:'FWD',z1:21.0,ts:120,fc:7.8,fh:6.2,fx:9.2,ft:'Petrol',wt:625,se:4,ca:170,pr:2700});
+
+// Riley Kestrel (1165) 1965–1969 (BMC 1100/1300 based)
+addYears('Riley','Kestrel',[1965,1967,1969],'1.1 Standard',
+  {en:'1.1L I4',di:1098,cy:4,hp:55,tq:87,tx:'4-speed Manual',dr:'FWD',z1:16.5,ts:142,fc:8.5,fh:7.0,fx:10.0,ft:'Petrol',wt:870,se:4,ca:260,pr:3500});
+addYears('Riley','Kestrel',[1965,1967,1969],'1.3 de Luxe',
+  {en:'1.3L I4',di:1275,cy:4,hp:65,tq:100,tx:'4-speed Manual',dr:'FWD',z1:14.5,ts:152,fc:9.0,fh:7.5,fx:10.5,ft:'Petrol',wt:880,se:4,ca:260,pr:4100});
+
+// ── Wolseley ─────────────────────────────────────────────────────────────────
+// Wolseley 6/80 1948–1954 (large police/executive saloon)
+addYears('Wolseley','6/80',[1950,1952,1954],'2.2 Sedan',
+  {en:'2.2L I6',di:2215,cy:6,hp:72,tq:148,tx:'4-speed Manual',dr:'RWD',z1:18.0,ts:143,fc:13.5,fh:10.5,fx:16.0,ft:'Petrol',wt:1420,se:6,ca:300,pr:3200});
+
+// Wolseley 6/90 1954–1959
+addYears('Wolseley','6/90',[1955,1957,1959],'2.6 Sedan',
+  {en:'2.6L I6',di:2639,cy:6,hp:102,tq:190,tx:'4-speed Manual',dr:'RWD',z1:14.0,ts:166,fc:13.0,fh:10.0,fx:15.5,ft:'Petrol',wt:1450,se:5,ca:310,pr:5000});
+
+// Wolseley 15/50 1956–1958
+addYears('Wolseley','15/50',[1956,1957,1958],'1.5 Sedan',
+  {en:'1.5L I4',di:1489,cy:4,hp:51,tq:95,tx:'4-speed Manual',dr:'RWD',z1:20.0,ts:130,fc:10.5,fh:8.0,fx:12.5,ft:'Petrol',wt:1050,se:5,ca:280,pr:2900});
+
+// Wolseley 1500 1957–1965 (BMC)
+addYears('Wolseley','1500',[1958,1960,1962,1964],'1.5 Standard',
+  {en:'1.5L I4',di:1489,cy:4,hp:55,tq:101,tx:'4-speed Manual',dr:'RWD',z1:19.0,ts:140,fc:10.0,fh:8.0,fx:12.0,ft:'Petrol',wt:930,se:4,ca:265,pr:3000});
+addYears('Wolseley','1500',[1958,1960,1962,1964],'1.5 de Luxe',
+  {en:'1.5L I4',di:1489,cy:4,hp:55,tq:101,tx:'4-speed Manual',dr:'RWD',z1:18.5,ts:141,fc:10.0,fh:8.0,fx:12.0,ft:'Petrol',wt:935,se:4,ca:265,pr:3400});
+
+// Wolseley 16/60 (Farina) 1961–1971
+addYears('Wolseley','16/60',[1961,1963,1965,1967,1969,1971],'1.6 Standard',
+  {en:'1.6L I4',di:1622,cy:4,hp:61,tq:109,tx:'4-speed Manual',dr:'RWD',z1:18.0,ts:143,fc:10.5,fh:8.5,fx:12.5,ft:'Petrol',wt:1060,se:5,ca:285,pr:3500});
+addYears('Wolseley','16/60',[1961,1963,1965,1967,1969,1971],'1.6 Automatic',
+  {en:'1.6L I4',di:1622,cy:4,hp:61,tq:109,tx:'3-speed Automatic',dr:'RWD',z1:19.5,ts:138,fc:11.5,fh:9.0,fx:13.5,ft:'Petrol',wt:1080,se:5,ca:285,pr:4100});
+
+// Wolseley Hornet (Mini-based) 1961–1969
+addYears('Wolseley','Hornet',[1962,1964,1966,1968],'0.85 Standard',
+  {en:'0.85L I4',di:848,cy:4,hp:34,tq:61,tx:'4-speed Manual',dr:'FWD',z1:23.0,ts:115,fc:7.5,fh:6.0,fx:9.0,ft:'Petrol',wt:615,se:4,ca:170,pr:2300});
+addYears('Wolseley','Hornet',[1966,1968],'1.0 Mk III',
+  {en:'1.0L I4',di:998,cy:4,hp:38,tq:69,tx:'4-speed Manual',dr:'FWD',z1:21.0,ts:120,fc:7.8,fh:6.2,fx:9.2,ft:'Petrol',wt:620,se:4,ca:170,pr:2600});
+
+// Wolseley 18/85 1967–1975 (1800 Landcrab platform)
+addYears('Wolseley','18/85',[1967,1969,1971,1973,1975],'1.8 Standard',
+  {en:'1.8L I4',di:1798,cy:4,hp:86,tq:148,tx:'4-speed Manual',dr:'FWD',z1:14.5,ts:162,fc:10.5,fh:8.5,fx:12.5,ft:'Petrol',wt:1120,se:5,ca:290,pr:4800});
+
+// ── Singer ───────────────────────────────────────────────────────────────────
+// Singer 9 Roadster 1946–1955 (sporting roadster)
+addYears('Singer','9 Roadster',[1948,1950,1952,1954],'1.1 Standard',
+  {en:'1.1L I4',di:1074,cy:4,hp:36,tq:71,tx:'4-speed Manual',dr:'RWD',z1:23.0,ts:112,fc:9.5,fh:7.5,fx:11.5,ft:'Petrol',wt:810,se:2,ca:140,pr:1800});
+
+// Singer Hunter 1954–1956 (transitional model)
+addYears('Singer','Hunter',[1954,1955,1956],'1.5 Sedan',
+  {en:'1.5L I4',di:1497,cy:4,hp:58,tq:103,tx:'4-speed Manual',dr:'RWD',z1:19.0,ts:140,fc:10.0,fh:8.0,fx:12.0,ft:'Petrol',wt:1000,se:5,ca:270,pr:2600});
+
+// Singer Gazelle (Rootes group) 1956–1967
+addYears('Singer','Gazelle',[1957,1959,1961,1963,1965,1967],'1.5 Sedan',
+  {en:'1.5L I4',di:1494,cy:4,hp:60,tq:105,tx:'4-speed Manual',dr:'RWD',z1:18.0,ts:143,fc:10.5,fh:8.5,fx:12.5,ft:'Petrol',wt:990,se:5,ca:270,pr:3000});
+addYears('Singer','Gazelle',[1957,1959,1961,1963,1965,1967],'1.5 Convertible',
+  {en:'1.5L I4',di:1494,cy:4,hp:60,tq:105,tx:'4-speed Manual',dr:'RWD',z1:18.5,ts:140,fc:10.5,fh:8.5,fx:12.5,ft:'Petrol',wt:1010,se:4,ca:200,pr:3500});
+
+// Singer Vogue 1961–1967
+addYears('Singer','Vogue',[1962,1964,1966],'1.6 Standard',
+  {en:'1.6L I4',di:1592,cy:4,hp:68,tq:119,tx:'4-speed Manual',dr:'RWD',z1:16.5,ts:153,fc:10.5,fh:8.5,fx:12.5,ft:'Petrol',wt:1040,se:5,ca:280,pr:3800});
+addYears('Singer','Vogue',[1962,1964,1966],'1.6 Automatic',
+  {en:'1.6L I4',di:1592,cy:4,hp:68,tq:119,tx:'3-speed Automatic',dr:'RWD',z1:18.0,ts:148,fc:11.5,fh:9.0,fx:13.5,ft:'Petrol',wt:1060,se:5,ca:280,pr:4400});
+
+// Singer Vogue Estate 1963–1967
+addYears('Singer','Vogue',[1963,1965,1967],'1.6 Estate',
+  {en:'1.6L I4',di:1592,cy:4,hp:68,tq:119,tx:'4-speed Manual',dr:'RWD',z1:17.5,ts:148,fc:11.0,fh:9.0,fx:13.0,ft:'Petrol',wt:1095,se:5,ca:580,pr:4100});
+
+// Singer Chamois (Hillman Imp-based) 1964–1970
+addYears('Singer','Chamois',[1965,1967,1969],'0.9 Standard',
+  {en:'0.9L I4',di:875,cy:4,hp:42,tq:67,tx:'4-speed Manual',dr:'RWD',z1:19.0,ts:130,fc:7.8,fh:6.3,fx:9.2,ft:'Petrol',wt:670,se:4,ca:235,pr:2500});
+addYears('Singer','Chamois',[1965,1967,1969],'0.9 Sport',
+  {en:'0.9L I4',di:875,cy:4,hp:55,tq:78,tx:'4-speed Manual',dr:'RWD',z1:15.0,ts:148,fc:8.5,fh:7.0,fx:10.0,ft:'Petrol',wt:660,se:4,ca:235,pr:3000});
+
+// ── Standard ─────────────────────────────────────────────────────────────────
+// Standard Eight 1953–1959 (economy car)
+addYears('Standard','Eight',[1954,1956,1958],'0.8 Standard',
+  {en:'0.8L I4',di:803,cy:4,hp:26,tq:47,tx:'4-speed Manual',dr:'RWD',z1:30.0,ts:100,fc:7.0,fh:5.5,fx:8.2,ft:'Petrol',wt:720,se:4,ca:240,pr:1500});
+addYears('Standard','Eight',[1954,1956,1958],'0.8 de Luxe',
+  {en:'0.8L I4',di:803,cy:4,hp:26,tq:47,tx:'4-speed Manual',dr:'RWD',z1:30.0,ts:100,fc:7.0,fh:5.5,fx:8.2,ft:'Petrol',wt:730,se:4,ca:240,pr:1700});
+
+// Standard Ten 1954–1959
+addYears('Standard','Ten',[1955,1957,1959],'0.9 Standard',
+  {en:'0.9L I4',di:948,cy:4,hp:33,tq:58,tx:'4-speed Manual',dr:'RWD',z1:25.0,ts:110,fc:7.5,fh:6.0,fx:8.8,ft:'Petrol',wt:760,se:4,ca:250,pr:1800});
+addYears('Standard','Ten',[1955,1957,1959],'0.9 Companion Estate',
+  {en:'0.9L I4',di:948,cy:4,hp:33,tq:58,tx:'4-speed Manual',dr:'RWD',z1:26.0,ts:107,fc:7.8,fh:6.2,fx:9.2,ft:'Petrol',wt:820,se:4,ca:550,pr:2100});
+
+// Standard Pennant 1957–1960
+addYears('Standard','Pennant',[1957,1959],'0.9 Standard',
+  {en:'0.9L I4',di:948,cy:4,hp:40,tq:66,tx:'4-speed Manual',dr:'RWD',z1:22.0,ts:120,fc:8.0,fh:6.5,fx:9.5,ft:'Petrol',wt:780,se:4,ca:250,pr:2000});
+
+// Standard Vanguard III 1955–1958
+addYears('Standard','Vanguard III',[1955,1957],'2.1 Standard',
+  {en:'2.1L I4',di:2088,cy:4,hp:68,tq:143,tx:'3-speed Manual',dr:'RWD',z1:16.0,ts:143,fc:12.5,fh:10.0,fx:15.0,ft:'Petrol',wt:1230,se:5,ca:320,pr:3500});
+addYears('Standard','Vanguard III',[1955,1957],'2.1 Estate',
+  {en:'2.1L I4',di:2088,cy:4,hp:68,tq:143,tx:'3-speed Manual',dr:'RWD',z1:17.0,ts:138,fc:13.0,fh:10.5,fx:15.5,ft:'Petrol',wt:1310,se:5,ca:680,pr:4000});
+
+// Standard Ensign 1958–1963 (1.7L, fleet/taxi)
+addYears('Standard','Ensign',[1959,1961,1963],'1.7 Standard',
+  {en:'1.7L I4',di:1670,cy:4,hp:59,tq:120,tx:'4-speed Manual',dr:'RWD',z1:18.0,ts:138,fc:11.0,fh:9.0,fx:13.0,ft:'Petrol',wt:1120,se:5,ca:310,pr:2800});
+addYears('Standard','Ensign',[1959,1961,1963],'2.1 Standard',
+  {en:'2.1L I4',di:2088,cy:4,hp:68,tq:143,tx:'3-speed Manual',dr:'RWD',z1:16.5,ts:143,fc:12.5,fh:10.0,fx:15.0,ft:'Petrol',wt:1180,se:5,ca:310,pr:3200});
+
+// Standard Vanguard I 1947–1952 (post-war saloon, flush-wing styling)
+addYears('Standard','Vanguard I',[1948,1950,1952],'2.1 Standard',
+  {en:'2.1L I4',di:2088,cy:4,hp:68,tq:143,tx:'3-speed Manual',dr:'RWD',z1:18.0,ts:135,fc:13.0,fh:10.0,fx:15.5,ft:'Petrol',wt:1210,se:5,ca:320,pr:2800});
+addYears('Standard','Vanguard I',[1948,1950,1952],'2.1 Phase II',
+  {en:'2.1L I4',di:2088,cy:4,hp:68,tq:143,tx:'3-speed Manual',dr:'RWD',z1:18.0,ts:138,fc:13.0,fh:10.0,fx:15.5,ft:'Petrol',wt:1220,se:5,ca:320,pr:3000});
+
+// Standard Vanguard Phase IV / Sportsman 1958–1961
+addYears('Standard','Vanguard Sportsman',[1958,1960],'2.1 Standard',
+  {en:'2.1L I4',di:2088,cy:4,hp:90,tq:162,tx:'4-speed Overdrive Manual',dr:'RWD',z1:14.5,ts:155,fc:12.0,fh:9.5,fx:14.5,ft:'Petrol',wt:1200,se:5,ca:310,pr:4200});
+
+// ── Reliant ───────────────────────────────────────────────────────────────────
+// Reliant Robin (3-wheeler microcar) 1973–2001
+addYears('Reliant','Robin',[1975,1978,1981,1984,1987,1990,1993,1996,1999],'0.85 3-Wheel',
+  {en:'0.85L I4',di:848,cy:4,hp:34,tq:56,tx:'4-speed Manual',dr:'RWD',z1:18.0,ts:120,fc:7.0,fh:5.5,fx:8.0,ft:'Petrol',wt:395,se:3,ca:280,pr:4200});
+addYears('Reliant','Robin',[1982,1985,1988,1991,1994,1997],'0.85 GLS',
+  {en:'0.85L I4',di:848,cy:4,hp:40,tq:61,tx:'4-speed Manual',dr:'RWD',z1:16.5,ts:128,fc:7.5,fh:6.0,fx:8.8,ft:'Petrol',wt:400,se:3,ca:280,pr:5200});
+
+// Reliant Rialto 1982–1998 (updated Robin)
+addYears('Reliant','Rialto',[1983,1986,1989,1992,1995,1998],'0.85 Standard',
+  {en:'0.85L I4',di:848,cy:4,hp:40,tq:61,tx:'4-speed Manual',dr:'RWD',z1:17.0,ts:125,fc:7.2,fh:5.8,fx:8.5,ft:'Petrol',wt:420,se:3,ca:290,pr:5500});
+
+// Reliant Scimitar GTE 1968–1986 (fibre-glass sports estate)
+addYears('Reliant','Scimitar GTE',[1969,1972,1975,1978,1981,1984],'3.0 V6',
+  {en:'3.0L V6',di:2994,cy:6,hp:138,tq:228,tx:'4-speed Overdrive Manual',dr:'RWD',z1:9.0,ts:193,fc:12.0,fh:9.5,fx:14.0,ft:'Petrol',wt:1200,se:4,ca:580,pr:7500});
+addYears('Reliant','Scimitar GTE',[1969,1972,1975,1978,1981,1984],'3.0 V6 Automatic',
+  {en:'3.0L V6',di:2994,cy:6,hp:138,tq:228,tx:'3-speed Automatic',dr:'RWD',z1:10.0,ts:188,fc:13.0,fh:10.5,fx:15.0,ft:'Petrol',wt:1225,se:4,ca:580,pr:8200});
+
+// Reliant Kitten 1975–1982 (4-wheel small estate, saloon)
+addYears('Reliant','Kitten',[1976,1978,1980,1982],'0.85 Estate',
+  {en:'0.85L I4',di:848,cy:4,hp:40,tq:61,tx:'4-speed Manual',dr:'RWD',z1:19.0,ts:118,fc:7.5,fh:6.0,fx:8.8,ft:'Petrol',wt:560,se:4,ca:450,pr:3800});
+addYears('Reliant','Kitten',[1976,1978,1980,1982],'0.85 Sedan',
+  {en:'0.85L I4',di:848,cy:4,hp:40,tq:61,tx:'4-speed Manual',dr:'RWD',z1:18.5,ts:120,fc:7.2,fh:5.8,fx:8.5,ft:'Petrol',wt:545,se:4,ca:280,pr:3500});
+
+// Reliant Scimitar SS1 1984–1990 (open 2-seat sports)
+addYears('Reliant','Scimitar SS1',[1985,1987,1989],'1.4 Standard',
+  {en:'1.4L I4',di:1396,cy:4,hp:96,tq:124,tx:'5-speed Manual',dr:'RWD',z1:9.5,ts:185,fc:9.0,fh:7.5,fx:10.5,ft:'Petrol',wt:820,se:2,ca:130,pr:10500});
+addYears('Reliant','Scimitar SS1',[1986,1988,1990],'1.8T Turbo',
+  {en:'1.8L Turbo I4',di:1796,cy:4,hp:135,tq:196,tx:'5-speed Manual',dr:'RWD',z1:7.5,ts:205,fc:10.5,fh:8.5,fx:12.5,ft:'Petrol',wt:850,se:2,ca:130,pr:14500});
+
+// ── Panhard ───────────────────────────────────────────────────────────────────
+// Panhard Dyna X 1948–1954 (earliest post-war Panhard, aluminium body)
+addYears('Panhard','Dyna X',[1949,1951,1953],'0.6 Standard',
+  {en:'0.6L Flat-2',di:610,cy:2,hp:22,tq:38,tx:'4-speed Manual',dr:'FWD',z1:30.0,ts:95,fc:6.0,fh:5.0,fx:7.0,ft:'Petrol',wt:480,se:4,ca:240,pr:1500});
+addYears('Panhard','Dyna X',[1949,1951,1953],'0.75 Junior',
+  {en:'0.75L Flat-2',di:750,cy:2,hp:28,tq:46,tx:'4-speed Manual',dr:'FWD',z1:26.0,ts:108,fc:6.5,fh:5.2,fx:7.5,ft:'Petrol',wt:495,se:4,ca:240,pr:1800});
+
+// Panhard Dyna Z 1954–1959 (air-cooled flat-2, aluminium body)
+addYears('Panhard','Dyna Z',[1954,1956,1958],'0.85 Standard',
+  {en:'0.85L Flat-2',di:851,cy:2,hp:38,tq:60,tx:'4-speed Manual',dr:'FWD',z1:22.0,ts:125,fc:7.0,fh:5.5,fx:8.0,ft:'Petrol',wt:620,se:5,ca:290,pr:2200});
+addYears('Panhard','Dyna Z',[1954,1956,1958],'0.85 Luxe',
+  {en:'0.85L Flat-2',di:851,cy:2,hp:42,tq:64,tx:'4-speed Manual',dr:'FWD',z1:20.0,ts:130,fc:7.2,fh:5.8,fx:8.5,ft:'Petrol',wt:630,se:5,ca:290,pr:2700});
+
+// Panhard PL17 1959–1965
+addYears('Panhard','PL17',[1960,1962,1964],'0.85 Standard',
+  {en:'0.85L Flat-2',di:851,cy:2,hp:42,tq:65,tx:'4-speed Manual',dr:'FWD',z1:19.0,ts:135,fc:7.0,fh:5.5,fx:8.0,ft:'Petrol',wt:650,se:5,ca:295,pr:2500});
+addYears('Panhard','PL17',[1960,1962,1964],'0.85 Tigre',
+  {en:'0.85L Flat-2',di:851,cy:2,hp:50,tq:73,tx:'4-speed Manual',dr:'FWD',z1:16.5,ts:145,fc:7.5,fh:6.0,fx:8.8,ft:'Petrol',wt:655,se:5,ca:295,pr:3200});
+
+// Panhard 24 CT 1963–1967 (GT coupe)
+addYears('Panhard','24 CT',[1964,1966],'0.85 GT',
+  {en:'0.85L Flat-2',di:851,cy:2,hp:50,tq:73,tx:'4-speed Manual',dr:'FWD',z1:16.0,ts:150,fc:7.8,fh:6.2,fx:9.2,ft:'Petrol',wt:700,se:4,ca:250,pr:3800});
+addYears('Panhard','24 BT',[1963,1965,1967],'0.85 Berlinette',
+  {en:'0.85L Flat-2',di:851,cy:2,hp:42,tq:65,tx:'4-speed Manual',dr:'FWD',z1:18.5,ts:138,fc:7.0,fh:5.5,fx:8.2,ft:'Petrol',wt:680,se:4,ca:260,pr:3000});
+
+// ── Innocenti ─────────────────────────────────────────────────────────────────
+// Innocenti 950 (Austin A40-based) 1961–1968
+addYears('Innocenti','950',[1962,1965,1968],'0.95 Spider',
+  {en:'0.95L I4',di:948,cy:4,hp:43,tq:69,tx:'4-speed Manual',dr:'RWD',z1:18.0,ts:130,fc:8.5,fh:7.0,fx:10.0,ft:'Petrol',wt:720,se:2,ca:150,pr:2400});
+
+// Innocenti 1100 (BLMC) 1963–1974
+addYears('Innocenti','1100',[1964,1967,1970,1973],'1.1 Berlina',
+  {en:'1.1L I4',di:1098,cy:4,hp:55,tq:84,tx:'4-speed Manual',dr:'FWD',z1:17.0,ts:138,fc:8.0,fh:6.5,fx:9.5,ft:'Petrol',wt:850,se:4,ca:280,pr:2800});
+addYears('Innocenti','1100',[1964,1967,1970,1973],'1.1 Export',
+  {en:'1.1L I4',di:1098,cy:4,hp:55,tq:84,tx:'4-speed Manual',dr:'FWD',z1:17.0,ts:138,fc:8.0,fh:6.5,fx:9.5,ft:'Petrol',wt:855,se:4,ca:280,pr:3100});
+
+// Innocenti Mini (BLMC/Bertone-bodied) 1974–1993
+addYears('Innocenti','Mini',[1975,1978,1981,1984],'1.0 Standard',
+  {en:'1.0L I4',di:998,cy:4,hp:44,tq:72,tx:'4-speed Manual',dr:'FWD',z1:18.0,ts:128,fc:7.8,fh:6.2,fx:9.2,ft:'Petrol',wt:650,se:4,ca:220,pr:3800});
+addYears('Innocenti','Mini',[1975,1978,1981,1984],'1.0 de Luxe',
+  {en:'1.0L I4',di:998,cy:4,hp:44,tq:72,tx:'4-speed Manual',dr:'FWD',z1:18.0,ts:128,fc:7.8,fh:6.2,fx:9.2,ft:'Petrol',wt:655,se:4,ca:220,pr:4200});
+addYears('Innocenti','Mini',[1985,1988,1991],'1.3 Bertone',
+  {en:'1.3L I4',di:1275,cy:4,hp:65,tq:95,tx:'5-speed Manual',dr:'FWD',z1:13.5,ts:152,fc:8.0,fh:6.5,fx:9.5,ft:'Petrol',wt:660,se:4,ca:220,pr:6500});
+addYears('Innocenti','Mini',[1990,1992],'1.3 Turbo De Tomaso',
+  {en:'1.3L Turbo I4',di:1275,cy:4,hp:110,tq:144,tx:'5-speed Manual',dr:'FWD',z1:8.0,ts:190,fc:10.5,fh:8.5,fx:12.5,ft:'Petrol',wt:680,se:4,ca:220,pr:12000});
+
+// Innocenti Regent 1974–1982 (Mini-based saloon)
+addYears('Innocenti','Regent',[1975,1977,1979,1981],'1.3 Standard',
+  {en:'1.3L I4',di:1275,cy:4,hp:60,tq:91,tx:'4-speed Manual',dr:'FWD',z1:16.0,ts:145,fc:8.5,fh:7.0,fx:10.0,ft:'Petrol',wt:750,se:4,ca:260,pr:4500});
+
+// ── Ginetta ───────────────────────────────────────────────────────────────────
+// Ginetta G4 1961–1969 (fibreglass tube-frame sports)
+addYears('Ginetta','G4',[1962,1965,1968],'1.0 Ford',
+  {en:'1.0L I4',di:997,cy:4,hp:55,tq:74,tx:'4-speed Manual',dr:'RWD',z1:10.0,ts:170,fc:9.0,fh:7.5,fx:10.5,ft:'Petrol',wt:500,se:2,ca:100,pr:2200});
+addYears('Ginetta','G4',[1962,1965,1968],'1.5 Ford',
+  {en:'1.5L I4',di:1498,cy:4,hp:85,tq:113,tx:'4-speed Manual',dr:'RWD',z1:8.0,ts:185,fc:10.0,fh:8.0,fx:12.0,ft:'Petrol',wt:510,se:2,ca:100,pr:2800});
+
+// Ginetta G15 1967–1974 (Hillman Imp-based rear-engine)
+addYears('Ginetta','G15',[1968,1970,1972,1974],'0.9 Imp',
+  {en:'0.9L I4',di:875,cy:4,hp:55,tq:78,tx:'4-speed Manual',dr:'RWD',z1:11.0,ts:165,fc:9.0,fh:7.5,fx:10.5,ft:'Petrol',wt:540,se:2,ca:120,pr:2400});
+addYears('Ginetta','G15',[1968,1970,1972,1974],'0.9 Sport',
+  {en:'0.9L I4',di:875,cy:4,hp:65,tq:86,tx:'4-speed Manual',dr:'RWD',z1:9.5,ts:180,fc:9.5,fh:8.0,fx:11.0,ft:'Petrol',wt:530,se:2,ca:120,pr:2900});
+
+// Ginetta G33 1990–1993 (Rover V8 powered)
+addYears('Ginetta','G33',[1990,1992],'3.9 V8',
+  {en:'3.9L V8',di:3946,cy:8,hp:190,tq:322,tx:'5-speed Manual',dr:'RWD',z1:5.5,ts:225,fc:14.0,fh:11.0,fx:17.0,ft:'Petrol',wt:900,se:2,ca:100,pr:28000});
+
+// Ginetta G40 2009–2018 (track/road Vauxhall 1.8)
+addYears('Ginetta','G40',[2010,2012,2014,2016,2018],'1.8 VVT',
+  {en:'1.8L I4',di:1796,cy:4,hp:125,tq:165,tx:'5-speed Manual',dr:'RWD',z1:7.0,ts:193,fc:9.5,fh:8.0,fx:11.0,ft:'Petrol',wt:680,se:2,ca:0,pr:32000});
+addYears('Ginetta','G40',[2010,2012,2014,2016,2018],'1.8 GT5',
+  {en:'1.8L I4',di:1796,cy:4,hp:140,tq:175,tx:'5-speed Manual',dr:'RWD',z1:6.2,ts:200,fc:10.0,fh:8.5,fx:11.5,ft:'Petrol',wt:670,se:2,ca:0,pr:38000});
+
+// Ginetta G55 GT4 2012–2018 (Ford 3.7 V6)
+addYears('Ginetta','G55',[2013,2015,2017],'3.7 V6',
+  {en:'3.7L V6',di:3726,cy:6,hp:360,tq:390,tx:'6-speed Sequential',dr:'RWD',z1:4.5,ts:260,fc:13.0,fh:11.0,fx:15.0,ft:'Petrol',wt:1080,se:2,ca:0,pr:75000});
+
+// ── Marcos ───────────────────────────────────────────────────────────────────
+// Marcos Xylon 1958–1960 (early prototype-era fibreglass)
+addYears('Marcos','Xylon',[1959,1960],'1.2 Standard',
+  {en:'1.2L I4',di:1172,cy:4,hp:52,tq:80,tx:'4-speed Manual',dr:'RWD',z1:13.5,ts:165,fc:10.0,fh:8.0,fx:12.0,ft:'Petrol',wt:580,se:2,ca:120,pr:2500});
+
+// Marcos 1800 GT 1963–1969 (plywood+GRP, Volvo/Ford engine)
+addYears('Marcos','1800 GT',[1964,1966,1968],'1.8 Volvo',
+  {en:'1.8L I4',di:1778,cy:4,hp:114,tq:153,tx:'4-speed Manual',dr:'RWD',z1:8.0,ts:200,fc:11.5,fh:9.0,fx:13.5,ft:'Petrol',wt:810,se:2,ca:200,pr:4800});
+
+// Marcos 3000 GT 1969–1971 (Ford Essex V6)
+addYears('Marcos','3000 GT',[1969,1970,1971],'3.0 V6',
+  {en:'3.0L V6',di:2994,cy:6,hp:150,tq:237,tx:'4-speed Manual',dr:'RWD',z1:7.0,ts:210,fc:12.5,fh:10.0,fx:14.5,ft:'Petrol',wt:900,se:2,ca:200,pr:5500});
+
+// Marcos Mantara 1993–2007 (Rover V8)
+addYears('Marcos','Mantara',[1994,1997,2000,2003],'4.6 V8',
+  {en:'4.6L V8',di:4552,cy:8,hp:225,tq:373,tx:'5-speed Manual',dr:'RWD',z1:5.5,ts:240,fc:14.5,fh:11.5,fx:17.5,ft:'Petrol',wt:1070,se:2,ca:180,pr:55000});
+addYears('Marcos','Mantara',[1994,1997,2000,2003],'4.6 V8 Spyder',
+  {en:'4.6L V8',di:4552,cy:8,hp:225,tq:373,tx:'5-speed Manual',dr:'RWD',z1:5.3,ts:242,fc:14.5,fh:11.5,fx:17.5,ft:'Petrol',wt:1050,se:2,ca:120,pr:60000});
+
+// Marcos Mantis 1970–1971 (4-door GT)
+addYears('Marcos','Mantis',[1970,1971],'3.0 V6',
+  {en:'3.0L V6',di:2994,cy:6,hp:145,tq:237,tx:'4-speed Manual',dr:'RWD',z1:8.0,ts:205,fc:12.5,fh:10.0,fx:15.0,ft:'Petrol',wt:1180,se:4,ca:280,pr:6500});
+
+// Marcos LM 400 1995–2003 (race-derived road car)
+addYears('Marcos','LM 400',[1996,1999,2002],'4.0 V8',
+  {en:'4.0L V8',di:3946,cy:8,hp:215,tq:352,tx:'5-speed Manual',dr:'RWD',z1:5.2,ts:240,fc:14.0,fh:11.0,fx:17.0,ft:'Petrol',wt:990,se:2,ca:160,pr:50000});
+
+// Marcos GTS 2000–2007 (Ford V8)
+addYears('Marcos','GTS 400',[2001,2004,2007],'4.6 V8',
+  {en:'4.6L V8',di:4552,cy:8,hp:320,tq:448,tx:'5-speed Manual',dr:'RWD',z1:4.8,ts:250,fc:15.0,fh:12.0,fx:18.0,ft:'Petrol',wt:1100,se:2,ca:180,pr:78000});
+
+// ── Facel Vega ────────────────────────────────────────────────────────────────
+// Facel Vega FVS / HK 1954–1961 (French GT with Chrysler V8)
+addYears('Facel Vega','FVS',[1954,1956],'4.5 V8',
+  {en:'4.5L V8',di:4526,cy:8,hp:180,tq:386,tx:'3-speed Automatic',dr:'RWD',z1:10.5,ts:210,fc:18.0,fh:14.0,fx:22.0,ft:'Petrol',wt:1650,se:4,ca:310,pr:12000});
+addYears('Facel Vega','HK500',[1958,1960],'5.9 V8',
+  {en:'5.9L V8',di:5907,cy:8,hp:325,tq:570,tx:'4-speed Manual',dr:'RWD',z1:8.5,ts:235,fc:22.0,fh:17.0,fx:27.0,ft:'Petrol',wt:1720,se:4,ca:310,pr:18000});
+addYears('Facel Vega','HK500',[1958,1960],'5.9 V8 Automatic',
+  {en:'5.9L V8',di:5907,cy:8,hp:325,tq:570,tx:'3-speed Automatic',dr:'RWD',z1:9.0,ts:230,fc:23.0,fh:18.0,fx:28.0,ft:'Petrol',wt:1745,se:4,ca:310,pr:19500});
+
+// Facel Vega Excellence 1958–1964 (4-door pillarless)
+addYears('Facel Vega','Excellence',[1959,1961,1963],'6.3 V8',
+  {en:'6.3L V8',di:6286,cy:8,hp:355,tq:610,tx:'3-speed Automatic',dr:'RWD',z1:9.5,ts:225,fc:24.0,fh:19.0,fx:29.0,ft:'Petrol',wt:1990,se:6,ca:350,pr:24000});
+
+// Facel Vega Facel II 1962–1964 (pinnacle of the marque)
+addYears('Facel Vega','Facel II',[1962,1963,1964],'6.3 V8',
+  {en:'6.3L V8',di:6286,cy:8,hp:390,tq:651,tx:'4-speed Manual',dr:'RWD',z1:8.0,ts:240,fc:22.0,fh:17.0,fx:27.0,ft:'Petrol',wt:1700,se:4,ca:290,pr:22000});
+addYears('Facel Vega','Facel II',[1962,1963,1964],'6.3 V8 Automatic',
+  {en:'6.3L V8',di:6286,cy:8,hp:390,tq:651,tx:'3-speed Automatic',dr:'RWD',z1:8.5,ts:235,fc:23.0,fh:18.0,fx:28.0,ft:'Petrol',wt:1720,se:4,ca:290,pr:23500});
+
+// Facel Vega Facellia 1960–1964 (small coupe, French Pont-a-Mousson engine)
+addYears('Facel Vega','Facellia',[1961,1963],'1.6 Standard',
+  {en:'1.6L I4',di:1647,cy:4,hp:115,tq:151,tx:'4-speed Manual',dr:'RWD',z1:12.0,ts:185,fc:11.5,fh:9.0,fx:13.5,ft:'Petrol',wt:1020,se:2,ca:220,pr:8500});
+addYears('Facel Vega','Facellia',[1961,1963],'1.6 Cabriolet',
+  {en:'1.6L I4',di:1647,cy:4,hp:115,tq:151,tx:'4-speed Manual',dr:'RWD',z1:12.5,ts:182,fc:11.5,fh:9.0,fx:13.5,ft:'Petrol',wt:1030,se:2,ca:180,pr:9500});
+
+// Facel Vega Facel 6 1964 (Volvo engine replacement for Facellia)
+add('Facel Vega','Facel 6',1964,'1.8 Volvo',
+  {en:'1.8L I4',di:1778,cy:4,hp:114,tq:153,tx:'4-speed Manual',dr:'RWD',z1:11.0,ts:188,fc:11.0,fh:8.5,fx:13.0,ft:'Petrol',wt:1030,se:2,ca:220,pr:9000});
+
+fs.writeFileSync('src/data/supplement106.json', JSON.stringify({ specs }, null, 2));
+const n = Object.keys(specs).length;
+console.log(`supplement106.json written: ${n} entries`);
+['Riley','Wolseley','Singer','Standard','Reliant','Panhard','Innocenti','Ginetta','Marcos','Facel Vega'].forEach(m => {
+  const c = Object.keys(specs).filter(k => k.startsWith(m + '|')).length;
+  if (c) console.log(`  ${m}: ${c}`);
+});

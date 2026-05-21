@@ -226,6 +226,186 @@ function getBodyType(model, trim = '') {
   if (/\bgo\b|\bredi-go\b|\bmi-do\b/.test(m)) return 'Hatch'
   if (/\bon-do\b/.test(m)) return 'Sedan'
 
+  // ── TVR ──
+  if (/\bgrantura\b|\bm series\b|\btasmin\b|\bs series\b|\bgriffith\b|\bchimaera\b|\bcerbera\b|\btuscan\b|\bsagaris\b|\bt350\b/.test(m)) return 'Coupe'
+
+  // ── Bristol ──
+  if (/\bfighter\b/.test(m)) return 'Coupe'
+
+  // ── Jensen ──
+  if (/\bjensen-healey\b/.test(m)) return 'Coupe'
+  if (/\binterceptor\b|\bff\b/.test(m)) return 'Sedan'
+
+  // ── AC ──
+  if (/\bace\b|\bcobra\b|\b428\b|\b3000me\b/.test(m)) return 'Coupe'
+
+  // ── Dacia ──
+  if (/\bduster\b/.test(m)) return 'SUV'
+  if (/\bjogger\b/.test(m)) return 'Wagon'
+  if (/\bsandero\b|\bspring\b/.test(m)) return 'Hatch'
+
+  // ── Smart ──
+  if (/\broadster\b/.test(m)) return 'Coupe'
+  if (/\bfortwo\b/.test(m)) return 'Hatch'
+
+  // ── Alpina ──
+  if (/\bxb7\b/.test(m)) return 'SUV'
+
+  // ── Opel ──
+  if (/\bmokka\b/.test(m)) return 'SUV'
+  if (/\bmanta\b|\bgt\b/.test(m)) return 'Coupe'
+  if (/\bcorsa\b|\bastra\b|\bkadett\b/.test(m)) return 'Hatch'
+  if (/\bomega\b|\bvectra\b|\bascona\b|\brekord\b|\bsenator\b|\binsignia\b/.test(m)) return 'Sedan'
+
+  // ── SEAT ──
+  if (/\bateca\b|\btarraco\b/.test(m)) return 'SUV'
+  if (/\barona\b/.test(m)) return 'SUV'
+  if (/\bibiza\b|\btoledo\b/.test(m)) return 'Hatch'
+  if (/\bleon\b/.test(m)) return 'Hatch'
+  if (/\balhambra\b/.test(m)) return 'Van'
+
+  // ── Bugatti / Pagani / Koenigsegg ──
+  if (/bugatti|pagani|koenigsegg|veyron|chiron|tourbillon|zonda|huayra|utopia|cc8s|ccr|ccx|agera|jesko|gemera|regera/.test(m)) return 'Coupe'
+
+  // ── Cadillac ──
+  if (/\bescalade\b|\bsrx\b|\bxt5\b/.test(m)) return 'SUV'
+  if (/\beldorado\b/.test(m)) return 'Coupe'
+
+  // ── Buick ──
+  if (/\benclave\b|\benvision\b|\bencore\b/.test(m)) return 'SUV'
+  if (/\briviera\b/.test(m)) return 'Coupe'
+
+  // ── Mercury ──
+  if (/\bcougar\b|\bcapri\b/.test(m)) return 'Coupe'
+  if (/\bvillager\b/.test(m)) return 'Van'
+
+  // ── Plymouth ──
+  if (/\bbarracuda\b|\bsuperbird\b|\bprowler\b/.test(m)) return 'Coupe'
+  if (/\bhorizon\b/.test(m)) return 'Hatch'
+
+  // ── Studebaker ──
+  if (/\bavanti\b|\bhawk\b/.test(m)) return 'Coupe'
+
+  // ── Nash ──
+  if (/\bmetropolitan\b|\bnash-healey\b/.test(m)) return 'Coupe'
+
+  // ── Vauxhall ──
+  if (/\bmokka\b/.test(m)) return 'SUV'
+  if (/\bastra\b|\bcorsa\b|\bviva\b/.test(m)) return 'Hatch'
+  if (/\bmonaro vxr\b/.test(m)) return 'Coupe'
+
+  // ── Morgan ──
+  if (/morgan|4\/4|plus 4|plus 8|aero 8|plus six|3 wheeler|super 3/.test(m)) return 'Coupe'
+
+  // ── De Tomaso ──
+  if (/\bpantera\b|\bmangusta\b|\bvallelunga\b|\bguara\b/.test(m)) return 'Coupe'
+
+  // ── Alpine ──
+  if (/\ba106\b|\ba108\b|\ba110\b|\ba310\b|\bgta\b/.test(m)) return 'Coupe'
+
+  // ── Sunbeam ──
+  if (/\balpine\b|\btiger\b/.test(m)) return 'Coupe'
+  if (/\brapier\b/.test(m)) return 'Sedan'
+  if (/\blotus\b/.test(m)) return 'Hatch'
+
+  // ── Hillman ──
+  if (/\bimp\b/.test(m)) return 'Hatch'
+  if (/\bminx\b|\bhunter\b|\bavenger\b/.test(m)) return 'Sedan'
+
+  // ── Morris ──
+  if (/\bminor\b|\boxford\b|\bmarina\b|\bital\b/.test(m)) return 'Sedan'
+
+  // ── Austin ──
+  if (/\bmetro\b|\ballegro\b|\bmaxi\b|\bmaestro\b/.test(m)) return 'Hatch'
+  if (/\ba30\b|\ba35\b|\ba40\b|\b1100\b|\b1300\b|\bmontego\b|\bambassador\b/.test(m)) return 'Sedan'
+
+  // ── MG (classic) ──
+  if (/\bmga\b|\bmgb\b|\bmgc\b|\bmidget\b/.test(m)) return 'Coupe'
+  if (/\bzr\b|\bmetro\b/.test(m)) return 'Hatch'
+  if (/\bzt\b/.test(m)) return 'Sedan'
+
+  // ── Abarth ──
+  if (/\b124 spider\b/.test(m)) return 'Coupe'
+  if (/\b500\b|\b595\b|\b695\b|\bpunto\b/.test(m)) return 'Hatch'
+
+  // ── DS ──
+  if (/\bds7\b/.test(m)) return 'SUV'
+  if (/\bds9\b/.test(m)) return 'Sedan'
+  if (/\bds3\b|\bds4\b|\bds5\b/.test(m)) return 'Hatch'
+
+  // ── Wiesmann ──
+  if (/\bmf3\b|\bgt mf4\b|\bmf5\b|\bgecko\b/.test(m)) return 'Coupe'
+
+  // ── Simca ──
+  if (/\bsimca 1200 s\b/.test(m)) return 'Coupe'
+  if (/\brallye\b/.test(m) || /rallye/.test(t)) return 'Hatch'
+  if (/\bhorizon\b/.test(m)) return 'Hatch'
+  if (/\bsimca 1100\b/.test(m)) return 'Hatch'
+  if (/\bsimca 1000\b|\baronde\b/.test(m)) return 'Sedan'
+
+  // ── Lada ──
+  if (/\bniva\b/.test(m)) return 'SUV'
+  if (/\briva\b/.test(m) && /estate/.test(t)) return 'Wagon'
+  if (/\bsamara\b/.test(m)) return 'Hatch'
+
+  // ── NSU ──
+  if (/\bwankel spider\b|\bro 80\b/.test(m)) return 'Sedan'
+  if (/\b1000 tts\b|\b1000 tt\b/.test(m)) return 'Sedan'
+
+  // ── Caterham ──
+  if (/\bseven\b/.test(m)) return 'Coupe'
+
+  // ── Autobianchi ──
+  if (/\ba112\b|\bprimula\b|\ba111\b/.test(m)) return 'Hatch'
+  if (/\bbianchina\b/.test(m)) return 'Sedan'
+
+  // ── DAF ──
+  if (/\bvariomatic\b|\b33\b|\b44\b|\b55\b|\b66\b/.test(m)) return 'Sedan'
+
+  // ── Matra ──
+  if (/\brancho\b/.test(m)) return 'SUV'
+  if (/\bbagheera\b|\bmurena\b|\bm530\b/.test(m)) return 'Coupe'
+
+  // ── Riley ──
+  if (/\belf\b/.test(m)) return 'Sedan'
+  if (/\bkestrel\b/.test(m)) return 'Sedan'
+
+  // ── Wolseley ──
+  if (/\bhornet\b/.test(m)) return 'Sedan'
+
+  // ── Singer ──
+  if (/\bgaze(lle)?\b/.test(m) && /estate/.test(t)) return 'Wagon'
+  if (/\bgaze(lle)?\b|\bvogue\b|\bchamois\b/.test(m)) return 'Sedan'
+  if (/\b9 roadster\b|\bhunter\b/.test(m)) return 'Sedan'
+
+  // ── Standard ──
+  if (/estate/.test(t)) return 'Wagon'
+  if (/\bvanguard\b|\bensign\b/.test(m)) return 'Sedan'
+
+  // ── Reliant ──
+  if (/\bscimitar gte\b/.test(m)) return 'Wagon'
+  if (/\bscimitar ss1\b/.test(m)) return 'Coupe'
+  if (/\bkitten\b/.test(m) && /estate/.test(t)) return 'Wagon'
+  if (/\brobin\b|\brialto\b|\bkitten\b/.test(m)) return 'Sedan'
+
+  // ── Panhard ──
+  if (/\b24 ct\b/.test(m)) return 'Coupe'
+
+  // ── Innocenti ──
+  if (/\bturbo de tomaso\b/.test(t)) return 'Hatch'
+  if (/\bregent\b/.test(m)) return 'Sedan'
+  if (/\bmini\b/.test(m) || /\b1100\b/.test(m) || /\b950\b/.test(m)) return 'Hatch'
+
+  // ── Ginetta ──
+  if (/\bg4\b|\bg15\b|\bg33\b|\bg40\b|\bg55\b|\bg60\b/.test(m)) return 'Coupe'
+
+  // ── Marcos ──
+  if (/\bmantis\b|\bmantara\b|\bgts\b|\blm\b|\b1800 gt\b|\b3000 gt\b|\bxylon\b/.test(m)) return 'Coupe'
+
+  // ── Facel Vega ──
+  if (/\bexcellence\b/.test(m)) return 'Sedan'
+  if (/\bfvs\b|\bhk500\b|\bfacel ii\b|\bfacellia\b|\bfacel 6\b/.test(m)) return 'Coupe'
+
   // ── Lancia ──
   // Disambiguate early alphabet models (same name as later models)
   if (/beta \(1909\)/.test(m)) return 'Sedan'
