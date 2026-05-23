@@ -6155,24 +6155,28 @@
     },
     "GR Corolla": {
       "2023": [
+        "Circuit",
         "Core",
         "GR Corolla",
         "Morizo Edition",
         "Premium"
       ],
       "2024": [
+        "Circuit",
         "Core",
         "GR Corolla",
         "Morizo Edition",
         "Premium"
       ],
       "2025": [
+        "Circuit",
         "Core",
         "GR Corolla",
         "Morizo Edition",
         "Premium"
       ],
       "2026": [
+        "Circuit",
         "Core",
         "GR Corolla",
         "Morizo Edition",
@@ -14629,6 +14633,23 @@
         "SX Prestige",
         "Sport+"
       ]
+    },
+    "EV5": {
+      "2024": [
+        "Long Range",
+        "Long Range AWD",
+        "Standard Range"
+      ],
+      "2025": [
+        "Long Range",
+        "Long Range AWD",
+        "Standard Range"
+      ],
+      "2026": [
+        "Long Range",
+        "Long Range AWD",
+        "Standard Range"
+      ]
     }
   },
   "Volkswagen": {
@@ -21213,7 +21234,8 @@
         "VTi-L",
         "VTi-LX",
         "e:HEV VTi-L",
-        "e:HEV VTi-LX"
+        "e:HEV VTi-LX",
+        "e:PHEV"
       ],
       "2024": [
         "RS e:HEV",
@@ -21221,7 +21243,8 @@
         "VTi-L",
         "VTi-LX",
         "e:HEV VTi-L",
-        "e:HEV VTi-LX"
+        "e:HEV VTi-LX",
+        "e:PHEV"
       ],
       "2025": [
         "RS e:HEV",
@@ -21229,7 +21252,8 @@
         "VTi-L",
         "VTi-LX",
         "e:HEV VTi-L",
-        "e:HEV VTi-LX"
+        "e:HEV VTi-LX",
+        "e:PHEV"
       ],
       "2026": [
         "RS e:HEV",
@@ -21237,7 +21261,8 @@
         "VTi-L",
         "VTi-LX",
         "e:HEV VTi-L",
-        "e:HEV VTi-LX"
+        "e:HEV VTi-LX",
+        "e:PHEV"
       ]
     },
     "HR-V": {
@@ -22315,13 +22340,33 @@
         "RZ 450e"
       ],
       "2024": [
+        "RZ 300e",
         "RZ 450e"
       ],
       "2025": [
+        "RZ 300e",
         "RZ 450e"
       ],
       "2026": [
+        "RZ 300e",
         "RZ 450e"
+      ]
+    },
+    "LBX": {
+      "2024": [
+        "F Sport",
+        "LBX",
+        "Luxury"
+      ],
+      "2025": [
+        "F Sport",
+        "LBX",
+        "Luxury"
+      ],
+      "2026": [
+        "F Sport",
+        "LBX",
+        "Luxury"
       ]
     }
   },
@@ -22408,18 +22453,18 @@
       ],
       "2009": [
         "1.8 TFSI",
-        "2.0 TFSI",
-        "2.0 TDI"
+        "2.0 TDI",
+        "2.0 TFSI"
       ],
       "2010": [
         "1.8 TFSI",
-        "2.0 TFSI",
-        "2.0 TDI"
+        "2.0 TDI",
+        "2.0 TFSI"
       ],
       "2011": [
         "1.8 TFSI",
-        "2.0 TFSI",
-        "2.0 TDI"
+        "2.0 TDI",
+        "2.0 TFSI"
       ],
       "2012": [
         "1.4 TFSI",
@@ -22480,20 +22525,20 @@
         "3.0 quattro"
       ],
       "2005": [
-        "2.0 TFSI",
-        "2.0 TDI"
+        "2.0 TDI",
+        "2.0 TFSI"
       ],
       "2008": [
         "2.0 TFSI",
         "3.2 quattro"
       ],
       "2010": [
-        "2.0 TFSI",
-        "2.0 TDI"
+        "2.0 TDI",
+        "2.0 TFSI"
       ],
       "2011": [
-        "2.0 TFSI",
-        "2.0 TDI"
+        "2.0 TDI",
+        "2.0 TFSI"
       ],
       "2012": [
         "1.8 TFSI",
@@ -22657,8 +22702,8 @@
         "2.0 TFSI quattro"
       ],
       "2014": [
-        "TTS",
-        "TT RS"
+        "TT RS",
+        "TTS"
       ],
       "2019": [
         "TT",
@@ -22682,12 +22727,12 @@
         "V8"
       ],
       "2009": [
-        "V8",
-        "V10"
+        "V10",
+        "V8"
       ],
       "2012": [
-        "V8",
-        "V10"
+        "V10",
+        "V8"
       ],
       "2015": [
         "V10",
@@ -22783,28 +22828,52 @@
         "3.0 TDI quattro"
       ],
       "2019": [
-        "45 TFSI quattro"
+        "40 TFSI quattro",
+        "45 TFSI quattro",
+        "45 TFSI quattro Black Edition",
+        "55 TFSI e quattro"
       ],
       "2020": [
-        "45 TFSI quattro"
+        "40 TFSI quattro",
+        "45 TFSI quattro",
+        "45 TFSI quattro Black Edition",
+        "55 TFSI e quattro"
       ],
       "2021": [
-        "45 TFSI quattro"
+        "40 TFSI quattro",
+        "45 TFSI quattro",
+        "45 TFSI quattro Black Edition",
+        "55 TFSI e quattro"
       ],
       "2022": [
-        "45 TFSI quattro"
+        "40 TFSI quattro",
+        "45 TFSI quattro",
+        "45 TFSI quattro Black Edition",
+        "55 TFSI e quattro"
       ],
       "2023": [
-        "45 TFSI quattro"
+        "40 TFSI quattro",
+        "45 TFSI quattro",
+        "45 TFSI quattro Black Edition",
+        "55 TFSI e quattro"
       ],
       "2024": [
-        "45 TFSI quattro"
+        "40 TFSI quattro",
+        "45 TFSI quattro",
+        "45 TFSI quattro Black Edition",
+        "55 TFSI e quattro"
       ],
       "2025": [
-        "45 TFSI quattro"
+        "40 TFSI quattro",
+        "45 TFSI quattro",
+        "45 TFSI quattro Black Edition",
+        "55 TFSI e quattro"
       ],
       "2026": [
-        "45 TFSI quattro"
+        "40 TFSI quattro",
+        "45 TFSI quattro",
+        "45 TFSI quattro Black Edition",
+        "55 TFSI e quattro"
       ]
     },
     "Q7": {
@@ -22849,8 +22918,8 @@
         "4.2 TDI quattro"
       ],
       "2016": [
-        "3.0 TFSI quattro",
-        "3.0 TDI quattro"
+        "3.0 TDI quattro",
+        "3.0 TFSI quattro"
       ],
       "2017": [
         "3.0 TDI quattro",
@@ -22963,8 +23032,8 @@
         "2.0 TDI"
       ],
       "2014": [
-        "2.0 TFSI",
-        "2.0 TDI"
+        "2.0 TDI",
+        "2.0 TFSI"
       ],
       "2015": [
         "2.0 TFSI"
@@ -23016,12 +23085,12 @@
         "3.0 TFSI quattro"
       ],
       "2016": [
-        "3.0 TFSI quattro",
-        "3.0 TDI quattro"
+        "3.0 TDI quattro",
+        "3.0 TFSI quattro"
       ],
       "2017": [
-        "3.0 TFSI quattro",
-        "3.0 TDI quattro"
+        "3.0 TDI quattro",
+        "3.0 TFSI quattro"
       ],
       "2018": [
         "55 TFSI quattro"
@@ -23172,57 +23241,57 @@
     },
     "e-tron GT": {
       "2021": [
-        "e-tron GT",
-        "RS e-tron GT"
+        "RS e-tron GT",
+        "e-tron GT"
       ],
       "2022": [
-        "e-tron GT",
-        "RS e-tron GT"
+        "RS e-tron GT",
+        "e-tron GT"
       ],
       "2023": [
-        "e-tron GT",
-        "RS e-tron GT"
+        "RS e-tron GT",
+        "e-tron GT"
       ],
       "2024": [
-        "e-tron GT",
         "RS e-tron GT",
-        "RS e-tron GT Performance"
+        "RS e-tron GT Performance",
+        "e-tron GT"
       ],
       "2025": [
-        "e-tron GT",
         "RS e-tron GT",
-        "RS e-tron GT Performance"
+        "RS e-tron GT Performance",
+        "e-tron GT"
       ],
       "2026": [
-        "e-tron GT",
         "RS e-tron GT",
-        "RS e-tron GT Performance"
+        "RS e-tron GT Performance",
+        "e-tron GT"
       ]
     },
     "Q8": {
       "2019": [
-        "55 TFSI quattro",
-        "50 TDI quattro"
+        "50 TDI quattro",
+        "55 TFSI quattro"
       ],
       "2020": [
-        "55 TFSI quattro",
-        "50 TDI quattro"
+        "50 TDI quattro",
+        "55 TFSI quattro"
       ],
       "2021": [
-        "55 TFSI quattro",
-        "50 TDI quattro"
+        "50 TDI quattro",
+        "55 TFSI quattro"
       ],
       "2022": [
-        "55 TFSI quattro",
-        "50 TDI quattro"
+        "50 TDI quattro",
+        "55 TFSI quattro"
       ],
       "2023": [
-        "55 TFSI quattro",
-        "50 TDI quattro"
+        "50 TDI quattro",
+        "55 TFSI quattro"
       ],
       "2024": [
-        "55 TFSI quattro",
-        "50 TDI quattro"
+        "50 TDI quattro",
+        "55 TFSI quattro"
       ],
       "2025": [
         "55 TFSI quattro"
@@ -23336,60 +23405,60 @@
     },
     "A4 allroad": {
       "2009": [
-        "2.0 TFSI quattro",
-        "2.0 TDI quattro"
+        "2.0 TDI quattro",
+        "2.0 TFSI quattro"
       ],
       "2010": [
-        "2.0 TFSI quattro",
-        "2.0 TDI quattro"
+        "2.0 TDI quattro",
+        "2.0 TFSI quattro"
       ],
       "2011": [
-        "2.0 TFSI quattro",
-        "2.0 TDI quattro"
+        "2.0 TDI quattro",
+        "2.0 TFSI quattro"
       ],
       "2012": [
-        "2.0 TFSI quattro",
-        "2.0 TDI quattro"
+        "2.0 TDI quattro",
+        "2.0 TFSI quattro"
       ],
       "2013": [
-        "2.0 TFSI quattro",
-        "2.0 TDI quattro"
+        "2.0 TDI quattro",
+        "2.0 TFSI quattro"
       ],
       "2014": [
-        "2.0 TFSI quattro",
-        "2.0 TDI quattro"
+        "2.0 TDI quattro",
+        "2.0 TFSI quattro"
       ],
       "2015": [
-        "2.0 TFSI quattro",
-        "2.0 TDI quattro"
+        "2.0 TDI quattro",
+        "2.0 TFSI quattro"
       ],
       "2016": [
-        "45 TFSI quattro",
-        "40 TDI quattro"
+        "40 TDI quattro",
+        "45 TFSI quattro"
       ],
       "2017": [
-        "45 TFSI quattro",
-        "40 TDI quattro"
+        "40 TDI quattro",
+        "45 TFSI quattro"
       ],
       "2018": [
-        "45 TFSI quattro",
-        "40 TDI quattro"
+        "40 TDI quattro",
+        "45 TFSI quattro"
       ],
       "2019": [
-        "45 TFSI quattro",
-        "40 TDI quattro"
+        "40 TDI quattro",
+        "45 TFSI quattro"
       ],
       "2020": [
-        "45 TFSI quattro",
-        "40 TDI quattro"
+        "40 TDI quattro",
+        "45 TFSI quattro"
       ],
       "2021": [
-        "45 TFSI quattro",
-        "40 TDI quattro"
+        "40 TDI quattro",
+        "45 TFSI quattro"
       ],
       "2022": [
-        "45 TFSI quattro",
-        "40 TDI quattro"
+        "40 TDI quattro",
+        "45 TFSI quattro"
       ],
       "2023": [
         "45 TFSI quattro"
@@ -23406,104 +23475,104 @@
     },
     "A6 allroad": {
       "2001": [
-        "2.7T biturbo",
-        "2.5 TDI"
+        "2.5 TDI",
+        "2.7T biturbo"
       ],
       "2002": [
-        "2.7T biturbo",
-        "2.5 TDI"
+        "2.5 TDI",
+        "2.7T biturbo"
       ],
       "2003": [
-        "2.7T biturbo",
-        "2.5 TDI"
+        "2.5 TDI",
+        "2.7T biturbo"
       ],
       "2004": [
-        "2.7T biturbo",
-        "2.5 TDI"
+        "2.5 TDI",
+        "2.7T biturbo"
       ],
       "2005": [
-        "2.7T biturbo",
-        "2.5 TDI"
+        "2.5 TDI",
+        "2.7T biturbo"
       ],
       "2006": [
-        "3.0 TFSI quattro",
-        "3.0 TDI quattro"
+        "3.0 TDI quattro",
+        "3.0 TFSI quattro"
       ],
       "2007": [
-        "3.0 TFSI quattro",
-        "3.0 TDI quattro"
+        "3.0 TDI quattro",
+        "3.0 TFSI quattro"
       ],
       "2008": [
-        "3.0 TFSI quattro",
-        "3.0 TDI quattro"
+        "3.0 TDI quattro",
+        "3.0 TFSI quattro"
       ],
       "2009": [
-        "3.0 TFSI quattro",
-        "3.0 TDI quattro"
+        "3.0 TDI quattro",
+        "3.0 TFSI quattro"
       ],
       "2010": [
-        "3.0 TFSI quattro",
-        "3.0 TDI quattro"
+        "3.0 TDI quattro",
+        "3.0 TFSI quattro"
       ],
       "2011": [
-        "3.0 TFSI quattro",
-        "3.0 TDI quattro"
+        "3.0 TDI quattro",
+        "3.0 TFSI quattro"
       ],
       "2012": [
-        "3.0 TFSI quattro",
-        "3.0 TDI quattro"
+        "3.0 TDI quattro",
+        "3.0 TFSI quattro"
       ],
       "2013": [
-        "3.0 TFSI quattro",
-        "3.0 TDI quattro"
+        "3.0 TDI quattro",
+        "3.0 TFSI quattro"
       ],
       "2014": [
-        "3.0 TFSI quattro",
-        "3.0 TDI quattro"
+        "3.0 TDI quattro",
+        "3.0 TFSI quattro"
       ],
       "2015": [
-        "3.0 TFSI quattro",
-        "3.0 TDI quattro"
+        "3.0 TDI quattro",
+        "3.0 TFSI quattro"
       ],
       "2016": [
-        "3.0 TFSI quattro",
-        "3.0 TDI quattro"
+        "3.0 TDI quattro",
+        "3.0 TFSI quattro"
       ],
       "2017": [
-        "3.0 TFSI quattro",
-        "3.0 TDI quattro"
+        "3.0 TDI quattro",
+        "3.0 TFSI quattro"
       ],
       "2018": [
-        "3.0 TFSI quattro",
-        "3.0 TDI quattro"
+        "3.0 TDI quattro",
+        "3.0 TFSI quattro"
       ],
       "2019": [
-        "55 TFSI quattro",
-        "50 TDI quattro"
+        "50 TDI quattro",
+        "55 TFSI quattro"
       ],
       "2020": [
-        "55 TFSI quattro",
-        "50 TDI quattro"
+        "50 TDI quattro",
+        "55 TFSI quattro"
       ],
       "2021": [
-        "55 TFSI quattro",
-        "50 TDI quattro"
+        "50 TDI quattro",
+        "55 TFSI quattro"
       ],
       "2022": [
-        "55 TFSI quattro",
-        "50 TDI quattro"
+        "50 TDI quattro",
+        "55 TFSI quattro"
       ],
       "2023": [
-        "55 TFSI quattro",
-        "50 TDI quattro"
+        "50 TDI quattro",
+        "55 TFSI quattro"
       ],
       "2024": [
-        "55 TFSI quattro",
-        "50 TDI quattro"
+        "50 TDI quattro",
+        "55 TFSI quattro"
       ],
       "2025": [
-        "55 TFSI quattro",
-        "50 TDI quattro"
+        "50 TDI quattro",
+        "55 TFSI quattro"
       ],
       "2026": [
         "55 TFSI quattro"
@@ -24072,6 +24141,44 @@
       ],
       "2026": [
         "RS Q8"
+      ]
+    },
+    "A3 Sportback": {
+      "2021": [
+        "35 TFSI",
+        "40 TFSI quattro",
+        "RS3",
+        "S3"
+      ],
+      "2022": [
+        "35 TFSI",
+        "40 TFSI quattro",
+        "RS3",
+        "S3"
+      ],
+      "2023": [
+        "35 TFSI",
+        "40 TFSI quattro",
+        "RS3",
+        "S3"
+      ],
+      "2024": [
+        "35 TFSI",
+        "40 TFSI quattro",
+        "RS3",
+        "S3"
+      ],
+      "2025": [
+        "35 TFSI",
+        "40 TFSI quattro",
+        "RS3",
+        "S3"
+      ],
+      "2026": [
+        "35 TFSI",
+        "40 TFSI quattro",
+        "RS3",
+        "S3"
       ]
     }
   },
@@ -29765,6 +29872,44 @@
         "1.5 e-Hybrid",
         "VZ 2.0 4Drive"
       ]
+    },
+    "Leon": {
+      "2021": [
+        "1.4 e-Hybrid",
+        "1.5 eTSI",
+        "VZ",
+        "VZ 4Drive"
+      ],
+      "2022": [
+        "1.4 e-Hybrid",
+        "1.5 eTSI",
+        "VZ",
+        "VZ 4Drive"
+      ],
+      "2023": [
+        "1.4 e-Hybrid",
+        "1.5 eTSI",
+        "VZ",
+        "VZ 4Drive"
+      ],
+      "2024": [
+        "1.4 e-Hybrid",
+        "1.5 eTSI",
+        "VZ",
+        "VZ 4Drive"
+      ],
+      "2025": [
+        "1.4 e-Hybrid",
+        "1.5 eTSI",
+        "VZ",
+        "VZ 4Drive"
+      ],
+      "2026": [
+        "1.4 e-Hybrid",
+        "1.5 eTSI",
+        "VZ",
+        "VZ 4Drive"
+      ]
     }
   },
   "Polestar": {
@@ -29952,6 +30097,7 @@
         "Ambition 110 TSI",
         "RS",
         "RS 245",
+        "RS Combi",
         "Style",
         "Style 140 TSI"
       ],
@@ -29959,6 +30105,7 @@
         "Ambition 110 TSI",
         "RS",
         "RS 245",
+        "RS Combi",
         "Style",
         "Style 140 TSI"
       ],
@@ -29966,6 +30113,7 @@
         "Ambition 110 TSI",
         "RS",
         "RS 245",
+        "RS Combi",
         "Style",
         "Style 140 TSI"
       ],
@@ -29973,6 +30121,7 @@
         "Ambition 110 TSI",
         "RS",
         "RS 245",
+        "RS Combi",
         "Style",
         "Style 140 TSI"
       ],
@@ -29980,6 +30129,7 @@
         "Ambition 110 TSI",
         "RS",
         "RS 245",
+        "RS Combi",
         "Style",
         "Style 140 TSI"
       ],
@@ -29987,6 +30137,7 @@
         "Ambition 110 TSI",
         "RS",
         "RS 245",
+        "RS Combi",
         "Style",
         "Style 140 TSI"
       ]
