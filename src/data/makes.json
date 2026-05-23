@@ -2616,109 +2616,159 @@
       ],
       "2006": [
         "GT",
-        "GT-P",
-        "GT-E"
+        "GT-E",
+        "GT-P"
       ],
       "2007": [
         "GT",
         "GT-P"
       ],
       "2008": [
+        "FG GT",
+        "FG GT RSPEC",
         "GT",
-        "GT-P",
-        "GT-E"
+        "GT-E",
+        "GT-P"
       ],
       "2009": [
+        "FG GT",
+        "FG GT RSPEC",
         "GT",
-        "GT-P",
-        "GT-E"
+        "GT-E",
+        "GT-P"
       ],
       "2010": [
+        "FG GT",
+        "FG GT RSPEC",
         "GT",
-        "GT-P",
-        "GT-E"
+        "GT-E",
+        "GT-P"
       ],
       "2011": [
+        "FG GT",
+        "FG GT RSPEC",
         "GT",
-        "GT-P",
-        "GT-E"
+        "GT-E",
+        "GT-P"
       ],
       "2012": [
+        "FG GT",
+        "FG GT RSPEC",
         "GT",
-        "GT-P",
-        "GT-E"
+        "GT-E",
+        "GT-P"
       ],
       "2013": [
+        "FG GT",
+        "FG GT RSPEC",
         "GT",
-        "GT-P",
-        "GT-E"
+        "GT-E",
+        "GT-P"
       ],
       "2014": [
+        "FG GT",
+        "FG GT RSPEC",
         "GT",
-        "GT-P",
-        "GT-E"
+        "GT-E",
+        "GT-P"
       ],
       "2015": [
+        "FG GT",
+        "FG GT RSPEC",
         "GT",
-        "GT-P",
-        "GT-E"
+        "GT-E",
+        "GT-P"
       ]
     },
     "F6": {
       "2004": [
-        "F6 Typhoon"
+        "F6 Typhoon",
+        "Typhoon Sedan",
+        "Typhoon Ute"
       ],
       "2005": [
-        "F6 Typhoon"
+        "F6 Typhoon",
+        "Typhoon Sedan",
+        "Typhoon Ute"
       ],
       "2006": [
-        "F6 Typhoon"
+        "F6 Typhoon",
+        "Typhoon Sedan",
+        "Typhoon Ute"
       ],
       "2007": [
-        "F6 Typhoon"
+        "F6 Typhoon",
+        "Typhoon Sedan",
+        "Typhoon Ute"
       ],
       "2008": [
+        "F6 E",
         "F6 Typhoon",
-        "F6 E"
+        "Typhoon Sedan",
+        "Typhoon Ute"
       ],
       "2009": [
-        "F6 E"
+        "F6 E",
+        "Typhoon Sedan",
+        "Typhoon Ute"
       ],
       "2010": [
-        "F6 E"
+        "F6 E",
+        "Typhoon Sedan",
+        "Typhoon Ute"
       ],
       "2011": [
-        "F6 E"
+        "F6 E",
+        "Typhoon Sedan",
+        "Typhoon Ute"
       ],
       "2012": [
-        "F6 E"
+        "F6 E",
+        "Typhoon Sedan",
+        "Typhoon Ute"
       ]
     },
     "Boss": {
       "2008": [
+        "290",
+        "315",
         "Boss 260"
       ],
       "2009": [
+        "290",
+        "315",
         "Boss 260"
       ],
       "2010": [
+        "290",
+        "315",
         "Boss 260"
       ],
       "2011": [
+        "290",
+        "315",
         "Boss 260",
         "Boss 290"
       ],
       "2012": [
+        "290",
+        "315",
         "Boss 290"
       ],
       "2013": [
+        "290",
+        "315",
         "Boss 290"
       ],
       "2014": [
+        "290",
+        "315",
         "Boss 290",
         "Boss 335"
       ],
       "2015": [
+        "290",
+        "315",
         "Boss 335"
       ]
     }
@@ -20054,8 +20104,8 @@
         "EK"
       ],
       "2001": [
-        "VTi",
-        "Type R EP3"
+        "Type R EP3",
+        "VTi"
       ],
       "2002": [
         "VTi"
@@ -20073,8 +20123,8 @@
         "VTi"
       ],
       "2007": [
-        "VTi",
-        "Type R FN2"
+        "Type R FN2",
+        "VTi"
       ],
       "2008": [
         "VTi"
@@ -20098,62 +20148,72 @@
         "VTi-S"
       ],
       "2015": [
-        "VTi-S",
-        "Type R FK2"
+        "Type R FK2",
+        "VTi-S"
       ],
       "2016": [
-        "VTi-L",
-        "Type R FK2"
+        "Type R FK2",
+        "VTi-L"
       ],
       "2017": [
-        "VTi",
-        "Type R FK8"
+        "Type R FK8",
+        "VTi"
       ],
       "2018": [
-        "VTi-S",
-        "Type R FK8"
+        "Type R FK8",
+        "VTi-S"
       ],
       "2019": [
-        "VTi-LX",
         "Type R FK8",
-        "Type R FK8 Limited Edition"
+        "Type R FK8 Limited Edition",
+        "VTi-LX"
       ],
       "2020": [
-        "VTi-LX",
-        "Type R FK8"
+        "Type R FK8",
+        "VTi-LX"
       ],
       "2021": [
-        "VTi-LX",
-        "Type R FK8"
+        "Type R FK8",
+        "VTi-LX"
       ],
       "2022": [
+        "RS",
         "VTi",
         "VTi-LX",
+        "VTi-S",
         "e:HEV RS"
       ],
       "2023": [
+        "RS",
+        "Type R FL5",
         "VTi",
         "VTi-LX",
-        "e:HEV RS",
-        "Type R FL5"
+        "VTi-S",
+        "e:HEV RS"
       ],
       "2024": [
+        "RS",
+        "Type R FL5",
         "VTi",
         "VTi-LX",
-        "e:HEV RS",
-        "Type R FL5"
+        "VTi-S",
+        "e:HEV RS"
       ],
       "2025": [
+        "RS",
+        "Type R FL5",
         "VTi",
         "VTi-LX",
-        "e:HEV RS",
-        "Type R FL5"
+        "VTi-S",
+        "e:HEV RS"
       ],
       "2026": [
+        "RS",
+        "Type R FL5",
         "VTi",
         "VTi-LX",
-        "e:HEV RS",
-        "Type R FL5"
+        "VTi-S",
+        "e:HEV RS"
       ]
     },
     "Accord": {
@@ -20188,10 +20248,24 @@
         "VTi-L"
       ],
       "2018": [
-        "VTi"
+        "VTi",
+        "VTi-L"
+      ],
+      "2019": [
+        "VTi",
+        "VTi-L"
       ],
       "2020": [
+        "VTi",
+        "VTi-L",
         "VTi-LX"
+      ],
+      "2021": [
+        "VTi",
+        "VTi-L"
+      ],
+      "2022": [
+        "e:HEV Sport"
       ],
       "2023": [
         "e:HEV Sport",
@@ -20236,40 +20310,63 @@
         "Luxury 4WD"
       ],
       "2017": [
-        "VTi"
+        "VTi",
+        "VTi-L",
+        "VTi-S"
       ],
       "2018": [
+        "VTi-L",
         "VTi-S"
       ],
       "2019": [
-        "VTi-LX"
+        "VTi-L",
+        "VTi-LX",
+        "VTi-S"
+      ],
+      "2020": [
+        "VTi-L",
+        "VTi-S"
       ],
       "2021": [
-        "VTi-LX"
+        "VTi-L",
+        "VTi-LX",
+        "VTi-S"
       ],
       "2022": [
         "VTi",
         "VTi-LX"
       ],
       "2023": [
+        "RS e:HEV",
         "VTi",
         "VTi-L",
-        "VTi-LX"
+        "VTi-LX",
+        "e:HEV VTi-L",
+        "e:HEV VTi-LX"
       ],
       "2024": [
+        "RS e:HEV",
         "VTi",
         "VTi-L",
-        "VTi-LX"
+        "VTi-LX",
+        "e:HEV VTi-L",
+        "e:HEV VTi-LX"
       ],
       "2025": [
+        "RS e:HEV",
         "VTi",
         "VTi-L",
-        "VTi-LX"
+        "VTi-LX",
+        "e:HEV VTi-L",
+        "e:HEV VTi-LX"
       ],
       "2026": [
+        "RS e:HEV",
         "VTi",
         "VTi-L",
-        "VTi-LX"
+        "VTi-LX",
+        "e:HEV VTi-L",
+        "e:HEV VTi-LX"
       ]
     },
     "HR-V": {
@@ -20280,86 +20377,175 @@
         "5-door"
       ],
       "2014": [
-        "VTi"
+        "VTi",
+        "VTi-L"
       ],
       "2015": [
+        "VTi-L",
         "VTi-S"
       ],
       "2016": [
         "VTi-L"
       ],
+      "2017": [
+        "RS",
+        "VTi-L"
+      ],
+      "2018": [
+        "RS",
+        "VTi-L"
+      ],
       "2019": [
+        "RS",
+        "VTi-L",
         "VTi-LX"
       ],
+      "2020": [
+        "RS",
+        "VTi-L"
+      ],
       "2021": [
+        "RS",
+        "VTi-L",
         "VTi-LX"
       ],
       "2022": [
         "VTi",
-        "VTi-LX"
+        "VTi-LX",
+        "VTi-S",
+        "e:HEV L",
+        "e:HEV RS"
       ],
       "2023": [
         "VTi",
-        "VTi-LX"
+        "VTi-LX",
+        "VTi-S",
+        "e:HEV L",
+        "e:HEV RS"
       ],
       "2024": [
         "VTi",
-        "VTi-LX"
+        "VTi-LX",
+        "VTi-S",
+        "e:HEV L",
+        "e:HEV RS"
       ],
       "2025": [
         "VTi",
-        "VTi-LX"
+        "VTi-LX",
+        "VTi-S",
+        "e:HEV L",
+        "e:HEV RS"
       ],
       "2026": [
         "VTi",
-        "VTi-LX"
+        "VTi-LX",
+        "VTi-S",
+        "e:HEV L",
+        "e:HEV RS"
       ]
     },
     "Jazz": {
       "2002": [
         "VTi"
       ],
+      "2003": [
+        "VTi",
+        "VTi-S"
+      ],
       "2004": [
+        "VTi",
+        "VTi-S"
+      ],
+      "2005": [
+        "VTi",
+        "VTi-S"
+      ],
+      "2006": [
+        "VTi",
+        "VTi-S"
+      ],
+      "2007": [
+        "VTi",
+        "VTi-S"
+      ],
+      "2008": [
+        "VTi",
         "VTi-S"
       ],
       "2009": [
-        "VTi"
+        "VTi",
+        "VTi-S"
       ],
       "2010": [
         "VTi-S"
       ],
-      "2015": [
-        "VTi"
-      ],
-      "2016": [
+      "2011": [
         "VTi-S"
       ],
+      "2012": [
+        "VTi-S"
+      ],
+      "2013": [
+        "VTi-S"
+      ],
+      "2014": [
+        "VTi-S"
+      ],
+      "2015": [
+        "VTi",
+        "VTi-L",
+        "VTi-LX"
+      ],
+      "2016": [
+        "VTi",
+        "VTi-L",
+        "VTi-LX",
+        "VTi-S"
+      ],
+      "2017": [
+        "VTi",
+        "VTi-L",
+        "VTi-LX"
+      ],
+      "2018": [
+        "VTi",
+        "VTi-L",
+        "VTi-LX"
+      ],
       "2019": [
+        "VTi",
+        "VTi-L",
+        "VTi-LX"
+      ],
+      "2020": [
+        "VTi",
+        "VTi-L",
         "VTi-LX"
       ],
       "2021": [
-        "e:HEV Vibe",
-        "e:HEV Luxe"
+        "e:HEV Luxe",
+        "e:HEV Vibe"
       ],
       "2022": [
-        "e:HEV Vibe",
-        "e:HEV Luxe"
+        "e:HEV Luxe",
+        "e:HEV Vibe"
       ],
       "2023": [
-        "e:HEV Vibe",
-        "e:HEV Luxe"
+        "e:HEV Luxe",
+        "e:HEV Vibe"
       ],
       "2024": [
-        "e:HEV Vibe",
-        "e:HEV Luxe"
+        "e:HEV Luxe",
+        "e:HEV Vibe"
       ],
       "2025": [
-        "e:HEV Vibe",
-        "e:HEV Luxe"
+        "e:HEV Luxe",
+        "e:HEV Vibe"
       ],
       "2026": [
-        "e:HEV Vibe",
-        "e:HEV Luxe"
+        "e:HEV Luxe",
+        "e:HEV Vibe"
       ]
     },
     "NSX": {
@@ -20510,6 +20696,38 @@
       ],
       "2012": [
         "RC1"
+      ],
+      "2014": [
+        "VTi-L",
+        "VTi-LX"
+      ],
+      "2015": [
+        "VTi-L",
+        "VTi-LX"
+      ],
+      "2016": [
+        "VTi-L",
+        "VTi-LX"
+      ],
+      "2017": [
+        "VTi-L",
+        "VTi-LX"
+      ],
+      "2018": [
+        "VTi-L",
+        "VTi-LX"
+      ],
+      "2019": [
+        "VTi-L",
+        "VTi-LX"
+      ],
+      "2020": [
+        "VTi-L",
+        "VTi-LX"
+      ],
+      "2021": [
+        "VTi-L",
+        "VTi-LX"
       ]
     },
     "Legend": {
@@ -20558,20 +20776,20 @@
     },
     "ZR-V": {
       "2023": [
-        "VTi-S e:HEV",
-        "VTi-LX e:HEV"
+        "VTi-LX e:HEV",
+        "VTi-S e:HEV"
       ],
       "2024": [
-        "VTi-S e:HEV",
-        "VTi-LX e:HEV"
+        "VTi-LX e:HEV",
+        "VTi-S e:HEV"
       ],
       "2025": [
-        "VTi-S e:HEV",
-        "VTi-LX e:HEV"
+        "VTi-LX e:HEV",
+        "VTi-S e:HEV"
       ],
       "2026": [
-        "VTi-S e:HEV",
-        "VTi-LX e:HEV"
+        "VTi-LX e:HEV",
+        "VTi-S e:HEV"
       ]
     },
     "e:NY1": {
@@ -20611,41 +20829,89 @@
       ],
       "2010": [
         "IS 250",
-        "IS 350"
+        "IS 350",
+        "IS F"
+      ],
+      "2011": [
+        "IS F"
+      ],
+      "2012": [
+        "IS F"
       ],
       "2013": [
         "IS 250",
+        "IS 300h",
         "IS 350",
-        "IS 300h"
+        "IS F"
+      ],
+      "2014": [
+        "IS 300h",
+        "IS 350",
+        "IS 350 F Sport",
+        "IS F"
+      ],
+      "2015": [
+        "IS 300h",
+        "IS 350",
+        "IS 350 F Sport"
       ],
       "2016": [
         "IS 200t",
-        "IS 350"
+        "IS 300h",
+        "IS 350",
+        "IS 350 F Sport"
+      ],
+      "2017": [
+        "IS 200t",
+        "IS 300h",
+        "IS 350",
+        "IS 350 F Sport"
+      ],
+      "2018": [
+        "IS 200t",
+        "IS 300h",
+        "IS 350",
+        "IS 350 F Sport"
       ],
       "2019": [
-        "IS 300"
+        "IS 300",
+        "IS 300 F Sport",
+        "IS 300h"
       ],
       "2020": [
+        "IS 300 F Sport",
         "IS 300h"
       ],
       "2021": [
         "IS 300",
+        "IS 300 F Sport",
+        "IS 300h",
         "IS 350 F Sport"
       ],
       "2022": [
-        "IS 300"
+        "IS 300",
+        "IS 300 F Sport",
+        "IS 300h"
       ],
       "2023": [
-        "IS 300"
+        "IS 300",
+        "IS 300 F Sport",
+        "IS 300h"
       ],
       "2024": [
-        "IS 300"
+        "IS 300",
+        "IS 300 F Sport",
+        "IS 300h"
       ],
       "2025": [
-        "IS 300"
+        "IS 300",
+        "IS 300 F Sport",
+        "IS 300h"
       ],
       "2026": [
-        "IS 300"
+        "IS 300",
+        "IS 300 F Sport",
+        "IS 300h"
       ]
     },
     "ES": {
@@ -20696,11 +20962,33 @@
         "GS 350",
         "GS 450h"
       ],
+      "2013": [
+        "GS 300h",
+        "GS 350"
+      ],
+      "2014": [
+        "GS 300h",
+        "GS 350"
+      ],
       "2015": [
+        "GS 300h",
+        "GS 350",
+        "GS F"
+      ],
+      "2016": [
+        "GS 300h",
+        "GS 350",
+        "GS F"
+      ],
+      "2017": [
+        "GS 300h",
+        "GS 350",
         "GS F"
       ],
       "2018": [
-        "GS 350"
+        "GS 300h",
+        "GS 350",
+        "GS F"
       ],
       "2019": [
         "GS 300"
@@ -20726,66 +21014,112 @@
         "LS 460",
         "LS 600h"
       ],
+      "2008": [
+        "LS 460",
+        "LS 600h"
+      ],
+      "2009": [
+        "LS 460",
+        "LS 600h"
+      ],
+      "2010": [
+        "LS 460",
+        "LS 600h"
+      ],
+      "2011": [
+        "LS 460",
+        "LS 600h"
+      ],
+      "2012": [
+        "LS 460",
+        "LS 600h"
+      ],
       "2013": [
         "LS 460"
       ],
       "2018": [
         "LS 500",
+        "LS 500 F Sport",
+        "LS 500h"
+      ],
+      "2019": [
+        "LS 500 F Sport",
+        "LS 500h"
+      ],
+      "2020": [
+        "LS 500 F Sport",
+        "LS 500h"
+      ],
+      "2021": [
+        "LS 500 F Sport",
         "LS 500h"
       ],
       "2022": [
-        "LS 500"
+        "LS 500",
+        "LS 500 F Sport"
       ],
       "2023": [
+        "LS 500 F Sport",
         "LS 500h"
       ],
       "2024": [
-        "LS 500"
+        "LS 500",
+        "LS 500 F Sport"
       ],
       "2025": [
-        "LS 500"
+        "LS 500",
+        "LS 500 F Sport"
       ],
       "2026": [
-        "LS 500"
+        "LS 500",
+        "LS 500 F Sport"
       ]
     },
     "UX": {
       "2019": [
         "UX 200",
-        "UX 250h"
+        "UX 250h",
+        "UX 250h F Sport"
       ],
       "2020": [
         "UX 200",
-        "UX 250h"
+        "UX 250h",
+        "UX 250h F Sport"
       ],
       "2021": [
         "UX 200",
         "UX 250h",
+        "UX 250h F Sport",
         "UX 300e"
       ],
       "2022": [
         "UX 200",
         "UX 250h",
+        "UX 250h F Sport",
         "UX 300e"
       ],
       "2023": [
         "UX 200",
         "UX 250h",
+        "UX 250h F Sport",
         "UX 300e"
       ],
       "2024": [
         "UX 200",
         "UX 250h",
+        "UX 250h F Sport",
         "UX 300e"
       ],
       "2025": [
         "UX 200",
         "UX 250h",
+        "UX 250h F Sport",
         "UX 300e"
       ],
       "2026": [
         "UX 200",
         "UX 250h",
+        "UX 250h F Sport",
         "UX 300e"
       ]
     },
@@ -20813,26 +21147,31 @@
       "2022": [
         "NX 250",
         "NX 350",
+        "NX 350 F Sport",
         "NX 350h",
         "NX 450h+"
       ],
       "2023": [
         "NX 250",
+        "NX 350 F Sport",
         "NX 350h",
         "NX 450h+"
       ],
       "2024": [
         "NX 250",
+        "NX 350 F Sport",
         "NX 350h",
         "NX 450h+"
       ],
       "2025": [
         "NX 250",
+        "NX 350 F Sport",
         "NX 350h",
         "NX 450h+"
       ],
       "2026": [
         "NX 250",
+        "NX 350 F Sport",
         "NX 350h",
         "NX 450h+"
       ]
@@ -20862,11 +21201,31 @@
       "2016": [
         "RX 200t",
         "RX 350",
-        "RX 450h"
+        "RX 350 F Sport",
+        "RX 450h",
+        "RX 450h F Sport"
+      ],
+      "2017": [
+        "RX 350 F Sport",
+        "RX 450h F Sport"
+      ],
+      "2018": [
+        "RX 350 F Sport",
+        "RX 450h F Sport"
+      ],
+      "2019": [
+        "RX 350 F Sport",
+        "RX 450h F Sport"
       ],
       "2020": [
         "RX 350",
-        "RX 450h"
+        "RX 350 F Sport",
+        "RX 450h",
+        "RX 450h F Sport"
+      ],
+      "2021": [
+        "RX 350 F Sport",
+        "RX 450h F Sport"
       ],
       "2022": [
         "RX 350",
@@ -20875,8 +21234,8 @@
       ],
       "2023": [
         "RX 350",
-        "RX 500h",
-        "RX 450h+"
+        "RX 450h+",
+        "RX 500h"
       ],
       "2024": [
         "RX 350",
@@ -21005,14 +21364,36 @@
       ],
       "2015": [
         "RC 200t",
-        "RC 350",
         "RC 300h",
+        "RC 350",
+        "RC F"
+      ],
+      "2016": [
+        "RC 200t",
+        "RC 300h",
+        "RC 350",
+        "RC F"
+      ],
+      "2017": [
+        "RC 200t",
+        "RC 300h",
+        "RC 350",
         "RC F"
       ],
       "2018": [
+        "RC 200t",
+        "RC 300h",
+        "RC 350",
+        "RC F"
+      ],
+      "2019": [
+        "RC 300h",
+        "RC 350",
         "RC F"
       ],
       "2020": [
+        "RC 300h",
+        "RC 350",
         "RC F",
         "RC F Track Edition"
       ],
@@ -22836,32 +23217,60 @@
       ],
       "2019": [
         "718 Boxster GTS 4.0",
-        "718 Cayman GTS 4.0"
+        "718 Cayman GTS 4.0",
+        "Boxster Spyder",
+        "Cayman GT4"
       ],
       "2020": [
-        "718 Spyder"
+        "718 Spyder",
+        "Boxster Spyder",
+        "Cayman GT4"
       ],
       "2021": [
         "718 Boxster",
         "718 Cayman",
-        "718 Cayman GT4 RS"
+        "718 Cayman GT4 RS",
+        "Boxster GTS 4.0",
+        "Boxster Spyder",
+        "Cayman GT4",
+        "Cayman GTS 4.0"
       ],
       "2022": [
         "718 Boxster",
-        "718 Cayman GTS 4.0"
+        "718 Cayman GTS 4.0",
+        "Boxster GTS 4.0",
+        "Boxster Spyder",
+        "Cayman GT4",
+        "Cayman GT4 RS",
+        "Cayman GTS 4.0"
       ],
       "2023": [
         "718 Boxster",
-        "718 Cayman"
+        "718 Cayman",
+        "Boxster GTS 4.0",
+        "Boxster Spyder",
+        "Cayman GT4",
+        "Cayman GT4 RS",
+        "Cayman GTS 4.0"
       ],
       "2024": [
         "718 Boxster",
         "718 Cayman",
-        "718 Cayman GT4 RS"
+        "718 Cayman GT4 RS",
+        "Boxster GTS 4.0",
+        "Boxster Spyder",
+        "Cayman GT4",
+        "Cayman GT4 RS",
+        "Cayman GTS 4.0"
       ],
       "2025": [
         "718 Boxster",
-        "718 Cayman"
+        "718 Cayman",
+        "Boxster GTS 4.0",
+        "Boxster Spyder",
+        "Cayman GT4",
+        "Cayman GT4 RS",
+        "Cayman GTS 4.0"
       ],
       "2026": [
         "718 Boxster",
@@ -22889,8 +23298,8 @@
         "Turbo"
       ],
       "1996": [
-        "Carrera RS",
-        "Carrera"
+        "Carrera",
+        "Carrera RS"
       ],
       "1997": [
         "Turbo S"
@@ -22902,8 +23311,8 @@
         "Carrera"
       ],
       "2001": [
-        "Turbo",
-        "GT3"
+        "GT3",
+        "Turbo"
       ],
       "2002": [
         "Carrera 4S"
@@ -22917,91 +23326,216 @@
         "Turbo S"
       ],
       "2005": [
-        "Carrera S",
-        "Carrera"
-      ],
-      "2006": [
+        "Carrera",
+        "Carrera 4",
+        "Carrera 4S",
+        "Carrera Cabriolet",
         "Carrera S"
       ],
+      "2006": [
+        "Carrera 4",
+        "Carrera 4S",
+        "Carrera Cabriolet",
+        "Carrera S",
+        "GT3",
+        "Turbo"
+      ],
       "2007": [
-        "Turbo",
-        "GT3"
+        "Carrera",
+        "Carrera 4",
+        "Carrera 4S",
+        "Carrera Cabriolet",
+        "Carrera S",
+        "GT3",
+        "GT3 RS",
+        "Turbo"
       ],
       "2008": [
-        "Carrera 4S"
+        "Carrera",
+        "Carrera 4",
+        "Carrera 4S",
+        "Carrera Cabriolet",
+        "Carrera S",
+        "GT3",
+        "GT3 RS",
+        "Turbo"
       ],
       "2009": [
-        "Turbo",
-        "GT3 RS"
+        "Carrera",
+        "Carrera 4",
+        "Carrera 4S",
+        "Carrera Cabriolet",
+        "Carrera S",
+        "GT3 RS",
+        "Turbo"
       ],
       "2010": [
+        "Carrera",
+        "Carrera 4",
+        "Carrera 4S",
+        "Carrera Cabriolet",
+        "Carrera S",
         "GT2 RS",
+        "GT3",
+        "GT3 RS",
+        "Turbo",
         "Turbo S"
       ],
       "2011": [
-        "GT3 RS 4.0"
+        "Carrera",
+        "Carrera 4",
+        "Carrera 4S",
+        "Carrera Cabriolet",
+        "Carrera S",
+        "GT3",
+        "GT3 RS 4.0",
+        "Turbo"
       ],
       "2012": [
+        "Carrera",
+        "Carrera 4",
+        "Carrera 4S",
+        "Carrera Cabriolet",
         "Carrera S",
-        "Carrera"
+        "Carrera S Cabriolet",
+        "Targa 4",
+        "Targa 4S"
       ],
       "2013": [
-        "Carrera S"
+        "Carrera 4",
+        "Carrera 4S",
+        "Carrera Cabriolet",
+        "Carrera S",
+        "Carrera S Cabriolet",
+        "Targa 4",
+        "Targa 4S"
       ],
       "2014": [
+        "Carrera 4",
         "Carrera 4S",
+        "Carrera Cabriolet",
+        "Carrera S Cabriolet",
         "GT3",
+        "Targa 4",
+        "Targa 4S",
         "Turbo"
       ],
       "2015": [
-        "Turbo S",
-        "GT3 RS"
+        "Carrera 4",
+        "Carrera 4S",
+        "Carrera Cabriolet",
+        "Carrera S Cabriolet",
+        "GT3 RS",
+        "Targa 4",
+        "Targa 4S",
+        "Turbo S"
       ],
       "2016": [
         "Carrera",
+        "Carrera 4",
         "Carrera 4S",
-        "Turbo",
+        "Carrera GTS",
+        "GT2 RS",
         "R",
-        "GT2 RS"
+        "Targa 4",
+        "Targa 4S",
+        "Turbo"
       ],
       "2017": [
+        "Carrera 4",
+        "Carrera 4S",
         "Carrera GTS",
-        "GT3"
+        "GT3",
+        "Targa 4",
+        "Targa 4S"
       ],
       "2018": [
+        "Carrera 4",
+        "Carrera 4S",
+        "Carrera GTS",
         "Carrera T",
+        "GT3 Touring",
+        "Targa 4",
+        "Targa 4S",
         "Turbo S"
       ],
       "2019": [
-        "GT3 RS",
         "Carrera",
-        "Carrera S"
+        "Carrera 4",
+        "Carrera 4S",
+        "Carrera Cabriolet",
+        "Carrera S",
+        "Carrera S Cabriolet",
+        "GT3 RS"
       ],
       "2020": [
+        "Carrera 4",
         "Carrera 4S",
+        "Carrera Cabriolet",
+        "Carrera S Cabriolet",
         "Turbo S"
       ],
       "2021": [
-        "GT3",
+        "Carrera 4",
+        "Carrera 4S",
+        "Carrera Cabriolet",
         "Carrera GTS",
+        "Carrera S",
+        "Carrera S Cabriolet",
+        "GT3",
+        "Targa 4",
+        "Targa 4S",
         "Turbo"
       ],
       "2022": [
-        "GT3 RS",
+        "Carrera 4",
+        "Carrera 4S",
+        "Carrera Cabriolet",
+        "Carrera S",
+        "Carrera S Cabriolet",
         "Carrera T",
+        "GT3 RS",
+        "GT3 Touring",
+        "Sport Classic",
+        "Targa 4",
+        "Targa 4S",
         "Turbo S"
       ],
       "2023": [
         "Carrera",
+        "Carrera 4",
+        "Carrera 4S",
+        "Carrera Cabriolet",
         "Carrera S",
-        "GT3"
+        "Carrera S Cabriolet",
+        "Dakar",
+        "GT3",
+        "GT3 Touring",
+        "Targa 4",
+        "Targa 4S"
       ],
       "2024": [
         "Carrera",
-        "Carrera GTS"
+        "Carrera 4",
+        "Carrera 4S",
+        "Carrera Cabriolet",
+        "Carrera GTS",
+        "Carrera S Cabriolet",
+        "Dakar",
+        "GT3 Touring",
+        "Targa 4",
+        "Targa 4S"
       ],
       "2025": [
         "Carrera",
+        "Carrera 4",
+        "Carrera 4S",
+        "Carrera Cabriolet",
+        "Carrera S Cabriolet",
+        "Dakar",
+        "GT3 Touring",
+        "Targa 4",
+        "Targa 4S",
         "Turbo S"
       ],
       "2026": [
@@ -23082,28 +23616,67 @@
         "Turbo"
       ],
       "2019": [
-        "E-Hybrid"
+        "Coupe",
+        "E-Hybrid",
+        "GTS Coupe",
+        "S Coupe",
+        "Turbo Coupe"
       ],
       "2020": [
+        "Coupe",
+        "GTS Coupe",
+        "S Coupe",
+        "Turbo Coupe",
         "Turbo S"
       ],
       "2021": [
+        "Coupe",
+        "GTS 4.0",
+        "GTS Coupe",
         "S",
-        "GTS 4.0"
+        "S Coupe",
+        "Turbo Coupe"
       ],
       "2022": [
+        "Coupe",
+        "GTS Coupe",
         "S",
+        "S Coupe",
+        "Turbo Coupe",
+        "Turbo GT",
         "Turbo S"
       ],
+      "2023": [
+        "Coupe",
+        "GTS Coupe",
+        "S Coupe",
+        "Turbo Coupe",
+        "Turbo GT"
+      ],
       "2024": [
+        "Coupe",
+        "GTS Coupe",
         "S",
-        "Turbo E-Hybrid"
+        "S Coupe",
+        "Turbo Coupe",
+        "Turbo E-Hybrid",
+        "Turbo GT"
       ],
       "2025": [
-        "S"
+        "Coupe",
+        "GTS Coupe",
+        "S",
+        "S Coupe",
+        "Turbo Coupe",
+        "Turbo GT"
       ],
       "2026": [
-        "S"
+        "Coupe",
+        "GTS Coupe",
+        "S",
+        "S Coupe",
+        "Turbo Coupe",
+        "Turbo GT"
       ]
     },
     "Macan": {
@@ -23112,23 +23685,45 @@
         "Turbo"
       ],
       "2015": [
+        "GTS",
         "S",
-        "GTS"
+        "Turbo"
+      ],
+      "2016": [
+        "GTS",
+        "S",
+        "Turbo"
       ],
       "2017": [
+        "GTS",
         "Macan",
         "S",
         "Turbo"
       ],
-      "2019": [
+      "2018": [
+        "GTS",
         "S",
         "Turbo"
       ],
+      "2019": [
+        "GTS",
+        "S",
+        "Turbo"
+      ],
+      "2020": [
+        "GTS",
+        "S"
+      ],
       "2021": [
+        "GTS",
         "S"
       ],
       "2022": [
-        "GTS"
+        "GTS",
+        "S"
+      ],
+      "2023": [
+        "S"
       ],
       "2024": [
         "4 Electric",
@@ -23162,26 +23757,59 @@
         "Panamera Turbo"
       ],
       "2017": [
-        "Panamera 4S"
+        "4S Sport Turismo",
+        "Panamera 4S",
+        "Sport Turismo",
+        "Turbo S E-Hybrid Sport Turismo"
       ],
       "2018": [
-        "Panamera Turbo Sport Turismo"
+        "4S Sport Turismo",
+        "Panamera Turbo Sport Turismo",
+        "Sport Turismo",
+        "Turbo S E-Hybrid Sport Turismo"
       ],
       "2019": [
+        "4S Sport Turismo",
         "Panamera GTS",
-        "Panamera Turbo S E-Hybrid"
+        "Panamera Turbo S E-Hybrid",
+        "Sport Turismo",
+        "Turbo S E-Hybrid Sport Turismo"
+      ],
+      "2020": [
+        "4S Sport Turismo",
+        "Sport Turismo",
+        "Turbo S E-Hybrid Sport Turismo"
       ],
       "2021": [
+        "4S Sport Turismo",
         "Panamera 4S",
-        "Panamera Turbo S"
+        "Panamera Turbo S",
+        "Sport Turismo",
+        "Turbo S E-Hybrid Sport Turismo"
+      ],
+      "2022": [
+        "4S Sport Turismo",
+        "Sport Turismo",
+        "Turbo S E-Hybrid Sport Turismo"
+      ],
+      "2023": [
+        "4S Sport Turismo",
+        "Sport Turismo",
+        "Turbo S E-Hybrid Sport Turismo"
       ],
       "2024": [
+        "4S Sport Turismo",
         "Panamera 4",
         "Panamera 4S",
-        "Panamera Turbo E-Hybrid"
+        "Panamera Turbo E-Hybrid",
+        "Sport Turismo",
+        "Turbo S E-Hybrid Sport Turismo"
       ],
       "2025": [
-        "Panamera 4S"
+        "4S Sport Turismo",
+        "Panamera 4S",
+        "Sport Turismo",
+        "Turbo S E-Hybrid Sport Turismo"
       ],
       "2026": [
         "Panamera 4S"
@@ -24477,42 +25105,65 @@
       ],
       "2018": [
         "T4",
-        "T5"
+        "T5",
+        "T5 Momentum",
+        "T5 R-Design",
+        "T8 Recharge"
       ],
       "2019": [
         "T5",
-        "T6"
+        "T5 Momentum",
+        "T5 R-Design",
+        "T6",
+        "T8 Recharge"
       ],
       "2020": [
         "T5",
-        "T6"
+        "T5 Momentum",
+        "T5 R-Design",
+        "T6",
+        "T8 Recharge"
       ],
       "2021": [
         "T5",
-        "T6"
+        "T5 Momentum",
+        "T5 R-Design",
+        "T6",
+        "T8 Recharge"
       ],
       "2022": [
         "T5",
-        "T6"
+        "T5 Momentum",
+        "T5 R-Design",
+        "T6",
+        "T8 Recharge"
       ],
       "2023": [
         "B4",
         "B5",
+        "T5 Momentum",
+        "T5 R-Design",
         "T8 Recharge"
       ],
       "2024": [
         "B4",
         "B5",
+        "T5 Momentum",
+        "T5 R-Design",
         "T8 Recharge"
       ],
       "2025": [
         "B4",
         "B5",
+        "T5 Momentum",
+        "T5 R-Design",
         "T8 Recharge"
       ],
       "2026": [
         "B4",
         "B5",
+        "T5 Momentum",
+        "T5 R-Design",
         "T8 Recharge"
       ]
     },
@@ -24718,42 +25369,81 @@
     "XC40": {
       "2018": [
         "T4",
-        "T5"
+        "T4 Momentum",
+        "T5",
+        "T5 AWD Inscription",
+        "T5 AWD R-Design"
       ],
       "2019": [
         "T4",
-        "T5"
+        "T4 Momentum",
+        "T5",
+        "T5 AWD Inscription",
+        "T5 AWD R-Design"
       ],
       "2020": [
+        "Recharge T5 PHEV",
         "T4",
-        "T5"
+        "T4 Momentum",
+        "T5",
+        "T5 AWD Inscription",
+        "T5 AWD R-Design"
       ],
       "2021": [
         "B3",
         "B5",
-        "Recharge P8"
+        "Recharge P8",
+        "Recharge T5 PHEV",
+        "T4 Momentum",
+        "T5 AWD Inscription",
+        "T5 AWD R-Design"
       ],
       "2022": [
         "B3",
         "B5",
-        "Recharge P8"
+        "Recharge P8",
+        "Recharge Pure Electric",
+        "Recharge T5 PHEV",
+        "T4 Momentum",
+        "T5 AWD Inscription",
+        "T5 AWD R-Design"
       ],
       "2023": [
         "B3",
         "B5",
-        "Recharge P8"
+        "Recharge P8",
+        "Recharge Pure Electric",
+        "Recharge T5 PHEV",
+        "T4 Momentum",
+        "T5 AWD Inscription",
+        "T5 AWD R-Design"
       ],
       "2024": [
         "B4",
-        "Recharge"
+        "Recharge",
+        "Recharge Pure Electric",
+        "Recharge T5 PHEV",
+        "T4 Momentum",
+        "T5 AWD Inscription",
+        "T5 AWD R-Design"
       ],
       "2025": [
         "B4",
-        "Recharge"
+        "Recharge",
+        "Recharge Pure Electric",
+        "Recharge T5 PHEV",
+        "T4 Momentum",
+        "T5 AWD Inscription",
+        "T5 AWD R-Design"
       ],
       "2026": [
         "B4",
-        "Recharge"
+        "Recharge",
+        "Recharge Pure Electric",
+        "Recharge T5 PHEV",
+        "T4 Momentum",
+        "T5 AWD Inscription",
+        "T5 AWD R-Design"
       ]
     },
     "XC60": {
@@ -24791,47 +25481,93 @@
       ],
       "2017": [
         "T5",
-        "T6"
+        "T5 Inscription",
+        "T5 Momentum",
+        "T5 R-Design",
+        "T6",
+        "T8 Twin Engine AWD"
       ],
       "2018": [
         "T5",
+        "T5 Inscription",
+        "T5 Momentum",
+        "T5 R-Design",
         "T6",
-        "T8 Recharge"
+        "T8 Recharge",
+        "T8 Twin Engine AWD"
       ],
       "2019": [
         "T5",
+        "T5 Inscription",
+        "T5 Momentum",
+        "T5 R-Design",
         "T6",
-        "T8 Recharge"
+        "T8 Recharge",
+        "T8 Twin Engine AWD"
       ],
       "2020": [
         "T5",
+        "T5 Inscription",
+        "T5 Momentum",
+        "T5 R-Design",
         "T6",
-        "T8 Recharge"
+        "T8 Recharge",
+        "T8 Twin Engine AWD"
       ],
       "2021": [
+        "B5 AWD",
         "T5",
+        "T5 Inscription",
+        "T5 Momentum",
+        "T5 R-Design",
         "T6",
-        "T8 Recharge"
+        "T8 Recharge",
+        "T8 Twin Engine AWD"
       ],
       "2022": [
         "B5",
-        "T8 Recharge"
+        "B5 AWD",
+        "T5 Inscription",
+        "T5 Momentum",
+        "T5 R-Design",
+        "T8 Recharge",
+        "T8 Twin Engine AWD"
       ],
       "2023": [
         "B5",
-        "T8 Recharge"
+        "B5 AWD",
+        "T5 Inscription",
+        "T5 Momentum",
+        "T5 R-Design",
+        "T8 Recharge",
+        "T8 Twin Engine AWD"
       ],
       "2024": [
         "B5",
-        "T8 Recharge"
+        "B5 AWD",
+        "T5 Inscription",
+        "T5 Momentum",
+        "T5 R-Design",
+        "T8 Recharge",
+        "T8 Twin Engine AWD"
       ],
       "2025": [
         "B5",
-        "T8 Recharge"
+        "B5 AWD",
+        "T5 Inscription",
+        "T5 Momentum",
+        "T5 R-Design",
+        "T8 Recharge",
+        "T8 Twin Engine AWD"
       ],
       "2026": [
         "B5",
-        "T8 Recharge"
+        "B5 AWD",
+        "T5 Inscription",
+        "T5 Momentum",
+        "T5 R-Design",
+        "T8 Recharge",
+        "T8 Twin Engine AWD"
       ]
     },
     "XC90": {
@@ -24885,55 +25621,96 @@
       ],
       "2015": [
         "T5",
-        "T6"
+        "T5 Momentum",
+        "T6",
+        "T6 Inscription",
+        "T8 Twin Engine Excellence"
       ],
       "2016": [
         "T5",
+        "T5 Momentum",
         "T6",
-        "T8 Recharge"
+        "T6 Inscription",
+        "T8 Recharge",
+        "T8 Twin Engine Excellence"
       ],
       "2017": [
         "T5",
+        "T5 Momentum",
         "T6",
-        "T8 Recharge"
+        "T6 Inscription",
+        "T8 Recharge",
+        "T8 Twin Engine Excellence"
       ],
       "2018": [
         "T5",
+        "T5 Momentum",
         "T6",
-        "T8 Recharge"
+        "T6 Inscription",
+        "T8 Recharge",
+        "T8 Twin Engine Excellence"
       ],
       "2019": [
         "T5",
+        "T5 Momentum",
         "T6",
-        "T8 Recharge"
+        "T6 Inscription",
+        "T8 Recharge",
+        "T8 Twin Engine Excellence"
       ],
       "2020": [
         "B5",
-        "T8 Recharge"
+        "T5 Momentum",
+        "T6 Inscription",
+        "T8 Recharge",
+        "T8 Twin Engine Excellence"
       ],
       "2021": [
         "B5",
-        "T8 Recharge"
+        "T5 Momentum",
+        "T6 Inscription",
+        "T8 Recharge",
+        "T8 Twin Engine Excellence"
       ],
       "2022": [
         "B5",
-        "T8 Recharge"
+        "Recharge T8",
+        "T5 Momentum",
+        "T6 Inscription",
+        "T8 Recharge",
+        "T8 Twin Engine Excellence"
       ],
       "2023": [
         "B5",
-        "T8 Recharge"
+        "Recharge T8",
+        "T5 Momentum",
+        "T6 Inscription",
+        "T8 Recharge",
+        "T8 Twin Engine Excellence"
       ],
       "2024": [
         "B5",
-        "T8 Recharge"
+        "Recharge T8",
+        "T5 Momentum",
+        "T6 Inscription",
+        "T8 Recharge",
+        "T8 Twin Engine Excellence"
       ],
       "2025": [
         "B5",
-        "T8 Recharge"
+        "Recharge T8",
+        "T5 Momentum",
+        "T6 Inscription",
+        "T8 Recharge",
+        "T8 Twin Engine Excellence"
       ],
       "2026": [
         "B5",
-        "T8 Recharge"
+        "Recharge T8",
+        "T5 Momentum",
+        "T6 Inscription",
+        "T8 Recharge",
+        "T8 Twin Engine Excellence"
       ]
     },
     "C40 Recharge": {
@@ -24986,54 +25763,61 @@
   "Tesla": {
     "Model 3": {
       "2017": [
-        "Standard Range",
         "Long Range",
-        "Performance"
+        "Performance",
+        "Standard Range"
       ],
       "2018": [
-        "Standard Range",
         "Long Range",
-        "Performance"
+        "Performance",
+        "Standard Range"
       ],
       "2019": [
-        "Standard Range",
         "Long Range",
-        "Performance"
+        "Long Range AWD",
+        "Performance",
+        "Standard Range",
+        "Standard Range Plus"
       ],
       "2020": [
-        "Standard Range",
         "Long Range",
-        "Performance"
+        "Long Range AWD",
+        "Performance",
+        "Standard Range",
+        "Standard Range Plus"
       ],
       "2021": [
-        "Standard Range RWD",
         "Long Range AWD",
-        "Performance"
+        "Performance",
+        "Standard Range Plus",
+        "Standard Range RWD"
       ],
       "2022": [
-        "Standard Range RWD",
         "Long Range AWD",
-        "Performance"
+        "Performance",
+        "Standard Range Plus",
+        "Standard Range RWD"
       ],
       "2023": [
-        "Standard Range RWD",
         "Long Range AWD",
-        "Performance"
+        "Performance",
+        "Standard Range Plus",
+        "Standard Range RWD"
       ],
       "2024": [
-        "RWD",
         "Long Range AWD",
-        "Performance"
+        "Performance",
+        "RWD"
       ],
       "2025": [
-        "RWD",
         "Long Range AWD",
-        "Performance"
+        "Performance",
+        "RWD"
       ],
       "2026": [
-        "RWD",
         "Long Range AWD",
-        "Performance"
+        "Performance",
+        "RWD"
       ]
     },
     "Model Y": {
@@ -25046,29 +25830,39 @@
         "Performance"
       ],
       "2022": [
-        "Rear-Wheel Drive",
+        "Long Range 7-Seat",
         "Long Range AWD",
-        "Performance"
+        "Performance",
+        "RWD",
+        "Rear-Wheel Drive"
       ],
       "2023": [
-        "Rear-Wheel Drive",
+        "Long Range 7-Seat",
         "Long Range AWD",
-        "Performance"
+        "Performance",
+        "RWD",
+        "Rear-Wheel Drive"
       ],
       "2024": [
-        "Rear-Wheel Drive",
+        "Long Range 7-Seat",
         "Long Range AWD",
-        "Performance"
+        "Performance",
+        "RWD",
+        "Rear-Wheel Drive"
       ],
       "2025": [
-        "Rear-Wheel Drive",
+        "Long Range 7-Seat",
         "Long Range AWD",
-        "Performance"
+        "Performance",
+        "RWD",
+        "Rear-Wheel Drive"
       ],
       "2026": [
-        "Rear-Wheel Drive",
+        "Long Range 7-Seat",
         "Long Range AWD",
-        "Performance"
+        "Performance",
+        "RWD",
+        "Rear-Wheel Drive"
       ]
     },
     "Model S": {
@@ -25077,244 +25871,279 @@
         "Performance"
       ],
       "2014": [
+        "100D",
         "Base",
+        "P100D",
         "Performance"
       ],
       "2015": [
+        "100D",
         "Base",
+        "P100D",
         "Performance"
       ],
       "2016": [
+        "100D",
         "75D",
         "P100D"
       ],
       "2017": [
+        "100D",
         "75D",
         "P100D"
       ],
       "2018": [
+        "100D",
         "75D",
         "P100D"
       ],
       "2019": [
+        "100D",
         "75D",
         "P100D"
       ],
       "2020": [
+        "100D",
         "Long Range",
+        "P100D",
         "Plaid"
       ],
       "2021": [
+        "100D",
         "Long Range",
+        "P100D",
         "Plaid"
       ],
       "2022": [
         "Long Range",
+        "Long Range AWD",
         "Plaid"
       ],
       "2023": [
         "Long Range",
+        "Long Range AWD",
         "Plaid"
       ],
       "2024": [
         "Long Range",
+        "Long Range AWD",
         "Plaid"
       ],
       "2025": [
         "Long Range",
+        "Long Range AWD",
         "Plaid"
       ],
       "2026": [
         "Long Range",
+        "Long Range AWD",
         "Plaid"
       ]
     },
     "Model X": {
       "2016": [
+        "100D",
         "75D",
         "P100D"
       ],
       "2017": [
+        "100D",
         "75D",
         "P100D"
       ],
       "2018": [
+        "100D",
         "75D",
         "P100D"
       ],
       "2019": [
+        "100D",
         "75D",
         "P100D"
       ],
       "2020": [
+        "100D",
         "Long Range",
+        "P100D",
         "Plaid"
       ],
       "2021": [
+        "100D",
         "Long Range",
+        "P100D",
         "Plaid"
       ],
       "2022": [
         "Long Range",
+        "Long Range AWD",
         "Plaid"
       ],
       "2023": [
         "Long Range",
+        "Long Range AWD",
         "Plaid"
       ],
       "2024": [
         "Long Range",
+        "Long Range AWD",
         "Plaid"
       ],
       "2025": [
         "Long Range",
+        "Long Range AWD",
         "Plaid"
       ],
       "2026": [
         "Long Range",
+        "Long Range AWD",
         "Plaid"
       ]
     },
     "Cybertruck": {
       "2024": [
-        "RWD",
         "AWD",
-        "Cyberbeast"
+        "Cyberbeast",
+        "RWD"
       ],
       "2025": [
-        "RWD",
         "AWD",
-        "Cyberbeast"
+        "Cyberbeast",
+        "RWD"
       ],
       "2026": [
-        "RWD",
         "AWD",
-        "Cyberbeast"
+        "Cyberbeast",
+        "RWD"
       ]
     }
   },
   "Isuzu": {
     "D-MAX": {
       "2003": [
-        "SX",
-        "LS"
+        "LS",
+        "SX"
       ],
       "2004": [
-        "SX",
-        "LS"
+        "LS",
+        "SX"
       ],
       "2005": [
-        "SX",
-        "LS"
+        "LS",
+        "SX"
       ],
       "2006": [
-        "SX",
-        "LS"
+        "LS",
+        "SX"
       ],
       "2007": [
-        "SX",
-        "LS"
+        "LS",
+        "SX"
       ],
       "2008": [
-        "SX",
-        "LS"
+        "LS",
+        "SX"
       ],
       "2009": [
-        "SX",
-        "LS"
+        "LS",
+        "SX"
       ],
       "2010": [
-        "SX",
-        "LS"
+        "LS",
+        "SX"
       ],
       "2011": [
-        "SX",
-        "LS"
+        "LS",
+        "SX"
       ],
       "2012": [
-        "SX",
-        "LS",
-        "LS-U"
-      ],
-      "2013": [
-        "SX",
-        "LS",
-        "LS-U"
-      ],
-      "2014": [
-        "SX",
-        "LS",
-        "LS-U"
-      ],
-      "2015": [
-        "SX",
-        "LS",
-        "LS-U"
-      ],
-      "2016": [
-        "SX",
-        "LS",
-        "LS-U"
-      ],
-      "2017": [
-        "SX",
-        "LS",
-        "LS-U"
-      ],
-      "2018": [
-        "SX",
-        "LS",
-        "LS-U"
-      ],
-      "2019": [
-        "SX",
-        "LS",
-        "LS-U"
-      ],
-      "2020": [
-        "SX",
         "LS",
         "LS-U",
+        "SX"
+      ],
+      "2013": [
+        "LS",
+        "LS-U",
+        "SX"
+      ],
+      "2014": [
+        "LS",
+        "LS-U",
+        "SX"
+      ],
+      "2015": [
+        "LS",
+        "LS-U",
+        "SX"
+      ],
+      "2016": [
+        "LS",
+        "LS-U",
+        "SX"
+      ],
+      "2017": [
+        "LS",
+        "LS-U",
+        "SX"
+      ],
+      "2018": [
+        "LS",
+        "LS-U",
+        "SX"
+      ],
+      "2019": [
+        "LS",
+        "LS-U",
+        "SX"
+      ],
+      "2020": [
+        "LS",
+        "LS-U",
+        "SX",
         "X-Terrain"
       ],
       "2021": [
-        "SX",
         "LS",
         "LS-U",
+        "SX",
         "X-Terrain"
       ],
       "2022": [
-        "SX",
         "LS",
         "LS-U",
+        "SX",
         "X-Terrain"
       ],
       "2023": [
-        "SX",
         "LS",
         "LS-U",
+        "SX",
         "X-Terrain"
       ],
       "2024": [
-        "SX",
         "LS",
         "LS-U",
+        "SX",
         "X-Terrain"
       ],
       "2025": [
-        "SX",
         "LS",
         "LS-U",
+        "SX",
         "X-Terrain"
       ],
       "2026": [
-        "SX",
         "LS",
         "LS-U",
+        "SX",
         "X-Terrain"
       ]
     },
     "MU-X": {
+      "2013": [
+        "LS-M",
+        "LS-T",
+        "LS-U"
+      ],
       "2014": [
         "LS-M",
         "LS-T",
@@ -25353,35 +26182,157 @@
       "2021": [
         "LS-M",
         "LS-T",
-        "LS-U"
+        "LS-U",
+        "RG LS-M",
+        "RG LS-T",
+        "RG LS-U"
       ],
       "2022": [
         "LS-M",
         "LS-T",
         "LS-U",
+        "RG LS-M",
+        "RG LS-T",
+        "RG LS-U",
         "X-Terrain"
       ],
       "2023": [
         "LS-M",
         "LS-T",
         "LS-U",
+        "RG LS-M",
+        "RG LS-T",
+        "RG LS-U",
         "X-Terrain"
       ],
       "2024": [
         "LS-M",
         "LS-T",
         "LS-U",
+        "RG LS-M",
+        "RG LS-T",
+        "RG LS-U",
         "X-Terrain"
       ],
       "2025": [
         "LS-T",
         "LS-U",
+        "RG LS-M",
+        "RG LS-T",
+        "RG LS-U",
         "X-Terrain"
       ],
       "2026": [
         "LS-T",
         "LS-U",
+        "RG LS-M",
+        "RG LS-T",
+        "RG LS-U",
         "X-Terrain"
+      ]
+    },
+    "D-Max": {
+      "2012": [
+        "LS-M Crew Cab",
+        "LS-T Crew Cab",
+        "LS-U Crew Cab",
+        "SX Crew Cab"
+      ],
+      "2013": [
+        "LS-M Crew Cab",
+        "LS-T Crew Cab",
+        "LS-U Crew Cab",
+        "SX Crew Cab"
+      ],
+      "2014": [
+        "LS-M Crew Cab",
+        "LS-T Crew Cab",
+        "LS-U Crew Cab",
+        "SX Crew Cab"
+      ],
+      "2015": [
+        "LS-M Crew Cab",
+        "LS-T Crew Cab",
+        "LS-U Crew Cab",
+        "SX Crew Cab"
+      ],
+      "2016": [
+        "LS-M Crew Cab",
+        "LS-T Crew Cab",
+        "LS-U Crew Cab",
+        "SX Crew Cab"
+      ],
+      "2017": [
+        "LS-M Crew Cab",
+        "LS-T Crew Cab",
+        "LS-U Crew Cab",
+        "SX Crew Cab"
+      ],
+      "2018": [
+        "LS-M Crew Cab",
+        "LS-T Crew Cab",
+        "LS-U Crew Cab",
+        "SX Crew Cab"
+      ],
+      "2019": [
+        "LS-M Crew Cab",
+        "LS-T Crew Cab",
+        "LS-U Crew Cab",
+        "SX Crew Cab"
+      ],
+      "2020": [
+        "LS-M Crew Cab",
+        "LS-T Crew Cab",
+        "LS-U Crew Cab",
+        "SX Crew Cab"
+      ],
+      "2021": [
+        "RG LS-M Crew Cab",
+        "RG LS-T Crew Cab",
+        "RG LS-U Crew Cab",
+        "RG X-Terrain Crew Cab",
+        "SX Crew Cab",
+        "SX Space Cab"
+      ],
+      "2022": [
+        "RG LS-M Crew Cab",
+        "RG LS-T Crew Cab",
+        "RG LS-U Crew Cab",
+        "RG X-Terrain Crew Cab",
+        "SX Crew Cab",
+        "SX Space Cab"
+      ],
+      "2023": [
+        "RG LS-M Crew Cab",
+        "RG LS-T Crew Cab",
+        "RG LS-U Crew Cab",
+        "RG X-Terrain Crew Cab",
+        "SX Crew Cab",
+        "SX Space Cab"
+      ],
+      "2024": [
+        "RG LS-M Crew Cab",
+        "RG LS-T Crew Cab",
+        "RG LS-U Crew Cab",
+        "RG X-Terrain Crew Cab",
+        "SX Crew Cab",
+        "SX Space Cab"
+      ],
+      "2025": [
+        "RG LS-M Crew Cab",
+        "RG LS-T Crew Cab",
+        "RG LS-U Crew Cab",
+        "RG X-Terrain Crew Cab",
+        "SX Crew Cab",
+        "SX Space Cab"
+      ],
+      "2026": [
+        "RG LS-M Crew Cab",
+        "RG LS-T Crew Cab",
+        "RG LS-U Crew Cab",
+        "RG X-Terrain Crew Cab",
+        "SX Crew Cab",
+        "SX Space Cab"
       ]
     }
   },
@@ -25950,33 +26901,51 @@
         "Premium"
       ],
       "2021": [
+        "Hybrid",
         "LUX",
-        "Premium"
+        "Premium",
+        "Ultra AWD",
+        "Ultra Petrol"
       ],
       "2022": [
+        "Hybrid",
         "LUX",
         "Premium",
-        "Ultra"
+        "Ultra",
+        "Ultra AWD",
+        "Ultra Petrol"
       ],
       "2023": [
+        "Hybrid",
         "LUX",
         "Premium",
-        "Ultra"
+        "Ultra",
+        "Ultra AWD",
+        "Ultra Petrol"
       ],
       "2024": [
+        "Hybrid",
         "LUX",
         "Premium",
-        "Ultra PHEV"
+        "Ultra AWD",
+        "Ultra PHEV",
+        "Ultra Petrol"
       ],
       "2025": [
+        "Hybrid",
         "LUX",
         "Premium",
-        "Ultra PHEV"
+        "Ultra AWD",
+        "Ultra PHEV",
+        "Ultra Petrol"
       ],
       "2026": [
+        "Hybrid",
         "LUX",
         "Premium",
-        "Ultra PHEV"
+        "Ultra AWD",
+        "Ultra PHEV",
+        "Ultra Petrol"
       ]
     },
     "Haval H9": {
@@ -26031,31 +27000,37 @@
     },
     "Haval Jolion": {
       "2021": [
+        "Hybrid Ultra",
         "LUX",
         "Premium",
         "Ultra"
       ],
       "2022": [
+        "Hybrid Ultra",
         "LUX",
         "Premium",
         "Ultra"
       ],
       "2023": [
+        "Hybrid Ultra",
         "LUX",
         "Premium",
         "Ultra"
       ],
       "2024": [
+        "Hybrid Ultra",
         "LUX",
         "Premium",
         "Ultra"
       ],
       "2025": [
+        "Hybrid Ultra",
         "LUX",
         "Premium",
         "Ultra"
       ],
       "2026": [
+        "Hybrid Ultra",
         "LUX",
         "Premium",
         "Ultra"
@@ -26063,51 +27038,59 @@
     },
     "Ute": {
       "2021": [
-        "Standard",
+        "Cannon-L",
         "Premium",
-        "Cannon-L"
+        "Standard"
       ],
       "2022": [
-        "Standard",
+        "Cannon-L",
         "Premium",
-        "Cannon-L"
+        "Standard"
       ],
       "2023": [
-        "Standard",
+        "Cannon-L",
         "Premium",
-        "Cannon-L"
+        "Standard"
       ],
       "2024": [
-        "Standard",
+        "Cannon-L",
         "Premium",
-        "Cannon-L"
+        "Standard"
       ],
       "2025": [
-        "Standard",
+        "Cannon-L",
         "Premium",
-        "Cannon-L"
+        "Standard"
       ],
       "2026": [
-        "Standard",
+        "Cannon-L",
         "Premium",
-        "Cannon-L"
+        "Standard"
       ]
     },
     "Tank 300": {
       "2023": [
+        "Adventure",
         "LUX",
+        "Lux",
         "Ultra"
       ],
       "2024": [
+        "Adventure",
         "LUX",
+        "Lux",
         "Ultra"
       ],
       "2025": [
+        "Adventure",
         "LUX",
+        "Lux",
         "Ultra PHEV"
       ],
       "2026": [
+        "Adventure",
         "LUX",
+        "Lux",
         "Ultra PHEV"
       ]
     },
@@ -26129,100 +27112,119 @@
   "BYD": {
     "Atto 3": {
       "2022": [
-        "Standard Range",
-        "Extended Range"
+        "Extended Range",
+        "Standard Range"
       ],
       "2023": [
-        "Standard Range",
-        "Extended Range"
+        "Extended Range",
+        "Standard Range"
       ],
       "2024": [
-        "Standard Range",
-        "Extended Range"
+        "Extended Range",
+        "Standard Range"
       ],
       "2025": [
-        "Standard Range",
-        "Extended Range"
+        "Extended Range",
+        "Standard Range"
       ],
       "2026": [
-        "Standard Range",
-        "Extended Range"
+        "Extended Range",
+        "Standard Range"
       ]
     },
     "Seal": {
       "2023": [
-        "Standard Range RWD",
+        "AWD Performance",
         "Long Range RWD",
-        "AWD Performance"
+        "RWD Extended Range",
+        "RWD Standard Range",
+        "Standard Range RWD"
       ],
       "2024": [
-        "Standard Range RWD",
+        "AWD Performance",
         "Long Range RWD",
-        "AWD Performance"
+        "RWD Extended Range",
+        "RWD Standard Range",
+        "Standard Range RWD"
       ],
       "2025": [
-        "Standard Range RWD",
+        "AWD Performance",
         "Long Range RWD",
-        "AWD Performance"
+        "RWD Extended Range",
+        "RWD Standard Range",
+        "Standard Range RWD"
       ],
       "2026": [
-        "Standard Range RWD",
+        "AWD Performance",
         "Long Range RWD",
-        "AWD Performance"
+        "RWD Extended Range",
+        "RWD Standard Range",
+        "Standard Range RWD"
       ]
     },
     "Dolphin": {
       "2023": [
-        "Standard Range",
-        "Extended Range"
+        "Extended Range",
+        "Standard Range"
       ],
       "2024": [
-        "Standard Range",
-        "Extended Range"
+        "Extended Range",
+        "Standard Range"
       ],
       "2025": [
-        "Standard Range",
-        "Extended Range"
+        "Extended Range",
+        "Standard Range"
       ],
       "2026": [
-        "Standard Range",
-        "Extended Range"
+        "Extended Range",
+        "Standard Range"
       ]
     },
     "Shark": {
+      "2024": [
+        "6"
+      ],
       "2025": [
+        "6",
         "Premium"
       ],
       "2026": [
+        "6",
         "Premium"
       ]
     },
     "Sealion 6": {
       "2024": [
         "PHEV",
-        "PHEV AWD"
+        "PHEV AWD",
+        "Premium AWD",
+        "Premium FWD"
       ],
       "2025": [
         "PHEV",
-        "PHEV AWD"
+        "PHEV AWD",
+        "Premium AWD",
+        "Premium FWD"
       ],
       "2026": [
         "PHEV",
-        "PHEV AWD"
+        "PHEV AWD",
+        "Premium AWD",
+        "Premium FWD"
       ]
     },
     "Sealion 7": {
       "2024": [
-        "Standard Range",
-        "Long Range AWD"
+        "Long Range AWD",
+        "Standard Range"
       ],
       "2025": [
-        "Standard Range",
-        "Long Range AWD"
+        "Long Range AWD",
+        "Standard Range"
       ],
       "2026": [
-        "Standard Range",
-        "Long Range AWD"
+        "Long Range AWD",
+        "Standard Range"
       ]
     }
   },
@@ -26230,76 +27232,119 @@
     "G70": {
       "2019": [
         "2.0T",
-        "3.3T Sport"
+        "2.0T Sport",
+        "3.3T Sport",
+        "3.3T Sport+"
       ],
       "2020": [
         "2.0T",
-        "3.3T Sport"
+        "2.0T Sport",
+        "3.3T Sport",
+        "3.3T Sport+"
       ],
       "2021": [
         "2.0T",
-        "3.3T Sport"
+        "2.0T Sport",
+        "3.3T Sport",
+        "3.3T Sport+"
       ],
       "2022": [
         "2.0T",
-        "3.3T Sport"
+        "2.0T Sport",
+        "3.3T Sport",
+        "3.3T Sport+",
+        "Shooting Brake 2.0T"
       ],
       "2023": [
         "2.0T",
-        "3.3T Sport"
+        "2.0T Sport",
+        "3.3T Sport",
+        "3.3T Sport+",
+        "Shooting Brake 2.0T"
       ],
       "2024": [
         "2.0T",
-        "3.3T Sport"
+        "2.0T Sport",
+        "3.3T Sport",
+        "3.3T Sport+",
+        "Shooting Brake 2.0T"
       ],
       "2025": [
         "2.0T",
-        "3.3T Sport"
+        "2.0T Sport",
+        "3.3T Sport",
+        "3.3T Sport+",
+        "Shooting Brake 2.0T"
       ],
       "2026": [
         "2.0T",
-        "3.3T Sport"
+        "2.0T Sport",
+        "3.3T Sport",
+        "3.3T Sport+",
+        "Shooting Brake 2.0T"
       ]
     },
     "G80": {
+      "2017": [
+        "2.0T",
+        "3.3T"
+      ],
+      "2018": [
+        "2.0T",
+        "3.3T"
+      ],
       "2019": [
         "2.0T",
+        "3.3T",
         "3.3T Sport",
         "5.0"
       ],
       "2020": [
         "2.0T",
+        "3.3T",
         "3.3T Sport",
         "5.0"
       ],
       "2021": [
         "2.5T",
+        "2.5T Sport",
         "3.5T",
+        "3.5T Sport+",
         "Electrified"
       ],
       "2022": [
         "2.5T",
+        "2.5T Sport",
         "3.5T",
+        "3.5T Sport+",
         "Electrified"
       ],
       "2023": [
         "2.5T",
+        "2.5T Sport",
         "3.5T",
+        "3.5T Sport+",
         "Electrified"
       ],
       "2024": [
         "2.5T",
+        "2.5T Sport",
         "3.5T",
+        "3.5T Sport+",
         "Electrified"
       ],
       "2025": [
         "2.5T",
+        "2.5T Sport",
         "3.5T",
+        "3.5T Sport+",
         "Electrified"
       ],
       "2026": [
         "2.5T",
+        "2.5T Sport",
         "3.5T",
+        "3.5T Sport+",
         "Electrified"
       ]
     },
@@ -26340,57 +27385,81 @@
     "GV70": {
       "2021": [
         "2.5T",
-        "3.5T"
+        "2.5T Sport",
+        "3.5T",
+        "3.5T Sport+"
       ],
       "2022": [
         "2.5T",
-        "3.5T"
+        "2.5T Sport",
+        "3.5T",
+        "3.5T Sport+"
       ],
       "2023": [
         "2.5T",
+        "2.5T Sport",
         "3.5T",
+        "3.5T Sport+",
         "Electrified"
       ],
       "2024": [
         "2.5T",
+        "2.5T Sport",
         "3.5T",
+        "3.5T Sport+",
         "Electrified"
       ],
       "2025": [
         "2.5T",
+        "2.5T Sport",
+        "3.5T Sport+",
         "Electrified"
       ],
       "2026": [
         "2.5T",
+        "2.5T Sport",
+        "3.5T Sport+",
         "Electrified"
       ]
     },
     "GV80": {
       "2021": [
         "2.5T",
-        "3.5T"
+        "2.5T Sport",
+        "3.5T",
+        "3.5T Sport+"
       ],
       "2022": [
         "2.5T",
-        "3.5T"
+        "2.5T Sport",
+        "3.5T",
+        "3.5T Sport+"
       ],
       "2023": [
         "2.5T",
-        "3.5T"
+        "2.5T Sport",
+        "3.5T",
+        "3.5T Sport+"
       ],
       "2024": [
         "2.5T",
+        "2.5T Sport",
         "3.5T",
+        "3.5T Sport+",
         "Electrified"
       ],
       "2025": [
         "2.5T",
+        "2.5T Sport",
         "3.5T",
+        "3.5T Sport+",
         "Electrified"
       ],
       "2026": [
         "2.5T",
+        "2.5T Sport",
         "3.5T",
+        "3.5T Sport+",
         "Electrified"
       ]
     }
@@ -26398,113 +27467,136 @@
   "Jeep": {
     "Wrangler": {
       "2005": [
-        "Sport",
+        "Rubicon",
         "Sahara",
-        "Rubicon"
+        "Sport"
       ],
       "2006": [
-        "Sport",
+        "Rubicon",
         "Sahara",
-        "Rubicon"
+        "Sport"
       ],
       "2007": [
-        "Sport",
+        "Rubicon",
         "Sahara",
-        "Rubicon"
+        "Sport"
       ],
       "2008": [
-        "Sport",
+        "Rubicon",
         "Sahara",
-        "Rubicon"
+        "Sport"
       ],
       "2009": [
-        "Sport",
+        "Rubicon",
         "Sahara",
-        "Rubicon"
+        "Sport"
       ],
       "2010": [
-        "Sport",
+        "Rubicon",
         "Sahara",
-        "Rubicon"
+        "Sport"
       ],
       "2011": [
-        "Sport",
+        "Rubicon",
         "Sahara",
-        "Rubicon"
+        "Sport"
       ],
       "2012": [
-        "Sport",
+        "Rubicon",
         "Sahara",
-        "Rubicon"
+        "Sport"
       ],
       "2013": [
-        "Sport",
+        "Rubicon",
         "Sahara",
-        "Rubicon"
+        "Sport"
       ],
       "2014": [
-        "Sport",
+        "Rubicon",
         "Sahara",
-        "Rubicon"
+        "Sport"
       ],
       "2016": [
-        "Sport",
-        "Sport S",
+        "Rubicon",
         "Sahara",
-        "Rubicon"
+        "Sport",
+        "Sport S"
       ],
       "2017": [
-        "Sport",
-        "Sport S",
+        "Rubicon",
         "Sahara",
-        "Rubicon"
+        "Sport",
+        "Sport S"
       ],
       "2018": [
-        "Sport",
-        "Sport S",
+        "Rubicon",
+        "Rubicon 4dr",
         "Sahara",
-        "Rubicon"
+        "Sport",
+        "Sport S"
       ],
       "2019": [
-        "Sport",
-        "Sport S",
+        "Rubicon",
+        "Rubicon 4dr",
         "Sahara",
-        "Rubicon"
+        "Sport",
+        "Sport S"
       ],
       "2020": [
-        "Sport S",
-        "Sahara",
+        "4xe",
         "Rubicon",
         "Rubicon 392",
-        "4xe"
+        "Rubicon 4dr",
+        "Sahara",
+        "Sport S"
       ],
       "2021": [
-        "Sport S",
-        "Sahara",
+        "392",
+        "4xe",
         "Rubicon",
         "Rubicon 392",
-        "4xe"
+        "Rubicon 4dr",
+        "Sahara",
+        "Sport S"
       ],
       "2022": [
-        "Sport S",
-        "Sahara",
+        "392",
+        "4xe",
         "Rubicon",
         "Rubicon 392",
-        "4xe"
+        "Rubicon 4dr",
+        "Sahara",
+        "Sport S"
       ],
       "2023": [
-        "Sport S",
-        "Sahara",
+        "392",
+        "4xe",
         "Rubicon",
         "Rubicon 392",
-        "4xe"
+        "Rubicon 4dr",
+        "Sahara",
+        "Sport S"
       ],
       "2024": [
-        "Sport S",
-        "Sahara",
+        "392",
+        "4xe",
         "Rubicon",
         "Rubicon 392",
-        "4xe"
+        "Rubicon 4dr",
+        "Sahara",
+        "Sport S"
+      ],
+      "2025": [
+        "392",
+        "4xe",
+        "Rubicon",
+        "Rubicon 4dr"
+      ],
+      "2026": [
+        "392",
+        "4xe",
+        "Rubicon",
+        "Rubicon 4dr"
       ]
     },
     "Grand Cherokee": {
@@ -26556,286 +27648,308 @@
       "2014": [
         "Laredo",
         "Limited",
-        "Summit",
         "SRT",
+        "Summit",
         "Trackhawk"
       ],
       "2015": [
         "Laredo",
         "Limited",
-        "Summit",
         "SRT",
+        "Summit",
         "Trackhawk"
       ],
       "2016": [
         "Laredo",
         "Limited",
-        "Summit",
         "SRT",
+        "Summit",
         "Trackhawk"
       ],
       "2017": [
         "Laredo",
         "Limited",
-        "Summit",
         "SRT",
+        "Summit",
         "Trackhawk"
       ],
       "2018": [
         "Laredo",
         "Limited",
-        "Summit",
         "SRT",
+        "Summit",
         "Trackhawk"
       ],
       "2020": [
+        "4xe",
         "Laredo",
         "Limited",
-        "Summit",
-        "4xe"
+        "Summit"
       ],
       "2021": [
+        "4xe",
         "Laredo",
         "Limited",
+        "Overland",
         "Summit",
-        "4xe"
+        "Trailhawk L"
       ],
       "2022": [
+        "4xe",
         "Laredo",
         "Limited",
+        "Overland",
         "Summit",
-        "4xe"
+        "Trailhawk L"
       ],
       "2023": [
+        "4xe",
         "Laredo",
         "Limited",
+        "Overland",
         "Summit",
-        "4xe"
+        "Trailhawk L"
       ],
       "2024": [
+        "4xe",
         "Laredo",
         "Limited",
+        "Overland",
         "Summit",
-        "4xe"
+        "Trailhawk L"
+      ],
+      "2025": [
+        "4xe",
+        "Limited",
+        "Overland",
+        "Summit",
+        "Trailhawk L"
+      ],
+      "2026": [
+        "4xe",
+        "Limited",
+        "Overland",
+        "Summit",
+        "Trailhawk L"
       ]
     },
     "Cherokee": {
       "2006": [
-        "Sport",
-        "Limited"
+        "Limited",
+        "Sport"
       ],
       "2007": [
-        "Sport",
-        "Limited"
+        "Limited",
+        "Sport"
       ],
       "2008": [
-        "Sport",
-        "Limited"
+        "Limited",
+        "Sport"
       ],
       "2009": [
-        "Sport",
-        "Limited"
+        "Limited",
+        "Sport"
       ],
       "2010": [
-        "Sport",
-        "Limited"
+        "Limited",
+        "Sport"
       ],
       "2012": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2013": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2014": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2015": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2016": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2017": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2018": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2019": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2020": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2021": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ]
     },
     "Compass": {
       "2015": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2016": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2017": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2018": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2019": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2020": [
-        "Sport",
-        "Longitude",
+        "4xe",
         "Limited",
-        "Trailhawk",
-        "4xe"
+        "Longitude",
+        "Sport",
+        "Trailhawk"
       ],
       "2021": [
-        "Sport",
-        "Longitude",
+        "4xe",
         "Limited",
-        "Trailhawk",
-        "4xe"
+        "Longitude",
+        "Sport",
+        "Trailhawk"
       ],
       "2022": [
-        "Sport",
-        "Longitude",
+        "4xe",
         "Limited",
-        "Trailhawk",
-        "4xe"
+        "Longitude",
+        "Sport",
+        "Trailhawk"
       ],
       "2023": [
-        "Sport",
-        "Longitude",
+        "4xe",
         "Limited",
-        "Trailhawk",
-        "4xe"
+        "Longitude",
+        "Sport",
+        "Trailhawk"
       ],
       "2024": [
-        "Sport",
-        "Longitude",
+        "4xe",
         "Limited",
-        "Trailhawk",
-        "4xe"
+        "Longitude",
+        "Sport",
+        "Trailhawk"
       ]
     },
     "Renegade": {
       "2015": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2016": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2017": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2018": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2019": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2020": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2021": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ],
       "2022": [
-        "Sport",
         "Limited",
+        "Sport",
         "Trailhawk"
       ]
     },
     "Gladiator": {
       "2018": [
-        "Sport S",
         "Overland",
-        "Rubicon"
+        "Rubicon",
+        "Sport S"
       ],
       "2019": [
-        "Sport S",
         "Overland",
-        "Rubicon"
+        "Rubicon",
+        "Sport S"
       ],
       "2020": [
-        "Sport S",
         "Overland",
-        "Rubicon"
+        "Rubicon",
+        "Sport S"
       ],
       "2021": [
-        "Sport S",
         "Overland",
-        "Rubicon"
+        "Rubicon",
+        "Sport S"
       ],
       "2022": [
-        "Sport S",
         "Overland",
-        "Rubicon"
+        "Rubicon",
+        "Sport S"
       ],
       "2023": [
-        "Sport S",
-        "Rubicon"
+        "Rubicon",
+        "Sport S"
       ],
       "2024": [
-        "Sport S",
-        "Rubicon"
+        "Rubicon",
+        "Sport S"
       ],
       "2025": [
-        "Sport S",
-        "Rubicon"
+        "Rubicon",
+        "Sport S"
       ],
       "2026": [
-        "Sport S",
-        "Rubicon"
+        "Rubicon",
+        "Sport S"
       ]
     }
   },
@@ -26843,94 +27957,119 @@
     "1500": {
       "2019": [
         "Express",
-        "Warlock",
         "Laramie",
-        "Limited"
+        "Limited",
+        "Longhorn",
+        "Warlock"
       ],
       "2020": [
         "Express",
-        "Warlock",
         "Laramie",
-        "Limited"
+        "Limited",
+        "Longhorn",
+        "Warlock"
       ],
       "2021": [
         "Express",
-        "Warlock",
         "Laramie",
-        "Limited"
+        "Limited",
+        "Longhorn",
+        "TRX",
+        "Warlock"
       ],
       "2022": [
         "Express",
-        "Warlock",
         "Laramie",
-        "Limited"
+        "Limited",
+        "Longhorn",
+        "TRX",
+        "Warlock"
       ],
       "2023": [
         "Express",
-        "Warlock",
         "Laramie",
-        "Limited"
+        "Limited",
+        "Longhorn",
+        "TRX",
+        "Warlock"
       ],
       "2024": [
         "Express",
-        "Warlock",
         "Laramie",
-        "Limited"
+        "Limited",
+        "Longhorn",
+        "TRX",
+        "Warlock"
       ],
       "2025": [
         "Express",
-        "Warlock",
         "Laramie",
-        "Limited"
+        "Limited",
+        "Longhorn",
+        "TRX",
+        "Warlock"
       ],
       "2026": [
         "Express",
-        "Warlock",
         "Laramie",
-        "Limited"
+        "Limited",
+        "Longhorn",
+        "TRX",
+        "Warlock"
       ]
     },
     "2500": {
+      "2020": [
+        "Laramie",
+        "Limited",
+        "Longhorn"
+      ],
       "2021": [
         "Laramie",
+        "Limited",
         "Longhorn"
       ],
       "2022": [
         "Laramie",
+        "Limited",
         "Longhorn"
       ],
       "2023": [
         "Laramie",
+        "Limited",
         "Longhorn"
       ],
       "2024": [
         "Laramie",
+        "Limited",
         "Longhorn"
       ],
       "2025": [
         "Laramie",
+        "Limited",
         "Longhorn"
       ],
       "2026": [
         "Laramie",
+        "Limited",
         "Longhorn"
       ]
     },
     "1500 Classic": {
       "2019": [
         "Express",
-        "Warlock",
-        "Laramie Sport"
+        "Laramie Sport",
+        "Warlock"
       ],
       "2020": [
         "Express",
-        "Warlock",
-        "Laramie Sport"
+        "Laramie Sport",
+        "Warlock"
       ],
       "2021": [
         "Express",
-        "Warlock",
-        "Laramie Sport"
+        "Laramie Sport",
+        "Warlock"
       ]
     },
     "1500 TRX": {
@@ -26954,122 +28093,166 @@
   "Alfa Romeo": {
     "Giulia": {
       "2017": [
+        "200hp",
+        "280hp Sport",
+        "Quadrifoglio",
         "Ti",
-        "Veloce",
-        "Quadrifoglio"
+        "Veloce"
       ],
       "2018": [
+        "200hp",
+        "280hp Sport",
+        "Quadrifoglio",
         "Ti",
-        "Veloce",
-        "Quadrifoglio"
+        "Veloce"
       ],
       "2019": [
+        "200hp",
+        "280hp Sport",
+        "Quadrifoglio",
         "Ti",
-        "Veloce",
-        "Quadrifoglio"
+        "Veloce"
       ],
       "2020": [
+        "200hp",
+        "280hp Sport",
+        "Quadrifoglio",
         "Ti",
-        "Veloce",
-        "Quadrifoglio"
+        "Veloce"
       ],
       "2021": [
+        "200hp",
+        "280hp Sport",
+        "Quadrifoglio",
         "Ti",
-        "Veloce",
-        "Quadrifoglio"
+        "Veloce"
       ],
       "2022": [
+        "200hp",
+        "280hp Sport",
+        "Quadrifoglio",
         "Ti",
-        "Veloce",
-        "Quadrifoglio"
+        "Veloce"
       ],
       "2023": [
+        "200hp",
+        "280hp Sport",
+        "Quadrifoglio",
         "Ti",
-        "Veloce",
-        "Quadrifoglio"
+        "Veloce"
       ],
       "2024": [
+        "200hp",
+        "280hp Sport",
+        "Quadrifoglio",
         "Ti",
-        "Veloce",
-        "Quadrifoglio"
+        "Veloce"
       ],
       "2025": [
+        "200hp",
+        "280hp Sport",
+        "Quadrifoglio",
         "Ti",
-        "Veloce",
-        "Quadrifoglio"
+        "Veloce"
       ],
       "2026": [
+        "200hp",
+        "280hp Sport",
+        "Quadrifoglio",
         "Ti",
-        "Veloce",
-        "Quadrifoglio"
+        "Veloce"
       ]
     },
     "Stelvio": {
       "2017": [
+        "200hp",
+        "280hp Sport",
+        "Quadrifoglio",
         "Ti",
-        "Veloce",
-        "Quadrifoglio"
+        "Veloce"
       ],
       "2018": [
+        "200hp",
+        "280hp Sport",
+        "Quadrifoglio",
         "Ti",
-        "Veloce",
-        "Quadrifoglio"
+        "Veloce"
       ],
       "2019": [
+        "200hp",
+        "280hp Sport",
+        "Quadrifoglio",
         "Ti",
-        "Veloce",
-        "Quadrifoglio"
+        "Veloce"
       ],
       "2020": [
+        "200hp",
+        "280hp Sport",
+        "Quadrifoglio",
         "Ti",
-        "Veloce",
-        "Quadrifoglio"
+        "Veloce"
       ],
       "2021": [
+        "200hp",
+        "280hp Sport",
+        "Quadrifoglio",
         "Ti",
-        "Veloce",
-        "Quadrifoglio"
+        "Veloce"
       ],
       "2022": [
+        "200hp",
+        "280hp Sport",
+        "Quadrifoglio",
         "Ti",
-        "Veloce",
-        "Quadrifoglio"
+        "Veloce"
       ],
       "2023": [
+        "200hp",
+        "280hp Sport",
+        "Quadrifoglio",
         "Ti",
-        "Veloce",
-        "Quadrifoglio"
+        "Veloce"
       ],
       "2024": [
+        "200hp",
+        "280hp Sport",
+        "Quadrifoglio",
         "Ti",
-        "Veloce",
-        "Quadrifoglio"
+        "Veloce"
       ],
       "2025": [
+        "200hp",
+        "280hp Sport",
+        "Quadrifoglio",
         "Ti",
-        "Veloce",
-        "Quadrifoglio"
+        "Veloce"
       ],
       "2026": [
+        "200hp",
+        "280hp Sport",
+        "Quadrifoglio",
         "Ti",
-        "Veloce",
-        "Quadrifoglio"
+        "Veloce"
       ]
     },
     "Tonale": {
       "2023": [
+        "PHEV",
         "Sprint",
         "Veloce PHEV"
       ],
       "2024": [
+        "PHEV",
         "Sprint",
         "Veloce PHEV"
       ],
       "2025": [
+        "PHEV",
         "Sprint",
         "Veloce PHEV"
       ],
       "2026": [
+        "PHEV",
         "Sprint",
         "Veloce PHEV"
       ]
@@ -27078,66 +28261,96 @@
   "Jaguar": {
     "F-Pace": {
       "2016": [
+        "P250 S",
+        "P300 R-Dynamic SE",
+        "Portfolio",
         "Prestige",
         "R-Sport",
-        "Portfolio",
         "SVR"
       ],
       "2017": [
+        "P250 S",
+        "P300 R-Dynamic SE",
+        "Portfolio",
         "Prestige",
         "R-Sport",
-        "Portfolio",
         "SVR"
       ],
       "2018": [
+        "P250 S",
+        "P300 R-Dynamic SE",
+        "Portfolio",
         "Prestige",
         "R-Sport",
-        "Portfolio",
         "SVR"
       ],
       "2019": [
+        "P250 S",
+        "P300 R-Dynamic SE",
+        "P400e R-Dynamic SE",
+        "Portfolio",
         "Prestige",
         "R-Sport",
-        "Portfolio",
         "SVR"
       ],
       "2020": [
+        "P250 S",
+        "P300 R-Dynamic SE",
+        "P400e R-Dynamic SE",
+        "Portfolio",
         "Prestige",
         "R-Sport",
-        "Portfolio",
         "SVR"
       ],
       "2021": [
+        "P250 S",
+        "P300 R-Dynamic SE",
+        "P400e R-Dynamic SE",
         "Prestige",
         "R-Dynamic S",
         "R-Dynamic SE",
         "SVR"
       ],
       "2022": [
+        "P250 S",
+        "P300 R-Dynamic SE",
+        "P400e R-Dynamic SE",
         "Prestige",
         "R-Dynamic S",
         "R-Dynamic SE",
         "SVR"
       ],
       "2023": [
+        "P250 S",
+        "P300 R-Dynamic SE",
+        "P400e R-Dynamic SE",
         "Prestige",
         "R-Dynamic S",
         "R-Dynamic SE",
         "SVR"
       ],
       "2024": [
+        "P250 S",
+        "P300 R-Dynamic SE",
+        "P400e R-Dynamic SE",
         "Prestige",
         "R-Dynamic S",
         "R-Dynamic SE",
         "SVR"
       ],
       "2025": [
+        "P250 S",
+        "P300 R-Dynamic SE",
+        "P400e R-Dynamic SE",
         "Prestige",
         "R-Dynamic S",
         "R-Dynamic SE",
         "SVR"
       ],
       "2026": [
+        "P250 S",
+        "P300 R-Dynamic SE",
+        "P400e R-Dynamic SE",
         "Prestige",
         "R-Dynamic S",
         "R-Dynamic SE",
@@ -27146,59 +28359,115 @@
     },
     "F-Type": {
       "2013": [
+        "P300 Convertible",
+        "P300 Coupe",
+        "P450 R Coupe",
+        "P575 R Coupe",
         "V6 S",
         "V8 R"
       ],
       "2014": [
+        "P300 Convertible",
+        "P300 Coupe",
+        "P450 R Coupe",
+        "P575 R Coupe",
         "V6 S",
         "V8 R"
       ],
       "2015": [
+        "P300 Convertible",
+        "P300 Coupe",
+        "P450 R Coupe",
+        "P575 R Coupe",
         "V6 S",
         "V8 R"
       ],
       "2016": [
+        "P300 Convertible",
+        "P300 Coupe",
+        "P450 R Coupe",
+        "P575 R Coupe",
         "V6 S",
         "V8 R"
       ],
       "2017": [
+        "P300 Convertible",
+        "P300 Coupe",
+        "P450 R Coupe",
+        "P575 R Coupe",
         "V6 S",
         "V8 R"
       ],
       "2018": [
+        "P300 Convertible",
+        "P300 Coupe",
+        "P450 R Coupe",
+        "P575 R Coupe",
         "V6 S",
         "V8 R"
       ],
       "2019": [
+        "P300 Convertible",
+        "P300 Coupe",
+        "P450 R Coupe",
+        "P575 R Coupe",
         "V6 S",
         "V8 R"
       ],
       "2020": [
         "P300",
+        "P300 Convertible",
+        "P300 Coupe",
+        "P450 R Coupe",
+        "P575 R Coupe",
         "R"
       ],
       "2021": [
         "P300",
+        "P300 Convertible",
+        "P300 Coupe",
+        "P450 R Coupe",
+        "P575 R Coupe",
         "R"
       ],
       "2022": [
         "P300",
+        "P300 Convertible",
+        "P300 Coupe",
+        "P450 R Coupe",
+        "P575 R Coupe",
         "R"
       ],
       "2023": [
         "P300",
+        "P300 Convertible",
+        "P300 Coupe",
+        "P450 R Coupe",
+        "P575 R Coupe",
         "R"
       ],
       "2024": [
         "P300",
+        "P300 Convertible",
+        "P300 Coupe",
+        "P450 R Coupe",
+        "P575 R Coupe",
         "R"
       ],
       "2025": [
         "P300",
+        "P300 Convertible",
+        "P300 Coupe",
+        "P450 R Coupe",
+        "P575 R Coupe",
         "R"
       ],
       "2026": [
         "P300",
+        "P300 Convertible",
+        "P300 Coupe",
+        "P450 R Coupe",
+        "P575 R Coupe",
         "R"
       ]
     },
@@ -27277,64 +28546,92 @@
       "2015": [
         "20d",
         "P250",
-        "S"
+        "P300 R-Sport",
+        "S",
+        "SV Project 8"
       ],
       "2016": [
         "20d",
         "P250",
-        "S"
+        "P300 R-Sport",
+        "S",
+        "SV Project 8"
       ],
       "2017": [
         "20d",
         "P250",
-        "S"
+        "P300 R-Sport",
+        "S",
+        "SV Project 8"
       ],
       "2018": [
         "20d",
         "P250",
-        "S"
+        "P300 R-Sport",
+        "S",
+        "SV Project 8"
       ],
       "2019": [
         "20d",
         "P250",
-        "S"
+        "P300 R-Sport",
+        "S",
+        "SV Project 8"
       ]
     },
     "XF": {
       "2016": [
         "20d",
+        "D200 SE",
         "P250",
+        "P250 S",
         "P300",
+        "P300 R-Sport",
         "S"
       ],
       "2017": [
         "20d",
+        "D200 SE",
         "P250",
+        "P250 S",
         "P300",
+        "P300 R-Sport",
         "S"
       ],
       "2018": [
         "20d",
+        "D200 SE",
         "P250",
+        "P250 S",
         "P300",
+        "P300 R-Sport",
         "S"
       ],
       "2019": [
         "20d",
+        "D200 SE",
         "P250",
+        "P250 S",
         "P300",
+        "P300 R-Sport",
         "S"
       ],
       "2020": [
         "20d",
+        "D200 SE",
         "P250",
+        "P250 S",
         "P300",
+        "P300 R-Sport",
         "S"
       ],
       "2021": [
         "20d",
+        "D200 SE",
         "P250",
+        "P250 S",
         "P300",
+        "P300 R-Sport",
         "S"
       ]
     }
@@ -27342,80 +28639,188 @@
   "CUPRA": {
     "Formentor": {
       "2021": [
+        "1.4 e-Hybrid",
         "V1",
         "VZ",
+        "VZ 2.0 TSI 4Drive",
         "VZ5"
       ],
       "2022": [
+        "1.4 e-Hybrid",
         "V1",
         "VZ",
+        "VZ 2.0 TSI 4Drive",
         "VZ5"
       ],
       "2023": [
+        "1.4 e-Hybrid",
         "V1",
         "VZ",
+        "VZ 2.0 TSI 4Drive",
         "VZ5"
       ],
       "2024": [
+        "1.4 e-Hybrid",
         "V1",
         "VZ",
+        "VZ 2.0 TSI 4Drive",
         "VZ5"
       ],
       "2025": [
+        "1.4 e-Hybrid",
         "V1",
         "VZ",
+        "VZ 2.0 TSI 4Drive",
         "VZ5"
       ],
       "2026": [
+        "1.4 e-Hybrid",
         "V1",
         "VZ",
+        "VZ 2.0 TSI 4Drive",
         "VZ5"
       ]
     },
     "Born": {
+      "2022": [
+        "58 kWh",
+        "77 kWh",
+        "VZ 77 kWh"
+      ],
       "2023": [
+        "58 kWh",
+        "77 kWh",
         "V1",
-        "VZ"
+        "VZ",
+        "VZ 77 kWh"
       ],
       "2024": [
+        "58 kWh",
+        "77 kWh",
         "V1",
-        "VZ"
+        "VZ",
+        "VZ 77 kWh"
       ],
       "2025": [
+        "58 kWh",
+        "77 kWh",
         "V1",
-        "VZ"
+        "VZ",
+        "VZ 77 kWh"
       ],
       "2026": [
+        "58 kWh",
+        "77 kWh",
         "V1",
-        "VZ"
+        "VZ",
+        "VZ 77 kWh"
+      ]
+    },
+    "Terramar": {
+      "2024": [
+        "1.5 e-Hybrid",
+        "VZ 2.0 4Drive"
+      ],
+      "2025": [
+        "1.5 e-Hybrid",
+        "VZ 2.0 4Drive"
+      ],
+      "2026": [
+        "1.5 e-Hybrid",
+        "VZ 2.0 4Drive"
       ]
     }
   },
   "Polestar": {
-    "Polestar 2": {
+    "2": {
       "2021": [
+        "Long Range AWD",
         "Long Range Single Motor",
-        "Long Range Dual Motor"
+        "Standard Range"
       ],
       "2022": [
+        "BST Edition 270",
+        "Long Range AWD",
         "Long Range Single Motor",
-        "Long Range Dual Motor"
+        "Standard Range"
       ],
       "2023": [
+        "BST Edition 270",
+        "Long Range AWD",
         "Long Range Single Motor",
-        "Long Range Dual Motor"
+        "Standard Range"
       ],
       "2024": [
+        "BST Edition 270",
+        "Long Range AWD",
         "Long Range Single Motor",
-        "Long Range Dual Motor"
+        "Standard Range"
       ],
       "2025": [
+        "BST Edition 270",
+        "Long Range AWD",
         "Long Range Single Motor",
-        "Long Range Dual Motor"
+        "Standard Range"
       ],
       "2026": [
+        "BST Edition 270",
+        "Long Range AWD",
         "Long Range Single Motor",
-        "Long Range Dual Motor"
+        "Standard Range"
+      ]
+    },
+    "3": {
+      "2024": [
+        "Long Range AWD",
+        "Long Range AWD Performance"
+      ],
+      "2025": [
+        "Long Range AWD",
+        "Long Range AWD Performance"
+      ],
+      "2026": [
+        "Long Range AWD",
+        "Long Range AWD Performance"
+      ]
+    },
+    "4": {
+      "2024": [
+        "Long Range AWD",
+        "Standard Range"
+      ],
+      "2025": [
+        "Long Range AWD",
+        "Standard Range"
+      ],
+      "2026": [
+        "Long Range AWD",
+        "Standard Range"
+      ]
+    },
+    "Polestar 2": {
+      "2021": [
+        "Long Range Dual Motor",
+        "Long Range Single Motor"
+      ],
+      "2022": [
+        "Long Range Dual Motor",
+        "Long Range Single Motor"
+      ],
+      "2023": [
+        "Long Range Dual Motor",
+        "Long Range Single Motor"
+      ],
+      "2024": [
+        "Long Range Dual Motor",
+        "Long Range Single Motor"
+      ],
+      "2025": [
+        "Long Range Dual Motor",
+        "Long Range Single Motor"
+      ],
+      "2026": [
+        "Long Range Dual Motor",
+        "Long Range Single Motor"
       ]
     },
     "Polestar 3": {
@@ -27434,186 +28839,270 @@
     },
     "Polestar 4": {
       "2024": [
-        "Long Range Single Motor",
-        "Long Range Dual Motor"
+        "Long Range Dual Motor",
+        "Long Range Single Motor"
       ],
       "2025": [
-        "Long Range Single Motor",
-        "Long Range Dual Motor"
+        "Long Range Dual Motor",
+        "Long Range Single Motor"
       ],
       "2026": [
-        "Long Range Single Motor",
-        "Long Range Dual Motor"
+        "Long Range Dual Motor",
+        "Long Range Single Motor"
       ]
     }
   },
   "Skoda": {
     "Octavia": {
       "2014": [
-        "Style",
-        "RS"
+        "RS",
+        "Style"
       ],
       "2015": [
-        "Style",
-        "RS"
+        "110 TSI",
+        "110 TSI Ambition",
+        "RS",
+        "RS 230",
+        "RS 245",
+        "Style"
       ],
       "2016": [
-        "Style",
-        "RS"
+        "110 TSI",
+        "110 TSI Ambition",
+        "RS",
+        "RS 230",
+        "RS 245",
+        "Style"
       ],
       "2017": [
-        "Style",
-        "RS"
+        "110 TSI",
+        "110 TSI Ambition",
+        "RS",
+        "RS 230",
+        "RS 245",
+        "Style"
       ],
       "2018": [
-        "Style",
-        "RS"
+        "110 TSI",
+        "110 TSI Ambition",
+        "RS",
+        "RS 230",
+        "RS 245",
+        "Style"
       ],
       "2019": [
-        "Style",
-        "RS"
+        "110 TSI",
+        "110 TSI Ambition",
+        "RS",
+        "RS 230",
+        "RS 245",
+        "Style"
       ],
       "2020": [
-        "Style",
-        "RS"
+        "110 TSI",
+        "110 TSI Ambition",
+        "RS",
+        "RS 230",
+        "RS 245",
+        "Style"
       ],
       "2021": [
+        "Ambition 110 TSI",
+        "RS",
+        "RS 245",
         "Style",
-        "RS"
+        "Style 140 TSI"
       ],
       "2022": [
+        "Ambition 110 TSI",
+        "RS",
+        "RS 245",
         "Style",
-        "RS"
+        "Style 140 TSI"
       ],
       "2023": [
+        "Ambition 110 TSI",
+        "RS",
+        "RS 245",
         "Style",
-        "RS"
+        "Style 140 TSI"
       ],
       "2024": [
+        "Ambition 110 TSI",
+        "RS",
+        "RS 245",
         "Style",
-        "RS"
+        "Style 140 TSI"
       ],
       "2025": [
+        "Ambition 110 TSI",
+        "RS",
+        "RS 245",
         "Style",
-        "RS"
+        "Style 140 TSI"
       ],
       "2026": [
+        "Ambition 110 TSI",
+        "RS",
+        "RS 245",
         "Style",
-        "RS"
+        "Style 140 TSI"
       ]
     },
     "Superb": {
       "2016": [
-        "Style",
-        "Sportline"
+        "Sportline",
+        "Style"
       ],
       "2017": [
-        "Style",
-        "Sportline"
+        "Sportline",
+        "Style"
       ],
       "2018": [
-        "Style",
-        "Sportline"
+        "Sportline",
+        "Style"
       ],
       "2019": [
-        "Style",
-        "Sportline"
+        "Sportline",
+        "Style"
       ],
       "2020": [
-        "Style",
-        "Sportline"
+        "Sportline",
+        "Style"
       ],
       "2021": [
-        "Style",
-        "Sportline"
+        "Sportline",
+        "Style"
       ],
       "2022": [
-        "Style",
-        "Sportline"
+        "Sportline",
+        "Style"
       ],
       "2023": [
-        "Style",
-        "Sportline"
+        "Sportline",
+        "Style"
       ],
       "2024": [
-        "Style",
-        "Sportline"
+        "Sportline",
+        "Style"
       ],
       "2025": [
-        "Style",
-        "Sportline"
+        "Sportline",
+        "Style"
       ],
       "2026": [
-        "Style",
-        "Sportline"
+        "Sportline",
+        "Style"
       ]
     },
     "Karoq": {
       "2018": [
-        "Style",
-        "Sportline"
+        "Sportline",
+        "Style"
       ],
       "2019": [
-        "Style",
-        "Sportline"
+        "110 TSI Ambition",
+        "110 TSI Style",
+        "Sportline",
+        "Style"
       ],
       "2020": [
-        "Style",
-        "Sportline"
+        "110 TSI Ambition",
+        "110 TSI Style",
+        "Sportline",
+        "Style"
       ],
       "2021": [
-        "Style",
-        "Sportline"
+        "110 TSI Ambition",
+        "110 TSI Style",
+        "Sportline",
+        "Style"
       ],
       "2022": [
-        "Style",
-        "Sportline"
+        "110 TSI Ambition",
+        "110 TSI Style",
+        "Sportline",
+        "Style"
       ],
       "2023": [
-        "Style",
-        "Sportline"
+        "110 TSI Ambition",
+        "110 TSI Style",
+        "Sportline",
+        "Style"
       ],
       "2024": [
-        "Style",
-        "Sportline"
+        "110 TSI Ambition",
+        "110 TSI Style",
+        "Sportline",
+        "Style"
       ],
       "2025": [
-        "Style",
-        "Sportline"
+        "110 TSI Ambition",
+        "110 TSI Style",
+        "Sportline",
+        "Style"
       ],
       "2026": [
-        "Style",
-        "Sportline"
+        "110 TSI Ambition",
+        "110 TSI Style",
+        "Sportline",
+        "Style"
       ]
     },
     "Kodiaq": {
       "2017": [
-        "Style",
-        "Sportline"
+        "132 TSI Ambition",
+        "132 TSI Style",
+        "RS",
+        "Sportline",
+        "Style"
       ],
       "2018": [
-        "Style",
-        "Sportline"
+        "132 TSI Ambition",
+        "132 TSI Style",
+        "RS",
+        "Sportline",
+        "Style"
       ],
       "2019": [
-        "Style",
-        "Sportline"
+        "132 TSI Ambition",
+        "132 TSI Style",
+        "RS",
+        "Sportline",
+        "Style"
       ],
       "2020": [
-        "Style",
-        "Sportline"
+        "132 TSI Ambition",
+        "132 TSI Style",
+        "RS",
+        "Sportline",
+        "Style"
       ],
       "2021": [
-        "Style",
-        "Sportline"
+        "132 TSI Ambition",
+        "132 TSI Style",
+        "RS",
+        "Sportline",
+        "Style"
       ],
       "2022": [
-        "Style",
-        "Sportline"
+        "132 TSI Ambition",
+        "132 TSI Style",
+        "RS",
+        "Sportline",
+        "Style"
       ],
       "2023": [
-        "Style",
-        "Sportline"
+        "132 TSI Ambition",
+        "132 TSI Style",
+        "RS",
+        "Sportline",
+        "Style"
+      ],
+      "2024": [
+        "132 TSI Ambition",
+        "132 TSI Style",
+        "RS"
       ]
     },
     "Enyaq": {
@@ -27645,70 +29134,107 @@
     },
     "Fabia": {
       "2022": [
-        "Style",
-        "Monte Carlo"
+        "Monte Carlo",
+        "Style"
       ],
       "2023": [
-        "Style",
-        "Monte Carlo"
+        "Monte Carlo",
+        "Style"
       ],
       "2024": [
-        "Style",
-        "Monte Carlo"
+        "Monte Carlo",
+        "Style"
       ],
       "2025": [
-        "Style",
-        "Monte Carlo"
+        "Monte Carlo",
+        "Style"
       ],
       "2026": [
-        "Style",
-        "Monte Carlo"
+        "Monte Carlo",
+        "Style"
       ]
     }
   },
   "LDV": {
     "T60": {
       "2018": [
+        "Base",
+        "Luxe",
         "S",
-        "Luxe"
+        "Trailrider"
       ],
       "2019": [
+        "Base",
+        "Luxe",
         "S",
-        "Luxe"
+        "Trailrider"
       ],
       "2020": [
+        "Base",
+        "Luxe",
         "S",
-        "Luxe"
+        "Trailrider"
       ],
       "2021": [
+        "Base",
+        "Luxe",
         "S",
-        "Luxe"
+        "Trailrider"
       ],
       "2022": [
+        "Base",
+        "Luxe",
         "S",
-        "Luxe"
+        "Trailrider"
       ],
       "2023": [
+        "Base",
+        "Luxe",
         "S",
-        "Luxe"
+        "Trailrider"
       ],
       "2024": [
+        "Base",
+        "Luxe",
         "S",
-        "Luxe"
+        "Trailrider"
       ],
       "2025": [
+        "Base",
+        "Luxe",
         "S",
-        "Luxe"
+        "Trailrider"
       ],
       "2026": [
+        "Base",
+        "Luxe",
         "S",
-        "Luxe"
+        "Trailrider"
       ]
     },
     "MIFA 9": {
       "2023": [
-        "EV"
+        "EV",
+        "EV Premium",
+        "EV Signature"
       ],
+      "2024": [
+        "EV",
+        "EV Premium",
+        "EV Signature"
+      ],
+      "2025": [
+        "EV",
+        "EV Premium",
+        "EV Signature"
+      ],
+      "2026": [
+        "EV",
+        "EV Premium",
+        "EV Signature"
+      ]
+    },
+    "eT60": {
       "2024": [
         "EV"
       ],
@@ -27717,6 +29243,32 @@
       ],
       "2026": [
         "EV"
+      ]
+    },
+    "Deliver 9": {
+      "2021": [
+        "LWB",
+        "LWB Plus"
+      ],
+      "2022": [
+        "LWB",
+        "LWB Plus"
+      ],
+      "2023": [
+        "LWB",
+        "LWB Plus"
+      ],
+      "2024": [
+        "LWB",
+        "LWB Plus"
+      ],
+      "2025": [
+        "LWB",
+        "LWB Plus"
+      ],
+      "2026": [
+        "LWB",
+        "LWB Plus"
       ]
     }
   },
@@ -27766,6 +29318,30 @@
   },
   "Renault": {
     "Clio": {
+      "2013": [
+        "RS 200",
+        "RS 220 Trophy"
+      ],
+      "2014": [
+        "RS 200",
+        "RS 220 Trophy"
+      ],
+      "2015": [
+        "RS 200",
+        "RS 220 Trophy"
+      ],
+      "2016": [
+        "RS 200",
+        "RS 220 Trophy"
+      ],
+      "2017": [
+        "RS 200",
+        "RS 220 Trophy"
+      ],
+      "2018": [
+        "RS 200",
+        "RS 220 Trophy"
+      ],
       "2020": [
         "Intens",
         "RS Line"
@@ -27813,37 +29389,59 @@
       ]
     },
     "Koleos": {
+      "2017": [
+        "Intens",
+        "Signature",
+        "Zen"
+      ],
+      "2018": [
+        "Intens",
+        "Signature",
+        "Zen"
+      ],
       "2019": [
+        "Intens",
         "Life",
-        "Intens"
+        "Signature",
+        "Zen"
       ],
       "2020": [
+        "Intens",
         "Life",
-        "Intens"
+        "Signature",
+        "Zen"
       ],
       "2021": [
+        "Intens",
         "Life",
-        "Intens"
+        "Signature",
+        "Zen"
       ],
       "2022": [
+        "Intens",
         "Life",
-        "Intens"
+        "Signature",
+        "Zen"
       ],
       "2023": [
+        "Intens",
         "Life",
-        "Intens"
+        "Signature",
+        "Zen"
       ],
       "2024": [
+        "Intens",
         "Life",
-        "Intens"
+        "Signature",
+        "Zen"
       ],
       "2025": [
-        "Life",
-        "Intens"
+        "Intens",
+        "Life"
       ],
       "2026": [
-        "Life",
-        "Intens"
+        "Intens",
+        "Life"
       ]
     },
     "Arkana": {
@@ -27859,171 +29457,287 @@
       "2026": [
         "RS Line E-Tech"
       ]
+    },
+    "Megane": {
+      "2017": [
+        "GT",
+        "RS 280",
+        "RS 300 Trophy"
+      ],
+      "2018": [
+        "GT",
+        "RS 280",
+        "RS 300 Trophy"
+      ],
+      "2019": [
+        "GT",
+        "RS 280",
+        "RS 300 Trophy"
+      ],
+      "2020": [
+        "GT",
+        "RS 280",
+        "RS 300 Trophy"
+      ],
+      "2021": [
+        "GT",
+        "RS 280",
+        "RS 300 Trophy"
+      ]
+    },
+    "Zoe": {
+      "2020": [
+        "Intens",
+        "Life"
+      ],
+      "2021": [
+        "Intens",
+        "Life"
+      ],
+      "2022": [
+        "Intens",
+        "Life"
+      ],
+      "2023": [
+        "Intens",
+        "Life"
+      ],
+      "2024": [
+        "Intens",
+        "Life"
+      ]
     }
   },
   "Dodge": {
     "Challenger": {
       "2008": [
-        "SE",
         "R/T",
+        "R/T Scat Pack 392",
+        "SE",
         "SRT8"
       ],
       "2009": [
-        "SE",
         "R/T",
+        "R/T Scat Pack 392",
+        "SE",
         "SRT8"
       ],
       "2010": [
-        "SE",
         "R/T",
+        "R/T Scat Pack 392",
+        "SE",
         "SRT8"
       ],
       "2011": [
-        "SE",
         "R/T",
+        "R/T Scat Pack 392",
+        "SE",
         "SRT8"
       ],
+      "2012": [
+        "R/T Scat Pack 392"
+      ],
       "2013": [
-        "SXT",
+        "Hellcat",
         "R/T",
+        "R/T Scat Pack 392",
         "SRT 392",
-        "Hellcat"
+        "SXT"
       ],
       "2014": [
-        "SXT",
+        "Hellcat",
         "R/T",
+        "R/T Scat Pack 392",
         "SRT 392",
-        "Hellcat"
+        "SXT"
       ],
       "2015": [
-        "SXT",
+        "Hellcat",
         "R/T",
+        "R/T Scat Pack 392",
         "SRT 392",
-        "Hellcat"
+        "SRT Hellcat",
+        "SXT"
       ],
       "2016": [
-        "SXT",
+        "Hellcat",
         "R/T",
+        "R/T Scat Pack 392",
         "SRT 392",
-        "Hellcat"
+        "SRT Hellcat",
+        "SXT"
       ],
       "2017": [
-        "SXT",
-        "R/T",
-        "SRT 392",
         "Hellcat",
-        "Scat Pack",
-        "Hellcat Redeye"
+        "Hellcat Redeye",
+        "R/T",
+        "R/T Scat Pack 392",
+        "SRT 392",
+        "SRT Hellcat",
+        "SXT",
+        "Scat Pack"
       ],
       "2018": [
-        "Scat Pack",
-        "Hellcat Redeye"
+        "Hellcat Redeye",
+        "R/T Scat Pack 392",
+        "SRT Demon",
+        "SRT Hellcat",
+        "Scat Pack"
       ],
       "2019": [
-        "Scat Pack",
-        "Hellcat Redeye"
+        "Hellcat Redeye",
+        "R/T Scat Pack 392",
+        "SRT Demon",
+        "SRT Hellcat",
+        "SRT Hellcat Redeye",
+        "Scat Pack"
       ],
       "2020": [
-        "Scat Pack",
-        "Hellcat Redeye"
+        "Hellcat Redeye",
+        "R/T Scat Pack 392",
+        "SRT Demon",
+        "SRT Hellcat",
+        "SRT Hellcat Redeye",
+        "Scat Pack"
       ],
       "2021": [
-        "Scat Pack",
-        "Hellcat Redeye"
+        "Hellcat Redeye",
+        "R/T Scat Pack 392",
+        "SRT Demon",
+        "SRT Hellcat",
+        "SRT Hellcat Redeye",
+        "Scat Pack"
       ],
       "2022": [
-        "SXT",
         "R/T",
+        "R/T Scat Pack 392",
+        "SRT Demon",
+        "SRT Hellcat",
+        "SRT Hellcat Redeye",
+        "SXT",
         "Scat Pack"
       ],
       "2023": [
-        "SXT",
         "R/T",
+        "R/T Scat Pack 392",
+        "SRT Demon",
+        "SRT Hellcat",
+        "SRT Hellcat Redeye",
+        "SXT",
         "Scat Pack"
       ]
     },
     "Charger": {
       "2005": [
-        "SXT",
         "R/T",
-        "SRT8"
+        "SRT8",
+        "SXT"
       ],
       "2006": [
-        "SXT",
         "R/T",
-        "SRT8"
+        "SRT8",
+        "SXT"
       ],
       "2007": [
-        "SXT",
         "R/T",
-        "SRT8"
+        "SRT8",
+        "SXT"
       ],
       "2008": [
-        "SXT",
         "R/T",
-        "SRT8"
+        "SRT8",
+        "SXT"
       ],
       "2009": [
-        "SXT",
         "R/T",
-        "SRT8"
+        "SRT8",
+        "SXT"
       ],
       "2010": [
-        "SXT",
         "R/T",
-        "SRT8"
+        "SRT8",
+        "SXT"
       ],
       "2011": [
-        "SXT",
         "R/T",
-        "SRT8"
+        "R/T Scat Pack 392",
+        "SRT8",
+        "SXT"
       ],
       "2012": [
-        "SXT",
         "R/T",
-        "SRT8"
+        "R/T Scat Pack 392",
+        "SRT8",
+        "SXT"
       ],
       "2013": [
-        "SXT",
         "R/T",
-        "SRT8"
+        "R/T Scat Pack 392",
+        "SRT8",
+        "SXT"
       ],
       "2014": [
-        "SXT",
-        "R/T"
+        "R/T",
+        "R/T Scat Pack 392",
+        "SXT"
       ],
       "2015": [
-        "SXT",
+        "Hellcat",
         "R/T",
-        "Scat Pack",
-        "Hellcat"
+        "R/T Scat Pack 392",
+        "SRT Hellcat",
+        "SXT",
+        "Scat Pack"
       ],
       "2016": [
-        "SXT",
+        "Hellcat",
         "R/T",
-        "Scat Pack",
-        "Hellcat"
+        "R/T Scat Pack 392",
+        "SRT Hellcat",
+        "SXT",
+        "Scat Pack"
       ],
       "2017": [
-        "SXT",
+        "Hellcat",
         "R/T",
-        "Scat Pack",
-        "Hellcat"
+        "R/T Scat Pack 392",
+        "SRT Hellcat",
+        "SXT",
+        "Scat Pack"
       ],
       "2018": [
-        "Hellcat Redeye"
+        "Hellcat Redeye",
+        "R/T Scat Pack 392",
+        "SRT Hellcat"
       ],
       "2019": [
-        "Hellcat Redeye"
+        "Hellcat Redeye",
+        "R/T Scat Pack 392",
+        "SRT Hellcat",
+        "SRT Hellcat Redeye"
       ],
       "2020": [
-        "Hellcat Redeye"
+        "Hellcat Redeye",
+        "R/T Scat Pack 392",
+        "SRT Hellcat",
+        "SRT Hellcat Redeye"
       ],
       "2021": [
-        "Hellcat Redeye"
+        "Hellcat Redeye",
+        "R/T Scat Pack 392",
+        "SRT Hellcat",
+        "SRT Hellcat Redeye"
       ],
       "2022": [
-        "Hellcat Redeye"
+        "Hellcat Redeye",
+        "R/T Scat Pack 392",
+        "SRT Hellcat",
+        "SRT Hellcat Redeye"
+      ],
+      "2023": [
+        "R/T Scat Pack 392",
+        "SRT Hellcat",
+        "SRT Hellcat Redeye"
       ]
     },
     "Viper": {
@@ -28088,12 +29802,12 @@
         "GTS"
       ],
       "2014": [
-        "GTS",
-        "ACR"
+        "ACR",
+        "GTS"
       ],
       "2015": [
-        "GTS",
-        "ACR"
+        "ACR",
+        "GTS"
       ],
       "2016": [
         "ACR"
@@ -40282,64 +41996,64 @@
     },
     "Merak": {
       "1972": [
-        "base",
+        "2000GT",
         "SS",
-        "2000GT"
+        "base"
       ],
       "1973": [
-        "base",
+        "2000GT",
         "SS",
-        "2000GT"
+        "base"
       ],
       "1974": [
-        "base",
+        "2000GT",
         "SS",
-        "2000GT"
+        "base"
       ],
       "1975": [
-        "base",
+        "2000GT",
         "SS",
-        "2000GT"
+        "base"
       ],
       "1976": [
-        "base",
+        "2000GT",
         "SS",
-        "2000GT"
+        "base"
       ],
       "1977": [
-        "base",
+        "2000GT",
         "SS",
-        "2000GT"
+        "base"
       ],
       "1978": [
-        "base",
+        "2000GT",
         "SS",
-        "2000GT"
+        "base"
       ],
       "1979": [
-        "base",
+        "2000GT",
         "SS",
-        "2000GT"
+        "base"
       ],
       "1980": [
-        "base",
+        "2000GT",
         "SS",
-        "2000GT"
+        "base"
       ],
       "1981": [
-        "base",
+        "2000GT",
         "SS",
-        "2000GT"
+        "base"
       ],
       "1982": [
-        "base",
+        "2000GT",
         "SS",
-        "2000GT"
+        "base"
       ],
       "1983": [
-        "base",
+        "2000GT",
         "SS",
-        "2000GT"
+        "base"
       ]
     },
     "Khamsin": {
@@ -40373,101 +42087,101 @@
     },
     "Quattroporte III": {
       "1976": [
-        "base",
-        "Royale"
+        "Royale",
+        "base"
       ],
       "1977": [
-        "base",
-        "Royale"
+        "Royale",
+        "base"
       ],
       "1978": [
-        "base",
-        "Royale"
+        "Royale",
+        "base"
       ],
       "1979": [
-        "base",
-        "Royale"
+        "Royale",
+        "base"
       ],
       "1980": [
-        "base",
-        "Royale"
+        "Royale",
+        "base"
       ],
       "1981": [
-        "base",
-        "Royale"
+        "Royale",
+        "base"
       ],
       "1982": [
-        "base",
-        "Royale"
+        "Royale",
+        "base"
       ],
       "1983": [
-        "base",
-        "Royale"
+        "Royale",
+        "base"
       ],
       "1984": [
-        "base",
-        "Royale"
+        "Royale",
+        "base"
       ],
       "1985": [
-        "base",
-        "Royale"
+        "Royale",
+        "base"
       ],
       "1986": [
-        "base",
-        "Royale"
+        "Royale",
+        "base"
       ],
       "1987": [
-        "base",
-        "Royale"
+        "Royale",
+        "base"
       ],
       "1988": [
-        "base",
-        "Royale"
+        "Royale",
+        "base"
       ],
       "1989": [
-        "base",
-        "Royale"
+        "Royale",
+        "base"
       ],
       "1990": [
-        "base",
-        "Royale"
+        "Royale",
+        "base"
       ]
     },
     "Biturbo": {
       "1981": [
-        "base",
         "S",
-        "Si"
+        "Si",
+        "base"
       ],
       "1982": [
-        "base",
         "S",
-        "Si"
+        "Si",
+        "base"
       ],
       "1983": [
-        "base",
         "S",
-        "Si"
+        "Si",
+        "base"
       ],
       "1984": [
-        "base",
         "S",
-        "Si"
+        "Si",
+        "base"
       ],
       "1985": [
-        "base",
         "S",
-        "Si"
+        "Si",
+        "base"
       ],
       "1986": [
-        "base",
         "S",
-        "Si"
+        "Si",
+        "base"
       ],
       "1987": [
-        "base",
         "S",
-        "Si"
+        "Si",
+        "base"
       ],
       "1988": [
         "2.24v",
@@ -40507,383 +42221,436 @@
     },
     "3200GT": {
       "1998": [
-        "base",
-        "Assetto Corsa"
+        "Assetto Corsa",
+        "base"
       ],
       "1999": [
-        "base",
-        "Assetto Corsa"
+        "Assetto Corsa",
+        "base"
       ],
       "2000": [
-        "base",
-        "Assetto Corsa"
+        "Assetto Corsa",
+        "base"
       ],
       "2001": [
-        "base",
-        "Assetto Corsa"
+        "Assetto Corsa",
+        "base"
       ],
       "2002": [
-        "base",
-        "Assetto Corsa"
+        "Assetto Corsa",
+        "base"
       ]
     },
     "Coupe": {
       "2001": [
-        "base",
-        "GranSport"
+        "GranSport",
+        "base"
       ],
       "2002": [
-        "base",
-        "GranSport"
+        "GranSport",
+        "base"
       ],
       "2003": [
-        "base",
-        "GranSport"
+        "GranSport",
+        "base"
       ],
       "2004": [
-        "base",
-        "GranSport"
+        "GranSport",
+        "base"
       ],
       "2005": [
-        "base",
-        "GranSport"
+        "GranSport",
+        "base"
       ],
       "2006": [
-        "base",
-        "GranSport"
+        "GranSport",
+        "base"
       ],
       "2007": [
-        "base",
-        "GranSport"
+        "GranSport",
+        "base"
       ]
     },
     "Spyder": {
       "2001": [
-        "base",
         "GT",
-        "GranSport"
+        "GranSport",
+        "base"
       ],
       "2002": [
-        "base",
         "GT",
-        "GranSport"
+        "GranSport",
+        "base"
       ],
       "2003": [
-        "base",
         "GT",
-        "GranSport"
+        "GranSport",
+        "base"
       ],
       "2004": [
-        "base",
         "GT",
-        "GranSport"
+        "GranSport",
+        "base"
       ],
       "2005": [
-        "base",
         "GT",
-        "GranSport"
+        "GranSport",
+        "base"
       ],
       "2006": [
-        "base",
         "GT",
-        "GranSport"
+        "GranSport",
+        "base"
       ],
       "2007": [
-        "base",
         "GT",
-        "GranSport"
+        "GranSport",
+        "base"
       ]
     },
     "Quattroporte V": {
       "2003": [
-        "base",
         "Executive GT",
+        "GTS",
         "Sport GT S",
-        "GTS"
+        "base"
       ],
       "2004": [
-        "base",
         "Executive GT",
+        "GTS",
         "Sport GT S",
-        "GTS"
+        "base"
       ],
       "2005": [
-        "base",
         "Executive GT",
+        "GTS",
         "Sport GT S",
-        "GTS"
+        "base"
       ],
       "2006": [
-        "base",
         "Executive GT",
+        "GTS",
         "Sport GT S",
-        "GTS"
+        "base"
       ],
       "2007": [
-        "base",
         "Executive GT",
+        "GTS",
         "Sport GT S",
-        "GTS"
+        "base"
       ],
       "2008": [
-        "base",
         "Executive GT",
+        "GTS",
         "Sport GT S",
-        "GTS"
+        "base"
       ],
       "2009": [
-        "base",
         "Executive GT",
+        "GTS",
         "Sport GT S",
-        "GTS"
+        "base"
       ],
       "2010": [
-        "base",
         "Executive GT",
+        "GTS",
         "Sport GT S",
-        "GTS"
+        "base"
       ],
       "2011": [
-        "base",
         "Executive GT",
+        "GTS",
         "Sport GT S",
-        "GTS"
+        "base"
       ],
       "2012": [
-        "base",
         "Executive GT",
+        "GTS",
         "Sport GT S",
-        "GTS"
+        "base"
       ]
     },
     "GranTurismo": {
       "2007": [
-        "base",
         "S",
-        "S Automatic"
+        "S Automatic",
+        "base"
       ],
       "2008": [
-        "base",
+        "MC Stradale",
         "S",
-        "S Automatic"
+        "S Automatic",
+        "base"
       ],
       "2009": [
-        "base",
+        "MC Stradale",
         "S",
-        "S Automatic"
+        "S Automatic",
+        "base"
       ],
       "2010": [
-        "base",
+        "MC Stradale",
         "S",
-        "S Automatic"
+        "S Automatic",
+        "base"
       ],
       "2011": [
-        "base",
+        "MC Stradale",
         "S",
-        "S Automatic"
+        "S Automatic",
+        "base"
       ],
       "2012": [
-        "Sport",
+        "Convertible",
         "MC Stradale",
-        "Convertible"
+        "S",
+        "Sport"
       ],
       "2013": [
-        "Sport",
+        "Convertible",
         "MC Stradale",
-        "Convertible"
+        "S",
+        "Sport"
       ],
       "2014": [
-        "Sport",
+        "Convertible",
         "MC Stradale",
-        "Convertible"
+        "S",
+        "Sport"
       ],
       "2015": [
-        "Sport",
+        "Convertible",
         "MC Stradale",
-        "Convertible"
+        "S",
+        "Sport"
       ],
       "2016": [
-        "Sport",
+        "Convertible",
         "MC Stradale",
-        "Convertible"
+        "S",
+        "Sport"
       ],
       "2017": [
-        "Sport",
+        "Convertible",
         "MC Stradale",
-        "Convertible"
+        "S",
+        "Sport"
       ],
       "2018": [
-        "Sport",
+        "Convertible",
         "MC Stradale",
-        "Convertible"
+        "S",
+        "Sport"
       ],
       "2019": [
-        "Sport",
+        "Convertible",
         "MC Stradale",
-        "Convertible"
+        "S",
+        "Sport"
+      ],
+      "2022": [
+        "Folgore",
+        "Modena",
+        "Trofeo"
+      ],
+      "2023": [
+        "Folgore",
+        "Modena",
+        "Trofeo"
+      ],
+      "2024": [
+        "Folgore",
+        "Modena",
+        "Trofeo"
+      ],
+      "2025": [
+        "Folgore",
+        "Modena",
+        "Trofeo"
+      ],
+      "2026": [
+        "Folgore",
+        "Modena",
+        "Trofeo"
       ]
     },
     "GranCabrio": {
       "2010": [
-        "base",
+        "MC",
         "S",
         "Sport",
-        "MC"
+        "base"
       ],
       "2011": [
-        "base",
+        "MC",
         "S",
         "Sport",
-        "MC"
+        "base"
       ],
       "2012": [
-        "base",
+        "MC",
         "S",
         "Sport",
-        "MC"
+        "base"
       ],
       "2013": [
-        "base",
+        "MC",
         "S",
         "Sport",
-        "MC"
+        "base"
       ],
       "2014": [
-        "base",
+        "MC",
         "S",
         "Sport",
-        "MC"
+        "base"
       ],
       "2015": [
-        "base",
+        "MC",
         "S",
         "Sport",
-        "MC"
+        "base"
       ],
       "2016": [
-        "base",
+        "MC",
         "S",
         "Sport",
-        "MC"
+        "base"
       ],
       "2017": [
-        "base",
+        "MC",
         "S",
         "Sport",
-        "MC"
+        "base"
       ],
       "2018": [
-        "base",
+        "MC",
         "S",
         "Sport",
-        "MC"
+        "base"
       ],
       "2019": [
-        "base",
+        "MC",
         "S",
         "Sport",
-        "MC"
+        "base"
       ]
     },
     "Ghibli": {
       "2013": [
-        "base",
         "S",
-        "SQ4"
+        "S Q4",
+        "SQ4",
+        "base"
       ],
       "2014": [
-        "base",
         "S",
-        "SQ4"
+        "S Q4",
+        "SQ4",
+        "base"
       ],
       "2015": [
-        "base",
         "S",
-        "SQ4"
+        "S Q4",
+        "SQ4",
+        "base"
       ],
       "2016": [
-        "base",
         "S",
-        "SQ4"
+        "S Q4",
+        "SQ4",
+        "base"
       ],
       "2017": [
-        "base",
         "S",
-        "SQ4"
+        "S Q4",
+        "SQ4",
+        "base"
       ],
       "2018": [
-        "base",
         "S",
-        "SQ4"
+        "S Q4",
+        "SQ4",
+        "base"
       ],
       "2019": [
-        "base",
         "S",
-        "SQ4"
+        "S Q4",
+        "SQ4",
+        "Trofeo",
+        "base"
       ],
       "2020": [
         "GT",
         "Modena",
+        "S",
+        "S Q4",
         "Trofeo"
       ],
       "2021": [
         "GT",
         "Modena",
+        "S",
+        "S Q4",
         "Trofeo"
       ],
       "2022": [
         "GT",
         "Modena",
+        "S",
+        "S Q4",
         "Trofeo"
       ],
       "2023": [
         "GT",
         "Modena",
+        "S",
+        "S Q4",
         "Trofeo"
       ]
     },
     "Quattroporte": {
       "2013": [
-        "base",
+        "GTS",
         "S",
         "SQ4",
-        "GTS"
+        "base"
       ],
       "2014": [
-        "base",
+        "GTS",
         "S",
         "SQ4",
-        "GTS"
+        "base"
       ],
       "2015": [
-        "base",
+        "GTS",
         "S",
         "SQ4",
-        "GTS"
+        "base"
       ],
       "2016": [
-        "base",
+        "GTS",
         "S",
         "SQ4",
-        "GTS"
+        "base"
       ],
       "2017": [
-        "base",
+        "GTS",
         "S",
         "SQ4",
-        "GTS"
+        "base"
       ],
       "2018": [
-        "base",
+        "GTS",
         "S",
         "SQ4",
-        "GTS"
+        "base"
       ],
       "2019": [
-        "base",
+        "GTS",
         "S",
         "SQ4",
-        "GTS"
+        "base"
       ],
       "2020": [
         "GT",
@@ -40908,86 +42675,114 @@
     },
     "Levante": {
       "2016": [
-        "base",
+        "GTS",
         "S",
-        "GTS"
+        "S GranSport",
+        "base"
       ],
       "2017": [
-        "base",
+        "GTS",
         "S",
-        "GTS"
+        "S GranSport",
+        "base"
       ],
       "2018": [
-        "base",
+        "GTS",
         "S",
-        "GTS"
+        "S GranSport",
+        "base"
       ],
       "2019": [
-        "base",
+        "GTS",
         "S",
-        "GTS"
+        "S GranSport",
+        "Trofeo",
+        "base"
       ],
       "2020": [
         "GT",
         "Modena",
+        "S",
+        "S GranSport",
         "Trofeo"
       ],
       "2021": [
         "GT",
         "Modena",
+        "S",
+        "S GranSport",
         "Trofeo"
       ],
       "2022": [
         "GT",
         "Modena",
+        "S",
+        "S GranSport",
         "Trofeo"
       ],
       "2023": [
         "GT",
         "Modena",
+        "S",
+        "S GranSport",
+        "Trofeo"
+      ],
+      "2024": [
+        "S",
+        "S GranSport",
+        "Trofeo"
+      ],
+      "2025": [
+        "S",
+        "S GranSport",
+        "Trofeo"
+      ],
+      "2026": [
+        "S",
+        "S GranSport",
         "Trofeo"
       ]
     },
     "Grecale": {
       "2022": [
+        "Folgore",
         "GT",
         "Modena",
-        "Trofeo",
-        "Folgore"
+        "Trofeo"
       ],
       "2023": [
+        "Folgore",
         "GT",
         "Modena",
-        "Trofeo",
-        "Folgore"
+        "Trofeo"
       ],
       "2024": [
+        "Folgore",
         "GT",
         "Modena",
-        "Trofeo",
-        "Folgore"
+        "Trofeo"
       ]
     },
     "MC20": {
       "2020": [
-        "Coupe",
-        "Cielo"
+        "Cielo",
+        "Coupe"
       ],
       "2021": [
-        "Coupe",
-        "Cielo"
+        "Cielo",
+        "Coupe"
       ],
       "2022": [
-        "Coupe",
-        "Cielo"
+        "Cielo",
+        "Coupe"
       ],
       "2023": [
-        "Coupe",
-        "Cielo"
+        "Cielo",
+        "Coupe"
       ],
       "2024": [
-        "Coupe",
-        "Cielo"
+        "Cielo",
+        "Coupe"
       ]
     }
   },
@@ -47305,16 +49100,16 @@
         "Standard"
       ],
       "2012": [
-        "Standard",
-        "Spider"
+        "Spider",
+        "Standard"
       ],
       "2013": [
-        "Standard",
-        "Spider"
+        "Spider",
+        "Standard"
       ],
       "2014": [
-        "Standard",
-        "Spider"
+        "Spider",
+        "Standard"
       ]
     },
     "P1": {
@@ -47404,18 +49199,23 @@
     },
     "570GT": {
       "2016": [
+        "GT",
         "Standard"
       ],
       "2017": [
+        "GT",
         "Standard"
       ],
       "2018": [
+        "GT",
         "Standard"
       ],
       "2019": [
+        "GT",
         "Standard"
       ],
       "2020": [
+        "GT",
         "Standard"
       ]
     },
@@ -47435,38 +49235,49 @@
     },
     "720S": {
       "2017": [
+        "Coupe",
         "Performance",
         "Spider"
       ],
       "2018": [
+        "Coupe",
         "Performance",
         "Spider"
       ],
       "2019": [
+        "Coupe",
         "Performance",
         "Spider"
       ],
       "2020": [
+        "Coupe",
         "Performance",
         "Spider"
       ],
       "2021": [
+        "Coupe",
         "Performance",
         "Spider"
       ],
       "2022": [
+        "Coupe",
+        "Performance",
+        "Spider"
+      ],
+      "2023": [
+        "Coupe",
         "Performance",
         "Spider"
       ]
     },
     "Senna": {
       "2018": [
-        "Standard",
-        "GTR"
+        "GTR",
+        "Standard"
       ],
       "2019": [
-        "Standard",
-        "GTR"
+        "GTR",
+        "Standard"
       ]
     },
     "GT": {
@@ -47474,16 +49285,23 @@
         "Standard"
       ],
       "2020": [
+        "GT",
         "Standard"
       ],
       "2021": [
+        "GT",
         "Standard"
       ],
       "2022": [
+        "GT",
         "Standard"
       ],
       "2023": [
+        "GT",
         "Standard"
+      ],
+      "2024": [
+        "GT"
       ]
     },
     "765LT": {
@@ -47502,24 +49320,29 @@
     },
     "Artura": {
       "2022": [
-        "Standard",
-        "Performance"
+        "Coupe",
+        "Performance",
+        "Standard"
       ],
       "2023": [
-        "Standard",
-        "Performance"
+        "Coupe",
+        "Performance",
+        "Standard"
       ],
       "2024": [
-        "Standard",
-        "Performance"
+        "Coupe",
+        "Performance",
+        "Standard"
       ],
       "2025": [
-        "Standard",
-        "Performance"
+        "Coupe",
+        "Performance",
+        "Standard"
       ],
       "2026": [
-        "Standard",
-        "Performance"
+        "Coupe",
+        "Performance",
+        "Standard"
       ]
     },
     "750S": {
@@ -49263,52 +51086,52 @@
   "Infiniti": {
     "G35": {
       "2007": [
-        "Sedan",
-        "Coupe"
+        "Coupe",
+        "Sedan"
       ]
     },
     "G37": {
       "2007": [
-        "Sedan",
-        "Coupe"
+        "Coupe",
+        "Sedan"
       ],
       "2008": [
-        "Sedan",
-        "Coupe"
+        "Coupe",
+        "Sedan"
       ],
       "2009": [
-        "Sedan",
+        "Convertible",
         "Coupe",
-        "Convertible"
+        "Sedan"
       ],
       "2010": [
-        "Sedan",
+        "Convertible",
         "Coupe",
-        "Convertible"
+        "Sedan"
       ],
       "2011": [
-        "Sedan",
-        "Coupe",
         "Convertible",
-        "IPL"
+        "Coupe",
+        "IPL",
+        "Sedan"
       ],
       "2012": [
-        "Sedan",
-        "Coupe",
         "Convertible",
-        "IPL"
+        "Coupe",
+        "IPL",
+        "Sedan"
       ],
       "2013": [
-        "Sedan",
-        "Coupe",
         "Convertible",
-        "IPL"
+        "Coupe",
+        "IPL",
+        "Sedan"
       ],
       "2014": [
-        "Sedan",
-        "Coupe",
         "Convertible",
-        "IPL"
+        "Coupe",
+        "IPL",
+        "Sedan"
       ]
     },
     "Q50": {
@@ -49318,40 +51141,84 @@
       ],
       "2014": [
         "2.0t",
-        "3.0t"
+        "2.0t Luxe",
+        "3.0t",
+        "3.0t GT",
+        "3.0t Sport",
+        "Red Sport 400"
       ],
       "2015": [
         "2.0t",
-        "3.0t"
+        "2.0t Luxe",
+        "3.0t",
+        "3.0t GT",
+        "3.0t Sport",
+        "Red Sport 400"
       ],
       "2016": [
         "2.0t",
+        "2.0t Luxe",
         "3.0t",
+        "3.0t GT",
+        "3.0t Sport",
         "Red Sport 400"
       ],
       "2017": [
         "2.0t",
+        "2.0t Luxe",
         "3.0t",
+        "3.0t GT",
+        "3.0t Sport",
         "Red Sport 400"
       ],
       "2018": [
         "2.0t",
+        "2.0t Luxe",
         "3.0t",
+        "3.0t GT",
+        "3.0t Sport",
         "Red Sport 400"
       ],
       "2019": [
         "2.0t",
+        "2.0t Luxe",
         "3.0t",
+        "3.0t GT",
+        "3.0t Sport",
         "Red Sport 400"
       ],
       "2020": [
         "2.0t",
+        "2.0t Luxe",
         "3.0t",
+        "3.0t GT",
+        "3.0t Sport",
         "Red Sport 400"
       ],
       "2021": [
         "2.0t",
+        "2.0t Luxe",
         "3.0t",
+        "3.0t GT",
+        "3.0t Sport",
+        "Red Sport 400"
+      ],
+      "2022": [
+        "2.0t Luxe",
+        "3.0t GT",
+        "3.0t Sport",
+        "Red Sport 400"
+      ],
+      "2023": [
+        "2.0t Luxe",
+        "3.0t GT",
+        "3.0t Sport",
+        "Red Sport 400"
+      ],
+      "2024": [
+        "2.0t Luxe",
+        "3.0t GT",
+        "3.0t Sport",
         "Red Sport 400"
       ]
     },
@@ -49389,139 +51256,167 @@
     },
     "QX50": {
       "2008": [
-        "Pure",
-        "Luxe"
+        "Luxe",
+        "Pure"
       ],
       "2009": [
-        "Pure",
-        "Luxe"
+        "Luxe",
+        "Pure"
       ],
       "2010": [
-        "Pure",
-        "Luxe"
+        "Luxe",
+        "Pure"
       ],
       "2011": [
-        "Pure",
-        "Luxe"
+        "Luxe",
+        "Pure"
       ],
       "2012": [
-        "Pure",
-        "Luxe"
+        "Luxe",
+        "Pure"
       ],
       "2013": [
-        "Pure",
-        "Luxe"
+        "Luxe",
+        "Pure"
       ],
       "2014": [
-        "Pure",
-        "Luxe"
+        "Luxe",
+        "Pure"
       ],
       "2015": [
-        "Pure",
         "Luxe",
+        "Pure",
         "Sensory"
       ],
       "2016": [
-        "Pure",
         "Luxe",
+        "Pure",
         "Sensory"
       ],
       "2017": [
-        "Pure",
         "Luxe",
+        "Pure",
         "Sensory"
       ],
       "2018": [
-        "Pure",
         "Luxe",
+        "Pure",
         "Sensory"
       ],
       "2019": [
-        "Pure",
         "Luxe",
-        "Sensory"
+        "Pure",
+        "Sensory",
+        "Sport"
       ],
       "2020": [
-        "Pure",
         "Luxe",
-        "Sensory"
+        "Pure",
+        "Sensory",
+        "Sport"
       ],
       "2021": [
-        "Pure",
         "Luxe",
-        "Sensory"
+        "Pure",
+        "Sensory",
+        "Sport"
+      ],
+      "2022": [
+        "Luxe",
+        "Sensory",
+        "Sport"
+      ],
+      "2023": [
+        "Luxe",
+        "Sensory",
+        "Sport"
+      ],
+      "2024": [
+        "Luxe",
+        "Sensory",
+        "Sport"
+      ],
+      "2025": [
+        "Luxe",
+        "Sensory",
+        "Sport"
+      ],
+      "2026": [
+        "Luxe",
+        "Sensory",
+        "Sport"
       ]
     },
     "QX60": {
       "2013": [
-        "Pure",
-        "Luxe"
+        "Luxe",
+        "Pure"
       ],
       "2014": [
-        "Pure",
-        "Luxe"
+        "Luxe",
+        "Pure"
       ],
       "2015": [
-        "Pure",
-        "Luxe"
+        "Luxe",
+        "Pure"
       ],
       "2016": [
-        "Pure",
-        "Luxe"
+        "Luxe",
+        "Pure"
       ],
       "2017": [
-        "Pure",
-        "Luxe"
+        "Luxe",
+        "Pure"
       ],
       "2018": [
-        "Pure",
-        "Luxe"
+        "Luxe",
+        "Pure"
       ],
       "2019": [
-        "Pure",
-        "Luxe"
+        "Luxe",
+        "Pure"
       ],
       "2020": [
-        "Pure",
-        "Luxe"
+        "Luxe",
+        "Pure"
       ],
       "2021": [
-        "Pure",
-        "Luxe"
+        "Luxe",
+        "Pure"
       ]
     },
     "QX70": {
       "2013": [
-        "Standard",
-        "S Premium"
+        "S Premium",
+        "Standard"
       ],
       "2014": [
-        "Standard",
-        "S Premium"
+        "S Premium",
+        "Standard"
       ],
       "2015": [
-        "Standard",
-        "S Premium"
+        "S Premium",
+        "Standard"
       ],
       "2016": [
-        "Standard",
-        "S Premium"
+        "S Premium",
+        "Standard"
       ],
       "2017": [
-        "Standard",
-        "S Premium"
+        "S Premium",
+        "Standard"
       ],
       "2018": [
-        "Standard",
-        "S Premium"
+        "S Premium",
+        "Standard"
       ],
       "2019": [
-        "Standard",
-        "S Premium"
+        "S Premium",
+        "Standard"
       ],
       "2020": [
-        "Standard",
-        "S Premium"
+        "S Premium",
+        "Standard"
       ]
     },
     "QX80": {
@@ -49538,28 +51433,64 @@
         "Standard"
       ],
       "2014": [
+        "Luxe",
+        "Premium Select",
         "Standard"
       ],
       "2015": [
+        "Luxe",
+        "Premium Select",
         "Standard"
       ],
       "2016": [
+        "Luxe",
+        "Premium Select",
         "Standard"
       ],
       "2017": [
+        "Luxe",
+        "Premium Select",
         "Standard"
       ],
       "2018": [
+        "Luxe",
+        "Premium Select",
         "Standard"
       ],
       "2019": [
+        "Luxe",
+        "Premium Select",
         "Standard"
       ],
       "2020": [
+        "Luxe",
+        "Premium Select",
         "Standard"
       ],
       "2021": [
+        "Luxe",
+        "Premium Select",
         "Standard"
+      ],
+      "2022": [
+        "Luxe",
+        "Premium Select"
+      ],
+      "2023": [
+        "Luxe",
+        "Premium Select"
+      ],
+      "2024": [
+        "Luxe",
+        "Premium Select"
+      ],
+      "2025": [
+        "Luxe",
+        "Premium Select"
+      ],
+      "2026": [
+        "Luxe",
+        "Premium Select"
       ]
     }
   },
@@ -64882,40 +66813,88 @@
         "145"
       ],
       "2013": [
-        "145"
+        "145",
+        "595",
+        "595C Convertible",
+        "695",
+        "695 Biposto"
       ],
       "2014": [
-        "145"
+        "145",
+        "595",
+        "595C Convertible",
+        "695",
+        "695 Biposto"
       ],
       "2015": [
-        "145"
+        "145",
+        "595",
+        "595C Convertible",
+        "695",
+        "695 Biposto"
       ],
       "2016": [
-        "145"
+        "145",
+        "595",
+        "595C Convertible",
+        "695",
+        "695 Biposto"
       ],
       "2017": [
-        "145"
+        "145",
+        "595",
+        "595C Convertible",
+        "695",
+        "695 Biposto"
       ],
       "2018": [
-        "145"
+        "145",
+        "595",
+        "595C Convertible",
+        "695",
+        "695 Biposto"
       ],
       "2019": [
-        "145"
+        "145",
+        "595",
+        "595C Convertible",
+        "695",
+        "695 Biposto"
       ],
       "2020": [
-        "145"
+        "145",
+        "595",
+        "595C Convertible",
+        "695",
+        "695 Biposto"
       ],
       "2021": [
-        "145"
+        "145",
+        "595",
+        "595C Convertible",
+        "695",
+        "695 Biposto"
       ],
       "2022": [
-        "145"
+        "145",
+        "595",
+        "595C Convertible",
+        "695",
+        "695 Biposto"
       ],
       "2023": [
-        "145"
+        "145",
+        "595",
+        "595C Convertible",
+        "695",
+        "695 Biposto"
       ],
       "2024": [
-        "145"
+        "145",
+        "595",
+        "595C Convertible",
+        "695",
+        "695 Biposto"
       ],
       "2025": [
         "145"
@@ -65030,24 +67009,24 @@
     },
     "124 Spider": {
       "2016": [
-        "Standard",
-        "Rally Tribute"
+        "Rally Tribute",
+        "Standard"
       ],
       "2017": [
-        "Standard",
-        "Rally Tribute"
+        "Rally Tribute",
+        "Standard"
       ],
       "2018": [
-        "Standard",
-        "Rally Tribute"
+        "Rally Tribute",
+        "Standard"
       ],
       "2019": [
-        "Standard",
-        "Rally Tribute"
+        "Rally Tribute",
+        "Standard"
       ],
       "2020": [
-        "Standard",
-        "Rally Tribute"
+        "Rally Tribute",
+        "Standard"
       ]
     }
   },
@@ -65142,28 +67121,28 @@
         "THP 165"
       ],
       "2021": [
-        "PureTech 130",
-        "E-Tense 225"
+        "E-Tense 225",
+        "PureTech 130"
       ],
       "2022": [
-        "PureTech 130",
-        "E-Tense 225"
+        "E-Tense 225",
+        "PureTech 130"
       ],
       "2023": [
-        "PureTech 130",
-        "E-Tense 225"
+        "E-Tense 225",
+        "PureTech 130"
       ],
       "2024": [
-        "PureTech 130",
-        "E-Tense 225"
+        "E-Tense 225",
+        "PureTech 130"
       ],
       "2025": [
-        "PureTech 130",
-        "E-Tense 225"
+        "E-Tense 225",
+        "PureTech 130"
       ],
       "2026": [
-        "PureTech 130",
-        "E-Tense 225"
+        "E-Tense 225",
+        "PureTech 130"
       ]
     },
     "DS5": {
@@ -65194,70 +67173,168 @@
     },
     "DS7": {
       "2017": [
-        "PureTech 180",
-        "E-Tense 300"
+        "E-Tense 300",
+        "PureTech 180"
       ],
       "2018": [
-        "PureTech 180",
-        "E-Tense 300"
+        "E-Tense 300",
+        "PureTech 180"
       ],
       "2019": [
-        "PureTech 180",
-        "E-Tense 300"
+        "E-Tense 300",
+        "PureTech 180"
       ],
       "2020": [
-        "PureTech 180",
-        "E-Tense 300"
+        "E-Tense 300",
+        "PureTech 180"
       ],
       "2021": [
-        "PureTech 180",
-        "E-Tense 300"
+        "E-Tense 300",
+        "PureTech 180"
       ],
       "2022": [
-        "PureTech 180",
-        "E-Tense 300"
+        "E-Tense 300",
+        "PureTech 180"
       ],
       "2023": [
-        "PureTech 180",
-        "E-Tense 300"
+        "E-Tense 300",
+        "PureTech 180"
       ],
       "2024": [
-        "PureTech 180",
-        "E-Tense 300"
+        "E-Tense 300",
+        "PureTech 180"
       ],
       "2025": [
-        "PureTech 180",
-        "E-Tense 300"
+        "E-Tense 300",
+        "PureTech 180"
       ],
       "2026": [
-        "PureTech 180",
-        "E-Tense 300"
+        "E-Tense 300",
+        "PureTech 180"
       ]
     },
     "DS9": {
       "2021": [
-        "PureTech 180",
-        "E-Tense 360"
+        "E-Tense 360",
+        "PureTech 180"
       ],
       "2022": [
-        "PureTech 180",
-        "E-Tense 360"
+        "E-Tense 360",
+        "PureTech 180"
       ],
       "2023": [
-        "PureTech 180",
-        "E-Tense 360"
+        "E-Tense 360",
+        "PureTech 180"
       ],
       "2024": [
-        "PureTech 180",
-        "E-Tense 360"
+        "E-Tense 360",
+        "PureTech 180"
       ],
       "2025": [
-        "PureTech 180",
-        "E-Tense 360"
+        "E-Tense 360",
+        "PureTech 180"
       ],
       "2026": [
-        "PureTech 180",
-        "E-Tense 360"
+        "E-Tense 360",
+        "PureTech 180"
+      ]
+    },
+    "DS 3 Crossback": {
+      "2019": [
+        "E-Tense",
+        "PureTech 130"
+      ],
+      "2020": [
+        "E-Tense",
+        "PureTech 130"
+      ],
+      "2021": [
+        "E-Tense",
+        "PureTech 130"
+      ],
+      "2022": [
+        "E-Tense",
+        "PureTech 130"
+      ],
+      "2023": [
+        "E-Tense",
+        "PureTech 130"
+      ],
+      "2024": [
+        "E-Tense",
+        "PureTech 130"
+      ],
+      "2025": [
+        "E-Tense",
+        "PureTech 130"
+      ],
+      "2026": [
+        "E-Tense",
+        "PureTech 130"
+      ]
+    },
+    "DS 7 Crossback": {
+      "2018": [
+        "E-Tense 4x4 300",
+        "PureTech 180"
+      ],
+      "2019": [
+        "E-Tense 4x4 300",
+        "PureTech 180"
+      ],
+      "2020": [
+        "E-Tense 4x4 300",
+        "PureTech 180"
+      ],
+      "2021": [
+        "E-Tense 4x4 300",
+        "PureTech 180"
+      ],
+      "2022": [
+        "E-Tense 4x4 300",
+        "PureTech 180"
+      ],
+      "2023": [
+        "E-Tense 4x4 300",
+        "PureTech 180"
+      ],
+      "2024": [
+        "E-Tense 4x4 300",
+        "PureTech 180"
+      ],
+      "2025": [
+        "E-Tense 4x4 300",
+        "PureTech 180"
+      ],
+      "2026": [
+        "E-Tense 4x4 300",
+        "PureTech 180"
+      ]
+    },
+    "DS 9": {
+      "2021": [
+        "E-Tense 225",
+        "E-Tense 360 4x4"
+      ],
+      "2022": [
+        "E-Tense 225",
+        "E-Tense 360 4x4"
+      ],
+      "2023": [
+        "E-Tense 225",
+        "E-Tense 360 4x4"
+      ],
+      "2024": [
+        "E-Tense 225",
+        "E-Tense 360 4x4"
+      ],
+      "2025": [
+        "E-Tense 225",
+        "E-Tense 360 4x4"
+      ],
+      "2026": [
+        "E-Tense 225",
+        "E-Tense 360 4x4"
       ]
     }
   },
