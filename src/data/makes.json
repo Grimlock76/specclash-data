@@ -13702,6 +13702,20 @@
         "Long Range Premium",
         "Standard Range"
       ]
+    },
+    "Ioniq 9": {
+      "2025": [
+        "AWD Performance",
+        "Calligraphy",
+        "Calligraphy AWD",
+        "Premium"
+      ],
+      "2026": [
+        "AWD Performance",
+        "Calligraphy",
+        "Calligraphy AWD",
+        "Premium"
+      ]
     }
   },
   "Kia": {
@@ -14364,17 +14378,20 @@
       "2024": [
         "S",
         "Sport",
-        "Sport+"
+        "Sport+",
+        "X-Line HEV"
       ],
       "2025": [
         "S",
         "Sport",
-        "Sport+"
+        "Sport+",
+        "X-Line HEV"
       ],
       "2026": [
         "S",
         "Sport",
-        "Sport+"
+        "Sport+",
+        "X-Line HEV"
       ]
     },
     "Niro": {
@@ -18305,6 +18322,43 @@
         "eDrive20",
         "xDrive30"
       ]
+    },
+    "2 Series Gran Coupe": {
+      "2020": [
+        "218i",
+        "220i",
+        "M235i xDrive"
+      ],
+      "2021": [
+        "218i",
+        "220i",
+        "M235i xDrive"
+      ],
+      "2022": [
+        "218i",
+        "220i",
+        "M235i xDrive"
+      ],
+      "2023": [
+        "218i",
+        "220i",
+        "M235i xDrive"
+      ],
+      "2024": [
+        "218i",
+        "220i",
+        "M235i xDrive"
+      ],
+      "2025": [
+        "218i",
+        "220i",
+        "M235i xDrive"
+      ],
+      "2026": [
+        "218i",
+        "220i",
+        "M235i xDrive"
+      ]
     }
   },
   "Mercedes-Benz": {
@@ -21793,6 +21847,20 @@
         "e:Ny1"
       ],
       "2026": [
+        "e:Ny1"
+      ]
+    },
+    "e:Ny1": {
+      "2024": [
+        "Advance",
+        "e:Ny1"
+      ],
+      "2025": [
+        "Advance",
+        "e:Ny1"
+      ],
+      "2026": [
+        "Advance",
         "e:Ny1"
       ]
     }
@@ -28367,6 +28435,28 @@
         "LUX",
         "Ultra PHEV"
       ]
+    },
+    "Ora": {
+      "2022": [
+        "Long Range",
+        "Standard Range"
+      ],
+      "2023": [
+        "Long Range",
+        "Standard Range"
+      ],
+      "2024": [
+        "Long Range",
+        "Standard Range"
+      ],
+      "2025": [
+        "Long Range",
+        "Standard Range"
+      ],
+      "2026": [
+        "Long Range",
+        "Standard Range"
+      ]
     }
   },
   "BYD": {
@@ -28535,6 +28625,28 @@
       "2026": [
         "Extended Range",
         "Standard Range"
+      ]
+    },
+    "Seal U": {
+      "2023": [
+        "DM-i",
+        "DM-i Premium",
+        "EV"
+      ],
+      "2024": [
+        "DM-i",
+        "DM-i Premium",
+        "EV"
+      ],
+      "2025": [
+        "DM-i",
+        "DM-i Premium",
+        "EV"
+      ],
+      "2026": [
+        "DM-i",
+        "DM-i Premium",
+        "EV"
       ]
     }
   },
@@ -29287,6 +29399,36 @@
       "2026": [
         "Rubicon",
         "Sport S"
+      ]
+    },
+    "Avenger": {
+      "2023": [
+        "Altitude",
+        "Electric",
+        "Electric Summit",
+        "Longitude",
+        "Summit"
+      ],
+      "2024": [
+        "Altitude",
+        "Electric",
+        "Electric Summit",
+        "Longitude",
+        "Summit"
+      ],
+      "2025": [
+        "Altitude",
+        "Electric",
+        "Electric Summit",
+        "Longitude",
+        "Summit"
+      ],
+      "2026": [
+        "Altitude",
+        "Electric",
+        "Electric Summit",
+        "Longitude",
+        "Summit"
       ]
     }
   },
@@ -39171,376 +39313,376 @@
   "Peugeot": {
     "106": {
       "1991": [
-        "XN",
-        "XR",
         "Rallye",
-        "S16"
+        "S16",
+        "XN",
+        "XR"
       ],
       "1992": [
-        "XN",
-        "XR",
         "Rallye",
-        "S16"
+        "S16",
+        "XN",
+        "XR"
       ],
       "1993": [
-        "XN",
-        "XR",
         "Rallye",
-        "S16"
+        "S16",
+        "XN",
+        "XR"
       ],
       "1994": [
-        "XN",
-        "XR",
         "Rallye",
-        "S16"
+        "S16",
+        "XN",
+        "XR"
       ],
       "1995": [
-        "XN",
-        "XR",
         "Rallye",
-        "S16"
+        "S16",
+        "XN",
+        "XR"
       ],
       "1996": [
-        "XN",
-        "XR",
         "Rallye",
-        "S16"
+        "S16",
+        "XN",
+        "XR"
       ],
       "1997": [
-        "XN",
-        "XR",
         "Rallye",
-        "S16"
+        "S16",
+        "XN",
+        "XR"
       ],
       "1998": [
-        "XN",
-        "XR",
         "Rallye",
-        "S16"
+        "S16",
+        "XN",
+        "XR"
       ],
       "1999": [
-        "XN",
-        "XR",
         "Rallye",
-        "S16"
+        "S16",
+        "XN",
+        "XR"
       ],
       "2000": [
-        "XN",
-        "XR",
         "Rallye",
-        "S16"
+        "S16",
+        "XN",
+        "XR"
       ],
       "2001": [
-        "XN",
-        "XR",
         "Rallye",
-        "S16"
+        "S16",
+        "XN",
+        "XR"
       ],
       "2002": [
-        "XN",
-        "XR",
         "Rallye",
-        "S16"
+        "S16",
+        "XN",
+        "XR"
       ],
       "2003": [
-        "XN",
-        "XR",
         "Rallye",
-        "S16"
+        "S16",
+        "XN",
+        "XR"
       ],
       "2004": [
-        "XN",
-        "XR",
         "Rallye",
-        "S16"
+        "S16",
+        "XN",
+        "XR"
       ]
     },
     "107": {
       "2005": [
-        "XN",
         "Active",
-        "Sportium"
+        "Sportium",
+        "XN"
       ],
       "2006": [
-        "XN",
         "Active",
-        "Sportium"
+        "Sportium",
+        "XN"
       ],
       "2007": [
-        "XN",
         "Active",
-        "Sportium"
+        "Sportium",
+        "XN"
       ],
       "2008": [
-        "XN",
         "Active",
-        "Sportium"
+        "Sportium",
+        "XN"
       ],
       "2009": [
-        "XN",
         "Active",
-        "Sportium"
+        "Sportium",
+        "XN"
       ],
       "2010": [
-        "XN",
         "Active",
-        "Sportium"
+        "Sportium",
+        "XN"
       ],
       "2011": [
-        "XN",
         "Active",
-        "Sportium"
+        "Sportium",
+        "XN"
       ],
       "2012": [
-        "XN",
         "Active",
-        "Sportium"
+        "Sportium",
+        "XN"
       ],
       "2013": [
-        "XN",
         "Active",
-        "Sportium"
+        "Sportium",
+        "XN"
       ],
       "2014": [
-        "XN",
         "Active",
-        "Sportium"
+        "Sportium",
+        "XN"
       ]
     },
     "205": {
       "1983": [
-        "XR",
+        "Cabriolet",
         "GT",
         "GTI",
-        "Cabriolet"
+        "XR"
       ],
       "1984": [
-        "XR",
+        "Cabriolet",
         "GT",
         "GTI",
-        "Cabriolet"
+        "XR"
       ],
       "1985": [
-        "XR",
+        "Cabriolet",
         "GT",
         "GTI",
-        "Cabriolet"
+        "XR"
       ],
       "1986": [
-        "XR",
+        "Cabriolet",
         "GT",
         "GTI",
-        "Cabriolet"
+        "XR"
       ],
       "1987": [
-        "XR",
+        "Cabriolet",
         "GT",
         "GTI",
-        "Cabriolet"
+        "XR"
       ],
       "1988": [
-        "XR",
+        "Cabriolet",
         "GT",
         "GTI",
-        "Cabriolet"
+        "XR"
       ],
       "1989": [
-        "XR",
+        "Cabriolet",
         "GT",
         "GTI",
-        "Cabriolet"
+        "XR"
       ],
       "1990": [
-        "XR",
+        "Cabriolet",
         "GT",
         "GTI",
-        "Cabriolet"
+        "XR"
       ],
       "1991": [
-        "XR",
+        "Cabriolet",
         "GT",
         "GTI",
-        "Cabriolet"
+        "XR"
       ],
       "1992": [
-        "XR",
+        "Cabriolet",
         "GT",
         "GTI",
-        "Cabriolet"
+        "XR"
       ],
       "1993": [
-        "XR",
+        "Cabriolet",
         "GT",
         "GTI",
-        "Cabriolet"
+        "XR"
       ],
       "1994": [
-        "XR",
+        "Cabriolet",
         "GT",
         "GTI",
-        "Cabriolet"
+        "XR"
       ],
       "1995": [
-        "XR",
+        "Cabriolet",
         "GT",
         "GTI",
-        "Cabriolet"
+        "XR"
       ],
       "1996": [
-        "XR",
+        "Cabriolet",
         "GT",
         "GTI",
-        "Cabriolet"
+        "XR"
       ],
       "1997": [
-        "XR",
+        "Cabriolet",
         "GT",
         "GTI",
-        "Cabriolet"
+        "XR"
       ]
     },
     "206": {
       "1998": [
-        "XR",
-        "XT",
-        "GTI",
         "CC",
-        "SW"
+        "GTI",
+        "SW",
+        "XR",
+        "XT"
       ],
       "1999": [
-        "XR",
-        "XT",
-        "GTI",
         "CC",
-        "SW"
+        "GTI",
+        "SW",
+        "XR",
+        "XT"
       ],
       "2000": [
-        "XR",
-        "XT",
-        "GTI",
         "CC",
-        "SW"
+        "GTI",
+        "SW",
+        "XR",
+        "XT"
       ],
       "2001": [
-        "XR",
-        "XT",
-        "GTI",
         "CC",
-        "SW"
+        "GTI",
+        "SW",
+        "XR",
+        "XT"
       ],
       "2002": [
-        "XR",
-        "XT",
-        "GTI",
         "CC",
-        "SW"
+        "GTI",
+        "SW",
+        "XR",
+        "XT"
       ],
       "2003": [
-        "XR",
-        "XT",
-        "GTI",
         "CC",
-        "SW"
+        "GTI",
+        "SW",
+        "XR",
+        "XT"
       ],
       "2004": [
-        "XR",
-        "XT",
-        "GTI",
         "CC",
-        "SW"
+        "GTI",
+        "SW",
+        "XR",
+        "XT"
       ],
       "2005": [
-        "XR",
-        "XT",
-        "GTI",
         "CC",
-        "SW"
+        "GTI",
+        "SW",
+        "XR",
+        "XT"
       ],
       "2006": [
-        "XR",
-        "XT",
-        "GTI",
         "CC",
-        "SW"
+        "GTI",
+        "SW",
+        "XR",
+        "XT"
       ],
       "2007": [
-        "XR",
-        "XT",
-        "GTI",
         "CC",
-        "SW"
+        "GTI",
+        "SW",
+        "XR",
+        "XT"
       ],
       "2008": [
-        "XR",
-        "XT",
-        "GTI",
         "CC",
-        "SW"
+        "GTI",
+        "SW",
+        "XR",
+        "XT"
       ],
       "2009": [
-        "XR",
-        "XT",
-        "GTI",
         "CC",
-        "SW"
+        "GTI",
+        "SW",
+        "XR",
+        "XT"
       ],
       "2010": [
-        "XR",
-        "XT",
-        "GTI",
         "CC",
-        "SW"
+        "GTI",
+        "SW",
+        "XR",
+        "XT"
       ]
     },
     "207": {
       "2006": [
-        "X-Line",
-        "XT",
-        "GT",
         "CC",
-        "SW"
+        "GT",
+        "SW",
+        "X-Line",
+        "XT"
       ],
       "2007": [
-        "X-Line",
-        "XT",
-        "GT",
         "CC",
-        "SW"
+        "GT",
+        "SW",
+        "X-Line",
+        "XT"
       ],
       "2008": [
-        "X-Line",
-        "XT",
-        "GT",
         "CC",
-        "SW"
+        "GT",
+        "SW",
+        "X-Line",
+        "XT"
       ],
       "2009": [
-        "X-Line",
-        "XT",
-        "GT",
         "CC",
-        "SW"
+        "GT",
+        "SW",
+        "X-Line",
+        "XT"
       ],
       "2010": [
-        "X-Line",
-        "XT",
-        "GT",
         "CC",
-        "SW"
+        "GT",
+        "SW",
+        "X-Line",
+        "XT"
       ],
       "2011": [
-        "X-Line",
-        "XT",
-        "GT",
         "CC",
-        "SW"
+        "GT",
+        "SW",
+        "X-Line",
+        "XT"
       ],
       "2012": [
-        "X-Line",
-        "XT",
-        "GT",
         "CC",
-        "SW"
+        "GT",
+        "SW",
+        "X-Line",
+        "XT"
       ]
     },
     "208": {
@@ -39612,154 +39754,154 @@
     },
     "306": {
       "1993": [
-        "XR",
-        "XT",
+        "Cabriolet",
         "GTI 6",
-        "Cabriolet"
+        "XR",
+        "XT"
       ],
       "1994": [
-        "XR",
-        "XT",
+        "Cabriolet",
         "GTI 6",
-        "Cabriolet"
+        "XR",
+        "XT"
       ],
       "1995": [
-        "XR",
-        "XT",
+        "Cabriolet",
         "GTI 6",
-        "Cabriolet"
+        "XR",
+        "XT"
       ],
       "1996": [
-        "XR",
-        "XT",
+        "Cabriolet",
         "GTI 6",
-        "Cabriolet"
+        "XR",
+        "XT"
       ],
       "1997": [
-        "XR",
-        "XT",
+        "Cabriolet",
         "GTI 6",
-        "Cabriolet"
+        "XR",
+        "XT"
       ],
       "1998": [
-        "XR",
-        "XT",
+        "Cabriolet",
         "GTI 6",
-        "Cabriolet"
+        "XR",
+        "XT"
       ],
       "1999": [
-        "XR",
-        "XT",
+        "Cabriolet",
         "GTI 6",
-        "Cabriolet"
+        "XR",
+        "XT"
       ],
       "2000": [
-        "XR",
-        "XT",
+        "Cabriolet",
         "GTI 6",
-        "Cabriolet"
+        "XR",
+        "XT"
       ],
       "2001": [
-        "XR",
-        "XT",
+        "Cabriolet",
         "GTI 6",
-        "Cabriolet"
+        "XR",
+        "XT"
       ],
       "2002": [
-        "XR",
-        "XT",
+        "Cabriolet",
         "GTI 6",
-        "Cabriolet"
+        "XR",
+        "XT"
       ]
     },
     "307": {
       "2001": [
-        "XR",
-        "XT",
-        "ST",
         "CC",
-        "SW"
+        "ST",
+        "SW",
+        "XR",
+        "XT"
       ],
       "2002": [
-        "XR",
-        "XT",
-        "ST",
         "CC",
-        "SW"
+        "ST",
+        "SW",
+        "XR",
+        "XT"
       ],
       "2003": [
-        "XR",
-        "XT",
-        "ST",
         "CC",
-        "SW"
+        "ST",
+        "SW",
+        "XR",
+        "XT"
       ],
       "2004": [
-        "XR",
-        "XT",
-        "ST",
         "CC",
-        "SW"
+        "ST",
+        "SW",
+        "XR",
+        "XT"
       ],
       "2005": [
-        "XR",
-        "XT",
-        "ST",
         "CC",
-        "SW"
+        "ST",
+        "SW",
+        "XR",
+        "XT"
       ],
       "2006": [
-        "XR",
-        "XT",
-        "ST",
         "CC",
-        "SW"
+        "ST",
+        "SW",
+        "XR",
+        "XT"
       ],
       "2007": [
-        "XR",
-        "XT",
-        "ST",
         "CC",
-        "SW"
+        "ST",
+        "SW",
+        "XR",
+        "XT"
       ],
       "2008": [
-        "XR",
-        "XT",
-        "ST",
         "CC",
-        "SW"
+        "ST",
+        "SW",
+        "XR",
+        "XT"
       ]
     },
     "308": {
       "2007": [
-        "XSE",
+        "Sport",
         "Touring",
-        "Sport"
+        "XSE"
       ],
       "2008": [
-        "XSE",
+        "Sport",
         "Touring",
-        "Sport"
+        "XSE"
       ],
       "2009": [
-        "XSE",
+        "Sport",
         "Touring",
-        "Sport"
+        "XSE"
       ],
       "2010": [
-        "XSE",
+        "Sport",
         "Touring",
-        "Sport"
+        "XSE"
       ],
       "2011": [
-        "XSE",
+        "Sport",
         "Touring",
-        "Sport"
+        "XSE"
       ],
       "2012": [
-        "XSE",
+        "Sport",
         "Touring",
-        "Sport"
+        "XSE"
       ],
       "2013": [
         "Active",
@@ -39825,284 +39967,298 @@
         "Active",
         "Allure",
         "GT",
-        "SW"
+        "SW",
+        "e-308",
+        "e-308 SW"
+      ],
+      "2024": [
+        "e-308",
+        "e-308 SW"
+      ],
+      "2025": [
+        "e-308",
+        "e-308 SW"
+      ],
+      "2026": [
+        "e-308",
+        "e-308 SW"
       ]
     },
     "405": {
       "1987": [
         "GL",
         "GR",
-        "SR",
-        "Mi16"
+        "Mi16",
+        "SR"
       ],
       "1988": [
         "GL",
         "GR",
-        "SR",
-        "Mi16"
+        "Mi16",
+        "SR"
       ],
       "1989": [
         "GL",
         "GR",
-        "SR",
-        "Mi16"
+        "Mi16",
+        "SR"
       ],
       "1990": [
         "GL",
         "GR",
-        "SR",
-        "Mi16"
+        "Mi16",
+        "SR"
       ],
       "1991": [
         "GL",
         "GR",
-        "SR",
-        "Mi16"
+        "Mi16",
+        "SR"
       ],
       "1992": [
         "GL",
         "GR",
-        "SR",
-        "Mi16"
+        "Mi16",
+        "SR"
       ],
       "1993": [
         "GL",
         "GR",
-        "SR",
-        "Mi16"
+        "Mi16",
+        "SR"
       ],
       "1994": [
         "GL",
         "GR",
-        "SR",
-        "Mi16"
+        "Mi16",
+        "SR"
       ],
       "1995": [
         "GL",
         "GR",
-        "SR",
-        "Mi16"
+        "Mi16",
+        "SR"
       ],
       "1996": [
         "GL",
         "GR",
-        "SR",
-        "Mi16"
+        "Mi16",
+        "SR"
       ],
       "1997": [
         "GL",
         "GR",
-        "SR",
-        "Mi16"
+        "Mi16",
+        "SR"
       ]
     },
     "406": {
       "1995": [
-        "XR",
+        "Coupe",
         "SR",
         "ST",
-        "Coupe"
+        "XR"
       ],
       "1996": [
-        "XR",
+        "Coupe",
         "SR",
         "ST",
-        "Coupe"
+        "XR"
       ],
       "1997": [
-        "XR",
+        "Coupe",
         "SR",
         "ST",
-        "Coupe"
+        "XR"
       ],
       "1998": [
-        "XR",
+        "Coupe",
         "SR",
         "ST",
-        "Coupe"
+        "XR"
       ],
       "1999": [
-        "XR",
+        "Coupe",
         "SR",
         "ST",
-        "Coupe"
+        "XR"
       ],
       "2000": [
-        "XR",
+        "Coupe",
         "SR",
         "ST",
-        "Coupe"
+        "XR"
       ],
       "2001": [
-        "XR",
+        "Coupe",
         "SR",
         "ST",
-        "Coupe"
+        "XR"
       ],
       "2002": [
-        "XR",
+        "Coupe",
         "SR",
         "ST",
-        "Coupe"
+        "XR"
       ],
       "2003": [
-        "XR",
+        "Coupe",
         "SR",
         "ST",
-        "Coupe"
+        "XR"
       ],
       "2004": [
-        "XR",
+        "Coupe",
         "SR",
         "ST",
-        "Coupe"
+        "XR"
       ]
     },
     "407": {
       "2004": [
-        "XR",
-        "ST",
+        "Coupe",
         "SR",
-        "Coupe"
+        "ST",
+        "XR"
       ],
       "2005": [
-        "XR",
-        "ST",
+        "Coupe",
         "SR",
-        "Coupe"
+        "ST",
+        "XR"
       ],
       "2006": [
-        "XR",
-        "ST",
+        "Coupe",
         "SR",
-        "Coupe"
+        "ST",
+        "XR"
       ],
       "2007": [
-        "XR",
-        "ST",
+        "Coupe",
         "SR",
-        "Coupe"
+        "ST",
+        "XR"
       ],
       "2008": [
-        "XR",
-        "ST",
+        "Coupe",
         "SR",
-        "Coupe"
+        "ST",
+        "XR"
       ],
       "2009": [
-        "XR",
-        "ST",
+        "Coupe",
         "SR",
-        "Coupe"
+        "ST",
+        "XR"
       ],
       "2010": [
-        "XR",
-        "ST",
+        "Coupe",
         "SR",
-        "Coupe"
+        "ST",
+        "XR"
       ],
       "2011": [
-        "XR",
-        "ST",
+        "Coupe",
         "SR",
-        "Coupe"
+        "ST",
+        "XR"
       ]
     },
     "504": {
       "1968": [
+        "Cabriolet",
         "GL",
         "GR",
-        "Cabriolet",
         "V6"
       ],
       "1969": [
+        "Cabriolet",
         "GL",
         "GR",
-        "Cabriolet",
         "V6"
       ],
       "1970": [
+        "Cabriolet",
         "GL",
         "GR",
-        "Cabriolet",
         "V6"
       ],
       "1971": [
+        "Cabriolet",
         "GL",
         "GR",
-        "Cabriolet",
         "V6"
       ],
       "1972": [
+        "Cabriolet",
         "GL",
         "GR",
-        "Cabriolet",
         "V6"
       ],
       "1973": [
+        "Cabriolet",
         "GL",
         "GR",
-        "Cabriolet",
         "V6"
       ],
       "1974": [
+        "Cabriolet",
         "GL",
         "GR",
-        "Cabriolet",
         "V6"
       ],
       "1975": [
+        "Cabriolet",
         "GL",
         "GR",
-        "Cabriolet",
         "V6"
       ],
       "1976": [
+        "Cabriolet",
         "GL",
         "GR",
-        "Cabriolet",
         "V6"
       ],
       "1977": [
+        "Cabriolet",
         "GL",
         "GR",
-        "Cabriolet",
         "V6"
       ],
       "1978": [
+        "Cabriolet",
         "GL",
         "GR",
-        "Cabriolet",
         "V6"
       ],
       "1979": [
+        "Cabriolet",
         "GL",
         "GR",
-        "Cabriolet",
         "V6"
       ],
       "1980": [
+        "Cabriolet",
         "GL",
         "GR",
-        "Cabriolet",
         "V6"
       ],
       "1981": [
+        "Cabriolet",
         "GL",
         "GR",
-        "Cabriolet",
         "V6"
       ],
       "1982": [
+        "Cabriolet",
         "GL",
         "GR",
-        "Cabriolet",
         "V6"
       ],
       "1983": [
+        "Cabriolet",
         "GL",
         "GR",
-        "Cabriolet",
         "V6"
       ]
     },
@@ -40430,34 +40586,34 @@
     },
     "4007": {
       "2007": [
-        "ST",
+        "Executive",
         "SR",
-        "Executive"
+        "ST"
       ],
       "2008": [
-        "ST",
+        "Executive",
         "SR",
-        "Executive"
+        "ST"
       ],
       "2009": [
-        "ST",
+        "Executive",
         "SR",
-        "Executive"
+        "ST"
       ],
       "2010": [
-        "ST",
+        "Executive",
         "SR",
-        "Executive"
+        "ST"
       ],
       "2011": [
-        "ST",
+        "Executive",
         "SR",
-        "Executive"
+        "ST"
       ],
       "2012": [
-        "ST",
+        "Executive",
         "SR",
-        "Executive"
+        "ST"
       ]
     },
     "4008": {
@@ -40571,28 +40727,28 @@
     },
     "RCZ": {
       "2010": [
-        "base",
-        "R"
+        "R",
+        "base"
       ],
       "2011": [
-        "base",
-        "R"
+        "R",
+        "base"
       ],
       "2012": [
-        "base",
-        "R"
+        "R",
+        "base"
       ],
       "2013": [
-        "base",
-        "R"
+        "R",
+        "base"
       ],
       "2014": [
-        "base",
-        "R"
+        "R",
+        "base"
       ],
       "2015": [
-        "base",
-        "R"
+        "R",
+        "base"
       ]
     }
   },
