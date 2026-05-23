@@ -2219,6 +2219,44 @@
         "Raptor",
         "XLT"
       ]
+    },
+    "Mustang Mach-E": {
+      "2021": [
+        "GT",
+        "Premium",
+        "Premium ER",
+        "Select"
+      ],
+      "2022": [
+        "GT",
+        "Premium",
+        "Premium ER",
+        "Select"
+      ],
+      "2023": [
+        "GT",
+        "Premium",
+        "Premium ER",
+        "Select"
+      ],
+      "2024": [
+        "GT",
+        "Premium",
+        "Premium ER",
+        "Select"
+      ],
+      "2025": [
+        "GT",
+        "Premium",
+        "Premium ER",
+        "Select"
+      ],
+      "2026": [
+        "GT",
+        "Premium",
+        "Premium ER",
+        "Select"
+      ]
     }
   },
   "HSV": {
@@ -14650,6 +14688,18 @@
         "Long Range AWD",
         "Standard Range"
       ]
+    },
+    "EV3": {
+      "2025": [
+        "GT-Line",
+        "Long Range",
+        "Standard Range"
+      ],
+      "2026": [
+        "GT-Line",
+        "Long Range",
+        "Standard Range"
+      ]
     }
   },
   "Volkswagen": {
@@ -18237,6 +18287,24 @@
         "sDrive20",
         "xDrive30"
       ]
+    },
+    "iX1": {
+      "2023": [
+        "eDrive20",
+        "xDrive30"
+      ],
+      "2024": [
+        "eDrive20",
+        "xDrive30"
+      ],
+      "2025": [
+        "eDrive20",
+        "xDrive30"
+      ],
+      "2026": [
+        "eDrive20",
+        "xDrive30"
+      ]
     }
   },
   "Mercedes-Benz": {
@@ -19858,6 +19926,35 @@
         "AMG EQS 53",
         "EQS 450",
         "EQS 580 4MATIC"
+      ]
+    },
+    "CLE": {
+      "2024": [
+        "AMG CLE53 4MATIC+",
+        "CLE200",
+        "CLE200 Cabriolet",
+        "CLE300",
+        "CLE300 Cabriolet",
+        "CLE450 4MATIC",
+        "CLE450 4MATIC Cabriolet"
+      ],
+      "2025": [
+        "AMG CLE53 4MATIC+",
+        "CLE200",
+        "CLE200 Cabriolet",
+        "CLE300",
+        "CLE300 Cabriolet",
+        "CLE450 4MATIC",
+        "CLE450 4MATIC Cabriolet"
+      ],
+      "2026": [
+        "AMG CLE53 4MATIC+",
+        "CLE200",
+        "CLE200 Cabriolet",
+        "CLE300",
+        "CLE300 Cabriolet",
+        "CLE450 4MATIC",
+        "CLE450 4MATIC Cabriolet"
       ]
     }
   },
@@ -24180,6 +24277,84 @@
         "RS3",
         "S3"
       ]
+    },
+    "Q4 Sportback e-tron": {
+      "2021": [
+        "40",
+        "50 quattro"
+      ],
+      "2022": [
+        "40",
+        "50 quattro"
+      ],
+      "2023": [
+        "40",
+        "50 quattro"
+      ],
+      "2024": [
+        "40",
+        "50 quattro"
+      ],
+      "2025": [
+        "40",
+        "50 quattro"
+      ],
+      "2026": [
+        "40",
+        "50 quattro"
+      ]
+    },
+    "A6 e-tron": {
+      "2024": [
+        "Avant e-tron",
+        "RS6 e-tron",
+        "e-tron",
+        "performance quattro"
+      ],
+      "2025": [
+        "Avant e-tron",
+        "RS6 e-tron",
+        "e-tron",
+        "performance quattro"
+      ],
+      "2026": [
+        "Avant e-tron",
+        "RS6 e-tron",
+        "e-tron",
+        "performance quattro"
+      ]
+    },
+    "Q8 e-tron Sportback": {
+      "2023": [
+        "55 quattro",
+        "60 quattro"
+      ],
+      "2024": [
+        "55 quattro",
+        "60 quattro"
+      ],
+      "2025": [
+        "55 quattro",
+        "60 quattro"
+      ],
+      "2026": [
+        "55 quattro",
+        "60 quattro"
+      ]
+    },
+    "RS Q8 e-tron": {
+      "2023": [
+        "RS Q8 e-tron"
+      ],
+      "2024": [
+        "RS Q8 e-tron"
+      ],
+      "2025": [
+        "RS Q8 e-tron"
+      ],
+      "2026": [
+        "RS Q8 e-tron"
+      ]
     }
   },
   "Porsche": {
@@ -24713,7 +24888,8 @@
         "4S Electric"
       ],
       "2026": [
-        "4 Electric"
+        "4 Electric",
+        "4S Electric"
       ]
     },
     "Panamera": {
@@ -26746,6 +26922,34 @@
         "Twin Motor",
         "Twin Motor Performance"
       ]
+    },
+    "EX40": {
+      "2024": [
+        "Single Motor",
+        "Twin Motor Performance"
+      ],
+      "2025": [
+        "Single Motor",
+        "Twin Motor Performance"
+      ],
+      "2026": [
+        "Single Motor",
+        "Twin Motor Performance"
+      ]
+    },
+    "EC40": {
+      "2024": [
+        "Single Motor",
+        "Twin Motor Performance"
+      ],
+      "2025": [
+        "Single Motor",
+        "Twin Motor Performance"
+      ],
+      "2026": [
+        "Single Motor",
+        "Twin Motor Performance"
+      ]
     }
   },
   "Tesla": {
@@ -28567,6 +28771,33 @@
         "3.5T",
         "3.5T Sport+",
         "Electrified"
+      ]
+    },
+    "GV60": {
+      "2022": [
+        "Master",
+        "Sport",
+        "Sport Plus"
+      ],
+      "2023": [
+        "Master",
+        "Sport",
+        "Sport Plus"
+      ],
+      "2024": [
+        "Master",
+        "Sport",
+        "Sport Plus"
+      ],
+      "2025": [
+        "Master",
+        "Sport",
+        "Sport Plus"
+      ],
+      "2026": [
+        "Master",
+        "Sport",
+        "Sport Plus"
       ]
     }
   },
