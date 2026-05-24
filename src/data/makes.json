@@ -18359,6 +18359,28 @@
         "220i",
         "M235i xDrive"
       ]
+    },
+    "XM": {
+      "2023": [
+        "XM",
+        "XM Label Gold",
+        "XM Label Red"
+      ],
+      "2024": [
+        "XM",
+        "XM Label Gold",
+        "XM Label Red"
+      ],
+      "2025": [
+        "XM",
+        "XM Label Gold",
+        "XM Label Red"
+      ],
+      "2026": [
+        "XM",
+        "XM Label Gold",
+        "XM Label Red"
+      ]
     }
   },
   "Mercedes-Benz": {
@@ -18917,19 +18939,25 @@
         "AMG E53 4MATIC+",
         "E200",
         "E220d",
-        "E300"
+        "E300",
+        "E300e",
+        "E400e 4MATIC"
       ],
       "2025": [
         "AMG E53 4MATIC+",
         "E200",
         "E220d",
-        "E300"
+        "E300",
+        "E300e",
+        "E400e 4MATIC"
       ],
       "2026": [
         "AMG E53 4MATIC+",
         "E200",
         "E220d",
-        "E300"
+        "E300",
+        "E300e",
+        "E400e 4MATIC"
       ]
     },
     "GLA": {
@@ -22533,6 +22561,23 @@
         "LBX",
         "Luxury"
       ]
+    },
+    "TX": {
+      "2024": [
+        "TX 350",
+        "TX 500h",
+        "TX 550h+"
+      ],
+      "2025": [
+        "TX 350",
+        "TX 500h",
+        "TX 550h+"
+      ],
+      "2026": [
+        "TX 350",
+        "TX 500h",
+        "TX 550h+"
+      ]
     }
   },
   "Audi": {
@@ -24839,12 +24884,15 @@
       "2019": [
         "Coupe",
         "E-Hybrid",
+        "E-Hybrid Coupe",
         "GTS Coupe",
         "S Coupe",
         "Turbo Coupe"
       ],
       "2020": [
         "Coupe",
+        "E-Hybrid",
+        "E-Hybrid Coupe",
         "GTS Coupe",
         "S Coupe",
         "Turbo Coupe",
@@ -24852,6 +24900,8 @@
       ],
       "2021": [
         "Coupe",
+        "E-Hybrid",
+        "E-Hybrid Coupe",
         "GTS 4.0",
         "GTS Coupe",
         "S",
@@ -24860,6 +24910,8 @@
       ],
       "2022": [
         "Coupe",
+        "E-Hybrid",
+        "E-Hybrid Coupe",
         "GTS Coupe",
         "S",
         "S Coupe",
@@ -24869,6 +24921,8 @@
       ],
       "2023": [
         "Coupe",
+        "E-Hybrid",
+        "E-Hybrid Coupe",
         "GTS Coupe",
         "S Coupe",
         "Turbo Coupe",
@@ -24876,6 +24930,8 @@
       ],
       "2024": [
         "Coupe",
+        "E-Hybrid",
+        "E-Hybrid Coupe",
         "GTS Coupe",
         "S",
         "S Coupe",
@@ -24885,18 +24941,24 @@
       ],
       "2025": [
         "Coupe",
+        "E-Hybrid",
+        "E-Hybrid Coupe",
         "GTS Coupe",
         "S",
         "S Coupe",
         "Turbo Coupe",
+        "Turbo E-Hybrid",
         "Turbo GT"
       ],
       "2026": [
         "Coupe",
+        "E-Hybrid",
+        "E-Hybrid Coupe",
         "GTS Coupe",
         "S",
         "S Coupe",
         "Turbo Coupe",
+        "Turbo E-Hybrid",
         "Turbo GT"
       ]
     },
@@ -25020,6 +25082,7 @@
         "Turbo S E-Hybrid Sport Turismo"
       ],
       "2024": [
+        "4 E-Hybrid",
         "4S Sport Turismo",
         "Panamera 4",
         "Panamera 4S",
@@ -25028,13 +25091,18 @@
         "Turbo S E-Hybrid Sport Turismo"
       ],
       "2025": [
+        "4 E-Hybrid",
         "4S Sport Turismo",
         "Panamera 4S",
+        "Panamera Turbo E-Hybrid",
         "Sport Turismo",
         "Turbo S E-Hybrid Sport Turismo"
       ],
       "2026": [
-        "Panamera 4S"
+        "4 E-Hybrid",
+        "Panamera 4S",
+        "Panamera Turbo E-Hybrid",
+        "Turbo S E-Hybrid Sport Turismo"
       ]
     },
     "Taycan": {
