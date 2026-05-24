@@ -2211,12 +2211,14 @@
         "Lariat",
         "Lightning",
         "Raptor",
+        "Raptor R",
         "XLT"
       ],
       "2024": [
         "Lariat",
         "Lightning",
         "Raptor",
+        "Raptor R",
         "XLT"
       ]
     },
@@ -2256,6 +2258,49 @@
         "Premium",
         "Premium ER",
         "Select"
+      ]
+    },
+    "Bronco": {
+      "2021": [
+        "Badlands",
+        "Base",
+        "Big Bend",
+        "Wildtrak"
+      ],
+      "2022": [
+        "Badlands",
+        "Base",
+        "Big Bend",
+        "Raptor",
+        "Wildtrak"
+      ],
+      "2023": [
+        "Badlands",
+        "Base",
+        "Big Bend",
+        "Raptor",
+        "Wildtrak"
+      ],
+      "2024": [
+        "Badlands",
+        "Base",
+        "Big Bend",
+        "Raptor",
+        "Wildtrak"
+      ],
+      "2025": [
+        "Badlands",
+        "Base",
+        "Big Bend",
+        "Raptor",
+        "Wildtrak"
+      ],
+      "2026": [
+        "Badlands",
+        "Base",
+        "Big Bend",
+        "Raptor",
+        "Wildtrak"
       ]
     }
   },
@@ -6658,6 +6703,71 @@
         "Sahara ZX Petrol",
         "VX Diesel",
         "VX Petrol"
+      ]
+    },
+    "Land Cruiser 200": {
+      "2008": [
+        "GX",
+        "GXL",
+        "Sahara",
+        "VX"
+      ],
+      "2010": [
+        "GX",
+        "GXL",
+        "Sahara",
+        "VX"
+      ],
+      "2013": [
+        "GX",
+        "GXL",
+        "Sahara",
+        "VX"
+      ],
+      "2016": [
+        "GX",
+        "GXL",
+        "Sahara",
+        "VX"
+      ],
+      "2019": [
+        "GX",
+        "GXL",
+        "Sahara",
+        "VX"
+      ],
+      "2021": [
+        "GX",
+        "GXL",
+        "Sahara",
+        "VX"
+      ]
+    },
+    "Land Cruiser 70": {
+      "2008": [
+        "GX",
+        "GXL",
+        "WorkMate"
+      ],
+      "2012": [
+        "GX",
+        "GXL",
+        "WorkMate"
+      ],
+      "2016": [
+        "GX",
+        "GXL",
+        "WorkMate"
+      ],
+      "2020": [
+        "GX",
+        "GXL",
+        "WorkMate"
+      ],
+      "2024": [
+        "GX",
+        "GXL",
+        "WorkMate"
       ]
     }
   },
@@ -29497,11 +29607,16 @@
         "Summit",
         "Trackhawk"
       ],
+      "2019": [
+        "Trackhawk"
+      ],
       "2020": [
         "4xe",
         "Laredo",
         "Limited",
-        "Summit"
+        "SRT",
+        "Summit",
+        "Trackhawk"
       ],
       "2021": [
         "4xe",
@@ -29509,6 +29624,7 @@
         "Limited",
         "Overland",
         "Summit",
+        "Trackhawk",
         "Trailhawk L"
       ],
       "2022": [
