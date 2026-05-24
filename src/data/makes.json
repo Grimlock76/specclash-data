@@ -2312,6 +2312,28 @@
         "AWD",
         "Standard"
       ]
+    },
+    "Transit Custom": {
+      "2023": [
+        "Sport",
+        "Trend",
+        "Trend PHEV"
+      ],
+      "2024": [
+        "Sport",
+        "Trend",
+        "Trend PHEV"
+      ],
+      "2025": [
+        "Sport",
+        "Trend",
+        "Trend PHEV"
+      ],
+      "2026": [
+        "Sport",
+        "Trend",
+        "Trend PHEV"
+      ]
     }
   },
   "HSV": {
@@ -16497,6 +16519,33 @@
         "Pro",
         "Pro LWB"
       ]
+    },
+    "Transporter": {
+      "2020": [
+        "Comfortline",
+        "Highline",
+        "Trendline"
+      ],
+      "2021": [
+        "Comfortline",
+        "Highline",
+        "Trendline"
+      ],
+      "2022": [
+        "Comfortline",
+        "Highline",
+        "Trendline"
+      ],
+      "2023": [
+        "Comfortline",
+        "Highline",
+        "Trendline"
+      ],
+      "2024": [
+        "Comfortline",
+        "Highline",
+        "Trendline"
+      ]
     }
   },
   "BMW": {
@@ -28708,6 +28757,28 @@
         "2.5 V6",
         "260"
       ]
+    },
+    "MG5": {
+      "2022": [
+        "Long Range",
+        "Standard Range"
+      ],
+      "2023": [
+        "Long Range",
+        "Standard Range"
+      ],
+      "2024": [
+        "Long Range",
+        "Standard Range"
+      ],
+      "2025": [
+        "Long Range",
+        "Standard Range"
+      ],
+      "2026": [
+        "Long Range",
+        "Standard Range"
+      ]
     }
   },
   "GWM": {
@@ -31790,6 +31861,42 @@
         "E-Tech Iconic",
         "E-Tech Intens",
         "E-Tech LR Iconic"
+      ]
+    },
+    "Kangoo E-Tech": {
+      "2022": [
+        "Maxi Van",
+        "Van"
+      ],
+      "2023": [
+        "Maxi Van",
+        "Van"
+      ],
+      "2024": [
+        "Maxi Van",
+        "Van"
+      ],
+      "2025": [
+        "Maxi Van",
+        "Van"
+      ],
+      "2026": [
+        "Maxi Van",
+        "Van"
+      ]
+    },
+    "5 E-Tech": {
+      "2024": [
+        "Long Range",
+        "Standard Range"
+      ],
+      "2025": [
+        "Long Range",
+        "Standard Range"
+      ],
+      "2026": [
+        "Long Range",
+        "Standard Range"
       ]
     }
   },
