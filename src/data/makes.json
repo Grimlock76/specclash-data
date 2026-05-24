@@ -29126,6 +29126,16 @@
         "DM-i Premium",
         "EV"
       ]
+    },
+    "Seagull": {
+      "2025": [
+        "Extended Range",
+        "Standard Range"
+      ],
+      "2026": [
+        "Extended Range",
+        "Standard Range"
+      ]
     }
   },
   "Genesis": {
@@ -31202,6 +31212,23 @@
       "2026": [
         "Monte Carlo",
         "Style"
+      ]
+    },
+    "Elroq": {
+      "2024": [
+        "60",
+        "85",
+        "RS"
+      ],
+      "2025": [
+        "60",
+        "85",
+        "RS"
+      ],
+      "2026": [
+        "60",
+        "85",
+        "RS"
       ]
     }
   },
@@ -42649,34 +42676,34 @@
   "Ferrari": {
     "348": {
       "1989": [
+        "Spider",
         "tb",
-        "ts",
-        "Spider"
+        "ts"
       ],
       "1990": [
+        "Spider",
         "tb",
-        "ts",
-        "Spider"
+        "ts"
       ],
       "1991": [
+        "Spider",
         "tb",
-        "ts",
-        "Spider"
+        "ts"
       ],
       "1992": [
+        "Spider",
         "tb",
-        "ts",
-        "Spider"
+        "ts"
       ],
       "1993": [
+        "Spider",
         "tb",
-        "ts",
-        "Spider"
+        "ts"
       ],
       "1994": [
+        "Spider",
         "tb",
-        "ts",
-        "Spider"
+        "ts"
       ]
     },
     "456": {
@@ -42842,193 +42869,193 @@
     "F355": {
       "1994": [
         "Berlinetta",
-        "Spider",
-        "GTS"
+        "GTS",
+        "Spider"
       ],
       "1995": [
         "Berlinetta",
-        "Spider",
-        "GTS"
+        "GTS",
+        "Spider"
       ],
       "1996": [
         "Berlinetta",
-        "Spider",
-        "GTS"
+        "GTS",
+        "Spider"
       ],
       "1997": [
         "Berlinetta",
-        "Spider",
-        "GTS"
+        "GTS",
+        "Spider"
       ],
       "1998": [
         "Berlinetta",
-        "Spider",
-        "GTS"
+        "GTS",
+        "Spider"
       ],
       "1999": [
         "Berlinetta",
-        "Spider",
-        "GTS"
+        "GTS",
+        "Spider"
       ]
     },
     "360 Modena": {
       "1999": [
+        "Challenge Stradale",
         "Coupe",
-        "Spider",
-        "Challenge Stradale"
+        "Spider"
       ],
       "2000": [
+        "Challenge Stradale",
         "Coupe",
-        "Spider",
-        "Challenge Stradale"
+        "Spider"
       ],
       "2001": [
+        "Challenge Stradale",
         "Coupe",
-        "Spider",
-        "Challenge Stradale"
+        "Spider"
       ],
       "2002": [
+        "Challenge Stradale",
         "Coupe",
-        "Spider",
-        "Challenge Stradale"
+        "Spider"
       ],
       "2003": [
+        "Challenge Stradale",
         "Coupe",
-        "Spider",
-        "Challenge Stradale"
+        "Spider"
       ],
       "2004": [
+        "Challenge Stradale",
         "Coupe",
-        "Spider",
-        "Challenge Stradale"
+        "Spider"
       ],
       "2005": [
+        "Challenge Stradale",
         "Coupe",
-        "Spider",
-        "Challenge Stradale"
+        "Spider"
       ]
     },
     "F430": {
       "2004": [
         "Coupe",
-        "Spider",
-        "Scuderia"
+        "Scuderia",
+        "Spider"
       ],
       "2005": [
         "Coupe",
-        "Spider",
-        "Scuderia"
+        "Scuderia",
+        "Spider"
       ],
       "2006": [
         "Coupe",
-        "Spider",
-        "Scuderia"
+        "Scuderia",
+        "Spider"
       ],
       "2007": [
         "Coupe",
-        "Spider",
-        "Scuderia"
+        "Scuderia",
+        "Spider"
       ],
       "2008": [
         "Coupe",
-        "Spider",
-        "Scuderia"
+        "Scuderia",
+        "Spider"
       ],
       "2009": [
         "Coupe",
-        "Spider",
-        "Scuderia"
+        "Scuderia",
+        "Spider"
       ]
     },
     "458 Italia": {
       "2009": [
         "Italia",
-        "Spider",
-        "Speciale"
+        "Speciale",
+        "Spider"
       ],
       "2010": [
         "Italia",
-        "Spider",
-        "Speciale"
+        "Speciale",
+        "Spider"
       ],
       "2011": [
         "Italia",
-        "Spider",
-        "Speciale"
+        "Speciale",
+        "Spider"
       ],
       "2012": [
         "Italia",
-        "Spider",
-        "Speciale"
+        "Speciale",
+        "Spider"
       ],
       "2013": [
         "Italia",
-        "Spider",
-        "Speciale"
+        "Speciale",
+        "Spider"
       ],
       "2014": [
         "Italia",
-        "Spider",
-        "Speciale"
+        "Speciale",
+        "Spider"
       ],
       "2015": [
         "Italia",
-        "Spider",
-        "Speciale"
+        "Speciale",
+        "Spider"
       ]
     },
     "488 GTB": {
       "2015": [
         "GTB",
-        "Spider",
-        "Pista"
+        "Pista",
+        "Spider"
       ],
       "2016": [
         "GTB",
-        "Spider",
-        "Pista"
+        "Pista",
+        "Spider"
       ],
       "2017": [
         "GTB",
-        "Spider",
-        "Pista"
+        "Pista",
+        "Spider"
       ],
       "2018": [
         "GTB",
-        "Spider",
-        "Pista"
+        "Pista",
+        "Spider"
       ],
       "2019": [
         "GTB",
-        "Spider",
-        "Pista"
+        "Pista",
+        "Spider"
       ],
       "2020": [
         "GTB",
-        "Spider",
-        "Pista"
+        "Pista",
+        "Spider"
       ]
     },
     "F8 Tributo": {
       "2019": [
-        "Tributo",
-        "Spider"
+        "Spider",
+        "Tributo"
       ],
       "2020": [
-        "Tributo",
-        "Spider"
+        "Spider",
+        "Tributo"
       ],
       "2021": [
-        "Tributo",
-        "Spider"
+        "Spider",
+        "Tributo"
       ],
       "2022": [
-        "Tributo",
-        "Spider"
+        "Spider",
+        "Tributo"
       ],
       "2023": [
-        "Tributo",
-        "Spider"
+        "Spider",
+        "Tributo"
       ]
     },
     "Testarossa": {
@@ -43126,50 +43153,50 @@
     },
     "LaFerrari": {
       "2013": [
-        "Coupe",
-        "Aperta"
+        "Aperta",
+        "Coupe"
       ],
       "2014": [
-        "Coupe",
-        "Aperta"
+        "Aperta",
+        "Coupe"
       ],
       "2015": [
-        "Coupe",
-        "Aperta"
+        "Aperta",
+        "Coupe"
       ],
       "2016": [
-        "Coupe",
-        "Aperta"
+        "Aperta",
+        "Coupe"
       ]
     },
     "California": {
       "2008": [
-        "base",
-        "T"
+        "T",
+        "base"
       ],
       "2009": [
-        "base",
-        "T"
+        "T",
+        "base"
       ],
       "2010": [
-        "base",
-        "T"
+        "T",
+        "base"
       ],
       "2011": [
-        "base",
-        "T"
+        "T",
+        "base"
       ],
       "2012": [
-        "base",
-        "T"
+        "T",
+        "base"
       ],
       "2013": [
-        "base",
-        "T"
+        "T",
+        "base"
       ],
       "2014": [
-        "base",
-        "T"
+        "T",
+        "base"
       ]
     },
     "California T": {
@@ -43194,32 +43221,32 @@
     },
     "Portofino": {
       "2017": [
-        "base",
-        "M"
+        "M",
+        "base"
       ],
       "2018": [
-        "base",
-        "M"
+        "M",
+        "base"
       ],
       "2019": [
-        "base",
-        "M"
+        "M",
+        "base"
       ],
       "2020": [
-        "base",
-        "M"
+        "M",
+        "base"
       ],
       "2021": [
-        "base",
-        "M"
+        "M",
+        "base"
       ],
       "2022": [
-        "base",
-        "M"
+        "M",
+        "base"
       ],
       "2023": [
-        "base",
-        "M"
+        "M",
+        "base"
       ]
     },
     "599 GTB": {
@@ -43254,36 +43281,36 @@
     },
     "612 Scaglietti": {
       "2004": [
-        "base",
-        "One to One"
+        "One to One",
+        "base"
       ],
       "2005": [
-        "base",
-        "One to One"
+        "One to One",
+        "base"
       ],
       "2006": [
-        "base",
-        "One to One"
+        "One to One",
+        "base"
       ],
       "2007": [
-        "base",
-        "One to One"
+        "One to One",
+        "base"
       ],
       "2008": [
-        "base",
-        "One to One"
+        "One to One",
+        "base"
       ],
       "2009": [
-        "base",
-        "One to One"
+        "One to One",
+        "base"
       ],
       "2010": [
-        "base",
-        "One to One"
+        "One to One",
+        "base"
       ],
       "2011": [
-        "base",
-        "One to One"
+        "One to One",
+        "base"
       ]
     },
     "FF": {
@@ -43308,98 +43335,98 @@
     },
     "GTC4Lusso": {
       "2016": [
-        "base",
-        "T"
+        "T",
+        "base"
       ],
       "2017": [
-        "base",
-        "T"
+        "T",
+        "base"
       ],
       "2018": [
-        "base",
-        "T"
+        "T",
+        "base"
       ],
       "2019": [
-        "base",
-        "T"
+        "T",
+        "base"
       ],
       "2020": [
-        "base",
-        "T"
+        "T",
+        "base"
       ]
     },
     "812 Superfast": {
       "2017": [
-        "Superfast",
-        "Competizione"
+        "Competizione",
+        "Superfast"
       ],
       "2018": [
-        "Superfast",
-        "Competizione"
+        "Competizione",
+        "Superfast"
       ],
       "2019": [
-        "Superfast",
-        "Competizione"
+        "Competizione",
+        "Superfast"
       ],
       "2020": [
-        "Superfast",
-        "Competizione"
+        "Competizione",
+        "Superfast"
       ],
       "2021": [
-        "Superfast",
-        "Competizione"
+        "Competizione",
+        "Superfast"
       ],
       "2022": [
-        "Superfast",
-        "Competizione"
+        "Competizione",
+        "Superfast"
       ],
       "2023": [
-        "Superfast",
-        "Competizione"
+        "Competizione",
+        "Superfast"
       ]
     },
     "SF90 Stradale": {
       "2019": [
-        "Stradale",
-        "Spider"
+        "Spider",
+        "Stradale"
       ],
       "2020": [
-        "Stradale",
-        "Spider"
+        "Spider",
+        "Stradale"
       ],
       "2021": [
-        "Stradale",
-        "Spider"
+        "Spider",
+        "Stradale"
       ],
       "2022": [
-        "Stradale",
-        "Spider"
+        "Spider",
+        "Stradale"
       ],
       "2023": [
-        "Stradale",
-        "Spider"
+        "Spider",
+        "Stradale"
       ]
     },
     "Roma": {
       "2019": [
-        "base",
-        "Spider"
+        "Spider",
+        "base"
       ],
       "2020": [
-        "base",
-        "Spider"
+        "Spider",
+        "base"
       ],
       "2021": [
-        "base",
-        "Spider"
+        "Spider",
+        "base"
       ],
       "2022": [
-        "base",
-        "Spider"
+        "Spider",
+        "base"
       ],
       "2023": [
-        "base",
-        "Spider"
+        "Spider",
+        "base"
       ]
     },
     "550 Maranello": {
@@ -43427,24 +43454,24 @@
     },
     "575M Maranello": {
       "2002": [
-        "base",
-        "Superamerica"
+        "Superamerica",
+        "base"
       ],
       "2003": [
-        "base",
-        "Superamerica"
+        "Superamerica",
+        "base"
       ],
       "2004": [
-        "base",
-        "Superamerica"
+        "Superamerica",
+        "base"
       ],
       "2005": [
-        "base",
-        "Superamerica"
+        "Superamerica",
+        "base"
       ],
       "2006": [
-        "base",
-        "Superamerica"
+        "Superamerica",
+        "base"
       ]
     },
     "Dino 246": {
@@ -43491,6 +43518,65 @@
       ],
       "1973": [
         "Daytona"
+      ]
+    },
+    "296 GTB": {
+      "2022": [
+        "GTB"
+      ],
+      "2023": [
+        "GTB"
+      ],
+      "2024": [
+        "GTB"
+      ],
+      "2025": [
+        "GTB"
+      ],
+      "2026": [
+        "GTB"
+      ]
+    },
+    "296 GTS": {
+      "2023": [
+        "GTS"
+      ],
+      "2024": [
+        "GTS"
+      ],
+      "2025": [
+        "GTS"
+      ],
+      "2026": [
+        "GTS"
+      ]
+    },
+    "Purosangue": {
+      "2023": [
+        "Purosangue"
+      ],
+      "2024": [
+        "Purosangue"
+      ],
+      "2025": [
+        "Purosangue"
+      ],
+      "2026": [
+        "Purosangue"
+      ]
+    },
+    "12Cilindri": {
+      "2024": [
+        "Coupé",
+        "Spider"
+      ],
+      "2025": [
+        "Coupé",
+        "Spider"
+      ],
+      "2026": [
+        "Coupé",
+        "Spider"
       ]
     }
   },
@@ -43657,49 +43743,49 @@
         "LP400 S"
       ],
       "1982": [
+        "Anniversary",
         "LP500 S",
-        "LP5000 QV",
-        "Anniversary"
+        "LP5000 QV"
       ],
       "1983": [
+        "Anniversary",
         "LP500 S",
-        "LP5000 QV",
-        "Anniversary"
+        "LP5000 QV"
       ],
       "1984": [
+        "Anniversary",
         "LP500 S",
-        "LP5000 QV",
-        "Anniversary"
+        "LP5000 QV"
       ],
       "1985": [
+        "Anniversary",
         "LP500 S",
-        "LP5000 QV",
-        "Anniversary"
+        "LP5000 QV"
       ],
       "1986": [
+        "Anniversary",
         "LP500 S",
-        "LP5000 QV",
-        "Anniversary"
+        "LP5000 QV"
       ],
       "1987": [
+        "Anniversary",
         "LP500 S",
-        "LP5000 QV",
-        "Anniversary"
+        "LP5000 QV"
       ],
       "1988": [
+        "Anniversary",
         "LP500 S",
-        "LP5000 QV",
-        "Anniversary"
+        "LP5000 QV"
       ],
       "1989": [
+        "Anniversary",
         "LP500 S",
-        "LP5000 QV",
-        "Anniversary"
+        "LP5000 QV"
       ],
       "1990": [
+        "Anniversary",
         "LP500 S",
-        "LP5000 QV",
-        "Anniversary"
+        "LP5000 QV"
       ]
     },
     "Jalpa": {
@@ -43739,53 +43825,53 @@
         "base"
       ],
       "1993": [
-        "VT",
+        "Roadster",
         "SE30",
-        "Roadster"
+        "VT"
       ],
       "1994": [
-        "VT",
+        "Roadster",
         "SE30",
-        "Roadster"
+        "VT"
       ],
       "1995": [
-        "VT",
+        "Roadster",
         "SE30",
-        "Roadster"
+        "VT"
       ],
       "1996": [
-        "VT",
+        "Roadster",
         "SE30",
-        "Roadster"
+        "VT"
       ],
       "1997": [
-        "VT",
+        "Roadster",
         "SE30",
-        "Roadster"
+        "VT"
       ],
       "1998": [
-        "SV",
-        "GT",
         "6.0",
-        "6.0 SE"
+        "6.0 SE",
+        "GT",
+        "SV"
       ],
       "1999": [
-        "SV",
-        "GT",
         "6.0",
-        "6.0 SE"
+        "6.0 SE",
+        "GT",
+        "SV"
       ],
       "2000": [
-        "SV",
-        "GT",
         "6.0",
-        "6.0 SE"
+        "6.0 SE",
+        "GT",
+        "SV"
       ],
       "2001": [
-        "SV",
-        "GT",
         "6.0",
-        "6.0 SE"
+        "6.0 SE",
+        "GT",
+        "SV"
       ]
     },
     "Murcielago": {
@@ -43838,28 +43924,28 @@
     "Gallardo": {
       "2003": [
         "Coupe",
-        "Spyder",
-        "SE"
+        "SE",
+        "Spyder"
       ],
       "2004": [
         "Coupe",
-        "Spyder",
-        "SE"
+        "SE",
+        "Spyder"
       ],
       "2005": [
         "Coupe",
-        "Spyder",
-        "SE"
+        "SE",
+        "Spyder"
       ],
       "2006": [
         "Coupe",
-        "Spyder",
-        "SE"
+        "SE",
+        "Spyder"
       ],
       "2007": [
         "Coupe",
-        "Spyder",
-        "SE"
+        "SE",
+        "Spyder"
       ],
       "2008": [
         "LP550-2",
@@ -43964,32 +44050,32 @@
     },
     "Huracan": {
       "2014": [
-        "LP610-4",
         "LP580-2",
+        "LP610-4",
         "Performante",
         "Spyder"
       ],
       "2015": [
-        "LP610-4",
         "LP580-2",
+        "LP610-4",
         "Performante",
         "Spyder"
       ],
       "2016": [
-        "LP610-4",
         "LP580-2",
+        "LP610-4",
         "Performante",
         "Spyder"
       ],
       "2017": [
-        "LP610-4",
         "LP580-2",
+        "LP610-4",
         "Performante",
         "Spyder"
       ],
       "2018": [
-        "LP610-4",
         "LP580-2",
+        "LP610-4",
         "Performante",
         "Spyder"
       ],
@@ -44044,16 +44130,16 @@
         "base"
       ],
       "2022": [
-        "S",
-        "Performante"
+        "Performante",
+        "S"
       ],
       "2023": [
-        "S",
-        "Performante"
+        "Performante",
+        "S"
       ],
       "2024": [
-        "S",
-        "Performante"
+        "Performante",
+        "S"
       ]
     },
     "LM002": {
@@ -44087,6 +44173,12 @@
         "base"
       ],
       "2024": [
+        "base"
+      ],
+      "2025": [
+        "base"
+      ],
+      "2026": [
         "base"
       ]
     }
