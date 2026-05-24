@@ -2334,6 +2334,24 @@
         "Trend",
         "Trend PHEV"
       ]
+    },
+    "E-Transit": {
+      "2023": [
+        "350 L2 H2",
+        "350 L3 H3"
+      ],
+      "2024": [
+        "350 L2 H2",
+        "350 L3 H3"
+      ],
+      "2025": [
+        "350 L2 H2",
+        "350 L3 H3"
+      ],
+      "2026": [
+        "350 L2 H2",
+        "350 L3 H3"
+      ]
     }
   },
   "HSV": {
@@ -6800,6 +6818,40 @@
         "GX",
         "GXL",
         "WorkMate"
+      ]
+    },
+    "Coaster": {
+      "2019": [
+        "DX",
+        "EX"
+      ],
+      "2020": [
+        "DX",
+        "EX"
+      ],
+      "2021": [
+        "DX",
+        "EX"
+      ],
+      "2022": [
+        "DX",
+        "EX"
+      ],
+      "2023": [
+        "DX",
+        "EX"
+      ],
+      "2024": [
+        "DX",
+        "EX"
+      ],
+      "2025": [
+        "DX",
+        "EX"
+      ],
+      "2026": [
+        "DX",
+        "EX"
       ]
     }
   },
@@ -17571,18 +17623,21 @@
       ],
       "2024": [
         "M40i",
+        "M50 xDrive",
         "xDrive20d",
         "xDrive20i",
         "xDrive30i"
       ],
       "2025": [
         "M40i",
+        "M50 xDrive",
         "xDrive20d",
         "xDrive20i",
         "xDrive30i"
       ],
       "2026": [
         "M40i",
+        "M50 xDrive",
         "xDrive20d",
         "xDrive20i",
         "xDrive30i"
@@ -48044,129 +48099,129 @@
       ],
       "1970": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ],
       "1971": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ],
       "1972": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ],
       "1973": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ],
       "1974": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ],
       "1975": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ],
       "1976": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ],
       "1977": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ],
       "1978": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ],
       "1979": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ],
       "1980": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ],
       "1981": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ],
       "1982": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ],
       "1983": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ],
       "1984": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ],
       "1985": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ],
       "1986": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ],
       "1987": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ],
       "1988": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ],
       "1989": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ],
       "1990": [
         "6",
-        "Special",
         "Charleston",
-        "Dolly"
+        "Dolly",
+        "Special"
       ]
     },
     "DS": {
@@ -48175,320 +48230,320 @@
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ],
       "1956": [
         "19",
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ],
       "1957": [
         "19",
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ],
       "1958": [
         "19",
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ],
       "1959": [
         "19",
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ],
       "1960": [
         "19",
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ],
       "1961": [
         "19",
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ],
       "1962": [
         "19",
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ],
       "1963": [
         "19",
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ],
       "1964": [
         "19",
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ],
       "1965": [
         "19",
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ],
       "1966": [
         "19",
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ],
       "1967": [
         "19",
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ],
       "1968": [
         "19",
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ],
       "1969": [
         "19",
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ],
       "1970": [
         "19",
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ],
       "1971": [
         "19",
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ],
       "1972": [
         "19",
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ],
       "1973": [
         "19",
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ],
       "1974": [
         "19",
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ],
       "1975": [
         "19",
         "20",
         "21",
         "23",
-        "Pallas",
-        "Cabriolet"
+        "Cabriolet",
+        "Pallas"
       ]
     },
     "SM": {
       "1970": [
-        "base",
-        "Injection"
+        "Injection",
+        "base"
       ],
       "1971": [
-        "base",
-        "Injection"
+        "Injection",
+        "base"
       ],
       "1972": [
-        "base",
-        "Injection"
+        "Injection",
+        "base"
       ],
       "1973": [
-        "base",
-        "Injection"
+        "Injection",
+        "base"
       ],
       "1974": [
-        "base",
-        "Injection"
+        "Injection",
+        "base"
       ],
       "1975": [
-        "base",
-        "Injection"
+        "Injection",
+        "base"
       ]
     },
     "CX": {
       "1974": [
         "Athena",
-        "Pallas",
         "GTi",
+        "Pallas",
         "Prestige",
         "Turbo"
       ],
       "1975": [
         "Athena",
-        "Pallas",
         "GTi",
+        "Pallas",
         "Prestige",
         "Turbo"
       ],
       "1976": [
         "Athena",
-        "Pallas",
         "GTi",
+        "Pallas",
         "Prestige",
         "Turbo"
       ],
       "1977": [
         "Athena",
-        "Pallas",
         "GTi",
+        "Pallas",
         "Prestige",
         "Turbo"
       ],
       "1978": [
         "Athena",
-        "Pallas",
         "GTi",
+        "Pallas",
         "Prestige",
         "Turbo"
       ],
       "1979": [
         "Athena",
-        "Pallas",
         "GTi",
+        "Pallas",
         "Prestige",
         "Turbo"
       ],
       "1980": [
         "Athena",
-        "Pallas",
         "GTi",
+        "Pallas",
         "Prestige",
         "Turbo"
       ],
       "1981": [
         "Athena",
-        "Pallas",
         "GTi",
+        "Pallas",
         "Prestige",
         "Turbo"
       ],
       "1982": [
         "Athena",
-        "Pallas",
         "GTi",
+        "Pallas",
         "Prestige",
         "Turbo"
       ],
       "1983": [
         "Athena",
-        "Pallas",
         "GTi",
+        "Pallas",
         "Prestige",
         "Turbo"
       ],
       "1984": [
         "Athena",
-        "Pallas",
         "GTi",
+        "Pallas",
         "Prestige",
         "Turbo"
       ],
       "1985": [
         "Athena",
-        "Pallas",
         "GTi",
+        "Pallas",
         "Prestige",
         "Turbo"
       ],
       "1986": [
         "Athena",
-        "Pallas",
         "GTi",
+        "Pallas",
         "Prestige",
         "Turbo"
       ],
       "1987": [
         "Athena",
-        "Pallas",
         "GTi",
+        "Pallas",
         "Prestige",
         "Turbo"
       ],
       "1988": [
         "Athena",
-        "Pallas",
         "GTi",
+        "Pallas",
         "Prestige",
         "Turbo"
       ],
       "1989": [
         "Athena",
-        "Pallas",
         "GTi",
+        "Pallas",
         "Prestige",
         "Turbo"
       ],
       "1990": [
         "Athena",
-        "Pallas",
         "GTi",
+        "Pallas",
         "Prestige",
         "Turbo"
       ],
       "1991": [
         "Athena",
-        "Pallas",
         "GTi",
+        "Pallas",
         "Prestige",
         "Turbo"
       ]
@@ -48498,509 +48553,509 @@
         "14",
         "16",
         "19",
-        "GTI",
-        "4x4"
+        "4x4",
+        "GTI"
       ],
       "1983": [
         "14",
         "16",
         "19",
-        "GTI",
-        "4x4"
+        "4x4",
+        "GTI"
       ],
       "1984": [
         "14",
         "16",
         "19",
-        "GTI",
-        "4x4"
+        "4x4",
+        "GTI"
       ],
       "1985": [
         "14",
         "16",
         "19",
-        "GTI",
-        "4x4"
+        "4x4",
+        "GTI"
       ],
       "1986": [
         "14",
         "16",
         "19",
-        "GTI",
-        "4x4"
+        "4x4",
+        "GTI"
       ],
       "1987": [
         "14",
         "16",
         "19",
-        "GTI",
-        "4x4"
+        "4x4",
+        "GTI"
       ],
       "1988": [
         "14",
         "16",
         "19",
-        "GTI",
-        "4x4"
+        "4x4",
+        "GTI"
       ],
       "1989": [
         "14",
         "16",
         "19",
-        "GTI",
-        "4x4"
+        "4x4",
+        "GTI"
       ],
       "1990": [
         "14",
         "16",
         "19",
-        "GTI",
-        "4x4"
+        "4x4",
+        "GTI"
       ],
       "1991": [
         "14",
         "16",
         "19",
-        "GTI",
-        "4x4"
+        "4x4",
+        "GTI"
       ],
       "1992": [
         "14",
         "16",
         "19",
-        "GTI",
-        "4x4"
+        "4x4",
+        "GTI"
       ],
       "1993": [
         "14",
         "16",
         "19",
-        "GTI",
-        "4x4"
+        "4x4",
+        "GTI"
       ],
       "1994": [
         "14",
         "16",
         "19",
-        "GTI",
-        "4x4"
+        "4x4",
+        "GTI"
       ]
     },
     "ZX": {
       "1991": [
         "Advantage",
+        "Aura",
         "Avantage",
-        "Volcane",
-        "Aura"
+        "Volcane"
       ],
       "1992": [
         "Advantage",
+        "Aura",
         "Avantage",
-        "Volcane",
-        "Aura"
+        "Volcane"
       ],
       "1993": [
         "Advantage",
+        "Aura",
         "Avantage",
-        "Volcane",
-        "Aura"
+        "Volcane"
       ],
       "1994": [
         "Advantage",
+        "Aura",
         "Avantage",
-        "Volcane",
-        "Aura"
+        "Volcane"
       ],
       "1995": [
         "Advantage",
+        "Aura",
         "Avantage",
-        "Volcane",
-        "Aura"
+        "Volcane"
       ],
       "1996": [
         "Advantage",
+        "Aura",
         "Avantage",
-        "Volcane",
-        "Aura"
+        "Volcane"
       ],
       "1997": [
         "Advantage",
+        "Aura",
         "Avantage",
-        "Volcane",
-        "Aura"
+        "Volcane"
       ]
     },
     "Xantia": {
       "1993": [
-        "base",
-        "SX",
-        "VSX",
         "Activa",
-        "V6"
+        "SX",
+        "V6",
+        "VSX",
+        "base"
       ],
       "1994": [
-        "base",
-        "SX",
-        "VSX",
         "Activa",
-        "V6"
+        "SX",
+        "V6",
+        "VSX",
+        "base"
       ],
       "1995": [
-        "base",
-        "SX",
-        "VSX",
         "Activa",
-        "V6"
+        "SX",
+        "V6",
+        "VSX",
+        "base"
       ],
       "1996": [
-        "base",
-        "SX",
-        "VSX",
         "Activa",
-        "V6"
+        "SX",
+        "V6",
+        "VSX",
+        "base"
       ],
       "1997": [
-        "base",
-        "SX",
-        "VSX",
         "Activa",
-        "V6"
+        "SX",
+        "V6",
+        "VSX",
+        "base"
       ],
       "1998": [
-        "base",
-        "SX",
-        "VSX",
         "Activa",
-        "V6"
+        "SX",
+        "V6",
+        "VSX",
+        "base"
       ],
       "1999": [
-        "base",
-        "SX",
-        "VSX",
         "Activa",
-        "V6"
+        "SX",
+        "V6",
+        "VSX",
+        "base"
       ],
       "2000": [
-        "base",
-        "SX",
-        "VSX",
         "Activa",
-        "V6"
+        "SX",
+        "V6",
+        "VSX",
+        "base"
       ],
       "2001": [
-        "base",
-        "SX",
-        "VSX",
         "Activa",
-        "V6"
+        "SX",
+        "V6",
+        "VSX",
+        "base"
       ]
     },
     "Saxo": {
       "1996": [
-        "base",
         "SX",
         "VTR",
-        "VTS"
+        "VTS",
+        "base"
       ],
       "1997": [
-        "base",
         "SX",
         "VTR",
-        "VTS"
+        "VTS",
+        "base"
       ],
       "1998": [
-        "base",
         "SX",
         "VTR",
-        "VTS"
+        "VTS",
+        "base"
       ],
       "1999": [
-        "base",
         "SX",
         "VTR",
-        "VTS"
+        "VTS",
+        "base"
       ],
       "2000": [
-        "base",
         "SX",
         "VTR",
-        "VTS"
+        "VTS",
+        "base"
       ],
       "2001": [
-        "base",
         "SX",
         "VTR",
-        "VTS"
+        "VTS",
+        "base"
       ],
       "2002": [
-        "base",
         "SX",
         "VTR",
-        "VTS"
+        "VTS",
+        "base"
       ],
       "2003": [
-        "base",
         "SX",
         "VTR",
-        "VTS"
+        "VTS",
+        "base"
       ],
       "2004": [
-        "base",
         "SX",
         "VTR",
-        "VTS"
+        "VTS",
+        "base"
       ]
     },
     "XM": {
       "1989": [
-        "base",
-        "V6",
         "Turbo CT",
-        "Y4"
+        "V6",
+        "Y4",
+        "base"
       ],
       "1990": [
-        "base",
-        "V6",
         "Turbo CT",
-        "Y4"
+        "V6",
+        "Y4",
+        "base"
       ],
       "1991": [
-        "base",
-        "V6",
         "Turbo CT",
-        "Y4"
+        "V6",
+        "Y4",
+        "base"
       ],
       "1992": [
-        "base",
-        "V6",
         "Turbo CT",
-        "Y4"
+        "V6",
+        "Y4",
+        "base"
       ],
       "1993": [
-        "base",
-        "V6",
         "Turbo CT",
-        "Y4"
+        "V6",
+        "Y4",
+        "base"
       ],
       "1994": [
-        "base",
-        "V6",
         "Turbo CT",
-        "Y4"
+        "V6",
+        "Y4",
+        "base"
       ],
       "1995": [
-        "base",
-        "V6",
         "Turbo CT",
-        "Y4"
+        "V6",
+        "Y4",
+        "base"
       ],
       "1996": [
-        "base",
-        "V6",
         "Turbo CT",
-        "Y4"
+        "V6",
+        "Y4",
+        "base"
       ],
       "1997": [
-        "base",
-        "V6",
         "Turbo CT",
-        "Y4"
+        "V6",
+        "Y4",
+        "base"
       ],
       "1998": [
-        "base",
-        "V6",
         "Turbo CT",
-        "Y4"
+        "V6",
+        "Y4",
+        "base"
       ],
       "1999": [
-        "base",
-        "V6",
         "Turbo CT",
-        "Y4"
+        "V6",
+        "Y4",
+        "base"
       ],
       "2000": [
-        "base",
-        "V6",
         "Turbo CT",
-        "Y4"
+        "V6",
+        "Y4",
+        "base"
       ]
     },
     "C3": {
       "2002": [
-        "base",
         "Exclusive",
+        "Pluriel",
         "SX",
-        "Pluriel"
+        "base"
       ],
       "2003": [
-        "base",
         "Exclusive",
+        "Pluriel",
         "SX",
-        "Pluriel"
+        "base"
       ],
       "2004": [
-        "base",
         "Exclusive",
+        "Pluriel",
         "SX",
-        "Pluriel"
+        "base"
       ],
       "2005": [
-        "base",
         "Exclusive",
+        "Pluriel",
         "SX",
-        "Pluriel"
+        "base"
       ],
       "2006": [
-        "base",
         "Exclusive",
+        "Pluriel",
         "SX",
-        "Pluriel"
+        "base"
       ],
       "2007": [
-        "base",
         "Exclusive",
+        "Pluriel",
         "SX",
-        "Pluriel"
+        "base"
       ],
       "2008": [
-        "base",
         "Exclusive",
+        "Pluriel",
         "SX",
-        "Pluriel"
+        "base"
       ],
       "2009": [
-        "base",
         "Exclusive",
+        "Pluriel",
         "SX",
-        "Pluriel"
+        "base"
       ],
       "2010": [
         "Attraction",
-        "Seduction",
         "Exclusive",
+        "Seduction",
         "Shine"
       ],
       "2011": [
         "Attraction",
-        "Seduction",
         "Exclusive",
+        "Seduction",
         "Shine"
       ],
       "2012": [
         "Attraction",
-        "Seduction",
         "Exclusive",
+        "Seduction",
         "Shine"
       ],
       "2013": [
         "Attraction",
-        "Seduction",
         "Exclusive",
+        "Seduction",
         "Shine"
       ],
       "2014": [
         "Attraction",
-        "Seduction",
         "Exclusive",
+        "Seduction",
         "Shine"
       ],
       "2015": [
         "Attraction",
-        "Seduction",
         "Exclusive",
+        "Seduction",
         "Shine"
       ],
       "2016": [
         "Attraction",
-        "Seduction",
         "Exclusive",
+        "Seduction",
         "Shine"
       ],
       "2017": [
         "Attraction",
-        "Seduction",
         "Exclusive",
+        "Seduction",
         "Shine"
       ],
       "2018": [
         "Attraction",
-        "Seduction",
         "Exclusive",
+        "Seduction",
         "Shine"
       ],
       "2019": [
         "Attraction",
-        "Seduction",
         "Exclusive",
+        "Seduction",
         "Shine"
       ],
       "2020": [
         "Attraction",
-        "Seduction",
         "Exclusive",
+        "Seduction",
         "Shine"
       ],
       "2021": [
         "Attraction",
-        "Seduction",
         "Exclusive",
+        "Seduction",
         "Shine"
       ],
       "2022": [
         "Attraction",
-        "Seduction",
         "Exclusive",
+        "Seduction",
         "Shine"
       ],
       "2023": [
         "Attraction",
-        "Seduction",
         "Exclusive",
+        "Seduction",
         "Shine"
       ]
     },
     "C4": {
       "2004": [
-        "base",
+        "Coupe",
         "Exclusive",
         "VTR+",
-        "Coupe"
+        "base"
       ],
       "2005": [
-        "base",
+        "Coupe",
         "Exclusive",
         "VTR+",
-        "Coupe"
+        "base"
       ],
       "2006": [
-        "base",
+        "Coupe",
         "Exclusive",
         "VTR+",
-        "Coupe"
+        "base"
       ],
       "2007": [
-        "base",
+        "Coupe",
         "Exclusive",
         "VTR+",
-        "Coupe"
+        "base"
       ],
       "2008": [
-        "base",
+        "Coupe",
         "Exclusive",
         "VTR+",
-        "Coupe"
+        "base"
       ],
       "2009": [
-        "base",
+        "Coupe",
         "Exclusive",
         "VTR+",
-        "Coupe"
+        "base"
       ],
       "2010": [
-        "base",
+        "Coupe",
         "Exclusive",
         "VTR+",
-        "Coupe"
+        "base"
       ],
       "2011": [
         "Attraction",
@@ -49075,6 +49130,24 @@
         "e-C4"
       ],
       "2023": [
+        "Attraction",
+        "Exclusive",
+        "Shine",
+        "e-C4"
+      ],
+      "2024": [
+        "Attraction",
+        "Exclusive",
+        "Shine",
+        "e-C4"
+      ],
+      "2025": [
+        "Attraction",
+        "Exclusive",
+        "Shine",
+        "e-C4"
+      ],
+      "2026": [
         "Attraction",
         "Exclusive",
         "Shine",
@@ -49127,763 +49200,763 @@
       "2008": [
         "Comfort",
         "Exclusive",
-        "Tourer",
-        "GT"
+        "GT",
+        "Tourer"
       ],
       "2009": [
         "Comfort",
         "Exclusive",
-        "Tourer",
-        "GT"
+        "GT",
+        "Tourer"
       ],
       "2010": [
         "Comfort",
         "Exclusive",
-        "Tourer",
-        "GT"
+        "GT",
+        "Tourer"
       ],
       "2011": [
         "Comfort",
         "Exclusive",
-        "Tourer",
-        "GT"
+        "GT",
+        "Tourer"
       ],
       "2012": [
         "Comfort",
         "Exclusive",
-        "Tourer",
-        "GT"
+        "GT",
+        "Tourer"
       ],
       "2013": [
         "Comfort",
         "Exclusive",
-        "Tourer",
-        "GT"
+        "GT",
+        "Tourer"
       ],
       "2014": [
         "Comfort",
         "Exclusive",
-        "Tourer",
-        "GT"
+        "GT",
+        "Tourer"
       ],
       "2015": [
         "Comfort",
         "Exclusive",
-        "Tourer",
-        "GT"
+        "GT",
+        "Tourer"
       ],
       "2016": [
         "Comfort",
         "Exclusive",
-        "Tourer",
-        "GT"
+        "GT",
+        "Tourer"
       ],
       "2017": [
         "Comfort",
         "Exclusive",
-        "Tourer",
-        "GT"
+        "GT",
+        "Tourer"
       ]
     },
     "C6": {
       "2005": [
-        "base",
         "Exclusive",
-        "V6"
+        "V6",
+        "base"
       ],
       "2006": [
-        "base",
         "Exclusive",
-        "V6"
+        "V6",
+        "base"
       ],
       "2007": [
-        "base",
         "Exclusive",
-        "V6"
+        "V6",
+        "base"
       ],
       "2008": [
-        "base",
         "Exclusive",
-        "V6"
+        "V6",
+        "base"
       ],
       "2009": [
-        "base",
         "Exclusive",
-        "V6"
+        "V6",
+        "base"
       ],
       "2010": [
-        "base",
         "Exclusive",
-        "V6"
+        "V6",
+        "base"
       ],
       "2011": [
-        "base",
         "Exclusive",
-        "V6"
+        "V6",
+        "base"
       ],
       "2012": [
-        "base",
         "Exclusive",
-        "V6"
+        "V6",
+        "base"
       ]
     },
     "C-Crosser": {
       "2007": [
-        "base",
+        "Exclusive",
         "SX",
-        "Exclusive"
+        "base"
       ],
       "2008": [
-        "base",
+        "Exclusive",
         "SX",
-        "Exclusive"
+        "base"
       ],
       "2009": [
-        "base",
+        "Exclusive",
         "SX",
-        "Exclusive"
+        "base"
       ],
       "2010": [
-        "base",
+        "Exclusive",
         "SX",
-        "Exclusive"
+        "base"
       ],
       "2011": [
-        "base",
+        "Exclusive",
         "SX",
-        "Exclusive"
+        "base"
       ],
       "2012": [
-        "base",
+        "Exclusive",
         "SX",
-        "Exclusive"
+        "base"
       ]
     },
     "Berlingo": {
       "1996": [
-        "base",
         "Multispace",
-        "XTR"
+        "XTR",
+        "base"
       ],
       "1997": [
-        "base",
         "Multispace",
-        "XTR"
+        "XTR",
+        "base"
       ],
       "1998": [
-        "base",
         "Multispace",
-        "XTR"
+        "XTR",
+        "base"
       ],
       "1999": [
-        "base",
         "Multispace",
-        "XTR"
+        "XTR",
+        "base"
       ],
       "2000": [
-        "base",
         "Multispace",
-        "XTR"
+        "XTR",
+        "base"
       ],
       "2001": [
-        "base",
         "Multispace",
-        "XTR"
+        "XTR",
+        "base"
       ],
       "2002": [
-        "base",
         "Multispace",
-        "XTR"
+        "XTR",
+        "base"
       ],
       "2003": [
-        "base",
         "Multispace",
-        "XTR"
+        "XTR",
+        "base"
       ],
       "2004": [
-        "base",
         "Multispace",
-        "XTR"
+        "XTR",
+        "base"
       ],
       "2005": [
-        "base",
         "Multispace",
-        "XTR"
+        "XTR",
+        "base"
       ],
       "2006": [
-        "base",
         "Multispace",
-        "XTR"
+        "XTR",
+        "base"
       ],
       "2007": [
-        "base",
         "Multispace",
-        "XTR"
+        "XTR",
+        "base"
       ],
       "2008": [
-        "base",
+        "Feel",
         "Multispace",
         "XTR",
-        "Feel"
+        "base"
       ],
       "2009": [
-        "base",
+        "Feel",
         "Multispace",
         "XTR",
-        "Feel"
+        "base"
       ],
       "2010": [
-        "base",
+        "Feel",
         "Multispace",
         "XTR",
-        "Feel"
+        "base"
       ],
       "2011": [
-        "base",
+        "Feel",
         "Multispace",
         "XTR",
-        "Feel"
+        "base"
       ],
       "2012": [
-        "base",
+        "Feel",
         "Multispace",
         "XTR",
-        "Feel"
+        "base"
       ],
       "2013": [
-        "base",
+        "Feel",
         "Multispace",
         "XTR",
-        "Feel"
+        "base"
       ],
       "2014": [
-        "base",
+        "Feel",
         "Multispace",
         "XTR",
-        "Feel"
+        "base"
       ],
       "2015": [
-        "base",
+        "Feel",
         "Multispace",
         "XTR",
-        "Feel"
+        "base"
       ],
       "2016": [
-        "base",
+        "Feel",
         "Multispace",
         "XTR",
-        "Feel"
+        "base"
       ],
       "2017": [
-        "base",
+        "Feel",
         "Multispace",
         "XTR",
-        "Feel"
+        "base"
       ],
       "2018": [
-        "base",
+        "Feel",
         "Multispace",
         "XTR",
-        "Feel"
+        "base"
       ],
       "2019": [
-        "base",
+        "Feel",
         "Multispace",
         "XTR",
-        "Feel"
+        "base"
       ],
       "2020": [
-        "base",
+        "Feel",
         "Multispace",
         "XTR",
-        "Feel"
+        "base"
       ],
       "2021": [
-        "base",
+        "Feel",
         "Multispace",
         "XTR",
-        "Feel"
+        "base"
       ],
       "2022": [
-        "base",
+        "Feel",
         "Multispace",
         "XTR",
-        "Feel"
+        "base"
       ],
       "2023": [
-        "base",
+        "Feel",
         "Multispace",
         "XTR",
-        "Feel"
+        "base"
       ]
     },
     "Picasso": {
       "1999": [
-        "base",
-        "SX",
+        "Dynamique",
         "Exclusive",
-        "Dynamique"
+        "SX",
+        "base"
       ],
       "2000": [
-        "base",
-        "SX",
+        "Dynamique",
         "Exclusive",
-        "Dynamique"
+        "SX",
+        "base"
       ],
       "2001": [
-        "base",
-        "SX",
+        "Dynamique",
         "Exclusive",
-        "Dynamique"
+        "SX",
+        "base"
       ],
       "2002": [
-        "base",
-        "SX",
+        "Dynamique",
         "Exclusive",
-        "Dynamique"
+        "SX",
+        "base"
       ],
       "2003": [
-        "base",
-        "SX",
+        "Dynamique",
         "Exclusive",
-        "Dynamique"
+        "SX",
+        "base"
       ],
       "2004": [
-        "base",
-        "SX",
+        "Dynamique",
         "Exclusive",
-        "Dynamique"
+        "SX",
+        "base"
       ],
       "2005": [
-        "base",
-        "SX",
+        "Dynamique",
         "Exclusive",
-        "Dynamique"
+        "SX",
+        "base"
       ],
       "2006": [
-        "base",
-        "SX",
+        "Dynamique",
         "Exclusive",
-        "Dynamique"
+        "SX",
+        "base"
       ],
       "2007": [
-        "base",
-        "SX",
+        "Dynamique",
         "Exclusive",
-        "Dynamique"
+        "SX",
+        "base"
       ],
       "2008": [
-        "base",
-        "SX",
+        "Dynamique",
         "Exclusive",
-        "Dynamique"
+        "SX",
+        "base"
       ],
       "2009": [
-        "base",
-        "SX",
+        "Dynamique",
         "Exclusive",
-        "Dynamique"
+        "SX",
+        "base"
       ],
       "2010": [
-        "base",
-        "SX",
+        "Dynamique",
         "Exclusive",
-        "Dynamique"
+        "SX",
+        "base"
       ],
       "2011": [
-        "base",
-        "SX",
+        "Dynamique",
         "Exclusive",
-        "Dynamique"
+        "SX",
+        "base"
       ],
       "2012": [
-        "base",
-        "SX",
+        "Dynamique",
         "Exclusive",
-        "Dynamique"
+        "SX",
+        "base"
       ],
       "2013": [
-        "base",
-        "SX",
+        "Dynamique",
         "Exclusive",
-        "Dynamique"
+        "SX",
+        "base"
       ],
       "2014": [
-        "base",
-        "SX",
+        "Dynamique",
         "Exclusive",
-        "Dynamique"
+        "SX",
+        "base"
       ],
       "2015": [
-        "base",
-        "SX",
+        "Dynamique",
         "Exclusive",
-        "Dynamique"
+        "SX",
+        "base"
       ],
       "2016": [
-        "base",
-        "SX",
+        "Dynamique",
         "Exclusive",
-        "Dynamique"
+        "SX",
+        "base"
       ]
     },
     "C4 Picasso": {
       "2006": [
-        "base",
         "Exclusive",
         "Intensive",
-        "Shine"
+        "Shine",
+        "base"
       ],
       "2007": [
-        "base",
         "Exclusive",
         "Intensive",
-        "Shine"
+        "Shine",
+        "base"
       ],
       "2008": [
-        "base",
         "Exclusive",
         "Intensive",
-        "Shine"
+        "Shine",
+        "base"
       ],
       "2009": [
-        "base",
         "Exclusive",
         "Intensive",
-        "Shine"
+        "Shine",
+        "base"
       ],
       "2010": [
-        "base",
         "Exclusive",
         "Intensive",
-        "Shine"
+        "Shine",
+        "base"
       ],
       "2011": [
-        "base",
         "Exclusive",
         "Intensive",
-        "Shine"
+        "Shine",
+        "base"
       ],
       "2012": [
-        "base",
         "Exclusive",
         "Intensive",
-        "Shine"
+        "Shine",
+        "base"
       ],
       "2013": [
-        "base",
         "Exclusive",
         "Intensive",
-        "Shine"
+        "Shine",
+        "base"
       ],
       "2014": [
-        "base",
         "Exclusive",
         "Intensive",
-        "Shine"
+        "Shine",
+        "base"
       ],
       "2015": [
-        "base",
         "Exclusive",
         "Intensive",
-        "Shine"
+        "Shine",
+        "base"
       ],
       "2016": [
-        "base",
         "Exclusive",
         "Intensive",
-        "Shine"
+        "Shine",
+        "base"
       ],
       "2017": [
-        "base",
         "Exclusive",
         "Intensive",
-        "Shine"
+        "Shine",
+        "base"
       ],
       "2018": [
-        "base",
         "Exclusive",
         "Intensive",
-        "Shine"
+        "Shine",
+        "base"
       ],
       "2019": [
-        "base",
         "Exclusive",
         "Intensive",
-        "Shine"
+        "Shine",
+        "base"
       ],
       "2020": [
-        "base",
         "Exclusive",
         "Intensive",
-        "Shine"
+        "Shine",
+        "base"
       ],
       "2021": [
-        "base",
         "Exclusive",
         "Intensive",
-        "Shine"
+        "Shine",
+        "base"
       ],
       "2022": [
-        "base",
         "Exclusive",
         "Intensive",
-        "Shine"
+        "Shine",
+        "base"
       ],
       "2023": [
-        "base",
         "Exclusive",
         "Intensive",
-        "Shine"
+        "Shine",
+        "base"
       ]
     },
     "Grand C4 Picasso": {
       "2006": [
-        "base",
         "Exclusive",
-        "Intensive"
+        "Intensive",
+        "base"
       ],
       "2007": [
-        "base",
         "Exclusive",
-        "Intensive"
+        "Intensive",
+        "base"
       ],
       "2008": [
-        "base",
         "Exclusive",
-        "Intensive"
+        "Intensive",
+        "base"
       ],
       "2009": [
-        "base",
         "Exclusive",
-        "Intensive"
+        "Intensive",
+        "base"
       ],
       "2010": [
-        "base",
         "Exclusive",
-        "Intensive"
+        "Intensive",
+        "base"
       ],
       "2011": [
-        "base",
         "Exclusive",
-        "Intensive"
+        "Intensive",
+        "base"
       ],
       "2012": [
-        "base",
         "Exclusive",
-        "Intensive"
+        "Intensive",
+        "base"
       ],
       "2013": [
-        "base",
         "Exclusive",
-        "Intensive"
+        "Intensive",
+        "base"
       ],
       "2014": [
-        "base",
         "Exclusive",
-        "Intensive"
+        "Intensive",
+        "base"
       ],
       "2015": [
-        "base",
         "Exclusive",
-        "Intensive"
+        "Intensive",
+        "base"
       ],
       "2016": [
-        "base",
         "Exclusive",
-        "Intensive"
+        "Intensive",
+        "base"
       ],
       "2017": [
-        "base",
         "Exclusive",
-        "Intensive"
+        "Intensive",
+        "base"
       ],
       "2018": [
-        "base",
         "Exclusive",
-        "Intensive"
+        "Intensive",
+        "base"
       ],
       "2019": [
-        "base",
         "Exclusive",
-        "Intensive"
+        "Intensive",
+        "base"
       ],
       "2020": [
-        "base",
         "Exclusive",
-        "Intensive"
+        "Intensive",
+        "base"
       ],
       "2021": [
-        "base",
         "Exclusive",
-        "Intensive"
+        "Intensive",
+        "base"
       ],
       "2022": [
-        "base",
         "Exclusive",
-        "Intensive"
+        "Intensive",
+        "base"
       ],
       "2023": [
-        "base",
         "Exclusive",
-        "Intensive"
+        "Intensive",
+        "base"
       ]
     },
     "DS3": {
       "2009": [
-        "DStyle",
+        "Cabrio",
         "DSport",
-        "Performance",
-        "Cabrio"
+        "DStyle",
+        "Performance"
       ],
       "2010": [
-        "DStyle",
+        "Cabrio",
         "DSport",
-        "Performance",
-        "Cabrio"
+        "DStyle",
+        "Performance"
       ],
       "2011": [
-        "DStyle",
+        "Cabrio",
         "DSport",
-        "Performance",
-        "Cabrio"
+        "DStyle",
+        "Performance"
       ],
       "2012": [
-        "DStyle",
+        "Cabrio",
         "DSport",
-        "Performance",
-        "Cabrio"
+        "DStyle",
+        "Performance"
       ],
       "2013": [
-        "DStyle",
+        "Cabrio",
         "DSport",
-        "Performance",
-        "Cabrio"
+        "DStyle",
+        "Performance"
       ],
       "2014": [
-        "DStyle",
+        "Cabrio",
         "DSport",
-        "Performance",
-        "Cabrio"
+        "DStyle",
+        "Performance"
       ],
       "2015": [
-        "DStyle",
+        "Cabrio",
         "DSport",
-        "Performance",
-        "Cabrio"
+        "DStyle",
+        "Performance"
       ],
       "2016": [
-        "DStyle",
+        "Cabrio",
         "DSport",
-        "Performance",
-        "Cabrio"
+        "DStyle",
+        "Performance"
       ],
       "2017": [
-        "DStyle",
+        "Cabrio",
         "DSport",
-        "Performance",
-        "Cabrio"
+        "DStyle",
+        "Performance"
       ],
       "2018": [
-        "DStyle",
+        "Cabrio",
         "DSport",
-        "Performance",
-        "Cabrio"
+        "DStyle",
+        "Performance"
       ],
       "2019": [
-        "DStyle",
+        "Cabrio",
         "DSport",
-        "Performance",
-        "Cabrio"
+        "DStyle",
+        "Performance"
       ]
     },
     "DS4": {
       "2010": [
-        "base",
+        "Chic",
         "Sport",
-        "Chic"
+        "base"
       ],
       "2011": [
-        "base",
+        "Chic",
         "Sport",
-        "Chic"
+        "base"
       ],
       "2012": [
-        "base",
+        "Chic",
         "Sport",
-        "Chic"
+        "base"
       ],
       "2013": [
-        "base",
+        "Chic",
         "Sport",
-        "Chic"
+        "base"
       ],
       "2014": [
-        "base",
+        "Chic",
         "Sport",
-        "Chic"
+        "base"
       ],
       "2015": [
-        "base",
+        "Chic",
         "Sport",
-        "Chic"
+        "base"
       ],
       "2016": [
-        "base",
+        "Chic",
         "Sport",
-        "Chic"
+        "base"
       ],
       "2017": [
-        "base",
+        "Chic",
         "Sport",
-        "Chic"
+        "base"
       ],
       "2018": [
-        "base",
+        "Chic",
         "Sport",
-        "Chic"
+        "base"
       ]
     },
     "DS5": {
       "2011": [
-        "base",
+        "Hybrid4",
         "Sport",
-        "Hybrid4"
+        "base"
       ],
       "2012": [
-        "base",
+        "Hybrid4",
         "Sport",
-        "Hybrid4"
+        "base"
       ],
       "2013": [
-        "base",
+        "Hybrid4",
         "Sport",
-        "Hybrid4"
+        "base"
       ],
       "2014": [
-        "base",
+        "Hybrid4",
         "Sport",
-        "Hybrid4"
+        "base"
       ],
       "2015": [
-        "base",
+        "Hybrid4",
         "Sport",
-        "Hybrid4"
+        "base"
       ],
       "2016": [
-        "base",
+        "Hybrid4",
         "Sport",
-        "Hybrid4"
+        "base"
       ],
       "2017": [
-        "base",
+        "Hybrid4",
         "Sport",
-        "Hybrid4"
+        "base"
       ],
       "2018": [
-        "base",
+        "Hybrid4",
         "Sport",
-        "Hybrid4"
+        "base"
       ]
     },
     "Ami": {
@@ -49901,6 +49974,28 @@
       ],
       "2024": [
         "base"
+      ]
+    },
+    "C5 X": {
+      "2022": [
+        "Feel Pack",
+        "Hybrid4 PHEV"
+      ],
+      "2023": [
+        "Feel Pack",
+        "Hybrid4 PHEV"
+      ],
+      "2024": [
+        "Feel Pack",
+        "Hybrid4 PHEV"
+      ],
+      "2025": [
+        "Feel Pack",
+        "Hybrid4 PHEV"
+      ],
+      "2026": [
+        "Feel Pack",
+        "Hybrid4 PHEV"
       ]
     }
   },
