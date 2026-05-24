@@ -3514,8 +3514,12 @@
       ],
       "2026": [
         "GX",
+        "GX Hybrid",
         "GXL",
-        "Koba"
+        "GXL Hybrid",
+        "GXL PHEV",
+        "Koba",
+        "Koba PHEV"
       ]
     },
     "Echo": {
@@ -13752,6 +13756,23 @@
         "Calligraphy AWD",
         "Premium"
       ]
+    },
+    "Kona N": {
+      "2022": [
+        "Kona N"
+      ],
+      "2023": [
+        "Kona N"
+      ],
+      "2024": [
+        "Kona N"
+      ],
+      "2025": [
+        "Kona N"
+      ],
+      "2026": [
+        "Kona N"
+      ]
     }
   },
   "Kia": {
@@ -15520,32 +15541,38 @@
       "2021": [
         "170TDI",
         "190TSI",
-        "210TDI"
+        "210TDI",
+        "Touareg R"
       ],
       "2022": [
         "170TDI",
         "190TSI",
-        "210TDI"
+        "210TDI",
+        "Touareg R"
       ],
       "2023": [
         "170TDI",
         "190TSI",
-        "210TDI"
+        "210TDI",
+        "Touareg R"
       ],
       "2024": [
         "170TDI",
         "190TSI",
-        "210TDI"
+        "210TDI",
+        "Touareg R"
       ],
       "2025": [
         "170TDI",
         "190TSI",
-        "210TDI"
+        "210TDI",
+        "Touareg R"
       ],
       "2026": [
         "170TDI",
         "190TSI",
-        "210TDI"
+        "210TDI",
+        "Touareg R"
       ]
     },
     "Amarok": {
@@ -22616,6 +22643,24 @@
         "TX 350",
         "TX 500h",
         "TX 550h+"
+      ]
+    },
+    "LM": {
+      "2023": [
+        "LM 300h",
+        "LM 500h"
+      ],
+      "2024": [
+        "LM 300h",
+        "LM 500h"
+      ],
+      "2025": [
+        "LM 300h",
+        "LM 500h"
+      ],
+      "2026": [
+        "LM 300h",
+        "LM 500h"
       ]
     }
   },
