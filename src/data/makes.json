@@ -6607,6 +6607,58 @@
         "AWD",
         "FWD"
       ]
+    },
+    "Land Cruiser 300": {
+      "2022": [
+        "GX Diesel",
+        "GXL Diesel",
+        "Sahara Diesel",
+        "Sahara Petrol",
+        "Sahara ZX Diesel",
+        "Sahara ZX Petrol",
+        "VX Diesel",
+        "VX Petrol"
+      ],
+      "2023": [
+        "GX Diesel",
+        "GXL Diesel",
+        "Sahara Diesel",
+        "Sahara Petrol",
+        "Sahara ZX Diesel",
+        "Sahara ZX Petrol",
+        "VX Diesel",
+        "VX Petrol"
+      ],
+      "2024": [
+        "GX Diesel",
+        "GXL Diesel",
+        "Sahara Diesel",
+        "Sahara Petrol",
+        "Sahara ZX Diesel",
+        "Sahara ZX Petrol",
+        "VX Diesel",
+        "VX Petrol"
+      ],
+      "2025": [
+        "GX Diesel",
+        "GXL Diesel",
+        "Sahara Diesel",
+        "Sahara Petrol",
+        "Sahara ZX Diesel",
+        "Sahara ZX Petrol",
+        "VX Diesel",
+        "VX Petrol"
+      ],
+      "2026": [
+        "GX Diesel",
+        "GXL Diesel",
+        "Sahara Diesel",
+        "Sahara Petrol",
+        "Sahara ZX Diesel",
+        "Sahara ZX Petrol",
+        "VX Diesel",
+        "VX Petrol"
+      ]
     }
   },
   "Mazda": {
@@ -9939,6 +9991,25 @@
         "NISMO",
         "Roadster",
         "Touring"
+      ]
+    },
+    "Z": {
+      "2023": [
+        "Proto Spec",
+        "ST Auto",
+        "ST Manual"
+      ],
+      "2024": [
+        "ST Auto",
+        "ST Manual"
+      ],
+      "2025": [
+        "ST Auto",
+        "ST Manual"
+      ],
+      "2026": [
+        "ST Auto",
+        "ST Manual"
       ]
     }
   },
@@ -18444,6 +18515,34 @@
         "XM Label Gold",
         "XM Label Red"
       ]
+    },
+    "M3": {
+      "2021": [
+        "Competition",
+        "Competition xDrive"
+      ],
+      "2022": [
+        "Competition",
+        "Competition xDrive"
+      ],
+      "2023": [
+        "CS",
+        "Competition",
+        "Competition xDrive"
+      ],
+      "2024": [
+        "CS",
+        "Competition",
+        "Competition xDrive"
+      ],
+      "2025": [
+        "Competition",
+        "Competition xDrive"
+      ],
+      "2026": [
+        "Competition",
+        "Competition xDrive"
+      ]
     }
   },
   "Mercedes-Benz": {
@@ -25202,23 +25301,28 @@
         "Taycan Cross Turismo"
       ],
       "2022": [
+        "GTS",
         "Taycan",
         "Taycan Turbo"
       ],
       "2023": [
+        "GTS",
         "Taycan",
         "Taycan 4S",
         "Taycan Sport Turismo"
       ],
       "2024": [
+        "GTS",
         "Taycan",
         "Taycan Turbo GT"
       ],
       "2025": [
+        "GTS",
         "Taycan",
         "Taycan 4S"
       ],
       "2026": [
+        "GTS",
         "Taycan"
       ]
     }
@@ -25833,6 +25937,9 @@
         "110 P400e",
         "110 S",
         "110 V8",
+        "130 S",
+        "130 V8",
+        "130 X",
         "90 S",
         "90 V8"
       ],
@@ -25841,6 +25948,9 @@
         "110 P400e",
         "110 S",
         "110 V8",
+        "130 S",
+        "130 V8",
+        "130 X",
         "90 S",
         "90 V8"
       ],
@@ -25849,6 +25959,9 @@
         "110 P400e",
         "110 S",
         "110 V8",
+        "130 S",
+        "130 V8",
+        "130 X",
         "90 S",
         "90 V8"
       ],
@@ -25857,6 +25970,9 @@
         "110 P400e",
         "110 S",
         "110 V8",
+        "130 S",
+        "130 V8",
+        "130 X",
         "90 S",
         "90 V8"
       ],
@@ -25864,6 +25980,9 @@
         "110 P400",
         "110 S",
         "110 V8",
+        "130 S",
+        "130 V8",
+        "130 X",
         "90 S"
       ]
     },
