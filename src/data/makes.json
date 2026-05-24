@@ -8224,6 +8224,23 @@
         "GT Petrol",
         "GT SP Diesel"
       ]
+    },
+    "CX-70": {
+      "2024": [
+        "GT",
+        "GT PHEV",
+        "GT SP"
+      ],
+      "2025": [
+        "GT",
+        "GT PHEV",
+        "GT SP"
+      ],
+      "2026": [
+        "GT",
+        "GT PHEV",
+        "GT SP"
+      ]
     }
   },
   "Nissan": {
@@ -15062,6 +15079,18 @@
         "S",
         "Sport"
       ]
+    },
+    "Tasman": {
+      "2025": [
+        "GT-Line",
+        "S",
+        "SX+"
+      ],
+      "2026": [
+        "GT-Line",
+        "S",
+        "SX+"
+      ]
     }
   },
   "Volkswagen": {
@@ -17300,21 +17329,25 @@
         "xDrive25i"
       ],
       "2023": [
+        "M35i xDrive",
         "iX1 xDrive30",
         "sDrive20i",
         "xDrive23i"
       ],
       "2024": [
+        "M35i xDrive",
         "iX1 xDrive30",
         "sDrive20i",
         "xDrive23i"
       ],
       "2025": [
+        "M35i xDrive",
         "iX1 xDrive30",
         "sDrive20i",
         "xDrive23i"
       ],
       "2026": [
+        "M35i xDrive",
         "iX1 xDrive30",
         "sDrive20i",
         "xDrive23i"
@@ -25664,138 +25697,138 @@
     },
     "Jimny": {
       "2001": [
-        "JX",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "JX"
       ],
       "2002": [
-        "JX",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "JX"
       ],
       "2003": [
-        "JX",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "JX"
       ],
       "2004": [
-        "JX",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "JX"
       ],
       "2005": [
-        "JX",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "JX"
       ],
       "2006": [
-        "JX",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "JX"
       ],
       "2007": [
-        "JX",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "JX"
       ],
       "2008": [
-        "JX",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "JX"
       ],
       "2009": [
-        "JX",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "JX"
       ],
       "2010": [
-        "JX",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "JX"
       ],
       "2011": [
-        "JX",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "JX"
       ],
       "2012": [
-        "JX",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "JX"
       ],
       "2013": [
-        "JX",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "JX"
       ],
       "2014": [
-        "JX",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "JX"
       ],
       "2015": [
-        "JX",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "JX"
       ],
       "2016": [
-        "JX",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "JX"
       ],
       "2017": [
-        "JX",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "JX"
       ],
       "2018": [
-        "JX",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "JX"
       ],
       "2019": [
-        "Lite",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "Lite"
       ],
       "2020": [
-        "Lite",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "Lite"
       ],
       "2021": [
-        "Lite",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "Lite"
       ],
       "2022": [
-        "Lite",
         "JLX",
-        "JLX-L"
+        "JLX-L",
+        "Lite"
       ],
       "2023": [
-        "Lite",
+        "5-door",
         "JLX",
         "JLX-L",
-        "5-door"
+        "Lite"
       ],
       "2024": [
-        "Lite",
+        "5-door",
         "JLX",
         "JLX-L",
-        "5-door"
+        "Lite"
       ],
       "2025": [
-        "Lite",
+        "5-door",
         "JLX",
         "JLX-L",
-        "5-door"
+        "Lite"
       ],
       "2026": [
-        "Lite",
+        "5-door",
         "JLX",
         "JLX-L",
-        "5-door"
+        "Lite"
       ]
     },
     "Grand Vitara": {
@@ -26078,6 +26111,23 @@
       "2022": [
         "GL",
         "GLX"
+      ]
+    },
+    "Fronx": {
+      "2024": [
+        "GL",
+        "GLX",
+        "GLX+"
+      ],
+      "2025": [
+        "GL",
+        "GLX",
+        "GLX+"
+      ],
+      "2026": [
+        "GL",
+        "GLX",
+        "GLX+"
       ]
     }
   },
@@ -30297,6 +30347,16 @@
         "PHEV",
         "Sprint",
         "Veloce PHEV"
+      ]
+    },
+    "Junior": {
+      "2025": [
+        "Junior",
+        "Junior Elettrica"
+      ],
+      "2026": [
+        "Junior",
+        "Junior Elettrica"
       ]
     }
   },
@@ -40721,6 +40781,28 @@
         "XR"
       ]
     },
+    "408": {
+      "2023": [
+        "408",
+        "408 GT",
+        "408 PHEV"
+      ],
+      "2024": [
+        "408",
+        "408 GT",
+        "408 PHEV"
+      ],
+      "2025": [
+        "408",
+        "408 GT",
+        "408 PHEV"
+      ],
+      "2026": [
+        "408",
+        "408 GT",
+        "408 PHEV"
+      ]
+    },
     "504": {
       "1968": [
         "Cabriolet",
@@ -41056,6 +41138,15 @@
         "Active",
         "Allure",
         "GT",
+        "e-2008"
+      ],
+      "2024": [
+        "e-2008"
+      ],
+      "2025": [
+        "e-2008"
+      ],
+      "2026": [
         "e-2008"
       ]
     },
