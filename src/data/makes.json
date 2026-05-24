@@ -14046,6 +14046,11 @@
         "Long Range",
         "Long Range Premium",
         "Standard Range"
+      ],
+      "2026": [
+        "Long Range",
+        "Long Range Premium",
+        "Standard Range"
       ]
     },
     "Ioniq 9": {
@@ -43958,6 +43963,18 @@
       "2023": [
         "Spider",
         "Stradale"
+      ],
+      "2024": [
+        "Spider",
+        "Stradale"
+      ],
+      "2025": [
+        "Spider",
+        "Stradale"
+      ],
+      "2026": [
+        "Spider",
+        "Stradale"
       ]
     },
     "Roma": {
@@ -44691,6 +44708,14 @@
         "S"
       ],
       "2024": [
+        "Performante",
+        "S"
+      ],
+      "2025": [
+        "Performante",
+        "S"
+      ],
+      "2026": [
         "Performante",
         "S"
       ]
@@ -70174,6 +70199,20 @@
         "Rally Tribute",
         "Standard"
       ]
+    },
+    "500e": {
+      "2023": [
+        "500e"
+      ],
+      "2024": [
+        "500e"
+      ],
+      "2025": [
+        "500e"
+      ],
+      "2026": [
+        "500e"
+      ]
     }
   },
   "DS": {
@@ -70481,6 +70520,17 @@
       "2026": [
         "E-Tense 225",
         "E-Tense 360 4x4"
+      ]
+    },
+    "DS 3": {
+      "2024": [
+        "E-Tense"
+      ],
+      "2025": [
+        "E-Tense"
+      ],
+      "2026": [
+        "E-Tense"
       ]
     }
   },
@@ -72485,6 +72535,26 @@
       ],
       "2026": [
         "Diesel"
+      ]
+    }
+  },
+  "Ora": {
+    "Funky Cat": {
+      "2023": [
+        "Cat",
+        "Cat GT"
+      ],
+      "2024": [
+        "Cat",
+        "Cat GT"
+      ],
+      "2025": [
+        "Cat",
+        "Cat GT"
+      ],
+      "2026": [
+        "Cat",
+        "Cat GT"
       ]
     }
   }
