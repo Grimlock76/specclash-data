@@ -1,0 +1,235 @@
+'use strict'
+const fs = require('fs')
+
+const specs = {}
+const p = n => `~$${n.toLocaleString()}`
+
+// ─────────────────────────────────────────────────────────────
+// AUDI RS Q3 2026 (AU)
+// ─────────────────────────────────────────────────────────────
+specs['Audi|RS Q3|2026|RS Q3'] = {
+  engine: '2.5 TFSI', fuelType: 'petrol', displacement: 2480,
+  cylinders: 5, drivetrain: 'AWD', transmission: '7-speed S-tronic',
+  power: 294, torque: 480, weight: 1670, seats: 5,
+  fc: 9.3, fh: 7.2, fx: 13.0,
+  acceleration: 4.5, topSpeed: 250, price: p(112900)
+}
+
+// ─────────────────────────────────────────────────────────────
+// AUDI RS Q8 2026 (AU)
+// ─────────────────────────────────────────────────────────────
+specs['Audi|RS Q8|2026|RS Q8'] = {
+  engine: '4.0 TFSI V8 biturbo', fuelType: 'petrol', displacement: 3996,
+  cylinders: 8, drivetrain: 'AWD', transmission: '8-speed tiptronic',
+  power: 441, torque: 800, weight: 2245, seats: 5,
+  fc: 13.1, fh: 10.0, fx: 18.2,
+  acceleration: 3.8, topSpeed: 250, price: p(239900)
+}
+
+// ─────────────────────────────────────────────────────────────
+// AUDI RS7 2026 (AU)
+// ─────────────────────────────────────────────────────────────
+specs['Audi|RS7|2026|RS7'] = {
+  engine: '4.0 TFSI V8 biturbo', fuelType: 'petrol', displacement: 3996,
+  cylinders: 8, drivetrain: 'AWD', transmission: '8-speed tiptronic',
+  power: 441, torque: 800, weight: 2090, seats: 4,
+  fc: 11.7, fh: 8.8, fx: 16.7,
+  acceleration: 3.6, topSpeed: 250, price: p(229900)
+}
+
+// ─────────────────────────────────────────────────────────────
+// AUDI S7 2026 (AU)
+// ─────────────────────────────────────────────────────────────
+specs['Audi|S7|2026|S7'] = {
+  engine: '2.9 V6 TFSI biturbo', fuelType: 'petrol', displacement: 2894,
+  cylinders: 6, drivetrain: 'AWD', transmission: '8-speed tiptronic',
+  power: 324, torque: 600, weight: 1925, seats: 4,
+  fc: 9.5, fh: 7.2, fx: 13.7,
+  acceleration: 4.6, topSpeed: 250, price: p(182900)
+}
+
+// ─────────────────────────────────────────────────────────────
+// AUDI S8 2026 (AU)
+// ─────────────────────────────────────────────────────────────
+specs['Audi|S8|2026|S8'] = {
+  engine: '4.0 TFSI V8 biturbo', fuelType: 'petrol', displacement: 3996,
+  cylinders: 8, drivetrain: 'AWD', transmission: '8-speed tiptronic',
+  power: 420, torque: 800, weight: 2155, seats: 5,
+  fc: 11.4, fh: 8.6, fx: 15.8,
+  acceleration: 3.8, topSpeed: 250, price: p(267900)
+}
+
+// ─────────────────────────────────────────────────────────────
+// AUDI SQ7 2026 (AU)
+// ─────────────────────────────────────────────────────────────
+specs['Audi|SQ7|2026|SQ7'] = {
+  engine: '4.0 TFSI V8 biturbo', fuelType: 'petrol', displacement: 3996,
+  cylinders: 8, drivetrain: 'AWD', transmission: '8-speed tiptronic',
+  power: 373, torque: 770, weight: 2310, seats: 7,
+  fc: 12.5, fh: 9.5, fx: 17.6,
+  acceleration: 4.1, topSpeed: 250, price: p(186900)
+}
+
+// ─────────────────────────────────────────────────────────────
+// AUDI SQ8 2026 (AU)
+// ─────────────────────────────────────────────────────────────
+specs['Audi|SQ8|2026|SQ8'] = {
+  engine: '4.0 TFSI V8 biturbo', fuelType: 'petrol', displacement: 3996,
+  cylinders: 8, drivetrain: 'AWD', transmission: '8-speed tiptronic',
+  power: 373, torque: 770, weight: 2235, seats: 5,
+  fc: 12.3, fh: 9.4, fx: 17.1,
+  acceleration: 4.1, topSpeed: 250, price: p(196900)
+}
+
+// ─────────────────────────────────────────────────────────────
+// CHEVROLET MALIBU 2024 — L (AU)
+// ─────────────────────────────────────────────────────────────
+specs['Chevrolet|Malibu|2024|L'] = {
+  engine: '1.5T Turbo', fuelType: 'petrol', displacement: 1490,
+  cylinders: 4, drivetrain: 'FWD', transmission: 'CVT',
+  power: 123, torque: 240, weight: 1494, seats: 5,
+  fc: 7.8, fh: 5.9, fx: 10.9,
+  acceleration: 8.2, topSpeed: 190, price: p(28990)
+}
+
+// ─────────────────────────────────────────────────────────────
+// GWM HAVAL JOLION 2026 — LUX (AU)
+// ─────────────────────────────────────────────────────────────
+specs['GWM|Haval Jolion|2026|LUX'] = {
+  engine: '1.5T Turbo', fuelType: 'petrol', displacement: 1498,
+  cylinders: 4, drivetrain: 'FWD', transmission: '7-speed DCT',
+  power: 105, torque: 220, weight: 1465, seats: 5,
+  fc: 7.4, fh: 5.5, fx: 10.4,
+  acceleration: 9.8, topSpeed: 180, price: p(36990)
+}
+
+// ─────────────────────────────────────────────────────────────
+// ISUZU MU-X 2024 — LS-M (AU)
+// ─────────────────────────────────────────────────────────────
+specs['Isuzu|MU-X|2024|LS-M'] = {
+  engine: '3.0L I4 Turbo Diesel', fuelType: 'diesel', displacement: 2999,
+  cylinders: 4, drivetrain: '4WD', transmission: '6-speed auto',
+  power: 140, torque: 450, weight: 2170, seats: 7,
+  fc: 8.5, fh: 6.8, fx: 11.9,
+  acceleration: 10.8, topSpeed: 175, price: p(57990)
+}
+
+// ─────────────────────────────────────────────────────────────
+// JAGUAR I-PACE 2026 — EV400 SE (AU)
+// ─────────────────────────────────────────────────────────────
+specs['Jaguar|I-Pace|2026|EV400 SE'] = {
+  engine: 'Electric Dual Motor', fuelType: 'electric',
+  battery: '90 kWh', range: 470,
+  drivetrain: 'AWD', transmission: '1sp auto',
+  power: 294, torque: 696, weight: 2208, seats: 5,
+  fc: null, fh: null, fx: null,
+  acceleration: 4.8, topSpeed: 200, price: p(139990)
+}
+
+// ─────────────────────────────────────────────────────────────
+// JEEP GRAND CHEROKEE 2024 — Laredo (AU)
+// ─────────────────────────────────────────────────────────────
+specs['Jeep|Grand Cherokee|2024|Laredo'] = {
+  engine: '3.6L V6 Pentastar', fuelType: 'petrol', displacement: 3604,
+  cylinders: 6, drivetrain: '4WD', transmission: '8-speed auto',
+  power: 213, torque: 353, weight: 2082, seats: 5,
+  fc: 12.7, fh: 9.4, fx: 18.2,
+  acceleration: 7.9, topSpeed: 195, price: p(67990)
+}
+
+// ─────────────────────────────────────────────────────────────
+// RAM 1500 TRX 2026 — TRX (AU)
+// ─────────────────────────────────────────────────────────────
+specs['RAM|1500 TRX|2026|TRX'] = {
+  engine: '6.2L Supercharged HEMI V8', fuelType: 'petrol', displacement: 6166,
+  cylinders: 8, drivetrain: '4WD', transmission: '8-speed auto',
+  power: 522, torque: 881, weight: 3130, seats: 5,
+  fc: 18.9, fh: 14.5, fx: 26.1,
+  acceleration: 4.5, topSpeed: 190, price: p(199990)
+}
+
+// ─────────────────────────────────────────────────────────────
+// RENAULT MEGANE E-TECH 2026 — EV60 (AU)
+// ─────────────────────────────────────────────────────────────
+specs['Renault|Megane E-Tech|2026|EV60'] = {
+  engine: 'Electric Single Motor', fuelType: 'electric',
+  battery: '60 kWh', range: 450,
+  drivetrain: 'FWD', transmission: '1sp auto',
+  power: 160, torque: 300, weight: 1624, seats: 5,
+  fc: null, fh: null, fx: null,
+  acceleration: 7.4, topSpeed: 160, price: p(64990)
+}
+
+// ─────────────────────────────────────────────────────────────
+// SKODA OCTAVIA 2026 — Style (AU)
+// ─────────────────────────────────────────────────────────────
+specs['Skoda|Octavia|2026|Style'] = {
+  engine: '1.5 TSI', fuelType: 'petrol', displacement: 1498,
+  cylinders: 4, drivetrain: 'FWD', transmission: '7-speed DSG',
+  power: 110, torque: 250, weight: 1360, seats: 5,
+  fc: 6.4, fh: 4.8, fx: 9.0,
+  acceleration: 8.5, topSpeed: 220, price: p(44990)
+}
+
+// ─────────────────────────────────────────────────────────────
+// TESLA MODEL 3 2023 — Standard Range RWD (AU)
+// ─────────────────────────────────────────────────────────────
+specs['Tesla|Model 3|2023|Standard Range RWD'] = {
+  engine: 'Electric Single Motor', fuelType: 'electric',
+  battery: '60 kWh', range: 491,
+  drivetrain: 'RWD', transmission: '1sp auto',
+  power: 208, torque: 440, weight: 1752, seats: 5,
+  fc: null, fh: null, fx: null,
+  acceleration: 6.1, topSpeed: 225, price: p(54900)
+}
+
+// ─────────────────────────────────────────────────────────────
+// TESLA MODEL S 2026 — Long Range (AU)
+// ─────────────────────────────────────────────────────────────
+specs['Tesla|Model S|2026|Long Range'] = {
+  engine: 'Electric Dual Motor', fuelType: 'electric',
+  battery: '100 kWh', range: 652,
+  drivetrain: 'AWD', transmission: '1sp auto',
+  power: 493, torque: 745, weight: 2162, seats: 5,
+  fc: null, fh: null, fx: null,
+  acceleration: 3.1, topSpeed: 250, price: p(139990)
+}
+
+// ─────────────────────────────────────────────────────────────
+// TESLA MODEL X 2026 — Long Range (AU)
+// ─────────────────────────────────────────────────────────────
+specs['Tesla|Model X|2026|Long Range'] = {
+  engine: 'Electric Dual Motor', fuelType: 'electric',
+  battery: '100 kWh', range: 576,
+  drivetrain: 'AWD', transmission: '1sp auto',
+  power: 493, torque: 745, weight: 2459, seats: 7,
+  fc: null, fh: null, fx: null,
+  acceleration: 3.8, topSpeed: 250, price: p(159990)
+}
+
+// ─────────────────────────────────────────────────────────────
+// VOLVO V90 2026 — B5 (AU)
+// ─────────────────────────────────────────────────────────────
+specs['Volvo|V90|2026|B5'] = {
+  engine: '2.0T Mild Hybrid', fuelType: 'petrol', displacement: 1969,
+  cylinders: 4, drivetrain: 'AWD', transmission: '8-speed Geartronic',
+  power: 183, torque: 350, weight: 1895, seats: 5,
+  fc: 8.3, fh: 6.2, fx: 11.6,
+  acceleration: 6.6, topSpeed: 230, price: p(113990)
+}
+
+// ─────────────────────────────────────────────────────────────
+// Output
+// ─────────────────────────────────────────────────────────────
+const out = { specs }
+fs.writeFileSync('src/data/supplement143.json', JSON.stringify(out, null, 2))
+console.log(`supplement143.json written — ${Object.keys(specs).length} entries`)
+
+const byMake = {}
+for (const k of Object.keys(specs)) {
+  const mk = k.split('|')[0]
+  byMake[mk] = (byMake[mk] || 0) + 1
+}
+for (const [mk, cnt] of Object.entries(byMake).sort()) {
+  console.log(`  ${mk}: ${cnt}`)
+}
