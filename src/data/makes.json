@@ -2091,6 +2091,10 @@
       "2025": [
         "Platinum",
         "Platinum+"
+      ],
+      "2026": [
+        "Platinum",
+        "Platinum+"
       ]
     },
     "Escape": {
@@ -4962,9 +4966,11 @@
         "Workmate"
       ],
       "2026": [
+        "GR Sport",
         "Rogue",
         "SR",
         "SR5",
+        "SR5+",
         "Workmate"
       ]
     },
@@ -6608,6 +6614,10 @@
       "2025": [
         "AWD",
         "FWD"
+      ],
+      "2026": [
+        "AWD",
+        "FWD"
       ]
     },
     "Alphard": {
@@ -6628,6 +6638,10 @@
         "Executive Lounge"
       ],
       "2025": [
+        "Executive",
+        "Executive Lounge"
+      ],
+      "2026": [
         "Executive",
         "Executive Lounge"
       ]
@@ -6666,6 +6680,10 @@
         "Rallye"
       ],
       "2025": [
+        "GR Yaris",
+        "Rallye"
+      ],
+      "2026": [
         "GR Yaris",
         "Rallye"
       ]
@@ -8283,6 +8301,13 @@
         "X20 Astina"
       ],
       "2025": [
+        "Astute",
+        "Evolve",
+        "GT",
+        "Pure",
+        "X20 Astina"
+      ],
+      "2026": [
         "Astute",
         "Evolve",
         "GT",
@@ -18857,6 +18882,10 @@
       "2025": [
         "M5 Sedan",
         "M5 Touring"
+      ],
+      "2026": [
+        "M5 Sedan",
+        "M5 Touring"
       ]
     },
     "iX2": {
@@ -18865,6 +18894,10 @@
         "xDrive30"
       ],
       "2025": [
+        "sDrive20",
+        "xDrive30"
+      ],
+      "2026": [
         "sDrive20",
         "xDrive30"
       ]
@@ -23448,7 +23481,8 @@
         "40 TFSI quattro"
       ],
       "2026": [
-        "35 TFSI"
+        "35 TFSI",
+        "40 TFSI quattro"
       ]
     },
     "A4": {
@@ -23533,7 +23567,8 @@
         "40 TFSI quattro"
       ],
       "2026": [
-        "35 TFSI"
+        "35 TFSI",
+        "40 TFSI quattro"
       ]
     },
     "A6": {
@@ -25542,10 +25577,12 @@
         "Carrera",
         "Carrera 4",
         "Carrera 4S",
+        "Carrera Cabriolet",
         "Carrera GTS",
         "Carrera S Cabriolet",
         "Dakar",
         "GT3",
+        "GT3 Touring",
         "Targa 4",
         "Targa 4S",
         "Turbo S"
