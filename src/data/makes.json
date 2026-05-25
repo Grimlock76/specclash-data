@@ -25684,7 +25684,9 @@
         "Targa 4",
         "Targa 4S",
         "Turbo",
-        "Turbo S"
+        "Turbo Cabriolet",
+        "Turbo S",
+        "Turbo S Cabriolet"
       ],
       "2026": [
         "Carrera",
@@ -25700,7 +25702,9 @@
         "Targa 4",
         "Targa 4S",
         "Turbo",
-        "Turbo S"
+        "Turbo Cabriolet",
+        "Turbo S",
+        "Turbo S Cabriolet"
       ]
     },
     "Boxster": {
@@ -44259,6 +44263,18 @@
       "2023": [
         "Spider",
         "base"
+      ],
+      "2024": [
+        "Spider",
+        "base"
+      ],
+      "2025": [
+        "Spider",
+        "base"
+      ],
+      "2026": [
+        "Spider",
+        "base"
       ]
     },
     "550 Maranello": {
@@ -51565,6 +51581,18 @@
       "2017": [
         "V8",
         "W12"
+      ],
+      "2024": [
+        "V8",
+        "W12"
+      ],
+      "2025": [
+        "V8",
+        "W12"
+      ],
+      "2026": [
+        "V8",
+        "W12"
       ]
     },
     "Continental Flying Spur": {
@@ -51653,16 +51681,19 @@
       ],
       "2024": [
         "Hybrid",
+        "Speed",
         "V8",
         "W12"
       ],
       "2025": [
         "Hybrid",
+        "Speed",
         "V8",
         "W12"
       ],
       "2026": [
         "Hybrid",
+        "Speed",
         "V8",
         "W12"
       ]
@@ -66955,32 +66986,32 @@
     },
     "Type 57": {
       "1934": [
-        "Galibier",
-        "Atlantic SC"
+        "Atlantic SC",
+        "Galibier"
       ],
       "1935": [
-        "Galibier",
-        "Atlantic SC"
+        "Atlantic SC",
+        "Galibier"
       ],
       "1936": [
-        "Galibier",
-        "Atlantic SC"
+        "Atlantic SC",
+        "Galibier"
       ],
       "1937": [
-        "Galibier",
-        "Atlantic SC"
+        "Atlantic SC",
+        "Galibier"
       ],
       "1938": [
-        "Galibier",
-        "Atlantic SC"
+        "Atlantic SC",
+        "Galibier"
       ],
       "1939": [
-        "Galibier",
-        "Atlantic SC"
+        "Atlantic SC",
+        "Galibier"
       ],
       "1940": [
-        "Galibier",
-        "Atlantic SC"
+        "Atlantic SC",
+        "Galibier"
       ]
     },
     "EB110": {
@@ -67008,118 +67039,121 @@
     "Veyron": {
       "2005": [
         "16.4",
-        "Super Sport",
-        "Grand Sport Vitesse"
+        "Grand Sport Vitesse",
+        "Super Sport"
       ],
       "2006": [
         "16.4",
-        "Super Sport",
-        "Grand Sport Vitesse"
+        "Grand Sport Vitesse",
+        "Super Sport"
       ],
       "2007": [
         "16.4",
-        "Super Sport",
-        "Grand Sport Vitesse"
+        "Grand Sport Vitesse",
+        "Super Sport"
       ],
       "2008": [
         "16.4",
-        "Super Sport",
-        "Grand Sport Vitesse"
+        "Grand Sport Vitesse",
+        "Super Sport"
       ],
       "2009": [
         "16.4",
-        "Super Sport",
-        "Grand Sport Vitesse"
+        "Grand Sport Vitesse",
+        "Super Sport"
       ],
       "2010": [
         "16.4",
-        "Super Sport",
-        "Grand Sport Vitesse"
+        "Grand Sport Vitesse",
+        "Super Sport"
       ],
       "2011": [
         "16.4",
-        "Super Sport",
-        "Grand Sport Vitesse"
+        "Grand Sport Vitesse",
+        "Super Sport"
       ],
       "2012": [
         "16.4",
-        "Super Sport",
-        "Grand Sport Vitesse"
+        "Grand Sport Vitesse",
+        "Super Sport"
       ],
       "2013": [
         "16.4",
-        "Super Sport",
-        "Grand Sport Vitesse"
+        "Grand Sport Vitesse",
+        "Super Sport"
       ],
       "2014": [
         "16.4",
-        "Super Sport",
-        "Grand Sport Vitesse"
+        "Grand Sport Vitesse",
+        "Super Sport"
       ],
       "2015": [
         "16.4",
-        "Super Sport",
-        "Grand Sport Vitesse"
+        "Grand Sport Vitesse",
+        "Super Sport"
       ]
     },
     "Chiron": {
       "2016": [
+        "Pur Sport",
         "Standard",
-        "Super Sport 300+",
-        "Pur Sport"
+        "Super Sport 300+"
       ],
       "2017": [
+        "Pur Sport",
         "Standard",
-        "Super Sport 300+",
-        "Pur Sport"
+        "Super Sport 300+"
       ],
       "2018": [
+        "Pur Sport",
         "Standard",
-        "Super Sport 300+",
-        "Pur Sport"
+        "Super Sport 300+"
       ],
       "2019": [
+        "Pur Sport",
         "Standard",
-        "Super Sport 300+",
-        "Pur Sport"
+        "Super Sport 300+"
       ],
       "2020": [
+        "Pur Sport",
         "Standard",
-        "Super Sport 300+",
-        "Pur Sport"
+        "Super Sport 300+"
       ],
       "2021": [
+        "Pur Sport",
         "Standard",
-        "Super Sport 300+",
-        "Pur Sport"
+        "Super Sport 300+"
       ],
       "2022": [
+        "Pur Sport",
         "Standard",
-        "Super Sport 300+",
-        "Pur Sport"
+        "Super Sport 300+"
       ],
       "2023": [
+        "Pur Sport",
         "Standard",
-        "Super Sport 300+",
-        "Pur Sport"
+        "Super Sport 300+"
       ],
       "2024": [
+        "Pur Sport",
         "Standard",
-        "Super Sport 300+",
-        "Pur Sport"
+        "Super Sport 300+"
       ],
       "2025": [
+        "Pur Sport",
         "Standard",
-        "Super Sport 300+",
-        "Pur Sport"
+        "Super Sport 300+"
       ],
       "2026": [
+        "Pur Sport",
         "Standard",
-        "Super Sport 300+",
-        "Pur Sport"
+        "Super Sport 300+"
       ]
     },
     "Tourbillon": {
+      "2025": [
+        "Standard"
+      ],
       "2026": [
         "Standard"
       ]
