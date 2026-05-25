@@ -16607,6 +16607,11 @@
         "110TSI R-Line",
         "110TSI Style",
         "85TSI Life"
+      ],
+      "2026": [
+        "110TSI R-Line",
+        "110TSI Style",
+        "85TSI Life"
       ]
     },
     "ID.Buzz": {
@@ -16616,6 +16621,11 @@
         "Pro LWB"
       ],
       "2025": [
+        "GTX",
+        "Pro",
+        "Pro LWB"
+      ],
+      "2026": [
         "GTX",
         "Pro",
         "Pro LWB"
@@ -20350,7 +20360,8 @@
         "G 63 AMG"
       ],
       "2026": [
-        "G 500"
+        "G 500",
+        "G 63 AMG"
       ]
     },
     "AMG GT": {
@@ -20393,6 +20404,7 @@
         "AMG GT 63"
       ],
       "2026": [
+        "AMG GT 43",
         "AMG GT 63"
       ]
     },
@@ -21875,6 +21887,12 @@
         "2.5i Sport"
       ],
       "2025": [
+        "2.0i",
+        "2.0i-L",
+        "2.5i Premium",
+        "2.5i Sport"
+      ],
+      "2026": [
         "2.0i",
         "2.0i-L",
         "2.5i Premium",
@@ -23650,7 +23668,8 @@
         "55 TFSI quattro"
       ],
       "2026": [
-        "45 TFSI quattro"
+        "45 TFSI quattro",
+        "55 TFSI quattro"
       ]
     },
     "TT": {
@@ -23766,7 +23785,8 @@
         "40 TFSI quattro"
       ],
       "2026": [
-        "35 TFSI"
+        "35 TFSI",
+        "40 TFSI quattro"
       ]
     },
     "Q5": {
@@ -23925,6 +23945,7 @@
         "55 TFSI quattro"
       ],
       "2026": [
+        "45 TDI quattro",
         "55 TFSI quattro"
       ]
     },
@@ -24346,7 +24367,8 @@
         "SQ5 Sportback"
       ],
       "2026": [
-        "45 TFSI quattro"
+        "45 TFSI quattro",
+        "SQ5 Sportback"
       ]
     },
     "Q6 e-tron": {
@@ -24552,6 +24574,7 @@
         "55 TFSI quattro"
       ],
       "2026": [
+        "50 TDI quattro",
         "55 TFSI quattro"
       ]
     },
@@ -24864,6 +24887,9 @@
         "RS6 Avant"
       ],
       "2025": [
+        "RS6 Avant"
+      ],
+      "2026": [
         "RS6 Avant"
       ]
     },
@@ -25880,8 +25906,10 @@
       ],
       "2026": [
         "4 E-Hybrid",
+        "4S Sport Turismo",
         "Panamera 4S",
         "Panamera Turbo E-Hybrid",
+        "Sport Turismo",
         "Turbo S E-Hybrid Sport Turismo"
       ]
     },
@@ -26594,12 +26622,14 @@
       ],
       "2026": [
         "110 P400",
+        "110 P400e",
         "110 S",
         "110 V8",
         "130 S",
         "130 V8",
         "130 X",
-        "90 S"
+        "90 S",
+        "90 V8"
       ]
     },
     "Discovery": {
@@ -33794,6 +33824,10 @@
         "Z06"
       ],
       "2025": [
+        "Stingray",
+        "Z06"
+      ],
+      "2026": [
         "Stingray",
         "Z06"
       ]
