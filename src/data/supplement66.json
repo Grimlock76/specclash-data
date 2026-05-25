@@ -19,7 +19,8 @@
       "topSpeed": 240,
       "cargo": 480,
       "quarterMile": "~14.2 sec",
-      "price": "~$66,900"
+      "price": "~$66,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Giulia|2017|Veloce": {
       "engine": "2.0T Turbo",
@@ -40,7 +41,8 @@
       "topSpeed": 240,
       "cargo": 480,
       "quarterMile": "~14.2 sec",
-      "price": "~$79,900"
+      "price": "~$79,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Giulia|2017|Quadrifoglio": {
       "engine": "2.9L V6 BiTurbo",
@@ -61,7 +63,8 @@
       "topSpeed": 307,
       "cargo": 480,
       "quarterMile": "~12.2 sec",
-      "price": "~$119,900"
+      "price": "~$119,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Giulia|2022|Ti": {
       "engine": "2.0T Turbo",
@@ -82,7 +85,8 @@
       "topSpeed": 240,
       "cargo": 480,
       "quarterMile": "~14.2 sec",
-      "price": "~$74,900"
+      "price": "~$74,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Giulia|2022|Veloce": {
       "engine": "2.0T Turbo",
@@ -103,7 +107,8 @@
       "topSpeed": 240,
       "cargo": 480,
       "quarterMile": "~14.2 sec",
-      "price": "~$84,900"
+      "price": "~$84,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Giulia|2022|Quadrifoglio": {
       "engine": "2.9L V6 BiTurbo",
@@ -124,7 +129,8 @@
       "topSpeed": 307,
       "cargo": 480,
       "quarterMile": "~12.2 sec",
-      "price": "~$134,900"
+      "price": "~$134,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Giulia|2024|Ti": {
       "engine": "2.0T Turbo",
@@ -145,7 +151,8 @@
       "topSpeed": 240,
       "cargo": 480,
       "quarterMile": "~14.2 sec",
-      "price": "~$79,900"
+      "price": "~$79,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Giulia|2024|Veloce": {
       "engine": "2.0T Turbo",
@@ -166,7 +173,8 @@
       "topSpeed": 240,
       "cargo": 480,
       "quarterMile": "~14.2 sec",
-      "price": "~$89,900"
+      "price": "~$89,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Giulia|2024|Quadrifoglio": {
       "engine": "2.9L V6 BiTurbo",
@@ -187,7 +195,8 @@
       "topSpeed": 307,
       "cargo": 480,
       "quarterMile": "~12.2 sec",
-      "price": "~$139,900"
+      "price": "~$139,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Stelvio|2017|Ti": {
       "engine": "2.0T Turbo",
@@ -208,7 +217,8 @@
       "topSpeed": 230,
       "cargo": 525,
       "quarterMile": "~14.0 sec",
-      "price": "~$72,900"
+      "price": "~$72,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Stelvio|2017|Veloce": {
       "engine": "2.0T Turbo",
@@ -229,7 +239,8 @@
       "topSpeed": 230,
       "cargo": 525,
       "quarterMile": "~14.0 sec",
-      "price": "~$84,900"
+      "price": "~$84,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Stelvio|2017|Quadrifoglio": {
       "engine": "2.9L V6 BiTurbo",
@@ -250,7 +261,8 @@
       "topSpeed": 283,
       "cargo": 525,
       "quarterMile": "~12.1 sec",
-      "price": "~$124,900"
+      "price": "~$124,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Stelvio|2022|Ti": {
       "engine": "2.0T Turbo",
@@ -271,7 +283,8 @@
       "topSpeed": 230,
       "cargo": 525,
       "quarterMile": "~14.0 sec",
-      "price": "~$79,900"
+      "price": "~$79,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Stelvio|2022|Veloce": {
       "engine": "2.0T Turbo",
@@ -292,7 +305,8 @@
       "topSpeed": 230,
       "cargo": 525,
       "quarterMile": "~14.0 sec",
-      "price": "~$89,900"
+      "price": "~$89,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Stelvio|2022|Quadrifoglio": {
       "engine": "2.9L V6 BiTurbo",
@@ -313,7 +327,8 @@
       "topSpeed": 283,
       "cargo": 525,
       "quarterMile": "~12.1 sec",
-      "price": "~$139,900"
+      "price": "~$139,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Stelvio|2024|Ti": {
       "engine": "2.0T Turbo",
@@ -334,7 +349,8 @@
       "topSpeed": 230,
       "cargo": 525,
       "quarterMile": "~14.0 sec",
-      "price": "~$84,900"
+      "price": "~$84,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Stelvio|2024|Veloce": {
       "engine": "2.0T Turbo",
@@ -355,7 +371,8 @@
       "topSpeed": 230,
       "cargo": 525,
       "quarterMile": "~14.0 sec",
-      "price": "~$94,900"
+      "price": "~$94,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Stelvio|2024|Quadrifoglio": {
       "engine": "2.9L V6 BiTurbo",
@@ -376,7 +393,8 @@
       "topSpeed": 283,
       "cargo": 525,
       "quarterMile": "~12.1 sec",
-      "price": "~$144,900"
+      "price": "~$144,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Tonale|2023|Sprint": {
       "engine": "1.5T MHEV",
@@ -397,7 +415,8 @@
       "topSpeed": 205,
       "cargo": 500,
       "quarterMile": "~16.2 sec",
-      "price": "~$55,900"
+      "price": "~$55,900",
+      "aspiration": "NA"
     },
     "Alfa Romeo|Tonale|2023|Veloce PHEV": {
       "engine": "1.3T PHEV",
@@ -418,7 +437,8 @@
       "topSpeed": 200,
       "cargo": 500,
       "quarterMile": "~14.5 sec",
-      "price": "~$72,900"
+      "price": "~$72,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Tonale|2025|Sprint": {
       "engine": "1.5T MHEV",
@@ -439,7 +459,8 @@
       "topSpeed": 205,
       "cargo": 500,
       "quarterMile": "~16.2 sec",
-      "price": "~$57,900"
+      "price": "~$57,900",
+      "aspiration": "NA"
     },
     "Alfa Romeo|Tonale|2025|Veloce PHEV": {
       "engine": "1.3T PHEV",
@@ -460,7 +481,8 @@
       "topSpeed": 200,
       "cargo": 500,
       "quarterMile": "~14.5 sec",
-      "price": "~$74,900"
+      "price": "~$74,900",
+      "aspiration": "Turbo"
     }
   }
 }

@@ -16,7 +16,8 @@
       "fx": 9.9,
       "acceleration": 10.8,
       "topSpeed": 190,
-      "price": "~$33,990"
+      "price": "~$33,990",
+      "aspiration": "NA"
     },
     "Subaru|Crosstrek|2026|2.0i-L": {
       "engine": "2.0L Boxer",
@@ -34,7 +35,8 @@
       "fx": 9.9,
       "acceleration": 10.8,
       "topSpeed": 190,
-      "price": "~$37,990"
+      "price": "~$37,990",
+      "aspiration": "NA"
     },
     "Subaru|Crosstrek|2026|2.5i Premium": {
       "engine": "2.5L Boxer",
@@ -52,7 +54,8 @@
       "fx": 10.8,
       "acceleration": 10.4,
       "topSpeed": 195,
-      "price": "~$43,990"
+      "price": "~$43,990",
+      "aspiration": "NA"
     },
     "Subaru|Crosstrek|2026|2.5i Sport": {
       "engine": "2.5L Boxer",
@@ -70,7 +73,8 @@
       "fx": 10.8,
       "acceleration": 10.4,
       "topSpeed": 195,
-      "price": "~$47,990"
+      "price": "~$47,990",
+      "aspiration": "NA"
     },
     "Volkswagen|T-Cross|2026|85TSI Life": {
       "engine": "1.0 TSI",
@@ -88,7 +92,8 @@
       "fx": 8.6,
       "acceleration": 10.7,
       "topSpeed": 185,
-      "price": "~$37,990"
+      "price": "~$37,990",
+      "aspiration": "Turbo"
     },
     "Volkswagen|T-Cross|2026|110TSI Style": {
       "engine": "1.5 TSI",
@@ -106,7 +111,8 @@
       "fx": 9.1,
       "acceleration": 9.6,
       "topSpeed": 200,
-      "price": "~$44,490"
+      "price": "~$44,490",
+      "aspiration": "Turbo"
     },
     "Volkswagen|T-Cross|2026|110TSI R-Line": {
       "engine": "1.5 TSI",
@@ -124,7 +130,8 @@
       "fx": 9.1,
       "acceleration": 9.6,
       "topSpeed": 200,
-      "price": "~$47,490"
+      "price": "~$47,490",
+      "aspiration": "Turbo"
     },
     "Volkswagen|ID.Buzz|2026|Pro": {
       "engine": "Electric Single Motor",
@@ -142,7 +149,8 @@
       "fx": null,
       "acceleration": 7.9,
       "topSpeed": 145,
-      "price": "~$75,990"
+      "price": "~$75,990",
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.Buzz|2026|Pro LWB": {
       "engine": "Electric Single Motor",
@@ -160,7 +168,8 @@
       "fx": null,
       "acceleration": 7.9,
       "topSpeed": 145,
-      "price": "~$79,990"
+      "price": "~$79,990",
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.Buzz|2026|GTX": {
       "engine": "Electric Dual Motor",
@@ -178,7 +187,8 @@
       "fx": null,
       "acceleration": 6.5,
       "topSpeed": 160,
-      "price": "~$88,990"
+      "price": "~$88,990",
+      "aspiration": "Electric"
     },
     "Land Rover|Defender|2026|90 V8": {
       "engine": "4.4L V8 Biturbo",
@@ -196,7 +206,8 @@
       "fx": 22.7,
       "acceleration": 4.9,
       "topSpeed": 240,
-      "price": "~$209,900"
+      "price": "~$209,900",
+      "aspiration": "Turbo"
     },
     "Land Rover|Defender|2026|110 P400e": {
       "engine": "2.0L I4 PHEV",
@@ -214,7 +225,8 @@
       "fx": null,
       "acceleration": 5.6,
       "topSpeed": 209,
-      "price": "~$119,900"
+      "price": "~$119,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Panamera|2026|Sport Turismo": {
       "engine": "2.9L V6 Biturbo",
@@ -232,7 +244,8 @@
       "fx": 14.5,
       "acceleration": 4,
       "topSpeed": 290,
-      "price": "~$239,000"
+      "price": "~$239,000",
+      "aspiration": "Turbo"
     },
     "Porsche|Panamera|2026|4S Sport Turismo": {
       "engine": "2.9L V6 Biturbo",
@@ -250,7 +263,8 @@
       "fx": 14.9,
       "acceleration": 3.7,
       "topSpeed": 296,
-      "price": "~$289,000"
+      "price": "~$289,000",
+      "aspiration": "Turbo"
     },
     "Chevrolet|Corvette|2026|Stingray": {
       "engine": "6.2L V8 LT2",
@@ -268,7 +282,8 @@
       "fx": 17.7,
       "acceleration": 3.5,
       "topSpeed": 290,
-      "price": "~$99,990"
+      "price": "~$99,990",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|2026|Z06": {
       "engine": "5.5L Flat-Plane V8 LT6",
@@ -286,7 +301,8 @@
       "fx": 22.2,
       "acceleration": 2.9,
       "topSpeed": 311,
-      "price": "~$199,990"
+      "price": "~$199,990",
+      "aspiration": "NA"
     },
     "Audi|RS6|2026|RS6 Avant": {
       "engine": "4.0 TFSI V8 biturbo MHEV",
@@ -304,7 +320,8 @@
       "fx": 16.5,
       "acceleration": 3.6,
       "topSpeed": 250,
-      "price": "~$229,900"
+      "price": "~$229,900",
+      "aspiration": "Turbo"
     },
     "Audi|A6 allroad|2026|50 TDI quattro": {
       "engine": "3.0 TDI V6",
@@ -322,7 +339,8 @@
       "fx": 10.5,
       "acceleration": 5.2,
       "topSpeed": 250,
-      "price": "~$147,900"
+      "price": "~$147,900",
+      "aspiration": "Turbo"
     },
     "Audi|A6|2026|55 TFSI quattro": {
       "engine": "3.0 TFSI V6",
@@ -340,7 +358,8 @@
       "fx": 13.2,
       "acceleration": 5.1,
       "topSpeed": 250,
-      "price": "~$122,900"
+      "price": "~$122,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q3|2026|40 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -358,7 +377,8 @@
       "fx": 11.5,
       "acceleration": 7.9,
       "topSpeed": 209,
-      "price": "~$55,900"
+      "price": "~$55,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5 Sportback|2026|SQ5 Sportback": {
       "engine": "3.0 TFSI V6",
@@ -376,7 +396,8 @@
       "fx": 14,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$112,900"
+      "price": "~$112,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q7|2026|45 TDI quattro": {
       "engine": "3.0 TDI V6",
@@ -394,7 +415,8 @@
       "fx": 10.1,
       "acceleration": 6.5,
       "topSpeed": 230,
-      "price": "~$107,900"
+      "price": "~$107,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|G-Class|2026|G 63 AMG": {
       "engine": "4.0L V8 Biturbo AMG",
@@ -412,7 +434,8 @@
       "fx": 20,
       "acceleration": 4.5,
       "topSpeed": 220,
-      "price": "~$419,000"
+      "price": "~$419,000",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|AMG GT|2026|AMG GT 43": {
       "engine": "3.0L I6 Turbo MHEV",
@@ -430,7 +453,8 @@
       "fx": 15.5,
       "acceleration": 4.6,
       "topSpeed": 250,
-      "price": "~$199,900"
+      "price": "~$199,900",
+      "aspiration": "Turbo"
     }
   }
 }

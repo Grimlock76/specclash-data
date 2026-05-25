@@ -16,7 +16,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 205,
-      "price": "~$90,990"
+      "price": "~$90,990",
+      "aspiration": "Electric"
     },
     "Polestar|Polestar 2|2026|Long Range Single Motor": {
       "engine": "Electric Single Motor",
@@ -34,7 +35,8 @@
       "fx": null,
       "acceleration": 6.2,
       "topSpeed": 160,
-      "price": "~$80,990"
+      "price": "~$80,990",
+      "aspiration": "Electric"
     },
     "Polestar|Polestar 3|2026|Long Range Dual Motor": {
       "engine": "Electric Dual Motor",
@@ -52,7 +54,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 210,
-      "price": "~$126,990"
+      "price": "~$126,990",
+      "aspiration": "Electric"
     },
     "Polestar|Polestar 3|2026|Performance Pack": {
       "engine": "Electric Dual Motor",
@@ -70,7 +73,8 @@
       "fx": null,
       "acceleration": 4.2,
       "topSpeed": 210,
-      "price": "~$136,990"
+      "price": "~$136,990",
+      "aspiration": "Electric"
     },
     "Polestar|Polestar 4|2026|Long Range Dual Motor": {
       "engine": "Electric Dual Motor",
@@ -88,7 +92,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 200,
-      "price": "~$106,990"
+      "price": "~$106,990",
+      "aspiration": "Electric"
     },
     "Polestar|Polestar 4|2026|Long Range Single Motor": {
       "engine": "Electric Single Motor",
@@ -106,7 +111,8 @@
       "fx": null,
       "acceleration": 7.4,
       "topSpeed": 180,
-      "price": "~$86,990"
+      "price": "~$86,990",
+      "aspiration": "Electric"
     },
     "Jeep|Gladiator|2026|Rubicon": {
       "engine": "3.6L V6 Pentastar",
@@ -124,7 +130,8 @@
       "fx": 19.5,
       "acceleration": 9,
       "topSpeed": 178,
-      "price": "~$83,990"
+      "price": "~$83,990",
+      "aspiration": "NA"
     },
     "Jeep|Gladiator|2026|Sport S": {
       "engine": "3.6L V6 Pentastar",
@@ -142,7 +149,8 @@
       "fx": 18.8,
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$66,990"
+      "price": "~$66,990",
+      "aspiration": "NA"
     },
     "Jaguar|F-Type|2026|P300": {
       "engine": "2.0T Turbo",
@@ -160,7 +168,8 @@
       "fx": 13.8,
       "acceleration": 5.7,
       "topSpeed": 262,
-      "price": "~$112,990"
+      "price": "~$112,990",
+      "aspiration": "Turbo"
     },
     "Jaguar|F-Type|2026|R": {
       "engine": "5.0 SC V8",
@@ -178,7 +187,8 @@
       "fx": 19,
       "acceleration": 4.2,
       "topSpeed": 300,
-      "price": "~$174,990"
+      "price": "~$174,990",
+      "aspiration": "Supercharged"
     },
     "Jaguar|E-Pace|2026|P200": {
       "engine": "2.0T Turbo",
@@ -196,7 +206,8 @@
       "fx": 11.3,
       "acceleration": 8.6,
       "topSpeed": 208,
-      "price": "~$58,490"
+      "price": "~$58,490",
+      "aspiration": "Turbo"
     },
     "Jaguar|E-Pace|2026|P300": {
       "engine": "2.0T Turbo",
@@ -214,7 +225,8 @@
       "fx": 13.1,
       "acceleration": 7,
       "topSpeed": 230,
-      "price": "~$73,490"
+      "price": "~$73,490",
+      "aspiration": "Turbo"
     },
     "CUPRA|Formentor|2026|V1": {
       "engine": "1.5 TSI",
@@ -232,7 +244,8 @@
       "fx": 9.9,
       "acceleration": 8.5,
       "topSpeed": 222,
-      "price": "~$46,990"
+      "price": "~$46,990",
+      "aspiration": "Turbo"
     },
     "CUPRA|Formentor|2026|VZ": {
       "engine": "2.0 TSI",
@@ -250,7 +263,8 @@
       "fx": 12,
       "acceleration": 5.9,
       "topSpeed": 245,
-      "price": "~$56,990"
+      "price": "~$56,990",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Giulia|2026|Ti": {
       "engine": "2.0T Turbo",
@@ -268,7 +282,8 @@
       "fx": 10.4,
       "acceleration": 5.9,
       "topSpeed": 240,
-      "price": "~$81,900"
+      "price": "~$81,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Giulia|2026|Veloce": {
       "engine": "2.0T Turbo",
@@ -286,7 +301,8 @@
       "fx": 10.4,
       "acceleration": 5.9,
       "topSpeed": 240,
-      "price": "~$91,900"
+      "price": "~$91,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Stelvio|2026|Ti": {
       "engine": "2.0T Turbo",
@@ -304,7 +320,8 @@
       "fx": 11.3,
       "acceleration": 5.7,
       "topSpeed": 230,
-      "price": "~$74,900"
+      "price": "~$74,900",
+      "aspiration": "Turbo"
     },
     "Alfa Romeo|Stelvio|2026|Veloce": {
       "engine": "2.0T Turbo",
@@ -322,7 +339,8 @@
       "fx": 11.3,
       "acceleration": 5.7,
       "topSpeed": 230,
-      "price": "~$86,900"
+      "price": "~$86,900",
+      "aspiration": "Turbo"
     }
   }
 }

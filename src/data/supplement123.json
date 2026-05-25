@@ -17,7 +17,8 @@
       "acceleration": 4.3,
       "topSpeed": 250,
       "range": 88,
-      "price": "~$249,900"
+      "price": "~$249,900",
+      "aspiration": "Turbo"
     },
     "BMW|XM|2023|XM Label Red": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -36,7 +37,8 @@
       "acceleration": 3.8,
       "topSpeed": 250,
       "range": 88,
-      "price": "~$329,900"
+      "price": "~$329,900",
+      "aspiration": "Turbo"
     },
     "BMW|XM|2023|XM Label Gold": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -55,7 +57,8 @@
       "acceleration": 3.8,
       "topSpeed": 250,
       "range": 88,
-      "price": "~$369,900"
+      "price": "~$369,900",
+      "aspiration": "Turbo"
     },
     "BMW|XM|2024|XM": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -74,7 +77,8 @@
       "acceleration": 4.3,
       "topSpeed": 250,
       "range": 88,
-      "price": "~$254,900"
+      "price": "~$254,900",
+      "aspiration": "Turbo"
     },
     "BMW|XM|2024|XM Label Red": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -93,7 +97,8 @@
       "acceleration": 3.8,
       "topSpeed": 250,
       "range": 88,
-      "price": "~$334,900"
+      "price": "~$334,900",
+      "aspiration": "Turbo"
     },
     "BMW|XM|2024|XM Label Gold": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -112,7 +117,8 @@
       "acceleration": 3.8,
       "topSpeed": 250,
       "range": 88,
-      "price": "~$374,900"
+      "price": "~$374,900",
+      "aspiration": "Turbo"
     },
     "BMW|XM|2025|XM": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -131,7 +137,8 @@
       "acceleration": 4.3,
       "topSpeed": 250,
       "range": 88,
-      "price": "~$257,900"
+      "price": "~$257,900",
+      "aspiration": "Turbo"
     },
     "BMW|XM|2025|XM Label Red": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -150,7 +157,8 @@
       "acceleration": 3.8,
       "topSpeed": 250,
       "range": 88,
-      "price": "~$337,900"
+      "price": "~$337,900",
+      "aspiration": "Turbo"
     },
     "BMW|XM|2025|XM Label Gold": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -169,7 +177,8 @@
       "acceleration": 3.8,
       "topSpeed": 250,
       "range": 88,
-      "price": "~$377,900"
+      "price": "~$377,900",
+      "aspiration": "Turbo"
     },
     "BMW|XM|2026|XM": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -188,7 +197,8 @@
       "acceleration": 4.3,
       "topSpeed": 250,
       "range": 88,
-      "price": "~$260,900"
+      "price": "~$260,900",
+      "aspiration": "Turbo"
     },
     "BMW|XM|2026|XM Label Red": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -207,7 +217,8 @@
       "acceleration": 3.8,
       "topSpeed": 250,
       "range": 88,
-      "price": "~$340,900"
+      "price": "~$340,900",
+      "aspiration": "Turbo"
     },
     "BMW|XM|2026|XM Label Gold": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -226,7 +237,8 @@
       "acceleration": 3.8,
       "topSpeed": 250,
       "range": 88,
-      "price": "~$380,900"
+      "price": "~$380,900",
+      "aspiration": "Turbo"
     },
     "Lexus|TX|2024|TX 350": {
       "engine": "2.4L 4-cyl Turbo",
@@ -244,7 +256,8 @@
       "fx": null,
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$99,990"
+      "price": "~$99,990",
+      "aspiration": "Turbo"
     },
     "Lexus|TX|2024|TX 500h": {
       "engine": "2.4L 4-cyl Turbo Hybrid",
@@ -262,7 +275,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$114,990"
+      "price": "~$114,990",
+      "aspiration": "Turbo"
     },
     "Lexus|TX|2024|TX 550h+": {
       "engine": "2.4L 4-cyl Turbo PHEV",
@@ -281,7 +295,8 @@
       "acceleration": 5.9,
       "topSpeed": 200,
       "range": 84,
-      "price": "~$129,990"
+      "price": "~$129,990",
+      "aspiration": "Turbo"
     },
     "Lexus|TX|2025|TX 350": {
       "engine": "2.4L 4-cyl Turbo",
@@ -299,7 +314,8 @@
       "fx": null,
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$102,990"
+      "price": "~$102,990",
+      "aspiration": "Turbo"
     },
     "Lexus|TX|2025|TX 500h": {
       "engine": "2.4L 4-cyl Turbo Hybrid",
@@ -317,7 +333,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$117,990"
+      "price": "~$117,990",
+      "aspiration": "Turbo"
     },
     "Lexus|TX|2025|TX 550h+": {
       "engine": "2.4L 4-cyl Turbo PHEV",
@@ -336,7 +353,8 @@
       "acceleration": 5.9,
       "topSpeed": 200,
       "range": 84,
-      "price": "~$132,990"
+      "price": "~$132,990",
+      "aspiration": "Turbo"
     },
     "Lexus|TX|2026|TX 350": {
       "engine": "2.4L 4-cyl Turbo",
@@ -354,7 +372,8 @@
       "fx": null,
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$104,990"
+      "price": "~$104,990",
+      "aspiration": "Turbo"
     },
     "Lexus|TX|2026|TX 500h": {
       "engine": "2.4L 4-cyl Turbo Hybrid",
@@ -372,7 +391,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$119,990"
+      "price": "~$119,990",
+      "aspiration": "Turbo"
     },
     "Lexus|TX|2026|TX 550h+": {
       "engine": "2.4L 4-cyl Turbo PHEV",
@@ -391,7 +411,8 @@
       "acceleration": 5.9,
       "topSpeed": 200,
       "range": 84,
-      "price": "~$134,990"
+      "price": "~$134,990",
+      "aspiration": "Turbo"
     },
     "Lexus|GX|2024|GX 550": {
       "engine": "3.4L V6 Twin-Turbo",
@@ -409,7 +430,8 @@
       "fx": null,
       "acceleration": 6.7,
       "topSpeed": 210,
-      "price": "~$119,990"
+      "price": "~$119,990",
+      "aspiration": "Turbo"
     },
     "Lexus|GX|2025|GX 550": {
       "engine": "3.4L V6 Twin-Turbo",
@@ -427,7 +449,8 @@
       "fx": null,
       "acceleration": 6.7,
       "topSpeed": 210,
-      "price": "~$122,990"
+      "price": "~$122,990",
+      "aspiration": "Turbo"
     },
     "Lexus|GX|2026|GX 550": {
       "engine": "3.4L V6 Twin-Turbo",
@@ -445,7 +468,8 @@
       "fx": null,
       "acceleration": 6.7,
       "topSpeed": 210,
-      "price": "~$124,990"
+      "price": "~$124,990",
+      "aspiration": "Turbo"
     },
     "Porsche|Cayenne|2019|E-Hybrid": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -464,7 +488,8 @@
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
-      "price": "~$149,900"
+      "price": "~$149,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Cayenne|2019|E-Hybrid Coupe": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -483,7 +508,8 @@
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
-      "price": "~$156,900"
+      "price": "~$156,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Cayenne|2020|E-Hybrid": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -502,7 +528,8 @@
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
-      "price": "~$151,900"
+      "price": "~$151,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Cayenne|2020|E-Hybrid Coupe": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -521,7 +548,8 @@
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
-      "price": "~$158,900"
+      "price": "~$158,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Cayenne|2021|E-Hybrid": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -540,7 +568,8 @@
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
-      "price": "~$153,900"
+      "price": "~$153,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Cayenne|2021|E-Hybrid Coupe": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -559,7 +588,8 @@
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
-      "price": "~$160,900"
+      "price": "~$160,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Cayenne|2022|E-Hybrid": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -578,7 +608,8 @@
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
-      "price": "~$155,900"
+      "price": "~$155,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Cayenne|2022|E-Hybrid Coupe": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -597,7 +628,8 @@
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
-      "price": "~$162,900"
+      "price": "~$162,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Cayenne|2023|E-Hybrid": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -616,7 +648,8 @@
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
-      "price": "~$157,900"
+      "price": "~$157,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Cayenne|2023|E-Hybrid Coupe": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -635,7 +668,8 @@
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
-      "price": "~$164,900"
+      "price": "~$164,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Cayenne|2024|E-Hybrid": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -654,7 +688,8 @@
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
-      "price": "~$159,900"
+      "price": "~$159,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Cayenne|2024|E-Hybrid Coupe": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -673,7 +708,8 @@
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
-      "price": "~$166,900"
+      "price": "~$166,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Cayenne|2024|Turbo E-Hybrid": {
       "engine": "4.0L V8 TwinTurbo E-Hybrid",
@@ -692,7 +728,8 @@
       "acceleration": 3.7,
       "topSpeed": 295,
       "range": 42,
-      "price": "~$309,900"
+      "price": "~$309,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Cayenne|2025|E-Hybrid": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -711,7 +748,8 @@
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
-      "price": "~$161,900"
+      "price": "~$161,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Cayenne|2025|E-Hybrid Coupe": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -730,7 +768,8 @@
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
-      "price": "~$168,900"
+      "price": "~$168,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Cayenne|2025|Turbo E-Hybrid": {
       "engine": "4.0L V8 TwinTurbo E-Hybrid",
@@ -749,7 +788,8 @@
       "acceleration": 3.7,
       "topSpeed": 295,
       "range": 42,
-      "price": "~$311,900"
+      "price": "~$311,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Cayenne|2026|E-Hybrid": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -768,7 +808,8 @@
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
-      "price": "~$163,900"
+      "price": "~$163,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Cayenne|2026|E-Hybrid Coupe": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -787,7 +828,8 @@
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
-      "price": "~$170,900"
+      "price": "~$170,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Cayenne|2026|Turbo E-Hybrid": {
       "engine": "4.0L V8 TwinTurbo E-Hybrid",
@@ -806,7 +848,8 @@
       "acceleration": 3.7,
       "topSpeed": 295,
       "range": 42,
-      "price": "~$313,900"
+      "price": "~$313,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Panamera|2021|Turbo S E-Hybrid Sport Turismo": {
       "engine": "4.0L V8 TwinTurbo E-Hybrid Sport Turismo",
@@ -825,7 +868,8 @@
       "acceleration": 3.2,
       "topSpeed": 310,
       "range": 61,
-      "price": "~$399,900"
+      "price": "~$399,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Panamera|2022|Turbo S E-Hybrid Sport Turismo": {
       "engine": "4.0L V8 TwinTurbo E-Hybrid Sport Turismo",
@@ -844,7 +888,8 @@
       "acceleration": 3.2,
       "topSpeed": 310,
       "range": 61,
-      "price": "~$402,900"
+      "price": "~$402,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Panamera|2023|Turbo S E-Hybrid Sport Turismo": {
       "engine": "4.0L V8 TwinTurbo E-Hybrid Sport Turismo",
@@ -863,7 +908,8 @@
       "acceleration": 3.2,
       "topSpeed": 310,
       "range": 61,
-      "price": "~$405,900"
+      "price": "~$405,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Panamera|2024|Turbo S E-Hybrid Sport Turismo": {
       "engine": "4.0L V8 TwinTurbo E-Hybrid Sport Turismo",
@@ -882,7 +928,8 @@
       "acceleration": 3.2,
       "topSpeed": 310,
       "range": 61,
-      "price": "~$408,900"
+      "price": "~$408,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Panamera|2024|Panamera Turbo E-Hybrid": {
       "engine": "4.0L V8 TwinTurbo E-Hybrid",
@@ -901,7 +948,8 @@
       "acceleration": 3.2,
       "topSpeed": 315,
       "range": 68,
-      "price": "~$378,900"
+      "price": "~$378,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Panamera|2024|4 E-Hybrid": {
       "engine": "2.9L V6 TwinTurbo E-Hybrid",
@@ -920,7 +968,8 @@
       "acceleration": 3.7,
       "topSpeed": 294,
       "range": 68,
-      "price": "~$258,900"
+      "price": "~$258,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Panamera|2025|Turbo S E-Hybrid Sport Turismo": {
       "engine": "4.0L V8 TwinTurbo E-Hybrid Sport Turismo",
@@ -939,7 +988,8 @@
       "acceleration": 3.2,
       "topSpeed": 310,
       "range": 61,
-      "price": "~$411,900"
+      "price": "~$411,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Panamera|2025|Panamera Turbo E-Hybrid": {
       "engine": "4.0L V8 TwinTurbo E-Hybrid",
@@ -958,7 +1008,8 @@
       "acceleration": 3.2,
       "topSpeed": 315,
       "range": 68,
-      "price": "~$381,900"
+      "price": "~$381,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Panamera|2025|4 E-Hybrid": {
       "engine": "2.9L V6 TwinTurbo E-Hybrid",
@@ -977,7 +1028,8 @@
       "acceleration": 3.7,
       "topSpeed": 294,
       "range": 68,
-      "price": "~$261,900"
+      "price": "~$261,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Panamera|2026|Turbo S E-Hybrid Sport Turismo": {
       "engine": "4.0L V8 TwinTurbo E-Hybrid Sport Turismo",
@@ -996,7 +1048,8 @@
       "acceleration": 3.2,
       "topSpeed": 310,
       "range": 61,
-      "price": "~$414,900"
+      "price": "~$414,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Panamera|2026|Panamera Turbo E-Hybrid": {
       "engine": "4.0L V8 TwinTurbo E-Hybrid",
@@ -1015,7 +1068,8 @@
       "acceleration": 3.2,
       "topSpeed": 315,
       "range": 68,
-      "price": "~$384,900"
+      "price": "~$384,900",
+      "aspiration": "Turbo"
     },
     "Porsche|Panamera|2026|4 E-Hybrid": {
       "engine": "2.9L V6 TwinTurbo E-Hybrid",
@@ -1034,7 +1088,8 @@
       "acceleration": 3.7,
       "topSpeed": 294,
       "range": 68,
-      "price": "~$264,900"
+      "price": "~$264,900",
+      "aspiration": "Turbo"
     },
     "Volkswagen|ID.4|2022|Pro": {
       "engine": "Single Electric Motor",
@@ -1052,7 +1107,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 160,
-      "price": "~$69,990"
+      "price": "~$69,990",
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.4|2022|Pro 4MOTION": {
       "engine": "Dual Electric Motor 4MOTION",
@@ -1070,7 +1126,8 @@
       "fx": null,
       "acceleration": 6.2,
       "topSpeed": 180,
-      "price": "~$79,990"
+      "price": "~$79,990",
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.4|2022|GTX": {
       "engine": "Dual Electric Motor GTX 4MOTION",
@@ -1088,7 +1145,8 @@
       "fx": null,
       "acceleration": 5.2,
       "topSpeed": 180,
-      "price": "~$89,990"
+      "price": "~$89,990",
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.4|2023|Pro": {
       "engine": "Single Electric Motor",
@@ -1106,7 +1164,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 160,
-      "price": "~$71,990"
+      "price": "~$71,990",
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.4|2023|Pro 4MOTION": {
       "engine": "Dual Electric Motor 4MOTION",
@@ -1124,7 +1183,8 @@
       "fx": null,
       "acceleration": 6.2,
       "topSpeed": 180,
-      "price": "~$81,990"
+      "price": "~$81,990",
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.4|2023|GTX": {
       "engine": "Dual Electric Motor GTX 4MOTION",
@@ -1142,7 +1202,8 @@
       "fx": null,
       "acceleration": 5.2,
       "topSpeed": 180,
-      "price": "~$91,990"
+      "price": "~$91,990",
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.4|2024|Pro": {
       "engine": "Single Electric Motor",
@@ -1160,7 +1221,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 160,
-      "price": "~$73,990"
+      "price": "~$73,990",
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.4|2024|Pro 4MOTION": {
       "engine": "Dual Electric Motor 4MOTION",
@@ -1178,7 +1240,8 @@
       "fx": null,
       "acceleration": 6.2,
       "topSpeed": 180,
-      "price": "~$83,990"
+      "price": "~$83,990",
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.4|2024|GTX": {
       "engine": "Dual Electric Motor GTX 4MOTION",
@@ -1196,7 +1259,8 @@
       "fx": null,
       "acceleration": 5.2,
       "topSpeed": 180,
-      "price": "~$93,990"
+      "price": "~$93,990",
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.4|2025|Pro": {
       "engine": "Single Electric Motor",
@@ -1214,7 +1278,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 160,
-      "price": "~$75,990"
+      "price": "~$75,990",
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.4|2025|Pro 4MOTION": {
       "engine": "Dual Electric Motor 4MOTION",
@@ -1232,7 +1297,8 @@
       "fx": null,
       "acceleration": 6.2,
       "topSpeed": 180,
-      "price": "~$85,990"
+      "price": "~$85,990",
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.4|2025|GTX": {
       "engine": "Dual Electric Motor GTX 4MOTION",
@@ -1250,7 +1316,8 @@
       "fx": null,
       "acceleration": 5.2,
       "topSpeed": 180,
-      "price": "~$95,990"
+      "price": "~$95,990",
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.4|2026|Pro": {
       "engine": "Single Electric Motor",
@@ -1268,7 +1335,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 160,
-      "price": "~$77,990"
+      "price": "~$77,990",
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.4|2026|Pro 4MOTION": {
       "engine": "Dual Electric Motor 4MOTION",
@@ -1286,7 +1354,8 @@
       "fx": null,
       "acceleration": 6.2,
       "topSpeed": 180,
-      "price": "~$87,990"
+      "price": "~$87,990",
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.4|2026|GTX": {
       "engine": "Dual Electric Motor GTX 4MOTION",
@@ -1304,7 +1373,8 @@
       "fx": null,
       "acceleration": 5.2,
       "topSpeed": 180,
-      "price": "~$97,990"
+      "price": "~$97,990",
+      "aspiration": "Electric"
     },
     "Kia|EV9|2024|GT": {
       "engine": "Dual Electric Motor GT",
@@ -1322,7 +1392,8 @@
       "fx": null,
       "acceleration": 4.3,
       "topSpeed": 206,
-      "price": "~$109,990"
+      "price": "~$109,990",
+      "aspiration": "Electric"
     },
     "Kia|EV9|2025|GT": {
       "engine": "Dual Electric Motor GT",
@@ -1340,7 +1411,8 @@
       "fx": null,
       "acceleration": 4.3,
       "topSpeed": 206,
-      "price": "~$112,990"
+      "price": "~$112,990",
+      "aspiration": "Electric"
     },
     "Kia|EV9|2026|GT": {
       "engine": "Dual Electric Motor GT",
@@ -1358,7 +1430,8 @@
       "fx": null,
       "acceleration": 4.3,
       "topSpeed": 206,
-      "price": "~$114,990"
+      "price": "~$114,990",
+      "aspiration": "Electric"
     },
     "Mercedes-Benz|E-Class|2024|E300e": {
       "engine": "2.0L 4-cyl Turbo PHEV",
@@ -1377,7 +1450,8 @@
       "acceleration": 6.1,
       "topSpeed": 240,
       "range": 100,
-      "price": "~$129,900"
+      "price": "~$129,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|E-Class|2024|E400e 4MATIC": {
       "engine": "2.0L 4-cyl Turbo PHEV",
@@ -1396,7 +1470,8 @@
       "acceleration": 6.1,
       "topSpeed": 240,
       "range": 100,
-      "price": "~$144,900"
+      "price": "~$144,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|E-Class|2025|E300e": {
       "engine": "2.0L 4-cyl Turbo PHEV",
@@ -1415,7 +1490,8 @@
       "acceleration": 6.1,
       "topSpeed": 240,
       "range": 100,
-      "price": "~$132,900"
+      "price": "~$132,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|E-Class|2025|E400e 4MATIC": {
       "engine": "2.0L 4-cyl Turbo PHEV",
@@ -1434,7 +1510,8 @@
       "acceleration": 6.1,
       "topSpeed": 240,
       "range": 100,
-      "price": "~$147,900"
+      "price": "~$147,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|E-Class|2026|E300e": {
       "engine": "2.0L 4-cyl Turbo PHEV",
@@ -1453,7 +1530,8 @@
       "acceleration": 6.1,
       "topSpeed": 240,
       "range": 100,
-      "price": "~$134,900"
+      "price": "~$134,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|E-Class|2026|E400e 4MATIC": {
       "engine": "2.0L 4-cyl Turbo PHEV",
@@ -1472,7 +1550,8 @@
       "acceleration": 6.1,
       "topSpeed": 240,
       "range": 100,
-      "price": "~$149,900"
+      "price": "~$149,900",
+      "aspiration": "Turbo"
     },
     "Hyundai|Tucson|2021|Elite PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1491,7 +1570,8 @@
       "acceleration": 8.3,
       "topSpeed": 193,
       "range": 62,
-      "price": "~$56,990"
+      "price": "~$56,990",
+      "aspiration": "Turbo"
     },
     "Hyundai|Tucson|2021|Highlander PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1510,7 +1590,8 @@
       "acceleration": 8.3,
       "topSpeed": 193,
       "range": 62,
-      "price": "~$62,990"
+      "price": "~$62,990",
+      "aspiration": "Turbo"
     },
     "Hyundai|Tucson|2021|Active X": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1529,7 +1610,8 @@
       "acceleration": 8.3,
       "topSpeed": 193,
       "range": 62,
-      "price": "~$49,990"
+      "price": "~$49,990",
+      "aspiration": "Turbo"
     },
     "Hyundai|Tucson|2022|Elite PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1548,7 +1630,8 @@
       "acceleration": 8.3,
       "topSpeed": 193,
       "range": 62,
-      "price": "~$58,490"
+      "price": "~$58,490",
+      "aspiration": "Turbo"
     },
     "Hyundai|Tucson|2022|Highlander PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1567,7 +1650,8 @@
       "acceleration": 8.3,
       "topSpeed": 193,
       "range": 62,
-      "price": "~$64,490"
+      "price": "~$64,490",
+      "aspiration": "Turbo"
     },
     "Hyundai|Tucson|2023|Elite PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1586,7 +1670,8 @@
       "acceleration": 8.3,
       "topSpeed": 193,
       "range": 62,
-      "price": "~$59,990"
+      "price": "~$59,990",
+      "aspiration": "Turbo"
     },
     "Hyundai|Tucson|2023|Highlander PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1605,7 +1690,8 @@
       "acceleration": 8.3,
       "topSpeed": 193,
       "range": 62,
-      "price": "~$65,990"
+      "price": "~$65,990",
+      "aspiration": "Turbo"
     },
     "Hyundai|Tucson|2024|Elite PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1624,7 +1710,8 @@
       "acceleration": 8.3,
       "topSpeed": 193,
       "range": 62,
-      "price": "~$60,990"
+      "price": "~$60,990",
+      "aspiration": "Turbo"
     },
     "Hyundai|Tucson|2024|Highlander PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1643,7 +1730,8 @@
       "acceleration": 8.3,
       "topSpeed": 193,
       "range": 62,
-      "price": "~$66,990"
+      "price": "~$66,990",
+      "aspiration": "Turbo"
     },
     "Hyundai|Tucson|2025|Elite PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1662,7 +1750,8 @@
       "acceleration": 8.3,
       "topSpeed": 193,
       "range": 62,
-      "price": "~$61,990"
+      "price": "~$61,990",
+      "aspiration": "Turbo"
     },
     "Hyundai|Tucson|2025|Highlander PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1681,7 +1770,8 @@
       "acceleration": 8.3,
       "topSpeed": 193,
       "range": 62,
-      "price": "~$67,990"
+      "price": "~$67,990",
+      "aspiration": "Turbo"
     },
     "Hyundai|Tucson|2026|Elite PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1700,7 +1790,8 @@
       "acceleration": 8.3,
       "topSpeed": 193,
       "range": 62,
-      "price": "~$62,990"
+      "price": "~$62,990",
+      "aspiration": "Turbo"
     },
     "Hyundai|Tucson|2026|Highlander PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1719,7 +1810,8 @@
       "acceleration": 8.3,
       "topSpeed": 193,
       "range": 62,
-      "price": "~$68,990"
+      "price": "~$68,990",
+      "aspiration": "Turbo"
     },
     "Hyundai|Santa Fe|2022|Elite PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1738,7 +1830,8 @@
       "acceleration": 8.5,
       "topSpeed": 193,
       "range": 55,
-      "price": "~$64,990"
+      "price": "~$64,990",
+      "aspiration": "Turbo"
     },
     "Hyundai|Santa Fe|2022|Calligraphy PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1757,7 +1850,8 @@
       "acceleration": 8.5,
       "topSpeed": 193,
       "range": 55,
-      "price": "~$72,990"
+      "price": "~$72,990",
+      "aspiration": "Turbo"
     },
     "Hyundai|Santa Fe|2023|Elite PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1776,7 +1870,8 @@
       "acceleration": 8.5,
       "topSpeed": 193,
       "range": 55,
-      "price": "~$66,490"
+      "price": "~$66,490",
+      "aspiration": "Turbo"
     },
     "Hyundai|Santa Fe|2023|Calligraphy PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1795,7 +1890,8 @@
       "acceleration": 8.5,
       "topSpeed": 193,
       "range": 55,
-      "price": "~$74,490"
+      "price": "~$74,490",
+      "aspiration": "Turbo"
     },
     "Hyundai|Santa Fe|2024|Elite PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1814,7 +1910,8 @@
       "acceleration": 8.5,
       "topSpeed": 193,
       "range": 55,
-      "price": "~$67,990"
+      "price": "~$67,990",
+      "aspiration": "Turbo"
     },
     "Hyundai|Santa Fe|2024|Calligraphy PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1833,7 +1930,8 @@
       "acceleration": 8.5,
       "topSpeed": 193,
       "range": 55,
-      "price": "~$75,990"
+      "price": "~$75,990",
+      "aspiration": "Turbo"
     },
     "Hyundai|Santa Fe|2025|Elite PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1852,7 +1950,8 @@
       "acceleration": 8.5,
       "topSpeed": 193,
       "range": 55,
-      "price": "~$68,990"
+      "price": "~$68,990",
+      "aspiration": "Turbo"
     },
     "Hyundai|Santa Fe|2025|Calligraphy PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1871,7 +1970,8 @@
       "acceleration": 8.5,
       "topSpeed": 193,
       "range": 55,
-      "price": "~$76,990"
+      "price": "~$76,990",
+      "aspiration": "Turbo"
     },
     "Hyundai|Santa Fe|2026|Elite PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1890,7 +1990,8 @@
       "acceleration": 8.5,
       "topSpeed": 193,
       "range": 55,
-      "price": "~$69,990"
+      "price": "~$69,990",
+      "aspiration": "Turbo"
     },
     "Hyundai|Santa Fe|2026|Calligraphy PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1909,7 +2010,8 @@
       "acceleration": 8.5,
       "topSpeed": 193,
       "range": 55,
-      "price": "~$77,990"
+      "price": "~$77,990",
+      "aspiration": "Turbo"
     }
   }
 }

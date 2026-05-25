@@ -19,7 +19,8 @@
       "topSpeed": 240,
       "cargo": 290,
       "quarterMile": "~14.8 sec",
-      "price": "~$56,900"
+      "price": "~$56,900",
+      "aspiration": "Turbo"
     },
     "Genesis|G70|2019|3.3T Sport": {
       "engine": "3.3L V6 Twin Turbo",
@@ -40,7 +41,8 @@
       "topSpeed": 270,
       "cargo": 290,
       "quarterMile": "~13.3 sec",
-      "price": "~$69,900"
+      "price": "~$69,900",
+      "aspiration": "Turbo"
     },
     "Genesis|G70|2022|2.0T": {
       "engine": "2.0L I4 Twin Scroll Turbo",
@@ -61,7 +63,8 @@
       "topSpeed": 240,
       "cargo": 290,
       "quarterMile": "~14.8 sec",
-      "price": "~$59,900"
+      "price": "~$59,900",
+      "aspiration": "Turbo"
     },
     "Genesis|G70|2022|3.3T Sport": {
       "engine": "3.3L V6 Twin Turbo",
@@ -82,7 +85,8 @@
       "topSpeed": 270,
       "cargo": 290,
       "quarterMile": "~13.3 sec",
-      "price": "~$72,900"
+      "price": "~$72,900",
+      "aspiration": "Turbo"
     },
     "Genesis|G70|2025|2.0T": {
       "engine": "2.0L I4 Turbo",
@@ -103,7 +107,8 @@
       "topSpeed": 240,
       "cargo": 290,
       "quarterMile": "~14.8 sec",
-      "price": "~$62,900"
+      "price": "~$62,900",
+      "aspiration": "Turbo"
     },
     "Genesis|G70|2025|3.3T Sport": {
       "engine": "3.3L V6 Twin Turbo",
@@ -124,7 +129,8 @@
       "topSpeed": 270,
       "cargo": 290,
       "quarterMile": "~13.3 sec",
-      "price": "~$76,900"
+      "price": "~$76,900",
+      "aspiration": "Turbo"
     },
     "Genesis|G80|2017|2.0T": {
       "engine": "2.0L I4 Turbo",
@@ -145,7 +151,8 @@
       "topSpeed": 240,
       "cargo": 430,
       "quarterMile": "~15.2 sec",
-      "price": "~$66,900"
+      "price": "~$66,900",
+      "aspiration": "Turbo"
     },
     "Genesis|G80|2017|3.3T Sport": {
       "engine": "3.3L V6 Twin Turbo",
@@ -166,7 +173,8 @@
       "topSpeed": 270,
       "cargo": 430,
       "quarterMile": "~13.6 sec",
-      "price": "~$79,900"
+      "price": "~$79,900",
+      "aspiration": "Turbo"
     },
     "Genesis|G80|2017|5.0": {
       "engine": "5.0L V8 GDI",
@@ -187,7 +195,8 @@
       "topSpeed": 270,
       "cargo": 430,
       "quarterMile": "~13.7 sec",
-      "price": "~$89,900"
+      "price": "~$89,900",
+      "aspiration": "NA"
     },
     "Genesis|G80|2021|2.5T": {
       "engine": "2.5L I4 Twin Scroll Turbo",
@@ -208,7 +217,8 @@
       "topSpeed": 240,
       "cargo": 430,
       "quarterMile": "~14.3 sec",
-      "price": "~$79,900"
+      "price": "~$79,900",
+      "aspiration": "Turbo"
     },
     "Genesis|G80|2021|3.5T": {
       "engine": "3.5L V6 Twin Turbo",
@@ -229,7 +239,8 @@
       "topSpeed": 270,
       "cargo": 430,
       "quarterMile": "~13.4 sec",
-      "price": "~$94,900"
+      "price": "~$94,900",
+      "aspiration": "Turbo"
     },
     "Genesis|G80|2021|Electrified": {
       "engine": "Dual Motor Electric",
@@ -249,7 +260,8 @@
       "topSpeed": 225,
       "cargo": 430,
       "quarterMile": "~13.4 sec",
-      "price": "~$149,900"
+      "price": "~$149,900",
+      "aspiration": "Electric"
     },
     "Genesis|G80|2025|2.5T": {
       "engine": "2.5L I4 Twin Scroll Turbo",
@@ -270,7 +282,8 @@
       "topSpeed": 240,
       "cargo": 430,
       "quarterMile": "~14.3 sec",
-      "price": "~$84,900"
+      "price": "~$84,900",
+      "aspiration": "Turbo"
     },
     "Genesis|G80|2025|3.5T": {
       "engine": "3.5L V6 Twin Turbo",
@@ -291,7 +304,8 @@
       "topSpeed": 270,
       "cargo": 430,
       "quarterMile": "~13.4 sec",
-      "price": "~$99,900"
+      "price": "~$99,900",
+      "aspiration": "Turbo"
     },
     "Genesis|G80|2025|Electrified": {
       "engine": "Dual Motor Electric",
@@ -311,7 +325,8 @@
       "topSpeed": 225,
       "cargo": 430,
       "quarterMile": "~13.4 sec",
-      "price": "~$154,900"
+      "price": "~$154,900",
+      "aspiration": "Electric"
     },
     "Genesis|G90|2017|3.3T": {
       "engine": "3.3L V6 Twin Turbo",
@@ -332,7 +347,8 @@
       "topSpeed": 250,
       "cargo": 449,
       "quarterMile": "~14.1 sec",
-      "price": "~$119,900"
+      "price": "~$119,900",
+      "aspiration": "Turbo"
     },
     "Genesis|G90|2017|5.0": {
       "engine": "5.0L V8",
@@ -353,7 +369,8 @@
       "topSpeed": 260,
       "cargo": 449,
       "quarterMile": "~13.5 sec",
-      "price": "~$139,900"
+      "price": "~$139,900",
+      "aspiration": "NA"
     },
     "Genesis|G90|2023|3.5T": {
       "engine": "3.5L V6 Twin Turbo",
@@ -374,7 +391,8 @@
       "topSpeed": 250,
       "cargo": 449,
       "quarterMile": "~13.8 sec",
-      "price": "~$219,900"
+      "price": "~$219,900",
+      "aspiration": "Turbo"
     },
     "Genesis|G90|2023|3.5T e-AWD": {
       "engine": "3.5L V6 Twin Turbo AWD",
@@ -395,7 +413,8 @@
       "topSpeed": 250,
       "cargo": 449,
       "quarterMile": "~13.3 sec",
-      "price": "~$239,900"
+      "price": "~$239,900",
+      "aspiration": "Turbo"
     },
     "Genesis|G90|2025|3.5T": {
       "engine": "3.5L V6 Twin Turbo",
@@ -416,7 +435,8 @@
       "topSpeed": 250,
       "cargo": 449,
       "quarterMile": "~13.8 sec",
-      "price": "~$224,900"
+      "price": "~$224,900",
+      "aspiration": "Turbo"
     },
     "Genesis|G90|2025|3.5T e-AWD": {
       "engine": "3.5L V6 Twin Turbo AWD",
@@ -437,7 +457,8 @@
       "topSpeed": 250,
       "cargo": 449,
       "quarterMile": "~13.3 sec",
-      "price": "~$244,900"
+      "price": "~$244,900",
+      "aspiration": "Turbo"
     },
     "Genesis|GV70|2021|2.5T": {
       "engine": "2.5L I4 Twin Scroll Turbo",
@@ -458,7 +479,8 @@
       "topSpeed": 235,
       "cargo": 690,
       "quarterMile": "~14.4 sec",
-      "price": "~$64,900"
+      "price": "~$64,900",
+      "aspiration": "Turbo"
     },
     "Genesis|GV70|2021|3.5T": {
       "engine": "3.5L V6 Twin Turbo",
@@ -479,7 +501,8 @@
       "topSpeed": 258,
       "cargo": 690,
       "quarterMile": "~13.6 sec",
-      "price": "~$79,900"
+      "price": "~$79,900",
+      "aspiration": "Turbo"
     },
     "Genesis|GV70|2023|2.5T": {
       "engine": "2.5L I4 Twin Scroll Turbo",
@@ -500,7 +523,8 @@
       "topSpeed": 235,
       "cargo": 690,
       "quarterMile": "~14.4 sec",
-      "price": "~$67,900"
+      "price": "~$67,900",
+      "aspiration": "Turbo"
     },
     "Genesis|GV70|2023|3.5T": {
       "engine": "3.5L V6 Twin Turbo",
@@ -521,7 +545,8 @@
       "topSpeed": 258,
       "cargo": 690,
       "quarterMile": "~13.6 sec",
-      "price": "~$82,900"
+      "price": "~$82,900",
+      "aspiration": "Turbo"
     },
     "Genesis|GV70|2023|Electrified": {
       "engine": "Dual Motor Electric",
@@ -541,7 +566,8 @@
       "topSpeed": 235,
       "cargo": 690,
       "quarterMile": "~12.7 sec",
-      "price": "~$109,900"
+      "price": "~$109,900",
+      "aspiration": "Electric"
     },
     "Genesis|GV70|2025|2.5T": {
       "engine": "2.5L I4 Twin Scroll Turbo",
@@ -562,7 +588,8 @@
       "topSpeed": 235,
       "cargo": 690,
       "quarterMile": "~14.4 sec",
-      "price": "~$69,900"
+      "price": "~$69,900",
+      "aspiration": "Turbo"
     },
     "Genesis|GV70|2025|Electrified": {
       "engine": "Dual Motor Electric",
@@ -582,7 +609,8 @@
       "topSpeed": 235,
       "cargo": 690,
       "quarterMile": "~12.7 sec",
-      "price": "~$114,900"
+      "price": "~$114,900",
+      "aspiration": "Electric"
     },
     "Genesis|GV80|2021|2.5T": {
       "engine": "2.5L I4 Twin Scroll Turbo",
@@ -603,7 +631,8 @@
       "topSpeed": 220,
       "cargo": 719,
       "quarterMile": "~15.0 sec",
-      "price": "~$74,900"
+      "price": "~$74,900",
+      "aspiration": "Turbo"
     },
     "Genesis|GV80|2021|3.5T": {
       "engine": "3.5L V6 Twin Turbo",
@@ -624,7 +653,8 @@
       "topSpeed": 250,
       "cargo": 719,
       "quarterMile": "~13.8 sec",
-      "price": "~$89,900"
+      "price": "~$89,900",
+      "aspiration": "Turbo"
     },
     "Genesis|GV80|2024|2.5T": {
       "engine": "2.5L I4 Twin Scroll Turbo",
@@ -645,7 +675,8 @@
       "topSpeed": 220,
       "cargo": 719,
       "quarterMile": "~15.0 sec",
-      "price": "~$79,900"
+      "price": "~$79,900",
+      "aspiration": "Turbo"
     },
     "Genesis|GV80|2024|3.5T": {
       "engine": "3.5L V6 Twin Turbo",
@@ -666,7 +697,8 @@
       "topSpeed": 250,
       "cargo": 719,
       "quarterMile": "~13.8 sec",
-      "price": "~$94,900"
+      "price": "~$94,900",
+      "aspiration": "Turbo"
     },
     "Genesis|GV80|2024|Electrified": {
       "engine": "Dual Motor Electric",
@@ -686,7 +718,8 @@
       "topSpeed": 200,
       "cargo": 719,
       "quarterMile": "~13.6 sec",
-      "price": "~$129,900"
+      "price": "~$129,900",
+      "aspiration": "Electric"
     },
     "Genesis|G80|2019|2.0T": {
       "engine": "2.0L I4 Turbo",
@@ -707,7 +740,8 @@
       "topSpeed": 240,
       "cargo": 430,
       "quarterMile": "~15.2 sec",
-      "price": "~$67,900"
+      "price": "~$67,900",
+      "aspiration": "Turbo"
     },
     "Genesis|G80|2019|3.3T Sport": {
       "engine": "3.3L V6 Twin Turbo",
@@ -728,7 +762,8 @@
       "topSpeed": 270,
       "cargo": 430,
       "quarterMile": "~13.6 sec",
-      "price": "~$80,900"
+      "price": "~$80,900",
+      "aspiration": "Turbo"
     },
     "Genesis|G80|2019|5.0": {
       "engine": "5.0L V8 GDI",
@@ -749,7 +784,8 @@
       "topSpeed": 270,
       "cargo": 430,
       "quarterMile": "~13.7 sec",
-      "price": "~$90,900"
+      "price": "~$90,900",
+      "aspiration": "NA"
     },
     "Genesis|G90|2020|3.3T": {
       "engine": "3.3L V6 Twin Turbo",
@@ -770,7 +806,8 @@
       "topSpeed": 250,
       "cargo": 449,
       "quarterMile": "~14.1 sec",
-      "price": "~$124,900"
+      "price": "~$124,900",
+      "aspiration": "Turbo"
     },
     "Genesis|G90|2020|5.0": {
       "engine": "5.0L V8",
@@ -791,7 +828,8 @@
       "topSpeed": 260,
       "cargo": 449,
       "quarterMile": "~13.5 sec",
-      "price": "~$144,900"
+      "price": "~$144,900",
+      "aspiration": "NA"
     }
   }
 }

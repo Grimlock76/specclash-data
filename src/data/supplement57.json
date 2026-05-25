@@ -18,7 +18,8 @@
       "topSpeed": 209,
       "cargo": 425,
       "quarterMile": "~14.0 sec",
-      "price": "~$51,700"
+      "price": "~$51,700",
+      "aspiration": "Electric"
     },
     "Tesla|Model 3|2017|Long Range": {
       "engine": "Dual Motor Electric",
@@ -38,7 +39,8 @@
       "topSpeed": 209,
       "cargo": 425,
       "quarterMile": "~12.9 sec",
-      "price": "~$60,700"
+      "price": "~$60,700",
+      "aspiration": "Electric"
     },
     "Tesla|Model 3|2017|Performance": {
       "engine": "Dual Motor Electric Performance",
@@ -58,7 +60,8 @@
       "topSpeed": 250,
       "cargo": 425,
       "quarterMile": "~11.8 sec",
-      "price": "~$72,700"
+      "price": "~$72,700",
+      "aspiration": "Electric"
     },
     "Tesla|Model 3|2021|Standard Range RWD": {
       "engine": "Single Motor Electric",
@@ -78,7 +81,8 @@
       "topSpeed": 225,
       "cargo": 425,
       "quarterMile": "~14.2 sec",
-      "price": "~$56,900"
+      "price": "~$56,900",
+      "aspiration": "Electric"
     },
     "Tesla|Model 3|2021|Long Range AWD": {
       "engine": "Dual Motor Electric",
@@ -98,7 +102,8 @@
       "topSpeed": 233,
       "cargo": 425,
       "quarterMile": "~12.6 sec",
-      "price": "~$66,900"
+      "price": "~$66,900",
+      "aspiration": "Electric"
     },
     "Tesla|Model 3|2021|Performance": {
       "engine": "Dual Motor Electric Performance",
@@ -118,7 +123,8 @@
       "topSpeed": 261,
       "cargo": 425,
       "quarterMile": "~11.5 sec",
-      "price": "~$78,900"
+      "price": "~$78,900",
+      "aspiration": "Electric"
     },
     "Tesla|Model 3|2024|RWD": {
       "engine": "Single Motor Electric",
@@ -138,7 +144,8 @@
       "topSpeed": 201,
       "cargo": 594,
       "quarterMile": "~14.4 sec",
-      "price": "~$59,900"
+      "price": "~$59,900",
+      "aspiration": "Electric"
     },
     "Tesla|Model 3|2024|Long Range AWD": {
       "engine": "Dual Motor Electric",
@@ -158,7 +165,8 @@
       "topSpeed": 201,
       "cargo": 594,
       "quarterMile": "~12.9 sec",
-      "price": "~$69,900"
+      "price": "~$69,900",
+      "aspiration": "Electric"
     },
     "Tesla|Model 3|2024|Performance": {
       "engine": "Dual Motor Electric Performance",
@@ -178,7 +186,8 @@
       "topSpeed": 262,
       "cargo": 594,
       "quarterMile": "~11.5 sec",
-      "price": "~$84,900"
+      "price": "~$84,900",
+      "aspiration": "Electric"
     },
     "Tesla|Model Y|2020|Long Range AWD": {
       "engine": "Dual Motor Electric",
@@ -198,7 +207,8 @@
       "topSpeed": 217,
       "cargo": 1926,
       "quarterMile": "~13.5 sec",
-      "price": "~$74,900"
+      "price": "~$74,900",
+      "aspiration": "Electric"
     },
     "Tesla|Model Y|2020|Performance": {
       "engine": "Dual Motor Electric Performance",
@@ -218,7 +228,8 @@
       "topSpeed": 250,
       "cargo": 1926,
       "quarterMile": "~12.2 sec",
-      "price": "~$84,900"
+      "price": "~$84,900",
+      "aspiration": "Electric"
     },
     "Tesla|Model Y|2022|Rear-Wheel Drive": {
       "engine": "Single Motor Electric",
@@ -238,7 +249,8 @@
       "topSpeed": 217,
       "cargo": 1926,
       "quarterMile": "~15.1 sec",
-      "price": "~$67,900"
+      "price": "~$67,900",
+      "aspiration": "Electric"
     },
     "Tesla|Model Y|2022|Long Range AWD": {
       "engine": "Dual Motor Electric",
@@ -258,7 +270,8 @@
       "topSpeed": 217,
       "cargo": 1926,
       "quarterMile": "~13.5 sec",
-      "price": "~$78,900"
+      "price": "~$78,900",
+      "aspiration": "Electric"
     },
     "Tesla|Model Y|2022|Performance": {
       "engine": "Dual Motor Electric Performance",
@@ -278,7 +291,8 @@
       "topSpeed": 250,
       "cargo": 1926,
       "quarterMile": "~12.2 sec",
-      "price": "~$89,900"
+      "price": "~$89,900",
+      "aspiration": "Electric"
     },
     "Tesla|Model Y|2025|Rear-Wheel Drive": {
       "engine": "Single Motor Electric",
@@ -298,7 +312,8 @@
       "topSpeed": 201,
       "cargo": 1926,
       "quarterMile": "~15.1 sec",
-      "price": "~$65,900"
+      "price": "~$65,900",
+      "aspiration": "Electric"
     },
     "Tesla|Model Y|2025|Long Range AWD": {
       "engine": "Dual Motor Electric",
@@ -318,7 +333,8 @@
       "topSpeed": 217,
       "cargo": 1926,
       "quarterMile": "~13.4 sec",
-      "price": "~$76,900"
+      "price": "~$76,900",
+      "aspiration": "Electric"
     },
     "Tesla|Model Y|2025|Performance": {
       "engine": "Dual Motor Electric Performance",
@@ -338,7 +354,8 @@
       "topSpeed": 250,
       "cargo": 1926,
       "quarterMile": "~12.2 sec",
-      "price": "~$87,900"
+      "price": "~$87,900",
+      "aspiration": "Electric"
     },
     "Tesla|Model S|2013|Base": {
       "engine": "Single Motor Electric",
@@ -358,7 +375,8 @@
       "topSpeed": 193,
       "cargo": 744,
       "quarterMile": "~14.2 sec",
-      "price": "~$119,990"
+      "price": "~$119,990",
+      "aspiration": "Electric"
     },
     "Tesla|Model S|2013|Performance": {
       "engine": "Single Motor Electric Performance",
@@ -378,7 +396,8 @@
       "topSpeed": 209,
       "cargo": 744,
       "quarterMile": "~12.9 sec",
-      "price": "~$149,990"
+      "price": "~$149,990",
+      "aspiration": "Electric"
     },
     "Tesla|Model S|2016|75D": {
       "engine": "Dual Motor Electric",
@@ -398,7 +417,8 @@
       "topSpeed": 210,
       "cargo": 744,
       "quarterMile": "~13.6 sec",
-      "price": "~$124,990"
+      "price": "~$124,990",
+      "aspiration": "Electric"
     },
     "Tesla|Model S|2016|P100D": {
       "engine": "Dual Motor Electric Performance",
@@ -418,7 +438,8 @@
       "topSpeed": 250,
       "cargo": 744,
       "quarterMile": "~10.9 sec",
-      "price": "~$214,990"
+      "price": "~$214,990",
+      "aspiration": "Electric"
     },
     "Tesla|Model S|2020|Long Range": {
       "engine": "Dual Motor Electric",
@@ -438,7 +459,8 @@
       "topSpeed": 250,
       "cargo": 744,
       "quarterMile": "~12.2 sec",
-      "price": "~$139,990"
+      "price": "~$139,990",
+      "aspiration": "Electric"
     },
     "Tesla|Model S|2020|Plaid": {
       "engine": "Tri Motor Electric",
@@ -458,7 +480,8 @@
       "topSpeed": 322,
       "cargo": 744,
       "quarterMile": "~9.2 sec",
-      "price": "~$184,990"
+      "price": "~$184,990",
+      "aspiration": "Electric"
     },
     "Tesla|Model S|2024|Long Range": {
       "engine": "Dual Motor Electric",
@@ -478,7 +501,8 @@
       "topSpeed": 250,
       "cargo": 744,
       "quarterMile": "~12.2 sec",
-      "price": "~$144,990"
+      "price": "~$144,990",
+      "aspiration": "Electric"
     },
     "Tesla|Model S|2024|Plaid": {
       "engine": "Tri Motor Electric",
@@ -498,7 +522,8 @@
       "topSpeed": 322,
       "cargo": 744,
       "quarterMile": "~9.2 sec",
-      "price": "~$189,990"
+      "price": "~$189,990",
+      "aspiration": "Electric"
     },
     "Tesla|Model X|2016|75D": {
       "engine": "Dual Motor Electric",
@@ -518,7 +543,8 @@
       "topSpeed": 209,
       "cargo": 2830,
       "quarterMile": "~14.3 sec",
-      "price": "~$134,990"
+      "price": "~$134,990",
+      "aspiration": "Electric"
     },
     "Tesla|Model X|2016|P100D": {
       "engine": "Dual Motor Electric Performance",
@@ -538,7 +564,8 @@
       "topSpeed": 250,
       "cargo": 2830,
       "quarterMile": "~11.5 sec",
-      "price": "~$224,990"
+      "price": "~$224,990",
+      "aspiration": "Electric"
     },
     "Tesla|Model X|2020|Long Range": {
       "engine": "Dual Motor Electric",
@@ -558,7 +585,8 @@
       "topSpeed": 250,
       "cargo": 2830,
       "quarterMile": "~12.9 sec",
-      "price": "~$149,990"
+      "price": "~$149,990",
+      "aspiration": "Electric"
     },
     "Tesla|Model X|2020|Plaid": {
       "engine": "Tri Motor Electric",
@@ -578,7 +606,8 @@
       "topSpeed": 262,
       "cargo": 2830,
       "quarterMile": "~10.8 sec",
-      "price": "~$199,990"
+      "price": "~$199,990",
+      "aspiration": "Electric"
     },
     "Tesla|Model X|2024|Long Range": {
       "engine": "Dual Motor Electric",
@@ -598,7 +627,8 @@
       "topSpeed": 250,
       "cargo": 2830,
       "quarterMile": "~12.9 sec",
-      "price": "~$154,990"
+      "price": "~$154,990",
+      "aspiration": "Electric"
     },
     "Tesla|Model X|2024|Plaid": {
       "engine": "Tri Motor Electric",
@@ -618,7 +648,8 @@
       "topSpeed": 262,
       "cargo": 2830,
       "quarterMile": "~10.8 sec",
-      "price": "~$209,990"
+      "price": "~$209,990",
+      "aspiration": "Electric"
     },
     "Tesla|Cybertruck|2024|RWD": {
       "engine": "Single Motor Electric",
@@ -638,7 +669,8 @@
       "topSpeed": 177,
       "cargo": 1130,
       "quarterMile": "~14.8 sec",
-      "price": "~$99,990"
+      "price": "~$99,990",
+      "aspiration": "Electric"
     },
     "Tesla|Cybertruck|2024|AWD": {
       "engine": "Dual Motor Electric",
@@ -658,7 +690,8 @@
       "topSpeed": 193,
       "cargo": 1130,
       "quarterMile": "~12.5 sec",
-      "price": "~$119,990"
+      "price": "~$119,990",
+      "aspiration": "Electric"
     },
     "Tesla|Cybertruck|2024|Cyberbeast": {
       "engine": "Tri Motor Electric",
@@ -678,7 +711,8 @@
       "topSpeed": 210,
       "cargo": 1130,
       "quarterMile": "~10.8 sec",
-      "price": "~$149,990"
+      "price": "~$149,990",
+      "aspiration": "Electric"
     },
     "Tesla|Model 3|2020|Standard Range": {
       "engine": "Single Motor Electric",
@@ -697,7 +731,8 @@
       "acceleration": 4.5,
       "topSpeed": 200,
       "cargo": 594,
-      "price": "~$55,900"
+      "price": "~$55,900",
+      "aspiration": "Electric"
     },
     "Tesla|Model 3|2020|Long Range": {
       "engine": "Dual Motor Electric",
@@ -716,7 +751,8 @@
       "acceleration": 3.2,
       "topSpeed": 200,
       "cargo": 594,
-      "price": "~$65,900"
+      "price": "~$65,900",
+      "aspiration": "Electric"
     },
     "Tesla|Model S|2018|75D": {
       "engine": "Dual Motor Electric",
@@ -735,7 +771,8 @@
       "acceleration": 3.4,
       "topSpeed": 200,
       "cargo": 744,
-      "price": "~$129,990"
+      "price": "~$129,990",
+      "aspiration": "Electric"
     },
     "Tesla|Model S|2018|P100D": {
       "engine": "Dual Motor Electric Performance",
@@ -754,7 +791,8 @@
       "acceleration": 2.5,
       "topSpeed": 200,
       "cargo": 744,
-      "price": "~$224,990"
+      "price": "~$224,990",
+      "aspiration": "Electric"
     },
     "Tesla|Model X|2018|75D": {
       "engine": "Dual Motor Electric",
@@ -773,7 +811,8 @@
       "acceleration": 3.5,
       "topSpeed": 200,
       "cargo": 2830,
-      "price": "~$139,990"
+      "price": "~$139,990",
+      "aspiration": "Electric"
     },
     "Tesla|Model X|2018|P100D": {
       "engine": "Dual Motor Electric Performance",
@@ -792,7 +831,8 @@
       "acceleration": 2.5,
       "topSpeed": 200,
       "cargo": 2830,
-      "price": "~$229,990"
+      "price": "~$229,990",
+      "aspiration": "Electric"
     }
   }
 }

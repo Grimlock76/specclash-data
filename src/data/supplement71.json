@@ -18,7 +18,8 @@
       "wt": "1,520 kg",
       "se": "4",
       "ca": "240 L",
-      "pr": "~Â¥4,690,000"
+      "pr": "~Â¥4,690,000",
+      "aspiration": "NA"
     },
     "Toyota|Supra|2000|RZ Turbo": {
       "en": "2JZ-GTE 3.0L DOHC Twin Turbo",
@@ -38,7 +39,8 @@
       "wt": "1,570 kg",
       "se": "4",
       "ca": "240 L",
-      "pr": "~Â¥5,820,000"
+      "pr": "~Â¥5,820,000",
+      "aspiration": "Turbo"
     },
     "Nissan|350Z|2004|Enthusiast": {
       "en": "VQ35DE 3.5L V6 DOHC 24V",
@@ -58,7 +60,8 @@
       "wt": "1,470 kg",
       "se": "2",
       "ca": "197 L",
-      "pr": "~$26,500 USD"
+      "pr": "~$26,500 USD",
+      "aspiration": "NA"
     },
     "Nissan|350Z|2004|Touring": {
       "en": "VQ35DE 3.5L V6 DOHC 24V",
@@ -78,7 +81,8 @@
       "wt": "1,490 kg",
       "se": "2",
       "ca": "197 L",
-      "pr": "~$31,200 USD"
+      "pr": "~$31,200 USD",
+      "aspiration": "NA"
     },
     "Nissan|350Z|2004|Roadster": {
       "en": "VQ35DE 3.5L V6 DOHC 24V",
@@ -98,7 +102,8 @@
       "wt": "1,545 kg",
       "se": "2",
       "ca": "167 L",
-      "pr": "~$34,800 USD"
+      "pr": "~$34,800 USD",
+      "aspiration": "NA"
     },
     "Nissan|350Z|2007|Enthusiast": {
       "en": "VQ35HR 3.5L V6 DOHC 24V",
@@ -118,7 +123,8 @@
       "wt": "1,470 kg",
       "se": "2",
       "ca": "197 L",
-      "pr": "~$29,000 USD"
+      "pr": "~$29,000 USD",
+      "aspiration": "NA"
     },
     "Nissan|350Z|2007|Touring": {
       "en": "VQ35HR 3.5L V6 DOHC 24V",
@@ -138,7 +144,8 @@
       "wt": "1,490 kg",
       "se": "2",
       "ca": "197 L",
-      "pr": "~$34,500 USD"
+      "pr": "~$34,500 USD",
+      "aspiration": "NA"
     },
     "Nissan|350Z|2007|NISMO": {
       "en": "VQ35HR 3.5L V6 DOHC S-Tune",
@@ -158,7 +165,8 @@
       "wt": "1,402 kg",
       "se": "2",
       "ca": "197 L",
-      "pr": "~$44,000 USD"
+      "pr": "~$44,000 USD",
+      "aspiration": "NA"
     },
     "Nissan|350Z|2007|Roadster": {
       "en": "VQ35HR 3.5L V6 DOHC 24V",
@@ -178,7 +186,8 @@
       "wt": "1,545 kg",
       "se": "2",
       "ca": "167 L",
-      "pr": "~$37,500 USD"
+      "pr": "~$37,500 USD",
+      "aspiration": "NA"
     },
     "Dodge|Challenger|2009|SE": {
       "en": "3.5L V6 EER HO",
@@ -198,7 +207,8 @@
       "wt": "1,936 kg",
       "se": "5",
       "ca": "459 L",
-      "pr": "~$24,495 USD"
+      "pr": "~$24,495 USD",
+      "aspiration": "NA"
     },
     "Dodge|Challenger|2009|R/T": {
       "en": "5.7L HEMI V8 MDS",
@@ -218,7 +228,8 @@
       "wt": "1,971 kg",
       "se": "5",
       "ca": "459 L",
-      "pr": "~$30,595 USD"
+      "pr": "~$30,595 USD",
+      "aspiration": "NA"
     },
     "Dodge|Challenger|2009|SRT8": {
       "en": "6.1L HEMI SRT V8",
@@ -238,7 +249,8 @@
       "wt": "1,999 kg",
       "se": "5",
       "ca": "459 L",
-      "pr": "~$40,095 USD"
+      "pr": "~$40,095 USD",
+      "aspiration": "NA"
     },
     "Dodge|Challenger|2015|SXT": {
       "en": "3.6L Pentastar V6",
@@ -258,7 +270,8 @@
       "wt": "1,945 kg",
       "se": "5",
       "ca": "459 L",
-      "pr": "~$27,995 USD"
+      "pr": "~$27,995 USD",
+      "aspiration": "NA"
     },
     "Dodge|Challenger|2015|R/T": {
       "en": "5.7L HEMI V8 MDS",
@@ -278,7 +291,8 @@
       "wt": "1,990 kg",
       "se": "5",
       "ca": "459 L",
-      "pr": "~$33,995 USD"
+      "pr": "~$33,995 USD",
+      "aspiration": "NA"
     },
     "Dodge|Challenger|2015|SRT 392": {
       "en": "6.4L HEMI 392 V8",
@@ -298,7 +312,8 @@
       "wt": "2,010 kg",
       "se": "5",
       "ca": "459 L",
-      "pr": "~$46,995 USD"
+      "pr": "~$46,995 USD",
+      "aspiration": "NA"
     },
     "Dodge|Challenger|2015|Hellcat": {
       "en": "6.2L HEMI Hellcat Supercharged V8",
@@ -318,7 +333,8 @@
       "wt": "2,072 kg",
       "se": "5",
       "ca": "459 L",
-      "pr": "~$59,995 USD"
+      "pr": "~$59,995 USD",
+      "aspiration": "Supercharged"
     },
     "Dodge|Challenger|2019|Hellcat Redeye": {
       "en": "6.2L HEMI Hellcat Redeye Supercharged V8",
@@ -338,7 +354,8 @@
       "wt": "2,101 kg",
       "se": "5",
       "ca": "459 L",
-      "pr": "~$69,995 USD"
+      "pr": "~$69,995 USD",
+      "aspiration": "Supercharged"
     },
     "Dodge|Challenger|2019|Scat Pack": {
       "en": "6.4L HEMI 392 V8",
@@ -358,7 +375,8 @@
       "wt": "2,017 kg",
       "se": "5",
       "ca": "459 L",
-      "pr": "~$41,995 USD"
+      "pr": "~$41,995 USD",
+      "aspiration": "NA"
     },
     "Dodge|Charger|2006|SXT": {
       "en": "3.5L V6 HO EER",
@@ -378,7 +396,8 @@
       "wt": "1,750 kg",
       "se": "5",
       "ca": "465 L",
-      "pr": "~$24,895 USD"
+      "pr": "~$24,895 USD",
+      "aspiration": "NA"
     },
     "Dodge|Charger|2006|R/T": {
       "en": "5.7L HEMI V8 MDS",
@@ -398,7 +417,8 @@
       "wt": "1,828 kg",
       "se": "5",
       "ca": "465 L",
-      "pr": "~$30,395 USD"
+      "pr": "~$30,395 USD",
+      "aspiration": "NA"
     },
     "Dodge|Charger|2006|SRT8": {
       "en": "6.1L HEMI SRT V8",
@@ -418,7 +438,8 @@
       "wt": "1,911 kg",
       "se": "5",
       "ca": "465 L",
-      "pr": "~$36,895 USD"
+      "pr": "~$36,895 USD",
+      "aspiration": "NA"
     },
     "Dodge|Charger|2015|SXT": {
       "en": "3.6L Pentastar V6",
@@ -438,7 +459,8 @@
       "wt": "1,762 kg",
       "se": "5",
       "ca": "465 L",
-      "pr": "~$28,995 USD"
+      "pr": "~$28,995 USD",
+      "aspiration": "NA"
     },
     "Dodge|Charger|2015|R/T": {
       "en": "5.7L HEMI V8 MDS",
@@ -458,7 +480,8 @@
       "wt": "1,852 kg",
       "se": "5",
       "ca": "465 L",
-      "pr": "~$34,995 USD"
+      "pr": "~$34,995 USD",
+      "aspiration": "NA"
     },
     "Dodge|Charger|2015|Scat Pack": {
       "en": "6.4L HEMI 392 V8",
@@ -478,7 +501,8 @@
       "wt": "1,915 kg",
       "se": "5",
       "ca": "465 L",
-      "pr": "~$43,995 USD"
+      "pr": "~$43,995 USD",
+      "aspiration": "NA"
     },
     "Dodge|Charger|2015|Hellcat": {
       "en": "6.2L HEMI Hellcat Supercharged V8",
@@ -498,7 +522,8 @@
       "wt": "1,950 kg",
       "se": "5",
       "ca": "465 L",
-      "pr": "~$64,495 USD"
+      "pr": "~$64,495 USD",
+      "aspiration": "Supercharged"
     },
     "Dodge|Charger|2020|Hellcat Redeye": {
       "en": "6.2L HEMI Hellcat Redeye Supercharged V8",
@@ -518,7 +543,8 @@
       "wt": "1,988 kg",
       "se": "5",
       "ca": "465 L",
-      "pr": "~$79,995 USD"
+      "pr": "~$79,995 USD",
+      "aspiration": "Supercharged"
     },
     "Dodge|Viper|1993|RT/10": {
       "en": "8.0L V10 OHV",
@@ -538,7 +564,8 @@
       "wt": "1,570 kg",
       "se": "2",
       "ca": "â€”",
-      "pr": "~$50,700 USD"
+      "pr": "~$50,700 USD",
+      "aspiration": "NA"
     },
     "Dodge|Viper|1997|GTS": {
       "en": "8.0L V10 OHV (revised)",
@@ -558,7 +585,8 @@
       "wt": "1,560 kg",
       "se": "2",
       "ca": "â€”",
-      "pr": "~$66,700 USD"
+      "pr": "~$66,700 USD",
+      "aspiration": "NA"
     },
     "Dodge|Viper|2003|SRT-10": {
       "en": "8.3L V10 OHV",
@@ -578,7 +606,8 @@
       "wt": "1,545 kg",
       "se": "2",
       "ca": "â€”",
-      "pr": "~$80,000 USD"
+      "pr": "~$80,000 USD",
+      "aspiration": "NA"
     },
     "Dodge|Viper|2008|SRT-10 ACR": {
       "en": "8.4L V10 OHV",
@@ -598,7 +627,8 @@
       "wt": "1,531 kg",
       "se": "2",
       "ca": "â€”",
-      "pr": "~$94,800 USD"
+      "pr": "~$94,800 USD",
+      "aspiration": "NA"
     },
     "Dodge|Viper|2013|GTS": {
       "en": "8.4L V10 OHV",
@@ -618,7 +648,8 @@
       "wt": "1,521 kg",
       "se": "2",
       "ca": "â€”",
-      "pr": "~$97,395 USD"
+      "pr": "~$97,395 USD",
+      "aspiration": "NA"
     },
     "Dodge|Viper|2016|ACR": {
       "en": "8.4L V10 OHV",
@@ -638,7 +669,8 @@
       "wt": "1,521 kg",
       "se": "2",
       "ca": "â€”",
-      "pr": "~$118,795 USD"
+      "pr": "~$118,795 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1997|Base": {
       "en": "LS1 5.7L V8 OHV",
@@ -658,7 +690,8 @@
       "wt": "1,460 kg",
       "se": "2",
       "ca": "â€”",
-      "pr": "~$37,495 USD"
+      "pr": "~$37,495 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|2001|Z06": {
       "en": "LS6 5.7L V8 OHV",
@@ -678,7 +711,8 @@
       "wt": "1,421 kg",
       "se": "2",
       "ca": "â€”",
-      "pr": "~$47,500 USD"
+      "pr": "~$47,500 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|2006|Z06": {
       "en": "LS7 7.0L V8 OHV",
@@ -698,7 +732,8 @@
       "wt": "1,421 kg",
       "se": "2",
       "ca": "â€”",
-      "pr": "~$65,800 USD"
+      "pr": "~$65,800 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|2009|ZR1": {
       "en": "LS9 6.2L Supercharged V8 OHV",
@@ -718,7 +753,8 @@
       "wt": "1,539 kg",
       "se": "2",
       "ca": "â€”",
-      "pr": "~$103,300 USD"
+      "pr": "~$103,300 USD",
+      "aspiration": "Supercharged"
     },
     "Chevrolet|Corvette|2014|Stingray": {
       "en": "LT1 6.2L V8 DI OHV",
@@ -738,7 +774,8 @@
       "wt": "1,531 kg",
       "se": "2",
       "ca": "172 L",
-      "pr": "~$51,995 USD"
+      "pr": "~$51,995 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|2015|Z06": {
       "en": "LT4 6.2L Supercharged V8 DI OHV",
@@ -758,7 +795,8 @@
       "wt": "1,593 kg",
       "se": "2",
       "ca": "172 L",
-      "pr": "~$78,995 USD"
+      "pr": "~$78,995 USD",
+      "aspiration": "Supercharged"
     },
     "Chevrolet|Corvette|2019|ZR1": {
       "en": "LT5 6.2L Supercharged V8 DI OHV",
@@ -778,7 +816,8 @@
       "wt": "1,620 kg",
       "se": "2",
       "ca": "172 L",
-      "pr": "~$119,995 USD"
+      "pr": "~$119,995 USD",
+      "aspiration": "Supercharged"
     },
     "Chevrolet|Corvette|2020|Stingray": {
       "en": "LT2 6.2L V8 DI OHV (mid-engine)",
@@ -798,7 +837,8 @@
       "wt": "1,527 kg",
       "se": "2",
       "ca": "357 L",
-      "pr": "~$58,900 USD"
+      "pr": "~$58,900 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|2023|Z06": {
       "en": "LT6 5.5L Flat-Plane V8 DOHC",
@@ -818,7 +858,8 @@
       "wt": "1,571 kg",
       "se": "2",
       "ca": "357 L",
-      "pr": "~$106,395 USD"
+      "pr": "~$106,395 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|2010|LS": {
       "en": "3.6L LLT V6 SIDI",
@@ -838,7 +879,8 @@
       "wt": "1,661 kg",
       "se": "4",
       "ca": "282 L",
-      "pr": "~$22,995 USD"
+      "pr": "~$22,995 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|2010|SS": {
       "en": "LS3 6.2L V8 OHV",
@@ -858,7 +900,8 @@
       "wt": "1,735 kg",
       "se": "4",
       "ca": "282 L",
-      "pr": "~$30,995 USD"
+      "pr": "~$30,995 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|2012|ZL1": {
       "en": "LSA 6.2L Supercharged V8 OHV",
@@ -878,7 +921,8 @@
       "wt": "1,845 kg",
       "se": "4",
       "ca": "282 L",
-      "pr": "~$54,100 USD"
+      "pr": "~$54,100 USD",
+      "aspiration": "Supercharged"
     },
     "Chevrolet|Camaro|2016|LT": {
       "en": "3.6L LGX V6 SIDI",
@@ -898,7 +942,8 @@
       "wt": "1,676 kg",
       "se": "4",
       "ca": "261 L",
-      "pr": "~$26,695 USD"
+      "pr": "~$26,695 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|2016|SS": {
       "en": "LT1 6.2L V8 DI OHV",
@@ -918,7 +963,8 @@
       "wt": "1,744 kg",
       "se": "4",
       "ca": "261 L",
-      "pr": "~$37,295 USD"
+      "pr": "~$37,295 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|2017|ZL1": {
       "en": "LT4 6.2L Supercharged V8 DI OHV",
@@ -938,7 +984,8 @@
       "wt": "1,807 kg",
       "se": "4",
       "ca": "261 L",
-      "pr": "~$62,135 USD"
+      "pr": "~$62,135 USD",
+      "aspiration": "Supercharged"
     },
     "Chevrolet|Corvette|2005|Base": {
       "en": "LS2 6.0L V8 OHV",
@@ -958,7 +1005,8 @@
       "wt": "1,453 kg",
       "se": "2",
       "ca": "â€”",
-      "pr": "~$44,245 USD"
+      "pr": "~$44,245 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|2002|Base": {
       "en": "LS1 5.7L V8 OHV",
@@ -978,7 +1026,8 @@
       "wt": "1,460 kg",
       "se": "2",
       "ca": "—",
-      "pr": "~$40,475 USD"
+      "pr": "~$40,475 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|2010|Base": {
       "en": "LS3 6.2L V8 OHV",
@@ -998,7 +1047,8 @@
       "wt": "1,453 kg",
       "se": "2",
       "ca": "—",
-      "pr": "~$48,565 USD"
+      "pr": "~$48,565 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|2012|Base": {
       "en": "LS3 6.2L V8 OHV",
@@ -1018,7 +1068,8 @@
       "wt": "1,453 kg",
       "se": "2",
       "ca": "—",
-      "pr": "~$50,565 USD"
+      "pr": "~$50,565 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|2009|Z06": {
       "en": "LS7 7.0L V8 OHV",
@@ -1038,7 +1089,8 @@
       "wt": "1,421 kg",
       "se": "2",
       "ca": "—",
-      "pr": "~$72,000 USD"
+      "pr": "~$72,000 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|2012|Z06": {
       "en": "LS7 7.0L V8 OHV",
@@ -1058,7 +1110,8 @@
       "wt": "1,421 kg",
       "se": "2",
       "ca": "—",
-      "pr": "~$75,000 USD"
+      "pr": "~$75,000 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|2017|Stingray": {
       "en": "LT1 6.2L V8 DI OHV",
@@ -1078,7 +1131,8 @@
       "wt": "1,531 kg",
       "se": "2",
       "ca": "172 L",
-      "pr": "~$55,495 USD"
+      "pr": "~$55,495 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|2018|Z06": {
       "en": "LT4 6.2L Supercharged V8 DI OHV",
@@ -1098,7 +1152,8 @@
       "wt": "1,593 kg",
       "se": "2",
       "ca": "172 L",
-      "pr": "~$80,995 USD"
+      "pr": "~$80,995 USD",
+      "aspiration": "Supercharged"
     },
     "Chevrolet|Corvette|2023|Stingray": {
       "en": "LT2 6.2L V8 DI OHV (mid-engine)",
@@ -1118,7 +1173,8 @@
       "wt": "1,527 kg",
       "se": "2",
       "ca": "357 L",
-      "pr": "~$62,195 USD"
+      "pr": "~$62,195 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|2021|LT": {
       "en": "3.6L LGX V6 SIDI",
@@ -1138,7 +1194,8 @@
       "wt": "1,680 kg",
       "se": "4",
       "ca": "261 L",
-      "pr": "~$25,000 USD"
+      "pr": "~$25,000 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|2021|SS": {
       "en": "LT1 6.2L V8 DI OHV",
@@ -1158,7 +1215,8 @@
       "wt": "1,748 kg",
       "se": "4",
       "ca": "261 L",
-      "pr": "~$38,000 USD"
+      "pr": "~$38,000 USD",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|2021|ZL1": {
       "en": "LT4 6.2L Supercharged V8 DI OHV",
@@ -1178,7 +1236,8 @@
       "wt": "1,822 kg",
       "se": "4",
       "ca": "261 L",
-      "pr": "~$62,500 USD"
+      "pr": "~$62,500 USD",
+      "aspiration": "Supercharged"
     },
     "Dodge|Challenger|2022|SXT": {
       "en": "3.6L Pentastar V6",
@@ -1198,7 +1257,8 @@
       "wt": "1,945 kg",
       "se": "5",
       "ca": "459 L",
-      "pr": "~$29,495 USD"
+      "pr": "~$29,495 USD",
+      "aspiration": "NA"
     },
     "Dodge|Challenger|2022|R/T": {
       "en": "5.7L HEMI V8 MDS",
@@ -1218,7 +1278,8 @@
       "wt": "1,990 kg",
       "se": "5",
       "ca": "459 L",
-      "pr": "~$37,495 USD"
+      "pr": "~$37,495 USD",
+      "aspiration": "NA"
     },
     "Dodge|Challenger|2022|Scat Pack": {
       "en": "6.4L HEMI 392 V8",
@@ -1238,7 +1299,8 @@
       "wt": "2,017 kg",
       "se": "5",
       "ca": "459 L",
-      "pr": "~$43,995 USD"
+      "pr": "~$43,995 USD",
+      "aspiration": "NA"
     },
     "Dodge|Charger|2011|SXT": {
       "en": "3.6L Pentastar V6",
@@ -1258,7 +1320,8 @@
       "wt": "1,762 kg",
       "se": "5",
       "ca": "465 L",
-      "pr": "~$26,745 USD"
+      "pr": "~$26,745 USD",
+      "aspiration": "NA"
     },
     "Dodge|Charger|2011|R/T": {
       "en": "5.7L HEMI V8 MDS",
@@ -1278,7 +1341,8 @@
       "wt": "1,855 kg",
       "se": "5",
       "ca": "465 L",
-      "pr": "~$33,145 USD"
+      "pr": "~$33,145 USD",
+      "aspiration": "NA"
     },
     "Dodge|Charger|2011|SRT8": {
       "en": "6.4L HEMI 392 V8",
@@ -1298,7 +1362,8 @@
       "wt": "1,920 kg",
       "se": "5",
       "ca": "465 L",
-      "pr": "~$44,495 USD"
+      "pr": "~$44,495 USD",
+      "aspiration": "NA"
     },
     "Datsun|240Z|1971|Standard": {
       "en": "L24 2.4L SOHC inline-6",
@@ -1314,7 +1379,8 @@
       "wt": "1,045 kg",
       "se": "2",
       "ca": "180 L",
-      "pr": "~$3,600 USD"
+      "pr": "~$3,600 USD",
+      "aspiration": "NA"
     },
     "Datsun|260Z|1974|Standard": {
       "en": "L26 2.6L SOHC inline-6",
@@ -1329,7 +1395,8 @@
       "wt": "1,130 kg",
       "se": "2",
       "ca": "180 L",
-      "pr": "~$4,500 USD"
+      "pr": "~$4,500 USD",
+      "aspiration": "NA"
     },
     "Datsun|260Z|1974|2+2": {
       "en": "L26 2.6L SOHC inline-6",
@@ -1344,7 +1411,8 @@
       "wt": "1,200 kg",
       "se": "4",
       "ca": "180 L",
-      "pr": "~$4,900 USD"
+      "pr": "~$4,900 USD",
+      "aspiration": "NA"
     },
     "Datsun|280Z|1977|Standard": {
       "en": "L28 2.8L SOHC inline-6 EFI",
@@ -1359,7 +1427,8 @@
       "wt": "1,200 kg",
       "se": "2",
       "ca": "180 L",
-      "pr": "~$6,500 USD"
+      "pr": "~$6,500 USD",
+      "aspiration": "NA"
     },
     "Datsun|280Z|1977|2+2": {
       "en": "L28 2.8L SOHC inline-6 EFI",
@@ -1374,7 +1443,8 @@
       "wt": "1,270 kg",
       "se": "4",
       "ca": "180 L",
-      "pr": "~$7,200 USD"
+      "pr": "~$7,200 USD",
+      "aspiration": "NA"
     },
     "Datsun|1200|1971|Coupe": {
       "en": "A12 1.2L OHV inline-4",
@@ -1389,7 +1459,8 @@
       "wt": "680 kg",
       "se": "2",
       "ca": "175 L",
-      "pr": "~$1,800 USD"
+      "pr": "~$1,800 USD",
+      "aspiration": "NA"
     },
     "Datsun|1200|1971|Sedan": {
       "en": "A12 1.2L OHV inline-4",
@@ -1404,7 +1475,8 @@
       "wt": "710 kg",
       "se": "4",
       "ca": "175 L",
-      "pr": "~$1,600 USD"
+      "pr": "~$1,600 USD",
+      "aspiration": "NA"
     },
     "Lancia|Delta|1981|L": {
       "en": "1.3L SOHC inline-4",
@@ -1419,7 +1491,8 @@
       "wt": "840 kg",
       "se": "5",
       "ca": "270 L",
-      "pr": "~£5,200"
+      "pr": "~£5,200",
+      "aspiration": "NA"
     },
     "Lancia|Delta|1981|LX": {
       "en": "1.5L SOHC inline-4",
@@ -1434,7 +1507,8 @@
       "wt": "860 kg",
       "se": "5",
       "ca": "270 L",
-      "pr": "~£5,900"
+      "pr": "~£5,900",
+      "aspiration": "NA"
     },
     "Lancia|Delta|1981|HF": {
       "en": "1.6L Turbo inline-4",
@@ -1449,7 +1523,8 @@
       "wt": "870 kg",
       "se": "5",
       "ca": "270 L",
-      "pr": "~£7,500"
+      "pr": "~£7,500",
+      "aspiration": "Turbo"
     },
     "Lancia|Delta|1985|LX": {
       "en": "1.5L SOHC inline-4",
@@ -1464,7 +1539,8 @@
       "wt": "860 kg",
       "se": "5",
       "ca": "270 L",
-      "pr": "~£6,400"
+      "pr": "~£6,400",
+      "aspiration": "NA"
     },
     "Lancia|Delta|1985|HF": {
       "en": "1.6L Turbo inline-4",
@@ -1479,7 +1555,8 @@
       "wt": "870 kg",
       "se": "5",
       "ca": "270 L",
-      "pr": "~£8,000"
+      "pr": "~£8,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Delta|1988|HF Integrale": {
       "en": "2.0L Turbo DOHC 8v inline-4",
@@ -1495,7 +1572,8 @@
       "wt": "1,270 kg",
       "se": "5",
       "ca": "270 L",
-      "pr": "~£15,000"
+      "pr": "~£15,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Delta|1990|HF Integrale 16v": {
       "en": "2.0L Turbo DOHC 16v inline-4",
@@ -1511,7 +1589,8 @@
       "wt": "1,300 kg",
       "se": "5",
       "ca": "270 L",
-      "pr": "~£18,000"
+      "pr": "~£18,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Delta|1992|HF Integrale Evo": {
       "en": "2.0L Turbo DOHC 16v inline-4",
@@ -1527,7 +1606,8 @@
       "wt": "1,350 kg",
       "se": "5",
       "ca": "270 L",
-      "pr": "~£22,000"
+      "pr": "~£22,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Delta|1993|HF Integrale Evo II": {
       "en": "2.0L Turbo DOHC 16v inline-4",
@@ -1543,7 +1623,8 @@
       "wt": "1,395 kg",
       "se": "5",
       "ca": "270 L",
-      "pr": "~£26,000"
+      "pr": "~£26,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Stratos|1975|HF": {
       "en": "Ferrari Dino 2.4L DOHC V6",
@@ -1559,7 +1640,8 @@
       "wt": "980 kg",
       "se": "2",
       "ca": "~220 L",
-      "pr": "~£8,500"
+      "pr": "~£8,500",
+      "aspiration": "NA"
     },
     "Lancia|Beta|1975|Coupe": {
       "en": "1.8L DOHC inline-4",
@@ -1574,7 +1656,8 @@
       "wt": "1,005 kg",
       "se": "4",
       "ca": "280 L",
-      "pr": "~£3,500"
+      "pr": "~£3,500",
+      "aspiration": "NA"
     },
     "Lancia|Beta|1975|Spider": {
       "en": "1.8L DOHC inline-4",
@@ -1589,7 +1672,8 @@
       "wt": "1,010 kg",
       "se": "2",
       "ca": "250 L",
-      "pr": "~£3,800"
+      "pr": "~£3,800",
+      "aspiration": "NA"
     },
     "Lancia|Beta|1975|HPE": {
       "en": "1.8L DOHC inline-4",
@@ -1604,7 +1688,8 @@
       "wt": "1,030 kg",
       "se": "4",
       "ca": "420 L",
-      "pr": "~£4,000"
+      "pr": "~£4,000",
+      "aspiration": "NA"
     },
     "Datsun|Fairlady 1600|1967|Standard": {
       "en": "R16 1.6L SOHC inline-4",
@@ -1619,7 +1704,8 @@
       "wt": "870 kg",
       "se": "2",
       "ca": "150 L",
-      "pr": "~$2,500 USD"
+      "pr": "~$2,500 USD",
+      "aspiration": "NA"
     },
     "Datsun|Fairlady 2000|1968|Standard": {
       "en": "U20 2.0L DOHC inline-4",
@@ -1634,7 +1720,8 @@
       "wt": "1,010 kg",
       "se": "2",
       "ca": "150 L",
-      "pr": "~$3,500 USD"
+      "pr": "~$3,500 USD",
+      "aspiration": "NA"
     },
     "Datsun|510|1970|Standard": {
       "en": "L16 1.6L SOHC inline-4",
@@ -1649,7 +1736,8 @@
       "wt": "860 kg",
       "se": "4",
       "ca": "250 L",
-      "pr": "~$2,200 USD"
+      "pr": "~$2,200 USD",
+      "aspiration": "NA"
     },
     "Datsun|510|1970|SSS": {
       "en": "L16 1.6L DOHC twin-cam inline-4",
@@ -1664,7 +1752,8 @@
       "wt": "890 kg",
       "se": "4",
       "ca": "250 L",
-      "pr": "~$2,600 USD"
+      "pr": "~$2,600 USD",
+      "aspiration": "NA"
     },
     "Datsun|510|1970|Wagon": {
       "en": "L16 1.6L SOHC inline-4",
@@ -1679,7 +1768,8 @@
       "wt": "940 kg",
       "se": "5",
       "ca": "550 L",
-      "pr": "~$2,400 USD"
+      "pr": "~$2,400 USD",
+      "aspiration": "NA"
     },
     "Datsun|120Y|1975|Standard": {
       "en": "A12 1.2L OHV inline-4",
@@ -1694,7 +1784,8 @@
       "wt": "730 kg",
       "se": "4",
       "ca": "260 L",
-      "pr": "~$2,800 AUD"
+      "pr": "~$2,800 AUD",
+      "aspiration": "NA"
     },
     "Datsun|120Y|1975|GL": {
       "en": "A12 1.2L OHV inline-4",
@@ -1709,7 +1800,8 @@
       "wt": "740 kg",
       "se": "4",
       "ca": "260 L",
-      "pr": "~$3,000 AUD"
+      "pr": "~$3,000 AUD",
+      "aspiration": "NA"
     },
     "Datsun|120Y|1975|GX": {
       "en": "A14 1.4L OHV inline-4",
@@ -1724,7 +1816,8 @@
       "wt": "750 kg",
       "se": "4",
       "ca": "260 L",
-      "pr": "~$3,400 AUD"
+      "pr": "~$3,400 AUD",
+      "aspiration": "NA"
     },
     "Datsun|180B|1974|Standard": {
       "en": "L18 1.8L SOHC inline-4",
@@ -1739,7 +1832,8 @@
       "wt": "970 kg",
       "se": "4",
       "ca": "300 L",
-      "pr": "~$3,500 AUD"
+      "pr": "~$3,500 AUD",
+      "aspiration": "NA"
     },
     "Datsun|180B|1974|SSS": {
       "en": "L18 1.8L DOHC twin-cam inline-4",
@@ -1754,7 +1848,8 @@
       "wt": "995 kg",
       "se": "4",
       "ca": "300 L",
-      "pr": "~$4,200 AUD"
+      "pr": "~$4,200 AUD",
+      "aspiration": "NA"
     },
     "Datsun|200B|1979|Standard": {
       "en": "L20B 2.0L SOHC inline-4",
@@ -1769,7 +1864,8 @@
       "wt": "1,080 kg",
       "se": "5",
       "ca": "330 L",
-      "pr": "~$6,500 AUD"
+      "pr": "~$6,500 AUD",
+      "aspiration": "NA"
     },
     "Datsun|200B|1979|GL": {
       "en": "L20B 2.0L SOHC inline-4",
@@ -1784,7 +1880,8 @@
       "wt": "1,090 kg",
       "se": "5",
       "ca": "330 L",
-      "pr": "~$7,000 AUD"
+      "pr": "~$7,000 AUD",
+      "aspiration": "NA"
     },
     "Datsun|200B|1979|SSS": {
       "en": "L20B 2.0L DOHC twin-cam inline-4",
@@ -1799,7 +1896,8 @@
       "wt": "1,100 kg",
       "se": "5",
       "ca": "330 L",
-      "pr": "~$8,200 AUD"
+      "pr": "~$8,200 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Stanza|1979|Standard": {
       "en": "L16 1.6L SOHC inline-4",
@@ -1814,7 +1912,8 @@
       "wt": "950 kg",
       "se": "5",
       "ca": "300 L",
-      "pr": "~$5,500 AUD"
+      "pr": "~$5,500 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Stanza|1979|GL": {
       "en": "L18 1.8L SOHC inline-4",
@@ -1829,7 +1928,8 @@
       "wt": "970 kg",
       "se": "5",
       "ca": "300 L",
-      "pr": "~$6,200 AUD"
+      "pr": "~$6,200 AUD",
+      "aspiration": "NA"
     },
     "Datsun|280ZX|1981|Standard": {
       "en": "L28E 2.8L SOHC EFI inline-6",
@@ -1844,7 +1944,8 @@
       "wt": "1,260 kg",
       "se": "2",
       "ca": "160 L",
-      "pr": "~$13,000 USD"
+      "pr": "~$13,000 USD",
+      "aspiration": "NA"
     },
     "Datsun|280ZX|1981|2+2": {
       "en": "L28E 2.8L SOHC EFI inline-6",
@@ -1859,7 +1960,8 @@
       "wt": "1,330 kg",
       "se": "4",
       "ca": "160 L",
-      "pr": "~$14,500 USD"
+      "pr": "~$14,500 USD",
+      "aspiration": "NA"
     },
     "Datsun|280ZX|1981|Turbo": {
       "en": "L28ET 2.8L SOHC Turbo inline-6",
@@ -1874,7 +1976,8 @@
       "wt": "1,340 kg",
       "se": "2",
       "ca": "160 L",
-      "pr": "~$16,000 USD"
+      "pr": "~$16,000 USD",
+      "aspiration": "Turbo"
     },
     "Datsun|620 Ute|1975|Standard": {
       "en": "L16 1.6L SOHC inline-4",
@@ -1889,7 +1992,8 @@
       "wt": "1,000 kg",
       "se": "2",
       "ca": "500 L",
-      "pr": "~$3,200 AUD"
+      "pr": "~$3,200 AUD",
+      "aspiration": "NA"
     },
     "Datsun|620 Ute|1975|King Cab": {
       "en": "L16 1.6L SOHC inline-4",
@@ -1904,7 +2008,8 @@
       "wt": "1,060 kg",
       "se": "2",
       "ca": "450 L",
-      "pr": "~$3,500 AUD"
+      "pr": "~$3,500 AUD",
+      "aspiration": "NA"
     },
     "Datsun|720 Ute|1981|Standard": {
       "en": "Z20 2.0L SOHC inline-4",
@@ -1919,7 +2024,8 @@
       "wt": "1,100 kg",
       "se": "2",
       "ca": "550 L",
-      "pr": "~$7,500 AUD"
+      "pr": "~$7,500 AUD",
+      "aspiration": "NA"
     },
     "Datsun|720 Ute|1981|King Cab": {
       "en": "Z20 2.0L SOHC inline-4",
@@ -1934,7 +2040,8 @@
       "wt": "1,170 kg",
       "se": "2",
       "ca": "480 L",
-      "pr": "~$8,200 AUD"
+      "pr": "~$8,200 AUD",
+      "aspiration": "NA"
     },
     "Datsun|1200|1971|Van": {
       "en": "A12 1.2L OHV inline-4",
@@ -1949,7 +2056,8 @@
       "wt": "720 kg",
       "se": "2",
       "ca": "~1,200 L",
-      "pr": "~$1,700 USD"
+      "pr": "~$1,700 USD",
+      "aspiration": "NA"
     },
     "Datsun|280ZX|1981|Targa": {
       "en": "L28E 2.8L SOHC EFI inline-6",
@@ -1964,7 +2072,8 @@
       "wt": "1,295 kg",
       "se": "2",
       "ca": "160 L",
-      "pr": "~$14,000 USD"
+      "pr": "~$14,000 USD",
+      "aspiration": "NA"
     },
     "Datsun|120Y|1977|GL-E": {
       "en": "A14E 1.4L OHV EFI inline-4",
@@ -1979,7 +2088,8 @@
       "wt": "760 kg",
       "se": "4",
       "ca": "260 L",
-      "pr": "~$3,800 AUD"
+      "pr": "~$3,800 AUD",
+      "aspiration": "NA"
     },
     "Datsun|200B|1980|GL-E": {
       "en": "L20E 2.0L SOHC EFI inline-4",
@@ -1994,7 +2104,8 @@
       "wt": "1,100 kg",
       "se": "5",
       "ca": "330 L",
-      "pr": "~$8,500 AUD"
+      "pr": "~$8,500 AUD",
+      "aspiration": "NA"
     },
     "Datsun|1000|1967|Standard": {
       "en": "A10 1.0L OHV inline-4",
@@ -2009,7 +2120,8 @@
       "wt": "590 kg",
       "se": "4",
       "ca": "~210 L",
-      "pr": "~$1,200 USD"
+      "pr": "~$1,200 USD",
+      "aspiration": "NA"
     },
     "Datsun|710 Violet|1975|Standard": {
       "en": "L14 1.4L SOHC inline-4",
@@ -2024,7 +2136,8 @@
       "wt": "920 kg",
       "se": "4",
       "ca": "~280 L",
-      "pr": "~$3,200 AUD"
+      "pr": "~$3,200 AUD",
+      "aspiration": "NA"
     },
     "Datsun|710 Violet|1975|GL": {
       "en": "L16 1.6L SOHC inline-4",
@@ -2039,7 +2152,8 @@
       "wt": "940 kg",
       "se": "4",
       "ca": "~280 L",
-      "pr": "~$3,600 AUD"
+      "pr": "~$3,600 AUD",
+      "aspiration": "NA"
     },
     "Datsun|710 Violet|1975|SSS": {
       "en": "L18 1.8L DOHC twin-cam inline-4",
@@ -2054,7 +2168,8 @@
       "wt": "975 kg",
       "se": "4",
       "ca": "~280 L",
-      "pr": "~$4,400 AUD"
+      "pr": "~$4,400 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Skyline|1970|1800": {
       "en": "L18 1.8L SOHC inline-4",
@@ -2069,7 +2184,8 @@
       "wt": "1,040 kg",
       "se": "4",
       "ca": "~260 L",
-      "pr": "~$3,000 AUD"
+      "pr": "~$3,000 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Skyline|1970|2000GT": {
       "en": "L20 2.0L SOHC inline-6",
@@ -2084,7 +2200,8 @@
       "wt": "1,080 kg",
       "se": "4",
       "ca": "~260 L",
-      "pr": "~$3,800 AUD"
+      "pr": "~$3,800 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Skyline|1974|2000GT": {
       "en": "L20 2.0L SOHC inline-6",
@@ -2099,7 +2216,8 @@
       "wt": "1,100 kg",
       "se": "4",
       "ca": "~260 L",
-      "pr": "~$4,200 AUD"
+      "pr": "~$4,200 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Skyline|1974|2000GT-X": {
       "en": "L20 2.0L SOHC inline-6",
@@ -2114,7 +2232,8 @@
       "wt": "1,120 kg",
       "se": "4",
       "ca": "~260 L",
-      "pr": "~$4,800 AUD"
+      "pr": "~$4,800 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Skyline|1979|2000GT": {
       "en": "L20E 2.0L SOHC EFI inline-6",
@@ -2129,7 +2248,8 @@
       "wt": "1,180 kg",
       "se": "4",
       "ca": "~270 L",
-      "pr": "~$7,000 AUD"
+      "pr": "~$7,000 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Skyline|1979|2000GT-X": {
       "en": "L20E 2.0L SOHC EFI inline-6",
@@ -2144,7 +2264,8 @@
       "wt": "1,195 kg",
       "se": "4",
       "ca": "~270 L",
-      "pr": "~$7,800 AUD"
+      "pr": "~$7,800 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Skyline|1979|GT Turbo": {
       "en": "L20ET 2.0L SOHC Turbo inline-6",
@@ -2159,7 +2280,8 @@
       "wt": "1,250 kg",
       "se": "4",
       "ca": "~270 L",
-      "pr": "~$9,500 AUD"
+      "pr": "~$9,500 AUD",
+      "aspiration": "Turbo"
     },
     "Datsun|Laurel|1971|Standard": {
       "en": "L20 2.0L SOHC inline-6",
@@ -2174,7 +2296,8 @@
       "wt": "1,095 kg",
       "se": "5",
       "ca": "~330 L",
-      "pr": "~$3,200 AUD"
+      "pr": "~$3,200 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Laurel|1971|SGL": {
       "en": "L20 2.0L SOHC inline-6",
@@ -2189,7 +2312,8 @@
       "wt": "1,110 kg",
       "se": "5",
       "ca": "~330 L",
-      "pr": "~$3,700 AUD"
+      "pr": "~$3,700 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Laurel|1975|GL": {
       "en": "L20B 2.0L SOHC inline-4",
@@ -2204,7 +2328,8 @@
       "wt": "1,130 kg",
       "se": "5",
       "ca": "~330 L",
-      "pr": "~$4,500 AUD"
+      "pr": "~$4,500 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Laurel|1975|SGL": {
       "en": "L20B 2.0L SOHC inline-4",
@@ -2219,7 +2344,8 @@
       "wt": "1,145 kg",
       "se": "5",
       "ca": "~330 L",
-      "pr": "~$5,000 AUD"
+      "pr": "~$5,000 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Laurel|1979|GL": {
       "en": "L20B 2.0L SOHC inline-4",
@@ -2234,7 +2360,8 @@
       "wt": "1,200 kg",
       "se": "5",
       "ca": "~340 L",
-      "pr": "~$7,000 AUD"
+      "pr": "~$7,000 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Laurel|1979|SGL": {
       "en": "L20B 2.0L SOHC inline-4",
@@ -2249,7 +2376,8 @@
       "wt": "1,215 kg",
       "se": "5",
       "ca": "~340 L",
-      "pr": "~$7,800 AUD"
+      "pr": "~$7,800 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Patrol|1973|Hardtop": {
       "en": "P40 4.0L SOHC inline-6",
@@ -2264,7 +2392,8 @@
       "wt": "1,820 kg",
       "se": "2",
       "ca": "~N/A",
-      "pr": "~$5,500 AUD"
+      "pr": "~$5,500 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Patrol|1973|Wagon": {
       "en": "P40 4.0L SOHC inline-6",
@@ -2279,7 +2408,8 @@
       "wt": "1,950 kg",
       "se": "8",
       "ca": "~N/A",
-      "pr": "~$6,200 AUD"
+      "pr": "~$6,200 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Patrol|1981|Hardtop": {
       "en": "SD33 3.3L diesel inline-6",
@@ -2294,7 +2424,8 @@
       "wt": "1,970 kg",
       "se": "2",
       "ca": "~N/A",
-      "pr": "~$12,000 AUD"
+      "pr": "~$12,000 AUD",
+      "aspiration": "Turbo"
     },
     "Datsun|Patrol|1981|Wagon": {
       "en": "SD33 3.3L diesel inline-6",
@@ -2309,7 +2440,8 @@
       "wt": "2,100 kg",
       "se": "8",
       "ca": "~N/A",
-      "pr": "~$14,000 AUD"
+      "pr": "~$14,000 AUD",
+      "aspiration": "Turbo"
     },
     "Datsun|Patrol|1981|SGL": {
       "en": "P40 4.0L SOHC inline-6",
@@ -2324,7 +2456,8 @@
       "wt": "2,080 kg",
       "se": "5",
       "ca": "~N/A",
-      "pr": "~$15,500 AUD"
+      "pr": "~$15,500 AUD",
+      "aspiration": "NA"
     },
     "Datsun|510|1970|2-door": {
       "en": "L16 1.6L SOHC inline-4",
@@ -2339,7 +2472,8 @@
       "wt": "840 kg",
       "se": "4",
       "ca": "250 L",
-      "pr": "~$2,100 USD"
+      "pr": "~$2,100 USD",
+      "aspiration": "NA"
     },
     "Datsun|Fairlady 2000|1968|Competition": {
       "en": "U20 2.0L DOHC inline-4 (twin-carb)",
@@ -2354,7 +2488,8 @@
       "wt": "985 kg",
       "se": "2",
       "ca": "150 L",
-      "pr": "~$4,200 USD"
+      "pr": "~$4,200 USD",
+      "aspiration": "NA"
     },
     "Datsun|Skyline|1970|GT-R": {
       "en": "S20 2.0L DOHC 24v inline-6",
@@ -2369,7 +2504,8 @@
       "wt": "1,100 kg",
       "se": "4",
       "ca": "260 L",
-      "pr": "~$6,500 AUD"
+      "pr": "~$6,500 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Skyline|1973|GT-R": {
       "en": "S20 2.0L DOHC 24v inline-6",
@@ -2384,7 +2520,8 @@
       "wt": "1,120 kg",
       "se": "4",
       "ca": "260 L",
-      "pr": "~$7,000 AUD"
+      "pr": "~$7,000 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Fairlady 1500|1963|Standard": {
       "en": "C1 1.5L SOHC inline-4",
@@ -2399,7 +2536,8 @@
       "wt": "820 kg",
       "se": "2",
       "ca": "150 L",
-      "pr": "~$2,000 USD"
+      "pr": "~$2,000 USD",
+      "aspiration": "NA"
     },
     "Datsun|410 Bluebird|1965|Standard": {
       "en": "J13 1.3L OHV inline-4",
@@ -2414,7 +2552,8 @@
       "wt": "845 kg",
       "se": "4",
       "ca": "~240 L",
-      "pr": "~$1,600 USD"
+      "pr": "~$1,600 USD",
+      "aspiration": "NA"
     },
     "Datsun|410 Bluebird|1965|SSS": {
       "en": "R16 1.6L SOHC inline-4 twin-carb",
@@ -2429,7 +2568,8 @@
       "wt": "870 kg",
       "se": "4",
       "ca": "~240 L",
-      "pr": "~$2,100 USD"
+      "pr": "~$2,100 USD",
+      "aspiration": "NA"
     },
     "Datsun|521 Ute|1968|Standard": {
       "en": "J13 1.3L OHV inline-4",
@@ -2444,7 +2584,8 @@
       "wt": "915 kg",
       "se": "2",
       "ca": "~480 L",
-      "pr": "~$1,800 USD"
+      "pr": "~$1,800 USD",
+      "aspiration": "NA"
     },
     "Datsun|Cherry|1973|Standard": {
       "en": "A10 1.0L OHV inline-4 FWD",
@@ -2459,7 +2600,8 @@
       "wt": "680 kg",
       "se": "4",
       "ca": "~210 L",
-      "pr": "~$1,900 USD"
+      "pr": "~$1,900 USD",
+      "aspiration": "NA"
     },
     "Datsun|Cherry|1973|GL": {
       "en": "A12 1.2L OHV inline-4 FWD",
@@ -2474,7 +2616,8 @@
       "wt": "700 kg",
       "se": "4",
       "ca": "~210 L",
-      "pr": "~$2,200 USD"
+      "pr": "~$2,200 USD",
+      "aspiration": "NA"
     },
     "Datsun|Silvia|1977|Standard": {
       "en": "L18 1.8L SOHC inline-4",
@@ -2489,7 +2632,8 @@
       "wt": "1,005 kg",
       "se": "2",
       "ca": "~220 L",
-      "pr": "~$5,500 AUD"
+      "pr": "~$5,500 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Silvia|1977|1800": {
       "en": "L18 1.8L DOHC twin-cam inline-4",
@@ -2504,7 +2648,8 @@
       "wt": "1,020 kg",
       "se": "2",
       "ca": "~220 L",
-      "pr": "~$6,200 AUD"
+      "pr": "~$6,200 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Silvia|1981|Standard": {
       "en": "Z20 2.0L SOHC inline-4",
@@ -2519,7 +2664,8 @@
       "wt": "1,045 kg",
       "se": "2",
       "ca": "~220 L",
-      "pr": "~$9,000 AUD"
+      "pr": "~$9,000 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Silvia|1981|1800": {
       "en": "Z20 2.0L SOHC inline-4",
@@ -2534,7 +2680,8 @@
       "wt": "1,055 kg",
       "se": "2",
       "ca": "~220 L",
-      "pr": "~$9,500 AUD"
+      "pr": "~$9,500 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Silvia|1981|Turbo": {
       "en": "Z18ET 1.8L Turbo SOHC inline-4",
@@ -2549,7 +2696,8 @@
       "wt": "1,100 kg",
       "se": "2",
       "ca": "~220 L",
-      "pr": "~$12,000 AUD"
+      "pr": "~$12,000 AUD",
+      "aspiration": "Turbo"
     },
     "Datsun|910 Bluebird|1981|Standard": {
       "en": "L16 1.6L SOHC inline-4",
@@ -2564,7 +2712,8 @@
       "wt": "1,020 kg",
       "se": "5",
       "ca": "~310 L",
-      "pr": "~$8,000 AUD"
+      "pr": "~$8,000 AUD",
+      "aspiration": "NA"
     },
     "Datsun|910 Bluebird|1981|GL": {
       "en": "L18 1.8L SOHC inline-4",
@@ -2579,7 +2728,8 @@
       "wt": "1,040 kg",
       "se": "5",
       "ca": "~310 L",
-      "pr": "~$9,000 AUD"
+      "pr": "~$9,000 AUD",
+      "aspiration": "NA"
     },
     "Datsun|910 Bluebird|1981|SSS": {
       "en": "L18 1.8L DOHC twin-cam inline-4",
@@ -2594,7 +2744,8 @@
       "wt": "1,060 kg",
       "se": "5",
       "ca": "~310 L",
-      "pr": "~$10,500 AUD"
+      "pr": "~$10,500 AUD",
+      "aspiration": "NA"
     },
     "Datsun|910 Bluebird|1981|SGL": {
       "en": "L20B 2.0L SOHC inline-4",
@@ -2609,7 +2760,8 @@
       "wt": "1,080 kg",
       "se": "5",
       "ca": "~310 L",
-      "pr": "~$11,000 AUD"
+      "pr": "~$11,000 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Cedric|1973|Standard": {
       "en": "L20 2.0L SOHC inline-6",
@@ -2624,7 +2776,8 @@
       "wt": "1,340 kg",
       "se": "5",
       "ca": "~380 L",
-      "pr": "~$4,500 AUD"
+      "pr": "~$4,500 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Cedric|1973|SGL": {
       "en": "L20 2.0L SOHC inline-6",
@@ -2639,7 +2792,8 @@
       "wt": "1,370 kg",
       "se": "5",
       "ca": "~380 L",
-      "pr": "~$5,200 AUD"
+      "pr": "~$5,200 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Cedric|1977|Standard": {
       "en": "L20B 2.0L SOHC inline-4",
@@ -2654,7 +2808,8 @@
       "wt": "1,380 kg",
       "se": "5",
       "ca": "~380 L",
-      "pr": "~$7,000 AUD"
+      "pr": "~$7,000 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Cedric|1977|GL": {
       "en": "L20B 2.0L SOHC inline-4",
@@ -2669,7 +2824,8 @@
       "wt": "1,390 kg",
       "se": "5",
       "ca": "~380 L",
-      "pr": "~$7,800 AUD"
+      "pr": "~$7,800 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Cedric|1977|SGL": {
       "en": "L24 2.4L SOHC inline-6",
@@ -2684,7 +2840,8 @@
       "wt": "1,420 kg",
       "se": "5",
       "ca": "~380 L",
-      "pr": "~$9,000 AUD"
+      "pr": "~$9,000 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Cedric|1981|GL": {
       "en": "L20E 2.0L SOHC EFI inline-6",
@@ -2699,7 +2856,8 @@
       "wt": "1,450 kg",
       "se": "5",
       "ca": "~380 L",
-      "pr": "~$12,000 AUD"
+      "pr": "~$12,000 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Cedric|1981|SGL": {
       "en": "L24E 2.4L SOHC EFI inline-6",
@@ -2714,7 +2872,8 @@
       "wt": "1,480 kg",
       "se": "5",
       "ca": "~380 L",
-      "pr": "~$14,000 AUD"
+      "pr": "~$14,000 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Cedric|1981|Diesel": {
       "en": "LD28 2.8L diesel inline-6",
@@ -2729,7 +2888,8 @@
       "wt": "1,530 kg",
       "se": "5",
       "ca": "~380 L",
-      "pr": "~$13,000 AUD"
+      "pr": "~$13,000 AUD",
+      "aspiration": "Turbo"
     },
     "Datsun|Go|2015|Standard": {
       "en": "HR12DE 1.2L SOHC inline-3",
@@ -2744,7 +2904,8 @@
       "wt": "785 kg",
       "se": "5",
       "ca": "~265 L",
-      "pr": "~$6,000 USD"
+      "pr": "~$6,000 USD",
+      "aspiration": "NA"
     },
     "Datsun|Go|2015|T": {
       "en": "HR12DE 1.2L SOHC inline-3",
@@ -2759,7 +2920,8 @@
       "wt": "795 kg",
       "se": "5",
       "ca": "~265 L",
-      "pr": "~$6,500 USD"
+      "pr": "~$6,500 USD",
+      "aspiration": "NA"
     },
     "Datsun|Go|2015|A": {
       "en": "HR12DE 1.2L SOHC inline-3",
@@ -2774,7 +2936,8 @@
       "wt": "820 kg",
       "se": "5",
       "ca": "~265 L",
-      "pr": "~$7,000 USD"
+      "pr": "~$7,000 USD",
+      "aspiration": "NA"
     },
     "Datsun|Go+|2015|Standard": {
       "en": "HR12DE 1.2L SOHC inline-3",
@@ -2789,7 +2952,8 @@
       "wt": "892 kg",
       "se": "7",
       "ca": "~175 L",
-      "pr": "~$7,000 USD"
+      "pr": "~$7,000 USD",
+      "aspiration": "NA"
     },
     "Datsun|Go+|2015|T": {
       "en": "HR12DE 1.2L SOHC inline-3",
@@ -2804,7 +2968,8 @@
       "wt": "900 kg",
       "se": "7",
       "ca": "~175 L",
-      "pr": "~$7,500 USD"
+      "pr": "~$7,500 USD",
+      "aspiration": "NA"
     },
     "Datsun|Go+|2015|A": {
       "en": "HR12DE 1.2L SOHC inline-3",
@@ -2819,7 +2984,8 @@
       "wt": "930 kg",
       "se": "7",
       "ca": "~175 L",
-      "pr": "~$8,000 USD"
+      "pr": "~$8,000 USD",
+      "aspiration": "NA"
     },
     "Datsun|Redi-GO|2018|Standard": {
       "en": "BR10DE 1.0L SOHC inline-3",
@@ -2834,7 +3000,8 @@
       "wt": "634 kg",
       "se": "5",
       "ca": "~222 L",
-      "pr": "~$4,500 USD"
+      "pr": "~$4,500 USD",
+      "aspiration": "NA"
     },
     "Datsun|Redi-GO|2018|T": {
       "en": "HR10DE 1.0L SOHC inline-3",
@@ -2849,7 +3016,8 @@
       "wt": "660 kg",
       "se": "5",
       "ca": "~222 L",
-      "pr": "~$5,200 USD"
+      "pr": "~$5,200 USD",
+      "aspiration": "NA"
     },
     "Datsun|Redi-GO|2018|S": {
       "en": "HR10DE 1.0L SOHC inline-3",
@@ -2864,7 +3032,8 @@
       "wt": "672 kg",
       "se": "5",
       "ca": "~222 L",
-      "pr": "~$5,800 USD"
+      "pr": "~$5,800 USD",
+      "aspiration": "NA"
     },
     "Datsun|on-DO|2015|Standard": {
       "en": "K4M 1.6L DOHC inline-4",
@@ -2879,7 +3048,8 @@
       "wt": "1,053 kg",
       "se": "5",
       "ca": "~530 L",
-      "pr": "~$8,000 USD"
+      "pr": "~$8,000 USD",
+      "aspiration": "NA"
     },
     "Datsun|on-DO|2015|Dream": {
       "en": "K4M 1.6L DOHC inline-4",
@@ -2894,7 +3064,8 @@
       "wt": "1,065 kg",
       "se": "5",
       "ca": "~530 L",
-      "pr": "~$9,000 USD"
+      "pr": "~$9,000 USD",
+      "aspiration": "NA"
     },
     "Datsun|on-DO|2015|Trust": {
       "en": "K4M 1.6L DOHC inline-4",
@@ -2909,7 +3080,8 @@
       "wt": "1,090 kg",
       "se": "5",
       "ca": "~530 L",
-      "pr": "~$10,000 USD"
+      "pr": "~$10,000 USD",
+      "aspiration": "NA"
     },
     "Datsun|mi-DO|2015|Standard": {
       "en": "K4M 1.6L DOHC inline-4",
@@ -2924,7 +3096,8 @@
       "wt": "1,099 kg",
       "se": "5",
       "ca": "~265 L",
-      "pr": "~$8,500 USD"
+      "pr": "~$8,500 USD",
+      "aspiration": "NA"
     },
     "Datsun|mi-DO|2015|Dream": {
       "en": "K4M 1.6L DOHC inline-4",
@@ -2939,7 +3112,8 @@
       "wt": "1,110 kg",
       "se": "5",
       "ca": "~265 L",
-      "pr": "~$9,500 USD"
+      "pr": "~$9,500 USD",
+      "aspiration": "NA"
     },
     "Datsun|mi-DO|2015|Trust": {
       "en": "K4M 1.6L DOHC inline-4",
@@ -2954,7 +3128,8 @@
       "wt": "1,135 kg",
       "se": "5",
       "ca": "~265 L",
-      "pr": "~$10,500 USD"
+      "pr": "~$10,500 USD",
+      "aspiration": "NA"
     },
     "Datsun|1200|1972|Ute": {
       "en": "A12 1.2L OHV inline-4",
@@ -2969,7 +3144,8 @@
       "wt": "695 kg",
       "se": "2",
       "ca": "~480 L",
-      "pr": "~$1,700 USD"
+      "pr": "~$1,700 USD",
+      "aspiration": "NA"
     },
     "Datsun|120Y|1975|Wagon": {
       "en": "A12 1.2L OHV inline-4",
@@ -2984,7 +3160,8 @@
       "wt": "790 kg",
       "se": "5",
       "ca": "~580 L",
-      "pr": "~$3,100 AUD"
+      "pr": "~$3,100 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Bluebird 310|1961|Standard": {
       "en": "C1 1.0L OHV inline-4",
@@ -2999,7 +3176,8 @@
       "wt": "760 kg",
       "se": "4",
       "ca": "~220 L",
-      "pr": "~$1,400 USD"
+      "pr": "~$1,400 USD",
+      "aspiration": "NA"
     },
     "Datsun|Bluebird 310|1961|Deluxe": {
       "en": "G1 1.2L OHV inline-4",
@@ -3014,7 +3192,8 @@
       "wt": "780 kg",
       "se": "4",
       "ca": "~220 L",
-      "pr": "~$1,700 USD"
+      "pr": "~$1,700 USD",
+      "aspiration": "NA"
     },
     "Datsun|Silvia CSP311|1966|Standard": {
       "en": "R16 1.6L SOHC inline-4",
@@ -3029,7 +3208,8 @@
       "wt": "940 kg",
       "se": "2",
       "ca": "~180 L",
-      "pr": "~$2,800 USD"
+      "pr": "~$2,800 USD",
+      "aspiration": "NA"
     },
     "Datsun|F10|1977|Standard": {
       "en": "A12 1.2L OHV inline-4 FWD",
@@ -3044,7 +3224,8 @@
       "wt": "735 kg",
       "se": "4",
       "ca": "~250 L",
-      "pr": "~$3,200 USD"
+      "pr": "~$3,200 USD",
+      "aspiration": "NA"
     },
     "Datsun|F10|1977|GL": {
       "en": "A12 1.2L OHV inline-4 FWD",
@@ -3059,7 +3240,8 @@
       "wt": "748 kg",
       "se": "4",
       "ca": "~250 L",
-      "pr": "~$3,600 USD"
+      "pr": "~$3,600 USD",
+      "aspiration": "NA"
     },
     "Datsun|Sunny|1979|Standard": {
       "en": "A12 1.2L OHV inline-4",
@@ -3074,7 +3256,8 @@
       "wt": "730 kg",
       "se": "4",
       "ca": "~260 L",
-      "pr": "~$4,500 AUD"
+      "pr": "~$4,500 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Sunny|1979|GL": {
       "en": "A14 1.4L OHV inline-4",
@@ -3089,7 +3272,8 @@
       "wt": "748 kg",
       "se": "4",
       "ca": "~260 L",
-      "pr": "~$5,000 AUD"
+      "pr": "~$5,000 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Sunny|1979|GX": {
       "en": "A14 1.4L OHV inline-4",
@@ -3104,7 +3288,8 @@
       "wt": "758 kg",
       "se": "4",
       "ca": "~260 L",
-      "pr": "~$5,600 AUD"
+      "pr": "~$5,600 AUD",
+      "aspiration": "NA"
     },
     "Datsun|Sunny|1979|Wagon": {
       "en": "A12 1.2L OHV inline-4",
@@ -3119,7 +3304,8 @@
       "wt": "810 kg",
       "se": "5",
       "ca": "~580 L",
-      "pr": "~$5,200 AUD"
+      "pr": "~$5,200 AUD",
+      "aspiration": "NA"
     },
     "Lancia|Beta|1975|Berlina": {
       "en": "1.6L DOHC inline-4",
@@ -3134,7 +3320,8 @@
       "wt": "990 kg",
       "se": "4",
       "ca": "~300 L",
-      "pr": "~£3,200"
+      "pr": "~£3,200",
+      "aspiration": "NA"
     },
     "Lancia|Aprilia|1941|Standard": {
       "en": "1.4L SOHC V4",
@@ -3149,7 +3336,8 @@
       "wt": "855 kg",
       "se": "4",
       "ca": "~250 L",
-      "pr": "~£700"
+      "pr": "~£700",
+      "aspiration": "NA"
     },
     "Lancia|Aprilia|1941|Cabriolet": {
       "en": "1.4L SOHC V4",
@@ -3164,7 +3352,8 @@
       "wt": "890 kg",
       "se": "4",
       "ca": "~200 L",
-      "pr": "~£850"
+      "pr": "~£850",
+      "aspiration": "NA"
     },
     "Lancia|Ardea|1945|Standard": {
       "en": "0.9L SOHC V4",
@@ -3179,7 +3368,8 @@
       "wt": "730 kg",
       "se": "4",
       "ca": "~220 L",
-      "pr": "~£550"
+      "pr": "~£550",
+      "aspiration": "NA"
     },
     "Lancia|Aurelia|1952|B10 Berlina": {
       "en": "1.8L SOHC V6",
@@ -3194,7 +3384,8 @@
       "wt": "1,080 kg",
       "se": "4",
       "ca": "~330 L",
-      "pr": "~£1,500"
+      "pr": "~£1,500",
+      "aspiration": "NA"
     },
     "Lancia|Aurelia|1954|B20 GT": {
       "en": "2.5L SOHC V6",
@@ -3209,7 +3400,8 @@
       "wt": "1,100 kg",
       "se": "4",
       "ca": "~280 L",
-      "pr": "~£2,400"
+      "pr": "~£2,400",
+      "aspiration": "NA"
     },
     "Lancia|Aurelia|1955|B24 Spider": {
       "en": "2.5L SOHC V6",
@@ -3224,7 +3416,8 @@
       "wt": "1,090 kg",
       "se": "2",
       "ca": "~200 L",
-      "pr": "~£2,800"
+      "pr": "~£2,800",
+      "aspiration": "NA"
     },
     "Lancia|Appia|1957|Berlina": {
       "en": "1.1L SOHC V4",
@@ -3239,7 +3432,8 @@
       "wt": "815 kg",
       "se": "4",
       "ca": "~250 L",
-      "pr": "~£1,000"
+      "pr": "~£1,000",
+      "aspiration": "NA"
     },
     "Lancia|Appia|1957|GT": {
       "en": "1.1L SOHC V4",
@@ -3254,7 +3448,8 @@
       "wt": "840 kg",
       "se": "4",
       "ca": "~250 L",
-      "pr": "~£1,200"
+      "pr": "~£1,200",
+      "aspiration": "NA"
     },
     "Lancia|Appia|1957|Zagato": {
       "en": "1.1L SOHC V4",
@@ -3269,7 +3464,8 @@
       "wt": "750 kg",
       "se": "2",
       "ca": "~180 L",
-      "pr": "~£1,800"
+      "pr": "~£1,800",
+      "aspiration": "NA"
     },
     "Lancia|Flaminia|1960|Berlina": {
       "en": "2.5L SOHC V6",
@@ -3284,7 +3480,8 @@
       "wt": "1,330 kg",
       "se": "5",
       "ca": "~380 L",
-      "pr": "~£2,200"
+      "pr": "~£2,200",
+      "aspiration": "NA"
     },
     "Lancia|Flaminia|1960|GT": {
       "en": "2.5L SOHC V6",
@@ -3299,7 +3496,8 @@
       "wt": "1,290 kg",
       "se": "4",
       "ca": "~280 L",
-      "pr": "~£2,800"
+      "pr": "~£2,800",
+      "aspiration": "NA"
     },
     "Lancia|Flaminia|1960|Sport": {
       "en": "2.5L SOHC V6 Zagato",
@@ -3314,7 +3512,8 @@
       "wt": "1,180 kg",
       "se": "4",
       "ca": "~260 L",
-      "pr": "~£3,500"
+      "pr": "~£3,500",
+      "aspiration": "NA"
     },
     "Lancia|Flaminia|1961|Convertible": {
       "en": "2.5L SOHC V6",
@@ -3329,7 +3528,8 @@
       "wt": "1,350 kg",
       "se": "4",
       "ca": "~200 L",
-      "pr": "~£3,200"
+      "pr": "~£3,200",
+      "aspiration": "NA"
     },
     "Lancia|Flavia|1964|Berlina": {
       "en": "1.5L SOHC flat-4",
@@ -3344,7 +3544,8 @@
       "wt": "1,110 kg",
       "se": "4",
       "ca": "~340 L",
-      "pr": "~£1,400"
+      "pr": "~£1,400",
+      "aspiration": "NA"
     },
     "Lancia|Flavia|1964|Coupe": {
       "en": "1.5L SOHC flat-4",
@@ -3359,7 +3560,8 @@
       "wt": "1,080 kg",
       "se": "4",
       "ca": "~270 L",
-      "pr": "~£1,700"
+      "pr": "~£1,700",
+      "aspiration": "NA"
     },
     "Lancia|Flavia|1966|1800": {
       "en": "1.8L SOHC flat-4",
@@ -3374,7 +3576,8 @@
       "wt": "1,140 kg",
       "se": "4",
       "ca": "~340 L",
-      "pr": "~£2,000"
+      "pr": "~£2,000",
+      "aspiration": "NA"
     },
     "Lancia|Fulvia|1968|Coupe": {
       "en": "1.3L DOHC narrow-V4",
@@ -3389,7 +3592,8 @@
       "wt": "870 kg",
       "se": "4",
       "ca": "~240 L",
-      "pr": "~£1,600"
+      "pr": "~£1,600",
+      "aspiration": "NA"
     },
     "Lancia|Fulvia|1969|HF": {
       "en": "1.6L DOHC narrow-V4",
@@ -3404,7 +3608,8 @@
       "wt": "895 kg",
       "se": "4",
       "ca": "~240 L",
-      "pr": "~£2,400"
+      "pr": "~£2,400",
+      "aspiration": "NA"
     },
     "Lancia|Fulvia|1969|Sport Zagato": {
       "en": "1.3L DOHC narrow-V4",
@@ -3419,7 +3624,8 @@
       "wt": "780 kg",
       "se": "2",
       "ca": "~200 L",
-      "pr": "~£2,200"
+      "pr": "~£2,200",
+      "aspiration": "NA"
     },
     "Lancia|Beta Montecarlo|1977|Standard": {
       "en": "2.0L DOHC inline-4 mid-engine",
@@ -3435,7 +3641,8 @@
       "wt": "975 kg",
       "se": "2",
       "ca": "~200 L",
-      "pr": "~£7,500"
+      "pr": "~£7,500",
+      "aspiration": "NA"
     },
     "Lancia|Beta Montecarlo|1981|Turbo": {
       "en": "1.4L Turbo DOHC inline-4 mid-engine",
@@ -3451,7 +3658,8 @@
       "wt": "960 kg",
       "se": "2",
       "ca": "~200 L",
-      "pr": "~£10,000"
+      "pr": "~£10,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Gamma|1979|Berlina": {
       "en": "2.5L DOHC flat-4",
@@ -3466,7 +3674,8 @@
       "wt": "1,360 kg",
       "se": "5",
       "ca": "~380 L",
-      "pr": "~£9,500"
+      "pr": "~£9,500",
+      "aspiration": "NA"
     },
     "Lancia|Gamma|1979|Coupe": {
       "en": "2.5L DOHC flat-4",
@@ -3481,7 +3690,8 @@
       "wt": "1,310 kg",
       "se": "4",
       "ca": "~280 L",
-      "pr": "~£11,000"
+      "pr": "~£11,000",
+      "aspiration": "NA"
     },
     "Lancia|Rally 037|1983|Standard": {
       "en": "2.0L Supercharged DOHC inline-4",
@@ -3497,7 +3707,8 @@
       "wt": "1,080 kg",
       "se": "2",
       "ca": "~180 L",
-      "pr": "~£25,000"
+      "pr": "~£25,000",
+      "aspiration": "Supercharged"
     },
     "Lancia|Rally 037|1983|Evolution": {
       "en": "2.0L Supercharged DOHC inline-4 Evo",
@@ -3513,7 +3724,8 @@
       "wt": "1,050 kg",
       "se": "2",
       "ca": "~180 L",
-      "pr": "~£40,000"
+      "pr": "~£40,000",
+      "aspiration": "Supercharged"
     },
     "Lancia|Prisma|1985|1600": {
       "en": "1.6L DOHC inline-4",
@@ -3528,7 +3740,8 @@
       "wt": "1,060 kg",
       "se": "5",
       "ca": "~300 L",
-      "pr": "~£7,500"
+      "pr": "~£7,500",
+      "aspiration": "NA"
     },
     "Lancia|Prisma|1985|2000 Turbo": {
       "en": "2.0L Turbo DOHC inline-4",
@@ -3543,7 +3756,8 @@
       "wt": "1,170 kg",
       "se": "5",
       "ca": "~300 L",
-      "pr": "~£11,500"
+      "pr": "~£11,500",
+      "aspiration": "Turbo"
     },
     "Lancia|Thema|1987|2000 Turbo 16v": {
       "en": "2.0L Turbo DOHC 16v inline-4",
@@ -3558,7 +3772,8 @@
       "wt": "1,360 kg",
       "se": "5",
       "ca": "~380 L",
-      "pr": "~£18,000"
+      "pr": "~£18,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Thema|1988|8.32": {
       "en": "Ferrari 3.0L DOHC 32v V8",
@@ -3573,7 +3788,8 @@
       "wt": "1,430 kg",
       "se": "5",
       "ca": "~380 L",
-      "pr": "~£35,000"
+      "pr": "~£35,000",
+      "aspiration": "NA"
     },
     "Lancia|Thema|1990|SW": {
       "en": "2.0L Turbo DOHC inline-4",
@@ -3588,7 +3804,8 @@
       "wt": "1,420 kg",
       "se": "5",
       "ca": "~520 L",
-      "pr": "~£20,000"
+      "pr": "~£20,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Y10|1987|Fire": {
       "en": "FIRE 1.0L SOHC inline-4",
@@ -3603,7 +3820,8 @@
       "wt": "700 kg",
       "se": "4",
       "ca": "~225 L",
-      "pr": "~£5,000"
+      "pr": "~£5,000",
+      "aspiration": "NA"
     },
     "Lancia|Y10|1987|GT": {
       "en": "1.1L SOHC inline-4",
@@ -3618,7 +3836,8 @@
       "wt": "720 kg",
       "se": "4",
       "ca": "~225 L",
-      "pr": "~£6,500"
+      "pr": "~£6,500",
+      "aspiration": "NA"
     },
     "Lancia|Y10|1988|Turbo": {
       "en": "1.0L Turbo SOHC inline-4",
@@ -3633,7 +3852,8 @@
       "wt": "740 kg",
       "se": "4",
       "ca": "~225 L",
-      "pr": "~£8,500"
+      "pr": "~£8,500",
+      "aspiration": "Turbo"
     },
     "Lancia|Y10|1988|4WD": {
       "en": "1.1L SOHC inline-4 AWD",
@@ -3648,7 +3868,8 @@
       "wt": "830 kg",
       "se": "4",
       "ca": "~225 L",
-      "pr": "~£8,000"
+      "pr": "~£8,000",
+      "aspiration": "NA"
     },
     "Lancia|Dedra|1991|2.0 Turbo": {
       "en": "2.0L Turbo DOHC inline-4",
@@ -3663,7 +3884,8 @@
       "wt": "1,290 kg",
       "se": "5",
       "ca": "~510 L",
-      "pr": "~£16,000"
+      "pr": "~£16,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Dedra|1991|Integrale": {
       "en": "2.0L Turbo DOHC 16v inline-4 AWD",
@@ -3678,7 +3900,8 @@
       "wt": "1,350 kg",
       "se": "5",
       "ca": "~510 L",
-      "pr": "~£22,000"
+      "pr": "~£22,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Dedra|1993|SW": {
       "en": "2.0L Turbo DOHC inline-4",
@@ -3693,7 +3916,8 @@
       "wt": "1,340 kg",
       "se": "5",
       "ca": "~650 L",
-      "pr": "~£18,000"
+      "pr": "~£18,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Kappa|1997|2.0": {
       "en": "2.0L DOHC 16v inline-4",
@@ -3708,7 +3932,8 @@
       "wt": "1,440 kg",
       "se": "5",
       "ca": "~510 L",
-      "pr": "~£17,000"
+      "pr": "~£17,000",
+      "aspiration": "NA"
     },
     "Lancia|Kappa|1997|Coupe": {
       "en": "2.0L Turbo DOHC inline-5",
@@ -3723,7 +3948,8 @@
       "wt": "1,480 kg",
       "se": "4",
       "ca": "~310 L",
-      "pr": "~£28,000"
+      "pr": "~£28,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Zeta|1997|2.0 Turbo": {
       "en": "2.0L Turbo DOHC inline-4",
@@ -3738,7 +3964,8 @@
       "wt": "1,660 kg",
       "se": "8",
       "ca": "~700 L",
-      "pr": "~£20,000"
+      "pr": "~£20,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Ypsilon|1999|1.2": {
       "en": "1.2L SOHC inline-4",
@@ -3753,7 +3980,8 @@
       "wt": "895 kg",
       "se": "4",
       "ca": "~225 L",
-      "pr": "~£9,000"
+      "pr": "~£9,000",
+      "aspiration": "NA"
     },
     "Lancia|Ypsilon|1997|Turbo": {
       "en": "1.2L Turbo SOHC inline-4",
@@ -3768,7 +3996,8 @@
       "wt": "920 kg",
       "se": "4",
       "ca": "~225 L",
-      "pr": "~£12,000"
+      "pr": "~£12,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Ypsilon|2006|1.4": {
       "en": "1.4L SOHC inline-4",
@@ -3783,7 +4012,8 @@
       "wt": "960 kg",
       "se": "4",
       "ca": "~225 L",
-      "pr": "~£11,500"
+      "pr": "~£11,500",
+      "aspiration": "NA"
     },
     "Lancia|Ypsilon|2006|1.3 Multijet": {
       "en": "1.3L JTD DOHC inline-4 diesel",
@@ -3798,7 +4028,8 @@
       "wt": "990 kg",
       "se": "4",
       "ca": "~225 L",
-      "pr": "~£12,500"
+      "pr": "~£12,500",
+      "aspiration": "Turbo"
     },
     "Lancia|Ypsilon|2015|1.2 Gold": {
       "en": "1.2L SOHC inline-4",
@@ -3813,7 +4044,8 @@
       "wt": "1,045 kg",
       "se": "5",
       "ca": "~225 L",
-      "pr": "~£14,000"
+      "pr": "~£14,000",
+      "aspiration": "NA"
     },
     "Lancia|Ypsilon|2013|0.9 TwinAir": {
       "en": "0.9L TwinAir Turbo inline-2",
@@ -3828,7 +4060,8 @@
       "wt": "1,005 kg",
       "se": "5",
       "ca": "~225 L",
-      "pr": "~£16,000"
+      "pr": "~£16,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Lybra|2001|1.8": {
       "en": "1.8L DOHC 16v inline-4",
@@ -3843,7 +4076,8 @@
       "wt": "1,290 kg",
       "se": "5",
       "ca": "~510 L",
-      "pr": "~£14,000"
+      "pr": "~£14,000",
+      "aspiration": "NA"
     },
     "Lancia|Lybra|2001|SW": {
       "en": "2.4L JTD DOHC inline-5 diesel",
@@ -3858,7 +4092,8 @@
       "wt": "1,430 kg",
       "se": "5",
       "ca": "~650 L",
-      "pr": "~£18,000"
+      "pr": "~£18,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Thesis|2003|2.0 Turbo": {
       "en": "2.0L Turbo DOHC 20v inline-5",
@@ -3873,7 +4108,8 @@
       "wt": "1,620 kg",
       "se": "5",
       "ca": "~530 L",
-      "pr": "~£30,000"
+      "pr": "~£30,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Thesis|2003|3.0 V6": {
       "en": "3.0L DOHC 24v V6",
@@ -3888,7 +4124,8 @@
       "wt": "1,680 kg",
       "se": "5",
       "ca": "~530 L",
-      "pr": "~£38,000"
+      "pr": "~£38,000",
+      "aspiration": "NA"
     },
     "Lancia|Musa|2006|1.4": {
       "en": "1.4L SOHC inline-4",
@@ -3903,7 +4140,8 @@
       "wt": "1,150 kg",
       "se": "5",
       "ca": "~280 L",
-      "pr": "~£13,000"
+      "pr": "~£13,000",
+      "aspiration": "NA"
     },
     "Lancia|Musa|2008|1.9 Multijet": {
       "en": "1.9L JTD DOHC diesel inline-4",
@@ -3918,7 +4156,8 @@
       "wt": "1,260 kg",
       "se": "5",
       "ca": "~280 L",
-      "pr": "~£16,000"
+      "pr": "~£16,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Phedra|2004|2.0 16v": {
       "en": "2.0L DOHC 16v inline-4",
@@ -3933,7 +4172,8 @@
       "wt": "1,560 kg",
       "se": "7",
       "ca": "~700 L",
-      "pr": "~£22,000"
+      "pr": "~£22,000",
+      "aspiration": "NA"
     },
     "Lancia|Phedra|2004|2.2 JTD": {
       "en": "2.2L JTD DOHC diesel inline-4",
@@ -3948,7 +4188,8 @@
       "wt": "1,630 kg",
       "se": "7",
       "ca": "~700 L",
-      "pr": "~£24,000"
+      "pr": "~£24,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Delta II|2010|1.4 Turbo": {
       "en": "1.4L MultiAir Turbo inline-4",
@@ -3963,7 +4204,8 @@
       "wt": "1,390 kg",
       "se": "5",
       "ca": "~280 L",
-      "pr": "~£18,000"
+      "pr": "~£18,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Delta II|2010|1.8 DI Turbo": {
       "en": "1.8L DI Turbo DOHC inline-4",
@@ -3978,7 +4220,8 @@
       "wt": "1,495 kg",
       "se": "5",
       "ca": "~280 L",
-      "pr": "~£26,000"
+      "pr": "~£26,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Flavia II|2013|2.4": {
       "en": "Pentastar 2.4L SOHC inline-4",
@@ -3993,7 +4236,8 @@
       "wt": "1,590 kg",
       "se": "4",
       "ca": "~380 L",
-      "pr": "~£22,000"
+      "pr": "~£22,000",
+      "aspiration": "NA"
     },
     "Lancia|Flavia II|2013|2.4 Convertible": {
       "en": "Pentastar 2.4L SOHC inline-4",
@@ -4008,7 +4252,8 @@
       "wt": "1,670 kg",
       "se": "4",
       "ca": "~300 L",
-      "pr": "~£26,000"
+      "pr": "~£26,000",
+      "aspiration": "NA"
     },
     "Lancia|Voyager|2012|3.6 V6": {
       "en": "Pentastar 3.6L DOHC V6",
@@ -4023,7 +4268,8 @@
       "wt": "2,020 kg",
       "se": "7",
       "ca": "~1,007 L",
-      "pr": "~£30,000"
+      "pr": "~£30,000",
+      "aspiration": "NA"
     },
     "Lancia|Voyager|2012|2.8 CRD": {
       "en": "2.8L CRD DOHC diesel inline-4",
@@ -4038,7 +4284,8 @@
       "wt": "2,080 kg",
       "se": "7",
       "ca": "~1,007 L",
-      "pr": "~£28,000"
+      "pr": "~£28,000",
+      "aspiration": "Turbo"
     },
     "Lancia|New Ypsilon|2024|Electric": {
       "en": "Electric motor 115 kW",
@@ -4053,7 +4300,8 @@
       "wt": "1,396 kg",
       "se": "5",
       "ca": "~220 L",
-      "pr": "~€30,000"
+      "pr": "~€30,000",
+      "aspiration": "NA"
     },
     "Lancia|New Ypsilon|2024|Hybrid": {
       "en": "1.2L Hybrid + electric",
@@ -4068,7 +4316,8 @@
       "wt": "1,240 kg",
       "se": "5",
       "ca": "~220 L",
-      "pr": "~€24,000"
+      "pr": "~€24,000",
+      "aspiration": "NA"
     },
     "Lancia|Delta|1984|HF Turbo": {
       "en": "1.6L Turbo DOHC inline-4",
@@ -4083,7 +4332,8 @@
       "wt": "980 kg",
       "se": "5",
       "ca": "~280 L",
-      "pr": "~£10,500"
+      "pr": "~£10,500",
+      "aspiration": "Turbo"
     },
     "Lancia|Delta|1987|HF 4WD": {
       "en": "2.0L Turbo DOHC inline-4 4WD",
@@ -4098,7 +4348,8 @@
       "wt": "1,070 kg",
       "se": "5",
       "ca": "~280 L",
-      "pr": "~£16,000"
+      "pr": "~£16,000",
+      "aspiration": "Turbo"
     },
     "Lancia|Fulvia|1968|Coupe 1.3S": {
       "en": "1.3L DOHC narrow-V4",
@@ -4113,7 +4364,8 @@
       "wt": "870 kg",
       "se": "4",
       "ca": "~240 L",
-      "pr": "~£1,800"
+      "pr": "~£1,800",
+      "aspiration": "NA"
     },
     "Lancia|Fulvia|1972|Coupe 1.6 HF Lusso": {
       "en": "1.6L DOHC narrow-V4",
@@ -4128,7 +4380,8 @@
       "wt": "895 kg",
       "se": "4",
       "ca": "~240 L",
-      "pr": "~£2,600"
+      "pr": "~£2,600",
+      "aspiration": "NA"
     },
     "Lancia|Trevi|1982|1600": {
       "en": "1.6L DOHC inline-4",
@@ -4143,7 +4396,8 @@
       "wt": "1,050 kg",
       "se": "4",
       "ca": "~310 L",
-      "pr": "~£6,500"
+      "pr": "~£6,500",
+      "aspiration": "NA"
     },
     "Lancia|Trevi|1982|2000": {
       "en": "2.0L DOHC inline-4",
@@ -4158,7 +4412,8 @@
       "wt": "1,070 kg",
       "se": "4",
       "ca": "~310 L",
-      "pr": "~£8,000"
+      "pr": "~£8,000",
+      "aspiration": "NA"
     },
     "Lancia|Trevi|1983|VX": {
       "en": "2.0L Volumex Supercharged DOHC inline-4",
@@ -4173,7 +4428,8 @@
       "wt": "1,100 kg",
       "se": "4",
       "ca": "~310 L",
-      "pr": "~£11,000"
+      "pr": "~£11,000",
+      "aspiration": "Supercharged"
     },
     "Lancia|Alpha|1908|Torpedo": {
       "en": "2.5L inline-4",
@@ -4188,7 +4444,8 @@
       "wt": "~900 kg",
       "se": "4",
       "ca": "N/A",
-      "pr": "~£400"
+      "pr": "~£400",
+      "aspiration": "NA"
     },
     "Lancia|Theta|1915|Torpedo": {
       "en": "3.6L SOHC inline-4",
@@ -4203,7 +4460,8 @@
       "wt": "~1,200 kg",
       "se": "4",
       "ca": "N/A",
-      "pr": "~£600"
+      "pr": "~£600",
+      "aspiration": "NA"
     },
     "Lancia|Theta|1915|Berlina": {
       "en": "3.6L SOHC inline-4",
@@ -4218,7 +4476,8 @@
       "wt": "~1,300 kg",
       "se": "4",
       "ca": "N/A",
-      "pr": "~£700"
+      "pr": "~£700",
+      "aspiration": "NA"
     },
     "Lancia|Kappa (1919)|1920|Torpedo": {
       "en": "4.9L SOHC V8",
@@ -4233,7 +4492,8 @@
       "wt": "~1,500 kg",
       "se": "4",
       "ca": "N/A",
-      "pr": "~£900"
+      "pr": "~£900",
+      "aspiration": "NA"
     },
     "Lancia|Kappa (1919)|1920|Berlina": {
       "en": "4.9L SOHC V8",
@@ -4248,7 +4508,8 @@
       "wt": "~1,600 kg",
       "se": "4",
       "ca": "N/A",
-      "pr": "~£1,000"
+      "pr": "~£1,000",
+      "aspiration": "NA"
     },
     "Lancia|Trikappa|1923|Torpedo": {
       "en": "4.6L SOHC V8",
@@ -4263,7 +4524,8 @@
       "wt": "~1,550 kg",
       "se": "4",
       "ca": "N/A",
-      "pr": "~£1,100"
+      "pr": "~£1,100",
+      "aspiration": "NA"
     },
     "Lancia|Trikappa|1923|Berlina": {
       "en": "4.6L SOHC V8",
@@ -4278,7 +4540,8 @@
       "wt": "~1,650 kg",
       "se": "4",
       "ca": "N/A",
-      "pr": "~£1,200"
+      "pr": "~£1,200",
+      "aspiration": "NA"
     },
     "Lancia|Lambda|1924|Torpedo": {
       "en": "2.1L SOHC narrow-V4",
@@ -4293,7 +4556,8 @@
       "wt": "~1,100 kg",
       "se": "4",
       "ca": "N/A",
-      "pr": "~£700"
+      "pr": "~£700",
+      "aspiration": "NA"
     },
     "Lancia|Lambda|1924|Berlina": {
       "en": "2.1L SOHC narrow-V4",
@@ -4308,7 +4572,8 @@
       "wt": "~1,200 kg",
       "se": "4",
       "ca": "N/A",
-      "pr": "~£800"
+      "pr": "~£800",
+      "aspiration": "NA"
     },
     "Lancia|Lambda|1928|Cabriolet": {
       "en": "2.4L SOHC narrow-V4",
@@ -4323,7 +4588,8 @@
       "wt": "~1,200 kg",
       "se": "4",
       "ca": "N/A",
-      "pr": "~£900"
+      "pr": "~£900",
+      "aspiration": "NA"
     },
     "Lancia|Dilambda|1930|Berlina": {
       "en": "4.0L SOHC narrow-V8",
@@ -4338,7 +4604,8 @@
       "wt": "~1,700 kg",
       "se": "5",
       "ca": "N/A",
-      "pr": "~£1,400"
+      "pr": "~£1,400",
+      "aspiration": "NA"
     },
     "Lancia|Dilambda|1930|Cabriolet": {
       "en": "4.0L SOHC narrow-V8",
@@ -4353,7 +4620,8 @@
       "wt": "~1,800 kg",
       "se": "4",
       "ca": "N/A",
-      "pr": "~£1,600"
+      "pr": "~£1,600",
+      "aspiration": "NA"
     },
     "Lancia|Artena|1932|Berlina": {
       "en": "1.9L SOHC narrow-V4",
@@ -4368,7 +4636,8 @@
       "wt": "~1,200 kg",
       "se": "5",
       "ca": "~300 L",
-      "pr": "~£650"
+      "pr": "~£650",
+      "aspiration": "NA"
     },
     "Lancia|Artena|1932|Torpedo": {
       "en": "1.9L SOHC narrow-V4",
@@ -4383,7 +4652,8 @@
       "wt": "~1,150 kg",
       "se": "4",
       "ca": "N/A",
-      "pr": "~£700"
+      "pr": "~£700",
+      "aspiration": "NA"
     },
     "Lancia|Astura|1933|Berlina": {
       "en": "2.6L SOHC narrow-V8",
@@ -4398,7 +4668,8 @@
       "wt": "~1,500 kg",
       "se": "5",
       "ca": "N/A",
-      "pr": "~£1,000"
+      "pr": "~£1,000",
+      "aspiration": "NA"
     },
     "Lancia|Astura|1933|Cabriolet": {
       "en": "2.6L SOHC narrow-V8",
@@ -4413,7 +4684,8 @@
       "wt": "~1,550 kg",
       "se": "4",
       "ca": "N/A",
-      "pr": "~£1,200"
+      "pr": "~£1,200",
+      "aspiration": "NA"
     },
     "Lancia|Astura|1936|Sport": {
       "en": "2.97L SOHC narrow-V8",
@@ -4428,7 +4700,8 @@
       "wt": "~1,450 kg",
       "se": "2",
       "ca": "N/A",
-      "pr": "~£1,800"
+      "pr": "~£1,800",
+      "aspiration": "NA"
     },
     "Lancia|Augusta|1934|Berlina": {
       "en": "1.2L SOHC narrow-V4",
@@ -4443,7 +4716,8 @@
       "wt": "~870 kg",
       "se": "4",
       "ca": "~250 L",
-      "pr": "~£450"
+      "pr": "~£450",
+      "aspiration": "NA"
     },
     "Lancia|Augusta|1934|Cabriolet": {
       "en": "1.2L SOHC narrow-V4",
@@ -4458,7 +4732,8 @@
       "wt": "~900 kg",
       "se": "4",
       "ca": "N/A",
-      "pr": "~£550"
+      "pr": "~£550",
+      "aspiration": "NA"
     }
   }
 }

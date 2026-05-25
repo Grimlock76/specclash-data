@@ -16,7 +16,8 @@
       "fuelType": "petrol",
       "weight": 1010,
       "seats": 5,
-      "price": "~$18,490"
+      "price": "~$18,490",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2003|VTi-S": {
       "engine": "1.3L i-DSI",
@@ -34,7 +35,8 @@
       "fuelType": "petrol",
       "weight": 1010,
       "seats": 5,
-      "price": "~$20,490"
+      "price": "~$20,490",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2004|VTi": {
       "engine": "1.3L i-DSI",
@@ -52,7 +54,8 @@
       "fuelType": "petrol",
       "weight": 1010,
       "seats": 5,
-      "price": "~$18,990"
+      "price": "~$18,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2004|VTi-S": {
       "engine": "1.3L i-DSI",
@@ -70,7 +73,8 @@
       "fuelType": "petrol",
       "weight": 1010,
       "seats": 5,
-      "price": "~$20,990"
+      "price": "~$20,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2005|VTi": {
       "engine": "1.3L i-DSI",
@@ -88,7 +92,8 @@
       "fuelType": "petrol",
       "weight": 1010,
       "seats": 5,
-      "price": "~$19,490"
+      "price": "~$19,490",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2005|VTi-S": {
       "engine": "1.3L i-DSI",
@@ -106,7 +111,8 @@
       "fuelType": "petrol",
       "weight": 1010,
       "seats": 5,
-      "price": "~$21,490"
+      "price": "~$21,490",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2006|VTi": {
       "engine": "1.3L i-DSI",
@@ -124,7 +130,8 @@
       "fuelType": "petrol",
       "weight": 1010,
       "seats": 5,
-      "price": "~$19,990"
+      "price": "~$19,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2006|VTi-S": {
       "engine": "1.3L i-DSI",
@@ -142,7 +149,8 @@
       "fuelType": "petrol",
       "weight": 1010,
       "seats": 5,
-      "price": "~$21,990"
+      "price": "~$21,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2007|VTi": {
       "engine": "1.3L i-DSI",
@@ -160,7 +168,8 @@
       "fuelType": "petrol",
       "weight": 1010,
       "seats": 5,
-      "price": "~$20,490"
+      "price": "~$20,490",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2007|VTi-S": {
       "engine": "1.3L i-DSI",
@@ -178,7 +187,8 @@
       "fuelType": "petrol",
       "weight": 1010,
       "seats": 5,
-      "price": "~$22,490"
+      "price": "~$22,490",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2008|VTi": {
       "engine": "1.3L i-DSI",
@@ -196,7 +206,8 @@
       "fuelType": "petrol",
       "weight": 1010,
       "seats": 5,
-      "price": "~$20,990"
+      "price": "~$20,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2008|VTi-S": {
       "engine": "1.3L i-DSI",
@@ -214,7 +225,8 @@
       "fuelType": "petrol",
       "weight": 1010,
       "seats": 5,
-      "price": "~$22,990"
+      "price": "~$22,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2009|VTi-S": {
       "engine": "1.5L i-VTEC",
@@ -232,7 +244,8 @@
       "fuelType": "petrol",
       "weight": 1135,
       "seats": 5,
-      "price": "~$23,490"
+      "price": "~$23,490",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2010|VTi-S": {
       "engine": "1.5L i-VTEC",
@@ -250,7 +263,8 @@
       "fuelType": "petrol",
       "weight": 1135,
       "seats": 5,
-      "price": "~$24,090"
+      "price": "~$24,090",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2011|VTi-S": {
       "engine": "1.5L i-VTEC",
@@ -268,7 +282,8 @@
       "fuelType": "petrol",
       "weight": 1135,
       "seats": 5,
-      "price": "~$24,690"
+      "price": "~$24,690",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2012|VTi-S": {
       "engine": "1.5L i-VTEC",
@@ -286,7 +301,8 @@
       "fuelType": "petrol",
       "weight": 1135,
       "seats": 5,
-      "price": "~$25,290"
+      "price": "~$25,290",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2013|VTi-S": {
       "engine": "1.5L i-VTEC",
@@ -304,7 +320,8 @@
       "fuelType": "petrol",
       "weight": 1135,
       "seats": 5,
-      "price": "~$25,890"
+      "price": "~$25,890",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2014|VTi-S": {
       "engine": "1.5L i-VTEC",
@@ -322,7 +339,8 @@
       "fuelType": "petrol",
       "weight": 1135,
       "seats": 5,
-      "price": "~$26,490"
+      "price": "~$26,490",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2015|VTi": {
       "engine": "1.5L i-VTEC",
@@ -340,7 +358,8 @@
       "fuelType": "petrol",
       "weight": 1105,
       "seats": 5,
-      "price": "~$18,990"
+      "price": "~$18,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2015|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -358,7 +377,8 @@
       "fuelType": "petrol",
       "weight": 1105,
       "seats": 5,
-      "price": "~$22,490"
+      "price": "~$22,490",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2015|VTi-LX": {
       "engine": "1.5L i-VTEC",
@@ -376,7 +396,8 @@
       "fuelType": "petrol",
       "weight": 1105,
       "seats": 5,
-      "price": "~$25,490"
+      "price": "~$25,490",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2016|VTi": {
       "engine": "1.5L i-VTEC",
@@ -394,7 +415,8 @@
       "fuelType": "petrol",
       "weight": 1105,
       "seats": 5,
-      "price": "~$19,490"
+      "price": "~$19,490",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2016|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -412,7 +434,8 @@
       "fuelType": "petrol",
       "weight": 1105,
       "seats": 5,
-      "price": "~$22,990"
+      "price": "~$22,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2016|VTi-LX": {
       "engine": "1.5L i-VTEC",
@@ -430,7 +453,8 @@
       "fuelType": "petrol",
       "weight": 1105,
       "seats": 5,
-      "price": "~$25,990"
+      "price": "~$25,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2017|VTi": {
       "engine": "1.5L i-VTEC",
@@ -448,7 +472,8 @@
       "fuelType": "petrol",
       "weight": 1105,
       "seats": 5,
-      "price": "~$19,990"
+      "price": "~$19,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2017|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -466,7 +491,8 @@
       "fuelType": "petrol",
       "weight": 1105,
       "seats": 5,
-      "price": "~$23,490"
+      "price": "~$23,490",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2017|VTi-LX": {
       "engine": "1.5L i-VTEC",
@@ -484,7 +510,8 @@
       "fuelType": "petrol",
       "weight": 1105,
       "seats": 5,
-      "price": "~$26,490"
+      "price": "~$26,490",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2018|VTi": {
       "engine": "1.5L i-VTEC",
@@ -502,7 +529,8 @@
       "fuelType": "petrol",
       "weight": 1105,
       "seats": 5,
-      "price": "~$20,490"
+      "price": "~$20,490",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2018|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -520,7 +548,8 @@
       "fuelType": "petrol",
       "weight": 1105,
       "seats": 5,
-      "price": "~$23,990"
+      "price": "~$23,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2018|VTi-LX": {
       "engine": "1.5L i-VTEC",
@@ -538,7 +567,8 @@
       "fuelType": "petrol",
       "weight": 1105,
       "seats": 5,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2019|VTi": {
       "engine": "1.5L i-VTEC",
@@ -556,7 +586,8 @@
       "fuelType": "petrol",
       "weight": 1105,
       "seats": 5,
-      "price": "~$20,990"
+      "price": "~$20,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2019|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -574,7 +605,8 @@
       "fuelType": "petrol",
       "weight": 1105,
       "seats": 5,
-      "price": "~$24,490"
+      "price": "~$24,490",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2019|VTi-LX": {
       "engine": "1.5L i-VTEC",
@@ -592,7 +624,8 @@
       "fuelType": "petrol",
       "weight": 1105,
       "seats": 5,
-      "price": "~$27,490"
+      "price": "~$27,490",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2020|VTi": {
       "engine": "1.5L i-VTEC",
@@ -610,7 +643,8 @@
       "fuelType": "petrol",
       "weight": 1105,
       "seats": 5,
-      "price": "~$21,490"
+      "price": "~$21,490",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2020|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -628,7 +662,8 @@
       "fuelType": "petrol",
       "weight": 1105,
       "seats": 5,
-      "price": "~$24,990"
+      "price": "~$24,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2020|VTi-LX": {
       "engine": "1.5L i-VTEC",
@@ -646,7 +681,8 @@
       "fuelType": "petrol",
       "weight": 1105,
       "seats": 5,
-      "price": "~$27,990"
+      "price": "~$27,990",
+      "aspiration": "NA"
     },
     "Honda|CR-V|2017|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -665,7 +701,8 @@
       "weight": 1602,
       "seats": 5,
       "cargo": 522,
-      "price": "~$41,990"
+      "price": "~$41,990",
+      "aspiration": "Turbo"
     },
     "Honda|CR-V|2017|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -684,7 +721,8 @@
       "weight": 1480,
       "seats": 5,
       "cargo": 522,
-      "price": "~$35,990"
+      "price": "~$35,990",
+      "aspiration": "Turbo"
     },
     "Honda|CR-V|2018|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -703,7 +741,8 @@
       "weight": 1602,
       "seats": 5,
       "cargo": 522,
-      "price": "~$42,990"
+      "price": "~$42,990",
+      "aspiration": "Turbo"
     },
     "Honda|CR-V|2018|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -722,7 +761,8 @@
       "weight": 1480,
       "seats": 5,
       "cargo": 522,
-      "price": "~$36,790"
+      "price": "~$36,790",
+      "aspiration": "Turbo"
     },
     "Honda|CR-V|2019|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -741,7 +781,8 @@
       "weight": 1602,
       "seats": 5,
       "cargo": 522,
-      "price": "~$43,990"
+      "price": "~$43,990",
+      "aspiration": "Turbo"
     },
     "Honda|CR-V|2019|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -760,7 +801,8 @@
       "weight": 1480,
       "seats": 5,
       "cargo": 522,
-      "price": "~$37,590"
+      "price": "~$37,590",
+      "aspiration": "Turbo"
     },
     "Honda|CR-V|2020|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -779,7 +821,8 @@
       "weight": 1602,
       "seats": 5,
       "cargo": 522,
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "aspiration": "Turbo"
     },
     "Honda|CR-V|2020|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -798,7 +841,8 @@
       "weight": 1480,
       "seats": 5,
       "cargo": 522,
-      "price": "~$38,390"
+      "price": "~$38,390",
+      "aspiration": "Turbo"
     },
     "Honda|CR-V|2021|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -817,7 +861,8 @@
       "weight": 1602,
       "seats": 5,
       "cargo": 522,
-      "price": "~$45,990"
+      "price": "~$45,990",
+      "aspiration": "Turbo"
     },
     "Honda|CR-V|2021|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -836,7 +881,8 @@
       "weight": 1480,
       "seats": 5,
       "cargo": 522,
-      "price": "~$39,190"
+      "price": "~$39,190",
+      "aspiration": "Turbo"
     },
     "Honda|CR-V|2023|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -855,7 +901,8 @@
       "weight": 1618,
       "seats": 5,
       "cargo": 522,
-      "price": "~$48,990"
+      "price": "~$48,990",
+      "aspiration": "Turbo"
     },
     "Honda|CR-V|2023|e:HEV VTi-L": {
       "engine": "2.0L i-MMD e:HEV",
@@ -874,7 +921,8 @@
       "weight": 1787,
       "seats": 5,
       "cargo": 497,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "aspiration": "NA"
     },
     "Honda|CR-V|2023|e:HEV VTi-LX": {
       "engine": "2.0L i-MMD e:HEV",
@@ -893,7 +941,8 @@
       "weight": 1787,
       "seats": 5,
       "cargo": 497,
-      "price": "~$59,990"
+      "price": "~$59,990",
+      "aspiration": "NA"
     },
     "Honda|CR-V|2023|RS e:HEV": {
       "engine": "2.0L i-MMD e:HEV",
@@ -912,7 +961,8 @@
       "weight": 1787,
       "seats": 5,
       "cargo": 497,
-      "price": "~$63,990"
+      "price": "~$63,990",
+      "aspiration": "NA"
     },
     "Honda|CR-V|2024|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -931,7 +981,8 @@
       "weight": 1618,
       "seats": 5,
       "cargo": 522,
-      "price": "~$49,990"
+      "price": "~$49,990",
+      "aspiration": "Turbo"
     },
     "Honda|CR-V|2024|e:HEV VTi-L": {
       "engine": "2.0L i-MMD e:HEV",
@@ -950,7 +1001,8 @@
       "weight": 1787,
       "seats": 5,
       "cargo": 497,
-      "price": "~$55,990"
+      "price": "~$55,990",
+      "aspiration": "NA"
     },
     "Honda|CR-V|2024|e:HEV VTi-LX": {
       "engine": "2.0L i-MMD e:HEV",
@@ -969,7 +1021,8 @@
       "weight": 1787,
       "seats": 5,
       "cargo": 497,
-      "price": "~$60,990"
+      "price": "~$60,990",
+      "aspiration": "NA"
     },
     "Honda|CR-V|2024|RS e:HEV": {
       "engine": "2.0L i-MMD e:HEV",
@@ -988,7 +1041,8 @@
       "weight": 1787,
       "seats": 5,
       "cargo": 497,
-      "price": "~$64,990"
+      "price": "~$64,990",
+      "aspiration": "NA"
     },
     "Honda|CR-V|2025|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -1007,7 +1061,8 @@
       "weight": 1618,
       "seats": 5,
       "cargo": 522,
-      "price": "~$50,990"
+      "price": "~$50,990",
+      "aspiration": "Turbo"
     },
     "Honda|CR-V|2025|e:HEV VTi-L": {
       "engine": "2.0L i-MMD e:HEV",
@@ -1026,7 +1081,8 @@
       "weight": 1787,
       "seats": 5,
       "cargo": 497,
-      "price": "~$56,990"
+      "price": "~$56,990",
+      "aspiration": "NA"
     },
     "Honda|CR-V|2025|e:HEV VTi-LX": {
       "engine": "2.0L i-MMD e:HEV",
@@ -1045,7 +1101,8 @@
       "weight": 1787,
       "seats": 5,
       "cargo": 497,
-      "price": "~$61,990"
+      "price": "~$61,990",
+      "aspiration": "NA"
     },
     "Honda|CR-V|2025|RS e:HEV": {
       "engine": "2.0L i-MMD e:HEV",
@@ -1064,7 +1121,8 @@
       "weight": 1787,
       "seats": 5,
       "cargo": 497,
-      "price": "~$65,990"
+      "price": "~$65,990",
+      "aspiration": "NA"
     },
     "Honda|CR-V|2026|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -1083,7 +1141,8 @@
       "weight": 1618,
       "seats": 5,
       "cargo": 522,
-      "price": "~$51,990"
+      "price": "~$51,990",
+      "aspiration": "Turbo"
     },
     "Honda|CR-V|2026|e:HEV VTi-L": {
       "engine": "2.0L i-MMD e:HEV",
@@ -1102,7 +1161,8 @@
       "weight": 1787,
       "seats": 5,
       "cargo": 497,
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "aspiration": "NA"
     },
     "Honda|CR-V|2026|e:HEV VTi-LX": {
       "engine": "2.0L i-MMD e:HEV",
@@ -1121,7 +1181,8 @@
       "weight": 1787,
       "seats": 5,
       "cargo": 497,
-      "price": "~$62,990"
+      "price": "~$62,990",
+      "aspiration": "NA"
     },
     "Honda|CR-V|2026|RS e:HEV": {
       "engine": "2.0L i-MMD e:HEV",
@@ -1140,7 +1201,8 @@
       "weight": 1787,
       "seats": 5,
       "cargo": 497,
-      "price": "~$66,990"
+      "price": "~$66,990",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2022|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -1158,7 +1220,8 @@
       "fuelType": "petrol",
       "weight": 1320,
       "seats": 5,
-      "price": "~$32,990"
+      "price": "~$32,990",
+      "aspiration": "Turbo"
     },
     "Honda|HR-V|2022|e:HEV L": {
       "engine": "1.5L e:HEV",
@@ -1176,7 +1239,8 @@
       "fuelType": "hybrid",
       "weight": 1415,
       "seats": 5,
-      "price": "~$37,990"
+      "price": "~$37,990",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2022|e:HEV RS": {
       "engine": "1.5L e:HEV",
@@ -1194,7 +1258,8 @@
       "fuelType": "hybrid",
       "weight": 1415,
       "seats": 5,
-      "price": "~$42,990"
+      "price": "~$42,990",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2023|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -1212,7 +1277,8 @@
       "fuelType": "petrol",
       "weight": 1320,
       "seats": 5,
-      "price": "~$33,490"
+      "price": "~$33,490",
+      "aspiration": "Turbo"
     },
     "Honda|HR-V|2023|e:HEV L": {
       "engine": "1.5L e:HEV",
@@ -1230,7 +1296,8 @@
       "fuelType": "hybrid",
       "weight": 1415,
       "seats": 5,
-      "price": "~$38,490"
+      "price": "~$38,490",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2023|e:HEV RS": {
       "engine": "1.5L e:HEV",
@@ -1248,7 +1315,8 @@
       "fuelType": "hybrid",
       "weight": 1415,
       "seats": 5,
-      "price": "~$43,490"
+      "price": "~$43,490",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2024|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -1266,7 +1334,8 @@
       "fuelType": "petrol",
       "weight": 1320,
       "seats": 5,
-      "price": "~$33,990"
+      "price": "~$33,990",
+      "aspiration": "Turbo"
     },
     "Honda|HR-V|2024|e:HEV L": {
       "engine": "1.5L e:HEV",
@@ -1284,7 +1353,8 @@
       "fuelType": "hybrid",
       "weight": 1415,
       "seats": 5,
-      "price": "~$38,990"
+      "price": "~$38,990",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2024|e:HEV RS": {
       "engine": "1.5L e:HEV",
@@ -1302,7 +1372,8 @@
       "fuelType": "hybrid",
       "weight": 1415,
       "seats": 5,
-      "price": "~$43,990"
+      "price": "~$43,990",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2025|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -1320,7 +1391,8 @@
       "fuelType": "petrol",
       "weight": 1320,
       "seats": 5,
-      "price": "~$34,490"
+      "price": "~$34,490",
+      "aspiration": "Turbo"
     },
     "Honda|HR-V|2025|e:HEV L": {
       "engine": "1.5L e:HEV",
@@ -1338,7 +1410,8 @@
       "fuelType": "hybrid",
       "weight": 1415,
       "seats": 5,
-      "price": "~$39,490"
+      "price": "~$39,490",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2025|e:HEV RS": {
       "engine": "1.5L e:HEV",
@@ -1356,7 +1429,8 @@
       "fuelType": "hybrid",
       "weight": 1415,
       "seats": 5,
-      "price": "~$44,490"
+      "price": "~$44,490",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2026|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -1374,7 +1448,8 @@
       "fuelType": "petrol",
       "weight": 1320,
       "seats": 5,
-      "price": "~$34,990"
+      "price": "~$34,990",
+      "aspiration": "Turbo"
     },
     "Honda|HR-V|2026|e:HEV L": {
       "engine": "1.5L e:HEV",
@@ -1392,7 +1467,8 @@
       "fuelType": "hybrid",
       "weight": 1415,
       "seats": 5,
-      "price": "~$39,990"
+      "price": "~$39,990",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2026|e:HEV RS": {
       "engine": "1.5L e:HEV",
@@ -1410,7 +1486,8 @@
       "fuelType": "hybrid",
       "weight": 1415,
       "seats": 5,
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2014|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -1428,7 +1505,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2015|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -1446,7 +1524,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$27,490"
+      "price": "~$27,490",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2016|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -1464,7 +1543,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$27,990"
+      "price": "~$27,990",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2017|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -1482,7 +1562,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$28,490"
+      "price": "~$28,490",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2017|RS": {
       "engine": "1.5L i-VTEC",
@@ -1500,7 +1581,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$29,490"
+      "price": "~$29,490",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2018|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -1518,7 +1600,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$28,990"
+      "price": "~$28,990",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2018|RS": {
       "engine": "1.5L i-VTEC",
@@ -1536,7 +1619,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$29,990"
+      "price": "~$29,990",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2019|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -1554,7 +1638,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$29,490"
+      "price": "~$29,490",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2019|RS": {
       "engine": "1.5L i-VTEC",
@@ -1572,7 +1657,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$30,490"
+      "price": "~$30,490",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2020|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -1590,7 +1676,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$29,990"
+      "price": "~$29,990",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2020|RS": {
       "engine": "1.5L i-VTEC",
@@ -1608,7 +1695,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$30,990"
+      "price": "~$30,990",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2021|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -1626,7 +1714,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$30,490"
+      "price": "~$30,490",
+      "aspiration": "NA"
     },
     "Honda|HR-V|2021|RS": {
       "engine": "1.5L i-VTEC",
@@ -1644,7 +1733,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$31,490"
+      "price": "~$31,490",
+      "aspiration": "NA"
     },
     "Honda|Odyssey|2014|VTi-L": {
       "engine": "2.4L i-VTEC",
@@ -1663,7 +1753,8 @@
       "weight": 1760,
       "seats": 8,
       "cargo": 695,
-      "price": "~$47,990"
+      "price": "~$47,990",
+      "aspiration": "NA"
     },
     "Honda|Odyssey|2014|VTi-LX": {
       "engine": "2.4L i-VTEC",
@@ -1682,7 +1773,8 @@
       "weight": 1760,
       "seats": 8,
       "cargo": 695,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "aspiration": "NA"
     },
     "Honda|Odyssey|2015|VTi-L": {
       "engine": "2.4L i-VTEC",
@@ -1701,7 +1793,8 @@
       "weight": 1760,
       "seats": 8,
       "cargo": 695,
-      "price": "~$48,790"
+      "price": "~$48,790",
+      "aspiration": "NA"
     },
     "Honda|Odyssey|2015|VTi-LX": {
       "engine": "2.4L i-VTEC",
@@ -1720,7 +1813,8 @@
       "weight": 1760,
       "seats": 8,
       "cargo": 695,
-      "price": "~$55,790"
+      "price": "~$55,790",
+      "aspiration": "NA"
     },
     "Honda|Odyssey|2016|VTi-L": {
       "engine": "2.4L i-VTEC",
@@ -1739,7 +1833,8 @@
       "weight": 1760,
       "seats": 8,
       "cargo": 695,
-      "price": "~$49,590"
+      "price": "~$49,590",
+      "aspiration": "NA"
     },
     "Honda|Odyssey|2016|VTi-LX": {
       "engine": "2.4L i-VTEC",
@@ -1758,7 +1853,8 @@
       "weight": 1760,
       "seats": 8,
       "cargo": 695,
-      "price": "~$56,590"
+      "price": "~$56,590",
+      "aspiration": "NA"
     },
     "Honda|Odyssey|2017|VTi-L": {
       "engine": "2.4L i-VTEC",
@@ -1777,7 +1873,8 @@
       "weight": 1760,
       "seats": 8,
       "cargo": 695,
-      "price": "~$50,390"
+      "price": "~$50,390",
+      "aspiration": "NA"
     },
     "Honda|Odyssey|2017|VTi-LX": {
       "engine": "2.4L i-VTEC",
@@ -1796,7 +1893,8 @@
       "weight": 1760,
       "seats": 8,
       "cargo": 695,
-      "price": "~$57,390"
+      "price": "~$57,390",
+      "aspiration": "NA"
     },
     "Honda|Odyssey|2018|VTi-L": {
       "engine": "2.4L i-VTEC",
@@ -1815,7 +1913,8 @@
       "weight": 1760,
       "seats": 8,
       "cargo": 695,
-      "price": "~$51,190"
+      "price": "~$51,190",
+      "aspiration": "NA"
     },
     "Honda|Odyssey|2018|VTi-LX": {
       "engine": "2.4L i-VTEC",
@@ -1834,7 +1933,8 @@
       "weight": 1760,
       "seats": 8,
       "cargo": 695,
-      "price": "~$58,190"
+      "price": "~$58,190",
+      "aspiration": "NA"
     },
     "Honda|Odyssey|2019|VTi-L": {
       "engine": "2.4L i-VTEC",
@@ -1853,7 +1953,8 @@
       "weight": 1760,
       "seats": 8,
       "cargo": 695,
-      "price": "~$51,990"
+      "price": "~$51,990",
+      "aspiration": "NA"
     },
     "Honda|Odyssey|2019|VTi-LX": {
       "engine": "2.4L i-VTEC",
@@ -1872,7 +1973,8 @@
       "weight": 1760,
       "seats": 8,
       "cargo": 695,
-      "price": "~$58,990"
+      "price": "~$58,990",
+      "aspiration": "NA"
     },
     "Honda|Odyssey|2020|VTi-L": {
       "engine": "2.4L i-VTEC",
@@ -1891,7 +1993,8 @@
       "weight": 1760,
       "seats": 8,
       "cargo": 695,
-      "price": "~$52,790"
+      "price": "~$52,790",
+      "aspiration": "NA"
     },
     "Honda|Odyssey|2020|VTi-LX": {
       "engine": "2.4L i-VTEC",
@@ -1910,7 +2013,8 @@
       "weight": 1760,
       "seats": 8,
       "cargo": 695,
-      "price": "~$59,790"
+      "price": "~$59,790",
+      "aspiration": "NA"
     },
     "Honda|Odyssey|2021|VTi-L": {
       "engine": "2.4L i-VTEC",
@@ -1929,7 +2033,8 @@
       "weight": 1760,
       "seats": 8,
       "cargo": 695,
-      "price": "~$53,590"
+      "price": "~$53,590",
+      "aspiration": "NA"
     },
     "Honda|Odyssey|2021|VTi-LX": {
       "engine": "2.4L i-VTEC",
@@ -1948,7 +2053,8 @@
       "weight": 1760,
       "seats": 8,
       "cargo": 695,
-      "price": "~$60,590"
+      "price": "~$60,590",
+      "aspiration": "NA"
     },
     "Honda|Civic|2022|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -1966,7 +2072,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$34,990"
+      "price": "~$34,990",
+      "aspiration": "Turbo"
     },
     "Honda|Civic|2022|RS": {
       "engine": "1.5L VTEC Turbo",
@@ -1984,7 +2091,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$38,490"
+      "price": "~$38,490",
+      "aspiration": "Turbo"
     },
     "Honda|Civic|2023|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -2002,7 +2110,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$35,490"
+      "price": "~$35,490",
+      "aspiration": "Turbo"
     },
     "Honda|Civic|2023|RS": {
       "engine": "1.5L VTEC Turbo",
@@ -2020,7 +2129,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$38,990"
+      "price": "~$38,990",
+      "aspiration": "Turbo"
     },
     "Honda|Civic|2024|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -2038,7 +2148,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$35,990"
+      "price": "~$35,990",
+      "aspiration": "Turbo"
     },
     "Honda|Civic|2024|RS": {
       "engine": "1.5L VTEC Turbo",
@@ -2056,7 +2167,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$39,490"
+      "price": "~$39,490",
+      "aspiration": "Turbo"
     },
     "Honda|Civic|2025|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -2074,7 +2186,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$36,490"
+      "price": "~$36,490",
+      "aspiration": "Turbo"
     },
     "Honda|Civic|2025|RS": {
       "engine": "1.5L VTEC Turbo",
@@ -2092,7 +2205,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$39,990"
+      "price": "~$39,990",
+      "aspiration": "Turbo"
     },
     "Honda|Civic|2026|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -2110,7 +2224,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$36,990"
+      "price": "~$36,990",
+      "aspiration": "Turbo"
     },
     "Honda|Civic|2026|RS": {
       "engine": "1.5L VTEC Turbo",
@@ -2128,7 +2243,8 @@
       "fuelType": "petrol",
       "weight": 1235,
       "seats": 5,
-      "price": "~$40,490"
+      "price": "~$40,490",
+      "aspiration": "Turbo"
     },
     "Honda|Accord|2018|VTi": {
       "engine": "1.5L VTEC Turbo",
@@ -2146,7 +2262,8 @@
       "fuelType": "petrol",
       "weight": 1445,
       "seats": 5,
-      "price": "~$35,990"
+      "price": "~$35,990",
+      "aspiration": "Turbo"
     },
     "Honda|Accord|2018|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -2164,7 +2281,8 @@
       "fuelType": "petrol",
       "weight": 1445,
       "seats": 5,
-      "price": "~$39,990"
+      "price": "~$39,990",
+      "aspiration": "Turbo"
     },
     "Honda|Accord|2019|VTi": {
       "engine": "1.5L VTEC Turbo",
@@ -2182,7 +2300,8 @@
       "fuelType": "petrol",
       "weight": 1445,
       "seats": 5,
-      "price": "~$36,990"
+      "price": "~$36,990",
+      "aspiration": "Turbo"
     },
     "Honda|Accord|2019|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -2200,7 +2319,8 @@
       "fuelType": "petrol",
       "weight": 1445,
       "seats": 5,
-      "price": "~$40,990"
+      "price": "~$40,990",
+      "aspiration": "Turbo"
     },
     "Honda|Accord|2020|VTi": {
       "engine": "1.5L VTEC Turbo",
@@ -2218,7 +2338,8 @@
       "fuelType": "petrol",
       "weight": 1445,
       "seats": 5,
-      "price": "~$37,990"
+      "price": "~$37,990",
+      "aspiration": "Turbo"
     },
     "Honda|Accord|2020|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -2236,7 +2357,8 @@
       "fuelType": "petrol",
       "weight": 1445,
       "seats": 5,
-      "price": "~$41,990"
+      "price": "~$41,990",
+      "aspiration": "Turbo"
     },
     "Honda|Accord|2021|VTi": {
       "engine": "1.5L VTEC Turbo",
@@ -2254,7 +2376,8 @@
       "fuelType": "petrol",
       "weight": 1445,
       "seats": 5,
-      "price": "~$38,990"
+      "price": "~$38,990",
+      "aspiration": "Turbo"
     },
     "Honda|Accord|2021|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -2272,7 +2395,8 @@
       "fuelType": "petrol",
       "weight": 1445,
       "seats": 5,
-      "price": "~$42,990"
+      "price": "~$42,990",
+      "aspiration": "Turbo"
     },
     "Honda|Accord|2022|e:HEV Sport": {
       "engine": "2.0L e:HEV",
@@ -2290,7 +2414,8 @@
       "fuelType": "hybrid",
       "weight": 1590,
       "seats": 5,
-      "price": "~$50,990"
+      "price": "~$50,990",
+      "aspiration": "NA"
     },
     "Honda|Accord|2023|e:HEV Sport": {
       "engine": "2.0L e:HEV",
@@ -2308,7 +2433,8 @@
       "fuelType": "hybrid",
       "weight": 1590,
       "seats": 5,
-      "price": "~$51,990"
+      "price": "~$51,990",
+      "aspiration": "NA"
     },
     "Honda|Accord|2024|e:HEV Sport": {
       "engine": "2.0L e:HEV",
@@ -2326,7 +2452,8 @@
       "fuelType": "hybrid",
       "weight": 1590,
       "seats": 5,
-      "price": "~$52,990"
+      "price": "~$52,990",
+      "aspiration": "NA"
     },
     "Honda|Accord|2025|e:HEV Sport": {
       "engine": "2.0L e:HEV",
@@ -2344,7 +2471,8 @@
       "fuelType": "hybrid",
       "weight": 1590,
       "seats": 5,
-      "price": "~$53,990"
+      "price": "~$53,990",
+      "aspiration": "NA"
     },
     "Honda|Accord|2026|e:HEV Sport": {
       "engine": "2.0L e:HEV",
@@ -2362,7 +2490,8 @@
       "fuelType": "hybrid",
       "weight": 1590,
       "seats": 5,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "aspiration": "NA"
     }
   }
 }

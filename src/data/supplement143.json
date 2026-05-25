@@ -16,7 +16,8 @@
       "fx": 13,
       "acceleration": 4.5,
       "topSpeed": 250,
-      "price": "~$112,900"
+      "price": "~$112,900",
+      "aspiration": "Turbo"
     },
     "Audi|RS Q8|2026|RS Q8": {
       "engine": "4.0 TFSI V8 biturbo",
@@ -34,7 +35,8 @@
       "fx": 18.2,
       "acceleration": 3.8,
       "topSpeed": 250,
-      "price": "~$239,900"
+      "price": "~$239,900",
+      "aspiration": "Turbo"
     },
     "Audi|RS7|2026|RS7": {
       "engine": "4.0 TFSI V8 biturbo",
@@ -52,7 +54,8 @@
       "fx": 16.7,
       "acceleration": 3.6,
       "topSpeed": 250,
-      "price": "~$229,900"
+      "price": "~$229,900",
+      "aspiration": "Turbo"
     },
     "Audi|S7|2026|S7": {
       "engine": "2.9 V6 TFSI biturbo",
@@ -70,7 +73,8 @@
       "fx": 13.7,
       "acceleration": 4.6,
       "topSpeed": 250,
-      "price": "~$182,900"
+      "price": "~$182,900",
+      "aspiration": "Turbo"
     },
     "Audi|S8|2026|S8": {
       "engine": "4.0 TFSI V8 biturbo",
@@ -88,7 +92,8 @@
       "fx": 15.8,
       "acceleration": 3.8,
       "topSpeed": 250,
-      "price": "~$267,900"
+      "price": "~$267,900",
+      "aspiration": "Turbo"
     },
     "Audi|SQ7|2026|SQ7": {
       "engine": "4.0 TFSI V8 biturbo",
@@ -106,7 +111,8 @@
       "fx": 17.6,
       "acceleration": 4.1,
       "topSpeed": 250,
-      "price": "~$186,900"
+      "price": "~$186,900",
+      "aspiration": "Turbo"
     },
     "Audi|SQ8|2026|SQ8": {
       "engine": "4.0 TFSI V8 biturbo",
@@ -124,7 +130,8 @@
       "fx": 17.1,
       "acceleration": 4.1,
       "topSpeed": 250,
-      "price": "~$196,900"
+      "price": "~$196,900",
+      "aspiration": "Turbo"
     },
     "Chevrolet|Malibu|2024|L": {
       "engine": "1.5T Turbo",
@@ -142,7 +149,8 @@
       "fx": 10.9,
       "acceleration": 8.2,
       "topSpeed": 190,
-      "price": "~$28,990"
+      "price": "~$28,990",
+      "aspiration": "Turbo"
     },
     "GWM|Haval Jolion|2026|LUX": {
       "engine": "1.5T Turbo",
@@ -160,7 +168,8 @@
       "fx": 10.4,
       "acceleration": 9.8,
       "topSpeed": 180,
-      "price": "~$36,990"
+      "price": "~$36,990",
+      "aspiration": "Turbo"
     },
     "Isuzu|MU-X|2024|LS-M": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -178,7 +187,8 @@
       "fx": 11.9,
       "acceleration": 10.8,
       "topSpeed": 175,
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "aspiration": "Turbo"
     },
     "Jaguar|I-Pace|2026|EV400 SE": {
       "engine": "Electric Dual Motor",
@@ -196,7 +206,8 @@
       "fx": null,
       "acceleration": 4.8,
       "topSpeed": 200,
-      "price": "~$139,990"
+      "price": "~$139,990",
+      "aspiration": "Electric"
     },
     "Jeep|Grand Cherokee|2024|Laredo": {
       "engine": "3.6L V6 Pentastar",
@@ -214,7 +225,8 @@
       "fx": 18.2,
       "acceleration": 7.9,
       "topSpeed": 195,
-      "price": "~$67,990"
+      "price": "~$67,990",
+      "aspiration": "NA"
     },
     "RAM|1500 TRX|2026|TRX": {
       "engine": "6.2L Supercharged HEMI V8",
@@ -232,7 +244,8 @@
       "fx": 26.1,
       "acceleration": 4.5,
       "topSpeed": 190,
-      "price": "~$199,990"
+      "price": "~$199,990",
+      "aspiration": "Supercharged"
     },
     "Renault|Megane E-Tech|2026|EV60": {
       "engine": "Electric Single Motor",
@@ -250,7 +263,8 @@
       "fx": null,
       "acceleration": 7.4,
       "topSpeed": 160,
-      "price": "~$64,990"
+      "price": "~$64,990",
+      "aspiration": "Electric"
     },
     "Skoda|Octavia|2026|Style": {
       "engine": "1.5 TSI",
@@ -268,7 +282,8 @@
       "fx": 9,
       "acceleration": 8.5,
       "topSpeed": 220,
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "aspiration": "Turbo"
     },
     "Tesla|Model 3|2023|Standard Range RWD": {
       "engine": "Electric Single Motor",
@@ -286,7 +301,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 225,
-      "price": "~$54,900"
+      "price": "~$54,900",
+      "aspiration": "Electric"
     },
     "Tesla|Model S|2026|Long Range": {
       "engine": "Electric Dual Motor",
@@ -304,7 +320,8 @@
       "fx": null,
       "acceleration": 3.1,
       "topSpeed": 250,
-      "price": "~$139,990"
+      "price": "~$139,990",
+      "aspiration": "Electric"
     },
     "Tesla|Model X|2026|Long Range": {
       "engine": "Electric Dual Motor",
@@ -322,7 +339,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 250,
-      "price": "~$159,990"
+      "price": "~$159,990",
+      "aspiration": "Electric"
     },
     "Volvo|V90|2026|B5": {
       "engine": "2.0T Mild Hybrid",
@@ -340,7 +358,8 @@
       "fx": 11.6,
       "acceleration": 6.6,
       "topSpeed": 230,
-      "price": "~$113,990"
+      "price": "~$113,990",
+      "aspiration": "Turbo"
     }
   }
 }

@@ -19,7 +19,8 @@
       "topSpeed": 218,
       "cargo": 590,
       "quarterMile": "~16.3 sec",
-      "price": "~$29,990"
+      "price": "~$29,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Octavia|2014|RS": {
       "engine": "2.0 TSI",
@@ -40,7 +41,8 @@
       "topSpeed": 243,
       "cargo": 590,
       "quarterMile": "~15.3 sec",
-      "price": "~$37,990"
+      "price": "~$37,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Octavia|2018|Style": {
       "engine": "1.8 TSI",
@@ -61,7 +63,8 @@
       "topSpeed": 218,
       "cargo": 590,
       "quarterMile": "~16.3 sec",
-      "price": "~$32,990"
+      "price": "~$32,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Octavia|2018|RS": {
       "engine": "2.0 TSI",
@@ -82,7 +85,8 @@
       "topSpeed": 243,
       "cargo": 590,
       "quarterMile": "~15.2 sec",
-      "price": "~$39,990"
+      "price": "~$39,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Octavia|2021|Style": {
       "engine": "1.5 TSI",
@@ -103,7 +107,8 @@
       "topSpeed": 217,
       "cargo": 600,
       "quarterMile": "~16.9 sec",
-      "price": "~$38,990"
+      "price": "~$38,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Octavia|2021|RS": {
       "engine": "2.0 TSI",
@@ -124,7 +129,8 @@
       "topSpeed": 250,
       "cargo": 600,
       "quarterMile": "~15.0 sec",
-      "price": "~$45,990"
+      "price": "~$45,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Octavia|2024|Style": {
       "engine": "1.5 TSI",
@@ -145,7 +151,8 @@
       "topSpeed": 217,
       "cargo": 600,
       "quarterMile": "~16.9 sec",
-      "price": "~$41,990"
+      "price": "~$41,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Octavia|2024|RS": {
       "engine": "2.0 TSI",
@@ -166,7 +173,8 @@
       "topSpeed": 250,
       "cargo": 600,
       "quarterMile": "~15.0 sec",
-      "price": "~$48,990"
+      "price": "~$48,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Superb|2016|Style": {
       "engine": "2.0 TDI",
@@ -187,7 +195,8 @@
       "topSpeed": 219,
       "cargo": 625,
       "quarterMile": "~16.8 sec",
-      "price": "~$39,990"
+      "price": "~$39,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Superb|2016|Sportline": {
       "engine": "2.0 TDI",
@@ -208,7 +217,8 @@
       "topSpeed": 218,
       "cargo": 625,
       "quarterMile": "~16.9 sec",
-      "price": "~$47,990"
+      "price": "~$47,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Superb|2020|Style": {
       "engine": "2.0 TDI",
@@ -229,7 +239,8 @@
       "topSpeed": 219,
       "cargo": 625,
       "quarterMile": "~16.8 sec",
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Superb|2020|Sportline": {
       "engine": "2.0 TDI",
@@ -250,7 +261,8 @@
       "topSpeed": 218,
       "cargo": 625,
       "quarterMile": "~16.9 sec",
-      "price": "~$52,990"
+      "price": "~$52,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Superb|2024|Style": {
       "engine": "2.0 TSI",
@@ -271,7 +283,8 @@
       "topSpeed": 228,
       "cargo": 645,
       "quarterMile": "~16.6 sec",
-      "price": "~$49,990"
+      "price": "~$49,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Superb|2024|Sportline": {
       "engine": "2.0 TSI",
@@ -292,7 +305,8 @@
       "topSpeed": 248,
       "cargo": 645,
       "quarterMile": "~15.3 sec",
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Karoq|2018|Style": {
       "engine": "1.5 TSI",
@@ -313,7 +327,8 @@
       "topSpeed": 210,
       "cargo": 521,
       "quarterMile": "~17.5 sec",
-      "price": "~$32,990"
+      "price": "~$32,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Karoq|2018|Sportline": {
       "engine": "2.0 TSI",
@@ -334,7 +349,8 @@
       "topSpeed": 217,
       "cargo": 521,
       "quarterMile": "~15.9 sec",
-      "price": "~$39,990"
+      "price": "~$39,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Karoq|2022|Style": {
       "engine": "1.5 TSI",
@@ -355,7 +371,8 @@
       "topSpeed": 210,
       "cargo": 521,
       "quarterMile": "~17.5 sec",
-      "price": "~$37,990"
+      "price": "~$37,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Karoq|2022|Sportline": {
       "engine": "2.0 TSI",
@@ -376,7 +393,8 @@
       "topSpeed": 217,
       "cargo": 521,
       "quarterMile": "~15.9 sec",
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Kodiaq|2017|Style": {
       "engine": "2.0 TDI",
@@ -397,7 +415,8 @@
       "topSpeed": 206,
       "cargo": 630,
       "quarterMile": "~17.8 sec",
-      "price": "~$38,990"
+      "price": "~$38,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Kodiaq|2017|Sportline": {
       "engine": "2.0 TSI",
@@ -418,7 +437,8 @@
       "topSpeed": 209,
       "cargo": 630,
       "quarterMile": "~17.3 sec",
-      "price": "~$46,990"
+      "price": "~$46,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Kodiaq|2021|Style": {
       "engine": "2.0 TDI",
@@ -439,7 +459,8 @@
       "topSpeed": 206,
       "cargo": 630,
       "quarterMile": "~17.8 sec",
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Kodiaq|2021|Sportline": {
       "engine": "2.0 TSI",
@@ -460,7 +481,8 @@
       "topSpeed": 215,
       "cargo": 630,
       "quarterMile": "~16.1 sec",
-      "price": "~$52,990"
+      "price": "~$52,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Enyaq|2022|60": {
       "engine": "Single Motor Electric",
@@ -480,7 +502,8 @@
       "topSpeed": 160,
       "cargo": 585,
       "quarterMile": "~17.0 sec",
-      "price": "~$59,990"
+      "price": "~$59,990",
+      "aspiration": "Electric"
     },
     "Skoda|Enyaq|2022|85": {
       "engine": "Single Motor Electric",
@@ -500,7 +523,8 @@
       "topSpeed": 160,
       "cargo": 585,
       "quarterMile": "~17.0 sec",
-      "price": "~$69,990"
+      "price": "~$69,990",
+      "aspiration": "Electric"
     },
     "Skoda|Enyaq|2022|RS": {
       "engine": "Dual Motor Electric",
@@ -520,7 +544,8 @@
       "topSpeed": 180,
       "cargo": 585,
       "quarterMile": "~14.8 sec",
-      "price": "~$79,990"
+      "price": "~$79,990",
+      "aspiration": "Electric"
     },
     "Skoda|Enyaq|2024|85": {
       "engine": "Single Motor Electric",
@@ -540,7 +565,8 @@
       "topSpeed": 160,
       "cargo": 585,
       "quarterMile": "~17.0 sec",
-      "price": "~$71,990"
+      "price": "~$71,990",
+      "aspiration": "Electric"
     },
     "Skoda|Enyaq|2024|RS": {
       "engine": "Dual Motor Electric",
@@ -560,7 +586,8 @@
       "topSpeed": 180,
       "cargo": 585,
       "quarterMile": "~14.8 sec",
-      "price": "~$81,990"
+      "price": "~$81,990",
+      "aspiration": "Electric"
     },
     "Skoda|Fabia|2022|Style": {
       "engine": "1.0 TSI",
@@ -581,7 +608,8 @@
       "topSpeed": 192,
       "cargo": 380,
       "quarterMile": "~18.2 sec",
-      "price": "~$28,990"
+      "price": "~$28,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Fabia|2022|Monte Carlo": {
       "engine": "1.0 TSI",
@@ -602,7 +630,8 @@
       "topSpeed": 192,
       "cargo": 380,
       "quarterMile": "~18.2 sec",
-      "price": "~$32,990"
+      "price": "~$32,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Fabia|2024|Style": {
       "engine": "1.0 TSI",
@@ -623,7 +652,8 @@
       "topSpeed": 192,
       "cargo": 380,
       "quarterMile": "~18.2 sec",
-      "price": "~$29,990"
+      "price": "~$29,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Fabia|2024|Monte Carlo": {
       "engine": "1.0 TSI",
@@ -644,7 +674,8 @@
       "topSpeed": 192,
       "cargo": 380,
       "quarterMile": "~18.2 sec",
-      "price": "~$33,990"
+      "price": "~$33,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Enyaq|2024|60": {
       "engine": "Single Motor Electric",
@@ -664,7 +695,8 @@
       "topSpeed": 160,
       "cargo": 585,
       "quarterMile": "~17.0 sec",
-      "price": "~$61,990"
+      "price": "~$61,990",
+      "aspiration": "Electric"
     },
     "Skoda|Karoq|2024|Style": {
       "engine": "1.5 TSI",
@@ -685,7 +717,8 @@
       "topSpeed": 210,
       "cargo": 521,
       "quarterMile": "~17.5 sec",
-      "price": "~$38,990"
+      "price": "~$38,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Karoq|2024|Sportline": {
       "engine": "2.0 TSI",
@@ -706,7 +739,8 @@
       "topSpeed": 217,
       "cargo": 521,
       "quarterMile": "~15.9 sec",
-      "price": "~$45,990"
+      "price": "~$45,990",
+      "aspiration": "Turbo"
     }
   }
 }

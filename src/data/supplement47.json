@@ -18,7 +18,8 @@
       "bodyStyle": "Hatch",
       "fh": 4.8,
       "fx": 9.2,
-      "quarterMile": "~17.2 sec"
+      "quarterMile": "~17.2 sec",
+      "aspiration": "Turbo"
     },
     "Audi|A1|2013|1.4 TFSI": {
       "engine": "1.4 TFSI",
@@ -38,7 +39,8 @@
       "bodyStyle": "Hatch",
       "fh": 4.8,
       "fx": 9.2,
-      "quarterMile": "~17.2 sec"
+      "quarterMile": "~17.2 sec",
+      "aspiration": "Turbo"
     },
     "Audi|A1|2015|1.4 TFSI": {
       "engine": "1.4 TFSI",
@@ -58,7 +60,8 @@
       "bodyStyle": "Hatch",
       "fh": 4.6,
       "fx": 8.7,
-      "quarterMile": "~17.2 sec"
+      "quarterMile": "~17.2 sec",
+      "aspiration": "Turbo"
     },
     "Audi|A1|2018|25 TFSI": {
       "engine": "1.0 TFSI",
@@ -78,7 +81,8 @@
       "bodyStyle": "Hatch",
       "fh": 3.8,
       "fx": 7.3,
-      "quarterMile": "~19.3 sec"
+      "quarterMile": "~19.3 sec",
+      "aspiration": "Turbo"
     },
     "Audi|A1|2018|30 TFSI": {
       "engine": "1.0 TFSI",
@@ -98,7 +102,8 @@
       "bodyStyle": "Hatch",
       "fh": 4.1,
       "fx": 7.9,
-      "quarterMile": "~18.2 sec"
+      "quarterMile": "~18.2 sec",
+      "aspiration": "Turbo"
     },
     "Audi|A1|2020|30 TFSI": {
       "engine": "1.0 TFSI",
@@ -118,7 +123,8 @@
       "bodyStyle": "Hatch",
       "fh": 4.1,
       "fx": 7.9,
-      "quarterMile": "~18.2 sec"
+      "quarterMile": "~18.2 sec",
+      "aspiration": "Turbo"
     },
     "Audi|A1|2021|30 TFSI": {
       "engine": "1.0 TFSI",
@@ -138,7 +144,8 @@
       "bodyStyle": "Hatch",
       "fh": 4.1,
       "fx": 7.9,
-      "quarterMile": "~18.2 sec"
+      "quarterMile": "~18.2 sec",
+      "aspiration": "Turbo"
     },
     "Audi|A1|2022|30 TFSI": {
       "engine": "1.0 TFSI",
@@ -158,7 +165,8 @@
       "bodyStyle": "Hatch",
       "fh": 4.1,
       "fx": 7.9,
-      "quarterMile": "~18.2 sec"
+      "quarterMile": "~18.2 sec",
+      "aspiration": "Turbo"
     },
     "Audi|A1|2023|30 TFSI": {
       "engine": "1.0 TFSI",
@@ -178,7 +186,8 @@
       "bodyStyle": "Hatch",
       "fh": 4.1,
       "fx": 7.9,
-      "quarterMile": "~18.2 sec"
+      "quarterMile": "~18.2 sec",
+      "aspiration": "Turbo"
     },
     "Audi|A5|2007|2.0 TFSI": {
       "engine": "2.0",
@@ -198,7 +207,8 @@
       "bodyStyle": "Coupe",
       "fh": 6.3,
       "fx": 12,
-      "quarterMile": "~15.6 sec"
+      "quarterMile": "~15.6 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2008|3.2 FSI quattro": {
       "engine": "3.2",
@@ -218,7 +228,8 @@
       "bodyStyle": "Coupe",
       "fh": 8.5,
       "fx": 16.2,
-      "quarterMile": "~14.6 sec"
+      "quarterMile": "~14.6 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2009|S5": {
       "engine": "4.2",
@@ -239,7 +250,8 @@
       "bodyStyle": "Coupe",
       "fh": 9.3,
       "fx": 17.6,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2010|2.0 TFSI quattro": {
       "engine": "2.0",
@@ -259,7 +271,8 @@
       "bodyStyle": "Coupe",
       "fh": 6.3,
       "fx": 12,
-      "quarterMile": "~15.2 sec"
+      "quarterMile": "~15.2 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2012|2.0 TFSI": {
       "engine": "2.0",
@@ -279,7 +292,8 @@
       "bodyStyle": "Coupe",
       "fh": 5.9,
       "fx": 11.3,
-      "quarterMile": "~16.0 sec"
+      "quarterMile": "~16.0 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2012|S5": {
       "engine": "3.0",
@@ -300,7 +314,8 @@
       "bodyStyle": "Coupe",
       "fh": 7.8,
       "fx": 14.8,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2012|RS5": {
       "engine": "4.2",
@@ -321,7 +336,8 @@
       "bodyStyle": "Coupe",
       "fh": 10,
       "fx": 19,
-      "quarterMile": "~12.8 sec"
+      "quarterMile": "~12.8 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2013|2.0 TDI": {
       "engine": "2.0",
@@ -341,7 +357,8 @@
       "bodyStyle": "Coupe",
       "fh": 3.9,
       "fx": 6.6,
-      "quarterMile": "~16.5 sec"
+      "quarterMile": "~16.5 sec",
+      "aspiration": "Turbo"
     },
     "Audi|A5|2015|2.0 TFSI": {
       "engine": "2.0",
@@ -361,7 +378,8 @@
       "bodyStyle": "Coupe",
       "fh": 5.6,
       "fx": 10.6,
-      "quarterMile": "~15.5 sec"
+      "quarterMile": "~15.5 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2017|2.0 TFSI": {
       "engine": "2.0",
@@ -381,7 +399,8 @@
       "bodyStyle": "Coupe",
       "fh": 5.6,
       "fx": 10.6,
-      "quarterMile": "~15.5 sec"
+      "quarterMile": "~15.5 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2017|45 TFSI quattro": {
       "engine": "2.0",
@@ -401,7 +420,8 @@
       "bodyStyle": "Coupe",
       "fh": 5.9,
       "fx": 11.3,
-      "quarterMile": "~14.2 sec"
+      "quarterMile": "~14.2 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2017|S5": {
       "engine": "3.0",
@@ -422,7 +442,8 @@
       "bodyStyle": "Coupe",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2018|RS5": {
       "engine": "2.9",
@@ -443,7 +464,8 @@
       "bodyStyle": "Coupe",
       "fh": 8.1,
       "fx": 15.5,
-      "quarterMile": "~12.2 sec"
+      "quarterMile": "~12.2 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2020|45 TFSI quattro": {
       "engine": "2.0",
@@ -463,7 +485,8 @@
       "bodyStyle": "Coupe",
       "fh": 5.9,
       "fx": 11.3,
-      "quarterMile": "~14.2 sec"
+      "quarterMile": "~14.2 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2020|S5": {
       "engine": "3.0",
@@ -484,7 +507,8 @@
       "bodyStyle": "Coupe",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2021|RS5": {
       "engine": "2.9",
@@ -505,7 +529,8 @@
       "bodyStyle": "Coupe",
       "fh": 8.1,
       "fx": 15.5,
-      "quarterMile": "~12.2 sec"
+      "quarterMile": "~12.2 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2022|45 TFSI quattro": {
       "engine": "2.0",
@@ -525,7 +550,8 @@
       "bodyStyle": "Coupe",
       "fh": 5.9,
       "fx": 11.3,
-      "quarterMile": "~14.0 sec"
+      "quarterMile": "~14.0 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2022|S5": {
       "engine": "3.0",
@@ -546,7 +572,8 @@
       "bodyStyle": "Coupe",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2022|RS5": {
       "engine": "2.9",
@@ -567,7 +594,8 @@
       "bodyStyle": "Coupe",
       "fh": 8.1,
       "fx": 15.5,
-      "quarterMile": "~12.2 sec"
+      "quarterMile": "~12.2 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2023|40 TFSI quattro": {
       "engine": "2.0",
@@ -587,7 +615,8 @@
       "bodyStyle": "Coupe",
       "fh": 5.6,
       "fx": 10.6,
-      "quarterMile": "~15.2 sec"
+      "quarterMile": "~15.2 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2023|S5": {
       "engine": "3.0",
@@ -608,7 +637,8 @@
       "bodyStyle": "Coupe",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2024|40 TFSI quattro": {
       "engine": "2.0",
@@ -628,7 +658,8 @@
       "bodyStyle": "Coupe",
       "fh": 5.6,
       "fx": 10.6,
-      "quarterMile": "~15.2 sec"
+      "quarterMile": "~15.2 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2025|40 TFSI quattro": {
       "engine": "2.0",
@@ -648,7 +679,8 @@
       "bodyStyle": "Coupe",
       "fh": 5.6,
       "fx": 10.6,
-      "quarterMile": "~15.2 sec"
+      "quarterMile": "~15.2 sec",
+      "aspiration": "NA"
     },
     "Audi|A5|2026|40 TFSI quattro": {
       "engine": "2.0",
@@ -668,7 +700,8 @@
       "bodyStyle": "Coupe",
       "fh": 5.6,
       "fx": 10.6,
-      "quarterMile": "~15.2 sec"
+      "quarterMile": "~15.2 sec",
+      "aspiration": "NA"
     },
     "Audi|A7|2010|3.0 TFSI quattro": {
       "engine": "3.0",
@@ -689,7 +722,8 @@
       "bodyStyle": "Sedan",
       "fh": 7,
       "fx": 13.4,
-      "quarterMile": "~14.2 sec"
+      "quarterMile": "~14.2 sec",
+      "aspiration": "NA"
     },
     "Audi|A7|2011|3.0 TFSI quattro": {
       "engine": "3.0",
@@ -710,7 +744,8 @@
       "bodyStyle": "Sedan",
       "fh": 7,
       "fx": 13.4,
-      "quarterMile": "~14.2 sec"
+      "quarterMile": "~14.2 sec",
+      "aspiration": "NA"
     },
     "Audi|A7|2012|3.0 TDI quattro": {
       "engine": "3.0",
@@ -731,7 +766,8 @@
       "bodyStyle": "Sedan",
       "fh": 5.4,
       "fx": 9.2,
-      "quarterMile": "~14.2 sec"
+      "quarterMile": "~14.2 sec",
+      "aspiration": "Turbo"
     },
     "Audi|A7|2012|S7": {
       "engine": "4.0",
@@ -752,7 +788,8 @@
       "bodyStyle": "Sedan",
       "fh": 8.5,
       "fx": 16.2,
-      "quarterMile": "~13.0 sec"
+      "quarterMile": "~13.0 sec",
+      "aspiration": "NA"
     },
     "Audi|A7|2013|3.0 TFSI quattro": {
       "engine": "3.0",
@@ -773,7 +810,8 @@
       "bodyStyle": "Sedan",
       "fh": 7,
       "fx": 13.4,
-      "quarterMile": "~14.2 sec"
+      "quarterMile": "~14.2 sec",
+      "aspiration": "NA"
     },
     "Audi|A7|2014|RS7": {
       "engine": "4.0",
@@ -794,7 +832,8 @@
       "bodyStyle": "Sedan",
       "fh": 8.9,
       "fx": 16.9,
-      "quarterMile": "~12.2 sec"
+      "quarterMile": "~12.2 sec",
+      "aspiration": "NA"
     },
     "Audi|A7|2015|3.0 TFSI quattro": {
       "engine": "3.0",
@@ -815,7 +854,8 @@
       "bodyStyle": "Sedan",
       "fh": 7,
       "fx": 13.4,
-      "quarterMile": "~13.6 sec"
+      "quarterMile": "~13.6 sec",
+      "aspiration": "NA"
     },
     "Audi|A7|2018|55 TFSI quattro": {
       "engine": "3.0",
@@ -836,7 +876,8 @@
       "bodyStyle": "Sedan",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "aspiration": "NA"
     },
     "Audi|A7|2018|S7": {
       "engine": "2.9",
@@ -857,7 +898,8 @@
       "bodyStyle": "Sedan",
       "fh": 7,
       "fx": 13.4,
-      "quarterMile": "~12.8 sec"
+      "quarterMile": "~12.8 sec",
+      "aspiration": "NA"
     },
     "Audi|A7|2020|55 TFSI quattro": {
       "engine": "3.0",
@@ -878,7 +920,8 @@
       "bodyStyle": "Sedan",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "aspiration": "NA"
     },
     "Audi|A7|2020|RS7": {
       "engine": "4.0",
@@ -899,7 +942,8 @@
       "bodyStyle": "Sedan",
       "fh": 9.3,
       "fx": 17.6,
-      "quarterMile": "~11.9 sec"
+      "quarterMile": "~11.9 sec",
+      "aspiration": "NA"
     },
     "Audi|A7|2021|55 TFSI quattro": {
       "engine": "3.0",
@@ -920,7 +964,8 @@
       "bodyStyle": "Sedan",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "aspiration": "NA"
     },
     "Audi|A7|2022|55 TFSI quattro": {
       "engine": "3.0",
@@ -941,7 +986,8 @@
       "bodyStyle": "Sedan",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "aspiration": "NA"
     },
     "Audi|A7|2022|RS7": {
       "engine": "4.0",
@@ -962,7 +1008,8 @@
       "bodyStyle": "Sedan",
       "fh": 9.3,
       "fx": 17.6,
-      "quarterMile": "~11.9 sec"
+      "quarterMile": "~11.9 sec",
+      "aspiration": "NA"
     },
     "Audi|A7|2023|55 TFSI quattro": {
       "engine": "3.0",
@@ -983,7 +1030,8 @@
       "bodyStyle": "Sedan",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "aspiration": "NA"
     },
     "Audi|A7|2024|55 TFSI quattro": {
       "engine": "3.0",
@@ -1004,7 +1052,8 @@
       "bodyStyle": "Sedan",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "aspiration": "NA"
     },
     "Audi|A7|2025|55 TFSI quattro": {
       "engine": "3.0",
@@ -1025,7 +1074,8 @@
       "bodyStyle": "Sedan",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "aspiration": "NA"
     },
     "Audi|A7|2026|55 TFSI quattro": {
       "engine": "3.0",
@@ -1046,7 +1096,8 @@
       "bodyStyle": "Sedan",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "aspiration": "NA"
     },
     "Audi|A8|1994|3.7 quattro": {
       "engine": "3.7",
@@ -1067,7 +1118,8 @@
       "bodyStyle": "Sedan",
       "fh": 10,
       "fx": 19,
-      "quarterMile": "~16.3 sec"
+      "quarterMile": "~16.3 sec",
+      "aspiration": "NA"
     },
     "Audi|A8|1998|4.2 quattro": {
       "engine": "4.2",
@@ -1088,7 +1140,8 @@
       "bodyStyle": "Sedan",
       "fh": 10.4,
       "fx": 19.7,
-      "quarterMile": "~15.2 sec"
+      "quarterMile": "~15.2 sec",
+      "aspiration": "NA"
     },
     "Audi|A8|2002|4.2 FSI quattro": {
       "engine": "4.2",
@@ -1109,7 +1162,8 @@
       "bodyStyle": "Sedan",
       "fh": 10,
       "fx": 19,
-      "quarterMile": "~14.6 sec"
+      "quarterMile": "~14.6 sec",
+      "aspiration": "NA"
     },
     "Audi|A8|2004|4.2 TDI quattro": {
       "engine": "4.1",
@@ -1130,7 +1184,8 @@
       "bodyStyle": "Sedan",
       "fh": 8.1,
       "fx": 13.9,
-      "quarterMile": "~14.9 sec"
+      "quarterMile": "~14.9 sec",
+      "aspiration": "Turbo"
     },
     "Audi|A8|2004|6.0 W12 quattro": {
       "engine": "6.0",
@@ -1151,7 +1206,8 @@
       "bodyStyle": "Sedan",
       "fh": 13.7,
       "fx": 26.1,
-      "quarterMile": "~14.0 sec"
+      "quarterMile": "~14.0 sec",
+      "aspiration": "NA"
     },
     "Audi|A8|2006|4.2 FSI quattro": {
       "engine": "4.2",
@@ -1172,7 +1228,8 @@
       "bodyStyle": "Sedan",
       "fh": 10,
       "fx": 19,
-      "quarterMile": "~14.6 sec"
+      "quarterMile": "~14.6 sec",
+      "aspiration": "NA"
     },
     "Audi|A8|2010|4.2 FSI quattro": {
       "engine": "4.2",
@@ -1193,7 +1250,8 @@
       "bodyStyle": "Sedan",
       "fh": 9.6,
       "fx": 18.3,
-      "quarterMile": "~14.2 sec"
+      "quarterMile": "~14.2 sec",
+      "aspiration": "NA"
     },
     "Audi|A8|2010|6.3 W12 quattro": {
       "engine": "6.3",
@@ -1214,7 +1272,8 @@
       "bodyStyle": "Sedan",
       "fh": 14.1,
       "fx": 26.8,
-      "quarterMile": "~13.2 sec"
+      "quarterMile": "~13.2 sec",
+      "aspiration": "NA"
     },
     "Audi|A8|2013|3.0 TDI quattro": {
       "engine": "3.0",
@@ -1235,7 +1294,8 @@
       "bodyStyle": "Sedan",
       "fh": 5.4,
       "fx": 9.2,
-      "quarterMile": "~14.8 sec"
+      "quarterMile": "~14.8 sec",
+      "aspiration": "Turbo"
     },
     "Audi|A8|2013|4.0 TFSI quattro": {
       "engine": "4.0",
@@ -1256,7 +1316,8 @@
       "bodyStyle": "Sedan",
       "fh": 9.3,
       "fx": 17.6,
-      "quarterMile": "~12.6 sec"
+      "quarterMile": "~12.6 sec",
+      "aspiration": "NA"
     },
     "Audi|A8|2013|S8": {
       "engine": "4.0",
@@ -1277,7 +1338,8 @@
       "bodyStyle": "Sedan",
       "fh": 10,
       "fx": 19,
-      "quarterMile": "~12.4 sec"
+      "quarterMile": "~12.4 sec",
+      "aspiration": "NA"
     },
     "Audi|A8|2018|55 TFSI quattro": {
       "engine": "3.0",
@@ -1298,7 +1360,8 @@
       "bodyStyle": "Sedan",
       "fh": 7.8,
       "fx": 14.8,
-      "quarterMile": "~13.9 sec"
+      "quarterMile": "~13.9 sec",
+      "aspiration": "NA"
     },
     "Audi|A8|2018|60 TFSI quattro": {
       "engine": "4.0",
@@ -1319,7 +1382,8 @@
       "bodyStyle": "Sedan",
       "fh": 9.3,
       "fx": 17.6,
-      "quarterMile": "~12.9 sec"
+      "quarterMile": "~12.9 sec",
+      "aspiration": "NA"
     },
     "Audi|A8|2018|S8": {
       "engine": "4.0",
@@ -1340,7 +1404,8 @@
       "bodyStyle": "Sedan",
       "fh": 8.9,
       "fx": 16.9,
-      "quarterMile": "~12.1 sec"
+      "quarterMile": "~12.1 sec",
+      "aspiration": "NA"
     },
     "Audi|A8|2020|55 TFSI quattro": {
       "engine": "3.0",
@@ -1361,7 +1426,8 @@
       "bodyStyle": "Sedan",
       "fh": 7.8,
       "fx": 14.8,
-      "quarterMile": "~13.9 sec"
+      "quarterMile": "~13.9 sec",
+      "aspiration": "NA"
     },
     "Audi|A8|2020|60 TFSI e quattro": {
       "engine": "3.0",
@@ -1382,7 +1448,8 @@
       "bodyStyle": "Sedan",
       "fh": 2.8,
       "fx": 4.1,
-      "quarterMile": "~12.8 sec"
+      "quarterMile": "~12.8 sec",
+      "aspiration": "NA"
     },
     "Audi|A8|2022|60 TFSI quattro": {
       "engine": "4.0",
@@ -1403,7 +1470,8 @@
       "bodyStyle": "Sedan",
       "fh": 9.3,
       "fx": 17.6,
-      "quarterMile": "~12.9 sec"
+      "quarterMile": "~12.9 sec",
+      "aspiration": "NA"
     },
     "Audi|A8|2023|60 TFSI quattro": {
       "engine": "4.0",
@@ -1424,7 +1492,8 @@
       "bodyStyle": "Sedan",
       "fh": 9.3,
       "fx": 17.6,
-      "quarterMile": "~12.9 sec"
+      "quarterMile": "~12.9 sec",
+      "aspiration": "NA"
     },
     "Audi|A8|2024|60 TFSI quattro": {
       "engine": "4.0",
@@ -1445,7 +1514,8 @@
       "bodyStyle": "Sedan",
       "fh": 9.3,
       "fx": 17.6,
-      "quarterMile": "~12.9 sec"
+      "quarterMile": "~12.9 sec",
+      "aspiration": "NA"
     },
     "Audi|A8|2025|60 TFSI quattro": {
       "engine": "4.0",
@@ -1466,7 +1536,8 @@
       "bodyStyle": "Sedan",
       "fh": 9.3,
       "fx": 17.6,
-      "quarterMile": "~12.9 sec"
+      "quarterMile": "~12.9 sec",
+      "aspiration": "NA"
     },
     "Audi|A8|2026|60 TFSI quattro": {
       "engine": "4.0",
@@ -1487,7 +1558,8 @@
       "bodyStyle": "Sedan",
       "fh": 9.3,
       "fx": 17.6,
-      "quarterMile": "~12.9 sec"
+      "quarterMile": "~12.9 sec",
+      "aspiration": "NA"
     },
     "Audi|Q2|2016|1.4 TFSI": {
       "engine": "1.4",
@@ -1508,7 +1580,8 @@
       "bodyStyle": "SUV",
       "fh": 4.4,
       "fx": 8.5,
-      "quarterMile": "~16.8 sec"
+      "quarterMile": "~16.8 sec",
+      "aspiration": "NA"
     },
     "Audi|Q2|2017|1.4 TFSI": {
       "engine": "1.4",
@@ -1529,7 +1602,8 @@
       "bodyStyle": "SUV",
       "fh": 4.4,
       "fx": 8.5,
-      "quarterMile": "~16.8 sec"
+      "quarterMile": "~16.8 sec",
+      "aspiration": "NA"
     },
     "Audi|Q2|2018|1.4 TFSI": {
       "engine": "1.4",
@@ -1550,7 +1624,8 @@
       "bodyStyle": "SUV",
       "fh": 4.4,
       "fx": 8.5,
-      "quarterMile": "~16.8 sec"
+      "quarterMile": "~16.8 sec",
+      "aspiration": "NA"
     },
     "Audi|Q2|2018|2.0 TDI quattro": {
       "engine": "2.0",
@@ -1571,7 +1646,8 @@
       "bodyStyle": "SUV",
       "fh": 3.9,
       "fx": 6.6,
-      "quarterMile": "~16.3 sec"
+      "quarterMile": "~16.3 sec",
+      "aspiration": "Turbo"
     },
     "Audi|Q2|2019|35 TFSI": {
       "engine": "1.5",
@@ -1592,7 +1668,8 @@
       "bodyStyle": "SUV",
       "fh": 4.8,
       "fx": 9.2,
-      "quarterMile": "~17.2 sec"
+      "quarterMile": "~17.2 sec",
+      "aspiration": "NA"
     },
     "Audi|Q2|2020|35 TFSI": {
       "engine": "1.5",
@@ -1613,7 +1690,8 @@
       "bodyStyle": "SUV",
       "fh": 4.8,
       "fx": 9.2,
-      "quarterMile": "~17.2 sec"
+      "quarterMile": "~17.2 sec",
+      "aspiration": "NA"
     },
     "Audi|Q2|2021|35 TFSI": {
       "engine": "1.5",
@@ -1634,7 +1712,8 @@
       "bodyStyle": "SUV",
       "fh": 4.8,
       "fx": 9.2,
-      "quarterMile": "~17.2 sec"
+      "quarterMile": "~17.2 sec",
+      "aspiration": "NA"
     },
     "Audi|Q2|2021|40 TFSI quattro": {
       "engine": "2.0",
@@ -1655,7 +1734,8 @@
       "bodyStyle": "SUV",
       "fh": 5.6,
       "fx": 10.6,
-      "quarterMile": "~15.6 sec"
+      "quarterMile": "~15.6 sec",
+      "aspiration": "NA"
     },
     "Audi|Q2|2022|35 TFSI": {
       "engine": "1.5",
@@ -1676,7 +1756,8 @@
       "bodyStyle": "SUV",
       "fh": 4.8,
       "fx": 9.2,
-      "quarterMile": "~17.2 sec"
+      "quarterMile": "~17.2 sec",
+      "aspiration": "NA"
     },
     "Audi|Q2|2023|35 TFSI": {
       "engine": "1.5",
@@ -1697,7 +1778,8 @@
       "bodyStyle": "SUV",
       "fh": 4.8,
       "fx": 9.2,
-      "quarterMile": "~17.2 sec"
+      "quarterMile": "~17.2 sec",
+      "aspiration": "NA"
     },
     "Audi|Q2|2024|35 TFSI": {
       "engine": "1.5",
@@ -1718,7 +1800,8 @@
       "bodyStyle": "SUV",
       "fh": 4.8,
       "fx": 9.2,
-      "quarterMile": "~17.2 sec"
+      "quarterMile": "~17.2 sec",
+      "aspiration": "NA"
     },
     "Audi|Q2|2025|35 TFSI": {
       "engine": "1.5",
@@ -1739,7 +1822,8 @@
       "bodyStyle": "SUV",
       "fh": 4.8,
       "fx": 9.2,
-      "quarterMile": "~17.2 sec"
+      "quarterMile": "~17.2 sec",
+      "aspiration": "NA"
     },
     "Audi|Q2|2026|35 TFSI": {
       "engine": "1.5",
@@ -1760,7 +1844,8 @@
       "bodyStyle": "SUV",
       "fh": 4.8,
       "fx": 9.2,
-      "quarterMile": "~17.2 sec"
+      "quarterMile": "~17.2 sec",
+      "aspiration": "NA"
     },
     "Audi|e-tron GT|2021|e-tron GT": {
       "engine": "Dual Electric Motor RWD",
@@ -1777,7 +1862,8 @@
       "price": "$170,000",
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
-      "topSpeed": 200
+      "topSpeed": 200,
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2021|RS e-tron GT": {
       "engine": "Dual Electric Motor AWD",
@@ -1794,7 +1880,8 @@
       "price": "$220,000",
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
-      "topSpeed": 200
+      "topSpeed": 200,
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2022|e-tron GT": {
       "engine": "Dual Electric Motor RWD",
@@ -1811,7 +1898,8 @@
       "price": "$170,000",
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
-      "topSpeed": 200
+      "topSpeed": 200,
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2022|RS e-tron GT": {
       "engine": "Dual Electric Motor AWD",
@@ -1828,7 +1916,8 @@
       "price": "$220,000",
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
-      "topSpeed": 200
+      "topSpeed": 200,
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2023|e-tron GT": {
       "engine": "Dual Electric Motor RWD",
@@ -1845,7 +1934,8 @@
       "price": "$170,000",
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
-      "topSpeed": 200
+      "topSpeed": 200,
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2023|RS e-tron GT": {
       "engine": "Dual Electric Motor AWD",
@@ -1862,7 +1952,8 @@
       "price": "$220,000",
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
-      "topSpeed": 200
+      "topSpeed": 200,
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2024|e-tron GT": {
       "engine": "Dual Electric Motor RWD",
@@ -1879,7 +1970,8 @@
       "price": "$170,000",
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
-      "topSpeed": 200
+      "topSpeed": 200,
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2024|RS e-tron GT": {
       "engine": "Dual Electric Motor AWD",
@@ -1896,7 +1988,8 @@
       "price": "$220,000",
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
-      "topSpeed": 200
+      "topSpeed": 200,
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2025|e-tron GT": {
       "engine": "Dual Electric Motor RWD",
@@ -1913,7 +2006,8 @@
       "price": "$170,000",
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
-      "topSpeed": 200
+      "topSpeed": 200,
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2025|RS e-tron GT": {
       "engine": "Dual Electric Motor AWD",
@@ -1930,7 +2024,8 @@
       "price": "$220,000",
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
-      "topSpeed": 200
+      "topSpeed": 200,
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2026|e-tron GT": {
       "engine": "Dual Electric Motor RWD",
@@ -1947,7 +2042,8 @@
       "price": "$170,000",
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
-      "topSpeed": 200
+      "topSpeed": 200,
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2026|RS e-tron GT": {
       "engine": "Dual Electric Motor AWD",
@@ -1964,7 +2060,8 @@
       "price": "$220,000",
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
-      "topSpeed": 200
+      "topSpeed": 200,
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2024|RS e-tron GT Performance": {
       "engine": "Tri Electric Motor AWD",
@@ -1981,7 +2078,8 @@
       "price": "$280,000",
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
-      "topSpeed": 200
+      "topSpeed": 200,
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2025|RS e-tron GT Performance": {
       "engine": "Tri Electric Motor AWD",
@@ -1998,7 +2096,8 @@
       "price": "$280,000",
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
-      "topSpeed": 200
+      "topSpeed": 200,
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2026|RS e-tron GT Performance": {
       "engine": "Tri Electric Motor AWD",
@@ -2015,7 +2114,8 @@
       "price": "$280,000",
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
-      "topSpeed": 200
+      "topSpeed": 200,
+      "aspiration": "Electric"
     },
     "Audi|Q8 e-tron|2020|RS Q8": {
       "engine": "4.0 TFSI quattro",
@@ -2036,7 +2136,8 @@
       "bodyStyle": "SUV",
       "fh": 8.9,
       "fx": 16.9,
-      "quarterMile": "~12.1 sec"
+      "quarterMile": "~12.1 sec",
+      "aspiration": "Turbo"
     },
     "Audi|Q8 e-tron|2021|RS Q8": {
       "engine": "4.0 TFSI quattro",
@@ -2057,7 +2158,8 @@
       "bodyStyle": "SUV",
       "fh": 8.9,
       "fx": 16.9,
-      "quarterMile": "~12.1 sec"
+      "quarterMile": "~12.1 sec",
+      "aspiration": "Turbo"
     },
     "Audi|Q8 e-tron|2022|RS Q8": {
       "engine": "4.0 TFSI quattro",
@@ -2078,7 +2180,8 @@
       "bodyStyle": "SUV",
       "fh": 8.9,
       "fx": 16.9,
-      "quarterMile": "~12.1 sec"
+      "quarterMile": "~12.1 sec",
+      "aspiration": "Turbo"
     },
     "Audi|Q8 e-tron|2023|RS Q8": {
       "engine": "4.0 TFSI quattro",
@@ -2099,7 +2202,8 @@
       "bodyStyle": "SUV",
       "fh": 8.9,
       "fx": 16.9,
-      "quarterMile": "~12.1 sec"
+      "quarterMile": "~12.1 sec",
+      "aspiration": "Turbo"
     },
     "Audi|Q8 e-tron|2024|RS Q8": {
       "engine": "4.0 TFSI quattro",
@@ -2120,7 +2224,8 @@
       "bodyStyle": "SUV",
       "fh": 8.9,
       "fx": 16.9,
-      "quarterMile": "~12.1 sec"
+      "quarterMile": "~12.1 sec",
+      "aspiration": "Turbo"
     },
     "Audi|Q8 e-tron|2025|RS Q8": {
       "engine": "4.0 TFSI quattro",
@@ -2141,7 +2246,8 @@
       "bodyStyle": "SUV",
       "fh": 8.9,
       "fx": 16.9,
-      "quarterMile": "~12.1 sec"
+      "quarterMile": "~12.1 sec",
+      "aspiration": "Turbo"
     },
     "Audi|Q8 e-tron|2026|RS Q8": {
       "engine": "4.0 TFSI quattro",
@@ -2162,7 +2268,8 @@
       "bodyStyle": "SUV",
       "fh": 8.9,
       "fx": 16.9,
-      "quarterMile": "~12.1 sec"
+      "quarterMile": "~12.1 sec",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2013|SQ5": {
       "engine": "3.0",
@@ -2183,7 +2290,8 @@
       "bodyStyle": "SUV",
       "fh": 7.8,
       "fx": 14.8,
-      "quarterMile": "~13.4 sec"
+      "quarterMile": "~13.4 sec",
+      "aspiration": "NA"
     },
     "Audi|Q5|2018|SQ5": {
       "engine": "3.0",
@@ -2204,7 +2312,8 @@
       "bodyStyle": "SUV",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.7 sec"
+      "quarterMile": "~13.7 sec",
+      "aspiration": "NA"
     },
     "Audi|Q5|2020|SQ5": {
       "engine": "3.0",
@@ -2225,7 +2334,8 @@
       "bodyStyle": "SUV",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.7 sec"
+      "quarterMile": "~13.7 sec",
+      "aspiration": "NA"
     },
     "Audi|Q5|2022|SQ5": {
       "engine": "3.0",
@@ -2246,7 +2356,8 @@
       "bodyStyle": "SUV",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.7 sec"
+      "quarterMile": "~13.7 sec",
+      "aspiration": "NA"
     },
     "Audi|Q5|2023|SQ5": {
       "engine": "3.0",
@@ -2267,7 +2378,8 @@
       "bodyStyle": "SUV",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.7 sec"
+      "quarterMile": "~13.7 sec",
+      "aspiration": "NA"
     },
     "Audi|Q5|2024|SQ5": {
       "engine": "3.0",
@@ -2288,7 +2400,8 @@
       "bodyStyle": "SUV",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.7 sec"
+      "quarterMile": "~13.7 sec",
+      "aspiration": "NA"
     },
     "Audi|Q5|2025|SQ5": {
       "engine": "3.0",
@@ -2309,7 +2422,8 @@
       "bodyStyle": "SUV",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.7 sec"
+      "quarterMile": "~13.7 sec",
+      "aspiration": "NA"
     },
     "Audi|Q5|2026|SQ5": {
       "engine": "3.0",
@@ -2330,7 +2444,8 @@
       "bodyStyle": "SUV",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.7 sec"
+      "quarterMile": "~13.7 sec",
+      "aspiration": "NA"
     },
     "Audi|Q7|2016|SQ7": {
       "engine": "4.0",
@@ -2351,7 +2466,8 @@
       "bodyStyle": "SUV",
       "fh": 7.3,
       "fx": 12.5,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "aspiration": "Turbo"
     },
     "Audi|Q7|2020|SQ7": {
       "engine": "4.0",
@@ -2372,7 +2488,8 @@
       "bodyStyle": "SUV",
       "fh": 7.3,
       "fx": 12.5,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "aspiration": "Turbo"
     },
     "Audi|Q7|2022|SQ7": {
       "engine": "4.0",
@@ -2393,7 +2510,8 @@
       "bodyStyle": "SUV",
       "fh": 7.3,
       "fx": 12.5,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "aspiration": "Turbo"
     },
     "Audi|Q7|2023|SQ7": {
       "engine": "4.0",
@@ -2414,7 +2532,8 @@
       "bodyStyle": "SUV",
       "fh": 7.3,
       "fx": 12.5,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "aspiration": "Turbo"
     },
     "Audi|Q7|2024|SQ7": {
       "engine": "4.0",
@@ -2435,7 +2554,8 @@
       "bodyStyle": "SUV",
       "fh": 7.3,
       "fx": 12.5,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "aspiration": "Turbo"
     },
     "Audi|Q7|2025|SQ7": {
       "engine": "4.0",
@@ -2456,7 +2576,8 @@
       "bodyStyle": "SUV",
       "fh": 7.3,
       "fx": 12.5,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "aspiration": "Turbo"
     },
     "Audi|Q7|2026|SQ7": {
       "engine": "4.0",
@@ -2477,7 +2598,8 @@
       "bodyStyle": "SUV",
       "fh": 7.3,
       "fx": 12.5,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "aspiration": "Turbo"
     },
     "Audi|Q3|2011|RS Q3": {
       "engine": "2.5",
@@ -2498,7 +2620,8 @@
       "bodyStyle": "SUV",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "aspiration": "NA"
     },
     "Audi|Q3|2015|RS Q3": {
       "engine": "2.5",
@@ -2519,7 +2642,8 @@
       "bodyStyle": "SUV",
       "fh": 7.4,
       "fx": 14.1,
-      "quarterMile": "~13.1 sec"
+      "quarterMile": "~13.1 sec",
+      "aspiration": "NA"
     },
     "Audi|Q3|2019|RS Q3": {
       "engine": "2.5",
@@ -2540,7 +2664,8 @@
       "bodyStyle": "SUV",
       "fh": 7.8,
       "fx": 14.8,
-      "quarterMile": "~12.8 sec"
+      "quarterMile": "~12.8 sec",
+      "aspiration": "NA"
     },
     "Audi|Q3|2020|RS Q3": {
       "engine": "2.5",
@@ -2561,7 +2686,8 @@
       "bodyStyle": "SUV",
       "fh": 7.8,
       "fx": 14.8,
-      "quarterMile": "~12.8 sec"
+      "quarterMile": "~12.8 sec",
+      "aspiration": "NA"
     },
     "Audi|Q3|2022|RS Q3": {
       "engine": "2.5",
@@ -2582,7 +2708,8 @@
       "bodyStyle": "SUV",
       "fh": 7.8,
       "fx": 14.8,
-      "quarterMile": "~12.8 sec"
+      "quarterMile": "~12.8 sec",
+      "aspiration": "NA"
     },
     "Audi|Q3|2023|RS Q3": {
       "engine": "2.5",
@@ -2603,7 +2730,8 @@
       "bodyStyle": "SUV",
       "fh": 7.8,
       "fx": 14.8,
-      "quarterMile": "~12.8 sec"
+      "quarterMile": "~12.8 sec",
+      "aspiration": "NA"
     },
     "Audi|Q3|2024|RS Q3": {
       "engine": "2.5",
@@ -2624,7 +2752,8 @@
       "bodyStyle": "SUV",
       "fh": 7.8,
       "fx": 14.8,
-      "quarterMile": "~12.8 sec"
+      "quarterMile": "~12.8 sec",
+      "aspiration": "NA"
     },
     "Audi|Q3|2025|RS Q3": {
       "engine": "2.5",
@@ -2645,7 +2774,8 @@
       "bodyStyle": "SUV",
       "fh": 7.8,
       "fx": 14.8,
-      "quarterMile": "~12.8 sec"
+      "quarterMile": "~12.8 sec",
+      "aspiration": "NA"
     },
     "Audi|Q3|2026|RS Q3": {
       "engine": "2.5",
@@ -2666,7 +2796,8 @@
       "bodyStyle": "SUV",
       "fh": 7.8,
       "fx": 14.8,
-      "quarterMile": "~12.8 sec"
+      "quarterMile": "~12.8 sec",
+      "aspiration": "NA"
     }
   }
 }

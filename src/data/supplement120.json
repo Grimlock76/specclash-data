@@ -16,7 +16,8 @@
       "fx": null,
       "acceleration": 8.3,
       "topSpeed": 180,
-      "price": "~$52,990"
+      "price": "~$52,990",
+      "aspiration": "NA"
     },
     "Lexus|LBX|2024|F Sport": {
       "engine": "1.5L 3-cyl Hybrid",
@@ -34,7 +35,8 @@
       "fx": null,
       "acceleration": 8.3,
       "topSpeed": 180,
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "aspiration": "NA"
     },
     "Lexus|LBX|2024|Luxury": {
       "engine": "1.5L 3-cyl Hybrid",
@@ -52,7 +54,8 @@
       "fx": null,
       "acceleration": 8.3,
       "topSpeed": 180,
-      "price": "~$60,990"
+      "price": "~$60,990",
+      "aspiration": "NA"
     },
     "Lexus|LBX|2025|LBX": {
       "engine": "1.5L 3-cyl Hybrid",
@@ -70,7 +73,8 @@
       "fx": null,
       "acceleration": 8.3,
       "topSpeed": 180,
-      "price": "~$54,490"
+      "price": "~$54,490",
+      "aspiration": "NA"
     },
     "Lexus|LBX|2025|F Sport": {
       "engine": "1.5L 3-cyl Hybrid",
@@ -88,7 +92,8 @@
       "fx": null,
       "acceleration": 8.3,
       "topSpeed": 180,
-      "price": "~$59,490"
+      "price": "~$59,490",
+      "aspiration": "NA"
     },
     "Lexus|LBX|2025|Luxury": {
       "engine": "1.5L 3-cyl Hybrid",
@@ -106,7 +111,8 @@
       "fx": null,
       "acceleration": 8.3,
       "topSpeed": 180,
-      "price": "~$62,490"
+      "price": "~$62,490",
+      "aspiration": "NA"
     },
     "Lexus|LBX|2026|LBX": {
       "engine": "1.5L 3-cyl Hybrid",
@@ -124,7 +130,8 @@
       "fx": null,
       "acceleration": 8.3,
       "topSpeed": 180,
-      "price": "~$55,490"
+      "price": "~$55,490",
+      "aspiration": "NA"
     },
     "Lexus|LBX|2026|F Sport": {
       "engine": "1.5L 3-cyl Hybrid",
@@ -142,7 +149,8 @@
       "fx": null,
       "acceleration": 8.3,
       "topSpeed": 180,
-      "price": "~$60,490"
+      "price": "~$60,490",
+      "aspiration": "NA"
     },
     "Lexus|LBX|2026|Luxury": {
       "engine": "1.5L 3-cyl Hybrid",
@@ -160,7 +168,8 @@
       "fx": null,
       "acceleration": 8.3,
       "topSpeed": 180,
-      "price": "~$63,490"
+      "price": "~$63,490",
+      "aspiration": "NA"
     },
     "Lexus|RZ|2024|RZ 300e": {
       "engine": "Single Electric Motor",
@@ -178,7 +187,8 @@
       "fx": null,
       "acceleration": 8.3,
       "topSpeed": 160,
-      "price": "~$89,990"
+      "price": "~$89,990",
+      "aspiration": "Electric"
     },
     "Lexus|RZ|2025|RZ 300e": {
       "engine": "Single Electric Motor",
@@ -196,7 +206,8 @@
       "fx": null,
       "acceleration": 8.3,
       "topSpeed": 160,
-      "price": "~$91,490"
+      "price": "~$91,490",
+      "aspiration": "Electric"
     },
     "Lexus|RZ|2026|RZ 300e": {
       "engine": "Single Electric Motor",
@@ -214,7 +225,8 @@
       "fx": null,
       "acceleration": 8.3,
       "topSpeed": 160,
-      "price": "~$92,490"
+      "price": "~$92,490",
+      "aspiration": "Electric"
     },
     "Audi|A3 Sportback|2021|35 TFSI": {
       "engine": "1.5L 4-cyl TFSI",
@@ -232,7 +244,8 @@
       "fx": null,
       "acceleration": 8.4,
       "topSpeed": 220,
-      "price": "~$45,900"
+      "price": "~$45,900",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2021|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -250,7 +263,8 @@
       "fx": null,
       "acceleration": 6.8,
       "topSpeed": 237,
-      "price": "~$52,900"
+      "price": "~$52,900",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2021|S3": {
       "engine": "2.0L 4-cyl TFSI S quattro",
@@ -268,7 +282,8 @@
       "fx": null,
       "acceleration": 4.8,
       "topSpeed": 250,
-      "price": "~$68,900"
+      "price": "~$68,900",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2021|RS3": {
       "engine": "2.5L 5-cyl TFSI RS quattro",
@@ -286,7 +301,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 290,
-      "price": "~$89,900"
+      "price": "~$89,900",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2022|35 TFSI": {
       "engine": "1.5L 4-cyl TFSI",
@@ -304,7 +320,8 @@
       "fx": null,
       "acceleration": 8.4,
       "topSpeed": 220,
-      "price": "~$47,400"
+      "price": "~$47,400",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2022|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -322,7 +339,8 @@
       "fx": null,
       "acceleration": 6.8,
       "topSpeed": 237,
-      "price": "~$54,400"
+      "price": "~$54,400",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2022|S3": {
       "engine": "2.0L 4-cyl TFSI S quattro",
@@ -340,7 +358,8 @@
       "fx": null,
       "acceleration": 4.8,
       "topSpeed": 250,
-      "price": "~$70,400"
+      "price": "~$70,400",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2022|RS3": {
       "engine": "2.5L 5-cyl TFSI RS quattro",
@@ -358,7 +377,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 290,
-      "price": "~$91,400"
+      "price": "~$91,400",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2023|35 TFSI": {
       "engine": "1.5L 4-cyl TFSI",
@@ -376,7 +396,8 @@
       "fx": null,
       "acceleration": 8.4,
       "topSpeed": 220,
-      "price": "~$48,400"
+      "price": "~$48,400",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2023|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -394,7 +415,8 @@
       "fx": null,
       "acceleration": 6.8,
       "topSpeed": 237,
-      "price": "~$55,400"
+      "price": "~$55,400",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2023|S3": {
       "engine": "2.0L 4-cyl TFSI S quattro",
@@ -412,7 +434,8 @@
       "fx": null,
       "acceleration": 4.8,
       "topSpeed": 250,
-      "price": "~$71,400"
+      "price": "~$71,400",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2023|RS3": {
       "engine": "2.5L 5-cyl TFSI RS quattro",
@@ -430,7 +453,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 290,
-      "price": "~$92,400"
+      "price": "~$92,400",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2024|35 TFSI": {
       "engine": "1.5L 4-cyl TFSI",
@@ -448,7 +472,8 @@
       "fx": null,
       "acceleration": 8.4,
       "topSpeed": 220,
-      "price": "~$48,900"
+      "price": "~$48,900",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2024|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -466,7 +491,8 @@
       "fx": null,
       "acceleration": 6.8,
       "topSpeed": 237,
-      "price": "~$55,900"
+      "price": "~$55,900",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2024|S3": {
       "engine": "2.0L 4-cyl TFSI S quattro",
@@ -484,7 +510,8 @@
       "fx": null,
       "acceleration": 4.8,
       "topSpeed": 250,
-      "price": "~$71,900"
+      "price": "~$71,900",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2024|RS3": {
       "engine": "2.5L 5-cyl TFSI RS quattro",
@@ -502,7 +529,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 290,
-      "price": "~$92,900"
+      "price": "~$92,900",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2025|35 TFSI": {
       "engine": "1.5L 4-cyl TFSI",
@@ -520,7 +548,8 @@
       "fx": null,
       "acceleration": 8.4,
       "topSpeed": 220,
-      "price": "~$49,400"
+      "price": "~$49,400",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2025|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -538,7 +567,8 @@
       "fx": null,
       "acceleration": 6.8,
       "topSpeed": 237,
-      "price": "~$56,400"
+      "price": "~$56,400",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2025|S3": {
       "engine": "2.0L 4-cyl TFSI S quattro",
@@ -556,7 +586,8 @@
       "fx": null,
       "acceleration": 4.8,
       "topSpeed": 250,
-      "price": "~$72,400"
+      "price": "~$72,400",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2025|RS3": {
       "engine": "2.5L 5-cyl TFSI RS quattro",
@@ -574,7 +605,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 290,
-      "price": "~$93,400"
+      "price": "~$93,400",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2026|35 TFSI": {
       "engine": "1.5L 4-cyl TFSI",
@@ -592,7 +624,8 @@
       "fx": null,
       "acceleration": 8.4,
       "topSpeed": 220,
-      "price": "~$49,900"
+      "price": "~$49,900",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2026|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -610,7 +643,8 @@
       "fx": null,
       "acceleration": 6.8,
       "topSpeed": 237,
-      "price": "~$56,900"
+      "price": "~$56,900",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2026|S3": {
       "engine": "2.0L 4-cyl TFSI S quattro",
@@ -628,7 +662,8 @@
       "fx": null,
       "acceleration": 4.8,
       "topSpeed": 250,
-      "price": "~$72,900"
+      "price": "~$72,900",
+      "aspiration": "Turbo"
     },
     "Audi|A3 Sportback|2026|RS3": {
       "engine": "2.5L 5-cyl TFSI RS quattro",
@@ -646,7 +681,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 290,
-      "price": "~$93,900"
+      "price": "~$93,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2019|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -664,7 +700,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 215,
-      "price": "~$68,900"
+      "price": "~$68,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2019|55 TFSI e quattro": {
       "engine": "2.0L 4-cyl TFSI e quattro",
@@ -683,7 +720,8 @@
       "acceleration": 5.3,
       "topSpeed": 224,
       "range": 68,
-      "price": "~$88,900"
+      "price": "~$88,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2019|45 TFSI quattro Black Edition": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -701,7 +739,8 @@
       "fx": null,
       "acceleration": 5.9,
       "topSpeed": 235,
-      "price": "~$84,900"
+      "price": "~$84,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2020|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -719,7 +758,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 215,
-      "price": "~$69,900"
+      "price": "~$69,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2020|55 TFSI e quattro": {
       "engine": "2.0L 4-cyl TFSI e quattro",
@@ -738,7 +778,8 @@
       "acceleration": 5.3,
       "topSpeed": 224,
       "range": 68,
-      "price": "~$89,900"
+      "price": "~$89,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2020|45 TFSI quattro Black Edition": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -756,7 +797,8 @@
       "fx": null,
       "acceleration": 5.9,
       "topSpeed": 235,
-      "price": "~$85,900"
+      "price": "~$85,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2021|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -774,7 +816,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 215,
-      "price": "~$70,900"
+      "price": "~$70,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2021|55 TFSI e quattro": {
       "engine": "2.0L 4-cyl TFSI e quattro",
@@ -793,7 +836,8 @@
       "acceleration": 5.3,
       "topSpeed": 224,
       "range": 68,
-      "price": "~$90,900"
+      "price": "~$90,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2021|45 TFSI quattro Black Edition": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -811,7 +855,8 @@
       "fx": null,
       "acceleration": 5.9,
       "topSpeed": 235,
-      "price": "~$86,900"
+      "price": "~$86,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2022|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -829,7 +874,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 215,
-      "price": "~$71,900"
+      "price": "~$71,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2022|55 TFSI e quattro": {
       "engine": "2.0L 4-cyl TFSI e quattro",
@@ -848,7 +894,8 @@
       "acceleration": 5.3,
       "topSpeed": 224,
       "range": 68,
-      "price": "~$91,900"
+      "price": "~$91,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2022|45 TFSI quattro Black Edition": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -866,7 +913,8 @@
       "fx": null,
       "acceleration": 5.9,
       "topSpeed": 235,
-      "price": "~$87,900"
+      "price": "~$87,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2023|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -884,7 +932,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 215,
-      "price": "~$72,900"
+      "price": "~$72,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2023|55 TFSI e quattro": {
       "engine": "2.0L 4-cyl TFSI e quattro",
@@ -903,7 +952,8 @@
       "acceleration": 5.3,
       "topSpeed": 224,
       "range": 68,
-      "price": "~$92,900"
+      "price": "~$92,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2023|45 TFSI quattro Black Edition": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -921,7 +971,8 @@
       "fx": null,
       "acceleration": 5.9,
       "topSpeed": 235,
-      "price": "~$88,900"
+      "price": "~$88,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2024|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -939,7 +990,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 215,
-      "price": "~$73,900"
+      "price": "~$73,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2024|55 TFSI e quattro": {
       "engine": "2.0L 4-cyl TFSI e quattro",
@@ -958,7 +1010,8 @@
       "acceleration": 5.3,
       "topSpeed": 224,
       "range": 68,
-      "price": "~$93,900"
+      "price": "~$93,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2024|45 TFSI quattro Black Edition": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -976,7 +1029,8 @@
       "fx": null,
       "acceleration": 5.9,
       "topSpeed": 235,
-      "price": "~$89,900"
+      "price": "~$89,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2025|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -994,7 +1048,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 215,
-      "price": "~$74,900"
+      "price": "~$74,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2025|55 TFSI e quattro": {
       "engine": "2.0L 4-cyl TFSI e quattro",
@@ -1013,7 +1068,8 @@
       "acceleration": 5.3,
       "topSpeed": 224,
       "range": 68,
-      "price": "~$94,900"
+      "price": "~$94,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2025|45 TFSI quattro Black Edition": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -1031,7 +1087,8 @@
       "fx": null,
       "acceleration": 5.9,
       "topSpeed": 235,
-      "price": "~$90,900"
+      "price": "~$90,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2026|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -1049,7 +1106,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 215,
-      "price": "~$75,900"
+      "price": "~$75,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2026|55 TFSI e quattro": {
       "engine": "2.0L 4-cyl TFSI e quattro",
@@ -1068,7 +1126,8 @@
       "acceleration": 5.3,
       "topSpeed": 224,
       "range": 68,
-      "price": "~$95,900"
+      "price": "~$95,900",
+      "aspiration": "Turbo"
     },
     "Audi|Q5|2026|45 TFSI quattro Black Edition": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -1086,7 +1145,8 @@
       "fx": null,
       "acceleration": 5.9,
       "topSpeed": 235,
-      "price": "~$91,900"
+      "price": "~$91,900",
+      "aspiration": "Turbo"
     },
     "Audi|SQ5|2019|SQ5": {
       "engine": "3.0L V6 TFSI quattro",
@@ -1104,7 +1164,8 @@
       "fx": null,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$104,900"
+      "price": "~$104,900",
+      "aspiration": "Turbo"
     },
     "Audi|SQ5|2020|SQ5": {
       "engine": "3.0L V6 TFSI quattro",
@@ -1122,7 +1183,8 @@
       "fx": null,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$105,900"
+      "price": "~$105,900",
+      "aspiration": "Turbo"
     },
     "Audi|SQ5|2021|SQ5": {
       "engine": "3.0L V6 TFSI quattro",
@@ -1140,7 +1202,8 @@
       "fx": null,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$106,900"
+      "price": "~$106,900",
+      "aspiration": "Turbo"
     },
     "Audi|SQ5|2022|SQ5": {
       "engine": "3.0L V6 TFSI quattro",
@@ -1158,7 +1221,8 @@
       "fx": null,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$107,900"
+      "price": "~$107,900",
+      "aspiration": "Turbo"
     },
     "Audi|SQ5|2023|SQ5": {
       "engine": "3.0L V6 TFSI quattro",
@@ -1176,7 +1240,8 @@
       "fx": null,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$108,900"
+      "price": "~$108,900",
+      "aspiration": "Turbo"
     },
     "Audi|SQ5|2024|SQ5": {
       "engine": "3.0L V6 TFSI quattro",
@@ -1194,7 +1259,8 @@
       "fx": null,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$109,900"
+      "price": "~$109,900",
+      "aspiration": "Turbo"
     },
     "Audi|SQ5|2025|SQ5": {
       "engine": "3.0L V6 TFSI quattro",
@@ -1212,7 +1278,8 @@
       "fx": null,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$110,900"
+      "price": "~$110,900",
+      "aspiration": "Turbo"
     },
     "Audi|SQ5|2026|SQ5": {
       "engine": "3.0L V6 TFSI quattro",
@@ -1230,7 +1297,8 @@
       "fx": null,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$111,900"
+      "price": "~$111,900",
+      "aspiration": "Turbo"
     },
     "Kia|EV5|2024|Standard Range": {
       "engine": "Single Electric Motor",
@@ -1248,7 +1316,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "aspiration": "Electric"
     },
     "Kia|EV5|2024|Long Range": {
       "engine": "Single Electric Motor",
@@ -1266,7 +1335,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$62,990"
+      "price": "~$62,990",
+      "aspiration": "Electric"
     },
     "Kia|EV5|2024|Long Range AWD": {
       "engine": "Dual Electric Motor",
@@ -1284,7 +1354,8 @@
       "fx": null,
       "acceleration": 5.7,
       "topSpeed": 185,
-      "price": "~$71,990"
+      "price": "~$71,990",
+      "aspiration": "Electric"
     },
     "Kia|EV5|2025|Standard Range": {
       "engine": "Single Electric Motor",
@@ -1302,7 +1373,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$56,490"
+      "price": "~$56,490",
+      "aspiration": "Electric"
     },
     "Kia|EV5|2025|Long Range": {
       "engine": "Single Electric Motor",
@@ -1320,7 +1392,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$64,490"
+      "price": "~$64,490",
+      "aspiration": "Electric"
     },
     "Kia|EV5|2025|Long Range AWD": {
       "engine": "Dual Electric Motor",
@@ -1338,7 +1411,8 @@
       "fx": null,
       "acceleration": 5.7,
       "topSpeed": 185,
-      "price": "~$73,490"
+      "price": "~$73,490",
+      "aspiration": "Electric"
     },
     "Kia|EV5|2026|Standard Range": {
       "engine": "Single Electric Motor",
@@ -1356,7 +1430,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$57,490"
+      "price": "~$57,490",
+      "aspiration": "Electric"
     },
     "Kia|EV5|2026|Long Range": {
       "engine": "Single Electric Motor",
@@ -1374,7 +1449,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$65,490"
+      "price": "~$65,490",
+      "aspiration": "Electric"
     },
     "Kia|EV5|2026|Long Range AWD": {
       "engine": "Dual Electric Motor",
@@ -1392,7 +1468,8 @@
       "fx": null,
       "acceleration": 5.7,
       "topSpeed": 185,
-      "price": "~$74,490"
+      "price": "~$74,490",
+      "aspiration": "Electric"
     },
     "CUPRA|Leon|2021|1.5 eTSI": {
       "engine": "1.5L 4-cyl eTSI Mild Hybrid",
@@ -1410,7 +1487,8 @@
       "fx": null,
       "acceleration": 9,
       "topSpeed": 210,
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "aspiration": "NA"
     },
     "CUPRA|Leon|2021|1.4 e-Hybrid": {
       "engine": "1.4L 4-cyl e-Hybrid",
@@ -1429,7 +1507,8 @@
       "acceleration": 7,
       "topSpeed": 220,
       "range": 60,
-      "price": "~$48,990"
+      "price": "~$48,990",
+      "aspiration": "NA"
     },
     "CUPRA|Leon|2021|VZ": {
       "engine": "2.0L 4-cyl TSI",
@@ -1447,7 +1526,8 @@
       "fx": null,
       "acceleration": 6.8,
       "topSpeed": 250,
-      "price": "~$52,990"
+      "price": "~$52,990",
+      "aspiration": "Turbo"
     },
     "CUPRA|Leon|2021|VZ 4Drive": {
       "engine": "2.0L 4-cyl TSI 4Drive",
@@ -1465,7 +1545,8 @@
       "fx": null,
       "acceleration": 5.8,
       "topSpeed": 250,
-      "price": "~$58,990"
+      "price": "~$58,990",
+      "aspiration": "Turbo"
     },
     "CUPRA|Leon|2022|1.5 eTSI": {
       "engine": "1.5L 4-cyl eTSI Mild Hybrid",
@@ -1483,7 +1564,8 @@
       "fx": null,
       "acceleration": 9,
       "topSpeed": 210,
-      "price": "~$45,990"
+      "price": "~$45,990",
+      "aspiration": "NA"
     },
     "CUPRA|Leon|2022|1.4 e-Hybrid": {
       "engine": "1.4L 4-cyl e-Hybrid",
@@ -1502,7 +1584,8 @@
       "acceleration": 7,
       "topSpeed": 220,
       "range": 60,
-      "price": "~$49,990"
+      "price": "~$49,990",
+      "aspiration": "NA"
     },
     "CUPRA|Leon|2022|VZ": {
       "engine": "2.0L 4-cyl TSI",
@@ -1520,7 +1603,8 @@
       "fx": null,
       "acceleration": 6.8,
       "topSpeed": 250,
-      "price": "~$53,990"
+      "price": "~$53,990",
+      "aspiration": "Turbo"
     },
     "CUPRA|Leon|2022|VZ 4Drive": {
       "engine": "2.0L 4-cyl TSI 4Drive",
@@ -1538,7 +1622,8 @@
       "fx": null,
       "acceleration": 5.8,
       "topSpeed": 250,
-      "price": "~$59,990"
+      "price": "~$59,990",
+      "aspiration": "Turbo"
     },
     "CUPRA|Leon|2023|1.5 eTSI": {
       "engine": "1.5L 4-cyl eTSI Mild Hybrid",
@@ -1556,7 +1641,8 @@
       "fx": null,
       "acceleration": 9,
       "topSpeed": 210,
-      "price": "~$46,990"
+      "price": "~$46,990",
+      "aspiration": "NA"
     },
     "CUPRA|Leon|2023|1.4 e-Hybrid": {
       "engine": "1.4L 4-cyl e-Hybrid",
@@ -1575,7 +1661,8 @@
       "acceleration": 7,
       "topSpeed": 220,
       "range": 60,
-      "price": "~$50,990"
+      "price": "~$50,990",
+      "aspiration": "NA"
     },
     "CUPRA|Leon|2023|VZ": {
       "engine": "2.0L 4-cyl TSI",
@@ -1593,7 +1680,8 @@
       "fx": null,
       "acceleration": 6.8,
       "topSpeed": 250,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "aspiration": "Turbo"
     },
     "CUPRA|Leon|2023|VZ 4Drive": {
       "engine": "2.0L 4-cyl TSI 4Drive",
@@ -1611,7 +1699,8 @@
       "fx": null,
       "acceleration": 5.8,
       "topSpeed": 250,
-      "price": "~$60,990"
+      "price": "~$60,990",
+      "aspiration": "Turbo"
     },
     "CUPRA|Leon|2024|1.5 eTSI": {
       "engine": "1.5L 4-cyl eTSI Mild Hybrid",
@@ -1629,7 +1718,8 @@
       "fx": null,
       "acceleration": 9,
       "topSpeed": 210,
-      "price": "~$47,490"
+      "price": "~$47,490",
+      "aspiration": "NA"
     },
     "CUPRA|Leon|2024|1.4 e-Hybrid": {
       "engine": "1.4L 4-cyl e-Hybrid",
@@ -1648,7 +1738,8 @@
       "acceleration": 7,
       "topSpeed": 220,
       "range": 60,
-      "price": "~$51,490"
+      "price": "~$51,490",
+      "aspiration": "NA"
     },
     "CUPRA|Leon|2024|VZ": {
       "engine": "2.0L 4-cyl TSI",
@@ -1666,7 +1757,8 @@
       "fx": null,
       "acceleration": 6.8,
       "topSpeed": 250,
-      "price": "~$55,490"
+      "price": "~$55,490",
+      "aspiration": "Turbo"
     },
     "CUPRA|Leon|2024|VZ 4Drive": {
       "engine": "2.0L 4-cyl TSI 4Drive",
@@ -1684,7 +1776,8 @@
       "fx": null,
       "acceleration": 5.8,
       "topSpeed": 250,
-      "price": "~$61,490"
+      "price": "~$61,490",
+      "aspiration": "Turbo"
     },
     "CUPRA|Leon|2025|1.5 eTSI": {
       "engine": "1.5L 4-cyl eTSI Mild Hybrid",
@@ -1702,7 +1795,8 @@
       "fx": null,
       "acceleration": 9,
       "topSpeed": 210,
-      "price": "~$47,990"
+      "price": "~$47,990",
+      "aspiration": "NA"
     },
     "CUPRA|Leon|2025|1.4 e-Hybrid": {
       "engine": "1.4L 4-cyl e-Hybrid",
@@ -1721,7 +1815,8 @@
       "acceleration": 7,
       "topSpeed": 220,
       "range": 60,
-      "price": "~$51,990"
+      "price": "~$51,990",
+      "aspiration": "NA"
     },
     "CUPRA|Leon|2025|VZ": {
       "engine": "2.0L 4-cyl TSI",
@@ -1739,7 +1834,8 @@
       "fx": null,
       "acceleration": 6.8,
       "topSpeed": 250,
-      "price": "~$55,990"
+      "price": "~$55,990",
+      "aspiration": "Turbo"
     },
     "CUPRA|Leon|2025|VZ 4Drive": {
       "engine": "2.0L 4-cyl TSI 4Drive",
@@ -1757,7 +1853,8 @@
       "fx": null,
       "acceleration": 5.8,
       "topSpeed": 250,
-      "price": "~$61,990"
+      "price": "~$61,990",
+      "aspiration": "Turbo"
     },
     "CUPRA|Leon|2026|1.5 eTSI": {
       "engine": "1.5L 4-cyl eTSI Mild Hybrid",
@@ -1775,7 +1872,8 @@
       "fx": null,
       "acceleration": 9,
       "topSpeed": 210,
-      "price": "~$48,490"
+      "price": "~$48,490",
+      "aspiration": "NA"
     },
     "CUPRA|Leon|2026|1.4 e-Hybrid": {
       "engine": "1.4L 4-cyl e-Hybrid",
@@ -1794,7 +1892,8 @@
       "acceleration": 7,
       "topSpeed": 220,
       "range": 60,
-      "price": "~$52,490"
+      "price": "~$52,490",
+      "aspiration": "NA"
     },
     "CUPRA|Leon|2026|VZ": {
       "engine": "2.0L 4-cyl TSI",
@@ -1812,7 +1911,8 @@
       "fx": null,
       "acceleration": 6.8,
       "topSpeed": 250,
-      "price": "~$56,490"
+      "price": "~$56,490",
+      "aspiration": "Turbo"
     },
     "CUPRA|Leon|2026|VZ 4Drive": {
       "engine": "2.0L 4-cyl TSI 4Drive",
@@ -1830,7 +1930,8 @@
       "fx": null,
       "acceleration": 5.8,
       "topSpeed": 250,
-      "price": "~$62,490"
+      "price": "~$62,490",
+      "aspiration": "Turbo"
     },
     "Toyota|GR Corolla|2023|Circuit": {
       "engine": "1.6L 3-cyl Turbo GR-FOUR",
@@ -1848,7 +1949,8 @@
       "fx": null,
       "acceleration": 5.9,
       "topSpeed": 230,
-      "price": "~$74,990"
+      "price": "~$74,990",
+      "aspiration": "Turbo"
     },
     "Toyota|GR Corolla|2024|Circuit": {
       "engine": "1.6L 3-cyl Turbo GR-FOUR",
@@ -1866,7 +1968,8 @@
       "fx": null,
       "acceleration": 5.9,
       "topSpeed": 230,
-      "price": "~$76,990"
+      "price": "~$76,990",
+      "aspiration": "Turbo"
     },
     "Toyota|GR Corolla|2025|Circuit": {
       "engine": "1.6L 3-cyl Turbo GR-FOUR",
@@ -1884,7 +1987,8 @@
       "fx": null,
       "acceleration": 5.9,
       "topSpeed": 230,
-      "price": "~$78,490"
+      "price": "~$78,490",
+      "aspiration": "Turbo"
     },
     "Toyota|GR Corolla|2026|Circuit": {
       "engine": "1.6L 3-cyl Turbo GR-FOUR",
@@ -1902,7 +2006,8 @@
       "fx": null,
       "acceleration": 5.9,
       "topSpeed": 230,
-      "price": "~$79,990"
+      "price": "~$79,990",
+      "aspiration": "Turbo"
     },
     "Mazda|CX-90|2024|GT": {
       "engine": "3.3L I6 Turbo Skyactiv-G",
@@ -1920,7 +2025,8 @@
       "fx": null,
       "acceleration": 7.2,
       "topSpeed": 210,
-      "price": "~$74,990"
+      "price": "~$74,990",
+      "aspiration": "Turbo"
     },
     "Mazda|CX-90|2024|GT SP": {
       "engine": "3.3L I6 Turbo Skyactiv-G",
@@ -1938,7 +2044,8 @@
       "fx": null,
       "acceleration": 6.5,
       "topSpeed": 210,
-      "price": "~$84,990"
+      "price": "~$84,990",
+      "aspiration": "Turbo"
     },
     "Mazda|CX-90|2024|Azami": {
       "engine": "2.5L 4-cyl PHEV e-Skyactiv",
@@ -1957,7 +2064,8 @@
       "acceleration": 6,
       "topSpeed": 200,
       "range": 79,
-      "price": "~$92,990"
+      "price": "~$92,990",
+      "aspiration": "NA"
     },
     "Mazda|CX-90|2025|GT": {
       "engine": "3.3L I6 Turbo Skyactiv-G",
@@ -1975,7 +2083,8 @@
       "fx": null,
       "acceleration": 7.2,
       "topSpeed": 210,
-      "price": "~$76,990"
+      "price": "~$76,990",
+      "aspiration": "Turbo"
     },
     "Mazda|CX-90|2025|GT SP": {
       "engine": "3.3L I6 Turbo Skyactiv-G",
@@ -1993,7 +2102,8 @@
       "fx": null,
       "acceleration": 6.5,
       "topSpeed": 210,
-      "price": "~$86,990"
+      "price": "~$86,990",
+      "aspiration": "Turbo"
     },
     "Mazda|CX-90|2025|Azami": {
       "engine": "2.5L 4-cyl PHEV e-Skyactiv",
@@ -2012,7 +2122,8 @@
       "acceleration": 6,
       "topSpeed": 200,
       "range": 79,
-      "price": "~$94,990"
+      "price": "~$94,990",
+      "aspiration": "NA"
     },
     "Mazda|CX-90|2026|GT": {
       "engine": "3.3L I6 Turbo Skyactiv-G",
@@ -2030,7 +2141,8 @@
       "fx": null,
       "acceleration": 7.2,
       "topSpeed": 210,
-      "price": "~$78,490"
+      "price": "~$78,490",
+      "aspiration": "Turbo"
     },
     "Mazda|CX-90|2026|GT SP": {
       "engine": "3.3L I6 Turbo Skyactiv-G",
@@ -2048,7 +2160,8 @@
       "fx": null,
       "acceleration": 6.5,
       "topSpeed": 210,
-      "price": "~$88,490"
+      "price": "~$88,490",
+      "aspiration": "Turbo"
     },
     "Mazda|CX-90|2026|Azami": {
       "engine": "2.5L 4-cyl PHEV e-Skyactiv",
@@ -2067,7 +2180,8 @@
       "acceleration": 6,
       "topSpeed": 200,
       "range": 79,
-      "price": "~$96,490"
+      "price": "~$96,490",
+      "aspiration": "NA"
     },
     "Skoda|Octavia|2021|RS": {
       "engine": "2.0L 4-cyl TSI RS",
@@ -2085,7 +2199,8 @@
       "fx": null,
       "acceleration": 6.7,
       "topSpeed": 248,
-      "price": "~$52,990"
+      "price": "~$52,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Octavia|2021|RS Combi": {
       "engine": "2.0L 4-cyl TSI RS",
@@ -2103,7 +2218,8 @@
       "fx": null,
       "acceleration": 6.9,
       "topSpeed": 248,
-      "price": "~$55,990"
+      "price": "~$55,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Octavia|2022|RS": {
       "engine": "2.0L 4-cyl TSI RS",
@@ -2121,7 +2237,8 @@
       "fx": null,
       "acceleration": 6.7,
       "topSpeed": 248,
-      "price": "~$53,990"
+      "price": "~$53,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Octavia|2022|RS Combi": {
       "engine": "2.0L 4-cyl TSI RS",
@@ -2139,7 +2256,8 @@
       "fx": null,
       "acceleration": 6.9,
       "topSpeed": 248,
-      "price": "~$56,990"
+      "price": "~$56,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Octavia|2023|RS": {
       "engine": "2.0L 4-cyl TSI RS",
@@ -2157,7 +2275,8 @@
       "fx": null,
       "acceleration": 6.7,
       "topSpeed": 248,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Octavia|2023|RS Combi": {
       "engine": "2.0L 4-cyl TSI RS",
@@ -2175,7 +2294,8 @@
       "fx": null,
       "acceleration": 6.9,
       "topSpeed": 248,
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Octavia|2024|RS": {
       "engine": "2.0L 4-cyl TSI RS",
@@ -2193,7 +2313,8 @@
       "fx": null,
       "acceleration": 6.7,
       "topSpeed": 248,
-      "price": "~$55,490"
+      "price": "~$55,490",
+      "aspiration": "Turbo"
     },
     "Skoda|Octavia|2024|RS Combi": {
       "engine": "2.0L 4-cyl TSI RS",
@@ -2211,7 +2332,8 @@
       "fx": null,
       "acceleration": 6.9,
       "topSpeed": 248,
-      "price": "~$58,490"
+      "price": "~$58,490",
+      "aspiration": "Turbo"
     },
     "Skoda|Octavia|2025|RS": {
       "engine": "2.0L 4-cyl TSI RS",
@@ -2229,7 +2351,8 @@
       "fx": null,
       "acceleration": 6.7,
       "topSpeed": 248,
-      "price": "~$55,990"
+      "price": "~$55,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Octavia|2025|RS Combi": {
       "engine": "2.0L 4-cyl TSI RS",
@@ -2247,7 +2370,8 @@
       "fx": null,
       "acceleration": 6.9,
       "topSpeed": 248,
-      "price": "~$58,990"
+      "price": "~$58,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Octavia|2026|RS": {
       "engine": "2.0L 4-cyl TSI RS",
@@ -2265,7 +2389,8 @@
       "fx": null,
       "acceleration": 6.7,
       "topSpeed": 248,
-      "price": "~$56,490"
+      "price": "~$56,490",
+      "aspiration": "Turbo"
     },
     "Skoda|Octavia|2026|RS Combi": {
       "engine": "2.0L 4-cyl TSI RS",
@@ -2283,7 +2408,8 @@
       "fx": null,
       "acceleration": 6.9,
       "topSpeed": 248,
-      "price": "~$59,490"
+      "price": "~$59,490",
+      "aspiration": "Turbo"
     },
     "Honda|CR-V|2023|e:PHEV": {
       "engine": "2.0L 4-cyl e:PHEV",
@@ -2302,7 +2428,8 @@
       "acceleration": 7.7,
       "topSpeed": 180,
       "range": 81,
-      "price": "~$63,990"
+      "price": "~$63,990",
+      "aspiration": "NA"
     },
     "Honda|CR-V|2024|e:PHEV": {
       "engine": "2.0L 4-cyl e:PHEV",
@@ -2321,7 +2448,8 @@
       "acceleration": 7.7,
       "topSpeed": 180,
       "range": 81,
-      "price": "~$65,490"
+      "price": "~$65,490",
+      "aspiration": "NA"
     },
     "Honda|CR-V|2025|e:PHEV": {
       "engine": "2.0L 4-cyl e:PHEV",
@@ -2340,7 +2468,8 @@
       "acceleration": 7.7,
       "topSpeed": 180,
       "range": 81,
-      "price": "~$66,490"
+      "price": "~$66,490",
+      "aspiration": "NA"
     },
     "Honda|CR-V|2026|e:PHEV": {
       "engine": "2.0L 4-cyl e:PHEV",
@@ -2359,7 +2488,8 @@
       "acceleration": 7.7,
       "topSpeed": 180,
       "range": 81,
-      "price": "~$67,490"
+      "price": "~$67,490",
+      "aspiration": "NA"
     }
   }
 }

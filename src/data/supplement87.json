@@ -16,7 +16,8 @@
       "fc": "19.0L",
       "fh": "12.5L",
       "fx": "16.0L",
-      "pr": "~$1,500,000"
+      "pr": "~$1,500,000",
+      "aspiration": "NA"
     },
     "McLaren|F1|1993|Standard": {
       "en": "6.1L BMW S70/2 V12",
@@ -34,7 +35,8 @@
       "fc": "19.0L",
       "fh": "12.5L",
       "fx": "16.0L",
-      "pr": "~$1,500,000"
+      "pr": "~$1,500,000",
+      "aspiration": "NA"
     },
     "McLaren|F1|1994|Standard": {
       "en": "6.1L BMW S70/2 V12",
@@ -52,7 +54,8 @@
       "fc": "19.0L",
       "fh": "12.5L",
       "fx": "16.0L",
-      "pr": "~$1,500,000"
+      "pr": "~$1,500,000",
+      "aspiration": "NA"
     },
     "McLaren|F1|1995|Standard": {
       "en": "6.1L BMW S70/2 V12",
@@ -70,7 +73,8 @@
       "fc": "19.0L",
       "fh": "12.5L",
       "fx": "16.0L",
-      "pr": "~$1,500,000"
+      "pr": "~$1,500,000",
+      "aspiration": "NA"
     },
     "McLaren|F1|1996|Standard": {
       "en": "6.1L BMW S70/2 V12",
@@ -88,7 +92,8 @@
       "fc": "19.0L",
       "fh": "12.5L",
       "fx": "16.0L",
-      "pr": "~$1,500,000"
+      "pr": "~$1,500,000",
+      "aspiration": "NA"
     },
     "McLaren|F1|1997|Standard": {
       "en": "6.1L BMW S70/2 V12",
@@ -106,7 +111,8 @@
       "fc": "19.0L",
       "fh": "12.5L",
       "fx": "16.0L",
-      "pr": "~$1,500,000"
+      "pr": "~$1,500,000",
+      "aspiration": "NA"
     },
     "McLaren|F1|1998|Standard": {
       "en": "6.1L BMW S70/2 V12",
@@ -124,7 +130,8 @@
       "fc": "19.0L",
       "fh": "12.5L",
       "fx": "16.0L",
-      "pr": "~$1,500,000"
+      "pr": "~$1,500,000",
+      "aspiration": "NA"
     },
     "McLaren|MP4-12C|2011|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -142,7 +149,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$280,000"
+      "pr": "~$280,000",
+      "aspiration": "Turbo"
     },
     "McLaren|MP4-12C|2012|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -160,7 +168,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$280,000"
+      "pr": "~$280,000",
+      "aspiration": "Turbo"
     },
     "McLaren|MP4-12C|2012|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -178,7 +187,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$315,000"
+      "pr": "~$315,000",
+      "aspiration": "Turbo"
     },
     "McLaren|MP4-12C|2013|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -196,7 +206,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$280,000"
+      "pr": "~$280,000",
+      "aspiration": "Turbo"
     },
     "McLaren|MP4-12C|2013|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -214,7 +225,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$315,000"
+      "pr": "~$315,000",
+      "aspiration": "Turbo"
     },
     "McLaren|MP4-12C|2014|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -232,7 +244,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$280,000"
+      "pr": "~$280,000",
+      "aspiration": "Turbo"
     },
     "McLaren|MP4-12C|2014|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -250,7 +263,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$315,000"
+      "pr": "~$315,000",
+      "aspiration": "Turbo"
     },
     "McLaren|P1|2013|Standard": {
       "en": "3.8L twin-turbo V8 + electric KERS",
@@ -265,7 +279,8 @@
       "ft": "Petrol",
       "wt": "1,547 kg",
       "se": "2",
-      "pr": "~$1,600,000"
+      "pr": "~$1,600,000",
+      "aspiration": "Turbo"
     },
     "McLaren|P1|2014|Standard": {
       "en": "3.8L twin-turbo V8 + electric KERS",
@@ -280,7 +295,8 @@
       "ft": "Petrol",
       "wt": "1,547 kg",
       "se": "2",
-      "pr": "~$1,600,000"
+      "pr": "~$1,600,000",
+      "aspiration": "Turbo"
     },
     "McLaren|P1|2015|Standard": {
       "en": "3.8L twin-turbo V8 + electric KERS",
@@ -295,7 +311,8 @@
       "ft": "Petrol",
       "wt": "1,547 kg",
       "se": "2",
-      "pr": "~$1,600,000"
+      "pr": "~$1,600,000",
+      "aspiration": "Turbo"
     },
     "McLaren|650S|2014|Coupe": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -313,7 +330,8 @@
       "fc": "14.5L",
       "fh": "9.5L",
       "fx": "12.5L",
-      "pr": "~$370,000"
+      "pr": "~$370,000",
+      "aspiration": "Turbo"
     },
     "McLaren|650S|2014|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -331,7 +349,8 @@
       "fc": "14.5L",
       "fh": "9.5L",
       "fx": "12.5L",
-      "pr": "~$405,000"
+      "pr": "~$405,000",
+      "aspiration": "Turbo"
     },
     "McLaren|650S|2015|Coupe": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -349,7 +368,8 @@
       "fc": "14.5L",
       "fh": "9.5L",
       "fx": "12.5L",
-      "pr": "~$370,000"
+      "pr": "~$370,000",
+      "aspiration": "Turbo"
     },
     "McLaren|650S|2015|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -367,7 +387,8 @@
       "fc": "14.5L",
       "fh": "9.5L",
       "fx": "12.5L",
-      "pr": "~$405,000"
+      "pr": "~$405,000",
+      "aspiration": "Turbo"
     },
     "McLaren|650S|2016|Coupe": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -385,7 +406,8 @@
       "fc": "14.5L",
       "fh": "9.5L",
       "fx": "12.5L",
-      "pr": "~$370,000"
+      "pr": "~$370,000",
+      "aspiration": "Turbo"
     },
     "McLaren|650S|2016|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -403,7 +425,8 @@
       "fc": "14.5L",
       "fh": "9.5L",
       "fx": "12.5L",
-      "pr": "~$405,000"
+      "pr": "~$405,000",
+      "aspiration": "Turbo"
     },
     "McLaren|650S|2017|Coupe": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -421,7 +444,8 @@
       "fc": "14.5L",
       "fh": "9.5L",
       "fx": "12.5L",
-      "pr": "~$370,000"
+      "pr": "~$370,000",
+      "aspiration": "Turbo"
     },
     "McLaren|650S|2017|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -439,7 +463,8 @@
       "fc": "14.5L",
       "fh": "9.5L",
       "fx": "12.5L",
-      "pr": "~$405,000"
+      "pr": "~$405,000",
+      "aspiration": "Turbo"
     },
     "McLaren|675LT|2015|Coupe": {
       "en": "3.8L twin-turbo V8 M838TL",
@@ -457,7 +482,8 @@
       "fc": "14.5L",
       "fh": "9.5L",
       "fx": "12.5L",
-      "pr": "~$490,000"
+      "pr": "~$490,000",
+      "aspiration": "Turbo"
     },
     "McLaren|675LT|2015|Spider": {
       "en": "3.8L twin-turbo V8 M838TL",
@@ -475,7 +501,8 @@
       "fc": "14.5L",
       "fh": "9.5L",
       "fx": "12.5L",
-      "pr": "~$530,000"
+      "pr": "~$530,000",
+      "aspiration": "Turbo"
     },
     "McLaren|675LT|2016|Coupe": {
       "en": "3.8L twin-turbo V8 M838TL",
@@ -493,7 +520,8 @@
       "fc": "14.5L",
       "fh": "9.5L",
       "fx": "12.5L",
-      "pr": "~$490,000"
+      "pr": "~$490,000",
+      "aspiration": "Turbo"
     },
     "McLaren|675LT|2016|Spider": {
       "en": "3.8L twin-turbo V8 M838TL",
@@ -511,7 +539,8 @@
       "fc": "14.5L",
       "fh": "9.5L",
       "fx": "12.5L",
-      "pr": "~$530,000"
+      "pr": "~$530,000",
+      "aspiration": "Turbo"
     },
     "McLaren|540C|2015|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -529,7 +558,8 @@
       "fc": "13.5L",
       "fh": "9.0L",
       "fx": "11.5L",
-      "pr": "~$210,000"
+      "pr": "~$210,000",
+      "aspiration": "Turbo"
     },
     "McLaren|540C|2016|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -547,7 +577,8 @@
       "fc": "13.5L",
       "fh": "9.0L",
       "fx": "11.5L",
-      "pr": "~$210,000"
+      "pr": "~$210,000",
+      "aspiration": "Turbo"
     },
     "McLaren|540C|2017|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -565,7 +596,8 @@
       "fc": "13.5L",
       "fh": "9.0L",
       "fx": "11.5L",
-      "pr": "~$210,000"
+      "pr": "~$210,000",
+      "aspiration": "Turbo"
     },
     "McLaren|540C|2018|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -583,7 +615,8 @@
       "fc": "13.5L",
       "fh": "9.0L",
       "fx": "11.5L",
-      "pr": "~$210,000"
+      "pr": "~$210,000",
+      "aspiration": "Turbo"
     },
     "McLaren|540C|2019|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -601,7 +634,8 @@
       "fc": "13.5L",
       "fh": "9.0L",
       "fx": "11.5L",
-      "pr": "~$210,000"
+      "pr": "~$210,000",
+      "aspiration": "Turbo"
     },
     "McLaren|540C|2020|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -619,7 +653,8 @@
       "fc": "13.5L",
       "fh": "9.0L",
       "fx": "11.5L",
-      "pr": "~$210,000"
+      "pr": "~$210,000",
+      "aspiration": "Turbo"
     },
     "McLaren|570S|2015|Coupe": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -637,7 +672,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$260,000"
+      "pr": "~$260,000",
+      "aspiration": "Turbo"
     },
     "McLaren|570S|2015|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -655,7 +691,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$295,000"
+      "pr": "~$295,000",
+      "aspiration": "Turbo"
     },
     "McLaren|570S|2016|Coupe": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -673,7 +710,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$260,000"
+      "pr": "~$260,000",
+      "aspiration": "Turbo"
     },
     "McLaren|570S|2016|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -691,7 +729,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$295,000"
+      "pr": "~$295,000",
+      "aspiration": "Turbo"
     },
     "McLaren|570S|2017|Coupe": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -709,7 +748,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$260,000"
+      "pr": "~$260,000",
+      "aspiration": "Turbo"
     },
     "McLaren|570S|2017|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -727,7 +767,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$295,000"
+      "pr": "~$295,000",
+      "aspiration": "Turbo"
     },
     "McLaren|570S|2018|Coupe": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -745,7 +786,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$260,000"
+      "pr": "~$260,000",
+      "aspiration": "Turbo"
     },
     "McLaren|570S|2018|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -763,7 +805,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$295,000"
+      "pr": "~$295,000",
+      "aspiration": "Turbo"
     },
     "McLaren|570S|2019|Coupe": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -781,7 +824,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$260,000"
+      "pr": "~$260,000",
+      "aspiration": "Turbo"
     },
     "McLaren|570S|2019|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -799,7 +843,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$295,000"
+      "pr": "~$295,000",
+      "aspiration": "Turbo"
     },
     "McLaren|570S|2020|Coupe": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -817,7 +862,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$260,000"
+      "pr": "~$260,000",
+      "aspiration": "Turbo"
     },
     "McLaren|570S|2020|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -835,7 +881,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$295,000"
+      "pr": "~$295,000",
+      "aspiration": "Turbo"
     },
     "McLaren|570GT|2016|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -853,7 +900,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$280,000"
+      "pr": "~$280,000",
+      "aspiration": "Turbo"
     },
     "McLaren|570GT|2017|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -871,7 +919,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$280,000"
+      "pr": "~$280,000",
+      "aspiration": "Turbo"
     },
     "McLaren|570GT|2018|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -889,7 +938,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$280,000"
+      "pr": "~$280,000",
+      "aspiration": "Turbo"
     },
     "McLaren|570GT|2019|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -907,7 +957,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$280,000"
+      "pr": "~$280,000",
+      "aspiration": "Turbo"
     },
     "McLaren|570GT|2020|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -925,7 +976,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$280,000"
+      "pr": "~$280,000",
+      "aspiration": "Turbo"
     },
     "McLaren|600LT|2018|Coupe": {
       "en": "3.8L twin-turbo V8 M838TL",
@@ -943,7 +995,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$400,000"
+      "pr": "~$400,000",
+      "aspiration": "Turbo"
     },
     "McLaren|600LT|2018|Spider": {
       "en": "3.8L twin-turbo V8 M838TL",
@@ -961,7 +1014,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$435,000"
+      "pr": "~$435,000",
+      "aspiration": "Turbo"
     },
     "McLaren|600LT|2019|Coupe": {
       "en": "3.8L twin-turbo V8 M838TL",
@@ -979,7 +1033,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$400,000"
+      "pr": "~$400,000",
+      "aspiration": "Turbo"
     },
     "McLaren|600LT|2019|Spider": {
       "en": "3.8L twin-turbo V8 M838TL",
@@ -997,7 +1052,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$435,000"
+      "pr": "~$435,000",
+      "aspiration": "Turbo"
     },
     "McLaren|600LT|2020|Coupe": {
       "en": "3.8L twin-turbo V8 M838TL",
@@ -1015,7 +1071,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$400,000"
+      "pr": "~$400,000",
+      "aspiration": "Turbo"
     },
     "McLaren|600LT|2020|Spider": {
       "en": "3.8L twin-turbo V8 M838TL",
@@ -1033,7 +1090,8 @@
       "fc": "14.0L",
       "fh": "9.5L",
       "fx": "12.0L",
-      "pr": "~$435,000"
+      "pr": "~$435,000",
+      "aspiration": "Turbo"
     },
     "McLaren|720S|2017|Performance": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1051,7 +1109,8 @@
       "fc": "15.0L",
       "fh": "10.0L",
       "fx": "12.5L",
-      "pr": "~$430,000"
+      "pr": "~$430,000",
+      "aspiration": "Turbo"
     },
     "McLaren|720S|2017|Spider": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1069,7 +1128,8 @@
       "fc": "15.0L",
       "fh": "10.0L",
       "fx": "12.5L",
-      "pr": "~$465,000"
+      "pr": "~$465,000",
+      "aspiration": "Turbo"
     },
     "McLaren|720S|2018|Performance": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1087,7 +1147,8 @@
       "fc": "15.0L",
       "fh": "10.0L",
       "fx": "12.5L",
-      "pr": "~$430,000"
+      "pr": "~$430,000",
+      "aspiration": "Turbo"
     },
     "McLaren|720S|2018|Spider": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1105,7 +1166,8 @@
       "fc": "15.0L",
       "fh": "10.0L",
       "fx": "12.5L",
-      "pr": "~$465,000"
+      "pr": "~$465,000",
+      "aspiration": "Turbo"
     },
     "McLaren|720S|2019|Performance": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1123,7 +1185,8 @@
       "fc": "15.0L",
       "fh": "10.0L",
       "fx": "12.5L",
-      "pr": "~$430,000"
+      "pr": "~$430,000",
+      "aspiration": "Turbo"
     },
     "McLaren|720S|2019|Spider": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1141,7 +1204,8 @@
       "fc": "15.0L",
       "fh": "10.0L",
       "fx": "12.5L",
-      "pr": "~$465,000"
+      "pr": "~$465,000",
+      "aspiration": "Turbo"
     },
     "McLaren|720S|2020|Performance": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1159,7 +1223,8 @@
       "fc": "15.0L",
       "fh": "10.0L",
       "fx": "12.5L",
-      "pr": "~$430,000"
+      "pr": "~$430,000",
+      "aspiration": "Turbo"
     },
     "McLaren|720S|2020|Spider": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1177,7 +1242,8 @@
       "fc": "15.0L",
       "fh": "10.0L",
       "fx": "12.5L",
-      "pr": "~$465,000"
+      "pr": "~$465,000",
+      "aspiration": "Turbo"
     },
     "McLaren|720S|2021|Performance": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1195,7 +1261,8 @@
       "fc": "15.0L",
       "fh": "10.0L",
       "fx": "12.5L",
-      "pr": "~$430,000"
+      "pr": "~$430,000",
+      "aspiration": "Turbo"
     },
     "McLaren|720S|2021|Spider": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1213,7 +1280,8 @@
       "fc": "15.0L",
       "fh": "10.0L",
       "fx": "12.5L",
-      "pr": "~$465,000"
+      "pr": "~$465,000",
+      "aspiration": "Turbo"
     },
     "McLaren|720S|2022|Performance": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1231,7 +1299,8 @@
       "fc": "15.0L",
       "fh": "10.0L",
       "fx": "12.5L",
-      "pr": "~$430,000"
+      "pr": "~$430,000",
+      "aspiration": "Turbo"
     },
     "McLaren|720S|2022|Spider": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1249,7 +1318,8 @@
       "fc": "15.0L",
       "fh": "10.0L",
       "fx": "12.5L",
-      "pr": "~$465,000"
+      "pr": "~$465,000",
+      "aspiration": "Turbo"
     },
     "McLaren|Senna|2018|Standard": {
       "en": "4.0L twin-turbo V8 M840TR",
@@ -1264,7 +1334,8 @@
       "ft": "Petrol",
       "wt": "1,198 kg",
       "se": "2",
-      "pr": "~$1,600,000"
+      "pr": "~$1,600,000",
+      "aspiration": "Turbo"
     },
     "McLaren|Senna|2018|GTR": {
       "en": "4.0L twin-turbo V8 M840TR",
@@ -1279,7 +1350,8 @@
       "ft": "Petrol",
       "wt": "1,198 kg",
       "se": "2",
-      "pr": "~$2,000,000"
+      "pr": "~$2,000,000",
+      "aspiration": "Turbo"
     },
     "McLaren|Senna|2019|Standard": {
       "en": "4.0L twin-turbo V8 M840TR",
@@ -1294,7 +1366,8 @@
       "ft": "Petrol",
       "wt": "1,198 kg",
       "se": "2",
-      "pr": "~$1,600,000"
+      "pr": "~$1,600,000",
+      "aspiration": "Turbo"
     },
     "McLaren|Senna|2019|GTR": {
       "en": "4.0L twin-turbo V8 M840TR",
@@ -1309,7 +1382,8 @@
       "ft": "Petrol",
       "wt": "1,198 kg",
       "se": "2",
-      "pr": "~$2,000,000"
+      "pr": "~$2,000,000",
+      "aspiration": "Turbo"
     },
     "McLaren|GT|2019|Standard": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1327,7 +1401,8 @@
       "fc": "14.5L",
       "fh": "9.5L",
       "fx": "12.5L",
-      "pr": "~$320,000"
+      "pr": "~$320,000",
+      "aspiration": "Turbo"
     },
     "McLaren|GT|2020|Standard": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1345,7 +1420,8 @@
       "fc": "14.5L",
       "fh": "9.5L",
       "fx": "12.5L",
-      "pr": "~$320,000"
+      "pr": "~$320,000",
+      "aspiration": "Turbo"
     },
     "McLaren|GT|2021|Standard": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1363,7 +1439,8 @@
       "fc": "14.5L",
       "fh": "9.5L",
       "fx": "12.5L",
-      "pr": "~$320,000"
+      "pr": "~$320,000",
+      "aspiration": "Turbo"
     },
     "McLaren|GT|2022|Standard": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1381,7 +1458,8 @@
       "fc": "14.5L",
       "fh": "9.5L",
       "fx": "12.5L",
-      "pr": "~$320,000"
+      "pr": "~$320,000",
+      "aspiration": "Turbo"
     },
     "McLaren|GT|2023|Standard": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1399,7 +1477,8 @@
       "fc": "14.5L",
       "fh": "9.5L",
       "fx": "12.5L",
-      "pr": "~$320,000"
+      "pr": "~$320,000",
+      "aspiration": "Turbo"
     },
     "McLaren|765LT|2020|Coupe": {
       "en": "4.0L twin-turbo V8 M840TL",
@@ -1414,7 +1493,8 @@
       "ft": "Petrol",
       "wt": "1,229 kg",
       "se": "2",
-      "pr": "~$620,000"
+      "pr": "~$620,000",
+      "aspiration": "Turbo"
     },
     "McLaren|765LT|2020|Spider": {
       "en": "4.0L twin-turbo V8 M840TL",
@@ -1429,7 +1509,8 @@
       "ft": "Petrol",
       "wt": "1,279 kg",
       "se": "2",
-      "pr": "~$670,000"
+      "pr": "~$670,000",
+      "aspiration": "Turbo"
     },
     "McLaren|765LT|2021|Coupe": {
       "en": "4.0L twin-turbo V8 M840TL",
@@ -1444,7 +1525,8 @@
       "ft": "Petrol",
       "wt": "1,229 kg",
       "se": "2",
-      "pr": "~$620,000"
+      "pr": "~$620,000",
+      "aspiration": "Turbo"
     },
     "McLaren|765LT|2021|Spider": {
       "en": "4.0L twin-turbo V8 M840TL",
@@ -1459,7 +1541,8 @@
       "ft": "Petrol",
       "wt": "1,279 kg",
       "se": "2",
-      "pr": "~$670,000"
+      "pr": "~$670,000",
+      "aspiration": "Turbo"
     },
     "McLaren|765LT|2022|Coupe": {
       "en": "4.0L twin-turbo V8 M840TL",
@@ -1474,7 +1557,8 @@
       "ft": "Petrol",
       "wt": "1,229 kg",
       "se": "2",
-      "pr": "~$620,000"
+      "pr": "~$620,000",
+      "aspiration": "Turbo"
     },
     "McLaren|765LT|2022|Spider": {
       "en": "4.0L twin-turbo V8 M840TL",
@@ -1489,7 +1573,8 @@
       "ft": "Petrol",
       "wt": "1,279 kg",
       "se": "2",
-      "pr": "~$670,000"
+      "pr": "~$670,000",
+      "aspiration": "Turbo"
     },
     "McLaren|Artura|2022|Standard": {
       "en": "3.0L twin-turbo V6 + electric PHEV",
@@ -1507,7 +1592,8 @@
       "fc": "9.5L",
       "fh": "6.5L",
       "fx": "8.5L",
-      "pr": "~$390,000"
+      "pr": "~$390,000",
+      "aspiration": "Turbo"
     },
     "McLaren|Artura|2022|Performance": {
       "en": "3.0L twin-turbo V6 + electric PHEV",
@@ -1525,7 +1611,8 @@
       "fc": "9.5L",
       "fh": "6.5L",
       "fx": "8.5L",
-      "pr": "~$420,000"
+      "pr": "~$420,000",
+      "aspiration": "Turbo"
     },
     "McLaren|Artura|2023|Standard": {
       "en": "3.0L twin-turbo V6 + electric PHEV",
@@ -1543,7 +1630,8 @@
       "fc": "9.5L",
       "fh": "6.5L",
       "fx": "8.5L",
-      "pr": "~$390,000"
+      "pr": "~$390,000",
+      "aspiration": "Turbo"
     },
     "McLaren|Artura|2023|Performance": {
       "en": "3.0L twin-turbo V6 + electric PHEV",
@@ -1561,7 +1649,8 @@
       "fc": "9.5L",
       "fh": "6.5L",
       "fx": "8.5L",
-      "pr": "~$420,000"
+      "pr": "~$420,000",
+      "aspiration": "Turbo"
     },
     "McLaren|Artura|2024|Standard": {
       "en": "3.0L twin-turbo V6 + electric PHEV",
@@ -1579,7 +1668,8 @@
       "fc": "9.5L",
       "fh": "6.5L",
       "fx": "8.5L",
-      "pr": "~$390,000"
+      "pr": "~$390,000",
+      "aspiration": "Turbo"
     },
     "McLaren|Artura|2024|Performance": {
       "en": "3.0L twin-turbo V6 + electric PHEV",
@@ -1597,7 +1687,8 @@
       "fc": "9.5L",
       "fh": "6.5L",
       "fx": "8.5L",
-      "pr": "~$420,000"
+      "pr": "~$420,000",
+      "aspiration": "Turbo"
     },
     "McLaren|Artura|2025|Standard": {
       "en": "3.0L twin-turbo V6 + electric PHEV",
@@ -1615,7 +1706,8 @@
       "fc": "9.5L",
       "fh": "6.5L",
       "fx": "8.5L",
-      "pr": "~$390,000"
+      "pr": "~$390,000",
+      "aspiration": "Turbo"
     },
     "McLaren|Artura|2025|Performance": {
       "en": "3.0L twin-turbo V6 + electric PHEV",
@@ -1633,7 +1725,8 @@
       "fc": "9.5L",
       "fh": "6.5L",
       "fx": "8.5L",
-      "pr": "~$420,000"
+      "pr": "~$420,000",
+      "aspiration": "Turbo"
     },
     "McLaren|Artura|2026|Standard": {
       "en": "3.0L twin-turbo V6 + electric PHEV",
@@ -1651,7 +1744,8 @@
       "fc": "9.5L",
       "fh": "6.5L",
       "fx": "8.5L",
-      "pr": "~$390,000"
+      "pr": "~$390,000",
+      "aspiration": "Turbo"
     },
     "McLaren|Artura|2026|Performance": {
       "en": "3.0L twin-turbo V6 + electric PHEV",
@@ -1669,7 +1763,8 @@
       "fc": "9.5L",
       "fh": "6.5L",
       "fx": "8.5L",
-      "pr": "~$420,000"
+      "pr": "~$420,000",
+      "aspiration": "Turbo"
     },
     "McLaren|750S|2023|Coupe": {
       "en": "4.0L twin-turbo V8 M840TE",
@@ -1687,7 +1782,8 @@
       "fc": "15.0L",
       "fh": "10.0L",
       "fx": "13.0L",
-      "pr": "~$530,000"
+      "pr": "~$530,000",
+      "aspiration": "Turbo"
     },
     "McLaren|750S|2023|Spider": {
       "en": "4.0L twin-turbo V8 M840TE",
@@ -1705,7 +1801,8 @@
       "fc": "15.0L",
       "fh": "10.0L",
       "fx": "13.0L",
-      "pr": "~$570,000"
+      "pr": "~$570,000",
+      "aspiration": "Turbo"
     },
     "McLaren|750S|2024|Coupe": {
       "en": "4.0L twin-turbo V8 M840TE",
@@ -1723,7 +1820,8 @@
       "fc": "15.0L",
       "fh": "10.0L",
       "fx": "13.0L",
-      "pr": "~$530,000"
+      "pr": "~$530,000",
+      "aspiration": "Turbo"
     },
     "McLaren|750S|2024|Spider": {
       "en": "4.0L twin-turbo V8 M840TE",
@@ -1741,7 +1839,8 @@
       "fc": "15.0L",
       "fh": "10.0L",
       "fx": "13.0L",
-      "pr": "~$570,000"
+      "pr": "~$570,000",
+      "aspiration": "Turbo"
     },
     "McLaren|750S|2025|Coupe": {
       "en": "4.0L twin-turbo V8 M840TE",
@@ -1759,7 +1858,8 @@
       "fc": "15.0L",
       "fh": "10.0L",
       "fx": "13.0L",
-      "pr": "~$530,000"
+      "pr": "~$530,000",
+      "aspiration": "Turbo"
     },
     "McLaren|750S|2025|Spider": {
       "en": "4.0L twin-turbo V8 M840TE",
@@ -1777,7 +1877,8 @@
       "fc": "15.0L",
       "fh": "10.0L",
       "fx": "13.0L",
-      "pr": "~$570,000"
+      "pr": "~$570,000",
+      "aspiration": "Turbo"
     },
     "McLaren|750S|2026|Coupe": {
       "en": "4.0L twin-turbo V8 M840TE",
@@ -1795,7 +1896,8 @@
       "fc": "15.0L",
       "fh": "10.0L",
       "fx": "13.0L",
-      "pr": "~$530,000"
+      "pr": "~$530,000",
+      "aspiration": "Turbo"
     },
     "McLaren|750S|2026|Spider": {
       "en": "4.0L twin-turbo V8 M840TE",
@@ -1813,7 +1915,8 @@
       "fc": "15.0L",
       "fh": "10.0L",
       "fx": "13.0L",
-      "pr": "~$570,000"
+      "pr": "~$570,000",
+      "aspiration": "Turbo"
     }
   }
 }

@@ -17,7 +17,8 @@
       "acceleration": 2.9,
       "topSpeed": 330,
       "range": 25,
-      "price": "~$599,000"
+      "price": "~$599,000",
+      "aspiration": "Turbo"
     },
     "Ferrari|296 GTB|2023|GTB": {
       "engine": "3.0L V6 Twin-Turbo Plug-In Hybrid",
@@ -36,7 +37,8 @@
       "acceleration": 2.9,
       "topSpeed": 330,
       "range": 25,
-      "price": "~$625,000"
+      "price": "~$625,000",
+      "aspiration": "Turbo"
     },
     "Ferrari|296 GTB|2024|GTB": {
       "engine": "3.0L V6 Twin-Turbo Plug-In Hybrid",
@@ -55,7 +57,8 @@
       "acceleration": 2.9,
       "topSpeed": 330,
       "range": 25,
-      "price": "~$649,000"
+      "price": "~$649,000",
+      "aspiration": "Turbo"
     },
     "Ferrari|296 GTB|2025|GTB": {
       "engine": "3.0L V6 Twin-Turbo Plug-In Hybrid",
@@ -74,7 +77,8 @@
       "acceleration": 2.9,
       "topSpeed": 330,
       "range": 25,
-      "price": "~$669,000"
+      "price": "~$669,000",
+      "aspiration": "Turbo"
     },
     "Ferrari|296 GTB|2026|GTB": {
       "engine": "3.0L V6 Twin-Turbo Plug-In Hybrid",
@@ -93,7 +97,8 @@
       "acceleration": 2.9,
       "topSpeed": 330,
       "range": 25,
-      "price": "~$689,000"
+      "price": "~$689,000",
+      "aspiration": "Turbo"
     },
     "Ferrari|296 GTS|2023|GTS": {
       "engine": "3.0L V6 Twin-Turbo Plug-In Hybrid",
@@ -112,7 +117,8 @@
       "acceleration": 2.9,
       "topSpeed": 320,
       "range": 25,
-      "price": "~$679,000"
+      "price": "~$679,000",
+      "aspiration": "Turbo"
     },
     "Ferrari|296 GTS|2024|GTS": {
       "engine": "3.0L V6 Twin-Turbo Plug-In Hybrid",
@@ -131,7 +137,8 @@
       "acceleration": 2.9,
       "topSpeed": 320,
       "range": 25,
-      "price": "~$699,000"
+      "price": "~$699,000",
+      "aspiration": "Turbo"
     },
     "Ferrari|296 GTS|2025|GTS": {
       "engine": "3.0L V6 Twin-Turbo Plug-In Hybrid",
@@ -150,7 +157,8 @@
       "acceleration": 2.9,
       "topSpeed": 320,
       "range": 25,
-      "price": "~$719,000"
+      "price": "~$719,000",
+      "aspiration": "Turbo"
     },
     "Ferrari|296 GTS|2026|GTS": {
       "engine": "3.0L V6 Twin-Turbo Plug-In Hybrid",
@@ -169,7 +177,8 @@
       "acceleration": 2.9,
       "topSpeed": 320,
       "range": 25,
-      "price": "~$739,000"
+      "price": "~$739,000",
+      "aspiration": "Turbo"
     },
     "Ferrari|Purosangue|2023|Purosangue": {
       "engine": "6.5L V12 NA F140IA",
@@ -187,7 +196,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 310,
-      "price": "~$680,000"
+      "price": "~$680,000",
+      "aspiration": "NA"
     },
     "Ferrari|Purosangue|2024|Purosangue": {
       "engine": "6.5L V12 NA F140IA",
@@ -205,7 +215,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 310,
-      "price": "~$710,000"
+      "price": "~$710,000",
+      "aspiration": "NA"
     },
     "Ferrari|Purosangue|2025|Purosangue": {
       "engine": "6.5L V12 NA F140IA",
@@ -223,7 +234,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 310,
-      "price": "~$735,000"
+      "price": "~$735,000",
+      "aspiration": "NA"
     },
     "Ferrari|Purosangue|2026|Purosangue": {
       "engine": "6.5L V12 NA F140IA",
@@ -241,7 +253,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 310,
-      "price": "~$760,000"
+      "price": "~$760,000",
+      "aspiration": "NA"
     },
     "Ferrari|12Cilindri|2024|Coupé": {
       "engine": "6.5L V12 NA F140HD",
@@ -259,7 +272,8 @@
       "fx": null,
       "acceleration": 2.9,
       "topSpeed": 340,
-      "price": "~$719,900"
+      "price": "~$719,900",
+      "aspiration": "NA"
     },
     "Ferrari|12Cilindri|2024|Spider": {
       "engine": "6.5L V12 NA F140HD",
@@ -277,7 +291,8 @@
       "fx": null,
       "acceleration": 2.9,
       "topSpeed": 330,
-      "price": "~$789,900"
+      "price": "~$789,900",
+      "aspiration": "NA"
     },
     "Ferrari|12Cilindri|2025|Coupé": {
       "engine": "6.5L V12 NA F140HD",
@@ -295,7 +310,8 @@
       "fx": null,
       "acceleration": 2.9,
       "topSpeed": 340,
-      "price": "~$745,000"
+      "price": "~$745,000",
+      "aspiration": "NA"
     },
     "Ferrari|12Cilindri|2025|Spider": {
       "engine": "6.5L V12 NA F140HD",
@@ -313,7 +329,8 @@
       "fx": null,
       "acceleration": 2.9,
       "topSpeed": 330,
-      "price": "~$815,000"
+      "price": "~$815,000",
+      "aspiration": "NA"
     },
     "Ferrari|12Cilindri|2026|Coupé": {
       "engine": "6.5L V12 NA F140HD",
@@ -331,7 +348,8 @@
       "fx": null,
       "acceleration": 2.9,
       "topSpeed": 340,
-      "price": "~$769,000"
+      "price": "~$769,000",
+      "aspiration": "NA"
     },
     "Ferrari|12Cilindri|2026|Spider": {
       "engine": "6.5L V12 NA F140HD",
@@ -349,7 +367,8 @@
       "fx": null,
       "acceleration": 2.9,
       "topSpeed": 330,
-      "price": "~$839,000"
+      "price": "~$839,000",
+      "aspiration": "NA"
     },
     "Lamborghini|Revuelto|2025|base": {
       "engine": "6.5L V12 Hybrid Revuelto",
@@ -367,7 +386,8 @@
       "fx": null,
       "acceleration": 2.5,
       "topSpeed": 350,
-      "price": "~$1,150,000"
+      "price": "~$1,150,000",
+      "aspiration": "NA"
     },
     "Lamborghini|Revuelto|2026|base": {
       "engine": "6.5L V12 Hybrid Revuelto",
@@ -385,7 +405,8 @@
       "fx": null,
       "acceleration": 2.5,
       "topSpeed": 350,
-      "price": "~$1,200,000"
+      "price": "~$1,200,000",
+      "aspiration": "NA"
     },
     "BYD|Seagull|2025|Standard Range": {
       "engine": "Single Electric Motor",
@@ -403,7 +424,8 @@
       "fx": null,
       "acceleration": 5.9,
       "topSpeed": 130,
-      "price": "~$25,990"
+      "price": "~$25,990",
+      "aspiration": "Electric"
     },
     "BYD|Seagull|2025|Extended Range": {
       "engine": "Single Electric Motor",
@@ -421,7 +443,8 @@
       "fx": null,
       "acceleration": 4.9,
       "topSpeed": 150,
-      "price": "~$31,990"
+      "price": "~$31,990",
+      "aspiration": "Electric"
     },
     "BYD|Seagull|2026|Standard Range": {
       "engine": "Single Electric Motor",
@@ -439,7 +462,8 @@
       "fx": null,
       "acceleration": 5.9,
       "topSpeed": 130,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "aspiration": "Electric"
     },
     "BYD|Seagull|2026|Extended Range": {
       "engine": "Single Electric Motor",
@@ -457,7 +481,8 @@
       "fx": null,
       "acceleration": 4.9,
       "topSpeed": 150,
-      "price": "~$32,990"
+      "price": "~$32,990",
+      "aspiration": "Electric"
     },
     "Skoda|Elroq|2024|60": {
       "engine": "Single Electric Motor",
@@ -475,7 +500,8 @@
       "fx": null,
       "acceleration": 8.7,
       "topSpeed": 160,
-      "price": "~$59,990"
+      "price": "~$59,990",
+      "aspiration": "Electric"
     },
     "Skoda|Elroq|2024|85": {
       "engine": "Single Electric Motor",
@@ -493,7 +519,8 @@
       "fx": null,
       "acceleration": 8.4,
       "topSpeed": 160,
-      "price": "~$69,990"
+      "price": "~$69,990",
+      "aspiration": "Electric"
     },
     "Skoda|Elroq|2024|RS": {
       "engine": "Dual Electric Motor RS",
@@ -511,7 +538,8 @@
       "fx": null,
       "acceleration": 5.4,
       "topSpeed": 180,
-      "price": "~$79,990"
+      "price": "~$79,990",
+      "aspiration": "Electric"
     },
     "Skoda|Elroq|2025|60": {
       "engine": "Single Electric Motor",
@@ -529,7 +557,8 @@
       "fx": null,
       "acceleration": 8.7,
       "topSpeed": 160,
-      "price": "~$61,990"
+      "price": "~$61,990",
+      "aspiration": "Electric"
     },
     "Skoda|Elroq|2025|85": {
       "engine": "Single Electric Motor",
@@ -547,7 +576,8 @@
       "fx": null,
       "acceleration": 8.4,
       "topSpeed": 160,
-      "price": "~$71,990"
+      "price": "~$71,990",
+      "aspiration": "Electric"
     },
     "Skoda|Elroq|2025|RS": {
       "engine": "Dual Electric Motor RS",
@@ -565,7 +595,8 @@
       "fx": null,
       "acceleration": 5.4,
       "topSpeed": 180,
-      "price": "~$81,990"
+      "price": "~$81,990",
+      "aspiration": "Electric"
     },
     "Skoda|Elroq|2026|60": {
       "engine": "Single Electric Motor",
@@ -583,7 +614,8 @@
       "fx": null,
       "acceleration": 8.7,
       "topSpeed": 160,
-      "price": "~$63,990"
+      "price": "~$63,990",
+      "aspiration": "Electric"
     },
     "Skoda|Elroq|2026|85": {
       "engine": "Single Electric Motor",
@@ -601,7 +633,8 @@
       "fx": null,
       "acceleration": 8.4,
       "topSpeed": 160,
-      "price": "~$73,990"
+      "price": "~$73,990",
+      "aspiration": "Electric"
     },
     "Skoda|Elroq|2026|RS": {
       "engine": "Dual Electric Motor RS",
@@ -619,7 +652,8 @@
       "fx": null,
       "acceleration": 5.4,
       "topSpeed": 180,
-      "price": "~$83,990"
+      "price": "~$83,990",
+      "aspiration": "Electric"
     },
     "Genesis|G90|2019|3.3T": {
       "engine": "3.3L V6 Twin-Turbo",
@@ -637,7 +671,8 @@
       "fx": null,
       "acceleration": 5,
       "topSpeed": 240,
-      "price": "~$125,990"
+      "price": "~$125,990",
+      "aspiration": "Turbo"
     },
     "Genesis|G90|2019|5.0": {
       "engine": "5.0L V8 GDi",
@@ -655,7 +690,8 @@
       "fx": null,
       "acceleration": 5.4,
       "topSpeed": 240,
-      "price": "~$151,990"
+      "price": "~$151,990",
+      "aspiration": "NA"
     },
     "Genesis|G90|2021|3.3T": {
       "engine": "3.3L V6 Twin-Turbo",
@@ -673,7 +709,8 @@
       "fx": null,
       "acceleration": 5,
       "topSpeed": 240,
-      "price": "~$131,990"
+      "price": "~$131,990",
+      "aspiration": "Turbo"
     },
     "Genesis|G90|2021|5.0": {
       "engine": "5.0L V8 GDi",
@@ -691,7 +728,8 @@
       "fx": null,
       "acceleration": 5.4,
       "topSpeed": 240,
-      "price": "~$157,990"
+      "price": "~$157,990",
+      "aspiration": "NA"
     },
     "Genesis|G90|2022|3.3T": {
       "engine": "3.3L V6 Twin-Turbo",
@@ -709,7 +747,8 @@
       "fx": null,
       "acceleration": 5,
       "topSpeed": 240,
-      "price": "~$134,990"
+      "price": "~$134,990",
+      "aspiration": "Turbo"
     },
     "Genesis|G90|2022|5.0": {
       "engine": "5.0L V8 GDi",
@@ -727,7 +766,8 @@
       "fx": null,
       "acceleration": 5.4,
       "topSpeed": 240,
-      "price": "~$160,990"
+      "price": "~$160,990",
+      "aspiration": "NA"
     },
     "Genesis|G90|2024|3.5T": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -745,7 +785,8 @@
       "fx": null,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$203,990"
+      "price": "~$203,990",
+      "aspiration": "Turbo"
     },
     "Genesis|G90|2024|3.5T e-AWD": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -763,7 +804,8 @@
       "fx": null,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$223,990"
+      "price": "~$223,990",
+      "aspiration": "Turbo"
     },
     "Genesis|G90|2026|3.5T": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -781,7 +823,8 @@
       "fx": null,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$211,990"
+      "price": "~$211,990",
+      "aspiration": "Turbo"
     },
     "Genesis|G90|2026|3.5T e-AWD": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -799,7 +842,8 @@
       "fx": null,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$231,990"
+      "price": "~$231,990",
+      "aspiration": "Turbo"
     },
     "Jeep|Cherokee|2014|Sport": {
       "engine": "2.4L 4-cyl MultiAir",
@@ -817,7 +861,8 @@
       "fx": null,
       "acceleration": 10.5,
       "topSpeed": 195,
-      "price": "~$36,490"
+      "price": "~$36,490",
+      "aspiration": "NA"
     },
     "Jeep|Cherokee|2014|Limited": {
       "engine": "2.0L 4-cyl Turbo",
@@ -835,7 +880,8 @@
       "fx": null,
       "acceleration": 8,
       "topSpeed": 205,
-      "price": "~$49,990"
+      "price": "~$49,990",
+      "aspiration": "Turbo"
     },
     "Jeep|Cherokee|2014|Trailhawk": {
       "engine": "2.0L 4-cyl Turbo",
@@ -853,7 +899,8 @@
       "fx": null,
       "acceleration": 8,
       "topSpeed": 205,
-      "price": "~$52,990"
+      "price": "~$52,990",
+      "aspiration": "Turbo"
     },
     "Jeep|Cherokee|2016|Sport": {
       "engine": "2.4L 4-cyl MultiAir",
@@ -871,7 +918,8 @@
       "fx": null,
       "acceleration": 10.5,
       "topSpeed": 195,
-      "price": "~$37,990"
+      "price": "~$37,990",
+      "aspiration": "NA"
     },
     "Jeep|Cherokee|2016|Limited": {
       "engine": "2.0L 4-cyl Turbo",
@@ -889,7 +937,8 @@
       "fx": null,
       "acceleration": 8,
       "topSpeed": 205,
-      "price": "~$52,990"
+      "price": "~$52,990",
+      "aspiration": "Turbo"
     },
     "Jeep|Cherokee|2016|Trailhawk": {
       "engine": "2.0L 4-cyl Turbo",
@@ -907,7 +956,8 @@
       "fx": null,
       "acceleration": 8,
       "topSpeed": 205,
-      "price": "~$55,990"
+      "price": "~$55,990",
+      "aspiration": "Turbo"
     },
     "Jeep|Cherokee|2018|Sport": {
       "engine": "2.4L 4-cyl MultiAir",
@@ -925,7 +975,8 @@
       "fx": null,
       "acceleration": 10.5,
       "topSpeed": 195,
-      "price": "~$39,490"
+      "price": "~$39,490",
+      "aspiration": "NA"
     },
     "Jeep|Cherokee|2018|Limited": {
       "engine": "2.0L 4-cyl Turbo",
@@ -943,7 +994,8 @@
       "fx": null,
       "acceleration": 8,
       "topSpeed": 205,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "aspiration": "Turbo"
     },
     "Jeep|Cherokee|2018|Trailhawk": {
       "engine": "2.0L 4-cyl Turbo",
@@ -961,7 +1013,8 @@
       "fx": null,
       "acceleration": 8,
       "topSpeed": 205,
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "aspiration": "Turbo"
     },
     "Jeep|Cherokee|2020|Sport": {
       "engine": "2.4L 4-cyl MultiAir",
@@ -979,7 +1032,8 @@
       "fx": null,
       "acceleration": 10.5,
       "topSpeed": 195,
-      "price": "~$41,490"
+      "price": "~$41,490",
+      "aspiration": "NA"
     },
     "Jeep|Cherokee|2020|Limited": {
       "engine": "2.0L 4-cyl Turbo",
@@ -997,7 +1051,8 @@
       "fx": null,
       "acceleration": 8,
       "topSpeed": 205,
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "aspiration": "Turbo"
     },
     "Jeep|Cherokee|2020|Trailhawk": {
       "engine": "2.0L 4-cyl Turbo",
@@ -1015,7 +1070,8 @@
       "fx": null,
       "acceleration": 8,
       "topSpeed": 205,
-      "price": "~$60,990"
+      "price": "~$60,990",
+      "aspiration": "Turbo"
     },
     "Jeep|Cherokee|2021|Sport": {
       "engine": "2.4L 4-cyl MultiAir",
@@ -1033,7 +1089,8 @@
       "fx": null,
       "acceleration": 10.5,
       "topSpeed": 195,
-      "price": "~$43,490"
+      "price": "~$43,490",
+      "aspiration": "NA"
     },
     "Jeep|Cherokee|2021|Limited": {
       "engine": "2.0L 4-cyl Turbo",
@@ -1051,7 +1108,8 @@
       "fx": null,
       "acceleration": 8,
       "topSpeed": 205,
-      "price": "~$59,990"
+      "price": "~$59,990",
+      "aspiration": "Turbo"
     },
     "Jeep|Cherokee|2021|Trailhawk": {
       "engine": "2.0L 4-cyl Turbo",
@@ -1069,7 +1127,8 @@
       "fx": null,
       "acceleration": 8,
       "topSpeed": 205,
-      "price": "~$62,990"
+      "price": "~$62,990",
+      "aspiration": "Turbo"
     }
   }
 }

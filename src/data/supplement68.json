@@ -19,7 +19,8 @@
       "topSpeed": 222,
       "cargo": 450,
       "quarterMile": "~16.8 sec",
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "aspiration": "Turbo"
     },
     "CUPRA|Formentor|2021|VZ": {
       "engine": "2.0 TSI",
@@ -40,7 +41,8 @@
       "topSpeed": 245,
       "cargo": 450,
       "quarterMile": "~14.2 sec",
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "aspiration": "Turbo"
     },
     "CUPRA|Formentor|2021|VZ5": {
       "engine": "2.5 TSI 5-cyl",
@@ -61,7 +63,8 @@
       "topSpeed": 250,
       "cargo": 450,
       "quarterMile": "~13.2 sec",
-      "price": "~$64,990"
+      "price": "~$64,990",
+      "aspiration": "Turbo"
     },
     "CUPRA|Formentor|2024|V1": {
       "engine": "1.5 TSI",
@@ -82,7 +85,8 @@
       "topSpeed": 222,
       "cargo": 450,
       "quarterMile": "~16.8 sec",
-      "price": "~$47,490"
+      "price": "~$47,490",
+      "aspiration": "Turbo"
     },
     "CUPRA|Formentor|2024|VZ": {
       "engine": "2.0 TSI",
@@ -103,7 +107,8 @@
       "topSpeed": 245,
       "cargo": 450,
       "quarterMile": "~14.2 sec",
-      "price": "~$57,490"
+      "price": "~$57,490",
+      "aspiration": "Turbo"
     },
     "CUPRA|Formentor|2024|VZ5": {
       "engine": "2.5 TSI 5-cyl",
@@ -124,7 +129,8 @@
       "topSpeed": 250,
       "cargo": 450,
       "quarterMile": "~13.2 sec",
-      "price": "~$67,990"
+      "price": "~$67,990",
+      "aspiration": "Turbo"
     },
     "CUPRA|Born|2023|V1": {
       "engine": "Single Motor Electric",
@@ -144,7 +150,8 @@
       "topSpeed": 160,
       "cargo": 385,
       "quarterMile": "~15.6 sec",
-      "price": "~$47,990"
+      "price": "~$47,990",
+      "aspiration": "Electric"
     },
     "CUPRA|Born|2023|VZ": {
       "engine": "Single Motor Electric",
@@ -164,7 +171,8 @@
       "topSpeed": 200,
       "cargo": 385,
       "quarterMile": "~14.0 sec",
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "aspiration": "Electric"
     },
     "CUPRA|Born|2025|V1": {
       "engine": "Single Motor Electric",
@@ -184,7 +192,8 @@
       "topSpeed": 160,
       "cargo": 385,
       "quarterMile": "~15.6 sec",
-      "price": "~$49,990"
+      "price": "~$49,990",
+      "aspiration": "Electric"
     },
     "CUPRA|Born|2025|VZ": {
       "engine": "Single Motor Electric",
@@ -204,7 +213,8 @@
       "topSpeed": 200,
       "cargo": 385,
       "quarterMile": "~14.0 sec",
-      "price": "~$56,990"
+      "price": "~$56,990",
+      "aspiration": "Electric"
     },
     "Polestar|Polestar 2|2021|Long Range Single Motor": {
       "engine": "Single Motor Electric",
@@ -224,7 +234,8 @@
       "topSpeed": 205,
       "cargo": 405,
       "quarterMile": "~14.7 sec",
-      "price": "~$59,990"
+      "price": "~$59,990",
+      "aspiration": "Electric"
     },
     "Polestar|Polestar 2|2021|Long Range Dual Motor": {
       "engine": "Dual Motor Electric",
@@ -244,7 +255,8 @@
       "topSpeed": 205,
       "cargo": 405,
       "quarterMile": "~13.0 sec",
-      "price": "~$68,990"
+      "price": "~$68,990",
+      "aspiration": "Electric"
     },
     "Polestar|Polestar 2|2024|Long Range Single Motor": {
       "engine": "Single Motor Electric",
@@ -264,7 +276,8 @@
       "topSpeed": 205,
       "cargo": 405,
       "quarterMile": "~14.5 sec",
-      "price": "~$64,990"
+      "price": "~$64,990",
+      "aspiration": "Electric"
     },
     "Polestar|Polestar 2|2024|Long Range Dual Motor": {
       "engine": "Dual Motor Electric",
@@ -284,7 +297,8 @@
       "topSpeed": 205,
       "cargo": 405,
       "quarterMile": "~12.8 sec",
-      "price": "~$74,990"
+      "price": "~$74,990",
+      "aspiration": "Electric"
     },
     "Polestar|Polestar 3|2024|Long Range Dual Motor": {
       "engine": "Dual Motor Electric",
@@ -304,7 +318,8 @@
       "topSpeed": 210,
       "cargo": 484,
       "quarterMile": "~13.3 sec",
-      "price": "~$112,990"
+      "price": "~$112,990",
+      "aspiration": "Electric"
     },
     "Polestar|Polestar 3|2024|Performance Pack": {
       "engine": "Dual Motor Electric",
@@ -324,7 +339,8 @@
       "topSpeed": 210,
       "cargo": 484,
       "quarterMile": "~13.0 sec",
-      "price": "~$123,990"
+      "price": "~$123,990",
+      "aspiration": "Electric"
     },
     "Polestar|Polestar 4|2024|Long Range Single Motor": {
       "engine": "Single Motor Electric",
@@ -344,7 +360,8 @@
       "topSpeed": 180,
       "cargo": 526,
       "quarterMile": "~15.7 sec",
-      "price": "~$74,990"
+      "price": "~$74,990",
+      "aspiration": "Electric"
     },
     "Polestar|Polestar 4|2024|Long Range Dual Motor": {
       "engine": "Dual Motor Electric",
@@ -364,7 +381,8 @@
       "topSpeed": 200,
       "cargo": 526,
       "quarterMile": "~12.1 sec",
-      "price": "~$82,990"
+      "price": "~$82,990",
+      "aspiration": "Electric"
     }
   }
 }

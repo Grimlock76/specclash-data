@@ -19,7 +19,8 @@
       "topSpeed": 140,
       "cargo": 500,
       "quarterMile": "~20.0 sec",
-      "price": "~$48,990"
+      "price": "~$48,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Defender|2006|110": {
       "engine": "2.4L I4 TDI Puma",
@@ -40,7 +41,8 @@
       "topSpeed": 135,
       "cargo": 850,
       "quarterMile": "~20.5 sec",
-      "price": "~$51,990"
+      "price": "~$51,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Defender|2010|90": {
       "engine": "2.4L I4 TDI Puma",
@@ -61,7 +63,8 @@
       "topSpeed": 140,
       "cargo": 500,
       "quarterMile": "~20.0 sec",
-      "price": "~$51,990"
+      "price": "~$51,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Defender|2010|110": {
       "engine": "2.4L I4 TDI Puma",
@@ -82,7 +85,8 @@
       "topSpeed": 135,
       "cargo": 850,
       "quarterMile": "~20.5 sec",
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Defender|2014|90": {
       "engine": "2.2L I4 TDI Puma",
@@ -103,7 +107,8 @@
       "topSpeed": 140,
       "cargo": 500,
       "quarterMile": "~19.8 sec",
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Defender|2014|110": {
       "engine": "2.2L I4 TDI Puma",
@@ -124,7 +129,8 @@
       "topSpeed": 135,
       "cargo": 850,
       "quarterMile": "~20.0 sec",
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Defender|2021|90 S": {
       "engine": "2.0L I4 P300 Ingenium",
@@ -145,7 +151,8 @@
       "topSpeed": 191,
       "cargo": 348,
       "quarterMile": "~14.4 sec",
-      "price": "~$79,990"
+      "price": "~$79,990",
+      "aspiration": "NA"
     },
     "Land Rover|Defender|2021|110 S": {
       "engine": "2.0L I4 P300 Ingenium",
@@ -166,7 +173,8 @@
       "topSpeed": 191,
       "cargo": 786,
       "quarterMile": "~14.7 sec",
-      "price": "~$83,990"
+      "price": "~$83,990",
+      "aspiration": "NA"
     },
     "Land Rover|Defender|2021|110 P400": {
       "engine": "3.0L I6 P400 Mild Hybrid",
@@ -187,7 +195,8 @@
       "topSpeed": 191,
       "cargo": 786,
       "quarterMile": "~13.9 sec",
-      "price": "~$119,990"
+      "price": "~$119,990",
+      "aspiration": "NA"
     },
     "Land Rover|Defender|2021|110 V8": {
       "engine": "5.0L V8 P525 Supercharged",
@@ -208,7 +217,8 @@
       "topSpeed": 240,
       "cargo": 786,
       "quarterMile": "~13.9 sec",
-      "price": "~$169,990"
+      "price": "~$169,990",
+      "aspiration": "Supercharged"
     },
     "Land Rover|Defender|2025|90 S": {
       "engine": "2.0L I4 P300 Ingenium",
@@ -229,7 +239,8 @@
       "topSpeed": 191,
       "cargo": 348,
       "quarterMile": "~14.4 sec",
-      "price": "~$84,990"
+      "price": "~$84,990",
+      "aspiration": "NA"
     },
     "Land Rover|Defender|2025|110 S": {
       "engine": "2.0L I4 P300 Ingenium",
@@ -250,7 +261,8 @@
       "topSpeed": 191,
       "cargo": 786,
       "quarterMile": "~14.7 sec",
-      "price": "~$89,990"
+      "price": "~$89,990",
+      "aspiration": "NA"
     },
     "Land Rover|Defender|2025|110 P400": {
       "engine": "3.0L I6 P400 Mild Hybrid",
@@ -271,7 +283,8 @@
       "topSpeed": 191,
       "cargo": 786,
       "quarterMile": "~13.9 sec",
-      "price": "~$124,990"
+      "price": "~$124,990",
+      "aspiration": "NA"
     },
     "Land Rover|Defender|2025|110 V8": {
       "engine": "5.0L V8 P525 Supercharged",
@@ -292,7 +305,8 @@
       "topSpeed": 240,
       "cargo": 786,
       "quarterMile": "~13.9 sec",
-      "price": "~$179,990"
+      "price": "~$179,990",
+      "aspiration": "Supercharged"
     },
     "Land Rover|Discovery|2007|TDV6": {
       "engine": "2.7L V6 TDV6",
@@ -313,7 +327,8 @@
       "topSpeed": 175,
       "cargo": 1192,
       "quarterMile": "~18.8 sec",
-      "price": "~$62,990"
+      "price": "~$62,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Discovery|2007|V8": {
       "engine": "4.4L V8 Petrol",
@@ -334,7 +349,8 @@
       "topSpeed": 185,
       "cargo": 1192,
       "quarterMile": "~17.8 sec",
-      "price": "~$74,990"
+      "price": "~$74,990",
+      "aspiration": "NA"
     },
     "Land Rover|Discovery|2011|TDV6": {
       "engine": "3.0L V6 TDV6 HSE",
@@ -355,7 +371,8 @@
       "topSpeed": 195,
       "cargo": 1192,
       "quarterMile": "~17.0 sec",
-      "price": "~$67,990"
+      "price": "~$67,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Discovery|2011|SDV8": {
       "engine": "4.4L V8 SDV8",
@@ -376,7 +393,8 @@
       "topSpeed": 200,
       "cargo": 1192,
       "quarterMile": "~16.3 sec",
-      "price": "~$87,990"
+      "price": "~$87,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Discovery|2014|TDV6": {
       "engine": "3.0L V6 TDV6 HSE",
@@ -397,7 +415,8 @@
       "topSpeed": 195,
       "cargo": 1192,
       "quarterMile": "~17.0 sec",
-      "price": "~$69,990"
+      "price": "~$69,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Discovery|2014|SDV8": {
       "engine": "4.4L V8 SDV8",
@@ -418,7 +437,8 @@
       "topSpeed": 200,
       "cargo": 1192,
       "quarterMile": "~16.3 sec",
-      "price": "~$89,990"
+      "price": "~$89,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Discovery|2019|SE": {
       "engine": "3.0L I6 D300 Ingenium",
@@ -439,7 +459,8 @@
       "topSpeed": 200,
       "cargo": 1137,
       "quarterMile": "~15.3 sec",
-      "price": "~$79,990"
+      "price": "~$79,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Discovery|2019|HSE": {
       "engine": "3.0L I6 P360 Mild Hybrid",
@@ -460,7 +481,8 @@
       "topSpeed": 220,
       "cargo": 1137,
       "quarterMile": "~14.5 sec",
-      "price": "~$94,990"
+      "price": "~$94,990",
+      "aspiration": "NA"
     },
     "Land Rover|Discovery|2024|SE": {
       "engine": "3.0L I6 D300 Ingenium",
@@ -481,7 +503,8 @@
       "topSpeed": 200,
       "cargo": 1137,
       "quarterMile": "~15.3 sec",
-      "price": "~$84,990"
+      "price": "~$84,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Discovery|2024|HSE": {
       "engine": "3.0L I6 P360 Mild Hybrid",
@@ -502,7 +525,8 @@
       "topSpeed": 220,
       "cargo": 1137,
       "quarterMile": "~14.5 sec",
-      "price": "~$99,990"
+      "price": "~$99,990",
+      "aspiration": "NA"
     },
     "Land Rover|Discovery Sport|2016|SE": {
       "engine": "2.0L I4 TD4 Ingenium",
@@ -523,7 +547,8 @@
       "topSpeed": 180,
       "cargo": 981,
       "quarterMile": "~17.8 sec",
-      "price": "~$47,990"
+      "price": "~$47,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Discovery Sport|2016|HSE": {
       "engine": "2.0L I4 Si4 Ingenium",
@@ -544,7 +569,8 @@
       "topSpeed": 195,
       "cargo": 981,
       "quarterMile": "~16.2 sec",
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "aspiration": "NA"
     },
     "Land Rover|Discovery Sport|2016|R-Dynamic": {
       "engine": "2.0L I4 Si4 Ingenium",
@@ -565,7 +591,8 @@
       "topSpeed": 195,
       "cargo": 981,
       "quarterMile": "~16.2 sec",
-      "price": "~$62,990"
+      "price": "~$62,990",
+      "aspiration": "NA"
     },
     "Land Rover|Discovery Sport|2020|SE": {
       "engine": "2.0L I4 D200 Ingenium",
@@ -586,7 +613,8 @@
       "topSpeed": 195,
       "cargo": 981,
       "quarterMile": "~17.0 sec",
-      "price": "~$52,990"
+      "price": "~$52,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Discovery Sport|2020|HSE": {
       "engine": "2.0L I4 P250 Ingenium",
@@ -607,7 +635,8 @@
       "topSpeed": 200,
       "cargo": 981,
       "quarterMile": "~15.9 sec",
-      "price": "~$62,990"
+      "price": "~$62,990",
+      "aspiration": "NA"
     },
     "Land Rover|Discovery Sport|2020|R-Dynamic": {
       "engine": "2.0L I4 P250 Ingenium",
@@ -628,7 +657,8 @@
       "topSpeed": 200,
       "cargo": 981,
       "quarterMile": "~15.9 sec",
-      "price": "~$67,990"
+      "price": "~$67,990",
+      "aspiration": "NA"
     },
     "Land Rover|Discovery Sport|2024|SE": {
       "engine": "2.0L I4 D200 Ingenium",
@@ -649,7 +679,8 @@
       "topSpeed": 195,
       "cargo": 981,
       "quarterMile": "~17.0 sec",
-      "price": "~$56,990"
+      "price": "~$56,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Discovery Sport|2024|HSE": {
       "engine": "2.0L I4 P250 Ingenium",
@@ -670,7 +701,8 @@
       "topSpeed": 200,
       "cargo": 981,
       "quarterMile": "~15.9 sec",
-      "price": "~$66,990"
+      "price": "~$66,990",
+      "aspiration": "NA"
     },
     "Land Rover|Discovery Sport|2024|R-Dynamic": {
       "engine": "2.0L I4 P250 Ingenium",
@@ -691,7 +723,8 @@
       "topSpeed": 200,
       "cargo": 981,
       "quarterMile": "~15.9 sec",
-      "price": "~$71,990"
+      "price": "~$71,990",
+      "aspiration": "NA"
     },
     "Land Rover|Range Rover|2004|Vogue": {
       "engine": "4.4L V8 BMW",
@@ -712,7 +745,8 @@
       "topSpeed": 210,
       "cargo": 770,
       "quarterMile": "~17.5 sec",
-      "price": "~$129,990"
+      "price": "~$129,990",
+      "aspiration": "NA"
     },
     "Land Rover|Range Rover|2004|Supercharged": {
       "engine": "4.4L V8 Supercharged",
@@ -733,7 +767,8 @@
       "topSpeed": 225,
       "cargo": 770,
       "quarterMile": "~15.6 sec",
-      "price": "~$169,990"
+      "price": "~$169,990",
+      "aspiration": "Supercharged"
     },
     "Land Rover|Range Rover|2008|Vogue": {
       "engine": "3.6L V8 TDV8",
@@ -754,7 +789,8 @@
       "topSpeed": 200,
       "cargo": 770,
       "quarterMile": "~17.0 sec",
-      "price": "~$142,990"
+      "price": "~$142,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover|2008|Supercharged": {
       "engine": "5.0L V8 Supercharged",
@@ -775,7 +811,8 @@
       "topSpeed": 250,
       "cargo": 770,
       "quarterMile": "~14.2 sec",
-      "price": "~$184,990"
+      "price": "~$184,990",
+      "aspiration": "Supercharged"
     },
     "Land Rover|Range Rover|2011|Vogue": {
       "engine": "3.6L V8 TDV8",
@@ -796,7 +833,8 @@
       "topSpeed": 200,
       "cargo": 770,
       "quarterMile": "~17.0 sec",
-      "price": "~$164,990"
+      "price": "~$164,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover|2011|Supercharged": {
       "engine": "5.0L V8 Supercharged",
@@ -817,7 +855,8 @@
       "topSpeed": 250,
       "cargo": 770,
       "quarterMile": "~14.2 sec",
-      "price": "~$194,990"
+      "price": "~$194,990",
+      "aspiration": "Supercharged"
     },
     "Land Rover|Range Rover|2014|Vogue": {
       "engine": "3.0L V6 SDV6 Supercharged",
@@ -838,7 +877,8 @@
       "topSpeed": 210,
       "cargo": 909,
       "quarterMile": "~16.5 sec",
-      "price": "~$174,990"
+      "price": "~$174,990",
+      "aspiration": "Supercharged"
     },
     "Land Rover|Range Rover|2014|Autobiography": {
       "engine": "5.0L V8 Supercharged",
@@ -859,7 +899,8 @@
       "topSpeed": 250,
       "cargo": 909,
       "quarterMile": "~13.9 sec",
-      "price": "~$219,990"
+      "price": "~$219,990",
+      "aspiration": "Supercharged"
     },
     "Land Rover|Range Rover|2014|SVAutobiography": {
       "engine": "5.0L V8 Supercharged",
@@ -880,7 +921,8 @@
       "topSpeed": 250,
       "cargo": 909,
       "quarterMile": "~13.7 sec",
-      "price": "~$289,990"
+      "price": "~$289,990",
+      "aspiration": "Supercharged"
     },
     "Land Rover|Range Rover|2018|Vogue": {
       "engine": "3.0L V6 SDV6",
@@ -901,7 +943,8 @@
       "topSpeed": 210,
       "cargo": 909,
       "quarterMile": "~16.5 sec",
-      "price": "~$184,990"
+      "price": "~$184,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover|2018|Autobiography": {
       "engine": "5.0L V8 Supercharged",
@@ -922,7 +965,8 @@
       "topSpeed": 250,
       "cargo": 909,
       "quarterMile": "~13.9 sec",
-      "price": "~$239,990"
+      "price": "~$239,990",
+      "aspiration": "Supercharged"
     },
     "Land Rover|Range Rover|2018|SVAutobiography": {
       "engine": "5.0L V8 Supercharged",
@@ -943,7 +987,8 @@
       "topSpeed": 250,
       "cargo": 909,
       "quarterMile": "~13.7 sec",
-      "price": "~$319,990"
+      "price": "~$319,990",
+      "aspiration": "Supercharged"
     },
     "Land Rover|Range Rover|2021|Vogue": {
       "engine": "3.0L I6 SDV6",
@@ -964,7 +1009,8 @@
       "topSpeed": 210,
       "cargo": 909,
       "quarterMile": "~16.5 sec",
-      "price": "~$194,990"
+      "price": "~$194,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover|2021|Autobiography": {
       "engine": "5.0L V8 Supercharged",
@@ -985,7 +1031,8 @@
       "topSpeed": 250,
       "cargo": 909,
       "quarterMile": "~13.9 sec",
-      "price": "~$254,990"
+      "price": "~$254,990",
+      "aspiration": "Supercharged"
     },
     "Land Rover|Range Rover|2021|SVAutobiography": {
       "engine": "5.0L V8 Supercharged",
@@ -1006,7 +1053,8 @@
       "topSpeed": 250,
       "cargo": 909,
       "quarterMile": "~13.7 sec",
-      "price": "~$349,990"
+      "price": "~$349,990",
+      "aspiration": "Supercharged"
     },
     "Land Rover|Range Rover|2023|SE": {
       "engine": "3.0L I6 P360 Mild Hybrid",
@@ -1027,7 +1075,8 @@
       "topSpeed": 240,
       "cargo": 818,
       "quarterMile": "~14.4 sec",
-      "price": "~$199,990"
+      "price": "~$199,990",
+      "aspiration": "NA"
     },
     "Land Rover|Range Rover|2023|Autobiography": {
       "engine": "4.4L V8 P530 Twin Turbo",
@@ -1048,7 +1097,8 @@
       "topSpeed": 250,
       "cargo": 818,
       "quarterMile": "~13.3 sec",
-      "price": "~$269,990"
+      "price": "~$269,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover|2023|SV": {
       "engine": "4.4L V8 P530 Twin Turbo",
@@ -1069,7 +1119,8 @@
       "topSpeed": 250,
       "cargo": 818,
       "quarterMile": "~13.3 sec",
-      "price": "~$399,990"
+      "price": "~$399,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover|2025|SE": {
       "engine": "3.0L I6 P360 Mild Hybrid",
@@ -1090,7 +1141,8 @@
       "topSpeed": 240,
       "cargo": 818,
       "quarterMile": "~14.4 sec",
-      "price": "~$209,990"
+      "price": "~$209,990",
+      "aspiration": "NA"
     },
     "Land Rover|Range Rover|2025|Autobiography": {
       "engine": "4.4L V8 P530 Twin Turbo",
@@ -1111,7 +1163,8 @@
       "topSpeed": 250,
       "cargo": 818,
       "quarterMile": "~13.3 sec",
-      "price": "~$279,990"
+      "price": "~$279,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover|2025|SV": {
       "engine": "4.4L V8 P530 Twin Turbo",
@@ -1132,7 +1185,8 @@
       "topSpeed": 250,
       "cargo": 818,
       "quarterMile": "~13.3 sec",
-      "price": "~$419,990"
+      "price": "~$419,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover Sport|2006|TDV6": {
       "engine": "2.7L V6 TDV6",
@@ -1153,7 +1207,8 @@
       "topSpeed": 180,
       "cargo": 758,
       "quarterMile": "~18.2 sec",
-      "price": "~$74,990"
+      "price": "~$74,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover Sport|2006|Supercharged": {
       "engine": "4.2L V8 Supercharged",
@@ -1174,7 +1229,8 @@
       "topSpeed": 225,
       "cargo": 758,
       "quarterMile": "~15.4 sec",
-      "price": "~$89,990"
+      "price": "~$89,990",
+      "aspiration": "Supercharged"
     },
     "Land Rover|Range Rover Sport|2010|TDV6": {
       "engine": "3.0L V6 TDV6",
@@ -1195,7 +1251,8 @@
       "topSpeed": 195,
       "cargo": 758,
       "quarterMile": "~17.0 sec",
-      "price": "~$79,990"
+      "price": "~$79,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover Sport|2010|Supercharged": {
       "engine": "5.0L V8 Supercharged",
@@ -1216,7 +1273,8 @@
       "topSpeed": 250,
       "cargo": 758,
       "quarterMile": "~14.3 sec",
-      "price": "~$99,990"
+      "price": "~$99,990",
+      "aspiration": "Supercharged"
     },
     "Land Rover|Range Rover Sport|2014|SE": {
       "engine": "3.0L V6 SDV6",
@@ -1237,7 +1295,8 @@
       "topSpeed": 210,
       "cargo": 784,
       "quarterMile": "~15.7 sec",
-      "price": "~$84,990"
+      "price": "~$84,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover Sport|2014|HSE": {
       "engine": "3.0L V6 SDV6 HSE",
@@ -1258,7 +1317,8 @@
       "topSpeed": 210,
       "cargo": 784,
       "quarterMile": "~15.7 sec",
-      "price": "~$99,990"
+      "price": "~$99,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover Sport|2014|SVR": {
       "engine": "5.0L V8 SVR Supercharged",
@@ -1279,7 +1339,8 @@
       "topSpeed": 283,
       "cargo": 784,
       "quarterMile": "~13.2 sec",
-      "price": "~$149,990"
+      "price": "~$149,990",
+      "aspiration": "Supercharged"
     },
     "Land Rover|Range Rover Sport|2018|SE": {
       "engine": "3.0L V6 SDV6",
@@ -1300,7 +1361,8 @@
       "topSpeed": 210,
       "cargo": 784,
       "quarterMile": "~15.7 sec",
-      "price": "~$94,990"
+      "price": "~$94,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover Sport|2018|HSE": {
       "engine": "3.0L V6 SDV6 HSE",
@@ -1321,7 +1383,8 @@
       "topSpeed": 210,
       "cargo": 784,
       "quarterMile": "~15.7 sec",
-      "price": "~$109,990"
+      "price": "~$109,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover Sport|2018|SVR": {
       "engine": "5.0L V8 SVR Supercharged",
@@ -1342,7 +1405,8 @@
       "topSpeed": 283,
       "cargo": 784,
       "quarterMile": "~13.2 sec",
-      "price": "~$159,990"
+      "price": "~$159,990",
+      "aspiration": "Supercharged"
     },
     "Land Rover|Range Rover Sport|2021|SE": {
       "engine": "3.0L I6 D300 Ingenium",
@@ -1363,7 +1427,8 @@
       "topSpeed": 225,
       "cargo": 784,
       "quarterMile": "~15.3 sec",
-      "price": "~$99,990"
+      "price": "~$99,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover Sport|2021|HSE": {
       "engine": "3.0L I6 P400 Mild Hybrid",
@@ -1384,7 +1449,8 @@
       "topSpeed": 250,
       "cargo": 784,
       "quarterMile": "~14.2 sec",
-      "price": "~$114,990"
+      "price": "~$114,990",
+      "aspiration": "NA"
     },
     "Land Rover|Range Rover Sport|2021|SVR": {
       "engine": "5.0L V8 SVR Supercharged",
@@ -1405,7 +1471,8 @@
       "topSpeed": 283,
       "cargo": 784,
       "quarterMile": "~13.2 sec",
-      "price": "~$169,990"
+      "price": "~$169,990",
+      "aspiration": "Supercharged"
     },
     "Land Rover|Range Rover Sport|2023|S": {
       "engine": "3.0L I6 P360 Mild Hybrid",
@@ -1426,7 +1493,8 @@
       "topSpeed": 250,
       "cargo": 780,
       "quarterMile": "~14.3 sec",
-      "price": "~$109,990"
+      "price": "~$109,990",
+      "aspiration": "NA"
     },
     "Land Rover|Range Rover Sport|2023|SE": {
       "engine": "3.0L I6 D300 Ingenium",
@@ -1447,7 +1515,8 @@
       "topSpeed": 225,
       "cargo": 780,
       "quarterMile": "~14.6 sec",
-      "price": "~$119,990"
+      "price": "~$119,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover Sport|2023|P530": {
       "engine": "4.4L V8 P530 Twin Turbo",
@@ -1468,7 +1537,8 @@
       "topSpeed": 285,
       "cargo": 780,
       "quarterMile": "~13.0 sec",
-      "price": "~$199,990"
+      "price": "~$199,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover Sport|2025|S": {
       "engine": "3.0L I6 P360 Mild Hybrid",
@@ -1489,7 +1559,8 @@
       "topSpeed": 250,
       "cargo": 780,
       "quarterMile": "~14.3 sec",
-      "price": "~$114,990"
+      "price": "~$114,990",
+      "aspiration": "NA"
     },
     "Land Rover|Range Rover Sport|2025|SE": {
       "engine": "3.0L I6 D300 Ingenium",
@@ -1510,7 +1581,8 @@
       "topSpeed": 225,
       "cargo": 780,
       "quarterMile": "~14.6 sec",
-      "price": "~$124,990"
+      "price": "~$124,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover Sport|2025|P530": {
       "engine": "4.4L V8 P530 Twin Turbo",
@@ -1531,7 +1603,8 @@
       "topSpeed": 285,
       "cargo": 780,
       "quarterMile": "~13.0 sec",
-      "price": "~$209,990"
+      "price": "~$209,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover Evoque|2012|Pure": {
       "engine": "2.2L I4 SD4",
@@ -1552,7 +1625,8 @@
       "topSpeed": 195,
       "cargo": 575,
       "quarterMile": "~17.2 sec",
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover Evoque|2012|Prestige": {
       "engine": "2.0L I4 Si4",
@@ -1573,7 +1647,8 @@
       "topSpeed": 200,
       "cargo": 575,
       "quarterMile": "~16.0 sec",
-      "price": "~$52,990"
+      "price": "~$52,990",
+      "aspiration": "NA"
     },
     "Land Rover|Range Rover Evoque|2012|Dynamic": {
       "engine": "2.0L I4 Si4",
@@ -1594,7 +1669,8 @@
       "topSpeed": 200,
       "cargo": 575,
       "quarterMile": "~16.0 sec",
-      "price": "~$62,990"
+      "price": "~$62,990",
+      "aspiration": "NA"
     },
     "Land Rover|Range Rover Evoque|2016|Pure": {
       "engine": "2.0L I4 TD4",
@@ -1615,7 +1691,8 @@
       "topSpeed": 185,
       "cargo": 575,
       "quarterMile": "~17.5 sec",
-      "price": "~$46,990"
+      "price": "~$46,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover Evoque|2016|Prestige": {
       "engine": "2.0L I4 Si4",
@@ -1636,7 +1713,8 @@
       "topSpeed": 200,
       "cargo": 575,
       "quarterMile": "~15.9 sec",
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "aspiration": "NA"
     },
     "Land Rover|Range Rover Evoque|2016|Dynamic": {
       "engine": "2.0L I4 Si4",
@@ -1657,7 +1735,8 @@
       "topSpeed": 200,
       "cargo": 575,
       "quarterMile": "~15.9 sec",
-      "price": "~$64,990"
+      "price": "~$64,990",
+      "aspiration": "NA"
     },
     "Land Rover|Range Rover Evoque|2020|S": {
       "engine": "2.0L I4 D165 Ingenium",
@@ -1678,7 +1757,8 @@
       "topSpeed": 185,
       "cargo": 591,
       "quarterMile": "~17.5 sec",
-      "price": "~$57,490"
+      "price": "~$57,490",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover Evoque|2020|SE": {
       "engine": "2.0L I4 P200 Ingenium",
@@ -1699,7 +1779,8 @@
       "topSpeed": 195,
       "cargo": 591,
       "quarterMile": "~16.5 sec",
-      "price": "~$67,490"
+      "price": "~$67,490",
+      "aspiration": "NA"
     },
     "Land Rover|Range Rover Evoque|2020|R-Dynamic": {
       "engine": "2.0L I4 P250 Ingenium",
@@ -1720,7 +1801,8 @@
       "topSpeed": 210,
       "cargo": 591,
       "quarterMile": "~15.6 sec",
-      "price": "~$72,490"
+      "price": "~$72,490",
+      "aspiration": "NA"
     },
     "Land Rover|Range Rover Evoque|2024|S": {
       "engine": "2.0L I4 D165 Ingenium",
@@ -1741,7 +1823,8 @@
       "topSpeed": 185,
       "cargo": 591,
       "quarterMile": "~17.5 sec",
-      "price": "~$62,490"
+      "price": "~$62,490",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover Evoque|2024|SE": {
       "engine": "2.0L I4 P200 Ingenium",
@@ -1762,7 +1845,8 @@
       "topSpeed": 195,
       "cargo": 591,
       "quarterMile": "~16.5 sec",
-      "price": "~$72,490"
+      "price": "~$72,490",
+      "aspiration": "NA"
     },
     "Land Rover|Range Rover Evoque|2024|R-Dynamic": {
       "engine": "2.0L I4 P250 Ingenium",
@@ -1783,7 +1867,8 @@
       "topSpeed": 210,
       "cargo": 591,
       "quarterMile": "~15.6 sec",
-      "price": "~$77,490"
+      "price": "~$77,490",
+      "aspiration": "NA"
     },
     "Land Rover|Range Rover Velar|2018|S": {
       "engine": "2.0L I4 D180 Ingenium",
@@ -1804,7 +1889,8 @@
       "topSpeed": 200,
       "cargo": 673,
       "quarterMile": "~17.0 sec",
-      "price": "~$74,490"
+      "price": "~$74,490",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover Velar|2018|SE": {
       "engine": "2.0L I4 P250 Ingenium",
@@ -1825,7 +1911,8 @@
       "topSpeed": 215,
       "cargo": 673,
       "quarterMile": "~15.4 sec",
-      "price": "~$84,490"
+      "price": "~$84,490",
+      "aspiration": "NA"
     },
     "Land Rover|Range Rover Velar|2018|R-Dynamic": {
       "engine": "3.0L V6 P380 Supercharged",
@@ -1846,7 +1933,8 @@
       "topSpeed": 250,
       "cargo": 673,
       "quarterMile": "~13.9 sec",
-      "price": "~$94,490"
+      "price": "~$94,490",
+      "aspiration": "Supercharged"
     },
     "Land Rover|Range Rover Velar|2022|S": {
       "engine": "2.0L I4 D200 Ingenium",
@@ -1867,7 +1955,8 @@
       "topSpeed": 210,
       "cargo": 673,
       "quarterMile": "~16.3 sec",
-      "price": "~$79,490"
+      "price": "~$79,490",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover Velar|2022|SE": {
       "engine": "2.0L I4 P250 Ingenium",
@@ -1888,7 +1977,8 @@
       "topSpeed": 215,
       "cargo": 673,
       "quarterMile": "~15.4 sec",
-      "price": "~$89,490"
+      "price": "~$89,490",
+      "aspiration": "NA"
     },
     "Land Rover|Range Rover Velar|2022|R-Dynamic": {
       "engine": "3.0L I6 P400 Mild Hybrid",
@@ -1909,7 +1999,8 @@
       "topSpeed": 250,
       "cargo": 673,
       "quarterMile": "~13.8 sec",
-      "price": "~$99,490"
+      "price": "~$99,490",
+      "aspiration": "NA"
     },
     "Land Rover|Range Rover Velar|2025|S": {
       "engine": "2.0L I4 D200 Ingenium",
@@ -1930,7 +2021,8 @@
       "topSpeed": 210,
       "cargo": 673,
       "quarterMile": "~16.3 sec",
-      "price": "~$84,490"
+      "price": "~$84,490",
+      "aspiration": "Turbo"
     },
     "Land Rover|Range Rover Velar|2025|SE": {
       "engine": "2.0L I4 P250 Ingenium",
@@ -1951,7 +2043,8 @@
       "topSpeed": 215,
       "cargo": 673,
       "quarterMile": "~15.4 sec",
-      "price": "~$94,490"
+      "price": "~$94,490",
+      "aspiration": "NA"
     },
     "Land Rover|Range Rover Velar|2025|R-Dynamic": {
       "engine": "3.0L I6 P400 Mild Hybrid",
@@ -1972,7 +2065,8 @@
       "topSpeed": 250,
       "cargo": 673,
       "quarterMile": "~13.8 sec",
-      "price": "~$104,490"
+      "price": "~$104,490",
+      "aspiration": "NA"
     },
     "Land Rover|Freelander|2007|SE": {
       "engine": "2.2L I4 TD4",
@@ -1993,7 +2087,8 @@
       "topSpeed": 175,
       "cargo": 755,
       "quarterMile": "~17.8 sec",
-      "price": "~$34,990"
+      "price": "~$34,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Freelander|2007|HSE": {
       "engine": "3.2L I6 Si6",
@@ -2014,7 +2109,8 @@
       "topSpeed": 195,
       "cargo": 755,
       "quarterMile": "~17.0 sec",
-      "price": "~$42,990"
+      "price": "~$42,990",
+      "aspiration": "NA"
     },
     "Land Rover|Freelander|2007|TD4": {
       "engine": "2.2L I4 TD4",
@@ -2035,7 +2131,8 @@
       "topSpeed": 175,
       "cargo": 755,
       "quarterMile": "~17.6 sec",
-      "price": "~$36,990"
+      "price": "~$36,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Freelander|2012|SE": {
       "engine": "2.2L I4 TD4",
@@ -2056,7 +2153,8 @@
       "topSpeed": 180,
       "cargo": 755,
       "quarterMile": "~17.5 sec",
-      "price": "~$38,990"
+      "price": "~$38,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Freelander|2012|HSE": {
       "engine": "2.2L I4 SD4",
@@ -2077,7 +2175,8 @@
       "topSpeed": 195,
       "cargo": 755,
       "quarterMile": "~16.8 sec",
-      "price": "~$46,990"
+      "price": "~$46,990",
+      "aspiration": "Turbo"
     },
     "Land Rover|Freelander|2012|TD4": {
       "engine": "2.2L I4 TD4",
@@ -2098,7 +2197,8 @@
       "topSpeed": 180,
       "cargo": 755,
       "quarterMile": "~17.5 sec",
-      "price": "~$40,990"
+      "price": "~$40,990",
+      "aspiration": "Turbo"
     }
   }
 }

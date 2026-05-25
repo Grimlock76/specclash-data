@@ -16,7 +16,8 @@
       "fx": null,
       "acceleration": 8,
       "topSpeed": 235,
-      "price": "~$79,900"
+      "price": "~$79,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series|2021|430i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -34,7 +35,8 @@
       "fx": null,
       "acceleration": 5.8,
       "topSpeed": 250,
-      "price": "~$89,900"
+      "price": "~$89,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series|2021|M440i xDrive": {
       "engine": "3.0L I6 TwinPower Turbo xDrive",
@@ -52,7 +54,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 250,
-      "price": "~$114,900"
+      "price": "~$114,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series|2022|420i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -70,7 +73,8 @@
       "fx": null,
       "acceleration": 8,
       "topSpeed": 235,
-      "price": "~$81,900"
+      "price": "~$81,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series|2022|430i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -88,7 +92,8 @@
       "fx": null,
       "acceleration": 5.8,
       "topSpeed": 250,
-      "price": "~$91,900"
+      "price": "~$91,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series|2022|M440i xDrive": {
       "engine": "3.0L I6 TwinPower Turbo xDrive",
@@ -106,7 +111,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 250,
-      "price": "~$116,900"
+      "price": "~$116,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series|2023|420i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -124,7 +130,8 @@
       "fx": null,
       "acceleration": 8,
       "topSpeed": 235,
-      "price": "~$83,900"
+      "price": "~$83,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series|2023|430i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -142,7 +149,8 @@
       "fx": null,
       "acceleration": 5.8,
       "topSpeed": 250,
-      "price": "~$93,900"
+      "price": "~$93,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series|2023|M440i xDrive": {
       "engine": "3.0L I6 TwinPower Turbo xDrive",
@@ -160,7 +168,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 250,
-      "price": "~$118,900"
+      "price": "~$118,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series|2024|420i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -178,7 +187,8 @@
       "fx": null,
       "acceleration": 8,
       "topSpeed": 235,
-      "price": "~$85,900"
+      "price": "~$85,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series|2024|430i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -196,7 +206,8 @@
       "fx": null,
       "acceleration": 5.8,
       "topSpeed": 250,
-      "price": "~$95,900"
+      "price": "~$95,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series|2024|M440i xDrive": {
       "engine": "3.0L I6 TwinPower Turbo xDrive",
@@ -214,7 +225,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 250,
-      "price": "~$120,900"
+      "price": "~$120,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series|2025|420i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -232,7 +244,8 @@
       "fx": null,
       "acceleration": 8,
       "topSpeed": 235,
-      "price": "~$87,900"
+      "price": "~$87,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series|2025|430i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -250,7 +263,8 @@
       "fx": null,
       "acceleration": 5.8,
       "topSpeed": 250,
-      "price": "~$97,900"
+      "price": "~$97,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series|2025|M440i xDrive": {
       "engine": "3.0L I6 TwinPower Turbo xDrive",
@@ -268,7 +282,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 250,
-      "price": "~$122,900"
+      "price": "~$122,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series|2026|420i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -286,7 +301,8 @@
       "fx": null,
       "acceleration": 8,
       "topSpeed": 235,
-      "price": "~$89,900"
+      "price": "~$89,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series|2026|430i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -304,7 +320,8 @@
       "fx": null,
       "acceleration": 5.8,
       "topSpeed": 250,
-      "price": "~$99,900"
+      "price": "~$99,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series|2026|M440i xDrive": {
       "engine": "3.0L I6 TwinPower Turbo xDrive",
@@ -322,7 +339,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 250,
-      "price": "~$124,900"
+      "price": "~$124,900",
+      "aspiration": "Turbo"
     },
     "BMW|iX|2021|xDrive40": {
       "engine": "Dual Electric Motor xDrive40",
@@ -340,7 +358,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$129,900"
+      "price": "~$129,900",
+      "aspiration": "Electric"
     },
     "BMW|iX|2021|xDrive50": {
       "engine": "Dual Electric Motor xDrive50",
@@ -358,7 +377,8 @@
       "fx": null,
       "acceleration": 4.6,
       "topSpeed": 200,
-      "price": "~$159,900"
+      "price": "~$159,900",
+      "aspiration": "Electric"
     },
     "BMW|iX|2021|M60": {
       "engine": "Dual Electric Motor M60 xDrive",
@@ -376,7 +396,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 250,
-      "price": "~$189,900"
+      "price": "~$189,900",
+      "aspiration": "Electric"
     },
     "BMW|iX|2022|xDrive40": {
       "engine": "Dual Electric Motor xDrive40",
@@ -394,7 +415,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$132,900"
+      "price": "~$132,900",
+      "aspiration": "Electric"
     },
     "BMW|iX|2022|xDrive50": {
       "engine": "Dual Electric Motor xDrive50",
@@ -412,7 +434,8 @@
       "fx": null,
       "acceleration": 4.6,
       "topSpeed": 200,
-      "price": "~$162,900"
+      "price": "~$162,900",
+      "aspiration": "Electric"
     },
     "BMW|iX|2022|M60": {
       "engine": "Dual Electric Motor M60 xDrive",
@@ -430,7 +453,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 250,
-      "price": "~$192,900"
+      "price": "~$192,900",
+      "aspiration": "Electric"
     },
     "BMW|iX|2023|xDrive40": {
       "engine": "Dual Electric Motor xDrive40",
@@ -448,7 +472,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$135,900"
+      "price": "~$135,900",
+      "aspiration": "Electric"
     },
     "BMW|iX|2023|xDrive50": {
       "engine": "Dual Electric Motor xDrive50",
@@ -466,7 +491,8 @@
       "fx": null,
       "acceleration": 4.6,
       "topSpeed": 200,
-      "price": "~$165,900"
+      "price": "~$165,900",
+      "aspiration": "Electric"
     },
     "BMW|iX|2023|M60": {
       "engine": "Dual Electric Motor M60 xDrive",
@@ -484,7 +510,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 250,
-      "price": "~$195,900"
+      "price": "~$195,900",
+      "aspiration": "Electric"
     },
     "BMW|iX|2024|xDrive40": {
       "engine": "Dual Electric Motor xDrive40",
@@ -502,7 +529,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$138,900"
+      "price": "~$138,900",
+      "aspiration": "Electric"
     },
     "BMW|iX|2024|xDrive50": {
       "engine": "Dual Electric Motor xDrive50",
@@ -520,7 +548,8 @@
       "fx": null,
       "acceleration": 4.6,
       "topSpeed": 200,
-      "price": "~$168,900"
+      "price": "~$168,900",
+      "aspiration": "Electric"
     },
     "BMW|iX|2024|M60": {
       "engine": "Dual Electric Motor M60 xDrive",
@@ -538,7 +567,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 250,
-      "price": "~$198,900"
+      "price": "~$198,900",
+      "aspiration": "Electric"
     },
     "BMW|iX|2025|xDrive40": {
       "engine": "Dual Electric Motor xDrive40",
@@ -556,7 +586,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$140,900"
+      "price": "~$140,900",
+      "aspiration": "Electric"
     },
     "BMW|iX|2025|xDrive50": {
       "engine": "Dual Electric Motor xDrive50",
@@ -574,7 +605,8 @@
       "fx": null,
       "acceleration": 4.6,
       "topSpeed": 200,
-      "price": "~$170,900"
+      "price": "~$170,900",
+      "aspiration": "Electric"
     },
     "BMW|iX|2025|M60": {
       "engine": "Dual Electric Motor M60 xDrive",
@@ -592,7 +624,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 250,
-      "price": "~$200,900"
+      "price": "~$200,900",
+      "aspiration": "Electric"
     },
     "BMW|iX|2026|xDrive40": {
       "engine": "Dual Electric Motor xDrive40",
@@ -610,7 +643,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$142,900"
+      "price": "~$142,900",
+      "aspiration": "Electric"
     },
     "BMW|iX|2026|xDrive50": {
       "engine": "Dual Electric Motor xDrive50",
@@ -628,7 +662,8 @@
       "fx": null,
       "acceleration": 4.6,
       "topSpeed": 200,
-      "price": "~$172,900"
+      "price": "~$172,900",
+      "aspiration": "Electric"
     },
     "BMW|iX|2026|M60": {
       "engine": "Dual Electric Motor M60 xDrive",
@@ -646,7 +681,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 250,
-      "price": "~$202,900"
+      "price": "~$202,900",
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2021|e-tron GT": {
       "engine": "Dual Electric Motor quattro",
@@ -664,7 +700,8 @@
       "fx": null,
       "acceleration": 4.1,
       "topSpeed": 245,
-      "price": "~$189,900"
+      "price": "~$189,900",
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2021|RS e-tron GT": {
       "engine": "Dual Electric Motor RS quattro",
@@ -682,7 +719,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 250,
-      "price": "~$249,900"
+      "price": "~$249,900",
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2022|e-tron GT": {
       "engine": "Dual Electric Motor quattro",
@@ -700,7 +738,8 @@
       "fx": null,
       "acceleration": 4.1,
       "topSpeed": 245,
-      "price": "~$192,900"
+      "price": "~$192,900",
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2022|RS e-tron GT": {
       "engine": "Dual Electric Motor RS quattro",
@@ -718,7 +757,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 250,
-      "price": "~$252,900"
+      "price": "~$252,900",
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2023|e-tron GT": {
       "engine": "Dual Electric Motor quattro",
@@ -736,7 +776,8 @@
       "fx": null,
       "acceleration": 4.1,
       "topSpeed": 245,
-      "price": "~$195,900"
+      "price": "~$195,900",
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2023|RS e-tron GT": {
       "engine": "Dual Electric Motor RS quattro",
@@ -754,7 +795,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 250,
-      "price": "~$255,900"
+      "price": "~$255,900",
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2024|e-tron GT": {
       "engine": "Dual Electric Motor quattro",
@@ -772,7 +814,8 @@
       "fx": null,
       "acceleration": 4.1,
       "topSpeed": 245,
-      "price": "~$198,900"
+      "price": "~$198,900",
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2024|RS e-tron GT": {
       "engine": "Dual Electric Motor RS quattro",
@@ -790,7 +833,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 250,
-      "price": "~$258,900"
+      "price": "~$258,900",
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2024|RS e-tron GT Performance": {
       "engine": "Dual Electric Motor RS Performance quattro",
@@ -808,7 +852,8 @@
       "fx": null,
       "acceleration": 2.5,
       "topSpeed": 270,
-      "price": "~$338,900"
+      "price": "~$338,900",
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2025|e-tron GT": {
       "engine": "Dual Electric Motor quattro",
@@ -826,7 +871,8 @@
       "fx": null,
       "acceleration": 4.1,
       "topSpeed": 245,
-      "price": "~$200,900"
+      "price": "~$200,900",
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2025|RS e-tron GT": {
       "engine": "Dual Electric Motor RS quattro",
@@ -844,7 +890,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 250,
-      "price": "~$260,900"
+      "price": "~$260,900",
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2025|RS e-tron GT Performance": {
       "engine": "Dual Electric Motor RS Performance quattro",
@@ -862,7 +909,8 @@
       "fx": null,
       "acceleration": 2.5,
       "topSpeed": 270,
-      "price": "~$340,900"
+      "price": "~$340,900",
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2026|e-tron GT": {
       "engine": "Dual Electric Motor quattro",
@@ -880,7 +928,8 @@
       "fx": null,
       "acceleration": 4.1,
       "topSpeed": 245,
-      "price": "~$202,900"
+      "price": "~$202,900",
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2026|RS e-tron GT": {
       "engine": "Dual Electric Motor RS quattro",
@@ -898,7 +947,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 250,
-      "price": "~$262,900"
+      "price": "~$262,900",
+      "aspiration": "Electric"
     },
     "Audi|e-tron GT|2026|RS e-tron GT Performance": {
       "engine": "Dual Electric Motor RS Performance quattro",
@@ -916,7 +966,8 @@
       "fx": null,
       "acceleration": 2.5,
       "topSpeed": 270,
-      "price": "~$342,900"
+      "price": "~$342,900",
+      "aspiration": "Electric"
     },
     "Mercedes-Benz|C-Class|2024|AMG C63 S E Performance": {
       "engine": "2.0L 4-cyl Turbo AMG PHEV",
@@ -935,7 +986,8 @@
       "acceleration": 3.4,
       "topSpeed": 280,
       "range": 13,
-      "price": "~$249,900"
+      "price": "~$249,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|C-Class|2025|AMG C63 S E Performance": {
       "engine": "2.0L 4-cyl Turbo AMG PHEV",
@@ -954,7 +1006,8 @@
       "acceleration": 3.4,
       "topSpeed": 280,
       "range": 13,
-      "price": "~$254,900"
+      "price": "~$254,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|C-Class|2026|AMG C63 S E Performance": {
       "engine": "2.0L 4-cyl Turbo AMG PHEV",
@@ -973,7 +1026,8 @@
       "acceleration": 3.4,
       "topSpeed": 280,
       "range": 13,
-      "price": "~$257,900"
+      "price": "~$257,900",
+      "aspiration": "Turbo"
     },
     "Volvo|S60|2019|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -992,7 +1046,8 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
-      "price": "~$82,990"
+      "price": "~$82,990",
+      "aspiration": "Supercharged"
     },
     "Volvo|S60|2020|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -1011,7 +1066,8 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
-      "price": "~$84,490"
+      "price": "~$84,490",
+      "aspiration": "Supercharged"
     },
     "Volvo|S60|2021|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -1030,7 +1086,8 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
-      "price": "~$85,990"
+      "price": "~$85,990",
+      "aspiration": "Supercharged"
     },
     "Volvo|S60|2022|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -1049,7 +1106,8 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
-      "price": "~$87,990"
+      "price": "~$87,990",
+      "aspiration": "Supercharged"
     },
     "Volvo|S60|2023|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -1068,7 +1126,8 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
-      "price": "~$89,990"
+      "price": "~$89,990",
+      "aspiration": "Supercharged"
     },
     "Volvo|S60|2024|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -1087,7 +1146,8 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
-      "price": "~$91,990"
+      "price": "~$91,990",
+      "aspiration": "Supercharged"
     },
     "Volvo|S60|2025|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -1106,7 +1166,8 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
-      "price": "~$93,990"
+      "price": "~$93,990",
+      "aspiration": "Supercharged"
     },
     "Volvo|S60|2026|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -1125,7 +1186,8 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
-      "price": "~$95,990"
+      "price": "~$95,990",
+      "aspiration": "Supercharged"
     },
     "Volvo|V90|2019|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -1144,7 +1206,8 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
-      "price": "~$89,990"
+      "price": "~$89,990",
+      "aspiration": "Supercharged"
     },
     "Volvo|V90|2020|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -1163,7 +1226,8 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
-      "price": "~$91,490"
+      "price": "~$91,490",
+      "aspiration": "Supercharged"
     },
     "Volvo|V90|2021|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -1182,7 +1246,8 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
-      "price": "~$92,990"
+      "price": "~$92,990",
+      "aspiration": "Supercharged"
     },
     "Volvo|V90|2022|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -1201,7 +1266,8 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
-      "price": "~$94,990"
+      "price": "~$94,990",
+      "aspiration": "Supercharged"
     },
     "Volvo|V90|2023|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -1220,7 +1286,8 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
-      "price": "~$96,990"
+      "price": "~$96,990",
+      "aspiration": "Supercharged"
     },
     "Volvo|V90|2024|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -1239,7 +1306,8 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
-      "price": "~$98,990"
+      "price": "~$98,990",
+      "aspiration": "Supercharged"
     },
     "Volvo|V90|2025|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -1258,7 +1326,8 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
-      "price": "~$100,990"
+      "price": "~$100,990",
+      "aspiration": "Supercharged"
     },
     "Volvo|V90|2026|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -1277,7 +1346,8 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
-      "price": "~$102,990"
+      "price": "~$102,990",
+      "aspiration": "Supercharged"
     },
     "Subaru|BRZ|2022|BRZ tS": {
       "engine": "2.4L H4 Naturally Aspirated",
@@ -1295,7 +1365,8 @@
       "fx": null,
       "acceleration": 6.2,
       "topSpeed": 226,
-      "price": "~$43,490"
+      "price": "~$43,490",
+      "aspiration": "NA"
     },
     "Subaru|BRZ|2023|BRZ tS": {
       "engine": "2.4L H4 Naturally Aspirated",
@@ -1313,7 +1384,8 @@
       "fx": null,
       "acceleration": 6.2,
       "topSpeed": 226,
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "aspiration": "NA"
     },
     "Subaru|BRZ|2024|BRZ tS": {
       "engine": "2.4L H4 Naturally Aspirated",
@@ -1331,7 +1403,8 @@
       "fx": null,
       "acceleration": 6.2,
       "topSpeed": 226,
-      "price": "~$46,490"
+      "price": "~$46,490",
+      "aspiration": "NA"
     },
     "Subaru|BRZ|2025|BRZ tS": {
       "engine": "2.4L H4 Naturally Aspirated",
@@ -1349,7 +1422,8 @@
       "fx": null,
       "acceleration": 6.2,
       "topSpeed": 226,
-      "price": "~$47,490"
+      "price": "~$47,490",
+      "aspiration": "NA"
     },
     "Subaru|BRZ|2026|BRZ tS": {
       "engine": "2.4L H4 Naturally Aspirated",
@@ -1367,7 +1441,8 @@
       "fx": null,
       "acceleration": 6.2,
       "topSpeed": 226,
-      "price": "~$48,490"
+      "price": "~$48,490",
+      "aspiration": "NA"
     },
     "Toyota|Crown Kluger|2023|GX": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1385,7 +1460,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 180,
-      "price": "~$66,990"
+      "price": "~$66,990",
+      "aspiration": "NA"
     },
     "Toyota|Crown Kluger|2023|GXL": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1403,7 +1479,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 180,
-      "price": "~$74,990"
+      "price": "~$74,990",
+      "aspiration": "NA"
     },
     "Toyota|Crown Kluger|2023|Edge": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1421,7 +1498,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 180,
-      "price": "~$82,990"
+      "price": "~$82,990",
+      "aspiration": "NA"
     },
     "Toyota|Crown Kluger|2023|Cruiser": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1439,7 +1517,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 180,
-      "price": "~$89,990"
+      "price": "~$89,990",
+      "aspiration": "NA"
     },
     "Toyota|Crown Kluger|2024|GX": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1457,7 +1536,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 180,
-      "price": "~$68,990"
+      "price": "~$68,990",
+      "aspiration": "NA"
     },
     "Toyota|Crown Kluger|2024|GXL": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1475,7 +1555,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 180,
-      "price": "~$76,990"
+      "price": "~$76,990",
+      "aspiration": "NA"
     },
     "Toyota|Crown Kluger|2024|Edge": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1493,7 +1574,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 180,
-      "price": "~$84,990"
+      "price": "~$84,990",
+      "aspiration": "NA"
     },
     "Toyota|Crown Kluger|2024|Cruiser": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1511,7 +1593,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 180,
-      "price": "~$91,990"
+      "price": "~$91,990",
+      "aspiration": "NA"
     },
     "Toyota|Crown Kluger|2025|GX": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1529,7 +1612,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 180,
-      "price": "~$70,990"
+      "price": "~$70,990",
+      "aspiration": "NA"
     },
     "Toyota|Crown Kluger|2025|GXL": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1547,7 +1631,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 180,
-      "price": "~$78,990"
+      "price": "~$78,990",
+      "aspiration": "NA"
     },
     "Toyota|Crown Kluger|2025|Edge": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1565,7 +1650,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 180,
-      "price": "~$86,990"
+      "price": "~$86,990",
+      "aspiration": "NA"
     },
     "Toyota|Crown Kluger|2025|Cruiser": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1583,7 +1669,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 180,
-      "price": "~$93,990"
+      "price": "~$93,990",
+      "aspiration": "NA"
     },
     "Toyota|Crown Kluger|2026|GX": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1601,7 +1688,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 180,
-      "price": "~$72,990"
+      "price": "~$72,990",
+      "aspiration": "NA"
     },
     "Toyota|Crown Kluger|2026|GXL": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1619,7 +1707,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 180,
-      "price": "~$80,990"
+      "price": "~$80,990",
+      "aspiration": "NA"
     },
     "Toyota|Crown Kluger|2026|Edge": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1637,7 +1726,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 180,
-      "price": "~$88,990"
+      "price": "~$88,990",
+      "aspiration": "NA"
     },
     "Toyota|Crown Kluger|2026|Cruiser": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1655,7 +1745,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 180,
-      "price": "~$95,990"
+      "price": "~$95,990",
+      "aspiration": "NA"
     },
     "Toyota|bZ3C|2025|FWD": {
       "engine": "Single Electric Motor",
@@ -1673,7 +1764,8 @@
       "fx": null,
       "acceleration": 7,
       "topSpeed": 160,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "aspiration": "Electric"
     },
     "Toyota|bZ3C|2025|AWD": {
       "engine": "Single Electric Motor",
@@ -1691,7 +1783,8 @@
       "fx": null,
       "acceleration": 5.5,
       "topSpeed": 160,
-      "price": "~$64,990"
+      "price": "~$64,990",
+      "aspiration": "Electric"
     },
     "Toyota|bZ3C|2026|FWD": {
       "engine": "Single Electric Motor",
@@ -1709,7 +1802,8 @@
       "fx": null,
       "acceleration": 7,
       "topSpeed": 160,
-      "price": "~$56,990"
+      "price": "~$56,990",
+      "aspiration": "Electric"
     },
     "Toyota|bZ3C|2026|AWD": {
       "engine": "Single Electric Motor",
@@ -1727,7 +1821,8 @@
       "fx": null,
       "acceleration": 5.5,
       "topSpeed": 160,
-      "price": "~$66,990"
+      "price": "~$66,990",
+      "aspiration": "Electric"
     }
   }
 }

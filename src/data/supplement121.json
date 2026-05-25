@@ -16,7 +16,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 235,
-      "price": "~$79,990"
+      "price": "~$79,990",
+      "aspiration": "Electric"
     },
     "Genesis|GV60|2022|Sport Plus": {
       "engine": "Dual Electric Motor",
@@ -34,7 +35,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 235,
-      "price": "~$89,990"
+      "price": "~$89,990",
+      "aspiration": "Electric"
     },
     "Genesis|GV60|2022|Master": {
       "engine": "Dual Electric Motor",
@@ -52,7 +54,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 235,
-      "price": "~$104,990"
+      "price": "~$104,990",
+      "aspiration": "Electric"
     },
     "Genesis|GV60|2023|Sport": {
       "engine": "Dual Electric Motor",
@@ -70,7 +73,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 235,
-      "price": "~$81,490"
+      "price": "~$81,490",
+      "aspiration": "Electric"
     },
     "Genesis|GV60|2023|Sport Plus": {
       "engine": "Dual Electric Motor",
@@ -88,7 +92,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 235,
-      "price": "~$91,490"
+      "price": "~$91,490",
+      "aspiration": "Electric"
     },
     "Genesis|GV60|2023|Master": {
       "engine": "Dual Electric Motor",
@@ -106,7 +111,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 235,
-      "price": "~$106,490"
+      "price": "~$106,490",
+      "aspiration": "Electric"
     },
     "Genesis|GV60|2024|Sport": {
       "engine": "Dual Electric Motor",
@@ -124,7 +130,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 235,
-      "price": "~$82,990"
+      "price": "~$82,990",
+      "aspiration": "Electric"
     },
     "Genesis|GV60|2024|Sport Plus": {
       "engine": "Dual Electric Motor",
@@ -142,7 +149,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 235,
-      "price": "~$92,990"
+      "price": "~$92,990",
+      "aspiration": "Electric"
     },
     "Genesis|GV60|2024|Master": {
       "engine": "Dual Electric Motor",
@@ -160,7 +168,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 235,
-      "price": "~$107,990"
+      "price": "~$107,990",
+      "aspiration": "Electric"
     },
     "Genesis|GV60|2025|Sport": {
       "engine": "Dual Electric Motor",
@@ -178,7 +187,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 235,
-      "price": "~$83,990"
+      "price": "~$83,990",
+      "aspiration": "Electric"
     },
     "Genesis|GV60|2025|Sport Plus": {
       "engine": "Dual Electric Motor",
@@ -196,7 +206,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 235,
-      "price": "~$93,990"
+      "price": "~$93,990",
+      "aspiration": "Electric"
     },
     "Genesis|GV60|2025|Master": {
       "engine": "Dual Electric Motor",
@@ -214,7 +225,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 235,
-      "price": "~$108,990"
+      "price": "~$108,990",
+      "aspiration": "Electric"
     },
     "Genesis|GV60|2026|Sport": {
       "engine": "Dual Electric Motor",
@@ -232,7 +244,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 235,
-      "price": "~$84,990"
+      "price": "~$84,990",
+      "aspiration": "Electric"
     },
     "Genesis|GV60|2026|Sport Plus": {
       "engine": "Dual Electric Motor",
@@ -250,7 +263,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 235,
-      "price": "~$94,990"
+      "price": "~$94,990",
+      "aspiration": "Electric"
     },
     "Genesis|GV60|2026|Master": {
       "engine": "Dual Electric Motor",
@@ -268,7 +282,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 235,
-      "price": "~$109,990"
+      "price": "~$109,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2021|Select": {
       "engine": "Single Electric Motor",
@@ -286,7 +301,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 180,
-      "price": "~$74,990"
+      "price": "~$74,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2021|Premium": {
       "engine": "Single Electric Motor",
@@ -304,7 +320,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 180,
-      "price": "~$84,990"
+      "price": "~$84,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2021|Premium ER": {
       "engine": "Dual Electric Motor",
@@ -322,7 +339,8 @@
       "fx": null,
       "acceleration": 5.1,
       "topSpeed": 180,
-      "price": "~$94,990"
+      "price": "~$94,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2021|GT": {
       "engine": "Dual Electric Motor GT",
@@ -340,7 +358,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 200,
-      "price": "~$109,990"
+      "price": "~$109,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2022|Select": {
       "engine": "Single Electric Motor",
@@ -358,7 +377,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 180,
-      "price": "~$76,990"
+      "price": "~$76,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2022|Premium": {
       "engine": "Single Electric Motor",
@@ -376,7 +396,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 180,
-      "price": "~$86,990"
+      "price": "~$86,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2022|Premium ER": {
       "engine": "Dual Electric Motor",
@@ -394,7 +415,8 @@
       "fx": null,
       "acceleration": 5.1,
       "topSpeed": 180,
-      "price": "~$96,990"
+      "price": "~$96,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2022|GT": {
       "engine": "Dual Electric Motor GT",
@@ -412,7 +434,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 200,
-      "price": "~$111,990"
+      "price": "~$111,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2023|Select": {
       "engine": "Single Electric Motor",
@@ -430,7 +453,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 180,
-      "price": "~$77,990"
+      "price": "~$77,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2023|Premium": {
       "engine": "Single Electric Motor",
@@ -448,7 +472,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 180,
-      "price": "~$87,990"
+      "price": "~$87,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2023|Premium ER": {
       "engine": "Dual Electric Motor",
@@ -466,7 +491,8 @@
       "fx": null,
       "acceleration": 5.1,
       "topSpeed": 180,
-      "price": "~$97,990"
+      "price": "~$97,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2023|GT": {
       "engine": "Dual Electric Motor GT",
@@ -484,7 +510,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 200,
-      "price": "~$112,990"
+      "price": "~$112,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2024|Select": {
       "engine": "Single Electric Motor",
@@ -502,7 +529,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 180,
-      "price": "~$78,990"
+      "price": "~$78,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2024|Premium": {
       "engine": "Single Electric Motor",
@@ -520,7 +548,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 180,
-      "price": "~$88,990"
+      "price": "~$88,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2024|Premium ER": {
       "engine": "Dual Electric Motor",
@@ -538,7 +567,8 @@
       "fx": null,
       "acceleration": 5.1,
       "topSpeed": 180,
-      "price": "~$98,990"
+      "price": "~$98,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2024|GT": {
       "engine": "Dual Electric Motor GT",
@@ -556,7 +586,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 200,
-      "price": "~$113,990"
+      "price": "~$113,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2025|Select": {
       "engine": "Single Electric Motor",
@@ -574,7 +605,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 180,
-      "price": "~$79,990"
+      "price": "~$79,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2025|Premium": {
       "engine": "Single Electric Motor",
@@ -592,7 +624,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 180,
-      "price": "~$89,990"
+      "price": "~$89,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2025|Premium ER": {
       "engine": "Dual Electric Motor",
@@ -610,7 +643,8 @@
       "fx": null,
       "acceleration": 5.1,
       "topSpeed": 180,
-      "price": "~$99,990"
+      "price": "~$99,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2025|GT": {
       "engine": "Dual Electric Motor GT",
@@ -628,7 +662,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 200,
-      "price": "~$114,990"
+      "price": "~$114,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2026|Select": {
       "engine": "Single Electric Motor",
@@ -646,7 +681,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 180,
-      "price": "~$80,990"
+      "price": "~$80,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2026|Premium": {
       "engine": "Single Electric Motor",
@@ -664,7 +700,8 @@
       "fx": null,
       "acceleration": 6.1,
       "topSpeed": 180,
-      "price": "~$90,990"
+      "price": "~$90,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2026|Premium ER": {
       "engine": "Dual Electric Motor",
@@ -682,7 +719,8 @@
       "fx": null,
       "acceleration": 5.1,
       "topSpeed": 180,
-      "price": "~$100,990"
+      "price": "~$100,990",
+      "aspiration": "Electric"
     },
     "Ford|Mustang Mach-E|2026|GT": {
       "engine": "Dual Electric Motor GT",
@@ -700,7 +738,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 200,
-      "price": "~$115,990"
+      "price": "~$115,990",
+      "aspiration": "Electric"
     },
     "BMW|iX1|2023|eDrive20": {
       "engine": "Single Electric Motor",
@@ -718,7 +757,8 @@
       "fx": null,
       "acceleration": 8.6,
       "topSpeed": 160,
-      "price": "~$69,900"
+      "price": "~$69,900",
+      "aspiration": "Electric"
     },
     "BMW|iX1|2023|xDrive30": {
       "engine": "Dual Electric Motor",
@@ -736,7 +776,8 @@
       "fx": null,
       "acceleration": 5.7,
       "topSpeed": 180,
-      "price": "~$79,900"
+      "price": "~$79,900",
+      "aspiration": "Electric"
     },
     "BMW|iX1|2024|eDrive20": {
       "engine": "Single Electric Motor",
@@ -754,7 +795,8 @@
       "fx": null,
       "acceleration": 8.6,
       "topSpeed": 160,
-      "price": "~$71,900"
+      "price": "~$71,900",
+      "aspiration": "Electric"
     },
     "BMW|iX1|2024|xDrive30": {
       "engine": "Dual Electric Motor",
@@ -772,7 +814,8 @@
       "fx": null,
       "acceleration": 5.7,
       "topSpeed": 180,
-      "price": "~$81,900"
+      "price": "~$81,900",
+      "aspiration": "Electric"
     },
     "BMW|iX1|2025|eDrive20": {
       "engine": "Single Electric Motor",
@@ -790,7 +833,8 @@
       "fx": null,
       "acceleration": 8.6,
       "topSpeed": 160,
-      "price": "~$73,400"
+      "price": "~$73,400",
+      "aspiration": "Electric"
     },
     "BMW|iX1|2025|xDrive30": {
       "engine": "Dual Electric Motor",
@@ -808,7 +852,8 @@
       "fx": null,
       "acceleration": 5.7,
       "topSpeed": 180,
-      "price": "~$83,400"
+      "price": "~$83,400",
+      "aspiration": "Electric"
     },
     "BMW|iX1|2026|eDrive20": {
       "engine": "Single Electric Motor",
@@ -826,7 +871,8 @@
       "fx": null,
       "acceleration": 8.6,
       "topSpeed": 160,
-      "price": "~$74,900"
+      "price": "~$74,900",
+      "aspiration": "Electric"
     },
     "BMW|iX1|2026|xDrive30": {
       "engine": "Dual Electric Motor",
@@ -844,7 +890,8 @@
       "fx": null,
       "acceleration": 5.7,
       "topSpeed": 180,
-      "price": "~$84,900"
+      "price": "~$84,900",
+      "aspiration": "Electric"
     },
     "Kia|EV3|2025|Standard Range": {
       "engine": "Single Electric Motor",
@@ -862,7 +909,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 170,
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "aspiration": "Electric"
     },
     "Kia|EV3|2025|Long Range": {
       "engine": "Single Electric Motor",
@@ -880,7 +928,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 170,
-      "price": "~$52,990"
+      "price": "~$52,990",
+      "aspiration": "Electric"
     },
     "Kia|EV3|2025|GT-Line": {
       "engine": "Single Electric Motor",
@@ -898,7 +947,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 170,
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "aspiration": "Electric"
     },
     "Kia|EV3|2026|Standard Range": {
       "engine": "Single Electric Motor",
@@ -916,7 +966,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 170,
-      "price": "~$46,490"
+      "price": "~$46,490",
+      "aspiration": "Electric"
     },
     "Kia|EV3|2026|Long Range": {
       "engine": "Single Electric Motor",
@@ -934,7 +985,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 170,
-      "price": "~$54,490"
+      "price": "~$54,490",
+      "aspiration": "Electric"
     },
     "Kia|EV3|2026|GT-Line": {
       "engine": "Single Electric Motor",
@@ -952,7 +1004,8 @@
       "fx": null,
       "acceleration": 7.7,
       "topSpeed": 170,
-      "price": "~$59,490"
+      "price": "~$59,490",
+      "aspiration": "Electric"
     },
     "Audi|Q4 Sportback e-tron|2021|40": {
       "engine": "Single Electric Motor",
@@ -970,7 +1023,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 160,
-      "price": "~$82,900"
+      "price": "~$82,900",
+      "aspiration": "Electric"
     },
     "Audi|Q4 Sportback e-tron|2021|50 quattro": {
       "engine": "Dual Electric Motor quattro",
@@ -988,7 +1042,8 @@
       "fx": null,
       "acceleration": 6.2,
       "topSpeed": 180,
-      "price": "~$97,900"
+      "price": "~$97,900",
+      "aspiration": "Electric"
     },
     "Audi|Q4 Sportback e-tron|2022|40": {
       "engine": "Single Electric Motor",
@@ -1006,7 +1061,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 160,
-      "price": "~$84,400"
+      "price": "~$84,400",
+      "aspiration": "Electric"
     },
     "Audi|Q4 Sportback e-tron|2022|50 quattro": {
       "engine": "Dual Electric Motor quattro",
@@ -1024,7 +1080,8 @@
       "fx": null,
       "acceleration": 6.2,
       "topSpeed": 180,
-      "price": "~$99,400"
+      "price": "~$99,400",
+      "aspiration": "Electric"
     },
     "Audi|Q4 Sportback e-tron|2023|40": {
       "engine": "Single Electric Motor",
@@ -1042,7 +1099,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 160,
-      "price": "~$85,900"
+      "price": "~$85,900",
+      "aspiration": "Electric"
     },
     "Audi|Q4 Sportback e-tron|2023|50 quattro": {
       "engine": "Dual Electric Motor quattro",
@@ -1060,7 +1118,8 @@
       "fx": null,
       "acceleration": 6.2,
       "topSpeed": 180,
-      "price": "~$100,900"
+      "price": "~$100,900",
+      "aspiration": "Electric"
     },
     "Audi|Q4 Sportback e-tron|2024|40": {
       "engine": "Single Electric Motor",
@@ -1078,7 +1137,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 160,
-      "price": "~$86,900"
+      "price": "~$86,900",
+      "aspiration": "Electric"
     },
     "Audi|Q4 Sportback e-tron|2024|50 quattro": {
       "engine": "Dual Electric Motor quattro",
@@ -1096,7 +1156,8 @@
       "fx": null,
       "acceleration": 6.2,
       "topSpeed": 180,
-      "price": "~$101,900"
+      "price": "~$101,900",
+      "aspiration": "Electric"
     },
     "Audi|Q4 Sportback e-tron|2025|40": {
       "engine": "Single Electric Motor",
@@ -1114,7 +1175,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 160,
-      "price": "~$87,900"
+      "price": "~$87,900",
+      "aspiration": "Electric"
     },
     "Audi|Q4 Sportback e-tron|2025|50 quattro": {
       "engine": "Dual Electric Motor quattro",
@@ -1132,7 +1194,8 @@
       "fx": null,
       "acceleration": 6.2,
       "topSpeed": 180,
-      "price": "~$102,900"
+      "price": "~$102,900",
+      "aspiration": "Electric"
     },
     "Audi|Q4 Sportback e-tron|2026|40": {
       "engine": "Single Electric Motor",
@@ -1150,7 +1213,8 @@
       "fx": null,
       "acceleration": 8.5,
       "topSpeed": 160,
-      "price": "~$88,900"
+      "price": "~$88,900",
+      "aspiration": "Electric"
     },
     "Audi|Q4 Sportback e-tron|2026|50 quattro": {
       "engine": "Dual Electric Motor quattro",
@@ -1168,7 +1232,8 @@
       "fx": null,
       "acceleration": 6.2,
       "topSpeed": 180,
-      "price": "~$103,900"
+      "price": "~$103,900",
+      "aspiration": "Electric"
     },
     "Audi|A6 e-tron|2024|e-tron": {
       "engine": "Single Electric Motor",
@@ -1186,7 +1251,8 @@
       "fx": null,
       "acceleration": 7,
       "topSpeed": 210,
-      "price": "~$109,900"
+      "price": "~$109,900",
+      "aspiration": "Electric"
     },
     "Audi|A6 e-tron|2024|performance quattro": {
       "engine": "Dual Electric Motor quattro",
@@ -1204,7 +1270,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 210,
-      "price": "~$124,900"
+      "price": "~$124,900",
+      "aspiration": "Electric"
     },
     "Audi|A6 e-tron|2024|Avant e-tron": {
       "engine": "Single Electric Motor",
@@ -1222,7 +1289,8 @@
       "fx": null,
       "acceleration": 7,
       "topSpeed": 210,
-      "price": "~$114,900"
+      "price": "~$114,900",
+      "aspiration": "Electric"
     },
     "Audi|A6 e-tron|2024|RS6 e-tron": {
       "engine": "Dual Electric Motor RS quattro",
@@ -1240,7 +1308,8 @@
       "fx": null,
       "acceleration": 3.4,
       "topSpeed": 240,
-      "price": "~$199,900"
+      "price": "~$199,900",
+      "aspiration": "Electric"
     },
     "Audi|A6 e-tron|2025|e-tron": {
       "engine": "Single Electric Motor",
@@ -1258,7 +1327,8 @@
       "fx": null,
       "acceleration": 7,
       "topSpeed": 210,
-      "price": "~$112,900"
+      "price": "~$112,900",
+      "aspiration": "Electric"
     },
     "Audi|A6 e-tron|2025|performance quattro": {
       "engine": "Dual Electric Motor quattro",
@@ -1276,7 +1346,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 210,
-      "price": "~$127,900"
+      "price": "~$127,900",
+      "aspiration": "Electric"
     },
     "Audi|A6 e-tron|2025|Avant e-tron": {
       "engine": "Single Electric Motor",
@@ -1294,7 +1365,8 @@
       "fx": null,
       "acceleration": 7,
       "topSpeed": 210,
-      "price": "~$117,900"
+      "price": "~$117,900",
+      "aspiration": "Electric"
     },
     "Audi|A6 e-tron|2025|RS6 e-tron": {
       "engine": "Dual Electric Motor RS quattro",
@@ -1312,7 +1384,8 @@
       "fx": null,
       "acceleration": 3.4,
       "topSpeed": 240,
-      "price": "~$202,900"
+      "price": "~$202,900",
+      "aspiration": "Electric"
     },
     "Audi|A6 e-tron|2026|e-tron": {
       "engine": "Single Electric Motor",
@@ -1330,7 +1403,8 @@
       "fx": null,
       "acceleration": 7,
       "topSpeed": 210,
-      "price": "~$114,900"
+      "price": "~$114,900",
+      "aspiration": "Electric"
     },
     "Audi|A6 e-tron|2026|performance quattro": {
       "engine": "Dual Electric Motor quattro",
@@ -1348,7 +1422,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 210,
-      "price": "~$129,900"
+      "price": "~$129,900",
+      "aspiration": "Electric"
     },
     "Audi|A6 e-tron|2026|Avant e-tron": {
       "engine": "Single Electric Motor",
@@ -1366,7 +1441,8 @@
       "fx": null,
       "acceleration": 7,
       "topSpeed": 210,
-      "price": "~$119,900"
+      "price": "~$119,900",
+      "aspiration": "Electric"
     },
     "Audi|A6 e-tron|2026|RS6 e-tron": {
       "engine": "Dual Electric Motor RS quattro",
@@ -1384,7 +1460,8 @@
       "fx": null,
       "acceleration": 3.4,
       "topSpeed": 240,
-      "price": "~$204,900"
+      "price": "~$204,900",
+      "aspiration": "Electric"
     },
     "Mercedes-Benz|CLE|2024|CLE200": {
       "engine": "2.0L 4-cyl Turbo",
@@ -1402,7 +1479,8 @@
       "fx": null,
       "acceleration": 7.5,
       "topSpeed": 240,
-      "price": "~$109,900"
+      "price": "~$109,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|CLE|2024|CLE300": {
       "engine": "2.0L 4-cyl Turbo",
@@ -1420,7 +1498,8 @@
       "fx": null,
       "acceleration": 6.3,
       "topSpeed": 250,
-      "price": "~$119,900"
+      "price": "~$119,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|CLE|2024|CLE450 4MATIC": {
       "engine": "3.0L 6-cyl Turbo 4MATIC",
@@ -1438,7 +1517,8 @@
       "fx": null,
       "acceleration": 4.8,
       "topSpeed": 250,
-      "price": "~$139,900"
+      "price": "~$139,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|CLE|2024|AMG CLE53 4MATIC+": {
       "engine": "3.0L 6-cyl Turbo AMG 4MATIC+",
@@ -1456,7 +1536,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 270,
-      "price": "~$164,900"
+      "price": "~$164,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|CLE|2024|CLE200 Cabriolet": {
       "engine": "2.0L 4-cyl Turbo",
@@ -1474,7 +1555,8 @@
       "fx": null,
       "acceleration": 7.5,
       "topSpeed": 240,
-      "price": "~$124,900"
+      "price": "~$124,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|CLE|2024|CLE300 Cabriolet": {
       "engine": "2.0L 4-cyl Turbo",
@@ -1492,7 +1574,8 @@
       "fx": null,
       "acceleration": 6.3,
       "topSpeed": 250,
-      "price": "~$134,900"
+      "price": "~$134,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|CLE|2024|CLE450 4MATIC Cabriolet": {
       "engine": "3.0L 6-cyl Turbo 4MATIC",
@@ -1510,7 +1593,8 @@
       "fx": null,
       "acceleration": 4.8,
       "topSpeed": 250,
-      "price": "~$154,900"
+      "price": "~$154,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|CLE|2025|CLE200": {
       "engine": "2.0L 4-cyl Turbo",
@@ -1528,7 +1612,8 @@
       "fx": null,
       "acceleration": 7.5,
       "topSpeed": 240,
-      "price": "~$112,900"
+      "price": "~$112,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|CLE|2025|CLE300": {
       "engine": "2.0L 4-cyl Turbo",
@@ -1546,7 +1631,8 @@
       "fx": null,
       "acceleration": 6.3,
       "topSpeed": 250,
-      "price": "~$122,900"
+      "price": "~$122,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|CLE|2025|CLE450 4MATIC": {
       "engine": "3.0L 6-cyl Turbo 4MATIC",
@@ -1564,7 +1650,8 @@
       "fx": null,
       "acceleration": 4.8,
       "topSpeed": 250,
-      "price": "~$142,900"
+      "price": "~$142,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|CLE|2025|AMG CLE53 4MATIC+": {
       "engine": "3.0L 6-cyl Turbo AMG 4MATIC+",
@@ -1582,7 +1669,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 270,
-      "price": "~$167,900"
+      "price": "~$167,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|CLE|2025|CLE200 Cabriolet": {
       "engine": "2.0L 4-cyl Turbo",
@@ -1600,7 +1688,8 @@
       "fx": null,
       "acceleration": 7.5,
       "topSpeed": 240,
-      "price": "~$127,900"
+      "price": "~$127,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|CLE|2025|CLE300 Cabriolet": {
       "engine": "2.0L 4-cyl Turbo",
@@ -1618,7 +1707,8 @@
       "fx": null,
       "acceleration": 6.3,
       "topSpeed": 250,
-      "price": "~$137,900"
+      "price": "~$137,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|CLE|2025|CLE450 4MATIC Cabriolet": {
       "engine": "3.0L 6-cyl Turbo 4MATIC",
@@ -1636,7 +1726,8 @@
       "fx": null,
       "acceleration": 4.8,
       "topSpeed": 250,
-      "price": "~$157,900"
+      "price": "~$157,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|CLE|2026|CLE200": {
       "engine": "2.0L 4-cyl Turbo",
@@ -1654,7 +1745,8 @@
       "fx": null,
       "acceleration": 7.5,
       "topSpeed": 240,
-      "price": "~$114,900"
+      "price": "~$114,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|CLE|2026|CLE300": {
       "engine": "2.0L 4-cyl Turbo",
@@ -1672,7 +1764,8 @@
       "fx": null,
       "acceleration": 6.3,
       "topSpeed": 250,
-      "price": "~$124,900"
+      "price": "~$124,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|CLE|2026|CLE450 4MATIC": {
       "engine": "3.0L 6-cyl Turbo 4MATIC",
@@ -1690,7 +1783,8 @@
       "fx": null,
       "acceleration": 4.8,
       "topSpeed": 250,
-      "price": "~$144,900"
+      "price": "~$144,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|CLE|2026|AMG CLE53 4MATIC+": {
       "engine": "3.0L 6-cyl Turbo AMG 4MATIC+",
@@ -1708,7 +1802,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 270,
-      "price": "~$169,900"
+      "price": "~$169,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|CLE|2026|CLE200 Cabriolet": {
       "engine": "2.0L 4-cyl Turbo",
@@ -1726,7 +1821,8 @@
       "fx": null,
       "acceleration": 7.5,
       "topSpeed": 240,
-      "price": "~$129,900"
+      "price": "~$129,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|CLE|2026|CLE300 Cabriolet": {
       "engine": "2.0L 4-cyl Turbo",
@@ -1744,7 +1840,8 @@
       "fx": null,
       "acceleration": 6.3,
       "topSpeed": 250,
-      "price": "~$139,900"
+      "price": "~$139,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|CLE|2026|CLE450 4MATIC Cabriolet": {
       "engine": "3.0L 6-cyl Turbo 4MATIC",
@@ -1762,7 +1859,8 @@
       "fx": null,
       "acceleration": 4.8,
       "topSpeed": 250,
-      "price": "~$159,900"
+      "price": "~$159,900",
+      "aspiration": "Turbo"
     },
     "Volvo|EX40|2024|Single Motor": {
       "engine": "Single Electric Motor Recharge",
@@ -1780,7 +1878,8 @@
       "fx": null,
       "acceleration": 7.4,
       "topSpeed": 160,
-      "price": "~$71,990"
+      "price": "~$71,990",
+      "aspiration": "Electric"
     },
     "Volvo|EX40|2024|Twin Motor Performance": {
       "engine": "Dual Electric Motor Twin Motor Performance",
@@ -1798,7 +1897,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 180,
-      "price": "~$84,990"
+      "price": "~$84,990",
+      "aspiration": "Electric"
     },
     "Volvo|EX40|2025|Single Motor": {
       "engine": "Single Electric Motor Recharge",
@@ -1816,7 +1916,8 @@
       "fx": null,
       "acceleration": 7.4,
       "topSpeed": 160,
-      "price": "~$73,990"
+      "price": "~$73,990",
+      "aspiration": "Electric"
     },
     "Volvo|EX40|2025|Twin Motor Performance": {
       "engine": "Dual Electric Motor Twin Motor Performance",
@@ -1834,7 +1935,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 180,
-      "price": "~$86,990"
+      "price": "~$86,990",
+      "aspiration": "Electric"
     },
     "Volvo|EX40|2026|Single Motor": {
       "engine": "Single Electric Motor Recharge",
@@ -1852,7 +1954,8 @@
       "fx": null,
       "acceleration": 7.4,
       "topSpeed": 160,
-      "price": "~$75,490"
+      "price": "~$75,490",
+      "aspiration": "Electric"
     },
     "Volvo|EX40|2026|Twin Motor Performance": {
       "engine": "Dual Electric Motor Twin Motor Performance",
@@ -1870,7 +1973,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 180,
-      "price": "~$88,490"
+      "price": "~$88,490",
+      "aspiration": "Electric"
     },
     "Volvo|EC40|2024|Single Motor": {
       "engine": "Single Electric Motor Recharge",
@@ -1888,7 +1992,8 @@
       "fx": null,
       "acceleration": 7.4,
       "topSpeed": 160,
-      "price": "~$74,990"
+      "price": "~$74,990",
+      "aspiration": "Electric"
     },
     "Volvo|EC40|2024|Twin Motor Performance": {
       "engine": "Dual Electric Motor Twin Motor Performance",
@@ -1906,7 +2011,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 180,
-      "price": "~$87,990"
+      "price": "~$87,990",
+      "aspiration": "Electric"
     },
     "Volvo|EC40|2025|Single Motor": {
       "engine": "Single Electric Motor Recharge",
@@ -1924,7 +2030,8 @@
       "fx": null,
       "acceleration": 7.4,
       "topSpeed": 160,
-      "price": "~$76,990"
+      "price": "~$76,990",
+      "aspiration": "Electric"
     },
     "Volvo|EC40|2025|Twin Motor Performance": {
       "engine": "Dual Electric Motor Twin Motor Performance",
@@ -1942,7 +2049,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 180,
-      "price": "~$89,990"
+      "price": "~$89,990",
+      "aspiration": "Electric"
     },
     "Volvo|EC40|2026|Single Motor": {
       "engine": "Single Electric Motor Recharge",
@@ -1960,7 +2068,8 @@
       "fx": null,
       "acceleration": 7.4,
       "topSpeed": 160,
-      "price": "~$78,490"
+      "price": "~$78,490",
+      "aspiration": "Electric"
     },
     "Volvo|EC40|2026|Twin Motor Performance": {
       "engine": "Dual Electric Motor Twin Motor Performance",
@@ -1978,7 +2087,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 180,
-      "price": "~$91,490"
+      "price": "~$91,490",
+      "aspiration": "Electric"
     },
     "Audi|Q8 e-tron Sportback|2023|55 quattro": {
       "engine": "Dual Electric Motor quattro",
@@ -1996,7 +2106,8 @@
       "fx": null,
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$139,900"
+      "price": "~$139,900",
+      "aspiration": "Electric"
     },
     "Audi|Q8 e-tron Sportback|2023|60 quattro": {
       "engine": "Dual Electric Motor quattro",
@@ -2014,7 +2125,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 200,
-      "price": "~$154,900"
+      "price": "~$154,900",
+      "aspiration": "Electric"
     },
     "Audi|RS Q8 e-tron|2023|RS Q8 e-tron": {
       "engine": "Dual Electric Motor quattro",
@@ -2032,7 +2144,8 @@
       "fx": null,
       "acceleration": 3.5,
       "topSpeed": 210,
-      "price": "~$199,900"
+      "price": "~$199,900",
+      "aspiration": "Electric"
     },
     "Audi|Q8 e-tron Sportback|2024|55 quattro": {
       "engine": "Dual Electric Motor quattro",
@@ -2050,7 +2163,8 @@
       "fx": null,
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$142,900"
+      "price": "~$142,900",
+      "aspiration": "Electric"
     },
     "Audi|Q8 e-tron Sportback|2024|60 quattro": {
       "engine": "Dual Electric Motor quattro",
@@ -2068,7 +2182,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 200,
-      "price": "~$157,900"
+      "price": "~$157,900",
+      "aspiration": "Electric"
     },
     "Audi|RS Q8 e-tron|2024|RS Q8 e-tron": {
       "engine": "Dual Electric Motor quattro",
@@ -2086,7 +2201,8 @@
       "fx": null,
       "acceleration": 3.5,
       "topSpeed": 210,
-      "price": "~$202,900"
+      "price": "~$202,900",
+      "aspiration": "Electric"
     },
     "Audi|Q8 e-tron Sportback|2025|55 quattro": {
       "engine": "Dual Electric Motor quattro",
@@ -2104,7 +2220,8 @@
       "fx": null,
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$144,900"
+      "price": "~$144,900",
+      "aspiration": "Electric"
     },
     "Audi|Q8 e-tron Sportback|2025|60 quattro": {
       "engine": "Dual Electric Motor quattro",
@@ -2122,7 +2239,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 200,
-      "price": "~$159,900"
+      "price": "~$159,900",
+      "aspiration": "Electric"
     },
     "Audi|RS Q8 e-tron|2025|RS Q8 e-tron": {
       "engine": "Dual Electric Motor quattro",
@@ -2140,7 +2258,8 @@
       "fx": null,
       "acceleration": 3.5,
       "topSpeed": 210,
-      "price": "~$204,900"
+      "price": "~$204,900",
+      "aspiration": "Electric"
     },
     "Audi|Q8 e-tron Sportback|2026|55 quattro": {
       "engine": "Dual Electric Motor quattro",
@@ -2158,7 +2277,8 @@
       "fx": null,
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$146,900"
+      "price": "~$146,900",
+      "aspiration": "Electric"
     },
     "Audi|Q8 e-tron Sportback|2026|60 quattro": {
       "engine": "Dual Electric Motor quattro",
@@ -2176,7 +2296,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 200,
-      "price": "~$161,900"
+      "price": "~$161,900",
+      "aspiration": "Electric"
     },
     "Audi|RS Q8 e-tron|2026|RS Q8 e-tron": {
       "engine": "Dual Electric Motor quattro",
@@ -2194,7 +2315,8 @@
       "fx": null,
       "acceleration": 3.5,
       "topSpeed": 210,
-      "price": "~$206,900"
+      "price": "~$206,900",
+      "aspiration": "Electric"
     },
     "Toyota|Corolla|2022|GR Sport": {
       "engine": "2.0L 4-cyl Dynamic Force Hybrid",
@@ -2212,7 +2334,8 @@
       "fx": null,
       "acceleration": 7.5,
       "topSpeed": 180,
-      "price": "~$41,990"
+      "price": "~$41,990",
+      "aspiration": "NA"
     },
     "Toyota|Corolla|2023|GR Sport": {
       "engine": "2.0L 4-cyl Dynamic Force Hybrid",
@@ -2230,7 +2353,8 @@
       "fx": null,
       "acceleration": 7.5,
       "topSpeed": 180,
-      "price": "~$43,490"
+      "price": "~$43,490",
+      "aspiration": "NA"
     },
     "Toyota|Corolla|2024|GR Sport": {
       "engine": "2.0L 4-cyl Dynamic Force Hybrid",
@@ -2248,7 +2372,8 @@
       "fx": null,
       "acceleration": 7.5,
       "topSpeed": 180,
-      "price": "~$44,490"
+      "price": "~$44,490",
+      "aspiration": "NA"
     },
     "Toyota|Corolla|2025|GR Sport": {
       "engine": "2.0L 4-cyl Dynamic Force Hybrid",
@@ -2266,7 +2391,8 @@
       "fx": null,
       "acceleration": 7.5,
       "topSpeed": 180,
-      "price": "~$45,490"
+      "price": "~$45,490",
+      "aspiration": "NA"
     },
     "Toyota|Corolla|2026|GR Sport": {
       "engine": "2.0L 4-cyl Dynamic Force Hybrid",
@@ -2284,7 +2410,8 @@
       "fx": null,
       "acceleration": 7.5,
       "topSpeed": 180,
-      "price": "~$46,490"
+      "price": "~$46,490",
+      "aspiration": "NA"
     },
     "Porsche|Macan|2024|4 Electric": {
       "engine": "Dual Electric Motor",
@@ -2302,7 +2429,8 @@
       "fx": null,
       "acceleration": 5.2,
       "topSpeed": 220,
-      "price": "~$109,900"
+      "price": "~$109,900",
+      "aspiration": "Electric"
     },
     "Porsche|Macan|2024|4S Electric": {
       "engine": "Dual Electric Motor",
@@ -2320,7 +2448,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 240,
-      "price": "~$134,900"
+      "price": "~$134,900",
+      "aspiration": "Electric"
     },
     "Porsche|Macan|2024|Turbo Electric": {
       "engine": "Dual Electric Motor",
@@ -2338,7 +2467,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 260,
-      "price": "~$159,900"
+      "price": "~$159,900",
+      "aspiration": "Electric"
     },
     "Porsche|Macan|2025|4 Electric": {
       "engine": "Dual Electric Motor",
@@ -2356,7 +2486,8 @@
       "fx": null,
       "acceleration": 5.2,
       "topSpeed": 220,
-      "price": "~$112,900"
+      "price": "~$112,900",
+      "aspiration": "Electric"
     },
     "Porsche|Macan|2025|4S Electric": {
       "engine": "Dual Electric Motor",
@@ -2374,7 +2505,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 240,
-      "price": "~$137,900"
+      "price": "~$137,900",
+      "aspiration": "Electric"
     },
     "Porsche|Macan|2026|4 Electric": {
       "engine": "Dual Electric Motor",
@@ -2392,7 +2524,8 @@
       "fx": null,
       "acceleration": 5.2,
       "topSpeed": 220,
-      "price": "~$114,900"
+      "price": "~$114,900",
+      "aspiration": "Electric"
     },
     "Porsche|Macan|2026|4S Electric": {
       "engine": "Dual Electric Motor",
@@ -2410,7 +2543,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 240,
-      "price": "~$139,900"
+      "price": "~$139,900",
+      "aspiration": "Electric"
     }
   }
 }

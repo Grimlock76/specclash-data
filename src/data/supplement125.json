@@ -16,7 +16,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 270,
-      "price": "~$64,990"
+      "price": "~$64,990",
+      "aspiration": "Turbo"
     },
     "Volkswagen|Golf|2022|R": {
       "engine": "2.0L 4-cyl TSI 4MOTION",
@@ -34,7 +35,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 270,
-      "price": "~$66,490"
+      "price": "~$66,490",
+      "aspiration": "Turbo"
     },
     "Volkswagen|Golf|2023|R": {
       "engine": "2.0L 4-cyl TSI 4MOTION",
@@ -52,7 +54,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 270,
-      "price": "~$67,990"
+      "price": "~$67,990",
+      "aspiration": "Turbo"
     },
     "Volkswagen|Golf|2024|R": {
       "engine": "2.0L 4-cyl TSI 4MOTION",
@@ -70,7 +73,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 270,
-      "price": "~$69,490"
+      "price": "~$69,490",
+      "aspiration": "Turbo"
     },
     "Volkswagen|Golf|2025|R": {
       "engine": "2.0L 4-cyl TSI 4MOTION",
@@ -88,7 +92,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 270,
-      "price": "~$70,990"
+      "price": "~$70,990",
+      "aspiration": "Turbo"
     },
     "Volkswagen|Golf|2026|R": {
       "engine": "2.0L 4-cyl TSI 4MOTION",
@@ -106,7 +111,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 270,
-      "price": "~$72,490"
+      "price": "~$72,490",
+      "aspiration": "Turbo"
     },
     "Volkswagen|Touareg|2021|Touareg R": {
       "engine": "3.0L V6 TSI PHEV 4MOTION",
@@ -125,7 +131,8 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "range": 48,
-      "price": "~$139,990"
+      "price": "~$139,990",
+      "aspiration": "Turbo"
     },
     "Volkswagen|Touareg|2022|Touareg R": {
       "engine": "3.0L V6 TSI PHEV 4MOTION",
@@ -144,7 +151,8 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "range": 48,
-      "price": "~$141,990"
+      "price": "~$141,990",
+      "aspiration": "Turbo"
     },
     "Volkswagen|Touareg|2023|Touareg R": {
       "engine": "3.0L V6 TSI PHEV 4MOTION",
@@ -163,7 +171,8 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "range": 48,
-      "price": "~$143,990"
+      "price": "~$143,990",
+      "aspiration": "Turbo"
     },
     "Volkswagen|Touareg|2024|Touareg R": {
       "engine": "3.0L V6 TSI PHEV 4MOTION",
@@ -182,7 +191,8 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "range": 48,
-      "price": "~$145,990"
+      "price": "~$145,990",
+      "aspiration": "Turbo"
     },
     "Volkswagen|Touareg|2025|Touareg R": {
       "engine": "3.0L V6 TSI PHEV 4MOTION",
@@ -201,7 +211,8 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "range": 48,
-      "price": "~$147,990"
+      "price": "~$147,990",
+      "aspiration": "Turbo"
     },
     "Volkswagen|Touareg|2026|Touareg R": {
       "engine": "3.0L V6 TSI PHEV 4MOTION",
@@ -220,7 +231,8 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "range": 48,
-      "price": "~$149,990"
+      "price": "~$149,990",
+      "aspiration": "Turbo"
     },
     "BMW|X2|2022|M35i": {
       "engine": "2.0L 4-cyl TwinPower Turbo xDrive",
@@ -238,7 +250,8 @@
       "fx": null,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$79,900"
+      "price": "~$79,900",
+      "aspiration": "Turbo"
     },
     "BMW|X2|2023|M35i": {
       "engine": "2.0L 4-cyl TwinPower Turbo xDrive",
@@ -256,7 +269,8 @@
       "fx": null,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$81,900"
+      "price": "~$81,900",
+      "aspiration": "Turbo"
     },
     "BMW|X2|2024|M35i xDrive": {
       "engine": "2.0L 4-cyl TwinPower Turbo M xDrive",
@@ -274,7 +288,8 @@
       "fx": null,
       "acceleration": 5.4,
       "topSpeed": 250,
-      "price": "~$89,900"
+      "price": "~$89,900",
+      "aspiration": "Turbo"
     },
     "BMW|X2|2025|M35i xDrive": {
       "engine": "2.0L 4-cyl TwinPower Turbo M xDrive",
@@ -292,7 +307,8 @@
       "fx": null,
       "acceleration": 5.4,
       "topSpeed": 250,
-      "price": "~$91,900"
+      "price": "~$91,900",
+      "aspiration": "Turbo"
     },
     "BMW|X2|2026|M35i xDrive": {
       "engine": "2.0L 4-cyl TwinPower Turbo M xDrive",
@@ -310,7 +326,8 @@
       "fx": null,
       "acceleration": 5.4,
       "topSpeed": 250,
-      "price": "~$93,900"
+      "price": "~$93,900",
+      "aspiration": "Turbo"
     },
     "Hyundai|Kona N|2022|Kona N": {
       "engine": "2.0L 4-cyl Turbo N",
@@ -328,7 +345,8 @@
       "fx": null,
       "acceleration": 5.5,
       "topSpeed": 240,
-      "price": "~$48,990"
+      "price": "~$48,990",
+      "aspiration": "Turbo"
     },
     "Hyundai|Kona N|2023|Kona N": {
       "engine": "2.0L 4-cyl Turbo N",
@@ -346,7 +364,8 @@
       "fx": null,
       "acceleration": 5.5,
       "topSpeed": 240,
-      "price": "~$50,490"
+      "price": "~$50,490",
+      "aspiration": "Turbo"
     },
     "Hyundai|Kona N|2024|Kona N": {
       "engine": "2.0L 4-cyl Turbo N",
@@ -364,7 +383,8 @@
       "fx": null,
       "acceleration": 5.5,
       "topSpeed": 240,
-      "price": "~$51,990"
+      "price": "~$51,990",
+      "aspiration": "Turbo"
     },
     "Hyundai|Kona N|2025|Kona N": {
       "engine": "2.0L 4-cyl Turbo N",
@@ -382,7 +402,8 @@
       "fx": null,
       "acceleration": 5.5,
       "topSpeed": 240,
-      "price": "~$53,490"
+      "price": "~$53,490",
+      "aspiration": "Turbo"
     },
     "Hyundai|Kona N|2026|Kona N": {
       "engine": "2.0L 4-cyl Turbo N",
@@ -400,7 +421,8 @@
       "fx": null,
       "acceleration": 5.5,
       "topSpeed": 240,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "aspiration": "Turbo"
     },
     "Skoda|Enyaq|2022|60": {
       "engine": "Single Electric Motor",
@@ -418,7 +440,8 @@
       "fx": null,
       "acceleration": 8.7,
       "topSpeed": 160,
-      "price": "~$59,990"
+      "price": "~$59,990",
+      "aspiration": "Electric"
     },
     "Skoda|Enyaq|2022|85": {
       "engine": "Single Electric Motor",
@@ -436,7 +459,8 @@
       "fx": null,
       "acceleration": 8.2,
       "topSpeed": 160,
-      "price": "~$69,990"
+      "price": "~$69,990",
+      "aspiration": "Electric"
     },
     "Skoda|Enyaq|2022|RS": {
       "engine": "Dual Electric Motor RS",
@@ -454,7 +478,8 @@
       "fx": null,
       "acceleration": 5.5,
       "topSpeed": 180,
-      "price": "~$79,990"
+      "price": "~$79,990",
+      "aspiration": "Electric"
     },
     "Skoda|Enyaq|2023|60": {
       "engine": "Single Electric Motor",
@@ -472,7 +497,8 @@
       "fx": null,
       "acceleration": 8.7,
       "topSpeed": 160,
-      "price": "~$61,990"
+      "price": "~$61,990",
+      "aspiration": "Electric"
     },
     "Skoda|Enyaq|2023|85": {
       "engine": "Single Electric Motor",
@@ -490,7 +516,8 @@
       "fx": null,
       "acceleration": 8.2,
       "topSpeed": 160,
-      "price": "~$71,990"
+      "price": "~$71,990",
+      "aspiration": "Electric"
     },
     "Skoda|Enyaq|2023|RS": {
       "engine": "Dual Electric Motor RS",
@@ -508,7 +535,8 @@
       "fx": null,
       "acceleration": 5.5,
       "topSpeed": 180,
-      "price": "~$81,990"
+      "price": "~$81,990",
+      "aspiration": "Electric"
     },
     "Skoda|Enyaq|2024|60": {
       "engine": "Single Electric Motor",
@@ -526,7 +554,8 @@
       "fx": null,
       "acceleration": 8.7,
       "topSpeed": 160,
-      "price": "~$63,990"
+      "price": "~$63,990",
+      "aspiration": "Electric"
     },
     "Skoda|Enyaq|2024|85": {
       "engine": "Single Electric Motor",
@@ -544,7 +573,8 @@
       "fx": null,
       "acceleration": 8.2,
       "topSpeed": 160,
-      "price": "~$73,990"
+      "price": "~$73,990",
+      "aspiration": "Electric"
     },
     "Skoda|Enyaq|2024|RS": {
       "engine": "Dual Electric Motor RS",
@@ -562,7 +592,8 @@
       "fx": null,
       "acceleration": 5.5,
       "topSpeed": 180,
-      "price": "~$83,990"
+      "price": "~$83,990",
+      "aspiration": "Electric"
     },
     "Skoda|Enyaq|2025|60": {
       "engine": "Single Electric Motor",
@@ -580,7 +611,8 @@
       "fx": null,
       "acceleration": 8.7,
       "topSpeed": 160,
-      "price": "~$65,990"
+      "price": "~$65,990",
+      "aspiration": "Electric"
     },
     "Skoda|Enyaq|2025|85": {
       "engine": "Single Electric Motor",
@@ -598,7 +630,8 @@
       "fx": null,
       "acceleration": 8.2,
       "topSpeed": 160,
-      "price": "~$75,990"
+      "price": "~$75,990",
+      "aspiration": "Electric"
     },
     "Skoda|Enyaq|2025|RS": {
       "engine": "Dual Electric Motor RS",
@@ -616,7 +649,8 @@
       "fx": null,
       "acceleration": 5.5,
       "topSpeed": 180,
-      "price": "~$85,990"
+      "price": "~$85,990",
+      "aspiration": "Electric"
     },
     "Skoda|Enyaq|2026|60": {
       "engine": "Single Electric Motor",
@@ -634,7 +668,8 @@
       "fx": null,
       "acceleration": 8.7,
       "topSpeed": 160,
-      "price": "~$67,990"
+      "price": "~$67,990",
+      "aspiration": "Electric"
     },
     "Skoda|Enyaq|2026|85": {
       "engine": "Single Electric Motor",
@@ -652,7 +687,8 @@
       "fx": null,
       "acceleration": 8.2,
       "topSpeed": 160,
-      "price": "~$77,990"
+      "price": "~$77,990",
+      "aspiration": "Electric"
     },
     "Skoda|Enyaq|2026|RS": {
       "engine": "Dual Electric Motor RS",
@@ -670,7 +706,8 @@
       "fx": null,
       "acceleration": 5.5,
       "topSpeed": 180,
-      "price": "~$87,990"
+      "price": "~$87,990",
+      "aspiration": "Electric"
     },
     "Honda|Jazz|2021|e:HEV Vibe": {
       "engine": "1.5L 4-cyl e:HEV Hybrid",
@@ -688,7 +725,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$29,990"
+      "price": "~$29,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2021|e:HEV Luxe": {
       "engine": "1.5L 4-cyl e:HEV Hybrid",
@@ -706,7 +744,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$33,990"
+      "price": "~$33,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2022|e:HEV Vibe": {
       "engine": "1.5L 4-cyl e:HEV Hybrid",
@@ -724,7 +763,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$30,990"
+      "price": "~$30,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2022|e:HEV Luxe": {
       "engine": "1.5L 4-cyl e:HEV Hybrid",
@@ -742,7 +782,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$34,990"
+      "price": "~$34,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2023|e:HEV Vibe": {
       "engine": "1.5L 4-cyl e:HEV Hybrid",
@@ -760,7 +801,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$31,990"
+      "price": "~$31,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2023|e:HEV Luxe": {
       "engine": "1.5L 4-cyl e:HEV Hybrid",
@@ -778,7 +820,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$35,990"
+      "price": "~$35,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2024|e:HEV Vibe": {
       "engine": "1.5L 4-cyl e:HEV Hybrid",
@@ -796,7 +839,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$32,990"
+      "price": "~$32,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2024|e:HEV Luxe": {
       "engine": "1.5L 4-cyl e:HEV Hybrid",
@@ -814,7 +858,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$36,990"
+      "price": "~$36,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2025|e:HEV Vibe": {
       "engine": "1.5L 4-cyl e:HEV Hybrid",
@@ -832,7 +877,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$33,990"
+      "price": "~$33,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2025|e:HEV Luxe": {
       "engine": "1.5L 4-cyl e:HEV Hybrid",
@@ -850,7 +896,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$37,990"
+      "price": "~$37,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2026|e:HEV Vibe": {
       "engine": "1.5L 4-cyl e:HEV Hybrid",
@@ -868,7 +915,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$34,990"
+      "price": "~$34,990",
+      "aspiration": "NA"
     },
     "Honda|Jazz|2026|e:HEV Luxe": {
       "engine": "1.5L 4-cyl e:HEV Hybrid",
@@ -886,7 +934,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$38,990"
+      "price": "~$38,990",
+      "aspiration": "NA"
     },
     "Lexus|LM|2023|LM 300h": {
       "engine": "2.5L 4-cyl Hybrid",
@@ -904,7 +953,8 @@
       "fx": null,
       "acceleration": 10,
       "topSpeed": 175,
-      "price": "~$199,990"
+      "price": "~$199,990",
+      "aspiration": "NA"
     },
     "Lexus|LM|2023|LM 500h": {
       "engine": "2.4L 4-cyl Turbo Hybrid AWD",
@@ -922,7 +972,8 @@
       "fx": null,
       "acceleration": 6.4,
       "topSpeed": 180,
-      "price": "~$249,990"
+      "price": "~$249,990",
+      "aspiration": "Turbo"
     },
     "Lexus|LM|2024|LM 300h": {
       "engine": "2.5L 4-cyl Hybrid",
@@ -940,7 +991,8 @@
       "fx": null,
       "acceleration": 10,
       "topSpeed": 175,
-      "price": "~$204,990"
+      "price": "~$204,990",
+      "aspiration": "NA"
     },
     "Lexus|LM|2024|LM 500h": {
       "engine": "2.4L 4-cyl Turbo Hybrid AWD",
@@ -958,7 +1010,8 @@
       "fx": null,
       "acceleration": 6.4,
       "topSpeed": 180,
-      "price": "~$254,990"
+      "price": "~$254,990",
+      "aspiration": "Turbo"
     },
     "Lexus|LM|2025|LM 300h": {
       "engine": "2.5L 4-cyl Hybrid",
@@ -976,7 +1029,8 @@
       "fx": null,
       "acceleration": 10,
       "topSpeed": 175,
-      "price": "~$207,990"
+      "price": "~$207,990",
+      "aspiration": "NA"
     },
     "Lexus|LM|2025|LM 500h": {
       "engine": "2.4L 4-cyl Turbo Hybrid AWD",
@@ -994,7 +1048,8 @@
       "fx": null,
       "acceleration": 6.4,
       "topSpeed": 180,
-      "price": "~$257,990"
+      "price": "~$257,990",
+      "aspiration": "Turbo"
     },
     "Lexus|LM|2026|LM 300h": {
       "engine": "2.5L 4-cyl Hybrid",
@@ -1012,7 +1067,8 @@
       "fx": null,
       "acceleration": 10,
       "topSpeed": 175,
-      "price": "~$210,990"
+      "price": "~$210,990",
+      "aspiration": "NA"
     },
     "Lexus|LM|2026|LM 500h": {
       "engine": "2.4L 4-cyl Turbo Hybrid AWD",
@@ -1030,7 +1086,8 @@
       "fx": null,
       "acceleration": 6.4,
       "topSpeed": 180,
-      "price": "~$260,990"
+      "price": "~$260,990",
+      "aspiration": "Turbo"
     },
     "Audi|Q8 e-tron|2023|SQ8": {
       "engine": "Tri Electric Motor SQ8 quattro",
@@ -1048,7 +1105,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 210,
-      "price": "~$194,900"
+      "price": "~$194,900",
+      "aspiration": "Electric"
     },
     "Audi|Q8 e-tron|2024|SQ8": {
       "engine": "Tri Electric Motor SQ8 quattro",
@@ -1066,7 +1124,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 210,
-      "price": "~$199,900"
+      "price": "~$199,900",
+      "aspiration": "Electric"
     },
     "Audi|Q8 e-tron|2025|SQ8": {
       "engine": "Tri Electric Motor SQ8 quattro",
@@ -1084,7 +1143,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 210,
-      "price": "~$202,900"
+      "price": "~$202,900",
+      "aspiration": "Electric"
     },
     "Audi|Q8 e-tron|2026|SQ8": {
       "engine": "Tri Electric Motor SQ8 quattro",
@@ -1102,7 +1162,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 210,
-      "price": "~$205,900"
+      "price": "~$205,900",
+      "aspiration": "Electric"
     },
     "Toyota|C-HR|2024|GX Hybrid": {
       "engine": "1.8L 4-cyl Hybrid",
@@ -1120,7 +1181,8 @@
       "fx": null,
       "acceleration": 9,
       "topSpeed": 180,
-      "price": "~$39,990"
+      "price": "~$39,990",
+      "aspiration": "NA"
     },
     "Toyota|C-HR|2024|GXL Hybrid": {
       "engine": "1.8L 4-cyl Hybrid",
@@ -1138,7 +1200,8 @@
       "fx": null,
       "acceleration": 9,
       "topSpeed": 180,
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "aspiration": "NA"
     },
     "Toyota|C-HR|2024|GXL PHEV": {
       "engine": "2.0L 4-cyl PHEV",
@@ -1157,7 +1220,8 @@
       "acceleration": 7.2,
       "topSpeed": 160,
       "range": 66,
-      "price": "~$49,990"
+      "price": "~$49,990",
+      "aspiration": "NA"
     },
     "Toyota|C-HR|2024|Koba PHEV": {
       "engine": "2.0L 4-cyl PHEV",
@@ -1176,7 +1240,8 @@
       "acceleration": 7.2,
       "topSpeed": 160,
       "range": 66,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "aspiration": "NA"
     },
     "Toyota|C-HR|2025|GX Hybrid": {
       "engine": "1.8L 4-cyl Hybrid",
@@ -1194,7 +1259,8 @@
       "fx": null,
       "acceleration": 9,
       "topSpeed": 180,
-      "price": "~$41,490"
+      "price": "~$41,490",
+      "aspiration": "NA"
     },
     "Toyota|C-HR|2025|GXL Hybrid": {
       "engine": "1.8L 4-cyl Hybrid",
@@ -1212,7 +1278,8 @@
       "fx": null,
       "acceleration": 9,
       "topSpeed": 180,
-      "price": "~$46,490"
+      "price": "~$46,490",
+      "aspiration": "NA"
     },
     "Toyota|C-HR|2025|GXL PHEV": {
       "engine": "2.0L 4-cyl PHEV",
@@ -1231,7 +1298,8 @@
       "acceleration": 7.2,
       "topSpeed": 160,
       "range": 66,
-      "price": "~$51,490"
+      "price": "~$51,490",
+      "aspiration": "NA"
     },
     "Toyota|C-HR|2025|Koba PHEV": {
       "engine": "2.0L 4-cyl PHEV",
@@ -1250,7 +1318,8 @@
       "acceleration": 7.2,
       "topSpeed": 160,
       "range": 66,
-      "price": "~$56,490"
+      "price": "~$56,490",
+      "aspiration": "NA"
     },
     "Toyota|C-HR|2026|GX Hybrid": {
       "engine": "1.8L 4-cyl Hybrid",
@@ -1268,7 +1337,8 @@
       "fx": null,
       "acceleration": 9,
       "topSpeed": 180,
-      "price": "~$42,990"
+      "price": "~$42,990",
+      "aspiration": "NA"
     },
     "Toyota|C-HR|2026|GXL Hybrid": {
       "engine": "1.8L 4-cyl Hybrid",
@@ -1286,7 +1356,8 @@
       "fx": null,
       "acceleration": 9,
       "topSpeed": 180,
-      "price": "~$47,990"
+      "price": "~$47,990",
+      "aspiration": "NA"
     },
     "Toyota|C-HR|2026|GXL PHEV": {
       "engine": "2.0L 4-cyl PHEV",
@@ -1305,7 +1376,8 @@
       "acceleration": 7.2,
       "topSpeed": 160,
       "range": 66,
-      "price": "~$52,990"
+      "price": "~$52,990",
+      "aspiration": "NA"
     },
     "Toyota|C-HR|2026|Koba PHEV": {
       "engine": "2.0L 4-cyl PHEV",
@@ -1324,7 +1396,8 @@
       "acceleration": 7.2,
       "topSpeed": 160,
       "range": 66,
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "aspiration": "NA"
     },
     "Nissan|Qashqai|2023|ST e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1342,7 +1415,8 @@
       "fx": null,
       "acceleration": 7.6,
       "topSpeed": 170,
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "aspiration": "Turbo"
     },
     "Nissan|Qashqai|2023|ST-L e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1360,7 +1434,8 @@
       "fx": null,
       "acceleration": 7.6,
       "topSpeed": 170,
-      "price": "~$49,990"
+      "price": "~$49,990",
+      "aspiration": "Turbo"
     },
     "Nissan|Qashqai|2023|Ti e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1378,7 +1453,8 @@
       "fx": null,
       "acceleration": 7.6,
       "topSpeed": 170,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "aspiration": "Turbo"
     },
     "Nissan|Qashqai|2024|ST e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1396,7 +1472,8 @@
       "fx": null,
       "acceleration": 7.6,
       "topSpeed": 170,
-      "price": "~$46,490"
+      "price": "~$46,490",
+      "aspiration": "Turbo"
     },
     "Nissan|Qashqai|2024|ST-L e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1414,7 +1491,8 @@
       "fx": null,
       "acceleration": 7.6,
       "topSpeed": 170,
-      "price": "~$51,490"
+      "price": "~$51,490",
+      "aspiration": "Turbo"
     },
     "Nissan|Qashqai|2024|Ti e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1432,7 +1510,8 @@
       "fx": null,
       "acceleration": 7.6,
       "topSpeed": 170,
-      "price": "~$56,490"
+      "price": "~$56,490",
+      "aspiration": "Turbo"
     },
     "Nissan|Qashqai|2025|ST e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1450,7 +1529,8 @@
       "fx": null,
       "acceleration": 7.6,
       "topSpeed": 170,
-      "price": "~$47,990"
+      "price": "~$47,990",
+      "aspiration": "Turbo"
     },
     "Nissan|Qashqai|2025|ST-L e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1468,7 +1548,8 @@
       "fx": null,
       "acceleration": 7.6,
       "topSpeed": 170,
-      "price": "~$52,990"
+      "price": "~$52,990",
+      "aspiration": "Turbo"
     },
     "Nissan|Qashqai|2025|Ti e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1486,7 +1567,8 @@
       "fx": null,
       "acceleration": 7.6,
       "topSpeed": 170,
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "aspiration": "Turbo"
     },
     "Nissan|Qashqai|2026|ST e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1504,7 +1586,8 @@
       "fx": null,
       "acceleration": 7.6,
       "topSpeed": 170,
-      "price": "~$49,490"
+      "price": "~$49,490",
+      "aspiration": "Turbo"
     },
     "Nissan|Qashqai|2026|ST-L e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1522,7 +1605,8 @@
       "fx": null,
       "acceleration": 7.6,
       "topSpeed": 170,
-      "price": "~$54,490"
+      "price": "~$54,490",
+      "aspiration": "Turbo"
     },
     "Nissan|Qashqai|2026|Ti e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1540,7 +1624,8 @@
       "fx": null,
       "acceleration": 7.6,
       "topSpeed": 170,
-      "price": "~$59,490"
+      "price": "~$59,490",
+      "aspiration": "Turbo"
     },
     "Nissan|Leaf|2022|e+": {
       "engine": "Single Electric Motor e+",
@@ -1558,7 +1643,8 @@
       "fx": null,
       "acceleration": 6.5,
       "topSpeed": 157,
-      "price": "~$58,990"
+      "price": "~$58,990",
+      "aspiration": "Electric"
     },
     "Nissan|Leaf|2023|e+": {
       "engine": "Single Electric Motor e+",
@@ -1576,7 +1662,8 @@
       "fx": null,
       "acceleration": 6.5,
       "topSpeed": 157,
-      "price": "~$60,490"
+      "price": "~$60,490",
+      "aspiration": "Electric"
     },
     "Nissan|Leaf|2024|e+": {
       "engine": "Single Electric Motor e+",
@@ -1594,7 +1681,8 @@
       "fx": null,
       "acceleration": 6.5,
       "topSpeed": 157,
-      "price": "~$61,990"
+      "price": "~$61,990",
+      "aspiration": "Electric"
     },
     "Nissan|Leaf|2025|e+": {
       "engine": "Single Electric Motor e+",
@@ -1612,7 +1700,8 @@
       "fx": null,
       "acceleration": 6.5,
       "topSpeed": 157,
-      "price": "~$63,490"
+      "price": "~$63,490",
+      "aspiration": "Electric"
     },
     "Nissan|Leaf|2026|e+": {
       "engine": "Single Electric Motor e+",
@@ -1630,7 +1719,8 @@
       "fx": null,
       "acceleration": 6.5,
       "topSpeed": 157,
-      "price": "~$64,990"
+      "price": "~$64,990",
+      "aspiration": "Electric"
     }
   }
 }

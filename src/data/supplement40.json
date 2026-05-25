@@ -19,7 +19,8 @@
       "price": "~$49,990",
       "cargo": 385,
       "acceleration": 10,
-      "topSpeed": 150
+      "topSpeed": 150,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.3|2021|Pro": {
       "engine": "AC Motor (Rear) 150kW",
@@ -40,7 +41,8 @@
       "price": "~$59,990",
       "cargo": 385,
       "acceleration": 7.3,
-      "topSpeed": 160
+      "topSpeed": 160,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.3|2021|Pro S": {
       "engine": "AC Motor (Rear) 150kW",
@@ -61,7 +63,8 @@
       "price": "~$69,990",
       "cargo": 385,
       "acceleration": 7.9,
-      "topSpeed": 160
+      "topSpeed": 160,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.3|2022|Pure": {
       "engine": "AC Motor (Rear) 110kW",
@@ -82,7 +85,8 @@
       "price": "~$51,490",
       "cargo": 385,
       "acceleration": 10,
-      "topSpeed": 150
+      "topSpeed": 150,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.3|2022|Pro": {
       "engine": "AC Motor (Rear) 150kW",
@@ -103,7 +107,8 @@
       "price": "~$61,490",
       "cargo": 385,
       "acceleration": 7.3,
-      "topSpeed": 160
+      "topSpeed": 160,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.3|2022|Pro S": {
       "engine": "AC Motor (Rear) 150kW",
@@ -124,7 +129,8 @@
       "price": "~$71,490",
       "cargo": 385,
       "acceleration": 7.9,
-      "topSpeed": 160
+      "topSpeed": 160,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.3|2023|Pure": {
       "engine": "AC Motor (Rear) 110kW",
@@ -145,7 +151,8 @@
       "price": "~$52,990",
       "cargo": 385,
       "acceleration": 10,
-      "topSpeed": 150
+      "topSpeed": 150,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.3|2023|Pro": {
       "engine": "AC Motor (Rear) 150kW",
@@ -166,7 +173,8 @@
       "price": "~$62,990",
       "cargo": 385,
       "acceleration": 7.3,
-      "topSpeed": 160
+      "topSpeed": 160,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.3|2023|Pro S": {
       "engine": "AC Motor (Rear) 150kW",
@@ -187,7 +195,8 @@
       "price": "~$72,990",
       "cargo": 385,
       "acceleration": 7.9,
-      "topSpeed": 160
+      "topSpeed": 160,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.3|2024|Pro": {
       "engine": "AC Motor (Rear) 150kW",
@@ -208,7 +217,8 @@
       "price": "~$54,990",
       "cargo": 385,
       "acceleration": 7.3,
-      "topSpeed": 160
+      "topSpeed": 160,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.3|2024|Pro S": {
       "engine": "AC Motor (Rear) 210kW — GTX variant",
@@ -229,7 +239,8 @@
       "price": "~$71,990",
       "cargo": 385,
       "acceleration": 7.9,
-      "topSpeed": 160
+      "topSpeed": 160,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.3|2025|Pro": {
       "engine": "AC Motor (Rear) 150kW",
@@ -250,7 +261,8 @@
       "price": "~$56,490",
       "cargo": 385,
       "acceleration": 7.3,
-      "topSpeed": 160
+      "topSpeed": 160,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.3|2025|Pro S": {
       "engine": "AC Motor (Rear) 210kW — GTX variant",
@@ -271,7 +283,8 @@
       "price": "~$73,490",
       "cargo": 385,
       "acceleration": 7.9,
-      "topSpeed": 160
+      "topSpeed": 160,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.3|2026|Pro": {
       "engine": "AC Motor (Rear) 150kW",
@@ -292,7 +305,8 @@
       "price": "~$57,990",
       "cargo": 385,
       "acceleration": 7.3,
-      "topSpeed": 160
+      "topSpeed": 160,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.3|2026|Pro S": {
       "engine": "AC Motor (Rear) 210kW — GTX variant",
@@ -313,7 +327,8 @@
       "price": "~$74,990",
       "cargo": 385,
       "acceleration": 7.9,
-      "topSpeed": 160
+      "topSpeed": 160,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.5|2022|Pro": {
       "engine": "AC Motor (Rear) 150kW",
@@ -334,7 +349,8 @@
       "price": "~$74,990",
       "cargo": 549,
       "acceleration": 8.4,
-      "topSpeed": 160
+      "topSpeed": 160,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.5|2022|GTX": {
       "engine": "Dual AC Motors AWD — 220kW combined",
@@ -355,7 +371,8 @@
       "price": "~$88,990",
       "cargo": 549,
       "acceleration": 6.3,
-      "topSpeed": 180
+      "topSpeed": 180,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.5|2023|Pro": {
       "engine": "AC Motor (Rear) 150kW",
@@ -376,7 +393,8 @@
       "price": "~$76,490",
       "cargo": 549,
       "acceleration": 8.4,
-      "topSpeed": 160
+      "topSpeed": 160,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.5|2023|GTX": {
       "engine": "Dual AC Motors AWD — 220kW combined",
@@ -397,7 +415,8 @@
       "price": "~$90,490",
       "cargo": 549,
       "acceleration": 6.3,
-      "topSpeed": 180
+      "topSpeed": 180,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.5|2024|Pro": {
       "engine": "AC Motor (Rear) 150kW",
@@ -418,7 +437,8 @@
       "price": "~$77,990",
       "cargo": 549,
       "acceleration": 8.4,
-      "topSpeed": 160
+      "topSpeed": 160,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.5|2024|GTX": {
       "engine": "Dual AC Motors AWD — 220kW combined",
@@ -439,7 +459,8 @@
       "price": "~$91,990",
       "cargo": 549,
       "acceleration": 6.3,
-      "topSpeed": 180
+      "topSpeed": 180,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.5|2025|Pro": {
       "engine": "AC Motor (Rear) 150kW",
@@ -460,7 +481,8 @@
       "price": "~$79,490",
       "cargo": 549,
       "acceleration": 8.4,
-      "topSpeed": 160
+      "topSpeed": 160,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.5|2025|GTX": {
       "engine": "Dual AC Motors AWD — 220kW combined",
@@ -481,7 +503,8 @@
       "price": "~$93,490",
       "cargo": 549,
       "acceleration": 6.3,
-      "topSpeed": 180
+      "topSpeed": 180,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.5|2026|Pro": {
       "engine": "AC Motor (Rear) 150kW",
@@ -502,7 +525,8 @@
       "price": "~$80,990",
       "cargo": 549,
       "acceleration": 8.4,
-      "topSpeed": 160
+      "topSpeed": 160,
+      "aspiration": "Electric"
     },
     "Volkswagen|ID.5|2026|GTX": {
       "engine": "Dual AC Motors AWD — 220kW combined",
@@ -523,7 +547,8 @@
       "price": "~$94,990",
       "cargo": 549,
       "acceleration": 6.3,
-      "topSpeed": 180
+      "topSpeed": 180,
+      "aspiration": "Electric"
     }
   }
 }

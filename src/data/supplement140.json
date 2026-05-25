@@ -16,7 +16,8 @@
       "fx": 9.9,
       "acceleration": 10.5,
       "topSpeed": 195,
-      "price": "~$51,990"
+      "price": "~$51,990",
+      "aspiration": "NA"
     },
     "Volvo|XC40|2023|B5": {
       "engine": "2.0L I4 Mild Hybrid",
@@ -34,7 +35,8 @@
       "fx": 11.6,
       "acceleration": 6.4,
       "topSpeed": 210,
-      "price": "~$58,990"
+      "price": "~$58,990",
+      "aspiration": "NA"
     },
     "Volvo|XC40|2023|Recharge P8": {
       "engine": "Dual Motor Electric",
@@ -52,7 +54,8 @@
       "fx": null,
       "acceleration": 4.9,
       "topSpeed": 180,
-      "price": "~$76,990"
+      "price": "~$76,990",
+      "aspiration": "Electric"
     },
     "Volvo|XC40|2026|B4": {
       "engine": "2.0L I4 Mild Hybrid",
@@ -70,7 +73,8 @@
       "fx": 10.4,
       "acceleration": 8.9,
       "topSpeed": 200,
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "aspiration": "NA"
     },
     "Volvo|XC40|2026|Recharge": {
       "engine": "Single Motor Electric",
@@ -88,7 +92,8 @@
       "fx": null,
       "acceleration": 7.4,
       "topSpeed": 160,
-      "price": "~$72,990"
+      "price": "~$72,990",
+      "aspiration": "Electric"
     },
     "Land Rover|Defender|2023|90 S": {
       "engine": "2.0L I4 P300 Ingenium",
@@ -106,7 +111,8 @@
       "fx": 14.5,
       "acceleration": 6.1,
       "topSpeed": 191,
-      "price": "~$82,990"
+      "price": "~$82,990",
+      "aspiration": "NA"
     },
     "Land Rover|Defender|2023|110 S": {
       "engine": "2.0L I4 P300 Ingenium",
@@ -124,7 +130,8 @@
       "fx": 15.3,
       "acceleration": 6.5,
       "topSpeed": 191,
-      "price": "~$86,990"
+      "price": "~$86,990",
+      "aspiration": "NA"
     },
     "Land Rover|Defender|2023|110 P400": {
       "engine": "3.0L I6 P400 Mild Hybrid",
@@ -142,7 +149,8 @@
       "fx": 15.3,
       "acceleration": 5.4,
       "topSpeed": 191,
-      "price": "~$122,990"
+      "price": "~$122,990",
+      "aspiration": "NA"
     },
     "Land Rover|Defender|2023|110 V8": {
       "engine": "5.0L V8 P525 Supercharged",
@@ -160,7 +168,8 @@
       "fx": 23.4,
       "acceleration": 5.4,
       "topSpeed": 240,
-      "price": "~$174,990"
+      "price": "~$174,990",
+      "aspiration": "Supercharged"
     },
     "Suzuki|Vitara|2026|GL": {
       "engine": "1.4L I4 Boosterjet Mild Hybrid",
@@ -178,7 +187,8 @@
       "power": 95,
       "torque": 220,
       "weight": 1115,
-      "price": "~$28,990"
+      "price": "~$28,990",
+      "aspiration": "NA"
     },
     "Suzuki|Vitara|2026|GLX": {
       "engine": "1.4L I4 Boosterjet Mild Hybrid",
@@ -196,7 +206,8 @@
       "power": 95,
       "torque": 220,
       "weight": 1125,
-      "price": "~$33,990"
+      "price": "~$33,990",
+      "aspiration": "NA"
     },
     "Suzuki|Vitara|2026|GLX Turbo": {
       "engine": "1.4L I4 Boosterjet Mild Hybrid",
@@ -214,7 +225,8 @@
       "power": 103,
       "torque": 220,
       "weight": 1180,
-      "price": "~$39,990"
+      "price": "~$39,990",
+      "aspiration": "NA"
     },
     "GWM|Ute|2026|Standard": {
       "engine": "2.0L I4 Turbo Diesel",
@@ -232,7 +244,8 @@
       "fc": 8.8,
       "fh": 6.8,
       "fx": 11.7,
-      "price": "~$34,990"
+      "price": "~$34,990",
+      "aspiration": "Turbo"
     },
     "GWM|Ute|2026|Premium": {
       "engine": "2.0L I4 Turbo Diesel",
@@ -250,7 +263,8 @@
       "fc": 8.8,
       "fh": 6.8,
       "fx": 11.7,
-      "price": "~$39,990"
+      "price": "~$39,990",
+      "aspiration": "Turbo"
     },
     "GWM|Ute|2026|Cannon-L": {
       "engine": "2.0L I4 Turbo Diesel",
@@ -268,7 +282,8 @@
       "fc": 9.3,
       "fh": 7.2,
       "fx": 12.3,
-      "price": "~$43,990"
+      "price": "~$43,990",
+      "aspiration": "Turbo"
     },
     "Jeep|Wrangler|2023|Sahara": {
       "engine": "3.6L V6 Pentastar",
@@ -286,7 +301,8 @@
       "fx": 18.6,
       "acceleration": 8.7,
       "topSpeed": 182,
-      "price": "~$61,990"
+      "price": "~$61,990",
+      "aspiration": "NA"
     },
     "Jeep|Wrangler|2023|Sport S": {
       "engine": "3.6L V6 Pentastar",
@@ -304,7 +320,8 @@
       "fx": 18.3,
       "acceleration": 8.5,
       "topSpeed": 183,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "aspiration": "NA"
     },
     "Jeep|Wrangler|2023|Rubicon 392": {
       "engine": "6.4L HEMI V8",
@@ -322,7 +339,8 @@
       "fx": 27.6,
       "acceleration": 6.7,
       "topSpeed": 190,
-      "price": "~$112,990"
+      "price": "~$112,990",
+      "aspiration": "NA"
     },
     "Jeep|Wrangler|2024|Sahara": {
       "engine": "3.6L V6 Pentastar",
@@ -340,7 +358,8 @@
       "fx": 18.6,
       "acceleration": 8.7,
       "topSpeed": 182,
-      "price": "~$63,990"
+      "price": "~$63,990",
+      "aspiration": "NA"
     },
     "Jeep|Wrangler|2024|Sport S": {
       "engine": "3.6L V6 Pentastar",
@@ -358,7 +377,8 @@
       "fx": 18.3,
       "acceleration": 8.5,
       "topSpeed": 183,
-      "price": "~$56,990"
+      "price": "~$56,990",
+      "aspiration": "NA"
     },
     "Jeep|Wrangler|2024|Rubicon 392": {
       "engine": "6.4L HEMI V8",
@@ -376,7 +396,8 @@
       "fx": 27.6,
       "acceleration": 6.7,
       "topSpeed": 190,
-      "price": "~$114,990"
+      "price": "~$114,990",
+      "aspiration": "NA"
     },
     "Suzuki|Grand Vitara|2026|GL": {
       "engine": "1.5L I4 Mild Hybrid",
@@ -394,7 +415,8 @@
       "fx": 7.5,
       "acceleration": 12.5,
       "topSpeed": 170,
-      "price": "~$34,990"
+      "price": "~$34,990",
+      "aspiration": "NA"
     },
     "Suzuki|Grand Vitara|2026|GLX": {
       "engine": "1.5L I4 Mild Hybrid",
@@ -412,7 +434,8 @@
       "fx": 7.8,
       "acceleration": 12.8,
       "topSpeed": 165,
-      "price": "~$39,990"
+      "price": "~$39,990",
+      "aspiration": "NA"
     },
     "Volvo|S90|2026|B5": {
       "engine": "2.0L I4 Mild Hybrid",
@@ -430,7 +453,8 @@
       "fx": 11,
       "acceleration": 7.4,
       "topSpeed": 230,
-      "price": "~$79,990"
+      "price": "~$79,990",
+      "aspiration": "NA"
     },
     "Volvo|S90|2026|T8 Recharge": {
       "engine": "2.0L I4 PHEV",
@@ -448,7 +472,8 @@
       "fx": 2,
       "acceleration": 4.5,
       "topSpeed": 250,
-      "price": "~$101,990"
+      "price": "~$101,990",
+      "aspiration": "Turbo"
     },
     "Volvo|XC90|2026|B5": {
       "engine": "2.0L I4 Mild Hybrid",
@@ -466,7 +491,8 @@
       "fx": 12.7,
       "acceleration": 7.7,
       "topSpeed": 210,
-      "price": "~$92,990"
+      "price": "~$92,990",
+      "aspiration": "NA"
     },
     "Volvo|XC90|2026|T8 Recharge": {
       "engine": "2.0L I4 PHEV",
@@ -484,7 +510,8 @@
       "fx": 2.3,
       "acceleration": 5.3,
       "topSpeed": 230,
-      "price": "~$109,990"
+      "price": "~$109,990",
+      "aspiration": "Turbo"
     },
     "Volvo|C40 Recharge|2024|Single Motor": {
       "engine": "Single Motor Electric",
@@ -502,7 +529,8 @@
       "fx": null,
       "acceleration": 7.4,
       "topSpeed": 160,
-      "price": "~$67,990"
+      "price": "~$67,990",
+      "aspiration": "Electric"
     },
     "Volvo|C40 Recharge|2026|Twin Motor": {
       "engine": "Dual Motor Electric",
@@ -520,7 +548,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 200,
-      "price": "~$80,990"
+      "price": "~$80,990",
+      "aspiration": "Electric"
     },
     "MG|ZS EV|2026|Long Range": {
       "engine": "Single Motor Electric",
@@ -538,7 +567,8 @@
       "fx": null,
       "acceleration": 7.9,
       "topSpeed": 175,
-      "price": "~$43,990"
+      "price": "~$43,990",
+      "aspiration": "Electric"
     },
     "MG|ZS EV|2026|Standard Range": {
       "engine": "Single Motor Electric",
@@ -556,7 +586,8 @@
       "fx": null,
       "acceleration": 8.2,
       "topSpeed": 160,
-      "price": "~$38,990"
+      "price": "~$38,990",
+      "aspiration": "Electric"
     },
     "Genesis|G80|2023|2.5T": {
       "engine": "2.5L I4 Twin Scroll Turbo",
@@ -574,7 +605,8 @@
       "fx": 14,
       "acceleration": 6,
       "topSpeed": 240,
-      "price": "~$79,900"
+      "price": "~$79,900",
+      "aspiration": "Turbo"
     },
     "Genesis|G80|2023|3.5T": {
       "engine": "3.5L V6 Twin Turbo",
@@ -592,7 +624,8 @@
       "fx": 15.7,
       "acceleration": 4.9,
       "topSpeed": 270,
-      "price": "~$95,900"
+      "price": "~$95,900",
+      "aspiration": "Turbo"
     }
   }
 }

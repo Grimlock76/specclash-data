@@ -11,7 +11,8 @@
       "ft": "Petrol",
       "wt": "1810 kg",
       "se": "6",
-      "pr": "$2,590"
+      "pr": "$2,590",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|1962|Base": {
       "en": "4.6L V8 OHV",
@@ -24,7 +25,8 @@
       "ft": "Petrol",
       "wt": "1800 kg",
       "se": "6",
-      "pr": "$2,669"
+      "pr": "$2,669",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|1966|Base": {
       "en": "5.4L V8 OHV",
@@ -37,7 +39,8 @@
       "ft": "Petrol",
       "wt": "1900 kg",
       "se": "6",
-      "pr": "$2,849"
+      "pr": "$2,849",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|1970|Base": {
       "en": "5.7L V8 OHV",
@@ -50,7 +53,8 @@
       "ft": "Petrol",
       "wt": "2000 kg",
       "se": "6",
-      "pr": "$3,196"
+      "pr": "$3,196",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|1974|Base": {
       "en": "5.7L V8 OHV",
@@ -66,7 +70,8 @@
       "pr": "$3,963",
       "fc": "22.0",
       "fh": "14.5",
-      "fx": "19.0"
+      "fx": "19.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|1978|Base": {
       "en": "5.0L V8 OHV",
@@ -82,7 +87,8 @@
       "pr": "$5,127",
       "fc": "20.5",
       "fh": "13.5",
-      "fx": "17.5"
+      "fx": "17.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|1982|Base": {
       "en": "4.4L V8 OHV",
@@ -98,7 +104,8 @@
       "pr": "$8,330",
       "fc": "18.0",
       "fh": "12.0",
-      "fx": "15.5"
+      "fx": "15.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|1985|Base": {
       "en": "5.0L V8 OHV",
@@ -114,7 +121,8 @@
       "pr": "$9,525",
       "fc": "18.5",
       "fh": "12.5",
-      "fx": "16.0"
+      "fx": "16.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|1958|SS": {
       "en": "4.6L V8 OHV",
@@ -129,7 +137,8 @@
       "se": "6",
       "pr": "$2,950",
       "z1": "~10.0 sec",
-      "ts": "~185 km/h"
+      "ts": "~185 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|1962|SS": {
       "en": "5.4L V8 OHV",
@@ -144,7 +153,8 @@
       "se": "6",
       "pr": "$3,200",
       "z1": "~9.0 sec",
-      "ts": "~195 km/h"
+      "ts": "~195 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|1965|SS": {
       "en": "5.4L V8 OHV",
@@ -160,7 +170,8 @@
       "pr": "$3,428",
       "z1": "~8.5 sec",
       "qm": "~16.2 sec",
-      "ts": "~200 km/h"
+      "ts": "~200 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|1968|SS": {
       "en": "5.7L V8 OHV",
@@ -176,7 +187,8 @@
       "pr": "$3,742",
       "z1": "~8.0 sec",
       "qm": "~15.8 sec",
-      "ts": "~205 km/h"
+      "ts": "~205 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|1962|SS 409": {
       "en": "6.7L V8 OHV W-engine",
@@ -192,7 +204,8 @@
       "pr": "$4,250",
       "z1": "~7.5 sec",
       "qm": "~14.5 sec",
-      "ts": "~220 km/h"
+      "ts": "~220 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|1966|SS 396": {
       "en": "6.5L V8 OHV",
@@ -208,7 +221,8 @@
       "pr": "$3,840",
       "z1": "~7.0 sec",
       "qm": "~15.0 sec",
-      "ts": "~215 km/h"
+      "ts": "~215 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|1968|SS 427": {
       "en": "7.0L V8 OHV L36",
@@ -224,7 +238,8 @@
       "pr": "$4,050",
       "z1": "~7.0 sec",
       "qm": "~14.8 sec",
-      "ts": "~215 km/h"
+      "ts": "~215 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|1972|Custom": {
       "en": "5.7L V8 OHV",
@@ -237,7 +252,8 @@
       "ft": "Petrol",
       "wt": "2020 kg",
       "se": "6",
-      "pr": "$3,655"
+      "pr": "$3,655",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|1976|Custom": {
       "en": "5.7L V8 OHV",
@@ -253,7 +269,8 @@
       "pr": "$4,950",
       "fc": "21.5",
       "fh": "14.5",
-      "fx": "18.5"
+      "fx": "18.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|1980|Custom": {
       "en": "4.4L V8 OHV",
@@ -269,7 +286,8 @@
       "pr": "$8,055",
       "fc": "19.0",
       "fh": "12.5",
-      "fx": "16.5"
+      "fx": "16.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|1985|Custom": {
       "en": "5.0L V8 OHV",
@@ -285,7 +303,8 @@
       "pr": "$10,310",
       "fc": "18.5",
       "fh": "12.5",
-      "fx": "16.0"
+      "fx": "16.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|1994|SS": {
       "en": "5.7L V8 OHV LT1",
@@ -304,7 +323,8 @@
       "ts": "~220 km/h",
       "fc": "16.0",
       "fh": "10.5",
-      "fx": "14.0"
+      "fx": "14.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|2001|Base": {
       "en": "3.4L V6 OHV",
@@ -322,7 +342,8 @@
       "ts": "~195 km/h",
       "fc": "12.5",
       "fh": "8.5",
-      "fx": "11.0"
+      "fx": "11.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|2001|LS": {
       "en": "3.8L V6 OHV",
@@ -340,7 +361,8 @@
       "ts": "~210 km/h",
       "fc": "12.5",
       "fh": "8.5",
-      "fx": "11.0"
+      "fx": "11.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|2004|Base": {
       "en": "3.4L V6 OHV",
@@ -358,7 +380,8 @@
       "ts": "~195 km/h",
       "fc": "12.5",
       "fh": "8.5",
-      "fx": "11.0"
+      "fx": "11.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|2004|LS": {
       "en": "3.8L V6 OHV",
@@ -376,7 +399,8 @@
       "ts": "~210 km/h",
       "fc": "12.5",
       "fh": "8.5",
-      "fx": "11.0"
+      "fx": "11.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|2008|Base": {
       "en": "3.5L V6 OHV",
@@ -394,7 +418,8 @@
       "ts": "~200 km/h",
       "fc": "12.0",
       "fh": "8.0",
-      "fx": "10.5"
+      "fx": "10.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|2008|LT": {
       "en": "3.9L V6 OHV",
@@ -412,7 +437,8 @@
       "ts": "~205 km/h",
       "fc": "12.0",
       "fh": "8.0",
-      "fx": "10.5"
+      "fx": "10.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|2008|LTZ": {
       "en": "3.9L V6 OHV",
@@ -430,7 +456,8 @@
       "ts": "~205 km/h",
       "fc": "12.0",
       "fh": "8.0",
-      "fx": "10.5"
+      "fx": "10.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|2008|SS": {
       "en": "5.3L V8 OHV",
@@ -449,7 +476,8 @@
       "ts": "~215 km/h",
       "fc": "14.5",
       "fh": "9.5",
-      "fx": "12.5"
+      "fx": "12.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|2014|LS": {
       "en": "2.5L I4 SIDI",
@@ -467,7 +495,8 @@
       "ts": "~200 km/h",
       "fc": "11.0",
       "fh": "7.5",
-      "fx": "9.5"
+      "fx": "9.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|2014|LT": {
       "en": "2.5L I4 SIDI",
@@ -485,7 +514,8 @@
       "ts": "~200 km/h",
       "fc": "11.0",
       "fh": "7.5",
-      "fx": "9.5"
+      "fx": "9.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|2014|LTZ": {
       "en": "3.6L V6 DI SIDI",
@@ -503,7 +533,8 @@
       "ts": "~225 km/h",
       "fc": "12.5",
       "fh": "8.5",
-      "fx": "11.0"
+      "fx": "11.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|2016|Premier": {
       "en": "3.6L V6 DI SIDI",
@@ -521,7 +552,8 @@
       "ts": "~225 km/h",
       "fc": "12.5",
       "fh": "8.5",
-      "fx": "11.0"
+      "fx": "11.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|2019|LS": {
       "en": "2.5L I4 SIDI",
@@ -539,7 +571,8 @@
       "ts": "~200 km/h",
       "fc": "11.0",
       "fh": "7.5",
-      "fx": "9.5"
+      "fx": "9.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|2019|LT": {
       "en": "3.6L V6 DI SIDI",
@@ -557,7 +590,8 @@
       "ts": "~225 km/h",
       "fc": "12.5",
       "fh": "8.5",
-      "fx": "11.0"
+      "fx": "11.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Impala|2020|Premier": {
       "en": "3.6L V6 DI SIDI",
@@ -575,7 +609,8 @@
       "ts": "~225 km/h",
       "fc": "12.5",
       "fh": "8.5",
-      "fx": "11.0"
+      "fx": "11.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|1964|Base": {
       "en": "3.2L I6 OHV",
@@ -588,7 +623,8 @@
       "ft": "Petrol",
       "wt": "1390 kg",
       "se": "5",
-      "pr": "$2,348"
+      "pr": "$2,348",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|1968|Base": {
       "en": "4.1L I6 OHV",
@@ -601,7 +637,8 @@
       "ft": "Petrol",
       "wt": "1440 kg",
       "se": "5",
-      "pr": "$2,644"
+      "pr": "$2,644",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|1972|Base": {
       "en": "5.7L V8 OHV",
@@ -614,7 +651,8 @@
       "ft": "Petrol",
       "wt": "1560 kg",
       "se": "5",
-      "pr": "$2,987"
+      "pr": "$2,987",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|1976|Base": {
       "en": "5.0L V8 OHV",
@@ -630,7 +668,8 @@
       "pr": "$3,657",
       "fc": "21.0",
       "fh": "14.0",
-      "fx": "18.0"
+      "fx": "18.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|1980|Base": {
       "en": "3.8L V6 OHV",
@@ -646,7 +685,8 @@
       "pr": "$6,300",
       "fc": "17.5",
       "fh": "11.5",
-      "fx": "15.5"
+      "fx": "15.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|1983|Base": {
       "en": "3.8L V6 OHV",
@@ -662,7 +702,8 @@
       "pr": "$7,695",
       "fc": "17.5",
       "fh": "11.5",
-      "fx": "15.5"
+      "fx": "15.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|1965|SS": {
       "en": "5.4L V8 OHV",
@@ -677,7 +718,8 @@
       "se": "5",
       "pr": "$3,100",
       "z1": "~8.5 sec",
-      "ts": "~195 km/h"
+      "ts": "~195 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|1969|SS": {
       "en": "5.7L V8 OHV",
@@ -692,7 +734,8 @@
       "se": "5",
       "pr": "$3,350",
       "z1": "~8.0 sec",
-      "ts": "~195 km/h"
+      "ts": "~195 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|1968|SS 396": {
       "en": "6.5L V8 OHV L35",
@@ -708,7 +751,8 @@
       "pr": "$3,476",
       "z1": "~6.8 sec",
       "qm": "~14.9 sec",
-      "ts": "~210 km/h"
+      "ts": "~210 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|1974|Classic": {
       "en": "5.7L V8 OHV",
@@ -724,7 +768,8 @@
       "pr": "$3,657",
       "fc": "21.5",
       "fh": "14.5",
-      "fx": "18.5"
+      "fx": "18.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|1978|Classic": {
       "en": "5.0L V8 OHV",
@@ -740,7 +785,8 @@
       "pr": "$4,712",
       "fc": "20.5",
       "fh": "13.5",
-      "fx": "17.5"
+      "fx": "17.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|1982|Classic": {
       "en": "3.8L V6 OHV",
@@ -756,7 +802,8 @@
       "pr": "$8,195",
       "fc": "17.5",
       "fh": "11.5",
-      "fx": "15.0"
+      "fx": "15.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|1998|Base": {
       "en": "2.4L I4 DOHC",
@@ -774,7 +821,8 @@
       "ts": "~185 km/h",
       "fc": "11.5",
       "fh": "7.5",
-      "fx": "10.0"
+      "fx": "10.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|1998|LS": {
       "en": "3.1L V6 OHV",
@@ -792,7 +840,8 @@
       "ts": "~195 km/h",
       "fc": "12.5",
       "fh": "8.0",
-      "fx": "11.0"
+      "fx": "11.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|2002|Base": {
       "en": "2.2L I4 DOHC",
@@ -810,7 +859,8 @@
       "ts": "~185 km/h",
       "fc": "11.0",
       "fh": "7.0",
-      "fx": "9.5"
+      "fx": "9.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|2002|LS": {
       "en": "3.1L V6 OHV",
@@ -828,7 +878,8 @@
       "ts": "~195 km/h",
       "fc": "12.5",
       "fh": "8.0",
-      "fx": "11.0"
+      "fx": "11.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|2005|LT": {
       "en": "3.5L V6 OHV",
@@ -846,7 +897,8 @@
       "ts": "~205 km/h",
       "fc": "12.0",
       "fh": "7.5",
-      "fx": "10.5"
+      "fx": "10.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|2005|Maxx LS": {
       "en": "2.2L I4 DOHC Ecotec",
@@ -864,7 +916,8 @@
       "ts": "~185 km/h",
       "fc": "11.0",
       "fh": "7.0",
-      "fx": "9.5"
+      "fx": "9.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|2005|Maxx LT": {
       "en": "3.5L V6 OHV",
@@ -882,7 +935,8 @@
       "ts": "~205 km/h",
       "fc": "12.0",
       "fh": "7.5",
-      "fx": "10.5"
+      "fx": "10.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|2009|LS": {
       "en": "2.4L I4 DOHC Ecotec",
@@ -900,7 +954,8 @@
       "ts": "~195 km/h",
       "fc": "10.5",
       "fh": "7.0",
-      "fx": "9.0"
+      "fx": "9.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|2009|LT": {
       "en": "2.4L I4 DOHC Ecotec",
@@ -918,7 +973,8 @@
       "ts": "~195 km/h",
       "fc": "10.5",
       "fh": "7.0",
-      "fx": "9.0"
+      "fx": "9.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|2009|LTZ": {
       "en": "3.6L V6 DI SIDI",
@@ -936,7 +992,8 @@
       "ts": "~215 km/h",
       "fc": "12.0",
       "fh": "8.0",
-      "fx": "10.5"
+      "fx": "10.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|2014|LS": {
       "en": "2.5L I4 SIDI",
@@ -954,7 +1011,8 @@
       "ts": "~200 km/h",
       "fc": "10.5",
       "fh": "7.0",
-      "fx": "9.0"
+      "fx": "9.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|2014|LT": {
       "en": "2.5L I4 SIDI",
@@ -972,7 +1030,8 @@
       "ts": "~200 km/h",
       "fc": "10.5",
       "fh": "7.0",
-      "fx": "9.0"
+      "fx": "9.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Malibu|2014|LTZ": {
       "en": "2.0L I4 Turbocharged SIDI",
@@ -990,7 +1049,8 @@
       "ts": "~215 km/h",
       "fc": "11.0",
       "fh": "7.5",
-      "fx": "9.5"
+      "fx": "9.5",
+      "aspiration": "Turbo"
     },
     "Chevrolet|Malibu|2018|L": {
       "en": "1.5L I4 Turbocharged SIDI",
@@ -1008,7 +1068,8 @@
       "ts": "~195 km/h",
       "fc": "9.8",
       "fh": "6.5",
-      "fx": "8.5"
+      "fx": "8.5",
+      "aspiration": "Turbo"
     },
     "Chevrolet|Malibu|2018|LS": {
       "en": "1.5L I4 Turbocharged SIDI",
@@ -1026,7 +1087,8 @@
       "ts": "~195 km/h",
       "fc": "9.8",
       "fh": "6.5",
-      "fx": "8.5"
+      "fx": "8.5",
+      "aspiration": "Turbo"
     },
     "Chevrolet|Malibu|2018|LT": {
       "en": "1.5L I4 Turbocharged SIDI",
@@ -1044,7 +1106,8 @@
       "ts": "~195 km/h",
       "fc": "9.8",
       "fh": "6.5",
-      "fx": "8.5"
+      "fx": "8.5",
+      "aspiration": "Turbo"
     },
     "Chevrolet|Malibu|2018|RS": {
       "en": "1.5L I4 Turbocharged SIDI",
@@ -1062,7 +1125,8 @@
       "ts": "~195 km/h",
       "fc": "9.8",
       "fh": "6.5",
-      "fx": "8.5"
+      "fx": "8.5",
+      "aspiration": "Turbo"
     },
     "Chevrolet|Malibu|2018|Premier": {
       "en": "2.0L I4 Turbocharged SIDI",
@@ -1080,7 +1144,8 @@
       "ts": "~215 km/h",
       "fc": "11.0",
       "fh": "7.5",
-      "fx": "9.5"
+      "fx": "9.5",
+      "aspiration": "Turbo"
     },
     "Chevrolet|Malibu|2022|L": {
       "en": "1.5L I4 Turbocharged SIDI",
@@ -1098,7 +1163,8 @@
       "ts": "~195 km/h",
       "fc": "9.8",
       "fh": "6.5",
-      "fx": "8.5"
+      "fx": "8.5",
+      "aspiration": "Turbo"
     },
     "Chevrolet|Malibu|2024|Premier": {
       "en": "2.0L I4 Turbocharged SIDI",
@@ -1116,7 +1182,8 @@
       "ts": "~215 km/h",
       "fc": "11.0",
       "fh": "7.5",
-      "fx": "9.5"
+      "fx": "9.5",
+      "aspiration": "Turbo"
     },
     "Chevrolet|S-10|1982|Base": {
       "en": "1.9L I4 OHV",
@@ -1132,7 +1199,8 @@
       "pr": "$6,288",
       "fc": "12.0",
       "fh": "8.0",
-      "fx": "10.5"
+      "fx": "10.5",
+      "aspiration": "NA"
     },
     "Chevrolet|S-10|1986|Base": {
       "en": "2.5L I4 OHV",
@@ -1148,7 +1216,8 @@
       "pr": "$7,499",
       "fc": "12.5",
       "fh": "8.5",
-      "fx": "11.0"
+      "fx": "11.0",
+      "aspiration": "NA"
     },
     "Chevrolet|S-10|1990|Base": {
       "en": "2.5L I4 OHV",
@@ -1164,7 +1233,8 @@
       "pr": "$8,680",
       "fc": "12.5",
       "fh": "8.5",
-      "fx": "11.0"
+      "fx": "11.0",
+      "aspiration": "NA"
     },
     "Chevrolet|S-10|1995|Base": {
       "en": "2.2L I4 OHV",
@@ -1180,7 +1250,8 @@
       "pr": "$10,605",
       "fc": "11.5",
       "fh": "7.5",
-      "fx": "10.0"
+      "fx": "10.0",
+      "aspiration": "NA"
     },
     "Chevrolet|S-10|1999|Base": {
       "en": "2.2L I4 OHV",
@@ -1196,7 +1267,8 @@
       "pr": "$12,180",
       "fc": "11.5",
       "fh": "7.5",
-      "fx": "10.0"
+      "fx": "10.0",
+      "aspiration": "NA"
     },
     "Chevrolet|S-10|2002|Base": {
       "en": "2.2L I4 OHV",
@@ -1212,7 +1284,8 @@
       "pr": "$13,765",
       "fc": "11.5",
       "fh": "7.5",
-      "fx": "10.0"
+      "fx": "10.0",
+      "aspiration": "NA"
     },
     "Chevrolet|S-10|1984|S": {
       "en": "2.0L I4 OHV",
@@ -1228,7 +1301,8 @@
       "pr": "$6,750",
       "fc": "12.5",
       "fh": "8.5",
-      "fx": "11.0"
+      "fx": "11.0",
+      "aspiration": "NA"
     },
     "Chevrolet|S-10|1985|Tahoe": {
       "en": "2.8L V6 OHV",
@@ -1244,7 +1318,8 @@
       "pr": "$9,515",
       "fc": "16.0",
       "fh": "10.5",
-      "fx": "14.0"
+      "fx": "14.0",
+      "aspiration": "NA"
     },
     "Chevrolet|S-10|1990|Tahoe": {
       "en": "4.3L V6 OHV",
@@ -1260,7 +1335,8 @@
       "pr": "$13,565",
       "fc": "15.0",
       "fh": "10.0",
-      "fx": "13.0"
+      "fx": "13.0",
+      "aspiration": "NA"
     },
     "Chevrolet|S-10|1994|LS": {
       "en": "4.3L V6 OHV",
@@ -1276,7 +1352,8 @@
       "pr": "$13,120",
       "fc": "14.5",
       "fh": "9.5",
-      "fx": "12.5"
+      "fx": "12.5",
+      "aspiration": "NA"
     },
     "Chevrolet|S-10|1998|LS": {
       "en": "4.3L V6 OHV",
@@ -1292,7 +1369,8 @@
       "pr": "$14,505",
       "fc": "14.5",
       "fh": "9.5",
-      "fx": "12.5"
+      "fx": "12.5",
+      "aspiration": "NA"
     },
     "Chevrolet|S-10|2002|LS": {
       "en": "4.3L V6 OHV",
@@ -1308,7 +1386,8 @@
       "pr": "$16,035",
       "fc": "14.0",
       "fh": "9.0",
-      "fx": "12.0"
+      "fx": "12.0",
+      "aspiration": "NA"
     },
     "Chevrolet|S-10|1997|ZR2": {
       "en": "4.3L V6 OHV",
@@ -1324,7 +1403,8 @@
       "pr": "$18,245",
       "fc": "16.0",
       "fh": "10.5",
-      "fx": "13.5"
+      "fx": "13.5",
+      "aspiration": "NA"
     },
     "Chevrolet|S-10|2001|ZR2": {
       "en": "4.3L V6 OHV",
@@ -1340,7 +1420,8 @@
       "pr": "$20,490",
       "fc": "16.0",
       "fh": "10.5",
-      "fx": "13.5"
+      "fx": "13.5",
+      "aspiration": "NA"
     },
     "Chevrolet|S-10|2000|Xtreme": {
       "en": "4.3L V6 OHV",
@@ -1356,7 +1437,8 @@
       "pr": "$15,580",
       "fc": "14.5",
       "fh": "9.5",
-      "fx": "12.5"
+      "fx": "12.5",
+      "aspiration": "NA"
     },
     "Chevrolet|S-10|2003|Xtreme": {
       "en": "4.3L V6 OHV",
@@ -1372,7 +1454,8 @@
       "pr": "$16,600",
       "fc": "14.5",
       "fh": "9.5",
-      "fx": "12.5"
+      "fx": "12.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Blazer K5|1969|Base": {
       "en": "5.7L V8 OHV",
@@ -1385,7 +1468,8 @@
       "ft": "Petrol",
       "wt": "1770 kg",
       "se": "4",
-      "pr": "$3,875"
+      "pr": "$3,875",
+      "aspiration": "NA"
     },
     "Chevrolet|Blazer K5|1973|Base": {
       "en": "5.7L V8 OHV",
@@ -1401,7 +1485,8 @@
       "pr": "$4,300",
       "fc": "22.0",
       "fh": "14.5",
-      "fx": "19.0"
+      "fx": "19.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Blazer K5|1977|Base": {
       "en": "5.7L V8 OHV",
@@ -1417,7 +1502,8 @@
       "pr": "$6,380",
       "fc": "22.0",
       "fh": "14.5",
-      "fx": "19.0"
+      "fx": "19.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Blazer K5|1981|Base": {
       "en": "5.7L V8 OHV",
@@ -1433,7 +1519,8 @@
       "pr": "$9,100",
       "fc": "22.0",
       "fh": "14.5",
-      "fx": "19.0"
+      "fx": "19.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Blazer K5|1985|Base": {
       "en": "5.7L V8 OHV",
@@ -1449,7 +1536,8 @@
       "pr": "$12,400",
       "fc": "21.0",
       "fh": "14.0",
-      "fx": "18.5"
+      "fx": "18.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Blazer K5|1989|Base": {
       "en": "5.7L V8 OHV TBI",
@@ -1465,7 +1553,8 @@
       "pr": "$15,350",
       "fc": "21.0",
       "fh": "14.0",
-      "fx": "18.5"
+      "fx": "18.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Blazer K5|1993|Base": {
       "en": "5.7L V8 OHV TBI",
@@ -1481,7 +1570,8 @@
       "pr": "$19,300",
       "fc": "20.0",
       "fh": "13.5",
-      "fx": "17.5"
+      "fx": "17.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Blazer K5|1975|Cheyenne": {
       "en": "5.7L V8 OHV",
@@ -1497,7 +1587,8 @@
       "pr": "$5,650",
       "fc": "22.0",
       "fh": "14.5",
-      "fx": "19.0"
+      "fx": "19.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Blazer K5|1980|Silverado": {
       "en": "5.7L V8 OHV",
@@ -1513,7 +1604,8 @@
       "pr": "$9,900",
       "fc": "22.0",
       "fh": "14.5",
-      "fx": "19.0"
+      "fx": "19.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Blazer K5|1985|Silverado": {
       "en": "5.7L V8 OHV",
@@ -1529,7 +1621,8 @@
       "pr": "$14,100",
       "fc": "21.0",
       "fh": "14.0",
-      "fx": "18.5"
+      "fx": "18.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Blazer K5|1990|Silverado": {
       "en": "5.7L V8 OHV TBI",
@@ -1545,7 +1638,8 @@
       "pr": "$17,500",
       "fc": "21.0",
       "fh": "14.0",
-      "fx": "18.5"
+      "fx": "18.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Blazer K5|1994|Silverado": {
       "en": "5.7L V8 OHV TBI",
@@ -1561,7 +1655,8 @@
       "pr": "$21,200",
       "fc": "20.0",
       "fh": "13.5",
-      "fx": "17.5"
+      "fx": "17.5",
+      "aspiration": "NA"
     }
   }
 }

@@ -16,7 +16,8 @@
       "fuelType": "hybrid",
       "weight": 1625,
       "seats": 5,
-      "price": "~$64,400"
+      "price": "~$64,400",
+      "aspiration": "NA"
     },
     "Lexus|IS|2015|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -34,7 +35,8 @@
       "fuelType": "hybrid",
       "weight": 1625,
       "seats": 5,
-      "price": "~$65,900"
+      "price": "~$65,900",
+      "aspiration": "NA"
     },
     "Lexus|IS|2016|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -52,7 +54,8 @@
       "fuelType": "hybrid",
       "weight": 1625,
       "seats": 5,
-      "price": "~$67,400"
+      "price": "~$67,400",
+      "aspiration": "NA"
     },
     "Lexus|IS|2017|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -70,7 +73,8 @@
       "fuelType": "hybrid",
       "weight": 1625,
       "seats": 5,
-      "price": "~$68,900"
+      "price": "~$68,900",
+      "aspiration": "NA"
     },
     "Lexus|IS|2018|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -88,7 +92,8 @@
       "fuelType": "hybrid",
       "weight": 1625,
       "seats": 5,
-      "price": "~$70,400"
+      "price": "~$70,400",
+      "aspiration": "NA"
     },
     "Lexus|IS|2019|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -106,7 +111,8 @@
       "fuelType": "hybrid",
       "weight": 1625,
       "seats": 5,
-      "price": "~$71,900"
+      "price": "~$71,900",
+      "aspiration": "NA"
     },
     "Lexus|IS|2014|IS 350": {
       "engine": "3.5L V6",
@@ -124,7 +130,8 @@
       "fuelType": "petrol",
       "weight": 1695,
       "seats": 5,
-      "price": "~$75,400"
+      "price": "~$75,400",
+      "aspiration": "NA"
     },
     "Lexus|IS|2015|IS 350": {
       "engine": "3.5L V6",
@@ -142,7 +149,8 @@
       "fuelType": "petrol",
       "weight": 1695,
       "seats": 5,
-      "price": "~$76,900"
+      "price": "~$76,900",
+      "aspiration": "NA"
     },
     "Lexus|IS|2017|IS 350": {
       "engine": "3.5L V6",
@@ -160,7 +168,8 @@
       "fuelType": "petrol",
       "weight": 1695,
       "seats": 5,
-      "price": "~$77,400"
+      "price": "~$77,400",
+      "aspiration": "NA"
     },
     "Lexus|IS|2018|IS 350": {
       "engine": "3.5L V6",
@@ -178,7 +187,8 @@
       "fuelType": "petrol",
       "weight": 1695,
       "seats": 5,
-      "price": "~$81,400"
+      "price": "~$81,400",
+      "aspiration": "NA"
     },
     "Lexus|IS|2014|IS 350 F Sport": {
       "engine": "3.5L V6",
@@ -196,7 +206,8 @@
       "fuelType": "petrol",
       "weight": 1695,
       "seats": 5,
-      "price": "~$83,400"
+      "price": "~$83,400",
+      "aspiration": "NA"
     },
     "Lexus|IS|2015|IS 350 F Sport": {
       "engine": "3.5L V6",
@@ -214,7 +225,8 @@
       "fuelType": "petrol",
       "weight": 1695,
       "seats": 5,
-      "price": "~$84,900"
+      "price": "~$84,900",
+      "aspiration": "NA"
     },
     "Lexus|IS|2016|IS 350 F Sport": {
       "engine": "3.5L V6",
@@ -232,7 +244,8 @@
       "fuelType": "petrol",
       "weight": 1695,
       "seats": 5,
-      "price": "~$86,400"
+      "price": "~$86,400",
+      "aspiration": "NA"
     },
     "Lexus|IS|2017|IS 350 F Sport": {
       "engine": "3.5L V6",
@@ -250,7 +263,8 @@
       "fuelType": "petrol",
       "weight": 1695,
       "seats": 5,
-      "price": "~$87,900"
+      "price": "~$87,900",
+      "aspiration": "NA"
     },
     "Lexus|IS|2018|IS 350 F Sport": {
       "engine": "3.5L V6",
@@ -268,7 +282,8 @@
       "fuelType": "petrol",
       "weight": 1695,
       "seats": 5,
-      "price": "~$89,400"
+      "price": "~$89,400",
+      "aspiration": "NA"
     },
     "Lexus|IS|2010|IS F": {
       "engine": "5.0L V8",
@@ -286,7 +301,8 @@
       "fuelType": "petrol",
       "weight": 1768,
       "seats": 5,
-      "price": "~$116,000"
+      "price": "~$116,000",
+      "aspiration": "NA"
     },
     "Lexus|IS|2011|IS F": {
       "engine": "5.0L V8",
@@ -304,7 +320,8 @@
       "fuelType": "petrol",
       "weight": 1768,
       "seats": 5,
-      "price": "~$118,000"
+      "price": "~$118,000",
+      "aspiration": "NA"
     },
     "Lexus|IS|2012|IS F": {
       "engine": "5.0L V8",
@@ -322,7 +339,8 @@
       "fuelType": "petrol",
       "weight": 1768,
       "seats": 5,
-      "price": "~$120,000"
+      "price": "~$120,000",
+      "aspiration": "NA"
     },
     "Lexus|IS|2013|IS F": {
       "engine": "5.0L V8",
@@ -340,7 +358,8 @@
       "fuelType": "petrol",
       "weight": 1768,
       "seats": 5,
-      "price": "~$122,000"
+      "price": "~$122,000",
+      "aspiration": "NA"
     },
     "Lexus|IS|2014|IS F": {
       "engine": "5.0L V8",
@@ -358,7 +377,8 @@
       "fuelType": "petrol",
       "weight": 1768,
       "seats": 5,
-      "price": "~$124,000"
+      "price": "~$124,000",
+      "aspiration": "NA"
     },
     "Lexus|IS|2017|IS 200t": {
       "engine": "2.0L Turbo",
@@ -376,7 +396,8 @@
       "fuelType": "petrol",
       "weight": 1625,
       "seats": 5,
-      "price": "~$59,900"
+      "price": "~$59,900",
+      "aspiration": "Turbo"
     },
     "Lexus|IS|2018|IS 200t": {
       "engine": "2.0L Turbo",
@@ -394,7 +415,8 @@
       "fuelType": "petrol",
       "weight": 1625,
       "seats": 5,
-      "price": "~$61,900"
+      "price": "~$61,900",
+      "aspiration": "Turbo"
     },
     "Lexus|IS|2019|IS 300 F Sport": {
       "engine": "2.0L Turbo",
@@ -412,7 +434,8 @@
       "fuelType": "petrol",
       "weight": 1625,
       "seats": 5,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "aspiration": "Turbo"
     },
     "Lexus|IS|2020|IS 300 F Sport": {
       "engine": "2.0L Turbo",
@@ -430,7 +453,8 @@
       "fuelType": "petrol",
       "weight": 1625,
       "seats": 5,
-      "price": "~$69,500"
+      "price": "~$69,500",
+      "aspiration": "Turbo"
     },
     "Lexus|IS|2021|IS 300 F Sport": {
       "engine": "2.0L Turbo",
@@ -448,7 +472,8 @@
       "fuelType": "petrol",
       "weight": 1625,
       "seats": 5,
-      "price": "~$71,000"
+      "price": "~$71,000",
+      "aspiration": "Turbo"
     },
     "Lexus|IS|2022|IS 300 F Sport": {
       "engine": "2.0L Turbo",
@@ -466,7 +491,8 @@
       "fuelType": "petrol",
       "weight": 1625,
       "seats": 5,
-      "price": "~$72,500"
+      "price": "~$72,500",
+      "aspiration": "Turbo"
     },
     "Lexus|IS|2023|IS 300 F Sport": {
       "engine": "2.0L Turbo",
@@ -484,7 +510,8 @@
       "fuelType": "petrol",
       "weight": 1625,
       "seats": 5,
-      "price": "~$74,000"
+      "price": "~$74,000",
+      "aspiration": "Turbo"
     },
     "Lexus|IS|2024|IS 300 F Sport": {
       "engine": "2.0L Turbo",
@@ -502,7 +529,8 @@
       "fuelType": "petrol",
       "weight": 1625,
       "seats": 5,
-      "price": "~$75,500"
+      "price": "~$75,500",
+      "aspiration": "Turbo"
     },
     "Lexus|IS|2025|IS 300 F Sport": {
       "engine": "2.0L Turbo",
@@ -520,7 +548,8 @@
       "fuelType": "petrol",
       "weight": 1625,
       "seats": 5,
-      "price": "~$77,000"
+      "price": "~$77,000",
+      "aspiration": "Turbo"
     },
     "Lexus|IS|2026|IS 300 F Sport": {
       "engine": "2.0L Turbo",
@@ -538,7 +567,8 @@
       "fuelType": "petrol",
       "weight": 1625,
       "seats": 5,
-      "price": "~$78,500"
+      "price": "~$78,500",
+      "aspiration": "Turbo"
     },
     "Lexus|IS|2021|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -556,7 +586,8 @@
       "fuelType": "hybrid",
       "weight": 1625,
       "seats": 5,
-      "price": "~$71,500"
+      "price": "~$71,500",
+      "aspiration": "NA"
     },
     "Lexus|IS|2022|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -574,7 +605,8 @@
       "fuelType": "hybrid",
       "weight": 1625,
       "seats": 5,
-      "price": "~$73,000"
+      "price": "~$73,000",
+      "aspiration": "NA"
     },
     "Lexus|IS|2023|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -592,7 +624,8 @@
       "fuelType": "hybrid",
       "weight": 1625,
       "seats": 5,
-      "price": "~$74,500"
+      "price": "~$74,500",
+      "aspiration": "NA"
     },
     "Lexus|IS|2024|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -610,7 +643,8 @@
       "fuelType": "hybrid",
       "weight": 1625,
       "seats": 5,
-      "price": "~$76,000"
+      "price": "~$76,000",
+      "aspiration": "NA"
     },
     "Lexus|IS|2025|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -628,7 +662,8 @@
       "fuelType": "hybrid",
       "weight": 1625,
       "seats": 5,
-      "price": "~$77,500"
+      "price": "~$77,500",
+      "aspiration": "NA"
     },
     "Lexus|IS|2026|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -646,7 +681,8 @@
       "fuelType": "hybrid",
       "weight": 1625,
       "seats": 5,
-      "price": "~$79,000"
+      "price": "~$79,000",
+      "aspiration": "NA"
     },
     "Lexus|GS|2013|GS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -664,7 +700,8 @@
       "fuelType": "hybrid",
       "weight": 1790,
       "seats": 5,
-      "price": "~$82,900"
+      "price": "~$82,900",
+      "aspiration": "NA"
     },
     "Lexus|GS|2014|GS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -682,7 +719,8 @@
       "fuelType": "hybrid",
       "weight": 1790,
       "seats": 5,
-      "price": "~$84,900"
+      "price": "~$84,900",
+      "aspiration": "NA"
     },
     "Lexus|GS|2015|GS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -700,7 +738,8 @@
       "fuelType": "hybrid",
       "weight": 1790,
       "seats": 5,
-      "price": "~$86,900"
+      "price": "~$86,900",
+      "aspiration": "NA"
     },
     "Lexus|GS|2016|GS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -718,7 +757,8 @@
       "fuelType": "hybrid",
       "weight": 1790,
       "seats": 5,
-      "price": "~$88,900"
+      "price": "~$88,900",
+      "aspiration": "NA"
     },
     "Lexus|GS|2017|GS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -736,7 +776,8 @@
       "fuelType": "hybrid",
       "weight": 1790,
       "seats": 5,
-      "price": "~$90,900"
+      "price": "~$90,900",
+      "aspiration": "NA"
     },
     "Lexus|GS|2018|GS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -754,7 +795,8 @@
       "fuelType": "hybrid",
       "weight": 1790,
       "seats": 5,
-      "price": "~$92,900"
+      "price": "~$92,900",
+      "aspiration": "NA"
     },
     "Lexus|GS|2013|GS 350": {
       "engine": "3.5L V6",
@@ -772,7 +814,8 @@
       "fuelType": "petrol",
       "weight": 1790,
       "seats": 5,
-      "price": "~$95,900"
+      "price": "~$95,900",
+      "aspiration": "NA"
     },
     "Lexus|GS|2014|GS 350": {
       "engine": "3.5L V6",
@@ -790,7 +833,8 @@
       "fuelType": "petrol",
       "weight": 1790,
       "seats": 5,
-      "price": "~$97,900"
+      "price": "~$97,900",
+      "aspiration": "NA"
     },
     "Lexus|GS|2015|GS 350": {
       "engine": "3.5L V6",
@@ -808,7 +852,8 @@
       "fuelType": "petrol",
       "weight": 1790,
       "seats": 5,
-      "price": "~$99,900"
+      "price": "~$99,900",
+      "aspiration": "NA"
     },
     "Lexus|GS|2016|GS 350": {
       "engine": "3.5L V6",
@@ -826,7 +871,8 @@
       "fuelType": "petrol",
       "weight": 1790,
       "seats": 5,
-      "price": "~$101,900"
+      "price": "~$101,900",
+      "aspiration": "NA"
     },
     "Lexus|GS|2017|GS 350": {
       "engine": "3.5L V6",
@@ -844,7 +890,8 @@
       "fuelType": "petrol",
       "weight": 1790,
       "seats": 5,
-      "price": "~$103,900"
+      "price": "~$103,900",
+      "aspiration": "NA"
     },
     "Lexus|GS|2016|GS F": {
       "engine": "5.0L V8",
@@ -862,7 +909,8 @@
       "fuelType": "petrol",
       "weight": 1845,
       "seats": 5,
-      "price": "~$141,000"
+      "price": "~$141,000",
+      "aspiration": "NA"
     },
     "Lexus|GS|2017|GS F": {
       "engine": "5.0L V8",
@@ -880,7 +928,8 @@
       "fuelType": "petrol",
       "weight": 1845,
       "seats": 5,
-      "price": "~$143,000"
+      "price": "~$143,000",
+      "aspiration": "NA"
     },
     "Lexus|GS|2018|GS F": {
       "engine": "5.0L V8",
@@ -898,7 +947,8 @@
       "fuelType": "petrol",
       "weight": 1845,
       "seats": 5,
-      "price": "~$145,000"
+      "price": "~$145,000",
+      "aspiration": "NA"
     },
     "Lexus|RC|2016|RC 200t": {
       "engine": "2.0L Turbo",
@@ -916,7 +966,8 @@
       "fuelType": "petrol",
       "weight": 1660,
       "seats": 4,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "aspiration": "Turbo"
     },
     "Lexus|RC|2017|RC 200t": {
       "engine": "2.0L Turbo",
@@ -934,7 +985,8 @@
       "fuelType": "petrol",
       "weight": 1660,
       "seats": 4,
-      "price": "~$67,000"
+      "price": "~$67,000",
+      "aspiration": "Turbo"
     },
     "Lexus|RC|2018|RC 200t": {
       "engine": "2.0L Turbo",
@@ -952,7 +1004,8 @@
       "fuelType": "petrol",
       "weight": 1660,
       "seats": 4,
-      "price": "~$69,000"
+      "price": "~$69,000",
+      "aspiration": "Turbo"
     },
     "Lexus|RC|2016|RC 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -970,7 +1023,8 @@
       "fuelType": "hybrid",
       "weight": 1750,
       "seats": 4,
-      "price": "~$69,000"
+      "price": "~$69,000",
+      "aspiration": "NA"
     },
     "Lexus|RC|2017|RC 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -988,7 +1042,8 @@
       "fuelType": "hybrid",
       "weight": 1750,
       "seats": 4,
-      "price": "~$71,000"
+      "price": "~$71,000",
+      "aspiration": "NA"
     },
     "Lexus|RC|2018|RC 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -1006,7 +1061,8 @@
       "fuelType": "hybrid",
       "weight": 1750,
       "seats": 4,
-      "price": "~$73,000"
+      "price": "~$73,000",
+      "aspiration": "NA"
     },
     "Lexus|RC|2019|RC 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -1024,7 +1080,8 @@
       "fuelType": "hybrid",
       "weight": 1750,
       "seats": 4,
-      "price": "~$75,000"
+      "price": "~$75,000",
+      "aspiration": "NA"
     },
     "Lexus|RC|2020|RC 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -1042,7 +1099,8 @@
       "fuelType": "hybrid",
       "weight": 1750,
       "seats": 4,
-      "price": "~$77,000"
+      "price": "~$77,000",
+      "aspiration": "NA"
     },
     "Lexus|RC|2016|RC 350": {
       "engine": "3.5L V6",
@@ -1060,7 +1118,8 @@
       "fuelType": "petrol",
       "weight": 1725,
       "seats": 4,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "aspiration": "NA"
     },
     "Lexus|RC|2017|RC 350": {
       "engine": "3.5L V6",
@@ -1078,7 +1137,8 @@
       "fuelType": "petrol",
       "weight": 1725,
       "seats": 4,
-      "price": "~$82,000"
+      "price": "~$82,000",
+      "aspiration": "NA"
     },
     "Lexus|RC|2018|RC 350": {
       "engine": "3.5L V6",
@@ -1096,7 +1156,8 @@
       "fuelType": "petrol",
       "weight": 1725,
       "seats": 4,
-      "price": "~$84,000"
+      "price": "~$84,000",
+      "aspiration": "NA"
     },
     "Lexus|RC|2019|RC 350": {
       "engine": "3.5L V6",
@@ -1114,7 +1175,8 @@
       "fuelType": "petrol",
       "weight": 1725,
       "seats": 4,
-      "price": "~$86,000"
+      "price": "~$86,000",
+      "aspiration": "NA"
     },
     "Lexus|RC|2020|RC 350": {
       "engine": "3.5L V6",
@@ -1132,7 +1194,8 @@
       "fuelType": "petrol",
       "weight": 1725,
       "seats": 4,
-      "price": "~$88,000"
+      "price": "~$88,000",
+      "aspiration": "NA"
     },
     "Lexus|RC|2016|RC F": {
       "engine": "5.0L V8",
@@ -1150,7 +1213,8 @@
       "fuelType": "petrol",
       "weight": 1785,
       "seats": 4,
-      "price": "~$123,000"
+      "price": "~$123,000",
+      "aspiration": "NA"
     },
     "Lexus|RC|2017|RC F": {
       "engine": "5.0L V8",
@@ -1168,7 +1232,8 @@
       "fuelType": "petrol",
       "weight": 1785,
       "seats": 4,
-      "price": "~$126,000"
+      "price": "~$126,000",
+      "aspiration": "NA"
     },
     "Lexus|RC|2019|RC F": {
       "engine": "5.0L V8",
@@ -1186,7 +1251,8 @@
       "fuelType": "petrol",
       "weight": 1785,
       "seats": 4,
-      "price": "~$132,000"
+      "price": "~$132,000",
+      "aspiration": "NA"
     },
     "Lexus|NX|2022|NX 350 F Sport": {
       "engine": "2.4L Turbo",
@@ -1204,7 +1270,8 @@
       "fuelType": "petrol",
       "weight": 1760,
       "seats": 5,
-      "price": "~$71,000"
+      "price": "~$71,000",
+      "aspiration": "Turbo"
     },
     "Lexus|NX|2023|NX 350 F Sport": {
       "engine": "2.4L Turbo",
@@ -1222,7 +1289,8 @@
       "fuelType": "petrol",
       "weight": 1760,
       "seats": 5,
-      "price": "~$72,500"
+      "price": "~$72,500",
+      "aspiration": "Turbo"
     },
     "Lexus|NX|2024|NX 350 F Sport": {
       "engine": "2.4L Turbo",
@@ -1240,7 +1308,8 @@
       "fuelType": "petrol",
       "weight": 1760,
       "seats": 5,
-      "price": "~$74,000"
+      "price": "~$74,000",
+      "aspiration": "Turbo"
     },
     "Lexus|NX|2025|NX 350 F Sport": {
       "engine": "2.4L Turbo",
@@ -1258,7 +1327,8 @@
       "fuelType": "petrol",
       "weight": 1760,
       "seats": 5,
-      "price": "~$75,500"
+      "price": "~$75,500",
+      "aspiration": "Turbo"
     },
     "Lexus|NX|2026|NX 350 F Sport": {
       "engine": "2.4L Turbo",
@@ -1276,7 +1346,8 @@
       "fuelType": "petrol",
       "weight": 1760,
       "seats": 5,
-      "price": "~$77,000"
+      "price": "~$77,000",
+      "aspiration": "Turbo"
     },
     "Lexus|RX|2016|RX 350 F Sport": {
       "engine": "3.5L V6",
@@ -1294,7 +1365,8 @@
       "fuelType": "petrol",
       "weight": 2015,
       "seats": 5,
-      "price": "~$86,000"
+      "price": "~$86,000",
+      "aspiration": "NA"
     },
     "Lexus|RX|2016|RX 450h F Sport": {
       "engine": "3.5L V6 Hybrid",
@@ -1312,7 +1384,8 @@
       "fuelType": "hybrid",
       "weight": 2100,
       "seats": 5,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "aspiration": "NA"
     },
     "Lexus|RX|2017|RX 350 F Sport": {
       "engine": "3.5L V6",
@@ -1330,7 +1403,8 @@
       "fuelType": "petrol",
       "weight": 2015,
       "seats": 5,
-      "price": "~$88,000"
+      "price": "~$88,000",
+      "aspiration": "NA"
     },
     "Lexus|RX|2017|RX 450h F Sport": {
       "engine": "3.5L V6 Hybrid",
@@ -1348,7 +1422,8 @@
       "fuelType": "hybrid",
       "weight": 2100,
       "seats": 5,
-      "price": "~$97,000"
+      "price": "~$97,000",
+      "aspiration": "NA"
     },
     "Lexus|RX|2018|RX 350 F Sport": {
       "engine": "3.5L V6",
@@ -1366,7 +1441,8 @@
       "fuelType": "petrol",
       "weight": 2015,
       "seats": 5,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "aspiration": "NA"
     },
     "Lexus|RX|2018|RX 450h F Sport": {
       "engine": "3.5L V6 Hybrid",
@@ -1384,7 +1460,8 @@
       "fuelType": "hybrid",
       "weight": 2100,
       "seats": 5,
-      "price": "~$99,000"
+      "price": "~$99,000",
+      "aspiration": "NA"
     },
     "Lexus|RX|2019|RX 350 F Sport": {
       "engine": "3.5L V6",
@@ -1402,7 +1479,8 @@
       "fuelType": "petrol",
       "weight": 2015,
       "seats": 5,
-      "price": "~$92,000"
+      "price": "~$92,000",
+      "aspiration": "NA"
     },
     "Lexus|RX|2019|RX 450h F Sport": {
       "engine": "3.5L V6 Hybrid",
@@ -1420,7 +1498,8 @@
       "fuelType": "hybrid",
       "weight": 2100,
       "seats": 5,
-      "price": "~$101,000"
+      "price": "~$101,000",
+      "aspiration": "NA"
     },
     "Lexus|RX|2020|RX 350 F Sport": {
       "engine": "3.5L V6",
@@ -1438,7 +1517,8 @@
       "fuelType": "petrol",
       "weight": 2015,
       "seats": 5,
-      "price": "~$94,000"
+      "price": "~$94,000",
+      "aspiration": "NA"
     },
     "Lexus|RX|2020|RX 450h F Sport": {
       "engine": "3.5L V6 Hybrid",
@@ -1456,7 +1536,8 @@
       "fuelType": "hybrid",
       "weight": 2100,
       "seats": 5,
-      "price": "~$103,000"
+      "price": "~$103,000",
+      "aspiration": "NA"
     },
     "Lexus|RX|2021|RX 350 F Sport": {
       "engine": "3.5L V6",
@@ -1474,7 +1555,8 @@
       "fuelType": "petrol",
       "weight": 2015,
       "seats": 5,
-      "price": "~$96,000"
+      "price": "~$96,000",
+      "aspiration": "NA"
     },
     "Lexus|RX|2021|RX 450h F Sport": {
       "engine": "3.5L V6 Hybrid",
@@ -1492,7 +1574,8 @@
       "fuelType": "hybrid",
       "weight": 2100,
       "seats": 5,
-      "price": "~$105,000"
+      "price": "~$105,000",
+      "aspiration": "NA"
     },
     "Lexus|UX|2019|UX 250h F Sport": {
       "engine": "2.0L Atkinson + Electric",
@@ -1510,7 +1593,8 @@
       "fuelType": "hybrid",
       "weight": 1540,
       "seats": 5,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "aspiration": "NA"
     },
     "Lexus|UX|2020|UX 250h F Sport": {
       "engine": "2.0L Atkinson + Electric",
@@ -1528,7 +1612,8 @@
       "fuelType": "hybrid",
       "weight": 1540,
       "seats": 5,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "aspiration": "NA"
     },
     "Lexus|UX|2021|UX 250h F Sport": {
       "engine": "2.0L Atkinson + Electric",
@@ -1546,7 +1631,8 @@
       "fuelType": "hybrid",
       "weight": 1540,
       "seats": 5,
-      "price": "~$56,000"
+      "price": "~$56,000",
+      "aspiration": "NA"
     },
     "Lexus|UX|2022|UX 250h F Sport": {
       "engine": "2.0L Atkinson + Electric",
@@ -1564,7 +1650,8 @@
       "fuelType": "hybrid",
       "weight": 1540,
       "seats": 5,
-      "price": "~$57,000"
+      "price": "~$57,000",
+      "aspiration": "NA"
     },
     "Lexus|UX|2023|UX 250h F Sport": {
       "engine": "2.0L Atkinson + Electric",
@@ -1582,7 +1669,8 @@
       "fuelType": "hybrid",
       "weight": 1540,
       "seats": 5,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "aspiration": "NA"
     },
     "Lexus|UX|2024|UX 250h F Sport": {
       "engine": "2.0L Atkinson + Electric",
@@ -1600,7 +1688,8 @@
       "fuelType": "hybrid",
       "weight": 1540,
       "seats": 5,
-      "price": "~$59,000"
+      "price": "~$59,000",
+      "aspiration": "NA"
     },
     "Lexus|UX|2025|UX 250h F Sport": {
       "engine": "2.0L Atkinson + Electric",
@@ -1618,7 +1707,8 @@
       "fuelType": "hybrid",
       "weight": 1540,
       "seats": 5,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "aspiration": "NA"
     },
     "Lexus|UX|2026|UX 250h F Sport": {
       "engine": "2.0L Atkinson + Electric",
@@ -1636,7 +1726,8 @@
       "fuelType": "hybrid",
       "weight": 1540,
       "seats": 5,
-      "price": "~$61,000"
+      "price": "~$61,000",
+      "aspiration": "NA"
     },
     "Lexus|LS|2008|LS 460": {
       "engine": "4.6L V8",
@@ -1654,7 +1745,8 @@
       "fuelType": "petrol",
       "weight": 2020,
       "seats": 5,
-      "price": "~$178,000"
+      "price": "~$178,000",
+      "aspiration": "NA"
     },
     "Lexus|LS|2009|LS 460": {
       "engine": "4.6L V8",
@@ -1672,7 +1764,8 @@
       "fuelType": "petrol",
       "weight": 2020,
       "seats": 5,
-      "price": "~$181,000"
+      "price": "~$181,000",
+      "aspiration": "NA"
     },
     "Lexus|LS|2010|LS 460": {
       "engine": "4.6L V8",
@@ -1690,7 +1783,8 @@
       "fuelType": "petrol",
       "weight": 2020,
       "seats": 5,
-      "price": "~$184,000"
+      "price": "~$184,000",
+      "aspiration": "NA"
     },
     "Lexus|LS|2011|LS 460": {
       "engine": "4.6L V8",
@@ -1708,7 +1802,8 @@
       "fuelType": "petrol",
       "weight": 2020,
       "seats": 5,
-      "price": "~$187,000"
+      "price": "~$187,000",
+      "aspiration": "NA"
     },
     "Lexus|LS|2012|LS 460": {
       "engine": "4.6L V8",
@@ -1726,7 +1821,8 @@
       "fuelType": "petrol",
       "weight": 2020,
       "seats": 5,
-      "price": "~$190,000"
+      "price": "~$190,000",
+      "aspiration": "NA"
     },
     "Lexus|LS|2008|LS 600h": {
       "engine": "5.0L V8 Hybrid",
@@ -1744,7 +1840,8 @@
       "fuelType": "hybrid",
       "weight": 2425,
       "seats": 5,
-      "price": "~$253,000"
+      "price": "~$253,000",
+      "aspiration": "NA"
     },
     "Lexus|LS|2009|LS 600h": {
       "engine": "5.0L V8 Hybrid",
@@ -1762,7 +1859,8 @@
       "fuelType": "hybrid",
       "weight": 2425,
       "seats": 5,
-      "price": "~$256,000"
+      "price": "~$256,000",
+      "aspiration": "NA"
     },
     "Lexus|LS|2010|LS 600h": {
       "engine": "5.0L V8 Hybrid",
@@ -1780,7 +1878,8 @@
       "fuelType": "hybrid",
       "weight": 2425,
       "seats": 5,
-      "price": "~$259,000"
+      "price": "~$259,000",
+      "aspiration": "NA"
     },
     "Lexus|LS|2011|LS 600h": {
       "engine": "5.0L V8 Hybrid",
@@ -1798,7 +1897,8 @@
       "fuelType": "hybrid",
       "weight": 2425,
       "seats": 5,
-      "price": "~$262,000"
+      "price": "~$262,000",
+      "aspiration": "NA"
     },
     "Lexus|LS|2012|LS 600h": {
       "engine": "5.0L V8 Hybrid",
@@ -1816,7 +1916,8 @@
       "fuelType": "hybrid",
       "weight": 2425,
       "seats": 5,
-      "price": "~$265,000"
+      "price": "~$265,000",
+      "aspiration": "NA"
     },
     "Lexus|LS|2018|LS 500h": {
       "engine": "3.5L V6 Hybrid",
@@ -1834,7 +1935,8 @@
       "fuelType": "hybrid",
       "weight": 2305,
       "seats": 5,
-      "price": "~$200,000"
+      "price": "~$200,000",
+      "aspiration": "NA"
     },
     "Lexus|LS|2019|LS 500h": {
       "engine": "3.5L V6 Hybrid",
@@ -1852,7 +1954,8 @@
       "fuelType": "hybrid",
       "weight": 2305,
       "seats": 5,
-      "price": "~$203,000"
+      "price": "~$203,000",
+      "aspiration": "NA"
     },
     "Lexus|LS|2020|LS 500h": {
       "engine": "3.5L V6 Hybrid",
@@ -1870,7 +1973,8 @@
       "fuelType": "hybrid",
       "weight": 2305,
       "seats": 5,
-      "price": "~$206,000"
+      "price": "~$206,000",
+      "aspiration": "NA"
     },
     "Lexus|LS|2021|LS 500h": {
       "engine": "3.5L V6 Hybrid",
@@ -1888,7 +1992,8 @@
       "fuelType": "hybrid",
       "weight": 2305,
       "seats": 5,
-      "price": "~$209,000"
+      "price": "~$209,000",
+      "aspiration": "NA"
     },
     "Lexus|LS|2018|LS 500 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -1906,7 +2011,8 @@
       "fuelType": "petrol",
       "weight": 2205,
       "seats": 5,
-      "price": "~$215,000"
+      "price": "~$215,000",
+      "aspiration": "Turbo"
     },
     "Lexus|LS|2019|LS 500 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -1924,7 +2030,8 @@
       "fuelType": "petrol",
       "weight": 2205,
       "seats": 5,
-      "price": "~$218,000"
+      "price": "~$218,000",
+      "aspiration": "Turbo"
     },
     "Lexus|LS|2020|LS 500 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -1942,7 +2049,8 @@
       "fuelType": "petrol",
       "weight": 2205,
       "seats": 5,
-      "price": "~$221,000"
+      "price": "~$221,000",
+      "aspiration": "Turbo"
     },
     "Lexus|LS|2021|LS 500 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -1960,7 +2068,8 @@
       "fuelType": "petrol",
       "weight": 2205,
       "seats": 5,
-      "price": "~$224,000"
+      "price": "~$224,000",
+      "aspiration": "Turbo"
     },
     "Lexus|LS|2022|LS 500 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -1978,7 +2087,8 @@
       "fuelType": "petrol",
       "weight": 2205,
       "seats": 5,
-      "price": "~$227,000"
+      "price": "~$227,000",
+      "aspiration": "Turbo"
     },
     "Lexus|LS|2023|LS 500 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -1996,7 +2106,8 @@
       "fuelType": "petrol",
       "weight": 2205,
       "seats": 5,
-      "price": "~$230,000"
+      "price": "~$230,000",
+      "aspiration": "Turbo"
     },
     "Lexus|LS|2024|LS 500 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -2014,7 +2125,8 @@
       "fuelType": "petrol",
       "weight": 2205,
       "seats": 5,
-      "price": "~$233,000"
+      "price": "~$233,000",
+      "aspiration": "Turbo"
     },
     "Lexus|LS|2025|LS 500 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -2032,7 +2144,8 @@
       "fuelType": "petrol",
       "weight": 2205,
       "seats": 5,
-      "price": "~$236,000"
+      "price": "~$236,000",
+      "aspiration": "Turbo"
     },
     "Lexus|LS|2026|LS 500 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -2050,7 +2163,8 @@
       "fuelType": "petrol",
       "weight": 2205,
       "seats": 5,
-      "price": "~$239,000"
+      "price": "~$239,000",
+      "aspiration": "Turbo"
     }
   }
 }

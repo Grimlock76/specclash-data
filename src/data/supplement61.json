@@ -18,7 +18,8 @@
       "topSpeed": 160,
       "cargo": 440,
       "quarterMile": "~15.5 sec",
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "aspiration": "Electric"
     },
     "BYD|Atto 3|2022|Extended Range": {
       "engine": "Single Motor Electric",
@@ -38,7 +39,8 @@
       "topSpeed": 160,
       "cargo": 440,
       "quarterMile": "~15.5 sec",
-      "price": "~$49,990"
+      "price": "~$49,990",
+      "aspiration": "Electric"
     },
     "BYD|Atto 3|2024|Standard Range": {
       "engine": "Single Motor Electric",
@@ -58,7 +60,8 @@
       "topSpeed": 160,
       "cargo": 440,
       "quarterMile": "~15.5 sec",
-      "price": "~$43,990"
+      "price": "~$43,990",
+      "aspiration": "Electric"
     },
     "BYD|Atto 3|2024|Extended Range": {
       "engine": "Single Motor Electric",
@@ -78,7 +81,8 @@
       "topSpeed": 160,
       "cargo": 440,
       "quarterMile": "~15.5 sec",
-      "price": "~$47,990"
+      "price": "~$47,990",
+      "aspiration": "Electric"
     },
     "BYD|Seal|2023|Standard Range RWD": {
       "engine": "Single Motor Electric",
@@ -98,7 +102,8 @@
       "topSpeed": 180,
       "cargo": 402,
       "quarterMile": "~15.6 sec",
-      "price": "~$49,990"
+      "price": "~$49,990",
+      "aspiration": "Electric"
     },
     "BYD|Seal|2023|Long Range RWD": {
       "engine": "Single Motor Electric",
@@ -118,7 +123,8 @@
       "topSpeed": 180,
       "cargo": 402,
       "quarterMile": "~14.2 sec",
-      "price": "~$56,990"
+      "price": "~$56,990",
+      "aspiration": "Electric"
     },
     "BYD|Seal|2023|AWD Performance": {
       "engine": "Dual Motor Electric",
@@ -138,7 +144,8 @@
       "topSpeed": 200,
       "cargo": 402,
       "quarterMile": "~12.3 sec",
-      "price": "~$66,990"
+      "price": "~$66,990",
+      "aspiration": "Electric"
     },
     "BYD|Seal|2025|Standard Range RWD": {
       "engine": "Single Motor Electric",
@@ -158,7 +165,8 @@
       "topSpeed": 180,
       "cargo": 402,
       "quarterMile": "~15.6 sec",
-      "price": "~$51,990"
+      "price": "~$51,990",
+      "aspiration": "Electric"
     },
     "BYD|Seal|2025|Long Range RWD": {
       "engine": "Single Motor Electric",
@@ -178,7 +186,8 @@
       "topSpeed": 180,
       "cargo": 402,
       "quarterMile": "~14.2 sec",
-      "price": "~$58,990"
+      "price": "~$58,990",
+      "aspiration": "Electric"
     },
     "BYD|Seal|2025|AWD Performance": {
       "engine": "Dual Motor Electric",
@@ -198,7 +207,8 @@
       "topSpeed": 200,
       "cargo": 402,
       "quarterMile": "~12.3 sec",
-      "price": "~$68,990"
+      "price": "~$68,990",
+      "aspiration": "Electric"
     },
     "BYD|Dolphin|2023|Standard Range": {
       "engine": "Single Motor Electric",
@@ -218,7 +228,8 @@
       "topSpeed": 150,
       "cargo": 345,
       "quarterMile": "~18.6 sec",
-      "price": "~$34,990"
+      "price": "~$34,990",
+      "aspiration": "Electric"
     },
     "BYD|Dolphin|2023|Extended Range": {
       "engine": "Single Motor Electric",
@@ -238,7 +249,8 @@
       "topSpeed": 160,
       "cargo": 345,
       "quarterMile": "~15.2 sec",
-      "price": "~$40,990"
+      "price": "~$40,990",
+      "aspiration": "Electric"
     },
     "BYD|Dolphin|2025|Standard Range": {
       "engine": "Single Motor Electric",
@@ -258,7 +270,8 @@
       "topSpeed": 150,
       "cargo": 345,
       "quarterMile": "~18.6 sec",
-      "price": "~$35,990"
+      "price": "~$35,990",
+      "aspiration": "Electric"
     },
     "BYD|Dolphin|2025|Extended Range": {
       "engine": "Single Motor Electric",
@@ -278,7 +291,8 @@
       "topSpeed": 160,
       "cargo": 345,
       "quarterMile": "~15.2 sec",
-      "price": "~$41,990"
+      "price": "~$41,990",
+      "aspiration": "Electric"
     },
     "BYD|Shark|2025|Premium": {
       "engine": "1.5L I4 Turbo PHEV",
@@ -299,7 +313,8 @@
       "quarterMile": "~14.0 sec",
       "fh": 4.3,
       "fx": 6.5,
-      "price": "~$69,990"
+      "price": "~$69,990",
+      "aspiration": "Turbo"
     },
     "BYD|Shark|2026|Premium": {
       "engine": "1.5L I4 Turbo PHEV",
@@ -320,7 +335,8 @@
       "quarterMile": "~14.0 sec",
       "fh": 4.3,
       "fx": 6.5,
-      "price": "~$69,990"
+      "price": "~$69,990",
+      "aspiration": "Turbo"
     },
     "BYD|Sealion 6|2024|PHEV": {
       "engine": "1.5L I4 PHEV",
@@ -341,7 +357,8 @@
       "quarterMile": "~14.9 sec",
       "fh": 0.8,
       "fx": 1.2,
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "aspiration": "Turbo"
     },
     "BYD|Sealion 6|2024|PHEV AWD": {
       "engine": "1.5L I4 PHEV AWD",
@@ -362,7 +379,8 @@
       "quarterMile": "~14.2 sec",
       "fh": 0.8,
       "fx": 1.2,
-      "price": "~$51,990"
+      "price": "~$51,990",
+      "aspiration": "Turbo"
     },
     "BYD|Sealion 6|2025|PHEV": {
       "engine": "1.5L I4 PHEV",
@@ -383,7 +401,8 @@
       "quarterMile": "~14.9 sec",
       "fh": 0.8,
       "fx": 1.2,
-      "price": "~$46,990"
+      "price": "~$46,990",
+      "aspiration": "Turbo"
     },
     "BYD|Sealion 6|2025|PHEV AWD": {
       "engine": "1.5L I4 PHEV AWD",
@@ -404,7 +423,8 @@
       "quarterMile": "~14.2 sec",
       "fh": 0.8,
       "fx": 1.2,
-      "price": "~$53,990"
+      "price": "~$53,990",
+      "aspiration": "Turbo"
     },
     "BYD|Sealion 7|2024|Standard Range": {
       "engine": "Single Motor Electric",
@@ -424,7 +444,8 @@
       "topSpeed": 170,
       "cargo": 520,
       "quarterMile": "~14.8 sec",
-      "price": "~$46,990"
+      "price": "~$46,990",
+      "aspiration": "Electric"
     },
     "BYD|Sealion 7|2024|Long Range AWD": {
       "engine": "Dual Motor Electric",
@@ -444,7 +465,8 @@
       "topSpeed": 185,
       "cargo": 520,
       "quarterMile": "~13.0 sec",
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "aspiration": "Electric"
     },
     "BYD|Sealion 7|2025|Standard Range": {
       "engine": "Single Motor Electric",
@@ -464,7 +486,8 @@
       "topSpeed": 170,
       "cargo": 520,
       "quarterMile": "~14.8 sec",
-      "price": "~$48,990"
+      "price": "~$48,990",
+      "aspiration": "Electric"
     },
     "BYD|Sealion 7|2025|Long Range AWD": {
       "engine": "Dual Motor Electric",
@@ -484,7 +507,8 @@
       "topSpeed": 185,
       "cargo": 520,
       "quarterMile": "~13.0 sec",
-      "price": "~$56,990"
+      "price": "~$56,990",
+      "aspiration": "Electric"
     }
   }
 }

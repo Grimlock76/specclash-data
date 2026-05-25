@@ -19,7 +19,8 @@
       "topSpeed": 180,
       "cargo": 1090,
       "quarterMile": "~16.1 sec",
-      "price": "~$89,950"
+      "price": "~$89,950",
+      "aspiration": "NA"
     },
     "RAM|1500 Classic|2019|Warlock": {
       "engine": "5.7L HEMI V8",
@@ -40,7 +41,8 @@
       "topSpeed": 180,
       "cargo": 1090,
       "quarterMile": "~16.2 sec",
-      "price": "~$97,950"
+      "price": "~$97,950",
+      "aspiration": "NA"
     },
     "RAM|1500 Classic|2019|Laramie Sport": {
       "engine": "5.7L HEMI V8",
@@ -61,7 +63,8 @@
       "topSpeed": 180,
       "cargo": 1090,
       "quarterMile": "~16.3 sec",
-      "price": "~$107,950"
+      "price": "~$107,950",
+      "aspiration": "NA"
     },
     "RAM|1500|2019|Express": {
       "engine": "5.7L HEMI V8",
@@ -82,7 +85,8 @@
       "topSpeed": 185,
       "cargo": 1090,
       "quarterMile": "~15.8 sec",
-      "price": "~$99,950"
+      "price": "~$99,950",
+      "aspiration": "NA"
     },
     "RAM|1500|2019|Warlock": {
       "engine": "5.7L HEMI V8",
@@ -103,7 +107,8 @@
       "topSpeed": 185,
       "cargo": 1090,
       "quarterMile": "~15.9 sec",
-      "price": "~$109,950"
+      "price": "~$109,950",
+      "aspiration": "NA"
     },
     "RAM|1500|2019|Laramie": {
       "engine": "5.7L HEMI V8",
@@ -124,7 +129,8 @@
       "topSpeed": 183,
       "cargo": 1090,
       "quarterMile": "~16.0 sec",
-      "price": "~$119,950"
+      "price": "~$119,950",
+      "aspiration": "NA"
     },
     "RAM|1500|2019|Limited": {
       "engine": "5.7L HEMI V8",
@@ -145,7 +151,8 @@
       "topSpeed": 183,
       "cargo": 1090,
       "quarterMile": "~16.1 sec",
-      "price": "~$134,950"
+      "price": "~$134,950",
+      "aspiration": "NA"
     },
     "RAM|1500|2022|Express": {
       "engine": "5.7L HEMI V8",
@@ -166,7 +173,8 @@
       "topSpeed": 185,
       "cargo": 1090,
       "quarterMile": "~15.8 sec",
-      "price": "~$104,950"
+      "price": "~$104,950",
+      "aspiration": "NA"
     },
     "RAM|1500|2022|Warlock": {
       "engine": "5.7L HEMI V8",
@@ -187,7 +195,8 @@
       "topSpeed": 185,
       "cargo": 1090,
       "quarterMile": "~15.9 sec",
-      "price": "~$114,950"
+      "price": "~$114,950",
+      "aspiration": "NA"
     },
     "RAM|1500|2022|Laramie": {
       "engine": "5.7L HEMI V8",
@@ -208,7 +217,8 @@
       "topSpeed": 183,
       "cargo": 1090,
       "quarterMile": "~16.0 sec",
-      "price": "~$124,950"
+      "price": "~$124,950",
+      "aspiration": "NA"
     },
     "RAM|1500|2022|Limited": {
       "engine": "5.7L HEMI V8",
@@ -229,7 +239,8 @@
       "topSpeed": 183,
       "cargo": 1090,
       "quarterMile": "~16.1 sec",
-      "price": "~$139,950"
+      "price": "~$139,950",
+      "aspiration": "NA"
     },
     "RAM|1500|2024|Express": {
       "engine": "5.7L HEMI V8",
@@ -250,7 +261,8 @@
       "topSpeed": 185,
       "cargo": 1090,
       "quarterMile": "~15.8 sec",
-      "price": "~$109,950"
+      "price": "~$109,950",
+      "aspiration": "NA"
     },
     "RAM|1500|2024|Warlock": {
       "engine": "5.7L HEMI V8",
@@ -271,7 +283,8 @@
       "topSpeed": 185,
       "cargo": 1090,
       "quarterMile": "~15.9 sec",
-      "price": "~$119,950"
+      "price": "~$119,950",
+      "aspiration": "NA"
     },
     "RAM|1500|2024|Laramie": {
       "engine": "5.7L HEMI V8",
@@ -292,7 +305,8 @@
       "topSpeed": 183,
       "cargo": 1090,
       "quarterMile": "~16.0 sec",
-      "price": "~$129,950"
+      "price": "~$129,950",
+      "aspiration": "NA"
     },
     "RAM|1500|2024|Limited": {
       "engine": "5.7L HEMI V8",
@@ -313,7 +327,8 @@
       "topSpeed": 183,
       "cargo": 1090,
       "quarterMile": "~16.1 sec",
-      "price": "~$144,950"
+      "price": "~$144,950",
+      "aspiration": "NA"
     },
     "RAM|1500 TRX|2022|TRX": {
       "engine": "6.2L Supercharged HEMI V8",
@@ -334,7 +349,8 @@
       "topSpeed": 190,
       "cargo": 1090,
       "quarterMile": "~12.8 sec",
-      "price": "~$169,950"
+      "price": "~$169,950",
+      "aspiration": "Supercharged"
     },
     "RAM|1500 TRX|2024|TRX": {
       "engine": "6.2L Supercharged HEMI V8",
@@ -355,7 +371,8 @@
       "topSpeed": 190,
       "cargo": 1090,
       "quarterMile": "~12.8 sec",
-      "price": "~$179,950"
+      "price": "~$179,950",
+      "aspiration": "Supercharged"
     },
     "RAM|2500|2021|Laramie": {
       "engine": "6.7L Cummins Turbo I6",
@@ -376,7 +393,8 @@
       "topSpeed": 165,
       "cargo": 1090,
       "quarterMile": "~17.8 sec",
-      "price": "~$149,950"
+      "price": "~$149,950",
+      "aspiration": "Turbo"
     },
     "RAM|2500|2021|Longhorn": {
       "engine": "6.7L Cummins Turbo I6",
@@ -397,7 +415,8 @@
       "topSpeed": 165,
       "cargo": 1090,
       "quarterMile": "~18.0 sec",
-      "price": "~$169,950"
+      "price": "~$169,950",
+      "aspiration": "Turbo"
     },
     "RAM|2500|2024|Laramie": {
       "engine": "6.7L Cummins Turbo I6",
@@ -418,7 +437,8 @@
       "topSpeed": 165,
       "cargo": 1090,
       "quarterMile": "~17.8 sec",
-      "price": "~$154,950"
+      "price": "~$154,950",
+      "aspiration": "Turbo"
     },
     "RAM|2500|2024|Longhorn": {
       "engine": "6.7L Cummins Turbo I6",
@@ -439,7 +459,8 @@
       "topSpeed": 165,
       "cargo": 1090,
       "quarterMile": "~18.0 sec",
-      "price": "~$174,950"
+      "price": "~$174,950",
+      "aspiration": "Turbo"
     }
   }
 }

@@ -19,7 +19,8 @@
       "wt": "2,010 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$42,990"
+      "pr": "~$42,990",
+      "aspiration": "NA"
     },
     "Ford|Territory|2004|Ghia": {
       "en": "4.0L Barra I6",
@@ -39,7 +40,8 @@
       "wt": "2,030 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$47,990"
+      "pr": "~$47,990",
+      "aspiration": "NA"
     },
     "Ford|Territory|2005|TS": {
       "en": "4.0L Barra I6",
@@ -59,7 +61,8 @@
       "wt": "2,010 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$43,490"
+      "pr": "~$43,490",
+      "aspiration": "NA"
     },
     "Ford|Territory|2005|Ghia": {
       "en": "4.0L Barra I6",
@@ -79,7 +82,8 @@
       "wt": "2,030 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$48,490"
+      "pr": "~$48,490",
+      "aspiration": "NA"
     },
     "Ford|Territory|2007|SY TS": {
       "en": "4.0L Barra I6",
@@ -99,7 +103,8 @@
       "wt": "2,030 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$44,990"
+      "pr": "~$44,990",
+      "aspiration": "NA"
     },
     "Ford|Territory|2007|SY Ghia": {
       "en": "4.0L Barra I6",
@@ -119,7 +124,8 @@
       "wt": "2,050 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$49,990"
+      "pr": "~$49,990",
+      "aspiration": "NA"
     },
     "Ford|Territory|2007|SY SR": {
       "en": "4.0L Barra I6",
@@ -139,7 +145,8 @@
       "wt": "2,030 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$52,990"
+      "pr": "~$52,990",
+      "aspiration": "NA"
     },
     "Ford|Territory|2009|SY Mk2 TX": {
       "en": "4.0L Barra I6",
@@ -159,7 +166,8 @@
       "wt": "2,030 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$39,990"
+      "pr": "~$39,990",
+      "aspiration": "NA"
     },
     "Ford|Territory|2009|SY Mk2 TS": {
       "en": "4.0L Barra I6",
@@ -179,7 +187,8 @@
       "wt": "2,030 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$44,990"
+      "pr": "~$44,990",
+      "aspiration": "NA"
     },
     "Ford|Territory|2009|SY Mk2 Ghia": {
       "en": "4.0L Barra I6",
@@ -199,7 +208,8 @@
       "wt": "2,050 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$49,990"
+      "pr": "~$49,990",
+      "aspiration": "NA"
     },
     "Ford|Territory|2009|SY Mk2 SR": {
       "en": "4.0L Barra I6",
@@ -219,7 +229,8 @@
       "wt": "2,030 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$52,990"
+      "pr": "~$52,990",
+      "aspiration": "NA"
     },
     "Ford|Territory|2011|SZ TX": {
       "en": "2.7L TDCi Diesel V6",
@@ -239,7 +250,8 @@
       "wt": "2,100 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$37,990"
+      "pr": "~$37,990",
+      "aspiration": "Turbo"
     },
     "Ford|Territory|2011|SZ TS": {
       "en": "2.7L TDCi Diesel V6",
@@ -259,7 +271,8 @@
       "wt": "2,100 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$43,990"
+      "pr": "~$43,990",
+      "aspiration": "Turbo"
     },
     "Ford|Territory|2013|SZ TX": {
       "en": "2.7L TDCi Diesel V6",
@@ -279,7 +292,8 @@
       "wt": "2,100 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$37,990"
+      "pr": "~$37,990",
+      "aspiration": "Turbo"
     },
     "Ford|Territory|2013|SZ TS": {
       "en": "2.7L TDCi Diesel V6",
@@ -299,7 +313,8 @@
       "wt": "2,100 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$43,990"
+      "pr": "~$43,990",
+      "aspiration": "Turbo"
     },
     "Ford|Territory|2015|SZ Mk2 TX": {
       "en": "2.0L EcoBoost Turbo I4",
@@ -319,7 +334,8 @@
       "wt": "1,990 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$35,990"
+      "pr": "~$35,990",
+      "aspiration": "Turbo"
     },
     "Ford|Territory|2015|SZ Mk2 TS": {
       "en": "2.0L EcoBoost Turbo I4",
@@ -339,7 +355,8 @@
       "wt": "1,990 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$40,990"
+      "pr": "~$40,990",
+      "aspiration": "Turbo"
     },
     "Ford|Territory|2015|SZ Mk2 Titanium": {
       "en": "2.0L EcoBoost Turbo I4",
@@ -359,7 +376,8 @@
       "wt": "2,005 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$46,990"
+      "pr": "~$46,990",
+      "aspiration": "Turbo"
     },
     "Ford|Territory|2016|SZ Mk2 TX": {
       "en": "2.0L EcoBoost Turbo I4",
@@ -379,7 +397,8 @@
       "wt": "1,990 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$35,990"
+      "pr": "~$35,990",
+      "aspiration": "Turbo"
     },
     "Ford|Territory|2016|SZ Mk2 TS": {
       "en": "2.0L EcoBoost Turbo I4",
@@ -399,7 +418,8 @@
       "wt": "1,990 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$40,990"
+      "pr": "~$40,990",
+      "aspiration": "Turbo"
     },
     "Ford|Territory|2016|SZ Mk2 Titanium": {
       "en": "2.0L EcoBoost Turbo I4",
@@ -419,7 +439,8 @@
       "wt": "2,005 kg",
       "se": "7",
       "ca": "560 L",
-      "pr": "~$46,990"
+      "pr": "~$46,990",
+      "aspiration": "Turbo"
     },
     "Ford|Ranger|2006|PJ XL": {
       "en": "2.5L WLAT Diesel I4",
@@ -439,7 +460,8 @@
       "wt": "1,630 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$26,990"
+      "pr": "~$26,990",
+      "aspiration": "Turbo"
     },
     "Ford|Ranger|2006|PJ XLT": {
       "en": "3.0L WEAT Diesel I4",
@@ -459,7 +481,8 @@
       "wt": "1,700 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$32,990"
+      "pr": "~$32,990",
+      "aspiration": "Turbo"
     },
     "Ford|Ranger|2006|PJ Wildtrak": {
       "en": "3.0L WEAT Diesel I4",
@@ -479,7 +502,8 @@
       "wt": "1,700 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$37,990"
+      "pr": "~$37,990",
+      "aspiration": "Turbo"
     },
     "Ford|Ranger|2009|PK XL": {
       "en": "2.5L WLAT Diesel I4",
@@ -499,7 +523,8 @@
       "wt": "1,630 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$28,990"
+      "pr": "~$28,990",
+      "aspiration": "Turbo"
     },
     "Ford|Ranger|2009|PK XLT": {
       "en": "3.0L WEAT Diesel I4",
@@ -519,7 +544,8 @@
       "wt": "1,700 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$34,990"
+      "pr": "~$34,990",
+      "aspiration": "Turbo"
     },
     "Ford|Ranger|2009|PK Wildtrak": {
       "en": "3.0L WEAT Diesel I4",
@@ -539,7 +565,8 @@
       "wt": "1,700 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$39,990"
+      "pr": "~$39,990",
+      "aspiration": "Turbo"
     },
     "Ford|Ranger|2011|PX XLT": {
       "en": "3.2L Duratorq Diesel I5",
@@ -559,7 +586,8 @@
       "wt": "2,025 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$43,990"
+      "pr": "~$43,990",
+      "aspiration": "Turbo"
     },
     "Ford|Ranger|2011|PX XLS": {
       "en": "2.2L Duratorq Diesel I4",
@@ -579,7 +607,8 @@
       "wt": "1,965 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$36,990"
+      "pr": "~$36,990",
+      "aspiration": "Turbo"
     },
     "Ford|Ranger|2013|PX XLS": {
       "en": "2.2L Duratorq Diesel I4",
@@ -599,7 +628,8 @@
       "wt": "1,965 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$37,990"
+      "pr": "~$37,990",
+      "aspiration": "Turbo"
     },
     "Ford|Ranger|2013|PX FX4": {
       "en": "3.2L Duratorq Diesel I5",
@@ -619,7 +649,8 @@
       "wt": "2,025 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$47,990"
+      "pr": "~$47,990",
+      "aspiration": "Turbo"
     },
     "Ford|Ranger|2015|PX XLS": {
       "en": "2.2L Duratorq Diesel I4",
@@ -639,7 +670,8 @@
       "wt": "1,965 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$38,990"
+      "pr": "~$38,990",
+      "aspiration": "Turbo"
     },
     "Ford|Ranger|2015|PX FX4": {
       "en": "3.2L Duratorq Diesel I5",
@@ -659,7 +691,8 @@
       "wt": "2,025 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$48,990"
+      "pr": "~$48,990",
+      "aspiration": "Turbo"
     },
     "Ford|Ranger|2016|PX Mk2 XLS": {
       "en": "2.2L Duratorq Diesel I4",
@@ -679,7 +712,8 @@
       "wt": "1,965 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$39,990"
+      "pr": "~$39,990",
+      "aspiration": "Turbo"
     },
     "Ford|Ranger|2016|PX Mk2 FX4": {
       "en": "3.2L Duratorq Diesel I5",
@@ -699,7 +733,8 @@
       "wt": "2,025 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$49,990"
+      "pr": "~$49,990",
+      "aspiration": "Turbo"
     },
     "Ford|Ranger|2022|P703 FX4 Max": {
       "en": "2.0L Bi-Turbo Diesel I4",
@@ -719,7 +754,8 @@
       "wt": "2,170 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$62,990"
+      "pr": "~$62,990",
+      "aspiration": "Turbo"
     },
     "Ford|Ranger|2023|P703 FX4 Max": {
       "en": "2.0L Bi-Turbo Diesel I4",
@@ -739,7 +775,8 @@
       "wt": "2,170 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$63,990"
+      "pr": "~$63,990",
+      "aspiration": "Turbo"
     },
     "Ford|Ranger|2024|P703 FX4 Max": {
       "en": "2.0L Bi-Turbo Diesel I4",
@@ -759,7 +796,8 @@
       "wt": "2,170 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$64,990"
+      "pr": "~$64,990",
+      "aspiration": "Turbo"
     },
     "Ford|Everest|2015|UA Ambiente": {
       "en": "3.2L Duratorq Diesel I5",
@@ -779,7 +817,8 @@
       "wt": "2,245 kg",
       "se": "7",
       "ca": "810 L",
-      "pr": "~$49,990"
+      "pr": "~$49,990",
+      "aspiration": "Turbo"
     },
     "Ford|Everest|2017|UA Ambiente": {
       "en": "3.2L Duratorq Diesel I5",
@@ -799,7 +838,8 @@
       "wt": "2,245 kg",
       "se": "7",
       "ca": "810 L",
-      "pr": "~$50,990"
+      "pr": "~$50,990",
+      "aspiration": "Turbo"
     },
     "Ford|Everest|2017|UA Sport": {
       "en": "3.2L Duratorq Diesel I5",
@@ -819,7 +859,8 @@
       "wt": "2,245 kg",
       "se": "7",
       "ca": "810 L",
-      "pr": "~$58,990"
+      "pr": "~$58,990",
+      "aspiration": "Turbo"
     },
     "Ford|Everest|2019|UA Ambiente": {
       "en": "2.0L Bi-Turbo Diesel I4",
@@ -839,7 +880,8 @@
       "wt": "2,265 kg",
       "se": "7",
       "ca": "810 L",
-      "pr": "~$51,990"
+      "pr": "~$51,990",
+      "aspiration": "Turbo"
     },
     "Ford|Everest|2019|UA Sport": {
       "en": "2.0L Bi-Turbo Diesel I4",
@@ -859,7 +901,8 @@
       "wt": "2,265 kg",
       "se": "7",
       "ca": "810 L",
-      "pr": "~$59,990"
+      "pr": "~$59,990",
+      "aspiration": "Turbo"
     },
     "Ford|Everest|2021|UA Ambiente": {
       "en": "2.0L Bi-Turbo Diesel I4",
@@ -879,7 +922,8 @@
       "wt": "2,265 kg",
       "se": "7",
       "ca": "810 L",
-      "pr": "~$53,990"
+      "pr": "~$53,990",
+      "aspiration": "Turbo"
     },
     "Ford|Everest|2021|UA Trend": {
       "en": "2.0L Bi-Turbo Diesel I4",
@@ -899,7 +943,8 @@
       "wt": "2,265 kg",
       "se": "7",
       "ca": "810 L",
-      "pr": "~$57,990"
+      "pr": "~$57,990",
+      "aspiration": "Turbo"
     },
     "Ford|Everest|2021|UA Sport": {
       "en": "2.0L Bi-Turbo Diesel I4",
@@ -919,7 +964,8 @@
       "wt": "2,265 kg",
       "se": "7",
       "ca": "810 L",
-      "pr": "~$62,990"
+      "pr": "~$62,990",
+      "aspiration": "Turbo"
     },
     "Ford|Everest|2022|UB Ambiente": {
       "en": "2.0L Bi-Turbo Diesel I4",
@@ -939,7 +985,8 @@
       "wt": "2,300 kg",
       "se": "7",
       "ca": "810 L",
-      "pr": "~$57,990"
+      "pr": "~$57,990",
+      "aspiration": "Turbo"
     },
     "Ford|Everest|2022|UB Trend": {
       "en": "2.0L Bi-Turbo Diesel I4",
@@ -959,7 +1006,8 @@
       "wt": "2,300 kg",
       "se": "7",
       "ca": "810 L",
-      "pr": "~$62,990"
+      "pr": "~$62,990",
+      "aspiration": "Turbo"
     },
     "Ford|Everest|2023|UB Ambiente": {
       "en": "2.0L Bi-Turbo Diesel I4",
@@ -979,7 +1027,8 @@
       "wt": "2,300 kg",
       "se": "7",
       "ca": "810 L",
-      "pr": "~$58,990"
+      "pr": "~$58,990",
+      "aspiration": "Turbo"
     },
     "Ford|Everest|2023|UB Trend": {
       "en": "2.0L Bi-Turbo Diesel I4",
@@ -999,7 +1048,8 @@
       "wt": "2,300 kg",
       "se": "7",
       "ca": "810 L",
-      "pr": "~$63,990"
+      "pr": "~$63,990",
+      "aspiration": "Turbo"
     },
     "Ford|Everest|2024|UB Ambiente": {
       "en": "2.0L Bi-Turbo Diesel I4",
@@ -1019,7 +1069,8 @@
       "wt": "2,300 kg",
       "se": "7",
       "ca": "810 L",
-      "pr": "~$59,990"
+      "pr": "~$59,990",
+      "aspiration": "Turbo"
     },
     "Ford|Everest|2024|UB Trend": {
       "en": "2.0L Bi-Turbo Diesel I4",
@@ -1039,7 +1090,8 @@
       "wt": "2,300 kg",
       "se": "7",
       "ca": "810 L",
-      "pr": "~$64,990"
+      "pr": "~$64,990",
+      "aspiration": "Turbo"
     },
     "Ford|Escape|2001|ZA Ambiente": {
       "en": "2.3L Duratec I4",
@@ -1059,7 +1111,8 @@
       "wt": "1,555 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$27,990"
+      "pr": "~$27,990",
+      "aspiration": "NA"
     },
     "Ford|Escape|2001|ZA Freestyle": {
       "en": "2.3L Duratec I4",
@@ -1079,7 +1132,8 @@
       "wt": "1,610 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$31,990"
+      "pr": "~$31,990",
+      "aspiration": "NA"
     },
     "Ford|Escape|2003|ZA Ambiente": {
       "en": "2.3L Duratec I4",
@@ -1099,7 +1153,8 @@
       "wt": "1,555 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$28,490"
+      "pr": "~$28,490",
+      "aspiration": "NA"
     },
     "Ford|Escape|2003|ZA Freestyle": {
       "en": "2.3L Duratec I4",
@@ -1119,7 +1174,8 @@
       "wt": "1,610 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$32,490"
+      "pr": "~$32,490",
+      "aspiration": "NA"
     },
     "Ford|Escape|2003|ZA XLT": {
       "en": "3.0L Duratec V6",
@@ -1139,7 +1195,8 @@
       "wt": "1,655 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$37,490"
+      "pr": "~$37,490",
+      "aspiration": "NA"
     },
     "Ford|Escape|2004|ZC Ambiente": {
       "en": "2.3L Duratec I4",
@@ -1159,7 +1216,8 @@
       "wt": "1,555 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$28,990"
+      "pr": "~$28,990",
+      "aspiration": "NA"
     },
     "Ford|Escape|2004|ZC Freestyle": {
       "en": "2.3L Duratec I4",
@@ -1179,7 +1237,8 @@
       "wt": "1,610 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$33,990"
+      "pr": "~$33,990",
+      "aspiration": "NA"
     },
     "Ford|Escape|2008|ZD Ambiente": {
       "en": "2.3L Duratec I4",
@@ -1199,7 +1258,8 @@
       "wt": "1,575 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$28,990"
+      "pr": "~$28,990",
+      "aspiration": "NA"
     },
     "Ford|Escape|2008|ZD Freestyle": {
       "en": "2.3L Duratec I4",
@@ -1219,7 +1279,8 @@
       "wt": "1,630 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$32,990"
+      "pr": "~$32,990",
+      "aspiration": "NA"
     },
     "Ford|Escape|2008|ZD XLT": {
       "en": "3.0L Duratec V6",
@@ -1239,7 +1300,8 @@
       "wt": "1,660 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$38,990"
+      "pr": "~$38,990",
+      "aspiration": "NA"
     },
     "Ford|Escape|2012|ZF Ambiente": {
       "en": "1.6L EcoBoost Turbo I4",
@@ -1259,7 +1321,8 @@
       "wt": "1,558 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$27,990"
+      "pr": "~$27,990",
+      "aspiration": "Turbo"
     },
     "Ford|Escape|2012|ZF Titanium": {
       "en": "2.0L EcoBoost Turbo I4",
@@ -1279,7 +1342,8 @@
       "wt": "1,636 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$36,990"
+      "pr": "~$36,990",
+      "aspiration": "Turbo"
     },
     "Ford|Escape|2014|ZF Ambiente": {
       "en": "1.6L EcoBoost Turbo I4",
@@ -1299,7 +1363,8 @@
       "wt": "1,558 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$28,990"
+      "pr": "~$28,990",
+      "aspiration": "Turbo"
     },
     "Ford|Escape|2014|ZF Titanium": {
       "en": "2.0L EcoBoost Turbo I4",
@@ -1319,7 +1384,8 @@
       "wt": "1,636 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$37,990"
+      "pr": "~$37,990",
+      "aspiration": "Turbo"
     },
     "Ford|Escape|2018|ZG Ambiente": {
       "en": "1.5L EcoBoost Turbo I4",
@@ -1339,7 +1405,8 @@
       "wt": "1,560 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$29,990"
+      "pr": "~$29,990",
+      "aspiration": "Turbo"
     },
     "Ford|Escape|2018|ZG Trend": {
       "en": "1.5L EcoBoost Turbo I4",
@@ -1359,7 +1426,8 @@
       "wt": "1,600 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$33,490"
+      "pr": "~$33,490",
+      "aspiration": "Turbo"
     },
     "Ford|Escape|2018|ZG ST-Line": {
       "en": "2.0L EcoBoost Turbo I4",
@@ -1379,7 +1447,8 @@
       "wt": "1,647 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$37,990"
+      "pr": "~$37,990",
+      "aspiration": "Turbo"
     },
     "Ford|Escape|2018|ZG Titanium": {
       "en": "2.0L EcoBoost Turbo I4",
@@ -1399,7 +1468,8 @@
       "wt": "1,647 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$39,990"
+      "pr": "~$39,990",
+      "aspiration": "Turbo"
     },
     "Ford|Escape|2020|ZG Ambiente": {
       "en": "1.5L EcoBoost Turbo I4",
@@ -1419,7 +1489,8 @@
       "wt": "1,560 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$30,990"
+      "pr": "~$30,990",
+      "aspiration": "Turbo"
     },
     "Ford|Escape|2020|ZG Trend": {
       "en": "1.5L EcoBoost Turbo I4",
@@ -1439,7 +1510,8 @@
       "wt": "1,600 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$34,490"
+      "pr": "~$34,490",
+      "aspiration": "Turbo"
     },
     "Ford|Escape|2020|ZG ST-Line": {
       "en": "2.0L EcoBoost Turbo I4",
@@ -1459,7 +1531,8 @@
       "wt": "1,647 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$38,990"
+      "pr": "~$38,990",
+      "aspiration": "Turbo"
     },
     "Ford|Escape|2020|ZG Titanium": {
       "en": "2.0L EcoBoost Turbo I4",
@@ -1479,7 +1552,8 @@
       "wt": "1,647 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$40,990"
+      "pr": "~$40,990",
+      "aspiration": "Turbo"
     },
     "Ford|Escape|2021|ZH Ambiente": {
       "en": "2.5L Atkinson FHEV Hybrid I4",
@@ -1499,7 +1573,8 @@
       "wt": "1,720 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$34,990"
+      "pr": "~$34,990",
+      "aspiration": "NA"
     },
     "Ford|Escape|2021|ZH Trend": {
       "en": "2.5L Atkinson FHEV Hybrid I4",
@@ -1519,7 +1594,8 @@
       "wt": "1,720 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$38,990"
+      "pr": "~$38,990",
+      "aspiration": "NA"
     },
     "Ford|Escape|2021|ZH ST-Line": {
       "en": "2.5L Atkinson FHEV Hybrid I4",
@@ -1539,7 +1615,8 @@
       "wt": "1,720 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$41,990"
+      "pr": "~$41,990",
+      "aspiration": "NA"
     },
     "Ford|Escape|2023|ZH Ambiente": {
       "en": "2.5L Atkinson FHEV Hybrid I4",
@@ -1559,7 +1636,8 @@
       "wt": "1,720 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$36,990"
+      "pr": "~$36,990",
+      "aspiration": "NA"
     },
     "Ford|Escape|2023|ZH Trend": {
       "en": "2.5L Atkinson FHEV Hybrid I4",
@@ -1579,7 +1657,8 @@
       "wt": "1,720 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$40,990"
+      "pr": "~$40,990",
+      "aspiration": "NA"
     },
     "Ford|Escape|2023|ZH ST-Line": {
       "en": "2.5L Atkinson FHEV Hybrid I4",
@@ -1599,7 +1678,8 @@
       "wt": "1,720 kg",
       "se": "5",
       "ca": "793 L",
-      "pr": "~$43,990"
+      "pr": "~$43,990",
+      "aspiration": "NA"
     },
     "Ford|Focus|2002|LR CL": {
       "en": "2.0L Zetec I4",
@@ -1619,7 +1699,8 @@
       "wt": "1,200 kg",
       "se": "5",
       "ca": "335 L",
-      "pr": "~$21,990"
+      "pr": "~$21,990",
+      "aspiration": "NA"
     },
     "Ford|Focus|2002|LR Zetec": {
       "en": "2.0L Zetec I4",
@@ -1639,7 +1720,8 @@
       "wt": "1,200 kg",
       "se": "5",
       "ca": "335 L",
-      "pr": "~$24,490"
+      "pr": "~$24,490",
+      "aspiration": "NA"
     },
     "Ford|Focus|2002|LR Ghia": {
       "en": "2.0L Zetec I4",
@@ -1659,7 +1741,8 @@
       "wt": "1,225 kg",
       "se": "5",
       "ca": "335 L",
-      "pr": "~$27,490"
+      "pr": "~$27,490",
+      "aspiration": "NA"
     },
     "Ford|Focus|2003|LR CL": {
       "en": "2.0L Zetec I4",
@@ -1679,7 +1762,8 @@
       "wt": "1,200 kg",
       "se": "5",
       "ca": "335 L",
-      "pr": "~$22,490"
+      "pr": "~$22,490",
+      "aspiration": "NA"
     },
     "Ford|Focus|2003|LR Zetec": {
       "en": "2.0L Zetec I4",
@@ -1699,7 +1783,8 @@
       "wt": "1,200 kg",
       "se": "5",
       "ca": "335 L",
-      "pr": "~$24,990"
+      "pr": "~$24,990",
+      "aspiration": "NA"
     },
     "Ford|Focus|2003|LR Ghia": {
       "en": "2.0L Zetec I4",
@@ -1719,7 +1804,8 @@
       "wt": "1,225 kg",
       "se": "5",
       "ca": "335 L",
-      "pr": "~$27,990"
+      "pr": "~$27,990",
+      "aspiration": "NA"
     },
     "Ford|Focus|2005|LS CL": {
       "en": "2.0L Zetec I4",
@@ -1739,7 +1825,8 @@
       "wt": "1,200 kg",
       "se": "5",
       "ca": "335 L",
-      "pr": "~$22,990"
+      "pr": "~$22,990",
+      "aspiration": "NA"
     },
     "Ford|Focus|2005|LS Zetec": {
       "en": "2.0L Duratec I4",
@@ -1759,7 +1846,8 @@
       "wt": "1,200 kg",
       "se": "5",
       "ca": "335 L",
-      "pr": "~$25,490"
+      "pr": "~$25,490",
+      "aspiration": "NA"
     },
     "Ford|Focus|2005|LS Ghia": {
       "en": "2.0L Duratec I4",
@@ -1779,7 +1867,8 @@
       "wt": "1,225 kg",
       "se": "5",
       "ca": "335 L",
-      "pr": "~$28,490"
+      "pr": "~$28,490",
+      "aspiration": "NA"
     },
     "Ford|Focus|2007|LT Zetec": {
       "en": "2.0L Duratec I4",
@@ -1799,7 +1888,8 @@
       "wt": "1,200 kg",
       "se": "5",
       "ca": "335 L",
-      "pr": "~$26,490"
+      "pr": "~$26,490",
+      "aspiration": "NA"
     },
     "Ford|Focus|2007|LT TDCi": {
       "en": "2.0L TDCi Diesel I4",
@@ -1819,7 +1909,8 @@
       "wt": "1,280 kg",
       "se": "5",
       "ca": "335 L",
-      "pr": "~$28,990"
+      "pr": "~$28,990",
+      "aspiration": "Turbo"
     },
     "Ford|Focus|2009|LV CL": {
       "en": "2.0L Duratec I4",
@@ -1839,7 +1930,8 @@
       "wt": "1,200 kg",
       "se": "5",
       "ca": "335 L",
-      "pr": "~$23,490"
+      "pr": "~$23,490",
+      "aspiration": "NA"
     },
     "Ford|Focus|2009|LV Zetec": {
       "en": "2.0L Duratec I4",
@@ -1859,7 +1951,8 @@
       "wt": "1,200 kg",
       "se": "5",
       "ca": "335 L",
-      "pr": "~$25,990"
+      "pr": "~$25,990",
+      "aspiration": "NA"
     },
     "Ford|Focus|2009|LV XR5 Turbo": {
       "en": "2.5L I5 Turbo (Volvo)",
@@ -1879,7 +1972,8 @@
       "wt": "1,406 kg",
       "se": "5",
       "ca": "335 L",
-      "pr": "~$34,990"
+      "pr": "~$34,990",
+      "aspiration": "Turbo"
     },
     "Ford|Focus|2011|LW Ambiente": {
       "en": "2.0L Ti-VCT I4",
@@ -1899,7 +1993,8 @@
       "wt": "1,310 kg",
       "se": "5",
       "ca": "385 L",
-      "pr": "~$24,990"
+      "pr": "~$24,990",
+      "aspiration": "NA"
     },
     "Ford|Focus|2011|LW Titanium": {
       "en": "1.6L EcoBoost Turbo I4",
@@ -1919,7 +2014,8 @@
       "wt": "1,320 kg",
       "se": "5",
       "ca": "385 L",
-      "pr": "~$31,990"
+      "pr": "~$31,990",
+      "aspiration": "Turbo"
     },
     "Ford|Focus|2013|LW Ambiente": {
       "en": "2.0L Ti-VCT I4",
@@ -1939,7 +2035,8 @@
       "wt": "1,310 kg",
       "se": "5",
       "ca": "385 L",
-      "pr": "~$25,490"
+      "pr": "~$25,490",
+      "aspiration": "NA"
     },
     "Ford|Focus|2013|LW Titanium": {
       "en": "1.6L EcoBoost Turbo I4",
@@ -1959,7 +2056,8 @@
       "wt": "1,320 kg",
       "se": "5",
       "ca": "385 L",
-      "pr": "~$32,490"
+      "pr": "~$32,490",
+      "aspiration": "Turbo"
     },
     "Ford|Focus|2015|LZ Ambiente": {
       "en": "1.5L EcoBoost Turbo I4",
@@ -1979,7 +2077,8 @@
       "wt": "1,285 kg",
       "se": "5",
       "ca": "385 L",
-      "pr": "~$23,990"
+      "pr": "~$23,990",
+      "aspiration": "Turbo"
     },
     "Ford|Focus|2015|LZ Trend": {
       "en": "1.5L EcoBoost Turbo I4",
@@ -1999,7 +2098,8 @@
       "wt": "1,285 kg",
       "se": "5",
       "ca": "385 L",
-      "pr": "~$26,990"
+      "pr": "~$26,990",
+      "aspiration": "Turbo"
     },
     "Ford|Focus|2015|LZ Titanium": {
       "en": "1.5L EcoBoost Turbo I4",
@@ -2019,7 +2119,8 @@
       "wt": "1,295 kg",
       "se": "5",
       "ca": "385 L",
-      "pr": "~$30,990"
+      "pr": "~$30,990",
+      "aspiration": "Turbo"
     },
     "Ford|Focus|2017|LZ Ambiente": {
       "en": "1.5L EcoBoost Turbo I4",
@@ -2039,7 +2140,8 @@
       "wt": "1,285 kg",
       "se": "5",
       "ca": "385 L",
-      "pr": "~$24,490"
+      "pr": "~$24,490",
+      "aspiration": "Turbo"
     },
     "Ford|Focus|2017|LZ Trend": {
       "en": "1.5L EcoBoost Turbo I4",
@@ -2059,7 +2161,8 @@
       "wt": "1,285 kg",
       "se": "5",
       "ca": "385 L",
-      "pr": "~$27,490"
+      "pr": "~$27,490",
+      "aspiration": "Turbo"
     },
     "Ford|Focus|2017|LZ Titanium": {
       "en": "1.5L EcoBoost Turbo I4",
@@ -2079,7 +2182,8 @@
       "wt": "1,295 kg",
       "se": "5",
       "ca": "385 L",
-      "pr": "~$31,490"
+      "pr": "~$31,490",
+      "aspiration": "Turbo"
     },
     "Ford|Focus|2018|LZ Ambiente": {
       "en": "1.5L EcoBoost Turbo I4",
@@ -2099,7 +2203,8 @@
       "wt": "1,285 kg",
       "se": "5",
       "ca": "385 L",
-      "pr": "~$24,490"
+      "pr": "~$24,490",
+      "aspiration": "Turbo"
     },
     "Ford|Focus|2018|LZ Trend": {
       "en": "1.5L EcoBoost Turbo I4",
@@ -2119,7 +2224,8 @@
       "wt": "1,285 kg",
       "se": "5",
       "ca": "385 L",
-      "pr": "~$27,490"
+      "pr": "~$27,490",
+      "aspiration": "Turbo"
     },
     "Ford|Focus|2018|LZ Titanium": {
       "en": "1.5L EcoBoost Turbo I4",
@@ -2139,7 +2245,8 @@
       "wt": "1,295 kg",
       "se": "5",
       "ca": "385 L",
-      "pr": "~$31,490"
+      "pr": "~$31,490",
+      "aspiration": "Turbo"
     },
     "Ford|F-150|2018|XLT": {
       "en": "5.0L Coyote V8",
@@ -2159,7 +2266,8 @@
       "wt": "2,040 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$55990"
+      "pr": "~$55990",
+      "aspiration": "NA"
     },
     "Ford|F-150|2018|Lariat": {
       "en": "5.0L Coyote V8",
@@ -2179,7 +2287,8 @@
       "wt": "2,040 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$65990"
+      "pr": "~$65990",
+      "aspiration": "NA"
     },
     "Ford|F-150|2018|Raptor": {
       "en": "3.5L EcoBoost Bi-Turbo V6",
@@ -2199,7 +2308,8 @@
       "wt": "2,508 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$99990"
+      "pr": "~$99990",
+      "aspiration": "Turbo"
     },
     "Ford|F-150|2019|XLT": {
       "en": "5.0L Coyote V8",
@@ -2219,7 +2329,8 @@
       "wt": "2,040 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$56990"
+      "pr": "~$56990",
+      "aspiration": "NA"
     },
     "Ford|F-150|2019|Lariat": {
       "en": "5.0L Coyote V8",
@@ -2239,7 +2350,8 @@
       "wt": "2,040 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$66990"
+      "pr": "~$66990",
+      "aspiration": "NA"
     },
     "Ford|F-150|2019|Raptor": {
       "en": "3.5L EcoBoost Bi-Turbo V6",
@@ -2259,7 +2371,8 @@
       "wt": "2,508 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$101990"
+      "pr": "~$101990",
+      "aspiration": "Turbo"
     },
     "Ford|F-150|2020|XLT": {
       "en": "5.0L Coyote V8",
@@ -2279,7 +2392,8 @@
       "wt": "2,040 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$60990"
+      "pr": "~$60990",
+      "aspiration": "NA"
     },
     "Ford|F-150|2020|Lariat": {
       "en": "5.0L Coyote V8",
@@ -2299,7 +2413,8 @@
       "wt": "2,040 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$72990"
+      "pr": "~$72990",
+      "aspiration": "NA"
     },
     "Ford|F-150|2021|XLT": {
       "en": "5.0L Coyote V8",
@@ -2319,7 +2434,8 @@
       "wt": "2,040 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$62490"
+      "pr": "~$62490",
+      "aspiration": "NA"
     },
     "Ford|F-150|2021|Lariat": {
       "en": "5.0L Coyote V8",
@@ -2339,7 +2455,8 @@
       "wt": "2,040 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$74490"
+      "pr": "~$74490",
+      "aspiration": "NA"
     },
     "Ford|F-150|2022|XLT": {
       "en": "5.0L Coyote V8",
@@ -2359,7 +2476,8 @@
       "wt": "2,040 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$63990"
+      "pr": "~$63990",
+      "aspiration": "NA"
     },
     "Ford|F-150|2022|Lariat": {
       "en": "5.0L Coyote V8",
@@ -2379,7 +2497,8 @@
       "wt": "2,040 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$75990"
+      "pr": "~$75990",
+      "aspiration": "NA"
     },
     "Ford|F-150|2023|XLT": {
       "en": "5.0L Coyote V8",
@@ -2399,7 +2518,8 @@
       "wt": "2,040 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$65490"
+      "pr": "~$65490",
+      "aspiration": "NA"
     },
     "Ford|F-150|2023|Lariat": {
       "en": "5.0L Coyote V8",
@@ -2419,7 +2539,8 @@
       "wt": "2,040 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$77490"
+      "pr": "~$77490",
+      "aspiration": "NA"
     },
     "Ford|F-150|2024|XLT": {
       "en": "5.0L Coyote V8",
@@ -2439,7 +2560,8 @@
       "wt": "2,040 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$66990"
+      "pr": "~$66990",
+      "aspiration": "NA"
     },
     "Ford|F-150|2024|Lariat": {
       "en": "5.0L Coyote V8",
@@ -2459,7 +2581,8 @@
       "wt": "2,040 kg",
       "se": "5",
       "ca": "Tray",
-      "pr": "~$78990"
+      "pr": "~$78990",
+      "aspiration": "NA"
     },
     "Ford|Puma|2020|ST-Line X": {
       "en": "1.0L EcoBoost mHEV I3",
@@ -2479,7 +2602,8 @@
       "wt": "1,297 kg",
       "se": "5",
       "ca": "456 L",
-      "pr": "~$37,990"
+      "pr": "~$37,990",
+      "aspiration": "Turbo"
     },
     "Ford|Puma|2021|ST-Line X": {
       "en": "1.0L EcoBoost mHEV I3",
@@ -2499,7 +2623,8 @@
       "wt": "1,297 kg",
       "se": "5",
       "ca": "456 L",
-      "pr": "~$38,490"
+      "pr": "~$38,490",
+      "aspiration": "Turbo"
     },
     "Ford|Puma|2022|ST-Line X": {
       "en": "1.0L EcoBoost mHEV I3",
@@ -2519,7 +2644,8 @@
       "wt": "1,297 kg",
       "se": "5",
       "ca": "456 L",
-      "pr": "~$38,990"
+      "pr": "~$38,990",
+      "aspiration": "Turbo"
     },
     "Ford|Puma|2023|ST-Line": {
       "en": "1.0L EcoBoost mHEV I3",
@@ -2539,7 +2665,8 @@
       "wt": "1,284 kg",
       "se": "5",
       "ca": "456 L",
-      "pr": "~$35,990"
+      "pr": "~$35,990",
+      "aspiration": "Turbo"
     },
     "Ford|Puma|2023|ST-Line X": {
       "en": "1.0L EcoBoost mHEV I3",
@@ -2559,7 +2686,8 @@
       "wt": "1,297 kg",
       "se": "5",
       "ca": "456 L",
-      "pr": "~$39,990"
+      "pr": "~$39,990",
+      "aspiration": "Turbo"
     },
     "Ford|Puma|2024|ST-Line": {
       "en": "1.0L EcoBoost mHEV I3",
@@ -2579,7 +2707,8 @@
       "wt": "1,284 kg",
       "se": "5",
       "ca": "456 L",
-      "pr": "~$36,990"
+      "pr": "~$36,990",
+      "aspiration": "Turbo"
     },
     "Ford|Puma|2024|ST-Line X": {
       "en": "1.0L EcoBoost mHEV I3",
@@ -2599,7 +2728,8 @@
       "wt": "1,297 kg",
       "se": "5",
       "ca": "456 L",
-      "pr": "~$40,990"
+      "pr": "~$40,990",
+      "aspiration": "Turbo"
     },
     "Ford|Puma|2024|ST": {
       "en": "1.5L EcoBoost Turbo I3",
@@ -2619,7 +2749,8 @@
       "wt": "1,380 kg",
       "se": "5",
       "ca": "456 L",
-      "pr": "~$50,990"
+      "pr": "~$50,990",
+      "aspiration": "Turbo"
     },
     "Ford|Falcon (BF)|2008|XR6": {
       "en": "4.0L Barra 195 I6",
@@ -2639,7 +2770,8 @@
       "wt": "1,680 kg",
       "se": "5",
       "ca": "465 L",
-      "pr": "~$38,990"
+      "pr": "~$38,990",
+      "aspiration": "NA"
     },
     "Ford|Falcon (BF)|2008|XR6 Turbo": {
       "en": "4.0L Barra 245T Turbo I6",
@@ -2659,7 +2791,8 @@
       "wt": "1,720 kg",
       "se": "5",
       "ca": "465 L",
-      "pr": "~$48,990"
+      "pr": "~$48,990",
+      "aspiration": "Turbo"
     },
     "Ford|Falcon (BF)|2008|XR8": {
       "en": "5.4L Boss 290 V8",
@@ -2679,7 +2812,8 @@
       "wt": "1,730 kg",
       "se": "5",
       "ca": "465 L",
-      "pr": "~$48,990"
+      "pr": "~$48,990",
+      "aspiration": "NA"
     },
     "Ford|Falcon (FG X)|2011|G6": {
       "en": "4.0L Barra I6",
@@ -2699,7 +2833,8 @@
       "wt": "1,630 kg",
       "se": "5",
       "ca": "465 L",
-      "pr": "~$38,990"
+      "pr": "~$38,990",
+      "aspiration": "NA"
     },
     "Ford|Falcon (FG X)|2011|G6E": {
       "en": "4.0L Barra Turbo I6",
@@ -2719,7 +2854,8 @@
       "wt": "1,680 kg",
       "se": "5",
       "ca": "465 L",
-      "pr": "~$43,990"
+      "pr": "~$43,990",
+      "aspiration": "Turbo"
     },
     "Ford|Falcon (FG X)|2011|XR6": {
       "en": "4.0L Barra I6",
@@ -2739,7 +2875,8 @@
       "wt": "1,630 kg",
       "se": "5",
       "ca": "465 L",
-      "pr": "~$38,990"
+      "pr": "~$38,990",
+      "aspiration": "NA"
     },
     "Ford|Falcon (FG X)|2011|XR6 Turbo": {
       "en": "4.0L Barra Turbo I6",
@@ -2759,7 +2896,8 @@
       "wt": "1,680 kg",
       "se": "5",
       "ca": "465 L",
-      "pr": "~$47,990"
+      "pr": "~$47,990",
+      "aspiration": "Turbo"
     },
     "Ford|Falcon (FG X)|2011|XR8": {
       "en": "5.4L Boss 315 V8",
@@ -2779,7 +2917,8 @@
       "wt": "1,720 kg",
       "se": "5",
       "ca": "465 L",
-      "pr": "~$52,990"
+      "pr": "~$52,990",
+      "aspiration": "NA"
     },
     "HSV Commodore|2007|VE Clubsport": {
       "en": "LS2 V8",
@@ -2799,7 +2938,8 @@
       "wt": "1,760 kg",
       "se": "5",
       "ca": "460 L",
-      "pr": "~$68,990"
+      "pr": "~$68,990",
+      "aspiration": "NA"
     },
     "HSV Commodore|2007|VE Maloo": {
       "en": "LS2 V8",
@@ -2819,7 +2959,8 @@
       "wt": "1,780 kg",
       "se": "2",
       "ca": "Tray",
-      "pr": "~$64,990"
+      "pr": "~$64,990",
+      "aspiration": "NA"
     },
     "HSV Commodore|2013|VF GTS GEN-F LS3": {
       "en": "LS3 V8",
@@ -2839,7 +2980,8 @@
       "wt": "1,810 kg",
       "se": "5",
       "ca": "460 L",
-      "pr": "~$74,990"
+      "pr": "~$74,990",
+      "aspiration": "NA"
     },
     "HSV Commodore|2013|VF Clubsport R8 LSA": {
       "en": "LSA Supercharged V8",
@@ -2859,7 +3001,8 @@
       "wt": "1,850 kg",
       "se": "5",
       "ca": "460 L",
-      "pr": "~$89,990"
+      "pr": "~$89,990",
+      "aspiration": "Supercharged"
     },
     "HSV Commodore|2013|VF Maloo R8 LSA": {
       "en": "LSA Supercharged V8",
@@ -2879,7 +3022,8 @@
       "wt": "1,870 kg",
       "se": "2",
       "ca": "Tray",
-      "pr": "~$85,990"
+      "pr": "~$85,990",
+      "aspiration": "Supercharged"
     },
     "HSV Commodore|2014|VF GTS GEN-F LS3": {
       "en": "LS3 V8",
@@ -2899,7 +3043,8 @@
       "wt": "1,810 kg",
       "se": "5",
       "ca": "460 L",
-      "pr": "~$75,990"
+      "pr": "~$75,990",
+      "aspiration": "NA"
     },
     "HSV Commodore|2014|VF Clubsport R8 LSA": {
       "en": "LSA Supercharged V8",
@@ -2919,7 +3064,8 @@
       "wt": "1,850 kg",
       "se": "5",
       "ca": "460 L",
-      "pr": "~$90,990"
+      "pr": "~$90,990",
+      "aspiration": "Supercharged"
     },
     "HSV Commodore|2014|VF Maloo R8 LSA": {
       "en": "LSA Supercharged V8",
@@ -2939,7 +3085,8 @@
       "wt": "1,870 kg",
       "se": "2",
       "ca": "Tray",
-      "pr": "~$86,990"
+      "pr": "~$86,990",
+      "aspiration": "Supercharged"
     }
   }
 }

@@ -11,7 +11,8 @@
       "ft": "Petrol",
       "wt": "1680 kg",
       "se": "5",
-      "pr": "$3,123"
+      "pr": "$3,123",
+      "aspiration": "NA"
     },
     "Chevrolet|Monte Carlo|1974|Base": {
       "en": "5.7L V8 OHV",
@@ -27,7 +28,8 @@
       "pr": "$3,856",
       "fc": "21.5",
       "fh": "14.5",
-      "fx": "18.5"
+      "fx": "18.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Monte Carlo|1978|Base": {
       "en": "3.8L V6 OHV",
@@ -43,7 +45,8 @@
       "pr": "$4,842",
       "fc": "18.0",
       "fh": "12.0",
-      "fx": "16.0"
+      "fx": "16.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Monte Carlo|1982|Base": {
       "en": "3.8L V6 OHV",
@@ -59,7 +62,8 @@
       "pr": "$7,953",
       "fc": "17.0",
       "fh": "11.0",
-      "fx": "14.5"
+      "fx": "14.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Monte Carlo|1986|Base": {
       "en": "4.3L V6 OHV",
@@ -75,7 +79,8 @@
       "pr": "$9,830",
       "fc": "16.0",
       "fh": "10.5",
-      "fx": "14.0"
+      "fx": "14.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Monte Carlo|1970|SS": {
       "en": "6.5L V8 OHV LS5",
@@ -91,7 +96,8 @@
       "pr": "$3,823",
       "z1": "~7.0 sec",
       "qm": "~14.8 sec",
-      "ts": "~210 km/h"
+      "ts": "~210 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Monte Carlo|1983|SS": {
       "en": "5.0L V8 OHV",
@@ -109,7 +115,8 @@
       "ts": "~185 km/h",
       "fc": "17.5",
       "fh": "11.5",
-      "fx": "15.0"
+      "fx": "15.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Monte Carlo|1987|SS": {
       "en": "5.0L V8 OHV",
@@ -127,7 +134,8 @@
       "ts": "~190 km/h",
       "fc": "17.0",
       "fh": "11.0",
-      "fx": "14.5"
+      "fx": "14.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Monte Carlo|2000|SS": {
       "en": "3.8L V6 Supercharged OHV",
@@ -145,7 +153,8 @@
       "ts": "~215 km/h",
       "fc": "14.5",
       "fh": "9.5",
-      "fx": "12.5"
+      "fx": "12.5",
+      "aspiration": "Supercharged"
     },
     "Chevrolet|Monte Carlo|2004|SS": {
       "en": "3.8L V6 Supercharged OHV",
@@ -163,7 +172,8 @@
       "ts": "~215 km/h",
       "fc": "14.5",
       "fh": "9.5",
-      "fx": "12.5"
+      "fx": "12.5",
+      "aspiration": "Supercharged"
     },
     "Chevrolet|Monte Carlo|2007|Supercharged SS": {
       "en": "3.9L V6 Supercharged OHV",
@@ -181,7 +191,8 @@
       "ts": "~215 km/h",
       "fc": "14.5",
       "fh": "9.5",
-      "fx": "12.5"
+      "fx": "12.5",
+      "aspiration": "Supercharged"
     },
     "Chevrolet|Monte Carlo|1974|Landau": {
       "en": "5.7L V8 OHV",
@@ -197,7 +208,8 @@
       "pr": "$4,308",
       "fc": "21.5",
       "fh": "14.5",
-      "fx": "18.5"
+      "fx": "18.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Monte Carlo|1978|Landau": {
       "en": "5.0L V8 OHV",
@@ -213,7 +225,8 @@
       "pr": "$5,502",
       "fc": "19.5",
       "fh": "13.0",
-      "fx": "17.0"
+      "fx": "17.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Monte Carlo|1979|T-Top": {
       "en": "5.0L V8 OHV",
@@ -229,7 +242,8 @@
       "pr": "$5,600",
       "fc": "19.5",
       "fh": "13.0",
-      "fx": "17.0"
+      "fx": "17.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Monte Carlo|1980|Turbo": {
       "en": "3.8L V6 Turbocharged OHV",
@@ -245,7 +259,8 @@
       "pr": "$8,348",
       "fc": "18.0",
       "fh": "12.0",
-      "fx": "16.0"
+      "fx": "16.0",
+      "aspiration": "Turbo"
     },
     "Chevrolet|Monte Carlo|1984|CL": {
       "en": "4.3L V6 OHV",
@@ -261,7 +276,8 @@
       "pr": "$9,024",
       "fc": "16.5",
       "fh": "11.0",
-      "fx": "14.5"
+      "fx": "14.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Monte Carlo|1997|LS": {
       "en": "3.1L V6 OHV",
@@ -279,7 +295,8 @@
       "ts": "~195 km/h",
       "fc": "13.0",
       "fh": "8.5",
-      "fx": "11.0"
+      "fx": "11.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Monte Carlo|2001|LS": {
       "en": "3.4L V6 OHV",
@@ -297,7 +314,8 @@
       "ts": "~200 km/h",
       "fc": "13.0",
       "fh": "8.5",
-      "fx": "11.0"
+      "fx": "11.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Monte Carlo|2005|LT": {
       "en": "3.9L V6 OHV",
@@ -315,7 +333,8 @@
       "ts": "~205 km/h",
       "fc": "13.5",
       "fh": "9.0",
-      "fx": "11.5"
+      "fx": "11.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Monte Carlo|1997|Z34": {
       "en": "3.4L V6 DOHC",
@@ -333,7 +352,8 @@
       "ts": "~210 km/h",
       "fc": "13.0",
       "fh": "8.5",
-      "fx": "11.0"
+      "fx": "11.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Caprice|1966|Base": {
       "en": "5.4L V8 OHV",
@@ -346,7 +366,8 @@
       "ft": "Petrol",
       "wt": "1740 kg",
       "se": "6",
-      "pr": "$3,000"
+      "pr": "$3,000",
+      "aspiration": "NA"
     },
     "Chevrolet|Caprice|1970|Base": {
       "en": "5.7L V8 OHV",
@@ -359,7 +380,8 @@
       "ft": "Petrol",
       "wt": "1870 kg",
       "se": "6",
-      "pr": "$3,748"
+      "pr": "$3,748",
+      "aspiration": "NA"
     },
     "Chevrolet|Caprice|1974|Base": {
       "en": "5.7L V8 OHV",
@@ -375,7 +397,8 @@
       "pr": "$4,345",
       "fc": "21.5",
       "fh": "14.5",
-      "fx": "18.5"
+      "fx": "18.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Caprice|1978|Base": {
       "en": "5.0L V8 OHV",
@@ -391,7 +414,8 @@
       "pr": "$5,533",
       "fc": "20.5",
       "fh": "13.5",
-      "fx": "17.5"
+      "fx": "17.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Caprice|1982|Base": {
       "en": "4.4L V8 OHV",
@@ -407,7 +431,8 @@
       "pr": "$9,050",
       "fc": "18.0",
       "fh": "12.0",
-      "fx": "15.5"
+      "fx": "15.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Caprice|1986|Base": {
       "en": "5.0L V8 OHV",
@@ -423,7 +448,8 @@
       "pr": "$11,530",
       "fc": "18.5",
       "fh": "12.5",
-      "fx": "16.0"
+      "fx": "16.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Caprice|1991|Base": {
       "en": "5.0L V8 OHV",
@@ -439,7 +465,8 @@
       "pr": "$17,595",
       "fc": "17.0",
       "fh": "11.5",
-      "fx": "14.5"
+      "fx": "14.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Caprice|1994|Base": {
       "en": "4.3L V8 OHV",
@@ -455,7 +482,8 @@
       "pr": "$19,995",
       "fc": "17.5",
       "fh": "12.0",
-      "fx": "15.0"
+      "fx": "15.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Caprice|1996|Base": {
       "en": "4.3L V8 OHV",
@@ -471,7 +499,8 @@
       "pr": "$21,345",
       "fc": "17.5",
       "fh": "12.0",
-      "fx": "15.0"
+      "fx": "15.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Caprice|1966|Custom": {
       "en": "5.4L V8 OHV",
@@ -484,7 +513,8 @@
       "ft": "Petrol",
       "wt": "1760 kg",
       "se": "6",
-      "pr": "$3,350"
+      "pr": "$3,350",
+      "aspiration": "NA"
     },
     "Chevrolet|Caprice|1970|Classic": {
       "en": "5.7L V8 OHV",
@@ -497,7 +527,8 @@
       "ft": "Petrol",
       "wt": "1900 kg",
       "se": "6",
-      "pr": "$4,117"
+      "pr": "$4,117",
+      "aspiration": "NA"
     },
     "Chevrolet|Caprice|1974|Classic": {
       "en": "5.7L V8 OHV",
@@ -513,7 +544,8 @@
       "pr": "$4,811",
       "fc": "21.5",
       "fh": "14.5",
-      "fx": "18.5"
+      "fx": "18.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Caprice|1978|Classic": {
       "en": "5.7L V8 OHV",
@@ -529,7 +561,8 @@
       "pr": "$6,192",
       "fc": "20.0",
       "fh": "13.5",
-      "fx": "17.5"
+      "fx": "17.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Caprice|1982|Classic": {
       "en": "5.0L V8 OHV",
@@ -545,7 +578,8 @@
       "pr": "$10,415",
       "fc": "18.5",
       "fh": "12.5",
-      "fx": "16.0"
+      "fx": "16.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Caprice|1986|Classic": {
       "en": "5.0L V8 OHV",
@@ -561,7 +595,8 @@
       "pr": "$12,940",
       "fc": "18.5",
       "fh": "12.5",
-      "fx": "16.0"
+      "fx": "16.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Caprice|1991|Classic": {
       "en": "5.0L V8 OHV",
@@ -577,7 +612,8 @@
       "pr": "$18,950",
       "fc": "17.0",
       "fh": "11.5",
-      "fx": "14.5"
+      "fx": "14.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Caprice|1994|Classic": {
       "en": "5.7L V8 OHV LT1",
@@ -595,7 +631,8 @@
       "ts": "~210 km/h",
       "fc": "16.5",
       "fh": "11.0",
-      "fx": "14.0"
+      "fx": "14.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Caprice|1987|Brougham": {
       "en": "5.0L V8 OHV",
@@ -611,7 +648,8 @@
       "pr": "$13,965",
       "fc": "18.5",
       "fh": "12.5",
-      "fx": "16.0"
+      "fx": "16.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Caprice|1991|Brougham": {
       "en": "5.0L V8 OHV",
@@ -627,7 +665,8 @@
       "pr": "$20,895",
       "fc": "17.0",
       "fh": "11.5",
-      "fx": "14.5"
+      "fx": "14.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1953|Base": {
       "en": "3.9L I6 OHV Blue Flame",
@@ -642,7 +681,8 @@
       "se": "2",
       "pr": "$3,513",
       "z1": "~11.5 sec",
-      "ts": "~175 km/h"
+      "ts": "~175 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1956|Base": {
       "en": "4.3L V8 OHV",
@@ -657,7 +697,8 @@
       "se": "2",
       "pr": "$3,149",
       "z1": "~8.5 sec",
-      "ts": "~200 km/h"
+      "ts": "~200 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1960|Base": {
       "en": "4.6L V8 OHV",
@@ -673,7 +714,8 @@
       "pr": "$3,872",
       "z1": "~7.7 sec",
       "qm": "~15.6 sec",
-      "ts": "~215 km/h"
+      "ts": "~215 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1957|Fuel Injection": {
       "en": "4.6L V8 OHV Ramjet Fuel Injection",
@@ -689,7 +731,8 @@
       "pr": "$5,263",
       "z1": "~6.5 sec",
       "qm": "~14.3 sec",
-      "ts": "~225 km/h"
+      "ts": "~225 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1961|Fuel Injection": {
       "en": "4.6L V8 OHV Ramjet Fuel Injection",
@@ -705,7 +748,8 @@
       "pr": "$5,588",
       "z1": "~6.0 sec",
       "qm": "~14.0 sec",
-      "ts": "~230 km/h"
+      "ts": "~230 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1963|Sting Ray": {
       "en": "5.4L V8 OHV",
@@ -721,7 +765,8 @@
       "pr": "$4,257",
       "z1": "~7.5 sec",
       "qm": "~15.6 sec",
-      "ts": "~215 km/h"
+      "ts": "~215 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1966|Sting Ray": {
       "en": "5.4L V8 OHV",
@@ -737,7 +782,8 @@
       "pr": "$4,295",
       "z1": "~7.0 sec",
       "qm": "~15.0 sec",
-      "ts": "~220 km/h"
+      "ts": "~220 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1963|Sting Ray Z06": {
       "en": "5.4L V8 OHV L84 FI",
@@ -753,7 +799,8 @@
       "pr": "$7,120",
       "z1": "~5.8 sec",
       "qm": "~13.9 sec",
-      "ts": "~245 km/h"
+      "ts": "~245 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1967|Sting Ray L88": {
       "en": "7.0L V8 OHV L88",
@@ -769,7 +816,8 @@
       "pr": "$9,165",
       "z1": "~4.5 sec",
       "qm": "~12.5 sec",
-      "ts": "~280 km/h"
+      "ts": "~280 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1969|Base": {
       "en": "5.7L V8 OHV L46",
@@ -785,7 +833,8 @@
       "pr": "$4,781",
       "z1": "~7.0 sec",
       "qm": "~15.0 sec",
-      "ts": "~220 km/h"
+      "ts": "~220 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1973|Base": {
       "en": "5.7L V8 OHV L82",
@@ -801,7 +850,8 @@
       "pr": "$5,635",
       "z1": "~8.0 sec",
       "qm": "~15.9 sec",
-      "ts": "~205 km/h"
+      "ts": "~205 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1977|Base": {
       "en": "5.7L V8 OHV L48",
@@ -820,7 +870,8 @@
       "ts": "~200 km/h",
       "fc": "20.0",
       "fh": "13.5",
-      "fx": "17.5"
+      "fx": "17.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1981|Base": {
       "en": "5.7L V8 OHV L81",
@@ -839,7 +890,8 @@
       "ts": "~195 km/h",
       "fc": "19.5",
       "fh": "12.5",
-      "fx": "16.5"
+      "fx": "16.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1971|LT": {
       "en": "5.7L V8 OHV LT1",
@@ -855,7 +907,8 @@
       "pr": "$5,496",
       "z1": "~6.8 sec",
       "qm": "~14.8 sec",
-      "ts": "~220 km/h"
+      "ts": "~220 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1974|LT": {
       "en": "5.7L V8 OHV L82",
@@ -871,7 +924,8 @@
       "pr": "$6,652",
       "z1": "~7.5 sec",
       "qm": "~15.5 sec",
-      "ts": "~215 km/h"
+      "ts": "~215 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1978|Pace Car": {
       "en": "5.7L V8 OHV L82",
@@ -889,7 +943,8 @@
       "ts": "~205 km/h",
       "fc": "19.5",
       "fh": "12.5",
-      "fx": "16.5"
+      "fx": "16.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1984|Base": {
       "en": "5.7L V8 OHV L83 TPI",
@@ -908,7 +963,8 @@
       "ts": "~240 km/h",
       "fc": "16.5",
       "fh": "11.0",
-      "fx": "14.5"
+      "fx": "14.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1988|Base": {
       "en": "5.7L V8 OHV L98 TPI",
@@ -927,7 +983,8 @@
       "ts": "~248 km/h",
       "fc": "15.5",
       "fh": "10.0",
-      "fx": "13.5"
+      "fx": "13.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1992|Base": {
       "en": "5.7L V8 OHV LT1",
@@ -946,7 +1003,8 @@
       "ts": "~265 km/h",
       "fc": "15.0",
       "fh": "9.5",
-      "fx": "13.0"
+      "fx": "13.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1995|Base": {
       "en": "5.7L V8 OHV LT1",
@@ -965,7 +1023,8 @@
       "ts": "~265 km/h",
       "fc": "15.0",
       "fh": "9.5",
-      "fx": "13.0"
+      "fx": "13.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1988|Z51": {
       "en": "5.7L V8 OHV L98 TPI",
@@ -984,7 +1043,8 @@
       "ts": "~255 km/h",
       "fc": "15.5",
       "fh": "10.0",
-      "fx": "13.5"
+      "fx": "13.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1992|Z51": {
       "en": "5.7L V8 OHV LT1",
@@ -1003,7 +1063,8 @@
       "ts": "~270 km/h",
       "fc": "15.0",
       "fh": "9.5",
-      "fx": "13.0"
+      "fx": "13.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1995|Z51": {
       "en": "5.7L V8 OHV LT1",
@@ -1022,7 +1083,8 @@
       "ts": "~270 km/h",
       "fc": "15.0",
       "fh": "9.5",
-      "fx": "13.0"
+      "fx": "13.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1991|ZR-1": {
       "en": "5.7L V8 DOHC LT5",
@@ -1041,7 +1103,8 @@
       "ts": "~290 km/h",
       "fc": "17.0",
       "fh": "11.0",
-      "fx": "14.5"
+      "fx": "14.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1994|ZR-1": {
       "en": "5.7L V8 DOHC LT5",
@@ -1060,7 +1123,8 @@
       "ts": "~295 km/h",
       "fc": "17.0",
       "fh": "11.0",
-      "fx": "14.5"
+      "fx": "14.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1993|40th Anniversary": {
       "en": "5.7L V8 OHV LT1",
@@ -1079,7 +1143,8 @@
       "ts": "~265 km/h",
       "fc": "15.0",
       "fh": "9.5",
-      "fx": "13.0"
+      "fx": "13.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1996|Grand Sport": {
       "en": "5.7L V8 OHV LT4",
@@ -1098,7 +1163,8 @@
       "ts": "~275 km/h",
       "fc": "14.5",
       "fh": "9.5",
-      "fx": "12.5"
+      "fx": "12.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1982|Collector Edition": {
       "en": "5.7L V8 OHV L83 TPI",
@@ -1116,7 +1182,8 @@
       "ts": "~200 km/h",
       "fc": "19.5",
       "fh": "12.5",
-      "fx": "16.5"
+      "fx": "16.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvette|1996|Collector Edition": {
       "en": "5.7L V8 OHV LT4",
@@ -1135,7 +1202,8 @@
       "ts": "~275 km/h",
       "fc": "14.5",
       "fh": "9.5",
-      "fx": "12.5"
+      "fx": "12.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1967|Base": {
       "en": "3.8L I6 OHV",
@@ -1148,7 +1216,8 @@
       "ft": "Petrol",
       "wt": "1380 kg",
       "se": "4",
-      "pr": "$2,466"
+      "pr": "$2,466",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1969|Base": {
       "en": "4.1L I6 OHV",
@@ -1161,7 +1230,8 @@
       "ft": "Petrol",
       "wt": "1430 kg",
       "se": "4",
-      "pr": "$2,727"
+      "pr": "$2,727",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1967|SS 350": {
       "en": "5.7L V8 OHV L48",
@@ -1177,7 +1247,8 @@
       "pr": "$2,825",
       "z1": "~6.5 sec",
       "qm": "~14.5 sec",
-      "ts": "~210 km/h"
+      "ts": "~210 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1969|SS 350": {
       "en": "5.7L V8 OHV L48",
@@ -1193,7 +1264,8 @@
       "pr": "$3,218",
       "z1": "~6.5 sec",
       "qm": "~14.5 sec",
-      "ts": "~210 km/h"
+      "ts": "~210 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1967|SS 396": {
       "en": "6.5L V8 OHV L35",
@@ -1209,7 +1281,8 @@
       "pr": "$3,150",
       "z1": "~6.1 sec",
       "qm": "~14.0 sec",
-      "ts": "~215 km/h"
+      "ts": "~215 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1969|SS 396": {
       "en": "6.5L V8 OHV L78",
@@ -1225,7 +1298,8 @@
       "pr": "$3,450",
       "z1": "~5.9 sec",
       "qm": "~13.8 sec",
-      "ts": "~220 km/h"
+      "ts": "~220 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1967|Z28": {
       "en": "4.9L V8 OHV Z/28",
@@ -1241,7 +1315,8 @@
       "pr": "$3,950",
       "z1": "~6.7 sec",
       "qm": "~14.2 sec",
-      "ts": "~215 km/h"
+      "ts": "~215 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1969|Z28": {
       "en": "4.9L V8 OHV Z/28",
@@ -1257,7 +1332,8 @@
       "pr": "$4,100",
       "z1": "~6.7 sec",
       "qm": "~14.2 sec",
-      "ts": "~220 km/h"
+      "ts": "~220 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1969|ZL1": {
       "en": "7.0L V8 OHV ZL1 Aluminium",
@@ -1273,7 +1349,8 @@
       "pr": "$7,200",
       "z1": "~5.3 sec",
       "qm": "~13.2 sec",
-      "ts": "~240 km/h"
+      "ts": "~240 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1970|Base": {
       "en": "4.1L I6 OHV",
@@ -1286,7 +1363,8 @@
       "ft": "Petrol",
       "wt": "1450 kg",
       "se": "4",
-      "pr": "$2,749"
+      "pr": "$2,749",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1975|Base": {
       "en": "4.1L I6 OHV",
@@ -1302,7 +1380,8 @@
       "pr": "$3,761",
       "fc": "18.5",
       "fh": "12.0",
-      "fx": "16.0"
+      "fx": "16.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1980|Base": {
       "en": "3.8L V6 OHV",
@@ -1318,7 +1397,8 @@
       "pr": "$5,957",
       "fc": "17.5",
       "fh": "11.5",
-      "fx": "15.0"
+      "fx": "15.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1970|SS": {
       "en": "5.7L V8 OHV L48",
@@ -1334,7 +1414,8 @@
       "pr": "$3,200",
       "z1": "~7.0 sec",
       "qm": "~15.0 sec",
-      "ts": "~205 km/h"
+      "ts": "~205 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1975|SS": {
       "en": "5.7L V8 OHV",
@@ -1352,7 +1433,8 @@
       "ts": "~195 km/h",
       "fc": "20.5",
       "fh": "13.5",
-      "fx": "18.0"
+      "fx": "18.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1970|Z28": {
       "en": "5.7L V8 OHV LT1",
@@ -1368,7 +1450,8 @@
       "pr": "$3,692",
       "z1": "~6.5 sec",
       "qm": "~14.3 sec",
-      "ts": "~220 km/h"
+      "ts": "~220 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1974|Z28": {
       "en": "5.7L V8 OHV L82",
@@ -1386,7 +1469,8 @@
       "ts": "~210 km/h",
       "fc": "20.5",
       "fh": "13.5",
-      "fx": "18.0"
+      "fx": "18.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1979|Z28": {
       "en": "5.0L V8 OHV L82",
@@ -1405,7 +1489,8 @@
       "ts": "~205 km/h",
       "fc": "18.5",
       "fh": "12.0",
-      "fx": "16.0"
+      "fx": "16.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1979|Berlinetta": {
       "en": "3.8L V6 OHV",
@@ -1421,7 +1506,8 @@
       "pr": "$5,625",
       "fc": "18.0",
       "fh": "12.0",
-      "fx": "15.5"
+      "fx": "15.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1982|Base": {
       "en": "2.5L I4 OHV",
@@ -1437,7 +1523,8 @@
       "pr": "$7,921",
       "fc": "13.0",
       "fh": "9.0",
-      "fx": "11.5"
+      "fx": "11.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1986|Base": {
       "en": "2.8L V6 OHV",
@@ -1453,7 +1540,8 @@
       "pr": "$9,886",
       "fc": "13.5",
       "fh": "9.0",
-      "fx": "12.0"
+      "fx": "12.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1990|Base": {
       "en": "3.1L V6 OHV",
@@ -1469,7 +1557,8 @@
       "pr": "$11,595",
       "fc": "12.5",
       "fh": "8.5",
-      "fx": "11.0"
+      "fx": "11.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1982|Berlinetta": {
       "en": "2.8L V6 OHV",
@@ -1485,7 +1574,8 @@
       "pr": "$9,559",
       "fc": "13.5",
       "fh": "9.0",
-      "fx": "12.0"
+      "fx": "12.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1986|Berlinetta": {
       "en": "2.8L V6 OHV",
@@ -1501,7 +1591,8 @@
       "pr": "$12,033",
       "fc": "13.5",
       "fh": "9.0",
-      "fx": "12.0"
+      "fx": "12.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1982|Z28": {
       "en": "5.0L V8 OHV L83 TPI",
@@ -1520,7 +1611,8 @@
       "ts": "~200 km/h",
       "fc": "16.5",
       "fh": "11.0",
-      "fx": "14.5"
+      "fx": "14.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1986|Z28": {
       "en": "5.0L V8 OHV L69 (H.O.)",
@@ -1539,7 +1631,8 @@
       "ts": "~210 km/h",
       "fc": "16.0",
       "fh": "10.5",
-      "fx": "14.0"
+      "fx": "14.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1990|Z28": {
       "en": "5.0L V8 OHV L03 TBI",
@@ -1558,7 +1651,8 @@
       "ts": "~205 km/h",
       "fc": "16.0",
       "fh": "11.0",
-      "fx": "14.0"
+      "fx": "14.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1992|Z28": {
       "en": "5.7L V8 OHV LT1",
@@ -1577,7 +1671,8 @@
       "ts": "~230 km/h",
       "fc": "15.0",
       "fh": "10.0",
-      "fx": "13.5"
+      "fx": "13.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1985|IROC-Z": {
       "en": "5.0L V8 OHV L69 (H.O.)",
@@ -1596,7 +1691,8 @@
       "ts": "~215 km/h",
       "fc": "16.0",
       "fh": "10.5",
-      "fx": "14.0"
+      "fx": "14.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1988|IROC-Z": {
       "en": "5.7L V8 OHV L98 TPI",
@@ -1615,7 +1711,8 @@
       "ts": "~225 km/h",
       "fc": "15.5",
       "fh": "10.0",
-      "fx": "13.5"
+      "fx": "13.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1992|IROC-Z": {
       "en": "5.7L V8 OHV L98 TPI",
@@ -1634,7 +1731,8 @@
       "ts": "~225 km/h",
       "fc": "15.5",
       "fh": "10.0",
-      "fx": "13.5"
+      "fx": "13.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1993|Base": {
       "en": "3.4L V6 OHV",
@@ -1652,7 +1750,8 @@
       "ts": "~205 km/h",
       "fc": "13.0",
       "fh": "8.5",
-      "fx": "11.5"
+      "fx": "11.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1997|Base": {
       "en": "3.8L V6 OHV",
@@ -1670,7 +1769,8 @@
       "ts": "~210 km/h",
       "fc": "12.5",
       "fh": "8.5",
-      "fx": "11.0"
+      "fx": "11.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|2001|Base": {
       "en": "3.8L V6 OHV",
@@ -1688,7 +1788,8 @@
       "ts": "~210 km/h",
       "fc": "12.5",
       "fh": "8.5",
-      "fx": "11.0"
+      "fx": "11.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1993|RS": {
       "en": "3.4L V6 OHV",
@@ -1706,7 +1807,8 @@
       "ts": "~205 km/h",
       "fc": "13.0",
       "fh": "8.5",
-      "fx": "11.5"
+      "fx": "11.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1997|RS": {
       "en": "3.8L V6 OHV",
@@ -1724,7 +1826,8 @@
       "ts": "~210 km/h",
       "fc": "12.5",
       "fh": "8.5",
-      "fx": "11.0"
+      "fx": "11.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1993|Z28": {
       "en": "5.7L V8 OHV LT1",
@@ -1743,7 +1846,8 @@
       "ts": "~250 km/h",
       "fc": "14.5",
       "fh": "9.5",
-      "fx": "12.5"
+      "fx": "12.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1997|Z28": {
       "en": "5.7L V8 OHV LS1",
@@ -1762,7 +1866,8 @@
       "ts": "~255 km/h",
       "fc": "14.5",
       "fh": "9.5",
-      "fx": "12.5"
+      "fx": "12.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|2002|Z28": {
       "en": "5.7L V8 OHV LS1",
@@ -1781,7 +1886,8 @@
       "ts": "~255 km/h",
       "fc": "14.5",
       "fh": "9.5",
-      "fx": "12.5"
+      "fx": "12.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1996|SS": {
       "en": "5.7L V8 OHV LT1",
@@ -1800,7 +1906,8 @@
       "ts": "~260 km/h",
       "fc": "14.0",
       "fh": "9.0",
-      "fx": "12.0"
+      "fx": "12.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1999|SS": {
       "en": "5.7L V8 OHV LS1",
@@ -1819,7 +1926,8 @@
       "ts": "~260 km/h",
       "fc": "14.0",
       "fh": "9.0",
-      "fx": "12.0"
+      "fx": "12.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|2002|SS": {
       "en": "5.7L V8 OHV LS1",
@@ -1838,7 +1946,8 @@
       "ts": "~260 km/h",
       "fc": "14.0",
       "fh": "9.0",
-      "fx": "12.0"
+      "fx": "12.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|1992|Heritage Edition": {
       "en": "3.1L V6 OHV",
@@ -1856,7 +1965,8 @@
       "ts": "~195 km/h",
       "fc": "13.0",
       "fh": "8.5",
-      "fx": "11.5"
+      "fx": "11.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|2024|LT": {
       "en": "3.6L V6 SIDI LGX",
@@ -1875,7 +1985,8 @@
       "ts": "~225 km/h",
       "fc": "14.2",
       "fh": "9.4",
-      "fx": "12.0"
+      "fx": "12.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|2024|SS": {
       "en": "6.2L V8 DI OHV LT1",
@@ -1894,7 +2005,8 @@
       "ts": "~260 km/h",
       "fc": "17.6",
       "fh": "11.5",
-      "fx": "14.5"
+      "fx": "14.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Camaro|2024|ZL1": {
       "en": "6.2L V8 Supercharged LT4",
@@ -1913,7 +2025,8 @@
       "ts": "~320 km/h",
       "fc": "19.6",
       "fh": "12.5",
-      "fx": "16.5"
+      "fx": "16.5",
+      "aspiration": "Supercharged"
     }
   }
 }

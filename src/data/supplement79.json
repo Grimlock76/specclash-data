@@ -11,7 +11,8 @@
       "ft": "Petrol",
       "wt": "1430 kg",
       "se": "6",
-      "pr": "$1,820"
+      "pr": "$1,820",
+      "aspiration": "NA"
     },
     "Chevrolet|Bel Air|1957|Base": {
       "en": "4.1L I6 OHV",
@@ -24,7 +25,8 @@
       "ft": "Petrol",
       "wt": "1510 kg",
       "se": "6",
-      "pr": "$2,238"
+      "pr": "$2,238",
+      "aspiration": "NA"
     },
     "Chevrolet|Bel Air|1961|Base": {
       "en": "4.6L V8 OHV",
@@ -37,7 +39,8 @@
       "ft": "Petrol",
       "wt": "1580 kg",
       "se": "6",
-      "pr": "$2,262"
+      "pr": "$2,262",
+      "aspiration": "NA"
     },
     "Chevrolet|Bel Air|1965|Base": {
       "en": "5.4L V8 OHV",
@@ -50,7 +53,8 @@
       "ft": "Petrol",
       "wt": "1640 kg",
       "se": "6",
-      "pr": "$2,468"
+      "pr": "$2,468",
+      "aspiration": "NA"
     },
     "Chevrolet|Bel Air|1969|Base": {
       "en": "5.0L V8 OHV",
@@ -63,7 +67,8 @@
       "ft": "Petrol",
       "wt": "1710 kg",
       "se": "6",
-      "pr": "$2,726"
+      "pr": "$2,726",
+      "aspiration": "NA"
     },
     "Chevrolet|Bel Air|1973|Base": {
       "en": "5.7L V8 OHV",
@@ -79,7 +84,8 @@
       "pr": "$3,350",
       "fc": "20.0",
       "fh": "13.5",
-      "fx": "17.0"
+      "fx": "17.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Bel Air|1975|Base": {
       "en": "5.0L V8 OHV",
@@ -95,7 +101,8 @@
       "pr": "$3,950",
       "fc": "21.0",
       "fh": "14.0",
-      "fx": "18.0"
+      "fx": "18.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Bel Air|1956|V8": {
       "en": "4.3L V8 OHV",
@@ -110,7 +117,8 @@
       "se": "6",
       "pr": "$2,258",
       "z1": "~11.0 sec",
-      "ts": "~180 km/h"
+      "ts": "~180 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Bel Air|1957|Fuel Injection": {
       "en": "4.6L V8 OHV Ramjet Fuel Injection",
@@ -125,7 +133,8 @@
       "se": "6",
       "pr": "$3,020",
       "z1": "~8.5 sec",
-      "ts": "~195 km/h"
+      "ts": "~195 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvair|1960|Base": {
       "en": "2.3L Flat-6 OHV Air-Cooled",
@@ -140,7 +149,8 @@
       "se": "4",
       "pr": "$1,984",
       "z1": "~16.0 sec",
-      "ts": "~145 km/h"
+      "ts": "~145 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvair|1963|Base": {
       "en": "2.3L Flat-6 OHV Air-Cooled",
@@ -155,7 +165,8 @@
       "se": "4",
       "pr": "$2,054",
       "z1": "~15.5 sec",
-      "ts": "~148 km/h"
+      "ts": "~148 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvair|1960|Monza": {
       "en": "2.3L Flat-6 OHV Air-Cooled",
@@ -170,7 +181,8 @@
       "se": "4",
       "pr": "$2,238",
       "z1": "~14.5 sec",
-      "ts": "~152 km/h"
+      "ts": "~152 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvair|1963|Monza": {
       "en": "2.3L Flat-6 OHV Air-Cooled",
@@ -185,7 +197,8 @@
       "se": "4",
       "pr": "$2,314",
       "z1": "~13.5 sec",
-      "ts": "~160 km/h"
+      "ts": "~160 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvair|1966|Monza": {
       "en": "2.7L Flat-6 OHV Air-Cooled",
@@ -200,7 +213,8 @@
       "se": "4",
       "pr": "$2,694",
       "z1": "~12.0 sec",
-      "ts": "~168 km/h"
+      "ts": "~168 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvair|1969|Monza": {
       "en": "2.7L Flat-6 OHV Air-Cooled",
@@ -215,7 +229,8 @@
       "se": "4",
       "pr": "$2,522",
       "z1": "~13.0 sec",
-      "ts": "~162 km/h"
+      "ts": "~162 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvair|1962|Spyder": {
       "en": "2.3L Turbocharged Flat-6 OHV",
@@ -231,7 +246,8 @@
       "pr": "$2,594",
       "z1": "~9.8 sec",
       "qm": "~17.5 sec",
-      "ts": "~190 km/h"
+      "ts": "~190 km/h",
+      "aspiration": "Turbo"
     },
     "Chevrolet|Corvair|1965|500": {
       "en": "2.7L Flat-6 OHV Air-Cooled",
@@ -246,7 +262,8 @@
       "se": "4",
       "pr": "$2,066",
       "z1": "~14.0 sec",
-      "ts": "~155 km/h"
+      "ts": "~155 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvair|1968|500": {
       "en": "2.7L Flat-6 OHV Air-Cooled",
@@ -261,7 +278,8 @@
       "se": "4",
       "pr": "$2,243",
       "z1": "~14.5 sec",
-      "ts": "~152 km/h"
+      "ts": "~152 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Corvair|1965|Corsa": {
       "en": "2.7L Flat-6 OHV Air-Cooled (4-carb)",
@@ -277,7 +295,8 @@
       "pr": "$2,519",
       "z1": "~9.5 sec",
       "qm": "~17.2 sec",
-      "ts": "~195 km/h"
+      "ts": "~195 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Chevelle|1964|Base": {
       "en": "3.8L I6 OHV",
@@ -290,7 +309,8 @@
       "ft": "Petrol",
       "wt": "1420 kg",
       "se": "6",
-      "pr": "$2,194"
+      "pr": "$2,194",
+      "aspiration": "NA"
     },
     "Chevrolet|Chevelle|1968|Base": {
       "en": "4.1L I6 OHV",
@@ -303,7 +323,8 @@
       "ft": "Petrol",
       "wt": "1480 kg",
       "se": "6",
-      "pr": "$2,574"
+      "pr": "$2,574",
+      "aspiration": "NA"
     },
     "Chevrolet|Chevelle|1972|Base": {
       "en": "5.7L V8 OHV",
@@ -316,7 +337,8 @@
       "ft": "Petrol",
       "wt": "1590 kg",
       "se": "6",
-      "pr": "$2,980"
+      "pr": "$2,980",
+      "aspiration": "NA"
     },
     "Chevrolet|Chevelle|1976|Base": {
       "en": "5.0L V8 OHV",
@@ -332,7 +354,8 @@
       "pr": "$3,760",
       "fc": "20.5",
       "fh": "13.5",
-      "fx": "17.5"
+      "fx": "17.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Chevelle|1964|Malibu": {
       "en": "4.6L V8 OHV",
@@ -345,7 +368,8 @@
       "ft": "Petrol",
       "wt": "1460 kg",
       "se": "6",
-      "pr": "$2,540"
+      "pr": "$2,540",
+      "aspiration": "NA"
     },
     "Chevrolet|Chevelle|1968|Malibu": {
       "en": "5.4L V8 OHV",
@@ -358,7 +382,8 @@
       "ft": "Petrol",
       "wt": "1540 kg",
       "se": "6",
-      "pr": "$2,797"
+      "pr": "$2,797",
+      "aspiration": "NA"
     },
     "Chevrolet|Chevelle|1972|Malibu": {
       "en": "5.7L V8 OHV",
@@ -371,7 +396,8 @@
       "ft": "Petrol",
       "wt": "1640 kg",
       "se": "6",
-      "pr": "$3,220"
+      "pr": "$3,220",
+      "aspiration": "NA"
     },
     "Chevrolet|Chevelle|1975|Malibu": {
       "en": "5.7L V8 OHV",
@@ -387,7 +413,8 @@
       "pr": "$3,900",
       "fc": "21.0",
       "fh": "14.0",
-      "fx": "18.0"
+      "fx": "18.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Chevelle|1964|Malibu SS": {
       "en": "5.4L V8 OHV",
@@ -403,7 +430,8 @@
       "pr": "$2,984",
       "z1": "~8.5 sec",
       "qm": "~16.0 sec",
-      "ts": "~195 km/h"
+      "ts": "~195 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Chevelle|1966|SS 396": {
       "en": "6.5L V8 OHV",
@@ -419,7 +447,8 @@
       "pr": "$2,776",
       "z1": "~7.2 sec",
       "qm": "~15.2 sec",
-      "ts": "~205 km/h"
+      "ts": "~205 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Chevelle|1970|SS 396": {
       "en": "6.5L V8 OHV",
@@ -435,7 +464,8 @@
       "pr": "$3,294",
       "z1": "~6.8 sec",
       "qm": "~14.9 sec",
-      "ts": "~210 km/h"
+      "ts": "~210 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Chevelle|1969|COPO 427": {
       "en": "7.0L V8 OHV L72",
@@ -451,7 +481,8 @@
       "pr": "$4,200",
       "z1": "~5.8 sec",
       "qm": "~13.9 sec",
-      "ts": "~220 km/h"
+      "ts": "~220 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Chevelle|1970|SS 454": {
       "en": "7.4L V8 OHV LS5",
@@ -467,7 +498,8 @@
       "pr": "$3,420",
       "z1": "~6.0 sec",
       "qm": "~14.5 sec",
-      "ts": "~215 km/h"
+      "ts": "~215 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Chevelle|1970|LS6": {
       "en": "7.4L V8 OHV LS6",
@@ -483,7 +515,8 @@
       "pr": "$4,475",
       "z1": "~6.1 sec",
       "qm": "~13.8 sec",
-      "ts": "~220 km/h"
+      "ts": "~220 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Chevelle|1971|Heavy Chevy": {
       "en": "5.7L V8 OHV",
@@ -498,7 +531,8 @@
       "se": "4",
       "pr": "$3,050",
       "z1": "~8.0 sec",
-      "ts": "~190 km/h"
+      "ts": "~190 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Chevelle|1975|Malibu Classic": {
       "en": "5.7L V8 OHV",
@@ -514,7 +548,8 @@
       "pr": "$4,050",
       "fc": "21.0",
       "fh": "14.0",
-      "fx": "18.0"
+      "fx": "18.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Chevelle|1974|Laguna": {
       "en": "5.7L V8 OHV",
@@ -530,7 +565,8 @@
       "pr": "$4,347",
       "fc": "21.5",
       "fh": "14.5",
-      "fx": "18.5"
+      "fx": "18.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Chevelle|1975|Laguna S-3": {
       "en": "5.7L V8 OHV",
@@ -546,7 +582,8 @@
       "pr": "$4,550",
       "fc": "21.5",
       "fh": "14.5",
-      "fx": "18.5"
+      "fx": "18.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Nova|1962|Base": {
       "en": "2.5L I4 OHV",
@@ -559,7 +596,8 @@
       "ft": "Petrol",
       "wt": "1170 kg",
       "se": "4",
-      "pr": "$2,206"
+      "pr": "$2,206",
+      "aspiration": "NA"
     },
     "Chevrolet|Nova|1966|Base": {
       "en": "3.2L I6 OHV",
@@ -572,7 +610,8 @@
       "ft": "Petrol",
       "wt": "1300 kg",
       "se": "4",
-      "pr": "$2,316"
+      "pr": "$2,316",
+      "aspiration": "NA"
     },
     "Chevrolet|Nova|1970|Base": {
       "en": "4.1L I6 OHV",
@@ -585,7 +624,8 @@
       "ft": "Petrol",
       "wt": "1380 kg",
       "se": "4",
-      "pr": "$2,456"
+      "pr": "$2,456",
+      "aspiration": "NA"
     },
     "Chevrolet|Nova|1974|Base": {
       "en": "5.0L V8 OHV",
@@ -601,7 +641,8 @@
       "pr": "$3,204",
       "fc": "20.0",
       "fh": "13.5",
-      "fx": "17.5"
+      "fx": "17.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Nova|1978|Base": {
       "en": "5.0L V8 OHV",
@@ -617,7 +658,8 @@
       "pr": "$3,799",
       "fc": "20.5",
       "fh": "13.5",
-      "fx": "17.5"
+      "fx": "17.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Nova|1986|Base": {
       "en": "1.6L I4 SOHC",
@@ -633,7 +675,8 @@
       "pr": "$7,579",
       "fc": "8.5",
       "fh": "6.0",
-      "fx": "7.5"
+      "fx": "7.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Nova|1962|SS": {
       "en": "3.2L I6 OHV",
@@ -648,7 +691,8 @@
       "se": "4",
       "pr": "$2,550",
       "z1": "~14.0 sec",
-      "ts": "~160 km/h"
+      "ts": "~160 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Nova|1966|SS": {
       "en": "4.6L V8 OHV",
@@ -663,7 +707,8 @@
       "se": "4",
       "pr": "$2,793",
       "z1": "~10.0 sec",
-      "ts": "~180 km/h"
+      "ts": "~180 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Nova|1970|SS": {
       "en": "5.7L V8 OHV",
@@ -679,7 +724,8 @@
       "pr": "$3,226",
       "z1": "~7.5 sec",
       "qm": "~15.7 sec",
-      "ts": "~195 km/h"
+      "ts": "~195 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Nova|1974|SS": {
       "en": "5.7L V8 OHV",
@@ -694,7 +740,8 @@
       "se": "4",
       "pr": "$3,740",
       "z1": "~9.5 sec",
-      "ts": "~185 km/h"
+      "ts": "~185 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Nova|1968|SS 396": {
       "en": "6.5L V8 OHV",
@@ -710,7 +757,8 @@
       "pr": "$3,150",
       "z1": "~6.8 sec",
       "qm": "~14.8 sec",
-      "ts": "~205 km/h"
+      "ts": "~205 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|Nova|1974|LN": {
       "en": "5.7L V8 OHV",
@@ -726,7 +774,8 @@
       "pr": "$3,650",
       "fc": "20.0",
       "fh": "13.5",
-      "fx": "17.5"
+      "fx": "17.5",
+      "aspiration": "NA"
     },
     "Chevrolet|Nova|1976|Concours": {
       "en": "5.7L V8 OHV",
@@ -742,7 +791,8 @@
       "pr": "$3,944",
       "fc": "21.0",
       "fh": "14.0",
-      "fx": "18.0"
+      "fx": "18.0",
+      "aspiration": "NA"
     },
     "Chevrolet|Nova|1978|Custom": {
       "en": "5.0L V8 OHV",
@@ -758,7 +808,8 @@
       "pr": "$4,210",
       "fc": "21.0",
       "fh": "14.0",
-      "fx": "18.0"
+      "fx": "18.0",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1959|Base": {
       "en": "3.9L I6 OHV",
@@ -771,7 +822,8 @@
       "ft": "Petrol",
       "wt": "1570 kg",
       "se": "3",
-      "pr": "$2,447"
+      "pr": "$2,447",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1964|Base": {
       "en": "4.1L I6 OHV",
@@ -784,7 +836,8 @@
       "ft": "Petrol",
       "wt": "1590 kg",
       "se": "3",
-      "pr": "$2,524"
+      "pr": "$2,524",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1968|Base": {
       "en": "4.1L I6 OHV",
@@ -797,7 +850,8 @@
       "ft": "Petrol",
       "wt": "1650 kg",
       "se": "3",
-      "pr": "$2,724"
+      "pr": "$2,724",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1972|Base": {
       "en": "5.7L V8 OHV",
@@ -810,7 +864,8 @@
       "ft": "Petrol",
       "wt": "1720 kg",
       "se": "3",
-      "pr": "$3,019"
+      "pr": "$3,019",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1976|Base": {
       "en": "5.0L V8 OHV",
@@ -826,7 +881,8 @@
       "pr": "$3,789",
       "fc": "21.0",
       "fh": "14.0",
-      "fx": "18.0"
+      "fx": "18.0",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1980|Base": {
       "en": "3.8L V6 OHV",
@@ -842,7 +898,8 @@
       "pr": "$5,835",
       "fc": "17.0",
       "fh": "11.5",
-      "fx": "15.0"
+      "fx": "15.0",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1986|Base": {
       "en": "3.8L V6 OHV",
@@ -858,7 +915,8 @@
       "pr": "$9,124",
       "fc": "16.0",
       "fh": "11.0",
-      "fx": "14.0"
+      "fx": "14.0",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1964|Custom": {
       "en": "4.6L V8 OHV",
@@ -871,7 +929,8 @@
       "ft": "Petrol",
       "wt": "1630 kg",
       "se": "3",
-      "pr": "$2,900"
+      "pr": "$2,900",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1968|Custom": {
       "en": "5.0L V8 OHV",
@@ -884,7 +943,8 @@
       "ft": "Petrol",
       "wt": "1700 kg",
       "se": "3",
-      "pr": "$3,100"
+      "pr": "$3,100",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1972|Custom": {
       "en": "5.7L V8 OHV",
@@ -897,7 +957,8 @@
       "ft": "Petrol",
       "wt": "1740 kg",
       "se": "3",
-      "pr": "$3,350"
+      "pr": "$3,350",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1965|SS": {
       "en": "5.4L V8 OHV",
@@ -912,7 +973,8 @@
       "se": "3",
       "pr": "$3,200",
       "z1": "~8.0 sec",
-      "ts": "~195 km/h"
+      "ts": "~195 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1974|SS": {
       "en": "5.7L V8 OHV",
@@ -928,7 +990,8 @@
       "pr": "$3,850",
       "fc": "21.0",
       "fh": "14.0",
-      "fx": "18.0"
+      "fx": "18.0",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1978|SS": {
       "en": "5.0L V8 OHV",
@@ -944,7 +1007,8 @@
       "pr": "$5,200",
       "fc": "21.5",
       "fh": "14.0",
-      "fx": "18.5"
+      "fx": "18.5",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1982|SS": {
       "en": "5.0L V8 OHV",
@@ -960,7 +1024,8 @@
       "pr": "$7,250",
       "fc": "19.5",
       "fh": "13.0",
-      "fx": "17.0"
+      "fx": "17.0",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1986|SS": {
       "en": "5.0L V8 OHV",
@@ -976,7 +1041,8 @@
       "pr": "$10,350",
       "fc": "18.5",
       "fh": "12.5",
-      "fx": "16.0"
+      "fx": "16.0",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1969|SS 396": {
       "en": "6.5L V8 OHV",
@@ -992,7 +1058,8 @@
       "pr": "$3,550",
       "z1": "~6.8 sec",
       "qm": "~15.0 sec",
-      "ts": "~205 km/h"
+      "ts": "~205 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1971|SS 454": {
       "en": "7.4L V8 OHV LS5",
@@ -1008,7 +1075,8 @@
       "pr": "$3,900",
       "z1": "~6.0 sec",
       "qm": "~14.6 sec",
-      "ts": "~215 km/h"
+      "ts": "~215 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1971|Heavy Chevy": {
       "en": "5.7L V8 OHV",
@@ -1023,7 +1091,8 @@
       "se": "3",
       "pr": "$3,400",
       "z1": "~8.0 sec",
-      "ts": "~190 km/h"
+      "ts": "~190 km/h",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1975|Classic": {
       "en": "5.7L V8 OHV",
@@ -1039,7 +1108,8 @@
       "pr": "$4,310",
       "fc": "21.5",
       "fh": "14.0",
-      "fx": "18.5"
+      "fx": "18.5",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1980|Royal Knight": {
       "en": "5.0L V8 OHV",
@@ -1055,7 +1125,8 @@
       "pr": "$6,050",
       "fc": "21.0",
       "fh": "14.0",
-      "fx": "18.0"
+      "fx": "18.0",
+      "aspiration": "NA"
     },
     "Chevrolet|El Camino|1983|Royal Knight": {
       "en": "5.0L V8 OHV",
@@ -1071,7 +1142,8 @@
       "pr": "$8,295",
       "fc": "20.5",
       "fh": "13.5",
-      "fx": "17.5"
+      "fx": "17.5",
+      "aspiration": "NA"
     }
   }
 }

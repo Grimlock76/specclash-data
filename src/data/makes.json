@@ -6662,6 +6662,10 @@
       "2024": [
         "Executive",
         "Executive Lounge"
+      ],
+      "2026": [
+        "Executive",
+        "Executive Lounge"
       ]
     },
     "GR Yaris": {
@@ -6696,6 +6700,9 @@
         "Century"
       ],
       "2025": [
+        "Century"
+      ],
+      "2026": [
         "Century"
       ]
     },
@@ -6847,6 +6854,11 @@
         "WorkMate"
       ],
       "2024": [
+        "GX",
+        "GXL",
+        "WorkMate"
+      ],
+      "2026": [
         "GX",
         "GXL",
         "WorkMate"
@@ -11668,6 +11680,7 @@
       ],
       "2026": [
         "MK2 ES",
+        "MK2 Exceed",
         "MK2 LS"
       ]
     },
@@ -18311,7 +18324,8 @@
       ],
       "2026": [
         "M35i xDrive",
-        "sDrive18i"
+        "sDrive18i",
+        "xDrive20i"
       ]
     },
     "X4": {
@@ -20090,7 +20104,11 @@
         "S 500"
       ],
       "2026": [
-        "S 500"
+        "Maybach S 580 4MATIC",
+        "S 450",
+        "S 500",
+        "S 580 4MATIC",
+        "S 63 AMG e Performance"
       ]
     },
     "B-Class": {
@@ -20302,7 +20320,9 @@
         "SL 55 AMG"
       ],
       "2026": [
-        "SL 55 AMG"
+        "SL 43",
+        "SL 55 AMG",
+        "SL 63 AMG 4MATIC+"
       ]
     },
     "G-Class": {
@@ -20405,7 +20425,9 @@
       ],
       "2026": [
         "AMG GT 43",
-        "AMG GT 63"
+        "AMG GT 55 4MATIC+",
+        "AMG GT 63",
+        "AMG GT 63 S E Performance"
       ]
     },
     "GLB": {
@@ -22788,7 +22810,9 @@
         "ES 300h"
       ],
       "2026": [
-        "ES 300h"
+        "ES 300h",
+        "ES 300h F Sport",
+        "ES 300h Sports Luxury"
       ]
     },
     "GS": {
@@ -23096,7 +23120,9 @@
       ],
       "2026": [
         "RX 350h",
-        "RX 450h+"
+        "RX 350h F Sport",
+        "RX 450h+",
+        "RX 500h F Sport Performance"
       ]
     },
     "GX": {
@@ -23125,7 +23151,9 @@
         "GX 550"
       ],
       "2026": [
-        "GX 550"
+        "GX 550",
+        "GX 550 F Sport",
+        "GX 550 Sports Luxury"
       ]
     },
     "LX": {
@@ -23161,7 +23189,9 @@
         "LX 600"
       ],
       "2026": [
-        "LX 600"
+        "LX 600",
+        "LX 600 F Sport",
+        "LX 600 Sports Luxury"
       ]
     },
     "LC": {
@@ -24062,7 +24092,9 @@
         "40 TFSI quattro"
       ],
       "2026": [
-        "40 TFSI quattro"
+        "40 TFSI quattro",
+        "45 TFSI quattro",
+        "S5"
       ]
     },
     "A7": {
@@ -24111,6 +24143,7 @@
         "55 TFSI quattro"
       ],
       "2026": [
+        "50 TFSI e quattro",
         "55 TFSI quattro"
       ]
     },
@@ -24196,6 +24229,7 @@
         "60 TFSI quattro"
       ],
       "2026": [
+        "60 TFSI e quattro L",
         "60 TFSI quattro"
       ]
     },
@@ -31519,6 +31553,7 @@
         "Style 140 TSI"
       ],
       "2026": [
+        "Ambition",
         "Ambition 110 TSI",
         "RS",
         "RS 245",
@@ -31681,6 +31716,10 @@
         "132 TSI Ambition",
         "132 TSI Style",
         "RS"
+      ],
+      "2026": [
+        "Sportline",
+        "Style"
       ]
     },
     "Enyaq": {
@@ -32222,6 +32261,11 @@
         "E-Tech Iconic",
         "Iconic",
         "Intens"
+      ],
+      "2026": [
+        "E-Tech Iconic",
+        "Iconic",
+        "Intens"
       ]
     },
     "Scenic": {
@@ -32231,6 +32275,11 @@
         "E-Tech LR Iconic"
       ],
       "2025": [
+        "E-Tech Iconic",
+        "E-Tech Intens",
+        "E-Tech LR Iconic"
+      ],
+      "2026": [
         "E-Tech Iconic",
         "E-Tech Intens",
         "E-Tech LR Iconic"
@@ -41119,6 +41168,8 @@
         "e-308 SW"
       ],
       "2026": [
+        "Allure",
+        "GT",
         "e-308",
         "e-308 SW"
       ]
@@ -41669,6 +41720,8 @@
         "e-2008"
       ],
       "2026": [
+        "Allure",
+        "GT",
         "e-2008"
       ]
     },

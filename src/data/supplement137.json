@@ -16,7 +16,8 @@
       "fx": null,
       "acceleration": 7,
       "topSpeed": 155,
-      "price": "~$60,490"
+      "price": "~$60,490",
+      "aspiration": "Electric"
     },
     "Abarth|500e|2024|500e": {
       "engine": "Single Electric Motor",
@@ -34,7 +35,8 @@
       "fx": null,
       "acceleration": 7,
       "topSpeed": 155,
-      "price": "~$62,490"
+      "price": "~$62,490",
+      "aspiration": "Electric"
     },
     "Abarth|500e|2025|500e": {
       "engine": "Single Electric Motor",
@@ -52,7 +54,8 @@
       "fx": null,
       "acceleration": 7,
       "topSpeed": 155,
-      "price": "~$64,490"
+      "price": "~$64,490",
+      "aspiration": "Electric"
     },
     "Abarth|500e|2026|500e": {
       "engine": "Single Electric Motor",
@@ -70,7 +73,8 @@
       "fx": null,
       "acceleration": 7,
       "topSpeed": 155,
-      "price": "~$66,490"
+      "price": "~$66,490",
+      "aspiration": "Electric"
     },
     "DS|DS 3|2024|E-Tense": {
       "engine": "Single Electric Motor",
@@ -88,7 +92,8 @@
       "fx": null,
       "acceleration": 8.7,
       "topSpeed": 150,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "aspiration": "Electric"
     },
     "DS|DS 3|2025|E-Tense": {
       "engine": "Single Electric Motor",
@@ -106,7 +111,8 @@
       "fx": null,
       "acceleration": 8.7,
       "topSpeed": 150,
-      "price": "~$56,990"
+      "price": "~$56,990",
+      "aspiration": "Electric"
     },
     "DS|DS 3|2026|E-Tense": {
       "engine": "Single Electric Motor",
@@ -124,7 +130,8 @@
       "fx": null,
       "acceleration": 8.7,
       "topSpeed": 150,
-      "price": "~$58,990"
+      "price": "~$58,990",
+      "aspiration": "Electric"
     },
     "Hyundai|Inster|2026|Standard Range": {
       "engine": "Single Electric Motor",
@@ -142,7 +149,8 @@
       "fx": null,
       "acceleration": 11.7,
       "topSpeed": 150,
-      "price": "~$34,990"
+      "price": "~$34,990",
+      "aspiration": "Electric"
     },
     "Hyundai|Inster|2026|Long Range": {
       "engine": "Single Electric Motor",
@@ -160,7 +168,8 @@
       "fx": null,
       "acceleration": 11.7,
       "topSpeed": 150,
-      "price": "~$40,990"
+      "price": "~$40,990",
+      "aspiration": "Electric"
     },
     "Hyundai|Inster|2026|Long Range Premium": {
       "engine": "Single Electric Motor",
@@ -178,7 +187,8 @@
       "fx": null,
       "acceleration": 11.7,
       "topSpeed": 150,
-      "price": "~$45,990"
+      "price": "~$45,990",
+      "aspiration": "Electric"
     },
     "Volvo|EX30|2025|Twin Motor": {
       "engine": "Dual Motor Electric",
@@ -196,7 +206,8 @@
       "fx": null,
       "acceleration": 3.6,
       "topSpeed": 180,
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "aspiration": "Electric"
     },
     "Volvo|EX30|2026|Extended Range": {
       "engine": "Single Motor Electric",
@@ -214,7 +225,8 @@
       "fx": null,
       "acceleration": 5.7,
       "topSpeed": 180,
-      "price": "~$50,990"
+      "price": "~$50,990",
+      "aspiration": "Electric"
     },
     "Volvo|EX30|2026|Twin Motor": {
       "engine": "Dual Motor Electric",
@@ -232,7 +244,8 @@
       "fx": null,
       "acceleration": 3.6,
       "topSpeed": 180,
-      "price": "~$60,990"
+      "price": "~$60,990",
+      "aspiration": "Electric"
     },
     "Ora|Funky Cat|2023|Cat": {
       "engine": "Single Electric Motor",
@@ -250,7 +263,8 @@
       "fx": null,
       "acceleration": 8.3,
       "topSpeed": 160,
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "aspiration": "Electric"
     },
     "Ora|Funky Cat|2023|Cat GT": {
       "engine": "Single Electric Motor",
@@ -268,7 +282,8 @@
       "fx": null,
       "acceleration": 8.3,
       "topSpeed": 160,
-      "price": "~$48,990"
+      "price": "~$48,990",
+      "aspiration": "Electric"
     },
     "Ora|Funky Cat|2024|Cat": {
       "engine": "Single Electric Motor",
@@ -286,7 +301,8 @@
       "fx": null,
       "acceleration": 8.3,
       "topSpeed": 160,
-      "price": "~$46,490"
+      "price": "~$46,490",
+      "aspiration": "Electric"
     },
     "Ora|Funky Cat|2024|Cat GT": {
       "engine": "Single Electric Motor",
@@ -304,7 +320,8 @@
       "fx": null,
       "acceleration": 8.3,
       "topSpeed": 160,
-      "price": "~$50,490"
+      "price": "~$50,490",
+      "aspiration": "Electric"
     },
     "Ora|Funky Cat|2025|Cat": {
       "engine": "Single Electric Motor",
@@ -322,7 +339,8 @@
       "fx": null,
       "acceleration": 8.3,
       "topSpeed": 160,
-      "price": "~$47,990"
+      "price": "~$47,990",
+      "aspiration": "Electric"
     },
     "Ora|Funky Cat|2025|Cat GT": {
       "engine": "Single Electric Motor",
@@ -340,7 +358,8 @@
       "fx": null,
       "acceleration": 8.3,
       "topSpeed": 160,
-      "price": "~$51,990"
+      "price": "~$51,990",
+      "aspiration": "Electric"
     },
     "Ora|Funky Cat|2026|Cat": {
       "engine": "Single Electric Motor",
@@ -358,7 +377,8 @@
       "fx": null,
       "acceleration": 8.3,
       "topSpeed": 160,
-      "price": "~$49,490"
+      "price": "~$49,490",
+      "aspiration": "Electric"
     },
     "Ora|Funky Cat|2026|Cat GT": {
       "engine": "Single Electric Motor",
@@ -376,7 +396,8 @@
       "fx": null,
       "acceleration": 8.3,
       "topSpeed": 160,
-      "price": "~$53,490"
+      "price": "~$53,490",
+      "aspiration": "Electric"
     },
     "BYD|Sealion 7|2026|Standard Range": {
       "engine": "Single Motor Electric",
@@ -394,7 +415,8 @@
       "fx": null,
       "acceleration": 6.7,
       "topSpeed": 170,
-      "price": "~$50,490"
+      "price": "~$50,490",
+      "aspiration": "Electric"
     },
     "BYD|Sealion 7|2026|Long Range AWD": {
       "engine": "Dual Motor Electric",
@@ -412,7 +434,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 185,
-      "price": "~$58,490"
+      "price": "~$58,490",
+      "aspiration": "Electric"
     },
     "BYD|Sealion 6|2026|PHEV": {
       "engine": "1.5L I4 PHEV",
@@ -430,7 +453,8 @@
       "fx": 1.2,
       "acceleration": 6.9,
       "topSpeed": 180,
-      "price": "~$48,490"
+      "price": "~$48,490",
+      "aspiration": "NA"
     },
     "BYD|Sealion 6|2026|PHEV AWD": {
       "engine": "1.5L I4 PHEV",
@@ -448,7 +472,8 @@
       "fx": 1.2,
       "acceleration": 5.9,
       "topSpeed": 180,
-      "price": "~$55,490"
+      "price": "~$55,490",
+      "aspiration": "NA"
     },
     "Lamborghini|Urus|2025|S": {
       "engine": "4.0L V8 twin-turbo",
@@ -466,7 +491,8 @@
       "fx": null,
       "acceleration": 3.5,
       "topSpeed": 305,
-      "price": "~$575,000"
+      "price": "~$575,000",
+      "aspiration": "Turbo"
     },
     "Lamborghini|Urus|2025|Performante": {
       "engine": "4.0L V8 twin-turbo",
@@ -484,7 +510,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 306,
-      "price": "~$600,000"
+      "price": "~$600,000",
+      "aspiration": "Turbo"
     },
     "Lamborghini|Urus|2026|S": {
       "engine": "4.0L V8 twin-turbo",
@@ -502,7 +529,8 @@
       "fx": null,
       "acceleration": 3.5,
       "topSpeed": 305,
-      "price": "~$590,000"
+      "price": "~$590,000",
+      "aspiration": "Turbo"
     },
     "Lamborghini|Urus|2026|Performante": {
       "engine": "4.0L V8 twin-turbo",
@@ -520,7 +548,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 306,
-      "price": "~$615,000"
+      "price": "~$615,000",
+      "aspiration": "Turbo"
     },
     "Ferrari|SF90 Stradale|2024|Stradale": {
       "engine": "4.0L V8 twin-turbo + 3 electric motors PHEV",
@@ -539,7 +568,8 @@
       "acceleration": 2.5,
       "topSpeed": 340,
       "range": 25,
-      "price": "~$1,280,000"
+      "price": "~$1,280,000",
+      "aspiration": "Turbo"
     },
     "Ferrari|SF90 Stradale|2024|Spider": {
       "engine": "4.0L V8 twin-turbo + 3 electric motors PHEV",
@@ -558,7 +588,8 @@
       "acceleration": 2.5,
       "topSpeed": 340,
       "range": 25,
-      "price": "~$1,430,000"
+      "price": "~$1,430,000",
+      "aspiration": "Turbo"
     },
     "Ferrari|SF90 Stradale|2025|Stradale": {
       "engine": "4.0L V8 twin-turbo + 3 electric motors PHEV",
@@ -577,7 +608,8 @@
       "acceleration": 2.5,
       "topSpeed": 340,
       "range": 25,
-      "price": "~$1,320,000"
+      "price": "~$1,320,000",
+      "aspiration": "Turbo"
     },
     "Ferrari|SF90 Stradale|2025|Spider": {
       "engine": "4.0L V8 twin-turbo + 3 electric motors PHEV",
@@ -596,7 +628,8 @@
       "acceleration": 2.5,
       "topSpeed": 340,
       "range": 25,
-      "price": "~$1,470,000"
+      "price": "~$1,470,000",
+      "aspiration": "Turbo"
     },
     "Ferrari|SF90 Stradale|2026|Stradale": {
       "engine": "4.0L V8 twin-turbo + 3 electric motors PHEV",
@@ -615,7 +648,8 @@
       "acceleration": 2.5,
       "topSpeed": 340,
       "range": 25,
-      "price": "~$1,360,000"
+      "price": "~$1,360,000",
+      "aspiration": "Turbo"
     },
     "Ferrari|SF90 Stradale|2026|Spider": {
       "engine": "4.0L V8 twin-turbo + 3 electric motors PHEV",
@@ -634,7 +668,8 @@
       "acceleration": 2.5,
       "topSpeed": 340,
       "range": 25,
-      "price": "~$1,510,000"
+      "price": "~$1,510,000",
+      "aspiration": "Turbo"
     }
   }
 }

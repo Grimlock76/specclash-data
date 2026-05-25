@@ -16,7 +16,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$28,990"
+      "price": "~$28,990",
+      "aspiration": "Turbo"
     },
     "Chery|Tiggo 4 Pro|2023|Premium": {
       "engine": "1.5L 4-cyl Turbo",
@@ -34,7 +35,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$32,990"
+      "price": "~$32,990",
+      "aspiration": "Turbo"
     },
     "Chery|Tiggo 4 Pro|2024|Lite": {
       "engine": "1.5L 4-cyl Turbo",
@@ -52,7 +54,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$29,990"
+      "price": "~$29,990",
+      "aspiration": "Turbo"
     },
     "Chery|Tiggo 4 Pro|2024|Premium": {
       "engine": "1.5L 4-cyl Turbo",
@@ -70,7 +73,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$33,990"
+      "price": "~$33,990",
+      "aspiration": "Turbo"
     },
     "Chery|Tiggo 4 Pro|2025|Lite": {
       "engine": "1.5L 4-cyl Turbo",
@@ -88,7 +92,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$30,990"
+      "price": "~$30,990",
+      "aspiration": "Turbo"
     },
     "Chery|Tiggo 4 Pro|2025|Premium": {
       "engine": "1.5L 4-cyl Turbo",
@@ -106,7 +111,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$34,990"
+      "price": "~$34,990",
+      "aspiration": "Turbo"
     },
     "Chery|Tiggo 4 Pro|2026|Lite": {
       "engine": "1.5L 4-cyl Turbo",
@@ -124,7 +130,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$31,990"
+      "price": "~$31,990",
+      "aspiration": "Turbo"
     },
     "Chery|Tiggo 4 Pro|2026|Premium": {
       "engine": "1.5L 4-cyl Turbo",
@@ -142,7 +149,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$35,990"
+      "price": "~$35,990",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series Gran Coupe|2022|420i Gran Coupe": {
       "engine": "2.0L 4-cyl TwinPower Turbo B48",
@@ -160,7 +168,8 @@
       "fx": null,
       "acceleration": 7.5,
       "topSpeed": 235,
-      "price": "~$82,900"
+      "price": "~$82,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series Gran Coupe|2022|430i Gran Coupe": {
       "engine": "2.0L 4-cyl TwinPower Turbo B48",
@@ -178,7 +187,8 @@
       "fx": null,
       "acceleration": 5.8,
       "topSpeed": 250,
-      "price": "~$97,900"
+      "price": "~$97,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series Gran Coupe|2022|M440i Gran Coupe xDrive": {
       "engine": "3.0L 6-cyl TwinPower Turbo B58",
@@ -196,7 +206,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 250,
-      "price": "~$119,900"
+      "price": "~$119,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series Gran Coupe|2023|420i Gran Coupe": {
       "engine": "2.0L 4-cyl TwinPower Turbo B48",
@@ -214,7 +225,8 @@
       "fx": null,
       "acceleration": 7.5,
       "topSpeed": 235,
-      "price": "~$85,900"
+      "price": "~$85,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series Gran Coupe|2023|430i Gran Coupe": {
       "engine": "2.0L 4-cyl TwinPower Turbo B48",
@@ -232,7 +244,8 @@
       "fx": null,
       "acceleration": 5.8,
       "topSpeed": 250,
-      "price": "~$100,900"
+      "price": "~$100,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series Gran Coupe|2023|M440i Gran Coupe xDrive": {
       "engine": "3.0L 6-cyl TwinPower Turbo B58",
@@ -250,7 +263,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 250,
-      "price": "~$124,900"
+      "price": "~$124,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series Gran Coupe|2024|420i Gran Coupe": {
       "engine": "2.0L 4-cyl TwinPower Turbo B48",
@@ -268,7 +282,8 @@
       "fx": null,
       "acceleration": 7.5,
       "topSpeed": 235,
-      "price": "~$87,900"
+      "price": "~$87,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series Gran Coupe|2024|430i Gran Coupe": {
       "engine": "2.0L 4-cyl TwinPower Turbo B48",
@@ -286,7 +301,8 @@
       "fx": null,
       "acceleration": 5.8,
       "topSpeed": 250,
-      "price": "~$103,900"
+      "price": "~$103,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series Gran Coupe|2024|M440i Gran Coupe xDrive": {
       "engine": "3.0L 6-cyl TwinPower Turbo B58",
@@ -304,7 +320,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 250,
-      "price": "~$129,900"
+      "price": "~$129,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series Gran Coupe|2025|420i Gran Coupe": {
       "engine": "2.0L 4-cyl TwinPower Turbo B48",
@@ -322,7 +339,8 @@
       "fx": null,
       "acceleration": 7.5,
       "topSpeed": 235,
-      "price": "~$89,900"
+      "price": "~$89,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series Gran Coupe|2025|430i Gran Coupe": {
       "engine": "2.0L 4-cyl TwinPower Turbo B48",
@@ -340,7 +358,8 @@
       "fx": null,
       "acceleration": 5.8,
       "topSpeed": 250,
-      "price": "~$106,900"
+      "price": "~$106,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series Gran Coupe|2025|M440i Gran Coupe xDrive": {
       "engine": "3.0L 6-cyl TwinPower Turbo B58",
@@ -358,7 +377,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 250,
-      "price": "~$134,900"
+      "price": "~$134,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series Gran Coupe|2026|420i Gran Coupe": {
       "engine": "2.0L 4-cyl TwinPower Turbo B48",
@@ -376,7 +396,8 @@
       "fx": null,
       "acceleration": 7.5,
       "topSpeed": 235,
-      "price": "~$91,900"
+      "price": "~$91,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series Gran Coupe|2026|430i Gran Coupe": {
       "engine": "2.0L 4-cyl TwinPower Turbo B48",
@@ -394,7 +415,8 @@
       "fx": null,
       "acceleration": 5.8,
       "topSpeed": 250,
-      "price": "~$109,900"
+      "price": "~$109,900",
+      "aspiration": "Turbo"
     },
     "BMW|4 Series Gran Coupe|2026|M440i Gran Coupe xDrive": {
       "engine": "3.0L 6-cyl TwinPower Turbo B58",
@@ -412,7 +434,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 250,
-      "price": "~$139,900"
+      "price": "~$139,900",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2019|314 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -430,7 +453,8 @@
       "fx": null,
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$65,990"
+      "price": "~$65,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2019|316 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -448,7 +472,8 @@
       "fx": null,
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$72,990"
+      "price": "~$72,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2019|319 CDI": {
       "engine": "3.0L V6 OM642 CDI",
@@ -466,7 +491,8 @@
       "fx": null,
       "acceleration": 12.5,
       "topSpeed": 165,
-      "price": "~$85,990"
+      "price": "~$85,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2020|314 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -484,7 +510,8 @@
       "fx": null,
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$66,990"
+      "price": "~$66,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2020|316 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -502,7 +529,8 @@
       "fx": null,
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$73,990"
+      "price": "~$73,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2020|319 CDI": {
       "engine": "3.0L V6 OM642 CDI",
@@ -520,7 +548,8 @@
       "fx": null,
       "acceleration": 12.5,
       "topSpeed": 165,
-      "price": "~$86,990"
+      "price": "~$86,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2021|314 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -538,7 +567,8 @@
       "fx": null,
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$67,990"
+      "price": "~$67,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2021|316 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -556,7 +586,8 @@
       "fx": null,
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$74,990"
+      "price": "~$74,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2021|319 CDI": {
       "engine": "3.0L V6 OM642 CDI",
@@ -574,7 +605,8 @@
       "fx": null,
       "acceleration": 12.5,
       "topSpeed": 165,
-      "price": "~$87,990"
+      "price": "~$87,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2022|314 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -592,7 +624,8 @@
       "fx": null,
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$68,990"
+      "price": "~$68,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2022|316 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -610,7 +643,8 @@
       "fx": null,
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$75,990"
+      "price": "~$75,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2022|319 CDI": {
       "engine": "3.0L V6 OM642 CDI",
@@ -628,7 +662,8 @@
       "fx": null,
       "acceleration": 12.5,
       "topSpeed": 165,
-      "price": "~$88,990"
+      "price": "~$88,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2023|314 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -646,7 +681,8 @@
       "fx": null,
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$69,990"
+      "price": "~$69,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2023|316 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -664,7 +700,8 @@
       "fx": null,
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$76,990"
+      "price": "~$76,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2023|319 CDI": {
       "engine": "3.0L V6 OM642 CDI",
@@ -682,7 +719,8 @@
       "fx": null,
       "acceleration": 12.5,
       "topSpeed": 165,
-      "price": "~$89,990"
+      "price": "~$89,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2024|314 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -700,7 +738,8 @@
       "fx": null,
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$71,990"
+      "price": "~$71,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2024|316 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -718,7 +757,8 @@
       "fx": null,
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$78,990"
+      "price": "~$78,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2024|319 CDI": {
       "engine": "3.0L V6 OM642 CDI",
@@ -736,7 +776,8 @@
       "fx": null,
       "acceleration": 12.5,
       "topSpeed": 165,
-      "price": "~$91,990"
+      "price": "~$91,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2025|314 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -754,7 +795,8 @@
       "fx": null,
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$73,990"
+      "price": "~$73,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2025|316 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -772,7 +814,8 @@
       "fx": null,
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$80,990"
+      "price": "~$80,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2025|319 CDI": {
       "engine": "3.0L V6 OM642 CDI",
@@ -790,7 +833,8 @@
       "fx": null,
       "acceleration": 12.5,
       "topSpeed": 165,
-      "price": "~$93,990"
+      "price": "~$93,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2026|314 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -808,7 +852,8 @@
       "fx": null,
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$75,990"
+      "price": "~$75,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2026|316 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -826,7 +871,8 @@
       "fx": null,
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$82,990"
+      "price": "~$82,990",
+      "aspiration": "Turbo"
     },
     "Mercedes-Benz|Sprinter|2026|319 CDI": {
       "engine": "3.0L V6 OM642 CDI",
@@ -844,7 +890,8 @@
       "fx": null,
       "acceleration": 12.5,
       "topSpeed": 165,
-      "price": "~$95,990"
+      "price": "~$95,990",
+      "aspiration": "Turbo"
     }
   }
 }

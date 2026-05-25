@@ -16,7 +16,8 @@
       "fx": null,
       "acceleration": 5.4,
       "topSpeed": 250,
-      "price": "~$87,900"
+      "price": "~$87,900",
+      "aspiration": "Turbo"
     },
     "BMW|X1|2024|M35i xDrive": {
       "engine": "2.0L 4-cyl Twin-Turbo B48A20T3",
@@ -34,7 +35,8 @@
       "fx": null,
       "acceleration": 5.4,
       "topSpeed": 250,
-      "price": "~$90,900"
+      "price": "~$90,900",
+      "aspiration": "Turbo"
     },
     "BMW|X1|2025|M35i xDrive": {
       "engine": "2.0L 4-cyl Twin-Turbo B48A20T3",
@@ -52,7 +54,8 @@
       "fx": null,
       "acceleration": 5.4,
       "topSpeed": 250,
-      "price": "~$93,900"
+      "price": "~$93,900",
+      "aspiration": "Turbo"
     },
     "BMW|X1|2026|M35i xDrive": {
       "engine": "2.0L 4-cyl Twin-Turbo B48A20T3",
@@ -70,7 +73,8 @@
       "fx": null,
       "acceleration": 5.4,
       "topSpeed": 250,
-      "price": "~$96,900"
+      "price": "~$96,900",
+      "aspiration": "Turbo"
     },
     "Suzuki|Fronx|2024|GL": {
       "engine": "1.5L 4-cyl Dual Jet",
@@ -88,7 +92,8 @@
       "fx": null,
       "acceleration": 13,
       "topSpeed": 165,
-      "price": "~$24,990"
+      "price": "~$24,990",
+      "aspiration": "NA"
     },
     "Suzuki|Fronx|2024|GLX": {
       "engine": "1.5L 4-cyl Dual Jet",
@@ -106,7 +111,8 @@
       "fx": null,
       "acceleration": 13.5,
       "topSpeed": 165,
-      "price": "~$27,990"
+      "price": "~$27,990",
+      "aspiration": "NA"
     },
     "Suzuki|Fronx|2024|GLX+": {
       "engine": "1.5L 4-cyl Dual Jet",
@@ -124,7 +130,8 @@
       "fx": null,
       "acceleration": 13.5,
       "topSpeed": 165,
-      "price": "~$30,990"
+      "price": "~$30,990",
+      "aspiration": "NA"
     },
     "Suzuki|Fronx|2025|GL": {
       "engine": "1.5L 4-cyl Dual Jet",
@@ -142,7 +149,8 @@
       "fx": null,
       "acceleration": 13,
       "topSpeed": 165,
-      "price": "~$25,990"
+      "price": "~$25,990",
+      "aspiration": "NA"
     },
     "Suzuki|Fronx|2025|GLX": {
       "engine": "1.5L 4-cyl Dual Jet",
@@ -160,7 +168,8 @@
       "fx": null,
       "acceleration": 13.5,
       "topSpeed": 165,
-      "price": "~$28,990"
+      "price": "~$28,990",
+      "aspiration": "NA"
     },
     "Suzuki|Fronx|2025|GLX+": {
       "engine": "1.5L 4-cyl Dual Jet",
@@ -178,7 +187,8 @@
       "fx": null,
       "acceleration": 13.5,
       "topSpeed": 165,
-      "price": "~$31,990"
+      "price": "~$31,990",
+      "aspiration": "NA"
     },
     "Suzuki|Fronx|2026|GL": {
       "engine": "1.5L 4-cyl Dual Jet",
@@ -196,7 +206,8 @@
       "fx": null,
       "acceleration": 13,
       "topSpeed": 165,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "aspiration": "NA"
     },
     "Suzuki|Fronx|2026|GLX": {
       "engine": "1.5L 4-cyl Dual Jet",
@@ -214,7 +225,8 @@
       "fx": null,
       "acceleration": 13.5,
       "topSpeed": 165,
-      "price": "~$29,990"
+      "price": "~$29,990",
+      "aspiration": "NA"
     },
     "Suzuki|Fronx|2026|GLX+": {
       "engine": "1.5L 4-cyl Dual Jet",
@@ -232,7 +244,8 @@
       "fx": null,
       "acceleration": 13.5,
       "topSpeed": 165,
-      "price": "~$32,990"
+      "price": "~$32,990",
+      "aspiration": "NA"
     },
     "Alfa Romeo|Junior|2025|Junior": {
       "engine": "1.2L 3-cyl PureTech 48V Mild Hybrid",
@@ -250,7 +263,8 @@
       "fx": null,
       "acceleration": 9.4,
       "topSpeed": 200,
-      "price": "~$46,990"
+      "price": "~$46,990",
+      "aspiration": "NA"
     },
     "Alfa Romeo|Junior|2025|Junior Elettrica": {
       "engine": "Single Electric Motor",
@@ -268,7 +282,8 @@
       "fx": null,
       "acceleration": 8,
       "topSpeed": 200,
-      "price": "~$59,990"
+      "price": "~$59,990",
+      "aspiration": "Electric"
     },
     "Alfa Romeo|Junior|2026|Junior": {
       "engine": "1.2L 3-cyl PureTech 48V Mild Hybrid",
@@ -286,7 +301,8 @@
       "fx": null,
       "acceleration": 9.4,
       "topSpeed": 200,
-      "price": "~$48,990"
+      "price": "~$48,990",
+      "aspiration": "NA"
     },
     "Alfa Romeo|Junior|2026|Junior Elettrica": {
       "engine": "Single Electric Motor",
@@ -304,7 +320,8 @@
       "fx": null,
       "acceleration": 8,
       "topSpeed": 200,
-      "price": "~$61,990"
+      "price": "~$61,990",
+      "aspiration": "Electric"
     },
     "Peugeot|408|2023|408": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -322,7 +339,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 210,
-      "price": "~$48,990"
+      "price": "~$48,990",
+      "aspiration": "NA"
     },
     "Peugeot|408|2023|408 GT": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -340,7 +358,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 210,
-      "price": "~$55,990"
+      "price": "~$55,990",
+      "aspiration": "NA"
     },
     "Peugeot|408|2023|408 PHEV": {
       "engine": "1.6L 4-cyl PureTech PHEV HYbrid4",
@@ -359,7 +378,8 @@
       "acceleration": 7.7,
       "topSpeed": 225,
       "range": 62,
-      "price": "~$63,990"
+      "price": "~$63,990",
+      "aspiration": "NA"
     },
     "Peugeot|408|2024|408": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -377,7 +397,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 210,
-      "price": "~$50,990"
+      "price": "~$50,990",
+      "aspiration": "NA"
     },
     "Peugeot|408|2024|408 GT": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -395,7 +416,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 210,
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "aspiration": "NA"
     },
     "Peugeot|408|2024|408 PHEV": {
       "engine": "1.6L 4-cyl PureTech PHEV HYbrid4",
@@ -414,7 +436,8 @@
       "acceleration": 7.7,
       "topSpeed": 225,
       "range": 62,
-      "price": "~$65,990"
+      "price": "~$65,990",
+      "aspiration": "NA"
     },
     "Peugeot|408|2025|408": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -432,7 +455,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 210,
-      "price": "~$52,990"
+      "price": "~$52,990",
+      "aspiration": "NA"
     },
     "Peugeot|408|2025|408 GT": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -450,7 +474,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 210,
-      "price": "~$59,990"
+      "price": "~$59,990",
+      "aspiration": "NA"
     },
     "Peugeot|408|2025|408 PHEV": {
       "engine": "1.6L 4-cyl PureTech PHEV HYbrid4",
@@ -469,7 +494,8 @@
       "acceleration": 7.7,
       "topSpeed": 225,
       "range": 62,
-      "price": "~$67,990"
+      "price": "~$67,990",
+      "aspiration": "NA"
     },
     "Peugeot|408|2026|408": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -487,7 +513,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 210,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "aspiration": "NA"
     },
     "Peugeot|408|2026|408 GT": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -505,7 +532,8 @@
       "fx": null,
       "acceleration": 9.5,
       "topSpeed": 210,
-      "price": "~$61,990"
+      "price": "~$61,990",
+      "aspiration": "NA"
     },
     "Peugeot|408|2026|408 PHEV": {
       "engine": "1.6L 4-cyl PureTech PHEV HYbrid4",
@@ -524,7 +552,8 @@
       "acceleration": 7.7,
       "topSpeed": 225,
       "range": 62,
-      "price": "~$69,990"
+      "price": "~$69,990",
+      "aspiration": "NA"
     },
     "Peugeot|2008|2024|e-2008": {
       "engine": "115kW Single Electric Motor",
@@ -542,7 +571,8 @@
       "fx": null,
       "acceleration": 8.9,
       "topSpeed": 150,
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "aspiration": "Electric"
     },
     "Peugeot|2008|2025|e-2008": {
       "engine": "115kW Single Electric Motor",
@@ -560,7 +590,8 @@
       "fx": null,
       "acceleration": 8.9,
       "topSpeed": 150,
-      "price": "~$59,990"
+      "price": "~$59,990",
+      "aspiration": "Electric"
     },
     "Peugeot|2008|2026|e-2008": {
       "engine": "115kW Single Electric Motor",
@@ -578,7 +609,8 @@
       "fx": null,
       "acceleration": 8.9,
       "topSpeed": 150,
-      "price": "~$61,990"
+      "price": "~$61,990",
+      "aspiration": "Electric"
     },
     "Kia|Tasman|2025|S": {
       "engine": "2.2L 4-cyl CRDi Diesel",
@@ -596,7 +628,8 @@
       "fx": null,
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$50,990"
+      "price": "~$50,990",
+      "aspiration": "Turbo"
     },
     "Kia|Tasman|2025|GT-Line": {
       "engine": "2.2L 4-cyl CRDi Diesel",
@@ -614,7 +647,8 @@
       "fx": null,
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$61,990"
+      "price": "~$61,990",
+      "aspiration": "Turbo"
     },
     "Kia|Tasman|2025|SX+": {
       "engine": "2.2L 4-cyl CRDi Diesel",
@@ -632,7 +666,8 @@
       "fx": null,
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$72,990"
+      "price": "~$72,990",
+      "aspiration": "Turbo"
     },
     "Kia|Tasman|2026|S": {
       "engine": "2.2L 4-cyl CRDi Diesel",
@@ -650,7 +685,8 @@
       "fx": null,
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$52,990"
+      "price": "~$52,990",
+      "aspiration": "Turbo"
     },
     "Kia|Tasman|2026|GT-Line": {
       "engine": "2.2L 4-cyl CRDi Diesel",
@@ -668,7 +704,8 @@
       "fx": null,
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$63,990"
+      "price": "~$63,990",
+      "aspiration": "Turbo"
     },
     "Kia|Tasman|2026|SX+": {
       "engine": "2.2L 4-cyl CRDi Diesel",
@@ -686,7 +723,8 @@
       "fx": null,
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$74,990"
+      "price": "~$74,990",
+      "aspiration": "Turbo"
     },
     "Mazda|CX-70|2024|GT": {
       "engine": "3.3L 6-cyl SH-VPTR Diesel",
@@ -704,7 +742,8 @@
       "fx": null,
       "acceleration": 6.8,
       "topSpeed": 210,
-      "price": "~$79,990"
+      "price": "~$79,990",
+      "aspiration": "Turbo"
     },
     "Mazda|CX-70|2024|GT SP": {
       "engine": "3.3L 6-cyl SH-VPTR Diesel",
@@ -722,7 +761,8 @@
       "fx": null,
       "acceleration": 6.8,
       "topSpeed": 210,
-      "price": "~$89,990"
+      "price": "~$89,990",
+      "aspiration": "Turbo"
     },
     "Mazda|CX-70|2024|GT PHEV": {
       "engine": "2.5L 4-cyl PHEV",
@@ -741,7 +781,8 @@
       "acceleration": 5.8,
       "topSpeed": 200,
       "range": 82,
-      "price": "~$99,990"
+      "price": "~$99,990",
+      "aspiration": "NA"
     },
     "Mazda|CX-70|2025|GT": {
       "engine": "3.3L 6-cyl SH-VPTR Diesel",
@@ -759,7 +800,8 @@
       "fx": null,
       "acceleration": 6.8,
       "topSpeed": 210,
-      "price": "~$82,990"
+      "price": "~$82,990",
+      "aspiration": "Turbo"
     },
     "Mazda|CX-70|2025|GT SP": {
       "engine": "3.3L 6-cyl SH-VPTR Diesel",
@@ -777,7 +819,8 @@
       "fx": null,
       "acceleration": 6.8,
       "topSpeed": 210,
-      "price": "~$92,990"
+      "price": "~$92,990",
+      "aspiration": "Turbo"
     },
     "Mazda|CX-70|2025|GT PHEV": {
       "engine": "2.5L 4-cyl PHEV",
@@ -796,7 +839,8 @@
       "acceleration": 5.8,
       "topSpeed": 200,
       "range": 82,
-      "price": "~$102,990"
+      "price": "~$102,990",
+      "aspiration": "NA"
     },
     "Mazda|CX-70|2026|GT": {
       "engine": "3.3L 6-cyl SH-VPTR Diesel",
@@ -814,7 +858,8 @@
       "fx": null,
       "acceleration": 6.8,
       "topSpeed": 210,
-      "price": "~$85,990"
+      "price": "~$85,990",
+      "aspiration": "Turbo"
     },
     "Mazda|CX-70|2026|GT SP": {
       "engine": "3.3L 6-cyl SH-VPTR Diesel",
@@ -832,7 +877,8 @@
       "fx": null,
       "acceleration": 6.8,
       "topSpeed": 210,
-      "price": "~$95,990"
+      "price": "~$95,990",
+      "aspiration": "Turbo"
     },
     "Mazda|CX-70|2026|GT PHEV": {
       "engine": "2.5L 4-cyl PHEV",
@@ -851,7 +897,8 @@
       "acceleration": 5.8,
       "topSpeed": 200,
       "range": 82,
-      "price": "~$105,990"
+      "price": "~$105,990",
+      "aspiration": "NA"
     }
   }
 }
