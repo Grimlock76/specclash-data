@@ -19110,6 +19110,38 @@
         "430i Gran Coupe",
         "M440i Gran Coupe xDrive"
       ]
+    },
+    "4 Series Convertible": {
+      "2021": [
+        "420i Convertible",
+        "430i Convertible",
+        "M440i xDrive Convertible"
+      ],
+      "2022": [
+        "420i Convertible",
+        "430i Convertible",
+        "M440i xDrive Convertible"
+      ],
+      "2023": [
+        "420i Convertible",
+        "430i Convertible",
+        "M440i xDrive Convertible"
+      ],
+      "2024": [
+        "420i Convertible",
+        "430i Convertible",
+        "M440i xDrive Convertible"
+      ],
+      "2025": [
+        "420i Convertible",
+        "430i Convertible",
+        "M440i xDrive Convertible"
+      ],
+      "2026": [
+        "420i Convertible",
+        "430i Convertible",
+        "M440i xDrive Convertible"
+      ]
     }
   },
   "Mercedes-Benz": {
@@ -23266,10 +23298,12 @@
       ],
       "2025": [
         "LC 500",
+        "LC 500 Convertible",
         "LC 500h"
       ],
       "2026": [
         "LC 500",
+        "LC 500 Convertible",
         "LC 500h"
       ]
     },
