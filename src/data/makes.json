@@ -23424,7 +23424,8 @@
         "35 TFSI"
       ],
       "2025": [
-        "35 TFSI"
+        "35 TFSI",
+        "40 TFSI quattro"
       ],
       "2026": [
         "35 TFSI"
@@ -23508,7 +23509,8 @@
         "35 TFSI"
       ],
       "2025": [
-        "35 TFSI"
+        "35 TFSI",
+        "40 TFSI quattro"
       ],
       "2026": [
         "35 TFSI"
@@ -23589,7 +23591,8 @@
         "45 TFSI quattro"
       ],
       "2025": [
-        "45 TFSI quattro"
+        "45 TFSI quattro",
+        "55 TFSI quattro"
       ],
       "2026": [
         "45 TFSI quattro"
@@ -23704,7 +23707,8 @@
         "35 TFSI"
       ],
       "2025": [
-        "35 TFSI"
+        "35 TFSI",
+        "40 TFSI quattro"
       ],
       "2026": [
         "35 TFSI"
@@ -23862,6 +23866,7 @@
         "55 TFSI quattro"
       ],
       "2025": [
+        "45 TDI quattro",
         "55 TFSI quattro"
       ],
       "2026": [
@@ -24282,7 +24287,8 @@
         "45 TFSI quattro"
       ],
       "2025": [
-        "45 TFSI quattro"
+        "45 TFSI quattro",
+        "SQ5 Sportback"
       ],
       "2026": [
         "45 TFSI quattro"
@@ -25514,7 +25520,15 @@
       ],
       "2026": [
         "Carrera",
-        "GT3"
+        "Carrera 4",
+        "Carrera 4S",
+        "Carrera GTS",
+        "Carrera S Cabriolet",
+        "Dakar",
+        "GT3",
+        "Targa 4",
+        "Targa 4S",
+        "Turbo S"
       ]
     },
     "Boxster": {
@@ -25849,7 +25863,9 @@
       ],
       "2026": [
         "GTS",
-        "Taycan"
+        "Taycan",
+        "Taycan 4S",
+        "Taycan Turbo GT"
       ]
     }
   },
@@ -68542,9 +68558,9 @@
         "Brabus"
       ],
       "2014": [
+        "0.9 Turbo",
         "1.0",
         "Brabus",
-        "0.9 Turbo",
         "Electric"
       ],
       "2015": [
@@ -68598,20 +68614,20 @@
     },
     "Roadster": {
       "2003": [
-        "Standard",
-        "Brabus"
+        "Brabus",
+        "Standard"
       ],
       "2004": [
-        "Standard",
-        "Brabus"
+        "Brabus",
+        "Standard"
       ],
       "2005": [
-        "Standard",
-        "Brabus"
+        "Brabus",
+        "Standard"
       ],
       "2006": [
-        "Standard",
-        "Brabus"
+        "Brabus",
+        "Standard"
       ]
     },
     "Forfour": {
@@ -68675,6 +68691,19 @@
       "2026": [
         "0.9 Turbo",
         "Electric"
+      ]
+    },
+    "#1": {
+      "2024": [
+        "Brabus",
+        "Premium",
+        "Pro+"
+      ]
+    },
+    "#3": {
+      "2024": [
+        "Brabus",
+        "Pro+"
       ]
     }
   },
