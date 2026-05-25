@@ -1968,6 +1968,20 @@
         "P703 Wildtrak",
         "P703 XL",
         "P703 XLT"
+      ],
+      "2025": [
+        "P703 FX4 Max",
+        "P703 Raptor",
+        "P703 Wildtrak",
+        "P703 XL",
+        "P703 XLT"
+      ],
+      "2026": [
+        "P703 FX4 Max",
+        "P703 Raptor",
+        "P703 Wildtrak",
+        "P703 XL",
+        "P703 XLT"
       ]
     },
     "Territory": {
@@ -22648,17 +22662,6 @@
         "VTi-S e:HEV"
       ]
     },
-    "e:NY1": {
-      "2024": [
-        "e:Ny1"
-      ],
-      "2025": [
-        "e:Ny1"
-      ],
-      "2026": [
-        "e:Ny1"
-      ]
-    },
     "e:Ny1": {
       "2024": [
         "Advance",
@@ -24267,7 +24270,8 @@
         "35 TFSI"
       ],
       "2026": [
-        "35 TFSI"
+        "35 TFSI",
+        "40 TFSI quattro"
       ]
     },
     "e-tron GT": {
@@ -24503,7 +24507,8 @@
         "45 TFSI quattro"
       ],
       "2026": [
-        "45 TFSI quattro"
+        "45 TFSI quattro",
+        "50 TDI quattro"
       ]
     },
     "A6 allroad": {
@@ -29386,25 +29391,21 @@
     "Tank 300": {
       "2023": [
         "Adventure",
-        "LUX",
         "Lux",
         "Ultra"
       ],
       "2024": [
         "Adventure",
-        "LUX",
         "Lux",
         "Ultra"
       ],
       "2025": [
         "Adventure",
-        "LUX",
         "Lux",
         "Ultra PHEV"
       ],
       "2026": [
         "Adventure",
-        "LUX",
         "Lux",
         "Ultra PHEV"
       ]
@@ -31328,6 +31329,20 @@
         "1.5 eTSI",
         "VZ",
         "VZ 4Drive"
+      ]
+    },
+    "Tavascan": {
+      "2024": [
+        "V1",
+        "VZ"
+      ],
+      "2025": [
+        "V1",
+        "VZ"
+      ],
+      "2026": [
+        "V1",
+        "VZ"
       ]
     }
   },
@@ -53874,6 +53889,8 @@
         "SE ALL4"
       ],
       "2026": [
+        "Cooper",
+        "Cooper S ALL4",
         "E",
         "SE ALL4"
       ]
