@@ -1833,6 +1833,16 @@
         "Dark Horse",
         "Fastback 5.0 GT",
         "Fastback EcoBoost"
+      ],
+      "2025": [
+        "Dark Horse",
+        "Fastback 5.0 GT",
+        "Fastback EcoBoost"
+      ],
+      "2026": [
+        "Dark Horse",
+        "Fastback 5.0 GT",
+        "Fastback EcoBoost"
       ]
     },
     "Focus": {
@@ -2103,12 +2113,20 @@
         "UB Trend"
       ],
       "2025": [
+        "Ambiente",
         "Platinum",
-        "Platinum+"
+        "Platinum+",
+        "Sport",
+        "Titanium",
+        "Trend"
       ],
       "2026": [
+        "Ambiente",
         "Platinum",
-        "Platinum+"
+        "Platinum+",
+        "Sport",
+        "Titanium",
+        "Trend"
       ]
     },
     "Escape": {
@@ -2193,6 +2211,16 @@
         "ST-Line X"
       ],
       "2024": [
+        "ST",
+        "ST-Line",
+        "ST-Line X"
+      ],
+      "2025": [
+        "ST",
+        "ST-Line",
+        "ST-Line X"
+      ],
+      "2026": [
         "ST",
         "ST-Line",
         "ST-Line X"
@@ -9748,11 +9776,13 @@
       ],
       "2025": [
         "ST",
-        "ST-L"
+        "ST-L",
+        "Ti"
       ],
       "2026": [
         "ST",
-        "ST-L"
+        "ST-L",
+        "Ti"
       ]
     },
     "Micra": {
@@ -16119,11 +16149,13 @@
       ],
       "2025": [
         "TDI500 Style",
+        "TDI580 Style",
         "TDI600 Aventura",
         "TDI600 PanAmericana"
       ],
       "2026": [
         "TDI500 Style",
+        "TDI580 Style",
         "TDI600 Aventura",
         "TDI600 PanAmericana"
       ]
@@ -18279,12 +18311,14 @@
         "M4 Competition xDrive Convertible"
       ],
       "2024": [
+        "M4 CS",
         "M4 Competition",
         "M4 Competition Convertible",
         "M4 Competition xDrive",
         "M4 Competition xDrive Convertible"
       ],
       "2025": [
+        "M4 CS",
         "M4 Competition",
         "M4 Competition Convertible",
         "M4 Competition xDrive",
@@ -24741,6 +24775,12 @@
       ],
       "2024": [
         "RS3"
+      ],
+      "2025": [
+        "RS3"
+      ],
+      "2026": [
+        "RS3"
       ]
     },
     "S4": {
@@ -24850,6 +24890,12 @@
         "RS5"
       ],
       "2022": [
+        "RS5"
+      ],
+      "2023": [
+        "RS5"
+      ],
+      "2024": [
         "RS5"
       ]
     },
@@ -25633,9 +25679,11 @@
         "Carrera S Cabriolet",
         "Dakar",
         "GT3",
+        "GT3 RS",
         "GT3 Touring",
         "Targa 4",
         "Targa 4S",
+        "Turbo",
         "Turbo S"
       ],
       "2026": [
@@ -25647,9 +25695,11 @@
         "Carrera S Cabriolet",
         "Dakar",
         "GT3",
+        "GT3 RS",
         "GT3 Touring",
         "Targa 4",
         "Targa 4S",
+        "Turbo",
         "Turbo S"
       ]
     },
@@ -25788,6 +25838,7 @@
         "Coupe",
         "E-Hybrid",
         "E-Hybrid Coupe",
+        "GTS",
         "GTS Coupe",
         "S",
         "S Coupe",
@@ -25799,6 +25850,7 @@
         "Coupe",
         "E-Hybrid",
         "E-Hybrid Coupe",
+        "GTS",
         "GTS Coupe",
         "S",
         "S Coupe",
@@ -25860,11 +25912,15 @@
       ],
       "2025": [
         "4 Electric",
-        "4S Electric"
+        "4S Electric",
+        "Electric",
+        "Turbo Electric"
       ],
       "2026": [
         "4 Electric",
-        "4S Electric"
+        "4S Electric",
+        "Electric",
+        "Turbo Electric"
       ]
     },
     "Panamera": {
@@ -26753,10 +26809,14 @@
         "SE"
       ],
       "2025": [
+        "Dynamic HSE",
+        "Dynamic SE",
         "HSE",
         "SE"
       ],
       "2026": [
+        "Dynamic HSE",
+        "Dynamic SE",
         "HSE",
         "SE"
       ]
@@ -30351,6 +30411,20 @@
         "Longitude",
         "Sport",
         "Trailhawk"
+      ],
+      "2025": [
+        "4xe",
+        "Limited",
+        "Longitude",
+        "Sport",
+        "Trailhawk"
+      ],
+      "2026": [
+        "4xe",
+        "Limited",
+        "Longitude",
+        "Sport",
+        "Trailhawk"
       ]
     },
     "Renegade": {
@@ -32136,9 +32210,11 @@
         "EV60"
       ],
       "2025": [
+        "EV40",
         "EV60"
       ],
       "2026": [
+        "EV40",
         "EV60"
       ]
     },
@@ -44945,6 +45021,14 @@
       "2026": [
         "base"
       ]
+    },
+    "Temerario": {
+      "2025": [
+        "Coupe"
+      ],
+      "2026": [
+        "Coupe"
+      ]
     }
   },
   "Maserati": {
@@ -45783,6 +45867,16 @@
         "GT",
         "Modena",
         "Trofeo"
+      ],
+      "2025": [
+        "GT",
+        "Modena",
+        "Trofeo"
+      ],
+      "2026": [
+        "GT",
+        "Modena",
+        "Trofeo"
       ]
     },
     "MC20": {
@@ -45803,6 +45897,14 @@
         "Coupe"
       ],
       "2024": [
+        "Cielo",
+        "Coupe"
+      ],
+      "2025": [
+        "Cielo",
+        "Coupe"
+      ],
+      "2026": [
         "Cielo",
         "Coupe"
       ]
@@ -50245,110 +50347,110 @@
   "Rolls-Royce": {
     "Silver Cloud": {
       "1955": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1956": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1957": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1958": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1959": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ]
     },
     "Silver Cloud II": {
       "1959": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1960": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1961": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1962": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ]
     },
     "Silver Cloud III": {
       "1963": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1964": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1965": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1966": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ]
     },
     "Silver Shadow": {
       "1965": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1966": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1967": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1968": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1969": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1970": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1971": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1972": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1973": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1974": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1975": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ],
       "1976": [
-        "Standard",
-        "Long Wheelbase"
+        "Long Wheelbase",
+        "Standard"
       ]
     },
     "Silver Shadow II": {
@@ -50367,44 +50469,44 @@
     },
     "Corniche": {
       "1971": [
-        "Coupe",
-        "Convertible"
+        "Convertible",
+        "Coupe"
       ],
       "1972": [
-        "Coupe",
-        "Convertible"
+        "Convertible",
+        "Coupe"
       ],
       "1973": [
-        "Coupe",
-        "Convertible"
+        "Convertible",
+        "Coupe"
       ],
       "1974": [
-        "Coupe",
-        "Convertible"
+        "Convertible",
+        "Coupe"
       ],
       "1975": [
-        "Coupe",
-        "Convertible"
+        "Convertible",
+        "Coupe"
       ],
       "1976": [
-        "Coupe",
-        "Convertible"
+        "Convertible",
+        "Coupe"
       ],
       "1977": [
-        "Coupe",
-        "Convertible"
+        "Convertible",
+        "Coupe"
       ],
       "1978": [
-        "Coupe",
-        "Convertible"
+        "Convertible",
+        "Coupe"
       ],
       "1979": [
-        "Coupe",
-        "Convertible"
+        "Convertible",
+        "Coupe"
       ],
       "1980": [
-        "Coupe",
-        "Convertible"
+        "Convertible",
+        "Coupe"
       ],
       "1981": [
         "Convertible"
@@ -50615,340 +50717,351 @@
     },
     "Phantom": {
       "2003": [
-        "Standard",
-        "Extended Wheelbase"
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2004": [
-        "Standard",
-        "Extended Wheelbase"
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2005": [
-        "Standard",
-        "Extended Wheelbase"
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2006": [
-        "Standard",
-        "Extended Wheelbase"
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2007": [
-        "Standard",
+        "Drophead",
         "Extended Wheelbase",
-        "Drophead"
+        "Standard"
       ],
       "2008": [
-        "Standard",
-        "Extended Wheelbase",
         "Coupe",
-        "Drophead"
+        "Drophead",
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2009": [
-        "Standard",
-        "Extended Wheelbase",
         "Coupe",
-        "Drophead"
+        "Drophead",
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2010": [
-        "Standard",
-        "Extended Wheelbase",
         "Coupe",
-        "Drophead"
+        "Drophead",
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2011": [
-        "Standard",
-        "Extended Wheelbase",
         "Coupe",
-        "Drophead"
+        "Drophead",
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2012": [
-        "Standard",
-        "Extended Wheelbase",
         "Coupe",
-        "Drophead"
+        "Drophead",
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2013": [
-        "Standard",
-        "Extended Wheelbase",
         "Coupe",
-        "Drophead"
+        "Drophead",
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2014": [
-        "Standard",
-        "Extended Wheelbase",
         "Coupe",
-        "Drophead"
+        "Drophead",
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2015": [
-        "Standard",
-        "Extended Wheelbase",
         "Coupe",
-        "Drophead"
+        "Drophead",
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2016": [
-        "Standard",
-        "Extended Wheelbase",
         "Coupe",
-        "Drophead"
+        "Drophead",
+        "Extended Wheelbase",
+        "Standard"
       ]
     },
     "Phantom VIII": {
       "2017": [
-        "Standard",
+        "Black Badge",
         "Extended Wheelbase",
-        "Black Badge"
+        "Standard"
       ],
       "2018": [
-        "Standard",
+        "Black Badge",
         "Extended Wheelbase",
-        "Black Badge"
+        "Standard"
       ],
       "2019": [
-        "Standard",
+        "Black Badge",
         "Extended Wheelbase",
-        "Black Badge"
+        "Standard"
       ],
       "2020": [
-        "Standard",
+        "Black Badge",
         "Extended Wheelbase",
-        "Black Badge"
+        "Standard"
       ],
       "2021": [
-        "Standard",
+        "Black Badge",
         "Extended Wheelbase",
-        "Black Badge"
+        "Standard"
       ],
       "2022": [
-        "Standard",
+        "Black Badge",
         "Extended Wheelbase",
-        "Black Badge"
+        "Standard"
       ],
       "2023": [
-        "Standard",
+        "Black Badge",
         "Extended Wheelbase",
-        "Black Badge"
+        "Standard"
       ],
       "2024": [
-        "Standard",
+        "Black Badge",
         "Extended Wheelbase",
-        "Black Badge"
+        "Standard"
       ],
       "2025": [
-        "Standard",
+        "Black Badge",
         "Extended Wheelbase",
-        "Black Badge"
+        "Standard"
       ],
       "2026": [
-        "Standard",
+        "Black Badge",
         "Extended Wheelbase",
-        "Black Badge"
+        "Standard"
       ]
     },
     "Ghost": {
       "2009": [
-        "Standard",
-        "Extended Wheelbase"
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2010": [
-        "Standard",
-        "Extended Wheelbase"
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2011": [
-        "Standard",
-        "Extended Wheelbase"
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2012": [
-        "Standard",
-        "Extended Wheelbase"
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2013": [
-        "Standard",
-        "Extended Wheelbase"
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2014": [
-        "Standard",
-        "Extended Wheelbase"
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2015": [
-        "Standard",
-        "Extended Wheelbase"
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2016": [
-        "Standard",
-        "Extended Wheelbase"
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2017": [
-        "Standard",
-        "Extended Wheelbase"
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2018": [
-        "Standard",
-        "Extended Wheelbase"
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2019": [
-        "Standard",
-        "Extended Wheelbase"
+        "Extended Wheelbase",
+        "Standard"
       ],
       "2020": [
-        "Standard",
-        "Extended Wheelbase"
+        "Extended Wheelbase",
+        "Standard"
       ]
     },
     "Ghost (2nd Gen)": {
       "2020": [
-        "Standard",
+        "Black Badge",
         "Extended Wheelbase",
-        "Black Badge"
+        "Standard"
       ],
       "2021": [
-        "Standard",
+        "Black Badge",
         "Extended Wheelbase",
-        "Black Badge"
+        "Standard"
       ],
       "2022": [
-        "Standard",
+        "Black Badge",
         "Extended Wheelbase",
-        "Black Badge"
+        "Standard"
       ],
       "2023": [
-        "Standard",
+        "Black Badge",
         "Extended Wheelbase",
-        "Black Badge"
+        "Standard"
       ],
       "2024": [
-        "Standard",
+        "Black Badge",
         "Extended Wheelbase",
-        "Black Badge"
+        "Standard"
       ],
       "2025": [
-        "Standard",
+        "Black Badge",
         "Extended Wheelbase",
-        "Black Badge"
+        "Standard"
       ],
       "2026": [
-        "Standard",
+        "Black Badge",
         "Extended Wheelbase",
-        "Black Badge"
+        "Standard"
       ]
     },
     "Wraith": {
       "2013": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2014": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2015": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2016": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2017": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2018": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2019": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2020": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2021": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2022": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2023": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ]
     },
     "Dawn": {
       "2015": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2016": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2017": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2018": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2019": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2020": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2021": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2022": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2023": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ]
     },
     "Cullinan": {
       "2018": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2019": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2020": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2021": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2022": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2023": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2024": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2025": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
       ],
       "2026": [
-        "Standard",
-        "Black Badge"
+        "Black Badge",
+        "Standard"
+      ]
+    },
+    "Spectre": {
+      "2024": [
+        "Standard"
+      ],
+      "2025": [
+        "Standard"
+      ],
+      "2026": [
+        "Standard"
       ]
     }
   },
@@ -51053,36 +51166,36 @@
         "Standard"
       ],
       "2013": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ],
       "2014": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ],
       "2015": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ],
       "2016": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ],
       "2017": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ],
       "2018": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ],
       "2019": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ],
       "2020": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ]
     },
     "Eight": {
@@ -51169,40 +51282,40 @@
         "Standard"
       ],
       "1995": [
-        "Standard",
-        "Mulliner"
+        "Mulliner",
+        "Standard"
       ],
       "1996": [
-        "Standard",
-        "Mulliner"
+        "Mulliner",
+        "Standard"
       ],
       "1997": [
-        "Standard",
-        "Mulliner"
+        "Mulliner",
+        "Standard"
       ],
       "1998": [
-        "Standard",
-        "Mulliner"
+        "Mulliner",
+        "Standard"
       ],
       "1999": [
-        "Standard",
-        "Mulliner"
+        "Mulliner",
+        "Standard"
       ],
       "2000": [
-        "Standard",
-        "Mulliner"
+        "Mulliner",
+        "Standard"
       ],
       "2001": [
-        "Standard",
-        "Mulliner"
+        "Mulliner",
+        "Standard"
       ],
       "2002": [
-        "Standard",
-        "Mulliner"
+        "Mulliner",
+        "Standard"
       ],
       "2003": [
-        "Standard",
-        "Mulliner"
+        "Mulliner",
+        "Standard"
       ]
     },
     "Azure": {
@@ -51282,276 +51395,276 @@
     },
     "Continental GT": {
       "2003": [
-        "W12",
-        "Speed"
+        "Speed",
+        "W12"
       ],
       "2004": [
-        "W12",
-        "Speed"
+        "Speed",
+        "W12"
       ],
       "2005": [
-        "W12",
-        "Speed"
+        "Speed",
+        "W12"
       ],
       "2006": [
-        "W12",
-        "Speed"
+        "Speed",
+        "W12"
       ],
       "2007": [
-        "W12",
-        "Speed"
+        "Speed",
+        "W12"
       ],
       "2008": [
-        "W12",
-        "Speed"
+        "Speed",
+        "W12"
       ],
       "2009": [
-        "W12",
-        "Speed"
+        "Speed",
+        "W12"
       ],
       "2010": [
-        "W12",
-        "Speed"
+        "Speed",
+        "W12"
       ],
       "2011": [
-        "W12",
         "Speed",
-        "W12 Speed",
         "V8",
-        "V8 S"
+        "V8 S",
+        "W12",
+        "W12 Speed"
       ],
       "2012": [
-        "W12",
-        "W12 Speed",
         "V8",
-        "V8 S"
+        "V8 S",
+        "W12",
+        "W12 Speed"
       ],
       "2013": [
-        "W12",
-        "W12 Speed",
         "V8",
-        "V8 S"
+        "V8 S",
+        "W12",
+        "W12 Speed"
       ],
       "2014": [
-        "W12",
-        "W12 Speed",
         "V8",
-        "V8 S"
+        "V8 S",
+        "W12",
+        "W12 Speed"
       ],
       "2015": [
-        "W12",
-        "W12 Speed",
         "V8",
-        "V8 S"
+        "V8 S",
+        "W12",
+        "W12 Speed"
       ],
       "2016": [
-        "W12",
-        "W12 Speed",
         "V8",
-        "V8 S"
+        "V8 S",
+        "W12",
+        "W12 Speed"
       ],
       "2017": [
-        "W12",
-        "W12 Speed",
         "V8",
-        "V8 S"
+        "V8 S",
+        "W12",
+        "W12 Speed"
       ],
       "2018": [
-        "W12",
         "Speed W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2019": [
-        "W12",
         "Speed W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2020": [
-        "W12",
         "Speed W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2021": [
-        "W12",
         "Speed W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2022": [
-        "W12",
         "Speed W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2023": [
-        "W12",
         "Speed W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2024": [
-        "W12",
         "Speed W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2025": [
-        "W12",
         "Speed W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2026": [
-        "W12",
         "Speed W12",
-        "V8"
+        "V8",
+        "W12"
       ]
     },
     "Continental GTC": {
       "2006": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ],
       "2007": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ],
       "2008": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ],
       "2009": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ],
       "2010": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ],
       "2011": [
-        "Standard",
         "Speed",
-        "W12",
-        "V8"
+        "Standard",
+        "V8",
+        "W12"
       ],
       "2012": [
-        "W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2013": [
-        "W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2014": [
-        "W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2015": [
-        "W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2016": [
-        "W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2017": [
-        "W12",
-        "V8"
+        "V8",
+        "W12"
       ]
     },
     "Continental Flying Spur": {
       "2005": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ],
       "2006": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ],
       "2007": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ],
       "2008": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ],
       "2009": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ],
       "2010": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ],
       "2011": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ],
       "2012": [
-        "Standard",
-        "Speed"
+        "Speed",
+        "Standard"
       ]
     },
     "Flying Spur": {
       "2013": [
-        "W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2014": [
-        "W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2015": [
-        "W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2016": [
-        "W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2017": [
-        "W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2018": [
-        "W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2019": [
-        "W12",
+        "Hybrid",
         "V8",
-        "Hybrid"
+        "W12"
       ],
       "2020": [
-        "W12",
+        "Hybrid",
         "V8",
-        "Hybrid"
+        "W12"
       ],
       "2021": [
-        "W12",
+        "Hybrid",
         "V8",
-        "Hybrid"
+        "W12"
       ],
       "2022": [
-        "W12",
+        "Hybrid",
         "V8",
-        "Hybrid"
+        "W12"
       ],
       "2023": [
-        "W12",
+        "Hybrid",
         "V8",
-        "Hybrid"
+        "W12"
       ],
       "2024": [
-        "W12",
+        "Hybrid",
         "V8",
-        "Hybrid"
+        "W12"
       ],
       "2025": [
-        "W12",
+        "Hybrid",
         "V8",
-        "Hybrid"
+        "W12"
       ],
       "2026": [
-        "W12",
+        "Hybrid",
         "V8",
-        "Hybrid"
+        "W12"
       ]
     },
     "Bentayga": {
@@ -51565,42 +51678,46 @@
         "W12"
       ],
       "2018": [
-        "W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2019": [
-        "W12",
-        "V8"
+        "V8",
+        "W12"
       ],
       "2020": [
-        "W12",
+        "Hybrid",
         "V8",
-        "Hybrid"
+        "W12"
       ],
       "2021": [
-        "W12",
+        "Hybrid",
         "V8",
-        "Hybrid"
+        "W12"
       ],
       "2022": [
-        "V8",
-        "Hybrid"
+        "Hybrid",
+        "V8"
       ],
       "2023": [
-        "V8",
-        "Hybrid"
+        "Hybrid",
+        "V8"
       ],
       "2024": [
-        "V8",
-        "Hybrid"
+        "Hybrid",
+        "V8"
       ],
       "2025": [
-        "V8",
-        "Hybrid"
+        "EWB",
+        "Hybrid",
+        "S",
+        "V8"
       ],
       "2026": [
-        "V8",
-        "Hybrid"
+        "EWB",
+        "Hybrid",
+        "S",
+        "V8"
       ]
     }
   },
@@ -52474,6 +52591,14 @@
       "2026": [
         "Coupe",
         "Spider"
+      ]
+    },
+    "GTS": {
+      "2025": [
+        "GTS"
+      ],
+      "2026": [
+        "GTS"
       ]
     }
   },
@@ -53689,6 +53814,11 @@
         "JCW"
       ],
       "2025": [
+        "Cooper",
+        "Cooper S",
+        "JCW"
+      ],
+      "2026": [
         "Cooper",
         "Cooper S",
         "JCW"
