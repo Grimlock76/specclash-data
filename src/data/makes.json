@@ -25508,8 +25508,10 @@
       "2025": [
         "718 Boxster",
         "718 Boxster 4",
+        "718 Boxster 4S",
         "718 Cayman",
         "718 Cayman 4",
+        "718 Cayman 4S",
         "Boxster GTS 4.0",
         "Boxster Spyder",
         "Cayman GT4",
@@ -25518,7 +25520,11 @@
       ],
       "2026": [
         "718 Boxster",
-        "718 Cayman"
+        "718 Boxster 4",
+        "718 Boxster 4S",
+        "718 Cayman",
+        "718 Cayman 4",
+        "718 Cayman 4S"
       ]
     },
     "911": {
@@ -26142,13 +26148,19 @@
       ],
       "2025": [
         "GTS",
+        "Sport Turismo",
         "Taycan",
-        "Taycan 4S"
+        "Taycan 4",
+        "Taycan 4S",
+        "Taycan Turbo"
       ],
       "2026": [
         "GTS",
+        "Sport Turismo",
         "Taycan",
+        "Taycan 4",
         "Taycan 4S",
+        "Taycan Turbo",
         "Taycan Turbo GT"
       ]
     }
@@ -45095,15 +45107,18 @@
       ],
       "2024": [
         "Performante",
-        "S"
+        "S",
+        "SE"
       ],
       "2025": [
         "Performante",
-        "S"
+        "S",
+        "SE"
       ],
       "2026": [
         "Performante",
-        "S"
+        "S",
+        "SE"
       ]
     },
     "LM002": {
@@ -45140,9 +45155,11 @@
         "base"
       ],
       "2025": [
+        "Spider",
         "base"
       ],
       "2026": [
+        "Spider",
         "base"
       ]
     },
@@ -52701,16 +52718,19 @@
       "2024": [
         "Coupe",
         "Performance",
+        "Spider",
         "Standard"
       ],
       "2025": [
         "Coupe",
         "Performance",
+        "Spider",
         "Standard"
       ],
       "2026": [
         "Coupe",
         "Performance",
+        "Spider",
         "Standard"
       ]
     },
