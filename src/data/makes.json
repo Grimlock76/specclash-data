@@ -3899,8 +3899,11 @@
       ],
       "2026": [
         "Commuter",
+        "Commuter Deluxe",
+        "Commuter GL",
         "LWB",
-        "Standard"
+        "Standard",
+        "Van SWB Diesel"
       ]
     },
     "Kluger": {
@@ -4509,6 +4512,7 @@
         "ZX"
       ],
       "2026": [
+        "GR Sport",
         "GX",
         "GXL",
         "Sahara",
@@ -4693,9 +4697,13 @@
         "VX"
       ],
       "2026": [
+        "GR Sport Diesel",
+        "GR Sport Hybrid",
         "GX",
         "GXL",
         "Kakadu",
+        "Sahara Diesel",
+        "Sahara Hybrid",
         "VX"
       ]
     },
@@ -5817,8 +5825,11 @@
       "2026": [
         "GR Sport",
         "GX",
+        "GX Hybrid",
         "GXL",
-        "ZR"
+        "GXL Hybrid",
+        "ZR",
+        "ZR Hybrid AWD"
       ]
     },
     "Cressida": {
@@ -6286,8 +6297,11 @@
       ],
       "2026": [
         "GX",
+        "GX Hybrid",
         "GXL",
-        "ZR"
+        "GXL Hybrid",
+        "ZR",
+        "ZR Hybrid AWD"
       ]
     },
     "GR Corolla": {
@@ -11382,7 +11396,9 @@
         "Exceed",
         "GL",
         "GLS",
-        "GSR"
+        "GLX+",
+        "GSR",
+        "Titan"
       ]
     },
     "Outlander": {
@@ -11535,7 +11551,10 @@
         "ES",
         "Exceed",
         "LS",
-        "PHEV"
+        "PHEV",
+        "PHEV ES",
+        "PHEV Exceed",
+        "PHEV LS"
       ]
     },
     "ASX": {
@@ -21292,7 +21311,8 @@
         "2.4XT Premium",
         "2.4XT Sport",
         "2.5i",
-        "2.5i Premium"
+        "2.5i Premium",
+        "Wilderness"
       ]
     },
     "Forester": {
