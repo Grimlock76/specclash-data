@@ -1,0 +1,167 @@
+'use strict'
+const fs = require('fs')
+
+const specs = {}
+const p = n => `~$${n.toLocaleString()}`
+
+// ─────────────────────────────────────────────────────────────
+// AUDI A4 allroad, A7 & Q7 — 2016 (new B9/4M gens)
+// ─────────────────────────────────────────────────────────────
+specs[`Audi|A4 allroad|2016|40 TDI quattro`] = {
+  engine: '2.0L I4 Turbo Diesel TDI', fuelType: 'diesel', displacement: 1968,
+  cylinders: 4, drivetrain: 'AWD', transmission: '7-speed S tronic',
+  power: 140, torque: 400, weight: 1680, seats: 5,
+  fc: 5.3, fh: 4.2, fx: 7.1,
+  acceleration: 7.7, topSpeed: 240, price: p(74900), aspiration: 'Turbo'
+}
+specs[`Audi|A4 allroad|2016|45 TFSI quattro`] = {
+  engine: '2.0L I4 Turbo TFSI', fuelType: 'petrol', displacement: 1984,
+  cylinders: 4, drivetrain: 'AWD', transmission: '7-speed S tronic',
+  power: 180, torque: 370, weight: 1710, seats: 5,
+  fc: 7.3, fh: 5.8, fx: 9.8,
+  acceleration: 5.9, topSpeed: 250, price: p(79900), aspiration: 'Turbo'
+}
+specs[`Audi|A7|2016|3.0 TDI quattro`] = {
+  engine: '3.0L V6 Turbo Diesel TDI', fuelType: 'diesel', displacement: 2967,
+  cylinders: 6, drivetrain: 'AWD', transmission: '7-speed S tronic',
+  power: 160, torque: 500, weight: 1965, seats: 5,
+  fc: 6.3, fh: 5.0, fx: 8.4,
+  acceleration: 6.3, topSpeed: 250, price: p(119900), aspiration: 'Turbo'
+}
+specs[`Audi|Q7|2016|3.0 TFSI quattro`] = {
+  engine: '3.0L V6 SC TFSI', fuelType: 'petrol', displacement: 2995,
+  cylinders: 6, drivetrain: 'AWD', transmission: '8-speed tiptronic',
+  power: 250, torque: 440, weight: 2045, seats: 7,
+  fc: 10.0, fh: 7.8, fx: 13.4,
+  acceleration: 5.9, topSpeed: 250, price: p(109900), aspiration: 'Supercharged'
+}
+
+// ─────────────────────────────────────────────────────────────
+// BMW M4 — 2016: M4 Competition
+// ─────────────────────────────────────────────────────────────
+specs[`BMW|M4|2016|M4 Competition`] = {
+  engine: '3.0L I6 Biturbo S55', fuelType: 'petrol', displacement: 2979,
+  cylinders: 6, drivetrain: 'RWD', transmission: '7-speed DCT M-DCT',
+  power: 331, torque: 550, weight: 1580, seats: 4,
+  fc: 11.0, fh: 8.5, fx: 14.8,
+  acceleration: 4.0, topSpeed: 280, price: p(149900), aspiration: 'Turbo'
+}
+
+// ─────────────────────────────────────────────────────────────
+// CHEVROLET CAMARO, CRUZE, MALIBU, SPARK & VOLT — 2016 (new gens)
+// ─────────────────────────────────────────────────────────────
+specs[`Chevrolet|Camaro|2016|LT`] = {
+  engine: '3.6L V6 NA LGX', fuelType: 'petrol', displacement: 3649,
+  cylinders: 6, drivetrain: 'RWD', transmission: '8-speed auto',
+  power: 250, torque: 381, weight: 1656, seats: 4,
+  fc: 12.1, fh: 9.4, fx: 16.2,
+  acceleration: 6.0, topSpeed: 250, price: p(59990), aspiration: 'NA'
+}
+specs[`Chevrolet|Camaro|2016|SS`] = {
+  engine: '6.2L V8 NA LT1', fuelType: 'petrol', displacement: 6162,
+  cylinders: 8, drivetrain: 'RWD', transmission: '6-speed manual',
+  power: 339, torque: 617, weight: 1714, seats: 4,
+  fc: 14.4, fh: 11.2, fx: 19.2,
+  acceleration: 4.1, topSpeed: 290, price: p(79990), aspiration: 'NA'
+}
+specs[`Chevrolet|Cruze|2016|L`] = {
+  engine: '1.4L I4 Turbo LUV', fuelType: 'petrol', displacement: 1364,
+  cylinders: 4, drivetrain: 'FWD', transmission: '6-speed manual',
+  power: 110, torque: 235, weight: 1355, seats: 5,
+  fc: 7.7, fh: 6.1, fx: 10.2,
+  acceleration: 9.5, topSpeed: 200, price: p(19990), aspiration: 'Turbo'
+}
+specs[`Chevrolet|Cruze|2016|LT Diesel`] = {
+  engine: '1.6L I4 Turbo Diesel LH7', fuelType: 'diesel', displacement: 1598,
+  cylinders: 4, drivetrain: 'FWD', transmission: '6-speed auto',
+  power: 100, torque: 350, weight: 1410, seats: 5,
+  fc: 4.9, fh: 3.9, fx: 6.4,
+  acceleration: 10.5, topSpeed: 195, price: p(26990), aspiration: 'Turbo'
+}
+specs[`Chevrolet|Cruze|2016|Premier`] = {
+  engine: '1.4L I4 Turbo LUV', fuelType: 'petrol', displacement: 1364,
+  cylinders: 4, drivetrain: 'FWD', transmission: '6-speed auto',
+  power: 110, torque: 235, weight: 1380, seats: 5,
+  fc: 7.7, fh: 6.1, fx: 10.2,
+  acceleration: 9.5, topSpeed: 200, price: p(28990), aspiration: 'Turbo'
+}
+specs[`Chevrolet|Malibu|2016|L`] = {
+  engine: '1.5L I4 Turbo LFV', fuelType: 'petrol', displacement: 1490,
+  cylinders: 4, drivetrain: 'FWD', transmission: '6-speed auto',
+  power: 125, torque: 250, weight: 1475, seats: 5,
+  fc: 8.3, fh: 6.6, fx: 11.0,
+  acceleration: 9.5, topSpeed: 195, price: p(24990), aspiration: 'Turbo'
+}
+specs[`Chevrolet|Malibu|2016|Premier`] = {
+  engine: '2.0L I4 Turbo LTG', fuelType: 'petrol', displacement: 1998,
+  cylinders: 4, drivetrain: 'FWD', transmission: '9-speed auto',
+  power: 190, torque: 350, weight: 1575, seats: 5,
+  fc: 10.0, fh: 7.9, fx: 13.3,
+  acceleration: 6.5, topSpeed: 235, price: p(37990), aspiration: 'Turbo'
+}
+specs[`Chevrolet|Spark|2016|ACTIV`] = {
+  engine: '1.4L I4 NA LV7', fuelType: 'petrol', displacement: 1373,
+  cylinders: 4, drivetrain: 'FWD', transmission: '6-speed auto',
+  power: 74, torque: 128, weight: 1055, seats: 5,
+  fc: 7.7, fh: 6.1, fx: 10.2,
+  acceleration: 11.5, topSpeed: 168, price: p(19990), aspiration: 'NA'
+}
+specs[`Chevrolet|Spark|2016|Premier`] = {
+  engine: '1.4L I4 NA LV7', fuelType: 'petrol', displacement: 1373,
+  cylinders: 4, drivetrain: 'FWD', transmission: '6-speed auto',
+  power: 74, torque: 128, weight: 1050, seats: 5,
+  fc: 7.7, fh: 6.1, fx: 10.2,
+  acceleration: 11.5, topSpeed: 168, price: p(17990), aspiration: 'NA'
+}
+specs[`Chevrolet|Volt|2016|LT`] = {
+  engine: '1.5L I4 NA + Electric PHEV Voltec', fuelType: 'PHEV', displacement: 1490,
+  cylinders: 4, drivetrain: 'FWD', transmission: '1-speed auto',
+  power: 111, torque: 270, weight: 1720, seats: 5,
+  fc: 1.7, fh: null, fx: null,
+  acceleration: 8.4, topSpeed: 150, price: p(44990), aspiration: 'NA'
+}
+specs[`Chevrolet|Volt|2016|Premier`] = {
+  engine: '1.5L I4 NA + Electric PHEV Voltec', fuelType: 'PHEV', displacement: 1490,
+  cylinders: 4, drivetrain: 'FWD', transmission: '1-speed auto',
+  power: 111, torque: 270, weight: 1725, seats: 5,
+  fc: 1.7, fh: null, fx: null,
+  acceleration: 8.4, topSpeed: 150, price: p(49990), aspiration: 'NA'
+}
+
+// ─────────────────────────────────────────────────────────────
+// FIAT ABARTH 500 — 2016: 695
+// ─────────────────────────────────────────────────────────────
+specs[`Fiat|Abarth 500|2016|695`] = {
+  engine: '1.4L I4 Turbo T-Jet', fuelType: 'petrol', displacement: 1368,
+  cylinders: 4, drivetrain: 'FWD', transmission: '5-speed manual',
+  power: 132, torque: 230, weight: 1085, seats: 4,
+  fc: 7.9, fh: 6.2, fx: 10.5,
+  acceleration: 7.3, topSpeed: 205, price: p(38490), aspiration: 'Turbo'
+}
+
+// ─────────────────────────────────────────────────────────────
+// FORD EVEREST — 2016 (UA): Sport
+// ─────────────────────────────────────────────────────────────
+specs[`Ford|Everest|2016|UA Sport`] = {
+  engine: '3.2L I5 Turbo Diesel P4AT', fuelType: 'diesel', displacement: 3198,
+  cylinders: 5, drivetrain: 'AWD', transmission: '6-speed auto',
+  power: 147, torque: 470, weight: 2155, seats: 7,
+  fc: 9.7, fh: 7.6, fx: 12.9,
+  acceleration: 10.5, topSpeed: 175, price: p(53990), aspiration: 'Turbo'
+}
+
+// ─────────────────────────────────────────────────────────────
+// Output
+// ─────────────────────────────────────────────────────────────
+const out = { specs }
+fs.writeFileSync('src/data/supplement208.json', JSON.stringify(out, null, 2))
+console.log(`supplement208.json written — ${Object.keys(specs).length} entries`)
+
+const byMake = {}
+for (const k of Object.keys(specs)) {
+  const mk = k.split('|')[0]
+  byMake[mk] = (byMake[mk] || 0) + 1
+}
+for (const [mk, cnt] of Object.entries(byMake).sort()) {
+  console.log(`  ${mk}: ${cnt}`)
+}
