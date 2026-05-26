@@ -6705,6 +6705,10 @@
         "Executive",
         "Executive Lounge"
       ],
+      "2025": [
+        "Executive",
+        "Executive Lounge"
+      ],
       "2026": [
         "Executive",
         "Executive Lounge"
@@ -6896,6 +6900,11 @@
         "WorkMate"
       ],
       "2024": [
+        "GX",
+        "GXL",
+        "WorkMate"
+      ],
+      "2025": [
         "GX",
         "GXL",
         "WorkMate"
@@ -18387,7 +18396,8 @@
       ],
       "2025": [
         "M35i xDrive",
-        "sDrive18i"
+        "sDrive18i",
+        "xDrive20i"
       ],
       "2026": [
         "M35i xDrive",
@@ -23310,6 +23320,7 @@
       ],
       "2025": [
         "RX 350",
+        "RX 350h",
         "RX 350h F Sport",
         "RX 450h+",
         "RX 500h F Sport Performance"
@@ -24344,6 +24355,7 @@
         "55 TFSI quattro"
       ],
       "2025": [
+        "50 TFSI e quattro",
         "55 TFSI quattro"
       ],
       "2026": [
@@ -24430,6 +24442,7 @@
         "60 TFSI quattro"
       ],
       "2025": [
+        "60 TFSI e quattro L",
         "60 TFSI quattro"
       ],
       "2026": [
@@ -24468,7 +24481,8 @@
         "35 TFSI"
       ],
       "2025": [
-        "35 TFSI"
+        "35 TFSI",
+        "40 TFSI quattro"
       ],
       "2026": [
         "35 TFSI",
@@ -24705,7 +24719,8 @@
         "45 TFSI quattro"
       ],
       "2025": [
-        "45 TFSI quattro"
+        "45 TFSI quattro",
+        "50 TDI quattro"
       ],
       "2026": [
         "45 TFSI quattro",
@@ -26223,7 +26238,7 @@
         "Taycan 4",
         "Taycan 4S",
         "Taycan Turbo",
-        "Turbo GT"
+        "Taycan Turbo GT"
       ],
       "2026": [
         "GTS",
@@ -31694,6 +31709,10 @@
       ]
     },
     "5": {
+      "2025": [
+        "Performance",
+        "Standard"
+      ],
       "2026": [
         "Performance",
         "Standard"
@@ -31841,6 +31860,7 @@
         "Style 140 TSI"
       ],
       "2025": [
+        "Ambition",
         "Ambition 110 TSI",
         "RS",
         "RS 245",
@@ -32015,6 +32035,10 @@
         "132 TSI Ambition",
         "132 TSI Style",
         "RS"
+      ],
+      "2025": [
+        "Sportline",
+        "Style"
       ],
       "2026": [
         "Sportline",
@@ -41519,6 +41543,8 @@
         "e-308 SW"
       ],
       "2025": [
+        "Allure",
+        "GT",
         "e-308",
         "e-308 SW"
       ],
@@ -42090,6 +42116,8 @@
         "e-2008"
       ],
       "2025": [
+        "Allure",
+        "GT",
         "e-2008"
       ],
       "2026": [
@@ -54380,6 +54408,8 @@
         "SE ALL4"
       ],
       "2025": [
+        "Cooper",
+        "Cooper S ALL4",
         "E",
         "SE ALL4"
       ],
