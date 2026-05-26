@@ -16167,6 +16167,7 @@
       ],
       "2024": [
         "TDI500 Style",
+        "TDI580 Style",
         "TDI600 Aventura",
         "TDI600 PanAmericana"
       ],
@@ -28251,6 +28252,10 @@
       ]
     },
     "EX90": {
+      "2024": [
+        "Twin Motor",
+        "Twin Motor Performance"
+      ],
       "2025": [
         "Twin Motor",
         "Twin Motor Performance"
@@ -32061,7 +32066,9 @@
       "2024": [
         "132 TSI Ambition",
         "132 TSI Style",
-        "RS"
+        "RS",
+        "Sportline",
+        "Style"
       ],
       "2025": [
         "Sportline",
@@ -41566,6 +41573,8 @@
         "e-308 SW"
       ],
       "2024": [
+        "Allure",
+        "GT",
         "e-308",
         "e-308 SW"
       ],
@@ -42140,6 +42149,8 @@
         "e-2008"
       ],
       "2024": [
+        "Allure",
+        "GT",
         "e-2008"
       ],
       "2025": [
@@ -42386,6 +42397,11 @@
         "GT"
       ],
       "2023": [
+        "Active",
+        "Allure",
+        "GT"
+      ],
+      "2024": [
         "Active",
         "Allure",
         "GT"
@@ -52121,7 +52137,9 @@
         "V8"
       ],
       "2024": [
+        "EWB",
         "Hybrid",
+        "S",
         "V8"
       ],
       "2025": [
