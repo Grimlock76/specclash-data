@@ -1,0 +1,193 @@
+'use strict'
+const fs = require('fs')
+
+const specs = {}
+const p = n => `~$${n.toLocaleString()}`
+
+// ─────────────────────────────────────────────────────────────
+// BMW — 2021 M-car new entries
+// ─────────────────────────────────────────────────────────────
+specs[`BMW|2 Series|2021|M240i xDrive Coupe`] = {
+  engine: '3.0L I6 TwinPower Turbo', fuelType: 'petrol', displacement: 2998,
+  cylinders: 6, drivetrain: 'AWD', transmission: '8-speed auto',
+  power: 275, torque: 500, weight: 1625, seats: 4,
+  fc: 8.9, fh: 6.9, fx: 12.1,
+  acceleration: 4.3, topSpeed: 250, price: p(88900), aspiration: 'Turbo'
+}
+specs[`BMW|3 Series|2021|M3 Competition`] = {
+  engine: '3.0L I6 S58 Twin-Turbo M TwinPower', fuelType: 'petrol', displacement: 2993,
+  cylinders: 6, drivetrain: 'RWD', transmission: '8-speed M-DCT',
+  power: 375, torque: 650, weight: 1730, seats: 5,
+  fc: 10.8, fh: 8.2, fx: 14.6,
+  acceleration: 3.9, topSpeed: 290, price: p(134900), aspiration: 'Turbo'
+}
+specs[`BMW|4 Series|2021|M440i xDrive`] = {
+  engine: '3.0L I6 TwinPower Turbo', fuelType: 'petrol', displacement: 2998,
+  cylinders: 6, drivetrain: 'AWD', transmission: '8-speed auto',
+  power: 275, torque: 500, weight: 1710, seats: 4,
+  fc: 9.2, fh: 7.1, fx: 12.5,
+  acceleration: 4.5, topSpeed: 250, price: p(104900), aspiration: 'Turbo'
+}
+specs[`BMW|5 Series|2021|M5 Competition`] = {
+  engine: '4.4L V8 M TwinPower Turbo', fuelType: 'petrol', displacement: 4395,
+  cylinders: 8, drivetrain: 'AWD', transmission: '8-speed M-DCT',
+  power: 460, torque: 750, weight: 1855, seats: 5,
+  fc: 12.4, fh: 9.5, fx: 16.7,
+  acceleration: 3.3, topSpeed: 305, price: p(279900), aspiration: 'Turbo'
+}
+specs[`BMW|8 Series|2021|M8 Competition`] = {
+  engine: '4.4L V8 M TwinPower Turbo', fuelType: 'petrol', displacement: 4395,
+  cylinders: 8, drivetrain: 'AWD', transmission: '8-speed M-DCT',
+  power: 460, torque: 750, weight: 1925, seats: 4,
+  fc: 12.6, fh: 9.6, fx: 16.9,
+  acceleration: 3.2, topSpeed: 305, price: p(339900), aspiration: 'Turbo'
+}
+specs[`BMW|M4|2021|M4 Competition xDrive`] = {
+  engine: '3.0L I6 S58 Twin-Turbo M TwinPower', fuelType: 'petrol', displacement: 2993,
+  cylinders: 6, drivetrain: 'AWD', transmission: '8-speed M-DCT',
+  power: 375, torque: 650, weight: 1730, seats: 4,
+  fc: 10.9, fh: 8.3, fx: 14.8,
+  acceleration: 3.5, topSpeed: 290, price: p(174900), aspiration: 'Turbo'
+}
+
+// ─────────────────────────────────────────────────────────────
+// VOLKSWAGEN GOLF — 2021 (8th gen): 70TSI Life, 110TSI Life, GTE PHEV, GTI Clubsport
+// ─────────────────────────────────────────────────────────────
+specs[`Volkswagen|Golf|2021|70TSI Life`] = {
+  engine: '1.0L I3 TSI', fuelType: 'petrol', displacement: 999,
+  cylinders: 3, drivetrain: 'FWD', transmission: '7-speed DSG',
+  power: 81, torque: 200, weight: 1275, seats: 5,
+  fc: 5.7, fh: 4.5, fx: 7.5,
+  acceleration: 10.9, topSpeed: 200, price: p(28490), aspiration: 'Turbo'
+}
+specs[`Volkswagen|Golf|2021|110TSI Life`] = {
+  engine: '1.4L I4 eTSI MHEV', fuelType: 'petrol', displacement: 1395,
+  cylinders: 4, drivetrain: 'FWD', transmission: '7-speed DSG',
+  power: 110, torque: 250, weight: 1310, seats: 5,
+  fc: 5.8, fh: 4.6, fx: 7.7,
+  acceleration: 8.5, topSpeed: 220, price: p(35490), aspiration: 'Turbo'
+}
+specs[`Volkswagen|Golf|2021|GTE`] = {
+  engine: '1.4L I4 TSI PHEV', fuelType: 'PHEV', displacement: 1395,
+  cylinders: 4, drivetrain: 'FWD', transmission: '6-speed DSG',
+  power: 180, torque: 400, weight: 1595, seats: 5,
+  fc: 1.7, fh: null, fx: null,
+  acceleration: 6.7, topSpeed: 225, price: p(54490), aspiration: 'Turbo'
+}
+specs[`Volkswagen|Golf|2021|GTI Clubsport`] = {
+  engine: '2.0L I4 TSI', fuelType: 'petrol', displacement: 1984,
+  cylinders: 4, drivetrain: 'FWD', transmission: '7-speed DSG',
+  power: 221, torque: 400, weight: 1440, seats: 5,
+  fc: 7.7, fh: 6.1, fx: 10.3,
+  acceleration: 5.6, topSpeed: 250, price: p(56990), aspiration: 'Turbo'
+}
+
+// ─────────────────────────────────────────────────────────────
+// VOLKSWAGEN GOLF WAGON — 2021: 110TSI Life, 110TSI Style, R
+// ─────────────────────────────────────────────────────────────
+specs[`Volkswagen|Golf Wagon|2021|110TSI Life`] = {
+  engine: '1.4L I4 eTSI MHEV', fuelType: 'petrol', displacement: 1395,
+  cylinders: 4, drivetrain: 'FWD', transmission: '7-speed DSG',
+  power: 110, torque: 250, weight: 1340, seats: 5,
+  fc: 5.9, fh: 4.7, fx: 7.8,
+  acceleration: 8.7, topSpeed: 218, price: p(37490), aspiration: 'Turbo'
+}
+specs[`Volkswagen|Golf Wagon|2021|110TSI Style`] = {
+  engine: '1.4L I4 eTSI MHEV', fuelType: 'petrol', displacement: 1395,
+  cylinders: 4, drivetrain: 'FWD', transmission: '7-speed DSG',
+  power: 110, torque: 250, weight: 1350, seats: 5,
+  fc: 5.9, fh: 4.7, fx: 7.8,
+  acceleration: 8.7, topSpeed: 218, price: p(43490), aspiration: 'Turbo'
+}
+specs[`Volkswagen|Golf Wagon|2021|R`] = {
+  engine: '2.0L I4 TSI', fuelType: 'petrol', displacement: 1984,
+  cylinders: 4, drivetrain: 'AWD', transmission: '7-speed DSG',
+  power: 235, torque: 420, weight: 1565, seats: 5,
+  fc: 8.9, fh: 6.9, fx: 11.9,
+  acceleration: 5.0, topSpeed: 250, price: p(72490), aspiration: 'Turbo'
+}
+
+// ─────────────────────────────────────────────────────────────
+// VOLKSWAGEN T-ROC — 2021: R
+// ─────────────────────────────────────────────────────────────
+specs[`Volkswagen|T-Roc|2021|R`] = {
+  engine: '2.0L I4 TSI', fuelType: 'petrol', displacement: 1984,
+  cylinders: 4, drivetrain: 'AWD', transmission: '7-speed DSG',
+  power: 221, torque: 400, weight: 1521, seats: 5,
+  fc: 8.5, fh: 6.6, fx: 11.4,
+  acceleration: 4.9, topSpeed: 250, price: p(62990), aspiration: 'Turbo'
+}
+
+// ─────────────────────────────────────────────────────────────
+// VOLKSWAGEN TOUAREG — 2021: Touareg R PHEV
+// ─────────────────────────────────────────────────────────────
+specs[`Volkswagen|Touareg|2021|Touareg R`] = {
+  engine: '2.9L V6 TSI PHEV', fuelType: 'PHEV', displacement: 2894,
+  cylinders: 6, drivetrain: 'AWD', transmission: '8-speed Tiptronic',
+  power: 340, torque: 600, weight: 2325, seats: 5,
+  fc: 3.2, fh: null, fx: null,
+  acceleration: 4.9, topSpeed: 250, price: p(129990), aspiration: 'Turbo'
+}
+
+// ─────────────────────────────────────────────────────────────
+// TOYOTA KLUGER — 2021 XU70: GX Hybrid, GXL Hybrid, Grande Hybrid
+// ─────────────────────────────────────────────────────────────
+specs[`Toyota|Kluger|2021|GX Hybrid`] = {
+  engine: '2.5L I4 Atkinson Multi-Stage Hybrid', fuelType: 'hybrid', displacement: 2487,
+  cylinders: 4, drivetrain: 'AWD', transmission: 'e-CVT',
+  power: 179, torque: 227, weight: 1985, seats: 8,
+  fc: 5.9, fh: 4.8, fx: 7.7,
+  acceleration: 8.1, topSpeed: 180, price: p(52300), aspiration: 'NA'
+}
+specs[`Toyota|Kluger|2021|GXL Hybrid`] = {
+  engine: '2.5L I4 Atkinson Multi-Stage Hybrid', fuelType: 'hybrid', displacement: 2487,
+  cylinders: 4, drivetrain: 'AWD', transmission: 'e-CVT',
+  power: 179, torque: 227, weight: 1995, seats: 7,
+  fc: 5.9, fh: 4.8, fx: 7.7,
+  acceleration: 8.1, topSpeed: 180, price: p(60800), aspiration: 'NA'
+}
+specs[`Toyota|Kluger|2021|Grande Hybrid`] = {
+  engine: '2.5L I4 Atkinson Multi-Stage Hybrid', fuelType: 'hybrid', displacement: 2487,
+  cylinders: 4, drivetrain: 'AWD', transmission: 'e-CVT',
+  power: 179, torque: 227, weight: 2010, seats: 7,
+  fc: 5.9, fh: 4.8, fx: 7.7,
+  acceleration: 8.1, topSpeed: 180, price: p(73300), aspiration: 'NA'
+}
+
+// ─────────────────────────────────────────────────────────────
+// TOYOTA COROLLA — 2021: GR Sport
+// ─────────────────────────────────────────────────────────────
+specs[`Toyota|Corolla|2021|GR Sport`] = {
+  engine: '2.0L I4 NA Dynamic Force', fuelType: 'petrol', displacement: 1987,
+  cylinders: 4, drivetrain: 'FWD', transmission: 'CVT',
+  power: 125, torque: 202, weight: 1315, seats: 5,
+  fc: 7.3, fh: 5.9, fx: 9.5,
+  acceleration: 8.2, topSpeed: 195, price: p(38290), aspiration: 'NA'
+}
+
+// ─────────────────────────────────────────────────────────────
+// TOYOTA LANDCRUISER — 2021 300-series: ZX
+// ─────────────────────────────────────────────────────────────
+specs[`Toyota|LandCruiser|2021|ZX`] = {
+  engine: '3.3L V6 Twin-Turbo Diesel', fuelType: 'diesel', displacement: 3346,
+  cylinders: 6, drivetrain: 'AWD', transmission: '10-speed auto',
+  power: 227, torque: 700, weight: 2490, seats: 5,
+  fc: 9.5, fh: 7.8, fx: 13.2,
+  acceleration: 8.5, topSpeed: 210, price: p(199900), aspiration: 'Turbo'
+}
+
+// ─────────────────────────────────────────────────────────────
+// Output
+// ─────────────────────────────────────────────────────────────
+const out = { specs }
+fs.writeFileSync('src/data/supplement186.json', JSON.stringify(out, null, 2))
+console.log(`supplement186.json written — ${Object.keys(specs).length} entries`)
+
+const byMake = {}
+for (const k of Object.keys(specs)) {
+  const mk = k.split('|')[0]
+  byMake[mk] = (byMake[mk] || 0) + 1
+}
+for (const [mk, cnt] of Object.entries(byMake).sort()) {
+  console.log(`  ${mk}: ${cnt}`)
+}
