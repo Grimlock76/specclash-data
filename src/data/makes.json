@@ -36450,40 +36450,40 @@
   "Datsun": {
     "510": {
       "1968": [
-        "Standard",
+        "2-door",
         "SSS",
-        "Wagon",
-        "2-door"
+        "Standard",
+        "Wagon"
       ],
       "1969": [
-        "Standard",
+        "2-door",
         "SSS",
-        "Wagon",
-        "2-door"
+        "Standard",
+        "Wagon"
       ],
       "1970": [
-        "Standard",
+        "2-door",
         "SSS",
-        "Wagon",
-        "2-door"
+        "Standard",
+        "Wagon"
       ],
       "1971": [
-        "Standard",
+        "2-door",
         "SSS",
-        "Wagon",
-        "2-door"
+        "Standard",
+        "Wagon"
       ],
       "1972": [
-        "Standard",
+        "2-door",
         "SSS",
-        "Wagon",
-        "2-door"
+        "Standard",
+        "Wagon"
       ],
       "1973": [
-        "Standard",
+        "2-door",
         "SSS",
-        "Wagon",
-        "2-door"
+        "Standard",
+        "Wagon"
       ]
     },
     "1000": {
@@ -36509,20 +36509,20 @@
       "1971": [
         "Coupe",
         "Sedan",
-        "Van",
-        "Ute"
+        "Ute",
+        "Van"
       ],
       "1972": [
         "Coupe",
         "Sedan",
-        "Van",
-        "Ute"
+        "Ute",
+        "Van"
       ],
       "1973": [
         "Coupe",
         "Sedan",
-        "Van",
-        "Ute"
+        "Ute",
+        "Van"
       ],
       "1974": [
         "Ute"
@@ -36550,20 +36550,20 @@
     },
     "Fairlady 2000": {
       "1967": [
-        "Standard",
-        "Competition"
+        "Competition",
+        "Standard"
       ],
       "1968": [
-        "Standard",
-        "Competition"
+        "Competition",
+        "Standard"
       ],
       "1969": [
-        "Standard",
-        "Competition"
+        "Competition",
+        "Standard"
       ],
       "1970": [
-        "Standard",
-        "Competition"
+        "Competition",
+        "Standard"
       ]
     },
     "240Z": {
@@ -36582,77 +36582,77 @@
     },
     "120Y": {
       "1973": [
-        "Standard",
         "GL",
+        "Standard",
         "Wagon"
       ],
       "1974": [
-        "Standard",
         "GL",
+        "Standard",
         "Wagon"
       ],
       "1975": [
-        "Standard",
         "GL",
         "GX",
+        "Standard",
         "Wagon"
       ],
       "1976": [
-        "Standard",
         "GL",
-        "GX",
         "GL-E",
+        "GX",
+        "Standard",
         "Wagon"
       ],
       "1977": [
-        "Standard",
         "GL",
-        "GX",
         "GL-E",
+        "GX",
+        "Standard",
         "Wagon"
       ],
       "1978": [
-        "Standard",
         "GL",
-        "GX",
         "GL-E",
+        "GX",
+        "Standard",
         "Wagon"
       ]
     },
     "180B": {
       "1972": [
-        "Standard",
-        "SSS"
+        "SSS",
+        "Standard"
       ],
       "1973": [
-        "Standard",
-        "SSS"
+        "SSS",
+        "Standard"
       ],
       "1974": [
-        "Standard",
-        "SSS"
+        "SSS",
+        "Standard"
       ],
       "1975": [
-        "Standard",
-        "SSS"
+        "SSS",
+        "Standard"
       ],
       "1976": [
-        "Standard",
-        "SSS"
+        "SSS",
+        "Standard"
       ],
       "1977": [
-        "Standard",
-        "SSS"
+        "SSS",
+        "Standard"
       ]
     },
     "260Z": {
       "1974": [
-        "Standard",
-        "2+2"
+        "2+2",
+        "Standard"
       ],
       "1975": [
-        "Standard",
-        "2+2"
+        "2+2",
+        "Standard"
       ]
     },
     "620 Ute": {
@@ -36666,24 +36666,24 @@
         "Standard"
       ],
       "1975": [
-        "Standard",
-        "King Cab"
+        "King Cab",
+        "Standard"
       ],
       "1976": [
-        "Standard",
-        "King Cab"
+        "King Cab",
+        "Standard"
       ],
       "1977": [
-        "Standard",
-        "King Cab"
+        "King Cab",
+        "Standard"
       ],
       "1978": [
-        "Standard",
-        "King Cab"
+        "King Cab",
+        "Standard"
       ],
       "1979": [
-        "Standard",
-        "King Cab"
+        "King Cab",
+        "Standard"
       ]
     },
     "280Z": {
@@ -36691,106 +36691,106 @@
         "Standard"
       ],
       "1976": [
-        "Standard",
-        "2+2"
+        "2+2",
+        "Standard"
       ],
       "1977": [
-        "Standard",
-        "2+2"
+        "2+2",
+        "Standard"
       ],
       "1978": [
-        "Standard",
-        "2+2"
+        "2+2",
+        "Standard"
       ]
     },
     "200B": {
       "1977": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1978": [
-        "Standard",
         "GL",
-        "SSS"
+        "SSS",
+        "Standard"
       ],
       "1979": [
-        "Standard",
         "GL",
+        "GL-E",
         "SSS",
-        "GL-E"
+        "Standard"
       ],
       "1980": [
-        "Standard",
         "GL",
+        "GL-E",
         "SSS",
-        "GL-E"
+        "Standard"
       ],
       "1981": [
-        "Standard",
         "GL",
+        "GL-E",
         "SSS",
-        "GL-E"
+        "Standard"
       ],
       "1982": [
-        "Standard",
         "GL",
-        "GL-E"
+        "GL-E",
+        "Standard"
       ]
     },
     "Stanza": {
       "1977": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1978": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1979": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1980": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1981": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1982": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ]
     },
     "280ZX": {
       "1979": [
-        "Standard",
         "2+2",
+        "Standard",
         "Targa"
       ],
       "1980": [
-        "Standard",
         "2+2",
+        "Standard",
         "Targa"
       ],
       "1981": [
-        "Standard",
         "2+2",
-        "Turbo",
-        "Targa"
+        "Standard",
+        "Targa",
+        "Turbo"
       ],
       "1982": [
-        "Standard",
         "2+2",
-        "Turbo",
-        "Targa"
+        "Standard",
+        "Targa",
+        "Turbo"
       ],
       "1983": [
-        "Standard",
         "2+2",
-        "Turbo",
-        "Targa"
+        "Standard",
+        "Targa",
+        "Turbo"
       ]
     },
     "720 Ute": {
@@ -36798,54 +36798,54 @@
         "Standard"
       ],
       "1980": [
-        "Standard",
-        "King Cab"
+        "King Cab",
+        "Standard"
       ],
       "1981": [
-        "Standard",
-        "King Cab"
+        "King Cab",
+        "Standard"
       ],
       "1982": [
-        "Standard",
-        "King Cab"
+        "King Cab",
+        "Standard"
       ],
       "1983": [
-        "Standard",
-        "King Cab"
+        "King Cab",
+        "Standard"
       ],
       "1984": [
-        "Standard",
-        "King Cab"
+        "King Cab",
+        "Standard"
       ],
       "1985": [
-        "Standard",
-        "King Cab"
+        "King Cab",
+        "Standard"
       ]
     },
     "710 Violet": {
       "1973": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1974": [
-        "Standard",
         "GL",
-        "SSS"
+        "SSS",
+        "Standard"
       ],
       "1975": [
-        "Standard",
         "GL",
-        "SSS"
+        "SSS",
+        "Standard"
       ],
       "1976": [
-        "Standard",
         "GL",
-        "SSS"
+        "SSS",
+        "Standard"
       ],
       "1977": [
-        "Standard",
         "GL",
-        "SSS"
+        "SSS",
+        "Standard"
       ]
     },
     "Skyline": {
@@ -36917,31 +36917,31 @@
     },
     "Laurel": {
       "1969": [
-        "Standard",
-        "SGL"
+        "SGL",
+        "Standard"
       ],
       "1970": [
-        "Standard",
-        "SGL"
+        "SGL",
+        "Standard"
       ],
       "1971": [
-        "Standard",
-        "SGL"
+        "SGL",
+        "Standard"
       ],
       "1972": [
-        "Standard",
         "GL",
-        "SGL"
+        "SGL",
+        "Standard"
       ],
       "1973": [
-        "Standard",
         "GL",
-        "SGL"
+        "SGL",
+        "Standard"
       ],
       "1974": [
-        "Standard",
         "GL",
-        "SGL"
+        "SGL",
+        "Standard"
       ],
       "1975": [
         "GL",
@@ -37031,18 +37031,18 @@
       ],
       "1980": [
         "Hardtop",
-        "Wagon",
-        "SGL"
+        "SGL",
+        "Wagon"
       ],
       "1981": [
         "Hardtop",
-        "Wagon",
-        "SGL"
+        "SGL",
+        "Wagon"
       ],
       "1982": [
         "Hardtop",
-        "Wagon",
-        "SGL"
+        "SGL",
+        "Wagon"
       ]
     },
     "Fairlady 1500": {
@@ -37064,24 +37064,24 @@
     },
     "410 Bluebird": {
       "1963": [
-        "Standard",
-        "SSS"
+        "SSS",
+        "Standard"
       ],
       "1964": [
-        "Standard",
-        "SSS"
+        "SSS",
+        "Standard"
       ],
       "1965": [
-        "Standard",
-        "SSS"
+        "SSS",
+        "Standard"
       ],
       "1966": [
-        "Standard",
-        "SSS"
+        "SSS",
+        "Standard"
       ],
       "1967": [
-        "Standard",
-        "SSS"
+        "SSS",
+        "Standard"
       ]
     },
     "521 Ute": {
@@ -37112,176 +37112,176 @@
     },
     "Cherry": {
       "1970": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1971": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1972": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1973": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1974": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1975": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1976": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1977": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1978": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ]
     },
     "Silvia": {
       "1975": [
-        "Standard",
-        "1800"
+        "1800",
+        "Standard"
       ],
       "1976": [
-        "Standard",
-        "1800"
+        "1800",
+        "Standard"
       ],
       "1977": [
-        "Standard",
-        "1800"
+        "1800",
+        "Standard"
       ],
       "1978": [
-        "Standard",
-        "1800"
+        "1800",
+        "Standard"
       ],
       "1979": [
-        "Standard",
-        "1800"
+        "1800",
+        "Standard"
       ],
       "1980": [
-        "Standard",
         "1800",
+        "Standard",
         "Turbo"
       ],
       "1981": [
-        "Standard",
         "1800",
+        "Standard",
         "Turbo"
       ],
       "1982": [
-        "Standard",
         "1800",
+        "Standard",
         "Turbo"
       ],
       "1983": [
-        "Standard",
         "1800",
+        "Standard",
         "Turbo"
       ]
     },
     "910 Bluebird": {
       "1979": [
-        "Standard",
         "GL",
-        "SSS"
+        "SSS",
+        "Standard"
       ],
       "1980": [
-        "Standard",
         "GL",
+        "SGL",
         "SSS",
-        "SGL"
+        "Standard"
       ],
       "1981": [
-        "Standard",
         "GL",
+        "SGL",
         "SSS",
-        "SGL"
+        "Standard"
       ],
       "1982": [
-        "Standard",
         "GL",
+        "SGL",
         "SSS",
-        "SGL"
+        "Standard"
       ],
       "1983": [
-        "Standard",
         "GL",
+        "SGL",
         "SSS",
-        "SGL"
+        "Standard"
       ]
     },
     "Cedric": {
       "1971": [
-        "Standard",
-        "SGL"
+        "SGL",
+        "Standard"
       ],
       "1972": [
-        "Standard",
-        "SGL"
+        "SGL",
+        "Standard"
       ],
       "1973": [
-        "Standard",
-        "SGL"
+        "SGL",
+        "Standard"
       ],
       "1974": [
-        "Standard",
-        "SGL"
+        "SGL",
+        "Standard"
       ],
       "1975": [
-        "Standard",
         "GL",
-        "SGL"
+        "SGL",
+        "Standard"
       ],
       "1976": [
-        "Standard",
         "GL",
-        "SGL"
+        "SGL",
+        "Standard"
       ],
       "1977": [
-        "Standard",
         "GL",
-        "SGL"
+        "SGL",
+        "Standard"
       ],
       "1978": [
-        "Standard",
+        "GL",
+        "SGL",
+        "Standard"
+      ],
+      "1979": [
+        "Diesel",
         "GL",
         "SGL"
       ],
-      "1979": [
-        "GL",
-        "SGL",
-        "Diesel"
-      ],
       "1980": [
+        "Diesel",
         "GL",
-        "SGL",
-        "Diesel"
+        "SGL"
       ],
       "1981": [
+        "Diesel",
         "GL",
-        "SGL",
-        "Diesel"
+        "SGL"
       ],
       "1982": [
+        "Diesel",
         "GL",
-        "SGL",
-        "Diesel"
+        "SGL"
       ],
       "1983": [
+        "Diesel",
         "GL",
-        "SGL",
-        "Diesel"
+        "SGL"
       ]
     },
     "Go": {
@@ -37290,34 +37290,34 @@
         "T"
       ],
       "2014": [
+        "A",
         "Standard",
-        "T",
-        "A"
+        "T"
       ],
       "2015": [
+        "A",
         "Standard",
-        "T",
-        "A"
+        "T"
       ],
       "2016": [
+        "A",
         "Standard",
-        "T",
-        "A"
+        "T"
       ],
       "2017": [
+        "A",
         "Standard",
-        "T",
-        "A"
+        "T"
       ],
       "2018": [
+        "A",
         "Standard",
-        "T",
-        "A"
+        "T"
       ],
       "2019": [
+        "A",
         "Standard",
-        "T",
-        "A"
+        "T"
       ]
     },
     "Go+": {
@@ -37326,34 +37326,34 @@
         "T"
       ],
       "2014": [
+        "A",
         "Standard",
-        "T",
-        "A"
+        "T"
       ],
       "2015": [
+        "A",
         "Standard",
-        "T",
-        "A"
+        "T"
       ],
       "2016": [
+        "A",
         "Standard",
-        "T",
-        "A"
+        "T"
       ],
       "2017": [
+        "A",
         "Standard",
-        "T",
-        "A"
+        "T"
       ],
       "2018": [
+        "A",
         "Standard",
-        "T",
-        "A"
+        "T"
       ],
       "2019": [
+        "A",
         "Standard",
-        "T",
-        "A"
+        "T"
       ]
     },
     "Redi-GO": {
@@ -37362,130 +37362,130 @@
         "T"
       ],
       "2017": [
+        "S",
         "Standard",
-        "T",
-        "S"
+        "T"
       ],
       "2018": [
+        "S",
         "Standard",
-        "T",
-        "S"
+        "T"
       ],
       "2019": [
+        "S",
         "Standard",
-        "T",
-        "S"
+        "T"
       ],
       "2020": [
+        "S",
         "Standard",
-        "T",
-        "S"
+        "T"
       ],
       "2021": [
+        "S",
         "Standard",
-        "T",
-        "S"
+        "T"
       ],
       "2022": [
+        "S",
         "Standard",
-        "T",
-        "S"
+        "T"
       ]
     },
     "on-DO": {
       "2014": [
-        "Standard",
         "Dream",
+        "Standard",
         "Trust"
       ],
       "2015": [
-        "Standard",
         "Dream",
+        "Standard",
         "Trust"
       ],
       "2016": [
-        "Standard",
         "Dream",
+        "Standard",
         "Trust"
       ],
       "2017": [
-        "Standard",
         "Dream",
+        "Standard",
         "Trust"
       ],
       "2018": [
-        "Standard",
         "Dream",
+        "Standard",
         "Trust"
       ],
       "2019": [
-        "Standard",
         "Dream",
+        "Standard",
         "Trust"
       ],
       "2020": [
-        "Standard",
         "Dream",
+        "Standard",
         "Trust"
       ]
     },
     "mi-DO": {
       "2014": [
-        "Standard",
         "Dream",
+        "Standard",
         "Trust"
       ],
       "2015": [
-        "Standard",
         "Dream",
+        "Standard",
         "Trust"
       ],
       "2016": [
-        "Standard",
         "Dream",
+        "Standard",
         "Trust"
       ],
       "2017": [
-        "Standard",
         "Dream",
+        "Standard",
         "Trust"
       ],
       "2018": [
-        "Standard",
         "Dream",
+        "Standard",
         "Trust"
       ],
       "2019": [
-        "Standard",
         "Dream",
+        "Standard",
         "Trust"
       ],
       "2020": [
-        "Standard",
         "Dream",
+        "Standard",
         "Trust"
       ]
     },
     "Bluebird 310": {
       "1959": [
-        "Standard",
-        "Deluxe"
+        "Deluxe",
+        "Standard"
       ],
       "1960": [
-        "Standard",
-        "Deluxe"
+        "Deluxe",
+        "Standard"
       ],
       "1961": [
-        "Standard",
-        "Deluxe"
+        "Deluxe",
+        "Standard"
       ],
       "1962": [
-        "Standard",
-        "Deluxe"
+        "Deluxe",
+        "Standard"
       ],
       "1963": [
-        "Standard",
-        "Deluxe"
+        "Deluxe",
+        "Standard"
       ]
     },
     "Silvia CSP311": {
@@ -37504,51 +37504,51 @@
     },
     "F10": {
       "1976": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1977": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1978": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ]
     },
     "Sunny": {
       "1977": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1978": [
-        "Standard",
         "GL",
         "GX",
+        "Standard",
         "Wagon"
       ],
       "1979": [
-        "Standard",
         "GL",
         "GX",
+        "Standard",
         "Wagon"
       ],
       "1980": [
-        "Standard",
         "GL",
         "GX",
+        "Standard",
         "Wagon"
       ],
       "1981": [
-        "Standard",
         "GL",
         "GX",
+        "Standard",
         "Wagon"
       ],
       "1982": [
-        "Standard",
         "GL",
         "GX",
+        "Standard",
         "Wagon"
       ]
     }
