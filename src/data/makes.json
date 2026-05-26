@@ -19749,6 +19749,9 @@
         "E63 AMG"
       ],
       "2016": [
+        "E 220 d",
+        "E 43 AMG",
+        "E 63 S AMG",
         "E200",
         "E220 CDI",
         "E220d",
@@ -21039,6 +21042,13 @@
       "2026": [
         "114 CDI",
         "116 CDI"
+      ]
+    },
+    "SLC": {
+      "2016": [
+        "SLC 180",
+        "SLC 300",
+        "SLC 43 AMG"
       ]
     }
   },
@@ -53643,7 +53653,10 @@
         "V6 Sport"
       ],
       "2016": [
+        "Cup 380",
+        "Cup 430",
         "S Roadster",
+        "Sport 380",
         "V6 Cup",
         "V6 Sport"
       ],
@@ -63237,984 +63250,984 @@
   "Vauxhall": {
     "Velox": {
       "1948": [
-        "Velox",
-        "Cresta"
+        "Cresta",
+        "Velox"
       ],
       "1949": [
-        "Velox",
-        "Cresta"
+        "Cresta",
+        "Velox"
       ],
       "1950": [
-        "Velox",
-        "Cresta"
+        "Cresta",
+        "Velox"
       ],
       "1951": [
-        "Velox",
-        "Cresta"
+        "Cresta",
+        "Velox"
       ],
       "1952": [
-        "Velox",
-        "Cresta"
+        "Cresta",
+        "Velox"
       ],
       "1953": [
-        "Velox",
-        "Cresta"
+        "Cresta",
+        "Velox"
       ],
       "1954": [
-        "Velox",
-        "Cresta"
+        "Cresta",
+        "Velox"
       ],
       "1955": [
-        "Velox",
-        "Cresta"
+        "Cresta",
+        "Velox"
       ],
       "1956": [
-        "Velox",
-        "Cresta"
+        "Cresta",
+        "Velox"
       ],
       "1957": [
-        "Velox",
-        "Cresta"
+        "Cresta",
+        "Velox"
       ],
       "1958": [
-        "Velox",
-        "Cresta"
+        "Cresta",
+        "Velox"
       ],
       "1959": [
-        "Velox",
-        "Cresta"
+        "Cresta",
+        "Velox"
       ],
       "1960": [
-        "Velox",
-        "Cresta"
+        "Cresta",
+        "Velox"
       ],
       "1961": [
-        "Velox",
-        "Cresta"
+        "Cresta",
+        "Velox"
       ],
       "1962": [
-        "Velox",
-        "Cresta"
+        "Cresta",
+        "Velox"
       ],
       "1963": [
-        "Velox",
-        "Cresta"
+        "Cresta",
+        "Velox"
       ],
       "1964": [
-        "Velox",
-        "Cresta"
+        "Cresta",
+        "Velox"
       ],
       "1965": [
-        "Velox",
-        "Cresta"
+        "Cresta",
+        "Velox"
       ]
     },
     "Victor": {
       "1957": [
-        "Standard",
-        "De Luxe"
+        "De Luxe",
+        "Standard"
       ],
       "1958": [
-        "Standard",
-        "De Luxe"
+        "De Luxe",
+        "Standard"
       ],
       "1959": [
-        "Standard",
-        "De Luxe"
+        "De Luxe",
+        "Standard"
       ],
       "1960": [
-        "Standard",
-        "De Luxe"
+        "De Luxe",
+        "Standard"
       ],
       "1961": [
-        "Standard",
-        "De Luxe"
+        "De Luxe",
+        "Standard"
       ],
       "1962": [
-        "Standard",
-        "De Luxe"
+        "De Luxe",
+        "Standard"
       ],
       "1963": [
-        "Standard",
-        "De Luxe"
+        "De Luxe",
+        "Standard"
       ],
       "1964": [
-        "Standard",
         "De Luxe",
+        "Standard",
         "VX4/90"
       ],
       "1965": [
-        "Standard",
         "De Luxe",
+        "Standard",
         "VX4/90"
       ],
       "1966": [
-        "Standard",
         "De Luxe",
+        "Standard",
         "VX4/90"
       ],
       "1967": [
-        "Standard",
         "De Luxe",
+        "Standard",
         "VX4/90"
       ],
       "1968": [
-        "Standard",
         "De Luxe",
+        "Standard",
         "VX4/90"
       ],
       "1972": [
-        "Standard",
-        "De Luxe"
+        "De Luxe",
+        "Standard"
       ],
       "1973": [
-        "Standard",
-        "De Luxe"
+        "De Luxe",
+        "Standard"
       ],
       "1974": [
-        "Standard",
-        "De Luxe"
+        "De Luxe",
+        "Standard"
       ],
       "1975": [
-        "Standard",
-        "De Luxe"
+        "De Luxe",
+        "Standard"
       ],
       "1976": [
-        "Standard",
-        "De Luxe"
+        "De Luxe",
+        "Standard"
       ],
       "1977": [
-        "Standard",
-        "De Luxe"
+        "De Luxe",
+        "Standard"
       ],
       "1978": [
-        "Standard",
-        "De Luxe"
+        "De Luxe",
+        "Standard"
       ]
     },
     "Viva": {
       "1963": [
-        "Standard",
-        "DeLuxe"
+        "DeLuxe",
+        "Standard"
       ],
       "1964": [
-        "Standard",
-        "DeLuxe"
+        "DeLuxe",
+        "Standard"
       ],
       "1965": [
-        "Standard",
-        "DeLuxe"
+        "DeLuxe",
+        "Standard"
       ],
       "1966": [
-        "Standard",
-        "DeLuxe"
+        "DeLuxe",
+        "Standard"
       ],
       "1967": [
-        "Standard",
-        "DeLuxe"
+        "DeLuxe",
+        "Standard"
       ],
       "1968": [
-        "Standard",
-        "DeLuxe"
+        "DeLuxe",
+        "Standard"
       ],
       "1969": [
-        "Standard",
-        "DeLuxe"
+        "DeLuxe",
+        "Standard"
       ],
       "1970": [
-        "Standard",
         "DeLuxe",
-        "GT"
+        "GT",
+        "Standard"
       ],
       "1971": [
-        "Standard",
-        "GT"
+        "GT",
+        "Standard"
       ],
       "1972": [
-        "Standard",
-        "GT"
+        "GT",
+        "Standard"
       ],
       "1973": [
-        "Standard",
-        "GT"
+        "GT",
+        "Standard"
       ],
       "1974": [
-        "Standard",
-        "GT"
+        "GT",
+        "Standard"
       ],
       "1975": [
-        "Standard",
-        "GT"
+        "GT",
+        "Standard"
       ],
       "1976": [
-        "Standard",
-        "GT"
+        "GT",
+        "Standard"
       ],
       "1977": [
-        "Standard",
-        "GT"
+        "GT",
+        "Standard"
       ],
       "1978": [
-        "Standard",
-        "GT"
+        "GT",
+        "Standard"
       ],
       "1979": [
-        "Standard",
-        "GT"
+        "GT",
+        "Standard"
       ]
     },
     "Cavalier": {
       "1975": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1976": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1977": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1978": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1979": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1980": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1981": [
-        "Standard",
-        "GL"
+        "GL",
+        "Standard"
       ],
       "1982": [
-        "Standard",
         "GL",
-        "GLS"
+        "GLS",
+        "Standard"
       ],
       "1983": [
-        "Standard",
         "GL",
-        "GLS"
+        "GLS",
+        "Standard"
       ],
       "1984": [
-        "Standard",
         "GL",
         "GLS",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "1985": [
-        "Standard",
         "GL",
         "GLS",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "1986": [
-        "Standard",
         "GL",
         "GLS",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "1987": [
-        "Standard",
         "GL",
         "GLS",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "1988": [
-        "Standard",
         "GL",
         "GLS",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "1989": [
-        "Standard",
         "GL",
         "GLS",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "1990": [
-        "Standard",
         "GL",
         "GLS",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "1991": [
-        "Standard",
         "GL",
         "GLS",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "1992": [
-        "Standard",
         "GL",
         "GLS",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "1993": [
-        "Standard",
         "GL",
         "GLS",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "1994": [
-        "Standard",
         "GL",
         "GLS",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "1995": [
-        "Standard",
         "GL",
         "GLS",
-        "SRi"
+        "SRi",
+        "Standard"
       ]
     },
     "Astra": {
       "1980": [
-        "Standard",
-        "GLS"
+        "GLS",
+        "Standard"
       ],
       "1981": [
-        "Standard",
-        "GLS"
+        "GLS",
+        "Standard"
       ],
       "1982": [
-        "Standard",
-        "GLS"
+        "GLS",
+        "Standard"
       ],
       "1983": [
-        "Standard",
-        "GLS"
+        "GLS",
+        "Standard"
       ],
       "1984": [
-        "Standard",
-        "GLS"
+        "GLS",
+        "Standard"
       ],
       "1985": [
-        "Standard",
-        "GLS"
+        "GLS",
+        "Standard"
       ],
       "1986": [
-        "Standard",
-        "GLS"
+        "GLS",
+        "Standard"
       ],
       "1987": [
-        "Standard",
-        "GLS"
+        "GLS",
+        "Standard"
       ],
       "1988": [
-        "Standard",
         "GLS",
-        "GSi"
+        "GSi",
+        "Standard"
       ],
       "1989": [
-        "Standard",
         "GLS",
-        "GSi"
+        "GSi",
+        "Standard"
       ],
       "1990": [
-        "Standard",
         "GLS",
-        "GSi"
+        "GSi",
+        "Standard"
       ],
       "1991": [
-        "Standard",
         "GLS",
-        "GSi"
+        "GSi",
+        "Standard"
       ],
       "1992": [
-        "Standard",
         "GLS",
-        "GSi"
+        "GSi",
+        "Standard"
       ],
       "1993": [
-        "Standard",
         "GLS",
-        "GSi"
+        "GSi",
+        "Standard"
       ],
       "1994": [
-        "Standard",
         "GLS",
-        "GSi"
+        "GSi",
+        "Standard"
       ],
       "1995": [
-        "Standard",
         "GLS",
-        "GSi"
+        "GSi",
+        "Standard"
       ],
       "1996": [
-        "Standard",
         "GLS",
-        "GSi"
+        "GSi",
+        "Standard"
       ],
       "1997": [
-        "Standard",
         "GLS",
-        "GSi"
+        "GSi",
+        "Standard"
       ],
       "1998": [
-        "Standard",
         "GLS",
-        "GSi"
+        "GSi",
+        "Standard"
       ],
       "1999": [
-        "Standard",
-        "GLS"
+        "GLS",
+        "Standard"
       ],
       "2000": [
-        "Standard",
-        "GLS"
+        "GLS",
+        "Standard"
       ],
       "2001": [
-        "Standard",
-        "GLS"
+        "GLS",
+        "Standard"
       ],
       "2002": [
-        "Standard",
-        "GLS"
+        "GLS",
+        "Standard"
       ],
       "2003": [
-        "Standard",
-        "GLS"
+        "GLS",
+        "Standard"
       ],
       "2004": [
-        "Standard",
-        "GLS"
+        "GLS",
+        "Standard"
       ],
       "2005": [
-        "Standard",
         "GLS",
-        "OPC"
+        "OPC",
+        "Standard"
       ],
       "2006": [
-        "Standard",
         "GLS",
-        "OPC"
+        "OPC",
+        "Standard"
       ],
       "2007": [
-        "Standard",
         "GLS",
-        "OPC"
+        "OPC",
+        "Standard"
       ],
       "2008": [
-        "Standard",
         "GLS",
-        "OPC"
+        "OPC",
+        "Standard"
       ],
       "2009": [
-        "Standard",
         "GLS",
-        "OPC"
+        "OPC",
+        "Standard"
       ],
       "2010": [
-        "Standard",
         "GLS",
-        "OPC"
+        "OPC",
+        "Standard"
       ],
       "2011": [
-        "Standard",
         "GLS",
-        "OPC"
+        "OPC",
+        "Standard"
       ],
       "2012": [
-        "Standard",
         "GLS",
-        "OPC"
+        "OPC",
+        "Standard"
       ],
       "2013": [
-        "Standard",
         "GLS",
-        "OPC"
+        "OPC",
+        "Standard"
       ],
       "2014": [
-        "Standard",
         "GLS",
-        "OPC"
+        "OPC",
+        "Standard"
       ],
       "2015": [
-        "Standard",
         "GLS",
-        "OPC"
+        "OPC",
+        "Standard"
       ],
       "2016": [
-        "Standard",
         "GLS",
+        "Standard",
         "VXR"
       ],
       "2017": [
-        "Standard",
         "GLS",
+        "Standard",
         "VXR"
       ],
       "2018": [
-        "Standard",
         "GLS",
+        "Standard",
         "VXR"
       ],
       "2019": [
-        "Standard",
         "GLS",
+        "Standard",
         "VXR"
       ],
       "2020": [
-        "Standard",
         "GLS",
+        "Standard",
         "VXR"
       ],
       "2021": [
-        "Standard",
         "GLS",
+        "Standard",
         "VXR"
       ],
       "2022": [
-        "Standard",
         "GLS",
+        "Standard",
         "VXR"
       ]
     },
     "Corsa": {
       "1982": [
-        "Standard",
-        "Design"
+        "Design",
+        "Standard"
       ],
       "1983": [
-        "Standard",
-        "Design"
+        "Design",
+        "Standard"
       ],
       "1984": [
-        "Standard",
-        "Design"
+        "Design",
+        "Standard"
       ],
       "1985": [
-        "Standard",
-        "Design"
+        "Design",
+        "Standard"
       ],
       "1986": [
-        "Standard",
-        "Design"
+        "Design",
+        "Standard"
       ],
       "1987": [
-        "Standard",
-        "Design"
+        "Design",
+        "Standard"
       ],
       "1988": [
-        "Standard",
-        "Design"
+        "Design",
+        "Standard"
       ],
       "1989": [
-        "Standard",
-        "Design"
+        "Design",
+        "Standard"
       ],
       "1990": [
-        "Standard",
-        "Design"
+        "Design",
+        "Standard"
       ],
       "1991": [
-        "Standard",
-        "Design"
+        "Design",
+        "Standard"
       ],
       "1992": [
-        "Standard",
-        "Design"
+        "Design",
+        "Standard"
       ],
       "1993": [
-        "Standard",
         "Design",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "1994": [
-        "Standard",
         "Design",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "1995": [
-        "Standard",
         "Design",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "1996": [
-        "Standard",
         "Design",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "1997": [
-        "Standard",
         "Design",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "1998": [
-        "Standard",
         "Design",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "1999": [
-        "Standard",
         "Design",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "2000": [
-        "Standard",
         "Design",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "2001": [
-        "Standard",
         "Design",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "2002": [
-        "Standard",
         "Design",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "2003": [
-        "Standard",
         "Design",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "2004": [
-        "Standard",
         "Design",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "2005": [
-        "Standard",
         "Design",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "2006": [
-        "Standard",
         "Design",
-        "SRi"
+        "SRi",
+        "Standard"
       ],
       "2007": [
-        "Standard",
         "Design",
+        "OPC",
         "SRi",
-        "OPC"
+        "Standard"
       ],
       "2008": [
-        "Standard",
         "Design",
+        "OPC",
         "SRi",
-        "OPC"
+        "Standard"
       ],
       "2009": [
-        "Standard",
         "Design",
+        "OPC",
         "SRi",
-        "OPC"
+        "Standard"
       ],
       "2010": [
-        "Standard",
         "Design",
+        "OPC",
         "SRi",
-        "OPC"
+        "Standard"
       ],
       "2011": [
-        "Standard",
         "Design",
+        "OPC",
         "SRi",
-        "OPC"
+        "Standard"
       ],
       "2012": [
-        "Standard",
         "Design",
+        "OPC",
         "SRi",
-        "OPC"
+        "Standard"
       ],
       "2013": [
-        "Standard",
         "Design",
+        "OPC",
         "SRi",
-        "OPC"
+        "Standard"
       ],
       "2014": [
-        "Standard",
         "Design",
+        "OPC",
         "SRi",
-        "OPC"
+        "Standard"
       ],
       "2015": [
-        "Standard",
         "Design",
+        "OPC",
         "SRi",
-        "OPC"
+        "Standard"
       ],
       "2016": [
-        "Standard",
         "Design",
+        "OPC",
         "SRi",
-        "OPC"
+        "Standard"
       ],
       "2017": [
-        "Standard",
         "Design",
+        "OPC",
         "SRi",
-        "OPC"
+        "Standard"
       ],
       "2018": [
-        "Standard",
         "Design",
+        "OPC",
         "SRi",
-        "OPC"
+        "Standard"
       ],
       "2019": [
-        "Standard",
         "Design",
+        "OPC",
         "SRi",
-        "OPC"
+        "Standard"
       ],
       "2020": [
-        "Standard",
         "Design",
+        "OPC",
         "SRi",
-        "OPC"
+        "Standard"
       ],
       "2021": [
-        "Standard",
         "Design",
+        "OPC",
         "SRi",
-        "OPC"
+        "Standard"
       ],
       "2022": [
-        "Standard",
         "Design",
+        "OPC",
         "SRi",
-        "OPC"
+        "Standard"
       ],
       "2023": [
-        "Standard",
         "Design",
+        "OPC",
         "SRi",
-        "OPC"
+        "Standard"
       ],
       "2024": [
-        "Standard",
         "Design",
+        "OPC",
         "SRi",
-        "OPC"
+        "Standard"
       ],
       "2025": [
-        "Standard",
         "Design",
+        "OPC",
         "SRi",
-        "OPC"
+        "Standard"
       ],
       "2026": [
-        "Standard",
         "Design",
+        "OPC",
         "SRi",
-        "OPC"
+        "Standard"
       ]
     },
     "Vectra": {
       "1988": [
-        "Standard",
+        "CD",
         "GL",
-        "CD"
+        "Standard"
       ],
       "1989": [
-        "Standard",
+        "CD",
         "GL",
-        "CD"
+        "Standard"
       ],
       "1990": [
-        "Standard",
+        "CD",
         "GL",
-        "CD"
+        "Standard"
       ],
       "1991": [
-        "Standard",
+        "CD",
         "GL",
-        "CD"
+        "Standard"
       ],
       "1992": [
-        "Standard",
+        "CD",
         "GL",
-        "CD"
+        "Standard"
       ],
       "1993": [
-        "Standard",
+        "CD",
         "GL",
-        "CD"
+        "Standard"
       ],
       "1994": [
-        "Standard",
+        "CD",
         "GL",
-        "CD"
+        "Standard"
       ],
       "1995": [
-        "Standard",
+        "CD",
         "GL",
-        "CD"
+        "Standard"
       ],
       "1996": [
-        "Standard",
         "GL",
-        "GSi"
+        "GSi",
+        "Standard"
       ],
       "1997": [
-        "Standard",
         "GL",
-        "GSi"
+        "GSi",
+        "Standard"
       ],
       "1998": [
-        "Standard",
         "GL",
-        "GSi"
+        "GSi",
+        "Standard"
       ],
       "1999": [
-        "Standard",
         "GL",
-        "GSi"
+        "GSi",
+        "Standard"
       ],
       "2000": [
-        "Standard",
         "GL",
-        "GSi"
+        "GSi",
+        "Standard"
       ],
       "2001": [
-        "Standard",
         "GL",
-        "GSi"
+        "GSi",
+        "Standard"
       ],
       "2002": [
-        "Standard",
         "GL",
-        "GSi"
+        "GSi",
+        "Standard"
       ],
       "2003": [
-        "Standard",
         "GL",
-        "OPC"
+        "OPC",
+        "Standard"
       ],
       "2004": [
-        "Standard",
         "GL",
-        "OPC"
+        "OPC",
+        "Standard"
       ],
       "2005": [
-        "Standard",
         "GL",
-        "OPC"
+        "OPC",
+        "Standard"
       ],
       "2006": [
-        "Standard",
         "GL",
-        "OPC"
+        "OPC",
+        "Standard"
       ],
       "2007": [
-        "Standard",
         "GL",
-        "OPC"
+        "OPC",
+        "Standard"
       ],
       "2008": [
-        "Standard",
         "GL",
-        "OPC"
+        "OPC",
+        "Standard"
       ]
     },
     "Omega": {
       "1986": [
-        "Standard",
         "Elite",
-        "MV6"
+        "MV6",
+        "Standard"
       ],
       "1987": [
-        "Standard",
         "Elite",
-        "MV6"
+        "MV6",
+        "Standard"
       ],
       "1988": [
-        "Standard",
         "Elite",
-        "MV6"
+        "MV6",
+        "Standard"
       ],
       "1989": [
-        "Standard",
         "Elite",
-        "MV6"
+        "MV6",
+        "Standard"
       ],
       "1990": [
-        "Standard",
         "Elite",
+        "Lotus",
         "MV6",
-        "Lotus"
+        "Standard"
       ],
       "1991": [
-        "Standard",
         "Elite",
+        "Lotus",
         "MV6",
-        "Lotus"
+        "Standard"
       ],
       "1992": [
-        "Standard",
         "Elite",
+        "Lotus",
         "MV6",
-        "Lotus"
+        "Standard"
       ],
       "1993": [
-        "Standard",
         "Elite",
+        "Lotus",
         "MV6",
-        "Lotus"
+        "Standard"
       ],
       "1994": [
-        "Standard",
         "Elite",
-        "MV6"
+        "MV6",
+        "Standard"
       ],
       "1995": [
-        "Standard",
         "Elite",
-        "MV6"
+        "MV6",
+        "Standard"
       ],
       "1996": [
-        "Standard",
         "Elite",
-        "MV6"
+        "MV6",
+        "Standard"
       ],
       "1997": [
-        "Standard",
         "Elite",
-        "MV6"
+        "MV6",
+        "Standard"
       ],
       "1998": [
-        "Standard",
         "Elite",
-        "MV6"
+        "MV6",
+        "Standard"
       ],
       "1999": [
-        "Standard",
         "Elite",
-        "MV6"
+        "MV6",
+        "Standard"
       ],
       "2000": [
-        "Standard",
         "Elite",
-        "MV6"
+        "MV6",
+        "Standard"
       ],
       "2001": [
-        "Standard",
         "Elite",
-        "MV6"
+        "MV6",
+        "Standard"
       ],
       "2002": [
-        "Standard",
         "Elite",
-        "MV6"
+        "MV6",
+        "Standard"
       ],
       "2003": [
-        "Standard",
         "Elite",
-        "MV6"
+        "MV6",
+        "Standard"
       ]
     },
     "Monaro VXR": {
@@ -64228,165 +64241,165 @@
     "Insignia": {
       "2008": [
         "Design",
-        "SRi",
         "Elite",
-        "OPC"
+        "OPC",
+        "SRi"
       ],
       "2009": [
         "Design",
-        "SRi",
         "Elite",
-        "OPC"
+        "OPC",
+        "SRi"
       ],
       "2010": [
         "Design",
-        "SRi",
         "Elite",
-        "OPC"
+        "OPC",
+        "SRi"
       ],
       "2011": [
         "Design",
-        "SRi",
         "Elite",
-        "OPC"
+        "OPC",
+        "SRi"
       ],
       "2012": [
         "Design",
-        "SRi",
         "Elite",
-        "OPC"
+        "OPC",
+        "SRi"
       ],
       "2013": [
         "Design",
-        "SRi",
         "Elite",
-        "OPC"
+        "OPC",
+        "SRi"
       ],
       "2014": [
         "Design",
-        "SRi",
         "Elite",
-        "OPC"
+        "OPC",
+        "SRi"
       ],
       "2015": [
         "Design",
-        "SRi",
         "Elite",
-        "OPC"
+        "OPC",
+        "SRi"
       ],
       "2016": [
         "Design",
-        "SRi",
         "Elite",
-        "OPC"
+        "OPC",
+        "SRi"
       ],
       "2017": [
         "Design",
-        "SRi",
         "Elite",
-        "OPC"
+        "OPC",
+        "SRi"
       ],
       "2018": [
         "Design",
-        "SRi",
-        "Elite"
+        "Elite",
+        "SRi"
       ],
       "2019": [
         "Design",
-        "SRi",
-        "Elite"
+        "Elite",
+        "SRi"
       ],
       "2020": [
         "Design",
-        "SRi",
-        "Elite"
+        "Elite",
+        "SRi"
       ],
       "2021": [
         "Design",
-        "SRi",
-        "Elite"
+        "Elite",
+        "SRi"
       ],
       "2022": [
         "Design",
-        "SRi",
-        "Elite"
+        "Elite",
+        "SRi"
       ]
     },
     "Mokka": {
       "2012": [
-        "Standard",
+        "Elite",
         "SRi",
-        "Elite"
+        "Standard"
       ],
       "2013": [
-        "Standard",
+        "Elite",
         "SRi",
-        "Elite"
+        "Standard"
       ],
       "2014": [
-        "Standard",
+        "Elite",
         "SRi",
-        "Elite"
+        "Standard"
       ],
       "2015": [
-        "Standard",
+        "Elite",
         "SRi",
-        "Elite"
+        "Standard"
       ],
       "2016": [
-        "Standard",
+        "Elite",
         "SRi",
-        "Elite"
+        "Standard"
       ],
       "2017": [
-        "Standard",
+        "Elite",
         "SRi",
-        "Elite"
+        "Standard"
       ],
       "2018": [
-        "Standard",
+        "Elite",
         "SRi",
-        "Elite"
+        "Standard"
       ],
       "2019": [
-        "Standard",
+        "Elite",
         "SRi",
-        "Elite"
+        "Standard"
       ],
       "2020": [
-        "Standard",
+        "Elite",
         "SRi",
-        "Elite"
+        "Standard"
       ],
       "2021": [
-        "Standard",
+        "Elite",
         "SRi",
-        "Elite"
+        "Standard"
       ],
       "2022": [
-        "Standard",
+        "Elite",
         "SRi",
-        "Elite"
+        "Standard"
       ],
       "2023": [
-        "Standard",
+        "Elite",
         "SRi",
-        "Elite"
+        "Standard"
       ],
       "2024": [
-        "Standard",
+        "Elite",
         "SRi",
-        "Elite"
+        "Standard"
       ],
       "2025": [
-        "Standard",
+        "Elite",
         "SRi",
-        "Elite"
+        "Standard"
       ],
       "2026": [
-        "Standard",
+        "Elite",
         "SRi",
-        "Elite"
+        "Standard"
       ]
     }
   },
