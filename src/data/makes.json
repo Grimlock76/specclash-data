@@ -20570,10 +20570,12 @@
       ],
       "2025": [
         "G 500",
+        "G 580 EQ",
         "G 63 AMG"
       ],
       "2026": [
         "G 500",
+        "G 580 EQ",
         "G 63 AMG"
       ]
     },
@@ -22989,7 +22991,9 @@
         "ES 300h"
       ],
       "2025": [
-        "ES 300h"
+        "ES 300h",
+        "ES 300h F Sport",
+        "ES 300h Sports Luxury"
       ],
       "2026": [
         "ES 300h",
@@ -23298,7 +23302,9 @@
       ],
       "2025": [
         "RX 350",
-        "RX 450h+"
+        "RX 350h F Sport",
+        "RX 450h+",
+        "RX 500h F Sport Performance"
       ],
       "2026": [
         "RX 350h",
@@ -23330,7 +23336,9 @@
         "GX 550"
       ],
       "2025": [
-        "GX 550"
+        "GX 550",
+        "GX 550 F Sport",
+        "GX 550 Sports Luxury"
       ],
       "2026": [
         "GX 550",
@@ -23368,7 +23376,9 @@
         "LX 600"
       ],
       "2025": [
-        "LX 600"
+        "LX 600",
+        "LX 600 F Sport",
+        "LX 600 Sports Luxury"
       ],
       "2026": [
         "LX 600",
@@ -54388,6 +54398,20 @@
         "Level 1",
         "Level 2",
         "Level 3"
+      ]
+    },
+    "Aceman": {
+      "2024": [
+        "Aceman E",
+        "Aceman SE"
+      ],
+      "2025": [
+        "Aceman E",
+        "Aceman SE"
+      ],
+      "2026": [
+        "Aceman E",
+        "Aceman SE"
       ]
     }
   },
