@@ -84,6 +84,9 @@ export default function App() {
               <span style={{ fontSize: 12 }}>↗</span> Share
             </button>
           )}
+          <a href="/game.html" className="hdr-btn" style={{ textDecoration: 'none' }}>
+            <span>⚔️</span> SkyHeroes
+          </a>
           <button className={`hdr-btn${isPro ? ' active' : ''}`} onClick={() => setShowPro(p => !p)}>
             <span>★</span>{isPro ? 'PRO ✓' : 'GO PRO'}
           </button>
