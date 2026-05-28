@@ -169,7 +169,7 @@
       "acceleration": 5.4,
       "topSpeed": 240,
       "price": "~$174,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Suzuki|Vitara|2026|GL": {
       "engine": "1.4L I4 Boosterjet Mild Hybrid",
@@ -245,7 +245,7 @@
       "fh": 6.8,
       "fx": 11.7,
       "price": "~$34,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "GWM|Ute|2026|Premium": {
       "engine": "2.0L I4 Turbo Diesel",
@@ -264,7 +264,7 @@
       "fh": 6.8,
       "fx": 11.7,
       "price": "~$39,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "GWM|Ute|2026|Cannon-L": {
       "engine": "2.0L I4 Turbo Diesel",
@@ -283,7 +283,7 @@
       "fh": 7.2,
       "fx": 12.3,
       "price": "~$43,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Jeep|Wrangler|2023|Sahara": {
       "engine": "3.6L V6 Pentastar",
@@ -473,7 +473,7 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$101,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volvo|XC90|2026|B5": {
       "engine": "2.0L I4 Mild Hybrid",
@@ -511,7 +511,7 @@
       "acceleration": 5.3,
       "topSpeed": 230,
       "price": "~$109,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volvo|C40 Recharge|2024|Single Motor": {
       "engine": "Single Motor Electric",
@@ -606,7 +606,7 @@
       "acceleration": 6,
       "topSpeed": 240,
       "price": "~$79,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Genesis|G80|2023|3.5T": {
       "engine": "3.5L V6 Twin Turbo",
@@ -625,7 +625,7 @@
       "acceleration": 4.9,
       "topSpeed": 270,
       "price": "~$95,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     }
   }
 }

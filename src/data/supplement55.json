@@ -20,7 +20,7 @@
       "cargo": 500,
       "quarterMile": "~20.0 sec",
       "price": "~$48,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Land Rover|Defender|2006|110": {
       "engine": "2.4L I4 TDI Puma",
@@ -42,7 +42,7 @@
       "cargo": 850,
       "quarterMile": "~20.5 sec",
       "price": "~$51,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Land Rover|Defender|2010|90": {
       "engine": "2.4L I4 TDI Puma",
@@ -64,7 +64,7 @@
       "cargo": 500,
       "quarterMile": "~20.0 sec",
       "price": "~$51,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Land Rover|Defender|2010|110": {
       "engine": "2.4L I4 TDI Puma",
@@ -86,7 +86,7 @@
       "cargo": 850,
       "quarterMile": "~20.5 sec",
       "price": "~$54,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Land Rover|Defender|2014|90": {
       "engine": "2.2L I4 TDI Puma",
@@ -108,7 +108,7 @@
       "cargo": 500,
       "quarterMile": "~19.8 sec",
       "price": "~$54,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Land Rover|Defender|2014|110": {
       "engine": "2.2L I4 TDI Puma",
@@ -130,7 +130,7 @@
       "cargo": 850,
       "quarterMile": "~20.0 sec",
       "price": "~$57,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Land Rover|Defender|2021|90 S": {
       "engine": "2.0L I4 P300 Ingenium",
@@ -218,7 +218,7 @@
       "cargo": 786,
       "quarterMile": "~13.9 sec",
       "price": "~$169,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Land Rover|Defender|2025|90 S": {
       "engine": "2.0L I4 P300 Ingenium",
@@ -306,7 +306,7 @@
       "cargo": 786,
       "quarterMile": "~13.9 sec",
       "price": "~$179,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Land Rover|Discovery|2007|TDV6": {
       "engine": "2.7L V6 TDV6",
@@ -328,7 +328,7 @@
       "cargo": 1192,
       "quarterMile": "~18.8 sec",
       "price": "~$62,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Discovery|2007|V8": {
       "engine": "4.4L V8 Petrol",
@@ -372,7 +372,7 @@
       "cargo": 1192,
       "quarterMile": "~17.0 sec",
       "price": "~$67,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Discovery|2011|SDV8": {
       "engine": "4.4L V8 SDV8",
@@ -394,7 +394,7 @@
       "cargo": 1192,
       "quarterMile": "~16.3 sec",
       "price": "~$87,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Discovery|2014|TDV6": {
       "engine": "3.0L V6 TDV6 HSE",
@@ -416,7 +416,7 @@
       "cargo": 1192,
       "quarterMile": "~17.0 sec",
       "price": "~$69,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Discovery|2014|SDV8": {
       "engine": "4.4L V8 SDV8",
@@ -438,7 +438,7 @@
       "cargo": 1192,
       "quarterMile": "~16.3 sec",
       "price": "~$89,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Discovery|2019|SE": {
       "engine": "3.0L I6 D300 Ingenium",
@@ -460,7 +460,7 @@
       "cargo": 1137,
       "quarterMile": "~15.3 sec",
       "price": "~$79,990",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Land Rover|Discovery|2019|HSE": {
       "engine": "3.0L I6 P360 Mild Hybrid",
@@ -504,7 +504,7 @@
       "cargo": 1137,
       "quarterMile": "~15.3 sec",
       "price": "~$84,990",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Land Rover|Discovery|2024|HSE": {
       "engine": "3.0L I6 P360 Mild Hybrid",
@@ -548,7 +548,7 @@
       "cargo": 981,
       "quarterMile": "~17.8 sec",
       "price": "~$47,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Discovery Sport|2016|HSE": {
       "engine": "2.0L I4 Si4 Ingenium",
@@ -614,7 +614,7 @@
       "cargo": 981,
       "quarterMile": "~17.0 sec",
       "price": "~$52,990",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Land Rover|Discovery Sport|2020|HSE": {
       "engine": "2.0L I4 P250 Ingenium",
@@ -680,7 +680,7 @@
       "cargo": 981,
       "quarterMile": "~17.0 sec",
       "price": "~$56,990",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Land Rover|Discovery Sport|2024|HSE": {
       "engine": "2.0L I4 P250 Ingenium",
@@ -768,7 +768,7 @@
       "cargo": 770,
       "quarterMile": "~15.6 sec",
       "price": "~$169,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Land Rover|Range Rover|2008|Vogue": {
       "engine": "3.6L V8 TDV8",
@@ -790,7 +790,7 @@
       "cargo": 770,
       "quarterMile": "~17.0 sec",
       "price": "~$142,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Range Rover|2008|Supercharged": {
       "engine": "5.0L V8 Supercharged",
@@ -812,7 +812,7 @@
       "cargo": 770,
       "quarterMile": "~14.2 sec",
       "price": "~$184,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Land Rover|Range Rover|2011|Vogue": {
       "engine": "3.6L V8 TDV8",
@@ -834,7 +834,7 @@
       "cargo": 770,
       "quarterMile": "~17.0 sec",
       "price": "~$164,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Range Rover|2011|Supercharged": {
       "engine": "5.0L V8 Supercharged",
@@ -856,7 +856,7 @@
       "cargo": 770,
       "quarterMile": "~14.2 sec",
       "price": "~$194,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Land Rover|Range Rover|2014|Vogue": {
       "engine": "3.0L V6 SDV6 Supercharged",
@@ -878,7 +878,7 @@
       "cargo": 909,
       "quarterMile": "~16.5 sec",
       "price": "~$174,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Land Rover|Range Rover|2014|Autobiography": {
       "engine": "5.0L V8 Supercharged",
@@ -900,7 +900,7 @@
       "cargo": 909,
       "quarterMile": "~13.9 sec",
       "price": "~$219,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Land Rover|Range Rover|2014|SVAutobiography": {
       "engine": "5.0L V8 Supercharged",
@@ -922,7 +922,7 @@
       "cargo": 909,
       "quarterMile": "~13.7 sec",
       "price": "~$289,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Land Rover|Range Rover|2018|Vogue": {
       "engine": "3.0L V6 SDV6",
@@ -944,7 +944,7 @@
       "cargo": 909,
       "quarterMile": "~16.5 sec",
       "price": "~$184,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Range Rover|2018|Autobiography": {
       "engine": "5.0L V8 Supercharged",
@@ -966,7 +966,7 @@
       "cargo": 909,
       "quarterMile": "~13.9 sec",
       "price": "~$239,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Land Rover|Range Rover|2018|SVAutobiography": {
       "engine": "5.0L V8 Supercharged",
@@ -988,7 +988,7 @@
       "cargo": 909,
       "quarterMile": "~13.7 sec",
       "price": "~$319,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Land Rover|Range Rover|2021|Vogue": {
       "engine": "3.0L I6 SDV6",
@@ -1010,7 +1010,7 @@
       "cargo": 909,
       "quarterMile": "~16.5 sec",
       "price": "~$194,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Range Rover|2021|Autobiography": {
       "engine": "5.0L V8 Supercharged",
@@ -1032,7 +1032,7 @@
       "cargo": 909,
       "quarterMile": "~13.9 sec",
       "price": "~$254,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Land Rover|Range Rover|2021|SVAutobiography": {
       "engine": "5.0L V8 Supercharged",
@@ -1054,7 +1054,7 @@
       "cargo": 909,
       "quarterMile": "~13.7 sec",
       "price": "~$349,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Land Rover|Range Rover|2023|SE": {
       "engine": "3.0L I6 P360 Mild Hybrid",
@@ -1098,7 +1098,7 @@
       "cargo": 818,
       "quarterMile": "~13.3 sec",
       "price": "~$269,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Land Rover|Range Rover|2023|SV": {
       "engine": "4.4L V8 P530 Twin Turbo",
@@ -1120,7 +1120,7 @@
       "cargo": 818,
       "quarterMile": "~13.3 sec",
       "price": "~$399,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Land Rover|Range Rover|2025|SE": {
       "engine": "3.0L I6 P360 Mild Hybrid",
@@ -1164,7 +1164,7 @@
       "cargo": 818,
       "quarterMile": "~13.3 sec",
       "price": "~$279,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Land Rover|Range Rover|2025|SV": {
       "engine": "4.4L V8 P530 Twin Turbo",
@@ -1186,7 +1186,7 @@
       "cargo": 818,
       "quarterMile": "~13.3 sec",
       "price": "~$419,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Land Rover|Range Rover Sport|2006|TDV6": {
       "engine": "2.7L V6 TDV6",
@@ -1208,7 +1208,7 @@
       "cargo": 758,
       "quarterMile": "~18.2 sec",
       "price": "~$74,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Range Rover Sport|2006|Supercharged": {
       "engine": "4.2L V8 Supercharged",
@@ -1230,7 +1230,7 @@
       "cargo": 758,
       "quarterMile": "~15.4 sec",
       "price": "~$89,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Land Rover|Range Rover Sport|2010|TDV6": {
       "engine": "3.0L V6 TDV6",
@@ -1252,7 +1252,7 @@
       "cargo": 758,
       "quarterMile": "~17.0 sec",
       "price": "~$79,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Range Rover Sport|2010|Supercharged": {
       "engine": "5.0L V8 Supercharged",
@@ -1274,7 +1274,7 @@
       "cargo": 758,
       "quarterMile": "~14.3 sec",
       "price": "~$99,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Land Rover|Range Rover Sport|2014|SE": {
       "engine": "3.0L V6 SDV6",
@@ -1296,7 +1296,7 @@
       "cargo": 784,
       "quarterMile": "~15.7 sec",
       "price": "~$84,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Range Rover Sport|2014|HSE": {
       "engine": "3.0L V6 SDV6 HSE",
@@ -1318,7 +1318,7 @@
       "cargo": 784,
       "quarterMile": "~15.7 sec",
       "price": "~$99,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Range Rover Sport|2014|SVR": {
       "engine": "5.0L V8 SVR Supercharged",
@@ -1340,7 +1340,7 @@
       "cargo": 784,
       "quarterMile": "~13.2 sec",
       "price": "~$149,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Land Rover|Range Rover Sport|2018|SE": {
       "engine": "3.0L V6 SDV6",
@@ -1362,7 +1362,7 @@
       "cargo": 784,
       "quarterMile": "~15.7 sec",
       "price": "~$94,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Range Rover Sport|2018|HSE": {
       "engine": "3.0L V6 SDV6 HSE",
@@ -1384,7 +1384,7 @@
       "cargo": 784,
       "quarterMile": "~15.7 sec",
       "price": "~$109,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Range Rover Sport|2018|SVR": {
       "engine": "5.0L V8 SVR Supercharged",
@@ -1406,7 +1406,7 @@
       "cargo": 784,
       "quarterMile": "~13.2 sec",
       "price": "~$159,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Land Rover|Range Rover Sport|2021|SE": {
       "engine": "3.0L I6 D300 Ingenium",
@@ -1428,7 +1428,7 @@
       "cargo": 784,
       "quarterMile": "~15.3 sec",
       "price": "~$99,990",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Land Rover|Range Rover Sport|2021|HSE": {
       "engine": "3.0L I6 P400 Mild Hybrid",
@@ -1472,7 +1472,7 @@
       "cargo": 784,
       "quarterMile": "~13.2 sec",
       "price": "~$169,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Land Rover|Range Rover Sport|2023|S": {
       "engine": "3.0L I6 P360 Mild Hybrid",
@@ -1516,7 +1516,7 @@
       "cargo": 780,
       "quarterMile": "~14.6 sec",
       "price": "~$119,990",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Land Rover|Range Rover Sport|2023|P530": {
       "engine": "4.4L V8 P530 Twin Turbo",
@@ -1538,7 +1538,7 @@
       "cargo": 780,
       "quarterMile": "~13.0 sec",
       "price": "~$199,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Land Rover|Range Rover Sport|2025|S": {
       "engine": "3.0L I6 P360 Mild Hybrid",
@@ -1582,7 +1582,7 @@
       "cargo": 780,
       "quarterMile": "~14.6 sec",
       "price": "~$124,990",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Land Rover|Range Rover Sport|2025|P530": {
       "engine": "4.4L V8 P530 Twin Turbo",
@@ -1604,7 +1604,7 @@
       "cargo": 780,
       "quarterMile": "~13.0 sec",
       "price": "~$209,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Land Rover|Range Rover Evoque|2012|Pure": {
       "engine": "2.2L I4 SD4",
@@ -1626,7 +1626,7 @@
       "cargo": 575,
       "quarterMile": "~17.2 sec",
       "price": "~$44,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Range Rover Evoque|2012|Prestige": {
       "engine": "2.0L I4 Si4",
@@ -1692,7 +1692,7 @@
       "cargo": 575,
       "quarterMile": "~17.5 sec",
       "price": "~$46,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Range Rover Evoque|2016|Prestige": {
       "engine": "2.0L I4 Si4",
@@ -1758,7 +1758,7 @@
       "cargo": 591,
       "quarterMile": "~17.5 sec",
       "price": "~$57,490",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Land Rover|Range Rover Evoque|2020|SE": {
       "engine": "2.0L I4 P200 Ingenium",
@@ -1824,7 +1824,7 @@
       "cargo": 591,
       "quarterMile": "~17.5 sec",
       "price": "~$62,490",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Land Rover|Range Rover Evoque|2024|SE": {
       "engine": "2.0L I4 P200 Ingenium",
@@ -1890,7 +1890,7 @@
       "cargo": 673,
       "quarterMile": "~17.0 sec",
       "price": "~$74,490",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Land Rover|Range Rover Velar|2018|SE": {
       "engine": "2.0L I4 P250 Ingenium",
@@ -1934,7 +1934,7 @@
       "cargo": 673,
       "quarterMile": "~13.9 sec",
       "price": "~$94,490",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Land Rover|Range Rover Velar|2022|S": {
       "engine": "2.0L I4 D200 Ingenium",
@@ -1956,7 +1956,7 @@
       "cargo": 673,
       "quarterMile": "~16.3 sec",
       "price": "~$79,490",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Land Rover|Range Rover Velar|2022|SE": {
       "engine": "2.0L I4 P250 Ingenium",
@@ -2022,7 +2022,7 @@
       "cargo": 673,
       "quarterMile": "~16.3 sec",
       "price": "~$84,490",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Land Rover|Range Rover Velar|2025|SE": {
       "engine": "2.0L I4 P250 Ingenium",
@@ -2088,7 +2088,7 @@
       "cargo": 755,
       "quarterMile": "~17.8 sec",
       "price": "~$34,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Freelander|2007|HSE": {
       "engine": "3.2L I6 Si6",
@@ -2132,7 +2132,7 @@
       "cargo": 755,
       "quarterMile": "~17.6 sec",
       "price": "~$36,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Freelander|2012|SE": {
       "engine": "2.2L I4 TD4",
@@ -2154,7 +2154,7 @@
       "cargo": 755,
       "quarterMile": "~17.5 sec",
       "price": "~$38,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Freelander|2012|HSE": {
       "engine": "2.2L I4 SD4",
@@ -2176,7 +2176,7 @@
       "cargo": 755,
       "quarterMile": "~16.8 sec",
       "price": "~$46,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Freelander|2012|TD4": {
       "engine": "2.2L I4 TD4",
@@ -2198,7 +2198,7 @@
       "cargo": 755,
       "quarterMile": "~17.5 sec",
       "price": "~$40,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     }
   }
 }

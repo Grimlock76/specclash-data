@@ -17,7 +17,7 @@
       "acceleration": 4,
       "topSpeed": 293,
       "price": "~$245,200",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo"
     },
     "Porsche|911|2023|Dakar": {
       "engine": "3.0L Flat-6 Twin-Turbo",
@@ -36,7 +36,7 @@
       "acceleration": 3.4,
       "topSpeed": 240,
       "price": "~$349,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo"
     },
     "Porsche|911|2023|GT3": {
       "engine": "4.0L Flat-6 NA",
@@ -112,7 +112,7 @@
       "acceleration": 6.4,
       "topSpeed": 250,
       "price": "~$289,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Mercedes-Benz|S-Class|2023|S 500": {
       "engine": "3.0L I6 Turbo MHEV",
@@ -131,7 +131,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$299,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|AMG GT|2023|AMG GT 43": {
       "engine": "2.0L I4 Turbo MHEV AMG",
@@ -150,7 +150,7 @@
       "acceleration": 4.6,
       "topSpeed": 270,
       "price": "~$199,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|AMG GT|2023|AMG GT 55": {
       "engine": "4.0L V8 Biturbo AMG",
@@ -169,7 +169,7 @@
       "acceleration": 4,
       "topSpeed": 290,
       "price": "~$249,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|AMG GT|2023|AMG GT 63": {
       "engine": "4.0L V8 Biturbo AMG",
@@ -188,7 +188,7 @@
       "acceleration": 3.2,
       "topSpeed": 315,
       "price": "~$379,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Honda|CR-V|2023|VTi-L": {
       "engine": "1.5L I4 VTEC Turbo",
@@ -207,7 +207,7 @@
       "acceleration": 9.5,
       "topSpeed": 180,
       "price": "~$49,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Honda|CR-V|2023|RS e:HEV": {
       "engine": "2.0L I4 Atkinson e:HEV",
@@ -302,7 +302,7 @@
       "acceleration": 7.5,
       "topSpeed": 170,
       "price": "~$46,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|X-Trail|2023|ST-L e-Power": {
       "engine": "1.5L I3 VC-Turbo e-POWER",
@@ -321,7 +321,7 @@
       "acceleration": 7.5,
       "topSpeed": 170,
       "price": "~$52,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|X-Trail|2023|Ti e-Power": {
       "engine": "1.5L I3 VC-Turbo e-POWER",
@@ -340,7 +340,7 @@
       "acceleration": 7.5,
       "topSpeed": 170,
       "price": "~$57,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|X-Trail|2023|Ti-L e-4ORCE": {
       "engine": "1.5L I3 VC-Turbo e-POWER e-4ORCE",
@@ -359,7 +359,7 @@
       "acceleration": 6,
       "topSpeed": 180,
       "price": "~$63,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lexus|RX|2023|RX 500h": {
       "engine": "2.4L I4 Turbo Hybrid AWD",
@@ -378,7 +378,7 @@
       "acceleration": 6,
       "topSpeed": 200,
       "price": "~$96,990",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     }
   }
 }

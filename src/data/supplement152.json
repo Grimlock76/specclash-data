@@ -17,7 +17,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "price": "~$37,950",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Jeep|Compass|2025|Longitude": {
       "engine": "1.3L 4-cyl Turbo",
@@ -36,7 +36,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "price": "~$43,450",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Jeep|Compass|2025|Limited": {
       "engine": "1.3L 4-cyl Turbo AWD",
@@ -55,7 +55,7 @@
       "acceleration": 8.4,
       "topSpeed": 200,
       "price": "~$49,450",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Jeep|Compass|2025|Trailhawk": {
       "engine": "1.3L 4-cyl Turbo AWD",
@@ -74,7 +74,7 @@
       "acceleration": 8.4,
       "topSpeed": 195,
       "price": "~$52,450",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Jeep|Compass|2025|4xe": {
       "engine": "1.3L 4-cyl Turbo PHEV",
@@ -94,7 +94,7 @@
       "acceleration": 6.6,
       "topSpeed": 210,
       "price": "~$58,450",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Jeep|Compass|2026|Sport": {
       "engine": "1.3L 4-cyl Turbo",
@@ -113,7 +113,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "price": "~$39,450",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Jeep|Compass|2026|Longitude": {
       "engine": "1.3L 4-cyl Turbo",
@@ -132,7 +132,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "price": "~$44,950",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Jeep|Compass|2026|Limited": {
       "engine": "1.3L 4-cyl Turbo AWD",
@@ -151,7 +151,7 @@
       "acceleration": 8.4,
       "topSpeed": 200,
       "price": "~$50,950",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Jeep|Compass|2026|Trailhawk": {
       "engine": "1.3L 4-cyl Turbo AWD",
@@ -170,7 +170,7 @@
       "acceleration": 8.4,
       "topSpeed": 195,
       "price": "~$53,950",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Jeep|Compass|2026|4xe": {
       "engine": "1.3L 4-cyl Turbo PHEV",
@@ -190,7 +190,7 @@
       "acceleration": 6.6,
       "topSpeed": 210,
       "price": "~$59,950",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volkswagen|Amarok|2025|TDI580 Style": {
       "engine": "3.0L V6 TDI",
@@ -209,7 +209,7 @@
       "acceleration": 8,
       "topSpeed": 188,
       "price": "~$72,190",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2026|TDI580 Style": {
       "engine": "3.0L V6 TDI",
@@ -228,7 +228,7 @@
       "acceleration": 8,
       "topSpeed": 188,
       "price": "~$74,190",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Nissan|Juke|2025|Ti": {
       "engine": "1.0L I3 DIG-T Turbo",
@@ -247,7 +247,7 @@
       "acceleration": 10.7,
       "topSpeed": 182,
       "price": "~$42,190",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Juke|2026|Ti": {
       "engine": "1.0L I3 DIG-T Turbo",
@@ -266,7 +266,7 @@
       "acceleration": 10.7,
       "topSpeed": 182,
       "price": "~$44,190",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Maserati|Grecale|2025|GT": {
       "engine": "2.0L 4-cyl Twin-Turbo mHEV",
@@ -285,7 +285,7 @@
       "acceleration": 5.3,
       "topSpeed": 240,
       "price": "~$149,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Maserati|Grecale|2025|Modena": {
       "engine": "2.0L 4-cyl Twin-Turbo mHEV",
@@ -304,7 +304,7 @@
       "acceleration": 5,
       "topSpeed": 250,
       "price": "~$168,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Maserati|Grecale|2025|Trofeo": {
       "engine": "3.0L V6 Twin-Turbo Nettuno",
@@ -323,7 +323,7 @@
       "acceleration": 3.8,
       "topSpeed": 285,
       "price": "~$226,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Maserati|Grecale|2026|GT": {
       "engine": "2.0L 4-cyl Twin-Turbo mHEV",
@@ -342,7 +342,7 @@
       "acceleration": 5.3,
       "topSpeed": 240,
       "price": "~$154,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Maserati|Grecale|2026|Modena": {
       "engine": "2.0L 4-cyl Twin-Turbo mHEV",
@@ -361,7 +361,7 @@
       "acceleration": 5,
       "topSpeed": 250,
       "price": "~$173,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Maserati|Grecale|2026|Trofeo": {
       "engine": "3.0L V6 Twin-Turbo Nettuno",
@@ -380,7 +380,7 @@
       "acceleration": 3.8,
       "topSpeed": 285,
       "price": "~$231,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     }
   }
 }

@@ -61,7 +61,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|1999|GL": {
       "engine": "AXP 1.6L MPI I4",
@@ -124,7 +124,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2000|GL": {
       "engine": "AXP 1.6L MPI I4",
@@ -187,7 +187,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2000|V6 4Motion": {
       "engine": "AFP 2.8L VR6 AWD",
@@ -271,7 +271,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2001|V6 4Motion": {
       "engine": "AFP 2.8L VR6 AWD",
@@ -355,7 +355,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2002|V6 4Motion": {
       "engine": "AFP 2.8L VR6 AWD",
@@ -439,7 +439,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2003|V6 4Motion": {
       "engine": "AFP 2.8L VR6 AWD",
@@ -523,7 +523,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2004|V6 4Motion": {
       "engine": "AFP 2.8L VR6 AWD",
@@ -607,7 +607,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Turbo + Eaton Supercharged"
     },
     "Volkswagen|Golf|2005|Trendline": {
       "engine": "BSE 1.6L MPI I4",
@@ -670,7 +670,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Turbo + Eaton Supercharged"
     },
     "Volkswagen|Golf|2005|GTI": {
       "engine": "BYD 2.0T FSI Turbo I4",
@@ -691,7 +691,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2006|Trendline": {
       "engine": "BSE 1.6L MPI I4",
@@ -754,7 +754,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Turbo + Eaton Supercharged"
     },
     "Volkswagen|Golf|2006|GTI": {
       "engine": "BYD 2.0T FSI Turbo I4",
@@ -775,7 +775,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2007|Trendline": {
       "engine": "BSE 1.6L MPI I4",
@@ -838,7 +838,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Turbo + Eaton Supercharged"
     },
     "Volkswagen|Golf|2007|GTI": {
       "engine": "BYD 2.0T FSI Turbo I4",
@@ -859,7 +859,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2007|R32": {
       "engine": "BHE 3.2L VR6 AWD",
@@ -943,7 +943,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Turbo + Eaton Supercharged"
     },
     "Volkswagen|Golf|2008|GTI": {
       "engine": "BYD 2.0T FSI Turbo I4",
@@ -964,7 +964,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2008|R32": {
       "engine": "BHE 3.2L VR6 AWD",
@@ -1048,7 +1048,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Turbo + Eaton Supercharged"
     },
     "Volkswagen|Golf|2009|GTI": {
       "engine": "CDLF 2.0T TSI I4",
@@ -1069,7 +1069,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2009|R32": {
       "engine": "BHE 3.2L VR6 AWD",
@@ -1111,7 +1111,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2009|118TSI Highline": {
       "engine": "CAWB 2.0T TSI I4",
@@ -1132,7 +1132,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2009|R": {
       "engine": "CDLH 2.0T TSI AWD I4",
@@ -1153,7 +1153,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2009|103TDI Highline": {
       "engine": "CBDB 2.0L TDI I4",
@@ -1174,7 +1174,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Golf|2010|77TSI Comfortline": {
       "engine": "CAXA 1.4T TSI I4",
@@ -1195,7 +1195,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2010|118TSI Highline": {
       "engine": "CAWB 2.0T TSI I4",
@@ -1216,7 +1216,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2010|GTI": {
       "engine": "CDLF 2.0T TSI I4",
@@ -1237,7 +1237,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2010|R": {
       "engine": "CDLH 2.0T TSI AWD I4",
@@ -1258,7 +1258,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2010|103TDI Highline": {
       "engine": "CBDB 2.0L TDI I4",
@@ -1279,7 +1279,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Golf|2011|77TSI Comfortline": {
       "engine": "CAXA 1.4T TSI I4",
@@ -1300,7 +1300,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2011|118TSI Highline": {
       "engine": "CAWB 2.0T TSI I4",
@@ -1321,7 +1321,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2011|GTI": {
       "engine": "CDLF 2.0T TSI I4",
@@ -1342,7 +1342,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2011|R": {
       "engine": "CDLH 2.0T TSI AWD I4",
@@ -1363,7 +1363,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2011|103TDI Highline": {
       "engine": "CBDB 2.0L TDI I4",
@@ -1384,7 +1384,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Golf|2012|77TSI Comfortline": {
       "engine": "CAXA 1.4T TSI I4",
@@ -1405,7 +1405,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2012|118TSI Highline": {
       "engine": "CAWB 2.0T TSI I4",
@@ -1426,7 +1426,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2012|GTI": {
       "engine": "CDLF 2.0T TSI I4",
@@ -1447,7 +1447,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2012|R": {
       "engine": "CDLH 2.0T TSI AWD I4",
@@ -1468,7 +1468,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2012|103TDI Highline": {
       "engine": "CBDB 2.0L TDI I4",
@@ -1489,7 +1489,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Golf|2013|77TSI Comfortline": {
       "engine": "CAXA 1.4T TSI I4",
@@ -1510,7 +1510,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2013|118TSI Highline": {
       "engine": "CAWB 2.0T TSI I4",
@@ -1531,7 +1531,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2013|GTI": {
       "engine": "CHHA 2.0T TSI I4",
@@ -1552,7 +1552,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2013|R": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -1573,7 +1573,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2013|103TDI Highline": {
       "engine": "CBDB 2.0L TDI I4",
@@ -1594,7 +1594,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Golf|2013|90TSI Trendline": {
       "engine": "CPVA 1.4T TSI I4",
@@ -1615,7 +1615,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2013|90TSI Comfortline": {
       "engine": "CPVA 1.4T TSI I4",
@@ -1636,7 +1636,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2013|110TSI Highline": {
       "engine": "CPTA 1.4T TSI I4",
@@ -1657,7 +1657,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2013|110TDI Highline": {
       "engine": "CRKB 2.0L TDI I4",
@@ -1678,7 +1678,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Golf|2014|90TSI Trendline": {
       "engine": "CPVA 1.4T TSI I4",
@@ -1699,7 +1699,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2014|90TSI Comfortline": {
       "engine": "CPVA 1.4T TSI I4",
@@ -1720,7 +1720,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2014|110TSI Highline": {
       "engine": "CPTA 1.4T TSI I4",
@@ -1741,7 +1741,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2014|GTI": {
       "engine": "CHHA 2.0T TSI I4",
@@ -1762,7 +1762,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2014|R": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -1783,7 +1783,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2014|110TDI Highline": {
       "engine": "CRKB 2.0L TDI I4",
@@ -1804,7 +1804,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Golf|2015|90TSI Trendline": {
       "engine": "CPVA 1.4T TSI I4",
@@ -1825,7 +1825,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2015|90TSI Comfortline": {
       "engine": "CPVA 1.4T TSI I4",
@@ -1846,7 +1846,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2015|110TSI Highline": {
       "engine": "CPTA 1.4T TSI I4",
@@ -1867,7 +1867,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2015|GTI": {
       "engine": "CHHA 2.0T TSI I4",
@@ -1888,7 +1888,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2015|R": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -1909,7 +1909,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2015|110TDI Highline": {
       "engine": "CRKB 2.0L TDI I4",
@@ -1930,7 +1930,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Golf|2016|90TSI Trendline": {
       "engine": "CPVA 1.4T TSI I4",
@@ -1951,7 +1951,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2016|90TSI Comfortline": {
       "engine": "CPVA 1.4T TSI I4",
@@ -1972,7 +1972,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2016|110TSI Highline": {
       "engine": "CPTA 1.4T TSI I4",
@@ -1993,7 +1993,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2016|GTI": {
       "engine": "CHHA 2.0T TSI I4",
@@ -2014,7 +2014,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2016|R": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -2035,7 +2035,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2016|110TDI Highline": {
       "engine": "CRKB 2.0L TDI I4",
@@ -2056,7 +2056,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Golf|2017|90TSI Trendline": {
       "engine": "CPVA 1.4T TSI I4",
@@ -2077,7 +2077,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2017|90TSI Comfortline": {
       "engine": "CPVA 1.4T TSI I4",
@@ -2098,7 +2098,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2017|110TSI Highline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -2119,7 +2119,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2017|GTI": {
       "engine": "DLBA 2.0T TSI I4",
@@ -2140,7 +2140,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2017|R": {
       "engine": "DLHB 2.0T TSI AWD I4",
@@ -2161,7 +2161,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2017|110TDI Highline": {
       "engine": "CRKB 2.0L TDI I4",
@@ -2182,7 +2182,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Golf|2017|70TSI Trendline": {
       "engine": "DKRF 1.0T TSI I3",
@@ -2203,7 +2203,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2017|110TSI Comfortline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -2224,7 +2224,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2017|GTI Performance": {
       "engine": "DLBA 2.0T TSI I4",
@@ -2245,7 +2245,7 @@
       "acceleration": 6.2,
       "topSpeed": 250,
       "quarterMile": "~14.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2018|70TSI Trendline": {
       "engine": "DKRF 1.0T TSI I3",
@@ -2266,7 +2266,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2018|110TSI Comfortline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -2287,7 +2287,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2018|110TSI Highline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -2308,7 +2308,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2018|GTI": {
       "engine": "DLBA 2.0T TSI I4",
@@ -2329,7 +2329,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2018|GTI Performance": {
       "engine": "DLBA 2.0T TSI I4",
@@ -2350,7 +2350,7 @@
       "acceleration": 6.2,
       "topSpeed": 250,
       "quarterMile": "~14.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2018|R": {
       "engine": "DLHB 2.0T TSI AWD I4",
@@ -2371,7 +2371,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2019|70TSI Trendline": {
       "engine": "DKRF 1.0T TSI I3",
@@ -2392,7 +2392,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2019|110TSI Comfortline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -2413,7 +2413,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2019|110TSI Highline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -2434,7 +2434,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2019|GTI": {
       "engine": "DLBA 2.0T TSI I4",
@@ -2455,7 +2455,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2019|GTI Performance": {
       "engine": "DLBA 2.0T TSI I4",
@@ -2476,7 +2476,7 @@
       "acceleration": 6.2,
       "topSpeed": 250,
       "quarterMile": "~14.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2019|R": {
       "engine": "DLHB 2.0T TSI AWD I4",
@@ -2497,7 +2497,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2020|70TSI Trendline": {
       "engine": "DKRF 1.0T TSI I3",
@@ -2518,7 +2518,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2020|110TSI Comfortline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -2539,7 +2539,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2020|110TSI Highline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -2560,7 +2560,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2020|GTI": {
       "engine": "DLBA 2.0T TSI I4",
@@ -2581,7 +2581,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2020|GTI Performance": {
       "engine": "DLBA 2.0T TSI I4",
@@ -2602,7 +2602,7 @@
       "acceleration": 6.2,
       "topSpeed": 250,
       "quarterMile": "~14.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2020|R": {
       "engine": "DLHB 2.0T TSI AWD I4",
@@ -2623,7 +2623,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2021|70TSI Life": {
       "engine": "DKRF 1.0T TSI I3",
@@ -2644,7 +2644,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2021|110TSI Life": {
       "engine": "DKZA 1.4T TSI I4",
@@ -2665,7 +2665,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2021|GTI": {
       "engine": "DLBA 2.0T TSI I4",
@@ -2686,7 +2686,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2021|GTI Clubsport": {
       "engine": "DLBA 2.0T TSI I4",
@@ -2707,7 +2707,7 @@
       "acceleration": 5.7,
       "topSpeed": 250,
       "quarterMile": "~14.1 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2021|R": {
       "engine": "DLHB 2.0T TSI AWD I4",
@@ -2728,7 +2728,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2022|70TSI Life": {
       "engine": "DKRF 1.0T TSI I3",
@@ -2749,7 +2749,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2022|110TSI Life": {
       "engine": "DKZA 1.4T TSI I4",
@@ -2770,7 +2770,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2022|GTI": {
       "engine": "DLBA 2.0T TSI I4",
@@ -2791,7 +2791,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2022|GTI Clubsport": {
       "engine": "DLBA 2.0T TSI I4",
@@ -2812,7 +2812,7 @@
       "acceleration": 5.7,
       "topSpeed": 250,
       "quarterMile": "~14.1 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2022|R": {
       "engine": "DLHB 2.0T TSI AWD I4",
@@ -2833,7 +2833,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2023|70TSI Life": {
       "engine": "DKRF 1.0T TSI I3",
@@ -2854,7 +2854,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2023|110TSI Life": {
       "engine": "DKZA 1.4T TSI I4",
@@ -2875,7 +2875,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2023|GTI": {
       "engine": "DLBA 2.0T TSI I4",
@@ -2896,7 +2896,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2023|GTI Clubsport": {
       "engine": "DLBA 2.0T TSI I4",
@@ -2917,7 +2917,7 @@
       "acceleration": 5.7,
       "topSpeed": 250,
       "quarterMile": "~14.1 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2023|R": {
       "engine": "DLHB 2.0T TSI AWD I4",
@@ -2938,7 +2938,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2024|70TSI Life": {
       "engine": "DKRF 1.0T TSI I3",
@@ -2959,7 +2959,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2024|110TSI Life": {
       "engine": "DKZA 1.4T TSI I4",
@@ -2980,7 +2980,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2024|GTI": {
       "engine": "DLBA 2.0T TSI I4",
@@ -3001,7 +3001,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2024|GTI Clubsport": {
       "engine": "DLBA 2.0T TSI I4",
@@ -3022,7 +3022,7 @@
       "acceleration": 5.7,
       "topSpeed": 250,
       "quarterMile": "~14.1 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2024|R": {
       "engine": "DLHB 2.0T TSI AWD I4",
@@ -3043,7 +3043,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2025|70TSI Life": {
       "engine": "DKRF 1.0T TSI I3",
@@ -3064,7 +3064,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2025|110TSI Life": {
       "engine": "DKZA 1.4T TSI I4",
@@ -3085,7 +3085,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2025|GTI": {
       "engine": "DLBA 2.0T TSI I4",
@@ -3106,7 +3106,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2025|GTI Clubsport": {
       "engine": "DLBA 2.0T TSI I4",
@@ -3127,7 +3127,7 @@
       "acceleration": 5.7,
       "topSpeed": 250,
       "quarterMile": "~14.1 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2025|R": {
       "engine": "DLHB 2.0T TSI AWD I4",
@@ -3148,7 +3148,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2026|70TSI Life": {
       "engine": "DKRF 1.0T TSI I3",
@@ -3169,7 +3169,7 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2026|110TSI Life": {
       "engine": "DKZA 1.4T TSI I4",
@@ -3190,7 +3190,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2026|GTI": {
       "engine": "DLBA 2.0T TSI I4",
@@ -3211,7 +3211,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "quarterMile": "~14.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2026|GTI Clubsport": {
       "engine": "DLBA 2.0T TSI I4",
@@ -3232,7 +3232,7 @@
       "acceleration": 5.7,
       "topSpeed": 250,
       "quarterMile": "~14.1 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2026|R": {
       "engine": "DLHB 2.0T TSI AWD I4",
@@ -3253,7 +3253,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2013|110TSI Comfortline": {
       "engine": "CPVA 1.4T TSI I4",
@@ -3274,7 +3274,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2013|110TSI Highline": {
       "engine": "CPVA 1.4T TSI I4",
@@ -3295,7 +3295,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2013|103TDI Highline": {
       "engine": "CRKB 2.0L TDI I4",
@@ -3316,7 +3316,7 @@
       "acceleration": 10.5,
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Golf Wagon|2014|110TSI Comfortline": {
       "engine": "CPVA 1.4T TSI I4",
@@ -3337,7 +3337,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2014|110TSI Highline": {
       "engine": "CPVA 1.4T TSI I4",
@@ -3358,7 +3358,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2014|103TDI Highline": {
       "engine": "CRKB 2.0L TDI I4",
@@ -3379,7 +3379,7 @@
       "acceleration": 10.5,
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Golf Wagon|2015|110TSI Comfortline": {
       "engine": "CPVA 1.4T TSI I4",
@@ -3400,7 +3400,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2015|110TSI Highline": {
       "engine": "CPVA 1.4T TSI I4",
@@ -3421,7 +3421,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2015|103TDI Highline": {
       "engine": "CRKB 2.0L TDI I4",
@@ -3442,7 +3442,7 @@
       "acceleration": 10.5,
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Golf Wagon|2016|110TSI Comfortline": {
       "engine": "CPVA 1.4T TSI I4",
@@ -3463,7 +3463,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2016|110TSI Highline": {
       "engine": "CPVA 1.4T TSI I4",
@@ -3484,7 +3484,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2016|103TDI Highline": {
       "engine": "CRKB 2.0L TDI I4",
@@ -3505,7 +3505,7 @@
       "acceleration": 10.5,
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Golf Wagon|2017|110TSI Comfortline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -3526,7 +3526,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2017|110TSI Highline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -3547,7 +3547,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2017|103TDI Highline": {
       "engine": "CRKB 2.0L TDI I4",
@@ -3568,7 +3568,7 @@
       "acceleration": 10.5,
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Golf Wagon|2018|110TSI Comfortline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -3589,7 +3589,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2018|110TSI Highline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -3610,7 +3610,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2019|110TSI Comfortline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -3631,7 +3631,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2019|110TSI Highline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -3652,7 +3652,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2020|110TSI Comfortline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -3673,7 +3673,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2020|110TSI Highline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -3694,7 +3694,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2021|110TSI Life": {
       "engine": "DKZA 1.4T TSI I4",
@@ -3715,7 +3715,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2021|110TSI Style": {
       "engine": "DKZA 1.4T TSI I4",
@@ -3736,7 +3736,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2021|R": {
       "engine": "DLHB 2.0T TSI AWD I4",
@@ -3757,7 +3757,7 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "quarterMile": "~13.6 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2022|110TSI Life": {
       "engine": "DKZA 1.4T TSI I4",
@@ -3778,7 +3778,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2022|110TSI Style": {
       "engine": "DKZA 1.4T TSI I4",
@@ -3799,7 +3799,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2022|R": {
       "engine": "DLHB 2.0T TSI AWD I4",
@@ -3820,7 +3820,7 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "quarterMile": "~13.6 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2023|110TSI Life": {
       "engine": "DKZA 1.4T TSI I4",
@@ -3841,7 +3841,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2023|110TSI Style": {
       "engine": "DKZA 1.4T TSI I4",
@@ -3862,7 +3862,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2023|R": {
       "engine": "DLHB 2.0T TSI AWD I4",
@@ -3883,7 +3883,7 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "quarterMile": "~13.6 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2024|110TSI Life": {
       "engine": "DKZA 1.4T TSI I4",
@@ -3904,7 +3904,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2024|110TSI Style": {
       "engine": "DKZA 1.4T TSI I4",
@@ -3925,7 +3925,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2024|R": {
       "engine": "DLHB 2.0T TSI AWD I4",
@@ -3946,7 +3946,7 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "quarterMile": "~13.6 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2025|110TSI Life": {
       "engine": "DKZA 1.4T TSI I4",
@@ -3967,7 +3967,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2025|110TSI Style": {
       "engine": "DKZA 1.4T TSI I4",
@@ -3988,7 +3988,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2025|R": {
       "engine": "DLHB 2.0T TSI AWD I4",
@@ -4009,7 +4009,7 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "quarterMile": "~13.6 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2026|110TSI Life": {
       "engine": "DKZA 1.4T TSI I4",
@@ -4030,7 +4030,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2026|110TSI Style": {
       "engine": "DKZA 1.4T TSI I4",
@@ -4051,7 +4051,7 @@
       "acceleration": 9,
       "topSpeed": 208,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf Wagon|2026|R": {
       "engine": "DLHB 2.0T TSI AWD I4",
@@ -4072,7 +4072,7 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "quarterMile": "~13.6 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2005|Trendline": {
       "engine": "BBY 1.4L MPI I4",
@@ -4177,7 +4177,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2007|Trendline": {
       "engine": "BBY 1.4L MPI I4",
@@ -4240,7 +4240,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2008|Trendline": {
       "engine": "BBY 1.4L MPI I4",
@@ -4303,7 +4303,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2009|Trendline": {
       "engine": "BBY 1.4L MPI I4",
@@ -4366,7 +4366,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2009|66TSI Trendline": {
       "engine": "CBZA 1.2T TSI I4",
@@ -4387,7 +4387,7 @@
       "acceleration": 10.8,
       "topSpeed": 183,
       "quarterMile": "~18.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2009|81TSI Comfortline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -4408,7 +4408,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2009|81TSI Highline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -4429,7 +4429,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2010|66TSI Trendline": {
       "engine": "CBZA 1.2T TSI I4",
@@ -4450,7 +4450,7 @@
       "acceleration": 10.8,
       "topSpeed": 183,
       "quarterMile": "~18.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2010|81TSI Comfortline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -4471,7 +4471,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2010|81TSI Highline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -4492,7 +4492,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2010|GTI": {
       "engine": "CAVE 1.4T TSI I4",
@@ -4513,7 +4513,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2011|66TSI Trendline": {
       "engine": "CBZA 1.2T TSI I4",
@@ -4534,7 +4534,7 @@
       "acceleration": 10.8,
       "topSpeed": 183,
       "quarterMile": "~18.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2011|81TSI Comfortline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -4555,7 +4555,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2011|81TSI Highline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -4576,7 +4576,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2011|GTI": {
       "engine": "CAVE 1.4T TSI I4",
@@ -4597,7 +4597,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2012|66TSI Trendline": {
       "engine": "CBZA 1.2T TSI I4",
@@ -4618,7 +4618,7 @@
       "acceleration": 10.8,
       "topSpeed": 183,
       "quarterMile": "~18.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2012|81TSI Comfortline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -4639,7 +4639,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2012|81TSI Highline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -4660,7 +4660,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2012|GTI": {
       "engine": "CAVE 1.4T TSI I4",
@@ -4681,7 +4681,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2013|66TSI Trendline": {
       "engine": "CBZA 1.2T TSI I4",
@@ -4702,7 +4702,7 @@
       "acceleration": 10.8,
       "topSpeed": 183,
       "quarterMile": "~18.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2013|81TSI Comfortline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -4723,7 +4723,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2013|81TSI Highline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -4744,7 +4744,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2013|GTI": {
       "engine": "CAVE 1.4T TSI I4",
@@ -4765,7 +4765,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2014|66TSI Trendline": {
       "engine": "CBZA 1.2T TSI I4",
@@ -4786,7 +4786,7 @@
       "acceleration": 10.8,
       "topSpeed": 183,
       "quarterMile": "~18.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2014|81TSI Comfortline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -4807,7 +4807,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2014|81TSI Highline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -4828,7 +4828,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2014|GTI": {
       "engine": "CAVE 1.4T TSI I4",
@@ -4849,7 +4849,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2015|66TSI Trendline": {
       "engine": "CBZA 1.2T TSI I4",
@@ -4870,7 +4870,7 @@
       "acceleration": 10.8,
       "topSpeed": 183,
       "quarterMile": "~18.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2015|81TSI Comfortline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -4891,7 +4891,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2015|81TSI Highline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -4912,7 +4912,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2015|GTI": {
       "engine": "CAVE 1.4T TSI I4",
@@ -4933,7 +4933,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2016|66TSI Trendline": {
       "engine": "CBZA 1.2T TSI I4",
@@ -4954,7 +4954,7 @@
       "acceleration": 10.8,
       "topSpeed": 183,
       "quarterMile": "~18.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2016|81TSI Comfortline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -4975,7 +4975,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2016|81TSI Highline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -4996,7 +4996,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2016|GTI": {
       "engine": "CAVE 1.4T TSI I4",
@@ -5017,7 +5017,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2017|66TSI Trendline": {
       "engine": "CBZA 1.2T TSI I4",
@@ -5038,7 +5038,7 @@
       "acceleration": 10.8,
       "topSpeed": 183,
       "quarterMile": "~18.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2017|81TSI Comfortline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -5059,7 +5059,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2017|81TSI Highline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -5080,7 +5080,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2017|GTI": {
       "engine": "CAVE 1.4T TSI I4",
@@ -5101,7 +5101,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2018|70TSI Trendline": {
       "engine": "DKRF 1.0T TSI I3",
@@ -5122,7 +5122,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2018|85TSI Comfortline": {
       "engine": "DKLA 1.0T TSI I3",
@@ -5143,7 +5143,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2018|GTI": {
       "engine": "DPCE 2.0T TSI I4",
@@ -5164,7 +5164,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2019|70TSI Trendline": {
       "engine": "DKRF 1.0T TSI I3",
@@ -5185,7 +5185,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2019|85TSI Comfortline": {
       "engine": "DKLA 1.0T TSI I3",
@@ -5206,7 +5206,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2019|GTI": {
       "engine": "DPCE 2.0T TSI I4",
@@ -5227,7 +5227,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2020|70TSI Trendline": {
       "engine": "DKRF 1.0T TSI I3",
@@ -5248,7 +5248,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2020|85TSI Comfortline": {
       "engine": "DKLA 1.0T TSI I3",
@@ -5269,7 +5269,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2020|GTI": {
       "engine": "DPCE 2.0T TSI I4",
@@ -5290,7 +5290,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2021|70TSI Trendline": {
       "engine": "DKRF 1.0T TSI I3",
@@ -5311,7 +5311,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2021|85TSI Comfortline": {
       "engine": "DKLA 1.0T TSI I3",
@@ -5332,7 +5332,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2021|GTI": {
       "engine": "DPCE 2.0T TSI I4",
@@ -5353,7 +5353,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2022|70TSI Trendline": {
       "engine": "DKRF 1.0T TSI I3",
@@ -5374,7 +5374,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2022|85TSI Comfortline": {
       "engine": "DKLA 1.0T TSI I3",
@@ -5395,7 +5395,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2022|GTI": {
       "engine": "DPCE 2.0T TSI I4",
@@ -5416,7 +5416,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2023|70TSI Trendline": {
       "engine": "DKRF 1.0T TSI I3",
@@ -5437,7 +5437,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2023|85TSI Comfortline": {
       "engine": "DKLA 1.0T TSI I3",
@@ -5458,7 +5458,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2023|GTI": {
       "engine": "DPCE 2.0T TSI I4",
@@ -5479,7 +5479,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2024|70TSI Trendline": {
       "engine": "DKRF 1.0T TSI I3",
@@ -5500,7 +5500,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2024|85TSI Comfortline": {
       "engine": "DKLA 1.0T TSI I3",
@@ -5521,7 +5521,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2024|GTI": {
       "engine": "DPCE 2.0T TSI I4",
@@ -5542,7 +5542,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2025|70TSI Trendline": {
       "engine": "DKRF 1.0T TSI I3",
@@ -5563,7 +5563,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2025|85TSI Comfortline": {
       "engine": "DKLA 1.0T TSI I3",
@@ -5584,7 +5584,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2025|GTI": {
       "engine": "DPCE 2.0T TSI I4",
@@ -5605,7 +5605,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2026|70TSI Trendline": {
       "engine": "DKRF 1.0T TSI I3",
@@ -5626,7 +5626,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2026|85TSI Comfortline": {
       "engine": "DKLA 1.0T TSI I3",
@@ -5647,7 +5647,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "quarterMile": "~19.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2026|GTI": {
       "engine": "DPCE 2.0T TSI I4",
@@ -5668,7 +5668,7 @@
       "acceleration": 6.7,
       "topSpeed": 232,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2006|2.0T FSI Comfortline": {
       "engine": "BPY 2.0T FSI I4",
@@ -5689,7 +5689,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2006|2.0T FSI Highline": {
       "engine": "BPY 2.0T FSI I4",
@@ -5710,7 +5710,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2006|3.2 V6 FSI 4Motion": {
       "engine": "BUB 3.2L V6 FSI AWD",
@@ -5752,7 +5752,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2007|2.0T FSI Comfortline": {
       "engine": "BPY 2.0T FSI I4",
@@ -5773,7 +5773,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2007|2.0T FSI Highline": {
       "engine": "BPY 2.0T FSI I4",
@@ -5794,7 +5794,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2007|3.2 V6 FSI 4Motion": {
       "engine": "BUB 3.2L V6 FSI AWD",
@@ -5836,7 +5836,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2008|2.0T FSI Comfortline": {
       "engine": "BPY 2.0T FSI I4",
@@ -5857,7 +5857,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2008|2.0T FSI Highline": {
       "engine": "BPY 2.0T FSI I4",
@@ -5878,7 +5878,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2008|3.2 V6 FSI 4Motion": {
       "engine": "BUB 3.2L V6 FSI AWD",
@@ -5920,7 +5920,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2009|2.0T FSI Comfortline": {
       "engine": "BPY 2.0T FSI I4",
@@ -5941,7 +5941,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2009|2.0T FSI Highline": {
       "engine": "BPY 2.0T FSI I4",
@@ -5962,7 +5962,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2009|3.2 V6 FSI 4Motion": {
       "engine": "BUB 3.2L V6 FSI AWD",
@@ -6004,7 +6004,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2010|2.0T FSI Comfortline": {
       "engine": "BPY 2.0T FSI I4",
@@ -6025,7 +6025,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2010|2.0T FSI Highline": {
       "engine": "BPY 2.0T FSI I4",
@@ -6046,7 +6046,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2010|3.2 V6 FSI 4Motion": {
       "engine": "BUB 3.2L V6 FSI AWD",
@@ -6088,7 +6088,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2011|118TSI Comfortline": {
       "engine": "CAXA 1.8T TSI I4",
@@ -6109,7 +6109,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2011|132TSI Highline": {
       "engine": "CCZA 2.0T TSI I4",
@@ -6130,7 +6130,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2011|103TDI Comfortline": {
       "engine": "CFGB 2.0L TDI I4",
@@ -6151,7 +6151,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2011|140TDI Highline": {
       "engine": "CFFB 2.0L TDI I4",
@@ -6172,7 +6172,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2012|118TSI Comfortline": {
       "engine": "CAXA 1.8T TSI I4",
@@ -6193,7 +6193,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2012|132TSI Highline": {
       "engine": "CCZA 2.0T TSI I4",
@@ -6214,7 +6214,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2012|103TDI Comfortline": {
       "engine": "CFGB 2.0L TDI I4",
@@ -6235,7 +6235,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2012|140TDI Highline": {
       "engine": "CFFB 2.0L TDI I4",
@@ -6256,7 +6256,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2013|118TSI Comfortline": {
       "engine": "CAXA 1.8T TSI I4",
@@ -6277,7 +6277,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2013|132TSI Highline": {
       "engine": "CCZA 2.0T TSI I4",
@@ -6298,7 +6298,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2013|103TDI Comfortline": {
       "engine": "CFGB 2.0L TDI I4",
@@ -6319,7 +6319,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2013|140TDI Highline": {
       "engine": "CFFB 2.0L TDI I4",
@@ -6340,7 +6340,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2014|118TSI Comfortline": {
       "engine": "CAXA 1.8T TSI I4",
@@ -6361,7 +6361,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2014|132TSI Highline": {
       "engine": "CCZA 2.0T TSI I4",
@@ -6382,7 +6382,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2014|103TDI Comfortline": {
       "engine": "CFGB 2.0L TDI I4",
@@ -6403,7 +6403,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2014|140TDI Highline": {
       "engine": "CFFB 2.0L TDI I4",
@@ -6424,7 +6424,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2015|118TSI Comfortline": {
       "engine": "CAXA 1.8T TSI I4",
@@ -6445,7 +6445,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2015|132TSI Highline": {
       "engine": "CCZA 2.0T TSI I4",
@@ -6466,7 +6466,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2015|103TDI Comfortline": {
       "engine": "CFGB 2.0L TDI I4",
@@ -6487,7 +6487,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2015|140TDI Highline": {
       "engine": "CFFB 2.0L TDI I4",
@@ -6508,7 +6508,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2016|132TSI Comfortline": {
       "engine": "CZPA 1.8T TSI I4",
@@ -6529,7 +6529,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2016|162TSI Highline": {
       "engine": "CJS 2.0T TSI I4",
@@ -6550,7 +6550,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2016|140TDI Comfortline": {
       "engine": "DFFA 2.0L TDI I4",
@@ -6571,7 +6571,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2016|206TDI Alltrack": {
       "engine": "DFHA 2.0L TDI AWD I4",
@@ -6592,7 +6592,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2017|132TSI Comfortline": {
       "engine": "CZPA 1.8T TSI I4",
@@ -6613,7 +6613,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2017|162TSI Highline": {
       "engine": "CJS 2.0T TSI I4",
@@ -6634,7 +6634,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2017|140TDI Comfortline": {
       "engine": "DFFA 2.0L TDI I4",
@@ -6655,7 +6655,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2017|206TDI Alltrack": {
       "engine": "DFHA 2.0L TDI AWD I4",
@@ -6676,7 +6676,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2018|132TSI Comfortline": {
       "engine": "CZPA 1.8T TSI I4",
@@ -6697,7 +6697,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2018|162TSI Highline": {
       "engine": "CJS 2.0T TSI I4",
@@ -6718,7 +6718,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2018|140TDI Comfortline": {
       "engine": "DFFA 2.0L TDI I4",
@@ -6739,7 +6739,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2018|206TDI Alltrack": {
       "engine": "DFHA 2.0L TDI AWD I4",
@@ -6760,7 +6760,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2019|132TSI Comfortline": {
       "engine": "CZPA 1.8T TSI I4",
@@ -6781,7 +6781,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2019|162TSI Highline": {
       "engine": "CJS 2.0T TSI I4",
@@ -6802,7 +6802,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2019|140TDI Comfortline": {
       "engine": "DFFA 2.0L TDI I4",
@@ -6823,7 +6823,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2019|206TDI Alltrack": {
       "engine": "DFHA 2.0L TDI AWD I4",
@@ -6844,7 +6844,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2020|132TSI Comfortline": {
       "engine": "CZPA 1.8T TSI I4",
@@ -6865,7 +6865,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2020|162TSI Highline": {
       "engine": "CJS 2.0T TSI I4",
@@ -6886,7 +6886,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2020|140TDI Comfortline": {
       "engine": "DFFA 2.0L TDI I4",
@@ -6907,7 +6907,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2020|206TDI Alltrack": {
       "engine": "DFHA 2.0L TDI AWD I4",
@@ -6928,7 +6928,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2021|132TSI Comfortline": {
       "engine": "CZPA 1.8T TSI I4",
@@ -6949,7 +6949,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2021|162TSI Highline": {
       "engine": "CJS 2.0T TSI I4",
@@ -6970,7 +6970,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2021|140TDI Comfortline": {
       "engine": "DFFA 2.0L TDI I4",
@@ -6991,7 +6991,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2021|206TDI Alltrack": {
       "engine": "DFHA 2.0L TDI AWD I4",
@@ -7012,7 +7012,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2022|132TSI Comfortline": {
       "engine": "CZPA 1.8T TSI I4",
@@ -7033,7 +7033,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2022|162TSI Highline": {
       "engine": "CJS 2.0T TSI I4",
@@ -7054,7 +7054,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2022|140TDI Comfortline": {
       "engine": "DFFA 2.0L TDI I4",
@@ -7075,7 +7075,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2022|206TDI Alltrack": {
       "engine": "DFHA 2.0L TDI AWD I4",
@@ -7096,7 +7096,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2023|132TSI Comfortline": {
       "engine": "CZPA 1.8T TSI I4",
@@ -7117,7 +7117,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2023|162TSI Highline": {
       "engine": "CJS 2.0T TSI I4",
@@ -7138,7 +7138,7 @@
       "acceleration": 9,
       "topSpeed": 215,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2023|140TDI Comfortline": {
       "engine": "DFFA 2.0L TDI I4",
@@ -7159,7 +7159,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Passat|2023|206TDI Alltrack": {
       "engine": "DFHA 2.0L TDI AWD I4",
@@ -7180,7 +7180,7 @@
       "acceleration": 9.5,
       "topSpeed": 213,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2008|118TSI Comfortline": {
       "engine": "CAWA 1.8T TSI I4",
@@ -7201,7 +7201,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2008|132TSI Highline": {
       "engine": "CCZA 2.0T TSI AWD I4",
@@ -7222,7 +7222,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2008|103TDI Comfortline": {
       "engine": "CFGB 2.0L TDI AWD I4",
@@ -7243,7 +7243,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2009|118TSI Comfortline": {
       "engine": "CAWA 1.8T TSI I4",
@@ -7264,7 +7264,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2009|132TSI Highline": {
       "engine": "CCZA 2.0T TSI AWD I4",
@@ -7285,7 +7285,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2009|103TDI Comfortline": {
       "engine": "CFGB 2.0L TDI AWD I4",
@@ -7306,7 +7306,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2010|118TSI Comfortline": {
       "engine": "CAWA 1.8T TSI I4",
@@ -7327,7 +7327,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2010|132TSI Highline": {
       "engine": "CCZA 2.0T TSI AWD I4",
@@ -7348,7 +7348,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2010|103TDI Comfortline": {
       "engine": "CFGB 2.0L TDI AWD I4",
@@ -7369,7 +7369,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2011|118TSI Comfortline": {
       "engine": "CAWA 1.8T TSI I4",
@@ -7390,7 +7390,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2011|132TSI Highline": {
       "engine": "CCZA 2.0T TSI AWD I4",
@@ -7411,7 +7411,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2011|103TDI Comfortline": {
       "engine": "CFGB 2.0L TDI AWD I4",
@@ -7432,7 +7432,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2012|118TSI Comfortline": {
       "engine": "CAWA 1.8T TSI I4",
@@ -7453,7 +7453,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2012|132TSI Highline": {
       "engine": "CCZA 2.0T TSI AWD I4",
@@ -7474,7 +7474,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2012|103TDI Comfortline": {
       "engine": "CFGB 2.0L TDI AWD I4",
@@ -7495,7 +7495,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2013|118TSI Comfortline": {
       "engine": "CAWA 1.8T TSI I4",
@@ -7516,7 +7516,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2013|132TSI Highline": {
       "engine": "CCZA 2.0T TSI AWD I4",
@@ -7537,7 +7537,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2013|103TDI Comfortline": {
       "engine": "CFGB 2.0L TDI AWD I4",
@@ -7558,7 +7558,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2014|118TSI Comfortline": {
       "engine": "CAWA 1.8T TSI I4",
@@ -7579,7 +7579,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2014|132TSI Highline": {
       "engine": "CCZA 2.0T TSI AWD I4",
@@ -7600,7 +7600,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2014|103TDI Comfortline": {
       "engine": "CFGB 2.0L TDI AWD I4",
@@ -7621,7 +7621,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2015|118TSI Comfortline": {
       "engine": "CAWA 1.8T TSI I4",
@@ -7642,7 +7642,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2015|132TSI Highline": {
       "engine": "CCZA 2.0T TSI AWD I4",
@@ -7663,7 +7663,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2015|103TDI Comfortline": {
       "engine": "CFGB 2.0L TDI AWD I4",
@@ -7684,7 +7684,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2016|118TSI Comfortline": {
       "engine": "CAWA 1.8T TSI I4",
@@ -7705,7 +7705,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2016|132TSI Highline": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -7726,7 +7726,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2016|103TDI Comfortline": {
       "engine": "CFGB 2.0L TDI AWD I4",
@@ -7747,7 +7747,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2016|110TSI Comfortline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -7768,7 +7768,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2016|162TSI Sportline": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -7789,7 +7789,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2016|162TSI R-Line": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -7810,7 +7810,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2016|140TDI Highline": {
       "engine": "DFFA 2.0L TDI AWD I4",
@@ -7831,7 +7831,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2017|110TSI Comfortline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -7852,7 +7852,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2017|132TSI Highline": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -7873,7 +7873,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2017|162TSI Sportline": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -7894,7 +7894,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2017|162TSI R-Line": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -7915,7 +7915,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2017|140TDI Highline": {
       "engine": "DFFA 2.0L TDI AWD I4",
@@ -7936,7 +7936,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2018|110TSI Comfortline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -7957,7 +7957,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2018|132TSI Highline": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -7978,7 +7978,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2018|162TSI Sportline": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -7999,7 +7999,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2018|162TSI R-Line": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -8020,7 +8020,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2018|140TDI Highline": {
       "engine": "DFFA 2.0L TDI AWD I4",
@@ -8041,7 +8041,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2018|Allspace 132TSI": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -8062,7 +8062,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2018|Allspace 162TSI": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -8083,7 +8083,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2019|110TSI Comfortline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -8104,7 +8104,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2019|132TSI Highline": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -8125,7 +8125,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2019|162TSI Sportline": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -8146,7 +8146,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2019|162TSI R-Line": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -8167,7 +8167,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2019|140TDI Highline": {
       "engine": "DFFA 2.0L TDI AWD I4",
@@ -8188,7 +8188,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2019|Allspace 132TSI": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -8209,7 +8209,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2019|Allspace 162TSI": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -8230,7 +8230,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2020|110TSI Comfortline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -8251,7 +8251,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2020|132TSI Highline": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -8272,7 +8272,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2020|162TSI Sportline": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -8293,7 +8293,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2020|162TSI R-Line": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -8314,7 +8314,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2020|140TDI Highline": {
       "engine": "DFFA 2.0L TDI AWD I4",
@@ -8335,7 +8335,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2020|Allspace 132TSI": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -8356,7 +8356,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2020|Allspace 162TSI": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -8377,7 +8377,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2021|110TSI Comfortline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -8398,7 +8398,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2021|132TSI Highline": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -8419,7 +8419,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2021|162TSI Sportline": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -8440,7 +8440,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2021|162TSI R-Line": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -8461,7 +8461,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2021|140TDI Highline": {
       "engine": "DFFA 2.0L TDI AWD I4",
@@ -8482,7 +8482,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2021|Allspace 132TSI": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -8503,7 +8503,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2021|Allspace 162TSI": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -8524,7 +8524,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2022|110TSI Comfortline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -8545,7 +8545,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2022|132TSI Highline": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -8566,7 +8566,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2022|162TSI Sportline": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -8587,7 +8587,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2022|162TSI R-Line": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -8608,7 +8608,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2022|140TDI Highline": {
       "engine": "DFFA 2.0L TDI AWD I4",
@@ -8629,7 +8629,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2022|Allspace 132TSI": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -8650,7 +8650,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2022|Allspace 162TSI": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -8671,7 +8671,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2023|110TSI Comfortline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -8692,7 +8692,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2023|132TSI Highline": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -8713,7 +8713,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2023|162TSI Sportline": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -8734,7 +8734,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2023|162TSI R-Line": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -8755,7 +8755,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2023|140TDI Highline": {
       "engine": "DFFA 2.0L TDI AWD I4",
@@ -8776,7 +8776,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2023|Allspace 132TSI": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -8797,7 +8797,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2023|Allspace 162TSI": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -8818,7 +8818,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2024|110TSI Comfortline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -8839,7 +8839,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2024|132TSI Highline": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -8860,7 +8860,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2024|162TSI Sportline": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -8881,7 +8881,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2024|162TSI R-Line": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -8902,7 +8902,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2024|140TDI Highline": {
       "engine": "DFFA 2.0L TDI AWD I4",
@@ -8923,7 +8923,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2024|Allspace 132TSI": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -8944,7 +8944,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2024|Allspace 162TSI": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -8965,7 +8965,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2025|110TSI Comfortline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -8986,7 +8986,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2025|132TSI Highline": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -9007,7 +9007,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2025|162TSI Sportline": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -9028,7 +9028,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2025|162TSI R-Line": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -9049,7 +9049,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2025|140TDI Highline": {
       "engine": "DFFA 2.0L TDI AWD I4",
@@ -9070,7 +9070,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2025|Allspace 132TSI": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -9091,7 +9091,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2025|Allspace 162TSI": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -9112,7 +9112,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2026|110TSI Comfortline": {
       "engine": "DKZA 1.4T TSI I4",
@@ -9133,7 +9133,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2026|132TSI Highline": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -9154,7 +9154,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2026|162TSI Sportline": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -9175,7 +9175,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2026|162TSI R-Line": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -9196,7 +9196,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2026|140TDI Highline": {
       "engine": "DFFA 2.0L TDI AWD I4",
@@ -9217,7 +9217,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Tiguan|2026|Allspace 132TSI": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -9238,7 +9238,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2026|Allspace 162TSI": {
       "engine": "DFG 2.0T TSI AWD I4",
@@ -9259,7 +9259,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.7 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Touareg|2003|3.2 V6": {
       "engine": "BKJ 3.2L V6 AWD",
@@ -9322,7 +9322,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2004|3.2 V6": {
       "engine": "BKJ 3.2L V6 AWD",
@@ -9385,7 +9385,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2005|3.2 V6": {
       "engine": "BKJ 3.2L V6 AWD",
@@ -9448,7 +9448,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2006|3.2 V6": {
       "engine": "BKJ 3.2L V6 AWD",
@@ -9511,7 +9511,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2007|3.2 V6": {
       "engine": "BKJ 3.2L V6 AWD",
@@ -9574,7 +9574,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2008|3.2 V6": {
       "engine": "BKJ 3.2L V6 AWD",
@@ -9637,7 +9637,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2009|3.2 V6": {
       "engine": "BKJ 3.2L V6 AWD",
@@ -9700,7 +9700,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2010|3.2 V6": {
       "engine": "BKJ 3.2L V6 AWD",
@@ -9763,7 +9763,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2010|190TSI": {
       "engine": "CGEA 3.6L V6 FSI AWD",
@@ -9805,7 +9805,7 @@
       "acceleration": 9.5,
       "topSpeed": 205,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2010|180TDI": {
       "engine": "CGGA 3.0L V6 TDI AWD",
@@ -9826,7 +9826,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2011|190TSI": {
       "engine": "CGEA 3.6L V6 FSI AWD",
@@ -9868,7 +9868,7 @@
       "acceleration": 9.5,
       "topSpeed": 205,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2011|180TDI": {
       "engine": "CGGA 3.0L V6 TDI AWD",
@@ -9889,7 +9889,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2012|190TSI": {
       "engine": "CGEA 3.6L V6 FSI AWD",
@@ -9931,7 +9931,7 @@
       "acceleration": 9.5,
       "topSpeed": 205,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2012|180TDI": {
       "engine": "CGGA 3.0L V6 TDI AWD",
@@ -9952,7 +9952,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2013|190TSI": {
       "engine": "CGEA 3.6L V6 FSI AWD",
@@ -9994,7 +9994,7 @@
       "acceleration": 9.5,
       "topSpeed": 205,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2013|180TDI": {
       "engine": "CGGA 3.0L V6 TDI AWD",
@@ -10015,7 +10015,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2014|190TSI": {
       "engine": "CGEA 3.6L V6 FSI AWD",
@@ -10057,7 +10057,7 @@
       "acceleration": 9.5,
       "topSpeed": 205,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2014|180TDI": {
       "engine": "CGGA 3.0L V6 TDI AWD",
@@ -10078,7 +10078,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2015|190TSI": {
       "engine": "CGEA 3.6L V6 FSI AWD",
@@ -10120,7 +10120,7 @@
       "acceleration": 9.5,
       "topSpeed": 205,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2015|180TDI": {
       "engine": "CGGA 3.0L V6 TDI AWD",
@@ -10141,7 +10141,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2016|190TSI": {
       "engine": "CGEA 3.6L V6 FSI AWD",
@@ -10183,7 +10183,7 @@
       "acceleration": 9.5,
       "topSpeed": 205,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2016|180TDI": {
       "engine": "CGGA 3.0L V6 TDI AWD",
@@ -10204,7 +10204,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2017|190TSI": {
       "engine": "CGEA 3.6L V6 FSI AWD",
@@ -10246,7 +10246,7 @@
       "acceleration": 9.5,
       "topSpeed": 205,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2017|180TDI": {
       "engine": "CGGA 3.0L V6 TDI AWD",
@@ -10267,7 +10267,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2018|190TSI": {
       "engine": "DGBA 3.0L V6 TSI AWD",
@@ -10288,7 +10288,7 @@
       "acceleration": 7,
       "topSpeed": 220,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Touareg|2018|150TDI": {
       "engine": "CRCA 3.0L V6 TDI AWD",
@@ -10309,7 +10309,7 @@
       "acceleration": 9.5,
       "topSpeed": 205,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2018|180TDI": {
       "engine": "CGGA 3.0L V6 TDI AWD",
@@ -10330,7 +10330,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2018|170TDI": {
       "engine": "DHYB 3.0L V6 TDI AWD",
@@ -10351,7 +10351,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2018|210TDI": {
       "engine": "DMXB 3.0L V6 TDI AWD",
@@ -10372,7 +10372,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2019|190TSI": {
       "engine": "DGBA 3.0L V6 TSI AWD",
@@ -10393,7 +10393,7 @@
       "acceleration": 7,
       "topSpeed": 220,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Touareg|2019|170TDI": {
       "engine": "DHYB 3.0L V6 TDI AWD",
@@ -10414,7 +10414,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2019|210TDI": {
       "engine": "DMXB 3.0L V6 TDI AWD",
@@ -10435,7 +10435,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2020|190TSI": {
       "engine": "DGBA 3.0L V6 TSI AWD",
@@ -10456,7 +10456,7 @@
       "acceleration": 7,
       "topSpeed": 220,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Touareg|2020|170TDI": {
       "engine": "DHYB 3.0L V6 TDI AWD",
@@ -10477,7 +10477,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2020|210TDI": {
       "engine": "DMXB 3.0L V6 TDI AWD",
@@ -10498,7 +10498,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2021|190TSI": {
       "engine": "DGBA 3.0L V6 TSI AWD",
@@ -10519,7 +10519,7 @@
       "acceleration": 7,
       "topSpeed": 220,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Touareg|2021|170TDI": {
       "engine": "DHYB 3.0L V6 TDI AWD",
@@ -10540,7 +10540,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2021|210TDI": {
       "engine": "DMXB 3.0L V6 TDI AWD",
@@ -10561,7 +10561,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2022|190TSI": {
       "engine": "DGBA 3.0L V6 TSI AWD",
@@ -10582,7 +10582,7 @@
       "acceleration": 7,
       "topSpeed": 220,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Touareg|2022|170TDI": {
       "engine": "DHYB 3.0L V6 TDI AWD",
@@ -10603,7 +10603,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2022|210TDI": {
       "engine": "DMXB 3.0L V6 TDI AWD",
@@ -10624,7 +10624,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2023|190TSI": {
       "engine": "DGBA 3.0L V6 TSI AWD",
@@ -10645,7 +10645,7 @@
       "acceleration": 7,
       "topSpeed": 220,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Touareg|2023|170TDI": {
       "engine": "DHYB 3.0L V6 TDI AWD",
@@ -10666,7 +10666,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2023|210TDI": {
       "engine": "DMXB 3.0L V6 TDI AWD",
@@ -10687,7 +10687,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2024|190TSI": {
       "engine": "DGBA 3.0L V6 TSI AWD",
@@ -10708,7 +10708,7 @@
       "acceleration": 7,
       "topSpeed": 220,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Touareg|2024|170TDI": {
       "engine": "DHYB 3.0L V6 TDI AWD",
@@ -10729,7 +10729,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2024|210TDI": {
       "engine": "DMXB 3.0L V6 TDI AWD",
@@ -10750,7 +10750,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2025|190TSI": {
       "engine": "DGBA 3.0L V6 TSI AWD",
@@ -10771,7 +10771,7 @@
       "acceleration": 7,
       "topSpeed": 220,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Touareg|2025|170TDI": {
       "engine": "DHYB 3.0L V6 TDI AWD",
@@ -10792,7 +10792,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2025|210TDI": {
       "engine": "DMXB 3.0L V6 TDI AWD",
@@ -10813,7 +10813,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2026|190TSI": {
       "engine": "DGBA 3.0L V6 TSI AWD",
@@ -10834,7 +10834,7 @@
       "acceleration": 7,
       "topSpeed": 220,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Touareg|2026|170TDI": {
       "engine": "DHYB 3.0L V6 TDI AWD",
@@ -10855,7 +10855,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2026|210TDI": {
       "engine": "DMXB 3.0L V6 TDI AWD",
@@ -10876,7 +10876,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2011|TDI340 Trendline": {
       "engine": "CAEB 2.0L BiTDI AWD I4",
@@ -10897,7 +10897,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2011|TDI400 Sportline": {
       "engine": "CNEA 2.0L BiTDI AWD I4",
@@ -10918,7 +10918,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2012|TDI340 Trendline": {
       "engine": "CAEB 2.0L BiTDI AWD I4",
@@ -10939,7 +10939,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2012|TDI400 Sportline": {
       "engine": "CNEA 2.0L BiTDI AWD I4",
@@ -10960,7 +10960,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2013|TDI340 Trendline": {
       "engine": "CAEB 2.0L BiTDI AWD I4",
@@ -10981,7 +10981,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2013|TDI400 Sportline": {
       "engine": "CNEA 2.0L BiTDI AWD I4",
@@ -11002,7 +11002,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2013|TDI550 Highline": {
       "engine": "CSHA 3.0L V6 TDI AWD",
@@ -11023,7 +11023,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2014|TDI340 Trendline": {
       "engine": "CAEB 2.0L BiTDI AWD I4",
@@ -11044,7 +11044,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2014|TDI400 Sportline": {
       "engine": "CNEA 2.0L BiTDI AWD I4",
@@ -11065,7 +11065,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2014|TDI550 Highline": {
       "engine": "CSHA 3.0L V6 TDI AWD",
@@ -11086,7 +11086,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2015|TDI340 Trendline": {
       "engine": "CAEB 2.0L BiTDI AWD I4",
@@ -11107,7 +11107,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2015|TDI400 Sportline": {
       "engine": "CNEA 2.0L BiTDI AWD I4",
@@ -11128,7 +11128,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2015|TDI550 Highline": {
       "engine": "CSHA 3.0L V6 TDI AWD",
@@ -11149,7 +11149,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2016|TDI340 Trendline": {
       "engine": "CAEB 2.0L BiTDI AWD I4",
@@ -11170,7 +11170,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2016|TDI400 Sportline": {
       "engine": "CNEA 2.0L BiTDI AWD I4",
@@ -11191,7 +11191,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2016|TDI550 Highline": {
       "engine": "CSHA 3.0L V6 TDI AWD",
@@ -11212,7 +11212,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2017|TDI340 Trendline": {
       "engine": "CAEB 2.0L BiTDI AWD I4",
@@ -11233,7 +11233,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2017|TDI400 Sportline": {
       "engine": "CNEA 2.0L BiTDI AWD I4",
@@ -11254,7 +11254,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2017|TDI550 Highline": {
       "engine": "CSHA 3.0L V6 TDI AWD",
@@ -11275,7 +11275,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2017|TDI580 Ultimate": {
       "engine": "CGEA 3.0L V6 TDI AWD",
@@ -11296,7 +11296,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2018|TDI340 Trendline": {
       "engine": "CAEB 2.0L BiTDI AWD I4",
@@ -11317,7 +11317,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2018|TDI400 Sportline": {
       "engine": "CNEA 2.0L BiTDI AWD I4",
@@ -11338,7 +11338,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2018|TDI550 Highline": {
       "engine": "CSHA 3.0L V6 TDI AWD",
@@ -11359,7 +11359,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2018|TDI580 Ultimate": {
       "engine": "CGEA 3.0L V6 TDI AWD",
@@ -11380,7 +11380,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2019|TDI340 Trendline": {
       "engine": "CAEB 2.0L BiTDI AWD I4",
@@ -11401,7 +11401,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2019|TDI400 Sportline": {
       "engine": "CNEA 2.0L BiTDI AWD I4",
@@ -11422,7 +11422,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2019|TDI550 Highline": {
       "engine": "CSHA 3.0L V6 TDI AWD",
@@ -11443,7 +11443,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2019|TDI580 Ultimate": {
       "engine": "CGEA 3.0L V6 TDI AWD",
@@ -11464,7 +11464,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2020|TDI340 Trendline": {
       "engine": "CAEB 2.0L BiTDI AWD I4",
@@ -11485,7 +11485,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2020|TDI400 Sportline": {
       "engine": "CNEA 2.0L BiTDI AWD I4",
@@ -11506,7 +11506,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2020|TDI550 Highline": {
       "engine": "CSHA 3.0L V6 TDI AWD",
@@ -11527,7 +11527,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2020|TDI580 Ultimate": {
       "engine": "CGEA 3.0L V6 TDI AWD",
@@ -11548,7 +11548,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2021|TDI340 Trendline": {
       "engine": "CAEB 2.0L BiTDI AWD I4",
@@ -11569,7 +11569,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2021|TDI400 Sportline": {
       "engine": "CNEA 2.0L BiTDI AWD I4",
@@ -11590,7 +11590,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2021|TDI550 Highline": {
       "engine": "CSHA 3.0L V6 TDI AWD",
@@ -11611,7 +11611,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2021|TDI580 Ultimate": {
       "engine": "CGEA 3.0L V6 TDI AWD",
@@ -11632,7 +11632,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2022|TDI340 Trendline": {
       "engine": "CAEB 2.0L BiTDI AWD I4",
@@ -11653,7 +11653,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2022|TDI400 Sportline": {
       "engine": "CNEA 2.0L BiTDI AWD I4",
@@ -11674,7 +11674,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2022|TDI550 Highline": {
       "engine": "CSHA 3.0L V6 TDI AWD",
@@ -11695,7 +11695,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2022|TDI580 Ultimate": {
       "engine": "CGEA 3.0L V6 TDI AWD",
@@ -11716,7 +11716,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2023|TDI500 Style": {
       "engine": "DJD 2.0L BiTDI AWD I4",
@@ -11737,7 +11737,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2023|TDI600 PanAmericana": {
       "engine": "DXE 3.0L V6 TDI AWD",
@@ -11758,7 +11758,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2023|TDI600 Aventura": {
       "engine": "DXE 3.0L V6 TDI AWD",
@@ -11779,7 +11779,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2024|TDI500 Style": {
       "engine": "DJD 2.0L BiTDI AWD I4",
@@ -11800,7 +11800,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2024|TDI600 PanAmericana": {
       "engine": "DXE 3.0L V6 TDI AWD",
@@ -11821,7 +11821,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2024|TDI600 Aventura": {
       "engine": "DXE 3.0L V6 TDI AWD",
@@ -11842,7 +11842,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2025|TDI500 Style": {
       "engine": "DJD 2.0L BiTDI AWD I4",
@@ -11863,7 +11863,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2025|TDI600 PanAmericana": {
       "engine": "DXE 3.0L V6 TDI AWD",
@@ -11884,7 +11884,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2025|TDI600 Aventura": {
       "engine": "DXE 3.0L V6 TDI AWD",
@@ -11905,7 +11905,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2026|TDI500 Style": {
       "engine": "DJD 2.0L BiTDI AWD I4",
@@ -11926,7 +11926,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2026|TDI600 PanAmericana": {
       "engine": "DXE 3.0L V6 TDI AWD",
@@ -11947,7 +11947,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2026|TDI600 Aventura": {
       "engine": "DXE 3.0L V6 TDI AWD",
@@ -11968,7 +11968,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.0 sec",
       "cargo": 1090,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|T-Roc|2018|110TSI Style": {
       "engine": "DKZA 1.4T TSI I4",
@@ -11989,7 +11989,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2018|140TSI Sport": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -12010,7 +12010,7 @@
       "acceleration": 7.1,
       "topSpeed": 220,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2019|110TSI Style": {
       "engine": "DKZA 1.4T TSI I4",
@@ -12031,7 +12031,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2019|140TSI Sport": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -12052,7 +12052,7 @@
       "acceleration": 7.1,
       "topSpeed": 220,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2020|110TSI Style": {
       "engine": "DKZA 1.4T TSI I4",
@@ -12073,7 +12073,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2020|140TSI Sport": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -12094,7 +12094,7 @@
       "acceleration": 7.1,
       "topSpeed": 220,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2021|110TSI Style": {
       "engine": "DKZA 1.4T TSI I4",
@@ -12115,7 +12115,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2021|140TSI Sport": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -12136,7 +12136,7 @@
       "acceleration": 7.1,
       "topSpeed": 220,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2021|R": {
       "engine": "DJH 2.0T TSI AWD I4",
@@ -12157,7 +12157,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2022|110TSI Style": {
       "engine": "DKZA 1.4T TSI I4",
@@ -12178,7 +12178,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2022|140TSI Sport": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -12199,7 +12199,7 @@
       "acceleration": 7.1,
       "topSpeed": 220,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2022|R": {
       "engine": "DJH 2.0T TSI AWD I4",
@@ -12220,7 +12220,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2023|110TSI Style": {
       "engine": "DKZA 1.4T TSI I4",
@@ -12241,7 +12241,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2023|140TSI Sport": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -12262,7 +12262,7 @@
       "acceleration": 7.1,
       "topSpeed": 220,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2023|R": {
       "engine": "DJH 2.0T TSI AWD I4",
@@ -12283,7 +12283,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2024|110TSI Style": {
       "engine": "DKZA 1.4T TSI I4",
@@ -12304,7 +12304,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2024|140TSI Sport": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -12325,7 +12325,7 @@
       "acceleration": 7.1,
       "topSpeed": 220,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2024|R": {
       "engine": "DJH 2.0T TSI AWD I4",
@@ -12346,7 +12346,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2025|110TSI Style": {
       "engine": "DKZA 1.4T TSI I4",
@@ -12367,7 +12367,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2025|140TSI Sport": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -12388,7 +12388,7 @@
       "acceleration": 7.1,
       "topSpeed": 220,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2025|R": {
       "engine": "DJH 2.0T TSI AWD I4",
@@ -12409,7 +12409,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2026|110TSI Style": {
       "engine": "DKZA 1.4T TSI I4",
@@ -12430,7 +12430,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2026|140TSI Sport": {
       "engine": "CZPA 2.0T TSI AWD I4",
@@ -12451,7 +12451,7 @@
       "acceleration": 7.1,
       "topSpeed": 220,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Roc|2026|R": {
       "engine": "DJH 2.0T TSI AWD I4",
@@ -12472,7 +12472,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Multivan|2004|Comfortline TDI": {
       "engine": "AXD 2.5L TDI I5",
@@ -12493,7 +12493,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2004|Highline TDI": {
       "engine": "AXE 2.5L TDI I5",
@@ -12514,7 +12514,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2005|Comfortline TDI": {
       "engine": "AXD 2.5L TDI I5",
@@ -12535,7 +12535,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2005|Highline TDI": {
       "engine": "AXE 2.5L TDI I5",
@@ -12556,7 +12556,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2006|Comfortline TDI": {
       "engine": "AXD 2.5L TDI I5",
@@ -12577,7 +12577,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2006|Highline TDI": {
       "engine": "AXE 2.5L TDI I5",
@@ -12598,7 +12598,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2007|Comfortline TDI": {
       "engine": "AXD 2.5L TDI I5",
@@ -12619,7 +12619,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2007|Highline TDI": {
       "engine": "AXE 2.5L TDI I5",
@@ -12640,7 +12640,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2008|Comfortline TDI": {
       "engine": "AXD 2.5L TDI I5",
@@ -12661,7 +12661,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2008|Highline TDI": {
       "engine": "AXE 2.5L TDI I5",
@@ -12682,7 +12682,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2009|Comfortline TDI": {
       "engine": "AXD 2.5L TDI I5",
@@ -12703,7 +12703,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2009|Highline TDI": {
       "engine": "AXE 2.5L TDI I5",
@@ -12724,7 +12724,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2010|Comfortline TDI": {
       "engine": "AXD 2.5L TDI I5",
@@ -12745,7 +12745,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2010|Highline TDI": {
       "engine": "AXE 2.5L TDI I5",
@@ -12766,7 +12766,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2011|Comfortline TDI": {
       "engine": "AXD 2.5L TDI I5",
@@ -12787,7 +12787,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2011|Highline TDI": {
       "engine": "AXE 2.5L TDI I5",
@@ -12808,7 +12808,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2012|Comfortline TDI": {
       "engine": "AXD 2.5L TDI I5",
@@ -12829,7 +12829,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2012|Highline TDI": {
       "engine": "AXE 2.5L TDI I5",
@@ -12850,7 +12850,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2013|Comfortline TDI": {
       "engine": "AXD 2.5L TDI I5",
@@ -12871,7 +12871,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2013|Highline TDI": {
       "engine": "AXE 2.5L TDI I5",
@@ -12892,7 +12892,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2014|Comfortline TDI": {
       "engine": "AXD 2.5L TDI I5",
@@ -12913,7 +12913,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2014|Highline TDI": {
       "engine": "AXE 2.5L TDI I5",
@@ -12934,7 +12934,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2015|Comfortline TDI": {
       "engine": "AXD 2.5L TDI I5",
@@ -12955,7 +12955,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2015|Highline TDI": {
       "engine": "AXE 2.5L TDI I5",
@@ -12976,7 +12976,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2015|TDI340": {
       "engine": "CFCA 2.0L TDI I4",
@@ -12997,7 +12997,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2015|TDI450": {
       "engine": "CFCC 2.0L BiTDI I4",
@@ -13018,7 +13018,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2016|TDI340": {
       "engine": "CFCA 2.0L TDI I4",
@@ -13039,7 +13039,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2016|TDI450": {
       "engine": "CFCC 2.0L BiTDI I4",
@@ -13060,7 +13060,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2017|TDI340": {
       "engine": "CFCA 2.0L TDI I4",
@@ -13081,7 +13081,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2017|TDI450": {
       "engine": "CFCC 2.0L BiTDI I4",
@@ -13102,7 +13102,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2018|TDI340": {
       "engine": "CFCA 2.0L TDI I4",
@@ -13123,7 +13123,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2018|TDI450": {
       "engine": "CFCC 2.0L BiTDI I4",
@@ -13144,7 +13144,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2019|TDI340": {
       "engine": "CFCA 2.0L TDI I4",
@@ -13165,7 +13165,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2019|TDI450": {
       "engine": "CFCC 2.0L BiTDI I4",
@@ -13186,7 +13186,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2020|TDI340": {
       "engine": "CFCA 2.0L TDI I4",
@@ -13207,7 +13207,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2020|TDI450": {
       "engine": "CFCC 2.0L BiTDI I4",
@@ -13228,7 +13228,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2021|TDI340": {
       "engine": "CFCA 2.0L TDI I4",
@@ -13249,7 +13249,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2021|TDI450": {
       "engine": "CFCC 2.0L BiTDI I4",
@@ -13270,7 +13270,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2022|TDI340": {
       "engine": "CFCA 2.0L TDI I4",
@@ -13291,7 +13291,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2022|TDI450": {
       "engine": "CFCC 2.0L BiTDI I4",
@@ -13312,7 +13312,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2023|TDI340": {
       "engine": "CFCA 2.0L TDI I4",
@@ -13333,7 +13333,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2023|TDI450": {
       "engine": "CFCC 2.0L BiTDI I4",
@@ -13354,7 +13354,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2024|TDI340": {
       "engine": "CFCA 2.0L TDI I4",
@@ -13375,7 +13375,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2024|TDI450": {
       "engine": "CFCC 2.0L BiTDI I4",
@@ -13396,7 +13396,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2025|TDI340": {
       "engine": "CFCA 2.0L TDI I4",
@@ -13417,7 +13417,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2025|TDI450": {
       "engine": "CFCC 2.0L BiTDI I4",
@@ -13438,7 +13438,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2026|TDI340": {
       "engine": "CFCA 2.0L TDI I4",
@@ -13459,7 +13459,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2026|TDI450": {
       "engine": "CFCC 2.0L BiTDI I4",
@@ -13480,7 +13480,7 @@
       "topSpeed": 195,
       "quarterMile": "~18.5 sec",
       "cargo": 469,
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Beetle|1998|2.0": {
       "engine": "AQY 2.0L MPI I4",
@@ -13522,7 +13522,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|1999|2.0": {
       "engine": "AQY 2.0L MPI I4",
@@ -13564,7 +13564,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2000|2.0": {
       "engine": "AQY 2.0L MPI I4",
@@ -13606,7 +13606,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2001|2.0": {
       "engine": "AQY 2.0L MPI I4",
@@ -13648,7 +13648,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2002|2.0": {
       "engine": "AQY 2.0L MPI I4",
@@ -13690,7 +13690,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2003|2.0": {
       "engine": "AQY 2.0L MPI I4",
@@ -13732,7 +13732,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2004|2.0": {
       "engine": "AQY 2.0L MPI I4",
@@ -13774,7 +13774,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2005|2.0": {
       "engine": "AQY 2.0L MPI I4",
@@ -13816,7 +13816,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2006|2.0": {
       "engine": "AQY 2.0L MPI I4",
@@ -13858,7 +13858,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2007|2.0": {
       "engine": "AQY 2.0L MPI I4",
@@ -13900,7 +13900,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2008|2.0": {
       "engine": "AQY 2.0L MPI I4",
@@ -13942,7 +13942,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2009|2.0": {
       "engine": "AQY 2.0L MPI I4",
@@ -13984,7 +13984,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2010|2.0": {
       "engine": "AQY 2.0L MPI I4",
@@ -14026,7 +14026,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2011|2.0": {
       "engine": "AQY 2.0L MPI I4",
@@ -14068,7 +14068,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2012|1.2 TSI": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14089,7 +14089,7 @@
       "acceleration": 11.5,
       "topSpeed": 179,
       "quarterMile": "~18.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2012|1.4 TSI": {
       "engine": "CAVE 1.4T TSI I4",
@@ -14110,7 +14110,7 @@
       "acceleration": 9,
       "topSpeed": 200,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2012|2.0 TSI R-Line": {
       "engine": "CCZA 2.0T TSI I4",
@@ -14131,7 +14131,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2013|1.2 TSI": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14152,7 +14152,7 @@
       "acceleration": 11.5,
       "topSpeed": 179,
       "quarterMile": "~18.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2013|1.4 TSI": {
       "engine": "CAVE 1.4T TSI I4",
@@ -14173,7 +14173,7 @@
       "acceleration": 9,
       "topSpeed": 200,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2013|2.0 TSI R-Line": {
       "engine": "CCZA 2.0T TSI I4",
@@ -14194,7 +14194,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2014|1.2 TSI": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14215,7 +14215,7 @@
       "acceleration": 11.5,
       "topSpeed": 179,
       "quarterMile": "~18.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2014|1.4 TSI": {
       "engine": "CAVE 1.4T TSI I4",
@@ -14236,7 +14236,7 @@
       "acceleration": 9,
       "topSpeed": 200,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2014|2.0 TSI R-Line": {
       "engine": "CCZA 2.0T TSI I4",
@@ -14257,7 +14257,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2015|1.2 TSI": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14278,7 +14278,7 @@
       "acceleration": 11.5,
       "topSpeed": 179,
       "quarterMile": "~18.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2015|1.4 TSI": {
       "engine": "CAVE 1.4T TSI I4",
@@ -14299,7 +14299,7 @@
       "acceleration": 9,
       "topSpeed": 200,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2015|2.0 TSI R-Line": {
       "engine": "CCZA 2.0T TSI I4",
@@ -14320,7 +14320,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2016|1.2 TSI": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14341,7 +14341,7 @@
       "acceleration": 11.5,
       "topSpeed": 179,
       "quarterMile": "~18.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2016|1.4 TSI": {
       "engine": "CAVE 1.4T TSI I4",
@@ -14362,7 +14362,7 @@
       "acceleration": 9,
       "topSpeed": 200,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2016|2.0 TSI R-Line": {
       "engine": "CCZA 2.0T TSI I4",
@@ -14383,7 +14383,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2017|1.2 TSI": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14404,7 +14404,7 @@
       "acceleration": 11.5,
       "topSpeed": 179,
       "quarterMile": "~18.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2017|1.4 TSI": {
       "engine": "CAVE 1.4T TSI I4",
@@ -14425,7 +14425,7 @@
       "acceleration": 9,
       "topSpeed": 200,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2017|2.0 TSI R-Line": {
       "engine": "CCZA 2.0T TSI I4",
@@ -14446,7 +14446,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2018|1.2 TSI": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14467,7 +14467,7 @@
       "acceleration": 11.5,
       "topSpeed": 179,
       "quarterMile": "~18.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2018|1.4 TSI": {
       "engine": "CAVE 1.4T TSI I4",
@@ -14488,7 +14488,7 @@
       "acceleration": 9,
       "topSpeed": 200,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2018|2.0 TSI R-Line": {
       "engine": "CCZA 2.0T TSI I4",
@@ -14509,7 +14509,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2019|1.2 TSI": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14530,7 +14530,7 @@
       "acceleration": 11.5,
       "topSpeed": 179,
       "quarterMile": "~18.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2019|1.4 TSI": {
       "engine": "CAVE 1.4T TSI I4",
@@ -14551,7 +14551,7 @@
       "acceleration": 9,
       "topSpeed": 200,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Beetle|2019|2.0 TSI R-Line": {
       "engine": "CCZA 2.0T TSI I4",
@@ -14572,7 +14572,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2011|118TSI Comfortline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14593,7 +14593,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2011|118TSI Highline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14614,7 +14614,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2011|155TSI Sportline": {
       "engine": "BYT 2.0T TSI I4",
@@ -14635,7 +14635,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2012|118TSI Comfortline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14656,7 +14656,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2012|118TSI Highline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14677,7 +14677,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2012|155TSI Sportline": {
       "engine": "BYT 2.0T TSI I4",
@@ -14698,7 +14698,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2013|118TSI Comfortline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14719,7 +14719,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2013|118TSI Highline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14740,7 +14740,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2013|155TSI Sportline": {
       "engine": "BYT 2.0T TSI I4",
@@ -14761,7 +14761,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2014|118TSI Comfortline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14782,7 +14782,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2014|118TSI Highline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14803,7 +14803,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2014|155TSI Sportline": {
       "engine": "BYT 2.0T TSI I4",
@@ -14824,7 +14824,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2015|118TSI Comfortline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14845,7 +14845,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2015|118TSI Highline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14866,7 +14866,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2015|155TSI Sportline": {
       "engine": "BYT 2.0T TSI I4",
@@ -14887,7 +14887,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2016|118TSI Comfortline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14908,7 +14908,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2016|118TSI Highline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14929,7 +14929,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2016|155TSI Sportline": {
       "engine": "BYT 2.0T TSI I4",
@@ -14950,7 +14950,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2017|118TSI Comfortline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14971,7 +14971,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2017|118TSI Highline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -14992,7 +14992,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2017|155TSI Sportline": {
       "engine": "BYT 2.0T TSI I4",
@@ -15013,7 +15013,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2018|118TSI Comfortline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -15034,7 +15034,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2018|118TSI Highline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -15055,7 +15055,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2018|155TSI Sportline": {
       "engine": "BYT 2.0T TSI I4",
@@ -15076,7 +15076,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2019|118TSI Comfortline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -15097,7 +15097,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2019|118TSI Highline": {
       "engine": "CBZB 1.2T TSI I4",
@@ -15118,7 +15118,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Jetta|2019|155TSI Sportline": {
       "engine": "BYT 2.0T TSI I4",
@@ -15139,7 +15139,7 @@
       "acceleration": 7,
       "topSpeed": 224,
       "quarterMile": "~15.4 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2009|118TSI": {
       "engine": "CAXA 1.4T TSI I4",
@@ -15160,7 +15160,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2009|155TSI": {
       "engine": "CCZA 2.0T TSI I4",
@@ -15181,7 +15181,7 @@
       "acceleration": 7.2,
       "topSpeed": 224,
       "quarterMile": "~15.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2009|R": {
       "engine": "CDLG 2.0T TSI AWD I4",
@@ -15202,7 +15202,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "quarterMile": "~14.2 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2010|118TSI": {
       "engine": "CAXA 1.4T TSI I4",
@@ -15223,7 +15223,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2010|155TSI": {
       "engine": "CCZA 2.0T TSI I4",
@@ -15244,7 +15244,7 @@
       "acceleration": 7.2,
       "topSpeed": 224,
       "quarterMile": "~15.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2010|R": {
       "engine": "CDLG 2.0T TSI AWD I4",
@@ -15265,7 +15265,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "quarterMile": "~14.2 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2011|118TSI": {
       "engine": "CAXA 1.4T TSI I4",
@@ -15286,7 +15286,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2011|155TSI": {
       "engine": "CCZA 2.0T TSI I4",
@@ -15307,7 +15307,7 @@
       "acceleration": 7.2,
       "topSpeed": 224,
       "quarterMile": "~15.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2011|R": {
       "engine": "CDLG 2.0T TSI AWD I4",
@@ -15328,7 +15328,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "quarterMile": "~14.2 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2012|118TSI": {
       "engine": "CAXA 1.4T TSI I4",
@@ -15349,7 +15349,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2012|155TSI": {
       "engine": "CCZA 2.0T TSI I4",
@@ -15370,7 +15370,7 @@
       "acceleration": 7.2,
       "topSpeed": 224,
       "quarterMile": "~15.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2012|R": {
       "engine": "CDLG 2.0T TSI AWD I4",
@@ -15391,7 +15391,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "quarterMile": "~14.2 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2013|118TSI": {
       "engine": "CAXA 1.4T TSI I4",
@@ -15412,7 +15412,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2013|155TSI": {
       "engine": "CCZA 2.0T TSI I4",
@@ -15433,7 +15433,7 @@
       "acceleration": 7.2,
       "topSpeed": 224,
       "quarterMile": "~15.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2013|R": {
       "engine": "CDLG 2.0T TSI AWD I4",
@@ -15454,7 +15454,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "quarterMile": "~14.2 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2014|118TSI": {
       "engine": "CAXA 1.4T TSI I4",
@@ -15475,7 +15475,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2014|155TSI": {
       "engine": "CCZA 2.0T TSI I4",
@@ -15496,7 +15496,7 @@
       "acceleration": 7.2,
       "topSpeed": 224,
       "quarterMile": "~15.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2014|R": {
       "engine": "CDLG 2.0T TSI AWD I4",
@@ -15517,7 +15517,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "quarterMile": "~14.2 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2015|118TSI": {
       "engine": "CAXA 1.4T TSI I4",
@@ -15538,7 +15538,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2015|155TSI": {
       "engine": "CCZA 2.0T TSI I4",
@@ -15559,7 +15559,7 @@
       "acceleration": 7.2,
       "topSpeed": 224,
       "quarterMile": "~15.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2015|R": {
       "engine": "CDLG 2.0T TSI AWD I4",
@@ -15580,7 +15580,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "quarterMile": "~14.2 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2016|118TSI": {
       "engine": "CAXA 1.4T TSI I4",
@@ -15601,7 +15601,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2016|155TSI": {
       "engine": "CCZA 2.0T TSI I4",
@@ -15622,7 +15622,7 @@
       "acceleration": 7.2,
       "topSpeed": 224,
       "quarterMile": "~15.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2016|R": {
       "engine": "CDLG 2.0T TSI AWD I4",
@@ -15643,7 +15643,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "quarterMile": "~14.2 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2017|118TSI": {
       "engine": "CAXA 1.4T TSI I4",
@@ -15664,7 +15664,7 @@
       "acceleration": 9,
       "topSpeed": 205,
       "quarterMile": "~17.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2017|155TSI": {
       "engine": "CCZA 2.0T TSI I4",
@@ -15685,7 +15685,7 @@
       "acceleration": 7.2,
       "topSpeed": 224,
       "quarterMile": "~15.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Scirocco|2017|R": {
       "engine": "CDLG 2.0T TSI AWD I4",
@@ -15706,7 +15706,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "quarterMile": "~14.2 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Arteon|2018|206TSI": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -15727,7 +15727,7 @@
       "acceleration": 6,
       "topSpeed": 250,
       "quarterMile": "~14.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Arteon|2018|206TSI R-Line": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -15748,7 +15748,7 @@
       "acceleration": 6,
       "topSpeed": 250,
       "quarterMile": "~14.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Arteon|2018|Shooting Brake 206TSI": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -15769,7 +15769,7 @@
       "acceleration": 6,
       "topSpeed": 250,
       "quarterMile": "~14.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Arteon|2019|206TSI": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -15790,7 +15790,7 @@
       "acceleration": 6,
       "topSpeed": 250,
       "quarterMile": "~14.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Arteon|2019|206TSI R-Line": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -15811,7 +15811,7 @@
       "acceleration": 6,
       "topSpeed": 250,
       "quarterMile": "~14.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Arteon|2019|Shooting Brake 206TSI": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -15832,7 +15832,7 @@
       "acceleration": 6,
       "topSpeed": 250,
       "quarterMile": "~14.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Arteon|2020|206TSI": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -15853,7 +15853,7 @@
       "acceleration": 6,
       "topSpeed": 250,
       "quarterMile": "~14.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Arteon|2020|206TSI R-Line": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -15874,7 +15874,7 @@
       "acceleration": 6,
       "topSpeed": 250,
       "quarterMile": "~14.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Arteon|2020|Shooting Brake 206TSI": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -15895,7 +15895,7 @@
       "acceleration": 6,
       "topSpeed": 250,
       "quarterMile": "~14.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Arteon|2021|206TSI": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -15916,7 +15916,7 @@
       "acceleration": 6,
       "topSpeed": 250,
       "quarterMile": "~14.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Arteon|2021|206TSI R-Line": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -15937,7 +15937,7 @@
       "acceleration": 6,
       "topSpeed": 250,
       "quarterMile": "~14.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Arteon|2021|Shooting Brake 206TSI": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -15958,7 +15958,7 @@
       "acceleration": 6,
       "topSpeed": 250,
       "quarterMile": "~14.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Arteon|2022|206TSI": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -15979,7 +15979,7 @@
       "acceleration": 6,
       "topSpeed": 250,
       "quarterMile": "~14.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Arteon|2022|206TSI R-Line": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -16000,7 +16000,7 @@
       "acceleration": 6,
       "topSpeed": 250,
       "quarterMile": "~14.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Arteon|2022|Shooting Brake 206TSI": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -16021,7 +16021,7 @@
       "acceleration": 6,
       "topSpeed": 250,
       "quarterMile": "~14.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Arteon|2023|206TSI": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -16042,7 +16042,7 @@
       "acceleration": 6,
       "topSpeed": 250,
       "quarterMile": "~14.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Arteon|2023|206TSI R-Line": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -16063,7 +16063,7 @@
       "acceleration": 6,
       "topSpeed": 250,
       "quarterMile": "~14.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Arteon|2023|Shooting Brake 206TSI": {
       "engine": "CJXB 2.0T TSI AWD I4",
@@ -16084,7 +16084,7 @@
       "acceleration": 6,
       "topSpeed": 250,
       "quarterMile": "~14.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|ID.4|2022|Pro": {
       "engine": "APP550 77kWh Rear Motor",

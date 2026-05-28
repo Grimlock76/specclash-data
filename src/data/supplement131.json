@@ -17,7 +17,7 @@
       "acceleration": 5.4,
       "topSpeed": 250,
       "price": "~$87,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|X1|2024|M35i xDrive": {
       "engine": "2.0L 4-cyl Twin-Turbo B48A20T3",
@@ -36,7 +36,7 @@
       "acceleration": 5.4,
       "topSpeed": 250,
       "price": "~$90,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|X1|2025|M35i xDrive": {
       "engine": "2.0L 4-cyl Twin-Turbo B48A20T3",
@@ -55,7 +55,7 @@
       "acceleration": 5.4,
       "topSpeed": 250,
       "price": "~$93,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|X1|2026|M35i xDrive": {
       "engine": "2.0L 4-cyl Twin-Turbo B48A20T3",
@@ -74,7 +74,7 @@
       "acceleration": 5.4,
       "topSpeed": 250,
       "price": "~$96,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Suzuki|Fronx|2024|GL": {
       "engine": "1.5L 4-cyl Dual Jet",
@@ -629,7 +629,7 @@
       "acceleration": 10.5,
       "topSpeed": 185,
       "price": "~$50,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Kia|Tasman|2025|GT-Line": {
       "engine": "2.2L 4-cyl CRDi Diesel",
@@ -648,7 +648,7 @@
       "acceleration": 10.5,
       "topSpeed": 185,
       "price": "~$61,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Kia|Tasman|2025|SX+": {
       "engine": "2.2L 4-cyl CRDi Diesel",
@@ -667,7 +667,7 @@
       "acceleration": 10.5,
       "topSpeed": 185,
       "price": "~$72,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Kia|Tasman|2026|S": {
       "engine": "2.2L 4-cyl CRDi Diesel",
@@ -686,7 +686,7 @@
       "acceleration": 10.5,
       "topSpeed": 185,
       "price": "~$52,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Kia|Tasman|2026|GT-Line": {
       "engine": "2.2L 4-cyl CRDi Diesel",
@@ -705,7 +705,7 @@
       "acceleration": 10.5,
       "topSpeed": 185,
       "price": "~$63,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Kia|Tasman|2026|SX+": {
       "engine": "2.2L 4-cyl CRDi Diesel",
@@ -724,7 +724,7 @@
       "acceleration": 10.5,
       "topSpeed": 185,
       "price": "~$74,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Mazda|CX-70|2024|GT": {
       "engine": "3.3L 6-cyl SH-VPTR Diesel",
@@ -743,7 +743,7 @@
       "acceleration": 6.8,
       "topSpeed": 210,
       "price": "~$79,990",
-      "aspiration": "Turbo"
+      "aspiration": "Denso VGT Diesel Turbo"
     },
     "Mazda|CX-70|2024|GT SP": {
       "engine": "3.3L 6-cyl SH-VPTR Diesel",
@@ -762,7 +762,7 @@
       "acceleration": 6.8,
       "topSpeed": 210,
       "price": "~$89,990",
-      "aspiration": "Turbo"
+      "aspiration": "Denso VGT Diesel Turbo"
     },
     "Mazda|CX-70|2024|GT PHEV": {
       "engine": "2.5L 4-cyl PHEV",
@@ -801,7 +801,7 @@
       "acceleration": 6.8,
       "topSpeed": 210,
       "price": "~$82,990",
-      "aspiration": "Turbo"
+      "aspiration": "Denso VGT Diesel Turbo"
     },
     "Mazda|CX-70|2025|GT SP": {
       "engine": "3.3L 6-cyl SH-VPTR Diesel",
@@ -820,7 +820,7 @@
       "acceleration": 6.8,
       "topSpeed": 210,
       "price": "~$92,990",
-      "aspiration": "Turbo"
+      "aspiration": "Denso VGT Diesel Turbo"
     },
     "Mazda|CX-70|2025|GT PHEV": {
       "engine": "2.5L 4-cyl PHEV",
@@ -859,7 +859,7 @@
       "acceleration": 6.8,
       "topSpeed": 210,
       "price": "~$85,990",
-      "aspiration": "Turbo"
+      "aspiration": "Denso VGT Diesel Turbo"
     },
     "Mazda|CX-70|2026|GT SP": {
       "engine": "3.3L 6-cyl SH-VPTR Diesel",
@@ -878,7 +878,7 @@
       "acceleration": 6.8,
       "topSpeed": 210,
       "price": "~$95,990",
-      "aspiration": "Turbo"
+      "aspiration": "Denso VGT Diesel Turbo"
     },
     "Mazda|CX-70|2026|GT PHEV": {
       "engine": "2.5L 4-cyl PHEV",

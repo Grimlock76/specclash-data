@@ -19,7 +19,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Silvia|1983|ZX": {
       "engine": "CA18E 1.8L SOHC I4",
@@ -61,7 +61,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Silvia|1984|ZX": {
       "engine": "CA18E 1.8L SOHC I4",
@@ -103,7 +103,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Silvia|1985|ZX": {
       "engine": "CA18E 1.8L SOHC I4",
@@ -145,7 +145,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Silvia|1986|ZX": {
       "engine": "CA18E 1.8L SOHC I4",
@@ -187,7 +187,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Silvia|1987|ZX": {
       "engine": "CA18E 1.8L SOHC I4",
@@ -229,7 +229,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Silvia|1988|ZX": {
       "engine": "CA18E 1.8L SOHC I4",
@@ -376,7 +376,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|Silvia|1994|Q's": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -418,7 +418,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|Silvia|1995|Q's": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -460,7 +460,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|Silvia|1996|Q's": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -502,7 +502,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|Silvia|1997|Q's": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -544,7 +544,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|Silvia|1998|Q's": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -586,7 +586,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "quarterMile": "~15.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|Silvia|1999|Spec-S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -628,7 +628,7 @@
       "acceleration": 6.8,
       "topSpeed": 230,
       "quarterMile": "~14.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|Silvia|2000|Spec-S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -670,7 +670,7 @@
       "acceleration": 6.8,
       "topSpeed": 230,
       "quarterMile": "~14.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|Silvia|2001|Spec-S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -712,7 +712,7 @@
       "acceleration": 6.8,
       "topSpeed": 230,
       "quarterMile": "~14.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|Silvia|2002|Spec-S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -754,7 +754,7 @@
       "acceleration": 6.8,
       "topSpeed": 230,
       "quarterMile": "~14.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|200SX|1989|Turbo": {
       "engine": "CA18DET 1.8L DOHC Turbo I4",
@@ -775,7 +775,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|200SX|1990|Turbo": {
       "engine": "CA18DET 1.8L DOHC Turbo I4",
@@ -796,7 +796,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|200SX|1991|Turbo": {
       "engine": "CA18DET 1.8L DOHC Turbo I4",
@@ -817,7 +817,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|200SX|1992|Turbo": {
       "engine": "CA18DET 1.8L DOHC Turbo I4",
@@ -838,7 +838,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|200SX|1993|Turbo": {
       "engine": "CA18DET 1.8L DOHC Turbo I4",
@@ -859,7 +859,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|200SX|1994|SR20DET": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -880,7 +880,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|200SX|1995|SR20DET": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -901,7 +901,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|200SX|1996|SR20DET": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -922,7 +922,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|200SX|1997|SR20DET": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -943,7 +943,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|200SX|1998|SR20DET": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -964,7 +964,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "quarterMile": "~17.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|180SX|1989|Type X": {
       "engine": "CA18DET 1.8L DOHC Turbo I4",
@@ -985,7 +985,7 @@
       "acceleration": 6.9,
       "topSpeed": 225,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|180SX|1990|Type X": {
       "engine": "CA18DET 1.8L DOHC Turbo I4",
@@ -1006,7 +1006,7 @@
       "acceleration": 6.9,
       "topSpeed": 225,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|180SX|1991|Type X": {
       "engine": "SR20DET 2.0L DOHC Turbo I4",
@@ -1027,7 +1027,7 @@
       "acceleration": 6.9,
       "topSpeed": 225,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|180SX|1991|Type S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -1069,7 +1069,7 @@
       "acceleration": 6.9,
       "topSpeed": 225,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|180SX|1992|Type S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -1111,7 +1111,7 @@
       "acceleration": 6.9,
       "topSpeed": 225,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|180SX|1993|Type S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -1153,7 +1153,7 @@
       "acceleration": 6.9,
       "topSpeed": 225,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|180SX|1994|Type S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -1195,7 +1195,7 @@
       "acceleration": 6.9,
       "topSpeed": 225,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|180SX|1995|Type S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -1237,7 +1237,7 @@
       "acceleration": 6.9,
       "topSpeed": 225,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|180SX|1996|Type S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -1279,7 +1279,7 @@
       "acceleration": 6.9,
       "topSpeed": 225,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|180SX|1997|Type S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -1321,7 +1321,7 @@
       "acceleration": 6.9,
       "topSpeed": 225,
       "quarterMile": "~15.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|180SX|1998|Type S": {
       "engine": "SR20DE 2.0L DOHC I4",
@@ -1489,7 +1489,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|280ZX|1979|280ZX": {
       "engine": "L28E 2.8L SOHC I6",
@@ -1531,7 +1531,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|280ZX|1980|280ZX": {
       "engine": "L28E 2.8L SOHC I6",
@@ -1573,7 +1573,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|280ZX|1981|280ZX": {
       "engine": "L28E 2.8L SOHC I6",
@@ -1615,7 +1615,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|280ZX|1982|280ZX": {
       "engine": "L28E 2.8L SOHC I6",
@@ -1657,7 +1657,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|280ZX|1983|280ZX": {
       "engine": "L28E 2.8L SOHC I6",
@@ -1699,7 +1699,7 @@
       "acceleration": 8.5,
       "topSpeed": 215,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Stagea|1996|25RX": {
       "engine": "RB25DE 2.5L DOHC I6",
@@ -1741,7 +1741,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|Stagea|1997|25RX": {
       "engine": "RB25DE 2.5L DOHC I6",
@@ -1783,7 +1783,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|Stagea|1998|25RX": {
       "engine": "RB25DE 2.5L DOHC I6",
@@ -1825,7 +1825,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|Stagea|1999|25RX": {
       "engine": "RB25DE 2.5L DOHC I6",
@@ -1867,7 +1867,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|Stagea|2000|25RX": {
       "engine": "RB25DE 2.5L DOHC I6",
@@ -1909,7 +1909,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|Stagea|2001|25RX": {
       "engine": "RB25DE 2.5L DOHC I6",
@@ -1951,7 +1951,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "quarterMile": "~16.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Nissan|Stagea|2001|25X": {
       "engine": "VQ25DED 2.5L DOHC I6",
@@ -1993,7 +1993,7 @@
       "acceleration": 7.5,
       "topSpeed": 230,
       "quarterMile": "~15.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Stagea|2002|25X": {
       "engine": "VQ25DED 2.5L DOHC I6",
@@ -2035,7 +2035,7 @@
       "acceleration": 7.5,
       "topSpeed": 230,
       "quarterMile": "~15.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Stagea|2003|25X": {
       "engine": "VQ25DED 2.5L DOHC I6",
@@ -2077,7 +2077,7 @@
       "acceleration": 7.5,
       "topSpeed": 230,
       "quarterMile": "~15.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Stagea|2004|25X": {
       "engine": "VQ25DED 2.5L DOHC I6",
@@ -2119,7 +2119,7 @@
       "acceleration": 7.5,
       "topSpeed": 230,
       "quarterMile": "~15.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Stagea|2005|25X": {
       "engine": "VQ25DED 2.5L DOHC I6",
@@ -2161,7 +2161,7 @@
       "acceleration": 7.5,
       "topSpeed": 230,
       "quarterMile": "~15.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Stagea|2006|25X": {
       "engine": "VQ25DED 2.5L DOHC I6",
@@ -2203,7 +2203,7 @@
       "acceleration": 7.5,
       "topSpeed": 230,
       "quarterMile": "~15.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Stagea|2007|25X": {
       "engine": "VQ25DED 2.5L DOHC I6",
@@ -2245,7 +2245,7 @@
       "acceleration": 7.5,
       "topSpeed": 230,
       "quarterMile": "~15.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Leaf|2012|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -3873,7 +3873,7 @@
       "acceleration": 10.3,
       "topSpeed": 180,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Juke|2022|ST-L": {
       "engine": "HR13DDT 1.3L DOHC Turbo I4",
@@ -3894,7 +3894,7 @@
       "acceleration": 10.3,
       "topSpeed": 180,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Juke|2023|ST": {
       "engine": "HR13DDT 1.3L DOHC Turbo I4",
@@ -3915,7 +3915,7 @@
       "acceleration": 10.3,
       "topSpeed": 180,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Juke|2023|ST-L": {
       "engine": "HR13DDT 1.3L DOHC Turbo I4",
@@ -3936,7 +3936,7 @@
       "acceleration": 10.3,
       "topSpeed": 180,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Juke|2024|ST": {
       "engine": "HR13DDT 1.3L DOHC Turbo I4",
@@ -3957,7 +3957,7 @@
       "acceleration": 10.3,
       "topSpeed": 180,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Juke|2024|ST-L": {
       "engine": "HR13DDT 1.3L DOHC Turbo I4",
@@ -3978,7 +3978,7 @@
       "acceleration": 10.3,
       "topSpeed": 180,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Juke|2025|ST": {
       "engine": "HR13DDT 1.3L DOHC Turbo I4",
@@ -3999,7 +3999,7 @@
       "acceleration": 10.3,
       "topSpeed": 180,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Juke|2025|ST-L": {
       "engine": "HR13DDT 1.3L DOHC Turbo I4",
@@ -4020,7 +4020,7 @@
       "acceleration": 10.3,
       "topSpeed": 180,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Juke|2026|ST": {
       "engine": "HR13DDT 1.3L DOHC Turbo I4",
@@ -4041,7 +4041,7 @@
       "acceleration": 10.3,
       "topSpeed": 180,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Juke|2026|ST-L": {
       "engine": "HR13DDT 1.3L DOHC Turbo I4",
@@ -4062,7 +4062,7 @@
       "acceleration": 10.3,
       "topSpeed": 180,
       "quarterMile": "~17.8 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     }
   }
 }

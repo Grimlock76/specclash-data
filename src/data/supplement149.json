@@ -17,7 +17,7 @@
       "acceleration": 7.4,
       "topSpeed": 210,
       "price": "~$219,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota Twin-Turbo"
     },
     "Lexus|LX|2026|LX 600 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -36,7 +36,7 @@
       "acceleration": 7.4,
       "topSpeed": 210,
       "price": "~$229,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota Twin-Turbo"
     },
     "Lexus|GX|2026|GX 550 Sports Luxury": {
       "engine": "3.4L V6 Twin-Turbo",
@@ -55,7 +55,7 @@
       "acceleration": 6.3,
       "topSpeed": 200,
       "price": "~$119,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota Twin-Turbo"
     },
     "Lexus|GX|2026|GX 550 F Sport": {
       "engine": "3.4L V6 Twin-Turbo",
@@ -74,7 +74,7 @@
       "acceleration": 6.3,
       "topSpeed": 200,
       "price": "~$129,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota Twin-Turbo"
     },
     "Lexus|ES|2026|ES 300h Sports Luxury": {
       "engine": "2.5L I4 Atkinson Hybrid",
@@ -150,7 +150,7 @@
       "acceleration": 5,
       "topSpeed": 200,
       "price": "~$124,990",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "BMW|X2|2026|xDrive20i": {
       "engine": "2.0L I4 TwinPower Turbo",
@@ -169,7 +169,7 @@
       "acceleration": 6.8,
       "topSpeed": 235,
       "price": "~$63,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Mitsubishi|ASX|2026|MK2 Exceed": {
       "engine": "1.3L I4 Turbo",
@@ -188,7 +188,7 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "price": "~$38,490",
-      "aspiration": "Turbo"
+      "aspiration": "MHI Single-Turbo"
     },
     "Peugeot|308|2026|Allure": {
       "engine": "1.2 PureTech Turbo",
@@ -207,7 +207,7 @@
       "acceleration": 11,
       "topSpeed": 188,
       "price": "~$43,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Peugeot|308|2026|GT": {
       "engine": "1.6 PureTech Turbo",
@@ -226,7 +226,7 @@
       "acceleration": 7.8,
       "topSpeed": 217,
       "price": "~$53,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Peugeot|2008|2026|Allure": {
       "engine": "1.2 PureTech Turbo",
@@ -245,7 +245,7 @@
       "acceleration": 11.5,
       "topSpeed": 187,
       "price": "~$38,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Peugeot|2008|2026|GT": {
       "engine": "1.2 PureTech Turbo",
@@ -264,7 +264,7 @@
       "acceleration": 11.2,
       "topSpeed": 190,
       "price": "~$43,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Skoda|Kodiaq|2026|Style": {
       "engine": "2.0 TSI",
@@ -283,7 +283,7 @@
       "acceleration": 8.2,
       "topSpeed": 210,
       "price": "~$52,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Skoda|Kodiaq|2026|Sportline": {
       "engine": "2.0 TSI",
@@ -302,7 +302,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "price": "~$58,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Skoda|Octavia|2026|Ambition": {
       "engine": "1.5 TSI",
@@ -321,7 +321,7 @@
       "acceleration": 8.7,
       "topSpeed": 213,
       "price": "~$38,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Skoda|Octavia|2026|RS": {
       "engine": "2.0 TSI RS",
@@ -340,7 +340,7 @@
       "acceleration": 6.6,
       "topSpeed": 250,
       "price": "~$51,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     }
   }
 }

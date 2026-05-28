@@ -17,7 +17,7 @@
       "acceleration": 8,
       "topSpeed": 213,
       "price": "~$87,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Mercedes-Benz|GLE|2015|GLE350d": {
       "engine": "3.0L V6 Turbo Diesel OM642 BlueTEC",
@@ -36,7 +36,7 @@
       "acceleration": 6.8,
       "topSpeed": 230,
       "price": "~$104,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Mercedes-Benz|GLE|2015|GLE400": {
       "engine": "3.0L V6 Biturbo M276",
@@ -55,7 +55,7 @@
       "acceleration": 5.9,
       "topSpeed": 235,
       "price": "~$119,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|GLE|2015|GLE63 S AMG": {
       "engine": "5.5L V8 Biturbo M157 E55",
@@ -74,7 +74,7 @@
       "acceleration": 4.2,
       "topSpeed": 280,
       "price": "~$224,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|B-Class|2015|B 200": {
       "engine": "1.6L I4 Turbo M270",
@@ -93,7 +93,7 @@
       "acceleration": 8.9,
       "topSpeed": 215,
       "price": "~$48,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|CLS|2015|CLS 400": {
       "engine": "3.0L V6 Biturbo M276",
@@ -112,7 +112,7 @@
       "acceleration": 5.5,
       "topSpeed": 250,
       "price": "~$134,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|SLK|2015|SLK 200": {
       "engine": "1.8L I4 SC M271 EVO",
@@ -131,7 +131,7 @@
       "acceleration": 6.5,
       "topSpeed": 240,
       "price": "~$69,900",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton M45 Supercharged"
     },
     "Mercedes-Benz|SLK|2015|SLK 350": {
       "engine": "3.5L V6 NA M272",
@@ -169,7 +169,7 @@
       "acceleration": 6.5,
       "topSpeed": 230,
       "price": "~$42,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Subaru|Levorg|2015|2.0 GT-S": {
       "engine": "2.0L H4 Turbo FA20DIT",
@@ -188,7 +188,7 @@
       "acceleration": 6.5,
       "topSpeed": 230,
       "price": "~$48,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Honda|Civic|2015|Type R FK2": {
       "engine": "2.0L I4 Turbo K20C1 VTEC",
@@ -207,7 +207,7 @@
       "acceleration": 5.7,
       "topSpeed": 270,
       "price": "~$49,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Honda|Accord|2015|VTi-S": {
       "engine": "3.5L V6 NA J35Z2 i-VTEC",
@@ -359,7 +359,7 @@
       "acceleration": 7.5,
       "topSpeed": 230,
       "price": "~$72,990",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Lexus|RC|2015|RC 300h": {
       "engine": "2.5L I4 NA 2AR-FXE + Electric HSD",

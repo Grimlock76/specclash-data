@@ -112,7 +112,7 @@
       "acceleration": 7.3,
       "topSpeed": 236,
       "price": "~$62,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|Q3|2025|40 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -131,7 +131,7 @@
       "acceleration": 7.9,
       "topSpeed": 209,
       "price": "~$55,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|Q5 Sportback|2025|SQ5 Sportback": {
       "engine": "3.0 TFSI V6",
@@ -150,7 +150,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$112,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A4|2025|40 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -169,7 +169,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "price": "~$78,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A6|2025|55 TFSI quattro": {
       "engine": "3.0 TFSI V6",
@@ -188,7 +188,7 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$122,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|Q7|2025|45 TDI quattro": {
       "engine": "3.0 TDI V6",
@@ -207,7 +207,7 @@
       "acceleration": 6.5,
       "topSpeed": 230,
       "price": "~$107,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Porsche|911|2026|Carrera S Cabriolet": {
       "engine": "3.0 Flat-6 Turbo",
@@ -226,7 +226,7 @@
       "acceleration": 3.7,
       "topSpeed": 308,
       "price": "~$291,000",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Porsche|911|2026|Carrera 4": {
       "engine": "3.0 Flat-6 Turbo",
@@ -245,7 +245,7 @@
       "acceleration": 4.2,
       "topSpeed": 290,
       "price": "~$249,000",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Porsche|911|2026|Carrera 4S": {
       "engine": "3.0 Flat-6 Turbo",
@@ -264,7 +264,7 @@
       "acceleration": 3.6,
       "topSpeed": 308,
       "price": "~$289,000",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Porsche|911|2026|Carrera GTS": {
       "engine": "3.0 Flat-6 Turbo",
@@ -283,7 +283,7 @@
       "acceleration": 3.3,
       "topSpeed": 312,
       "price": "~$299,000",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Porsche|911|2026|Dakar": {
       "engine": "3.0 Flat-6 Turbo",
@@ -302,7 +302,7 @@
       "acceleration": 3.4,
       "topSpeed": 240,
       "price": "~$382,000",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Porsche|911|2026|Targa 4": {
       "engine": "3.0 Flat-6 Turbo",
@@ -321,7 +321,7 @@
       "acceleration": 4.4,
       "topSpeed": 290,
       "price": "~$278,000",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Porsche|911|2026|Targa 4S": {
       "engine": "3.0 Flat-6 Turbo",
@@ -340,7 +340,7 @@
       "acceleration": 3.8,
       "topSpeed": 308,
       "price": "~$315,000",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Porsche|911|2026|Turbo S": {
       "engine": "3.7 Flat-6 Biturbo",
@@ -359,7 +359,7 @@
       "acceleration": 2.7,
       "topSpeed": 330,
       "price": "~$499,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Porsche|Taycan|2026|Taycan 4S": {
       "engine": "Electric Dual Motor",

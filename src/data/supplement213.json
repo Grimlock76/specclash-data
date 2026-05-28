@@ -17,7 +17,7 @@
       "acceleration": 10.8,
       "topSpeed": 183,
       "price": "~$55,990",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett VGT Diesel Turbo"
     },
     "Mitsubishi|Triton|2015|Exceed": {
       "engine": "2.4L I4 Turbo Diesel 4N15 MIVEC",
@@ -36,7 +36,7 @@
       "acceleration": 11,
       "topSpeed": 175,
       "price": "~$48,990",
-      "aspiration": "Turbo"
+      "aspiration": "MHI VGT Diesel Turbo"
     },
     "Hyundai|Sonata|2015|Active": {
       "engine": "2.0L I4 NA G4NC Nu",
@@ -131,7 +131,7 @@
       "acceleration": 8.3,
       "topSpeed": 205,
       "price": "~$44,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Kia|Sportage|2015|Sport": {
       "engine": "2.0L I4 NA G4KD Theta II",
@@ -169,7 +169,7 @@
       "acceleration": 7,
       "topSpeed": 230,
       "price": "~$43,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volkswagen|Multivan|2015|TDI340": {
       "engine": "2.0L I4 Turbo Diesel TDI BiTDI",
@@ -188,7 +188,7 @@
       "acceleration": 12,
       "topSpeed": 193,
       "price": "~$64,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Multivan|2015|TDI450": {
       "engine": "2.0L I4 Biturbo Diesel TDI",
@@ -207,7 +207,7 @@
       "acceleration": 10,
       "topSpeed": 205,
       "price": "~$79,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "BMW|2 Series Active Tourer|2015|218i": {
       "engine": "1.5L I3 Turbo B38A15A",
@@ -226,7 +226,7 @@
       "acceleration": 9.7,
       "topSpeed": 205,
       "price": "~$44,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "BMW|2 Series Active Tourer|2015|220i": {
       "engine": "2.0L I4 Turbo B48A20A",
@@ -245,7 +245,7 @@
       "acceleration": 7.1,
       "topSpeed": 235,
       "price": "~$52,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Mercedes-Benz|GLC|2015|GLC200": {
       "engine": "2.0L I4 Turbo M274 de16",
@@ -264,7 +264,7 @@
       "acceleration": 7.4,
       "topSpeed": 218,
       "price": "~$67,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|GLC|2015|GLC220d": {
       "engine": "2.0L I4 Turbo Diesel OM651",
@@ -283,7 +283,7 @@
       "acceleration": 7.5,
       "topSpeed": 212,
       "price": "~$69,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Mercedes-Benz|GLC|2015|GLC250": {
       "engine": "2.0L I4 Turbo M274",
@@ -302,7 +302,7 @@
       "acceleration": 6.5,
       "topSpeed": 235,
       "price": "~$77,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|GLC|2015|GLC300": {
       "engine": "2.0L I4 Turbo M274",
@@ -321,7 +321,7 @@
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$87,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|GLC|2015|GLC43 AMG": {
       "engine": "3.0L V6 Biturbo M276 DE30",
@@ -340,7 +340,7 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "price": "~$119,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|GLC|2015|GLC63 S AMG": {
       "engine": "4.0L V8 Biturbo M177 DE40",
@@ -359,7 +359,7 @@
       "acceleration": 3.8,
       "topSpeed": 270,
       "price": "~$179,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     }
   }
 }

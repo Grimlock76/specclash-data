@@ -17,7 +17,7 @@
       "acceleration": 5.3,
       "topSpeed": 209,
       "price": "~$119,900",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Jaguar|I-Pace|2019|EV400 S": {
       "engine": "Dual Motor Electric",
@@ -188,7 +188,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "price": "~$59,900",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Land Rover|Range Rover Evoque|2019|SE": {
       "engine": "2.0L I4 Turbo Ingenium",
@@ -207,7 +207,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "price": "~$69,900",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Land Rover|Range Rover Evoque|2019|R-Dynamic": {
       "engine": "2.0L I4 Turbo Ingenium",
@@ -226,7 +226,7 @@
       "acceleration": 7.3,
       "topSpeed": 217,
       "price": "~$79,900",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Lexus|GS|2019|GS 300": {
       "engine": "2.0L I4 Turbo 8AR-FTS",
@@ -245,7 +245,7 @@
       "acceleration": 7.5,
       "topSpeed": 230,
       "price": "~$75,990",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Lexus|IS|2019|IS 300": {
       "engine": "2.0L I4 Turbo 8AR-FTS",
@@ -264,7 +264,7 @@
       "acceleration": 7.5,
       "topSpeed": 230,
       "price": "~$63,990",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Lexus|IS|2019|IS 300 F Sport": {
       "engine": "2.0L I4 Turbo 8AR-FTS",
@@ -283,7 +283,7 @@
       "acceleration": 7.4,
       "topSpeed": 230,
       "price": "~$71,990",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Maserati|Ghibli|2019|Trofeo": {
       "engine": "3.8L V8 Biturbo Ferrari",
@@ -302,7 +302,7 @@
       "acceleration": 4.3,
       "topSpeed": 326,
       "price": "~$339,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Maserati|Levante|2019|Trofeo": {
       "engine": "3.8L V8 Biturbo Ferrari",
@@ -321,7 +321,7 @@
       "acceleration": 4.3,
       "topSpeed": 304,
       "price": "~$379,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     }
   }
 }

@@ -17,7 +17,7 @@
       "acceleration": 3.8,
       "topSpeed": 306,
       "price": "~$189,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Aston Martin|Vantage|2020|F1 Edition": {
       "engine": "4.0L V8 Biturbo AMG",
@@ -36,7 +36,7 @@
       "acceleration": 3.7,
       "topSpeed": 305,
       "price": "~$399,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Jeep|Wrangler|2020|4xe": {
       "engine": "2.0L I4 Turbo PHEV",
@@ -55,7 +55,7 @@
       "acceleration": 6.5,
       "topSpeed": 200,
       "price": "~$79,950",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Jeep|Wrangler|2020|Rubicon 392": {
       "engine": "6.4L V8 HEMI NA",
@@ -93,7 +93,7 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "price": "~$50,490",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Kia|Sorento|2020|Sport+": {
       "engine": "2.2L I4 CRDi Diesel",
@@ -112,7 +112,7 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "price": "~$56,490",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Kia|Sorento|2020|GT-Line X": {
       "engine": "3.5L V6 MPI NA",
@@ -207,7 +207,7 @@
       "acceleration": 5.5,
       "topSpeed": 267,
       "price": "~$159,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Maserati|Ghibli|2020|Modena": {
       "engine": "3.0L V6 Biturbo S",
@@ -226,7 +226,7 @@
       "acceleration": 4.9,
       "topSpeed": 285,
       "price": "~$199,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Maserati|Levante|2020|GT": {
       "engine": "3.0L V6 Biturbo",
@@ -245,7 +245,7 @@
       "acceleration": 6.2,
       "topSpeed": 245,
       "price": "~$199,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Maserati|Levante|2020|Modena": {
       "engine": "3.0L V6 Biturbo S",
@@ -264,7 +264,7 @@
       "acceleration": 5.2,
       "topSpeed": 264,
       "price": "~$259,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Maserati|Quattroporte|2020|GT": {
       "engine": "3.0L V6 Biturbo",
@@ -283,7 +283,7 @@
       "acceleration": 5.5,
       "topSpeed": 263,
       "price": "~$249,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Maserati|Quattroporte|2020|Modena": {
       "engine": "3.0L V6 Biturbo S",
@@ -302,7 +302,7 @@
       "acceleration": 4.9,
       "topSpeed": 286,
       "price": "~$289,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Maserati|Quattroporte|2020|Trofeo": {
       "engine": "3.8L V8 Biturbo Ferrari",
@@ -321,7 +321,7 @@
       "acceleration": 4.3,
       "topSpeed": 326,
       "price": "~$399,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "McLaren|GT|2020|GT": {
       "engine": "4.0L V8 Biturbo M840T",
@@ -340,7 +340,7 @@
       "acceleration": 3.2,
       "topSpeed": 326,
       "price": "~$399,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Mercedes-Benz|AMG GT|2020|AMG GT 63 S": {
       "engine": "4.0L V8 Biturbo AMG",
@@ -359,7 +359,7 @@
       "acceleration": 3.2,
       "topSpeed": 315,
       "price": "~$399,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|AMG GT|2020|AMG GT R Pro": {
       "engine": "4.0L V8 Biturbo AMG",
@@ -378,7 +378,7 @@
       "acceleration": 3.6,
       "topSpeed": 318,
       "price": "~$499,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     }
   }
 }

@@ -93,7 +93,7 @@
       "acceleration": 10.7,
       "topSpeed": 185,
       "price": "~$37,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Cross|2026|110TSI Style": {
       "engine": "1.5 TSI",
@@ -112,7 +112,7 @@
       "acceleration": 9.6,
       "topSpeed": 200,
       "price": "~$44,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|T-Cross|2026|110TSI R-Line": {
       "engine": "1.5 TSI",
@@ -131,7 +131,7 @@
       "acceleration": 9.6,
       "topSpeed": 200,
       "price": "~$47,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|ID.Buzz|2026|Pro": {
       "engine": "Electric Single Motor",
@@ -207,7 +207,7 @@
       "acceleration": 4.9,
       "topSpeed": 240,
       "price": "~$209,900",
-      "aspiration": "Turbo"
+      "aspiration": "ZF Twin-Turbo"
     },
     "Land Rover|Defender|2026|110 P400e": {
       "engine": "2.0L I4 PHEV",
@@ -226,7 +226,7 @@
       "acceleration": 5.6,
       "topSpeed": 209,
       "price": "~$119,900",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Porsche|Panamera|2026|Sport Turismo": {
       "engine": "2.9L V6 Biturbo",
@@ -245,7 +245,7 @@
       "acceleration": 4,
       "topSpeed": 290,
       "price": "~$239,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Porsche|Panamera|2026|4S Sport Turismo": {
       "engine": "2.9L V6 Biturbo",
@@ -264,7 +264,7 @@
       "acceleration": 3.7,
       "topSpeed": 296,
       "price": "~$289,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Chevrolet|Corvette|2026|Stingray": {
       "engine": "6.2L V8 LT2",
@@ -321,7 +321,7 @@
       "acceleration": 3.6,
       "topSpeed": 250,
       "price": "~$229,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Audi|A6 allroad|2026|50 TDI quattro": {
       "engine": "3.0 TDI V6",
@@ -340,7 +340,7 @@
       "acceleration": 5.2,
       "topSpeed": 250,
       "price": "~$147,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Audi|A6|2026|55 TFSI quattro": {
       "engine": "3.0 TFSI V6",
@@ -359,7 +359,7 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$122,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|Q3|2026|40 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -378,7 +378,7 @@
       "acceleration": 7.9,
       "topSpeed": 209,
       "price": "~$55,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|Q5 Sportback|2026|SQ5 Sportback": {
       "engine": "3.0 TFSI V6",
@@ -397,7 +397,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$112,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|Q7|2026|45 TDI quattro": {
       "engine": "3.0 TDI V6",
@@ -416,7 +416,7 @@
       "acceleration": 6.5,
       "topSpeed": 230,
       "price": "~$107,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Mercedes-Benz|G-Class|2026|G 63 AMG": {
       "engine": "4.0L V8 Biturbo AMG",
@@ -435,7 +435,7 @@
       "acceleration": 4.5,
       "topSpeed": 220,
       "price": "~$419,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|AMG GT|2026|AMG GT 43": {
       "engine": "3.0L I6 Turbo MHEV",
@@ -454,7 +454,7 @@
       "acceleration": 4.6,
       "topSpeed": 250,
       "price": "~$199,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     }
   }
 }

@@ -17,7 +17,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$269,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|S-Class|2026|S 580 4MATIC": {
       "engine": "4.0L V8 Biturbo MHEV",
@@ -36,7 +36,7 @@
       "acceleration": 4.3,
       "topSpeed": 250,
       "price": "~$359,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|S-Class|2026|S 63 AMG e Performance": {
       "engine": "4.0L V8 PHEV AMG",
@@ -55,7 +55,7 @@
       "acceleration": 3.3,
       "topSpeed": 250,
       "price": "~$529,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo PHEV"
     },
     "Mercedes-Benz|S-Class|2026|Maybach S 580 4MATIC": {
       "engine": "4.0L V8 Biturbo MHEV",
@@ -74,7 +74,7 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$699,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|SL|2026|SL 43": {
       "engine": "2.0L I4 Turbo MHEV",
@@ -93,7 +93,7 @@
       "acceleration": 4.9,
       "topSpeed": 275,
       "price": "~$219,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|SL|2026|SL 63 AMG 4MATIC+": {
       "engine": "4.0L V8 Biturbo AMG",
@@ -112,7 +112,7 @@
       "acceleration": 3.6,
       "topSpeed": 275,
       "price": "~$459,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|AMG GT|2026|AMG GT 55 4MATIC+": {
       "engine": "4.0L V8 Biturbo AMG",
@@ -131,7 +131,7 @@
       "acceleration": 4,
       "topSpeed": 290,
       "price": "~$279,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|AMG GT|2026|AMG GT 63 S E Performance": {
       "engine": "4.0L V8 PHEV AMG",
@@ -150,7 +150,7 @@
       "acceleration": 2.9,
       "topSpeed": 316,
       "price": "~$499,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Toyota|Vellfire|2026|Executive": {
       "engine": "2.5L I4 Hybrid Atkinson",
@@ -226,7 +226,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "price": "~$67,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo"
     },
     "Toyota|Land Cruiser 70|2026|GX": {
       "engine": "2.8L I4 Turbo Diesel",
@@ -245,7 +245,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "price": "~$74,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo"
     },
     "Toyota|Land Cruiser 70|2026|GXL": {
       "engine": "2.8L I4 Turbo Diesel",
@@ -264,7 +264,7 @@
       "acceleration": 12.2,
       "topSpeed": 175,
       "price": "~$80,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo"
     },
     "Audi|A5|2026|45 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -283,7 +283,7 @@
       "acceleration": 6.2,
       "topSpeed": 250,
       "price": "~$79,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A5|2026|S5": {
       "engine": "3.0 TFSI V6",
@@ -302,7 +302,7 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$109,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A7|2026|50 TFSI e quattro": {
       "engine": "3.0 TFSI V6 PHEV",
@@ -321,7 +321,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$159,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A8|2026|60 TFSI e quattro L": {
       "engine": "3.0 TFSI V6 PHEV",
@@ -340,7 +340,7 @@
       "acceleration": 4.1,
       "topSpeed": 250,
       "price": "~$289,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Renault|Austral|2026|Intens": {
       "engine": "1.3 TCe",
@@ -359,7 +359,7 @@
       "acceleration": 9.8,
       "topSpeed": 185,
       "price": "~$44,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Renault|Austral|2026|Iconic": {
       "engine": "1.3 TCe",
@@ -378,7 +378,7 @@
       "acceleration": 9.8,
       "topSpeed": 185,
       "price": "~$49,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Renault|Austral|2026|E-Tech Iconic": {
       "engine": "1.2 TCe E-Tech Full Hybrid",
@@ -397,7 +397,7 @@
       "acceleration": 9,
       "topSpeed": 180,
       "price": "~$56,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Renault|Scenic|2026|E-Tech Intens": {
       "engine": "Electric 60 kWh",

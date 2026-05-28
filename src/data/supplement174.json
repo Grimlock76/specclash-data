@@ -17,7 +17,7 @@
       "acceleration": 3.3,
       "topSpeed": 312,
       "price": "~$264,000",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Porsche|911|2023|GT3 RS": {
       "engine": "4.0L Flat-6 NA",
@@ -55,7 +55,7 @@
       "acceleration": 3,
       "topSpeed": 320,
       "price": "~$365,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo"
     },
     "Porsche|911|2023|Turbo Cabriolet": {
       "engine": "3.8L Flat-6 Twin-Turbo",
@@ -74,7 +74,7 @@
       "acceleration": 3.1,
       "topSpeed": 320,
       "price": "~$385,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo"
     },
     "Porsche|911|2023|Turbo S": {
       "engine": "3.7 Flat-6 Biturbo",
@@ -93,7 +93,7 @@
       "acceleration": 2.7,
       "topSpeed": 330,
       "price": "~$454,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Porsche|911|2023|Turbo S Cabriolet": {
       "engine": "3.8L Flat-6 Twin-Turbo",
@@ -112,7 +112,7 @@
       "acceleration": 2.7,
       "topSpeed": 330,
       "price": "~$445,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo"
     },
     "Porsche|Taycan|2023|Sport Turismo": {
       "engine": "Single Motor Electric",
@@ -188,7 +188,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$249,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|S-Class|2023|S 580 4MATIC": {
       "engine": "4.0L V8 Biturbo MHEV",
@@ -207,7 +207,7 @@
       "acceleration": 4.3,
       "topSpeed": 250,
       "price": "~$339,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|S-Class|2023|S 63 AMG e Performance": {
       "engine": "4.0L V8 PHEV AMG",
@@ -226,7 +226,7 @@
       "acceleration": 3.3,
       "topSpeed": 250,
       "price": "~$509,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo PHEV"
     },
     "Mercedes-Benz|S-Class|2023|Maybach S 580 4MATIC": {
       "engine": "4.0L V8 Biturbo MHEV",
@@ -245,7 +245,7 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$679,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|AMG GT|2023|AMG GT 55 4MATIC+": {
       "engine": "4.0L V8 Biturbo AMG",
@@ -264,7 +264,7 @@
       "acceleration": 4,
       "topSpeed": 290,
       "price": "~$259,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|AMG GT|2023|AMG GT 63 S E Performance": {
       "engine": "4.0L V8 PHEV AMG",
@@ -283,7 +283,7 @@
       "acceleration": 2.9,
       "topSpeed": 316,
       "price": "~$479,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lexus|ES|2023|ES 300h F Sport": {
       "engine": "2.5L I4 Atkinson Hybrid",
@@ -340,7 +340,7 @@
       "acceleration": 7.4,
       "topSpeed": 210,
       "price": "~$209,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota Twin-Turbo"
     },
     "Lexus|LX|2023|LX 600 Sports Luxury": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -359,7 +359,7 @@
       "acceleration": 7.4,
       "topSpeed": 210,
       "price": "~$199,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota Twin-Turbo"
     },
     "Lexus|RX|2023|RX 350h": {
       "engine": "2.5L I4 Atkinson Hybrid",
@@ -416,7 +416,7 @@
       "acceleration": 5,
       "topSpeed": 200,
       "price": "~$112,990",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Bentley|Bentayga|2023|S": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -435,7 +435,7 @@
       "acceleration": 4.4,
       "topSpeed": 290,
       "price": "~$354,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Bentley|Bentayga|2023|EWB": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -454,7 +454,7 @@
       "acceleration": 4.5,
       "topSpeed": 290,
       "price": "~$454,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     }
   }
 }

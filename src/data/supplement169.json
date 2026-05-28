@@ -17,7 +17,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$264,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|S-Class|2025|S 580 4MATIC": {
       "engine": "4.0L V8 Biturbo MHEV",
@@ -36,7 +36,7 @@
       "acceleration": 4.3,
       "topSpeed": 250,
       "price": "~$354,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|S-Class|2025|S 63 AMG e Performance": {
       "engine": "4.0L V8 PHEV AMG",
@@ -55,7 +55,7 @@
       "acceleration": 3.3,
       "topSpeed": 250,
       "price": "~$524,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo PHEV"
     },
     "Mercedes-Benz|S-Class|2025|Maybach S 580 4MATIC": {
       "engine": "4.0L V8 Biturbo MHEV",
@@ -74,7 +74,7 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$694,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|SL|2025|SL 43": {
       "engine": "2.0L I4 Turbo MHEV",
@@ -93,7 +93,7 @@
       "acceleration": 4.9,
       "topSpeed": 275,
       "price": "~$214,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|SL|2025|SL 63 AMG 4MATIC+": {
       "engine": "4.0L V8 Biturbo AMG",
@@ -112,7 +112,7 @@
       "acceleration": 3.6,
       "topSpeed": 275,
       "price": "~$454,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|AMG GT|2025|AMG GT 55 4MATIC+": {
       "engine": "4.0L V8 Biturbo AMG",
@@ -131,7 +131,7 @@
       "acceleration": 4,
       "topSpeed": 290,
       "price": "~$274,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|AMG GT|2025|AMG GT 63 S E Performance": {
       "engine": "4.0L V8 PHEV AMG",
@@ -150,7 +150,7 @@
       "acceleration": 2.9,
       "topSpeed": 316,
       "price": "~$494,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Porsche|911|2025|Carrera GTS": {
       "engine": "3.0 Flat-6 Turbo",
@@ -169,7 +169,7 @@
       "acceleration": 3.3,
       "topSpeed": 312,
       "price": "~$294,000",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Porsche|Taycan|2025|Taycan Turbo GT": {
       "engine": "Electric Quad Motor",
@@ -207,7 +207,7 @@
       "acceleration": 6.2,
       "topSpeed": 250,
       "price": "~$74,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A5|2025|S5": {
       "engine": "3.0 TFSI V6",
@@ -226,7 +226,7 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$104,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     }
   }
 }

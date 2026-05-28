@@ -17,7 +17,7 @@
       "acceleration": 7.3,
       "topSpeed": 236,
       "price": "~$59,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A4|2024|40 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -36,7 +36,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "price": "~$75,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A6|2024|55 TFSI quattro": {
       "engine": "3.0 TFSI V6",
@@ -55,7 +55,7 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$119,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|Q3|2024|40 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -74,7 +74,7 @@
       "acceleration": 7.9,
       "topSpeed": 209,
       "price": "~$52,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|Q7|2024|45 TDI quattro": {
       "engine": "3.0 TDI V6",
@@ -93,7 +93,7 @@
       "acceleration": 6.5,
       "topSpeed": 230,
       "price": "~$104,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Audi|Q5 Sportback|2024|SQ5 Sportback": {
       "engine": "3.0 TFSI V6",
@@ -112,7 +112,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$109,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A7|2024|50 TFSI e quattro": {
       "engine": "3.0 TFSI V6 PHEV",
@@ -131,7 +131,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$149,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A8|2024|60 TFSI e quattro L": {
       "engine": "3.0 TFSI V6 PHEV",
@@ -150,7 +150,7 @@
       "acceleration": 4.1,
       "topSpeed": 250,
       "price": "~$279,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|Q2|2024|40 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -169,7 +169,7 @@
       "acceleration": 7.1,
       "topSpeed": 224,
       "price": "~$60,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A4 allroad|2024|50 TDI quattro": {
       "engine": "3.0 TDI V6",
@@ -188,7 +188,7 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$103,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Skoda|Octavia|2024|Ambition": {
       "engine": "1.5 TSI",
@@ -207,7 +207,7 @@
       "acceleration": 8.7,
       "topSpeed": 213,
       "price": "~$34,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Porsche|Cayenne|2024|GTS": {
       "engine": "4.0L V8 biturbo",
@@ -226,7 +226,7 @@
       "acceleration": 4.5,
       "topSpeed": 270,
       "price": "~$244,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Porsche|Macan|2024|Electric": {
       "engine": "Electric Single Motor 95 kWh",
@@ -302,7 +302,7 @@
       "acceleration": 7.5,
       "topSpeed": 195,
       "price": "~$67,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "BYD|Shark|2024|Premium": {
       "engine": "1.5L I4 Turbo PHEV",
@@ -321,7 +321,7 @@
       "acceleration": 5.7,
       "topSpeed": 175,
       "price": "~$67,990",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Renault|Megane E-Tech|2024|EV40": {
       "engine": "Electric 40 kWh",

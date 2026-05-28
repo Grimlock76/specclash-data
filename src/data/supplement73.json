@@ -2627,7 +2627,7 @@
       "ca": "250 L",
       "pr": "~A$16,000",
       "qm": "~15.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Datsun|280ZX|1981|Targa": {
       "en": "2.8L SOHC inline-6 EFI (L28E)",
@@ -2692,7 +2692,7 @@
       "ca": "250 L",
       "pr": "~A$16,000",
       "qm": "~15.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Datsun|280ZX|1982|Targa": {
       "en": "2.8L SOHC inline-6 EFI (L28E)",
@@ -2757,7 +2757,7 @@
       "ca": "250 L",
       "pr": "~A$16,000",
       "qm": "~15.5 sec",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Datsun|280ZX|1983|Targa": {
       "en": "2.8L SOHC inline-6 EFI (L28E)",
@@ -3658,7 +3658,7 @@
       "se": "5",
       "ca": "340 L",
       "pr": "~A$9,000",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Datsun|Skyline|1979|2000GT": {
       "en": "2.0L SOHC inline-6 (L20A)",
@@ -3706,7 +3706,7 @@
       "se": "5",
       "ca": "340 L",
       "pr": "~A$9,000",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Datsun|Skyline|1980|2000GT": {
       "en": "2.0L SOHC inline-6 (L20A)",
@@ -3754,7 +3754,7 @@
       "se": "5",
       "ca": "340 L",
       "pr": "~A$9,000",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Datsun|Skyline|1981|2000GT": {
       "en": "2.0L SOHC inline-6 (L20A)",
@@ -3802,7 +3802,7 @@
       "se": "5",
       "ca": "340 L",
       "pr": "~A$9,000",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Datsun|Laurel|1969|Standard": {
       "en": "1.8L SOHC inline-4 (L18)",
@@ -4762,7 +4762,7 @@
       "se": "5",
       "ca": "N/A",
       "pr": "~A$7,500",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Diesel Turbo"
     },
     "Datsun|Patrol|1981|Hardtop": {
       "en": "3.0L OHV inline-6 (P30)",
@@ -4810,7 +4810,7 @@
       "se": "5",
       "ca": "N/A",
       "pr": "~A$7,500",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Diesel Turbo"
     },
     "Datsun|Patrol|1982|Hardtop": {
       "en": "3.0L OHV inline-6 (P30)",
@@ -4858,7 +4858,7 @@
       "se": "5",
       "ca": "N/A",
       "pr": "~A$7,500",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Diesel Turbo"
     },
     "Datsun|Fairlady 1500|1961|Standard": {
       "en": "1.5L SOHC inline-4 (R16)",
@@ -5722,7 +5722,7 @@
       "se": "4",
       "ca": "220 L",
       "pr": "~A$8,500",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Datsun|Silvia|1981|Standard": {
       "en": "1.8L SOHC inline-4 (L18)",
@@ -5770,7 +5770,7 @@
       "se": "4",
       "ca": "220 L",
       "pr": "~A$8,500",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Datsun|Silvia|1982|Standard": {
       "en": "1.8L SOHC inline-4 (L18)",
@@ -5818,7 +5818,7 @@
       "se": "4",
       "ca": "220 L",
       "pr": "~A$8,500",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Datsun|Silvia|1983|Standard": {
       "en": "1.8L SOHC inline-4 (L18)",
@@ -5866,7 +5866,7 @@
       "se": "4",
       "ca": "220 L",
       "pr": "~A$8,500",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Datsun|910 Bluebird|1979|Standard": {
       "en": "1.6L SOHC inline-4 (L16)",
@@ -6538,7 +6538,7 @@
       "se": "5",
       "ca": "400 L",
       "pr": "~A$8,500",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Diesel Turbo"
     },
     "Datsun|Cedric|1980|GL": {
       "en": "2.0L SOHC inline-6 (L20B)",
@@ -6586,7 +6586,7 @@
       "se": "5",
       "ca": "400 L",
       "pr": "~A$8,500",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Diesel Turbo"
     },
     "Datsun|Cedric|1981|GL": {
       "en": "2.0L SOHC inline-6 (L20B)",
@@ -6634,7 +6634,7 @@
       "se": "5",
       "ca": "400 L",
       "pr": "~A$8,500",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Diesel Turbo"
     },
     "Datsun|Cedric|1982|GL": {
       "en": "2.0L SOHC inline-6 (L20B)",
@@ -6682,7 +6682,7 @@
       "se": "5",
       "ca": "400 L",
       "pr": "~A$8,500",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Diesel Turbo"
     },
     "Datsun|Cedric|1983|GL": {
       "en": "2.0L SOHC inline-6 (L20B)",
@@ -6730,7 +6730,7 @@
       "se": "5",
       "ca": "400 L",
       "pr": "~A$8,500",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Diesel Turbo"
     },
     "Datsun|Go|2013|Standard": {
       "en": "1.2L inline-3 (HR12DE)",

@@ -131,7 +131,7 @@
       "acceleration": 11.5,
       "topSpeed": 175,
       "price": "~$50,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Ranger|2025|P703 XLT": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -150,7 +150,7 @@
       "acceleration": 10.5,
       "topSpeed": 180,
       "price": "~$60,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Ranger|2025|P703 Wildtrak": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -169,7 +169,7 @@
       "acceleration": 10.5,
       "topSpeed": 180,
       "price": "~$72,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Ranger|2025|P703 FX4 Max": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -188,7 +188,7 @@
       "acceleration": 10.5,
       "topSpeed": 178,
       "price": "~$78,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Ranger|2025|P703 Raptor": {
       "engine": "3.0L V6 EcoBoost Petrol",
@@ -207,7 +207,7 @@
       "acceleration": 7.9,
       "topSpeed": 180,
       "price": "~$87,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Ford|Ranger|2026|P703 XL": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -226,7 +226,7 @@
       "acceleration": 11.5,
       "topSpeed": 175,
       "price": "~$52,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Ranger|2026|P703 XLT": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -245,7 +245,7 @@
       "acceleration": 10.5,
       "topSpeed": 180,
       "price": "~$62,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Ranger|2026|P703 Wildtrak": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -264,7 +264,7 @@
       "acceleration": 10.5,
       "topSpeed": 180,
       "price": "~$74,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Ranger|2026|P703 FX4 Max": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -283,7 +283,7 @@
       "acceleration": 10.5,
       "topSpeed": 178,
       "price": "~$80,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Ranger|2026|P703 Raptor": {
       "engine": "3.0L V6 EcoBoost Petrol",
@@ -302,7 +302,7 @@
       "acceleration": 7.9,
       "topSpeed": 180,
       "price": "~$89,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Mini|Countryman|2026|Cooper": {
       "engine": "1.5L I3 TwinPower Turbo",
@@ -321,7 +321,7 @@
       "acceleration": 8.9,
       "topSpeed": 199,
       "price": "~$57,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Mini|Countryman|2026|Cooper S ALL4": {
       "engine": "2.0L I4 TwinPower Turbo",
@@ -340,7 +340,7 @@
       "acceleration": 6.4,
       "topSpeed": 228,
       "price": "~$66,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Audi|Q2|2026|40 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -359,7 +359,7 @@
       "acceleration": 7.1,
       "topSpeed": 224,
       "price": "~$64,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A4 allroad|2026|45 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -378,7 +378,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$99,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A4 allroad|2026|50 TDI quattro": {
       "engine": "3.0 TDI V6",
@@ -397,7 +397,7 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$109,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     }
   }
 }

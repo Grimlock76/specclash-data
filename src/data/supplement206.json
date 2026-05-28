@@ -17,7 +17,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "price": "~$28,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Hyundai|Ioniq|2017|Elite Electric": {
       "engine": "Single Motor Electric",
@@ -112,7 +112,7 @@
       "acceleration": 8.1,
       "topSpeed": 209,
       "price": "~$86,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Land Rover|Discovery|2017|HSE": {
       "engine": "3.0L V6 SC Si6 Ingenium",
@@ -131,7 +131,7 @@
       "acceleration": 7.1,
       "topSpeed": 215,
       "price": "~$119,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Lexus|NX|2017|NX 300": {
       "engine": "2.0L I4 Turbo 8AR-FTS",
@@ -150,7 +150,7 @@
       "acceleration": 7.2,
       "topSpeed": 200,
       "price": "~$56,990",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Lotus|Evora 400|2017|Sport 410": {
       "engine": "3.5L V6 SC Toyota 2GR-FE",
@@ -169,7 +169,7 @@
       "acceleration": 4,
       "topSpeed": 300,
       "price": "~$219,900",
-      "aspiration": "Supercharged"
+      "aspiration": "Harrop Eaton TVS1900 Supercharged"
     },
     "Mazda|CX-5|2017|Touring": {
       "engine": "2.5L I4 NA Skyactiv-G 25",
@@ -226,7 +226,7 @@
       "acceleration": 8.3,
       "topSpeed": 195,
       "price": "~$46,990",
-      "aspiration": "Turbo"
+      "aspiration": "MHI Single-Turbo"
     },
     "Mazda|CX-9|2017|Touring": {
       "engine": "2.5L I4 Turbo Skyactiv-G 2.5T",
@@ -245,7 +245,7 @@
       "acceleration": 8.4,
       "topSpeed": 195,
       "price": "~$53,990",
-      "aspiration": "Turbo"
+      "aspiration": "MHI Single-Turbo"
     },
     "Mazda|CX-9|2017|Azami": {
       "engine": "2.5L I4 Turbo Skyactiv-G 2.5T",
@@ -264,7 +264,7 @@
       "acceleration": 8.4,
       "topSpeed": 195,
       "price": "~$63,490",
-      "aspiration": "Turbo"
+      "aspiration": "MHI Single-Turbo"
     },
     "Peugeot|5008|2017|GT": {
       "engine": "1.6L I4 Turbo PureTech 165",
@@ -283,7 +283,7 @@
       "acceleration": 9.7,
       "topSpeed": 200,
       "price": "~$51,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Porsche|911|2017|GT3": {
       "engine": "4.0L F6 NA 991.2",

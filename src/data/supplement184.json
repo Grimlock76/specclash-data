@@ -17,7 +17,7 @@
       "acceleration": 3.3,
       "topSpeed": 310,
       "price": "~$429,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Audi|A3|2022|40 TFSI quattro": {
       "engine": "2.0L I4 Turbo TFSI",
@@ -36,7 +36,7 @@
       "acceleration": 7.1,
       "topSpeed": 230,
       "price": "~$52,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|Q3|2022|35 TFSI": {
       "engine": "1.5L I4 Turbo TFSI",
@@ -55,7 +55,7 @@
       "acceleration": 9.5,
       "topSpeed": 210,
       "price": "~$54,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "BMW|M2|2022|M2 Coupe": {
       "engine": "3.0L I6 Twin-Turbo M TwinPower",
@@ -74,7 +74,7 @@
       "acceleration": 4.1,
       "topSpeed": 250,
       "price": "~$129,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|M3|2022|Touring Competition xDrive": {
       "engine": "3.0L I6 Twin-Turbo M TwinPower",
@@ -93,7 +93,7 @@
       "acceleration": 3.5,
       "topSpeed": 280,
       "price": "~$199,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Dodge|Challenger|2022|SXT": {
       "engine": "3.6L V6 Pentastar",
@@ -150,7 +150,7 @@
       "acceleration": 7.5,
       "topSpeed": 210,
       "price": "~$47,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Genesis|G70|2022|Shooting Brake 2.0T": {
       "engine": "2.0L I4 Turbo",
@@ -169,7 +169,7 @@
       "acceleration": 6.5,
       "topSpeed": 240,
       "price": "~$74,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Hyundai|Santa Fe|2022|Elite PHEV": {
       "engine": "1.6L I4 Turbo PHEV",
@@ -188,7 +188,7 @@
       "acceleration": 8,
       "topSpeed": 195,
       "price": "~$67,300",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Hyundai|Santa Fe|2022|Calligraphy PHEV": {
       "engine": "1.6L I4 Turbo PHEV",
@@ -207,7 +207,7 @@
       "acceleration": 8,
       "topSpeed": 195,
       "price": "~$76,300",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Isuzu|MU-X|2022|X-Terrain": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -226,7 +226,7 @@
       "acceleration": 10.5,
       "topSpeed": 185,
       "price": "~$66,900",
-      "aspiration": "Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo"
     },
     "Kia|Niro|2022|Sport Hybrid": {
       "engine": "1.6L I4 GDI Hybrid",
@@ -283,7 +283,7 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$249,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota Twin-Turbo"
     },
     "Lotus|Emira|2022|V6 Sport": {
       "engine": "3.5L V6 Supercharged",
@@ -302,7 +302,7 @@
       "acceleration": 4.3,
       "topSpeed": 290,
       "price": "~$145,900",
-      "aspiration": "Supercharged"
+      "aspiration": "Harrop Eaton TVS1900 Supercharged"
     },
     "Lotus|Emira|2022|i4 AMG": {
       "engine": "2.0L I4 Turbo AMG",
@@ -321,7 +321,7 @@
       "acceleration": 4.4,
       "topSpeed": 290,
       "price": "~$139,900",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "MG|MG HS|2022|PHEV Trophy": {
       "engine": "1.5L I4 Turbo PHEV",
@@ -340,7 +340,7 @@
       "acceleration": 6.9,
       "topSpeed": 200,
       "price": "~$47,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     }
   }
 }

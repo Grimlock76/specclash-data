@@ -811,7 +811,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.2 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "BMW|7 Series|2023|740i xDrive": {
       "engine": "B58TU3O2 3.0L Turbo I6",
@@ -833,7 +833,7 @@
       "topSpeed": 250,
       "drivetrain": "AWD",
       "quarterMile": "~13.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "BMW|7 Series|2023|760i xDrive": {
       "engine": "N74B66 4.4L V8 BiTurbo",
@@ -855,7 +855,7 @@
       "topSpeed": 250,
       "drivetrain": "AWD",
       "quarterMile": "~12.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|7 Series|2024|740i": {
       "engine": "B58TU3O2 3.0L Turbo I6",
@@ -876,7 +876,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.2 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "BMW|7 Series|2024|740i xDrive": {
       "engine": "B58TU3O2 3.0L Turbo I6",
@@ -898,7 +898,7 @@
       "topSpeed": 250,
       "drivetrain": "AWD",
       "quarterMile": "~13.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "BMW|7 Series|2024|760i xDrive": {
       "engine": "N74B66 4.4L V8 BiTurbo",
@@ -920,7 +920,7 @@
       "topSpeed": 250,
       "drivetrain": "AWD",
       "quarterMile": "~12.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|7 Series|2025|740i": {
       "engine": "B58TU3O2 3.0L Turbo I6",
@@ -941,7 +941,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.2 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "BMW|7 Series|2025|740i xDrive": {
       "engine": "B58TU3O2 3.0L Turbo I6",
@@ -963,7 +963,7 @@
       "topSpeed": 250,
       "drivetrain": "AWD",
       "quarterMile": "~13.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "BMW|7 Series|2025|760i xDrive": {
       "engine": "N74B66 4.4L V8 BiTurbo",
@@ -985,7 +985,7 @@
       "topSpeed": 250,
       "drivetrain": "AWD",
       "quarterMile": "~12.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|7 Series|2026|740i": {
       "engine": "B58TU3O2 3.0L Turbo I6",
@@ -1006,7 +1006,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "quarterMile": "~13.2 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "BMW|7 Series|2026|740i xDrive": {
       "engine": "B58TU3O2 3.0L Turbo I6",
@@ -1028,7 +1028,7 @@
       "topSpeed": 250,
       "drivetrain": "AWD",
       "quarterMile": "~13.0 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "BMW|7 Series|2026|760i xDrive": {
       "engine": "N74B66 4.4L V8 BiTurbo",
@@ -1050,7 +1050,7 @@
       "topSpeed": 250,
       "drivetrain": "AWD",
       "quarterMile": "~12.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Mercedes-Benz|E-Class|2024|E200": {
       "engine": "M254 B20 EQ Boost 2.0L MHEV I4",
@@ -1113,7 +1113,7 @@
       "topSpeed": 240,
       "cargo": 540,
       "quarterMile": "~14.6 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Mercedes-Benz|E-Class|2024|AMG E53 4MATIC+": {
       "engine": "M256 3.0L I6 PHEV",
@@ -1198,7 +1198,7 @@
       "topSpeed": 240,
       "cargo": 540,
       "quarterMile": "~14.6 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Mercedes-Benz|E-Class|2025|AMG E53 4MATIC+": {
       "engine": "M256 3.0L I6 PHEV",
@@ -1283,7 +1283,7 @@
       "topSpeed": 240,
       "cargo": 540,
       "quarterMile": "~14.6 sec",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Mercedes-Benz|E-Class|2026|AMG E53 4MATIC+": {
       "engine": "M256 3.0L I6 PHEV",
@@ -1327,7 +1327,7 @@
       "fh": 4.6,
       "fx": 8.7,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|B-Class|2024|B 200": {
       "engine": "M282 1.3L Turbo I4",
@@ -1349,7 +1349,7 @@
       "fh": 4.6,
       "fx": 8.7,
       "quarterMile": "~16.3 sec",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     }
   }
 }

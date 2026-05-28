@@ -131,7 +131,7 @@
       "acceleration": 3.9,
       "topSpeed": 250,
       "price": "~$189,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|M4|2022|M4 Competition xDrive Convertible": {
       "engine": "3.0L I6 Twin-Turbo M TwinPower",
@@ -150,7 +150,7 @@
       "acceleration": 3.7,
       "topSpeed": 250,
       "price": "~$199,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Mercedes-Benz|GLC|2022|GLC300e": {
       "engine": "2.0L I4 Turbo PHEV",
@@ -169,7 +169,7 @@
       "acceleration": 6.6,
       "topSpeed": 210,
       "price": "~$119,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|GLC|2022|GLC63 S E AMG": {
       "engine": "2.0L I4 Twin-Turbo PHEV AMG",
@@ -188,7 +188,7 @@
       "acceleration": 3.5,
       "topSpeed": 250,
       "price": "~$249,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Porsche|Cayenne|2022|Turbo GT": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -207,7 +207,7 @@
       "acceleration": 3.3,
       "topSpeed": 300,
       "price": "~$499,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Porsche|Cayenne|2022|Turbo S": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -226,7 +226,7 @@
       "acceleration": 3.9,
       "topSpeed": 286,
       "price": "~$395,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Mazda|CX-3|2022|Maxx Sport": {
       "engine": "2.0L I4 NA",
@@ -283,7 +283,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "price": "~$37,490",
-      "aspiration": "Turbo"
+      "aspiration": "MHI Single-Turbo"
     },
     "Mitsubishi|ASX|2022|MK2 LS": {
       "engine": "1.3L I4 Turbo",
@@ -302,7 +302,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "price": "~$41,490",
-      "aspiration": "Turbo"
+      "aspiration": "MHI Single-Turbo"
     },
     "Mitsubishi|Eclipse Cross|2022|PHEV ES": {
       "engine": "2.4L I4 PHEV",
@@ -359,7 +359,7 @@
       "acceleration": 3.5,
       "topSpeed": 305,
       "price": "~$480,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Lamborghini|Urus|2022|Performante": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -378,7 +378,7 @@
       "acceleration": 3.3,
       "topSpeed": 306,
       "price": "~$540,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     }
   }
 }

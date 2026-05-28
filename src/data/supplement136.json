@@ -17,7 +17,7 @@
       "acceleration": 8.6,
       "topSpeed": 161,
       "price": "~$136,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "INEOS|Grenadier|2023|Trailmaster Diesel": {
       "engine": "3.0L 6-cyl B57 TwinPower Turbo Diesel",
@@ -36,7 +36,7 @@
       "acceleration": 9.2,
       "topSpeed": 161,
       "price": "~$139,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "INEOS|Quartermaster|2023|Diesel": {
       "engine": "3.0L 6-cyl B57 TwinPower Turbo Diesel",
@@ -55,7 +55,7 @@
       "acceleration": 9.2,
       "topSpeed": 161,
       "price": "~$149,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "INEOS|Grenadier|2024|Trailmaster Petrol": {
       "engine": "3.0L 6-cyl B58 TwinPower Turbo",
@@ -74,7 +74,7 @@
       "acceleration": 8.6,
       "topSpeed": 161,
       "price": "~$139,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "INEOS|Grenadier|2024|Trailmaster Diesel": {
       "engine": "3.0L 6-cyl B57 TwinPower Turbo Diesel",
@@ -93,7 +93,7 @@
       "acceleration": 9.2,
       "topSpeed": 161,
       "price": "~$142,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "INEOS|Quartermaster|2024|Diesel": {
       "engine": "3.0L 6-cyl B57 TwinPower Turbo Diesel",
@@ -112,7 +112,7 @@
       "acceleration": 9.2,
       "topSpeed": 161,
       "price": "~$152,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "INEOS|Grenadier|2025|Trailmaster Petrol": {
       "engine": "3.0L 6-cyl B58 TwinPower Turbo",
@@ -131,7 +131,7 @@
       "acceleration": 8.6,
       "topSpeed": 161,
       "price": "~$142,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "INEOS|Grenadier|2025|Trailmaster Diesel": {
       "engine": "3.0L 6-cyl B57 TwinPower Turbo Diesel",
@@ -150,7 +150,7 @@
       "acceleration": 9.2,
       "topSpeed": 161,
       "price": "~$145,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "INEOS|Quartermaster|2025|Diesel": {
       "engine": "3.0L 6-cyl B57 TwinPower Turbo Diesel",
@@ -169,7 +169,7 @@
       "acceleration": 9.2,
       "topSpeed": 161,
       "price": "~$155,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "INEOS|Grenadier|2026|Trailmaster Petrol": {
       "engine": "3.0L 6-cyl B58 TwinPower Turbo",
@@ -188,7 +188,7 @@
       "acceleration": 8.6,
       "topSpeed": 161,
       "price": "~$145,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "INEOS|Grenadier|2026|Trailmaster Diesel": {
       "engine": "3.0L 6-cyl B57 TwinPower Turbo Diesel",
@@ -207,7 +207,7 @@
       "acceleration": 9.2,
       "topSpeed": 161,
       "price": "~$148,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "INEOS|Quartermaster|2026|Diesel": {
       "engine": "3.0L 6-cyl B57 TwinPower Turbo Diesel",
@@ -226,7 +226,7 @@
       "acceleration": 9.2,
       "topSpeed": 161,
       "price": "~$158,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "BMW|M3|2022|Touring Competition xDrive": {
       "engine": "3.0L 6-cyl S58 Twin-Turbo",
@@ -245,7 +245,7 @@
       "acceleration": 3.6,
       "topSpeed": 290,
       "price": "~$199,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|M3|2023|Touring Competition xDrive": {
       "engine": "3.0L 6-cyl S58 Twin-Turbo",
@@ -264,7 +264,7 @@
       "acceleration": 3.6,
       "topSpeed": 290,
       "price": "~$205,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|M3|2024|Touring Competition xDrive": {
       "engine": "3.0L 6-cyl S58 Twin-Turbo",
@@ -283,7 +283,7 @@
       "acceleration": 3.6,
       "topSpeed": 290,
       "price": "~$211,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|M3|2025|Touring Competition xDrive": {
       "engine": "3.0L 6-cyl S58 Twin-Turbo",
@@ -302,7 +302,7 @@
       "acceleration": 3.6,
       "topSpeed": 290,
       "price": "~$217,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|M3|2026|Touring Competition xDrive": {
       "engine": "3.0L 6-cyl S58 Twin-Turbo",
@@ -321,7 +321,7 @@
       "acceleration": 3.6,
       "topSpeed": 290,
       "price": "~$223,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|M4|2022|M4 Competition Convertible": {
       "engine": "3.0L 6-cyl S58 Twin-Turbo",
@@ -340,7 +340,7 @@
       "drivetrain": "RWD",
       "acceleration": 4.2,
       "price": "~$225,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|M4|2022|M4 Competition xDrive Convertible": {
       "engine": "3.0L 6-cyl S58 Twin-Turbo",
@@ -359,7 +359,7 @@
       "drivetrain": "AWD",
       "acceleration": 3.9,
       "price": "~$244,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|M4|2023|M4 Competition Convertible": {
       "engine": "3.0L 6-cyl S58 Twin-Turbo",
@@ -378,7 +378,7 @@
       "drivetrain": "RWD",
       "acceleration": 4.2,
       "price": "~$231,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|M4|2023|M4 Competition xDrive Convertible": {
       "engine": "3.0L 6-cyl S58 Twin-Turbo",
@@ -397,7 +397,7 @@
       "drivetrain": "AWD",
       "acceleration": 3.9,
       "price": "~$250,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|M4|2024|M4 Competition Convertible": {
       "engine": "3.0L 6-cyl S58 Twin-Turbo",
@@ -416,7 +416,7 @@
       "drivetrain": "RWD",
       "acceleration": 4.2,
       "price": "~$237,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|M4|2024|M4 Competition xDrive Convertible": {
       "engine": "3.0L 6-cyl S58 Twin-Turbo",
@@ -435,7 +435,7 @@
       "drivetrain": "AWD",
       "acceleration": 3.9,
       "price": "~$256,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|M4|2025|M4 Competition Convertible": {
       "engine": "3.0L 6-cyl S58 Twin-Turbo",
@@ -454,7 +454,7 @@
       "drivetrain": "RWD",
       "acceleration": 4.2,
       "price": "~$243,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|M4|2025|M4 Competition xDrive Convertible": {
       "engine": "3.0L 6-cyl S58 Twin-Turbo",
@@ -473,7 +473,7 @@
       "drivetrain": "AWD",
       "acceleration": 3.9,
       "price": "~$262,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|M4|2026|M4 Competition Convertible": {
       "engine": "3.0L 6-cyl S58 Twin-Turbo",
@@ -492,7 +492,7 @@
       "drivetrain": "RWD",
       "acceleration": 4.2,
       "price": "~$249,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|M4|2026|M4 Competition xDrive Convertible": {
       "engine": "3.0L 6-cyl S58 Twin-Turbo",
@@ -511,7 +511,7 @@
       "drivetrain": "AWD",
       "acceleration": 3.9,
       "price": "~$268,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Land Rover|Range Rover|2022|P510e SE": {
       "engine": "3.0L 6-cyl Ingenium Petrol PHEV",

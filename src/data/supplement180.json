@@ -17,7 +17,7 @@
       "acceleration": 9,
       "topSpeed": 195,
       "price": "~$37,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Honda|Civic|2022|VTi-S": {
       "engine": "1.5L I4 VTEC Turbo",
@@ -36,7 +36,7 @@
       "acceleration": 9,
       "topSpeed": 195,
       "price": "~$41,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Honda|Civic|2022|RS": {
       "engine": "1.5L I4 VTEC Turbo",
@@ -55,7 +55,7 @@
       "acceleration": 9,
       "topSpeed": 195,
       "price": "~$44,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Honda|Civic|2022|e:HEV RS": {
       "engine": "2.0L I4 i-MMD Hybrid",
@@ -169,7 +169,7 @@
       "acceleration": 6,
       "topSpeed": 225,
       "price": "~$195,000",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Land Rover|Range Rover|2022|SV": {
       "engine": "4.4L V8 Twin-Turbo",
@@ -188,7 +188,7 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "price": "~$398,000",
-      "aspiration": "Turbo"
+      "aspiration": "ZF Twin-Turbo"
     },
     "Land Rover|Range Rover|2022|P510e SE": {
       "engine": "3.0L I6 Turbo PHEV",
@@ -207,7 +207,7 @@
       "acceleration": 6.1,
       "topSpeed": 220,
       "price": "~$267,000",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Land Rover|Range Rover|2022|P510e Autobiography": {
       "engine": "3.0L I6 Turbo PHEV",
@@ -226,7 +226,7 @@
       "acceleration": 6.1,
       "topSpeed": 220,
       "price": "~$323,000",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Land Rover|Range Rover Sport|2022|S": {
       "engine": "3.0L I6 Turbo MHEV",
@@ -245,7 +245,7 @@
       "acceleration": 6.5,
       "topSpeed": 225,
       "price": "~$165,000",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Land Rover|Range Rover Sport|2022|Dynamic SE": {
       "engine": "3.0L I6 Turbo MHEV",
@@ -264,7 +264,7 @@
       "acceleration": 6,
       "topSpeed": 225,
       "price": "~$199,000",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Land Rover|Range Rover Sport|2022|Dynamic HSE": {
       "engine": "3.0L I6 Twin-Turbo MHEV",
@@ -283,7 +283,7 @@
       "acceleration": 5.5,
       "topSpeed": 240,
       "price": "~$225,000",
-      "aspiration": "Turbo"
+      "aspiration": "ZF Twin-Turbo"
     },
     "Land Rover|Range Rover Sport|2022|P530": {
       "engine": "4.4L V8 Twin-Turbo",
@@ -302,7 +302,7 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$285,000",
-      "aspiration": "Turbo"
+      "aspiration": "ZF Twin-Turbo"
     },
     "Mitsubishi|Outlander|2022|PHEV ES": {
       "engine": "2.4L I4 PHEV",

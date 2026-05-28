@@ -36,7 +36,7 @@
       "acceleration": 8.5,
       "topSpeed": 195,
       "price": "~$52,300",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Hyundai|Tucson|2021|Elite PHEV": {
       "engine": "1.6L I4 Turbo PHEV",
@@ -55,7 +55,7 @@
       "acceleration": 8.1,
       "topSpeed": 195,
       "price": "~$59,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Hyundai|Tucson|2021|Highlander Hybrid": {
       "engine": "1.6L I4 Turbo Hybrid",
@@ -74,7 +74,7 @@
       "acceleration": 8.5,
       "topSpeed": 195,
       "price": "~$57,800",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Hyundai|Tucson|2021|Highlander PHEV": {
       "engine": "1.6L I4 Turbo PHEV",
@@ -93,7 +93,7 @@
       "acceleration": 8.1,
       "topSpeed": 195,
       "price": "~$64,800",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Hyundai|Santa Fe|2021|Elite Hybrid": {
       "engine": "1.6L I4 Turbo Hybrid",
@@ -112,7 +112,7 @@
       "acceleration": 9,
       "topSpeed": 190,
       "price": "~$58,800",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Hyundai|Santa Fe|2021|Calligraphy Hybrid": {
       "engine": "1.6L I4 Turbo Hybrid",
@@ -131,7 +131,7 @@
       "acceleration": 9,
       "topSpeed": 190,
       "price": "~$63,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Hyundai|Elantra|2021|Elite": {
       "engine": "2.0L I4 NA MPI",
@@ -169,7 +169,7 @@
       "acceleration": 8,
       "topSpeed": 200,
       "price": "~$38,500",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Hyundai|Kona|2021|Hybrid": {
       "engine": "1.6L I4 GDI Hybrid",
@@ -207,7 +207,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "price": "~$26,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Hyundai|i30 N|2021|Fastback": {
       "engine": "2.0L I4 T-GDi Performance",
@@ -226,7 +226,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$54,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Kia|Carnival|2021|S": {
       "engine": "3.5L V6 GDi",
@@ -302,7 +302,7 @@
       "acceleration": 8.7,
       "topSpeed": 193,
       "price": "~$50,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Kia|Sorento|2021|SLi Hybrid": {
       "engine": "1.6L I4 Turbo Hybrid",
@@ -321,7 +321,7 @@
       "acceleration": 8.7,
       "topSpeed": 193,
       "price": "~$56,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Kia|Sorento|2021|GT-Line Hybrid": {
       "engine": "1.6L I4 Turbo Hybrid",
@@ -340,7 +340,7 @@
       "acceleration": 8.7,
       "topSpeed": 193,
       "price": "~$62,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Kia|Sorento|2021|GT-Line PHEV": {
       "engine": "1.6L I4 Turbo PHEV",
@@ -359,7 +359,7 @@
       "acceleration": 8,
       "topSpeed": 193,
       "price": "~$70,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Kia|Sportage|2021|GT-Line": {
       "engine": "2.0L I4 T-GDi Turbo",
@@ -378,7 +378,7 @@
       "acceleration": 7.8,
       "topSpeed": 205,
       "price": "~$41,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     }
   }
 }

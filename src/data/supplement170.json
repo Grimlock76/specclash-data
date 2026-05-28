@@ -17,7 +17,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "price": "~$65,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo"
     },
     "Toyota|Land Cruiser 70|2025|GX": {
       "engine": "2.8L I4 Turbo Diesel",
@@ -36,7 +36,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "price": "~$72,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo"
     },
     "Toyota|Land Cruiser 70|2025|GXL": {
       "engine": "2.8L I4 Turbo Diesel",
@@ -55,7 +55,7 @@
       "acceleration": 12.2,
       "topSpeed": 175,
       "price": "~$78,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo"
     },
     "Toyota|Vellfire|2025|Executive": {
       "engine": "2.5L I4 Hybrid Atkinson",
@@ -150,7 +150,7 @@
       "acceleration": 6.8,
       "topSpeed": 235,
       "price": "~$61,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Audi|A7|2025|50 TFSI e quattro": {
       "engine": "3.0 TFSI V6 PHEV",
@@ -169,7 +169,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$154,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A8|2025|60 TFSI e quattro L": {
       "engine": "3.0 TFSI V6 PHEV",
@@ -188,7 +188,7 @@
       "acceleration": 4.1,
       "topSpeed": 250,
       "price": "~$284,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|Q2|2025|40 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -207,7 +207,7 @@
       "acceleration": 7.1,
       "topSpeed": 224,
       "price": "~$62,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A4 allroad|2025|50 TDI quattro": {
       "engine": "3.0 TDI V6",
@@ -226,7 +226,7 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$106,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Skoda|Octavia|2025|Ambition": {
       "engine": "1.5 TSI",
@@ -245,7 +245,7 @@
       "acceleration": 8.7,
       "topSpeed": 213,
       "price": "~$36,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Skoda|Kodiaq|2025|Style": {
       "engine": "2.0 TSI",
@@ -264,7 +264,7 @@
       "acceleration": 8.2,
       "topSpeed": 210,
       "price": "~$50,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Skoda|Kodiaq|2025|Sportline": {
       "engine": "2.0 TSI",
@@ -283,7 +283,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "price": "~$56,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lexus|RX|2025|RX 350h": {
       "engine": "2.5L I4 Atkinson Hybrid",
@@ -321,7 +321,7 @@
       "acceleration": 11,
       "topSpeed": 188,
       "price": "~$41,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Peugeot|308|2025|GT": {
       "engine": "1.6 PureTech Turbo",
@@ -340,7 +340,7 @@
       "acceleration": 7.8,
       "topSpeed": 217,
       "price": "~$51,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Peugeot|2008|2025|Allure": {
       "engine": "1.2 PureTech Turbo",
@@ -359,7 +359,7 @@
       "acceleration": 11.5,
       "topSpeed": 187,
       "price": "~$36,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Peugeot|2008|2025|GT": {
       "engine": "1.2 PureTech Turbo",
@@ -378,7 +378,7 @@
       "acceleration": 11.2,
       "topSpeed": 190,
       "price": "~$41,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mini|Countryman|2025|Cooper": {
       "engine": "1.5L I3 TwinPower Turbo",
@@ -397,7 +397,7 @@
       "acceleration": 8.9,
       "topSpeed": 199,
       "price": "~$55,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Mini|Countryman|2025|Cooper S ALL4": {
       "engine": "2.0L I4 TwinPower Turbo",
@@ -416,7 +416,7 @@
       "acceleration": 6.4,
       "topSpeed": 228,
       "price": "~$64,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     }
   }
 }

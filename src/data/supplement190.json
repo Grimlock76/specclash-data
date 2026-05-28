@@ -17,7 +17,7 @@
       "acceleration": 8.5,
       "topSpeed": 225,
       "price": "~$56,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Audi|Q2|2021|40 TFSI quattro": {
       "engine": "2.0L I4 Turbo TFSI",
@@ -36,7 +36,7 @@
       "acceleration": 7,
       "topSpeed": 225,
       "price": "~$55,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|Q3|2021|40 TFSI quattro": {
       "engine": "2.0L I4 Turbo TFSI",
@@ -55,7 +55,7 @@
       "acceleration": 6.8,
       "topSpeed": 215,
       "price": "~$62,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Cadillac|Escalade|2021|Premium Luxury": {
       "engine": "6.2L V8 NA EcoTec3",
@@ -169,7 +169,7 @@
       "acceleration": 7.5,
       "topSpeed": 200,
       "price": "~$42,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "GWM|Haval H6|2021|Ultra AWD": {
       "engine": "2.0L I4 Turbo",
@@ -188,7 +188,7 @@
       "acceleration": 7.5,
       "topSpeed": 200,
       "price": "~$45,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "GWM|Haval H6|2021|Hybrid": {
       "engine": "1.5L I4 Turbo DHT Hybrid",
@@ -207,7 +207,7 @@
       "acceleration": 6.5,
       "topSpeed": 200,
       "price": "~$47,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Honda|Jazz|2021|e:HEV Vibe": {
       "engine": "1.5L I4 Atkinson e:HEV",
@@ -264,7 +264,7 @@
       "acceleration": 7.7,
       "topSpeed": 230,
       "price": "~$89,900",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Jaguar|F-Pace|2021|R-Dynamic SE": {
       "engine": "3.0L I6 Turbo MHEV Ingenium",
@@ -283,7 +283,7 @@
       "acceleration": 5.8,
       "topSpeed": 243,
       "price": "~$119,900",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Jeep|Grand Cherokee|2021|Overland": {
       "engine": "3.6L V6 Pentastar NA",
@@ -340,7 +340,7 @@
       "acceleration": 5.6,
       "topSpeed": 209,
       "price": "~$159,900",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Mazda|CX-8|2021|GT": {
       "engine": "2.5L I4 Turbo Skyactiv-G",
@@ -359,7 +359,7 @@
       "acceleration": 8,
       "topSpeed": 195,
       "price": "~$55,990",
-      "aspiration": "Turbo"
+      "aspiration": "MHI Single-Turbo"
     },
     "Mercedes-Benz|S-Class|2021|S 350d": {
       "engine": "3.0L I6 Turbo Diesel",
@@ -378,7 +378,7 @@
       "acceleration": 6.1,
       "topSpeed": 250,
       "price": "~$249,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     }
   }
 }

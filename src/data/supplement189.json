@@ -17,7 +17,7 @@
       "acceleration": 9.7,
       "topSpeed": 195,
       "price": "~$56,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volvo|XC40|2021|B5": {
       "engine": "2.0L I4 Turbo MHEV",
@@ -36,7 +36,7 @@
       "acceleration": 6.4,
       "topSpeed": 210,
       "price": "~$69,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volvo|XC40|2021|Recharge P8": {
       "engine": "Dual Motor Electric",
@@ -74,7 +74,7 @@
       "acceleration": 6.4,
       "topSpeed": 230,
       "price": "~$83,490",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volvo|S90|2021|B5": {
       "engine": "2.0L I4 Turbo MHEV",
@@ -93,7 +93,7 @@
       "acceleration": 6.4,
       "topSpeed": 230,
       "price": "~$109,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volvo|V90|2021|B5": {
       "engine": "2.0L I4 Turbo MHEV",
@@ -112,7 +112,7 @@
       "acceleration": 6.4,
       "topSpeed": 230,
       "price": "~$113,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Subaru|Forester|2021|Hybrid L": {
       "engine": "2.0L I4 Boxer e-BOXER Hybrid",
@@ -169,7 +169,7 @@
       "acceleration": 8.6,
       "topSpeed": 225,
       "price": "~$54,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Subaru|Levorg|2021|1.8GT-H": {
       "engine": "1.8L I4 Turbo FA18",
@@ -188,7 +188,7 @@
       "acceleration": 8.6,
       "topSpeed": 225,
       "price": "~$57,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lexus|IS|2021|IS 300": {
       "engine": "2.0L I4 Turbo",
@@ -207,7 +207,7 @@
       "acceleration": 7.2,
       "topSpeed": 230,
       "price": "~$65,990",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Lexus|IS|2021|IS 350 F Sport": {
       "engine": "3.5L V6 NA",
@@ -245,7 +245,7 @@
       "acceleration": 7.2,
       "topSpeed": 230,
       "price": "~$72,990",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Lexus|UX|2021|UX 300e": {
       "engine": "Single Motor Electric",
@@ -283,7 +283,7 @@
       "acceleration": 8.8,
       "topSpeed": 210,
       "price": "~$34,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Skoda|Octavia|2021|Style 140 TSI": {
       "engine": "2.0L I4 TSI",
@@ -302,7 +302,7 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "price": "~$43,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Skoda|Octavia|2021|RS Combi": {
       "engine": "2.0L I4 TSI",
@@ -321,7 +321,7 @@
       "acceleration": 6.8,
       "topSpeed": 250,
       "price": "~$52,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Tesla|Model 3|2021|Standard Range RWD": {
       "engine": "Single Motor Electric",
@@ -359,7 +359,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "price": "~$28,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "MG|ZS|2021|Essence Turbo": {
       "engine": "1.3L I4 Turbo",
@@ -378,7 +378,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "price": "~$31,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     }
   }
 }

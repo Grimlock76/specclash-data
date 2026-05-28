@@ -36,7 +36,7 @@
       "acceleration": 5.6,
       "topSpeed": 200,
       "price": "~$169,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Lotus|Evora 400|2018|GT430": {
       "engine": "3.5L V6 SC Toyota 2GR-FE",
@@ -55,7 +55,7 @@
       "acceleration": 4.2,
       "topSpeed": 305,
       "price": "~$249,900",
-      "aspiration": "Supercharged"
+      "aspiration": "Harrop Eaton TVS1900 Supercharged"
     },
     "Mazda|6|2018|GT": {
       "engine": "2.5L I4 NA Skyactiv-G 25",
@@ -93,7 +93,7 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "price": "~$77,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|A-Class|2018|A45 S AMG": {
       "engine": "2.0L I4 Turbo AMG",
@@ -112,7 +112,7 @@
       "acceleration": 3.9,
       "topSpeed": 270,
       "price": "~$104,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mini|Countryman|2018|Cooper SE ALL4 PHEV": {
       "engine": "1.5L I3 Turbo B38 + Electric PHEV",
@@ -131,7 +131,7 @@
       "acceleration": 7.7,
       "topSpeed": 198,
       "price": "~$54,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Peugeot|508|2018|SW": {
       "engine": "2.0L I4 Turbo Diesel BlueHDi 180",
@@ -150,7 +150,7 @@
       "acceleration": 9.3,
       "topSpeed": 230,
       "price": "~$57,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Porsche|911|2018|Carrera T": {
       "engine": "3.0L F6 Biturbo 991.2",
@@ -169,7 +169,7 @@
       "acceleration": 4.2,
       "topSpeed": 304,
       "price": "~$189,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Porsche|911|2018|GT3 Touring": {
       "engine": "4.0L F6 NA 991.2",
@@ -207,7 +207,7 @@
       "acceleration": 2.9,
       "topSpeed": 330,
       "price": "~$499,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Porsche|Panamera|2018|Panamera Turbo Sport Turismo": {
       "engine": "4.0L V8 Biturbo",
@@ -226,7 +226,7 @@
       "acceleration": 3.8,
       "topSpeed": 305,
       "price": "~$379,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "SsangYong|Rexton|2018|ELX": {
       "engine": "2.2L I4 Turbo Diesel e-XDi220",
@@ -245,7 +245,7 @@
       "acceleration": 11,
       "topSpeed": 190,
       "price": "~$48,990",
-      "aspiration": "Turbo"
+      "aspiration": "Bosch VGT Diesel Turbo"
     },
     "Subaru|Forester|2018|2.5i Premium": {
       "engine": "2.5L H4 NA FB25",
@@ -302,7 +302,7 @@
       "acceleration": 12,
       "topSpeed": 180,
       "price": "~$18,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2018|85TSI Comfortline": {
       "engine": "1.0L I3 Turbo TSI",
@@ -321,7 +321,7 @@
       "acceleration": 10.9,
       "topSpeed": 196,
       "price": "~$22,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     }
   }
 }

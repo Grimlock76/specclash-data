@@ -17,7 +17,7 @@
       "acceleration": 12.5,
       "topSpeed": 170,
       "price": "~$43,900",
-      "aspiration": "Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo"
     },
     "Isuzu|D-Max|2021|RG LS-M Crew Cab": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -36,7 +36,7 @@
       "acceleration": 12,
       "topSpeed": 170,
       "price": "~$52,900",
-      "aspiration": "Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo"
     },
     "Isuzu|D-Max|2021|RG LS-T Crew Cab": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -55,7 +55,7 @@
       "acceleration": 12,
       "topSpeed": 170,
       "price": "~$58,900",
-      "aspiration": "Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo"
     },
     "Isuzu|D-Max|2021|RG LS-U Crew Cab": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -74,7 +74,7 @@
       "acceleration": 12,
       "topSpeed": 170,
       "price": "~$65,900",
-      "aspiration": "Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo"
     },
     "Isuzu|D-Max|2021|RG X-Terrain Crew Cab": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -93,7 +93,7 @@
       "acceleration": 12,
       "topSpeed": 170,
       "price": "~$71,900",
-      "aspiration": "Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo"
     },
     "Isuzu|MU-X|2021|RG LS-M": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -112,7 +112,7 @@
       "acceleration": 12.5,
       "topSpeed": 170,
       "price": "~$53,900",
-      "aspiration": "Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo"
     },
     "Isuzu|MU-X|2021|RG LS-T": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -131,7 +131,7 @@
       "acceleration": 12.5,
       "topSpeed": 170,
       "price": "~$61,900",
-      "aspiration": "Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo"
     },
     "Isuzu|MU-X|2021|RG LS-U": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -150,7 +150,7 @@
       "acceleration": 12.5,
       "topSpeed": 170,
       "price": "~$69,900",
-      "aspiration": "Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo"
     },
     "Ford|Escape|2021|ZH Ambiente": {
       "engine": "1.5L I3 EcoBoost Turbo",
@@ -169,7 +169,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "price": "~$35,490",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Ford|Escape|2021|ZH Trend": {
       "engine": "1.5L I3 EcoBoost Turbo",
@@ -188,7 +188,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "price": "~$38,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Ford|Escape|2021|ZH ST-Line": {
       "engine": "2.0L I4 EcoBoost Turbo",
@@ -207,7 +207,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "price": "~$46,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Ford|Escape|2021|ZH Titanium": {
       "engine": "2.0L I4 EcoBoost Turbo",
@@ -226,7 +226,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "price": "~$50,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Ford|Mustang|2021|Mach 1": {
       "engine": "5.0L V8 Coyote NA",
@@ -264,7 +264,7 @@
       "acceleration": 6,
       "topSpeed": 240,
       "price": "~$89,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Genesis|G80|2021|2.5T Sport": {
       "engine": "2.5L I4 Turbo",
@@ -283,7 +283,7 @@
       "acceleration": 6,
       "topSpeed": 240,
       "price": "~$99,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Genesis|G80|2021|3.5T": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -302,7 +302,7 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$115,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Genesis|G80|2021|3.5T Sport+": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -321,7 +321,7 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$129,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Genesis|G80|2021|Electrified": {
       "engine": "Dual Motor Electric",
@@ -359,7 +359,7 @@
       "acceleration": 10.5,
       "topSpeed": 195,
       "price": "~$47,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Honda|HR-V|2021|VTi-LX": {
       "engine": "1.8L I4 NA SOHC i-VTEC",

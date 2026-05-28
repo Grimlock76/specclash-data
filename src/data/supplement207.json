@@ -17,7 +17,7 @@
       "acceleration": 6.7,
       "topSpeed": 229,
       "price": "~$74,900",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Porsche|Panamera|2017|Sport Turismo": {
       "engine": "3.0L V6 Turbo",
@@ -36,7 +36,7 @@
       "acceleration": 5.4,
       "topSpeed": 270,
       "price": "~$279,900",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Porsche|Panamera|2017|4S Sport Turismo": {
       "engine": "2.9L V6 Biturbo",
@@ -55,7 +55,7 @@
       "acceleration": 4.5,
       "topSpeed": 289,
       "price": "~$329,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Porsche|Panamera|2017|Turbo S E-Hybrid Sport Turismo": {
       "engine": "4.0L V8 Biturbo PHEV",
@@ -74,7 +74,7 @@
       "acceleration": 3.4,
       "topSpeed": 310,
       "price": "~$549,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "SEAT|Ibiza|2017|1.0 TSI": {
       "engine": "1.0L I3 Turbo TSI DKLA",
@@ -93,7 +93,7 @@
       "acceleration": 10.3,
       "topSpeed": 196,
       "price": "~$21,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "SsangYong|Rexton|2017|EX": {
       "engine": "2.2L I4 Turbo Diesel e-XDi220",
@@ -112,7 +112,7 @@
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$39,990",
-      "aspiration": "Turbo"
+      "aspiration": "Bosch VGT Diesel Turbo"
     },
     "SsangYong|Rexton|2017|Ultimate": {
       "engine": "2.2L I4 Turbo Diesel e-XDi220",
@@ -131,7 +131,7 @@
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$47,990",
-      "aspiration": "Turbo"
+      "aspiration": "Bosch VGT Diesel Turbo"
     },
     "Subaru|Impreza|2017|2.0i-S": {
       "engine": "2.0L H4 NA FB20",
@@ -188,7 +188,7 @@
       "acceleration": 10,
       "topSpeed": 185,
       "price": "~$30,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Suzuki|Swift|2017|GLX Turbo": {
       "engine": "1.0L I3 Turbo Boosterjet K10C",
@@ -207,7 +207,7 @@
       "acceleration": 10.7,
       "topSpeed": 180,
       "price": "~$24,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Amarok|2017|TDI580 Ultimate": {
       "engine": "3.0L V6 Turbo Diesel TDI",
@@ -226,7 +226,7 @@
       "acceleration": 7.3,
       "topSpeed": 211,
       "price": "~$76,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Golf|2017|70TSI Trendline": {
       "engine": "1.0L I3 Turbo MPI TSI",
@@ -245,7 +245,7 @@
       "acceleration": 12.4,
       "topSpeed": 182,
       "price": "~$22,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2017|110TSI Comfortline": {
       "engine": "1.4L I4 Turbo TSI",
@@ -264,7 +264,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "price": "~$29,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2017|GTI Performance": {
       "engine": "2.0L I4 Turbo TSI",
@@ -283,7 +283,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$53,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volvo|XC60|2017|T5 Momentum": {
       "engine": "2.0L I4 Turbo T5 B4204T23",
@@ -302,7 +302,7 @@
       "acceleration": 6.5,
       "topSpeed": 230,
       "price": "~$56,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volvo|XC60|2017|T5 R-Design": {
       "engine": "2.0L I4 Turbo T5 B4204T23",
@@ -321,7 +321,7 @@
       "acceleration": 6.7,
       "topSpeed": 230,
       "price": "~$63,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volvo|XC60|2017|T5 Inscription": {
       "engine": "2.0L I4 Turbo T5 B4204T23",
@@ -340,7 +340,7 @@
       "acceleration": 6.7,
       "topSpeed": 230,
       "price": "~$67,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volvo|XC60|2017|T8 Twin Engine AWD": {
       "engine": "2.0L I4 Turbo+SC + Electric PHEV",
@@ -359,7 +359,7 @@
       "acceleration": 5.3,
       "topSpeed": 210,
       "price": "~$89,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     }
   }
 }

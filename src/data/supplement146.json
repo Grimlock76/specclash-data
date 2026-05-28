@@ -93,7 +93,7 @@
       "acceleration": 7.7,
       "topSpeed": 215,
       "price": "~$47,990",
-      "aspiration": "Turbo"
+      "aspiration": "MHI Single-Turbo"
     },
     "Toyota|HiLux|2026|GR Sport": {
       "engine": "2.8L I4 Turbo Diesel",
@@ -112,7 +112,7 @@
       "acceleration": 9.5,
       "topSpeed": 180,
       "price": "~$74,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo"
     },
     "Toyota|HiLux|2026|SR5+": {
       "engine": "2.8L I4 Turbo Diesel",
@@ -131,7 +131,7 @@
       "acceleration": 9.5,
       "topSpeed": 180,
       "price": "~$72,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo"
     },
     "Toyota|bZ4X|2026|FWD": {
       "engine": "Electric Single Motor",
@@ -226,7 +226,7 @@
       "acceleration": 5.5,
       "topSpeed": 230,
       "price": "~$44,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Toyota|GR Yaris|2026|Rallye": {
       "engine": "1.6L I3 Turbo",
@@ -245,7 +245,7 @@
       "acceleration": 5.5,
       "topSpeed": 230,
       "price": "~$54,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Ford|Everest|2026|Platinum": {
       "engine": "3.0L V6 Turbo Diesel",
@@ -264,7 +264,7 @@
       "acceleration": 8.5,
       "topSpeed": 200,
       "price": "~$85,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Everest|2026|Platinum+": {
       "engine": "3.0L V6 Turbo Diesel",
@@ -283,7 +283,7 @@
       "acceleration": 8.5,
       "topSpeed": 200,
       "price": "~$88,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "BMW|M5|2026|M5 Sedan": {
       "engine": "4.4L V8 Biturbo PHEV",
@@ -302,7 +302,7 @@
       "acceleration": 3.5,
       "topSpeed": 305,
       "price": "~$299,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|M5|2026|M5 Touring": {
       "engine": "4.4L V8 Biturbo PHEV",
@@ -321,7 +321,7 @@
       "acceleration": 3.7,
       "topSpeed": 305,
       "price": "~$319,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|iX2|2026|sDrive20": {
       "engine": "Electric Single Motor",
@@ -378,7 +378,7 @@
       "acceleration": 4.5,
       "topSpeed": 293,
       "price": "~$240,000",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Porsche|911|2026|GT3 Touring": {
       "engine": "4.0 Flat-6 NA",
@@ -416,7 +416,7 @@
       "acceleration": 7.3,
       "topSpeed": 236,
       "price": "~$62,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A4|2026|40 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -435,7 +435,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "price": "~$78,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     }
   }
 }

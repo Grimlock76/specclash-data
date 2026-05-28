@@ -36,7 +36,7 @@
       "acceleration": 8.3,
       "topSpeed": 218,
       "price": "~$49,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A4|2018|40 TFSI": {
       "engine": "2.0L I4 Turbo TFSI",
@@ -55,7 +55,7 @@
       "acceleration": 7.3,
       "topSpeed": 240,
       "price": "~$59,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A6|2018|45 TFSI quattro": {
       "engine": "2.0L I4 Turbo TFSI MHEV",
@@ -74,7 +74,7 @@
       "acceleration": 6.8,
       "topSpeed": 250,
       "price": "~$99,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A6|2018|55 TFSI quattro": {
       "engine": "3.0L V6 Turbo TFSI MHEV",
@@ -93,7 +93,7 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$129,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A7|2018|55 TFSI quattro": {
       "engine": "3.0L V6 Turbo TFSI MHEV",
@@ -112,7 +112,7 @@
       "acceleration": 5.3,
       "topSpeed": 250,
       "price": "~$149,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A8|2018|55 TFSI quattro": {
       "engine": "3.0L V6 Turbo TFSI MHEV",
@@ -131,7 +131,7 @@
       "acceleration": 5.7,
       "topSpeed": 250,
       "price": "~$179,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A8|2018|60 TFSI quattro": {
       "engine": "4.0L V8 Biturbo TFSI MHEV",
@@ -150,7 +150,7 @@
       "acceleration": 3.8,
       "topSpeed": 250,
       "price": "~$259,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Audi|Q2|2018|2.0 TDI quattro": {
       "engine": "2.0L I4 Turbo Diesel TFSI",
@@ -169,7 +169,7 @@
       "acceleration": 8.9,
       "topSpeed": 200,
       "price": "~$47,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Audi|Q3|2018|35 TFSI": {
       "engine": "1.5L I4 Turbo TFSI",
@@ -188,7 +188,7 @@
       "acceleration": 8.9,
       "topSpeed": 204,
       "price": "~$49,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|Q3|2018|40 TFSI quattro": {
       "engine": "2.0L I4 Turbo TFSI",
@@ -207,7 +207,7 @@
       "acceleration": 6.3,
       "topSpeed": 215,
       "price": "~$59,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Bentley|Bentayga|2018|V8": {
       "engine": "4.0L V8 Biturbo",
@@ -226,7 +226,7 @@
       "acceleration": 4.5,
       "topSpeed": 290,
       "price": "~$399,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Bentley|Continental GT|2018|Speed W12": {
       "engine": "6.0L W12 Biturbo",
@@ -245,7 +245,7 @@
       "acceleration": 3.6,
       "topSpeed": 333,
       "price": "~$649,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|i3|2018|i3s": {
       "engine": "Single Motor Electric",
@@ -302,7 +302,7 @@
       "acceleration": 6,
       "topSpeed": 230,
       "price": "~$89,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "BMW|X4|2018|M40i": {
       "engine": "3.0L I6 Turbo B58",
@@ -321,7 +321,7 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$119,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "BMW|X5|2018|xDrive25d": {
       "engine": "2.0L I4 Turbo Diesel B47",
@@ -340,7 +340,7 @@
       "acceleration": 7,
       "topSpeed": 222,
       "price": "~$104,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "BMW|X5|2018|xDrive40i": {
       "engine": "3.0L I6 Turbo B58",
@@ -359,7 +359,7 @@
       "acceleration": 5.3,
       "topSpeed": 250,
       "price": "~$124,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "BMW|X5|2018|M50i": {
       "engine": "4.4L V8 Biturbo S63",
@@ -378,7 +378,7 @@
       "acceleration": 4.3,
       "topSpeed": 250,
       "price": "~$174,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     }
   }
 }

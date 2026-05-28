@@ -17,7 +17,7 @@
       "acceleration": 7.1,
       "topSpeed": 225,
       "price": "~$52,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A3|2020|45 TFSI quattro": {
       "engine": "2.0L I4 Turbo TFSI",
@@ -36,7 +36,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "price": "~$59,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|Q7|2020|45 TFSI quattro": {
       "engine": "2.0L I4 Turbo TFSI",
@@ -55,7 +55,7 @@
       "acceleration": 6.7,
       "topSpeed": 230,
       "price": "~$109,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Bentley|Bentayga|2020|Hybrid": {
       "engine": "3.0L V6 Turbo PHEV",
@@ -74,7 +74,7 @@
       "acceleration": 5.2,
       "topSpeed": 254,
       "price": "~$429,000",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Chevrolet|Bolt EV|2020|2LT": {
       "engine": "Single Motor Electric",
@@ -112,7 +112,7 @@
       "acceleration": 7.8,
       "topSpeed": 190,
       "price": "~$45,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Honda|Accord|2020|VTi-LX": {
       "engine": "1.5L I4 Turbo VTEC",
@@ -131,7 +131,7 @@
       "acceleration": 9.3,
       "topSpeed": 195,
       "price": "~$38,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Hyundai|Sonata|2020|Hybrid": {
       "engine": "2.0L I4 Atkinson Hybrid",
@@ -169,7 +169,7 @@
       "acceleration": 10.5,
       "topSpeed": 175,
       "price": "~$62,990",
-      "aspiration": "Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo"
     },
     "Jaguar|F-Type|2020|P300": {
       "engine": "2.0L I4 Turbo Ingenium",
@@ -188,7 +188,7 @@
       "acceleration": 5.7,
       "topSpeed": 250,
       "price": "~$119,900",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Jaguar|F-Type|2020|R": {
       "engine": "5.0L V8 Supercharged",
@@ -207,7 +207,7 @@
       "acceleration": 3.7,
       "topSpeed": 300,
       "price": "~$274,900",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Jeep|Compass|2020|Longitude": {
       "engine": "2.4L I4 NA Tigershark",
@@ -245,7 +245,7 @@
       "acceleration": 7.5,
       "topSpeed": 200,
       "price": "~$49,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Jeep|Grand Cherokee|2020|Laredo": {
       "engine": "3.6L V6 Pentastar NA",
@@ -340,7 +340,7 @@
       "acceleration": 6.1,
       "topSpeed": 210,
       "price": "~$94,950",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     }
   }
 }

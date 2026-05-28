@@ -17,7 +17,7 @@
       "acceleration": 5.7,
       "topSpeed": 272,
       "price": "~$64,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Skoda|Karoq|2019|110 TSI Ambition": {
       "engine": "1.5L I4 Turbo TSI",
@@ -36,7 +36,7 @@
       "acceleration": 9.2,
       "topSpeed": 204,
       "price": "~$32,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Skoda|Karoq|2019|110 TSI Style": {
       "engine": "1.5L I4 Turbo TSI",
@@ -55,7 +55,7 @@
       "acceleration": 9.2,
       "topSpeed": 204,
       "price": "~$38,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "SsangYong|Korando|2019|ELX": {
       "engine": "1.5L I4 Turbo GDI",
@@ -74,7 +74,7 @@
       "acceleration": 10.2,
       "topSpeed": 180,
       "price": "~$28,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "SsangYong|Korando|2019|Ultimate": {
       "engine": "1.5L I4 Turbo GDI",
@@ -93,7 +93,7 @@
       "acceleration": 10.2,
       "topSpeed": 180,
       "price": "~$34,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Suzuki|Jimny|2019|Lite": {
       "engine": "1.5L I4 NA K15B",
@@ -169,7 +169,7 @@
       "acceleration": 9.7,
       "topSpeed": 185,
       "price": "~$31,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Tesla|Model 3|2019|Long Range AWD": {
       "engine": "Dual Motor Electric",
@@ -359,7 +359,7 @@
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$79,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volvo|V60|2019|T6": {
       "engine": "2.0L I4 Turbo+SC B4204T19",
@@ -378,7 +378,7 @@
       "acceleration": 6,
       "topSpeed": 250,
       "price": "~$82,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     }
   }
 }

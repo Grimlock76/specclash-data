@@ -226,7 +226,7 @@
       "acceleration": 6.1,
       "topSpeed": 250,
       "price": "~$45,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Ford|Focus|2015|LZ Ambiente": {
       "engine": "1.5L I4 Turbo EcoBoost",
@@ -245,7 +245,7 @@
       "acceleration": 10.8,
       "topSpeed": 198,
       "price": "~$23,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Ford|Focus|2015|LZ ST": {
       "engine": "2.0L I4 Turbo EcoBoost ST200",
@@ -264,7 +264,7 @@
       "acceleration": 6.5,
       "topSpeed": 248,
       "price": "~$39,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Ford|Focus|2015|LZ Titanium": {
       "engine": "1.5L I4 Turbo EcoBoost",
@@ -283,7 +283,7 @@
       "acceleration": 9.5,
       "topSpeed": 215,
       "price": "~$31,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Ford|Focus|2015|LZ Trend": {
       "engine": "1.5L I4 Turbo EcoBoost",
@@ -302,7 +302,7 @@
       "acceleration": 10.8,
       "topSpeed": 198,
       "price": "~$26,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Ford|Ranger|2015|PX FX4": {
       "engine": "3.2L I5 Turbo Diesel P4AT",
@@ -321,7 +321,7 @@
       "acceleration": 10.8,
       "topSpeed": 178,
       "price": "~$58,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Ranger|2015|PX Wildtrak": {
       "engine": "3.2L I5 Turbo Diesel P4AT",
@@ -340,7 +340,7 @@
       "acceleration": 10.8,
       "topSpeed": 178,
       "price": "~$52,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Ranger|2015|PX XL": {
       "engine": "2.2L I4 Turbo Diesel P4AT",
@@ -359,7 +359,7 @@
       "acceleration": 12,
       "topSpeed": 172,
       "price": "~$30,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Ranger|2015|PX XLS": {
       "engine": "3.2L I5 Turbo Diesel P4AT",
@@ -378,7 +378,7 @@
       "acceleration": 11,
       "topSpeed": 178,
       "price": "~$40,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Ranger|2015|PX XLT": {
       "engine": "3.2L I5 Turbo Diesel P4AT",
@@ -397,7 +397,7 @@
       "acceleration": 11,
       "topSpeed": 178,
       "price": "~$47,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     }
   }
 }

@@ -17,7 +17,7 @@
       "acceleration": 4.7,
       "topSpeed": 270,
       "price": "~$64,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2022|R": {
       "engine": "2.0L 4-cyl TSI 4MOTION",
@@ -36,7 +36,7 @@
       "acceleration": 4.7,
       "topSpeed": 270,
       "price": "~$66,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2023|R": {
       "engine": "2.0L 4-cyl TSI 4MOTION",
@@ -55,7 +55,7 @@
       "acceleration": 4.7,
       "topSpeed": 270,
       "price": "~$67,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2024|R": {
       "engine": "2.0L 4-cyl TSI 4MOTION",
@@ -74,7 +74,7 @@
       "acceleration": 4.7,
       "topSpeed": 270,
       "price": "~$69,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2025|R": {
       "engine": "2.0L 4-cyl TSI 4MOTION",
@@ -93,7 +93,7 @@
       "acceleration": 4.7,
       "topSpeed": 270,
       "price": "~$70,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Golf|2026|R": {
       "engine": "2.0L 4-cyl TSI 4MOTION",
@@ -112,7 +112,7 @@
       "acceleration": 4.7,
       "topSpeed": 270,
       "price": "~$72,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Touareg|2021|Touareg R": {
       "engine": "3.0L V6 TSI PHEV 4MOTION",
@@ -132,7 +132,7 @@
       "topSpeed": 250,
       "range": 48,
       "price": "~$139,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Touareg|2022|Touareg R": {
       "engine": "3.0L V6 TSI PHEV 4MOTION",
@@ -152,7 +152,7 @@
       "topSpeed": 250,
       "range": 48,
       "price": "~$141,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Touareg|2023|Touareg R": {
       "engine": "3.0L V6 TSI PHEV 4MOTION",
@@ -172,7 +172,7 @@
       "topSpeed": 250,
       "range": 48,
       "price": "~$143,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Touareg|2024|Touareg R": {
       "engine": "3.0L V6 TSI PHEV 4MOTION",
@@ -192,7 +192,7 @@
       "topSpeed": 250,
       "range": 48,
       "price": "~$145,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Touareg|2025|Touareg R": {
       "engine": "3.0L V6 TSI PHEV 4MOTION",
@@ -212,7 +212,7 @@
       "topSpeed": 250,
       "range": 48,
       "price": "~$147,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Touareg|2026|Touareg R": {
       "engine": "3.0L V6 TSI PHEV 4MOTION",
@@ -232,7 +232,7 @@
       "topSpeed": 250,
       "range": 48,
       "price": "~$149,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "BMW|X2|2022|M35i": {
       "engine": "2.0L 4-cyl TwinPower Turbo xDrive",
@@ -251,7 +251,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$79,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "BMW|X2|2023|M35i": {
       "engine": "2.0L 4-cyl TwinPower Turbo xDrive",
@@ -270,7 +270,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$81,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "BMW|X2|2024|M35i xDrive": {
       "engine": "2.0L 4-cyl TwinPower Turbo M xDrive",
@@ -289,7 +289,7 @@
       "acceleration": 5.4,
       "topSpeed": 250,
       "price": "~$89,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "BMW|X2|2025|M35i xDrive": {
       "engine": "2.0L 4-cyl TwinPower Turbo M xDrive",
@@ -308,7 +308,7 @@
       "acceleration": 5.4,
       "topSpeed": 250,
       "price": "~$91,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "BMW|X2|2026|M35i xDrive": {
       "engine": "2.0L 4-cyl TwinPower Turbo M xDrive",
@@ -327,7 +327,7 @@
       "acceleration": 5.4,
       "topSpeed": 250,
       "price": "~$93,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Hyundai|Kona N|2022|Kona N": {
       "engine": "2.0L 4-cyl Turbo N",
@@ -346,7 +346,7 @@
       "acceleration": 5.5,
       "topSpeed": 240,
       "price": "~$48,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Hyundai|Kona N|2023|Kona N": {
       "engine": "2.0L 4-cyl Turbo N",
@@ -365,7 +365,7 @@
       "acceleration": 5.5,
       "topSpeed": 240,
       "price": "~$50,490",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Hyundai|Kona N|2024|Kona N": {
       "engine": "2.0L 4-cyl Turbo N",
@@ -384,7 +384,7 @@
       "acceleration": 5.5,
       "topSpeed": 240,
       "price": "~$51,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Hyundai|Kona N|2025|Kona N": {
       "engine": "2.0L 4-cyl Turbo N",
@@ -403,7 +403,7 @@
       "acceleration": 5.5,
       "topSpeed": 240,
       "price": "~$53,490",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Hyundai|Kona N|2026|Kona N": {
       "engine": "2.0L 4-cyl Turbo N",
@@ -422,7 +422,7 @@
       "acceleration": 5.5,
       "topSpeed": 240,
       "price": "~$54,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Skoda|Enyaq|2022|60": {
       "engine": "Single Electric Motor",
@@ -973,7 +973,7 @@
       "acceleration": 6.4,
       "topSpeed": 180,
       "price": "~$249,990",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Lexus|LM|2024|LM 300h": {
       "engine": "2.5L 4-cyl Hybrid",
@@ -1011,7 +1011,7 @@
       "acceleration": 6.4,
       "topSpeed": 180,
       "price": "~$254,990",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Lexus|LM|2025|LM 300h": {
       "engine": "2.5L 4-cyl Hybrid",
@@ -1049,7 +1049,7 @@
       "acceleration": 6.4,
       "topSpeed": 180,
       "price": "~$257,990",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Lexus|LM|2026|LM 300h": {
       "engine": "2.5L 4-cyl Hybrid",
@@ -1087,7 +1087,7 @@
       "acceleration": 6.4,
       "topSpeed": 180,
       "price": "~$260,990",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Audi|Q8 e-tron|2023|SQ8": {
       "engine": "Tri Electric Motor SQ8 quattro",
@@ -1416,7 +1416,7 @@
       "acceleration": 7.6,
       "topSpeed": 170,
       "price": "~$44,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Qashqai|2023|ST-L e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1435,7 +1435,7 @@
       "acceleration": 7.6,
       "topSpeed": 170,
       "price": "~$49,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Qashqai|2023|Ti e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1454,7 +1454,7 @@
       "acceleration": 7.6,
       "topSpeed": 170,
       "price": "~$54,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Qashqai|2024|ST e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1473,7 +1473,7 @@
       "acceleration": 7.6,
       "topSpeed": 170,
       "price": "~$46,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Qashqai|2024|ST-L e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1492,7 +1492,7 @@
       "acceleration": 7.6,
       "topSpeed": 170,
       "price": "~$51,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Qashqai|2024|Ti e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1511,7 +1511,7 @@
       "acceleration": 7.6,
       "topSpeed": 170,
       "price": "~$56,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Qashqai|2025|ST e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1530,7 +1530,7 @@
       "acceleration": 7.6,
       "topSpeed": 170,
       "price": "~$47,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Qashqai|2025|ST-L e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1549,7 +1549,7 @@
       "acceleration": 7.6,
       "topSpeed": 170,
       "price": "~$52,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Qashqai|2025|Ti e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1568,7 +1568,7 @@
       "acceleration": 7.6,
       "topSpeed": 170,
       "price": "~$57,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Qashqai|2026|ST e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1587,7 +1587,7 @@
       "acceleration": 7.6,
       "topSpeed": 170,
       "price": "~$49,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Qashqai|2026|ST-L e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1606,7 +1606,7 @@
       "acceleration": 7.6,
       "topSpeed": 170,
       "price": "~$54,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Qashqai|2026|Ti e-Power": {
       "engine": "1.5L 3-cyl Turbo e-Power",
@@ -1625,7 +1625,7 @@
       "acceleration": 7.6,
       "topSpeed": 170,
       "price": "~$59,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Leaf|2022|e+": {
       "engine": "Single Electric Motor e+",

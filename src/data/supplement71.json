@@ -40,7 +40,7 @@
       "se": "4",
       "ca": "240 L",
       "pr": "~Â¥5,820,000",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota Twin-Turbo"
     },
     "Nissan|350Z|2004|Enthusiast": {
       "en": "VQ35DE 3.5L V6 DOHC 24V",
@@ -334,7 +334,7 @@
       "se": "5",
       "ca": "459 L",
       "pr": "~$59,995 USD",
-      "aspiration": "Supercharged"
+      "aspiration": "IHI Twin-Screw Supercharged"
     },
     "Dodge|Challenger|2019|Hellcat Redeye": {
       "en": "6.2L HEMI Hellcat Redeye Supercharged V8",
@@ -355,7 +355,7 @@
       "se": "5",
       "ca": "459 L",
       "pr": "~$69,995 USD",
-      "aspiration": "Supercharged"
+      "aspiration": "IHI Twin-Screw Supercharged"
     },
     "Dodge|Challenger|2019|Scat Pack": {
       "en": "6.4L HEMI 392 V8",
@@ -523,7 +523,7 @@
       "se": "5",
       "ca": "465 L",
       "pr": "~$64,495 USD",
-      "aspiration": "Supercharged"
+      "aspiration": "IHI Twin-Screw Supercharged"
     },
     "Dodge|Charger|2020|Hellcat Redeye": {
       "en": "6.2L HEMI Hellcat Redeye Supercharged V8",
@@ -544,7 +544,7 @@
       "se": "5",
       "ca": "465 L",
       "pr": "~$79,995 USD",
-      "aspiration": "Supercharged"
+      "aspiration": "IHI Twin-Screw Supercharged"
     },
     "Dodge|Viper|1993|RT/10": {
       "en": "8.0L V10 OHV",
@@ -754,7 +754,7 @@
       "se": "2",
       "ca": "â€”",
       "pr": "~$103,300 USD",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS2300 Supercharged"
     },
     "Chevrolet|Corvette|2014|Stingray": {
       "en": "LT1 6.2L V8 DI OHV",
@@ -796,7 +796,7 @@
       "se": "2",
       "ca": "172 L",
       "pr": "~$78,995 USD",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS2650 Supercharged"
     },
     "Chevrolet|Corvette|2019|ZR1": {
       "en": "LT5 6.2L Supercharged V8 DI OHV",
@@ -817,7 +817,7 @@
       "se": "2",
       "ca": "172 L",
       "pr": "~$119,995 USD",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS2650 Supercharged"
     },
     "Chevrolet|Corvette|2020|Stingray": {
       "en": "LT2 6.2L V8 DI OHV (mid-engine)",
@@ -922,7 +922,7 @@
       "se": "4",
       "ca": "282 L",
       "pr": "~$54,100 USD",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS2300 Supercharged"
     },
     "Chevrolet|Camaro|2016|LT": {
       "en": "3.6L LGX V6 SIDI",
@@ -985,7 +985,7 @@
       "se": "4",
       "ca": "261 L",
       "pr": "~$62,135 USD",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS2650 Supercharged"
     },
     "Chevrolet|Corvette|2005|Base": {
       "en": "LS2 6.0L V8 OHV",
@@ -1153,7 +1153,7 @@
       "se": "2",
       "ca": "172 L",
       "pr": "~$80,995 USD",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS2650 Supercharged"
     },
     "Chevrolet|Corvette|2023|Stingray": {
       "en": "LT2 6.2L V8 DI OHV (mid-engine)",
@@ -1237,7 +1237,7 @@
       "se": "4",
       "ca": "261 L",
       "pr": "~$62,500 USD",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS2650 Supercharged"
     },
     "Dodge|Challenger|2022|SXT": {
       "en": "3.6L Pentastar V6",
@@ -1524,7 +1524,7 @@
       "se": "5",
       "ca": "270 L",
       "pr": "~£7,500",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Delta|1985|LX": {
       "en": "1.5L SOHC inline-4",
@@ -1556,7 +1556,7 @@
       "se": "5",
       "ca": "270 L",
       "pr": "~£8,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Delta|1988|HF Integrale": {
       "en": "2.0L Turbo DOHC 8v inline-4",
@@ -1573,7 +1573,7 @@
       "se": "5",
       "ca": "270 L",
       "pr": "~£15,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Delta|1990|HF Integrale 16v": {
       "en": "2.0L Turbo DOHC 16v inline-4",
@@ -1590,7 +1590,7 @@
       "se": "5",
       "ca": "270 L",
       "pr": "~£18,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Delta|1992|HF Integrale Evo": {
       "en": "2.0L Turbo DOHC 16v inline-4",
@@ -1607,7 +1607,7 @@
       "se": "5",
       "ca": "270 L",
       "pr": "~£22,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Delta|1993|HF Integrale Evo II": {
       "en": "2.0L Turbo DOHC 16v inline-4",
@@ -1624,7 +1624,7 @@
       "se": "5",
       "ca": "270 L",
       "pr": "~£26,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Stratos|1975|HF": {
       "en": "Ferrari Dino 2.4L DOHC V6",
@@ -1977,7 +1977,7 @@
       "se": "2",
       "ca": "160 L",
       "pr": "~$16,000 USD",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Datsun|620 Ute|1975|Standard": {
       "en": "L16 1.6L SOHC inline-4",
@@ -2281,7 +2281,7 @@
       "se": "4",
       "ca": "~270 L",
       "pr": "~$9,500 AUD",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Datsun|Laurel|1971|Standard": {
       "en": "L20 2.0L SOHC inline-6",
@@ -2425,7 +2425,7 @@
       "se": "2",
       "ca": "~N/A",
       "pr": "~$12,000 AUD",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Diesel Turbo"
     },
     "Datsun|Patrol|1981|Wagon": {
       "en": "SD33 3.3L diesel inline-6",
@@ -2441,7 +2441,7 @@
       "se": "8",
       "ca": "~N/A",
       "pr": "~$14,000 AUD",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Diesel Turbo"
     },
     "Datsun|Patrol|1981|SGL": {
       "en": "P40 4.0L SOHC inline-6",
@@ -2697,7 +2697,7 @@
       "se": "2",
       "ca": "~220 L",
       "pr": "~$12,000 AUD",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Datsun|910 Bluebird|1981|Standard": {
       "en": "L16 1.6L SOHC inline-4",
@@ -2889,7 +2889,7 @@
       "se": "5",
       "ca": "~380 L",
       "pr": "~$13,000 AUD",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Diesel Turbo"
     },
     "Datsun|Go|2015|Standard": {
       "en": "HR12DE 1.2L SOHC inline-3",
@@ -3659,7 +3659,7 @@
       "se": "2",
       "ca": "~200 L",
       "pr": "~£10,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Gamma|1979|Berlina": {
       "en": "2.5L DOHC flat-4",
@@ -3708,7 +3708,7 @@
       "se": "2",
       "ca": "~180 L",
       "pr": "~£25,000",
-      "aspiration": "Supercharged"
+      "aspiration": "Abarth Volumex Supercharged"
     },
     "Lancia|Rally 037|1983|Evolution": {
       "en": "2.0L Supercharged DOHC inline-4 Evo",
@@ -3725,7 +3725,7 @@
       "se": "2",
       "ca": "~180 L",
       "pr": "~£40,000",
-      "aspiration": "Supercharged"
+      "aspiration": "Abarth Volumex Supercharged"
     },
     "Lancia|Prisma|1985|1600": {
       "en": "1.6L DOHC inline-4",
@@ -3757,7 +3757,7 @@
       "se": "5",
       "ca": "~300 L",
       "pr": "~£11,500",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Thema|1987|2000 Turbo 16v": {
       "en": "2.0L Turbo DOHC 16v inline-4",
@@ -3773,7 +3773,7 @@
       "se": "5",
       "ca": "~380 L",
       "pr": "~£18,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Thema|1988|8.32": {
       "en": "Ferrari 3.0L DOHC 32v V8",
@@ -3805,7 +3805,7 @@
       "se": "5",
       "ca": "~520 L",
       "pr": "~£20,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Y10|1987|Fire": {
       "en": "FIRE 1.0L SOHC inline-4",
@@ -3853,7 +3853,7 @@
       "se": "4",
       "ca": "~225 L",
       "pr": "~£8,500",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Y10|1988|4WD": {
       "en": "1.1L SOHC inline-4 AWD",
@@ -3885,7 +3885,7 @@
       "se": "5",
       "ca": "~510 L",
       "pr": "~£16,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Dedra|1991|Integrale": {
       "en": "2.0L Turbo DOHC 16v inline-4 AWD",
@@ -3901,7 +3901,7 @@
       "se": "5",
       "ca": "~510 L",
       "pr": "~£22,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Dedra|1993|SW": {
       "en": "2.0L Turbo DOHC inline-4",
@@ -3917,7 +3917,7 @@
       "se": "5",
       "ca": "~650 L",
       "pr": "~£18,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Kappa|1997|2.0": {
       "en": "2.0L DOHC 16v inline-4",
@@ -3949,7 +3949,7 @@
       "se": "4",
       "ca": "~310 L",
       "pr": "~£28,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Zeta|1997|2.0 Turbo": {
       "en": "2.0L Turbo DOHC inline-4",
@@ -3965,7 +3965,7 @@
       "se": "8",
       "ca": "~700 L",
       "pr": "~£20,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Ypsilon|1999|1.2": {
       "en": "1.2L SOHC inline-4",
@@ -3997,7 +3997,7 @@
       "se": "4",
       "ca": "~225 L",
       "pr": "~£12,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Ypsilon|2006|1.4": {
       "en": "1.4L SOHC inline-4",
@@ -4029,7 +4029,7 @@
       "se": "4",
       "ca": "~225 L",
       "pr": "~£12,500",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Ypsilon|2015|1.2 Gold": {
       "en": "1.2L SOHC inline-4",
@@ -4061,7 +4061,7 @@
       "se": "5",
       "ca": "~225 L",
       "pr": "~£16,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Lybra|2001|1.8": {
       "en": "1.8L DOHC 16v inline-4",
@@ -4093,7 +4093,7 @@
       "se": "5",
       "ca": "~650 L",
       "pr": "~£18,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Thesis|2003|2.0 Turbo": {
       "en": "2.0L Turbo DOHC 20v inline-5",
@@ -4109,7 +4109,7 @@
       "se": "5",
       "ca": "~530 L",
       "pr": "~£30,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Thesis|2003|3.0 V6": {
       "en": "3.0L DOHC 24v V6",
@@ -4157,7 +4157,7 @@
       "se": "5",
       "ca": "~280 L",
       "pr": "~£16,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Phedra|2004|2.0 16v": {
       "en": "2.0L DOHC 16v inline-4",
@@ -4189,7 +4189,7 @@
       "se": "7",
       "ca": "~700 L",
       "pr": "~£24,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Delta II|2010|1.4 Turbo": {
       "en": "1.4L MultiAir Turbo inline-4",
@@ -4205,7 +4205,7 @@
       "se": "5",
       "ca": "~280 L",
       "pr": "~£18,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Delta II|2010|1.8 DI Turbo": {
       "en": "1.8L DI Turbo DOHC inline-4",
@@ -4221,7 +4221,7 @@
       "se": "5",
       "ca": "~280 L",
       "pr": "~£26,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Flavia II|2013|2.4": {
       "en": "Pentastar 2.4L SOHC inline-4",
@@ -4285,7 +4285,7 @@
       "se": "7",
       "ca": "~1,007 L",
       "pr": "~£28,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Lancia|New Ypsilon|2024|Electric": {
       "en": "Electric motor 115 kW",
@@ -4333,7 +4333,7 @@
       "se": "5",
       "ca": "~280 L",
       "pr": "~£10,500",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Delta|1987|HF 4WD": {
       "en": "2.0L Turbo DOHC inline-4 4WD",
@@ -4349,7 +4349,7 @@
       "se": "5",
       "ca": "~280 L",
       "pr": "~£16,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lancia|Fulvia|1968|Coupe 1.3S": {
       "en": "1.3L DOHC narrow-V4",
@@ -4429,7 +4429,7 @@
       "se": "4",
       "ca": "~310 L",
       "pr": "~£11,000",
-      "aspiration": "Supercharged"
+      "aspiration": "Lancia Volumex Supercharged"
     },
     "Lancia|Alpha|1908|Torpedo": {
       "en": "2.5L inline-4",

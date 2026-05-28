@@ -17,7 +17,7 @@
       "acceleration": 4,
       "topSpeed": 318,
       "price": "~$349,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Bentley|Continental GTC|2024|W12": {
       "engine": "6.0L W12 Twin-Turbo",
@@ -36,7 +36,7 @@
       "acceleration": 3.9,
       "topSpeed": 333,
       "price": "~$399,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Bentley|Continental GTC|2025|V8": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -55,7 +55,7 @@
       "acceleration": 4,
       "topSpeed": 318,
       "price": "~$369,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Bentley|Continental GTC|2025|W12": {
       "engine": "6.0L W12 Twin-Turbo",
@@ -74,7 +74,7 @@
       "acceleration": 3.9,
       "topSpeed": 333,
       "price": "~$419,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Bentley|Continental GTC|2026|V8": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -93,7 +93,7 @@
       "acceleration": 4,
       "topSpeed": 318,
       "price": "~$389,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Bentley|Continental GTC|2026|W12": {
       "engine": "6.0L W12 Twin-Turbo",
@@ -112,7 +112,7 @@
       "acceleration": 3.9,
       "topSpeed": 333,
       "price": "~$439,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Ferrari|Roma|2024|base": {
       "engine": "3.9L V8 Twin-Turbo",
@@ -131,7 +131,7 @@
       "acceleration": 3.4,
       "topSpeed": 320,
       "price": "~$349,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Ferrari|Roma|2024|Spider": {
       "engine": "3.9L V8 Twin-Turbo",
@@ -150,7 +150,7 @@
       "acceleration": 3.4,
       "topSpeed": 315,
       "price": "~$399,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Ferrari|Roma|2025|base": {
       "engine": "3.9L V8 Twin-Turbo",
@@ -169,7 +169,7 @@
       "acceleration": 3.4,
       "topSpeed": 320,
       "price": "~$369,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Ferrari|Roma|2025|Spider": {
       "engine": "3.9L V8 Twin-Turbo",
@@ -188,7 +188,7 @@
       "acceleration": 3.4,
       "topSpeed": 315,
       "price": "~$419,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Ferrari|Roma|2026|base": {
       "engine": "3.9L V8 Twin-Turbo",
@@ -207,7 +207,7 @@
       "acceleration": 3.4,
       "topSpeed": 320,
       "price": "~$389,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Ferrari|Roma|2026|Spider": {
       "engine": "3.9L V8 Twin-Turbo",
@@ -226,7 +226,7 @@
       "acceleration": 3.4,
       "topSpeed": 315,
       "price": "~$439,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Porsche|911|2025|Turbo Cabriolet": {
       "engine": "3.8L Flat-6 Twin-Turbo",
@@ -245,7 +245,7 @@
       "acceleration": 3.1,
       "topSpeed": 320,
       "price": "~$410,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo"
     },
     "Porsche|911|2025|Turbo S Cabriolet": {
       "engine": "3.8L Flat-6 Twin-Turbo",
@@ -264,7 +264,7 @@
       "acceleration": 2.7,
       "topSpeed": 330,
       "price": "~$480,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo"
     },
     "Porsche|911|2026|Turbo Cabriolet": {
       "engine": "3.8L Flat-6 Twin-Turbo",
@@ -283,7 +283,7 @@
       "acceleration": 3.1,
       "topSpeed": 320,
       "price": "~$420,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo"
     },
     "Porsche|911|2026|Turbo S Cabriolet": {
       "engine": "3.8L Flat-6 Twin-Turbo",
@@ -302,7 +302,7 @@
       "acceleration": 2.7,
       "topSpeed": 330,
       "price": "~$490,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo"
     },
     "Bentley|Flying Spur|2024|Speed": {
       "engine": "6.0L W12 Twin-Turbo",
@@ -321,7 +321,7 @@
       "acceleration": 3.7,
       "topSpeed": 335,
       "price": "~$509,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Bentley|Flying Spur|2025|Speed": {
       "engine": "6.0L W12 Twin-Turbo",
@@ -340,7 +340,7 @@
       "acceleration": 3.7,
       "topSpeed": 335,
       "price": "~$529,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Bentley|Flying Spur|2026|Speed": {
       "engine": "6.0L W12 Twin-Turbo",
@@ -359,7 +359,7 @@
       "acceleration": 3.7,
       "topSpeed": 335,
       "price": "~$549,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Bugatti|Tourbillon|2025|Standard": {
       "engine": "8.3L V16 NA + Electric",

@@ -74,7 +74,7 @@
       "acceleration": 7.5,
       "topSpeed": 170,
       "price": "~$41,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Qashqai|2023|ST-L e-Power": {
       "engine": "1.5L I3 VC-Turbo e-POWER",
@@ -93,7 +93,7 @@
       "acceleration": 7.5,
       "topSpeed": 170,
       "price": "~$44,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Nissan|Qashqai|2023|Ti e-Power": {
       "engine": "1.5L I3 VC-Turbo e-POWER",
@@ -112,7 +112,7 @@
       "acceleration": 7.5,
       "topSpeed": 170,
       "price": "~$51,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Amarok|2023|TDI500 Style": {
       "engine": "3.0L V6 TDI",
@@ -131,7 +131,7 @@
       "acceleration": 8,
       "topSpeed": 193,
       "price": "~$62,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2023|TDI600 Aventura": {
       "engine": "3.0L V6 TDI",
@@ -150,7 +150,7 @@
       "acceleration": 7.5,
       "topSpeed": 200,
       "price": "~$79,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Amarok|2023|TDI600 PanAmericana": {
       "engine": "3.0L V6 TDI",
@@ -169,7 +169,7 @@
       "acceleration": 7.5,
       "topSpeed": 200,
       "price": "~$75,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Everest|2023|Platinum": {
       "engine": "3.0L V6 TDI",
@@ -188,7 +188,7 @@
       "acceleration": 8.4,
       "topSpeed": 200,
       "price": "~$89,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Everest|2023|Platinum+": {
       "engine": "3.0L V6 TDI",
@@ -207,7 +207,7 @@
       "acceleration": 8.4,
       "topSpeed": 200,
       "price": "~$99,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Toyota|Prius|2023|GX": {
       "engine": "2.0L I4 Atkinson Hybrid",
@@ -302,7 +302,7 @@
       "acceleration": 11,
       "topSpeed": 190,
       "price": "~$31,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Polo|2023|85TSI Style": {
       "engine": "1.0L I3 TSI Evo",
@@ -321,7 +321,7 @@
       "acceleration": 9.8,
       "topSpeed": 200,
       "price": "~$35,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "BMW|7 Series|2023|740i xDrive": {
       "engine": "3.0L I6 Twin-Turbo",
@@ -340,7 +340,7 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "price": "~$249,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|7 Series|2023|760i xDrive": {
       "engine": "4.4L V8 Twin-Turbo",
@@ -359,7 +359,7 @@
       "acceleration": 4,
       "topSpeed": 250,
       "price": "~$349,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|M2|2023|Coupe": {
       "engine": "3.0L I6 Twin-Turbo M TwinPower",
@@ -378,7 +378,7 @@
       "acceleration": 4.1,
       "topSpeed": 285,
       "price": "~$129,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|M2|2023|CS": {
       "engine": "3.0L I6 Twin-Turbo M TwinPower",
@@ -397,7 +397,7 @@
       "acceleration": 3.7,
       "topSpeed": 280,
       "price": "~$159,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     }
   }
 }

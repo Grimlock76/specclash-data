@@ -17,7 +17,7 @@
       "acceleration": 8.1,
       "topSpeed": 225,
       "price": "~$57,990",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett VGT Diesel Turbo"
     },
     "Jaguar|XE|2015|P250": {
       "engine": "2.0L I4 Turbo Ingenium P250",
@@ -36,7 +36,7 @@
       "acceleration": 6.5,
       "topSpeed": 250,
       "price": "~$64,990",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Jaguar|XE|2015|P300 R-Sport": {
       "engine": "2.0L I4 Turbo Ingenium P300",
@@ -55,7 +55,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$77,990",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Jaguar|XE|2015|S": {
       "engine": "3.0L V6 SC AJ126",
@@ -74,7 +74,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$99,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Jaguar|XE|2015|SV Project 8": {
       "engine": "5.0L V8 SC AJ133",
@@ -93,7 +93,7 @@
       "acceleration": 3.3,
       "topSpeed": 320,
       "price": "~$299,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Skoda|Octavia|2015|110 TSI": {
       "engine": "1.4L I4 Turbo TSI EA211",
@@ -112,7 +112,7 @@
       "acceleration": 9.5,
       "topSpeed": 206,
       "price": "~$27,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Skoda|Octavia|2015|110 TSI Ambition": {
       "engine": "1.4L I4 Turbo TSI EA211",
@@ -131,7 +131,7 @@
       "acceleration": 9.5,
       "topSpeed": 206,
       "price": "~$31,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Skoda|Octavia|2015|RS 230": {
       "engine": "2.0L I4 Turbo TSI EA888",
@@ -150,7 +150,7 @@
       "acceleration": 6.8,
       "topSpeed": 248,
       "price": "~$44,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Skoda|Octavia|2015|RS 245": {
       "engine": "2.0L I4 Turbo TSI EA888 gen3",
@@ -169,7 +169,7 @@
       "acceleration": 6.4,
       "topSpeed": 250,
       "price": "~$48,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Dodge|Challenger|2015|SRT Hellcat": {
       "engine": "6.2L V8 SC Supercharged Hellcat",
@@ -188,7 +188,7 @@
       "acceleration": 3.7,
       "topSpeed": 325,
       "price": "~$89,990",
-      "aspiration": "Supercharged"
+      "aspiration": "IHI Twin-Screw Supercharged"
     },
     "Dodge|Charger|2015|Hellcat": {
       "engine": "6.2L V8 SC Supercharged Hellcat",
@@ -207,7 +207,7 @@
       "acceleration": 3.7,
       "topSpeed": 328,
       "price": "~$84,990",
-      "aspiration": "Supercharged"
+      "aspiration": "IHI Twin-Screw Supercharged"
     },
     "Dodge|Charger|2015|SRT Hellcat": {
       "engine": "6.2L V8 SC Supercharged Hellcat",
@@ -226,7 +226,7 @@
       "acceleration": 3.7,
       "topSpeed": 328,
       "price": "~$89,990",
-      "aspiration": "Supercharged"
+      "aspiration": "IHI Twin-Screw Supercharged"
     },
     "Dodge|Charger|2015|Scat Pack": {
       "engine": "6.4L V8 NA SRT 392 Apache",
@@ -321,7 +321,7 @@
       "acceleration": 10.8,
       "topSpeed": 175,
       "price": "~$59,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     }
   }
 }

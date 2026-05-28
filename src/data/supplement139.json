@@ -511,7 +511,7 @@
       "acceleration": 7.5,
       "topSpeed": 200,
       "price": "~$56,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Jeep|Compass|2024|Sport": {
       "engine": "2.4L I4 Tigershark",
@@ -606,7 +606,7 @@
       "acceleration": 7.5,
       "topSpeed": 200,
       "price": "~$58,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Suzuki|Jimny|2025|Lite": {
       "engine": "1.5L I4",
@@ -777,7 +777,7 @@
       "fh": 6.5,
       "fx": 11.3,
       "price": "~$40,990",
-      "aspiration": "Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo"
     },
     "Isuzu|D-MAX|2025|LS": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -796,7 +796,7 @@
       "fh": 6.9,
       "fx": 11.8,
       "price": "~$51,990",
-      "aspiration": "Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo"
     },
     "Isuzu|D-MAX|2025|LS-U": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -815,7 +815,7 @@
       "fh": 6.9,
       "fx": 11.8,
       "price": "~$56,990",
-      "aspiration": "Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo"
     },
     "Isuzu|D-MAX|2025|X-Terrain": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -834,7 +834,7 @@
       "fh": 6.9,
       "fx": 11.8,
       "price": "~$59,990",
-      "aspiration": "Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo"
     },
     "Isuzu|D-MAX|2026|SX": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -853,7 +853,7 @@
       "fh": 6.5,
       "fx": 11.3,
       "price": "~$42,990",
-      "aspiration": "Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo"
     },
     "Isuzu|D-MAX|2026|LS": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -872,7 +872,7 @@
       "fh": 6.9,
       "fx": 11.8,
       "price": "~$53,990",
-      "aspiration": "Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo"
     },
     "Isuzu|D-MAX|2026|LS-U": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -891,7 +891,7 @@
       "fh": 6.9,
       "fx": 11.8,
       "price": "~$58,990",
-      "aspiration": "Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo"
     },
     "Isuzu|D-MAX|2026|X-Terrain": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -910,7 +910,7 @@
       "fh": 6.9,
       "fx": 11.8,
       "price": "~$61,990",
-      "aspiration": "Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo"
     },
     "Genesis|GV80|2022|2.5T": {
       "engine": "2.5L I4 Twin Scroll Turbo",
@@ -929,7 +929,7 @@
       "acceleration": 6.8,
       "topSpeed": 220,
       "price": "~$76,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Genesis|GV80|2022|3.5T": {
       "engine": "3.5L V6 Twin Turbo",
@@ -948,7 +948,7 @@
       "acceleration": 5.4,
       "topSpeed": 250,
       "price": "~$91,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Genesis|GV80|2023|2.5T": {
       "engine": "2.5L I4 Twin Scroll Turbo",
@@ -967,7 +967,7 @@
       "acceleration": 6.8,
       "topSpeed": 220,
       "price": "~$77,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Genesis|GV80|2023|3.5T": {
       "engine": "3.5L V6 Twin Turbo",
@@ -986,7 +986,7 @@
       "acceleration": 5.4,
       "topSpeed": 250,
       "price": "~$92,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Genesis|GV80|2025|2.5T": {
       "engine": "2.5L I4 Twin Scroll Turbo",
@@ -1005,7 +1005,7 @@
       "acceleration": 6.8,
       "topSpeed": 220,
       "price": "~$81,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Genesis|GV80|2025|3.5T": {
       "engine": "3.5L V6 Twin Turbo",
@@ -1024,7 +1024,7 @@
       "acceleration": 5.4,
       "topSpeed": 250,
       "price": "~$96,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Genesis|GV80|2026|2.5T": {
       "engine": "2.5L I4 Twin Scroll Turbo",
@@ -1043,7 +1043,7 @@
       "acceleration": 6.8,
       "topSpeed": 220,
       "price": "~$83,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Genesis|GV80|2026|3.5T": {
       "engine": "3.5L V6 Twin Turbo",
@@ -1062,7 +1062,7 @@
       "acceleration": 5.4,
       "topSpeed": 250,
       "price": "~$98,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Genesis|GV80|2025|Electrified": {
       "engine": "Dual Motor Electric",

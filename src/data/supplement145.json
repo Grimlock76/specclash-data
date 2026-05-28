@@ -17,7 +17,7 @@
       "acceleration": 9.8,
       "topSpeed": 175,
       "price": "~$98,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo"
     },
     "Toyota|Prado|2026|GR Sport Hybrid": {
       "engine": "2.4L I4 Turbo Hybrid",
@@ -36,7 +36,7 @@
       "acceleration": 7.8,
       "topSpeed": 180,
       "price": "~$107,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Toyota|Prado|2026|Sahara Diesel": {
       "engine": "2.8L I4 Turbo Diesel",
@@ -55,7 +55,7 @@
       "acceleration": 9.8,
       "topSpeed": 175,
       "price": "~$96,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo"
     },
     "Toyota|Prado|2026|Sahara Hybrid": {
       "engine": "2.4L I4 Turbo Hybrid",
@@ -74,7 +74,7 @@
       "acceleration": 7.8,
       "topSpeed": 180,
       "price": "~$105,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Toyota|Yaris Cross|2026|GX Hybrid": {
       "engine": "1.5L I3 Hybrid",
@@ -150,7 +150,7 @@
       "acceleration": 14,
       "topSpeed": 165,
       "price": "~$67,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo"
     },
     "Toyota|HiAce|2026|Commuter GL": {
       "engine": "2.8L I4 Turbo Diesel",
@@ -169,7 +169,7 @@
       "acceleration": 14,
       "topSpeed": 165,
       "price": "~$63,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo"
     },
     "Toyota|HiAce|2026|Van SWB Diesel": {
       "engine": "2.8L I4 Turbo Diesel",
@@ -188,7 +188,7 @@
       "acceleration": 13,
       "topSpeed": 165,
       "price": "~$52,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo"
     },
     "Toyota|Corolla Cross|2026|GX Hybrid": {
       "engine": "1.8L I4 Hybrid",
@@ -264,7 +264,7 @@
       "acceleration": 6.7,
       "topSpeed": 210,
       "price": "~$159,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo"
     },
     "Mitsubishi|Outlander|2026|PHEV ES": {
       "engine": "2.4L PHEV Twin Motor AWD",
@@ -283,7 +283,7 @@
       "acceleration": 6.7,
       "topSpeed": 200,
       "price": "~$53,490",
-      "aspiration": "Turbo"
+      "aspiration": "MHI Single-Turbo"
     },
     "Mitsubishi|Outlander|2026|PHEV LS": {
       "engine": "2.4L PHEV Twin Motor AWD",
@@ -302,7 +302,7 @@
       "acceleration": 6.7,
       "topSpeed": 200,
       "price": "~$58,490",
-      "aspiration": "Turbo"
+      "aspiration": "MHI Single-Turbo"
     },
     "Mitsubishi|Outlander|2026|PHEV Exceed": {
       "engine": "2.4L PHEV Twin Motor AWD",
@@ -321,7 +321,7 @@
       "acceleration": 6.7,
       "topSpeed": 200,
       "price": "~$63,490",
-      "aspiration": "Turbo"
+      "aspiration": "MHI Single-Turbo"
     },
     "Mitsubishi|Triton|2026|GLX+": {
       "engine": "2.4L I4 Turbo Diesel",
@@ -340,7 +340,7 @@
       "acceleration": 9.8,
       "topSpeed": 175,
       "price": "~$55,490",
-      "aspiration": "Turbo"
+      "aspiration": "MHI VGT Diesel Turbo"
     },
     "Mitsubishi|Triton|2026|Titan": {
       "engine": "2.4L I4 Turbo Diesel",
@@ -359,7 +359,7 @@
       "acceleration": 9.8,
       "topSpeed": 175,
       "price": "~$58,490",
-      "aspiration": "Turbo"
+      "aspiration": "MHI VGT Diesel Turbo"
     },
     "Subaru|Outback|2026|Wilderness": {
       "engine": "2.4L DOHC Turbo",
@@ -378,7 +378,7 @@
       "acceleration": 6.1,
       "topSpeed": 220,
       "price": "~$61,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     }
   }
 }

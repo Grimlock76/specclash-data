@@ -17,7 +17,7 @@
       "acceleration": 6.4,
       "topSpeed": 230,
       "price": "~$84,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volvo|V60|2022|T8 Recharge": {
       "engine": "2.0L I4 T8 PHEV",
@@ -36,7 +36,7 @@
       "acceleration": 4.6,
       "topSpeed": 250,
       "price": "~$109,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volvo|XC40|2022|Recharge Pure Electric": {
       "engine": "Dual Motor Electric",
@@ -74,7 +74,7 @@
       "acceleration": 6.4,
       "topSpeed": 230,
       "price": "~$86,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volvo|XC90|2022|Recharge T8": {
       "engine": "2.0L I4 T8 PHEV",
@@ -93,7 +93,7 @@
       "acceleration": 4.9,
       "topSpeed": 230,
       "price": "~$119,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Toyota|LandCruiser|2022|GR Sport": {
       "engine": "3.3L V6 Twin-Turbo Diesel",
@@ -112,7 +112,7 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "price": "~$175,900",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota Twin-Turbo"
     },
     "Toyota|Yaris Cross|2022|GR Sport": {
       "engine": "1.5L I3 Hybrid",
@@ -207,7 +207,7 @@
       "acceleration": 2.9,
       "topSpeed": 316,
       "price": "~$599,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|B-Class|2022|B 200": {
       "engine": "1.3L I4 Turbo",
@@ -226,7 +226,7 @@
       "acceleration": 8.7,
       "topSpeed": 212,
       "price": "~$48,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|G-Class|2022|G 500": {
       "engine": "4.0L V8 Biturbo",
@@ -245,7 +245,7 @@
       "acceleration": 5.9,
       "topSpeed": 210,
       "price": "~$299,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|S-Class|2022|S 580": {
       "engine": "4.0L V8 Biturbo MHEV",
@@ -264,7 +264,7 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "price": "~$325,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Honda|CR-V|2022|VTi": {
       "engine": "1.5L I4 VTEC Turbo",
@@ -283,7 +283,7 @@
       "acceleration": 10,
       "topSpeed": 195,
       "price": "~$35,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Honda|Accord|2022|e:HEV Sport": {
       "engine": "2.0L I4 e:HEV Atkinson",
@@ -340,7 +340,7 @@
       "acceleration": 6.5,
       "topSpeed": 180,
       "price": "~$115,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Subaru|Outback|2022|Wilderness": {
       "engine": "2.5L I4 Boxer NA",
@@ -378,7 +378,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "price": "~$95,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     }
   }
 }

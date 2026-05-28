@@ -17,7 +17,7 @@
       "acceleration": 3.8,
       "topSpeed": 330,
       "price": "~$299,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Audi|A5|2017|45 TFSI quattro": {
       "engine": "2.0L I4 Turbo TFSI",
@@ -36,7 +36,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$74,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|Q5|2017|3.0 TDI quattro": {
       "engine": "3.0L V6 Turbo Diesel TDI",
@@ -55,7 +55,7 @@
       "acceleration": 5.9,
       "topSpeed": 247,
       "price": "~$99,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "BMW|4 Series|2017|430i": {
       "engine": "2.0L I4 Turbo B48",
@@ -74,7 +74,7 @@
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$72,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "BMW|4 Series|2017|440i": {
       "engine": "3.0L I6 Turbo B58",
@@ -93,7 +93,7 @@
       "acceleration": 5,
       "topSpeed": 250,
       "price": "~$96,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "BMW|5 Series|2017|530i": {
       "engine": "2.0L I4 Turbo B48",
@@ -112,7 +112,7 @@
       "acceleration": 6.2,
       "topSpeed": 250,
       "price": "~$89,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "BMW|5 Series|2017|540i": {
       "engine": "3.0L I6 Turbo B58",
@@ -131,7 +131,7 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$119,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "BMW|5 Series|2017|M550i": {
       "engine": "4.4L V8 Biturbo S63 MHEV",
@@ -150,7 +150,7 @@
       "acceleration": 3.9,
       "topSpeed": 250,
       "price": "~$174,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "BMW|5 Series|2017|530e": {
       "engine": "2.0L I4 Turbo + Electric PHEV",
@@ -169,7 +169,7 @@
       "acceleration": 6.2,
       "topSpeed": 235,
       "price": "~$109,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "BMW|5 Series|2017|545e xDrive": {
       "engine": "3.0L I6 Turbo + Electric PHEV",
@@ -188,7 +188,7 @@
       "acceleration": 5,
       "topSpeed": 235,
       "price": "~$149,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "BMW|X3|2017|xDrive30i": {
       "engine": "2.0L I4 Turbo B48",
@@ -207,7 +207,7 @@
       "acceleration": 6,
       "topSpeed": 233,
       "price": "~$79,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "BMW|X3|2017|M40i": {
       "engine": "3.0L I6 Turbo B58",
@@ -226,7 +226,7 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$109,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Chevrolet|Sonic|2017|Premier": {
       "engine": "1.4L I4 Turbo LUV",
@@ -245,7 +245,7 @@
       "acceleration": 9.5,
       "topSpeed": 190,
       "price": "~$24,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Datsun|Redi-GO|2017|S": {
       "engine": "1.0L I3 NA BR10DE",
@@ -302,7 +302,7 @@
       "acceleration": 3.7,
       "topSpeed": 320,
       "price": "~$99,990",
-      "aspiration": "Supercharged"
+      "aspiration": "IHI Twin-Screw Supercharged"
     },
     "Honda|Civic|2017|Type R FK8": {
       "engine": "2.0L I4 VTEC Turbo K20C1",
@@ -321,7 +321,7 @@
       "acceleration": 5.7,
       "topSpeed": 272,
       "price": "~$49,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Honda|Civic|2017|VTi": {
       "engine": "1.5L I4 Turbo L15B7 VTEC",
@@ -340,7 +340,7 @@
       "acceleration": 8.4,
       "topSpeed": 215,
       "price": "~$24,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Honda|HR-V|2017|RS": {
       "engine": "1.8L I4 NA L18Z1",

@@ -17,7 +17,7 @@
       "acceleration": 7.5,
       "topSpeed": 238,
       "price": "~$109,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Mercedes-Benz|GLA|2020|GLA35 AMG": {
       "engine": "2.0L I4 Turbo AMG",
@@ -36,7 +36,7 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$87,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|GLA|2020|GLA45 S AMG": {
       "engine": "2.0L I4 Turbo AMG",
@@ -55,7 +55,7 @@
       "acceleration": 4.3,
       "topSpeed": 265,
       "price": "~$109,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mini|Countryman|2020|Cooper SE": {
       "engine": "1.5L I3 Turbo PHEV",
@@ -74,7 +74,7 @@
       "acceleration": 6.8,
       "topSpeed": 196,
       "price": "~$59,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Mitsubishi|Pajero Sport|2020|GLX+": {
       "engine": "2.4L I4 MIVEC Turbo Diesel",
@@ -93,7 +93,7 @@
       "acceleration": 11.5,
       "topSpeed": 175,
       "price": "~$55,990",
-      "aspiration": "Turbo"
+      "aspiration": "MHI VGT Diesel Turbo"
     },
     "Opel|Mokka|2020|1.2 Turbo": {
       "engine": "1.2L I3 Turbo PureTech",
@@ -112,7 +112,7 @@
       "acceleration": 10.4,
       "topSpeed": 190,
       "price": "~$35,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Opel|Mokka|2020|Electric": {
       "engine": "Single Motor Electric",
@@ -169,7 +169,7 @@
       "acceleration": 2.7,
       "topSpeed": 330,
       "price": "~$499,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Porsche|Cayenne|2020|Turbo S": {
       "engine": "4.0L V8 Biturbo Hybrid",
@@ -188,7 +188,7 @@
       "acceleration": 3.8,
       "topSpeed": 295,
       "price": "~$349,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "SEAT|Leon|2020|1.5 TSI": {
       "engine": "1.5L I4 TSI EVO",
@@ -207,7 +207,7 @@
       "acceleration": 8.9,
       "topSpeed": 210,
       "price": "~$38,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "SEAT|Leon|2020|Cupra": {
       "engine": "2.0L I4 TSI",
@@ -226,7 +226,7 @@
       "acceleration": 5.7,
       "topSpeed": 247,
       "price": "~$58,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Subaru|Impreza|2020|2.0i-L": {
       "engine": "2.0L I4 Boxer NA FB20",
@@ -283,7 +283,7 @@
       "acceleration": 6.4,
       "topSpeed": 215,
       "price": "~$46,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Subaru|Outback|2020|2.4XT Premium": {
       "engine": "2.4L I4 Boxer Turbo FA24F",
@@ -302,7 +302,7 @@
       "acceleration": 6.4,
       "topSpeed": 215,
       "price": "~$49,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Subaru|Outback|2020|2.4XT Sport": {
       "engine": "2.4L I4 Boxer Turbo FA24F",
@@ -321,7 +321,7 @@
       "acceleration": 6.4,
       "topSpeed": 215,
       "price": "~$52,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Tesla|Model S|2020|Long Range": {
       "engine": "Dual Motor Electric",
@@ -416,7 +416,7 @@
       "acceleration": 10.5,
       "topSpeed": 175,
       "price": "~$65,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo"
     },
     "Toyota|Yaris|2020|GR": {
       "engine": "1.6L I3 Turbo G16E-GTS",
@@ -435,7 +435,7 @@
       "acceleration": 5.5,
       "topSpeed": 230,
       "price": "~$59,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Passat|2020|GTE": {
       "engine": "1.4L I4 TSI PHEV",
@@ -454,7 +454,7 @@
       "acceleration": 7.4,
       "topSpeed": 222,
       "price": "~$62,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volvo|XC40|2020|Recharge T5 PHEV": {
       "engine": "1.5L I3 Turbo PHEV",
@@ -473,7 +473,7 @@
       "acceleration": 7.3,
       "topSpeed": 195,
       "price": "~$72,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volvo|XC90|2020|B5": {
       "engine": "2.0L I4 Turbo MHEV",
@@ -492,7 +492,7 @@
       "acceleration": 6.5,
       "topSpeed": 220,
       "price": "~$99,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     }
   }
 }

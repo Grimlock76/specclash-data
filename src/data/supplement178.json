@@ -17,7 +17,7 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "price": "~$35,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Chevrolet|Trax|2023|RS": {
       "engine": "1.2L I3 Turbo",
@@ -36,7 +36,7 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "price": "~$39,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Ford|F-150|2023|Raptor R": {
       "engine": "5.2L V8 Supercharged Predator",
@@ -55,7 +55,7 @@
       "acceleration": 5,
       "topSpeed": 185,
       "price": "~$249,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS2650 Supercharged"
     },
     "Mitsubishi|ASX|2023|MK2 Exceed": {
       "engine": "1.3L I4 Turbo",
@@ -74,7 +74,7 @@
       "acceleration": 8.7,
       "topSpeed": 195,
       "price": "~$47,490",
-      "aspiration": "Turbo"
+      "aspiration": "MHI Single-Turbo"
     },
     "Hyundai|Kona|2023|Active petrol": {
       "engine": "2.0L I4 MPI",
@@ -112,7 +112,7 @@
       "acceleration": 5.4,
       "topSpeed": 240,
       "price": "~$89,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Audi|A5|2023|40 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -131,7 +131,7 @@
       "acceleration": 7.2,
       "topSpeed": 237,
       "price": "~$79,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Porsche|718|2023|718 Cayman": {
       "engine": "2.0L Flat-4 Turbo",
@@ -150,7 +150,7 @@
       "acceleration": 4.9,
       "topSpeed": 275,
       "price": "~$165,500",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Land Rover|Range Rover Sport|2023|P510e SE": {
       "engine": "3.0L I6 Turbo PHEV",
@@ -169,7 +169,7 @@
       "acceleration": 5.3,
       "topSpeed": 225,
       "price": "~$265,000",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "MG|MG HS|2023|PHEV": {
       "engine": "1.5L I4 Turbo PHEV",
@@ -188,7 +188,7 @@
       "acceleration": 7.5,
       "topSpeed": 175,
       "price": "~$54,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Genesis|GV70|2023|Electrified": {
       "engine": "Dual Motor Electric",
@@ -226,7 +226,7 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "price": "~$38,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Chery|Tiggo 8 Pro|2023|Turbo": {
       "engine": "1.6L I4 Turbo",
@@ -245,7 +245,7 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "price": "~$42,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Chevrolet|Colorado|2023|Trail Boss": {
       "engine": "2.7L I4 Turbo",
@@ -264,7 +264,7 @@
       "acceleration": 6.5,
       "topSpeed": 175,
       "price": "~$62,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Aston Martin|Vantage|2023|V12 Vantage": {
       "engine": "5.2L V12 Twin-Turbo",
@@ -283,7 +283,7 @@
       "acceleration": 3.5,
       "topSpeed": 338,
       "price": "~$850,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Lotus|Emira|2023|I4 AMG": {
       "engine": "2.0L I4 Turbo AMG",
@@ -302,7 +302,7 @@
       "acceleration": 4.4,
       "topSpeed": 290,
       "price": "~$152,000",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     }
   }
 }

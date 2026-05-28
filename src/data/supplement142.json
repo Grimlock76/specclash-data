@@ -17,7 +17,7 @@
       "acceleration": 8.3,
       "topSpeed": 228,
       "price": "~$51,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Skoda|Superb|2026|Sportline": {
       "engine": "2.0 TSI",
@@ -36,7 +36,7 @@
       "acceleration": 7,
       "topSpeed": 248,
       "price": "~$59,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Skoda|Karoq|2026|Style": {
       "engine": "1.5 TSI",
@@ -55,7 +55,7 @@
       "acceleration": 9.2,
       "topSpeed": 210,
       "price": "~$40,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Skoda|Karoq|2026|Sportline": {
       "engine": "2.0 TSI",
@@ -74,7 +74,7 @@
       "acceleration": 7.6,
       "topSpeed": 217,
       "price": "~$47,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Skoda|Kodiaq|2023|Style": {
       "engine": "2.0 TDI",
@@ -93,7 +93,7 @@
       "acceleration": 9.5,
       "topSpeed": 206,
       "price": "~$46,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Skoda|Kodiaq|2023|Sportline": {
       "engine": "2.0 TSI",
@@ -112,7 +112,7 @@
       "acceleration": 7.8,
       "topSpeed": 215,
       "price": "~$54,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Skoda|Fabia|2026|Style": {
       "engine": "1.0 TSI",
@@ -131,7 +131,7 @@
       "acceleration": 9.9,
       "topSpeed": 192,
       "price": "~$31,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Skoda|Fabia|2026|Monte Carlo": {
       "engine": "1.0 TSI",
@@ -150,7 +150,7 @@
       "acceleration": 9.9,
       "topSpeed": 192,
       "price": "~$35,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "LDV|T60|2026|S": {
       "engine": "2.0L Turbo Diesel",
@@ -169,7 +169,7 @@
       "acceleration": 11.5,
       "topSpeed": 175,
       "price": "~$35,590",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "LDV|T60|2026|Luxe": {
       "engine": "2.0L Turbo Diesel",
@@ -188,7 +188,7 @@
       "acceleration": 11.8,
       "topSpeed": 172,
       "price": "~$40,590",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Renault|Clio|2026|Intens": {
       "engine": "1.0 TCe",
@@ -207,7 +207,7 @@
       "acceleration": 12,
       "topSpeed": 175,
       "price": "~$34,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Renault|Clio|2026|RS Line": {
       "engine": "1.0L Turbo",
@@ -226,7 +226,7 @@
       "acceleration": 11.5,
       "topSpeed": 175,
       "price": "~$36,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Chevrolet|Corvette|2025|Stingray": {
       "engine": "6.2L V8 LT2 Mid-Engine",
@@ -283,7 +283,7 @@
       "acceleration": 9.5,
       "topSpeed": 180,
       "price": "~$38,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Chevrolet|Equinox|2024|LT": {
       "engine": "1.5L I4 Turbo",
@@ -302,7 +302,7 @@
       "acceleration": 9.5,
       "topSpeed": 180,
       "price": "~$43,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Chevrolet|Traverse|2024|LS": {
       "engine": "3.6L V6 DI",
@@ -359,7 +359,7 @@
       "acceleration": 5.3,
       "topSpeed": 250,
       "price": "~$58,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Ford|Everest|2024|UB Sport": {
       "engine": "2.0L Bi-Turbo Diesel I4",
@@ -378,7 +378,7 @@
       "acceleration": 10.8,
       "topSpeed": 178,
       "price": "~$69,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Escape|2023|ZH Titanium": {
       "engine": "2.0L EcoBoost Turbo I4",
@@ -397,7 +397,7 @@
       "acceleration": 7.8,
       "topSpeed": 210,
       "price": "~$50,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volkswagen|ID.7|2026|Pro S": {
       "engine": "Electric",
@@ -435,7 +435,7 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$70,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|RS3|2024|RS3": {
       "engine": "2.5 TFSI",
@@ -454,7 +454,7 @@
       "acceleration": 3.8,
       "topSpeed": 290,
       "price": "~$84,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|S4|2026|S4": {
       "engine": "3.0 TFSI",
@@ -473,7 +473,7 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "price": "~$122,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|S5|2026|S5": {
       "engine": "3.0 TFSI",
@@ -492,7 +492,7 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "price": "~$112,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|S6|2026|S6": {
       "engine": "2.9 V6 TFSI biturbo",
@@ -511,7 +511,7 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$180,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     }
   }
 }

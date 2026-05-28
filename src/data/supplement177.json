@@ -55,7 +55,7 @@
       "acceleration": 7.6,
       "topSpeed": 225,
       "price": "~$67,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volvo|S60|2023|B5": {
       "engine": "2.0L I4 Twin-Turbo MHEV",
@@ -74,7 +74,7 @@
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$79,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Genesis|G90|2023|3.5T": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -93,7 +93,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$199,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Genesis|G90|2023|3.5T e-AWD": {
       "engine": "3.5L V6 Twin-Turbo + Electric",
@@ -112,7 +112,7 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "price": "~$229,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "CUPRA|Born|2023|V1": {
       "engine": "Single Motor Electric",
@@ -226,7 +226,7 @@
       "acceleration": 9,
       "topSpeed": 175,
       "price": "~$74,490",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo"
     },
     "Toyota|GR Yaris|2023|Rallye": {
       "engine": "1.6L I3 Turbo G16E-GTS",
@@ -245,7 +245,7 @@
       "acceleration": 5.5,
       "topSpeed": 230,
       "price": "~$57,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Honda|Civic|2023|Type R FL5": {
       "engine": "2.0L I4 VTEC Turbo",
@@ -264,7 +264,7 @@
       "acceleration": 5.4,
       "topSpeed": 275,
       "price": "~$69,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Honda|Accord|2023|e:HEV Touring": {
       "engine": "2.0L I4 i-MMD Hybrid",
@@ -302,7 +302,7 @@
       "acceleration": 3.4,
       "topSpeed": 302,
       "price": "~$249,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Volkswagen|ID.3|2023|GTX": {
       "engine": "Dual Motor Electric",

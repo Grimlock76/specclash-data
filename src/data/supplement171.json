@@ -36,7 +36,7 @@
       "acceleration": 3,
       "topSpeed": 320,
       "price": "~$380,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo"
     },
     "Porsche|911|2024|Turbo Cabriolet": {
       "engine": "3.8L Flat-6 Twin-Turbo",
@@ -55,7 +55,7 @@
       "acceleration": 3.1,
       "topSpeed": 320,
       "price": "~$400,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo"
     },
     "Porsche|911|2024|Turbo S": {
       "engine": "3.7 Flat-6 Biturbo",
@@ -74,7 +74,7 @@
       "acceleration": 2.7,
       "topSpeed": 330,
       "price": "~$484,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Porsche|911|2024|Turbo S Cabriolet": {
       "engine": "3.8L Flat-6 Twin-Turbo",
@@ -93,7 +93,7 @@
       "acceleration": 2.7,
       "topSpeed": 330,
       "price": "~$465,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo"
     },
     "Porsche|Taycan|2024|Sport Turismo": {
       "engine": "Single Motor Electric",
@@ -188,7 +188,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$259,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|S-Class|2024|S 580 4MATIC": {
       "engine": "4.0L V8 Biturbo MHEV",
@@ -207,7 +207,7 @@
       "acceleration": 4.3,
       "topSpeed": 250,
       "price": "~$349,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|S-Class|2024|S 63 AMG e Performance": {
       "engine": "4.0L V8 PHEV AMG",
@@ -226,7 +226,7 @@
       "acceleration": 3.3,
       "topSpeed": 250,
       "price": "~$519,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo PHEV"
     },
     "Mercedes-Benz|S-Class|2024|Maybach S 580 4MATIC": {
       "engine": "4.0L V8 Biturbo MHEV",
@@ -245,7 +245,7 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$689,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|SL|2024|SL 55 AMG": {
       "engine": "4.0L V8 Biturbo AMG",
@@ -264,7 +264,7 @@
       "acceleration": 3.7,
       "topSpeed": 300,
       "price": "~$390,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|SL|2024|SL 63 AMG 4MATIC+": {
       "engine": "4.0L V8 Biturbo AMG",
@@ -283,7 +283,7 @@
       "acceleration": 3.6,
       "topSpeed": 275,
       "price": "~$449,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|AMG GT|2024|AMG GT 55 4MATIC+": {
       "engine": "4.0L V8 Biturbo AMG",
@@ -302,7 +302,7 @@
       "acceleration": 4,
       "topSpeed": 290,
       "price": "~$269,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|AMG GT|2024|AMG GT 63 S E Performance": {
       "engine": "4.0L V8 PHEV AMG",
@@ -321,7 +321,7 @@
       "acceleration": 2.9,
       "topSpeed": 316,
       "price": "~$489,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Lexus|ES|2024|ES 300h F Sport": {
       "engine": "2.5L I4 Atkinson Hybrid",
@@ -378,7 +378,7 @@
       "acceleration": 6.3,
       "topSpeed": 200,
       "price": "~$121,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota Twin-Turbo"
     },
     "Lexus|GX|2024|GX 550 Sports Luxury": {
       "engine": "3.4L V6 Twin-Turbo",
@@ -397,7 +397,7 @@
       "acceleration": 6.3,
       "topSpeed": 200,
       "price": "~$111,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota Twin-Turbo"
     },
     "Lexus|LX|2024|LX 600 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -416,7 +416,7 @@
       "acceleration": 7.4,
       "topSpeed": 210,
       "price": "~$219,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota Twin-Turbo"
     },
     "Lexus|LX|2024|LX 600 Sports Luxury": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -435,7 +435,7 @@
       "acceleration": 7.4,
       "topSpeed": 210,
       "price": "~$209,990",
-      "aspiration": "Turbo"
+      "aspiration": "Toyota Twin-Turbo"
     },
     "Lexus|RX|2024|RX 350h": {
       "engine": "2.5L I4 Atkinson Hybrid",
@@ -492,7 +492,7 @@
       "acceleration": 5,
       "topSpeed": 200,
       "price": "~$118,990",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Audi|A5|2024|45 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -511,7 +511,7 @@
       "acceleration": 6.2,
       "topSpeed": 250,
       "price": "~$71,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A5|2024|S5": {
       "engine": "3.0 TFSI V6",
@@ -530,7 +530,7 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$101,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     }
   }
 }

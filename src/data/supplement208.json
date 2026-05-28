@@ -17,7 +17,7 @@
       "acceleration": 7.7,
       "topSpeed": 240,
       "price": "~$74,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Audi|A4 allroad|2016|45 TFSI quattro": {
       "engine": "2.0L I4 Turbo TFSI",
@@ -36,7 +36,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$79,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A7|2016|3.0 TDI quattro": {
       "engine": "3.0L V6 Turbo Diesel TDI",
@@ -55,7 +55,7 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "price": "~$119,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Audi|Q7|2016|3.0 TFSI quattro": {
       "engine": "3.0L V6 SC TFSI",
@@ -74,7 +74,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$109,900",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "BMW|M4|2016|M4 Competition": {
       "engine": "3.0L I6 Biturbo S55",
@@ -93,7 +93,7 @@
       "acceleration": 4,
       "topSpeed": 280,
       "price": "~$149,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Chevrolet|Camaro|2016|LT": {
       "engine": "3.6L V6 NA LGX",
@@ -150,7 +150,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "price": "~$19,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Chevrolet|Cruze|2016|LT Diesel": {
       "engine": "1.6L I4 Turbo Diesel LH7",
@@ -169,7 +169,7 @@
       "acceleration": 10.5,
       "topSpeed": 195,
       "price": "~$26,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Chevrolet|Cruze|2016|Premier": {
       "engine": "1.4L I4 Turbo LUV",
@@ -188,7 +188,7 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "price": "~$28,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Chevrolet|Malibu|2016|L": {
       "engine": "1.5L I4 Turbo LFV",
@@ -207,7 +207,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "price": "~$24,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Chevrolet|Malibu|2016|Premier": {
       "engine": "2.0L I4 Turbo LTG",
@@ -226,7 +226,7 @@
       "acceleration": 6.5,
       "topSpeed": 235,
       "price": "~$37,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Chevrolet|Spark|2016|ACTIV": {
       "engine": "1.4L I4 NA LV7",
@@ -321,7 +321,7 @@
       "acceleration": 7.3,
       "topSpeed": 205,
       "price": "~$38,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Ford|Everest|2016|UA Sport": {
       "engine": "3.2L I5 Turbo Diesel P4AT",
@@ -340,7 +340,7 @@
       "acceleration": 10.5,
       "topSpeed": 175,
       "price": "~$53,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     }
   }
 }

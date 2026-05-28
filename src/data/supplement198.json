@@ -93,7 +93,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$82,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|CLA|2019|CLA45 S AMG": {
       "engine": "2.0L I4 Turbo AMG",
@@ -112,7 +112,7 @@
       "acceleration": 4,
       "topSpeed": 270,
       "price": "~$109,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|CLS|2019|AMG CLS 53 4MATIC+": {
       "engine": "3.0L I6 Turbo MHEV AMG",
@@ -131,7 +131,7 @@
       "acceleration": 4.5,
       "topSpeed": 270,
       "price": "~$189,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|CLS|2019|CLS 450 4MATIC": {
       "engine": "3.0L I6 Turbo MHEV",
@@ -150,7 +150,7 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$139,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|GLE|2019|GLE300d": {
       "engine": "2.0L I4 Turbo Diesel",
@@ -169,7 +169,7 @@
       "acceleration": 7.2,
       "topSpeed": 225,
       "price": "~$109,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Mercedes-Benz|GLE|2019|GLE350de": {
       "engine": "2.0L I4 Turbo Diesel PHEV",
@@ -188,7 +188,7 @@
       "acceleration": 6.8,
       "topSpeed": 210,
       "price": "~$139,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Mercedes-Benz|GLE|2019|GLE450": {
       "engine": "3.0L I6 Turbo MHEV",
@@ -207,7 +207,7 @@
       "acceleration": 5.7,
       "topSpeed": 245,
       "price": "~$129,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Mercedes-Benz|AMG GT|2019|AMG GT Black Series": {
       "engine": "4.0L V8 Biturbo AMG",
@@ -226,7 +226,7 @@
       "acceleration": 3.2,
       "topSpeed": 325,
       "price": "~$749,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mitsubishi|Triton|2019|GSR": {
       "engine": "2.4L I4 MIVEC Turbo Diesel",
@@ -245,7 +245,7 @@
       "acceleration": 11.5,
       "topSpeed": 175,
       "price": "~$55,990",
-      "aspiration": "Turbo"
+      "aspiration": "MHI VGT Diesel Turbo"
     },
     "Nissan|Leaf|2019|e+": {
       "engine": "Single Motor Electric",
@@ -283,7 +283,7 @@
       "acceleration": 9.7,
       "topSpeed": 190,
       "price": "~$31,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Opel|Corsa|2019|Electric": {
       "engine": "Single Motor Electric",

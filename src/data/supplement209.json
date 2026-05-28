@@ -17,7 +17,7 @@
       "acceleration": 11,
       "topSpeed": 178,
       "price": "~$37,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Ranger|2016|PX Mk2 XLS": {
       "engine": "3.2L I5 Turbo Diesel P4AT",
@@ -36,7 +36,7 @@
       "acceleration": 11,
       "topSpeed": 178,
       "price": "~$43,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Ranger|2016|PX Mk2 XLT": {
       "engine": "3.2L I5 Turbo Diesel P4AT",
@@ -55,7 +55,7 @@
       "acceleration": 10.8,
       "topSpeed": 178,
       "price": "~$51,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Ranger|2016|PX Mk2 Wildtrak": {
       "engine": "3.2L I5 Turbo Diesel P4AT",
@@ -74,7 +74,7 @@
       "acceleration": 10.8,
       "topSpeed": 178,
       "price": "~$57,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Ranger|2016|PX Mk2 FX4": {
       "engine": "3.2L I5 Turbo Diesel P4AT",
@@ -93,7 +93,7 @@
       "acceleration": 10.8,
       "topSpeed": 178,
       "price": "~$60,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Holden|Commodore (VF)|2016|VF II Sportwagon SV6 Black": {
       "engine": "3.6L V6 NA LFX Sidi",
@@ -150,7 +150,7 @@
       "acceleration": 3.9,
       "topSpeed": 305,
       "price": "~$189,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS2300 Supercharged"
     },
     "Honda|Accord|2016|VTi-L": {
       "engine": "2.4L I4 NA K24Z3 i-VTEC",
@@ -188,7 +188,7 @@
       "acceleration": 8.4,
       "topSpeed": 215,
       "price": "~$27,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Honda|Jazz|2016|VTi-S": {
       "engine": "1.5L I4 NA L15A VTEC",
@@ -226,7 +226,7 @@
       "acceleration": 7.9,
       "topSpeed": 215,
       "price": "~$30,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Lada|Niva|2016|1.7i 4WD": {
       "engine": "1.7L I4 NA 21214",
@@ -340,7 +340,7 @@
       "acceleration": 7.5,
       "topSpeed": 250,
       "price": "~$56,990",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     }
   }
 }

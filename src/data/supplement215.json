@@ -17,7 +17,7 @@
       "acceleration": 5.9,
       "topSpeed": 210,
       "price": "~$299,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|AMG GT|2015|AMG GT": {
       "engine": "4.0L V8 Biturbo M178 DE40",
@@ -36,7 +36,7 @@
       "acceleration": 4,
       "topSpeed": 304,
       "price": "~$239,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Mercedes-Benz|AMG GT|2015|AMG GT S": {
       "engine": "4.0L V8 Biturbo M178 DE40 AL",
@@ -55,7 +55,7 @@
       "acceleration": 3.8,
       "topSpeed": 310,
       "price": "~$279,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Audi|A4|2015|2.0 TFSI": {
       "engine": "2.0L I4 Turbo TFSI EA888",
@@ -74,7 +74,7 @@
       "acceleration": 7.3,
       "topSpeed": 238,
       "price": "~$59,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A6|2015|3.0 TFSI quattro": {
       "engine": "3.0L V6 SC TFSI",
@@ -93,7 +93,7 @@
       "acceleration": 5.5,
       "topSpeed": 250,
       "price": "~$109,900",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Audi|R8|2015|V10": {
       "engine": "5.2L V10 NA FSI",
@@ -150,7 +150,7 @@
       "acceleration": 9.2,
       "topSpeed": 195,
       "price": "~$29,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|A7|2015|3.0 TFSI quattro": {
       "engine": "3.0L V6 SC TFSI",
@@ -169,7 +169,7 @@
       "acceleration": 5.3,
       "topSpeed": 250,
       "price": "~$129,900",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS Supercharged"
     },
     "Audi|S3|2015|S3": {
       "engine": "2.0L I4 Turbo EA888 TFSI",
@@ -188,7 +188,7 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$79,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|RS6|2015|RS6 Avant": {
       "engine": "4.0L V8 Biturbo TFSI EA825",
@@ -207,7 +207,7 @@
       "acceleration": 3.9,
       "topSpeed": 280,
       "price": "~$219,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Audi|RS Q3|2015|RS Q3": {
       "engine": "2.5L I5 Turbo TFSI EA855",
@@ -226,7 +226,7 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$89,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Porsche|911|2015|GT3 RS": {
       "engine": "4.0L H6 NA MA104",
@@ -264,7 +264,7 @@
       "acceleration": 2.9,
       "topSpeed": 318,
       "price": "~$399,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Porsche|Cayenne|2015|Turbo S": {
       "engine": "4.8L V8 Biturbo M48.71",
@@ -283,7 +283,7 @@
       "acceleration": 4.1,
       "topSpeed": 289,
       "price": "~$349,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Porsche|Macan|2015|GTS": {
       "engine": "3.0L V6 Biturbo M46.21 TFSI",
@@ -302,7 +302,7 @@
       "acceleration": 5.2,
       "topSpeed": 256,
       "price": "~$149,900",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Suzuki|Vitara|2015|RT": {
       "engine": "1.6L I4 NA K16B",
@@ -359,7 +359,7 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "price": "~$33,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     }
   }
 }

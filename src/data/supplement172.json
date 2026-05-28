@@ -17,7 +17,7 @@
       "acceleration": 10.2,
       "topSpeed": 208,
       "price": "~$46,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Peugeot|5008|2024|Allure": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -36,7 +36,7 @@
       "acceleration": 10.2,
       "topSpeed": 208,
       "price": "~$51,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Peugeot|5008|2024|GT": {
       "engine": "1.6L I4 PHEV",
@@ -56,7 +56,7 @@
       "acceleration": 7.9,
       "topSpeed": 220,
       "price": "~$57,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Peugeot|308|2024|Allure": {
       "engine": "1.2 PureTech Turbo",
@@ -75,7 +75,7 @@
       "acceleration": 11,
       "topSpeed": 188,
       "price": "~$39,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Peugeot|308|2024|GT": {
       "engine": "1.6 PureTech Turbo",
@@ -94,7 +94,7 @@
       "acceleration": 7.8,
       "topSpeed": 217,
       "price": "~$49,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Peugeot|2008|2024|Allure": {
       "engine": "1.2 PureTech Turbo",
@@ -113,7 +113,7 @@
       "acceleration": 11.5,
       "topSpeed": 187,
       "price": "~$34,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Peugeot|2008|2024|GT": {
       "engine": "1.2 PureTech Turbo",
@@ -132,7 +132,7 @@
       "acceleration": 11.2,
       "topSpeed": 190,
       "price": "~$39,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Amarok|2024|TDI580 Style": {
       "engine": "3.0L V6 TDI",
@@ -151,7 +151,7 @@
       "acceleration": 8,
       "topSpeed": 188,
       "price": "~$70,190",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Bentley|Bentayga|2024|S": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -170,7 +170,7 @@
       "acceleration": 4.4,
       "topSpeed": 290,
       "price": "~$384,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Bentley|Bentayga|2024|EWB": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -189,7 +189,7 @@
       "acceleration": 4.5,
       "topSpeed": 290,
       "price": "~$484,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Skoda|Kodiaq|2024|Sportline": {
       "engine": "2.0 TSI",
@@ -208,7 +208,7 @@
       "acceleration": 8,
       "topSpeed": 210,
       "price": "~$54,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Skoda|Kodiaq|2024|Style": {
       "engine": "2.0 TSI",
@@ -227,7 +227,7 @@
       "acceleration": 8.2,
       "topSpeed": 210,
       "price": "~$48,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volvo|EX90|2024|Twin Motor": {
       "engine": "Dual Motor Electric",

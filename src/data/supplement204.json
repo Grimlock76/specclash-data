@@ -188,7 +188,7 @@
       "acceleration": 9,
       "topSpeed": 210,
       "price": "~$42,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Tiguan|2018|Allspace 162TSI": {
       "engine": "2.0L I4 Turbo TSI DNFA",
@@ -207,7 +207,7 @@
       "acceleration": 7.2,
       "topSpeed": 220,
       "price": "~$56,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Volkswagen|Touareg|2018|170TDI": {
       "engine": "3.0L V6 Turbo Diesel DCMA",
@@ -226,7 +226,7 @@
       "acceleration": 7.2,
       "topSpeed": 234,
       "price": "~$89,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volkswagen|Touareg|2018|210TDI": {
       "engine": "3.0L V6 Turbo Diesel DCMB",
@@ -245,7 +245,7 @@
       "acceleration": 6.1,
       "topSpeed": 245,
       "price": "~$109,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Volvo|S60|2018|T5 Momentum": {
       "engine": "2.0L I4 Turbo B4204T11",
@@ -264,7 +264,7 @@
       "acceleration": 6.5,
       "topSpeed": 250,
       "price": "~$59,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volvo|S60|2018|T5 R-Design": {
       "engine": "2.0L I4 Turbo B4204T11",
@@ -283,7 +283,7 @@
       "acceleration": 6.5,
       "topSpeed": 250,
       "price": "~$66,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volvo|S60|2018|T8 Recharge": {
       "engine": "2.0L I4 Turbo+SC + Electric PHEV",
@@ -302,7 +302,7 @@
       "acceleration": 5.3,
       "topSpeed": 250,
       "price": "~$84,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Volvo|XC60|2018|T8 Recharge": {
       "engine": "2.0L I4 Turbo+SC + Electric PHEV",
@@ -321,7 +321,7 @@
       "acceleration": 5.3,
       "topSpeed": 210,
       "price": "~$89,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     }
   }
 }

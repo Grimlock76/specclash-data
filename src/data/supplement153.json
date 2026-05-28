@@ -17,7 +17,7 @@
       "acceleration": 3.8,
       "topSpeed": 290,
       "price": "~$99,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Audi|RS3|2026|RS3": {
       "engine": "2.5L 5-cyl TFSI",
@@ -36,7 +36,7 @@
       "acceleration": 3.8,
       "topSpeed": 290,
       "price": "~$104,900",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Porsche|911|2025|Turbo": {
       "engine": "3.8L Flat-6 Twin-Turbo",
@@ -55,7 +55,7 @@
       "acceleration": 3,
       "topSpeed": 320,
       "price": "~$390,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo"
     },
     "Porsche|911|2025|GT3 RS": {
       "engine": "4.0L Flat-6 NA",
@@ -93,7 +93,7 @@
       "acceleration": 3,
       "topSpeed": 320,
       "price": "~$400,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo"
     },
     "Porsche|911|2026|GT3 RS": {
       "engine": "4.0L Flat-6 NA",
@@ -131,7 +131,7 @@
       "acceleration": 2.9,
       "topSpeed": 325,
       "price": "~$399,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Maserati|MC20|2025|Cielo": {
       "engine": "3.0L V6 Twin-Turbo Nettuno",
@@ -150,7 +150,7 @@
       "acceleration": 2.9,
       "topSpeed": 320,
       "price": "~$449,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Maserati|MC20|2026|Coupe": {
       "engine": "3.0L V6 Twin-Turbo Nettuno",
@@ -169,7 +169,7 @@
       "acceleration": 2.9,
       "topSpeed": 325,
       "price": "~$414,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Maserati|MC20|2026|Cielo": {
       "engine": "3.0L V6 Twin-Turbo Nettuno",
@@ -188,7 +188,7 @@
       "acceleration": 2.9,
       "topSpeed": 320,
       "price": "~$464,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Rolls-Royce|Spectre|2024|Standard": {
       "engine": "Electric Dual Motor",
@@ -264,7 +264,7 @@
       "acceleration": 3.1,
       "topSpeed": 326,
       "price": "~$380,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "McLaren|GTS|2026|GTS": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -283,7 +283,7 @@
       "acceleration": 3.1,
       "topSpeed": 326,
       "price": "~$390,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Bentley|Bentayga|2025|S": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -302,7 +302,7 @@
       "acceleration": 4.4,
       "topSpeed": 290,
       "price": "~$399,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Bentley|Bentayga|2025|EWB": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -321,7 +321,7 @@
       "acceleration": 4.5,
       "topSpeed": 290,
       "price": "~$499,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Bentley|Bentayga|2026|S": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -340,7 +340,7 @@
       "acceleration": 4.4,
       "topSpeed": 290,
       "price": "~$414,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Bentley|Bentayga|2026|EWB": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -359,7 +359,7 @@
       "acceleration": 4.5,
       "topSpeed": 290,
       "price": "~$514,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Lamborghini|Temerario|2025|Coupe": {
       "engine": "4.0L V8 Twin-Turbo Hybrid",
@@ -378,7 +378,7 @@
       "acceleration": 2.7,
       "topSpeed": 340,
       "price": "~$620,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Lamborghini|Temerario|2026|Coupe": {
       "engine": "4.0L V8 Twin-Turbo Hybrid",
@@ -397,7 +397,7 @@
       "acceleration": 2.7,
       "topSpeed": 340,
       "price": "~$640,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     }
   }
 }

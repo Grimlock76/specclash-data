@@ -1049,7 +1049,7 @@
       "se": "5",
       "ca": "390 L",
       "pr": "~$27,990",
-      "aspiration": "Turbo"
+      "aspiration": "Garrett Single-Turbo"
     },
     "Commodore (VN)|1989|VN SSE": {
       "en": "3.8L V6 Supercharged",
@@ -1070,7 +1070,7 @@
       "se": "5",
       "ca": "380 L",
       "pr": "~$34,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton M90 Supercharged"
     },
     "Commodore (VN)|1990|VN SS": {
       "en": "5.0L Holden V8",
@@ -1343,7 +1343,7 @@
       "se": "5",
       "ca": "430 L",
       "pr": "~$34,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton M90 Supercharged"
     },
     "Commodore (VZ)|2004|VZ SV8": {
       "en": "Gen III LS2 V8",
@@ -1742,7 +1742,7 @@
       "se": "5",
       "ca": "491 L",
       "pr": "~$42,990",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Commodore (ZB)|2020|ZB VXR": {
       "en": "2.0L Turbo I4",
@@ -1763,7 +1763,7 @@
       "se": "5",
       "ca": "491 L",
       "pr": "~$48,490",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Commodore (ZB)|2020|ZB Calais": {
       "en": "2.0L Turbo I4",
@@ -1784,7 +1784,7 @@
       "se": "5",
       "ca": "491 L",
       "pr": "~$48,990",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     },
     "Commodore (ZB)|2020|ZB Calais-V": {
       "en": "3.6L V6",
@@ -2018,7 +2018,8 @@
       "aspiration": "NA"
     },
     "Statesman|2011|WN Caprice V": {
-      "pr": "~$79,990"
+      "pr": "~$79,990",
+      "aspiration": "Eaton TVS2300 Supercharged"
     },
     "Commodore Ute|2005|VZ Ute SS": {
       "en": "Gen III LS2 V8",
@@ -2291,7 +2292,7 @@
       "se": "5",
       "ca": "460 L",
       "pr": "~$115,000",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS2300 Supercharged"
     },
     "HSV Commodore|2014|VF Maloo R8": {
       "en": "LS3 V8",
@@ -2333,7 +2334,7 @@
       "se": "5",
       "ca": "460 L",
       "pr": "~$98,490",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS2300 Supercharged"
     },
     "Commodore (VB)|1980|VB SL/E": {
       "en": "3.3L I6 202",

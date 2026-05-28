@@ -492,7 +492,7 @@
       "acceleration": 3.5,
       "topSpeed": 305,
       "price": "~$575,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Lamborghini|Urus|2025|Performante": {
       "engine": "4.0L V8 twin-turbo",
@@ -511,7 +511,7 @@
       "acceleration": 3.3,
       "topSpeed": 306,
       "price": "~$600,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Lamborghini|Urus|2026|S": {
       "engine": "4.0L V8 twin-turbo",
@@ -530,7 +530,7 @@
       "acceleration": 3.5,
       "topSpeed": 305,
       "price": "~$590,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Lamborghini|Urus|2026|Performante": {
       "engine": "4.0L V8 twin-turbo",
@@ -549,7 +549,7 @@
       "acceleration": 3.3,
       "topSpeed": 306,
       "price": "~$615,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Ferrari|SF90 Stradale|2024|Stradale": {
       "engine": "4.0L V8 twin-turbo + 3 electric motors PHEV",
@@ -569,7 +569,7 @@
       "topSpeed": 340,
       "range": 25,
       "price": "~$1,280,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Ferrari|SF90 Stradale|2024|Spider": {
       "engine": "4.0L V8 twin-turbo + 3 electric motors PHEV",
@@ -589,7 +589,7 @@
       "topSpeed": 340,
       "range": 25,
       "price": "~$1,430,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Ferrari|SF90 Stradale|2025|Stradale": {
       "engine": "4.0L V8 twin-turbo + 3 electric motors PHEV",
@@ -609,7 +609,7 @@
       "topSpeed": 340,
       "range": 25,
       "price": "~$1,320,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Ferrari|SF90 Stradale|2025|Spider": {
       "engine": "4.0L V8 twin-turbo + 3 electric motors PHEV",
@@ -629,7 +629,7 @@
       "topSpeed": 340,
       "range": 25,
       "price": "~$1,470,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Ferrari|SF90 Stradale|2026|Stradale": {
       "engine": "4.0L V8 twin-turbo + 3 electric motors PHEV",
@@ -649,7 +649,7 @@
       "topSpeed": 340,
       "range": 25,
       "price": "~$1,360,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     },
     "Ferrari|SF90 Stradale|2026|Spider": {
       "engine": "4.0L V8 twin-turbo + 3 electric motors PHEV",
@@ -669,7 +669,7 @@
       "topSpeed": 340,
       "range": 25,
       "price": "~$1,510,000",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Twin-Turbo"
     }
   }
 }

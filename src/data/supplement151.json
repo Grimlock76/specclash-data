@@ -17,7 +17,7 @@
       "acceleration": 5.8,
       "topSpeed": 230,
       "price": "~$62,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Ford|Mustang|2025|Fastback 5.0 GT": {
       "engine": "5.0L V8 Gen 4 Coyote",
@@ -74,7 +74,7 @@
       "acceleration": 5.8,
       "topSpeed": 230,
       "price": "~$64,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Ford|Mustang|2026|Fastback 5.0 GT": {
       "engine": "5.0L V8 Gen 4 Coyote",
@@ -131,7 +131,7 @@
       "acceleration": 11,
       "topSpeed": 183,
       "price": "~$61,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Everest|2025|Trend": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -150,7 +150,7 @@
       "acceleration": 10,
       "topSpeed": 185,
       "price": "~$65,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Everest|2025|Sport": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -169,7 +169,7 @@
       "acceleration": 10,
       "topSpeed": 185,
       "price": "~$72,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Everest|2025|Titanium": {
       "engine": "3.0L V6 TDCi",
@@ -188,7 +188,7 @@
       "acceleration": 9,
       "topSpeed": 195,
       "price": "~$79,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Everest|2026|Ambiente": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -207,7 +207,7 @@
       "acceleration": 11,
       "topSpeed": 183,
       "price": "~$63,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Everest|2026|Trend": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -226,7 +226,7 @@
       "acceleration": 10,
       "topSpeed": 185,
       "price": "~$67,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Everest|2026|Sport": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -245,7 +245,7 @@
       "acceleration": 10,
       "topSpeed": 185,
       "price": "~$74,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Everest|2026|Titanium": {
       "engine": "3.0L V6 TDCi",
@@ -264,7 +264,7 @@
       "acceleration": 9,
       "topSpeed": 195,
       "price": "~$81,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Puma|2025|ST-Line": {
       "engine": "1.0L I3 EcoBoost mHEV",
@@ -283,7 +283,7 @@
       "acceleration": 11.5,
       "topSpeed": 195,
       "price": "~$39,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Ford|Puma|2025|ST-Line X": {
       "engine": "1.0L I3 EcoBoost mHEV",
@@ -302,7 +302,7 @@
       "acceleration": 11.5,
       "topSpeed": 195,
       "price": "~$42,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Ford|Puma|2025|ST": {
       "engine": "1.5L I3 EcoBoost",
@@ -321,7 +321,7 @@
       "acceleration": 6.7,
       "topSpeed": 222,
       "price": "~$49,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Ford|Puma|2026|ST-Line": {
       "engine": "1.0L I3 EcoBoost mHEV",
@@ -340,7 +340,7 @@
       "acceleration": 11.5,
       "topSpeed": 195,
       "price": "~$41,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Ford|Puma|2026|ST-Line X": {
       "engine": "1.0L I3 EcoBoost mHEV",
@@ -359,7 +359,7 @@
       "acceleration": 11.5,
       "topSpeed": 195,
       "price": "~$44,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Ford|Puma|2026|ST": {
       "engine": "1.5L I3 EcoBoost",
@@ -378,7 +378,7 @@
       "acceleration": 6.7,
       "topSpeed": 222,
       "price": "~$51,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     }
   }
 }

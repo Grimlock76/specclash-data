@@ -17,7 +17,7 @@
       "acceleration": 9.9,
       "topSpeed": 185,
       "price": "~$29,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Chevrolet|Equinox|2018|Premier": {
       "engine": "2.0L I4 Turbo LTG",
@@ -36,7 +36,7 @@
       "acceleration": 7.2,
       "topSpeed": 200,
       "price": "~$45,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Chevrolet|Malibu|2018|RS": {
       "engine": "1.5L I4 Turbo LFV",
@@ -55,7 +55,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "price": "~$28,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Chevrolet|Traverse|2018|RS": {
       "engine": "3.6L V6 NA LGX",
@@ -112,7 +112,7 @@
       "acceleration": 12.5,
       "topSpeed": 163,
       "price": "~$18,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Dacia|Duster|2018|Essential TCe 130": {
       "engine": "1.3L I4 Turbo TCe 130",
@@ -131,7 +131,7 @@
       "acceleration": 10.2,
       "topSpeed": 176,
       "price": "~$22,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Dacia|Duster|2018|Prestige TCe 130": {
       "engine": "1.3L I4 Turbo TCe 130",
@@ -150,7 +150,7 @@
       "acceleration": 10.5,
       "topSpeed": 176,
       "price": "~$26,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Dacia|Duster|2018|Comfort TCe 130 4WD": {
       "engine": "1.3L I4 Turbo TCe 130",
@@ -169,7 +169,7 @@
       "acceleration": 10.9,
       "topSpeed": 172,
       "price": "~$28,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Dodge|Challenger|2018|SRT Demon": {
       "engine": "6.2L V8 SC SRT Demon",
@@ -188,7 +188,7 @@
       "acceleration": 3.7,
       "topSpeed": 274,
       "price": "~$109,900",
-      "aspiration": "Supercharged"
+      "aspiration": "IHI Twin-Screw Supercharged"
     },
     "Dodge|Charger|2018|Hellcat Redeye": {
       "engine": "6.2L V8 SC Hellcat",
@@ -207,7 +207,7 @@
       "acceleration": 3.6,
       "topSpeed": 328,
       "price": "~$109,900",
-      "aspiration": "Supercharged"
+      "aspiration": "IHI Twin-Screw Supercharged"
     },
     "Ford|Mustang|2018|Bullitt": {
       "engine": "5.0L V8 NA Coyote Ti-VCT",
@@ -245,7 +245,7 @@
       "acceleration": 8.4,
       "topSpeed": 215,
       "price": "~$28,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Hyundai|Kona|2018|Electric Active": {
       "engine": "Single Motor Electric",
@@ -340,7 +340,7 @@
       "acceleration": 7.5,
       "topSpeed": 215,
       "price": "~$31,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Kia|Niro|2018|Electric Si": {
       "engine": "Single Motor Electric",

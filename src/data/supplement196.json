@@ -131,7 +131,7 @@
       "acceleration": 3.5,
       "topSpeed": 290,
       "price": "~$179,990",
-      "aspiration": "Supercharged"
+      "aspiration": "Eaton TVS2650 Supercharged"
     },
     "Genesis|G80|2019|3.3T Sport": {
       "engine": "3.3L V6 Biturbo Lambda II",
@@ -150,7 +150,7 @@
       "acceleration": 5.5,
       "topSpeed": 250,
       "price": "~$99,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Twin-Turbo"
     },
     "Genesis|G80|2019|5.0": {
       "engine": "5.0L V8 NA Tau",
@@ -188,7 +188,7 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "price": "~$46,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Honda|HR-V|2019|VTi-LX": {
       "engine": "1.8L I4 NA i-VTEC",
@@ -226,7 +226,7 @@
       "acceleration": 5.7,
       "topSpeed": 272,
       "price": "~$74,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Honda|Civic|2019|VTi-LX": {
       "engine": "1.5L I4 Turbo VTEC",
@@ -245,7 +245,7 @@
       "acceleration": 8.8,
       "topSpeed": 200,
       "price": "~$35,490",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Hyundai|Kona|2019|Electric": {
       "engine": "Single Motor Electric",
@@ -283,7 +283,7 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$49,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Hyundai|Veloster|2019|Turbo": {
       "engine": "1.6L I4 Turbo Gamma",
@@ -302,7 +302,7 @@
       "acceleration": 7.4,
       "topSpeed": 220,
       "price": "~$37,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Infiniti|QX50|2019|Sport": {
       "engine": "2.0L I4 Turbo VC-Turbo",
@@ -321,7 +321,7 @@
       "acceleration": 7.7,
       "topSpeed": 200,
       "price": "~$79,990",
-      "aspiration": "Turbo"
+      "aspiration": "Single-Turbo"
     }
   }
 }

@@ -17,7 +17,7 @@
       "acceleration": 4.5,
       "topSpeed": 291,
       "price": "~$279,500",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo"
     },
     "Porsche|911|2022|GT3 RS": {
       "engine": "4.0L Flat-6 NA",
@@ -74,7 +74,7 @@
       "acceleration": 3.7,
       "topSpeed": 315,
       "price": "~$700,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo"
     },
     "Porsche|911|2022|Turbo S": {
       "engine": "3.8L Flat-6 Twin-Turbo",
@@ -93,7 +93,7 @@
       "acceleration": 2.7,
       "topSpeed": 330,
       "price": "~$467,000",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo"
     },
     "Ford|Everest|2022|UB Ambiente": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -112,7 +112,7 @@
       "acceleration": 11,
       "topSpeed": 185,
       "price": "~$49,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Everest|2022|UB Trend": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -131,7 +131,7 @@
       "acceleration": 10.5,
       "topSpeed": 185,
       "price": "~$55,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Everest|2022|UB Sport": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -150,7 +150,7 @@
       "acceleration": 10,
       "topSpeed": 185,
       "price": "~$65,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Ford|Everest|2022|UB Titanium": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -169,7 +169,7 @@
       "acceleration": 10,
       "topSpeed": 185,
       "price": "~$71,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     },
     "Kia|Sportage|2022|S Hybrid": {
       "engine": "1.6L I4 T-GDi Hybrid",
@@ -188,7 +188,7 @@
       "acceleration": 9,
       "topSpeed": 185,
       "price": "~$38,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Kia|Sportage|2022|SX Hybrid": {
       "engine": "1.6L I4 T-GDi Hybrid",
@@ -207,7 +207,7 @@
       "acceleration": 9,
       "topSpeed": 185,
       "price": "~$44,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Kia|Sportage|2022|GT-Line Hybrid": {
       "engine": "1.6L I4 T-GDi Hybrid",
@@ -226,7 +226,7 @@
       "acceleration": 9,
       "topSpeed": 185,
       "price": "~$48,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Kia|Sportage|2022|GT-Line PHEV": {
       "engine": "1.6L I4 T-GDi PHEV",
@@ -245,7 +245,7 @@
       "acceleration": 8.5,
       "topSpeed": 175,
       "price": "~$58,990",
-      "aspiration": "Turbo"
+      "aspiration": "BorgWarner Single-Turbo"
     },
     "Subaru|WRX|2022|WRX": {
       "engine": "2.4L H4 Turbo",
@@ -264,7 +264,7 @@
       "acceleration": 6,
       "topSpeed": 240,
       "price": "~$46,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Subaru|WRX|2022|WRX Premium": {
       "engine": "2.4L H4 Turbo",
@@ -283,7 +283,7 @@
       "acceleration": 6,
       "topSpeed": 240,
       "price": "~$51,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Subaru|WRX|2022|WRX SportTech": {
       "engine": "2.4L H4 Turbo",
@@ -302,7 +302,7 @@
       "acceleration": 6,
       "topSpeed": 240,
       "price": "~$59,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Subaru|WRX|2022|WRX tS": {
       "engine": "2.4L H4 Turbo",
@@ -321,7 +321,7 @@
       "acceleration": 5.9,
       "topSpeed": 240,
       "price": "~$65,990",
-      "aspiration": "Turbo"
+      "aspiration": "IHI Single-Turbo"
     },
     "Porsche|718|2022|718 Cayman GTS 4.0": {
       "engine": "4.0L Flat-6 NA",
