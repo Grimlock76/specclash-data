@@ -148,6 +148,10 @@ const MAKE_SUPPS = {
   'Ginetta':       [106],
   'Marcos':        [106],
   'Facel Vega':    [106],
+  'Haval':         [219],
+  'GMC':           [220],
+  'Scion':         [221],
+  'Acura':         [222],
 }
 
 async function ensureSupp(n) {
