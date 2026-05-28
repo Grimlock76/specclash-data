@@ -19240,6 +19240,238 @@
       ]
     }
   },
+  "Daewoo": {
+    "Matiz": {
+      "1998": [
+        "S",
+        "SE"
+      ],
+      "1999": [
+        "S",
+        "SE"
+      ],
+      "2000": [
+        "S",
+        "SE"
+      ],
+      "2001": [
+        "S",
+        "SE"
+      ],
+      "2002": [
+        "S",
+        "SE"
+      ],
+      "2003": [
+        "S",
+        "SE"
+      ],
+      "2004": [
+        "S",
+        "SE"
+      ],
+      "2005": [
+        "S",
+        "SE"
+      ]
+    },
+    "Lanos": {
+      "1997": [
+        "S Hatch",
+        "SX Hatch",
+        "SX Sedan"
+      ],
+      "1998": [
+        "S Hatch",
+        "SX Hatch",
+        "SX Sedan"
+      ],
+      "1999": [
+        "S Hatch",
+        "SX Hatch",
+        "SX Sedan"
+      ],
+      "2000": [
+        "S Hatch",
+        "SX Hatch",
+        "SX Sedan"
+      ],
+      "2001": [
+        "S Hatch",
+        "SX Hatch",
+        "SX Sedan"
+      ],
+      "2002": [
+        "S Hatch",
+        "SX Hatch",
+        "SX Sedan"
+      ],
+      "2003": [
+        "S Hatch",
+        "SX Hatch",
+        "SX Sedan"
+      ]
+    },
+    "Nubira": {
+      "1997": [
+        "CDX Sedan",
+        "SX Sedan",
+        "SX Wagon"
+      ],
+      "1998": [
+        "CDX Sedan",
+        "SX Sedan",
+        "SX Wagon"
+      ],
+      "1999": [
+        "CDX Sedan",
+        "SX Sedan",
+        "SX Wagon"
+      ],
+      "2000": [
+        "CDX Sedan",
+        "SX Sedan",
+        "SX Wagon"
+      ],
+      "2001": [
+        "CDX Sedan",
+        "SX Sedan",
+        "SX Wagon"
+      ],
+      "2002": [
+        "CDX Sedan",
+        "SX Sedan",
+        "SX Wagon"
+      ],
+      "2003": [
+        "CDX Sedan",
+        "SX Sedan",
+        "SX Wagon"
+      ]
+    },
+    "Leganza": {
+      "1997": [
+        "CDX",
+        "SX"
+      ],
+      "1998": [
+        "CDX",
+        "SX"
+      ],
+      "1999": [
+        "CDX",
+        "SX"
+      ],
+      "2000": [
+        "CDX",
+        "SX"
+      ],
+      "2001": [
+        "CDX",
+        "SX"
+      ],
+      "2002": [
+        "CDX",
+        "SX"
+      ],
+      "2003": [
+        "CDX",
+        "SX"
+      ],
+      "2004": [
+        "CDX",
+        "SX"
+      ]
+    },
+    "Kalos": {
+      "2003": [
+        "S Hatch",
+        "SX Hatch",
+        "SX Sedan"
+      ],
+      "2004": [
+        "S Hatch",
+        "SX Hatch",
+        "SX Sedan"
+      ],
+      "2005": [
+        "S Hatch",
+        "SX Hatch",
+        "SX Sedan"
+      ],
+      "2006": [
+        "S Hatch",
+        "SX Hatch",
+        "SX Sedan"
+      ]
+    },
+    "Lacetti": {
+      "2003": [
+        "CDX Sedan",
+        "SX Hatch",
+        "SX Sedan"
+      ],
+      "2004": [
+        "CDX Sedan",
+        "SX Hatch",
+        "SX Sedan"
+      ],
+      "2005": [
+        "CDX Sedan",
+        "SX Hatch",
+        "SX Sedan"
+      ],
+      "2006": [
+        "CDX Sedan",
+        "SX Hatch",
+        "SX Sedan"
+      ]
+    },
+    "Magnus": {
+      "2003": [
+        "CDX",
+        "CDX V6"
+      ],
+      "2004": [
+        "CDX",
+        "CDX V6"
+      ],
+      "2005": [
+        "CDX",
+        "CDX V6"
+      ],
+      "2006": [
+        "CDX",
+        "CDX V6"
+      ]
+    },
+    "Tacuma": {
+      "2001": [
+        "CDX",
+        "SX"
+      ],
+      "2002": [
+        "CDX",
+        "SX"
+      ],
+      "2003": [
+        "CDX",
+        "SX"
+      ],
+      "2004": [
+        "CDX",
+        "SX"
+      ],
+      "2005": [
+        "CDX",
+        "SX"
+      ],
+      "2006": [
+        "CDX",
+        "SX"
+      ]
+    }
+  },
   "Daihatsu": {
     "Charade": {
       "1977": [
@@ -21753,6 +21985,22 @@
       ]
     }
   },
+  "DeLorean": {
+    "DMC-12": {
+      "1981": [
+        "Auto",
+        "Manual"
+      ],
+      "1982": [
+        "Auto",
+        "Manual"
+      ],
+      "1983": [
+        "Auto",
+        "Manual"
+      ]
+    }
+  },
   "Dodge": {
     "Challenger": {
       "2008": [
@@ -22059,6 +22307,171 @@
       ],
       "2017": [
         "ACR"
+      ]
+    }
+  },
+  "Eagle": {
+    "Premier": {
+      "1988": [
+        "ES",
+        "LX"
+      ],
+      "1989": [
+        "ES",
+        "LX"
+      ],
+      "1990": [
+        "ES",
+        "LX"
+      ],
+      "1991": [
+        "ES",
+        "LX"
+      ],
+      "1992": [
+        "ES",
+        "LX"
+      ]
+    },
+    "Talon": {
+      "1990": [
+        "Base",
+        "TSi AWD",
+        "TSi FWD"
+      ],
+      "1991": [
+        "Base",
+        "TSi AWD",
+        "TSi FWD"
+      ],
+      "1992": [
+        "Base",
+        "TSi AWD",
+        "TSi FWD"
+      ],
+      "1993": [
+        "Base",
+        "TSi AWD",
+        "TSi FWD"
+      ],
+      "1994": [
+        "Base",
+        "TSi AWD",
+        "TSi FWD"
+      ],
+      "1995": [
+        "Base",
+        "TSi AWD",
+        "TSi FWD"
+      ],
+      "1996": [
+        "Base",
+        "TSi AWD",
+        "TSi FWD"
+      ],
+      "1997": [
+        "Base",
+        "TSi AWD",
+        "TSi FWD"
+      ],
+      "1998": [
+        "Base",
+        "TSi AWD",
+        "TSi FWD"
+      ]
+    },
+    "Vision": {
+      "1993": [
+        "ESi",
+        "ESi AWD"
+      ],
+      "1994": [
+        "ESi",
+        "ESi AWD"
+      ],
+      "1995": [
+        "ESi",
+        "ESi AWD"
+      ],
+      "1996": [
+        "ESi",
+        "ESi AWD"
+      ],
+      "1997": [
+        "ESi",
+        "ESi AWD"
+      ]
+    },
+    "Summit": {
+      "1992": [
+        "ES"
+      ],
+      "1993": [
+        "ES"
+      ],
+      "1994": [
+        "ES"
+      ],
+      "1995": [
+        "ES"
+      ],
+      "1996": [
+        "ES"
+      ]
+    },
+    "Summit Wagon": {
+      "1992": [
+        "AWD"
+      ],
+      "1993": [
+        "AWD"
+      ],
+      "1994": [
+        "AWD"
+      ],
+      "1995": [
+        "AWD"
+      ],
+      "1996": [
+        "AWD"
+      ]
+    }
+  },
+  "Edsel": {
+    "Ranger": {
+      "1958": [
+        "Hardtop",
+        "Sedan"
+      ],
+      "1959": [
+        "Sedan"
+      ],
+      "1960": [
+        "Hardtop",
+        "Sedan"
+      ]
+    },
+    "Pacer": {
+      "1958": [
+        "Sedan"
+      ]
+    },
+    "Corsair": {
+      "1958": [
+        "Hardtop"
+      ],
+      "1959": [
+        "Hardtop"
+      ]
+    },
+    "Citation": {
+      "1958": [
+        "Conv"
+      ]
+    },
+    "Villager": {
+      "1958": [
+        "Wagon"
       ]
     }
   },
@@ -24942,6 +25355,40 @@
       ]
     }
   },
+  "Fisker": {
+    "Karma": {
+      "2011": [
+        "EcoSport"
+      ],
+      "2012": [
+        "EcoSport"
+      ],
+      "2013": [
+        "EcoSport"
+      ],
+      "2014": [
+        "EcoSport"
+      ],
+      "2015": [
+        "EcoSport"
+      ],
+      "2016": [
+        "EcoSport"
+      ]
+    },
+    "Ocean": {
+      "2023": [
+        "One",
+        "Sport",
+        "Ultra"
+      ],
+      "2024": [
+        "One",
+        "Sport",
+        "Ultra"
+      ]
+    }
+  },
   "Ford": {
     "Falcon (XK)": {
       "1960": [
@@ -26205,6 +26652,42 @@
       "2026": [
         "350 L2 H2",
         "350 L3 H3"
+      ]
+    }
+  },
+  "Frazer": {
+    "Standard": {
+      "1947": [
+        "Sedan"
+      ],
+      "1948": [
+        "Sedan"
+      ],
+      "1949": [
+        "Sedan"
+      ],
+      "1950": [
+        "Sedan"
+      ],
+      "1951": [
+        "Sedan"
+      ]
+    },
+    "Manhattan": {
+      "1947": [
+        "Sedan"
+      ],
+      "1948": [
+        "Sedan"
+      ],
+      "1949": [
+        "Sedan"
+      ],
+      "1950": [
+        "Sedan"
+      ],
+      "1951": [
+        "Sedan"
       ]
     }
   },
@@ -28254,6 +28737,56 @@
       ],
       "2025": [
         "Raptor"
+      ]
+    }
+  },
+  "Hennessey": {
+    "Venom GT": {
+      "2011": [
+        "Spyder",
+        "Standard"
+      ],
+      "2012": [
+        "Spyder",
+        "Standard"
+      ],
+      "2013": [
+        "Spyder",
+        "Standard"
+      ],
+      "2014": [
+        "Spyder",
+        "Standard"
+      ],
+      "2015": [
+        "Spyder",
+        "Standard"
+      ],
+      "2016": [
+        "Spyder",
+        "Standard"
+      ],
+      "2017": [
+        "Spyder",
+        "Standard"
+      ]
+    },
+    "Venom F5": {
+      "2022": [
+        "Coupe",
+        "Roadster"
+      ],
+      "2023": [
+        "Coupe",
+        "Roadster"
+      ],
+      "2024": [
+        "Coupe",
+        "Roadster"
+      ],
+      "2025": [
+        "Coupe",
+        "Roadster"
       ]
     }
   },
@@ -30471,6 +31004,203 @@
       "1952": [
         "Six",
         "Eight"
+      ]
+    }
+  },
+  "Hummer": {
+    "H1": {
+      "1992": [
+        "Hard Top",
+        "Open Top",
+        "Pickup",
+        "Wagon"
+      ],
+      "1993": [
+        "Hard Top",
+        "Open Top",
+        "Pickup",
+        "Wagon"
+      ],
+      "1994": [
+        "Hard Top",
+        "Open Top",
+        "Pickup",
+        "Wagon"
+      ],
+      "1995": [
+        "Hard Top",
+        "Open Top",
+        "Pickup",
+        "Wagon"
+      ],
+      "1996": [
+        "Hard Top",
+        "Open Top",
+        "Pickup",
+        "Wagon"
+      ],
+      "1997": [
+        "Hard Top",
+        "Open Top",
+        "Pickup",
+        "Wagon"
+      ],
+      "1998": [
+        "Hard Top",
+        "Open Top",
+        "Pickup",
+        "Wagon"
+      ],
+      "1999": [
+        "Hard Top",
+        "Open Top",
+        "Pickup",
+        "Wagon"
+      ],
+      "2000": [
+        "Hard Top",
+        "Open Top",
+        "Pickup",
+        "Wagon"
+      ],
+      "2001": [
+        "Alpha",
+        "Hard Top",
+        "Open Top",
+        "Wagon"
+      ],
+      "2002": [
+        "Alpha",
+        "Hard Top",
+        "Open Top",
+        "Wagon"
+      ],
+      "2003": [
+        "Alpha",
+        "Hard Top",
+        "Open Top",
+        "Wagon"
+      ],
+      "2004": [
+        "Alpha",
+        "Hard Top",
+        "Open Top",
+        "Wagon"
+      ],
+      "2005": [
+        "Alpha",
+        "Hard Top",
+        "Open Top",
+        "Wagon"
+      ],
+      "2006": [
+        "Alpha",
+        "Hard Top",
+        "Open Top",
+        "Wagon"
+      ]
+    },
+    "H2": {
+      "2003": [
+        "Base",
+        "Luxury",
+        "SUT"
+      ],
+      "2004": [
+        "Base",
+        "Luxury",
+        "SUT"
+      ],
+      "2005": [
+        "Base",
+        "Luxury",
+        "SUT"
+      ],
+      "2006": [
+        "Base",
+        "Luxury",
+        "SUT"
+      ],
+      "2007": [
+        "Base",
+        "Luxury",
+        "SUT"
+      ],
+      "2008": [
+        "Base",
+        "Luxury",
+        "SUT"
+      ],
+      "2009": [
+        "Base",
+        "Luxury",
+        "SUT"
+      ]
+    },
+    "H3": {
+      "2006": [
+        "Base",
+        "H3T",
+        "H3x"
+      ],
+      "2007": [
+        "Base",
+        "H3T",
+        "H3x"
+      ],
+      "2008": [
+        "Base",
+        "H3 Alpha",
+        "H3T",
+        "H3x"
+      ],
+      "2009": [
+        "Base",
+        "H3 Alpha",
+        "H3T",
+        "H3x"
+      ],
+      "2010": [
+        "Base",
+        "H3 Alpha",
+        "H3T",
+        "H3x"
+      ]
+    },
+    "EV Pickup": {
+      "2022": [
+        "EV2",
+        "EV2X",
+        "EV3X",
+        "Edition 1"
+      ],
+      "2023": [
+        "EV2",
+        "EV2X",
+        "EV3X",
+        "Edition 1"
+      ],
+      "2024": [
+        "EV2",
+        "EV2X",
+        "EV3X",
+        "Edition 1"
+      ],
+      "2025": [
+        "EV2",
+        "EV2X",
+        "EV3X",
+        "Edition 1"
+      ]
+    },
+    "EV SUV": {
+      "2024": [
+        "EV3X",
+        "Edition 1"
+      ],
+      "2025": [
+        "EV3X",
+        "Edition 1"
       ]
     }
   },
@@ -33826,6 +34556,62 @@
       ]
     }
   },
+  "Kaiser": {
+    "Special": {
+      "1946": [
+        "Sedan"
+      ],
+      "1947": [
+        "Sedan"
+      ],
+      "1948": [
+        "Sedan"
+      ],
+      "1949": [
+        "Sedan"
+      ],
+      "1950": [
+        "Sedan"
+      ],
+      "1951": [
+        "Sedan"
+      ],
+      "1952": [
+        "Sedan"
+      ],
+      "1953": [
+        "Sedan"
+      ],
+      "1954": [
+        "Sedan"
+      ],
+      "1955": [
+        "Sedan"
+      ]
+    },
+    "Manhattan": {
+      "1951": [
+        "Sedan"
+      ],
+      "1952": [
+        "Sedan"
+      ],
+      "1953": [
+        "Sedan"
+      ],
+      "1954": [
+        "Sedan"
+      ],
+      "1955": [
+        "Sedan"
+      ]
+    },
+    "Darrin": {
+      "1954": [
+        "Roadster"
+      ]
+    }
+  },
   "Kia": {
     "Sportage": {
       "2010": [
@@ -35131,6 +35917,30 @@
       "2026": [
         "LWB",
         "LWB Plus"
+      ]
+    }
+  },
+  "LYNK & CO": {
+    "01": {
+      "2023": [
+        "AWD",
+        "PHEV"
+      ],
+      "2024": [
+        "AWD",
+        "PHEV"
+      ],
+      "2025": [
+        "AWD",
+        "PHEV"
+      ]
+    },
+    "02": {
+      "2024": [
+        "AWD"
+      ],
+      "2025": [
+        "AWD"
       ]
     }
   },
@@ -40515,6 +41325,42 @@
       ]
     }
   },
+  "Lucid": {
+    "Air": {
+      "2022": [
+        "Grand Touring",
+        "Pure",
+        "Sapphire",
+        "Touring"
+      ],
+      "2023": [
+        "Grand Touring",
+        "Pure",
+        "Sapphire",
+        "Touring"
+      ],
+      "2024": [
+        "Grand Touring",
+        "Pure",
+        "Sapphire",
+        "Touring"
+      ],
+      "2025": [
+        "Grand Touring",
+        "Pure",
+        "Sapphire",
+        "Touring"
+      ]
+    },
+    "Gravity": {
+      "2024": [
+        "Grand Touring"
+      ],
+      "2025": [
+        "Grand Touring"
+      ]
+    }
+  },
   "MG": {
     "MG3": {
       "2011": [
@@ -41110,6 +41956,42 @@
       "2026": [
         "Long Range",
         "Standard Range"
+      ]
+    }
+  },
+  "Mahindra": {
+    "XUV700": {
+      "2023": [
+        "AX7 Diesel",
+        "AX7 L Diesel",
+        "AX7 L Petrol",
+        "AX7 Petrol"
+      ],
+      "2024": [
+        "AX7 Diesel",
+        "AX7 L Diesel",
+        "AX7 L Petrol",
+        "AX7 Petrol"
+      ],
+      "2025": [
+        "AX7 Diesel",
+        "AX7 L Diesel",
+        "AX7 L Petrol",
+        "AX7 Petrol"
+      ]
+    },
+    "Scorpio-N": {
+      "2023": [
+        "Z8 Diesel",
+        "Z8 Petrol"
+      ],
+      "2024": [
+        "Z8 Diesel",
+        "Z8 Petrol"
+      ],
+      "2025": [
+        "Z8 Diesel",
+        "Z8 Petrol"
       ]
     }
   },
@@ -42152,6 +43034,74 @@
       "1984": [
         "1.4 Standard",
         "1.4 X"
+      ]
+    }
+  },
+  "Maxus": {
+    "T60": {
+      "2017": [
+        "Luxury",
+        "SX",
+        "SX+"
+      ],
+      "2018": [
+        "Luxury",
+        "SX",
+        "SX+"
+      ],
+      "2019": [
+        "Luxury",
+        "SX",
+        "SX+"
+      ],
+      "2020": [
+        "Luxury",
+        "SX",
+        "SX+"
+      ],
+      "2021": [
+        "Luxury",
+        "SX",
+        "SX+"
+      ],
+      "2022": [
+        "Luxury",
+        "SX",
+        "SX+"
+      ],
+      "2023": [
+        "Luxury",
+        "SX",
+        "SX+"
+      ],
+      "2024": [
+        "Luxury",
+        "SX",
+        "SX+"
+      ],
+      "2025": [
+        "Luxury",
+        "SX",
+        "SX+"
+      ]
+    },
+    "T90 EV": {
+      "2024": [
+        "Elite"
+      ],
+      "2025": [
+        "Elite"
+      ]
+    },
+    "MIFA 9": {
+      "2023": [
+        "Elite"
+      ],
+      "2024": [
+        "Elite"
+      ],
+      "2025": [
+        "Elite"
       ]
     }
   },
@@ -60653,6 +61603,75 @@
       ]
     }
   },
+  "Rimac": {
+    "Concept_One": {
+      "2016": [
+        "Standard"
+      ],
+      "2017": [
+        "Standard"
+      ],
+      "2018": [
+        "Standard"
+      ]
+    },
+    "Nevera": {
+      "2021": [
+        "Standard",
+        "Time Attack"
+      ],
+      "2022": [
+        "Standard",
+        "Time Attack"
+      ],
+      "2023": [
+        "Standard",
+        "Time Attack"
+      ],
+      "2024": [
+        "Standard",
+        "Time Attack"
+      ]
+    }
+  },
+  "Rivian": {
+    "R1T": {
+      "2022": [
+        "Adventure",
+        "Performance"
+      ],
+      "2023": [
+        "Adventure",
+        "Performance"
+      ],
+      "2024": [
+        "Adventure",
+        "Performance"
+      ],
+      "2025": [
+        "Adventure",
+        "Performance"
+      ]
+    },
+    "R1S": {
+      "2022": [
+        "Adventure",
+        "Performance"
+      ],
+      "2023": [
+        "Adventure",
+        "Performance"
+      ],
+      "2024": [
+        "Adventure",
+        "Performance"
+      ],
+      "2025": [
+        "Adventure",
+        "Performance"
+      ]
+    }
+  },
   "Rolls-Royce": {
     "Silver Cloud": {
       "1955": [
@@ -62473,6 +63492,66 @@
       ]
     }
   },
+  "SSC": {
+    "Ultimate Aero": {
+      "2007": [
+        "Standard"
+      ],
+      "2008": [
+        "Standard"
+      ],
+      "2009": [
+        "Standard"
+      ],
+      "2010": [
+        "Standard"
+      ],
+      "2011": [
+        "Standard"
+      ],
+      "2012": [
+        "Standard"
+      ],
+      "2013": [
+        "Standard"
+      ]
+    },
+    "Ultimate Aero TT": {
+      "2009": [
+        "Twin Turbo"
+      ],
+      "2010": [
+        "Twin Turbo"
+      ],
+      "2011": [
+        "Twin Turbo"
+      ],
+      "2012": [
+        "Twin Turbo"
+      ],
+      "2013": [
+        "Twin Turbo"
+      ]
+    },
+    "Tuatara": {
+      "2020": [
+        "Aggressor",
+        "Standard"
+      ],
+      "2021": [
+        "Aggressor",
+        "Standard"
+      ],
+      "2022": [
+        "Aggressor",
+        "Standard"
+      ],
+      "2023": [
+        "Aggressor",
+        "Standard"
+      ]
+    }
+  },
   "Saab": {
     "900": {
       "1978": [
@@ -62901,6 +63980,590 @@
       "2011": [
         "base",
         "Aero"
+      ]
+    }
+  },
+  "Saleen": {
+    "S7": {
+      "2000": [
+        "Standard"
+      ],
+      "2001": [
+        "Standard"
+      ],
+      "2002": [
+        "Standard"
+      ],
+      "2003": [
+        "Standard"
+      ],
+      "2004": [
+        "Standard"
+      ],
+      "2005": [
+        "Standard"
+      ],
+      "2006": [
+        "Standard"
+      ]
+    },
+    "S281": {
+      "1996": [
+        "Supercharged"
+      ],
+      "1997": [
+        "Supercharged"
+      ],
+      "1998": [
+        "Supercharged"
+      ],
+      "1999": [
+        "Supercharged"
+      ],
+      "2000": [
+        "Supercharged"
+      ],
+      "2001": [
+        "Supercharged"
+      ],
+      "2002": [
+        "Supercharged"
+      ],
+      "2003": [
+        "Supercharged"
+      ],
+      "2004": [
+        "Supercharged"
+      ],
+      "2005": [
+        "Supercharged"
+      ],
+      "2006": [
+        "Supercharged"
+      ],
+      "2007": [
+        "Supercharged"
+      ],
+      "2008": [
+        "Supercharged"
+      ],
+      "2009": [
+        "Supercharged"
+      ],
+      "2010": [
+        "Supercharged"
+      ],
+      "2011": [
+        "Supercharged"
+      ],
+      "2012": [
+        "Supercharged"
+      ]
+    },
+    "S302": {
+      "2014": [
+        "Black Label",
+        "White Label"
+      ],
+      "2015": [
+        "Black Label",
+        "White Label"
+      ],
+      "2016": [
+        "Black Label",
+        "White Label"
+      ],
+      "2017": [
+        "Black Label",
+        "White Label"
+      ],
+      "2018": [
+        "Black Label",
+        "White Label"
+      ],
+      "2019": [
+        "Black Label",
+        "White Label"
+      ],
+      "2020": [
+        "Black Label",
+        "White Label"
+      ]
+    }
+  },
+  "Saturn": {
+    "SC1": {
+      "1991": [
+        "Auto",
+        "Base"
+      ],
+      "1992": [
+        "Auto",
+        "Base"
+      ],
+      "1993": [
+        "Auto",
+        "Base"
+      ],
+      "1994": [
+        "Auto",
+        "Base"
+      ],
+      "1995": [
+        "Auto",
+        "Base"
+      ],
+      "1996": [
+        "Auto",
+        "Base"
+      ],
+      "1997": [
+        "Auto",
+        "Base"
+      ],
+      "1998": [
+        "Auto",
+        "Base"
+      ],
+      "1999": [
+        "Auto",
+        "Base"
+      ],
+      "2000": [
+        "Auto",
+        "Base"
+      ],
+      "2001": [
+        "Auto",
+        "Base"
+      ],
+      "2002": [
+        "Auto",
+        "Base"
+      ]
+    },
+    "SC2": {
+      "1991": [
+        "Base"
+      ],
+      "1992": [
+        "Base"
+      ],
+      "1993": [
+        "Base"
+      ],
+      "1994": [
+        "Base"
+      ],
+      "1995": [
+        "Base"
+      ],
+      "1996": [
+        "Base"
+      ],
+      "1997": [
+        "Base"
+      ],
+      "1998": [
+        "Base"
+      ],
+      "1999": [
+        "Base"
+      ],
+      "2000": [
+        "Base"
+      ],
+      "2001": [
+        "Base"
+      ],
+      "2002": [
+        "Base"
+      ]
+    },
+    "SL1": {
+      "1991": [
+        "Base"
+      ],
+      "1992": [
+        "Base"
+      ],
+      "1993": [
+        "Base"
+      ],
+      "1994": [
+        "Base"
+      ],
+      "1995": [
+        "Base"
+      ],
+      "1996": [
+        "Base"
+      ],
+      "1997": [
+        "Base"
+      ],
+      "1998": [
+        "Base"
+      ],
+      "1999": [
+        "Base"
+      ],
+      "2000": [
+        "Base"
+      ],
+      "2001": [
+        "Base"
+      ],
+      "2002": [
+        "Base"
+      ]
+    },
+    "SL2": {
+      "1991": [
+        "Base"
+      ],
+      "1992": [
+        "Base"
+      ],
+      "1993": [
+        "Base"
+      ],
+      "1994": [
+        "Base"
+      ],
+      "1995": [
+        "Base"
+      ],
+      "1996": [
+        "Base"
+      ],
+      "1997": [
+        "Base"
+      ],
+      "1998": [
+        "Base"
+      ],
+      "1999": [
+        "Base"
+      ],
+      "2000": [
+        "Base"
+      ],
+      "2001": [
+        "Base"
+      ],
+      "2002": [
+        "Base"
+      ]
+    },
+    "SW1": {
+      "1991": [
+        "Wagon"
+      ],
+      "1992": [
+        "Wagon"
+      ],
+      "1993": [
+        "Wagon"
+      ],
+      "1994": [
+        "Wagon"
+      ],
+      "1995": [
+        "Wagon"
+      ],
+      "1996": [
+        "Wagon"
+      ],
+      "1997": [
+        "Wagon"
+      ],
+      "1998": [
+        "Wagon"
+      ],
+      "1999": [
+        "Wagon"
+      ],
+      "2000": [
+        "Wagon"
+      ],
+      "2001": [
+        "Wagon"
+      ],
+      "2002": [
+        "Wagon"
+      ]
+    },
+    "SW2": {
+      "1991": [
+        "Wagon"
+      ],
+      "1992": [
+        "Wagon"
+      ],
+      "1993": [
+        "Wagon"
+      ],
+      "1994": [
+        "Wagon"
+      ],
+      "1995": [
+        "Wagon"
+      ],
+      "1996": [
+        "Wagon"
+      ],
+      "1997": [
+        "Wagon"
+      ],
+      "1998": [
+        "Wagon"
+      ],
+      "1999": [
+        "Wagon"
+      ],
+      "2000": [
+        "Wagon"
+      ],
+      "2001": [
+        "Wagon"
+      ],
+      "2002": [
+        "Wagon"
+      ]
+    },
+    "L200": {
+      "2000": [
+        "Auto",
+        "Base"
+      ],
+      "2001": [
+        "Auto",
+        "Base"
+      ],
+      "2002": [
+        "Auto",
+        "Base"
+      ],
+      "2003": [
+        "Auto",
+        "Base"
+      ],
+      "2004": [
+        "Auto",
+        "Base"
+      ],
+      "2005": [
+        "Auto",
+        "Base"
+      ]
+    },
+    "L300": {
+      "2000": [
+        "V6"
+      ],
+      "2001": [
+        "V6"
+      ],
+      "2002": [
+        "V6"
+      ],
+      "2003": [
+        "V6"
+      ],
+      "2004": [
+        "V6"
+      ],
+      "2005": [
+        "V6"
+      ]
+    },
+    "LW200": {
+      "2000": [
+        "Wagon"
+      ],
+      "2001": [
+        "Wagon"
+      ],
+      "2002": [
+        "Wagon"
+      ],
+      "2003": [
+        "Wagon"
+      ],
+      "2004": [
+        "Wagon"
+      ],
+      "2005": [
+        "Wagon"
+      ]
+    },
+    "LW300": {
+      "2000": [
+        "Wagon V6"
+      ],
+      "2001": [
+        "Wagon V6"
+      ],
+      "2002": [
+        "Wagon V6"
+      ],
+      "2003": [
+        "Wagon V6"
+      ],
+      "2004": [
+        "Wagon V6"
+      ],
+      "2005": [
+        "Wagon V6"
+      ]
+    },
+    "Ion": {
+      "2003": [
+        "Ion 1",
+        "Ion 2",
+        "Ion 3"
+      ],
+      "2004": [
+        "Ion 1",
+        "Ion 2",
+        "Ion 3",
+        "Red Line"
+      ],
+      "2005": [
+        "Ion 1",
+        "Ion 2",
+        "Ion 3",
+        "Red Line"
+      ],
+      "2006": [
+        "Ion 1",
+        "Ion 2",
+        "Ion 3",
+        "Red Line"
+      ],
+      "2007": [
+        "Ion 1",
+        "Ion 2",
+        "Ion 3",
+        "Red Line"
+      ]
+    },
+    "Vue": {
+      "2002": [
+        "AWD",
+        "FWD",
+        "V6 FWD"
+      ],
+      "2003": [
+        "AWD",
+        "FWD",
+        "V6 FWD"
+      ],
+      "2004": [
+        "AWD",
+        "FWD",
+        "V6 FWD"
+      ],
+      "2005": [
+        "AWD",
+        "FWD",
+        "V6 FWD"
+      ],
+      "2006": [
+        "AWD",
+        "FWD",
+        "V6 FWD"
+      ],
+      "2007": [
+        "AWD",
+        "FWD",
+        "V6 FWD"
+      ],
+      "2008": [
+        "Green Line",
+        "XE",
+        "XR",
+        "XR AWD"
+      ],
+      "2009": [
+        "Green Line",
+        "XE",
+        "XR",
+        "XR AWD"
+      ],
+      "2010": [
+        "Green Line",
+        "XE",
+        "XR",
+        "XR AWD"
+      ]
+    },
+    "Sky": {
+      "2007": [
+        "Base",
+        "Red Line"
+      ],
+      "2008": [
+        "Base",
+        "Red Line"
+      ],
+      "2009": [
+        "Base",
+        "Red Line"
+      ],
+      "2010": [
+        "Base",
+        "Red Line"
+      ]
+    },
+    "Astra": {
+      "2008": [
+        "XE",
+        "XR"
+      ],
+      "2009": [
+        "XE",
+        "XR"
+      ]
+    },
+    "Outlook": {
+      "2007": [
+        "XE",
+        "XR",
+        "XR FWD"
+      ],
+      "2008": [
+        "XE",
+        "XR",
+        "XR FWD"
+      ],
+      "2009": [
+        "XE",
+        "XR",
+        "XR FWD"
+      ],
+      "2010": [
+        "XE",
+        "XR",
+        "XR FWD"
+      ]
+    },
+    "Relay": {
+      "2005": [
+        "1",
+        "2",
+        "3"
+      ],
+      "2006": [
+        "1",
+        "2",
+        "3"
+      ],
+      "2007": [
+        "1",
+        "2",
+        "3"
       ]
     }
   },
@@ -66874,6 +68537,55 @@
       ],
       "2005": [
         "Standard"
+      ]
+    }
+  },
+  "Tank": {
+    "300": {
+      "2022": [
+        "Lux",
+        "PHEV",
+        "Ultra"
+      ],
+      "2023": [
+        "Lux",
+        "PHEV",
+        "Ultra"
+      ],
+      "2024": [
+        "Lux",
+        "PHEV",
+        "Ultra"
+      ],
+      "2025": [
+        "Lux",
+        "PHEV",
+        "Ultra"
+      ]
+    },
+    "500": {
+      "2023": [
+        "Lux",
+        "PHEV",
+        "Ultra"
+      ],
+      "2024": [
+        "Lux",
+        "PHEV",
+        "Ultra"
+      ],
+      "2025": [
+        "Lux",
+        "PHEV",
+        "Ultra"
+      ]
+    },
+    "700": {
+      "2024": [
+        "Hi4-T"
+      ],
+      "2025": [
+        "Hi4-T"
       ]
     }
   },
@@ -71124,6 +72836,126 @@
       ]
     }
   },
+  "Trabant": {
+    "601": {
+      "1964": [
+        "Limousine",
+        "Universal"
+      ],
+      "1965": [
+        "Limousine",
+        "Universal"
+      ],
+      "1966": [
+        "Limousine",
+        "Universal"
+      ],
+      "1967": [
+        "Limousine",
+        "Universal"
+      ],
+      "1968": [
+        "Limousine",
+        "Universal"
+      ],
+      "1969": [
+        "Limousine",
+        "Universal"
+      ],
+      "1970": [
+        "Limousine",
+        "Universal"
+      ],
+      "1971": [
+        "Limousine",
+        "Universal"
+      ],
+      "1972": [
+        "Limousine",
+        "Universal"
+      ],
+      "1973": [
+        "Limousine",
+        "Universal"
+      ],
+      "1974": [
+        "Limousine",
+        "Universal"
+      ],
+      "1975": [
+        "Limousine",
+        "Universal"
+      ],
+      "1976": [
+        "Limousine",
+        "Universal"
+      ],
+      "1977": [
+        "Limousine",
+        "Universal"
+      ],
+      "1978": [
+        "Limousine",
+        "Universal"
+      ],
+      "1979": [
+        "Limousine",
+        "Universal"
+      ],
+      "1980": [
+        "Limousine",
+        "Universal"
+      ],
+      "1981": [
+        "Limousine",
+        "Universal"
+      ],
+      "1982": [
+        "Limousine",
+        "Universal"
+      ],
+      "1983": [
+        "Limousine",
+        "Universal"
+      ],
+      "1984": [
+        "Limousine",
+        "Universal"
+      ],
+      "1985": [
+        "Limousine",
+        "Universal"
+      ],
+      "1986": [
+        "Limousine",
+        "Universal"
+      ],
+      "1987": [
+        "Limousine",
+        "Universal"
+      ],
+      "1988": [
+        "Limousine",
+        "Universal"
+      ],
+      "1989": [
+        "Limousine",
+        "Universal"
+      ],
+      "1990": [
+        "Limousine",
+        "Universal"
+      ]
+    },
+    "1.1": {
+      "1990": [
+        "Limousine"
+      ],
+      "1991": [
+        "Limousine"
+      ]
+    }
+  },
   "Triumph": {
     "2000": {
       "1963": [
@@ -71635,6 +73467,13 @@
         "CL",
         "CD",
         "HLS"
+      ]
+    }
+  },
+  "Tucker": {
+    "48": {
+      "1948": [
+        "Torpedo"
       ]
     }
   },
@@ -75110,6 +76949,120 @@
       ]
     }
   },
+  "Wartburg": {
+    "353": {
+      "1966": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1967": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1968": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1969": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1970": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1971": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1972": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1973": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1974": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1975": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1976": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1977": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1978": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1979": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1980": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1981": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1982": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1983": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1984": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1985": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1986": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1987": [
+        "Kombi",
+        "Tourist"
+      ],
+      "1988": [
+        "Kombi",
+        "Tourist"
+      ]
+    },
+    "Knight": {
+      "1988": [
+        "Estate",
+        "Limousine"
+      ],
+      "1989": [
+        "Estate",
+        "Limousine"
+      ],
+      "1990": [
+        "Estate",
+        "Limousine"
+      ],
+      "1991": [
+        "Estate",
+        "Limousine"
+      ]
+    }
+  },
   "Wiesmann": {
     "MF3": {
       "2003": [
@@ -75243,6 +77196,68 @@
       ],
       "2026": [
         "GT"
+      ]
+    }
+  },
+  "Willys": {
+    "MB": {
+      "1941": [
+        "Military"
+      ]
+    },
+    "CJ-2A": {
+      "1945": [
+        "Base"
+      ],
+      "1946": [
+        "Base"
+      ],
+      "1947": [
+        "Base"
+      ],
+      "1948": [
+        "Base"
+      ],
+      "1949": [
+        "Base"
+      ]
+    },
+    "CJ-3A": {
+      "1950": [
+        "Base"
+      ],
+      "1951": [
+        "Base"
+      ],
+      "1952": [
+        "Base"
+      ],
+      "1953": [
+        "Base"
+      ],
+      "1954": [
+        "Base"
+      ],
+      "1955": [
+        "Base"
+      ]
+    },
+    "Aero": {
+      "1952": [
+        "Eagle",
+        "Lark"
+      ],
+      "1953": [
+        "Eagle",
+        "Lark"
+      ],
+      "1954": [
+        "Eagle",
+        "Lark"
+      ],
+      "1955": [
+        "Eagle",
+        "Lark"
       ]
     }
   },
@@ -75385,6 +77400,66 @@
       "2026": [
         "AWD Performance",
         "Long Range RWD"
+      ]
+    }
+  },
+  "Yugo": {
+    "GV": {
+      "1984": [
+        "Base"
+      ],
+      "1985": [
+        "Base"
+      ],
+      "1986": [
+        "Base"
+      ],
+      "1987": [
+        "Base"
+      ],
+      "1988": [
+        "Base"
+      ],
+      "1989": [
+        "Base"
+      ],
+      "1990": [
+        "Base"
+      ],
+      "1991": [
+        "Base"
+      ],
+      "1992": [
+        "Base"
+      ]
+    },
+    "GVX": {
+      "1984": [
+        "Hatch"
+      ],
+      "1985": [
+        "Hatch"
+      ],
+      "1986": [
+        "Hatch"
+      ],
+      "1987": [
+        "Hatch"
+      ],
+      "1988": [
+        "Hatch"
+      ],
+      "1989": [
+        "Hatch"
+      ],
+      "1990": [
+        "Hatch"
+      ],
+      "1991": [
+        "Hatch"
+      ],
+      "1992": [
+        "Hatch"
       ]
     }
   },
