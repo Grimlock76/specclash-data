@@ -3,7 +3,12 @@ import { resolve } from 'path'
 import react from '@vitejs/plugin-react'
 import { VitePWA } from 'vite-plugin-pwa'
 
+// When building for GitHub Pages the app is served from a repo subpath
+// (e.g. /specclash-data/). Locally and on Vercel it stays at the root.
+const base = process.env.GH_PAGES === 'true' ? '/specclash-data/' : '/'
+
 export default defineConfig({
+  base,
   plugins: [
     react(),
     VitePWA({
@@ -16,7 +21,7 @@ export default defineConfig({
         theme_color: '#0a0a0a',
         background_color: '#0a0a0a',
         display: 'standalone',
-        start_url: '/',
+        start_url: base,
         icons: [
           { src: 'pwa-192x192.png', sizes: '192x192', type: 'image/png' },
           { src: 'pwa-512x512.png', sizes: '512x512', type: 'image/png' },
