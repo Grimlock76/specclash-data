@@ -1,6 +1,6 @@
 {
   "specs": {
-    "Haval|H2|2015|H2": {
+    "GWM|Haval H2|2015|H2": {
       "engine": "4G15B 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -21,49 +21,7 @@
       "topSpeed": 180,
       "price": "~$22,990"
     },
-    "Haval|H2|2015|Lux": {
-      "engine": "4G15B 1.5T I4",
-      "fuelType": "petrol",
-      "displacement": 1497,
-      "cylinders": 4,
-      "aspiration": "IHI Single-Turbo",
-      "transmission": "CVT",
-      "drivetrain": "FWD",
-      "power": 110,
-      "torque": 202,
-      "weight": 1450,
-      "seats": 5,
-      "cargo": 354,
-      "fc": 9.5,
-      "fh": 6.5,
-      "fx": 7.7,
-      "ft": "Petrol",
-      "acceleration": 10.5,
-      "topSpeed": 180,
-      "price": "~$25,990"
-    },
-    "Haval|H2|2016|H2": {
-      "engine": "4G15B 1.5T I4",
-      "fuelType": "petrol",
-      "displacement": 1497,
-      "cylinders": 4,
-      "aspiration": "IHI Single-Turbo",
-      "transmission": "CVT",
-      "drivetrain": "FWD",
-      "power": 110,
-      "torque": 202,
-      "weight": 1450,
-      "seats": 5,
-      "cargo": 354,
-      "fc": 9.5,
-      "fh": 6.5,
-      "fx": 7.7,
-      "ft": "Petrol",
-      "acceleration": 10.5,
-      "topSpeed": 180,
-      "price": "~$22,990"
-    },
-    "Haval|H2|2016|Lux": {
+    "GWM|Haval H2|2015|Lux": {
       "engine": "4G15B 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -84,7 +42,7 @@
       "topSpeed": 180,
       "price": "~$25,990"
     },
-    "Haval|H2|2017|H2": {
+    "GWM|Haval H2|2016|H2": {
       "engine": "4G15B 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -105,7 +63,7 @@
       "topSpeed": 180,
       "price": "~$22,990"
     },
-    "Haval|H2|2017|Lux": {
+    "GWM|Haval H2|2016|Lux": {
       "engine": "4G15B 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -126,7 +84,49 @@
       "topSpeed": 180,
       "price": "~$25,990"
     },
-    "Haval|H2|2017|Lux AWD": {
+    "GWM|Haval H2|2017|H2": {
+      "engine": "4G15B 1.5T I4",
+      "fuelType": "petrol",
+      "displacement": 1497,
+      "cylinders": 4,
+      "aspiration": "IHI Single-Turbo",
+      "transmission": "CVT",
+      "drivetrain": "FWD",
+      "power": 110,
+      "torque": 202,
+      "weight": 1450,
+      "seats": 5,
+      "cargo": 354,
+      "fc": 9.5,
+      "fh": 6.5,
+      "fx": 7.7,
+      "ft": "Petrol",
+      "acceleration": 10.5,
+      "topSpeed": 180,
+      "price": "~$22,990"
+    },
+    "GWM|Haval H2|2017|Lux": {
+      "engine": "4G15B 1.5T I4",
+      "fuelType": "petrol",
+      "displacement": 1497,
+      "cylinders": 4,
+      "aspiration": "IHI Single-Turbo",
+      "transmission": "CVT",
+      "drivetrain": "FWD",
+      "power": 110,
+      "torque": 202,
+      "weight": 1450,
+      "seats": 5,
+      "cargo": 354,
+      "fc": 9.5,
+      "fh": 6.5,
+      "fx": 7.7,
+      "ft": "Petrol",
+      "acceleration": 10.5,
+      "topSpeed": 180,
+      "price": "~$25,990"
+    },
+    "GWM|Haval H2|2017|Lux AWD": {
       "engine": "4G15B 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -147,7 +147,7 @@
       "topSpeed": 175,
       "price": "~$28,990"
     },
-    "Haval|H2|2018|Lux AWD": {
+    "GWM|Haval H2|2018|Lux AWD": {
       "engine": "4G15B 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -168,7 +168,7 @@
       "topSpeed": 175,
       "price": "~$28,990"
     },
-    "Haval|H2|2019|Lux AWD": {
+    "GWM|Haval H2|2019|Lux AWD": {
       "engine": "4G15B 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -189,7 +189,7 @@
       "topSpeed": 175,
       "price": "~$28,990"
     },
-    "Haval|H2|2018|H2": {
+    "GWM|Haval H2|2018|H2": {
       "engine": "4G15B 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -210,7 +210,7 @@
       "topSpeed": 180,
       "price": "~$22,990"
     },
-    "Haval|H2|2018|Lux": {
+    "GWM|Haval H2|2018|Lux": {
       "engine": "4G15B 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -231,7 +231,7 @@
       "topSpeed": 180,
       "price": "~$26,990"
     },
-    "Haval|H2|2019|H2": {
+    "GWM|Haval H2|2019|H2": {
       "engine": "4G15B 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -252,7 +252,7 @@
       "topSpeed": 180,
       "price": "~$22,990"
     },
-    "Haval|H2|2019|Lux": {
+    "GWM|Haval H2|2019|Lux": {
       "engine": "4G15B 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -273,7 +273,7 @@
       "topSpeed": 180,
       "price": "~$26,990"
     },
-    "Haval|H2|2020|H2": {
+    "GWM|Haval H2|2020|H2": {
       "engine": "4G15B 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -294,7 +294,7 @@
       "topSpeed": 180,
       "price": "~$22,990"
     },
-    "Haval|H2|2020|Lux": {
+    "GWM|Haval H2|2020|Lux": {
       "engine": "4G15B 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -315,7 +315,7 @@
       "topSpeed": 180,
       "price": "~$26,990"
     },
-    "Haval|H2|2021|H2": {
+    "GWM|Haval H2|2021|H2": {
       "engine": "4G15B 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -336,7 +336,7 @@
       "topSpeed": 180,
       "price": "~$22,990"
     },
-    "Haval|H2|2021|Lux": {
+    "GWM|Haval H2|2021|Lux": {
       "engine": "4G15B 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -357,7 +357,7 @@
       "topSpeed": 180,
       "price": "~$26,990"
     },
-    "Haval|H6|2015|Lux": {
+    "GWM|Haval H6|2015|Lux": {
       "engine": "4B20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -378,7 +378,7 @@
       "topSpeed": 190,
       "price": "~$27,990"
     },
-    "Haval|H6|2015|Premium": {
+    "GWM|Haval H6|2015|Premium": {
       "engine": "4B20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -399,7 +399,7 @@
       "topSpeed": 190,
       "price": "~$31,990"
     },
-    "Haval|H6|2015|Ultra": {
+    "GWM|Haval H6|2015|Ultra": {
       "engine": "4B20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -420,7 +420,7 @@
       "topSpeed": 190,
       "price": "~$34,990"
     },
-    "Haval|H6|2016|Lux": {
+    "GWM|Haval H6|2016|Lux": {
       "engine": "4B20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -441,7 +441,7 @@
       "topSpeed": 190,
       "price": "~$27,990"
     },
-    "Haval|H6|2016|Premium": {
+    "GWM|Haval H6|2016|Premium": {
       "engine": "4B20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -462,7 +462,7 @@
       "topSpeed": 190,
       "price": "~$31,990"
     },
-    "Haval|H6|2016|Ultra": {
+    "GWM|Haval H6|2016|Ultra": {
       "engine": "4B20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -483,7 +483,7 @@
       "topSpeed": 190,
       "price": "~$34,990"
     },
-    "Haval|H6|2017|Lux": {
+    "GWM|Haval H6|2017|Lux": {
       "engine": "4B20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -504,7 +504,7 @@
       "topSpeed": 190,
       "price": "~$27,990"
     },
-    "Haval|H6|2017|Premium": {
+    "GWM|Haval H6|2017|Premium": {
       "engine": "4B20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -525,7 +525,7 @@
       "topSpeed": 190,
       "price": "~$31,990"
     },
-    "Haval|H6|2017|Ultra": {
+    "GWM|Haval H6|2017|Ultra": {
       "engine": "4B20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -546,7 +546,7 @@
       "topSpeed": 190,
       "price": "~$34,990"
     },
-    "Haval|H6|2018|H6": {
+    "GWM|Haval H6|2018|H6": {
       "engine": "4C20B 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -567,7 +567,7 @@
       "topSpeed": 190,
       "price": "~$27,990"
     },
-    "Haval|H6|2018|Lux": {
+    "GWM|Haval H6|2018|Lux": {
       "engine": "4C20B 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -588,7 +588,7 @@
       "topSpeed": 190,
       "price": "~$31,990"
     },
-    "Haval|H6|2018|Ultra": {
+    "GWM|Haval H6|2018|Ultra": {
       "engine": "4C20B 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -609,7 +609,7 @@
       "topSpeed": 190,
       "price": "~$35,990"
     },
-    "Haval|H6|2018|Lux AWD": {
+    "GWM|Haval H6|2018|Lux AWD": {
       "engine": "4C20B 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -630,7 +630,7 @@
       "topSpeed": 190,
       "price": "~$34,990"
     },
-    "Haval|H6|2019|H6": {
+    "GWM|Haval H6|2019|H6": {
       "engine": "4C20B 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -651,7 +651,7 @@
       "topSpeed": 190,
       "price": "~$27,990"
     },
-    "Haval|H6|2019|Lux": {
+    "GWM|Haval H6|2019|Lux": {
       "engine": "4C20B 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -672,7 +672,7 @@
       "topSpeed": 190,
       "price": "~$31,990"
     },
-    "Haval|H6|2019|Ultra": {
+    "GWM|Haval H6|2019|Ultra": {
       "engine": "4C20B 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -693,7 +693,7 @@
       "topSpeed": 190,
       "price": "~$35,990"
     },
-    "Haval|H6|2019|Lux AWD": {
+    "GWM|Haval H6|2019|Lux AWD": {
       "engine": "4C20B 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -714,7 +714,7 @@
       "topSpeed": 190,
       "price": "~$34,990"
     },
-    "Haval|H6|2020|H6": {
+    "GWM|Haval H6|2020|H6": {
       "engine": "4C20B 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -735,7 +735,7 @@
       "topSpeed": 190,
       "price": "~$27,990"
     },
-    "Haval|H6|2020|Lux": {
+    "GWM|Haval H6|2020|Lux": {
       "engine": "4C20B 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -756,7 +756,7 @@
       "topSpeed": 190,
       "price": "~$31,990"
     },
-    "Haval|H6|2020|Ultra": {
+    "GWM|Haval H6|2020|Ultra": {
       "engine": "4C20B 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -777,7 +777,7 @@
       "topSpeed": 190,
       "price": "~$35,990"
     },
-    "Haval|H6|2020|Lux AWD": {
+    "GWM|Haval H6|2020|Lux AWD": {
       "engine": "4C20B 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -798,7 +798,7 @@
       "topSpeed": 190,
       "price": "~$34,990"
     },
-    "Haval|H6|2021|H6": {
+    "GWM|Haval H6|2021|H6": {
       "engine": "4C20C 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -819,7 +819,7 @@
       "topSpeed": 195,
       "price": "~$30,990"
     },
-    "Haval|H6|2021|Lux": {
+    "GWM|Haval H6|2021|Lux": {
       "engine": "4C20B 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -840,7 +840,7 @@
       "topSpeed": 190,
       "price": "~$31,990"
     },
-    "Haval|H6|2021|Ultra": {
+    "GWM|Haval H6|2021|Ultra": {
       "engine": "4C20C 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -861,7 +861,7 @@
       "topSpeed": 195,
       "price": "~$34,990"
     },
-    "Haval|H6|2021|Lux AWD": {
+    "GWM|Haval H6|2021|Lux AWD": {
       "engine": "4C20B 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -882,7 +882,7 @@
       "topSpeed": 190,
       "price": "~$34,990"
     },
-    "Haval|H6|2022|H6": {
+    "GWM|Haval H6|2022|H6": {
       "engine": "4C20C 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -903,7 +903,7 @@
       "topSpeed": 195,
       "price": "~$30,990"
     },
-    "Haval|H6|2022|Ultra": {
+    "GWM|Haval H6|2022|Ultra": {
       "engine": "4C20C 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -924,7 +924,7 @@
       "topSpeed": 195,
       "price": "~$34,990"
     },
-    "Haval|H6|2022|HEV": {
+    "GWM|Haval H6|2022|HEV": {
       "engine": "1.5T HEV I4 + Electric",
       "fuelType": "petrol hybrid",
       "displacement": 1497,
@@ -945,7 +945,7 @@
       "topSpeed": 185,
       "price": "~$39,990"
     },
-    "Haval|H6|2022|GT": {
+    "GWM|Haval H6|2022|GT": {
       "engine": "4C20C 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -966,7 +966,7 @@
       "topSpeed": 198,
       "price": "~$35,990"
     },
-    "Haval|H6|2022|GT HEV": {
+    "GWM|Haval H6|2022|GT HEV": {
       "engine": "1.5T HEV I4 + Electric",
       "fuelType": "petrol hybrid",
       "displacement": 1497,
@@ -987,7 +987,7 @@
       "topSpeed": 188,
       "price": "~$43,990"
     },
-    "Haval|H6|2023|H6": {
+    "GWM|Haval H6|2023|H6": {
       "engine": "4C20C 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1008,7 +1008,7 @@
       "topSpeed": 195,
       "price": "~$30,990"
     },
-    "Haval|H6|2023|Ultra": {
+    "GWM|Haval H6|2023|Ultra": {
       "engine": "4C20C 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1029,7 +1029,7 @@
       "topSpeed": 195,
       "price": "~$34,990"
     },
-    "Haval|H6|2023|HEV": {
+    "GWM|Haval H6|2023|HEV": {
       "engine": "1.5T HEV I4 + Electric",
       "fuelType": "petrol hybrid",
       "displacement": 1497,
@@ -1050,7 +1050,7 @@
       "topSpeed": 185,
       "price": "~$39,990"
     },
-    "Haval|H6|2023|GT": {
+    "GWM|Haval H6|2023|GT": {
       "engine": "4C20C 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1071,7 +1071,7 @@
       "topSpeed": 198,
       "price": "~$35,990"
     },
-    "Haval|H6|2023|GT HEV": {
+    "GWM|Haval H6|2023|GT HEV": {
       "engine": "1.5T HEV I4 + Electric",
       "fuelType": "petrol hybrid",
       "displacement": 1497,
@@ -1092,7 +1092,7 @@
       "topSpeed": 188,
       "price": "~$43,990"
     },
-    "Haval|H6|2024|H6": {
+    "GWM|Haval H6|2024|H6": {
       "engine": "4C20C 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1113,7 +1113,7 @@
       "topSpeed": 195,
       "price": "~$30,990"
     },
-    "Haval|H6|2024|Ultra": {
+    "GWM|Haval H6|2024|Ultra": {
       "engine": "4C20C 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1134,7 +1134,7 @@
       "topSpeed": 195,
       "price": "~$34,990"
     },
-    "Haval|H6|2024|HEV": {
+    "GWM|Haval H6|2024|HEV": {
       "engine": "1.5T HEV I4 + Electric",
       "fuelType": "petrol hybrid",
       "displacement": 1497,
@@ -1155,7 +1155,7 @@
       "topSpeed": 185,
       "price": "~$39,990"
     },
-    "Haval|H6|2024|GT": {
+    "GWM|Haval H6|2024|GT": {
       "engine": "4C20C 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1176,7 +1176,7 @@
       "topSpeed": 198,
       "price": "~$35,990"
     },
-    "Haval|H6|2024|GT HEV": {
+    "GWM|Haval H6|2024|GT HEV": {
       "engine": "1.5T HEV I4 + Electric",
       "fuelType": "petrol hybrid",
       "displacement": 1497,
@@ -1197,7 +1197,7 @@
       "topSpeed": 188,
       "price": "~$43,990"
     },
-    "Haval|H6|2025|H6": {
+    "GWM|Haval H6|2025|H6": {
       "engine": "4C20C 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1218,7 +1218,7 @@
       "topSpeed": 195,
       "price": "~$30,990"
     },
-    "Haval|H6|2025|Ultra": {
+    "GWM|Haval H6|2025|Ultra": {
       "engine": "4C20C 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1239,7 +1239,7 @@
       "topSpeed": 195,
       "price": "~$34,990"
     },
-    "Haval|H6|2025|HEV": {
+    "GWM|Haval H6|2025|HEV": {
       "engine": "1.5T HEV I4 + Electric",
       "fuelType": "petrol hybrid",
       "displacement": 1497,
@@ -1260,7 +1260,7 @@
       "topSpeed": 185,
       "price": "~$39,990"
     },
-    "Haval|H6|2025|GT": {
+    "GWM|Haval H6|2025|GT": {
       "engine": "4C20C 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1281,7 +1281,7 @@
       "topSpeed": 198,
       "price": "~$35,990"
     },
-    "Haval|H6|2025|GT HEV": {
+    "GWM|Haval H6|2025|GT HEV": {
       "engine": "1.5T HEV I4 + Electric",
       "fuelType": "petrol hybrid",
       "displacement": 1497,
@@ -1302,7 +1302,7 @@
       "topSpeed": 188,
       "price": "~$43,990"
     },
-    "Haval|H9|2015|H9": {
+    "GWM|Haval H9|2015|H9": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1323,7 +1323,7 @@
       "topSpeed": 185,
       "price": "~$38,990"
     },
-    "Haval|H9|2015|Lux": {
+    "GWM|Haval H9|2015|Lux": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1344,7 +1344,7 @@
       "topSpeed": 185,
       "price": "~$43,990"
     },
-    "Haval|H9|2016|H9": {
+    "GWM|Haval H9|2016|H9": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1365,7 +1365,7 @@
       "topSpeed": 185,
       "price": "~$38,990"
     },
-    "Haval|H9|2016|Lux": {
+    "GWM|Haval H9|2016|Lux": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1386,7 +1386,7 @@
       "topSpeed": 185,
       "price": "~$43,990"
     },
-    "Haval|H9|2017|H9": {
+    "GWM|Haval H9|2017|H9": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1407,7 +1407,7 @@
       "topSpeed": 185,
       "price": "~$38,990"
     },
-    "Haval|H9|2017|Lux": {
+    "GWM|Haval H9|2017|Lux": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1428,7 +1428,7 @@
       "topSpeed": 185,
       "price": "~$43,990"
     },
-    "Haval|H9|2018|H9": {
+    "GWM|Haval H9|2018|H9": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1449,7 +1449,7 @@
       "topSpeed": 185,
       "price": "~$38,990"
     },
-    "Haval|H9|2018|Lux": {
+    "GWM|Haval H9|2018|Lux": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1470,7 +1470,7 @@
       "topSpeed": 185,
       "price": "~$43,990"
     },
-    "Haval|H9|2019|H9": {
+    "GWM|Haval H9|2019|H9": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1491,7 +1491,7 @@
       "topSpeed": 185,
       "price": "~$38,990"
     },
-    "Haval|H9|2019|Lux": {
+    "GWM|Haval H9|2019|Lux": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1512,7 +1512,7 @@
       "topSpeed": 185,
       "price": "~$43,990"
     },
-    "Haval|H9|2020|H9": {
+    "GWM|Haval H9|2020|H9": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1533,7 +1533,7 @@
       "topSpeed": 185,
       "price": "~$38,990"
     },
-    "Haval|H9|2020|Lux": {
+    "GWM|Haval H9|2020|Lux": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1554,7 +1554,7 @@
       "topSpeed": 185,
       "price": "~$43,990"
     },
-    "Haval|H9|2021|H9": {
+    "GWM|Haval H9|2021|H9": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1575,7 +1575,7 @@
       "topSpeed": 185,
       "price": "~$42,990"
     },
-    "Haval|H9|2021|Premium": {
+    "GWM|Haval H9|2021|Premium": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1596,7 +1596,7 @@
       "topSpeed": 185,
       "price": "~$47,990"
     },
-    "Haval|H9|2021|Ultra": {
+    "GWM|Haval H9|2021|Ultra": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1617,7 +1617,7 @@
       "topSpeed": 185,
       "price": "~$51,990"
     },
-    "Haval|H9|2022|H9": {
+    "GWM|Haval H9|2022|H9": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1638,7 +1638,7 @@
       "topSpeed": 185,
       "price": "~$42,990"
     },
-    "Haval|H9|2022|Premium": {
+    "GWM|Haval H9|2022|Premium": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1659,7 +1659,7 @@
       "topSpeed": 185,
       "price": "~$47,990"
     },
-    "Haval|H9|2022|Ultra": {
+    "GWM|Haval H9|2022|Ultra": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1680,7 +1680,7 @@
       "topSpeed": 185,
       "price": "~$51,990"
     },
-    "Haval|H9|2023|H9": {
+    "GWM|Haval H9|2023|H9": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1701,7 +1701,7 @@
       "topSpeed": 185,
       "price": "~$42,990"
     },
-    "Haval|H9|2023|Premium": {
+    "GWM|Haval H9|2023|Premium": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1722,7 +1722,7 @@
       "topSpeed": 185,
       "price": "~$47,990"
     },
-    "Haval|H9|2023|Ultra": {
+    "GWM|Haval H9|2023|Ultra": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1743,7 +1743,7 @@
       "topSpeed": 185,
       "price": "~$51,990"
     },
-    "Haval|H9|2024|H9": {
+    "GWM|Haval H9|2024|H9": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1764,7 +1764,7 @@
       "topSpeed": 185,
       "price": "~$42,990"
     },
-    "Haval|H9|2024|Premium": {
+    "GWM|Haval H9|2024|Premium": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1785,7 +1785,7 @@
       "topSpeed": 185,
       "price": "~$47,990"
     },
-    "Haval|H9|2024|Ultra": {
+    "GWM|Haval H9|2024|Ultra": {
       "engine": "GW4C20 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -1806,7 +1806,7 @@
       "topSpeed": 185,
       "price": "~$51,990"
     },
-    "Haval|Jolion|2021|Jolion": {
+    "GWM|Haval Jolion|2021|Jolion": {
       "engine": "4B15A 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -1827,7 +1827,7 @@
       "topSpeed": 175,
       "price": "~$24,990"
     },
-    "Haval|Jolion|2021|Premium": {
+    "GWM|Haval Jolion|2021|Premium": {
       "engine": "4B15A 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -1848,7 +1848,7 @@
       "topSpeed": 175,
       "price": "~$28,990"
     },
-    "Haval|Jolion|2021|Ultra": {
+    "GWM|Haval Jolion|2021|Ultra": {
       "engine": "4B15A 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -1869,7 +1869,7 @@
       "topSpeed": 175,
       "price": "~$33,990"
     },
-    "Haval|Jolion|2022|Jolion": {
+    "GWM|Haval Jolion|2022|Jolion": {
       "engine": "4B15A 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -1890,7 +1890,7 @@
       "topSpeed": 175,
       "price": "~$24,990"
     },
-    "Haval|Jolion|2022|Premium": {
+    "GWM|Haval Jolion|2022|Premium": {
       "engine": "4B15A 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -1911,7 +1911,7 @@
       "topSpeed": 175,
       "price": "~$28,990"
     },
-    "Haval|Jolion|2022|Ultra": {
+    "GWM|Haval Jolion|2022|Ultra": {
       "engine": "4B15A 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -1932,7 +1932,7 @@
       "topSpeed": 175,
       "price": "~$33,990"
     },
-    "Haval|Jolion|2022|HEV": {
+    "GWM|Haval Jolion|2022|HEV": {
       "engine": "1.5T HEV I4 + Electric",
       "fuelType": "petrol hybrid",
       "displacement": 1497,
@@ -1953,7 +1953,7 @@
       "topSpeed": 170,
       "price": "~$36,990"
     },
-    "Haval|Jolion|2023|Jolion": {
+    "GWM|Haval Jolion|2023|Jolion": {
       "engine": "4B15A 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -1974,7 +1974,7 @@
       "topSpeed": 175,
       "price": "~$24,990"
     },
-    "Haval|Jolion|2023|Premium": {
+    "GWM|Haval Jolion|2023|Premium": {
       "engine": "4B15A 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -1995,7 +1995,7 @@
       "topSpeed": 175,
       "price": "~$28,990"
     },
-    "Haval|Jolion|2023|Ultra": {
+    "GWM|Haval Jolion|2023|Ultra": {
       "engine": "4B15A 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -2016,7 +2016,7 @@
       "topSpeed": 175,
       "price": "~$33,990"
     },
-    "Haval|Jolion|2023|HEV": {
+    "GWM|Haval Jolion|2023|HEV": {
       "engine": "1.5T HEV I4 + Electric",
       "fuelType": "petrol hybrid",
       "displacement": 1497,
@@ -2037,7 +2037,7 @@
       "topSpeed": 170,
       "price": "~$36,990"
     },
-    "Haval|Jolion|2023|PHEV": {
+    "GWM|Haval Jolion|2023|PHEV": {
       "engine": "1.5T PHEV I4 + Electric",
       "fuelType": "petrol plug-in hybrid",
       "displacement": 1497,
@@ -2058,7 +2058,7 @@
       "topSpeed": 175,
       "price": "~$39,990"
     },
-    "Haval|Jolion|2024|Jolion": {
+    "GWM|Haval Jolion|2024|Jolion": {
       "engine": "4B15A 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -2079,7 +2079,7 @@
       "topSpeed": 175,
       "price": "~$24,990"
     },
-    "Haval|Jolion|2024|Premium": {
+    "GWM|Haval Jolion|2024|Premium": {
       "engine": "4B15A 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -2100,7 +2100,7 @@
       "topSpeed": 175,
       "price": "~$28,990"
     },
-    "Haval|Jolion|2024|Ultra": {
+    "GWM|Haval Jolion|2024|Ultra": {
       "engine": "4B15A 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -2121,7 +2121,7 @@
       "topSpeed": 175,
       "price": "~$33,990"
     },
-    "Haval|Jolion|2024|HEV": {
+    "GWM|Haval Jolion|2024|HEV": {
       "engine": "1.5T HEV I4 + Electric",
       "fuelType": "petrol hybrid",
       "displacement": 1497,
@@ -2142,7 +2142,7 @@
       "topSpeed": 170,
       "price": "~$36,990"
     },
-    "Haval|Jolion|2024|PHEV": {
+    "GWM|Haval Jolion|2024|PHEV": {
       "engine": "1.5T PHEV I4 + Electric",
       "fuelType": "petrol plug-in hybrid",
       "displacement": 1497,
@@ -2163,7 +2163,7 @@
       "topSpeed": 175,
       "price": "~$39,990"
     },
-    "Haval|Jolion|2025|Jolion": {
+    "GWM|Haval Jolion|2025|Jolion": {
       "engine": "4B15A 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -2184,7 +2184,7 @@
       "topSpeed": 175,
       "price": "~$24,990"
     },
-    "Haval|Jolion|2025|Premium": {
+    "GWM|Haval Jolion|2025|Premium": {
       "engine": "4B15A 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -2205,7 +2205,7 @@
       "topSpeed": 175,
       "price": "~$28,990"
     },
-    "Haval|Jolion|2025|Ultra": {
+    "GWM|Haval Jolion|2025|Ultra": {
       "engine": "4B15A 1.5T I4",
       "fuelType": "petrol",
       "displacement": 1497,
@@ -2226,7 +2226,7 @@
       "topSpeed": 175,
       "price": "~$33,990"
     },
-    "Haval|Jolion|2025|HEV": {
+    "GWM|Haval Jolion|2025|HEV": {
       "engine": "1.5T HEV I4 + Electric",
       "fuelType": "petrol hybrid",
       "displacement": 1497,
@@ -2247,7 +2247,7 @@
       "topSpeed": 170,
       "price": "~$36,990"
     },
-    "Haval|Jolion|2025|PHEV": {
+    "GWM|Haval Jolion|2025|PHEV": {
       "engine": "1.5T PHEV I4 + Electric",
       "fuelType": "petrol plug-in hybrid",
       "displacement": 1497,
@@ -2268,7 +2268,7 @@
       "topSpeed": 175,
       "price": "~$39,990"
     },
-    "Haval|Hunter|2022|Standard": {
+    "GWM|Haval Hunter|2022|Standard": {
       "engine": "4D20J 2.0T Diesel I4",
       "fuelType": "diesel",
       "displacement": 1996,
@@ -2289,7 +2289,7 @@
       "topSpeed": 175,
       "price": "~$42,990"
     },
-    "Haval|Hunter|2022|Premium": {
+    "GWM|Haval Hunter|2022|Premium": {
       "engine": "4D20J 2.0T Diesel I4",
       "fuelType": "diesel",
       "displacement": 1996,
@@ -2310,7 +2310,7 @@
       "topSpeed": 175,
       "price": "~$47,990"
     },
-    "Haval|Hunter|2022|Ultra": {
+    "GWM|Haval Hunter|2022|Ultra": {
       "engine": "4C20D 2.0T Petrol I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -2331,7 +2331,7 @@
       "topSpeed": 180,
       "price": "~$50,990"
     },
-    "Haval|Hunter|2023|Standard": {
+    "GWM|Haval Hunter|2023|Standard": {
       "engine": "4D20J 2.0T Diesel I4",
       "fuelType": "diesel",
       "displacement": 1996,
@@ -2352,7 +2352,7 @@
       "topSpeed": 175,
       "price": "~$42,990"
     },
-    "Haval|Hunter|2023|Premium": {
+    "GWM|Haval Hunter|2023|Premium": {
       "engine": "4D20J 2.0T Diesel I4",
       "fuelType": "diesel",
       "displacement": 1996,
@@ -2373,7 +2373,7 @@
       "topSpeed": 175,
       "price": "~$47,990"
     },
-    "Haval|Hunter|2023|Ultra": {
+    "GWM|Haval Hunter|2023|Ultra": {
       "engine": "4C20D 2.0T Petrol I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -2394,7 +2394,7 @@
       "topSpeed": 180,
       "price": "~$50,990"
     },
-    "Haval|Hunter|2024|Standard": {
+    "GWM|Haval Hunter|2024|Standard": {
       "engine": "4D20J 2.0T Diesel I4",
       "fuelType": "diesel",
       "displacement": 1996,
@@ -2415,7 +2415,7 @@
       "topSpeed": 175,
       "price": "~$42,990"
     },
-    "Haval|Hunter|2024|Premium": {
+    "GWM|Haval Hunter|2024|Premium": {
       "engine": "4D20J 2.0T Diesel I4",
       "fuelType": "diesel",
       "displacement": 1996,
@@ -2436,7 +2436,7 @@
       "topSpeed": 175,
       "price": "~$47,990"
     },
-    "Haval|Hunter|2024|Ultra": {
+    "GWM|Haval Hunter|2024|Ultra": {
       "engine": "4C20D 2.0T Petrol I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -2457,7 +2457,7 @@
       "topSpeed": 180,
       "price": "~$50,990"
     },
-    "Haval|Hunter|2025|Standard": {
+    "GWM|Haval Hunter|2025|Standard": {
       "engine": "4D20J 2.0T Diesel I4",
       "fuelType": "diesel",
       "displacement": 1996,
@@ -2478,7 +2478,7 @@
       "topSpeed": 175,
       "price": "~$42,990"
     },
-    "Haval|Hunter|2025|Premium": {
+    "GWM|Haval Hunter|2025|Premium": {
       "engine": "4D20J 2.0T Diesel I4",
       "fuelType": "diesel",
       "displacement": 1996,
@@ -2499,7 +2499,7 @@
       "topSpeed": 175,
       "price": "~$47,990"
     },
-    "Haval|Hunter|2025|Ultra": {
+    "GWM|Haval Hunter|2025|Ultra": {
       "engine": "4C20D 2.0T Petrol I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -2520,7 +2520,7 @@
       "topSpeed": 180,
       "price": "~$50,990"
     },
-    "Haval|Raptor|2023|Raptor": {
+    "GWM|Haval Raptor|2023|Raptor": {
       "engine": "4C20D 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -2541,7 +2541,7 @@
       "topSpeed": 180,
       "price": "~$55,990"
     },
-    "Haval|Raptor|2024|Raptor": {
+    "GWM|Haval Raptor|2024|Raptor": {
       "engine": "4C20D 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
@@ -2562,7 +2562,7 @@
       "topSpeed": 180,
       "price": "~$55,990"
     },
-    "Haval|Raptor|2025|Raptor": {
+    "GWM|Haval Raptor|2025|Raptor": {
       "engine": "4C20D 2.0T I4",
       "fuelType": "petrol",
       "displacement": 1999,
