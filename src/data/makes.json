@@ -28556,40 +28556,35 @@
   "GWM": {
     "Haval H2": {
       "2015": [
-        "H2",
         "Lux",
-        "Premium"
+        "Premium",
+        "Standard"
       ],
       "2016": [
-        "H2",
         "Lux",
         "Premium"
       ],
       "2017": [
-        "H2",
         "Lux",
         "Lux AWD",
         "Premium"
       ],
       "2018": [
-        "H2",
         "Lux",
         "Lux AWD",
         "Premium"
       ],
       "2019": [
-        "H2",
         "Lux",
         "Lux AWD",
-        "Premium"
+        "Premium",
+        "Standard"
       ],
       "2020": [
-        "H2",
         "Lux",
         "Premium"
       ],
       "2021": [
-        "H2",
         "Lux",
         "Premium"
       ]
@@ -28611,32 +28606,29 @@
         "Ultra"
       ],
       "2018": [
-        "H6",
         "Lux",
         "Lux AWD",
         "Premium",
         "Ultra"
       ],
       "2019": [
-        "H6",
         "Lux",
         "Lux AWD",
         "Premium",
         "Ultra"
       ],
       "2020": [
-        "H6",
         "Lux",
         "Lux AWD",
         "Premium",
         "Ultra"
       ],
       "2021": [
-        "H6",
         "Hybrid",
         "Lux",
         "Lux AWD",
         "Premium",
+        "Standard",
         "Ultra",
         "Ultra AWD",
         "Ultra Petrol"
@@ -28644,11 +28636,11 @@
       "2022": [
         "GT",
         "GT HEV",
-        "H6",
         "HEV",
         "Hybrid",
         "Lux",
         "Premium",
+        "Standard",
         "Ultra",
         "Ultra AWD",
         "Ultra Petrol"
@@ -28656,11 +28648,11 @@
       "2023": [
         "GT",
         "GT HEV",
-        "H6",
         "HEV",
         "Hybrid",
         "Lux",
         "Premium",
+        "Standard",
         "Ultra",
         "Ultra AWD",
         "Ultra Petrol"
@@ -28668,11 +28660,11 @@
       "2024": [
         "GT",
         "GT HEV",
-        "H6",
         "HEV",
         "Hybrid",
         "Lux",
         "Premium",
+        "Standard",
         "Ultra",
         "Ultra AWD",
         "Ultra PHEV",
@@ -28681,11 +28673,11 @@
       "2025": [
         "GT",
         "GT HEV",
-        "H6",
         "HEV",
         "Hybrid",
         "Lux",
         "Premium",
+        "Standard",
         "Ultra",
         "Ultra AWD",
         "Ultra PHEV",
@@ -28702,55 +28694,47 @@
     },
     "Haval H9": {
       "2015": [
-        "H9",
         "Lux",
-        "Premium"
+        "Premium",
+        "Standard"
       ],
       "2016": [
-        "H9",
         "Lux",
         "Premium"
       ],
       "2017": [
-        "H9",
         "Lux",
         "Premium"
       ],
       "2018": [
-        "H9",
         "Lux",
         "Premium"
       ],
       "2019": [
-        "H9",
         "Lux",
         "Premium"
       ],
       "2020": [
-        "H9",
         "Lux",
-        "Premium"
+        "Premium",
+        "Standard"
       ],
       "2021": [
-        "H9",
         "Lux",
         "Premium",
         "Ultra"
       ],
       "2022": [
-        "H9",
         "Lux",
         "Premium",
         "Ultra"
       ],
       "2023": [
-        "H9",
         "Lux",
         "Premium",
         "Ultra"
       ],
       "2024": [
-        "H9",
         "Lux",
         "Premium",
         "Ultra"
@@ -28767,24 +28751,22 @@
     "Haval Jolion": {
       "2021": [
         "Hybrid Ultra",
-        "Jolion",
-        "LUX",
+        "Lux",
         "Premium",
+        "Standard",
         "Ultra"
       ],
       "2022": [
         "HEV",
         "Hybrid Ultra",
-        "Jolion",
-        "LUX",
+        "Lux",
         "Premium",
         "Ultra"
       ],
       "2023": [
         "HEV",
         "Hybrid Ultra",
-        "Jolion",
-        "LUX",
+        "Lux",
         "PHEV",
         "Premium",
         "Ultra"
@@ -28792,24 +28774,23 @@
       "2024": [
         "HEV",
         "Hybrid Ultra",
-        "Jolion",
-        "LUX",
+        "Lux",
         "PHEV",
         "Premium",
+        "Standard",
         "Ultra"
       ],
       "2025": [
         "HEV",
         "Hybrid Ultra",
-        "Jolion",
-        "LUX",
+        "Lux",
         "PHEV",
         "Premium",
         "Ultra"
       ],
       "2026": [
         "Hybrid Ultra",
-        "LUX",
+        "Lux",
         "Premium",
         "Ultra"
       ]

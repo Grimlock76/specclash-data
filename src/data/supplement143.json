@@ -152,25 +152,6 @@
       "price": "~$28,990",
       "aspiration": "BorgWarner Single-Turbo"
     },
-    "GWM|Haval Jolion|2026|LUX": {
-      "engine": "1.5T Turbo",
-      "fuelType": "petrol",
-      "displacement": 1498,
-      "cylinders": 4,
-      "drivetrain": "FWD",
-      "transmission": "7-speed DCT",
-      "power": 105,
-      "torque": 220,
-      "weight": 1465,
-      "seats": 5,
-      "fc": 7.4,
-      "fh": 5.5,
-      "fx": 10.4,
-      "acceleration": 9.8,
-      "topSpeed": 180,
-      "price": "~$36,990",
-      "aspiration": "BorgWarner Single-Turbo"
-    },
     "Isuzu|MU-X|2024|LS-M": {
       "engine": "3.0L I4 Turbo Diesel",
       "fuelType": "diesel",
@@ -360,6 +341,25 @@
       "topSpeed": 230,
       "price": "~$113,990",
       "aspiration": "IHI Single-Turbo"
+    },
+    "GWM|Haval Jolion|2026|Lux": {
+      "engine": "1.5T Turbo",
+      "fuelType": "petrol",
+      "displacement": 1498,
+      "cylinders": 4,
+      "drivetrain": "FWD",
+      "transmission": "7-speed DCT",
+      "power": 105,
+      "torque": 220,
+      "weight": 1465,
+      "seats": 5,
+      "fc": 7.4,
+      "fh": 5.5,
+      "fx": 10.4,
+      "acceleration": 9.8,
+      "topSpeed": 180,
+      "price": "~$36,990",
+      "aspiration": "BorgWarner Single-Turbo"
     }
   }
 }
