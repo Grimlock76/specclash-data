@@ -25,3 +25,7 @@ dist-ssr
 
 .vercel
 .env*.local
+
+# Ad-hoc verification screenshots (root only; keeps public/ + src/ assets)
+/test-*.png
+/verify*.png
