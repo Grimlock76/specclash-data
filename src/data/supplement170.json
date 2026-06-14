@@ -361,25 +361,6 @@
       "price": "~$64,900",
       "aspiration": "BorgWarner Single-Turbo"
     },
-    "Toyota|LandCruiser 70|2025|WorkMate": {
-      "engine": "2.8L I4 Turbo Diesel",
-      "fuelType": "diesel",
-      "displacement": 2755,
-      "cylinders": 4,
-      "drivetrain": "AWD",
-      "transmission": "6-speed manual",
-      "power": 150,
-      "torque": 500,
-      "weight": 2045,
-      "seats": 5,
-      "fc": 9.7,
-      "fh": 7.7,
-      "fx": 13,
-      "acceleration": 12,
-      "topSpeed": 175,
-      "price": "~$65,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
-    },
     "Toyota|LandCruiser 70|2025|GX": {
       "engine": "2.8L I4 Turbo Diesel",
       "fuelType": "diesel",
@@ -416,6 +397,25 @@
       "acceleration": 12.2,
       "topSpeed": 175,
       "price": "~$78,990",
+      "aspiration": "Toyota VGT Diesel Turbo"
+    },
+    "Toyota|LandCruiser 70|2025|Workmate": {
+      "engine": "2.8L I4 Turbo Diesel",
+      "fuelType": "diesel",
+      "displacement": 2755,
+      "cylinders": 4,
+      "drivetrain": "AWD",
+      "transmission": "6-speed manual",
+      "power": 150,
+      "torque": 500,
+      "weight": 2045,
+      "seats": 5,
+      "fc": 9.7,
+      "fh": 7.7,
+      "fx": 13,
+      "acceleration": 12,
+      "topSpeed": 175,
+      "price": "~$65,990",
       "aspiration": "Toyota VGT Diesel Turbo"
     }
   }
