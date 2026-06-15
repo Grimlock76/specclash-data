@@ -79811,5 +79811,178 @@
         "RWD"
       ]
     }
+  },
+  "Cupra": {
+    "Born": {
+      "2022": [
+        "V"
+      ],
+      "2023": [
+        "V"
+      ],
+      "2024": [
+        "V",
+        "VZ"
+      ],
+      "2025": [
+        "VZ"
+      ],
+      "2026": [
+        "VZ"
+      ]
+    },
+    "Formentor": {
+      "2022": [
+        "V",
+        "VZ",
+        "VZx"
+      ],
+      "2023": [
+        "V",
+        "VZ",
+        "VZx"
+      ],
+      "2024": [
+        "V",
+        "VZ",
+        "VZx"
+      ],
+      "2025": [
+        "VZ"
+      ],
+      "2026": [
+        "VZ"
+      ]
+    },
+    "Leon": {
+      "2022": [
+        "VZ"
+      ],
+      "2023": [
+        "VZ"
+      ],
+      "2024": [
+        "VZ"
+      ]
+    },
+    "Ateca": {
+      "2022": [
+        "VZ"
+      ],
+      "2023": [
+        "VZ"
+      ],
+      "2024": [
+        "VZ"
+      ]
+    },
+    "Tavascan": {
+      "2025": [
+        "Endurance",
+        "VZ"
+      ],
+      "2026": [
+        "Endurance",
+        "VZ"
+      ]
+    },
+    "Terramar": {
+      "2025": [
+        "VZ"
+      ],
+      "2026": [
+        "VZ"
+      ]
+    }
+  },
+  "Xpeng": {
+    "G6": {
+      "2024": [
+        "Long Range",
+        "Performance",
+        "Standard Range"
+      ],
+      "2025": [
+        "Long Range",
+        "Performance",
+        "Standard Range"
+      ],
+      "2026": [
+        "Long Range",
+        "Performance",
+        "Standard Range"
+      ]
+    },
+    "G9": {
+      "2025": [
+        "Long Range",
+        "Performance"
+      ],
+      "2026": [
+        "Long Range",
+        "Performance"
+      ]
+    },
+    "X9": {
+      "2025": [
+        "Long Range",
+        "Performance"
+      ],
+      "2026": [
+        "Long Range",
+        "Performance"
+      ]
+    }
+  },
+  "Deepal": {
+    "S07": {
+      "2025": [
+        "EREV",
+        "EV"
+      ],
+      "2026": [
+        "EREV",
+        "EV"
+      ]
+    },
+    "E07": {
+      "2025": [
+        "EV AWD"
+      ],
+      "2026": [
+        "EV AWD"
+      ]
+    }
+  },
+  "Skywell": {
+    "BE11": {
+      "2023": [
+        "Premium",
+        "Standard"
+      ],
+      "2024": [
+        "Premium",
+        "Standard"
+      ],
+      "2025": [
+        "Premium",
+        "Standard"
+      ]
+    }
+  },
+  "Aiways": {
+    "U5": {
+      "2022": [
+        "Standard"
+      ],
+      "2023": [
+        "Standard"
+      ]
+    },
+    "U6": {
+      "2023": [
+        "Coupe"
+      ]
+    }
   }
 }
