@@ -79984,5 +79984,165 @@
         "Coupe"
       ]
     }
+  },
+  "Ineos": {
+    "Grenadier": {
+      "2023": [
+        "Fieldmaster Diesel",
+        "Fieldmaster Petrol",
+        "Trialmaster Diesel",
+        "Trialmaster Petrol"
+      ],
+      "2024": [
+        "Fieldmaster Diesel",
+        "Fieldmaster Petrol",
+        "Trialmaster Diesel",
+        "Trialmaster Petrol"
+      ],
+      "2025": [
+        "Fieldmaster Diesel",
+        "Fieldmaster Petrol",
+        "Trialmaster Diesel",
+        "Trialmaster Petrol"
+      ],
+      "2026": [
+        "Fieldmaster Diesel",
+        "Fieldmaster Petrol",
+        "Trialmaster Diesel",
+        "Trialmaster Petrol"
+      ]
+    },
+    "Quartermaster": {
+      "2024": [
+        "Fieldmaster Diesel",
+        "Trialmaster Petrol"
+      ],
+      "2025": [
+        "Fieldmaster Diesel",
+        "Trialmaster Petrol"
+      ],
+      "2026": [
+        "Fieldmaster Diesel",
+        "Trialmaster Petrol"
+      ]
+    }
+  },
+  "JAC": {
+    "T9": {
+      "2024": [
+        "Haven",
+        "Oasis"
+      ],
+      "2025": [
+        "Haven",
+        "Oasis"
+      ],
+      "2026": [
+        "Haven",
+        "Oasis"
+      ]
+    }
+  },
+  "Foton": {
+    "Tunland V7": {
+      "2024": [
+        "Lux"
+      ],
+      "2025": [
+        "Lux"
+      ],
+      "2026": [
+        "Lux"
+      ]
+    },
+    "Tunland V9": {
+      "2025": [
+        "Lux"
+      ],
+      "2026": [
+        "Lux"
+      ]
+    }
+  },
+  "Citroen": {
+    "C3": {
+      "2018": [
+        "Shine"
+      ],
+      "2019": [
+        "Shine"
+      ],
+      "2020": [
+        "Shine"
+      ],
+      "2021": [
+        "Shine"
+      ],
+      "2022": [
+        "Shine"
+      ]
+    },
+    "C4": {
+      "2022": [
+        "Shine"
+      ],
+      "2023": [
+        "Shine"
+      ]
+    },
+    "e-C4": {
+      "2022": [
+        "Shine"
+      ],
+      "2023": [
+        "Shine"
+      ]
+    },
+    "C5 Aircross": {
+      "2019": [
+        "Shine"
+      ],
+      "2020": [
+        "Shine"
+      ],
+      "2021": [
+        "Shine"
+      ],
+      "2022": [
+        "Plug-in Hybrid",
+        "Shine"
+      ],
+      "2023": [
+        "Plug-in Hybrid",
+        "Shine"
+      ]
+    },
+    "C5 X": {
+      "2022": [
+        "Plug-in Hybrid",
+        "Shine"
+      ],
+      "2023": [
+        "Plug-in Hybrid",
+        "Shine"
+      ]
+    },
+    "Berlingo": {
+      "2019": [
+        "Shine"
+      ],
+      "2020": [
+        "Shine"
+      ],
+      "2021": [
+        "Shine"
+      ],
+      "2022": [
+        "Shine"
+      ],
+      "2023": [
+        "Shine"
+      ]
+    }
   }
 }
