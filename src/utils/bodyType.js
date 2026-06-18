@@ -23,6 +23,9 @@ function getBodyType(model, trim = '') {
   if (/\bbz4x\b|\bcrown\b/.test(m)) return 'SUV'
   if (/\bprius v\b/.test(m)) return 'Wagon'
 
+  // ── Early disambiguation (must precede generic letter-number rules below) ──
+  if (/\bs5 ev\b/.test(m)) return 'SUV'   // MG S5 EV — precede Audi \bs5\b → Coupe
+
   // ── Mazda ──
   if (/rx-7|rx-8|mx-5|mx-6/.test(m)) return 'Coupe'
   if (/cx-3|cx-5|cx-8|cx-9|cx-60|cx-90|mx-30/.test(m)) return 'SUV'
@@ -48,7 +51,7 @@ function getBodyType(model, trim = '') {
 
   // ── Kia ──
   if (/\bstinger\b/.test(m)) return 'Sedan'
-  if (/\bsportage\b|\bsorento\b|\bseltos\b|\btelluride\b|\bniro\b|\bev6\b|\bev9\b/.test(m)) return 'SUV'
+  if (/\bsportage\b|\bsorento\b|\bseltos\b|\btelluride\b|\bniro\b|\bev3\b|\bev5\b|\bev6\b|\bev9\b/.test(m)) return 'SUV'
   if (/\bcarnival\b/.test(m)) return 'Van'
   if (/\brio\b|\bcerato\b|\bpicanto\b|\bsoul\b/.test(m)) return 'Hatch'
   if (/\boptima\b|\bcadenza\b/.test(m)) return 'Sedan'
@@ -130,13 +133,19 @@ function getBodyType(model, trim = '') {
   if (/\bmu-x\b/.test(m)) return 'SUV'
 
   // ── MG ──
-  if (/\bzs ev\b|\bzs\b|\bmg hs\b/.test(m)) return 'SUV'
+  if (/\bu9\b/.test(m)) return 'Ute'
+  if (/\bzs ev\b|\bzs\b|\bmg hs\b|\bqs\b/.test(m)) return 'SUV'
   if (/\bmg3\b|\bmg4\b|\bmg6\b/.test(m)) return 'Hatch'
   if (/\bcyberster\b/.test(m)) return 'Coupe'
 
   // ── GWM / Haval ──
+  if (/\bcannon\b/.test(m)) return 'Ute'
   if (/\bhaval\b|\btank\b/.test(m)) return 'SUV'
   if (/\bute\b/.test(m)) return 'Ute'
+
+  // ── Mahindra ──
+  if (/\bpik-up\b/.test(m)) return 'Ute'
+  if (/\bscorpio\b|\bxuv\b|\bthar\b/.test(m)) return 'SUV'
 
   // ── BYD ──
   if (/\batto 3\b|\bsealion\b/.test(m)) return 'SUV'
@@ -469,6 +478,32 @@ function getBodyType(model, trim = '') {
   if (/\bvoyager\b/.test(m)) return 'Van'
   if (/\bbeta\b/.test(m) && /spider/.test(t)) return 'Coupe'
   if (/\bbeta\b/.test(m)) return 'Coupe'
+
+  // ── Recent imports (supplements 233–237) ──
+  if (/\btavascan\b|\bterramar\b/.test(m)) return 'SUV'          // Cupra
+  if (/\bg6\b|\bg9\b/.test(m)) return 'SUV'                       // Xpeng
+  if (/\bx9\b/.test(m)) return 'Van'                             // Xpeng X9 (MPV)
+  if (/\bs07\b|\be07\b/.test(m)) return 'SUV'                     // Deepal
+  if (/\bbe11\b/.test(m)) return 'SUV'                           // Skywell
+  if (/\bu5\b|\bu6\b/.test(m)) return 'SUV'                       // Aiways
+  if (/\bquartermaster\b/.test(m)) return 'Ute'                  // Ineos
+  if (/\bgrenadier\b/.test(m)) return 'SUV'                      // Ineos
+  if (/\bt9\b/.test(m)) return 'Ute'                             // JAC
+  if (/\btunland\b/.test(m)) return 'Ute'                        // Foton
+  if (/\bc5 aircross\b/.test(m)) return 'SUV'                     // Citroen
+  if (/\bberlingo\b/.test(m)) return 'Van'                       // Citroen
+  if (/\bc3\b|\bc4\b|\be-c4\b/.test(m)) return 'Hatch'            // Citroen
+  if (/\bjumbuck\b/.test(m)) return 'Ute'                        // Proton
+  if (/\bexora\b/.test(m)) return 'Van'                          // Proton
+  if (/\bsatria\b|\bgen-2\b|\bsuprima s\b/.test(m)) return 'Hatch' // Proton
+  if (/\be-hs9\b|\bhs5\b/.test(m)) return 'SUV'                   // Hongqi
+  if (/\bxenon\b/.test(m)) return 'Ute'                          // Tata
+  if (/\bdashing\b|\bt2\b/.test(m)) return 'SUV'                  // Jetour
+  if (/\bdreamer\b/.test(m)) return 'Van'                        // Voyah
+  if (/\bfree\b|\bcourage\b/.test(m)) return 'SUV'               // Voyah
+  if (m === '11') return 'SUV'                                   // Avatr 11 (12 = sedan)
+  if (/\bim6\b/.test(m)) return 'SUV'                            // IM Motors
+  if (/\btiggo 9\b/.test(m)) return 'SUV'                         // Chery (also caught by tiggo rule)
 
   return 'Sedan'
 }
