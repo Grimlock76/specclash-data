@@ -80420,5 +80420,107 @@
         "Premium"
       ]
     }
+  },
+  "Jetour": {
+    "Dashing": {
+      "2025": [
+        "Inspira",
+        "Vortex"
+      ],
+      "2026": [
+        "Inspira",
+        "Vortex"
+      ]
+    },
+    "T2": {
+      "2025": [
+        "Adventure"
+      ],
+      "2026": [
+        "Adventure"
+      ]
+    }
+  },
+  "Voyah": {
+    "Free": {
+      "2024": [
+        "EREV",
+        "EV"
+      ],
+      "2025": [
+        "EREV",
+        "EV"
+      ],
+      "2026": [
+        "EREV",
+        "EV"
+      ]
+    },
+    "Courage": {
+      "2025": [
+        "AWD"
+      ],
+      "2026": [
+        "AWD"
+      ]
+    },
+    "Dreamer": {
+      "2025": [
+        "EREV"
+      ],
+      "2026": [
+        "EREV"
+      ]
+    }
+  },
+  "Avatr": {
+    "11": {
+      "2025": [
+        "Dual Motor"
+      ],
+      "2026": [
+        "Dual Motor"
+      ]
+    },
+    "12": {
+      "2025": [
+        "Dual Motor"
+      ],
+      "2026": [
+        "Dual Motor"
+      ]
+    }
+  },
+  "Seres": {
+    "3": {
+      "2022": [
+        "Luxury"
+      ],
+      "2023": [
+        "Luxury"
+      ]
+    }
+  },
+  "IM Motors": {
+    "IM5": {
+      "2025": [
+        "Performance",
+        "RWD"
+      ],
+      "2026": [
+        "Performance",
+        "RWD"
+      ]
+    },
+    "IM6": {
+      "2025": [
+        "Performance",
+        "RWD"
+      ],
+      "2026": [
+        "Performance",
+        "RWD"
+      ]
+    }
   }
 }
