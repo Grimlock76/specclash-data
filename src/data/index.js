@@ -176,7 +176,7 @@ function estimateCurrentPrice(prStr, year, make = '', model = '', trim = '') {
   if (make === 'Holden' && /\bss\b/i.test(trim)) {
     const yr2 = parseInt(year)
     const isWagon = /sportwagon/i.test(trim)
-    if (model === 'Commodore Ute') {
+    if (/\bute\b/i.test(trim)) {
       collectible = 2.1                     // VE/VF SS utes — strong collector demand
     } else if (yr2 >= 2016 && !isWagon) {
       collectible = 1.65                    // final VF II sedans — last-of-line premium

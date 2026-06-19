@@ -1,7 +1,7 @@
 {
   "make": "Holden",
   "specs": {
-    "Commodore (VE)|2012|VE II SS": {
+    "Commodore|2012|VE II SS": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -22,7 +22,7 @@
       "pr": "~$44,990",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2011|VE II SS": {
+    "Commodore|2011|VE II SS": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -43,7 +43,7 @@
       "pr": "~$44,490",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2010|VE II SS": {
+    "Commodore|2010|VE II SS": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -64,7 +64,7 @@
       "pr": "~$44,000",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2012|VE II SV6": {
+    "Commodore|2012|VE II SV6": {
       "en": "LFX V6",
       "di": "3.6L",
       "cy": "6",
@@ -85,7 +85,7 @@
       "pr": "~$36,990",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2012|VE II Calais V": {
+    "Commodore|2012|VE II Calais V": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -106,7 +106,7 @@
       "pr": "~$58,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2017|VF II SS": {
+    "Commodore|2017|VF II SS": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -127,7 +127,7 @@
       "pr": "~$46,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2016|VF II SS": {
+    "Commodore|2016|VF II SS": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -148,7 +148,7 @@
       "pr": "~$46,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2015|VF II SS": {
+    "Commodore|2015|VF II SS": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -169,7 +169,7 @@
       "pr": "~$46,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2014|VF SS": {
+    "Commodore|2014|VF SS": {
       "en": "L77 V8",
       "di": "6.0L",
       "cy": "8",
@@ -190,7 +190,7 @@
       "pr": "~$47,490",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2013|VF SS": {
+    "Commodore|2013|VF SS": {
       "en": "L77 V8",
       "di": "6.0L",
       "cy": "8",
@@ -211,7 +211,7 @@
       "pr": "~$46,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2017|VF II SS V REDLINE": {
+    "Commodore|2017|VF II SS V REDLINE": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -232,7 +232,7 @@
       "pr": "~$58,690",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2016|VF II SS V REDLINE": {
+    "Commodore|2016|VF II SS V REDLINE": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -253,7 +253,7 @@
       "pr": "~$57,190",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2015|VF II SS V REDLINE": {
+    "Commodore|2015|VF II SS V REDLINE": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -274,7 +274,7 @@
       "pr": "~$55,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2017|VF II SV6": {
+    "Commodore|2017|VF II SV6": {
       "en": "LFX V6",
       "di": "3.6L",
       "cy": "6",
@@ -295,7 +295,7 @@
       "pr": "~$38,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2013|VF SV6": {
+    "Commodore|2013|VF SV6": {
       "en": "LFX V6",
       "di": "3.6L",
       "cy": "6",
@@ -316,7 +316,7 @@
       "pr": "~$38,000",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2013|VF Calais V": {
+    "Commodore|2013|VF Calais V": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -778,7 +778,7 @@
       "pr": "~$7,500",
       "aspiration": "NA"
     },
-    "Commodore Ute|2012|VE II Ute SS": {
+    "Commodore|2012|VE II Ute SS": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -799,7 +799,7 @@
       "pr": "~$46,990",
       "aspiration": "NA"
     },
-    "Commodore Ute|2013|VF Ute SS": {
+    "Commodore|2013|VF Ute SS": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -820,7 +820,7 @@
       "pr": "~$48,000",
       "aspiration": "NA"
     },
-    "Commodore (ZB)|2018|ZB VXR": {
+    "Commodore|2018|ZB VXR": {
       "en": "2.0L Turbo I4",
       "di": "2.0L",
       "cy": "4",
@@ -841,7 +841,7 @@
       "pr": "~$47,990",
       "aspiration": "Single-Turbo"
     },
-    "Commodore (ZB)|2019|ZB VXR": {
+    "Commodore|2019|ZB VXR": {
       "en": "2.0L Turbo I4",
       "di": "2.0L",
       "cy": "4",
@@ -862,7 +862,7 @@
       "pr": "~$48,490",
       "aspiration": "Single-Turbo"
     },
-    "Commodore (ZB)|2018|ZB Calais-V": {
+    "Commodore|2018|ZB Calais-V": {
       "en": "3.6L V6",
       "di": "3.6L",
       "cy": "6",
@@ -883,7 +883,7 @@
       "pr": "~$55,990",
       "aspiration": "NA"
     },
-    "Commodore (VZ)|2004|VZ SS": {
+    "Commodore|2004|VZ SS": {
       "en": "LS2 V8",
       "di": "6.0L",
       "cy": "8",
@@ -904,7 +904,7 @@
       "pr": "~$41,000",
       "aspiration": "NA"
     },
-    "Commodore (VZ)|2005|VZ SS": {
+    "Commodore|2005|VZ SS": {
       "en": "LS2 V8",
       "di": "6.0L",
       "cy": "8",
@@ -925,7 +925,7 @@
       "pr": "~$42,000",
       "aspiration": "NA"
     },
-    "Commodore (VZ)|2006|VZ SS": {
+    "Commodore|2006|VZ SS": {
       "en": "LS2 V8",
       "di": "6.0L",
       "cy": "8",
@@ -946,7 +946,7 @@
       "pr": "~$42,990",
       "aspiration": "NA"
     },
-    "Commodore (VT)|1997|VT SS": {
+    "Commodore|1997|VT SS": {
       "en": "LS1 V8",
       "di": "5.7L",
       "cy": "8",
@@ -967,7 +967,7 @@
       "pr": "~$38,000",
       "aspiration": "NA"
     },
-    "Commodore (VT)|1998|VT SS": {
+    "Commodore|1998|VT SS": {
       "en": "LS1 V8",
       "di": "5.7L",
       "cy": "8",
@@ -988,7 +988,7 @@
       "pr": "~$38,500",
       "aspiration": "NA"
     },
-    "Commodore (VX)|2000|VX SS": {
+    "Commodore|2000|VX SS": {
       "en": "LS1 V8",
       "di": "5.7L",
       "cy": "8",
@@ -1009,7 +1009,7 @@
       "pr": "~$40,000",
       "aspiration": "NA"
     },
-    "Commodore (VY)|2002|VY SS": {
+    "Commodore|2002|VY SS": {
       "en": "LS1 V8",
       "di": "5.7L",
       "cy": "8",
@@ -1030,7 +1030,7 @@
       "pr": "~$40,990",
       "aspiration": "NA"
     },
-    "Commodore (VL)|1988|VL Group A SS": {
+    "Commodore|1988|VL Group A SS": {
       "en": "RB30ET Turbo I6",
       "di": "3.0L",
       "cy": "6",
@@ -1051,7 +1051,7 @@
       "pr": "~$45,000",
       "aspiration": "Garrett Single-Turbo"
     },
-    "Commodore (VL)|1986|VL Calais Turbo": {
+    "Commodore|1986|VL Calais Turbo": {
       "en": "RB30ET Turbo I6",
       "di": "3.0L",
       "cy": "6",
@@ -1072,7 +1072,7 @@
       "pr": "~$28,000",
       "aspiration": "Garrett Single-Turbo"
     },
-    "Commodore (VN)|1988|VN SS": {
+    "Commodore|1988|VN SS": {
       "en": "5.0L V8",
       "di": "5.0L",
       "cy": "8",
@@ -1156,7 +1156,7 @@
       "pr": "~$3,695",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2006|VE SS": {
+    "Commodore|2006|VE SS": {
       "en": "L98 V8",
       "di": "6.0L",
       "cy": "8",
@@ -1177,7 +1177,7 @@
       "pr": "~$44,490",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2007|VE SS": {
+    "Commodore|2007|VE SS": {
       "en": "L98 V8",
       "di": "6.0L",
       "cy": "8",
@@ -1198,7 +1198,7 @@
       "pr": "~$44,990",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2008|VE SS": {
+    "Commodore|2008|VE SS": {
       "en": "L98 V8",
       "di": "6.0L",
       "cy": "8",
@@ -1219,7 +1219,7 @@
       "pr": "~$45,490",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2009|VE SS": {
+    "Commodore|2009|VE SS": {
       "en": "L98 V8",
       "di": "6.0L",
       "cy": "8",
@@ -1240,7 +1240,7 @@
       "pr": "~$45,990",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2006|VE Omega": {
+    "Commodore|2006|VE Omega": {
       "en": "LY7 Alloytec V6",
       "di": "3.6L",
       "cy": "6",
@@ -1261,7 +1261,7 @@
       "pr": "~$29,990",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2007|VE Omega": {
+    "Commodore|2007|VE Omega": {
       "en": "LY7 Alloytec V6",
       "di": "3.6L",
       "cy": "6",
@@ -1282,7 +1282,7 @@
       "pr": "~$30,490",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2008|VE Omega": {
+    "Commodore|2008|VE Omega": {
       "en": "LY7 Alloytec V6",
       "di": "3.6L",
       "cy": "6",
@@ -1303,7 +1303,7 @@
       "pr": "~$30,990",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2006|VE Calais V": {
+    "Commodore|2006|VE Calais V": {
       "en": "L98 V8",
       "di": "6.0L",
       "cy": "8",
@@ -1324,7 +1324,7 @@
       "pr": "~$54,490",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2007|VE Calais V": {
+    "Commodore|2007|VE Calais V": {
       "en": "L98 V8",
       "di": "6.0L",
       "cy": "8",
@@ -1345,7 +1345,7 @@
       "pr": "~$54,990",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2008|VE Calais V": {
+    "Commodore|2008|VE Calais V": {
       "en": "L98 V8",
       "di": "6.0L",
       "cy": "8",
@@ -1366,7 +1366,7 @@
       "pr": "~$55,490",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2009|VE Calais V": {
+    "Commodore|2009|VE Calais V": {
       "en": "L98 V8",
       "di": "6.0L",
       "cy": "8",
@@ -1387,7 +1387,7 @@
       "pr": "~$55,990",
       "aspiration": "NA"
     },
-    "Commodore (VT)|1999|VT II SS": {
+    "Commodore|1999|VT II SS": {
       "en": "Gen III LS1 V8",
       "di": "5.7L",
       "cy": "8",
@@ -1408,7 +1408,7 @@
       "pr": "~$39,990",
       "aspiration": "NA"
     },
-    "Commodore (VX)|2001|VX II SS": {
+    "Commodore|2001|VX II SS": {
       "en": "Gen III LS1 V8",
       "di": "5.7L",
       "cy": "8",
@@ -1429,7 +1429,7 @@
       "pr": "~$41,490",
       "aspiration": "NA"
     },
-    "Commodore (VY)|2003|VY II SS": {
+    "Commodore|2003|VY II SS": {
       "en": "Gen III LS1 V8",
       "di": "5.7L",
       "cy": "8",
@@ -1450,7 +1450,7 @@
       "pr": "~$42,490",
       "aspiration": "NA"
     },
-    "Commodore (VY)|2003|VY II SV8": {
+    "Commodore|2003|VY II SV8": {
       "en": "Gen III LS1 V8",
       "di": "5.7L",
       "cy": "8",
@@ -1471,7 +1471,7 @@
       "pr": "~$43,490",
       "aspiration": "NA"
     },
-    "Commodore (VY)|2002|VY SV6": {
+    "Commodore|2002|VY SV6": {
       "en": "LY7 Alloytec V6",
       "di": "3.6L",
       "cy": "6",
@@ -1492,7 +1492,7 @@
       "pr": "~$33,490",
       "aspiration": "NA"
     },
-    "Commodore (VZ)|2006|VZ SV8": {
+    "Commodore|2006|VZ SV8": {
       "en": "Gen III LS2 V8",
       "di": "6.0L",
       "cy": "8",
@@ -1513,7 +1513,7 @@
       "pr": "~$43,990",
       "aspiration": "NA"
     },
-    "Commodore (VS)|1996|VS SS": {
+    "Commodore|1996|VS SS": {
       "en": "5.0L Holden V8",
       "di": "5.0L",
       "cy": "8",
@@ -1534,7 +1534,7 @@
       "pr": "~$35,490",
       "aspiration": "NA"
     },
-    "Commodore (VS)|1997|VS SS": {
+    "Commodore|1997|VS SS": {
       "en": "5.0L Holden V8",
       "di": "5.0L",
       "cy": "8",
@@ -1555,7 +1555,7 @@
       "pr": "~$35,990",
       "aspiration": "NA"
     },
-    "Commodore (VR)|1994|VR SS": {
+    "Commodore|1994|VR SS": {
       "en": "5.0L Holden V8",
       "di": "5.0L",
       "cy": "8",
@@ -1576,7 +1576,7 @@
       "pr": "~$32,990",
       "aspiration": "NA"
     },
-    "Commodore (VR)|1995|VR SS": {
+    "Commodore|1995|VR SS": {
       "en": "5.0L Holden V8",
       "di": "5.0L",
       "cy": "8",
@@ -1597,7 +1597,7 @@
       "pr": "~$33,490",
       "aspiration": "NA"
     },
-    "Commodore (VN)|1989|VN SS": {
+    "Commodore|1989|VN SS": {
       "en": "5.0L Holden V8",
       "di": "5.0L",
       "cy": "8",
@@ -1618,7 +1618,7 @@
       "pr": "~$30,990",
       "aspiration": "NA"
     },
-    "Commodore (VP)|1991|VP SS": {
+    "Commodore|1991|VP SS": {
       "en": "5.0L Holden V8",
       "di": "5.0L",
       "cy": "8",
@@ -1639,7 +1639,7 @@
       "pr": "~$28,990",
       "aspiration": "NA"
     },
-    "Commodore (VP)|1992|VP SS": {
+    "Commodore|1992|VP SS": {
       "en": "5.0L Holden V8",
       "di": "5.0L",
       "cy": "8",
@@ -1660,7 +1660,7 @@
       "pr": "~$29,490",
       "aspiration": "NA"
     },
-    "Commodore (VL)|1987|VL SS": {
+    "Commodore|1987|VL SS": {
       "en": "RB30E I6",
       "di": "3.0L",
       "cy": "6",
@@ -1681,7 +1681,7 @@
       "pr": "~$19,990",
       "aspiration": "NA"
     },
-    "Commodore (VL)|1987|VL Calais Turbo": {
+    "Commodore|1987|VL Calais Turbo": {
       "en": "RB30ET Turbo I6",
       "di": "3.0L",
       "cy": "6",
@@ -1807,7 +1807,7 @@
       "pr": "~$80,990",
       "aspiration": "NA"
     },
-    "Commodore Ute|2007|VE Ute SV6": {
+    "Commodore|2007|VE Ute SV6": {
       "en": "LY7 Alloytec V6",
       "di": "3.6L",
       "cy": "6",
@@ -1828,7 +1828,7 @@
       "pr": "~$35,990",
       "aspiration": "NA"
     },
-    "Commodore Ute|2010|VE II Ute SV6": {
+    "Commodore|2010|VE II Ute SV6": {
       "en": "LFX V6",
       "di": "3.6L",
       "cy": "6",
@@ -1849,7 +1849,7 @@
       "pr": "~$38,490",
       "aspiration": "NA"
     },
-    "Commodore Ute|2004|VZ Ute SS": {
+    "Commodore|2004|VZ Ute SS": {
       "en": "Gen III LS2 V8",
       "di": "6.0L",
       "cy": "8",
@@ -2332,7 +2332,7 @@
       "pr": "~$4,800",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2006|VE Berlina": {
+    "Commodore|2006|VE Berlina": {
       "en": "LY7 Alloytec V6",
       "di": "3.6L",
       "cy": "6",
@@ -2353,7 +2353,7 @@
       "pr": "~$36,490",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2007|VE Berlina": {
+    "Commodore|2007|VE Berlina": {
       "en": "LY7 Alloytec V6",
       "di": "3.6L",
       "cy": "6",
@@ -2374,7 +2374,7 @@
       "pr": "~$36,990",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2008|VE Berlina": {
+    "Commodore|2008|VE Berlina": {
       "en": "LY7 Alloytec V6",
       "di": "3.6L",
       "cy": "6",
@@ -2395,7 +2395,7 @@
       "pr": "~$37,490",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2009|VE Berlina": {
+    "Commodore|2009|VE Berlina": {
       "en": "LY7 Alloytec V6",
       "di": "3.6L",
       "cy": "6",
@@ -2416,7 +2416,7 @@
       "pr": "~$37,990",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2010|VE II Omega": {
+    "Commodore|2010|VE II Omega": {
       "en": "LF1 SIDI V6",
       "di": "3.0L",
       "cy": "6",
@@ -2437,7 +2437,7 @@
       "pr": "~$32,490",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2011|VE II Omega": {
+    "Commodore|2011|VE II Omega": {
       "en": "LF1 SIDI V6",
       "di": "3.0L",
       "cy": "6",
@@ -2458,7 +2458,7 @@
       "pr": "~$32,990",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2012|VE II Omega": {
+    "Commodore|2012|VE II Omega": {
       "en": "LF1 SIDI V6",
       "di": "3.0L",
       "cy": "6",
@@ -2479,7 +2479,7 @@
       "pr": "~$33,490",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2010|VE II Berlina": {
+    "Commodore|2010|VE II Berlina": {
       "en": "LF1 SIDI V6",
       "di": "3.0L",
       "cy": "6",
@@ -2500,7 +2500,7 @@
       "pr": "~$36,490",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2011|VE II Berlina": {
+    "Commodore|2011|VE II Berlina": {
       "en": "LF1 SIDI V6",
       "di": "3.0L",
       "cy": "6",
@@ -2521,7 +2521,7 @@
       "pr": "~$36,990",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2012|VE II Berlina": {
+    "Commodore|2012|VE II Berlina": {
       "en": "LF1 SIDI V6",
       "di": "3.0L",
       "cy": "6",
@@ -2542,7 +2542,7 @@
       "pr": "~$37,490",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2010|VE II Calais": {
+    "Commodore|2010|VE II Calais": {
       "en": "LFX SIDI V6",
       "di": "3.6L",
       "cy": "6",
@@ -2563,7 +2563,7 @@
       "pr": "~$45,490",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2011|VE II Calais": {
+    "Commodore|2011|VE II Calais": {
       "en": "LFX SIDI V6",
       "di": "3.6L",
       "cy": "6",
@@ -2584,7 +2584,7 @@
       "pr": "~$45,990",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2012|VE II Calais": {
+    "Commodore|2012|VE II Calais": {
       "en": "LFX SIDI V6",
       "di": "3.6L",
       "cy": "6",
@@ -2605,7 +2605,7 @@
       "pr": "~$46,490",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2013|VF Evoke": {
+    "Commodore|2013|VF Evoke": {
       "en": "LF1 SIDI V6",
       "di": "3.0L",
       "cy": "6",
@@ -2626,7 +2626,7 @@
       "pr": "~$33,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2014|VF Evoke": {
+    "Commodore|2014|VF Evoke": {
       "en": "LF1 SIDI V6",
       "di": "3.0L",
       "cy": "6",
@@ -2647,7 +2647,7 @@
       "pr": "~$34,490",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2013|VF Equipe": {
+    "Commodore|2013|VF Equipe": {
       "en": "LF1 SIDI V6",
       "di": "3.0L",
       "cy": "6",
@@ -2668,7 +2668,7 @@
       "pr": "~$36,490",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2013|VF Calais": {
+    "Commodore|2013|VF Calais": {
       "en": "LFX SIDI V6",
       "di": "3.6L",
       "cy": "6",
@@ -2689,7 +2689,7 @@
       "pr": "~$50,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2014|VF Calais": {
+    "Commodore|2014|VF Calais": {
       "en": "LFX SIDI V6",
       "di": "3.6L",
       "cy": "6",
@@ -2710,7 +2710,7 @@
       "pr": "~$51,490",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2015|VF II Calais": {
+    "Commodore|2015|VF II Calais": {
       "en": "LFX SIDI V6",
       "di": "3.6L",
       "cy": "6",
@@ -2731,7 +2731,7 @@
       "pr": "~$51,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2015|VF II Calais V": {
+    "Commodore|2015|VF II Calais V": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -2752,7 +2752,7 @@
       "pr": "~$59,490",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2016|VF II Calais V": {
+    "Commodore|2016|VF II Calais V": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -2773,7 +2773,7 @@
       "pr": "~$59,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2017|VF II Calais V": {
+    "Commodore|2017|VF II Calais V": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -2794,7 +2794,7 @@
       "pr": "~$59,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2015|VF II SV6": {
+    "Commodore|2015|VF II SV6": {
       "en": "LFX SIDI V6",
       "di": "3.6L",
       "cy": "6",
@@ -2815,7 +2815,7 @@
       "pr": "~$38,490",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2016|VF II SV6": {
+    "Commodore|2016|VF II SV6": {
       "en": "LFX SIDI V6",
       "di": "3.6L",
       "cy": "6",
@@ -2836,7 +2836,7 @@
       "pr": "~$38,490",
       "aspiration": "NA"
     },
-    "Commodore (ZB)|2018|ZB RS-V": {
+    "Commodore|2018|ZB RS-V": {
       "en": "2.0L Turbo I4",
       "di": "2.0L",
       "cy": "4",
@@ -2857,7 +2857,7 @@
       "pr": "~$42,490",
       "aspiration": "Single-Turbo"
     },
-    "Commodore (ZB)|2019|ZB RS-V": {
+    "Commodore|2019|ZB RS-V": {
       "en": "2.0L Turbo I4",
       "di": "2.0L",
       "cy": "4",
@@ -2878,7 +2878,7 @@
       "pr": "~$42,990",
       "aspiration": "Single-Turbo"
     },
-    "Commodore (ZB)|2018|ZB LT": {
+    "Commodore|2018|ZB LT": {
       "en": "1.5L Turbo I3",
       "di": "1.5L",
       "cy": "3",
@@ -2899,7 +2899,7 @@
       "pr": "~$30,490",
       "aspiration": "Single-Turbo"
     },
-    "Commodore (ZB)|2019|ZB LT": {
+    "Commodore|2019|ZB LT": {
       "en": "1.5L Turbo I3",
       "di": "1.5L",
       "cy": "3",
@@ -2920,7 +2920,7 @@
       "pr": "~$30,990",
       "aspiration": "Single-Turbo"
     },
-    "Commodore (ZB)|2018|ZB RS": {
+    "Commodore|2018|ZB RS": {
       "en": "1.5L Turbo I3",
       "di": "1.5L",
       "cy": "3",
@@ -2941,7 +2941,7 @@
       "pr": "~$35,490",
       "aspiration": "Single-Turbo"
     },
-    "Commodore (ZB)|2019|ZB RS": {
+    "Commodore|2019|ZB RS": {
       "en": "1.5L Turbo I3",
       "di": "1.5L",
       "cy": "3",
@@ -2962,7 +2962,7 @@
       "pr": "~$35,990",
       "aspiration": "Single-Turbo"
     },
-    "Commodore (ZB)|2018|ZB Calais": {
+    "Commodore|2018|ZB Calais": {
       "en": "2.0L Turbo I4",
       "di": "2.0L",
       "cy": "4",
@@ -2983,7 +2983,7 @@
       "pr": "~$48,490",
       "aspiration": "Single-Turbo"
     },
-    "Commodore (ZB)|2019|ZB Calais": {
+    "Commodore|2019|ZB Calais": {
       "en": "2.0L Turbo I4",
       "di": "2.0L",
       "cy": "4",
@@ -3004,7 +3004,7 @@
       "pr": "~$48,990",
       "aspiration": "Single-Turbo"
     },
-    "Commodore (VT)|1997|VT Executive": {
+    "Commodore|1997|VT Executive": {
       "en": "Ecotec V6",
       "di": "3.8L",
       "cy": "6",
@@ -3025,7 +3025,7 @@
       "pr": "~$28,990",
       "aspiration": "NA"
     },
-    "Commodore (VT)|1997|VT Calais": {
+    "Commodore|1997|VT Calais": {
       "en": "Ecotec SC V6",
       "di": "3.8L",
       "cy": "6",
@@ -3046,7 +3046,7 @@
       "pr": "~$34,990",
       "aspiration": "Eaton M90 Supercharged"
     },
-    "Commodore (VX)|2000|VX Executive": {
+    "Commodore|2000|VX Executive": {
       "en": "Ecotec V6",
       "di": "3.8L",
       "cy": "6",
@@ -3067,7 +3067,7 @@
       "pr": "~$29,990",
       "aspiration": "NA"
     },
-    "Commodore (VX)|2000|VX Calais": {
+    "Commodore|2000|VX Calais": {
       "en": "Ecotec SC V6",
       "di": "3.8L",
       "cy": "6",
@@ -3088,7 +3088,7 @@
       "pr": "~$36,990",
       "aspiration": "Eaton M90 Supercharged"
     },
-    "Commodore Ute|2013|VF Ute SV6": {
+    "Commodore|2013|VF Ute SV6": {
       "en": "LFX SIDI V6",
       "di": "3.6L",
       "cy": "6",
@@ -3109,7 +3109,7 @@
       "pr": "~$40,990",
       "aspiration": "NA"
     },
-    "Commodore Ute|2009|VE Ute SS": {
+    "Commodore|2009|VE Ute SS": {
       "en": "L98 V8",
       "di": "6.0L",
       "cy": "8",
@@ -3130,7 +3130,7 @@
       "pr": "~$44,990",
       "aspiration": "NA"
     },
-    "Commodore Ute|2011|VE II Ute SS STORM": {
+    "Commodore|2011|VE II Ute SS STORM": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -3151,7 +3151,7 @@
       "pr": "~$55,990",
       "aspiration": "NA"
     },
-    "Commodore Ute|2013|VF Ute SS STORM": {
+    "Commodore|2013|VF Ute SS STORM": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -4138,7 +4138,7 @@
       "pr": "~$7,195",
       "aspiration": "NA"
     },
-    "Commodore (VC)|1980|VC SL": {
+    "Commodore|1980|VC SL": {
       "en": "202ci I6",
       "di": "3.3L",
       "cy": "6",
@@ -4159,7 +4159,7 @@
       "pr": "~$6,895",
       "aspiration": "NA"
     },
-    "Commodore (VC)|1980|VC Berlina": {
+    "Commodore|1980|VC Berlina": {
       "en": "202ci I6",
       "di": "3.3L",
       "cy": "6",
@@ -4180,7 +4180,7 @@
       "pr": "~$8,195",
       "aspiration": "NA"
     },
-    "Commodore (VH)|1982|VH SS": {
+    "Commodore|1982|VH SS": {
       "en": "308ci Holden V8",
       "di": "5.0L",
       "cy": "8",
@@ -4201,7 +4201,7 @@
       "pr": "~$12,995",
       "aspiration": "NA"
     },
-    "Commodore (VH)|1983|VH Brock HDT": {
+    "Commodore|1983|VH Brock HDT": {
       "en": "308ci Holden V8",
       "di": "5.0L",
       "cy": "8",
@@ -4222,7 +4222,7 @@
       "pr": "~$19,995",
       "aspiration": "NA"
     },
-    "Commodore (VK)|1984|VK SS": {
+    "Commodore|1984|VK SS": {
       "en": "308ci Holden V8",
       "di": "5.0L",
       "cy": "8",
@@ -4243,7 +4243,7 @@
       "pr": "~$14,995",
       "aspiration": "NA"
     },
-    "Commodore (VK)|1984|VK Brock HDT": {
+    "Commodore|1984|VK Brock HDT": {
       "en": "308ci Holden V8",
       "di": "5.0L",
       "cy": "8",
@@ -4264,7 +4264,7 @@
       "pr": "~$21,995",
       "aspiration": "NA"
     },
-    "Commodore (VN)|1988|VN SSE": {
+    "Commodore|1988|VN SSE": {
       "en": "3.8L V6 Supercharged",
       "di": "3.8L",
       "cy": "6",
@@ -4285,7 +4285,7 @@
       "pr": "~$34,990",
       "aspiration": "Eaton M90 Supercharged"
     },
-    "Commodore (VN)|1990|VN SSE": {
+    "Commodore|1990|VN SSE": {
       "en": "3.8L V6 Supercharged",
       "di": "3.8L",
       "cy": "6",
@@ -4306,7 +4306,7 @@
       "pr": "~$35,990",
       "aspiration": "Eaton M90 Supercharged"
     },
-    "Commodore (VP)|1993|VP S Pack": {
+    "Commodore|1993|VP S Pack": {
       "en": "3.8L Ecotec V6",
       "di": "3.8L",
       "cy": "6",
@@ -4327,7 +4327,7 @@
       "pr": "~$30,990",
       "aspiration": "NA"
     },
-    "Commodore (VT)|1997|VT Berlina": {
+    "Commodore|1997|VT Berlina": {
       "en": "Ecotec V6",
       "di": "3.8L",
       "cy": "6",
@@ -4348,7 +4348,7 @@
       "pr": "~$31,990",
       "aspiration": "NA"
     },
-    "Commodore (VX)|2001|VX II Berlina": {
+    "Commodore|2001|VX II Berlina": {
       "en": "Ecotec V6",
       "di": "3.8L",
       "cy": "6",
@@ -4369,7 +4369,7 @@
       "pr": "~$33,990",
       "aspiration": "NA"
     },
-    "Commodore (VY)|2002|VY Executive": {
+    "Commodore|2002|VY Executive": {
       "en": "Ecotec V6",
       "di": "3.8L",
       "cy": "6",
@@ -4390,7 +4390,7 @@
       "pr": "~$29,990",
       "aspiration": "NA"
     },
-    "Commodore (VY)|2002|VY Berlina": {
+    "Commodore|2002|VY Berlina": {
       "en": "Ecotec V6",
       "di": "3.8L",
       "cy": "6",
@@ -4411,7 +4411,7 @@
       "pr": "~$33,490",
       "aspiration": "NA"
     },
-    "Commodore (VY)|2002|VY Calais": {
+    "Commodore|2002|VY Calais": {
       "en": "Ecotec SC V6",
       "di": "3.8L",
       "cy": "6",
@@ -4432,7 +4432,7 @@
       "pr": "~$38,490",
       "aspiration": "Eaton M90 Supercharged"
     },
-    "Commodore (VZ)|2004|VZ Executive": {
+    "Commodore|2004|VZ Executive": {
       "en": "LY7 Alloytec V6",
       "di": "3.6L",
       "cy": "6",
@@ -4453,7 +4453,7 @@
       "pr": "~$29,490",
       "aspiration": "NA"
     },
-    "Commodore (VZ)|2004|VZ Berlina": {
+    "Commodore|2004|VZ Berlina": {
       "en": "LY7 Alloytec V6",
       "di": "3.6L",
       "cy": "6",
@@ -4474,7 +4474,7 @@
       "pr": "~$33,490",
       "aspiration": "NA"
     },
-    "Commodore (VZ)|2004|VZ Calais": {
+    "Commodore|2004|VZ Calais": {
       "en": "LY7 Alloytec V6",
       "di": "3.6L",
       "cy": "6",
@@ -4663,7 +4663,7 @@
       "pr": "~$66,990",
       "aspiration": "NA"
     },
-    "Commodore Ute|2002|VY Ute SS": {
+    "Commodore|2002|VY Ute SS": {
       "en": "Gen III LS1 V8",
       "di": "5.7L",
       "cy": "8",
@@ -4684,7 +4684,7 @@
       "pr": "~$38,490",
       "aspiration": "NA"
     },
-    "Commodore Ute|2000|VU Ute SS": {
+    "Commodore|2000|VU Ute SS": {
       "en": "Gen III LS1 V8",
       "di": "5.7L",
       "cy": "8",
@@ -4705,7 +4705,7 @@
       "pr": "~$36,990",
       "aspiration": "NA"
     },
-    "Commodore Ute|2004|VZ Ute SV6": {
+    "Commodore|2004|VZ Ute SV6": {
       "en": "LY7 Alloytec V6",
       "di": "3.6L",
       "cy": "6",
@@ -5020,7 +5020,7 @@
       "pr": "~$7,195",
       "aspiration": "NA"
     },
-    "Commodore (VC)|1981|VC SL": {
+    "Commodore|1981|VC SL": {
       "en": "202ci I6",
       "di": "3.3L",
       "cy": "6",
@@ -5041,7 +5041,7 @@
       "pr": "~$8,495",
       "aspiration": "NA"
     },
-    "Commodore (VH)|1981|VH SL": {
+    "Commodore|1981|VH SL": {
       "en": "202ci I6",
       "di": "3.3L",
       "cy": "6",
@@ -5062,7 +5062,7 @@
       "pr": "~$9,495",
       "aspiration": "NA"
     },
-    "Commodore (VK)|1985|VK SS": {
+    "Commodore|1985|VK SS": {
       "en": "308ci Holden V8",
       "di": "5.0L",
       "cy": "8",
@@ -5083,7 +5083,7 @@
       "pr": "~$16,495",
       "aspiration": "NA"
     },
-    "Commodore (VK)|1986|VK SS": {
+    "Commodore|1986|VK SS": {
       "en": "308ci Holden V8",
       "di": "5.0L",
       "cy": "8",
@@ -5104,7 +5104,7 @@
       "pr": "~$17,495",
       "aspiration": "NA"
     },
-    "Commodore (VR)|1993|VR Executive": {
+    "Commodore|1993|VR Executive": {
       "en": "Ecotec V6",
       "di": "3.8L",
       "cy": "6",
@@ -5125,7 +5125,7 @@
       "pr": "~$25,990",
       "aspiration": "NA"
     },
-    "Commodore (VS)|1995|VS Executive": {
+    "Commodore|1995|VS Executive": {
       "en": "Ecotec V6",
       "di": "3.8L",
       "cy": "6",
@@ -5146,7 +5146,7 @@
       "pr": "~$27,490",
       "aspiration": "NA"
     },
-    "Commodore (ZB)|2020|ZB LT": {
+    "Commodore|2020|ZB LT": {
       "en": "1.5L Turbo I3",
       "di": "1.5L",
       "cy": "3",
@@ -5167,7 +5167,7 @@
       "pr": "~$28,990",
       "aspiration": "Single-Turbo"
     },
-    "Commodore (ZB)|2020|ZB RS": {
+    "Commodore|2020|ZB RS": {
       "en": "1.5L Turbo I3",
       "di": "1.5L",
       "cy": "3",
@@ -6385,7 +6385,7 @@
       "pr": "~$83,990",
       "aspiration": "NA"
     },
-    "Commodore Ute|1990|VN Ute SL": {
+    "Commodore|1990|VN Ute SL": {
       "en": "3.8L Buick V6",
       "di": "3.8L",
       "cy": "6",
@@ -6406,7 +6406,7 @@
       "pr": "~$22,990",
       "aspiration": "NA"
     },
-    "Commodore Ute|1990|VN Ute SS": {
+    "Commodore|1990|VN Ute SS": {
       "en": "5.0L Holden V8",
       "di": "5.0L",
       "cy": "8",
@@ -6427,7 +6427,7 @@
       "pr": "~$26,990",
       "aspiration": "NA"
     },
-    "Commodore Ute|1991|VP Ute SS": {
+    "Commodore|1991|VP Ute SS": {
       "en": "5.0L Holden V8",
       "di": "5.0L",
       "cy": "8",
@@ -6448,7 +6448,7 @@
       "pr": "~$27,990",
       "aspiration": "NA"
     },
-    "Commodore Ute|1992|VP Ute SS": {
+    "Commodore|1992|VP Ute SS": {
       "en": "5.0L Holden V8",
       "di": "5.0L",
       "cy": "8",
@@ -6469,7 +6469,7 @@
       "pr": "~$28,490",
       "aspiration": "NA"
     },
-    "Commodore Ute|1993|VR Ute S": {
+    "Commodore|1993|VR Ute S": {
       "en": "3.8L Ecotec V6",
       "di": "3.8L",
       "cy": "6",
@@ -6490,7 +6490,7 @@
       "pr": "~$24,990",
       "aspiration": "NA"
     },
-    "Commodore Ute|1994|VR Ute SS": {
+    "Commodore|1994|VR Ute SS": {
       "en": "5.0L Holden V8",
       "di": "5.0L",
       "cy": "8",
@@ -6511,7 +6511,7 @@
       "pr": "~$29,990",
       "aspiration": "NA"
     },
-    "Commodore Ute|1995|VS Ute S": {
+    "Commodore|1995|VS Ute S": {
       "en": "3.8L Ecotec V6",
       "di": "3.8L",
       "cy": "6",
@@ -6532,7 +6532,7 @@
       "pr": "~$25,490",
       "aspiration": "NA"
     },
-    "Commodore Ute|1996|VS Ute SS": {
+    "Commodore|1996|VS Ute SS": {
       "en": "5.0L Holden V8",
       "di": "5.0L",
       "cy": "8",
@@ -6553,7 +6553,7 @@
       "pr": "~$30,490",
       "aspiration": "NA"
     },
-    "Commodore Ute|1997|VS Ute SS": {
+    "Commodore|1997|VS Ute SS": {
       "en": "5.0L Holden V8",
       "di": "5.0L",
       "cy": "8",
@@ -6574,7 +6574,7 @@
       "pr": "~$31,490",
       "aspiration": "NA"
     },
-    "Commodore Ute|2001|VU Ute SV6": {
+    "Commodore|2001|VU Ute SV6": {
       "en": "LY7 Alloytec V6",
       "di": "3.6L",
       "cy": "6",
@@ -6595,7 +6595,7 @@
       "pr": "~$33,990",
       "aspiration": "NA"
     },
-    "Commodore Ute|2003|VY Ute SV6": {
+    "Commodore|2003|VY Ute SV6": {
       "en": "LY7 Alloytec V6",
       "di": "3.6L",
       "cy": "6",
@@ -6616,7 +6616,7 @@
       "pr": "~$34,490",
       "aspiration": "NA"
     },
-    "Commodore Ute|2005|VZ Ute S": {
+    "Commodore|2005|VZ Ute S": {
       "en": "LY7 Alloytec V6",
       "di": "3.6L",
       "cy": "6",
@@ -6637,7 +6637,7 @@
       "pr": "~$30,990",
       "aspiration": "NA"
     },
-    "Commodore Ute|2006|VZ Ute S": {
+    "Commodore|2006|VZ Ute S": {
       "en": "LY7 Alloytec V6",
       "di": "3.6L",
       "cy": "6",
@@ -6658,7 +6658,7 @@
       "pr": "~$31,990",
       "aspiration": "NA"
     },
-    "Commodore Ute|2008|VE Ute Omega": {
+    "Commodore|2008|VE Ute Omega": {
       "en": "LY7 Alloytec V6",
       "di": "3.6L",
       "cy": "6",
@@ -6679,7 +6679,7 @@
       "pr": "~$33,990",
       "aspiration": "NA"
     },
-    "Commodore (VB)|1978|VB SL": {
+    "Commodore|1978|VB SL": {
       "en": "202ci I6",
       "di": "3.3L",
       "cy": "6",
@@ -6700,7 +6700,7 @@
       "pr": "~$6,299",
       "aspiration": "NA"
     },
-    "Commodore (VB)|1979|VB SL": {
+    "Commodore|1979|VB SL": {
       "en": "202ci I6",
       "di": "3.3L",
       "cy": "6",
@@ -6721,7 +6721,7 @@
       "pr": "~$6,899",
       "aspiration": "NA"
     },
-    "Commodore (VB)|1980|VB Executive": {
+    "Commodore|1980|VB Executive": {
       "en": "202ci I6",
       "di": "3.3L",
       "cy": "6",
@@ -7330,7 +7330,7 @@
       "pr": "~$79,000",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2010|VE II Sportwagon SV6": {
+    "Commodore|2010|VE II Sportwagon SV6": {
       "en": "LFX V6",
       "di": "3.6L",
       "cy": "6",
@@ -7351,7 +7351,7 @@
       "pr": "~$42,290",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2011|VE II Sportwagon SV6": {
+    "Commodore|2011|VE II Sportwagon SV6": {
       "en": "LFX V6",
       "di": "3.6L",
       "cy": "6",
@@ -7372,7 +7372,7 @@
       "pr": "~$43,290",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2012|VE II Sportwagon SV6": {
+    "Commodore|2012|VE II Sportwagon SV6": {
       "en": "LFX V6",
       "di": "3.6L",
       "cy": "6",
@@ -7393,7 +7393,7 @@
       "pr": "~$43,990",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2010|VE II Sportwagon SS": {
+    "Commodore|2010|VE II Sportwagon SS": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -7414,7 +7414,7 @@
       "pr": "~$53,990",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2011|VE II Sportwagon SS": {
+    "Commodore|2011|VE II Sportwagon SS": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -7435,7 +7435,7 @@
       "pr": "~$54,990",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2012|VE II Sportwagon SS": {
+    "Commodore|2012|VE II Sportwagon SS": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -7456,7 +7456,7 @@
       "pr": "~$55,490",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2015|VF II Sportwagon SV6": {
+    "Commodore|2015|VF II Sportwagon SV6": {
       "en": "LFX SIDI V6",
       "di": "3.6L",
       "cy": "6",
@@ -7477,7 +7477,7 @@
       "pr": "~$42,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2016|VF II Sportwagon SV6": {
+    "Commodore|2016|VF II Sportwagon SV6": {
       "en": "LFX SIDI V6",
       "di": "3.6L",
       "cy": "6",
@@ -7498,7 +7498,7 @@
       "pr": "~$43,490",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2017|VF II Sportwagon SV6": {
+    "Commodore|2017|VF II Sportwagon SV6": {
       "en": "LFX SIDI V6",
       "di": "3.6L",
       "cy": "6",
@@ -7519,7 +7519,7 @@
       "pr": "~$43,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2015|VF II Sportwagon SS": {
+    "Commodore|2015|VF II Sportwagon SS": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -7540,7 +7540,7 @@
       "pr": "~$51,490",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2016|VF II Sportwagon SS": {
+    "Commodore|2016|VF II Sportwagon SS": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -7561,7 +7561,7 @@
       "pr": "~$51,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2017|VF II Sportwagon SS": {
+    "Commodore|2017|VF II Sportwagon SS": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -7582,7 +7582,7 @@
       "pr": "~$52,490",
       "aspiration": "NA"
     },
-    "Commodore (VE)|2009|VE Sportwagon Storm": {
+    "Commodore|2009|VE Sportwagon Storm": {
       "en": "LY7 Alloytec V6",
       "di": "3.6L",
       "cy": "6",
@@ -7603,7 +7603,7 @@
       "pr": "~$43,490",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2013|VF Sportwagon Storm": {
+    "Commodore|2013|VF Sportwagon Storm": {
       "en": "LFX V6",
       "di": "3.6L",
       "cy": "6",
@@ -7624,7 +7624,7 @@
       "pr": "~$43,490",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2014|VF Sportwagon Storm": {
+    "Commodore|2014|VF Sportwagon Storm": {
       "en": "LFX V6",
       "di": "3.6L",
       "cy": "6",
@@ -7645,7 +7645,7 @@
       "pr": "~$43,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2015|VF II Sportwagon SS V Redline": {
+    "Commodore|2015|VF II Sportwagon SS V Redline": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -7666,7 +7666,7 @@
       "pr": "~$58,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2016|VF II Sportwagon SS V Redline": {
+    "Commodore|2016|VF II Sportwagon SS V Redline": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -7687,7 +7687,7 @@
       "pr": "~$58,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2017|VF II Sportwagon SS V Redline": {
+    "Commodore|2017|VF II Sportwagon SS V Redline": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -7708,7 +7708,7 @@
       "pr": "~$59,490",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2014|VF Sportwagon SS Black": {
+    "Commodore|2014|VF Sportwagon SS Black": {
       "en": "L77 V8",
       "di": "6.0L",
       "cy": "8",
@@ -7729,7 +7729,7 @@
       "pr": "~$55,490",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2016|VF II Sportwagon SS Black": {
+    "Commodore|2016|VF II Sportwagon SS Black": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -7750,7 +7750,7 @@
       "pr": "~$55,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2017|VF II Sportwagon SS Black": {
+    "Commodore|2017|VF II Sportwagon SS Black": {
       "en": "LS3 V8",
       "di": "6.2L",
       "cy": "8",
@@ -7771,7 +7771,7 @@
       "pr": "~$55,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2014|VF Sportwagon SV6 Black": {
+    "Commodore|2014|VF Sportwagon SV6 Black": {
       "en": "LFX SIDI V6",
       "di": "3.6L",
       "cy": "6",
@@ -7792,7 +7792,7 @@
       "pr": "~$46,490",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2016|VF II Sportwagon SV6 Black": {
+    "Commodore|2016|VF II Sportwagon SV6 Black": {
       "en": "LFX SIDI V6",
       "di": "3.6L",
       "cy": "6",
@@ -7813,7 +7813,7 @@
       "pr": "~$46,990",
       "aspiration": "NA"
     },
-    "Commodore (VF)|2017|VF II Sportwagon SV6 Black": {
+    "Commodore|2017|VF II Sportwagon SV6 Black": {
       "en": "LFX SIDI V6",
       "di": "3.6L",
       "cy": "6",
