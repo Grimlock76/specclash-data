@@ -33,6 +33,14 @@ export default function Slot({ index, initial, onResult, onClear }) {
       )
     : []
 
+  // Body types this specific car actually comes in (Camaro → Coupe; Commodore → Sedan/Wagon).
+  // Before a model is picked, fall back to all types so it can still pre-filter the search.
+  const modelBodies = make && model
+    ? BODY_TYPES.filter(bt => bt !== 'All' &&
+        Object.values(MAKES[make]?.[model] || {}).some(ts => ts.some(t => getBodyType(model, t) === bt)))
+    : BODY_TYPES.filter(bt => bt !== 'All')
+  const bodyOptions = ['All', ...modelBodies]
+
   useEffect(() => {
     if (!initial?.make || !initial?.model || !initial?.year || !initial?.trim) return
     let cancelled = false
@@ -100,7 +108,7 @@ export default function Slot({ index, initial, onResult, onClear }) {
       />
 
       <select value={bodyType} onChange={e => { setBodyType(e.target.value); setYear(''); setTrim(''); setErr(''); setOk(false); onClear(index) }} style={sel}>
-        {BODY_TYPES.map(bt => <option key={bt} value={bt}>{BODY_LABELS[bt]}</option>)}
+        {bodyOptions.map(bt => <option key={bt} value={bt}>{BODY_LABELS[bt]}</option>)}
       </select>
 
       <select value={year} onChange={e => { setYear(e.target.value); setTrim(''); setErr(''); setOk(false); onClear(index) }} style={sel}>
