@@ -32,18 +32,21 @@ const cache = Object.assign({},
 
 // Lazy loaders for supplement10-106 (Vite code-splits these into separate chunks)
 const SUPP_LOADERS = import.meta.glob('./supplement*.json')
-const loadedNums = new Set()
+// Cache the in-flight/settled import promise per supplement so concurrent
+// callers (preloadMake on select + primeCache on LOAD) await the SAME import
+// rather than the second caller returning early before the chunk has landed.
+const suppPromises = new Map()
 
 // supplements needed per make (supplements 1-9 / holden / ford are in the core above)
 const MAKE_SUPPS = makeSupps
 
-async function ensureSupp(n) {
-  if (loadedNums.has(n)) return
-  loadedNums.add(n)
+function ensureSupp(n) {
+  if (suppPromises.has(n)) return suppPromises.get(n)
   const loader = SUPP_LOADERS[`./supplement${n}.json`]
-  if (!loader) return
-  const mod = await loader()
-  Object.assign(cache, mod.default.specs)
+  if (!loader) return Promise.resolve()
+  const pr = loader().then(mod => { Object.assign(cache, mod.default.specs) })
+  suppPromises.set(n, pr)
+  return pr
 }
 
 // Exported so Slot can fire-and-forget preloads on make selection
