@@ -5,6 +5,7 @@ import ScoreCard from './components/ScoreCard'
 import SpecTable from './components/SpecTable'
 import ProPanel from './components/ProPanel'
 import { MAKES } from './data/index.js'
+import { VERSION } from './version.js'
 
 const MAKES_COUNT = Object.keys(MAKES).length
 
@@ -132,6 +133,12 @@ export default function App() {
       {loaded.length > 0 && <SpecTable loaded={loaded} onShare={share} />}
 
       {toast && <div key={Date.now()} className="toast">Link Copied ✓</div>}
+
+      <span className="no-print" style={{
+        position: 'fixed', left: 10, bottom: 8, zIndex: 40,
+        fontSize: 11, letterSpacing: 1, color: '#2e2e2e',
+        fontFamily: "'Barlow Condensed', sans-serif", pointerEvents: 'none', userSelect: 'none'
+      }}>{VERSION}</span>
     </div>
   )
 }
