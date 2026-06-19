@@ -21,17 +21,28 @@ export default function Slot({ index, initial, onResult, onClear }) {
   const [ok, setOk]             = useState(false)
   const [loading, setLoading]   = useState(false)
 
+  const modelYears = MAKES[make]?.[model] || {}
+  const matchesBody = t => bodyType === 'All' || getBodyType(model, t) === bodyType
+
+  // Years available — narrowed to those containing the selected trim (if any).
   const years = model
-    ? Object.keys(MAKES[make]?.[model] || {})
-        .filter(y => bodyType === 'All' ||
-          (MAKES[make]?.[model]?.[y] || []).some(t => getBodyType(model, t) === bodyType))
+    ? Object.keys(modelYears)
+        .filter(y => (modelYears[y] || []).some(t => matchesBody(t) && (!trim || t === trim)))
         .sort()
     : []
-  const trims = model && year
-    ? (MAKES[make]?.[model]?.[year] || []).filter(t =>
-        bodyType === 'All' || getBodyType(model, t) === bodyType
-      )
+  // Trims available WITHOUT requiring a year: union across all years (or just the
+  // selected year). Year is optional — picking a trim implies its year range.
+  const trims = model
+    ? [...new Set(
+        (year ? [year] : Object.keys(modelYears))
+          .flatMap(y => modelYears[y] || [])
+          .filter(matchesBody)
+      )].sort()
     : []
+
+  // Latest year that offers the chosen trim — used when no year is picked.
+  const resolveYear = () => year ||
+    Object.keys(modelYears).filter(y => (modelYears[y] || []).includes(trim)).sort().pop() || ''
 
   // Body types this specific car actually comes in (Camaro → Coupe; Commodore → Sedan/Wagon).
   // Before a model is picked, fall back to all types so it can still pre-filter the search.
@@ -62,11 +73,12 @@ export default function Slot({ index, initial, onResult, onClear }) {
     setErr('')
     setLoading(true)
     try {
-      const label = `${year} ${make} ${model}${trim ? ' ' + trim : ''}`
-      const specs = await lookup(make, model, year, trim)
+      const useYear = resolveYear()
+      const label = `${useYear} ${make} ${model}${trim ? ' ' + trim : ''}`
+      const specs = await lookup(make, model, useYear, trim)
       if (specs) {
         setOk(true)
-        onResult(index, { make, model, year, trim, label, specs })
+        onResult(index, { make, model, year: useYear, trim, label, specs })
       } else {
         setErr('Specs not found. Try a nearby year or different trim.')
       }
@@ -111,23 +123,23 @@ export default function Slot({ index, initial, onResult, onClear }) {
         {bodyOptions.map(bt => <option key={bt} value={bt}>{BODY_LABELS[bt]}</option>)}
       </select>
 
-      <select value={year} onChange={e => { setYear(e.target.value); setTrim(''); setErr(''); setOk(false); onClear(index) }} style={sel}>
-        <option value="">— Year —</option>
-        {years.map(y => <option key={y} value={y}>{y}</option>)}
-      </select>
-
-      <select value={trim} onChange={e => { setTrim(e.target.value); setErr(''); setOk(false); onClear(index) }} style={sel}>
+      <select value={trim} onChange={e => { const v = e.target.value; setTrim(v); if (v && year && !(modelYears[year] || []).includes(v)) setYear(''); setErr(''); setOk(false); onClear(index) }} style={sel}>
         <option value="">— Trim —</option>
         {trims.map(t => <option key={t} value={t}>{t}</option>)}
       </select>
 
+      <select value={year} onChange={e => { const v = e.target.value; setYear(v); if (v && trim && !(modelYears[v] || []).includes(trim)) setTrim(''); setErr(''); setOk(false); onClear(index) }} style={sel}>
+        <option value="">{trim ? '— Year · auto —' : '— Year (optional) —'}</option>
+        {years.map(y => <option key={y} value={y}>{y}</option>)}
+      </select>
+
       <div style={{ display: 'flex', gap: 7, marginTop: 4 }}>
-        <button onClick={load} disabled={!model || !year || !trim || loading} style={{
-          flex: 1, background: (!model || !year || !trim || loading) ? '#111' : color,
-          color: (!model || !year || !trim || loading) ? '#2a2a2a' : '#000',
+        <button onClick={load} disabled={!model || !trim || loading} style={{
+          flex: 1, background: (!model || !trim || loading) ? '#111' : color,
+          color: (!model || !trim || loading) ? '#2a2a2a' : '#000',
           border: 'none', borderRadius: 7, padding: '10px 0',
           fontSize: 14, fontWeight: 700, letterSpacing: 1.5, textTransform: 'uppercase',
-          cursor: (!model || !year || !trim || loading) ? 'default' : 'pointer',
+          cursor: (!model || !trim || loading) ? 'default' : 'pointer',
           transition: 'background 0.15s'
         }}>{loading ? '...' : 'LOAD'}</button>
         <button onClick={clear} style={{
