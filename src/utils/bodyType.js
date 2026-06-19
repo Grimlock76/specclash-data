@@ -59,7 +59,7 @@ function getBodyType(model, trim = '') {
   // ── BMW ──
   if (/\bx2\b|\bx4\b|\bx6\b|\bx7\b|\bix\b|\bix3\b|\bix1\b|\bx1\b|\bx3\b|\bx5\b/.test(m)) return 'SUV'
   if (/\b2 series active tourer\b|\b2 series gran tourer\b/.test(m)) return 'Hatch'
-  if (/\bz3\b|\bz4\b|\b2 series\b|\b4 series\b|\b6 series\b|\b8 series\b|\bm2\b|\bm4\b|\bm8\b/.test(m)) return 'Coupe'
+  if (/\bz3\b|\bz4\b|\b2 series\b|\b4 series\b|\b6 series\b|\b8 series\b|\bm2\b|\bm4\b|\bm8\b|\bi8\b/.test(m)) return 'Coupe'
   if (/\b1 series\b|\bi3\b/.test(m)) return 'Hatch'
   if (/\b3 series\b|\b5 series\b|\b6 series gran coupe\b|\b7 series\b|\bi4\b|\bi5\b|\bi7\b/.test(m)) return 'Sedan'
 
@@ -87,10 +87,10 @@ function getBodyType(model, trim = '') {
   if (/\bwrx\b|\bliberty\b|\bimpreza\b/.test(m)) return 'Sedan'
 
   // ── Honda ──
-  if (/\bnsx\b|\bs2000\b|\bprelude\b/.test(m)) return 'Coupe'
-  if (/\bcr-v\b|\bhr-v\b|\bzr-v\b|\be:ny1\b/.test(m)) return 'SUV'
+  if (/\bnsx\b|\bs2000\b|\bprelude\b|\bcr-z\b/.test(m)) return 'Coupe'
+  if (/\bcr-v\b|\bhr-v\b|\bzr-v\b|\be:ny1\b|\bmdx\b/.test(m)) return 'SUV'
   if (/\bodyssey\b/.test(m)) return 'Van'
-  if (/\bcivic\b|\bjazz\b/.test(m)) return 'Hatch'
+  if (/\bcivic\b|\bjazz\b|\binsight\b/.test(m)) return 'Hatch'
   if (/\baccord\b|\blegend\b|\bintegra\b/.test(m)) return 'Sedan'
 
   // ── Lexus ──
@@ -122,7 +122,8 @@ function getBodyType(model, trim = '') {
   // ── Volvo ──
   if (/\bxc40\b|\bxc60\b|\bxc90\b|\bc40\b|\bex30\b|\bex90\b/.test(m)) return 'SUV'
   if (/\bv40\b|\bv60\b|\bv90\b/.test(m)) return 'Wagon'
-  if (/\bs60\b|\bs90\b/.test(m)) return 'Sedan'
+  if (/\bc30\b/.test(m)) return 'Hatch'
+  if (/\bs40\b|\bs60\b|\bs90\b/.test(m)) return 'Sedan'
 
   // ── Tesla ──
   if (/\bmodel y\b|\bmodel x\b|\bcybertruck\b/.test(m)) return 'SUV'
@@ -165,7 +166,7 @@ function getBodyType(model, trim = '') {
 
   // ── Jeep ──
   if (/\bgladiator\b/.test(m)) return 'Ute'
-  if (/\bwrangler\b|\bgrand cherokee\b|\bcherokee\b|\bcompass\b|\brenegade\b/.test(m)) return 'SUV'
+  if (/\bwrangler\b|\bgrand cherokee\b|\bcherokee\b|\bcompass\b|\brenegade\b|\bpatriot\b|\bavenger\b/.test(m)) return 'SUV'
 
   // ── RAM ──
   if (/\b1500\b|\b2500\b/.test(m)) return 'Ute'
@@ -200,7 +201,8 @@ function getBodyType(model, trim = '') {
   if (/\bomoda\b|\btiggo\b/.test(m)) return 'SUV'
 
   // ── Renault ──
-  if (/\bkoleos\b|\barkana\b/.test(m)) return 'SUV'
+  if (/\bkoleos\b|\barkana\b|\bcaptur\b|\bscenic\b|\baustral\b/.test(m)) return 'SUV'
+  if (/\btrafic\b|\bkangoo\b|\bmaster\b/.test(m)) return 'Van'
   if (/\bclio\b|\bmegane\b/.test(m)) return 'Hatch'
 
   // ── Dodge ──
@@ -502,6 +504,7 @@ function getBodyType(model, trim = '') {
   if (/\bdreamer\b/.test(m)) return 'Van'                        // Voyah
   if (/\bfree\b|\bcourage\b/.test(m)) return 'SUV'               // Voyah
   if (m === '11') return 'SUV'                                   // Avatr 11 (12 = sedan)
+  if (/\bseres 3\b/.test(m)) return 'SUV'                         // Seres
   if (/\bim6\b/.test(m)) return 'SUV'                            // IM Motors
   if (/\btiggo 9\b/.test(m)) return 'SUV'                         // Chery (also caught by tiggo rule)
 

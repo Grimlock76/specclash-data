@@ -83,7 +83,7 @@ for (const yr of [2025, 2026]) {
 
 // ─── SERES (formerly DFSK; AU 2022–2023) ─────────────────────────────────────
 for (const yr of [2022, 2023]) {
-  add('Seres', '3', yr, 'Luxury', ev({
+  add('Seres', 'Seres 3', yr, 'Luxury', ev({
     engine: 'Single Motor Electric', drivetrain: 'FWD', power: 120, torque: 300,
     weight: 1620, seats: 5, cargo: 466, acc: 8.9, top: 155, price: '~$45,900' }));
 }
