@@ -18193,30 +18193,35 @@
       "2019": [
         "Feel",
         "Multispace",
+        "Shine",
         "XTR",
         "base"
       ],
       "2020": [
         "Feel",
         "Multispace",
+        "Shine",
         "XTR",
         "base"
       ],
       "2021": [
         "Feel",
         "Multispace",
+        "Shine",
         "XTR",
         "base"
       ],
       "2022": [
         "Feel",
         "Multispace",
+        "Shine",
         "XTR",
         "base"
       ],
       "2023": [
         "Feel",
         "Multispace",
+        "Shine",
         "XTR",
         "base"
       ]
@@ -18710,11 +18715,15 @@
     "C5 X": {
       "2022": [
         "Feel Pack",
-        "Hybrid4 PHEV"
+        "Hybrid4 PHEV",
+        "Plug-in Hybrid",
+        "Shine"
       ],
       "2023": [
         "Feel Pack",
-        "Hybrid4 PHEV"
+        "Hybrid4 PHEV",
+        "Plug-in Hybrid",
+        "Shine"
       ],
       "2024": [
         "Feel Pack",
@@ -18727,6 +18736,33 @@
       "2026": [
         "Feel Pack",
         "Hybrid4 PHEV"
+      ]
+    },
+    "e-C4": {
+      "2022": [
+        "Shine"
+      ],
+      "2023": [
+        "Shine"
+      ]
+    },
+    "C5 Aircross": {
+      "2019": [
+        "Shine"
+      ],
+      "2020": [
+        "Shine"
+      ],
+      "2021": [
+        "Shine"
+      ],
+      "2022": [
+        "Plug-in Hybrid",
+        "Shine"
+      ],
+      "2023": [
+        "Plug-in Hybrid",
+        "Shine"
       ]
     }
   },
@@ -18779,24 +18815,30 @@
       ],
       "2022": [
         "1.4 e-Hybrid",
+        "V",
         "V1",
         "VZ",
         "VZ 2.0 TSI 4Drive",
-        "VZ5"
+        "VZ5",
+        "VZx"
       ],
       "2023": [
         "1.4 e-Hybrid",
+        "V",
         "V1",
         "VZ",
         "VZ 2.0 TSI 4Drive",
-        "VZ5"
+        "VZ5",
+        "VZx"
       ],
       "2024": [
         "1.4 e-Hybrid",
+        "V",
         "V1",
         "VZ",
         "VZ 2.0 TSI 4Drive",
-        "VZ5"
+        "VZ5",
+        "VZx"
       ],
       "2025": [
         "1.4 e-Hybrid",
@@ -18817,11 +18859,13 @@
       "2022": [
         "58 kWh",
         "77 kWh",
+        "V",
         "VZ 77 kWh"
       ],
       "2023": [
         "58 kWh",
         "77 kWh",
+        "V",
         "V1",
         "VZ",
         "VZ 77 kWh"
@@ -18829,6 +18873,7 @@
       "2024": [
         "58 kWh",
         "77 kWh",
+        "V",
         "V1",
         "VZ",
         "VZ 77 kWh"
@@ -18855,10 +18900,12 @@
       ],
       "2025": [
         "1.5 e-Hybrid",
+        "VZ",
         "VZ 2.0 4Drive"
       ],
       "2026": [
         "1.5 e-Hybrid",
+        "VZ",
         "VZ 2.0 4Drive"
       ]
     },
@@ -18906,11 +18953,24 @@
         "VZ"
       ],
       "2025": [
+        "Endurance",
         "V1",
         "VZ"
       ],
       "2026": [
+        "Endurance",
         "V1",
+        "VZ"
+      ]
+    },
+    "Ateca": {
+      "2022": [
+        "VZ"
+      ],
+      "2023": [
+        "VZ"
+      ],
+      "2024": [
         "VZ"
       ]
     }
@@ -33682,20 +33742,36 @@
   "INEOS": {
     "Grenadier": {
       "2023": [
+        "Fieldmaster Diesel",
+        "Fieldmaster Petrol",
         "Trailmaster Diesel",
-        "Trailmaster Petrol"
+        "Trailmaster Petrol",
+        "Trialmaster Diesel",
+        "Trialmaster Petrol"
       ],
       "2024": [
+        "Fieldmaster Diesel",
+        "Fieldmaster Petrol",
         "Trailmaster Diesel",
-        "Trailmaster Petrol"
+        "Trailmaster Petrol",
+        "Trialmaster Diesel",
+        "Trialmaster Petrol"
       ],
       "2025": [
+        "Fieldmaster Diesel",
+        "Fieldmaster Petrol",
         "Trailmaster Diesel",
-        "Trailmaster Petrol"
+        "Trailmaster Petrol",
+        "Trialmaster Diesel",
+        "Trialmaster Petrol"
       ],
       "2026": [
+        "Fieldmaster Diesel",
+        "Fieldmaster Petrol",
         "Trailmaster Diesel",
-        "Trailmaster Petrol"
+        "Trailmaster Petrol",
+        "Trialmaster Diesel",
+        "Trialmaster Petrol"
       ]
     },
     "Quartermaster": {
@@ -33703,13 +33779,19 @@
         "Diesel"
       ],
       "2024": [
-        "Diesel"
+        "Diesel",
+        "Fieldmaster Diesel",
+        "Trialmaster Petrol"
       ],
       "2025": [
-        "Diesel"
+        "Diesel",
+        "Fieldmaster Diesel",
+        "Trialmaster Petrol"
       ],
       "2026": [
-        "Diesel"
+        "Diesel",
+        "Fieldmaster Diesel",
+        "Trialmaster Petrol"
       ]
     }
   },
@@ -79864,15 +79946,24 @@
     "G6": {
       "2024": [
         "AWD Performance",
-        "Long Range RWD"
+        "Long Range",
+        "Long Range RWD",
+        "Performance",
+        "Standard Range"
       ],
       "2025": [
         "AWD Performance",
-        "Long Range RWD"
+        "Long Range",
+        "Long Range RWD",
+        "Performance",
+        "Standard Range"
       ],
       "2026": [
         "AWD Performance",
-        "Long Range RWD"
+        "Long Range",
+        "Long Range RWD",
+        "Performance",
+        "Standard Range"
       ]
     },
     "G9": {
@@ -79882,11 +79973,25 @@
       ],
       "2025": [
         "AWD Performance",
-        "Long Range RWD"
+        "Long Range",
+        "Long Range RWD",
+        "Performance"
       ],
       "2026": [
         "AWD Performance",
-        "Long Range RWD"
+        "Long Range",
+        "Long Range RWD",
+        "Performance"
+      ]
+    },
+    "X9": {
+      "2025": [
+        "Long Range",
+        "Performance"
+      ],
+      "2026": [
+        "Long Range",
+        "Performance"
       ]
     }
   },
@@ -80123,128 +80228,6 @@
       ]
     }
   },
-  "Cupra": {
-    "Born": {
-      "2022": [
-        "V"
-      ],
-      "2023": [
-        "V"
-      ],
-      "2024": [
-        "V",
-        "VZ"
-      ],
-      "2025": [
-        "VZ"
-      ],
-      "2026": [
-        "VZ"
-      ]
-    },
-    "Formentor": {
-      "2022": [
-        "V",
-        "VZ",
-        "VZx"
-      ],
-      "2023": [
-        "V",
-        "VZ",
-        "VZx"
-      ],
-      "2024": [
-        "V",
-        "VZ",
-        "VZx"
-      ],
-      "2025": [
-        "VZ"
-      ],
-      "2026": [
-        "VZ"
-      ]
-    },
-    "Leon": {
-      "2022": [
-        "VZ"
-      ],
-      "2023": [
-        "VZ"
-      ],
-      "2024": [
-        "VZ"
-      ]
-    },
-    "Ateca": {
-      "2022": [
-        "VZ"
-      ],
-      "2023": [
-        "VZ"
-      ],
-      "2024": [
-        "VZ"
-      ]
-    },
-    "Tavascan": {
-      "2025": [
-        "Endurance",
-        "VZ"
-      ],
-      "2026": [
-        "Endurance",
-        "VZ"
-      ]
-    },
-    "Terramar": {
-      "2025": [
-        "VZ"
-      ],
-      "2026": [
-        "VZ"
-      ]
-    }
-  },
-  "Xpeng": {
-    "G6": {
-      "2024": [
-        "Long Range",
-        "Performance",
-        "Standard Range"
-      ],
-      "2025": [
-        "Long Range",
-        "Performance",
-        "Standard Range"
-      ],
-      "2026": [
-        "Long Range",
-        "Performance",
-        "Standard Range"
-      ]
-    },
-    "G9": {
-      "2025": [
-        "Long Range",
-        "Performance"
-      ],
-      "2026": [
-        "Long Range",
-        "Performance"
-      ]
-    },
-    "X9": {
-      "2025": [
-        "Long Range",
-        "Performance"
-      ],
-      "2026": [
-        "Long Range",
-        "Performance"
-      ]
-    }
-  },
   "Deepal": {
     "S07": {
       "2025": [
@@ -80296,48 +80279,6 @@
       ]
     }
   },
-  "Ineos": {
-    "Grenadier": {
-      "2023": [
-        "Fieldmaster Diesel",
-        "Fieldmaster Petrol",
-        "Trialmaster Diesel",
-        "Trialmaster Petrol"
-      ],
-      "2024": [
-        "Fieldmaster Diesel",
-        "Fieldmaster Petrol",
-        "Trialmaster Diesel",
-        "Trialmaster Petrol"
-      ],
-      "2025": [
-        "Fieldmaster Diesel",
-        "Fieldmaster Petrol",
-        "Trialmaster Diesel",
-        "Trialmaster Petrol"
-      ],
-      "2026": [
-        "Fieldmaster Diesel",
-        "Fieldmaster Petrol",
-        "Trialmaster Diesel",
-        "Trialmaster Petrol"
-      ]
-    },
-    "Quartermaster": {
-      "2024": [
-        "Fieldmaster Diesel",
-        "Trialmaster Petrol"
-      ],
-      "2025": [
-        "Fieldmaster Diesel",
-        "Trialmaster Petrol"
-      ],
-      "2026": [
-        "Fieldmaster Diesel",
-        "Trialmaster Petrol"
-      ]
-    }
-  },
   "JAC": {
     "T9": {
       "2024": [
@@ -80372,87 +80313,6 @@
       ],
       "2026": [
         "Lux"
-      ]
-    }
-  },
-  "Citroen": {
-    "C3": {
-      "2018": [
-        "Shine"
-      ],
-      "2019": [
-        "Shine"
-      ],
-      "2020": [
-        "Shine"
-      ],
-      "2021": [
-        "Shine"
-      ],
-      "2022": [
-        "Shine"
-      ]
-    },
-    "C4": {
-      "2022": [
-        "Shine"
-      ],
-      "2023": [
-        "Shine"
-      ]
-    },
-    "e-C4": {
-      "2022": [
-        "Shine"
-      ],
-      "2023": [
-        "Shine"
-      ]
-    },
-    "C5 Aircross": {
-      "2019": [
-        "Shine"
-      ],
-      "2020": [
-        "Shine"
-      ],
-      "2021": [
-        "Shine"
-      ],
-      "2022": [
-        "Plug-in Hybrid",
-        "Shine"
-      ],
-      "2023": [
-        "Plug-in Hybrid",
-        "Shine"
-      ]
-    },
-    "C5 X": {
-      "2022": [
-        "Plug-in Hybrid",
-        "Shine"
-      ],
-      "2023": [
-        "Plug-in Hybrid",
-        "Shine"
-      ]
-    },
-    "Berlingo": {
-      "2019": [
-        "Shine"
-      ],
-      "2020": [
-        "Shine"
-      ],
-      "2021": [
-        "Shine"
-      ],
-      "2022": [
-        "Shine"
-      ],
-      "2023": [
-        "Shine"
       ]
     }
   },

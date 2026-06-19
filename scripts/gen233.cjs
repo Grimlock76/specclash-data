@@ -29,62 +29,62 @@ function ice(o) {
 // ─── CUPRA (Spanish SEAT performance brand; AU launch 2022) ──────────────────
 // Born — EV hatch
 for (const yr of [2022, 2023, 2024]) {
-  add('Cupra', 'Born', yr, 'V', ev({
+  add('CUPRA', 'Born', yr, 'V', ev({
     engine: 'Single Motor Electric', drivetrain: 'RWD', power: 150, torque: 310,
     weight: 1712, seats: 5, cargo: 385, acc: 7.3, top: 160, price: '~$59,990' }));
 }
 for (const yr of [2024, 2025, 2026]) {
-  add('Cupra', 'Born', yr, 'VZ', ev({
+  add('CUPRA', 'Born', yr, 'VZ', ev({
     engine: 'Single Motor Electric', drivetrain: 'RWD', power: 240, torque: 545,
     weight: 1862, seats: 5, cargo: 385, acc: 5.6, top: 200, price: '~$64,990' }));
 }
 // Formentor — SUV coupe
 for (const yr of [2022, 2023, 2024]) {
-  add('Cupra', 'Formentor', yr, 'V', ice({
+  add('CUPRA', 'Formentor', yr, 'V', ice({
     engine: '1.5L I4 TSI', displacement: 1498, cylinders: 4, transmission: '7-speed DSG',
     drivetrain: 'FWD', power: 110, torque: 250, weight: 1480, seats: 5, cargo: 420,
     fc: 6.4, fh: 5.4, fx: 8.1, acc: 9.0, top: 204, price: '~$42,990' }));
-  add('Cupra', 'Formentor', yr, 'VZ', ice({
+  add('CUPRA', 'Formentor', yr, 'VZ', ice({
     engine: '2.0L I4 TSI', displacement: 1984, cylinders: 4, transmission: '7-speed DSG',
     drivetrain: 'AWD', power: 228, torque: 400, weight: 1620, seats: 5, cargo: 420,
     fc: 8.0, fh: 6.6, fx: 10.6, acc: 4.9, top: 250, price: '~$57,990' }));
-  add('Cupra', 'Formentor', yr, 'VZx', ice({
+  add('CUPRA', 'Formentor', yr, 'VZx', ice({
     engine: '1.4L I4 TSI PHEV', displacement: 1395, cylinders: 4, fuelType: 'plug-in hybrid',
     ft: 'PHEV (95 RON)', transmission: '6-speed DSG', drivetrain: 'FWD', power: 180, torque: 400,
     weight: 1715, seats: 5, cargo: 345, fc: 1.6, fh: 1.4, fx: 2.0, acc: 7.0, top: 210, price: '~$62,990' }));
 }
 for (const yr of [2025, 2026]) {
-  add('Cupra', 'Formentor', yr, 'VZ', ice({
+  add('CUPRA', 'Formentor', yr, 'VZ', ice({
     engine: '2.0L I4 TSI', displacement: 1984, cylinders: 4, transmission: '7-speed DSG',
     drivetrain: 'AWD', power: 245, torque: 420, weight: 1645, seats: 5, cargo: 420,
     fc: 8.2, fh: 6.8, fx: 10.9, acc: 4.7, top: 250, price: '~$60,990' }));
 }
 // Leon — hot hatch
 for (const yr of [2022, 2023, 2024]) {
-  add('Cupra', 'Leon', yr, 'VZ', ice({
+  add('CUPRA', 'Leon', yr, 'VZ', ice({
     engine: '2.0L I4 TSI', displacement: 1984, cylinders: 4, transmission: '7-speed DSG',
     drivetrain: 'FWD', power: 221, torque: 400, weight: 1452, seats: 5, cargo: 380,
     fc: 7.0, fh: 5.8, fx: 9.2, acc: 5.7, top: 250, price: '~$54,990' }));
 }
 // Ateca — performance SUV
 for (const yr of [2022, 2023, 2024]) {
-  add('Cupra', 'Ateca', yr, 'VZ', ice({
+  add('CUPRA', 'Ateca', yr, 'VZ', ice({
     engine: '2.0L I4 TSI', displacement: 1984, cylinders: 4, transmission: '7-speed DSG',
     drivetrain: 'AWD', power: 221, torque: 400, weight: 1615, seats: 5, cargo: 485,
     fc: 8.3, fh: 6.9, fx: 11.0, acc: 5.2, top: 247, price: '~$56,990' }));
 }
 // Tavascan — EV SUV coupe
 for (const yr of [2025, 2026]) {
-  add('Cupra', 'Tavascan', yr, 'Endurance', ev({
+  add('CUPRA', 'Tavascan', yr, 'Endurance', ev({
     engine: 'Single Motor Electric', drivetrain: 'RWD', power: 210, torque: 545,
     weight: 2200, seats: 5, cargo: 540, acc: 6.8, top: 180, price: '~$60,990' }));
-  add('Cupra', 'Tavascan', yr, 'VZ', ev({
+  add('CUPRA', 'Tavascan', yr, 'VZ', ev({
     engine: 'Dual Motor Electric', drivetrain: 'AWD', power: 250, torque: 679,
     weight: 2330, seats: 5, cargo: 540, acc: 5.5, top: 180, price: '~$74,990' }));
 }
 // Terramar — PHEV SUV
 for (const yr of [2025, 2026]) {
-  add('Cupra', 'Terramar', yr, 'VZ', ice({
+  add('CUPRA', 'Terramar', yr, 'VZ', ice({
     engine: '1.5L I4 TSI eHybrid', displacement: 1498, cylinders: 4, fuelType: 'plug-in hybrid',
     ft: 'PHEV (95 RON)', transmission: '6-speed DSG', drivetrain: 'FWD', power: 200, torque: 400,
     weight: 1800, seats: 5, cargo: 400, fc: 1.0, fh: 0.9, fx: 1.3, acc: 7.3, top: 200, price: '~$60,000' }));
@@ -93,31 +93,31 @@ for (const yr of [2025, 2026]) {
 // ─── XPENG (Chinese EV; AU launch 2024) ──────────────────────────────────────
 // G6 — mid-size EV SUV
 for (const yr of [2024, 2025, 2026]) {
-  add('Xpeng', 'G6', yr, 'Standard Range', ev({
+  add('XPENG', 'G6', yr, 'Standard Range', ev({
     engine: 'Single Motor Electric', drivetrain: 'RWD', power: 190, torque: 440,
     weight: 1955, seats: 5, cargo: 571, acc: 6.9, top: 200, price: '~$54,800' }));
-  add('Xpeng', 'G6', yr, 'Long Range', ev({
+  add('XPENG', 'G6', yr, 'Long Range', ev({
     engine: 'Single Motor Electric', drivetrain: 'RWD', power: 210, torque: 440,
     weight: 2020, seats: 5, cargo: 571, acc: 6.6, top: 200, price: '~$59,800' }));
-  add('Xpeng', 'G6', yr, 'Performance', ev({
+  add('XPENG', 'G6', yr, 'Performance', ev({
     engine: 'Dual Motor Electric', drivetrain: 'AWD', power: 358, torque: 660,
     weight: 2125, seats: 5, cargo: 571, acc: 4.1, top: 200, price: '~$64,800' }));
 }
 // G9 — large EV SUV
 for (const yr of [2025, 2026]) {
-  add('Xpeng', 'G9', yr, 'Long Range', ev({
+  add('XPENG', 'G9', yr, 'Long Range', ev({
     engine: 'Single Motor Electric', drivetrain: 'RWD', power: 230, torque: 430,
     weight: 2200, seats: 5, cargo: 660, acc: 6.4, top: 200, price: '~$76,800' }));
-  add('Xpeng', 'G9', yr, 'Performance', ev({
+  add('XPENG', 'G9', yr, 'Performance', ev({
     engine: 'Dual Motor Electric', drivetrain: 'AWD', power: 405, torque: 717,
     weight: 2360, seats: 5, cargo: 660, acc: 3.9, top: 200, price: '~$86,800' }));
 }
 // X9 — large EV MPV
 for (const yr of [2025, 2026]) {
-  add('Xpeng', 'X9', yr, 'Long Range', ev({
+  add('XPENG', 'X9', yr, 'Long Range', ev({
     engine: 'Single Motor Electric', drivetrain: 'RWD', power: 235, torque: 450,
     weight: 2545, seats: 7, cargo: 510, acc: 7.7, top: 200, price: '~$90,000' }));
-  add('Xpeng', 'X9', yr, 'Performance', ev({
+  add('XPENG', 'X9', yr, 'Performance', ev({
     engine: 'Dual Motor Electric', drivetrain: 'AWD', power: 370, torque: 717,
     weight: 2700, seats: 7, cargo: 510, acc: 5.7, top: 200, price: '~$100,000' }));
 }

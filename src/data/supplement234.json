@@ -1,6 +1,6 @@
 {
   "specs": {
-    "Ineos|Grenadier|2023|Trialmaster Petrol": {
+    "INEOS|Grenadier|2023|Trialmaster Petrol": {
       "engine": "3.0L I6 Turbo (BMW B58)",
       "fuelType": "petrol",
       "displacement": 2998,
@@ -21,7 +21,7 @@
       "topSpeed": 160,
       "price": "~$114,500"
     },
-    "Ineos|Grenadier|2023|Trialmaster Diesel": {
+    "INEOS|Grenadier|2023|Trialmaster Diesel": {
       "engine": "3.0L I6 Turbo-Diesel (BMW B57)",
       "fuelType": "diesel",
       "displacement": 2993,
@@ -42,7 +42,7 @@
       "topSpeed": 160,
       "price": "~$114,500"
     },
-    "Ineos|Grenadier|2023|Fieldmaster Petrol": {
+    "INEOS|Grenadier|2023|Fieldmaster Petrol": {
       "engine": "3.0L I6 Turbo (BMW B58)",
       "fuelType": "petrol",
       "displacement": 2998,
@@ -63,7 +63,7 @@
       "topSpeed": 160,
       "price": "~$114,500"
     },
-    "Ineos|Grenadier|2023|Fieldmaster Diesel": {
+    "INEOS|Grenadier|2023|Fieldmaster Diesel": {
       "engine": "3.0L I6 Turbo-Diesel (BMW B57)",
       "fuelType": "diesel",
       "displacement": 2993,
@@ -84,7 +84,7 @@
       "topSpeed": 160,
       "price": "~$114,500"
     },
-    "Ineos|Grenadier|2024|Trialmaster Petrol": {
+    "INEOS|Grenadier|2024|Trialmaster Petrol": {
       "engine": "3.0L I6 Turbo (BMW B58)",
       "fuelType": "petrol",
       "displacement": 2998,
@@ -105,7 +105,7 @@
       "topSpeed": 160,
       "price": "~$114,500"
     },
-    "Ineos|Grenadier|2024|Trialmaster Diesel": {
+    "INEOS|Grenadier|2024|Trialmaster Diesel": {
       "engine": "3.0L I6 Turbo-Diesel (BMW B57)",
       "fuelType": "diesel",
       "displacement": 2993,
@@ -126,7 +126,7 @@
       "topSpeed": 160,
       "price": "~$114,500"
     },
-    "Ineos|Grenadier|2024|Fieldmaster Petrol": {
+    "INEOS|Grenadier|2024|Fieldmaster Petrol": {
       "engine": "3.0L I6 Turbo (BMW B58)",
       "fuelType": "petrol",
       "displacement": 2998,
@@ -147,7 +147,7 @@
       "topSpeed": 160,
       "price": "~$114,500"
     },
-    "Ineos|Grenadier|2024|Fieldmaster Diesel": {
+    "INEOS|Grenadier|2024|Fieldmaster Diesel": {
       "engine": "3.0L I6 Turbo-Diesel (BMW B57)",
       "fuelType": "diesel",
       "displacement": 2993,
@@ -168,7 +168,7 @@
       "topSpeed": 160,
       "price": "~$114,500"
     },
-    "Ineos|Grenadier|2025|Trialmaster Petrol": {
+    "INEOS|Grenadier|2025|Trialmaster Petrol": {
       "engine": "3.0L I6 Turbo (BMW B58)",
       "fuelType": "petrol",
       "displacement": 2998,
@@ -189,7 +189,7 @@
       "topSpeed": 160,
       "price": "~$114,500"
     },
-    "Ineos|Grenadier|2025|Trialmaster Diesel": {
+    "INEOS|Grenadier|2025|Trialmaster Diesel": {
       "engine": "3.0L I6 Turbo-Diesel (BMW B57)",
       "fuelType": "diesel",
       "displacement": 2993,
@@ -210,7 +210,7 @@
       "topSpeed": 160,
       "price": "~$114,500"
     },
-    "Ineos|Grenadier|2025|Fieldmaster Petrol": {
+    "INEOS|Grenadier|2025|Fieldmaster Petrol": {
       "engine": "3.0L I6 Turbo (BMW B58)",
       "fuelType": "petrol",
       "displacement": 2998,
@@ -231,7 +231,7 @@
       "topSpeed": 160,
       "price": "~$114,500"
     },
-    "Ineos|Grenadier|2025|Fieldmaster Diesel": {
+    "INEOS|Grenadier|2025|Fieldmaster Diesel": {
       "engine": "3.0L I6 Turbo-Diesel (BMW B57)",
       "fuelType": "diesel",
       "displacement": 2993,
@@ -252,7 +252,7 @@
       "topSpeed": 160,
       "price": "~$114,500"
     },
-    "Ineos|Grenadier|2026|Trialmaster Petrol": {
+    "INEOS|Grenadier|2026|Trialmaster Petrol": {
       "engine": "3.0L I6 Turbo (BMW B58)",
       "fuelType": "petrol",
       "displacement": 2998,
@@ -273,7 +273,7 @@
       "topSpeed": 160,
       "price": "~$114,500"
     },
-    "Ineos|Grenadier|2026|Trialmaster Diesel": {
+    "INEOS|Grenadier|2026|Trialmaster Diesel": {
       "engine": "3.0L I6 Turbo-Diesel (BMW B57)",
       "fuelType": "diesel",
       "displacement": 2993,
@@ -294,7 +294,7 @@
       "topSpeed": 160,
       "price": "~$114,500"
     },
-    "Ineos|Grenadier|2026|Fieldmaster Petrol": {
+    "INEOS|Grenadier|2026|Fieldmaster Petrol": {
       "engine": "3.0L I6 Turbo (BMW B58)",
       "fuelType": "petrol",
       "displacement": 2998,
@@ -315,7 +315,7 @@
       "topSpeed": 160,
       "price": "~$114,500"
     },
-    "Ineos|Grenadier|2026|Fieldmaster Diesel": {
+    "INEOS|Grenadier|2026|Fieldmaster Diesel": {
       "engine": "3.0L I6 Turbo-Diesel (BMW B57)",
       "fuelType": "diesel",
       "displacement": 2993,
@@ -336,7 +336,7 @@
       "topSpeed": 160,
       "price": "~$114,500"
     },
-    "Ineos|Quartermaster|2024|Trialmaster Petrol": {
+    "INEOS|Quartermaster|2024|Trialmaster Petrol": {
       "engine": "3.0L I6 Turbo (BMW B58)",
       "fuelType": "petrol",
       "displacement": 2998,
@@ -357,7 +357,7 @@
       "topSpeed": 160,
       "price": "~$116,500"
     },
-    "Ineos|Quartermaster|2024|Fieldmaster Diesel": {
+    "INEOS|Quartermaster|2024|Fieldmaster Diesel": {
       "engine": "3.0L I6 Turbo-Diesel (BMW B57)",
       "fuelType": "diesel",
       "displacement": 2993,
@@ -378,7 +378,7 @@
       "topSpeed": 160,
       "price": "~$116,500"
     },
-    "Ineos|Quartermaster|2025|Trialmaster Petrol": {
+    "INEOS|Quartermaster|2025|Trialmaster Petrol": {
       "engine": "3.0L I6 Turbo (BMW B58)",
       "fuelType": "petrol",
       "displacement": 2998,
@@ -399,7 +399,7 @@
       "topSpeed": 160,
       "price": "~$116,500"
     },
-    "Ineos|Quartermaster|2025|Fieldmaster Diesel": {
+    "INEOS|Quartermaster|2025|Fieldmaster Diesel": {
       "engine": "3.0L I6 Turbo-Diesel (BMW B57)",
       "fuelType": "diesel",
       "displacement": 2993,
@@ -420,7 +420,7 @@
       "topSpeed": 160,
       "price": "~$116,500"
     },
-    "Ineos|Quartermaster|2026|Trialmaster Petrol": {
+    "INEOS|Quartermaster|2026|Trialmaster Petrol": {
       "engine": "3.0L I6 Turbo (BMW B58)",
       "fuelType": "petrol",
       "displacement": 2998,
@@ -441,7 +441,7 @@
       "topSpeed": 160,
       "price": "~$116,500"
     },
-    "Ineos|Quartermaster|2026|Fieldmaster Diesel": {
+    "INEOS|Quartermaster|2026|Fieldmaster Diesel": {
       "engine": "3.0L I6 Turbo-Diesel (BMW B57)",
       "fuelType": "diesel",
       "displacement": 2993,
@@ -693,7 +693,7 @@
       "topSpeed": 170,
       "price": "~$50,990"
     },
-    "Citroen|C3|2018|Shine": {
+    "Citroën|C3|2018|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
       "fuelType": "petrol",
       "displacement": 1199,
@@ -714,7 +714,7 @@
       "topSpeed": 187,
       "price": "~$23,990"
     },
-    "Citroen|C3|2019|Shine": {
+    "Citroën|C3|2019|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
       "fuelType": "petrol",
       "displacement": 1199,
@@ -735,7 +735,7 @@
       "topSpeed": 187,
       "price": "~$23,990"
     },
-    "Citroen|C3|2020|Shine": {
+    "Citroën|C3|2020|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
       "fuelType": "petrol",
       "displacement": 1199,
@@ -756,7 +756,7 @@
       "topSpeed": 187,
       "price": "~$23,990"
     },
-    "Citroen|C3|2021|Shine": {
+    "Citroën|C3|2021|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
       "fuelType": "petrol",
       "displacement": 1199,
@@ -777,7 +777,7 @@
       "topSpeed": 187,
       "price": "~$23,990"
     },
-    "Citroen|C3|2022|Shine": {
+    "Citroën|C3|2022|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
       "fuelType": "petrol",
       "displacement": 1199,
@@ -798,7 +798,7 @@
       "topSpeed": 187,
       "price": "~$23,990"
     },
-    "Citroen|C4|2022|Shine": {
+    "Citroën|C4|2022|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
       "fuelType": "petrol",
       "displacement": 1199,
@@ -819,7 +819,7 @@
       "topSpeed": 207,
       "price": "~$34,990"
     },
-    "Citroen|e-C4|2022|Shine": {
+    "Citroën|e-C4|2022|Shine": {
       "engine": "Single Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -840,7 +840,7 @@
       "topSpeed": 150,
       "price": "~$54,990"
     },
-    "Citroen|C4|2023|Shine": {
+    "Citroën|C4|2023|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
       "fuelType": "petrol",
       "displacement": 1199,
@@ -861,7 +861,7 @@
       "topSpeed": 207,
       "price": "~$34,990"
     },
-    "Citroen|e-C4|2023|Shine": {
+    "Citroën|e-C4|2023|Shine": {
       "engine": "Single Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -882,7 +882,7 @@
       "topSpeed": 150,
       "price": "~$54,990"
     },
-    "Citroen|C5 Aircross|2019|Shine": {
+    "Citroën|C5 Aircross|2019|Shine": {
       "engine": "1.6L I4 PureTech Turbo",
       "fuelType": "petrol",
       "displacement": 1598,
@@ -903,7 +903,7 @@
       "topSpeed": 200,
       "price": "~$45,990"
     },
-    "Citroen|C5 Aircross|2020|Shine": {
+    "Citroën|C5 Aircross|2020|Shine": {
       "engine": "1.6L I4 PureTech Turbo",
       "fuelType": "petrol",
       "displacement": 1598,
@@ -924,7 +924,7 @@
       "topSpeed": 200,
       "price": "~$45,990"
     },
-    "Citroen|C5 Aircross|2021|Shine": {
+    "Citroën|C5 Aircross|2021|Shine": {
       "engine": "1.6L I4 PureTech Turbo",
       "fuelType": "petrol",
       "displacement": 1598,
@@ -945,7 +945,7 @@
       "topSpeed": 200,
       "price": "~$45,990"
     },
-    "Citroen|C5 Aircross|2022|Shine": {
+    "Citroën|C5 Aircross|2022|Shine": {
       "engine": "1.6L I4 PureTech Turbo",
       "fuelType": "petrol",
       "displacement": 1598,
@@ -966,7 +966,7 @@
       "topSpeed": 200,
       "price": "~$45,990"
     },
-    "Citroen|C5 Aircross|2023|Shine": {
+    "Citroën|C5 Aircross|2023|Shine": {
       "engine": "1.6L I4 PureTech Turbo",
       "fuelType": "petrol",
       "displacement": 1598,
@@ -987,7 +987,7 @@
       "topSpeed": 200,
       "price": "~$45,990"
     },
-    "Citroen|C5 Aircross|2022|Plug-in Hybrid": {
+    "Citroën|C5 Aircross|2022|Plug-in Hybrid": {
       "engine": "1.6L I4 PureTech PHEV",
       "fuelType": "plug-in hybrid",
       "displacement": 1598,
@@ -1008,7 +1008,7 @@
       "topSpeed": 225,
       "price": "~$59,990"
     },
-    "Citroen|C5 Aircross|2023|Plug-in Hybrid": {
+    "Citroën|C5 Aircross|2023|Plug-in Hybrid": {
       "engine": "1.6L I4 PureTech PHEV",
       "fuelType": "plug-in hybrid",
       "displacement": 1598,
@@ -1029,7 +1029,7 @@
       "topSpeed": 225,
       "price": "~$59,990"
     },
-    "Citroen|C5 X|2022|Shine": {
+    "Citroën|C5 X|2022|Shine": {
       "engine": "1.6L I4 PureTech Turbo",
       "fuelType": "petrol",
       "displacement": 1598,
@@ -1050,7 +1050,7 @@
       "topSpeed": 211,
       "price": "~$53,990"
     },
-    "Citroen|C5 X|2022|Plug-in Hybrid": {
+    "Citroën|C5 X|2022|Plug-in Hybrid": {
       "engine": "1.6L I4 PureTech PHEV",
       "fuelType": "plug-in hybrid",
       "displacement": 1598,
@@ -1071,7 +1071,7 @@
       "topSpeed": 233,
       "price": "~$62,990"
     },
-    "Citroen|C5 X|2023|Shine": {
+    "Citroën|C5 X|2023|Shine": {
       "engine": "1.6L I4 PureTech Turbo",
       "fuelType": "petrol",
       "displacement": 1598,
@@ -1092,7 +1092,7 @@
       "topSpeed": 211,
       "price": "~$53,990"
     },
-    "Citroen|C5 X|2023|Plug-in Hybrid": {
+    "Citroën|C5 X|2023|Plug-in Hybrid": {
       "engine": "1.6L I4 PureTech PHEV",
       "fuelType": "plug-in hybrid",
       "displacement": 1598,
@@ -1113,7 +1113,7 @@
       "topSpeed": 233,
       "price": "~$62,990"
     },
-    "Citroen|Berlingo|2019|Shine": {
+    "Citroën|Berlingo|2019|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
       "fuelType": "petrol",
       "displacement": 1199,
@@ -1134,7 +1134,7 @@
       "topSpeed": 183,
       "price": "~$32,990"
     },
-    "Citroen|Berlingo|2020|Shine": {
+    "Citroën|Berlingo|2020|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
       "fuelType": "petrol",
       "displacement": 1199,
@@ -1155,7 +1155,7 @@
       "topSpeed": 183,
       "price": "~$32,990"
     },
-    "Citroen|Berlingo|2021|Shine": {
+    "Citroën|Berlingo|2021|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
       "fuelType": "petrol",
       "displacement": 1199,
@@ -1176,7 +1176,7 @@
       "topSpeed": 183,
       "price": "~$32,990"
     },
-    "Citroen|Berlingo|2022|Shine": {
+    "Citroën|Berlingo|2022|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
       "fuelType": "petrol",
       "displacement": 1199,
@@ -1197,7 +1197,7 @@
       "topSpeed": 183,
       "price": "~$32,990"
     },
-    "Citroen|Berlingo|2023|Shine": {
+    "Citroën|Berlingo|2023|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
       "fuelType": "petrol",
       "displacement": 1199,

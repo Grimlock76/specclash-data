@@ -29,11 +29,11 @@ function ev(o) {
 // Grenadier — BMW-engined ladder-frame 4x4 wagon
 for (const yr of [2023, 2024, 2025, 2026]) {
   for (const [trim, price] of [['Trialmaster', '~$114,500'], ['Fieldmaster', '~$114,500']]) {
-    add('Ineos', 'Grenadier', yr, `${trim} Petrol`, ice({
+    add('INEOS', 'Grenadier', yr, `${trim} Petrol`, ice({
       engine: '3.0L I6 Turbo (BMW B58)', displacement: 2998, cylinders: 6,
       transmission: '8-speed ZF auto', drivetrain: '4WD', power: 210, torque: 450,
       weight: 2669, seats: 5, cargo: 1152, fc: 11.5, fh: 9.8, fx: 14.5, acc: 8.6, top: 160, price }));
-    add('Ineos', 'Grenadier', yr, `${trim} Diesel`, ice({
+    add('INEOS', 'Grenadier', yr, `${trim} Diesel`, ice({
       engine: '3.0L I6 Turbo-Diesel (BMW B57)', displacement: 2993, cylinders: 6,
       fuelType: 'diesel', ft: 'Diesel', transmission: '8-speed ZF auto', drivetrain: '4WD',
       power: 183, torque: 550, weight: 2718, seats: 5, cargo: 1152, fc: 9.5, fh: 8.2, fx: 11.7,
@@ -42,11 +42,11 @@ for (const yr of [2023, 2024, 2025, 2026]) {
 }
 // Quartermaster — dual-cab ute
 for (const yr of [2024, 2025, 2026]) {
-  add('Ineos', 'Quartermaster', yr, 'Trialmaster Petrol', ice({
+  add('INEOS', 'Quartermaster', yr, 'Trialmaster Petrol', ice({
     engine: '3.0L I6 Turbo (BMW B58)', displacement: 2998, cylinders: 6,
     transmission: '8-speed ZF auto', drivetrain: '4WD', power: 210, torque: 450,
     weight: 2738, seats: 5, cargo: 1075, fc: 12.0, fh: 10.2, fx: 15.1, acc: 8.8, top: 160, price: '~$116,500' }));
-  add('Ineos', 'Quartermaster', yr, 'Fieldmaster Diesel', ice({
+  add('INEOS', 'Quartermaster', yr, 'Fieldmaster Diesel', ice({
     engine: '3.0L I6 Turbo-Diesel (BMW B57)', displacement: 2993, cylinders: 6,
     fuelType: 'diesel', ft: 'Diesel', transmission: '8-speed ZF auto', drivetrain: '4WD',
     power: 183, torque: 550, weight: 2787, seats: 5, cargo: 1075, fc: 9.9, fh: 8.5, fx: 12.2,
@@ -84,48 +84,48 @@ for (const yr of [2025, 2026]) {
 // ─── CITROEN (French; long AU history, range withdrawn 2024) ─────────────────
 // C3 — light hatch
 for (const yr of [2018, 2019, 2020, 2021, 2022]) {
-  add('Citroen', 'C3', yr, 'Shine', ice({
+  add('Citroën', 'C3', yr, 'Shine', ice({
     engine: '1.2L I3 PureTech Turbo', displacement: 1199, cylinders: 3, transmission: '6-speed auto',
     drivetrain: 'FWD', power: 81, torque: 205, weight: 1090, seats: 5, cargo: 300,
     fc: 5.3, fh: 4.6, fx: 6.6, acc: 9.3, top: 187, price: '~$23,990' }));
 }
 // C4 — small hatch (petrol + e-C4 EV)
 for (const yr of [2022, 2023]) {
-  add('Citroen', 'C4', yr, 'Shine', ice({
+  add('Citroën', 'C4', yr, 'Shine', ice({
     engine: '1.2L I3 PureTech Turbo', displacement: 1199, cylinders: 3, transmission: '8-speed auto',
     drivetrain: 'FWD', power: 114, torque: 240, weight: 1296, seats: 5, cargo: 380,
     fc: 5.9, fh: 5.1, fx: 7.3, acc: 8.8, top: 207, price: '~$34,990' }));
-  add('Citroen', 'e-C4', yr, 'Shine', ev({
+  add('Citroën', 'e-C4', yr, 'Shine', ev({
     engine: 'Single Motor Electric', drivetrain: 'FWD', power: 100, torque: 260,
     weight: 1616, seats: 5, cargo: 380, acc: 9.0, top: 150, price: '~$54,990' }));
 }
 // C5 Aircross — mid SUV (petrol + PHEV)
 for (const yr of [2019, 2020, 2021, 2022, 2023]) {
-  add('Citroen', 'C5 Aircross', yr, 'Shine', ice({
+  add('Citroën', 'C5 Aircross', yr, 'Shine', ice({
     engine: '1.6L I4 PureTech Turbo', displacement: 1598, cylinders: 4, transmission: '8-speed auto',
     drivetrain: 'FWD', power: 121, torque: 240, weight: 1520, seats: 5, cargo: 580,
     fc: 7.0, fh: 6.0, fx: 8.7, acc: 9.6, top: 200, price: '~$45,990' }));
 }
 for (const yr of [2022, 2023]) {
-  add('Citroen', 'C5 Aircross', yr, 'Plug-in Hybrid', ice({
+  add('Citroën', 'C5 Aircross', yr, 'Plug-in Hybrid', ice({
     engine: '1.6L I4 PureTech PHEV', displacement: 1598, cylinders: 4, fuelType: 'plug-in hybrid',
     ft: 'PHEV (95 RON)', transmission: '8-speed auto', drivetrain: 'FWD', power: 165, torque: 360,
     weight: 1780, seats: 5, cargo: 460, fc: 1.6, fh: 1.4, fx: 2.0, acc: 8.7, top: 225, price: '~$59,990' }));
 }
 // C5 X — large hatch/wagon crossover (petrol + PHEV)
 for (const yr of [2022, 2023]) {
-  add('Citroen', 'C5 X', yr, 'Shine', ice({
+  add('Citroën', 'C5 X', yr, 'Shine', ice({
     engine: '1.6L I4 PureTech Turbo', displacement: 1598, cylinders: 4, transmission: '8-speed auto',
     drivetrain: 'FWD', power: 133, torque: 250, weight: 1545, seats: 5, cargo: 545,
     fc: 6.9, fh: 5.9, fx: 8.6, acc: 8.8, top: 211, price: '~$53,990' }));
-  add('Citroen', 'C5 X', yr, 'Plug-in Hybrid', ice({
+  add('Citroën', 'C5 X', yr, 'Plug-in Hybrid', ice({
     engine: '1.6L I4 PureTech PHEV', displacement: 1598, cylinders: 4, fuelType: 'plug-in hybrid',
     ft: 'PHEV (95 RON)', transmission: '8-speed auto', drivetrain: 'FWD', power: 165, torque: 360,
     weight: 1755, seats: 5, cargo: 485, fc: 1.5, fh: 1.3, fx: 1.9, acc: 7.8, top: 233, price: '~$62,990' }));
 }
 // Berlingo — compact people-mover/van
 for (const yr of [2019, 2020, 2021, 2022, 2023]) {
-  add('Citroen', 'Berlingo', yr, 'Shine', ice({
+  add('Citroën', 'Berlingo', yr, 'Shine', ice({
     engine: '1.2L I3 PureTech Turbo', displacement: 1199, cylinders: 3, transmission: '8-speed auto',
     drivetrain: 'FWD', power: 81, torque: 205, weight: 1438, seats: 5, cargo: 775,
     fc: 6.2, fh: 5.4, fx: 7.6, acc: 11.0, top: 183, price: '~$32,990' }));

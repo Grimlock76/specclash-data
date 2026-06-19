@@ -1,6 +1,6 @@
 {
   "specs": {
-    "Cupra|Born|2022|V": {
+    "CUPRA|Born|2022|V": {
       "engine": "Single Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -21,7 +21,7 @@
       "topSpeed": 160,
       "price": "~$59,990"
     },
-    "Cupra|Born|2023|V": {
+    "CUPRA|Born|2023|V": {
       "engine": "Single Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -42,7 +42,7 @@
       "topSpeed": 160,
       "price": "~$59,990"
     },
-    "Cupra|Born|2024|V": {
+    "CUPRA|Born|2024|V": {
       "engine": "Single Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -63,7 +63,7 @@
       "topSpeed": 160,
       "price": "~$59,990"
     },
-    "Cupra|Born|2024|VZ": {
+    "CUPRA|Born|2024|VZ": {
       "engine": "Single Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -84,7 +84,7 @@
       "topSpeed": 200,
       "price": "~$64,990"
     },
-    "Cupra|Born|2025|VZ": {
+    "CUPRA|Born|2025|VZ": {
       "engine": "Single Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -105,7 +105,7 @@
       "topSpeed": 200,
       "price": "~$64,990"
     },
-    "Cupra|Born|2026|VZ": {
+    "CUPRA|Born|2026|VZ": {
       "engine": "Single Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -126,7 +126,7 @@
       "topSpeed": 200,
       "price": "~$64,990"
     },
-    "Cupra|Formentor|2022|V": {
+    "CUPRA|Formentor|2022|V": {
       "engine": "1.5L I4 TSI",
       "fuelType": "petrol",
       "displacement": 1498,
@@ -147,7 +147,7 @@
       "topSpeed": 204,
       "price": "~$42,990"
     },
-    "Cupra|Formentor|2022|VZ": {
+    "CUPRA|Formentor|2022|VZ": {
       "engine": "2.0L I4 TSI",
       "fuelType": "petrol",
       "displacement": 1984,
@@ -168,7 +168,7 @@
       "topSpeed": 250,
       "price": "~$57,990"
     },
-    "Cupra|Formentor|2022|VZx": {
+    "CUPRA|Formentor|2022|VZx": {
       "engine": "1.4L I4 TSI PHEV",
       "fuelType": "plug-in hybrid",
       "displacement": 1395,
@@ -189,7 +189,7 @@
       "topSpeed": 210,
       "price": "~$62,990"
     },
-    "Cupra|Formentor|2023|V": {
+    "CUPRA|Formentor|2023|V": {
       "engine": "1.5L I4 TSI",
       "fuelType": "petrol",
       "displacement": 1498,
@@ -210,7 +210,7 @@
       "topSpeed": 204,
       "price": "~$42,990"
     },
-    "Cupra|Formentor|2023|VZ": {
+    "CUPRA|Formentor|2023|VZ": {
       "engine": "2.0L I4 TSI",
       "fuelType": "petrol",
       "displacement": 1984,
@@ -231,7 +231,7 @@
       "topSpeed": 250,
       "price": "~$57,990"
     },
-    "Cupra|Formentor|2023|VZx": {
+    "CUPRA|Formentor|2023|VZx": {
       "engine": "1.4L I4 TSI PHEV",
       "fuelType": "plug-in hybrid",
       "displacement": 1395,
@@ -252,7 +252,7 @@
       "topSpeed": 210,
       "price": "~$62,990"
     },
-    "Cupra|Formentor|2024|V": {
+    "CUPRA|Formentor|2024|V": {
       "engine": "1.5L I4 TSI",
       "fuelType": "petrol",
       "displacement": 1498,
@@ -273,7 +273,7 @@
       "topSpeed": 204,
       "price": "~$42,990"
     },
-    "Cupra|Formentor|2024|VZ": {
+    "CUPRA|Formentor|2024|VZ": {
       "engine": "2.0L I4 TSI",
       "fuelType": "petrol",
       "displacement": 1984,
@@ -294,7 +294,7 @@
       "topSpeed": 250,
       "price": "~$57,990"
     },
-    "Cupra|Formentor|2024|VZx": {
+    "CUPRA|Formentor|2024|VZx": {
       "engine": "1.4L I4 TSI PHEV",
       "fuelType": "plug-in hybrid",
       "displacement": 1395,
@@ -315,7 +315,7 @@
       "topSpeed": 210,
       "price": "~$62,990"
     },
-    "Cupra|Formentor|2025|VZ": {
+    "CUPRA|Formentor|2025|VZ": {
       "engine": "2.0L I4 TSI",
       "fuelType": "petrol",
       "displacement": 1984,
@@ -336,7 +336,7 @@
       "topSpeed": 250,
       "price": "~$60,990"
     },
-    "Cupra|Formentor|2026|VZ": {
+    "CUPRA|Formentor|2026|VZ": {
       "engine": "2.0L I4 TSI",
       "fuelType": "petrol",
       "displacement": 1984,
@@ -357,7 +357,7 @@
       "topSpeed": 250,
       "price": "~$60,990"
     },
-    "Cupra|Leon|2022|VZ": {
+    "CUPRA|Leon|2022|VZ": {
       "engine": "2.0L I4 TSI",
       "fuelType": "petrol",
       "displacement": 1984,
@@ -378,7 +378,7 @@
       "topSpeed": 250,
       "price": "~$54,990"
     },
-    "Cupra|Leon|2023|VZ": {
+    "CUPRA|Leon|2023|VZ": {
       "engine": "2.0L I4 TSI",
       "fuelType": "petrol",
       "displacement": 1984,
@@ -399,7 +399,7 @@
       "topSpeed": 250,
       "price": "~$54,990"
     },
-    "Cupra|Leon|2024|VZ": {
+    "CUPRA|Leon|2024|VZ": {
       "engine": "2.0L I4 TSI",
       "fuelType": "petrol",
       "displacement": 1984,
@@ -420,7 +420,7 @@
       "topSpeed": 250,
       "price": "~$54,990"
     },
-    "Cupra|Ateca|2022|VZ": {
+    "CUPRA|Ateca|2022|VZ": {
       "engine": "2.0L I4 TSI",
       "fuelType": "petrol",
       "displacement": 1984,
@@ -441,7 +441,7 @@
       "topSpeed": 247,
       "price": "~$56,990"
     },
-    "Cupra|Ateca|2023|VZ": {
+    "CUPRA|Ateca|2023|VZ": {
       "engine": "2.0L I4 TSI",
       "fuelType": "petrol",
       "displacement": 1984,
@@ -462,7 +462,7 @@
       "topSpeed": 247,
       "price": "~$56,990"
     },
-    "Cupra|Ateca|2024|VZ": {
+    "CUPRA|Ateca|2024|VZ": {
       "engine": "2.0L I4 TSI",
       "fuelType": "petrol",
       "displacement": 1984,
@@ -483,7 +483,7 @@
       "topSpeed": 247,
       "price": "~$56,990"
     },
-    "Cupra|Tavascan|2025|Endurance": {
+    "CUPRA|Tavascan|2025|Endurance": {
       "engine": "Single Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -504,7 +504,7 @@
       "topSpeed": 180,
       "price": "~$60,990"
     },
-    "Cupra|Tavascan|2025|VZ": {
+    "CUPRA|Tavascan|2025|VZ": {
       "engine": "Dual Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -525,7 +525,7 @@
       "topSpeed": 180,
       "price": "~$74,990"
     },
-    "Cupra|Tavascan|2026|Endurance": {
+    "CUPRA|Tavascan|2026|Endurance": {
       "engine": "Single Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -546,7 +546,7 @@
       "topSpeed": 180,
       "price": "~$60,990"
     },
-    "Cupra|Tavascan|2026|VZ": {
+    "CUPRA|Tavascan|2026|VZ": {
       "engine": "Dual Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -567,7 +567,7 @@
       "topSpeed": 180,
       "price": "~$74,990"
     },
-    "Cupra|Terramar|2025|VZ": {
+    "CUPRA|Terramar|2025|VZ": {
       "engine": "1.5L I4 TSI eHybrid",
       "fuelType": "plug-in hybrid",
       "displacement": 1498,
@@ -588,7 +588,7 @@
       "topSpeed": 200,
       "price": "~$60,000"
     },
-    "Cupra|Terramar|2026|VZ": {
+    "CUPRA|Terramar|2026|VZ": {
       "engine": "1.5L I4 TSI eHybrid",
       "fuelType": "plug-in hybrid",
       "displacement": 1498,
@@ -609,7 +609,7 @@
       "topSpeed": 200,
       "price": "~$60,000"
     },
-    "Xpeng|G6|2024|Standard Range": {
+    "XPENG|G6|2024|Standard Range": {
       "engine": "Single Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -630,7 +630,7 @@
       "topSpeed": 200,
       "price": "~$54,800"
     },
-    "Xpeng|G6|2024|Long Range": {
+    "XPENG|G6|2024|Long Range": {
       "engine": "Single Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -651,7 +651,7 @@
       "topSpeed": 200,
       "price": "~$59,800"
     },
-    "Xpeng|G6|2024|Performance": {
+    "XPENG|G6|2024|Performance": {
       "engine": "Dual Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -672,7 +672,7 @@
       "topSpeed": 200,
       "price": "~$64,800"
     },
-    "Xpeng|G6|2025|Standard Range": {
+    "XPENG|G6|2025|Standard Range": {
       "engine": "Single Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -693,7 +693,7 @@
       "topSpeed": 200,
       "price": "~$54,800"
     },
-    "Xpeng|G6|2025|Long Range": {
+    "XPENG|G6|2025|Long Range": {
       "engine": "Single Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -714,7 +714,7 @@
       "topSpeed": 200,
       "price": "~$59,800"
     },
-    "Xpeng|G6|2025|Performance": {
+    "XPENG|G6|2025|Performance": {
       "engine": "Dual Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -735,7 +735,7 @@
       "topSpeed": 200,
       "price": "~$64,800"
     },
-    "Xpeng|G6|2026|Standard Range": {
+    "XPENG|G6|2026|Standard Range": {
       "engine": "Single Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -756,7 +756,7 @@
       "topSpeed": 200,
       "price": "~$54,800"
     },
-    "Xpeng|G6|2026|Long Range": {
+    "XPENG|G6|2026|Long Range": {
       "engine": "Single Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -777,7 +777,7 @@
       "topSpeed": 200,
       "price": "~$59,800"
     },
-    "Xpeng|G6|2026|Performance": {
+    "XPENG|G6|2026|Performance": {
       "engine": "Dual Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -798,7 +798,7 @@
       "topSpeed": 200,
       "price": "~$64,800"
     },
-    "Xpeng|G9|2025|Long Range": {
+    "XPENG|G9|2025|Long Range": {
       "engine": "Single Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -819,7 +819,7 @@
       "topSpeed": 200,
       "price": "~$76,800"
     },
-    "Xpeng|G9|2025|Performance": {
+    "XPENG|G9|2025|Performance": {
       "engine": "Dual Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -840,7 +840,7 @@
       "topSpeed": 200,
       "price": "~$86,800"
     },
-    "Xpeng|G9|2026|Long Range": {
+    "XPENG|G9|2026|Long Range": {
       "engine": "Single Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -861,7 +861,7 @@
       "topSpeed": 200,
       "price": "~$76,800"
     },
-    "Xpeng|G9|2026|Performance": {
+    "XPENG|G9|2026|Performance": {
       "engine": "Dual Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -882,7 +882,7 @@
       "topSpeed": 200,
       "price": "~$86,800"
     },
-    "Xpeng|X9|2025|Long Range": {
+    "XPENG|X9|2025|Long Range": {
       "engine": "Single Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -903,7 +903,7 @@
       "topSpeed": 200,
       "price": "~$90,000"
     },
-    "Xpeng|X9|2025|Performance": {
+    "XPENG|X9|2025|Performance": {
       "engine": "Dual Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -924,7 +924,7 @@
       "topSpeed": 200,
       "price": "~$100,000"
     },
-    "Xpeng|X9|2026|Long Range": {
+    "XPENG|X9|2026|Long Range": {
       "engine": "Single Motor Electric",
       "fuelType": "electric",
       "displacement": null,
@@ -945,7 +945,7 @@
       "topSpeed": 200,
       "price": "~$90,000"
     },
-    "Xpeng|X9|2026|Performance": {
+    "XPENG|X9|2026|Performance": {
       "engine": "Dual Motor Electric",
       "fuelType": "electric",
       "displacement": null,
