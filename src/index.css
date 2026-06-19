@@ -180,6 +180,24 @@ input  { font-family: inherit; }
   font-family: 'Barlow Condensed', sans-serif;
 }
 
+/* Unified make+model search */
+.mms-wrap .mms-input { padding-left: 30px; }
+.mms-icon {
+  position: absolute;
+  left: 10px; top: 50%;
+  transform: translateY(-50%);
+  font-size: 16px;
+  color: #555;
+  pointer-events: none;
+  z-index: 1;
+}
+.mms-option { display: flex; align-items: baseline; gap: 0; }
+.mms-make { color: #888; font-size: 13px; }
+.mms-dot { color: #444; }
+.mms-model { color: #ddd; font-weight: 600; }
+.mms-option.hi .mms-make { color: #bbb; }
+.mms-option.hi .mms-model { color: #fff; }
+
 /* Spec table rows */
 .spec-row:hover td {
   background: #111 !important;

@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import { MAKES, lookup, preloadMake } from '../data/index.js'
 import { BODY_TYPES, getBodyType } from '../utils/bodyType.js'
 import TrimBadge from './TrimBadge.jsx'
-import SearchSelect from './SearchSelect.jsx'
+import MakeModelSearch from './MakeModelSearch.jsx'
 
 const COLORS = ['#C8F04A', '#60C8FF', '#FF7043', '#B39DFF']
 const BODY_LABELS = {
@@ -21,16 +21,6 @@ export default function Slot({ index, initial, onResult, onClear }) {
   const [ok, setOk]             = useState(false)
   const [loading, setLoading]   = useState(false)
 
-  const makes  = Object.keys(MAKES).sort()
-  const models = make
-    ? Object.keys(MAKES[make] || {})
-        .filter(m => bodyType === 'All' ||
-          Object.values(MAKES[make][m] || {}).some(trims =>
-            trims.some(t => getBodyType(m, t) === bodyType)
-          )
-        )
-        .sort((a, b) => a.localeCompare(b))
-    : []
   const years = model
     ? Object.keys(MAKES[make]?.[model] || {})
         .filter(y => bodyType === 'All' ||
@@ -99,26 +89,19 @@ export default function Slot({ index, initial, onResult, onClear }) {
         color: ok ? color : '#2a2a2a', textTransform: 'uppercase', marginBottom: 10
       }}>CAR {index + 1}</div>
 
-      <SearchSelect
-        options={makes}
-        value={make}
-        placeholder="— Make —"
+      <MakeModelSearch
+        value={make && model ? { make, model } : null}
+        bodyType={bodyType}
         loadedColor={ok ? color : null}
-        onChange={v => { setMake(v); setModel(''); setYear(''); setTrim(''); setErr(''); setOk(false); onClear(index); preloadMake(v) }}
+        onChange={({ make: mk, model: md }) => {
+          setMake(mk); setModel(md); setBodyType('All'); setYear(''); setTrim('')
+          setErr(''); setOk(false); onClear(index); preloadMake(mk)
+        }}
       />
 
-      <select value={bodyType} onChange={e => { setBodyType(e.target.value); setModel(''); setYear(''); setTrim(''); setErr(''); setOk(false); onClear(index) }} style={sel}>
+      <select value={bodyType} onChange={e => { setBodyType(e.target.value); setYear(''); setTrim(''); setErr(''); setOk(false); onClear(index) }} style={sel}>
         {BODY_TYPES.map(bt => <option key={bt} value={bt}>{BODY_LABELS[bt]}</option>)}
       </select>
-
-      <SearchSelect
-        options={models}
-        value={model}
-        placeholder="— Model —"
-        loadedColor={ok ? color : null}
-        disabled={!make}
-        onChange={v => { setModel(v); setYear(''); setTrim(''); setErr(''); setOk(false); onClear(index) }}
-      />
 
       <select value={year} onChange={e => { setYear(e.target.value); setTrim(''); setErr(''); setOk(false); onClear(index) }} style={sel}>
         <option value="">— Year —</option>

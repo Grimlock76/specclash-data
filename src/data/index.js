@@ -14,6 +14,14 @@ import s9 from './supplement9.json'
 
 export const MAKES = makesData
 
+// Flat make+model index powering the unified search box (built once at load)
+export const MODEL_INDEX = Object.entries(MAKES).flatMap(([make, models]) =>
+  Object.keys(models).map(model => ({
+    make, model,
+    hay: (make + ' ' + model).toLowerCase()
+  }))
+)
+
 // Core specs always in memory at startup (Holden, Ford, HSV, FPV base data ~858 KB)
 const cache = Object.assign({},
   s1.specs, s2.specs, s3.specs, s4.specs, s5.specs,
