@@ -85,6 +85,9 @@ export default function App() {
               <span style={{ fontSize: 12 }}>↗</span> Share
             </button>
           )}
+          <button className="hdr-btn" onClick={() => { window.location.hash = '#/editor' }}>
+            <span style={{ fontSize: 12 }}>▶</span> Video Editor
+          </button>
           <button className={`hdr-btn${isPro ? ' active' : ''}`} onClick={() => setShowPro(p => !p)}>
             <span>★</span>{isPro ? 'PRO ✓' : 'GO PRO'}
           </button>
