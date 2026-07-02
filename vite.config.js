@@ -23,10 +23,24 @@ export default defineConfig({
         ],
       },
       workbox: {
-        maximumFileSizeToCacheInBytes: 15 * 1024 * 1024,
+        // Main bundle (~1.5 MB incl. core spec data) still precaches; 3 MiB gives headroom.
+        maximumFileSizeToCacheInBytes: 3 * 1024 * 1024,
         navigateFallback: 'index.html',
         globPatterns: ['**/*.{js,css,html,ico,png,svg}'],
+        // Lazy-loaded per-make spec chunks (~13 MB across ~230 files) must NOT be
+        // precached — visitors cache only the makes they view, via runtimeCaching below.
+        globIgnores: ['**/assets/supplement*.js'],
         runtimeCaching: [
+          {
+            urlPattern: /\/assets\/supplement[^/]*\.js$/,
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'spec-chunks',
+              // Filenames are content-hashed, so cached entries never go stale.
+              expiration: { maxEntries: 300, maxAgeSeconds: 60 * 60 * 24 * 365 },
+              cacheableResponse: { statuses: [0, 200] },
+            },
+          },
           {
             urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,
             handler: 'CacheFirst',
