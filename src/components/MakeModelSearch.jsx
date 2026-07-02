@@ -9,6 +9,17 @@ function modelHasBody(make, model, bodyType) {
   return false
 }
 
+// Report searches with no matches so catalog gaps surface in Vercel logs.
+// Debounced by the caller's effect; deduped per session here.
+const reportedMisses = new Set()
+function reportMiss(q, bodyType) {
+  const key = q + '|' + bodyType
+  if (reportedMisses.has(key)) return
+  reportedMisses.add(key)
+  const params = new URLSearchParams({ q, ...(bodyType !== 'All' && { b: bodyType }) })
+  fetch(`/api/miss?${params}`).catch(() => {})
+}
+
 // Lower rank = better match (model prefix beats make prefix beats substring)
 function rank(e, q) {
   const model = e.model.toLowerCase(), make = e.make.toLowerCase()
@@ -36,6 +47,14 @@ export default function MakeModelSearch({ value, bodyType = 'All', onChange, loa
     }
     return list.slice(0, 60)
   }, [query, bodyType])
+
+  // A miss only counts once the user has paused typing on a 3+ char query.
+  useEffect(() => {
+    const q = query.trim().toLowerCase()
+    if (!open || q.length < 3 || results.length > 0) return
+    const t = setTimeout(() => reportMiss(q, bodyType), 900)
+    return () => clearTimeout(t)
+  }, [query, results, open, bodyType])
 
   useEffect(() => {
     if (!open) return

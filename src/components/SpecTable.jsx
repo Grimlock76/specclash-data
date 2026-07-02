@@ -1,4 +1,4 @@
-import { Fragment } from 'react'
+import { Fragment, useState } from 'react'
 import config from '../data/config.json'
 
 const { slotColors: COLORS, groups: GROUPS, labels: S } = config
@@ -26,10 +26,21 @@ function getBest(key, loaded) {
     const max = Math.max(...vals.map(v => v.n))
     best = vals.filter(v => v.n === max)
   } else return null
-  return best.length === 1 ? best[0].idx : null
+  return best.length === 1 ? best[0] : null
+}
+
+// Percent difference vs the best value, signed as the raw number moves:
+// less power reads −x%, slower 0-100 reads +x%.
+function deltaPct(specVal, bestN) {
+  const n = parseFloat((specVal || '').replace(/[^0-9.]/g, ''))
+  if (isNaN(n) || !bestN) return null
+  const pct = ((n - bestN) / bestN) * 100
+  if (Math.abs(pct) < 0.5) return null
+  return `${pct > 0 ? '+' : '−'}${Math.abs(pct).toFixed(Math.abs(pct) < 10 ? 1 : 0)}%`
 }
 
 export default function SpecTable({ loaded, onShare }) {
+  const [showDelta, setShowDelta] = useState(false)
   if (loaded.length === 0) return null
 
   const allSame = key => loaded.length > 1 && loaded.every(c => c.specs?.[key] === loaded[0].specs?.[key])
@@ -46,6 +57,10 @@ export default function SpecTable({ loaded, onShare }) {
     <div style={{ padding: '20px 24px 60px' }}>
       {/* Toolbar */}
       <div className="no-print" style={{ display: 'flex', gap: 8, marginBottom: 14, justifyContent: 'flex-end' }}>
+        {loaded.length > 1 && (
+          <button className="tbl-btn" onClick={() => setShowDelta(d => !d)}
+            style={showDelta ? { color: '#C8F04A', borderColor: '#C8F04A44' } : undefined}>Δ %</button>
+        )}
         <button className="tbl-btn" onClick={() => window.print()}>⎙ Print</button>
         {onShare && <button className="tbl-btn" onClick={onShare}>↗ Share</button>}
       </div>
@@ -76,11 +91,13 @@ export default function SpecTable({ loaded, onShare }) {
                       <td style={{ padding: '8px 12px', fontSize: 13, color: '#888', whiteSpace: 'nowrap' }}>{getLabel(key)}</td>
                       {loaded.map(c => {
                         const val = c.specs?.[key] || '—'
-                        const isBest = best === c.idx
+                        const isBest = best?.idx === c.idx
+                        const delta = showDelta && !same && best && !isBest ? deltaPct(c.specs?.[key], best.n) : null
                         return (
                           <td key={c.idx} style={{ padding: '8px 12px', textAlign: 'center', borderLeft: '1px solid #0f0f0f', fontSize: 15, fontWeight: isBest ? 600 : 400, color: same ? '#484848' : isBest ? COLORS[c.idx] : '#d8d8d8' }}>
                             {isBest && !same && <span style={{ fontSize: 10, marginRight: 4, color: COLORS[c.idx] }}>▲</span>}
                             {val}
+                            {delta && <span className="delta-pct" style={{ fontSize: 11, marginLeft: 5, color: '#666' }}>{delta}</span>}
                           </td>
                         )
                       })}

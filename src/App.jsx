@@ -1,4 +1,4 @@
-import { useState, useCallback } from 'react'
+import { useState, useCallback, useEffect, useMemo } from 'react'
 import './index.css'
 import Slot from './components/Slot'
 import ScoreCard from './components/ScoreCard'
@@ -27,15 +27,55 @@ function readPro() {
   try { return localStorage.getItem('sc_pro') === '1' } catch { return false }
 }
 
+// Any makes.json entry is loadable (gap-check guarantees makes ⊆ SPECS).
+function randomCar() {
+  const pick = a => a[Math.floor(Math.random() * a.length)]
+  const make = pick(Object.keys(MAKES))
+  const model = pick(Object.keys(MAKES[make]))
+  const year = pick(Object.keys(MAKES[make][model]))
+  return { make, model, year, trim: pick(MAKES[make][model][year]) }
+}
+
+function readRecents() {
+  try { return JSON.parse(localStorage.getItem('sc_recent')) || [] } catch { return [] }
+}
+
 export default function App() {
   const [cars, setCars]       = useState(Array(4).fill(null))
-  const [initials]            = useState(parseUrlCars)
+  const [seeds, setSeeds]     = useState(parseUrlCars)
+  const [epoch, setEpoch]     = useState(0) // bump to remount slots with new seeds
   const [isPro, setIsPro]     = useState(readPro)
   const [showPro, setShowPro] = useState(false)
   const [toast, setToast]     = useState(false)
 
   const onResult = useCallback((i, r) => setCars(p => { const n = [...p]; n[i] = r; return n }), [])
   const onClear  = useCallback((i)    => setCars(p => { const n = [...p]; n[i] = null; return n }), [])
+
+  const seedSlots = useCallback(picks => {
+    setCars(Array(4).fill(null))
+    setSeeds([...picks, null, null, null, null].slice(0, 4))
+    setEpoch(e => e + 1)
+  }, [])
+
+  const randomMatchup = () => seedSlots([randomCar(), randomCar()])
+
+  // Record a comparison once 2+ cars are loaded; newest first, deduped, keep 5.
+  // localStorage is the source of truth — recents only render when nothing is
+  // loaded, so re-reading on the next cars change is always fresh enough.
+  useEffect(() => {
+    const active = cars.filter(Boolean)
+    if (active.length < 2) return
+    const entry = {
+      cars: active.map(({ make, model, year, trim }) => ({ make, model, year, trim })),
+      labels: active.map(c => c.label),
+    }
+    const sig = entry.labels.join(' vs ')
+    const next = [entry, ...readRecents().filter(r => r.labels.join(' vs ') !== sig)].slice(0, 5)
+    try { localStorage.setItem('sc_recent', JSON.stringify(next)) } catch { /* private mode */ }
+  }, [cars])
+  // `cars` is the deliberate trigger to re-read localStorage after the effect above writes it.
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  const recents = useMemo(() => readRecents(), [cars])
 
   const activatePro = () => {
     try { localStorage.setItem('sc_pro', '1') } catch {}
@@ -80,6 +120,9 @@ export default function App() {
           </p>
         </div>
         <div style={{ display: 'flex', gap: 8, alignItems: 'center', flexShrink: 0, marginTop: 6 }}>
+          <button className="hdr-btn" onClick={randomMatchup} title="Random matchup">
+            <span style={{ fontSize: 13 }}>🎲</span> Random
+          </button>
           {anyLoaded && (
             <button className="hdr-btn" onClick={share}>
               <span style={{ fontSize: 12 }}>↗</span> Share
@@ -107,7 +150,7 @@ export default function App() {
       <div className="no-print" style={{ padding: '20px 24px 0' }}>
         <div className="slot-grid">
           {activeSlots.map(i => (
-            <Slot key={i} index={i} initial={initials[i]} onResult={onResult} onClear={onClear} />
+            <Slot key={`${i}-${epoch}`} index={i} initial={seeds[i]} onResult={onResult} onClear={onClear} />
           ))}
           {!isPro && (
             <div className="pro-slot" onClick={() => setShowPro(true)}>
@@ -127,9 +170,21 @@ export default function App() {
             Select a make, model, year and trim — then hit LOAD.
           </p>
         )}
+        {!anyLoaded && recents.length > 0 && (
+          <div style={{ marginTop: 10, display: 'flex', flexWrap: 'wrap', gap: 6, alignItems: 'center' }}>
+            <span style={{ fontSize: 11, letterSpacing: 2, color: '#333', textTransform: 'uppercase', fontFamily: "'Barlow Condensed', sans-serif", fontWeight: 700 }}>Recent</span>
+            {recents.map(r => (
+              <button key={r.labels.join(' vs ')} className="recent-chip" onClick={() => seedSlots(r.cars)} style={{
+                background: '#0d0d0d', border: '1px solid #1a1a1a', borderRadius: 6,
+                color: '#666', fontSize: 12, padding: '5px 10px', cursor: 'pointer',
+                maxWidth: 340, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap'
+              }}>{r.labels.join(' vs ')}</button>
+            ))}
+          </div>
+        )}
       </div>
 
-      {loaded.length >= 2 && <ScoreCard loaded={loaded} />}
+      {loaded.length >= 2 && <ScoreCard loaded={loaded} isPro={isPro} onProGate={() => setShowPro(true)} />}
       {loaded.length > 0 && <SpecTable loaded={loaded} onShare={share} />}
 
       {toast && <div key={Date.now()} className="toast">Link Copied ✓</div>}
