@@ -64,7 +64,8 @@ export default defineConfig({
     }),
   ],
   server: {
-    host: true,
+    // localhost only — set `host: true` temporarily if testing from a phone,
+    // but don't commit it: it exposes the dev server to the whole LAN.
     port: 5173,
   },
 })

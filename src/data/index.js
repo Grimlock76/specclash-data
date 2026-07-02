@@ -49,14 +49,18 @@ function ensureSupp(n) {
   return pr
 }
 
+// Own-property check: `make` can come from the URL, and inherited keys like
+// '__proto__' would otherwise return non-array objects here.
+const suppsFor = make => Object.hasOwn(MAKE_SUPPS, make) ? MAKE_SUPPS[make] : null
+
 // Exported so Slot can fire-and-forget preloads on make selection
 export function preloadMake(make) {
-  const nums = MAKE_SUPPS[make]
+  const nums = suppsFor(make)
   if (nums) nums.forEach(n => ensureSupp(n))
 }
 
 async function primeCache(make) {
-  const nums = MAKE_SUPPS[make]
+  const nums = suppsFor(make)
   if (!nums) return
   await Promise.all(nums.map(ensureSupp))
 }
