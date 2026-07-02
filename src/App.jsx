@@ -4,6 +4,7 @@ import Slot from './components/Slot'
 import ScoreCard from './components/ScoreCard'
 import SpecTable from './components/SpecTable'
 import ProPanel from './components/ProPanel'
+import Footer from './components/Footer'
 import { MAKES } from './data/index.js'
 import { VERSION } from './version.js'
 
@@ -186,6 +187,8 @@ export default function App() {
 
       {loaded.length >= 2 && <ScoreCard loaded={loaded} isPro={isPro} onProGate={() => setShowPro(true)} />}
       {loaded.length > 0 && <SpecTable loaded={loaded} onShare={share} />}
+
+      <Footer />
 
       {toast && <div key={Date.now()} className="toast">Link Copied ✓</div>}
 
