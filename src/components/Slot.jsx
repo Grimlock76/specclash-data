@@ -5,6 +5,35 @@ import TrimBadge from './TrimBadge.jsx'
 import MakeModelSearch from './MakeModelSearch.jsx'
 
 const COLORS = ['#C8F04A', '#60C8FF', '#FF7043', '#B39DFF']
+
+// Group trims by generation code (leading short token: VB, VF, ZB, WN, MkIV…).
+// Returns ordered [{gen, trims}] when grouping genuinely consolidates the list
+// (gen-prefixed cars like Commodore), or null to render a flat list (Corolla).
+function buildTrimGroups(trims, modelYears) {
+  if (trims.length < 8) return null
+  const isGen = tok => /^[A-Z0-9]{1,4}$/.test(tok) && /[A-Z]/.test(tok)
+  const groups = new Map()
+  for (const t of trims) {
+    const tok = t.split(' ')[0]
+    const key = isGen(tok) ? tok : '—'
+    if (!groups.has(key)) groups.set(key, [])
+    groups.get(key).push(t)
+  }
+  // Evidence must come from gen-keyed groups only — the '—' bucket doesn't count,
+  // otherwise plain trim names (SX, ZR…) drag Corolla-style lists into bogus groups.
+  const genGroups = [...groups.entries()].filter(([k]) => k !== '—')
+  const multi = genGroups.filter(([, a]) => a.length >= 2)
+  const inGen = genGroups.reduce((s, [, a]) => s + a.length, 0)
+  if (genGroups.length < 2 || multi.length < 2 || inGen < trims.length * 0.5) return null
+  const minYear = {}
+  for (const y of Object.keys(modelYears)) for (const t of modelYears[y]) {
+    const yn = +y; if (minYear[t] === undefined || yn < minYear[t]) minYear[t] = yn
+  }
+  const genYear = g => Math.min(...groups.get(g).map(t => minYear[t] ?? 9999))
+  return [...groups.keys()]
+    .sort((a, b) => genYear(a) - genYear(b))
+    .map(gen => ({ gen, trims: groups.get(gen) }))
+}
 const BODY_LABELS = {
   All: '— Body Type —', Sedan: 'Sedan', Wagon: 'Wagon',
   Ute: 'Ute', SUV: 'SUV', Coupe: 'Coupe', Hatch: 'Hatchback', Van: 'Van / Commercial'
@@ -43,6 +72,9 @@ export default function Slot({ index, initial, onResult, onClear }) {
   // Latest year that offers the chosen trim — used when no year is picked.
   const resolveYear = () => year ||
     Object.keys(modelYears).filter(y => (modelYears[y] || []).includes(trim)).sort().pop() || ''
+
+  // Group the trim list by generation when it helps (e.g. Commodore VB…ZB).
+  const trimGroups = year ? null : buildTrimGroups(trims, modelYears)
 
   // Body types this specific car actually comes in (Camaro → Coupe; Commodore → Sedan/Wagon).
   // Before a model is picked, fall back to all types so it can still pre-filter the search.
@@ -125,7 +157,16 @@ export default function Slot({ index, initial, onResult, onClear }) {
 
       <select value={trim} onChange={e => { const v = e.target.value; setTrim(v); if (v && year && !(modelYears[year] || []).includes(v)) setYear(''); setErr(''); setOk(false); onClear(index) }} style={sel}>
         <option value="">— Trim —</option>
-        {trims.map(t => <option key={t} value={t}>{t}</option>)}
+        {trimGroups
+          ? trimGroups.map(({ gen, trims: gts }) =>
+              gen === '—'
+                ? gts.map(t => <option key={t} value={t}>{t}</option>)
+                : <optgroup key={gen} label={gen}>
+                    {gts.map(t => <option key={t} value={t}>{t}</option>)}
+                  </optgroup>
+            )
+          : trims.map(t => <option key={t} value={t}>{t}</option>)
+        }
       </select>
 
       <select value={year} onChange={e => { const v = e.target.value; setYear(v); if (v && trim && !(modelYears[v] || []).includes(trim)) setTrim(''); setErr(''); setOk(false); onClear(index) }} style={sel}>
