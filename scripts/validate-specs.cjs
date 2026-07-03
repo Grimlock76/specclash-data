@@ -91,8 +91,8 @@ for (const f of files) {
     if (s.pr !== null && year && year >= 2000 && s.pr < 9000) flag('price-low-modern', key, f, `$${s.pr} (${year})`);
     if (s.pr !== null && year && year < 1985 && s.pr > 120000) flag('price-high-classic', key, f, `$${s.pr} (${year})`);
 
-    // old-format kW↔hp conversion consistency
-    if (s.hpStr) {
+    // old-format kW↔hp conversion consistency ("hp gross" = intentional SAE-gross label)
+    if (s.hpStr && !/gross/i.test(s.hpStr)) {
       const m = s.hpStr.replace(/,/g, '').match(/(\d+(\.\d+)?)\s*kW.*?(\d+(\.\d+)?)\s*hp/i);
       if (m) {
         const kw = +m[1], hp = +m[3];
