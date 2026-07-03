@@ -72,11 +72,13 @@ check('recent chip recorded from previous comparison', chipText.includes('Commod
 await page.locator('.recent-chip').first().click()
 check('recent chip reloads the matchup', await waitLoaded(2) >= 2)
 
-// --- Random matchup (retry once: the click can land mid-remount) ---
-await page.waitForTimeout(600) // let the recent-chip reload settle before clicking
+// --- Random matchup (JS click: the header re-renders as cars load, which
+// detaches the button mid-click and times out Playwright's actionability) ---
+await page.waitForTimeout(600)
 let randomOk = false
 for (let attempt = 0; attempt < 2 && !randomOk; attempt++) {
-  await page.locator('button', { hasText: 'Random' }).click()
+  await page.evaluate(() =>
+    [...document.querySelectorAll('button')].find(b => b.textContent.includes('Random'))?.click())
   await page.waitForTimeout(400) // slots clear + remount
   randomOk = await waitLoaded(2) >= 2
 }

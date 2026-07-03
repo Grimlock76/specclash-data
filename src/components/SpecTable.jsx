@@ -1,5 +1,6 @@
 import { Fragment, useState } from 'react'
 import config from '../data/config.json'
+import { downloadMatchupCard } from '../utils/matchupCard.js'
 
 const { slotColors: COLORS, groups: GROUPS, labels: S } = config
 
@@ -57,6 +58,10 @@ export default function SpecTable({ loaded, onShare }) {
     <div style={{ padding: '20px 24px 60px' }}>
       {/* Toolbar */}
       <div className="no-print" style={{ display: 'flex', gap: 8, marginBottom: 14, justifyContent: 'flex-end' }}>
+        {loaded.length > 1 && (
+          <button className="tbl-btn card-btn" onClick={() => downloadMatchupCard(loaded)}
+            title="Download a story-format matchup card (1080×1920) for TikTok / Instagram">⬇ Card</button>
+        )}
         {loaded.length > 1 && (
           <button className="tbl-btn" onClick={() => setShowDelta(d => !d)}
             style={showDelta ? { color: '#C8F04A', borderColor: '#C8F04A44' } : undefined}>Δ %</button>
