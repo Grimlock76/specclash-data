@@ -508,6 +508,18 @@ function getBodyType(model, trim = '') {
   if (/\bim6\b/.test(m)) return 'SUV'                            // IM Motors
   if (/\btiggo 9\b/.test(m)) return 'SUV'                         // Chery (also caught by tiggo rule)
 
+  // ── s240 pack (KGM / Denza / Iveco / Farizon + EV-brand depth) ──
+  if (/\bactyon sports\b/.test(m)) return 'Ute'                  // SsangYong ute — BEFORE actyon
+  if (/\btorres\b|\bactyon\b/.test(m)) return 'SUV'               // KGM (+ SsangYong Actyon)
+  if (m === 'b5') return 'SUV'                                   // Denza B5
+  if (/\bdaily\b/.test(m)) return 'Van'                          // Iveco
+  if (m === 'sv') return 'Van'                                   // Farizon SV
+  if (/\bex5\b|\bstarray\b/.test(m)) return 'SUV'                 // Geely
+  if (m === '7x' || m === 'x') return 'SUV'                      // Zeekr 7X / X
+  if (m === '009') return 'Van'                                  // Zeekr 009 people mover
+  if (/\bc10\b|\bb10\b/.test(m)) return 'SUV'                     // Leapmotor
+  if (m === '#1' || m === '#3' || m === '#5') return 'SUV'       // Smart EVs
+
   return 'Sedan'
 }
 

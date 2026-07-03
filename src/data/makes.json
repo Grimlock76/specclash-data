@@ -26751,6 +26751,8 @@
       ],
       "2025": [
         "P703 FX4 Max",
+        "P703 PHEV Stormtrak",
+        "P703 PHEV XLT",
         "P703 Raptor",
         "P703 Wildtrak",
         "P703 XL",
@@ -26758,6 +26760,8 @@
       ],
       "2026": [
         "P703 FX4 Max",
+        "P703 PHEV Stormtrak",
+        "P703 PHEV XLT",
         "P703 Raptor",
         "P703 Wildtrak",
         "P703 XL",
@@ -27381,42 +27385,42 @@
   "Geely": {
     "Coolray": {
       "2019": [
-        "Standard",
-        "Sport"
+        "Sport",
+        "Standard"
       ],
       "2020": [
-        "Standard",
-        "Sport"
+        "Sport",
+        "Standard"
       ],
       "2021": [
-        "Standard",
-        "Sport"
+        "Sport",
+        "Standard"
       ],
       "2022": [
-        "Standard",
-        "Sport"
+        "Sport",
+        "Standard"
       ],
       "2023": [
-        "Standard",
-        "Sport"
+        "Sport",
+        "Standard"
       ]
     },
     "Monjaro": {
       "2022": [
-        "2.0T FWD",
-        "2.0T AWD"
+        "2.0T AWD",
+        "2.0T FWD"
       ],
       "2023": [
-        "2.0T FWD",
-        "2.0T AWD"
+        "2.0T AWD",
+        "2.0T FWD"
       ],
       "2024": [
-        "2.0T FWD",
-        "2.0T AWD"
+        "2.0T AWD",
+        "2.0T FWD"
       ],
       "2025": [
-        "2.0T FWD",
-        "2.0T AWD"
+        "2.0T AWD",
+        "2.0T FWD"
       ]
     },
     "Galaxy L7": {
@@ -27439,6 +27443,24 @@
       ],
       "2025": [
         "Standard"
+      ]
+    },
+    "EX5": {
+      "2025": [
+        "Complete",
+        "Inspire"
+      ],
+      "2026": [
+        "Complete",
+        "Inspire"
+      ]
+    },
+    "Starray EM-i": {
+      "2025": [
+        "Complete"
+      ],
+      "2026": [
+        "Complete"
       ]
     }
   },
@@ -40348,6 +40370,19 @@
         "Prestige",
         "Prestige Plus"
       ]
+    },
+    "C10 REEV": {
+      "2025": [
+        "Style"
+      ],
+      "2026": [
+        "Style"
+      ]
+    },
+    "B10": {
+      "2026": [
+        "Design"
+      ]
     }
   },
   "Lexus": {
@@ -42637,6 +42672,16 @@
       ],
       "2016": [
         "S Dual Cab"
+      ]
+    },
+    "XUV 3XO": {
+      "2025": [
+        "AX5L",
+        "AX7L"
+      ],
+      "2026": [
+        "AX5L",
+        "AX7L"
       ]
     }
   },
@@ -67801,6 +67846,16 @@
         "Brabus",
         "Pro+"
       ]
+    },
+    "#5": {
+      "2025": [
+        "Brabus",
+        "Pro+"
+      ],
+      "2026": [
+        "Brabus",
+        "Pro+"
+      ]
     }
   },
   "Spyker": {
@@ -80194,6 +80249,16 @@
         "AWD Performance",
         "RWD"
       ]
+    },
+    "7X": {
+      "2025": [
+        "Performance AWD",
+        "RWD"
+      ],
+      "2026": [
+        "Performance AWD",
+        "RWD"
+      ]
     }
   },
   "Deepal": {
@@ -80659,6 +80724,101 @@
       "2026": [
         "Performance",
         "RWD"
+      ]
+    }
+  },
+  "KGM": {
+    "Torres": {
+      "2024": [
+        "ELX",
+        "Ultimate"
+      ],
+      "2025": [
+        "ELX",
+        "Ultimate"
+      ],
+      "2026": [
+        "ELX",
+        "Ultimate"
+      ]
+    },
+    "Torres EVX": {
+      "2024": [
+        "Ultimate"
+      ],
+      "2025": [
+        "Ultimate"
+      ],
+      "2026": [
+        "Ultimate"
+      ]
+    },
+    "Actyon": {
+      "2025": [
+        "Ultimate"
+      ],
+      "2026": [
+        "Ultimate"
+      ]
+    }
+  },
+  "Denza": {
+    "B5": {
+      "2025": [
+        "Premium"
+      ],
+      "2026": [
+        "Premium"
+      ]
+    }
+  },
+  "Iveco": {
+    "Daily": {
+      "2015": [
+        "35S"
+      ],
+      "2016": [
+        "35S"
+      ],
+      "2017": [
+        "35S"
+      ],
+      "2018": [
+        "35S"
+      ],
+      "2019": [
+        "35S"
+      ],
+      "2020": [
+        "35S"
+      ],
+      "2021": [
+        "35S"
+      ],
+      "2022": [
+        "35S"
+      ],
+      "2023": [
+        "35S"
+      ],
+      "2024": [
+        "35S"
+      ],
+      "2025": [
+        "35S"
+      ],
+      "2026": [
+        "35S"
+      ]
+    }
+  },
+  "Farizon": {
+    "SV": {
+      "2025": [
+        "LWB"
+      ],
+      "2026": [
+        "LWB"
       ]
     }
   }
