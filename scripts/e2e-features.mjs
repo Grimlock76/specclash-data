@@ -33,6 +33,10 @@ const waitLoaded = async n => {
 await page.goto(carUrl, { waitUntil: 'networkidle' })
 check('URL params load both cars', await waitLoaded(2) >= 2)
 
+// --- Listings link on loaded cars ---
+const href = await page.locator('.listings-link').first().getAttribute('href').catch(() => '')
+check('listings link points at carsales make/model', /carsales\.com\.au\/cars\/holden\/commodore\//.test(href), href)
+
 // --- Δ% toggle ---
 await page.locator('button', { hasText: 'Δ %' }).click()
 await page.waitForTimeout(300)

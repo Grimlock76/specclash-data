@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { AFFILIATE_ACTIVE } from '../utils/listings.js'
 
 export default function Footer() {
   const [showPrivacy, setShowPrivacy] = useState(false)
@@ -10,6 +11,7 @@ export default function Footer() {
         always verify details with the manufacturer or a licensed dealer before making a purchase
         decision. “Price (current est.)” figures are indicative estimates only, not valuations,
         appraisals or offers.
+        {AFFILIATE_ACTIVE && ' Listing links are affiliate links — Spec Clash may earn a commission from purchases made through them, at no cost to you.'}
       </p>
       <button className="no-print" onClick={() => setShowPrivacy(s => !s)} style={{
         background: 'none', border: 'none', padding: 0, marginTop: 10,

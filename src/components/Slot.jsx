@@ -3,7 +3,9 @@ import { MAKES, lookup, preloadMake } from '../data/index.js'
 import { BODY_TYPES, getBodyType } from '../utils/bodyType.js'
 import TrimBadge from './TrimBadge.jsx'
 import MakeModelSearch from './MakeModelSearch.jsx'
-import CarSilhouette, { pickArchetype } from './CarSilhouette.jsx'
+import CarSilhouette from './CarSilhouette.jsx'
+import { listingUrl, logListingClick } from '../utils/listings.js'
+import { pickArchetype } from '../utils/archetype.js'
 
 const COLORS = ['#C8F04A', '#60C8FF', '#FF7043', '#B39DFF']
 
@@ -203,7 +205,18 @@ export default function Slot({ index, initial, onResult, onClear }) {
         }}>✕</button>
       </div>
       {err && <p style={{ color: '#ff4444', fontSize: 12, marginTop: 6, lineHeight: 1.3 }}>{err}</p>}
-      {ok  && <p style={{ color, fontSize: 12, marginTop: 6 }}>✓ Loaded</p>}
+      {ok  && (
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', marginTop: 6 }}>
+          <span style={{ color, fontSize: 12 }}>✓ Loaded</span>
+          <a
+            className="listings-link"
+            href={listingUrl(make, model)}
+            target="_blank" rel="noopener nofollow"
+            onClick={() => logListingClick(make, model)}
+            style={{ color: '#4a4a4a', fontSize: 11, letterSpacing: 0.5, textDecoration: 'underline', textUnderlineOffset: 3 }}
+          >view listings ↗</a>
+        </div>
+      )}
       {ok  && <TrimBadge trim={trim} make={make} color={color} />}
     </div>
   )
