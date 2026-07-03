@@ -187,7 +187,7 @@
       "wt": "1,708 kg",
       "se": "5",
       "ca": "460 L",
-      "pr": "~$47,490",
+      "pr": "~$42,990",
       "aspiration": "NA"
     },
     "Commodore|2013|VF SS": {
@@ -208,7 +208,7 @@
       "wt": "1,708 kg",
       "se": "5",
       "ca": "460 L",
-      "pr": "~$46,990",
+      "pr": "~$41,990",
       "aspiration": "NA"
     },
     "Commodore|2017|VF II SS V REDLINE": {
@@ -3485,27 +3485,6 @@
       "se": "5",
       "ca": "530 L",
       "pr": "~$76,990",
-      "aspiration": "NA"
-    },
-    "Torana|2010|UC SL": {
-      "en": "2.85L I6",
-      "di": "2.85L",
-      "cy": "6",
-      "hp": "63 kW (84 hp)",
-      "tq": "190 Nm",
-      "tx": "3sp man / 3sp auto",
-      "dr": "RWD",
-      "z1": "14.5 sec",
-      "qm": "20.0 sec",
-      "ts": "145 km/h",
-      "fc": "13.0L",
-      "fh": "8.5L",
-      "fx": "10.5L",
-      "ft": "Petrol",
-      "wt": "990 kg",
-      "se": "4",
-      "ca": "N/A",
-      "pr": "~$6,800",
       "aspiration": "NA"
     },
     "HK|1968|Monaro GTS": {
@@ -7832,6 +7811,27 @@
       "ts": "240 km/h",
       "wt": "1,710 kg",
       "pr": "~$47,490",
+      "aspiration": "NA"
+    },
+    "Torana|1978|UC SL": {
+      "en": "2.85L I6",
+      "di": "2.85L",
+      "cy": "6",
+      "hp": "63 kW (84 hp)",
+      "tq": "190 Nm",
+      "tx": "3sp man / 3sp auto",
+      "dr": "RWD",
+      "z1": "14.5 sec",
+      "qm": "20.0 sec",
+      "ts": "145 km/h",
+      "fc": "13.0L",
+      "fh": "8.5L",
+      "fx": "10.5L",
+      "ft": "Petrol",
+      "wt": "990 kg",
+      "se": "4",
+      "ca": "N/A",
+      "pr": "~$6,800",
       "aspiration": "NA"
     }
   }
