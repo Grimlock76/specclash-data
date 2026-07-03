@@ -15,11 +15,11 @@ const SITE = 'https://spec-clash.vercel.app';
 // ── curated segments (popular AU search matchups) ───────────────────────────
 const SEGMENTS = {
   'Utes': [['Toyota','HiLux'],['Ford','Ranger'],['Isuzu','D-MAX'],['Mazda','BT-50'],['Mitsubishi','Triton'],['Nissan','Navara'],['Volkswagen','Amarok'],['GWM','Cannon'],['LDV','T60'],['BYD','Shark'],['Kia','Tasman'],['Toyota','LandCruiser 70']],
-  'Mid-size SUVs': [['Toyota','RAV4'],['Mazda','CX-5'],['Hyundai','Tucson'],['Kia','Sportage'],['Nissan','X-Trail'],['Mitsubishi','Outlander'],['Subaru','Forester'],['Honda','CR-V'],['GWM','Haval H6'],['MG','HS']],
-  'Small SUVs': [['Mazda','CX-30'],['Hyundai','Kona'],['Kia','Seltos'],['MG','ZS'],['Toyota','Corolla Cross'],['GWM','Haval Jolion'],['Omoda','5'],['Suzuki','Jimny']],
-  'Small cars': [['Toyota','Corolla'],['Mazda','3'],['Hyundai','i30'],['Kia','Cerato'],['Volkswagen','Golf'],['Subaru','Impreza'],['MG','MG3']],
-  'Electric cars': [['Tesla','Model Y'],['Tesla','Model 3'],['BYD','Atto 3'],['BYD','Seal'],['BYD','Sealion 7'],['Kia','EV6'],['Hyundai','Ioniq 5'],['Polestar','Polestar 2'],['Geely','EX5'],['MG','MG4']],
-  'Large SUVs & 4x4s': [['Toyota','LandCruiser 300'],['Nissan','Patrol'],['Ford','Everest'],['Isuzu','MU-X'],['Toyota','Prado'],['Mitsubishi','Pajero Sport'],['Kia','Sorento'],['Hyundai','Santa Fe'],['Toyota','Kluger']],
+  'Mid-size SUVs': [['Toyota','RAV4'],['Mazda','CX-5'],['Hyundai','Tucson'],['Kia','Sportage'],['Nissan','X-Trail'],['Mitsubishi','Outlander'],['Subaru','Forester'],['Honda','CR-V'],['GWM','Haval H6'],['MG','HS'],['Volkswagen','Tayron'],['Chery','Tiggo 7 Pro'],['Jaecoo','7']],
+  'Small SUVs': [['Mazda','CX-30'],['Hyundai','Kona'],['Kia','Seltos'],['MG','ZS'],['Toyota','Corolla Cross'],['GWM','Haval Jolion'],['Omoda','5'],['Suzuki','Jimny'],['Chery','Tiggo 4'],['KGM','Torres'],['Mahindra','XUV 3XO']],
+  'Small cars': [['Toyota','Corolla'],['Mazda','3'],['Hyundai','i30'],['Kia','Cerato'],['Kia','K4'],['Volkswagen','Golf'],['Subaru','Impreza'],['MG','MG3']],
+  'Electric cars': [['Tesla','Model Y'],['Tesla','Model 3'],['BYD','Atto 3'],['BYD','Seal'],['BYD','Sealion 7'],['Kia','EV6'],['Kia','EV5'],['Hyundai','Ioniq 5'],['Polestar','Polestar 2'],['Geely','EX5'],['MG','MG4'],['Zeekr','7X'],['Smart','#5'],['Leapmotor','C10']],
+  'Large SUVs & 4x4s': [['Toyota','LandCruiser 300'],['Nissan','Patrol'],['Ford','Everest'],['Isuzu','MU-X'],['Toyota','Prado'],['Mitsubishi','Pajero Sport'],['Kia','Sorento'],['Hyundai','Santa Fe'],['Toyota','Kluger'],['Jaecoo','J8'],['Chery','Tiggo 8'],['GWM','Tank 500'],['Toyota','Fortuner']],
   'Performance': [['Toyota','GR86'],['Subaru','BRZ'],['Ford','Mustang'],['Subaru','WRX'],['Toyota','GR Corolla'],['Holden','Commodore'],['Ford','Falcon (FG X)'],['Toyota','Camry']],
 };
 

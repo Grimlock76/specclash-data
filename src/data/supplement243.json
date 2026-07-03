@@ -1,0 +1,44 @@
+{
+  "specs": {
+    "Lexus|LBX|2025|Morizo RR": {
+      "engine": "1.6L I3 Turbo G16E-GTS",
+      "displacement": 1618,
+      "cylinders": 3,
+      "aspiration": "Turbo",
+      "drivetrain": "AWD",
+      "transmission": "8-speed auto",
+      "power": 206,
+      "torque": 390,
+      "fc": 11,
+      "fh": 7.2,
+      "fx": 8.6,
+      "fuelType": "petrol",
+      "acceleration": 5.2,
+      "topSpeed": 230,
+      "weight": 1455,
+      "seats": 5,
+      "cargo": 315,
+      "price": "~$76,490"
+    },
+    "Lexus|LBX|2026|Morizo RR": {
+      "engine": "1.6L I3 Turbo G16E-GTS",
+      "displacement": 1618,
+      "cylinders": 3,
+      "aspiration": "Turbo",
+      "drivetrain": "AWD",
+      "transmission": "8-speed auto",
+      "power": 206,
+      "torque": 390,
+      "fc": 11,
+      "fh": 7.2,
+      "fx": 8.6,
+      "fuelType": "petrol",
+      "acceleration": 5.2,
+      "topSpeed": 230,
+      "weight": 1455,
+      "seats": 5,
+      "cargo": 315,
+      "price": "~$76,490"
+    }
+  }
+}
