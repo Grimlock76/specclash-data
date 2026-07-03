@@ -69,7 +69,9 @@ await page.locator('.recent-chip').first().click()
 check('recent chip reloads the matchup', await waitLoaded(2) >= 2)
 
 // --- Random matchup ---
+await page.waitForTimeout(600) // let the recent-chip reload settle before clicking
 await page.locator('button', { hasText: 'Random' }).click()
+await page.waitForTimeout(400) // slots clear + remount
 check('random matchup loads two cars', await waitLoaded(2) >= 2)
 
 await browser.close()
