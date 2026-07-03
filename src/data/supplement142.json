@@ -152,44 +152,6 @@
       "price": "~$35,990",
       "aspiration": "IHI Single-Turbo"
     },
-    "LDV|T60|2026|S": {
-      "engine": "2.0L Turbo Diesel",
-      "fuelType": "diesel",
-      "displacement": 1996,
-      "cylinders": 4,
-      "drivetrain": "4WD",
-      "transmission": "6-speed manual",
-      "power": 120,
-      "torque": 400,
-      "weight": 2130,
-      "seats": 5,
-      "fc": 12.1,
-      "fh": 7.1,
-      "fx": 9.2,
-      "acceleration": 11.5,
-      "topSpeed": 175,
-      "price": "~$35,590",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
-    },
-    "LDV|T60|2026|Luxe": {
-      "engine": "2.0L Turbo Diesel",
-      "fuelType": "diesel",
-      "displacement": 1996,
-      "cylinders": 4,
-      "drivetrain": "4WD",
-      "transmission": "6-speed auto",
-      "power": 120,
-      "torque": 400,
-      "weight": 2175,
-      "seats": 5,
-      "fc": 12.5,
-      "fh": 7.3,
-      "fx": 9.5,
-      "acceleration": 11.8,
-      "topSpeed": 172,
-      "price": "~$40,590",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
-    },
     "Renault|Clio|2026|Intens": {
       "engine": "1.0 TCe",
       "fuelType": "petrol",
@@ -512,6 +474,25 @@
       "topSpeed": 250,
       "price": "~$180,000",
       "aspiration": "BorgWarner Twin-Turbo"
+    },
+    "LDV|T60|2026|Max Luxe": {
+      "engine": "2.0L Turbo Diesel",
+      "fuelType": "diesel",
+      "displacement": 1996,
+      "cylinders": 4,
+      "drivetrain": "4WD",
+      "transmission": "6-speed auto",
+      "power": 120,
+      "torque": 400,
+      "weight": 2175,
+      "seats": 5,
+      "fc": 12.5,
+      "fh": 7.3,
+      "fx": 9.5,
+      "acceleration": 11.8,
+      "topSpeed": 172,
+      "price": "~$40,590",
+      "aspiration": "BorgWarner VGT Diesel Turbo"
     }
   }
 }
