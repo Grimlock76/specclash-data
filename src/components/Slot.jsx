@@ -3,6 +3,7 @@ import { MAKES, lookup, preloadMake } from '../data/index.js'
 import { BODY_TYPES, getBodyType } from '../utils/bodyType.js'
 import TrimBadge from './TrimBadge.jsx'
 import MakeModelSearch from './MakeModelSearch.jsx'
+import CarSilhouette from './CarSilhouette.jsx'
 
 const COLORS = ['#C8F04A', '#60C8FF', '#FF7043', '#B39DFF']
 
@@ -140,6 +141,14 @@ export default function Slot({ index, initial, onResult, onClear }) {
         fontSize: 13, fontWeight: 800, letterSpacing: 2.5,
         color: ok ? color : '#2a2a2a', textTransform: 'uppercase', marginBottom: 10
       }}>CAR {index + 1}</div>
+
+      {/* Body-type silhouette — near-invisible until a model is picked, slot colour once loaded */}
+      <div className="car-silhouette" style={{ margin: '0 6px 8px' }}>
+        <CarSilhouette
+          bodyType={model ? getBodyType(model, trim) : 'Sedan'}
+          color={ok ? color : model ? '#3a3a3a' : '#161616'}
+        />
+      </div>
 
       <MakeModelSearch
         value={make && model ? { make, model } : null}
