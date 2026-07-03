@@ -3,7 +3,7 @@ import { MAKES, lookup, preloadMake } from '../data/index.js'
 import { BODY_TYPES, getBodyType } from '../utils/bodyType.js'
 import TrimBadge from './TrimBadge.jsx'
 import MakeModelSearch from './MakeModelSearch.jsx'
-import CarSilhouette from './CarSilhouette.jsx'
+import CarSilhouette, { pickArchetype } from './CarSilhouette.jsx'
 
 const COLORS = ['#C8F04A', '#60C8FF', '#FF7043', '#B39DFF']
 
@@ -142,10 +142,15 @@ export default function Slot({ index, initial, onResult, onClear }) {
         color: ok ? color : '#2a2a2a', textTransform: 'uppercase', marginBottom: 10
       }}>CAR {index + 1}</div>
 
-      {/* Body-type silhouette — near-invisible until a model is picked, slot colour once loaded */}
+      {/* Era-specific silhouette — near-invisible until a model is picked, slot colour once loaded */}
       <div className="car-silhouette" style={{ margin: '0 6px 8px' }}>
         <CarSilhouette
-          bodyType={model ? getBodyType(model, trim) : 'Sedan'}
+          archetype={model
+            ? pickArchetype(getBodyType(model, trim), {
+                year: year || resolveYear() || Object.keys(modelYears).sort().pop(),
+                make, model,
+              })
+            : 'sedanModern'}
           color={ok ? color : model ? '#3a3a3a' : '#161616'}
         />
       </div>
