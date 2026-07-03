@@ -26,6 +26,9 @@ export default defineConfig({
         // Main bundle (~1.5 MB incl. core spec data) still precaches; 3 MiB gives headroom.
         maximumFileSizeToCacheInBytes: 3 * 1024 * 1024,
         navigateFallback: 'index.html',
+        // Static SEO comparison pages are real server-rendered HTML — the SPA
+        // shell must not hijack navigations to them for SW-controlled clients.
+        navigateFallbackDenylist: [/^\/vs\//, /^\/sitemap\.xml$/, /^\/robots\.txt$/],
         globPatterns: ['**/*.{js,css,html,ico,png,svg}'],
         // Lazy-loaded per-make spec chunks (~13 MB across ~230 files) must NOT be
         // precached — visitors cache only the makes they view, via runtimeCaching below.

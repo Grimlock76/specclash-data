@@ -13,11 +13,16 @@ export default function Footer() {
         appraisals or offers.
         {AFFILIATE_ACTIVE && ' Listing links are affiliate links — Spec Clash may earn a commission from purchases made through them, at no cost to you.'}
       </p>
-      <button className="no-print" onClick={() => setShowPrivacy(s => !s)} style={{
-        background: 'none', border: 'none', padding: 0, marginTop: 10,
-        color: '#3a3a3a', fontSize: 12, cursor: 'pointer',
-        textDecoration: 'underline', textUnderlineOffset: 3
-      }}>Privacy</button>
+      <div className="no-print" style={{ display: 'flex', gap: 16, marginTop: 10 }}>
+        <a href="/vs/" style={{ color: '#3a3a3a', fontSize: 12, textDecoration: 'underline', textUnderlineOffset: 3 }}>
+          Browse popular comparisons
+        </a>
+        <button onClick={() => setShowPrivacy(s => !s)} style={{
+          background: 'none', border: 'none', padding: 0,
+          color: '#3a3a3a', fontSize: 12, cursor: 'pointer',
+          textDecoration: 'underline', textUnderlineOffset: 3
+        }}>Privacy</button>
+      </div>
       {showPrivacy && (
         <p className="no-print" style={{ color: '#333', fontSize: 12, lineHeight: 1.55, marginTop: 8 }}>
           Spec Clash uses cookieless analytics (Vercel Analytics) to count visits — no cookies,
