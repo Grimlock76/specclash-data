@@ -146,7 +146,7 @@ function getBodyType(model, trim = '') {
 
   // ── Mahindra ──
   if (/\bpik-up\b/.test(m)) return 'Ute'
-  if (/\bscorpio\b|\bxuv\b|\bthar\b/.test(m)) return 'SUV'
+  if (/\bscorpio\b|xuv|\bthar\b/.test(m)) return 'SUV'
 
   // ── BYD ──
   if (/\batto 3\b|\bsealion\b/.test(m)) return 'SUV'
@@ -245,7 +245,7 @@ function getBodyType(model, trim = '') {
 
   // ── Jensen ──
   if (/\bjensen-healey\b/.test(m)) return 'Coupe'
-  if (/\binterceptor\b|\bff\b/.test(m)) return 'Sedan'
+  if (/\binterceptor\b|\bff\b/.test(m)) return 'Coupe' // Jensen Interceptor/FF are GTs (also catches Ferrari FF)
 
   // ── AC ──
   if (/\bace\b|\bcobra\b|\b428\b|\b3000me\b/.test(m)) return 'Coupe'
@@ -507,6 +507,47 @@ function getBodyType(model, trim = '') {
   if (/\bseres 3\b/.test(m)) return 'SUV'                         // Seres
   if (/\bim6\b/.test(m)) return 'SUV'                            // IM Motors
   if (/\btiggo 9\b/.test(m)) return 'SUV'                         // Chery (also caught by tiggo rule)
+
+  // ── 2026-07-03 all-Sedan audit corrections (881 models reviewed) ──
+  // SUVs / 4x4s
+  if (/\brdx\b|\bqx\d+|\blyriq\b|\bcs55\b|\bbravada\b|\baztek\b|\bbronco\b|\bcullinan\b|\b9-7x\b/.test(m)) return 'SUV'
+  if (/\btang\b|\bseal u\b|\batto 2\b|\bcoolray\b|\bmonjaro\b|\bgalaxy l7\b|\bgv60\b|\belroq\b|\bkamiq\b/.test(m)) return 'SUV'
+  if (/\btrailblazer\b|\btrax\b|\bblazer\b|\bjimmy\b|\benvoy\b|\bterrain\b|\bacadia\b|\byukon\b|\btyphoon\b/.test(m)) return 'SUV'
+  if (/\bnavigator\b|\baviator\b|\bnautilus\b|\bmkx\b|\bmkc\b|\bvue\b|\boutlook\b|\bocean\b|\bgravity\b/.test(m)) return 'SUV'
+  if (/\blevante\b|\bgrecale\b|\burus\b|\blm002\b|\beletre\b|\bdbx\b|\bpurosangue\b|\bstonic\b|\bvenue\b|\binster\b/.test(m)) return 'SUV'
+  if (/\bmusso\b|\bkorando\b|\brexton\b|\btivoli\b|\bfronx\b|\bfreemont\b|\bsedici\b|\b500x\b|\b500l\b|\b600e\b/.test(m)) return 'SUV'
+  if (/\bterios\b|\bferoza\b|\bc-crosser\b|\bcrossback\b|\bcountryman\b|\baceman\b|\bt-cross\b|\bex40\b|\bec40\b/.test(m)) return 'SUV'
+  if (/\bes\d\b|\bec\d\b|\bel\d\b|\bvf \d\b|\br1s\b|\bh2\b|\bh3\b|\bev suv\b|\bbz3c\b|\blbx\b|\bix\d\b|\bjunior\b/.test(m)) return 'SUV'
+  if (/cj-\d|\brocky\b|\bnomad\b|\bh2 suv\b/.test(m) || m === 'mb' || m === 'eagle' || m === 'tx' || m === '4' ||
+      m === '5' || m === '7' || m === 'e5' || m === '5 ev' || m === '01' || m === '02') return 'SUV'
+  if (m === '2008' || m === '3008' || m === '4007' || m === '4008' || m === '5008' || m === 'e-3008') return 'SUV'
+  // Utes
+  if (/\btasman\b|\bavalanche\b|\bs-10\b|\bsyclone\b|\bcanyon\b|\bel camino\b|\br1t\b|\bev pickup\b|\bet60\b|\bt90\b/.test(m) || m === '3500') return 'Ute'
+  // Vans
+  if (/\bsprinter\b|\bvito\b|\bpacifica\b|\balphard\b|\bvellfire\b|\bcoaster\b|\bdeliver 9\b|\bcrafter\b|id\.buzz/.test(m)) return 'Van'
+  if (/\bmultipla\b|\bdoblo\b|\bducato\b|\bpicasso\b|\btacuma\b|\bhi-jet\b|\bpyzar\b|\bmontana\b|\brelay\b|transit/.test(m)) return 'Van'
+  // Coupes (classic GTs, muscle, exotics)
+  if (/\bamx\b|\bjavelin\b|\btalon\b|\bmonte carlo\b|\bfirebird\b|\bsolstice\b|\btoronado\b|\b442\b|\bmarlin\b|\bcharger\b/.test(m)) return 'Coupe'
+  if (/\bdb\d+\b|\bvantage\b|\bvanquish\b|\bdbs\b|\bsprite\b|\b100\/4\b|\b100 six\b|\b3000 mk/.test(m)) return 'Coupe'
+  if (/\bintegra\b|\brsx\b|\ba610\b|\bcrossfire\b|\bdmc-12\b|\bcopen\b|\bbarchetta\b|\brcz\b|\bstag\b/.test(m)) return 'Coupe'
+  if (/\btr[2-8]\b|\bspitfire\b|\bgt6\b|\bwankel spider\b|\bhimiko\b|\borochi\b|\brock star\b|\bmt900\b/.test(m)) return 'Coupe'
+  if (/\bmiura\b|\bespada\b|\burraco\b|\bcountach\b|\bjalpa\b|\bdiablo\b|\bmurcielago\b|\bgallardo\b|\baventador\b|\bhuracan\b|\brevuelto\b|\btemerario\b/.test(m)) return 'Coupe'
+  if (/\b308 gtb\b|\b328 gtb\b|\b348\b|\b355\b|\b360\b|\b430\b|\b456\b|\b458\b|\b488\b|\bf8\b|\btestarossa\b|\b512\b|\bf40\b|\bf50\b|\benzo\b|\blaferrari\b/.test(m)) return 'Coupe'
+  if (/\bcalifornia\b|\bportofino\b|\b599\b|\b612\b|\bgtc4\b|\b812\b|\bsf90\b|\broma\b|\b550\b|\b575\b|\bdino\b|\b365 gt\b|\b296\b|\b12cilindri\b/.test(m)) return 'Coupe'
+  if (/\bmp4\b|\b650s\b|\b675lt\b|\b540c\b|\b570s\b|\b570gt\b|\b600lt\b|\b720s\b|\b750s\b|\b765lt\b|\bsenna\b|\bartura\b/.test(m)) return 'Coupe'
+  if (/\besprit\b|\bevora\b|\bemira\b|\bexige\b|\bbora\b|\bmerak\b|\bkhamsin\b|\b3200gt\b|\bgranturismo\b|\bgrancabrio\b|\bmc20\b|\bbiturbo\b|\bghibli classic\b/.test(m)) return 'Coupe'
+  if (/\bcorniche\b|\bcamargue\b|\bwraith\b|\bspectre\b|\bgt350\b|\bgt500\b|\bultimate aero\b|\btuatara\b|\bvenom\b|\bnevera\b|\bconcept_one\b/.test(m)) return 'Coupe'
+  if (/\batom\b|\bmono\b|\bm600\b|\bm14\b|\bc8\b|\bc12\b|\bw8\b|\bm12\b|\bmark vii\b|\bmark viii\b|\bcontinental r\b|\bazure\b|\bcontinental gtc\b/.test(m)) return 'Coupe'
+  if (/apollo|glickenhaus|t\.50|scg/.test(m) || m === 'dawn' || m === 'z' || m === '350z' || m === 'tc' || m === 'fr-s' ||
+      m === 'sc1' || m === 'sc2' || m === 'sky' || m === 'cle' || m === 'series 1' || m === 'q60' || m === 'convertible') return 'Coupe'
+  // Hatches
+  if (/\bgremlin\b|\ba290\b|\bseagull\b|\bbolt ev\b|\bsonic\b|\bspark\b|\bvolt\b|\bpt cruiser\b|\bcharade\b|\bsirion\b|\byrv\b|\bmira\b|\bmove\b/.test(m)) return 'Hatch'
+  if (/\bmatiz\b|\blanos\b|\bkalos\b|\bpanda\b|\buno\b|\btipo\b|\bbravo\b|\bstilo\b|\bsaxo\b|\bxantia\b|\bzx\b|\bbx\b|\bvibe\b|\brobin\b|\brialto\b/.test(m)) return 'Hatch'
+  if (/\bzoe\b|\b5 e-tech\b|\bforfour\b|\bprius\b|\bfunky cat\b|\b500e\b|\b107\b|\b205\b|\b206\b|\b207\b|\b208\b/.test(m)) return 'Hatch'
+  if (m === '306' || m === '307' || m === '308' || m === 'ora' || m === 'hatch' || m === 'electric' ||
+      m === 'xa' || m === 'xb' || m === 'xd' || m === 'iq' || m === 'im' || m === 'gv' || m === 'gvx') return 'Hatch'
+  // Wagons
+  if (/\bsummit wagon\b|\bsafari\b|\bclubman\b/.test(m)) return 'Wagon'
 
   // ── s240 pack (KGM / Denza / Iveco / Farizon + EV-brand depth) ──
   if (/\bactyon sports\b/.test(m)) return 'Ute'                  // SsangYong ute — BEFORE actyon
