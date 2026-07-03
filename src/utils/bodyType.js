@@ -549,6 +549,9 @@ function getBodyType(model, trim = '') {
   // Wagons
   if (/\bsummit wagon\b|\bsafari\b|\bclubman\b/.test(m)) return 'Wagon'
 
+  // ── s241 depth pack ──
+  if (m === 'hs' || m === 's05' || /\bh7\b|\btiggo 4\b/.test(m)) return 'SUV'
+
   // ── s240 pack (KGM / Denza / Iveco / Farizon + EV-brand depth) ──
   if (/\bactyon sports\b/.test(m)) return 'Ute'                  // SsangYong ute — BEFORE actyon
   if (/\btorres\b|\bactyon\b/.test(m)) return 'SUV'               // KGM (+ SsangYong Actyon)

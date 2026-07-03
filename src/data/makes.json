@@ -12538,6 +12538,20 @@
         "2.0T AWD",
         "Super Hybrid PHEV"
       ]
+    },
+    "Tiggo 4": {
+      "2024": [
+        "Ultimate",
+        "Urban"
+      ],
+      "2025": [
+        "Ultimate",
+        "Urban"
+      ],
+      "2026": [
+        "Ultimate",
+        "Urban"
+      ]
     }
   },
   "Chevrolet": {
@@ -29097,6 +29111,14 @@
       "2026": [
         "Ultra Diesel",
         "Ultra PHEV"
+      ]
+    },
+    "Haval H7": {
+      "2025": [
+        "Vanta"
+      ],
+      "2026": [
+        "Vanta"
       ]
     }
   },
@@ -48731,6 +48753,43 @@
       "2026": [
         "Long Range",
         "Standard Range"
+      ]
+    },
+    "HS": {
+      "2020": [
+        "Essence",
+        "Excite",
+        "Vibe"
+      ],
+      "2021": [
+        "Essence",
+        "Excite",
+        "Vibe"
+      ],
+      "2022": [
+        "Essence",
+        "Excite",
+        "Vibe"
+      ],
+      "2023": [
+        "Essence",
+        "Excite",
+        "Vibe"
+      ],
+      "2024": [
+        "Essence",
+        "Excite",
+        "Vibe"
+      ],
+      "2025": [
+        "Essence",
+        "Excite",
+        "Vibe"
+      ],
+      "2026": [
+        "Essence",
+        "Excite",
+        "Vibe"
       ]
     }
   },
@@ -80203,6 +80262,11 @@
       ],
       "2026": [
         "EV AWD"
+      ]
+    },
+    "S05": {
+      "2026": [
+        "RWD"
       ]
     }
   },
