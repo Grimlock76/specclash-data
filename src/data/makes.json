@@ -1922,46 +1922,28 @@
       ]
     },
     "A110": {
-      "2017": [
-        "GT",
-        "Légende",
-        "Pure",
-        "R",
-        "S"
-      ],
       "2018": [
-        "GT",
-        "Légende",
-        "Pure",
-        "R",
-        "S"
+        "Pure"
       ],
       "2019": [
-        "GT",
         "Légende",
         "Pure",
-        "R",
         "S"
       ],
       "2020": [
-        "GT",
         "Légende",
         "Pure",
-        "R",
         "S"
       ],
       "2021": [
-        "GT",
         "Légende",
         "Pure",
-        "R",
         "S"
       ],
       "2022": [
         "GT",
         "Légende",
         "Pure",
-        "R",
         "S"
       ],
       "2023": [
@@ -2791,18 +2773,11 @@
     },
     "DB11": {
       "2016": [
-        "AMR",
-        "V12",
-        "V12 AMR",
-        "V8",
-        "V8 Volante"
+        "V12"
       ],
       "2017": [
-        "AMR",
         "V12",
-        "V12 AMR",
-        "V8",
-        "V8 Volante"
+        "V8"
       ],
       "2018": [
         "AMR",
@@ -9504,38 +9479,26 @@
     },
     "Veyron": {
       "2005": [
-        "16.4",
-        "Grand Sport Vitesse",
-        "Super Sport"
+        "16.4"
       ],
       "2006": [
-        "16.4",
-        "Grand Sport Vitesse",
-        "Super Sport"
+        "16.4"
       ],
       "2007": [
-        "16.4",
-        "Grand Sport Vitesse",
-        "Super Sport"
+        "16.4"
       ],
       "2008": [
-        "16.4",
-        "Grand Sport Vitesse",
-        "Super Sport"
+        "16.4"
       ],
       "2009": [
-        "16.4",
-        "Grand Sport Vitesse",
-        "Super Sport"
+        "16.4"
       ],
       "2010": [
         "16.4",
-        "Grand Sport Vitesse",
         "Super Sport"
       ],
       "2011": [
         "16.4",
-        "Grand Sport Vitesse",
         "Super Sport"
       ],
       "2012": [
@@ -9561,29 +9524,20 @@
     },
     "Chiron": {
       "2016": [
-        "Pur Sport",
-        "Standard",
-        "Super Sport 300+"
+        "Standard"
       ],
       "2017": [
-        "Pur Sport",
-        "Standard",
-        "Super Sport 300+"
+        "Standard"
       ],
       "2018": [
-        "Pur Sport",
-        "Standard",
-        "Super Sport 300+"
+        "Standard"
       ],
       "2019": [
-        "Pur Sport",
-        "Standard",
-        "Super Sport 300+"
+        "Standard"
       ],
       "2020": [
         "Pur Sport",
-        "Standard",
-        "Super Sport 300+"
+        "Standard"
       ],
       "2021": [
         "Pur Sport",
@@ -11973,17 +11927,14 @@
     },
     "ATS": {
       "2013": [
-        "ATS-V",
         "Luxury",
         "Performance"
       ],
       "2014": [
-        "ATS-V",
         "Luxury",
         "Performance"
       ],
       "2015": [
-        "ATS-V",
         "Luxury",
         "Performance"
       ],
@@ -12012,20 +11963,17 @@
       "2016": [
         "Luxury",
         "Premium Luxury",
-        "Standard",
-        "V-Sport"
+        "Standard"
       ],
       "2017": [
         "Luxury",
         "Premium Luxury",
-        "Standard",
-        "V-Sport"
+        "Standard"
       ],
       "2018": [
         "Luxury",
         "Premium Luxury",
-        "Standard",
-        "V-Sport"
+        "Standard"
       ],
       "2019": [
         "Luxury",
@@ -16379,19 +16327,16 @@
       "2000": [
         "base",
         "Classic",
-        "GT",
         "Touring"
       ],
       "2001": [
         "base",
         "Classic",
-        "GT",
         "Touring"
       ],
       "2002": [
         "base",
         "Classic",
-        "GT",
         "Touring"
       ],
       "2003": [
@@ -16446,13 +16391,11 @@
     "Crossfire": {
       "2003": [
         "base",
-        "Roadster",
-        "SRT-6"
+        "Roadster"
       ],
       "2004": [
         "base",
-        "Roadster",
-        "SRT-6"
+        "Roadster"
       ],
       "2005": [
         "base",
@@ -16478,57 +16421,44 @@
     "Neon": {
       "1994": [
         "base",
-        "Sport",
-        "R/T",
-        "SRT-4"
+        "Sport"
       ],
       "1995": [
         "base",
-        "Sport",
-        "R/T",
-        "SRT-4"
+        "Sport"
       ],
       "1996": [
         "base",
-        "Sport",
-        "R/T",
-        "SRT-4"
+        "Sport"
       ],
       "1997": [
         "base",
-        "Sport",
-        "R/T",
-        "SRT-4"
+        "Sport"
       ],
       "1998": [
         "base",
         "Sport",
-        "R/T",
-        "SRT-4"
+        "R/T"
       ],
       "1999": [
         "base",
         "Sport",
-        "R/T",
-        "SRT-4"
+        "R/T"
       ],
       "2000": [
         "base",
         "Sport",
-        "R/T",
-        "SRT-4"
+        "R/T"
       ],
       "2001": [
         "base",
         "Sport",
-        "R/T",
-        "SRT-4"
+        "R/T"
       ],
       "2002": [
         "base",
         "Sport",
-        "R/T",
-        "SRT-4"
+        "R/T"
       ],
       "2003": [
         "base",
@@ -23239,22 +23169,18 @@
   "Ferrari": {
     "348": {
       "1989": [
-        "Spider",
         "tb",
         "ts"
       ],
       "1990": [
-        "Spider",
         "tb",
         "ts"
       ],
       "1991": [
-        "Spider",
         "tb",
         "ts"
       ],
       "1992": [
-        "Spider",
         "tb",
         "ts"
       ],
@@ -23271,34 +23197,24 @@
     },
     "456": {
       "1992": [
-        "GT",
-        "GTA",
-        "M GT"
+        "GT"
       ],
       "1993": [
-        "GT",
-        "GTA",
-        "M GT"
+        "GT"
       ],
       "1994": [
-        "GT",
-        "GTA",
-        "M GT"
+        "GT"
       ],
       "1995": [
-        "GT",
-        "GTA",
-        "M GT"
+        "GT"
       ],
       "1996": [
         "GT",
-        "GTA",
-        "M GT"
+        "GTA"
       ],
       "1997": [
         "GT",
-        "GTA",
-        "M GT"
+        "GTA"
       ],
       "1998": [
         "GT",
@@ -23431,9 +23347,7 @@
     },
     "F355": {
       "1994": [
-        "Berlinetta",
-        "GTS",
-        "Spider"
+        "Berlinetta"
       ],
       "1995": [
         "Berlinetta",
@@ -23463,22 +23377,17 @@
     },
     "360 Modena": {
       "1999": [
-        "Challenge Stradale",
-        "Coupe",
-        "Spider"
+        "Coupe"
       ],
       "2000": [
-        "Challenge Stradale",
         "Coupe",
         "Spider"
       ],
       "2001": [
-        "Challenge Stradale",
         "Coupe",
         "Spider"
       ],
       "2002": [
-        "Challenge Stradale",
         "Coupe",
         "Spider"
       ],
@@ -23500,18 +23409,14 @@
     },
     "F430": {
       "2004": [
-        "Coupe",
-        "Scuderia",
-        "Spider"
+        "Coupe"
       ],
       "2005": [
         "Coupe",
-        "Scuderia",
         "Spider"
       ],
       "2006": [
         "Coupe",
-        "Scuderia",
         "Spider"
       ],
       "2007": [
@@ -23532,23 +23437,17 @@
     },
     "458 Italia": {
       "2009": [
-        "Italia",
-        "Speciale",
-        "Spider"
+        "Italia"
       ],
       "2010": [
-        "Italia",
-        "Speciale",
-        "Spider"
+        "Italia"
       ],
       "2011": [
         "Italia",
-        "Speciale",
         "Spider"
       ],
       "2012": [
         "Italia",
-        "Speciale",
         "Spider"
       ],
       "2013": [
@@ -23569,18 +23468,14 @@
     },
     "488 GTB": {
       "2015": [
-        "GTB",
-        "Pista",
-        "Spider"
+        "GTB"
       ],
       "2016": [
         "GTB",
-        "Pista",
         "Spider"
       ],
       "2017": [
         "GTB",
-        "Pista",
         "Spider"
       ],
       "2018": [
@@ -24266,13 +24161,11 @@
     "131": {
       "1974": [
         "1300",
-        "1600",
-        "Abarth"
+        "1600"
       ],
       "1975": [
         "1300",
-        "1600",
-        "Abarth"
+        "1600"
       ],
       "1976": [
         "1300",
@@ -32040,13 +31933,11 @@
     "H2": {
       "2003": [
         "Base",
-        "Luxury",
-        "SUT"
+        "Luxury"
       ],
       "2004": [
         "Base",
-        "Luxury",
-        "SUT"
+        "Luxury"
       ],
       "2005": [
         "Base",
@@ -33291,7 +33182,6 @@
       "2021": [
         "Active",
         "Elite",
-        "Epiq AWD",
         "Long Range AWD",
         "Long Range RWD",
         "Standard Range RWD",
@@ -33301,7 +33191,6 @@
       "2022": [
         "Active",
         "Elite",
-        "Epiq AWD",
         "Long Range AWD",
         "Long Range RWD",
         "Standard Range RWD",
@@ -34942,22 +34831,19 @@
         "20d",
         "P250",
         "P300 R-Sport",
-        "S",
-        "SV Project 8"
+        "S"
       ],
       "2016": [
         "20d",
         "P250",
         "P300 R-Sport",
-        "S",
-        "SV Project 8"
+        "S"
       ],
       "2017": [
         "20d",
         "P250",
         "P300 R-Sport",
-        "S",
-        "SV Project 8"
+        "S"
       ],
       "2018": [
         "20d",
@@ -36339,7 +36225,6 @@
         "Air",
         "Air RWD",
         "Earth",
-        "GT",
         "GT-Line AWD",
         "GT-Line RWD"
       ],
@@ -37230,29 +37115,22 @@
   "Lamborghini": {
     "Miura": {
       "1966": [
-        "P400",
-        "P400 S",
-        "P400 SV"
+        "P400"
       ],
       "1967": [
-        "P400",
-        "P400 S",
-        "P400 SV"
+        "P400"
       ],
       "1968": [
         "P400",
-        "P400 S",
-        "P400 SV"
+        "P400 S"
       ],
       "1969": [
         "P400",
-        "P400 S",
-        "P400 SV"
+        "P400 S"
       ],
       "1970": [
         "P400",
-        "P400 S",
-        "P400 SV"
+        "P400 S"
       ],
       "1971": [
         "P400",
@@ -37267,24 +37145,18 @@
     },
     "Espada": {
       "1968": [
-        "400 GT",
-        "Series II",
-        "Series III"
+        "400 GT"
       ],
       "1969": [
-        "400 GT",
-        "Series II",
-        "Series III"
+        "400 GT"
       ],
       "1970": [
         "400 GT",
-        "Series II",
-        "Series III"
+        "Series II"
       ],
       "1971": [
         "400 GT",
-        "Series II",
-        "Series III"
+        "Series II"
       ],
       "1972": [
         "400 GT",
@@ -42157,27 +42029,18 @@
     },
     "Elise S3": {
       "2011": [
-        "Cup 250",
-        "Sport 220",
         "Standard"
       ],
       "2012": [
-        "Cup 250",
-        "Sport 220",
         "Standard"
       ],
       "2013": [
-        "Cup 250",
-        "Sport 220",
         "Standard"
       ],
       "2014": [
-        "Cup 250",
-        "Sport 220",
         "Standard"
       ],
       "2015": [
-        "Cup 250",
         "Sport 220",
         "Standard"
       ],
@@ -43160,17 +43023,14 @@
     "Spyder": {
       "2001": [
         "GT",
-        "GranSport",
         "base"
       ],
       "2002": [
         "GT",
-        "GranSport",
         "base"
       ],
       "2003": [
         "GT",
-        "GranSport",
         "base"
       ],
       "2004": [
@@ -45407,13 +45267,11 @@
     "720S": {
       "2017": [
         "Coupe",
-        "Performance",
-        "Spider"
+        "Performance"
       ],
       "2018": [
         "Coupe",
-        "Performance",
-        "Spider"
+        "Performance"
       ],
       "2019": [
         "Coupe",
@@ -58162,19 +58020,15 @@
     },
     "205": {
       "1983": [
-        "Cabriolet",
         "GT",
-        "GTI",
         "XR"
       ],
       "1984": [
-        "Cabriolet",
         "GT",
         "GTI",
         "XR"
       ],
       "1985": [
-        "Cabriolet",
         "GT",
         "GTI",
         "XR"
@@ -58484,19 +58338,16 @@
     "306": {
       "1993": [
         "Cabriolet",
-        "GTI 6",
         "XR",
         "XT"
       ],
       "1994": [
         "Cabriolet",
-        "GTI 6",
         "XR",
         "XT"
       ],
       "1995": [
         "Cabriolet",
-        "GTI 6",
         "XR",
         "XT"
       ],
@@ -58723,7 +58574,6 @@
       "1987": [
         "GL",
         "GR",
-        "Mi16",
         "SR"
       ],
       "1988": [
@@ -63460,14 +63310,11 @@
     },
     "Megane": {
       "2017": [
-        "GT",
-        "RS 280",
-        "RS 300 Trophy"
+        "GT"
       ],
       "2018": [
         "GT",
-        "RS 280",
-        "RS 300 Trophy"
+        "RS 280"
       ],
       "2019": [
         "GT",
@@ -65168,8 +65015,7 @@
       "1993": [
         "S",
         "SE",
-        "Aero",
-        "Cabriolet"
+        "Aero"
       ],
       "1994": [
         "S",
@@ -69155,19 +69001,16 @@
     "WRX STI": {
       "2014": [
         "WRX STI",
-        "WRX STI NBR Special",
         "WRX STI Premium",
         "WRX STI spec.R"
       ],
       "2015": [
         "WRX STI",
-        "WRX STI NBR Special",
         "WRX STI Premium",
         "WRX STI spec.R"
       ],
       "2016": [
         "WRX STI",
-        "WRX STI NBR Special",
         "WRX STI Premium",
         "WRX STI spec.R"
       ],
