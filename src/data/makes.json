@@ -12500,6 +12500,16 @@
         "Ultimate",
         "Urban"
       ]
+    },
+    "Tiggo 8": {
+      "2025": [
+        "Super Hybrid Ultimate",
+        "Super Hybrid Urban"
+      ],
+      "2026": [
+        "Super Hybrid Ultimate",
+        "Super Hybrid Urban"
+      ]
     }
   },
   "Chevrolet": {
@@ -26791,6 +26801,7 @@
         "UB Ambiente",
         "UB Sport",
         "UB Titanium",
+        "UB Tremor",
         "UB Trend"
       ],
       "2025": [
@@ -26799,7 +26810,8 @@
         "Platinum+",
         "Sport",
         "Titanium",
-        "Trend"
+        "Trend",
+        "UB Tremor"
       ],
       "2026": [
         "Ambiente",
@@ -26807,7 +26819,8 @@
         "Platinum+",
         "Sport",
         "Titanium",
-        "Trend"
+        "Trend",
+        "UB Tremor"
       ]
     },
     "Escape": {
@@ -34530,6 +34543,16 @@
         "Active",
         "Lux"
       ]
+    },
+    "J8": {
+      "2025": [
+        "Ridge AWD",
+        "Track"
+      ],
+      "2026": [
+        "Ridge AWD",
+        "Track"
+      ]
     }
   },
   "Jaguar": {
@@ -36695,6 +36718,20 @@
       "2026": [
         "Air",
         "GT-Line"
+      ]
+    },
+    "K4": {
+      "2025": [
+        "GT-Line",
+        "S",
+        "Sport",
+        "Sport+"
+      ],
+      "2026": [
+        "GT-Line",
+        "S",
+        "Sport",
+        "Sport+"
       ]
     }
   },
@@ -78552,6 +78589,20 @@
       "2026": [
         "35 TDI",
         "50 TDI"
+      ]
+    },
+    "Tayron": {
+      "2025": [
+        "110TSI Life",
+        "150TSI Elegance",
+        "150TSI Life",
+        "195TSI R-Line"
+      ],
+      "2026": [
+        "110TSI Life",
+        "150TSI Elegance",
+        "150TSI Life",
+        "195TSI R-Line"
       ]
     }
   },

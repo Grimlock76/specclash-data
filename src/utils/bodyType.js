@@ -552,6 +552,9 @@ function getBodyType(model, trim = '') {
   // ── s241 depth pack ──
   if (m === 'hs' || m === 's05' || /\bh7\b|\btiggo 4\b/.test(m)) return 'SUV'
 
+  // ── s242 pack (Tayron/J8 SUVs; K4 & Tiggo 8 covered by default/tiggo rule) ──
+  if (/\btayron\b|\bj8\b/.test(m)) return 'SUV'
+
   // ── s240 pack (KGM / Denza / Iveco / Farizon + EV-brand depth) ──
   if (/\bactyon sports\b/.test(m)) return 'Ute'                  // SsangYong ute — BEFORE actyon
   if (/\btorres\b|\bactyon\b/.test(m)) return 'SUV'               // KGM (+ SsangYong Actyon)
