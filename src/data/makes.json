@@ -3726,10 +3726,11 @@
         "55 TFSI e quattro"
       ],
       "2026": [
-        "40 TFSI quattro",
-        "45 TFSI quattro",
-        "45 TFSI quattro Black Edition",
-        "55 TFSI e quattro"
+        "TFSI",
+        "TDI quattro",
+        "TDI quattro sport",
+        "TFSI quattro sport",
+        "e-hybrid quattro"
       ]
     },
     "Q7": {
@@ -4245,7 +4246,12 @@
         "SQ5 Sportback"
       ],
       "2026": [
-        "45 TFSI quattro",
+        "TFSI",
+        "TDI quattro",
+        "TDI quattro sport",
+        "TFSI quattro sport",
+        "e-hybrid quattro",
+        "SQ5 Sportback edition one",
         "SQ5 Sportback"
       ]
     },
@@ -4961,7 +4967,8 @@
         "SQ5"
       ],
       "2026": [
-        "SQ5"
+        "TFSI edition one",
+        "TFSI"
       ]
     },
     "SQ7": {
@@ -63516,6 +63523,20 @@
       "2023": [
         "Pro"
       ]
+    },
+    "Duster": {
+      "2025": [
+        "Evolution",
+        "Evolution 4x4",
+        "Techno",
+        "Techno 4x4"
+      ],
+      "2026": [
+        "Evolution",
+        "Evolution 4x4",
+        "Techno",
+        "Techno 4x4"
+      ]
     }
   },
   "Riley": {
@@ -67269,13 +67290,11 @@
       ],
       "2025": [
         "Sportline",
-        "Style",
-        "iV"
+        "Sportline Wagon"
       ],
       "2026": [
         "Sportline",
-        "Style",
-        "iV"
+        "Sportline Wagon"
       ]
     },
     "Karoq": {
