@@ -32,6 +32,25 @@ const cache = Object.assign({},
 
 // Lazy loaders for supplement10-106 (Vite code-splits these into separate chunks)
 const SUPP_LOADERS = import.meta.glob('./supplement*.json')
+// Raw-asset URLs for the same files (a few KB of strings, inlined at build).
+// Fallback path: the browser module map caches a FAILED dynamic import until
+// page reload, so a retry via import() can never succeed. Fetching the raw
+// JSON asset with a cache-busting query sidesteps both the module map and the
+// SW spec-chunks cache (which only matches .js).
+const SUPP_URLS = import.meta.glob('./supplement*.json', { query: '?url', import: 'default', eager: true })
+
+async function fetchSuppFallback(n) {
+  const url = SUPP_URLS[`./supplement${n}.json`]
+  if (typeof url !== 'string') throw new Error(`no asset url for supplement${n}`)
+  // Small files may be inlined as data: URIs at build — fetch them verbatim
+  // (no network involved); only real URLs get the cache-busting query.
+  const busted = url.startsWith('data:') ? url
+    : `${url}${url.includes('?') ? '&' : '?'}retry=${Date.now()}`
+  const res = await fetch(busted, { cache: 'no-store' })
+  if (!res.ok) throw new Error(`supplement${n} fetch ${res.status}`)
+  const data = await res.json()
+  Object.assign(cache, data.specs)
+}
 // Cache the in-flight/settled import promise per supplement so concurrent
 // callers (preloadMake on select + primeCache on LOAD) await the SAME import
 // rather than the second caller returning early before the chunk has landed.
@@ -44,7 +63,13 @@ function ensureSupp(n) {
   if (suppPromises.has(n)) return suppPromises.get(n)
   const loader = SUPP_LOADERS[`./supplement${n}.json`]
   if (!loader) return Promise.resolve()
-  const pr = loader().then(mod => { Object.assign(cache, mod.default.specs) })
+  const pr = loader()
+    .then(mod => { Object.assign(cache, mod.default.specs) })
+    .catch(() => fetchSuppFallback(n))
+  // A failed load (flaky network, stale SW referencing a purged chunk) must
+  // not be memoized, or the make stays dead for the whole session — drop it so
+  // the next LOAD retries from scratch.
+  pr.catch(() => { if (suppPromises.get(n) === pr) suppPromises.delete(n) })
   suppPromises.set(n, pr)
   return pr
 }
@@ -56,7 +81,8 @@ const suppsFor = make => Object.hasOwn(MAKE_SUPPS, make) ? MAKE_SUPPS[make] : nu
 // Exported so Slot can fire-and-forget preloads on make selection
 export function preloadMake(make) {
   const nums = suppsFor(make)
-  if (nums) nums.forEach(n => ensureSupp(n))
+  // fire-and-forget: a failed preload just means LOAD fetches it instead
+  if (nums) nums.forEach(n => ensureSupp(n).catch(() => {}))
 }
 
 async function primeCache(make) {

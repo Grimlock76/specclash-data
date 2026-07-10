@@ -117,6 +117,8 @@ export default function Slot({ index, initial, onResult, onClear }) {
       } else {
         setErr('Specs not found. Try a nearby year or different trim.')
       }
+    } catch {
+      setErr('Couldn’t fetch spec data — check your connection and hit LOAD again.')
     } finally {
       setLoading(false)
     }
