@@ -28,11 +28,13 @@ export default defineConfig({
         navigateFallback: 'index.html',
         // Static SEO comparison pages are real server-rendered HTML — the SPA
         // shell must not hijack navigations to them for SW-controlled clients.
-        navigateFallbackDenylist: [/^\/vs\//, /^\/sitemap\.xml$/, /^\/robots\.txt$/],
+        // Same for the standalone Skylander Vault app under /skylanders/.
+        navigateFallbackDenylist: [/^\/vs\//, /^\/skylanders\//, /^\/sitemap\.xml$/, /^\/robots\.txt$/],
         globPatterns: ['**/*.{js,css,html,ico,png,svg}'],
         // Lazy-loaded per-make spec chunks (~13 MB across ~230 files) must NOT be
         // precached — visitors cache only the makes they view, via runtimeCaching below.
-        globIgnores: ['**/assets/supplement*.js'],
+        // The Skylander Vault app is independent and shouldn't ride this SW's precache.
+        globIgnores: ['**/assets/supplement*.js', '**/skylanders/**'],
         runtimeCaching: [
           {
             urlPattern: /\/assets\/supplement[^/]*\.js$/,
