@@ -25,7 +25,7 @@ const price = v => {
 function norm(spec) {
   if (spec.en !== undefined || spec.hp !== undefined) {
     return {
-      fmt: 'old', ev: /electric/i.test(spec.ft || ''),
+      fmt: 'old', ev: /electric/i.test(spec.ft || ''), phev: /plug|phev/i.test(spec.ft || ''),
       kw: num(spec.hp), hpStr: typeof spec.hp === 'string' ? spec.hp : null,
       tq: num(spec.tq), wt: num(spec.wt), z1: num(spec.z1), qm: num(spec.qm),
       ts: num(spec.ts), pr: price(spec.pr),
@@ -34,7 +34,7 @@ function norm(spec) {
     };
   }
   return {
-    fmt: 'new', ev: /electric/i.test(spec.fuelType || ''),
+    fmt: 'new', ev: /electric/i.test(spec.fuelType || ''), phev: /plug|phev/i.test(spec.fuelType || ''),
     kw: num(spec.power), hpStr: null,
     tq: num(spec.torque), wt: num(spec.weight), z1: num(spec.acceleration),
     qm: num(spec.quarterMile), ts: num(spec.topSpeed), pr: price(spec.price),
@@ -84,8 +84,19 @@ for (const f of files) {
     if (s.wt !== null && (s.wt < 400 || s.wt > 4200)) flag('weight-implausible', key, f, `${s.wt} kg`);
     if (s.z1 !== null && (s.z1 < 2.0 || s.z1 > 35)) flag('z1-implausible', key, f, `${s.z1} s`);
     if (s.ts !== null && (s.ts < 60 || s.ts > 500)) flag('topspeed-implausible', key, f, `${s.ts} km/h`);
-    if (!s.ev) for (const [n, v] of [['city', s.fuelCity], ['hwy', s.fuelHwy], ['comb', s.fuelComb]]) {
-      if (v !== null && (v < 2 || v > 25)) flag('fuel-implausible', key, f, `${n}=${v} L/100km`);
+    if (!s.ev) {
+      // PHEVs legitimately test under 2 L/100km (charge-depleting cycle), and
+      // vintage or 400+ kW machinery legitimately exceeds 25 (Veyron urban ≈ 40).
+      let hi = 25;
+      if (year && year < 1960) hi = 90;
+      else if (year && year < 1990) hi = 40;
+      if (s.kw >= 400) hi = Math.max(hi, 45);
+      for (const [n, v] of [['city', s.fuelCity], ['hwy', s.fuelHwy], ['comb', s.fuelComb]]) {
+        if (v === null) continue;
+        const cap = n === 'city' ? Math.max(hi, 30) : hi; // urban cycle runs hotter (V12 S600 ≈ 28 city)
+        if (v < 2 && !s.phev) flag('fuel-implausible', key, f, `${n}=${v} L/100km (non-PHEV under 2)`);
+        else if (v > cap) flag('fuel-implausible', key, f, `${n}=${v} L/100km (limit ${cap})`);
+      }
     }
     if (s.pr !== null && (s.pr < 900 || s.pr > 3000000)) flag('price-implausible', key, f, `$${s.pr}`);
     if (s.pr !== null && year && year >= 2000 && s.pr < 9000) flag('price-low-modern', key, f, `$${s.pr} (${year})`);

@@ -382,7 +382,7 @@
     },
     "BYD|Sealion 6|2026|PHEV": {
       "engine": "1.5L I4 PHEV",
-      "fuelType": "hybrid",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1497,
       "cylinders": 4,
       "drivetrain": "FWD",
@@ -401,7 +401,7 @@
     },
     "BYD|Sealion 6|2026|PHEV AWD": {
       "engine": "1.5L I4 PHEV",
-      "fuelType": "hybrid",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1497,
       "cylinders": 4,
       "drivetrain": "AWD",
