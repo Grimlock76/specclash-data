@@ -78,9 +78,10 @@ for (const f of files) {
     }
     seen.set(key, { file: f, kw: s.kw });
 
-    // range plausibility
-    if (s.kw !== null && (s.kw < 15 || s.kw > 1500)) flag('power-implausible', key, f, `${s.kw} kW`);
-    if (s.tq !== null && (s.tq < 40 || s.tq > 2500)) flag('torque-implausible', key, f, `${s.tq} Nm`);
+    // range plausibility — pre-1990 microcars (2CV: 9 kW / 22 Nm) get lower floors
+    const vintage = year && year < 1990;
+    if (s.kw !== null && (s.kw < (vintage ? 6 : 15) || s.kw > 1500)) flag('power-implausible', key, f, `${s.kw} kW`);
+    if (s.tq !== null && (s.tq < (vintage ? 15 : 40) || s.tq > 2500)) flag('torque-implausible', key, f, `${s.tq} Nm`);
     if (s.wt !== null && (s.wt < 400 || s.wt > 4200)) flag('weight-implausible', key, f, `${s.wt} kg`);
     if (s.z1 !== null && (s.z1 < 2.0 || s.z1 > 35)) flag('z1-implausible', key, f, `${s.z1} s`);
     if (s.ts !== null && (s.ts < 60 || s.ts > 500)) flag('topspeed-implausible', key, f, `${s.ts} km/h`);
