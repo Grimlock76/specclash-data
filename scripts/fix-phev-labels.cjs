@@ -5,6 +5,8 @@
 // without a charge socket. The 2026-07 validator sweep confirmed every such
 // model/trim (62 combos, e.g. Outlander PHEV, Volvo T8 Recharge, BMW X5
 // xDrive45e, GLC300e, GLE350de, BYD DM-i) is a genuine plug-in.
+// Also normalizes the label-spelling zoo ("phev", "PHEV (95 RON)",
+// "Petrol/Plugin Hybrid", …) to the single display string "Plug-in Hybrid".
 // Run with --dry to preview without writing.
 const fs = require('fs');
 const path = require('path');
@@ -33,7 +35,14 @@ for (const f of files) {
     const s = specs[key];
     const field = s.ft !== undefined ? 'ft' : 'fuelType';
     const ft = s[field] || '';
-    if (/electric|plug|phev/i.test(ft)) continue;
+    if (/plug|phev/i.test(ft)) {
+      if (ft === 'Plug-in Hybrid') continue;
+      console.log(`${key}  [${f}]  ${JSON.stringify(ft)} -> "Plug-in Hybrid" (normalize)`);
+      s[field] = 'Plug-in Hybrid';
+      touched++;
+      continue;
+    }
+    if (/electric/i.test(ft)) continue;
     const vals = ['fc', 'fh', 'fx'].map(k => num(s[k])).filter(v => v !== null);
     if (!vals.length || Math.min(...vals) >= 2.2) continue;
     console.log(`${key}  [${f}]  ${JSON.stringify(ft)} -> "Plug-in Hybrid"`);

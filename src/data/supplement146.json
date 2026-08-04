@@ -287,7 +287,7 @@
     },
     "BMW|M5|2026|M5 Sedan": {
       "engine": "4.4L V8 Biturbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 4395,
       "cylinders": 8,
       "drivetrain": "AWD",
@@ -306,7 +306,7 @@
     },
     "BMW|M5|2026|M5 Touring": {
       "engine": "4.4L V8 Biturbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 4395,
       "cylinders": 8,
       "drivetrain": "AWD",

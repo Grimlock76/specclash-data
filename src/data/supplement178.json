@@ -154,7 +154,7 @@
     },
     "Land Rover|Range Rover Sport|2023|P510e SE": {
       "engine": "3.0L I6 Turbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2996,
       "cylinders": 6,
       "drivetrain": "AWD",
@@ -173,7 +173,7 @@
     },
     "MG|MG HS|2023|PHEV": {
       "engine": "1.5L I4 Turbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1490,
       "cylinders": 4,
       "drivetrain": "FWD",

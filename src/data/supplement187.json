@@ -40,7 +40,7 @@
     },
     "Hyundai|Tucson|2021|Elite PHEV": {
       "engine": "1.6L I4 Turbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1598,
       "cylinders": 4,
       "drivetrain": "AWD",
@@ -78,7 +78,7 @@
     },
     "Hyundai|Tucson|2021|Highlander PHEV": {
       "engine": "1.6L I4 Turbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1598,
       "cylinders": 4,
       "drivetrain": "AWD",
@@ -344,7 +344,7 @@
     },
     "Kia|Sorento|2021|GT-Line PHEV": {
       "engine": "1.6L I4 Turbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1598,
       "cylinders": 4,
       "drivetrain": "AWD",

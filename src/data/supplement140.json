@@ -458,7 +458,7 @@
     },
     "Volvo|S90|2026|T8 Recharge": {
       "engine": "2.0L I4 PHEV",
-      "fuelType": "phev",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1969,
       "cylinders": 4,
       "drivetrain": "AWD",
@@ -496,7 +496,7 @@
     },
     "Volvo|XC90|2026|T8 Recharge": {
       "engine": "2.0L I4 PHEV",
-      "fuelType": "phev",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1969,
       "cylinders": 4,
       "drivetrain": "AWD",

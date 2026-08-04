@@ -21,7 +21,7 @@
     },
     "Volvo|V60|2022|T8 Recharge": {
       "engine": "2.0L I4 T8 PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1969,
       "cylinders": 4,
       "drivetrain": "AWD",
@@ -78,7 +78,7 @@
     },
     "Volvo|XC90|2022|Recharge T8": {
       "engine": "2.0L I4 T8 PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1969,
       "cylinders": 4,
       "drivetrain": "AWD",
@@ -192,7 +192,7 @@
     },
     "Mercedes-Benz|AMG GT|2022|AMG GT 63 S E Performance": {
       "engine": "4.0L V8 Biturbo PHEV AMG",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 3982,
       "cylinders": 8,
       "drivetrain": "AWD",
@@ -363,7 +363,7 @@
     },
     "Volkswagen|Multivan|2022|eHybrid": {
       "engine": "1.4L I4 TSI PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1395,
       "cylinders": 4,
       "drivetrain": "FWD",

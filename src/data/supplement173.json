@@ -116,7 +116,7 @@
     },
     "Audi|A7|2024|50 TFSI e quattro": {
       "engine": "3.0 TFSI V6 PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2995,
       "cylinders": 6,
       "drivetrain": "AWD",
@@ -135,7 +135,7 @@
     },
     "Audi|A8|2024|60 TFSI e quattro L": {
       "engine": "3.0 TFSI V6 PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2995,
       "cylinders": 6,
       "drivetrain": "AWD",
@@ -287,7 +287,7 @@
     },
     "GWM|Tank 300|2024|Ultra PHEV": {
       "engine": "2.0L I4 Turbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1999,
       "cylinders": 4,
       "drivetrain": "AWD",
@@ -306,7 +306,7 @@
     },
     "BYD|Shark|2024|Premium": {
       "engine": "1.5L I4 Turbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1497,
       "cylinders": 4,
       "drivetrain": "AWD",

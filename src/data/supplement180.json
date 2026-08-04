@@ -192,7 +192,7 @@
     },
     "Land Rover|Range Rover|2022|P510e SE": {
       "engine": "3.0L I6 Turbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2996,
       "cylinders": 6,
       "drivetrain": "AWD",
@@ -211,7 +211,7 @@
     },
     "Land Rover|Range Rover|2022|P510e Autobiography": {
       "engine": "3.0L I6 Turbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2996,
       "cylinders": 6,
       "drivetrain": "AWD",
@@ -306,7 +306,7 @@
     },
     "Mitsubishi|Outlander|2022|PHEV ES": {
       "engine": "2.4L I4 PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2359,
       "cylinders": 4,
       "drivetrain": "AWD",
@@ -325,7 +325,7 @@
     },
     "Mitsubishi|Outlander|2022|PHEV LS": {
       "engine": "2.4L I4 PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2359,
       "cylinders": 4,
       "drivetrain": "AWD",
@@ -344,7 +344,7 @@
     },
     "Mitsubishi|Outlander|2022|PHEV Exceed": {
       "engine": "2.4L I4 PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2359,
       "cylinders": 4,
       "drivetrain": "AWD",

@@ -154,7 +154,7 @@
     },
     "Mercedes-Benz|GLC|2022|GLC300e": {
       "engine": "2.0L I4 Turbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1999,
       "cylinders": 4,
       "drivetrain": "AWD",
@@ -173,7 +173,7 @@
     },
     "Mercedes-Benz|GLC|2022|GLC63 S E AMG": {
       "engine": "2.0L I4 Twin-Turbo PHEV AMG",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1999,
       "cylinders": 4,
       "drivetrain": "AWD",
@@ -306,7 +306,7 @@
     },
     "Mitsubishi|Eclipse Cross|2022|PHEV ES": {
       "engine": "2.4L I4 PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2359,
       "cylinders": 4,
       "drivetrain": "AWD",
@@ -325,7 +325,7 @@
     },
     "Mitsubishi|Eclipse Cross|2022|PHEV Exceed": {
       "engine": "2.4L I4 PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2359,
       "cylinders": 4,
       "drivetrain": "AWD",

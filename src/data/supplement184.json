@@ -173,7 +173,7 @@
     },
     "Hyundai|Santa Fe|2022|Elite PHEV": {
       "engine": "1.6L I4 Turbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1598,
       "cylinders": 4,
       "drivetrain": "AWD",
@@ -192,7 +192,7 @@
     },
     "Hyundai|Santa Fe|2022|Calligraphy PHEV": {
       "engine": "1.6L I4 Turbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1598,
       "cylinders": 4,
       "drivetrain": "AWD",
@@ -325,7 +325,7 @@
     },
     "MG|MG HS|2022|PHEV Trophy": {
       "engine": "1.5L I4 Turbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1490,
       "cylinders": 4,
       "drivetrain": "FWD",

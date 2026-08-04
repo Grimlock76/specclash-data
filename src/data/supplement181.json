@@ -135,7 +135,7 @@
     },
     "BMW|2 Series Active Tourer|2022|225e xDrive": {
       "engine": "1.5L I3 Turbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1499,
       "cylinders": 3,
       "drivetrain": "AWD",
@@ -211,7 +211,7 @@
     },
     "Lexus|RX|2022|RX 450h+": {
       "engine": "2.5L I4 Atkinson PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2487,
       "cylinders": 4,
       "drivetrain": "AWD",

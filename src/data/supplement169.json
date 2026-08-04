@@ -40,7 +40,7 @@
     },
     "Mercedes-Benz|S-Class|2025|S 63 AMG e Performance": {
       "engine": "4.0L V8 PHEV AMG",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 3982,
       "cylinders": 8,
       "drivetrain": "AWD",
@@ -135,7 +135,7 @@
     },
     "Mercedes-Benz|AMG GT|2025|AMG GT 63 S E Performance": {
       "engine": "4.0L V8 PHEV AMG",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 3982,
       "cylinders": 8,
       "drivetrain": "AWD",

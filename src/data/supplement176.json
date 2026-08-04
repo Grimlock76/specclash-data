@@ -2,7 +2,7 @@
   "specs": {
     "Mazda|MX-30|2023|R-EV": {
       "engine": "0.83L Rotary + Electric",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 830,
       "cylinders": 1,
       "drivetrain": "FWD",
@@ -21,7 +21,7 @@
     },
     "Mazda|MX-30|2023|R-EV Astute": {
       "engine": "0.83L Rotary + Electric",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 830,
       "cylinders": 1,
       "drivetrain": "FWD",
@@ -40,7 +40,7 @@
     },
     "Mazda|MX-30|2023|R-EV Evolve": {
       "engine": "0.83L Rotary + Electric",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 830,
       "cylinders": 1,
       "drivetrain": "FWD",
