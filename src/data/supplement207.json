@@ -59,7 +59,7 @@
     },
     "Porsche|Panamera|2017|Turbo S E-Hybrid Sport Turismo": {
       "engine": "4.0L V8 Biturbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 3996,
       "cylinders": 8,
       "drivetrain": "AWD",
@@ -344,7 +344,7 @@
     },
     "Volvo|XC60|2017|T8 Twin Engine AWD": {
       "engine": "2.0L I4 Turbo+SC + Electric PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1969,
       "cylinders": 4,
       "drivetrain": "AWD",

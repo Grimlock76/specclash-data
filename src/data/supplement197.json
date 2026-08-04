@@ -2,7 +2,7 @@
   "specs": {
     "Jaguar|F-Pace|2019|P400e R-Dynamic SE": {
       "engine": "2.0L I4 Turbo PHEV Ingenium",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1997,
       "cylinders": 4,
       "drivetrain": "AWD",
@@ -78,7 +78,7 @@
     },
     "Kia|Niro|2019|PHEV Sport": {
       "engine": "1.6L I4 GDI Hybrid PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1580,
       "cylinders": 4,
       "drivetrain": "FWD",

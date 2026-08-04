@@ -268,7 +268,7 @@
     },
     "Chevrolet|Volt|2016|LT": {
       "engine": "1.5L I4 NA + Electric PHEV Voltec",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1490,
       "cylinders": 4,
       "drivetrain": "FWD",
@@ -287,7 +287,7 @@
     },
     "Chevrolet|Volt|2016|Premier": {
       "engine": "1.5L I4 NA + Electric PHEV Voltec",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1490,
       "cylinders": 4,
       "drivetrain": "FWD",

@@ -192,7 +192,7 @@
     },
     "Porsche|Cayenne|2019|E-Hybrid": {
       "engine": "3.0L V6 Turbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2995,
       "cylinders": 6,
       "drivetrain": "AWD",
@@ -211,7 +211,7 @@
     },
     "Porsche|Cayenne|2019|E-Hybrid Coupe": {
       "engine": "3.0L V6 Turbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2995,
       "cylinders": 6,
       "drivetrain": "AWD",
@@ -306,7 +306,7 @@
     },
     "Porsche|Panamera|2019|Panamera Turbo S E-Hybrid": {
       "engine": "4.0L V8 Biturbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 3996,
       "cylinders": 8,
       "drivetrain": "AWD",

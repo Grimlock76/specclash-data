@@ -154,7 +154,7 @@
     },
     "BMW|5 Series|2017|530e": {
       "engine": "2.0L I4 Turbo + Electric PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1998,
       "cylinders": 4,
       "drivetrain": "RWD",
@@ -173,7 +173,7 @@
     },
     "BMW|5 Series|2017|545e xDrive": {
       "engine": "3.0L I6 Turbo + Electric PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2998,
       "cylinders": 6,
       "drivetrain": "AWD",

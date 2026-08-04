@@ -59,7 +59,7 @@
     },
     "Mini|Countryman|2020|Cooper SE": {
       "engine": "1.5L I3 Turbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1499,
       "cylinders": 3,
       "drivetrain": "AWD",
@@ -173,7 +173,7 @@
     },
     "Porsche|Cayenne|2020|Turbo S": {
       "engine": "4.0L V8 Biturbo Hybrid",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 3996,
       "cylinders": 8,
       "drivetrain": "AWD",
@@ -439,7 +439,7 @@
     },
     "Volkswagen|Passat|2020|GTE": {
       "engine": "1.4L I4 TSI PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1395,
       "cylinders": 4,
       "drivetrain": "FWD",
@@ -458,7 +458,7 @@
     },
     "Volvo|XC40|2020|Recharge T5 PHEV": {
       "engine": "1.5L I3 Turbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1477,
       "cylinders": 3,
       "drivetrain": "AWD",

@@ -306,7 +306,7 @@
     },
     "Toyota|RAV4|2021|GX PHEV": {
       "engine": "2.5L I4 Atkinson PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2487,
       "cylinders": 4,
       "drivetrain": "AWD",
@@ -325,7 +325,7 @@
     },
     "Toyota|RAV4|2021|GXL PHEV": {
       "engine": "2.5L I4 Atkinson PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2487,
       "cylinders": 4,
       "drivetrain": "AWD",
@@ -344,7 +344,7 @@
     },
     "Toyota|RAV4|2021|Cruiser PHEV": {
       "engine": "2.5L I4 Atkinson PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2487,
       "cylinders": 4,
       "drivetrain": "AWD",

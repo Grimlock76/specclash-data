@@ -97,7 +97,7 @@
     },
     "Audi|A7|2025|50 TFSI e quattro": {
       "engine": "3.0 TFSI V6 PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2995,
       "cylinders": 6,
       "drivetrain": "AWD",
@@ -116,7 +116,7 @@
     },
     "Audi|A8|2025|60 TFSI e quattro L": {
       "engine": "3.0 TFSI V6 PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2995,
       "cylinders": 6,
       "drivetrain": "AWD",

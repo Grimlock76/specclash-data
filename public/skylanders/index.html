@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <title>Skylander Vault — Collection Tracker</title>
+  <style>
+    :root {
+      --bg: #0b0e17;
+      --panel: #141928;
+      --panel2: #1b2236;
+      --border: #2a3350;
+      --text: #e8ecf7;
+      --muted: #8b94ad;
+      --fig: #34d399;
+      --nfc: #818cf8;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+      min-height: 100vh;
+    }
+    header {
+      padding: 20px 16px 12px;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+    h1 { font-size: 1.5rem; letter-spacing: 0.5px; }
+    h1 .spark { color: #fbbf24; }
+    .sub { color: var(--muted); font-size: 0.85rem; margin-top: 2px; }
+
+    .stats {
+      display: flex; flex-wrap: wrap; gap: 10px;
+      max-width: 1100px; margin: 12px auto 0; padding: 0 16px;
+    }
+    .stat {
+      background: var(--panel); border: 1px solid var(--border);
+      border-radius: 10px; padding: 10px 14px; flex: 1; min-width: 110px;
+    }
+    .stat b { display: block; font-size: 1.3rem; }
+    .stat span { color: var(--muted); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 1px; }
+    .stat.fig b { color: var(--fig); }
+    .stat.nfc b { color: var(--nfc); }
+    .barwrap { max-width: 1100px; margin: 10px auto 0; padding: 0 16px; }
+    .bar { height: 8px; border-radius: 4px; background: var(--panel2); overflow: hidden; display: flex; }
+    .bar .b-fig { background: var(--fig); height: 100%; }
+    .bar .b-nfc { background: var(--nfc); height: 100%; }
+
+    .controls {
+      display: flex; flex-wrap: wrap; gap: 8px; align-items: center;
+      max-width: 1100px; margin: 16px auto 0; padding: 0 16px;
+    }
+    .controls input[type="search"], .controls select, .controls button {
+      background: var(--panel); color: var(--text);
+      border: 1px solid var(--border); border-radius: 8px;
+      padding: 8px 10px; font-size: 0.85rem;
+    }
+    .controls input[type="search"] { flex: 1; min-width: 140px; }
+    .controls button { cursor: pointer; }
+    .controls button:hover { background: var(--panel2); }
+
+    main { max-width: 1100px; margin: 0 auto; padding: 8px 16px 60px; }
+    .game-section { margin-top: 22px; }
+    .game-head {
+      display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap;
+      border-bottom: 1px solid var(--border); padding-bottom: 6px; margin-bottom: 10px;
+    }
+    .game-head h2 { font-size: 1.05rem; }
+    .game-head .count { color: var(--muted); font-size: 0.8rem; }
+
+    .grid {
+      display: grid; gap: 8px;
+      grid-template-columns: repeat(auto-fill, minmax(215px, 1fr));
+    }
+    .card {
+      background: var(--panel); border: 1px solid var(--border);
+      border-radius: 10px; padding: 10px; position: relative;
+      display: flex; flex-direction: column; gap: 6px;
+      transition: border-color 0.15s, opacity 0.15s;
+    }
+    .card.st1 { border-color: var(--fig); background: #12241d; }
+    .card.st2 { border-color: var(--nfc); background: #171a30; }
+    .card .top { display: flex; align-items: center; gap: 6px; }
+    .el {
+      font-size: 0.62rem; font-weight: 700; text-transform: uppercase;
+      letter-spacing: 0.5px; padding: 2px 7px; border-radius: 999px; color: #0b0e17;
+    }
+    .cat { color: var(--muted); font-size: 0.68rem; margin-left: auto; }
+    .name { font-weight: 600; font-size: 0.92rem; line-height: 1.2; }
+    .btns { display: flex; gap: 6px; margin-top: 2px; }
+    .btns button {
+      flex: 1; background: var(--panel2); color: var(--muted);
+      border: 1px solid var(--border); border-radius: 7px;
+      padding: 5px 4px; font-size: 0.72rem; cursor: pointer; font-weight: 600;
+    }
+    .btns button.on-fig { background: var(--fig); border-color: var(--fig); color: #06281a; }
+    .btns button.on-nfc { background: var(--nfc); border-color: var(--nfc); color: #14163a; }
+    .del {
+      position: absolute; top: 6px; right: 6px; background: none; border: none;
+      color: var(--muted); cursor: pointer; font-size: 0.9rem; line-height: 1;
+      display: none;
+    }
+    .card.custom .del { display: block; }
+    .card.custom .cat { margin-right: 16px; }
+
+    .empty { color: var(--muted); text-align: center; padding: 40px 0; }
+
+    dialog {
+      background: var(--panel); color: var(--text);
+      border: 1px solid var(--border); border-radius: 12px;
+      padding: 20px; max-width: 340px; width: 90%;
+      margin: auto;
+    }
+    dialog::backdrop { background: rgba(0,0,0,0.6); }
+    dialog h3 { margin-bottom: 12px; font-size: 1rem; }
+    dialog label { display: block; font-size: 0.75rem; color: var(--muted); margin: 10px 0 3px; }
+    dialog input, dialog select {
+      width: 100%; background: var(--panel2); color: var(--text);
+      border: 1px solid var(--border); border-radius: 8px; padding: 8px 10px; font-size: 0.9rem;
+    }
+    dialog .actions { display: flex; gap: 8px; margin-top: 16px; }
+    dialog .actions button {
+      flex: 1; padding: 9px; border-radius: 8px; border: 1px solid var(--border);
+      background: var(--panel2); color: var(--text); cursor: pointer; font-weight: 600;
+    }
+    dialog .actions button.primary { background: var(--fig); border-color: var(--fig); color: #06281a; }
+
+    footer { text-align: center; color: var(--muted); font-size: 0.72rem; padding: 20px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1><span class="spark">⚡</span> Skylander Vault</h1>
+    <p class="sub">Track every figure: physical, self-made NFC chip, or still missing. Saved on this device.</p>
+  </header>
+
+  <div class="stats" id="stats"></div>
+  <div class="barwrap"><div class="bar" id="bar"></div></div>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search figures…" />
+    <select id="f-game"></select>
+    <select id="f-el"></select>
+    <select id="f-cat"></select>
+    <select id="f-st">
+      <option value="">All statuses</option>
+      <option value="1">🧸 Figure owned</option>
+      <option value="2">📡 NFC chip</option>
+      <option value="0">✖ Not owned</option>
+    </select>
+    <button id="btn-add">+ Add figure</button>
+    <button id="btn-export">Export</button>
+    <button id="btn-import">Import</button>
+    <input type="file" id="file-import" accept=".json,application/json" hidden />
+  </div>
+
+  <main id="list"></main>
+
+  <dialog id="dlg-add">
+    <h3>Add a figure / variant</h3>
+    <form method="dialog" id="form-add">
+      <label for="add-name">Name</label>
+      <input id="add-name" required maxlength="60" placeholder="e.g. Legendary Spyro" />
+      <label for="add-game">Game</label>
+      <select id="add-game"></select>
+      <label for="add-el">Element</label>
+      <select id="add-el"></select>
+      <label for="add-cat">Type</label>
+      <select id="add-cat"></select>
+      <div class="actions">
+        <button type="button" id="add-cancel">Cancel</button>
+        <button type="submit" class="primary" value="ok">Add</button>
+      </div>
+    </form>
+  </dialog>
+
+  <footer>Data lives in your browser (localStorage) — use Export to back it up or move it to another device.</footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

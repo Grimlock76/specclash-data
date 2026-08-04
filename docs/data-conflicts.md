@@ -1,3 +1,18 @@
+# Fuel-type / fuel-figure sweep (2026-07-16)
+
+The validator's fuel-implausible bucket (1601 flags) turned out to be almost
+entirely false positives and is now clean (0 flags):
+
+- **296 entries relabeled** `hybrid`/`petrol`/`diesel` → `Plug-in Hybrid`
+  (scripts/fix-phev-labels.cjs). Detection: non-EV entries with a fuel figure
+  under 2.2 L/100km — impossible without a charge socket. All 62 model/trim
+  combos were manually confirmed as genuine plug-ins (Outlander PHEV, Volvo T8
+  Recharge, X5 xDrive45e, GLC300e, GLE350de, BYD DM-i, CUPRA e-Hybrid, …).
+- **Validator tuned** (scripts/validate-specs.cjs): PHEVs exempt from the
+  2 L/100km floor; upper caps era/power-aware (pre-1960: 90, pre-1990: 40,
+  ≥400 kW: 45, city cycle: ≥30) since a Veyron's official urban figure of
+  ~40 L/100km and a 1927 Bugatti Royale's ~50 are real, not errors.
+
 # Duplicate-key power conflicts
 
 Generated 2026-07-03 by the /loop data-quality sweep. Same spec key defined in

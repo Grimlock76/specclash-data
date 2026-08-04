@@ -154,7 +154,7 @@
     },
     "Volkswagen|Golf|2021|GTE": {
       "engine": "1.4L I4 TSI PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1395,
       "cylinders": 4,
       "drivetrain": "FWD",
@@ -268,7 +268,7 @@
     },
     "Volkswagen|Touareg|2021|Touareg R": {
       "engine": "2.9L V6 TSI PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2894,
       "cylinders": 6,
       "drivetrain": "AWD",

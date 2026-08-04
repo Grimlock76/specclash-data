@@ -135,7 +135,7 @@
     },
     "BMW|3 Series|2019|330e": {
       "engine": "2.0L I4 Turbo PHEV B48",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1998,
       "cylinders": 4,
       "drivetrain": "RWD",
@@ -154,7 +154,7 @@
     },
     "BMW|3 Series|2019|330e xDrive": {
       "engine": "2.0L I4 Turbo PHEV B48",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1998,
       "cylinders": 4,
       "drivetrain": "AWD",
@@ -192,7 +192,7 @@
     },
     "BMW|X5|2019|xDrive45e": {
       "engine": "3.0L I6 Turbo PHEV B58",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2998,
       "cylinders": 6,
       "drivetrain": "AWD",
@@ -249,7 +249,7 @@
     },
     "Bentley|Flying Spur|2019|Hybrid": {
       "engine": "2.9L V6 Turbo PHEV",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 2894,
       "cylinders": 6,
       "drivetrain": "AWD",

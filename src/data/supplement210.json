@@ -365,7 +365,7 @@
     },
     "Toyota|Prius|2016|Prime": {
       "engine": "1.8L I4 NA + Electric PHEV 2ZR-FXE",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1798,
       "cylinders": 4,
       "drivetrain": "FWD",
@@ -574,7 +574,7 @@
     },
     "Volvo|XC90|2016|T8 Recharge": {
       "engine": "2.0L I4 Turbo+SC + Electric PHEV B4204T39",
-      "fuelType": "PHEV",
+      "fuelType": "Plug-in Hybrid",
       "displacement": 1969,
       "cylinders": 4,
       "drivetrain": "AWD",
