@@ -156,6 +156,18 @@ function page(a, b, segment, related) {
   li{margin:4px 0}
   a{color:#8ab4f8}
   footer{color:#333;font-size:12px;margin-top:40px}
+  /* Two ~165px columns on a phone split names like "Mitsubishi Triton vs
+     Toyota LandCruiser 70" across four wrapped lines each. The table can't
+     shrink below its widest unbreakable word ("LandCruiser" at 17px bold), so
+     the tighter cells are what keep long-named pages from scrolling sideways. */
+  @media(max-width:520px){
+    ul{columns:1}
+    body{padding:16px}
+    table{font-size:15px}
+    th,td{padding:8px 5px}
+    th{letter-spacing:.5px}
+    thead td{font-size:15px}
+  }
 </style>
 </head>
 <body>
