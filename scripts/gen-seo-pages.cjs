@@ -204,7 +204,7 @@ for (const [segment, models] of Object.entries(SEGMENTS)) {
   for (let i = 0; i < list.length; i++) for (let j = i + 1; j < list.length; j++) {
     const a = list[i], b = list[j];
     const s = `${slug(a.make + ' ' + a.model)}-vs-${slug(b.make + ' ' + b.model)}`;
-    bySegment[segment].push([s, `${a.make} ${a.model} vs ${b.make} ${b.model}`, a, b]);
+    bySegment[segment].push([s, `${a.make} ${a.model} vs ${b.make} ${b.model}`, a, b, i, j]);
   }
 }
 for (const [segment, pairs] of Object.entries(bySegment)) {
@@ -216,16 +216,47 @@ for (const [segment, pairs] of Object.entries(bySegment)) {
   }
 }
 
-// /vs/ index page
-const sections = Object.entries(bySegment).map(([segment, pairs]) =>
-  `<h2>${esc(segment)}</h2>\n<ul>` +
-  pairs.map(([s, t]) => `<li><a href="/vs/${s}/">${esc(t)}</a></li>`).join('\n') + '</ul>').join('\n');
+// /vs/ index page — each segment shows a shortlist, the rest stay in the HTML
+// behind a <details> so every page keeps an internal link from the index.
+const TOP_N = 5;
+const DIVERSITY = 1.5;
+// Segment arrays are ordered most-popular-first, so a pair ranks by its two
+// models' combined position. The per-model usage penalty is what stops the
+// segment leader from taking every slot — without it the utes shortlist is
+// five rows of "Toyota HiLux vs ...".
+function topPairs(pairs, n) {
+  const remaining = pairs.slice(), uses = new Map(), picked = [];
+  const key = c => c.make + '|' + c.model;
+  const cnt = c => uses.get(key(c)) || 0;
+  while (picked.length < n && remaining.length) {
+    let bi = 0, bs = Infinity;
+    remaining.forEach((p, k) => {
+      const s = p[4] + p[5] + DIVERSITY * (cnt(p[2]) + cnt(p[3]));
+      if (s < bs) { bs = s; bi = k; }
+    });
+    const [p] = remaining.splice(bi, 1);
+    for (const c of [p[2], p[3]]) uses.set(key(c), cnt(c) + 1);
+    picked.push(p);
+  }
+  return picked;
+}
+
+const li = ([s, t]) => `<li><a href="/vs/${s}/">${esc(t)}</a></li>`;
+const sections = Object.entries(bySegment).map(([segment, pairs]) => {
+  const top = topPairs(pairs, TOP_N);
+  const shown = new Set(top.map(p => p[0]));
+  const rest = pairs.filter(p => !shown.has(p[0]));
+  return `<h2>${esc(segment)}</h2>\n<ul class="top">` + top.map(li).join('\n') + '</ul>' +
+    (rest.length
+      ? `\n<details><summary>+${rest.length} more</summary>\n<ul>` + rest.map(li).join('\n') + '</ul></details>'
+      : '');
+}).join('\n');
 fs.writeFileSync(path.join(vsDir, 'index.html'), `<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Car comparisons — Spec Clash</title>
 <meta name="description" content="Side-by-side spec comparisons of Australia's most popular utes, SUVs, EVs and performance cars.">
 <link rel="canonical" href="${SITE}/vs/"><link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<style>body{background:#0a0a0a;color:#d8d8d8;font-family:'Barlow Condensed',system-ui,sans-serif;margin:0;padding:24px}main{max-width:860px;margin:0 auto}.logo{font-size:26px;font-weight:800;letter-spacing:3px;color:#fff;text-decoration:none}.logo b{color:#C8F04A}h2{color:#C8F04A;font-size:20px;letter-spacing:1px;margin-top:28px}ul{columns:2;padding-left:18px;font-size:15px}li{margin:4px 0}a{color:#8ab4f8}</style>
+<style>body{background:#0a0a0a;color:#d8d8d8;font-family:'Barlow Condensed',system-ui,sans-serif;margin:0;padding:24px}main{max-width:860px;margin:0 auto}.logo{font-size:26px;font-weight:800;letter-spacing:3px;color:#fff;text-decoration:none}.logo b{color:#C8F04A}h2{color:#C8F04A;font-size:20px;letter-spacing:1px;margin-top:28px;margin-bottom:8px}ul{columns:2;padding-left:18px;font-size:15px}ul.top{columns:1;font-size:17px}li{margin:4px 0}a{color:#8ab4f8}details{margin-top:10px}summary{color:#8ab4f8;cursor:pointer;font-size:14px;letter-spacing:1px;padding:4px 0}details ul{margin-top:8px}@media(max-width:520px){ul{columns:1}}</style>
 </head><body><main><a class="logo" href="/">SPEC<b>CLASH</b></a><h1>Popular car comparisons</h1>
 ${sections}
 </main></body></html>\n`);
