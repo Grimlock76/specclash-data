@@ -219,11 +219,35 @@ for (const [segment, models] of Object.entries(SEGMENTS)) {
     bySegment[segment].push([s, `${a.make} ${a.model} vs ${b.make} ${b.model}`, a, b, i, j]);
   }
 }
+// Related links: other comparisons featuring one of the two cars on this page,
+// taken alternately from each so a HiLux-vs-Ranger page doesn't spend all eight
+// slots on HiLux. Within a car, the most popular opponent comes first. Taking
+// pairs in segment order instead — as this did — gave every page in a segment
+// the same eight links, since the pair list starts with the leader's matchups.
+function relatedFor(pair, pairs, n) {
+  const [s, , a, b] = pair;
+  const rest = pairs.filter(p => p[0] !== s);
+  const has = (p, car) => p[2] === car || p[3] === car;
+  const opponent = (p, car) => (p[2] === car ? p[5] : p[4]);
+  const queueFor = car => rest.filter(p => has(p, car))
+    .sort((x, y) => opponent(x, car) - opponent(y, car));
+  const qa = queueFor(a), qb = queueFor(b);
+  const picked = [], seen = new Set();
+  const take = p => { if (p && !seen.has(p[0]) && picked.length < n) { seen.add(p[0]); picked.push(p); } };
+  while (picked.length < n && (qa.length || qb.length)) { take(qa.shift()); take(qb.shift()); }
+  // Small segments can run out of shared-car pairs; top up by popularity.
+  for (const p of rest.slice().sort((x, y) => (x[4] + x[5]) - (y[4] + y[5]))) {
+    if (picked.length >= n) break;
+    take(p);
+  }
+  return picked.map(([s2, t2]) => [s2, t2]);
+}
+
 for (const [segment, pairs] of Object.entries(bySegment)) {
-  for (const [s, t, a, b] of pairs) {
-    const related = pairs.filter(([s2]) => s2 !== s).slice(0, 8).map(([s2, t2]) => [s2, t2]);
+  for (const pair of pairs) {
+    const [s, , a, b] = pair;
     fs.mkdirSync(path.join(vsDir, s), { recursive: true });
-    fs.writeFileSync(path.join(vsDir, s, 'index.html'), page(a, b, segment, related));
+    fs.writeFileSync(path.join(vsDir, s, 'index.html'), page(a, b, segment, relatedFor(pair, pairs, 8)));
     urls.push(`/vs/${s}/`);
   }
 }
