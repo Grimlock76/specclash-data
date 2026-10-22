@@ -1,14 +1,14 @@
 {
   "generated": "2026-10-22",
-  "trims": 43051,
+  "trims": 43056,
   "noEntry": 0,
   "blank": 0,
   "missingFieldCounts": {
-    "fuel": 3199,
-    "0-100": 1171,
-    "price": 104,
-    "torque": 27,
-    "weight": 1
+    "fuel": 3205,
+    "0-100": 1191,
+    "price": 110,
+    "torque": 38,
+    "weight": 7
   },
   "byMake": {
     "Acura": {
@@ -337,6 +337,17 @@
         "fuel": 26
       }
     },
+    "Nissan": {
+      "trims": 1047,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "0-100": 9,
+        "weight": 6,
+        "price": 6,
+        "fuel": 6
+      }
+    },
     "Noble": {
       "trims": 31,
       "noEntry": 0,
@@ -422,6 +433,8 @@
       "noEntry": 0,
       "blank": 0,
       "missing": {
+        "torque": 11,
+        "0-100": 11,
         "fuel": 10
       }
     },
@@ -4361,6 +4374,15 @@
     {"make":"Mosler","model":"MT900","year":"2011","trim":"S","problem":"missing","fields":["fuel"]},
     {"make":"Mosler","model":"MT900","year":"2012","trim":"Standard","problem":"missing","fields":["fuel"]},
     {"make":"Mosler","model":"MT900","year":"2012","trim":"S","problem":"missing","fields":["fuel"]},
+    {"make":"Nissan","model":"Patrol","year":"2026","trim":"Ti","problem":"missing","fields":["0-100"]},
+    {"make":"Nissan","model":"Patrol","year":"2026","trim":"Ti-L","problem":"missing","fields":["0-100"]},
+    {"make":"Nissan","model":"Patrol","year":"2026","trim":"Warrior","problem":"missing","fields":["0-100"]},
+    {"make":"Nissan","model":"Patrol","year":"2026","trim":"Y63 Ti","problem":"missing","fields":["0-100","weight","price","fuel"]},
+    {"make":"Nissan","model":"Patrol","year":"2026","trim":"Y63 Ti-L","problem":"missing","fields":["0-100","weight","price","fuel"]},
+    {"make":"Nissan","model":"Patrol","year":"2026","trim":"Y63 Ti+","problem":"missing","fields":["0-100","weight","price","fuel"]},
+    {"make":"Nissan","model":"Patrol","year":"2026","trim":"Y63 Ti-L+","problem":"missing","fields":["0-100","weight","price","fuel"]},
+    {"make":"Nissan","model":"Patrol","year":"2026","trim":"Y63 PRO-4X","problem":"missing","fields":["0-100","weight","price","fuel"]},
+    {"make":"Nissan","model":"Patrol","year":"2026","trim":"Y63 Ti-L Reserve","problem":"missing","fields":["0-100","weight","price","fuel"]},
     {"make":"Noble","model":"M12 GTO","year":"2000","trim":"3R","problem":"missing","fields":["fuel"]},
     {"make":"Noble","model":"M12 GTO","year":"2001","trim":"3R","problem":"missing","fields":["fuel"]},
     {"make":"Noble","model":"M12 GTO","year":"2002","trim":"3R","problem":"missing","fields":["fuel"]},
@@ -4744,6 +4766,17 @@
     {"make":"Talbot-Lago","model":"T26 Record","year":"1952","trim":"Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Talbot-Lago","model":"T26 Record","year":"1953","trim":"Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Talbot-Lago","model":"T26 Record","year":"1954","trim":"Sedan","problem":"missing","fields":["fuel"]},
+    {"make":"Toyota","model":"RAV4","year":"2026","trim":"Cruiser","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"RAV4","year":"2026","trim":"Cruiser eFour","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"RAV4","year":"2026","trim":"Edge","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"RAV4","year":"2026","trim":"GR Sport PHEV","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"RAV4","year":"2026","trim":"GX","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"RAV4","year":"2026","trim":"GX eFour","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"RAV4","year":"2026","trim":"GXL","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"RAV4","year":"2026","trim":"GXL eFour","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"RAV4","year":"2026","trim":"XSE PHEV","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"RAV4","year":"2026","trim":"XSE PHEV eFour","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"RAV4","year":"2026","trim":"XSE eFour","problem":"missing","fields":["torque","0-100"]},
     {"make":"Toyota","model":"bZ4X","year":"2022","trim":"GX","problem":"missing","fields":["fuel"]},
     {"make":"Toyota","model":"bZ4X","year":"2022","trim":"GXL","problem":"missing","fields":["fuel"]},
     {"make":"Toyota","model":"bZ4X","year":"2023","trim":"GX","problem":"missing","fields":["fuel"]},

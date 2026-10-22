@@ -54226,10 +54226,15 @@
         "Ti-L"
       ],
       "2026": [
-        "ST",
-        "ST-L",
         "Ti",
-        "Ti-L"
+        "Ti-L",
+        "Warrior",
+        "Y63 Ti",
+        "Y63 Ti-L",
+        "Y63 Ti+",
+        "Y63 Ti-L+",
+        "Y63 PRO-4X",
+        "Y63 Ti-L Reserve"
       ]
     },
     "Navara": {
@@ -73590,16 +73595,16 @@
       ],
       "2026": [
         "Cruiser",
-        "Cruiser Hybrid",
-        "Cruiser PHEV",
+        "Cruiser eFour",
         "Edge",
-        "Edge Hybrid",
+        "GR Sport PHEV",
         "GX",
-        "GX Hybrid",
-        "GX PHEV",
+        "GX eFour",
         "GXL",
-        "GXL Hybrid",
-        "GXL PHEV"
+        "GXL eFour",
+        "XSE PHEV",
+        "XSE PHEV eFour",
+        "XSE eFour"
       ]
     },
     "Supra": {
