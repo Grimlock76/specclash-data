@@ -1,11 +1,24 @@
 import { Fragment, useState } from 'react'
 import config from '../data/config.json'
 import { downloadMatchupCard } from '../utils/matchupCard.js'
+import CountUp from './CountUp.jsx'
 
 const { slotColors: COLORS, groups: GROUPS, labels: S } = config
 
 const LOWER = ['z1', 'qm', 'fc', 'fh', 'fx', 'wt', 'pr']
 const HIGHER = ['hp', 'tq', 'ts']
+// Rows whose values count up and get a bar (engine names like "1GD-FTV" must not count)
+const COUNT_KEYS = new Set([...LOWER, ...HIGHER, 'se', 'ca', 'pc'])
+const BAR_KEYS = new Set([...LOWER, ...HIGHER])
+
+// First number only: "317 kW (425 hp)" is 317, not 317425
+const firstNum = v => {
+  const m = String(v ?? '').replace(/,/g, '').match(/\d+(\.\d+)?/)
+  return m ? parseFloat(m[0]) : NaN
+}
+
+// Reveal timing (ms): rows stagger in, numbers count, then the winner slowly lights up
+const ROW_STAGGER = 70, COUNT_MS = 1300, GLOW_AFTER = 1150
 
 function getBest(key, loaded) {
   if (loaded.length < 2) return null
@@ -13,7 +26,7 @@ function getBest(key, loaded) {
   const someEV = loaded.some(c => c.specs?.ft === 'Electric')
   if (key === 'fc' && someEV && !allEV) return null
   const vals = loaded.map(c => {
-    const n = parseFloat((c.specs?.[key] || '').replace(/[^0-9.]/g, ''))
+    const n = firstNum(c.specs?.[key])
     return isNaN(n) ? null : { idx: c.idx, n }
   }).filter(Boolean)
   if (vals.length < 2) return null
@@ -33,7 +46,7 @@ function getBest(key, loaded) {
 // Percent difference vs the best value, signed as the raw number moves:
 // less power reads −x%, slower 0-100 reads +x%.
 function deltaPct(specVal, bestN) {
-  const n = parseFloat((specVal || '').replace(/[^0-9.]/g, ''))
+  const n = firstNum(specVal)
   if (isNaN(n) || !bestN) return null
   const pct = ((n - bestN) / bestN) * 100
   if (Math.abs(pct) < 0.5) return null
@@ -47,6 +60,10 @@ export default function SpecTable({ loaded, onShare }) {
   const allSame = key => loaded.length > 1 && loaded.every(c => c.specs?.[key] === loaded[0].specs?.[key])
   const hasEV = loaded.some(c => c.specs?.ft === 'Electric')
   const allEV = loaded.length > 0 && loaded.every(c => c.specs?.ft === 'Electric')
+
+  // Replays the reveal whenever the set of compared cars changes (not on Δ % toggles)
+  const playKey = loaded.map(c => `${c.idx}:${c.label}`).join('|')
+  let rowNo = 0
 
   const getLabel = key => {
     if (hasEV && key === 'di') return allEV ? 'Battery' : 'Displacement / Battery'
@@ -82,7 +99,7 @@ export default function SpecTable({ loaded, onShare }) {
               ))}
             </tr>
           </thead>
-          <tbody>
+          <tbody key={playKey}>
             {GROUPS.map(g => (
               <Fragment key={g.label}>
                 <tr>
@@ -91,18 +108,33 @@ export default function SpecTable({ loaded, onShare }) {
                 {g.keys.map(key => {
                   const best = getBest(key, loaded)
                   const same = allSame(key)
+                  const rowDelay = rowNo++ * ROW_STAGGER
+                  const counts = COUNT_KEYS.has(key)
+                  const nums = loaded.map(c => firstNum(c.specs?.[key]))
+                  const max = Math.max(...nums.filter(n => !isNaN(n)), 0)
+                  const showBars = BAR_KEYS.has(key) && loaded.length > 1 && !same && max > 0
                   return (
-                    <tr key={key} className="spec-row" style={{ borderBottom: '1px solid #0f0f0f' }}>
+                    <tr key={key} className="spec-row" style={{ borderBottom: '1px solid #0f0f0f', '--rd': `${rowDelay}ms` }}>
                       <td style={{ padding: '8px 12px', fontSize: 13, color: '#888', whiteSpace: 'nowrap' }}>{getLabel(key)}</td>
-                      {loaded.map(c => {
+                      {loaded.map((c, ci) => {
                         const val = c.specs?.[key] || '—'
                         const isBest = best?.idx === c.idx
+                        const win = isBest && !same
                         const delta = showDelta && !same && best && !isBest ? deltaPct(c.specs?.[key], best.n) : null
+                        const n = nums[ci]
                         return (
-                          <td key={c.idx} style={{ padding: '8px 12px', textAlign: 'center', borderLeft: '1px solid #0f0f0f', fontSize: 15, fontWeight: isBest ? 600 : 400, color: same ? '#484848' : isBest ? COLORS[c.idx] : '#d8d8d8' }}>
-                            {isBest && !same && <span style={{ fontSize: 10, marginRight: 4, color: COLORS[c.idx] }}>▲</span>}
-                            {val}
+                          <td key={c.idx} className={win ? 'sv-win' : undefined}
+                            style={{ padding: '8px 12px', textAlign: 'center', borderLeft: '1px solid #0f0f0f', fontSize: 15, fontWeight: isBest ? 600 : 400,
+                              color: same ? '#484848' : win ? COLORS[c.idx] : '#d8d8d8',
+                              '--c': COLORS[c.idx], '--gd': `${rowDelay + GLOW_AFTER}ms` }}>
+                            {win && <span className="sv-arrow" style={{ fontSize: 10, marginRight: 4, color: COLORS[c.idx] }}>▲</span>}
+                            {counts && val !== '—' ? <CountUp text={val} delay={rowDelay + 150} duration={COUNT_MS} /> : val}
                             {delta && <span className="delta-pct" style={{ fontSize: 11, marginLeft: 5, color: '#666' }}>{delta}</span>}
+                            {showBars && (
+                              <span className="sbar-track" aria-hidden="true">
+                                <span className={win ? 'sbar sbar-win' : 'sbar'} style={{ width: isNaN(n) ? 0 : `${(n / max) * 100}%` }} />
+                              </span>
+                            )}
                           </td>
                         )
                       })}
