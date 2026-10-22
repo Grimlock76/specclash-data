@@ -1,13 +1,13 @@
 {
   "generated": "2026-10-22",
-  "trims": 43057,
+  "trims": 43060,
   "noEntry": 0,
   "blank": 0,
   "missingFieldCounts": {
     "fuel": 3205,
-    "0-100": 1210,
+    "0-100": 1219,
     "price": 113,
-    "torque": 40,
+    "torque": 42,
     "weight": 7
   },
   "byMake": {
@@ -447,12 +447,12 @@
       }
     },
     "Toyota": {
-      "trims": 2237,
+      "trims": 2240,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "torque": 13,
-        "0-100": 19,
+        "0-100": 28,
+        "torque": 15,
         "fuel": 10,
         "price": 2
       }
@@ -4796,6 +4796,15 @@
     {"make":"Talbot-Lago","model":"T26 Record","year":"1952","trim":"Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Talbot-Lago","model":"T26 Record","year":"1953","trim":"Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Talbot-Lago","model":"T26 Record","year":"1954","trim":"Sedan","problem":"missing","fields":["fuel"]},
+    {"make":"Toyota","model":"HiLux","year":"2026","trim":"Workmate","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"HiLux","year":"2026","trim":"SR 4x2","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"HiLux","year":"2026","trim":"SR 48V","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"HiLux","year":"2026","trim":"SR5","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"HiLux","year":"2026","trim":"SR5 48V","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"HiLux","year":"2026","trim":"Rugged X 48V","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"HiLux","year":"2026","trim":"Rogue 48V","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"HiLux","year":"2026","trim":"SR BEV","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"HiLux","year":"2026","trim":"SR5 BEV","problem":"missing","fields":["torque","0-100"]},
     {"make":"Toyota","model":"RAV4","year":"2026","trim":"Cruiser","problem":"missing","fields":["torque","0-100"]},
     {"make":"Toyota","model":"RAV4","year":"2026","trim":"Cruiser eFour","problem":"missing","fields":["torque","0-100"]},
     {"make":"Toyota","model":"RAV4","year":"2026","trim":"Edge","problem":"missing","fields":["torque","0-100"]},
