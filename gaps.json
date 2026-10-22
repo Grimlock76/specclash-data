@@ -1,12 +1,12 @@
 {
   "generated": "2026-10-22",
-  "trims": 43056,
+  "trims": 43057,
   "noEntry": 0,
   "blank": 0,
   "missingFieldCounts": {
     "fuel": 3205,
-    "0-100": 1199,
-    "price": 112,
+    "0-100": 1210,
+    "price": 113,
     "torque": 40,
     "weight": 7
   },
@@ -153,7 +153,16 @@
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "price": 20
+        "price": 20,
+        "0-100": 3
+      }
+    },
+    "FPV": {
+      "trims": 105,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "0-100": 1
       }
     },
     "Frazer": {
@@ -211,7 +220,7 @@
       "blank": 0,
       "missing": {
         "price": 84,
-        "0-100": 21,
+        "0-100": 27,
         "weight": 1,
         "fuel": 1
       }
@@ -230,6 +239,15 @@
       "blank": 0,
       "missing": {
         "fuel": 23
+      }
+    },
+    "HSV": {
+      "trims": 152,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "0-100": 1,
+        "price": 1
       }
     },
     "Hummer": {
@@ -2883,6 +2901,10 @@
     {"make":"Ford","model":"Falcon (XT)","year":"1970","trim":"500","problem":"missing","fields":["price"]},
     {"make":"Ford","model":"Falcon (XT)","year":"1970","trim":"GT","problem":"missing","fields":["price"]},
     {"make":"Ford","model":"Falcon (XT)","year":"1970","trim":"Standard","problem":"missing","fields":["price"]},
+    {"make":"Ford","model":"Falcon (FG X)","year":"2016","trim":"XR6","problem":"missing","fields":["0-100"]},
+    {"make":"Ford","model":"Falcon (FG X)","year":"2016","trim":"XR6 Turbo","problem":"missing","fields":["0-100"]},
+    {"make":"Ford","model":"Falcon (FG X)","year":"2016","trim":"XR8","problem":"missing","fields":["0-100"]},
+    {"make":"FPV","model":"GT","year":"2014","trim":"GT F 351","problem":"missing","fields":["0-100"]},
     {"make":"Frazer","model":"Standard","year":"1947","trim":"Sedan","problem":"missing","fields":["torque","fuel"]},
     {"make":"Frazer","model":"Standard","year":"1948","trim":"Sedan","problem":"missing","fields":["torque","fuel"]},
     {"make":"Frazer","model":"Standard","year":"1949","trim":"Sedan","problem":"missing","fields":["torque","fuel"]},
@@ -3095,6 +3117,12 @@
     {"make":"Holden","model":"Commodore","year":"2013","trim":"VF Sportwagon SV6","problem":"missing","fields":["price"]},
     {"make":"Holden","model":"Commodore","year":"2014","trim":"VF Sportwagon SS","problem":"missing","fields":["price"]},
     {"make":"Holden","model":"Commodore","year":"2014","trim":"VF Sportwagon SV6","problem":"missing","fields":["price"]},
+    {"make":"Holden","model":"Commodore","year":"2016","trim":"VF II SS","problem":"missing","fields":["0-100"]},
+    {"make":"Holden","model":"Commodore","year":"2016","trim":"VF II SS V REDLINE","problem":"missing","fields":["0-100"]},
+    {"make":"Holden","model":"Commodore","year":"2016","trim":"VF II SV6","problem":"missing","fields":["0-100"]},
+    {"make":"Holden","model":"Commodore","year":"2017","trim":"VF II SS","problem":"missing","fields":["0-100"]},
+    {"make":"Holden","model":"Commodore","year":"2017","trim":"VF II SS V REDLINE","problem":"missing","fields":["0-100"]},
+    {"make":"Holden","model":"Commodore","year":"2017","trim":"VF II SV6","problem":"missing","fields":["0-100"]},
     {"make":"Holden","model":"Commodore","year":"2018","trim":"ZB Calais-V Sportwagon","problem":"missing","fields":["price"]},
     {"make":"Holden","model":"Commodore","year":"2018","trim":"ZB LT Sportwagon","problem":"missing","fields":["price"]},
     {"make":"Holden","model":"Commodore","year":"2018","trim":"ZB RS Sportwagon","problem":"missing","fields":["price"]},
@@ -3134,6 +3162,7 @@
     {"make":"Hotchkiss","model":"2050","year":"1952","trim":"Grand Sport","problem":"missing","fields":["fuel"]},
     {"make":"Hotchkiss","model":"2050","year":"1953","trim":"Grand Sport","problem":"missing","fields":["fuel"]},
     {"make":"Hotchkiss","model":"2050","year":"1954","trim":"Grand Sport","problem":"missing","fields":["fuel"]},
+    {"make":"HSV","model":"W1","year":"2017","trim":"VF II W1","problem":"missing","fields":["0-100","price"]},
     {"make":"Hummer","model":"H1","year":"1992","trim":"Hard Top","problem":"missing","fields":["fuel"]},
     {"make":"Hummer","model":"H1","year":"1992","trim":"Open Top","problem":"missing","fields":["fuel"]},
     {"make":"Hummer","model":"H1","year":"1992","trim":"Pickup","problem":"missing","fields":["fuel"]},

@@ -1,0 +1,72 @@
+{
+  "hook": [
+    "SAME CAPRICE V.",
+    "TWO DIFFERENT V8s."
+  ],
+  "sub": "Even our own database had this one wrong.",
+  "cars": [
+    "Holden|Statesman|2014|WN Caprice V",
+    "Holden|Statesman|2016|WN Caprice V"
+  ],
+  "names": [
+    "2014 Caprice V 6.0",
+    "2016 Caprice V 6.2"
+  ],
+  "notes": "Specs: Carsales (Redbook) spec tables.",
+  "slides": [
+    {
+      "title": "Under the bonnet",
+      "rows": [
+        [
+          "en",
+          "Engine",
+          null
+        ],
+        [
+          "di",
+          "Capacity",
+          null
+        ],
+        [
+          "tx",
+          "Gearbox",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "Grunt",
+      "rows": [
+        [
+          "hp",
+          "Power",
+          true
+        ],
+        [
+          "tq",
+          "Torque",
+          true
+        ]
+      ]
+    },
+    {
+      "title": "Running costs",
+      "rows": [
+        [
+          "fx",
+          "Fuel use (combined)",
+          false
+        ],
+        [
+          "pr",
+          "Price when new",
+          false
+        ]
+      ]
+    }
+  ],
+  "outro": [
+    "Which Caprice V are you taking?",
+    "(And no, it was never supercharged.)"
+  ]
+}
