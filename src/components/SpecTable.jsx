@@ -2,6 +2,7 @@ import { Fragment, useState } from 'react'
 import config from '../data/config.json'
 import { downloadMatchupCard } from '../utils/matchupCard.js'
 import CountUp from './CountUp.jsx'
+import UltimateClash from './UltimateClash.jsx'
 
 const { slotColors: COLORS, groups: GROUPS, labels: S } = config
 
@@ -55,6 +56,7 @@ function deltaPct(specVal, bestN) {
 
 export default function SpecTable({ loaded, onShare }) {
   const [showDelta, setShowDelta] = useState(false)
+  const [clash, setClash] = useState(false)
   if (loaded.length === 0) return null
 
   const allSame = key => loaded.length > 1 && loaded.every(c => c.specs?.[key] === loaded[0].specs?.[key])
@@ -76,6 +78,10 @@ export default function SpecTable({ loaded, onShare }) {
       {/* Toolbar */}
       <div className="no-print" style={{ display: 'flex', gap: 8, marginBottom: 14, justifyContent: 'flex-end' }}>
         {loaded.length > 1 && (
+          <button className="tbl-btn clash-btn" onClick={() => setClash(true)}
+            title={loaded.length > 2 ? 'Play an animated face-off of the first two cars' : 'Play an animated face-off'}>▶ Clash</button>
+        )}
+        {loaded.length > 1 && (
           <button className="tbl-btn card-btn" onClick={() => downloadMatchupCard(loaded)}
             title="Download a story-format matchup card (1080×1920) for TikTok / Instagram">⬇ Card</button>
         )}
@@ -86,6 +92,8 @@ export default function SpecTable({ loaded, onShare }) {
         <button className="tbl-btn" onClick={() => window.print()}>⎙ Print</button>
         {onShare && <button className="tbl-btn" onClick={onShare}>↗ Share</button>}
       </div>
+
+      {clash && loaded.length > 1 && <UltimateClash cars={loaded.slice(0, 2)} onClose={() => setClash(false)} />}
 
       <div style={{ overflowX: 'auto' }}>
         <table style={{ width: '100%', borderCollapse: 'collapse', minWidth: 400 }}>
