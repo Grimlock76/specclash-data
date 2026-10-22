@@ -16,7 +16,7 @@ const num = v => {
   return m ? parseFloat(m[0]) : null
 }
 
-function drawSilhouette(ctx, key, color, x, y, w) {
+export function drawSilhouette(ctx, key, color, x, y, w) {
   const { body, windows = [], lite = [], deco = [], dark = [] } = PATHS[key] || PATHS.sedanModern
   const s = w / 200
   ctx.save()
@@ -46,14 +46,22 @@ function drawSilhouette(ctx, key, color, x, y, w) {
   ctx.restore()
 }
 
-export function downloadMatchupCard(loaded) {
-  const cars = loaded.slice(0, 2)
-  if (cars.length < 2) return
-  const W = 1080, H = 1920
-  const canvas = document.createElement('canvas')
-  canvas.width = W; canvas.height = H
-  const ctx = canvas.getContext('2d')
-  const F = w => `${w} "Barlow Condensed", sans-serif`
+export const CARD_W = 1080
+export const CARD_H = 1920
+
+// Shrink a font until `text` fits `maxW` (long trims like "Y63 Ti-L Reserve"
+// otherwise run off the 1080px card).
+function fitFont(ctx, text, weight, size, maxW, F, min = 26) {
+  let s = size
+  ctx.font = F(`${weight} ${s}px`)
+  while (s > min && ctx.measureText(text).width > maxW) { s -= 2; ctx.font = F(`${weight} ${s}px`) }
+  return s
+}
+
+// Pure canvas drawing — no DOM — so scripts/render-card.mjs can reuse it in Node.
+export function drawMatchupCard(ctx, cars, { font = '"Barlow Condensed", sans-serif', handle = '@specclash05' } = {}) {
+  const W = CARD_W, H = CARD_H
+  const F = w => `${w} ${font}`
 
   ctx.fillStyle = '#080808'; ctx.fillRect(0, 0, W, H)
 
@@ -75,7 +83,8 @@ export function downloadMatchupCard(loaded) {
     const color = SLOT_COLORS[i]
     const arch = pickArchetype(getBodyType(c.model, c.trim), { year: c.year, make: c.make, model: c.model })
     drawSilhouette(ctx, arch, color, (W - 620) / 2, y, 620)
-    ctx.fillStyle = color; ctx.font = F('700 52px')
+    ctx.fillStyle = color
+    fitFont(ctx, c.label.toUpperCase(), 700, 52, W - 100, F)
     ctx.fillText(c.label.toUpperCase(), W / 2, y + 290)
   })
   ctx.fillStyle = '#2c2c2c'; ctx.font = F('800 84px')
@@ -97,8 +106,8 @@ export function downloadMatchupCard(loaded) {
     for (const i of [0, 1]) {
       ctx.textAlign = i === 0 ? 'left' : 'right'
       ctx.fillStyle = win === i ? SLOT_COLORS[i] : '#c8c8c8'
-      ctx.font = F(win === i ? '700 40px' : '500 40px')
-      const text = (win === i ? '▲ ' : '') + String(vals[i]).slice(0, 22)
+      const text = (win === i ? '▲ ' : '') + String(vals[i]).slice(0, 26)
+      fitFont(ctx, text, win === i ? 700 : 500, 40, W / 2 - 90, F)
       ctx.fillText(text, i === 0 ? 70 : W - 70, y)
     }
     ctx.strokeStyle = '#161616'; ctx.beginPath()
@@ -108,18 +117,36 @@ export function downloadMatchupCard(loaded) {
 
   // verdict
   ctx.textAlign = 'center'
-  if (wins[0] !== wins[1]) {
+  if (wins[0] + wins[1] < 3) {
+    // Too few rows with data on both sides — a "WINS 1–0" verdict would mislead
+    ctx.fillStyle = '#888888'; ctx.font = F('800 52px')
+    ctx.fillText('NOT ENOUGH SPECS FOR A VERDICT', W / 2, y + 60)
+  } else if (wins[0] !== wins[1]) {
     const w = wins[0] > wins[1] ? 0 : 1
-    ctx.fillStyle = SLOT_COLORS[w]; ctx.font = F('800 58px')
-    ctx.fillText(`🏁 ${cars[w].label.toUpperCase()} WINS ${Math.max(...wins)}–${Math.min(...wins)}`, W / 2, y + 60)
+    const verdict = `${cars[w].label.toUpperCase()} WINS ${Math.max(...wins)}–${Math.min(...wins)}`
+    ctx.fillStyle = SLOT_COLORS[w]
+    fitFont(ctx, verdict, 800, 58, W - 100, F)
+    ctx.fillText(verdict, W / 2, y + 60)
   } else {
     ctx.fillStyle = '#888888'; ctx.font = F('800 58px')
-    ctx.fillText(`🏁 DEAD HEAT ${wins[0]}–${wins[1]}`, W / 2, y + 60)
+    ctx.fillText(`DEAD HEAT ${wins[0]}–${wins[1]}`, W / 2, y + 60)
   }
 
   // footer
   ctx.fillStyle = '#3a3a3a'; ctx.font = F('600 42px')
   ctx.fillText('spec-clash.vercel.app', W / 2, H - 70)
+  if (handle) {
+    ctx.fillStyle = '#C8F04A'; ctx.font = F('700 40px')
+    ctx.fillText(handle, W / 2, H - 125)
+  }
+}
+
+export function downloadMatchupCard(loaded) {
+  const cars = loaded.slice(0, 2)
+  if (cars.length < 2) return
+  const canvas = document.createElement('canvas')
+  canvas.width = CARD_W; canvas.height = CARD_H
+  drawMatchupCard(canvas.getContext('2d'), cars)
 
   canvas.toBlob(blob => {
     const a = document.createElement('a')
