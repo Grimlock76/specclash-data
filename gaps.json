@@ -5,9 +5,9 @@
   "blank": 0,
   "missingFieldCounts": {
     "fuel": 3205,
-    "0-100": 1191,
-    "price": 110,
-    "torque": 38,
+    "0-100": 1199,
+    "price": 112,
+    "torque": 40,
     "weight": 7
   },
   "byMake": {
@@ -433,9 +433,10 @@
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "torque": 11,
-        "0-100": 11,
-        "fuel": 10
+        "torque": 13,
+        "0-100": 19,
+        "fuel": 10,
+        "price": 2
       }
     },
     "Tucker": {
@@ -4787,6 +4788,14 @@
     {"make":"Toyota","model":"bZ4X","year":"2025","trim":"GXL","problem":"missing","fields":["fuel"]},
     {"make":"Toyota","model":"bZ4X","year":"2026","trim":"GX","problem":"missing","fields":["fuel"]},
     {"make":"Toyota","model":"bZ4X","year":"2026","trim":"GXL","problem":"missing","fields":["fuel"]},
+    {"make":"Toyota","model":"LandCruiser 300","year":"2026","trim":"GX","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"LandCruiser 300","year":"2026","trim":"GXL","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"LandCruiser 300","year":"2026","trim":"VX","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"LandCruiser 300","year":"2026","trim":"Sahara","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"LandCruiser 300","year":"2026","trim":"GR Sport","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"LandCruiser 300","year":"2026","trim":"Sahara ZX","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"LandCruiser 300","year":"2026","trim":"Performance Hybrid Sahara ZX","problem":"missing","fields":["torque","0-100","price"]},
+    {"make":"Toyota","model":"LandCruiser 300","year":"2026","trim":"Performance Hybrid GR Sport","problem":"missing","fields":["torque","0-100","price"]},
     {"make":"Tucker","model":"48","year":"1948","trim":"Torpedo","problem":"missing","fields":["torque","fuel"]},
     {"make":"Vector","model":"W8","year":"1989","trim":"Twin Turbo","problem":"missing","fields":["fuel"]},
     {"make":"Vector","model":"W8","year":"1990","trim":"Twin Turbo","problem":"missing","fields":["fuel"]},
