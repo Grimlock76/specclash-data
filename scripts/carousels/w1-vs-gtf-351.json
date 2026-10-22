@@ -1,0 +1,77 @@
+{
+  "hook": [
+    "THE FINAL HERO CARS."
+  ],
+  "sub": "HSV GTSR W1 vs FPV GT F 351. The last of the line.",
+  "cars": [
+    "HSV|W1|2017|VF II W1",
+    "FPV|GT|2014|GT F 351"
+  ],
+  "names": [
+    "HSV GTSR W1",
+    "FPV GT F 351"
+  ],
+  "notes": "Specs: CarsGuide (W1), Carsales (GT F). Manuals.",
+  "slides": [
+    {
+      "title": "Under the bonnet",
+      "rows": [
+        [
+          "en",
+          "Engine",
+          null
+        ],
+        [
+          "di",
+          "Capacity",
+          null
+        ],
+        [
+          "tx",
+          "Gearbox",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "Grunt",
+      "rows": [
+        [
+          "hp",
+          "Power",
+          true
+        ],
+        [
+          "tq",
+          "Torque",
+          true
+        ]
+      ]
+    },
+    {
+      "title": "Thirst",
+      "rows": [
+        [
+          "fx",
+          "Fuel use (combined)",
+          false
+        ]
+      ]
+    }
+  ],
+  "outro": [
+    "Which one's going in the shed?",
+    "Compare any two cars free ↓"
+  ],
+  "video": {
+    "colors": [
+      "#ff3b41",
+      "#3aa0ff"
+    ],
+    "subs": [
+      "VF II GTSR W1 · 2017",
+      "FG MkII GT F 351 · 2014"
+    ],
+    "kicker": "The final hero cars.<br><em>The last of the line.</em>"
+  }
+}

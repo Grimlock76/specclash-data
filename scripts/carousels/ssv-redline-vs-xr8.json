@@ -1,0 +1,83 @@
+{
+  "hook": [
+    "THE LAST AUSSIE V8 SEDANS.",
+    "ONE LAST FIGHT."
+  ],
+  "sub": "2016 SS-V Redline vs FG X XR8. Manuals. On paper.",
+  "cars": [
+    "Holden|Commodore|2016|VF II SS V REDLINE",
+    "Ford|Falcon (FG X)|2016|XR8"
+  ],
+  "names": [
+    "SS-V Redline",
+    "Falcon XR8"
+  ],
+  "notes": "Specs: Carsales (Redbook), manual variants.",
+  "slides": [
+    {
+      "title": "Under the bonnet",
+      "rows": [
+        [
+          "en",
+          "Engine",
+          null
+        ],
+        [
+          "di",
+          "Capacity",
+          null
+        ],
+        [
+          "tx",
+          "Gearbox",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "Grunt",
+      "rows": [
+        [
+          "hp",
+          "Power",
+          true
+        ],
+        [
+          "tq",
+          "Torque",
+          true
+        ]
+      ]
+    },
+    {
+      "title": "Running costs",
+      "rows": [
+        [
+          "fx",
+          "Fuel use (combined)",
+          false
+        ],
+        [
+          "pr",
+          "Price when new",
+          false
+        ]
+      ]
+    }
+  ],
+  "outro": [
+    "Holden or Ford. Pick a side.",
+    "Compare any two cars free ↓"
+  ],
+  "video": {
+    "colors": [
+      "#ff3b41",
+      "#3aa0ff"
+    ],
+    "subs": [
+      "VF Series II · 6.2 LS3 · 2016",
+      "FG X · 5.0 supercharged · 2016"
+    ],
+    "kicker": "The last Aussie V8 sedans.<br><em>One last fight.</em>"
+  }
+}

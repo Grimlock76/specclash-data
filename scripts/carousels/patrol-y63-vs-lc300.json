@@ -1,15 +1,105 @@
 {
-  "hook": ["NEW TWIN-TURBO PATROL", "VS LANDCRUISER"],
+  "hook": [
+    "NEW TWIN-TURBO PATROL",
+    "VS LANDCRUISER"
+  ],
   "sub": "Off-road hero grades. Specs only. No bias.",
-  "cars": ["Nissan|Patrol|2026|Y63 PRO-4X", "Toyota|LandCruiser 300|2026|GR Sport"],
-  "names": ["Patrol PRO-4X", "LC300 GR Sport"],
+  "cars": [
+    "Nissan|Patrol|2026|Y63 PRO-4X",
+    "Toyota|LandCruiser 300|2026|GR Sport"
+  ],
+  "names": [
+    "Patrol PRO-4X",
+    "LC300 GR Sport"
+  ],
   "missing": "TBA",
   "notes": "Specs: Carsales (Redbook). TBA = Nissan hasn't published it yet.",
   "slides": [
-    { "title": "Engine", "rows": [["en", "Engine", null], ["di", "Capacity", null], ["ft", "Fuel", null]] },
-    { "title": "Grunt", "rows": [["hp", "Power", true], ["tq", "Torque", true], ["tx", "Gearbox", null]] },
-    { "title": "Family duty", "rows": [["se", "Seats", true], ["wt", "Kerb weight", false], ["fx", "Fuel use (combined)", false]] },
-    { "title": "Price", "rows": [["pr", "Price when new", false]] }
+    {
+      "title": "Engine",
+      "rows": [
+        [
+          "en",
+          "Engine",
+          null
+        ],
+        [
+          "di",
+          "Capacity",
+          null
+        ],
+        [
+          "ft",
+          "Fuel",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "Grunt",
+      "rows": [
+        [
+          "hp",
+          "Power",
+          true
+        ],
+        [
+          "tq",
+          "Torque",
+          true
+        ],
+        [
+          "tx",
+          "Gearbox",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "Family duty",
+      "rows": [
+        [
+          "se",
+          "Seats",
+          true
+        ],
+        [
+          "wt",
+          "Kerb weight",
+          false
+        ],
+        [
+          "fx",
+          "Fuel use (combined)",
+          false
+        ]
+      ]
+    },
+    {
+      "title": "Price",
+      "rows": [
+        [
+          "pr",
+          "Price when new",
+          false
+        ]
+      ]
+    }
   ],
-  "outro": ["Which one's going in your driveway?", "Compare any two cars free ↓"]
+  "outro": [
+    "Which one's going in your driveway?",
+    "Compare any two cars free ↓"
+  ],
+  "video": {
+    "colors": [
+      "#3aa0ff",
+      "#ff3b41"
+    ],
+    "subs": [
+      "Y63 · 3.5 twin-turbo V6 · 2026",
+      "300 Series · 3.3 twin-turbo diesel · 2026"
+    ],
+    "kicker": "Same 700 Nm.<br><em>Very different recipes.</em>",
+    "missingNote": "Nissan hasn't published it yet"
+  }
 }
