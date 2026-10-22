@@ -5,7 +5,7 @@ import { getBodyType } from '../utils/bodyType.js'
 // Does any trim of this model match the chosen body type?
 function modelHasBody(make, model, bodyType) {
   const years = MAKES[make]?.[model] || {}
-  for (const y in years) for (const t of years[y]) if (getBodyType(model, t) === bodyType) return true
+  for (const y in years) for (const t of years[y]) if (getBodyType(model, t, make) === bodyType) return true
   return false
 }
 

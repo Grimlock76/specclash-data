@@ -59,7 +59,7 @@ function frame(ctx, idx) {
 }
 
 const silhouettes = (ctx, y, w = 440) => cars.forEach((c, i) => {
-  const arch = pickArchetype(getBodyType(c.model, c.trim), { year: c.year, make: c.make, model: c.model })
+  const arch = pickArchetype(getBodyType(c.model, c.trim, c.make), { year: c.year, make: c.make, model: c.model })
   card.drawSilhouette(ctx, arch, COLORS[i], i === 0 ? 60 : W - 60 - w, y, w)
 })
 

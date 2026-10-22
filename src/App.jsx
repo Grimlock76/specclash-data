@@ -9,6 +9,13 @@ import { MAKES } from './data/index.js'
 import { VERSION } from './version.js'
 
 const MAKES_COUNT = Object.keys(MAKES).length
+// Catalogue size for the header. "Trims" counts every year × trim you can load,
+// the same way the 40,000+ figure has always been counted.
+const MODELS_COUNT = Object.values(MAKES).reduce((n, models) => n + Object.keys(models).length, 0)
+const TRIMS_COUNT = Object.values(MAKES).reduce((n, models) =>
+  n + Object.values(models).reduce((m, years) =>
+    m + Object.values(years).reduce((k, trims) => k + trims.length, 0), 0), 0)
+const fmtCount = n => n.toLocaleString('en-AU')
 
 function parseUrlCars() {
   try {
@@ -117,7 +124,10 @@ export default function App() {
             <span style={{ fontSize: 30, fontWeight: 800, letterSpacing: 4, color: '#C8F04A', textTransform: 'uppercase' }}>CLASH</span>
           </div>
           <p style={{ color: '#444', fontSize: 12, marginTop: 3, letterSpacing: 1 }}>
-            {isPro ? `PRO · 4 cars · ${MAKES_COUNT} makes` : `FREE · 2 cars · ${MAKES_COUNT} makes`}
+            {isPro ? 'PRO · 4 cars' : 'FREE · 2 cars'}
+          </p>
+          <p style={{ color: '#666', fontSize: 12, marginTop: 2, letterSpacing: 1, fontVariantNumeric: 'tabular-nums' }}>
+            {fmtCount(MAKES_COUNT)} makes · {fmtCount(MODELS_COUNT)} models · {fmtCount(TRIMS_COUNT)} trims
           </p>
         </div>
         <div style={{ display: 'flex', gap: 8, alignItems: 'center', flexShrink: 0, marginTop: 6 }}>

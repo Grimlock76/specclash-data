@@ -1,6 +1,6 @@
 const BODY_TYPES = ['All', 'Sedan', 'Wagon', 'Ute', 'SUV', 'Coupe', 'Hatch', 'Van']
 
-function getBodyType(model, trim = '') {
+function baseBodyType(model, trim = '') {
   const m = model.toLowerCase()
   const t = trim.toLowerCase()
 
@@ -568,6 +568,24 @@ function getBodyType(model, trim = '') {
   if (m === '#1' || m === '#3' || m === '#5') return 'SUV'       // Smart EVs
 
   return 'Sedan'
+}
+
+// Not Bugatti: its pre-war Type 41/57 range really does include saloons
+const SUPERCAR_MAKES = new Set(['Ferrari', 'McLaren', 'Lamborghini', 'Pagani', 'Koenigsegg'])
+
+// Fixes that need the make: model names like "GTS" and "GT" are shared across
+// makes (HSV GTS sedan vs McLaren GTS coupe; FPV GT sedan vs McLaren GT).
+function getBodyType(model, trim = '', make = '') {
+  const m = model.toLowerCase()
+  const t = trim.toLowerCase()
+  if (/\bmaloo\b/.test(m) || /\bmaloo\b/.test(t)) return 'Ute'
+  if (make === 'HSV' && (m === 'gts' || m === 'manta')) return 'Sedan'
+  if (make === 'FPV' && m === 'gt') return 'Sedan'
+  if (make === 'Bugatti' && m === 'eb110') return 'Coupe'
+  const base = baseBodyType(model, trim)
+  // Two-door supercars were falling through to the Sedan default (F355, F430, McLaren F1, P1…)
+  if (base === 'Sedan' && SUPERCAR_MAKES.has(make)) return 'Coupe'
+  return base
 }
 
 export { BODY_TYPES, getBodyType }

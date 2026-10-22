@@ -54,7 +54,7 @@ export default function Slot({ index, initial, onResult, onClear }) {
   const [loading, setLoading]   = useState(false)
 
   const modelYears = MAKES[make]?.[model] || {}
-  const matchesBody = t => bodyType === 'All' || getBodyType(model, t) === bodyType
+  const matchesBody = t => bodyType === 'All' || getBodyType(model, t, make) === bodyType
 
   // Years available — narrowed to those containing the selected trim (if any).
   const years = model
@@ -83,7 +83,7 @@ export default function Slot({ index, initial, onResult, onClear }) {
   // Before a model is picked, fall back to all types so it can still pre-filter the search.
   const modelBodies = make && model
     ? BODY_TYPES.filter(bt => bt !== 'All' &&
-        Object.values(MAKES[make]?.[model] || {}).some(ts => ts.some(t => getBodyType(model, t) === bt)))
+        Object.values(MAKES[make]?.[model] || {}).some(ts => ts.some(t => getBodyType(model, t, make) === bt)))
     : BODY_TYPES.filter(bt => bt !== 'All')
   const bodyOptions = ['All', ...modelBodies]
 
@@ -153,7 +153,7 @@ export default function Slot({ index, initial, onResult, onClear }) {
       <div className="car-silhouette" style={{ margin: '0 6px 8px' }}>
         <CarSilhouette
           archetype={model
-            ? pickArchetype(getBodyType(model, trim), {
+            ? pickArchetype(getBodyType(model, trim, make), {
                 year: year || resolveYear() || Object.keys(modelYears).sort().pop(),
                 make, model,
               })

@@ -81,7 +81,7 @@ export function drawMatchupCard(ctx, cars, { font = '"Barlow Condensed", sans-se
   cars.forEach((c, i) => {
     const y = i === 0 ? 255 : 665
     const color = SLOT_COLORS[i]
-    const arch = pickArchetype(getBodyType(c.model, c.trim), { year: c.year, make: c.make, model: c.model })
+    const arch = pickArchetype(getBodyType(c.model, c.trim, c.make), { year: c.year, make: c.make, model: c.model })
     drawSilhouette(ctx, arch, color, (W - 620) / 2, y, 620)
     ctx.fillStyle = color
     fitFont(ctx, c.label.toUpperCase(), 700, 52, W - 100, F)
