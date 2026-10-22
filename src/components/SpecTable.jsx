@@ -19,7 +19,8 @@ const firstNum = v => {
 }
 
 // Reveal timing (ms): rows stagger in, numbers count, then the winner slowly lights up
-const ROW_STAGGER = 70, COUNT_MS = 1300, GLOW_AFTER = 1150
+// 3-4 cars get the slow "big reveal" (one spec at a time); 2 cars keep the quick ripple + Clash mode
+const ROW_STAGGER = 70, BIG_STAGGER = 320, COUNT_MS = 1300, GLOW_AFTER = 1150
 
 function getBest(key, loaded) {
   if (loaded.length < 2) return null
@@ -66,6 +67,8 @@ export default function SpecTable({ loaded, onShare }) {
   // Replays the reveal whenever the set of compared cars changes (not on Δ % toggles)
   const playKey = loaded.map(c => `${c.idx}:${c.label}`).join('|')
   let rowNo = 0
+  const bigReveal = loaded.length > 2
+  const stagger = bigReveal ? BIG_STAGGER : ROW_STAGGER
 
   const getLabel = key => {
     if (hasEV && key === 'di') return allEV ? 'Battery' : 'Displacement / Battery'
@@ -77,9 +80,9 @@ export default function SpecTable({ loaded, onShare }) {
     <div style={{ padding: '20px 24px 60px' }}>
       {/* Toolbar */}
       <div className="no-print" style={{ display: 'flex', gap: 8, marginBottom: 14, justifyContent: 'flex-end' }}>
-        {loaded.length > 1 && (
+        {loaded.length === 2 && (
           <button className="tbl-btn clash-btn" onClick={() => setClash(true)}
-            title={loaded.length > 2 ? 'Play an animated face-off of the first two cars' : 'Play an animated face-off'}>▶ Clash</button>
+            title="Play an animated face-off">▶ Clash</button>
         )}
         {loaded.length > 1 && (
           <button className="tbl-btn card-btn" onClick={() => downloadMatchupCard(loaded)}
@@ -93,10 +96,10 @@ export default function SpecTable({ loaded, onShare }) {
         {onShare && <button className="tbl-btn" onClick={onShare}>↗ Share</button>}
       </div>
 
-      {clash && loaded.length > 1 && <UltimateClash cars={loaded.slice(0, 2)} onClose={() => setClash(false)} />}
+      {clash && loaded.length === 2 && <UltimateClash cars={loaded.slice(0, 2)} onClose={() => setClash(false)} />}
 
       <div style={{ overflowX: 'auto' }}>
-        <table style={{ width: '100%', borderCollapse: 'collapse', minWidth: 400 }}>
+        <table className={bigReveal ? 'big-reveal' : undefined} style={{ width: '100%', borderCollapse: 'collapse', minWidth: 400 }}>
           <thead>
             <tr>
               <th style={{ width: 140, textAlign: 'left', padding: '10px 12px', color: '#999', fontSize: 14, letterSpacing: 3, fontFamily: "'Barlow Condensed', sans-serif", textTransform: 'uppercase', borderBottom: '1px solid #181818', fontWeight: 600 }}>SPEC</th>
@@ -110,13 +113,13 @@ export default function SpecTable({ loaded, onShare }) {
           <tbody key={playKey}>
             {GROUPS.map(g => (
               <Fragment key={g.label}>
-                <tr>
+                <tr className="spec-group" style={{ '--rd': `${rowNo * stagger}ms` }}>
                   <td colSpan={loaded.length + 1} style={{ padding: '14px 12px 5px', fontFamily: "'Barlow Condensed', sans-serif", fontSize: 14, letterSpacing: 3, color: '#C8F04A', textTransform: 'uppercase', borderTop: '1px solid #141414' }}>{g.label}</td>
                 </tr>
                 {g.keys.map(key => {
                   const best = getBest(key, loaded)
                   const same = allSame(key)
-                  const rowDelay = rowNo++ * ROW_STAGGER
+                  const rowDelay = rowNo++ * stagger
                   const counts = COUNT_KEYS.has(key)
                   const nums = loaded.map(c => firstNum(c.specs?.[key]))
                   const max = Math.max(...nums.filter(n => !isNaN(n)), 0)
