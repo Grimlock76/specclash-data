@@ -47,7 +47,7 @@ export default function App() {
   const [epoch, setEpoch]     = useState(0) // bump to remount slots with new seeds
   const [isPro, setIsPro]     = useState(readPro)
   const [showPro, setShowPro] = useState(false)
-  const [toast, setToast]     = useState(false)
+  const [toast, setToast]     = useState(0)  // >0 = showing; bump to replay the animation
 
   const onResult = useCallback((i, r) => setCars(p => { const n = [...p]; n[i] = r; return n }), [])
   const onClear  = useCallback((i)    => setCars(p => { const n = [...p]; n[i] = null; return n }), [])
@@ -79,11 +79,11 @@ export default function App() {
   const recents = useMemo(() => readRecents(), [cars])
 
   const activatePro = () => {
-    try { localStorage.setItem('sc_pro', '1') } catch {}
+    try { localStorage.setItem('sc_pro', '1') } catch { /* private mode */ }
     setIsPro(true); setShowPro(false)
   }
   const deactivatePro = () => {
-    try { localStorage.removeItem('sc_pro') } catch {}
+    try { localStorage.removeItem('sc_pro') } catch { /* private mode */ }
     setIsPro(false); setShowPro(false)
   }
 
@@ -94,8 +94,8 @@ export default function App() {
     const url = `${window.location.origin}${window.location.pathname}${params ? '?' + params : ''}`
     navigator.clipboard?.writeText(url).catch(() => {})
     window.history.replaceState(null, '', url)
-    setToast(true)
-    setTimeout(() => setToast(false), 2000)
+    setToast(t => t + 1)
+    setTimeout(() => setToast(0), 2000)
   }, [cars])
 
   const loaded = cars
@@ -190,7 +190,7 @@ export default function App() {
 
       <Footer />
 
-      {toast && <div key={Date.now()} className="toast">Link Copied ✓</div>}
+      {toast > 0 && <div key={toast} className="toast">Link Copied ✓</div>}
 
       <span className="no-print" style={{
         position: 'fixed', left: 10, bottom: 8, zIndex: 40,

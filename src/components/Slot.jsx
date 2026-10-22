@@ -97,6 +97,9 @@ export default function Slot({ index, initial, onResult, onClear }) {
       onResult(index, { make: initial.make, model: initial.model, year: initial.year, trim: initial.trim, label, specs })
     })
     return () => { cancelled = true }
+  // Mount-only: restores a shared/recent comparison once; re-running on prop
+  // changes would clobber whatever the user picks afterwards.
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
   const clear = () => {
