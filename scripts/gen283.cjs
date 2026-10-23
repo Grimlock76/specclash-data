@@ -4,8 +4,7 @@
 // Price: Carsales price when new, else CarsGuide 2026 MSRP (IONIQ 9;
 // Formentor, where Carsales shows CUPRA's national drive-away figures).
 // i30 N DCT weights null (Carsales kerb < tare). EV dual-motor / PHEV system
-// torque null where unpublished. Polestar 2 is written to both catalogue
-// names ('2' and the duplicate 'Polestar 2') so they agree.
+// torque null where unpublished. (Duplicate 'Polestar 2' model removed in gen284.)
 const { writeLineups, $ } = require('./lineup-lib.cjs');
 const B = { topSpeed: null, acceleration: null, cargo: null, seats: 5 };
 const N = { ...B, engine: '2.0L I4 Turbo Petrol', displacement: 1998, cylinders: 4, aspiration: 'Turbo', fuelType: 'petrol',
@@ -56,5 +55,4 @@ writeLineups(283, {
       acceleration: 4.2, topSpeed: 280, fuelTank: 55, cargo: 410, price: $(94990) },
   },
   'Polestar|2|2026': PS_LINEUP,
-  'Polestar|Polestar 2|2026': PS_LINEUP,
 });

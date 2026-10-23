@@ -7,7 +7,7 @@
 // price-when-new is pre-cut, CarsGuide's current MSRP used. Hybrid system
 // torque null. MG4 range is WLTP (no ADR published). Jolion Premium/Vanta
 // Hybrid share the Lux/Ultra Hybrid powertrain; weights null (not fetched).
-// Same lineup written to the duplicate 'MG HS' model so both names agree.
+// (Duplicate 'MG HS' model merged into 'HS' and removed in gen284.)
 const { writeLineups, $ } = require('./lineup-lib.cjs');
 const B = { topSpeed: null, acceleration: null, cargo: null };
 const HS = { ...B, engine: '1.5L I4 Turbo Petrol', displacement: 1498, cylinders: 4, aspiration: 'Turbo', fuelType: 'petrol',
@@ -35,7 +35,6 @@ const JOLH = { ...JOL, engine: '1.5L I4 Hybrid', aspiration: 'Naturally Aspirate
 
 writeLineups(272, {
   'MG|HS|2026': HS_LINEUP,
-  'MG|MG HS|2026': HS_LINEUP,
   'MG|MG4|2026': {
     'Essence 64': { ...EV, power: 140, torque: 350, drivetrain: 'RWD', battery: '64 kWh', range: 452, acceleration: 7.5, topSpeed: 180,
       weight: 1765, cargo: 350, price: $(36990) },

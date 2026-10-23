@@ -48226,59 +48226,6 @@
         "Standard Range"
       ]
     },
-    "MG HS": {
-      "2020": [
-        "Core",
-        "Essence",
-        "Excite",
-        "PHEV Essence"
-      ],
-      "2021": [
-        "Core",
-        "Essence",
-        "Excite",
-        "PHEV Essence"
-      ],
-      "2022": [
-        "Core",
-        "Essence",
-        "Excite",
-        "PHEV Essence",
-        "PHEV Trophy"
-      ],
-      "2023": [
-        "Core",
-        "Essence",
-        "Excite",
-        "PHEV",
-        "PHEV Essence",
-        "PHEV Trophy"
-      ],
-      "2024": [
-        "Core",
-        "Essence",
-        "Excite",
-        "PHEV",
-        "PHEV Essence",
-        "PHEV Trophy"
-      ],
-      "2025": [
-        "Essence",
-        "Excite",
-        "PHEV",
-        "PHEV Essence",
-        "PHEV Trophy"
-      ],
-      "2026": [
-        "Vibe",
-        "Excite",
-        "Essence",
-        "Hybrid+ Excite",
-        "Hybrid+ Essence",
-        "Super Hybrid Excite",
-        "Super Hybrid Essence"
-      ]
-    },
     "MG4": {
       "2023": [
         "Essence 64",
@@ -48638,32 +48585,50 @@
       "2020": [
         "Essence",
         "Excite",
-        "Vibe"
+        "Vibe",
+        "Core",
+        "PHEV Essence"
       ],
       "2021": [
         "Essence",
         "Excite",
-        "Vibe"
+        "Vibe",
+        "Core",
+        "PHEV Essence"
       ],
       "2022": [
         "Essence",
         "Excite",
-        "Vibe"
+        "Vibe",
+        "Core",
+        "PHEV Essence",
+        "PHEV Trophy"
       ],
       "2023": [
         "Essence",
         "Excite",
-        "Vibe"
+        "Vibe",
+        "Core",
+        "PHEV",
+        "PHEV Essence",
+        "PHEV Trophy"
       ],
       "2024": [
         "Essence",
         "Excite",
-        "Vibe"
+        "Vibe",
+        "Core",
+        "PHEV",
+        "PHEV Essence",
+        "PHEV Trophy"
       ],
       "2025": [
         "Essence",
         "Excite",
-        "Vibe"
+        "Vibe",
+        "PHEV",
+        "PHEV Essence",
+        "PHEV Trophy"
       ],
       "2026": [
         "Vibe",
@@ -60183,30 +60148,30 @@
     },
     "3": {
       "2024": [
-        "Long Range AWD",
-        "Long Range AWD Performance"
+        "Long Range Dual Motor",
+        "Performance Pack"
       ],
       "2025": [
-        "Long Range AWD",
-        "Long Range AWD Performance"
+        "Long Range Dual Motor",
+        "Performance Pack"
       ],
       "2026": [
-        "Long Range AWD",
-        "Long Range AWD Performance"
+        "Long Range Dual Motor",
+        "Performance Pack"
       ]
     },
     "4": {
       "2024": [
-        "Long Range AWD",
-        "Standard Range"
+        "Long Range Dual Motor",
+        "Long Range Single Motor"
       ],
       "2025": [
-        "Long Range AWD",
-        "Standard Range"
+        "Long Range Dual Motor",
+        "Long Range Single Motor"
       ],
       "2026": [
-        "Long Range AWD",
-        "Standard Range"
+        "Long Range Dual Motor",
+        "Long Range Single Motor"
       ]
     },
     "5": {
@@ -60217,62 +60182,6 @@
       "2026": [
         "Performance",
         "Standard"
-      ]
-    },
-    "Polestar 2": {
-      "2021": [
-        "Long Range Dual Motor",
-        "Long Range Single Motor"
-      ],
-      "2022": [
-        "Long Range Dual Motor",
-        "Long Range Single Motor"
-      ],
-      "2023": [
-        "Long Range Dual Motor",
-        "Long Range Single Motor"
-      ],
-      "2024": [
-        "Long Range Dual Motor",
-        "Long Range Single Motor"
-      ],
-      "2025": [
-        "Long Range Dual Motor",
-        "Long Range Single Motor"
-      ],
-      "2026": [
-        "Standard Range Single Motor",
-        "Long Range Single Motor",
-        "Long Range Dual Motor",
-        "Long Range Dual Motor Performance Pack"
-      ]
-    },
-    "Polestar 3": {
-      "2024": [
-        "Long Range Dual Motor",
-        "Performance Pack"
-      ],
-      "2025": [
-        "Long Range Dual Motor",
-        "Performance Pack"
-      ],
-      "2026": [
-        "Long Range Dual Motor",
-        "Performance Pack"
-      ]
-    },
-    "Polestar 4": {
-      "2024": [
-        "Long Range Dual Motor",
-        "Long Range Single Motor"
-      ],
-      "2025": [
-        "Long Range Dual Motor",
-        "Long Range Single Motor"
-      ],
-      "2026": [
-        "Long Range Dual Motor",
-        "Long Range Single Motor"
       ]
     }
   },
