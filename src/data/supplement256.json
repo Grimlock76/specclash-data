@@ -19,7 +19,8 @@
       "fuelTank": 50,
       "acceleration": 7.2,
       "weight": 1565,
-      "price": "$39,990"
+      "price": "$39,990",
+      "accelClaimed": true
     },
     "Toyota|Camry|2026|Ascent Sport Hybrid": {
       "fuelType": "hybrid",

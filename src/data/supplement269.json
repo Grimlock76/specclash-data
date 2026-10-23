@@ -21,7 +21,8 @@
       "weight": 2241,
       "fuelTank": 89,
       "groundClearance": 216,
-      "price": "$102,800"
+      "price": "$102,800",
+      "accelClaimed": true
     },
     "Land Rover|Defender|2026|110 D250 S": {
       "topSpeed": null,
@@ -42,7 +43,8 @@
       "power": 183,
       "torque": 570,
       "weight": 2393,
-      "price": "$105,400"
+      "price": "$105,400",
+      "accelClaimed": true
     },
     "Land Rover|Defender|2026|110 D350 X-Dynamic SE": {
       "topSpeed": 191,
@@ -63,7 +65,8 @@
       "power": 258,
       "torque": 700,
       "weight": 2361,
-      "price": "$119,300"
+      "price": "$119,300",
+      "accelClaimed": true
     },
     "Land Rover|Defender|2026|110 P300e X-Dynamic SE": {
       "topSpeed": 191,
@@ -85,7 +88,8 @@
       "weight": 2538,
       "seats": 5,
       "towing": 3000,
-      "price": "$136,800"
+      "price": "$136,800",
+      "accelClaimed": true
     },
     "Land Rover|Defender|2026|110 P425 X-Dynamic SE": {
       "topSpeed": 191,
@@ -106,7 +110,8 @@
       "weight": 2336,
       "seats": 5,
       "towing": 3500,
-      "price": "$132,400"
+      "price": "$132,400",
+      "accelClaimed": true
     },
     "Land Rover|Defender|2026|110 D350 X": {
       "topSpeed": null,
@@ -127,7 +132,8 @@
       "power": 258,
       "torque": 700,
       "weight": 2361,
-      "price": "$171,800"
+      "price": "$171,800",
+      "accelClaimed": true
     },
     "Land Rover|Defender|2026|130 D350 X-Dynamic SE": {
       "topSpeed": null,
@@ -148,7 +154,8 @@
       "power": 258,
       "torque": 700,
       "weight": 2591,
-      "price": "$141,600"
+      "price": "$141,600",
+      "accelClaimed": true
     },
     "Land Rover|Defender|2026|130 P500 V8": {
       "topSpeed": 240,
@@ -169,7 +176,8 @@
       "weight": 2670,
       "seats": 8,
       "towing": 3000,
-      "price": "$235,600"
+      "price": "$235,600",
+      "accelClaimed": true
     },
     "Land Rover|Defender|2026|110 P635 OCTA": {
       "topSpeed": 250,
@@ -191,7 +199,8 @@
       "seats": 5,
       "towing": 3500,
       "groundClearance": 250,
-      "price": "$305,200"
+      "price": "$305,200",
+      "accelClaimed": true
     },
     "Land Rover|Range Rover Sport|2026|D250 Dynamic SE": {
       "topSpeed": 206,
@@ -213,7 +222,8 @@
       "power": 183,
       "torque": 600,
       "weight": 2315,
-      "price": "$151,600"
+      "price": "$151,600",
+      "accelClaimed": true
     },
     "Land Rover|Range Rover Sport|2026|D350 Dynamic HSE": {
       "topSpeed": 234,
@@ -235,7 +245,8 @@
       "power": 258,
       "torque": 700,
       "weight": 2360,
-      "price": "$183,700"
+      "price": "$183,700",
+      "accelClaimed": true
     },
     "Land Rover|Range Rover Sport|2026|P460e Dynamic HSE": {
       "topSpeed": 225,
@@ -257,7 +268,8 @@
       "fx": 1.7,
       "weight": 2660,
       "towing": 3000,
-      "price": "$188,500"
+      "price": "$188,500",
+      "accelClaimed": true
     },
     "Land Rover|Range Rover Sport|2026|P530 Dynamic HSE": {
       "topSpeed": 250,
@@ -278,7 +290,8 @@
       "seats": 5,
       "towing": null,
       "weight": 2505,
-      "price": "$218,900"
+      "price": "$218,900",
+      "accelClaimed": true
     },
     "Land Rover|Range Rover Sport|2026|EV550 Dynamic HSE": {
       "topSpeed": 200,
@@ -301,7 +314,8 @@
       "towing": 2500,
       "seats": 5,
       "weight": 2695,
-      "price": null
+      "price": null,
+      "accelClaimed": true
     },
     "Land Rover|Range Rover Sport|2026|P635 SV": {
       "topSpeed": 266,
@@ -321,7 +335,8 @@
       "fx": 12,
       "weight": 2485,
       "seats": 5,
-      "price": "$321,000"
+      "price": "$321,000",
+      "accelClaimed": true
     },
     "Land Rover|Range Rover|2026|D350 HSE SWB": {
       "topSpeed": 234,
@@ -343,7 +358,8 @@
       "seats": 5,
       "towing": 3500,
       "fuelTank": 80,
-      "price": "$281,600"
+      "price": "$281,600",
+      "accelClaimed": true
     },
     "Land Rover|Range Rover|2026|P460e HSE SWB": {
       "topSpeed": 225,
@@ -365,7 +381,8 @@
       "fx": 1.6,
       "range": 126,
       "weight": 2695,
-      "price": "$284,900"
+      "price": "$284,900",
+      "accelClaimed": true
     },
     "Land Rover|Range Rover|2026|P530 HSE SWB": {
       "topSpeed": 250,
@@ -386,7 +403,8 @@
       "seats": 5,
       "towing": 3500,
       "weight": 2510,
-      "price": "$317,800"
+      "price": "$317,800",
+      "accelClaimed": true
     },
     "Land Rover|Range Rover|2026|EV550 HSE": {
       "topSpeed": 200,
@@ -409,7 +427,8 @@
       "towing": 2500,
       "seats": 5,
       "weight": 2735,
-      "price": "$317,700"
+      "price": "$317,700",
+      "accelClaimed": true
     },
     "Land Rover|Range Rover|2026|P615 SV": {
       "topSpeed": 261,
@@ -430,7 +449,8 @@
       "seats": 5,
       "towing": 3500,
       "weight": 2686,
-      "price": "$427,000"
+      "price": "$427,000",
+      "accelClaimed": true
     },
     "Land Rover|Discovery|2026|D350 S": {
       "topSpeed": 209,
@@ -453,7 +473,8 @@
       "towing": 3500,
       "fuelTank": 89,
       "groundClearance": 207,
-      "price": "$117,000"
+      "price": "$117,000",
+      "accelClaimed": true
     },
     "Land Rover|Discovery|2026|D350 Dynamic SE": {
       "topSpeed": 209,
@@ -476,7 +497,8 @@
       "towing": 3500,
       "fuelTank": 89,
       "groundClearance": 207,
-      "price": "$124,929"
+      "price": "$124,929",
+      "accelClaimed": true
     },
     "Land Rover|Discovery|2026|D350 Landmark": {
       "topSpeed": 209,
@@ -499,7 +521,8 @@
       "towing": 3500,
       "fuelTank": 89,
       "groundClearance": 207,
-      "price": "$132,000"
+      "price": "$132,000",
+      "accelClaimed": true
     },
     "Land Rover|Discovery|2026|D350 Gemini": {
       "topSpeed": 209,
@@ -522,7 +545,8 @@
       "towing": 3500,
       "fuelTank": 89,
       "groundClearance": 207,
-      "price": "$134,763"
+      "price": "$134,763",
+      "accelClaimed": true
     },
     "Land Rover|Discovery|2026|D350 Tempest": {
       "topSpeed": 209,
@@ -545,7 +569,8 @@
       "towing": 3500,
       "fuelTank": 89,
       "groundClearance": 207,
-      "price": "$147,000"
+      "price": "$147,000",
+      "accelClaimed": true
     }
   }
 }

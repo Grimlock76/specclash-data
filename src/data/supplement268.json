@@ -630,7 +630,8 @@
       "weight": 2235,
       "seats": 3,
       "price": "~$48,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "accelClaimed": false
     }
   }
 }

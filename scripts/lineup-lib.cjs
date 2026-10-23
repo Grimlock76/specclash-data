@@ -14,6 +14,9 @@ function writeLineups(num, lineups) {
     const [make, model, year] = mmy.split('|');
     for (const [t, d] of Object.entries(rows)) {
       for (const k of Object.keys(d)) if (d[k] === undefined) delete d[k];
+      // gen scripts take 0-100 from Carsales/CarsGuide spec tables = claimed.
+      // Carried-over rows (existing()) arrive with accelClaimed already set.
+      if (typeof d.acceleration === 'number' && d.accelClaimed === undefined) d.accelClaimed = true;
       specs[`${make}|${model}|${year}|${t}`] = d;
     }
     if (!makes[make]?.[model]) throw new Error('unknown model ' + mmy);
@@ -46,6 +49,8 @@ function existing(make, model, year, trim) {
     hit = o[`${make}|${model}|${year}|${trim}`] || o[`${model}|${year}|${trim}`] || hit;
   }
   if (!hit) throw new Error(`no existing spec for ${make}|${model}|${year}|${trim}`);
-  return JSON.parse(JSON.stringify(hit));
+  const out = JSON.parse(JSON.stringify(hit));
+  if (out.accelClaimed === undefined) out.accelClaimed = false;
+  return out;
 }
 module.exports = { writeLineups, existing, $ };

@@ -179,7 +179,8 @@
       "battery": "64 kWh",
       "range": 452,
       "weight": 1765,
-      "price": "$36,990"
+      "price": "$36,990",
+      "accelClaimed": true
     },
     "MG|MG4|2026|XPOWER": {
       "topSpeed": 200,
@@ -201,7 +202,8 @@
       "battery": "64 kWh",
       "range": 405,
       "weight": 1810,
-      "price": "$55,990"
+      "price": "$55,990",
+      "accelClaimed": true
     },
     "GWM|Haval Jolion|2026|Premium": {
       "topSpeed": null,

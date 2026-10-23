@@ -21,7 +21,8 @@
       "acceleration": 5.9,
       "topSpeed": 201,
       "weight": 1921,
-      "price": "$58,900"
+      "price": "$58,900",
+      "accelClaimed": true
     },
     "Tesla|Model Y|2026|Premium Rear-Wheel Drive": {
       "fuelType": "electric",
@@ -44,7 +45,8 @@
       "acceleration": 5.9,
       "topSpeed": 201,
       "weight": 1921,
-      "price": "$58,900"
+      "price": "$58,900",
+      "accelClaimed": true
     },
     "Tesla|Model Y|2026|Long Range AWD": {
       "fuelType": "electric",
@@ -67,7 +69,8 @@
       "acceleration": 4.8,
       "topSpeed": 201,
       "weight": 1992,
-      "price": "$68,900"
+      "price": "$68,900",
+      "accelClaimed": true
     },
     "Tesla|Model Y|2026|Premium Long Range AWD": {
       "fuelType": "electric",
@@ -90,7 +93,8 @@
       "acceleration": 4.8,
       "topSpeed": 201,
       "weight": 1992,
-      "price": "$68,900"
+      "price": "$68,900",
+      "accelClaimed": true
     },
     "Tesla|Model Y|2026|L Premium AWD": {
       "fuelType": "electric",
@@ -113,7 +117,8 @@
       "acceleration": 5,
       "topSpeed": 201,
       "weight": null,
-      "price": "$74,900"
+      "price": "$74,900",
+      "accelClaimed": true
     },
     "Tesla|Model Y|2026|Performance": {
       "fuelType": "electric",
@@ -136,7 +141,8 @@
       "acceleration": 3.5,
       "topSpeed": 250,
       "weight": 2033,
-      "price": "$89,400"
+      "price": "$89,400",
+      "accelClaimed": true
     },
     "Tesla|Model 3|2026|Rear-Wheel Drive": {
       "fuelType": "electric",
@@ -158,7 +164,8 @@
       "acceleration": 6.1,
       "topSpeed": 201,
       "weight": 1761,
-      "price": "$54,900"
+      "price": "$54,900",
+      "accelClaimed": true
     },
     "Tesla|Model 3|2026|Premium Rear-Wheel Drive": {
       "fuelType": "electric",
@@ -180,7 +187,8 @@
       "acceleration": 6.1,
       "topSpeed": 201,
       "weight": 1761,
-      "price": "$54,900"
+      "price": "$54,900",
+      "accelClaimed": true
     },
     "Tesla|Model 3|2026|Long Range RWD": {
       "fuelType": "electric",
@@ -202,7 +210,8 @@
       "acceleration": 5.2,
       "topSpeed": 201,
       "weight": 1747,
-      "price": "$61,900"
+      "price": "$61,900",
+      "accelClaimed": true
     },
     "Tesla|Model 3|2026|Premium Long Range RWD": {
       "fuelType": "electric",
@@ -224,7 +233,8 @@
       "acceleration": 5.2,
       "topSpeed": 201,
       "weight": 1747,
-      "price": "$61,900"
+      "price": "$61,900",
+      "accelClaimed": true
     },
     "Tesla|Model 3|2026|Performance": {
       "fuelType": "electric",
@@ -246,7 +256,8 @@
       "acceleration": 3.1,
       "topSpeed": 261,
       "weight": 1854,
-      "price": "$80,900"
+      "price": "$80,900",
+      "accelClaimed": true
     },
     "BYD|Atto 3|2026|Essential": {
       "fuelType": "electric",
@@ -269,7 +280,8 @@
       "weight": 1680,
       "seats": 5,
       "towing": 750,
-      "price": "$39,990"
+      "price": "$39,990",
+      "accelClaimed": true
     },
     "BYD|Atto 3|2026|Premium": {
       "fuelType": "electric",
@@ -292,7 +304,8 @@
       "weight": 1750,
       "seats": 5,
       "towing": 750,
-      "price": "$44,990"
+      "price": "$44,990",
+      "accelClaimed": true
     },
     "Suzuki|Jimny|2026|Lite": {
       "engine": "1.5L I4 Petrol (K15B)",

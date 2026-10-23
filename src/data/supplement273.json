@@ -19,7 +19,8 @@
       "weight": 1320,
       "seats": 5,
       "fuelTank": 44,
-      "price": "$43,990"
+      "price": "$43,990",
+      "accelClaimed": true
     },
     "Mini|Hatch|2026|S Classic 5D": {
       "topSpeed": 242,
@@ -40,7 +41,8 @@
       "weight": 1355,
       "seats": 5,
       "fuelTank": 44,
-      "price": "$51,990"
+      "price": "$51,990",
+      "accelClaimed": true
     },
     "Mini|Hatch|2026|JCW Classic 3D": {
       "topSpeed": 250,
@@ -60,7 +62,8 @@
       "fx": 6.8,
       "weight": 1330,
       "seats": 4,
-      "price": "$57,990"
+      "price": "$57,990",
+      "accelClaimed": true
     },
     "Mini|Hatch|2026|SE Favoured 3D": {
       "topSpeed": 170,
@@ -82,7 +85,8 @@
       "range": 362,
       "weight": 1605,
       "seats": 4,
-      "price": "$58,990"
+      "price": "$58,990",
+      "accelClaimed": true
     },
     "Mini|Countryman|2026|C Core": {
       "topSpeed": 212,
@@ -104,7 +108,8 @@
       "weight": 1520,
       "towing": 2000,
       "fuelTank": 45,
-      "price": "$49,990"
+      "price": "$49,990",
+      "accelClaimed": true
     },
     "Mini|Countryman|2026|C Classic": {
       "topSpeed": null,
@@ -124,7 +129,8 @@
       "fh": null,
       "fx": 6.9,
       "weight": 1545,
-      "price": "$54,490"
+      "price": "$54,490",
+      "accelClaimed": true
     },
     "Mini|Countryman|2026|S ALL4 Classic": {
       "topSpeed": 228,
@@ -146,7 +152,8 @@
       "weight": 1620,
       "towing": 2000,
       "fuelTank": 45,
-      "price": "$58,990"
+      "price": "$58,990",
+      "accelClaimed": true
     },
     "Mini|Countryman|2026|JCW ALL4": {
       "topSpeed": 250,
@@ -166,7 +173,8 @@
       "fh": null,
       "fx": 8.3,
       "weight": 1660,
-      "price": "$75,490"
+      "price": "$75,490",
+      "accelClaimed": true
     },
     "Mini|Countryman|2026|E Classic": {
       "topSpeed": 170,
@@ -189,7 +197,8 @@
       "range": 501,
       "weight": 1865,
       "towing": 750,
-      "price": "$68,990"
+      "price": "$68,990",
+      "accelClaimed": true
     },
     "Mini|Countryman|2026|SE ALL4 Classic": {
       "topSpeed": 180,
@@ -212,7 +221,8 @@
       "range": 396,
       "weight": 2000,
       "towing": 1200,
-      "price": "$73,990"
+      "price": "$73,990",
+      "accelClaimed": true
     }
   }
 }

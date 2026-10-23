@@ -65,7 +65,8 @@
       "fuelTank": 81,
       "towing": 2495,
       "groundClearance": 255,
-      "price": "$84,990"
+      "price": "$84,990",
+      "accelClaimed": true
     },
     "RAM|1500|2026|Express Black Edition Hurricane SO": {
       "topSpeed": null,
@@ -205,7 +206,8 @@
       "towing": 3500,
       "fuelTank": 90,
       "payload": 907,
-      "price": "$107,000"
+      "price": "$107,000",
+      "accelClaimed": true
     },
     "INEOS|Grenadier|2026|Station Wagon Diesel": {
       "topSpeed": 160,
@@ -229,7 +231,8 @@
       "fuelTank": 90,
       "payload": 833,
       "groundClearance": 264,
-      "price": "$107,000"
+      "price": "$107,000",
+      "accelClaimed": true
     },
     "INEOS|Grenadier|2026|Trialmaster Diesel": {
       "topSpeed": 160,
@@ -251,7 +254,8 @@
       "seats": 5,
       "towing": 3500,
       "fuelTank": 90,
-      "price": "$120,000"
+      "price": "$120,000",
+      "accelClaimed": true
     },
     "INEOS|Grenadier|2026|Fieldmaster Diesel": {
       "topSpeed": 160,
@@ -273,7 +277,8 @@
       "seats": 5,
       "towing": 3500,
       "fuelTank": 90,
-      "price": "$120,000"
+      "price": "$120,000",
+      "accelClaimed": true
     }
   }
 }

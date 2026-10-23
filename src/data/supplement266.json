@@ -89,7 +89,8 @@
       "torque": null,
       "battery": "84.0 kWh",
       "range": 448,
-      "price": "$114,918"
+      "price": "$114,918",
+      "accelClaimed": true
     },
     "Kia|EV6|2026|Air RWD": {
       "fuelType": "electric",
@@ -112,7 +113,8 @@
       "battery": "84.0 kWh",
       "range": 582,
       "towing": 1800,
-      "price": "$72,590"
+      "price": "$72,590",
+      "accelClaimed": true
     },
     "Kia|EV6|2026|GT-Line RWD": {
       "fuelType": "electric",
@@ -135,7 +137,8 @@
       "battery": "84.0 kWh",
       "range": 560,
       "towing": 1800,
-      "price": "$79,590"
+      "price": "$79,590",
+      "accelClaimed": true
     },
     "Kia|EV6|2026|GT": {
       "fuelType": "electric",
@@ -157,7 +160,8 @@
       "torque": null,
       "battery": "84.0 kWh",
       "range": 450,
-      "price": "$99,590"
+      "price": "$99,590",
+      "accelClaimed": true
     },
     "Kia|EV9|2026|Air RWD": {
       "fuelType": "electric",
@@ -180,7 +184,8 @@
       "battery": "76.1 kWh",
       "range": 443,
       "towing": 900,
-      "price": "$97,000"
+      "price": "$97,000",
+      "accelClaimed": true
     },
     "Kia|EV9|2026|Earth AWD": {
       "fuelType": "electric",
@@ -203,7 +208,8 @@
       "battery": "99.8 kWh",
       "range": 512,
       "towing": 2500,
-      "price": "$106,500"
+      "price": "$106,500",
+      "accelClaimed": true
     },
     "Kia|EV9|2026|GT-Line AWD": {
       "fuelType": "electric",
@@ -226,7 +232,8 @@
       "battery": "99.8 kWh",
       "range": 505,
       "towing": 2500,
-      "price": "$121,000"
+      "price": "$121,000",
+      "accelClaimed": true
     },
     "Kia|EV9|2026|GT": {
       "fuelType": "electric",
@@ -249,7 +256,8 @@
       "battery": "99.8 kWh",
       "range": 510,
       "towing": 2500,
-      "price": "$129,250"
+      "price": "$129,250",
+      "accelClaimed": true
     },
     "Toyota|bZ4X|2026|FWD": {
       "fuelType": "electric",
@@ -272,7 +280,8 @@
       "battery": "74.7 kWh",
       "range": 591,
       "towing": 750,
-      "price": "$55,990"
+      "price": "$55,990",
+      "accelClaimed": true
     },
     "Toyota|bZ4X|2026|AWD": {
       "fuelType": "electric",
@@ -317,7 +326,8 @@
       "battery": "74.7 kWh",
       "range": 488,
       "towing": 1500,
-      "price": "$69,990"
+      "price": "$69,990",
+      "accelClaimed": true
     }
   }
 }

@@ -19,7 +19,8 @@
       "weight": 1525,
       "fuelTank": 59,
       "cargo": 480,
-      "price": "$96,300"
+      "price": "$96,300",
+      "accelClaimed": true
     },
     "BMW|3 Series|2026|330i M Sport Touring": {
       "seats": 5,
@@ -40,7 +41,8 @@
       "weight": 1600,
       "fuelTank": 59,
       "cargo": 500,
-      "price": "$99,300"
+      "price": "$99,300",
+      "accelClaimed": true
     },
     "BMW|3 Series|2026|M340i xDrive": {
       "seats": 5,
@@ -61,7 +63,8 @@
       "weight": 1695,
       "fuelTank": 59,
       "cargo": 480,
-      "price": "$119,000"
+      "price": "$119,000",
+      "accelClaimed": true
     },
     "BMW|5 Series|2026|520i M Sport": {
       "seats": 5,
@@ -82,7 +85,8 @@
       "weight": 1725,
       "fuelTank": 60,
       "cargo": 520,
-      "price": "$117,400"
+      "price": "$117,400",
+      "accelClaimed": true
     },
     "BMW|5 Series|2026|540d xDrive": {
       "seats": 5,
@@ -103,7 +107,8 @@
       "weight": 1905,
       "fuelTank": 60,
       "cargo": 520,
-      "price": "$137,400"
+      "price": "$137,400",
+      "accelClaimed": true
     },
     "BMW|X3|2026|20 xDrive": {
       "seats": 5,
@@ -125,7 +130,8 @@
       "towing": 2200,
       "fuelTank": 65,
       "cargo": 570,
-      "price": "$88,100"
+      "price": "$88,100",
+      "accelClaimed": true
     },
     "BMW|X3|2026|30e xDrive": {
       "seats": 5,
@@ -148,7 +154,8 @@
       "towing": 2000,
       "fuelTank": 50,
       "cargo": 460,
-      "price": "$107,700"
+      "price": "$107,700",
+      "accelClaimed": true
     },
     "BMW|X3|2026|40d xDrive": {
       "seats": 5,
@@ -169,7 +176,8 @@
       "weight": 1975,
       "towing": 2200,
       "cargo": 570,
-      "price": "$112,700"
+      "price": "$112,700",
+      "accelClaimed": true
     },
     "BMW|X3|2026|M50 xDrive": {
       "seats": 5,
@@ -190,7 +198,8 @@
       "weight": 1980,
       "towing": 2200,
       "cargo": 570,
-      "price": "$131,400"
+      "price": "$131,400",
+      "accelClaimed": true
     },
     "BMW|X5|2026|xDrive30d xLine": {
       "seats": 5,
@@ -212,7 +221,8 @@
       "towing": 2700,
       "fuelTank": 80,
       "cargo": 650,
-      "price": "$139,900"
+      "price": "$139,900",
+      "accelClaimed": true
     },
     "BMW|X5|2026|xDrive30d M Sport": {
       "seats": 5,
@@ -234,7 +244,8 @@
       "towing": 2700,
       "fuelTank": 80,
       "cargo": 650,
-      "price": "$139,900"
+      "price": "$139,900",
+      "accelClaimed": true
     },
     "BMW|X5|2026|Shadow Edition": {
       "seats": 5,
@@ -256,7 +267,8 @@
       "towing": 2700,
       "fuelTank": 80,
       "cargo": 650,
-      "price": "$146,900"
+      "price": "$146,900",
+      "accelClaimed": true
     },
     "BMW|X5|2026|xDrive40i M Sport": {
       "seats": 5,
@@ -276,7 +288,8 @@
       "acceleration": 5.4,
       "weight": 2165,
       "towing": 2700,
-      "price": "$143,900"
+      "price": "$143,900",
+      "accelClaimed": true
     },
     "BMW|X5|2026|40d xDrive M Sport (G65)": {
       "seats": 5,
@@ -296,7 +309,8 @@
       "acceleration": 6.1,
       "weight": 2355,
       "towing": 3500,
-      "price": "$143,900"
+      "price": "$143,900",
+      "accelClaimed": true
     },
     "BMW|X5|2026|40 xDrive M Sport (G65)": {
       "seats": 5,
@@ -316,7 +330,8 @@
       "acceleration": 5.3,
       "weight": 2290,
       "towing": 3500,
-      "price": "$145,900"
+      "price": "$145,900",
+      "accelClaimed": true
     },
     "BMW|X5|2026|xDrive50e M Sport": {
       "seats": 5,
@@ -339,7 +354,8 @@
       "weight": 2420,
       "towing": 2700,
       "fuelTank": 69,
-      "price": "$154,900"
+      "price": "$154,900",
+      "accelClaimed": true
     },
     "BMW|X5|2026|M60i": {
       "seats": 5,
@@ -360,7 +376,8 @@
       "weight": 2345,
       "towing": 2700,
       "fuelTank": 83,
-      "price": "$177,900"
+      "price": "$177,900",
+      "accelClaimed": true
     }
   }
 }

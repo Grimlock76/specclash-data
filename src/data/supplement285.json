@@ -19,7 +19,8 @@
       "seats": 2,
       "fuelTank": 73,
       "weight": 1745,
-      "price": "$410,000"
+      "price": "$410,000",
+      "accelClaimed": true
     },
     "Aston Martin|Vantage|2026|S Coupe": {
       "topSpeed": 325,
@@ -40,7 +41,8 @@
       "seats": 2,
       "fuelTank": 73,
       "weight": 1745,
-      "price": null
+      "price": null,
+      "accelClaimed": true
     },
     "Aston Martin|Vantage|2026|Roadster": {
       "topSpeed": 325,
@@ -61,7 +63,8 @@
       "seats": 2,
       "fuelTank": 73,
       "weight": 1805,
-      "price": null
+      "price": null,
+      "accelClaimed": true
     },
     "McLaren|Artura|2026|Coupe": {
       "topSpeed": 330,
@@ -83,7 +86,8 @@
       "range": 33,
       "seats": 2,
       "weight": 1498,
-      "price": "$463,000"
+      "price": "$463,000",
+      "accelClaimed": true
     },
     "McLaren|Artura|2026|Spider": {
       "topSpeed": 330,
@@ -105,7 +109,8 @@
       "range": 33,
       "seats": 2,
       "weight": 1560,
-      "price": null
+      "price": null,
+      "accelClaimed": true
     },
     "Alfa Romeo|Giulia|2026|Veloce": {
       "topSpeed": 240,
@@ -126,7 +131,8 @@
       "weight": 1445,
       "seats": 5,
       "fuelTank": 58,
-      "price": "$79,990"
+      "price": "$79,990",
+      "accelClaimed": true
     },
     "Alfa Romeo|Giulia|2026|Quadrifoglio": {
       "engine": "2.9L V6 Twin-Turbo",
@@ -145,7 +151,8 @@
       "weight": 1524,
       "seats": 5,
       "price": "~$157,990",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "accelClaimed": false
     }
   }
 }

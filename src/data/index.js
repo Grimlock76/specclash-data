@@ -131,7 +131,9 @@ function normalizeSpec(spec, make = '', model = '', trim = '') {
     tq: spec.torque ? spec.torque + ' Nm' : '—',
     tx: spec.transmission || '—',
     dr,
-    z1: spec.acceleration ? `~${spec.acceleration} sec` : '—',
+    // Claimed (manufacturer, via Carsales/CarsGuide) figures show plain; anything
+    // else is an estimate and keeps the "~".
+    z1: spec.acceleration ? `${spec.accelClaimed ? '' : '~'}${spec.acceleration} sec` : '—',
     qm: spec.quarterMile || '—',
     ts: spec.topSpeed ? spec.topSpeed + ' km/h' : '—',
     fc: isEV ? (spec.range ? spec.range + ' km (WLTP)' : '—') : fmtL(spec.fc),

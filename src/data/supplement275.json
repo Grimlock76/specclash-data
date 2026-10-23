@@ -18,7 +18,8 @@
       "fh": 6,
       "fx": 7.4,
       "fuelTank": 43,
-      "price": "$64,300"
+      "price": "$64,300",
+      "accelClaimed": true
     },
     "Mercedes-Benz|GLA|2026|GLA250 e": {
       "topSpeed": 210,
@@ -39,7 +40,8 @@
       "fx": 1.2,
       "battery": "13 kWh",
       "range": 65,
-      "price": "$78,800"
+      "price": "$78,800",
+      "accelClaimed": true
     },
     "Mercedes-Benz|GLA|2026|GLA250 4MATIC": {
       "topSpeed": 240,
@@ -59,7 +61,8 @@
       "fh": 6.1,
       "fx": 7.9,
       "weight": 1736,
-      "price": "$81,527"
+      "price": "$81,527",
+      "accelClaimed": true
     },
     "Mercedes-Benz|GLA|2026|GLA35 AMG 4MATIC": {
       "topSpeed": 250,
@@ -78,7 +81,8 @@
       "fc": 12.2,
       "fh": 7.1,
       "fx": 9,
-      "price": "$100,026"
+      "price": "$100,026",
+      "accelClaimed": true
     },
     "Mercedes-Benz|GLC|2026|GLC200 4MATIC": {
       "topSpeed": 221,
@@ -100,7 +104,8 @@
       "fx": 7.5,
       "weight": 1976,
       "fuelTank": 62,
-      "price": "$90,127"
+      "price": "$90,127",
+      "accelClaimed": true
     },
     "Mercedes-Benz|GLC|2026|GLC300 4MATIC": {
       "topSpeed": 240,
@@ -121,7 +126,8 @@
       "fh": 6.4,
       "fx": 7.7,
       "weight": 1998,
-      "price": "$118,427"
+      "price": "$118,427",
+      "accelClaimed": true
     },
     "Mercedes-Benz|GLC|2026|GLC350 e 4MATIC": {
       "topSpeed": null,
@@ -143,7 +149,8 @@
       "fx": 1.2,
       "battery": "25.3 kWh",
       "range": 132,
-      "price": "$99,900"
+      "price": "$99,900",
+      "accelClaimed": true
     },
     "Mercedes-Benz|GLC|2026|GLC400 4MATIC Electric": {
       "topSpeed": 210,
@@ -166,7 +173,8 @@
       "battery": "94.4 kWh",
       "range": 630,
       "weight": 2535,
-      "price": "$112,200"
+      "price": "$112,200",
+      "accelClaimed": true
     },
     "Mercedes-Benz|GLC|2026|GLC43 AMG 4MATIC": {
       "topSpeed": 250,
@@ -187,7 +195,8 @@
       "fh": 8,
       "fx": 10,
       "weight": 2037,
-      "price": "$149,300"
+      "price": "$149,300",
+      "accelClaimed": true
     },
     "Mercedes-Benz|GLC|2026|GLC53 AMG 4MATIC+": {
       "topSpeed": 250,
@@ -207,7 +216,8 @@
       "fc": null,
       "fh": null,
       "fx": 9.6,
-      "price": "$140,600"
+      "price": "$140,600",
+      "accelClaimed": true
     },
     "Mercedes-Benz|GLC|2026|GLC63 S E Performance": {
       "topSpeed": 275,
@@ -230,7 +240,8 @@
       "battery": "6.1 kWh",
       "range": 14,
       "weight": 2374,
-      "price": "$203,000"
+      "price": "$203,000",
+      "accelClaimed": true
     },
     "Mercedes-Benz|GLE|2026|GLE300 d 4MATIC": {
       "topSpeed": 230,
@@ -251,7 +262,8 @@
       "fh": 5.7,
       "fx": 6.6,
       "fuelTank": 85,
-      "price": "$138,828"
+      "price": "$138,828",
+      "accelClaimed": true
     },
     "Mercedes-Benz|GLE|2026|GLE350 d 4MATIC": {
       "topSpeed": 235,
@@ -271,7 +283,8 @@
       "fc": null,
       "fh": null,
       "fx": 8.2,
-      "price": "$142,300"
+      "price": "$142,300",
+      "accelClaimed": true
     },
     "Mercedes-Benz|GLE|2026|GLE450 d 4MATIC": {
       "topSpeed": 250,
@@ -291,7 +304,8 @@
       "fc": 9.2,
       "fh": 6.4,
       "fx": 7.4,
-      "price": "$156,528"
+      "price": "$156,528",
+      "accelClaimed": true
     },
     "Mercedes-Benz|GLE|2026|GLE450 4MATIC": {
       "topSpeed": null,
@@ -311,7 +325,8 @@
       "fc": 12.4,
       "fh": 7.8,
       "fx": 9.5,
-      "price": "$165,328"
+      "price": "$165,328",
+      "accelClaimed": true
     },
     "Mercedes-Benz|GLE|2026|GLE53 AMG 4MATIC+": {
       "topSpeed": 250,
@@ -331,7 +346,8 @@
       "fc": null,
       "fh": null,
       "fx": 10.1,
-      "price": "$197,327"
+      "price": "$197,327",
+      "accelClaimed": true
     },
     "Mercedes-Benz|GLE|2026|GLE63 S AMG 4MATIC+": {
       "topSpeed": 280,
@@ -351,7 +367,8 @@
       "fc": 18.1,
       "fh": 10,
       "fx": 13,
-      "price": "$278,128"
+      "price": "$278,128",
+      "accelClaimed": true
     }
   }
 }

@@ -19,7 +19,8 @@
       "fh": 7.7,
       "fx": 9.9,
       "weight": 1524,
-      "price": "$48,890"
+      "price": "$48,890",
+      "accelClaimed": true
     },
     "Subaru|WRX|2026|RS Manual": {
       "topSpeed": null,
@@ -40,7 +41,8 @@
       "fh": 7.7,
       "fx": 9.9,
       "weight": 1561,
-      "price": "$54,190"
+      "price": "$54,190",
+      "accelClaimed": true
     },
     "Subaru|WRX|2026|tS": {
       "topSpeed": null,
@@ -61,7 +63,8 @@
       "fh": 7,
       "fx": 8.5,
       "weight": 1631,
-      "price": "$62,190"
+      "price": "$62,190",
+      "accelClaimed": true
     },
     "Subaru|WRX|2026|tS Spec B Manual": {
       "topSpeed": null,
@@ -82,7 +85,8 @@
       "fh": 8.2,
       "fx": 10.4,
       "weight": 1562,
-      "price": "$62,190"
+      "price": "$62,190",
+      "accelClaimed": true
     },
     "Subaru|WRX|2026|Club Spec Evo Manual": {
       "topSpeed": null,
@@ -103,7 +107,8 @@
       "fh": 8.2,
       "fx": 10.4,
       "weight": 1562,
-      "price": "$63,190"
+      "price": "$63,190",
+      "accelClaimed": true
     },
     "Subaru|WRX|2026|GT Sportswagon": {
       "topSpeed": null,
@@ -124,7 +129,8 @@
       "fh": 7,
       "fx": 8.5,
       "weight": 1655,
-      "price": "$58,490"
+      "price": "$58,490",
+      "accelClaimed": true
     },
     "Toyota|GR86|2026|GT Manual": {
       "topSpeed": 226,
@@ -145,7 +151,8 @@
       "fh": 7.2,
       "fx": 9.4,
       "weight": 1290,
-      "price": "$46,340"
+      "price": "$46,340",
+      "accelClaimed": true
     },
     "Toyota|GR86|2026|GT Auto": {
       "topSpeed": 226,
@@ -166,7 +173,8 @@
       "fh": 6.3,
       "fx": 8.7,
       "weight": 1309,
-      "price": "$46,340"
+      "price": "$46,340",
+      "accelClaimed": true
     },
     "Toyota|GR86|2026|GTS Manual": {
       "topSpeed": 226,
@@ -187,7 +195,8 @@
       "fh": 7.3,
       "fx": 9.5,
       "weight": 1299,
-      "price": "$48,490"
+      "price": "$48,490",
+      "accelClaimed": true
     },
     "Lexus|LBX|2026|Luxury 2WD": {
       "topSpeed": null,
@@ -208,7 +217,8 @@
       "fx": 3.8,
       "weight": 1330,
       "fuelTank": 36,
-      "price": "$47,320"
+      "price": "$47,320",
+      "accelClaimed": true
     },
     "Lexus|LBX|2026|Sports Luxury 2WD": {
       "topSpeed": null,
@@ -229,7 +239,8 @@
       "fx": 3.8,
       "weight": 1330,
       "fuelTank": 36,
-      "price": "$52,760"
+      "price": "$52,760",
+      "accelClaimed": true
     },
     "Lexus|LBX|2026|Morizo RR": {
       "topSpeed": 230,
@@ -250,7 +261,8 @@
       "fx": 9.2,
       "weight": 1485,
       "fuelTank": 50,
-      "price": "$76,490"
+      "price": "$76,490",
+      "accelClaimed": true
     },
     "Mazda|CX-80|2026|G40e Pure": {
       "topSpeed": null,
@@ -408,7 +420,8 @@
       "battery": "73 kWh",
       "range": 470,
       "weight": 2151,
-      "price": "$65,990"
+      "price": "$65,990",
+      "accelClaimed": true
     },
     "Ford|Mustang Mach-E|2026|Premium": {
       "topSpeed": null,
@@ -430,7 +443,8 @@
       "battery": "88 kWh",
       "range": 615,
       "weight": 2101,
-      "price": "$80,490"
+      "price": "$80,490",
+      "accelClaimed": true
     },
     "Ford|Mustang Mach-E|2026|GT": {
       "topSpeed": null,
@@ -452,7 +466,8 @@
       "battery": "91 kWh",
       "range": 515,
       "weight": 2307,
-      "price": "$98,405"
+      "price": "$98,405",
+      "accelClaimed": true
     }
   }
 }

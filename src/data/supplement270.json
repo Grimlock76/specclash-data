@@ -20,7 +20,8 @@
       "fc": 8.8,
       "fh": 5.8,
       "fx": 6.9,
-      "price": "$55,490"
+      "price": "$55,490",
+      "accelClaimed": true
     },
     "Volvo|XC40|2026|Ultra B4 Bright": {
       "topSpeed": 180,
@@ -42,7 +43,8 @@
       "fc": 9.1,
       "fh": 6,
       "fx": 7.1,
-      "price": "$62,490"
+      "price": "$62,490",
+      "accelClaimed": true
     },
     "Volvo|XC40|2026|Ultra B4 Dark": {
       "topSpeed": 180,
@@ -64,7 +66,8 @@
       "fc": 9.1,
       "fh": 6,
       "fx": 7.1,
-      "price": "$63,490"
+      "price": "$63,490",
+      "accelClaimed": true
     },
     "Volvo|XC60|2026|Plus B5 Bright": {
       "topSpeed": 180,
@@ -86,7 +89,8 @@
       "fx": 7.6,
       "weight": 1880,
       "seats": 5,
-      "price": "$74,990"
+      "price": "$74,990",
+      "accelClaimed": true
     },
     "Volvo|XC60|2026|Ultra B5 Dark": {
       "topSpeed": 180,
@@ -108,7 +112,8 @@
       "fx": 7.6,
       "weight": 1880,
       "seats": 5,
-      "price": "$81,990"
+      "price": "$81,990",
+      "accelClaimed": true
     },
     "Volvo|XC60|2026|Plus T8 PHEV Dark": {
       "topSpeed": 180,
@@ -131,7 +136,8 @@
       "weight": 2200,
       "seats": 5,
       "towing": 2250,
-      "price": "$92,990"
+      "price": "$92,990",
+      "accelClaimed": true
     },
     "Volvo|XC60|2026|Ultra T8 PHEV Dark": {
       "topSpeed": 180,
@@ -154,7 +160,8 @@
       "weight": 2200,
       "seats": 5,
       "towing": 2250,
-      "price": "$101,990"
+      "price": "$101,990",
+      "accelClaimed": true
     },
     "Volvo|XC90|2026|Plus B5 Bright": {
       "topSpeed": 180,
@@ -175,7 +182,8 @@
       "fh": null,
       "fx": 8.1,
       "seats": 7,
-      "price": "$97,990"
+      "price": "$97,990",
+      "accelClaimed": true
     },
     "Volvo|XC90|2026|Ultra B5 Dark": {
       "topSpeed": 180,
@@ -196,7 +204,8 @@
       "fh": null,
       "fx": 8.1,
       "seats": 7,
-      "price": "$105,990"
+      "price": "$105,990",
+      "accelClaimed": true
     },
     "Volvo|XC90|2026|Plus T8 PHEV Dark": {
       "topSpeed": 180,
@@ -218,7 +227,8 @@
       "range": 77,
       "seats": 7,
       "towing": 2350,
-      "price": "$120,990"
+      "price": "$120,990",
+      "accelClaimed": true
     },
     "Volvo|XC90|2026|Ultra T8 PHEV Dark": {
       "topSpeed": 180,
@@ -240,7 +250,8 @@
       "range": 77,
       "seats": 7,
       "towing": 2350,
-      "price": "$130,990"
+      "price": "$130,990",
+      "accelClaimed": true
     },
     "Volvo|EX30|2026|Plus P5 Long Range": {
       "topSpeed": 180,
@@ -263,7 +274,8 @@
       "weight": 1775,
       "seats": 5,
       "towing": 1600,
-      "price": "$49,990"
+      "price": "$49,990",
+      "accelClaimed": true
     },
     "Volvo|EX30|2026|Ultra P5 Long Range": {
       "topSpeed": 180,
@@ -286,7 +298,8 @@
       "weight": 1775,
       "seats": 5,
       "towing": 1600,
-      "price": "$54,990"
+      "price": "$54,990",
+      "accelClaimed": true
     },
     "Volvo|EX40|2026|Ultra Single Motor Extended Range": {
       "topSpeed": 180,
@@ -309,7 +322,8 @@
       "weight": 2000,
       "seats": 5,
       "towing": 1500,
-      "price": "$69,990"
+      "price": "$69,990",
+      "accelClaimed": true
     },
     "Volvo|EX40|2026|Ultra Twin Motor Performance": {
       "topSpeed": 180,
@@ -332,7 +346,8 @@
       "weight": 2095,
       "seats": 5,
       "towing": 1800,
-      "price": "$74,990"
+      "price": "$74,990",
+      "accelClaimed": true
     },
     "Volvo|EX90|2026|Plus Single Motor": {
       "topSpeed": 180,
@@ -354,7 +369,8 @@
       "range": 479,
       "seats": 7,
       "towing": 1500,
-      "price": "$106,990"
+      "price": "$106,990",
+      "accelClaimed": true
     },
     "Volvo|EX90|2026|Plus Twin Motor": {
       "topSpeed": 180,
@@ -376,7 +392,8 @@
       "seats": 7,
       "towing": 2200,
       "power": 330,
-      "price": "$124,990"
+      "price": "$124,990",
+      "accelClaimed": true
     },
     "Volvo|EX90|2026|Ultra Twin Motor Performance": {
       "topSpeed": 180,
@@ -398,7 +415,8 @@
       "seats": 7,
       "towing": 2200,
       "power": 500,
-      "price": "$134,990"
+      "price": "$134,990",
+      "accelClaimed": true
     }
   }
 }

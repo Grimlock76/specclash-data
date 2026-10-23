@@ -20,7 +20,8 @@
       "weight": 1500,
       "towing": 1700,
       "fuelTank": 54,
-      "price": "$63,400"
+      "price": "$63,400",
+      "accelClaimed": true
     },
     "BMW|X1|2026|sDrive20i M Sport": {
       "topSpeed": 216,
@@ -39,7 +40,8 @@
       "weight": 1550,
       "towing": 1800,
       "fuelTank": 54,
-      "price": null
+      "price": null,
+      "accelClaimed": true
     },
     "BMW|X1|2026|xDrive20i M Sport": {
       "topSpeed": 233,
@@ -60,7 +62,8 @@
       "fx": 7.2,
       "weight": 1595,
       "towing": 2000,
-      "price": "$76,400"
+      "price": "$76,400",
+      "accelClaimed": true
     },
     "BMW|X1|2026|xDrive25e M Sport": {
       "topSpeed": 190,
@@ -80,7 +83,8 @@
       "weight": 1855,
       "towing": 1700,
       "fuelTank": 47,
-      "price": "$79,900"
+      "price": "$79,900",
+      "accelClaimed": true
     },
     "BMW|X1|2026|M35i xDrive": {
       "topSpeed": 250,
@@ -98,7 +102,8 @@
       "torque": 400,
       "fx": 8.3,
       "weight": 1665,
-      "price": "$94,700"
+      "price": "$94,700",
+      "accelClaimed": true
     },
     "BMW|1 Series|2026|118 M Sport": {
       "topSpeed": 226,
@@ -119,7 +124,8 @@
       "fx": 6.4,
       "weight": 1390,
       "fuelTank": 49,
-      "price": "$59,500"
+      "price": "$59,500",
+      "accelClaimed": true
     },
     "BMW|1 Series|2026|118 M Sport Sport Collection": {
       "topSpeed": 226,
@@ -140,7 +146,8 @@
       "fx": 6.4,
       "weight": 1390,
       "fuelTank": 49,
-      "price": "$64,900"
+      "price": "$64,900",
+      "accelClaimed": true
     },
     "BMW|1 Series|2026|120 M Sport": {
       "topSpeed": 246,
@@ -161,7 +168,8 @@
       "fx": 6.7,
       "weight": 1425,
       "fuelTank": 49,
-      "price": "$62,500"
+      "price": "$62,500",
+      "accelClaimed": true
     },
     "BMW|1 Series|2026|M135 xDrive": {
       "topSpeed": 250,
@@ -182,7 +190,8 @@
       "fx": 7.8,
       "weight": 1550,
       "fuelTank": 49,
-      "price": "$85,500"
+      "price": "$85,500",
+      "accelClaimed": true
     },
     "BMW|M2|2026|M2 Coupe Auto": {
       "topSpeed": 250,
@@ -200,7 +209,8 @@
       "torque": 600,
       "fx": 9.7,
       "weight": 1730,
-      "price": "$128,600"
+      "price": "$128,600",
+      "accelClaimed": true
     },
     "BMW|M2|2026|M2 Coupe Manual": {
       "topSpeed": 250,
@@ -218,7 +228,8 @@
       "torque": 550,
       "fx": 10.1,
       "weight": 1704,
-      "price": "$128,600"
+      "price": "$128,600",
+      "accelClaimed": true
     },
     "BMW|M2|2026|M2 M xDrive": {
       "topSpeed": 250,
@@ -235,7 +246,8 @@
       "power": 353,
       "torque": 600,
       "weight": 1790,
-      "price": "$133,100"
+      "price": "$133,100",
+      "accelClaimed": true
     },
     "BMW|M2|2026|M2 CS": {
       "topSpeed": 302,
@@ -253,7 +265,8 @@
       "torque": 650,
       "fx": 10,
       "weight": 1700,
-      "price": "$172,900"
+      "price": "$172,900",
+      "accelClaimed": true
     },
     "BMW|M4|2026|M4 Coupe Manual": {
       "topSpeed": 250,
@@ -274,7 +287,8 @@
       "fx": 10.1,
       "weight": 1700,
       "fuelTank": 59,
-      "price": "$174,600"
+      "price": "$174,600",
+      "accelClaimed": true
     },
     "BMW|M4|2026|M4 Competition xDrive": {
       "topSpeed": 250,
@@ -294,7 +308,8 @@
       "fh": 7.5,
       "fx": 9.6,
       "weight": 1775,
-      "price": "$192,400"
+      "price": "$192,400",
+      "accelClaimed": true
     },
     "BMW|M4|2026|M4 Competition xDrive Convertible": {
       "topSpeed": 250,
@@ -314,7 +329,8 @@
       "fh": 8.2,
       "fx": 10.4,
       "weight": 1925,
-      "price": "$203,800"
+      "price": "$203,800",
+      "accelClaimed": true
     },
     "BMW|i7|2026|60 xDrive M Sport": {
       "topSpeed": 240,
@@ -336,7 +352,8 @@
       "battery": "118 kWh",
       "range": 727,
       "weight": 2695,
-      "price": "$306,900"
+      "price": "$306,900",
+      "accelClaimed": true
     },
     "BMW|i7|2026|M70 xDrive": {
       "topSpeed": 250,
@@ -358,7 +375,8 @@
       "battery": "105.7 kWh",
       "range": 576,
       "weight": 2695,
-      "price": "$344,900"
+      "price": "$344,900",
+      "accelClaimed": true
     }
   }
 }

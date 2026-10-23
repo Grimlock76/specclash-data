@@ -1,14 +1,14 @@
 {
   "generated": "2026-10-23",
-  "trims": 43044,
+  "trims": 42960,
   "noEntry": 0,
   "blank": 0,
   "missingFieldCounts": {
-    "fuel": 3209,
-    "weight": 68,
-    "torque": 127,
-    "0-100": 1445,
-    "price": 115
+    "fuel": 3215,
+    "price": 125,
+    "weight": 152,
+    "torque": 186,
+    "0-100": 1541
   },
   "byMake": {
     "Acura": {
@@ -33,6 +33,14 @@
       "blank": 0,
       "missing": {
         "fuel": 55
+      }
+    },
+    "Aston Martin": {
+      "trims": 285,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "price": 2
       }
     },
     "Auburn": {
@@ -68,12 +76,13 @@
       }
     },
     "BMW": {
-      "trims": 1584,
+      "trims": 1576,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "torque": 2,
-        "fuel": 2
+        "price": 1,
+        "fuel": 5,
+        "torque": 5
       }
     },
     "Bugatti": {
@@ -85,11 +94,11 @@
       }
     },
     "BYD": {
-      "trims": 99,
+      "trims": 98,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "torque": 1,
+        "torque": 4,
         "0-100": 3
       }
     },
@@ -116,6 +125,14 @@
       "blank": 0,
       "missing": {
         "fuel": 14
+      }
+    },
+    "CUPRA": {
+      "trims": 103,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "weight": 3
       }
     },
     "Datsun": {
@@ -175,7 +192,7 @@
       }
     },
     "Ford": {
-      "trims": 824,
+      "trims": 823,
       "noEntry": 0,
       "blank": 0,
       "missing": {
@@ -202,6 +219,15 @@
         "fuel": 10
       }
     },
+    "Genesis": {
+      "trims": 161,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "weight": 8,
+        "torque": 2
+      }
+    },
     "Glickenhaus": {
       "trims": 11,
       "noEntry": 0,
@@ -224,6 +250,17 @@
       "blank": 0,
       "missing": {
         "fuel": 8
+      }
+    },
+    "GWM": {
+      "trims": 257,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "0-100": 12,
+        "price": 1,
+        "torque": 8,
+        "weight": 2
       }
     },
     "Hennessey": {
@@ -254,10 +291,11 @@
       }
     },
     "Honda": {
-      "trims": 363,
+      "trims": 362,
       "noEntry": 0,
       "blank": 0,
       "missing": {
+        "0-100": 6,
         "fuel": 7
       }
     },
@@ -287,13 +325,15 @@
       }
     },
     "Hyundai": {
-      "trims": 864,
+      "trims": 857,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "0-100": 28,
-        "weight": 11,
-        "torque": 7
+        "0-100": 39,
+        "weight": 16,
+        "torque": 10,
+        "price": 1,
+        "fuel": 1
       }
     },
     "Imperial": {
@@ -320,6 +360,15 @@
         "0-100": 10
       }
     },
+    "Jeep": {
+      "trims": 348,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "0-100": 2,
+        "weight": 2
+      }
+    },
     "Kaiser": {
       "trims": 16,
       "noEntry": 0,
@@ -330,13 +379,13 @@
       }
     },
     "Kia": {
-      "trims": 667,
+      "trims": 671,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "0-100": 32,
+        "0-100": 44,
         "torque": 18,
-        "weight": 15
+        "weight": 21
       }
     },
     "Lagonda": {
@@ -353,6 +402,23 @@
       "blank": 0,
       "missing": {
         "fuel": 879
+      }
+    },
+    "Land Rover": {
+      "trims": 415,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "torque": 5,
+        "price": 1
+      }
+    },
+    "Lexus": {
+      "trims": 378,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "torque": 2
       }
     },
     "Lincoln": {
@@ -376,42 +442,47 @@
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "0-100": 30
-      }
-    },
-    "McLaren": {
-      "trims": 130,
-      "noEntry": 0,
-      "blank": 0,
-      "missing": {
-        "fuel": 11
-      }
-    },
-    "Mercedes-Benz": {
-      "trims": 1143,
-      "noEntry": 0,
-      "blank": 0,
-      "missing": {
-        "weight": 12,
-        "torque": 5,
-        "price": 1
-      }
-    },
-    "MG": {
-      "trims": 349,
-      "noEntry": 0,
-      "blank": 0,
-      "missing": {
-        "0-100": 4,
+        "0-100": 39,
         "torque": 2
       }
     },
-    "Mini": {
-      "trims": 518,
+    "McLaren": {
+      "trims": 128,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "fuel": 4
+        "fuel": 11,
+        "torque": 2,
+        "price": 1
+      }
+    },
+    "Mercedes-Benz": {
+      "trims": 1137,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "weight": 29,
+        "torque": 9,
+        "price": 4
+      }
+    },
+    "MG": {
+      "trims": 334,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "0-100": 11,
+        "torque": 7,
+        "weight": 1
+      }
+    },
+    "Mini": {
+      "trims": 514,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "fuel": 4,
+        "torque": 1
       }
     },
     "Mitsubishi": {
@@ -442,11 +513,11 @@
       }
     },
     "Nissan": {
-      "trims": 1042,
+      "trims": 1040,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "0-100": 21,
+        "0-100": 25,
         "weight": 6,
         "price": 6,
         "fuel": 6
@@ -476,12 +547,30 @@
         "fuel": 28
       }
     },
-    "Porsche": {
-      "trims": 504,
+    "Polestar": {
+      "trims": 39,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "torque": 11
+        "weight": 4,
+        "torque": 2
+      }
+    },
+    "Porsche": {
+      "trims": 503,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "torque": 16,
+        "weight": 4
+      }
+    },
+    "RAM": {
+      "trims": 101,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "0-100": 5
       }
     },
     "Rambler": {
@@ -506,6 +595,14 @@
       "blank": 0,
       "missing": {
         "fuel": 58
+      }
+    },
+    "Skoda": {
+      "trims": 216,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "weight": 9
       }
     },
     "Spyker": {
@@ -533,12 +630,12 @@
       }
     },
     "Subaru": {
-      "trims": 653,
+      "trims": 656,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "0-100": 7,
-        "torque": 3
+        "0-100": 18,
+        "torque": 5
       }
     },
     "Suzuki": {
@@ -567,14 +664,14 @@
       }
     },
     "Toyota": {
-      "trims": 2209,
+      "trims": 2208,
       "noEntry": 0,
       "blank": 0,
       "missing": {
         "torque": 40,
-        "0-100": 68,
+        "0-100": 74,
+        "fuel": 13,
         "weight": 4,
-        "fuel": 11,
         "price": 2
       }
     },
@@ -596,13 +693,22 @@
       }
     },
     "Volkswagen": {
-      "trims": 938,
+      "trims": 944,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "0-100": 5,
-        "weight": 4,
-        "torque": 2
+        "0-100": 16,
+        "weight": 17,
+        "torque": 5
+      }
+    },
+    "Volvo": {
+      "trims": 465,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "weight": 10,
+        "torque": 7
       }
     },
     "Willys": {
@@ -870,6 +976,8 @@
     {"make":"Ariel","model":"Nomad","year":"2023","trim":"Standard","problem":"missing","fields":["fuel"]},
     {"make":"Ariel","model":"Nomad","year":"2024","trim":"Standard","problem":"missing","fields":["fuel"]},
     {"make":"Ariel","model":"Nomad","year":"2025","trim":"Standard","problem":"missing","fields":["fuel"]},
+    {"make":"Aston Martin","model":"Vantage","year":"2026","trim":"S Coupe","problem":"missing","fields":["price"]},
+    {"make":"Aston Martin","model":"Vantage","year":"2026","trim":"Roadster","problem":"missing","fields":["price"]},
     {"make":"Auburn","model":"120","year":"1928","trim":"Speedster","problem":"missing","fields":["fuel"]},
     {"make":"Auburn","model":"120","year":"1929","trim":"Speedster","problem":"missing","fields":["fuel"]},
     {"make":"Auburn","model":"120","year":"1930","trim":"Speedster","problem":"missing","fields":["fuel"]},
@@ -931,10 +1039,15 @@
     {"make":"Bentley","model":"4.5 Litre Blower","year":"1929","trim":"Supercharged","problem":"missing","fields":["fuel"]},
     {"make":"Bentley","model":"4.5 Litre Blower","year":"1930","trim":"Supercharged","problem":"missing","fields":["fuel"]},
     {"make":"Bentley","model":"4.5 Litre Blower","year":"1931","trim":"Supercharged","problem":"missing","fields":["fuel"]},
+    {"make":"BMW","model":"X1","year":"2026","trim":"sDrive20i M Sport","problem":"missing","fields":["price","fuel"]},
+    {"make":"BMW","model":"X1","year":"2026","trim":"xDrive25e M Sport","problem":"missing","fields":["torque","fuel"]},
     {"make":"BMW","model":"X3","year":"2026","trim":"30e xDrive","problem":"missing","fields":["torque"]},
     {"make":"BMW","model":"X5","year":"2026","trim":"40d xDrive M Sport (G65)","problem":"missing","fields":["fuel"]},
     {"make":"BMW","model":"X5","year":"2026","trim":"40 xDrive M Sport (G65)","problem":"missing","fields":["fuel"]},
     {"make":"BMW","model":"X5","year":"2026","trim":"xDrive50e M Sport","problem":"missing","fields":["torque"]},
+    {"make":"BMW","model":"M2","year":"2026","trim":"M2 M xDrive","problem":"missing","fields":["fuel"]},
+    {"make":"BMW","model":"i7","year":"2026","trim":"60 xDrive M Sport","problem":"missing","fields":["torque"]},
+    {"make":"BMW","model":"i7","year":"2026","trim":"M70 xDrive","problem":"missing","fields":["torque"]},
     {"make":"Bugatti","model":"Type 35","year":"1924","trim":"Grand Prix","problem":"missing","fields":["fuel"]},
     {"make":"Bugatti","model":"Type 35","year":"1925","trim":"Grand Prix","problem":"missing","fields":["fuel"]},
     {"make":"Bugatti","model":"Type 35","year":"1926","trim":"Grand Prix","problem":"missing","fields":["fuel"]},
@@ -986,6 +1099,9 @@
     {"make":"BYD","model":"Shark","year":"2026","trim":"Dynamic","problem":"missing","fields":["0-100"]},
     {"make":"BYD","model":"Shark","year":"2026","trim":"Premium","problem":"missing","fields":["0-100"]},
     {"make":"BYD","model":"Shark","year":"2026","trim":"Performance","problem":"missing","fields":["0-100"]},
+    {"make":"BYD","model":"Sealion 6","year":"2026","trim":"Essential","problem":"missing","fields":["torque"]},
+    {"make":"BYD","model":"Sealion 6","year":"2026","trim":"Dynamic Extended Range","problem":"missing","fields":["torque"]},
+    {"make":"BYD","model":"Sealion 6","year":"2026","trim":"Premium Extended Range AWD","problem":"missing","fields":["torque"]},
     {"make":"Chevrolet","model":"Avalanche","year":"2001","trim":"Base","problem":"missing","fields":["0-100"]},
     {"make":"Chevrolet","model":"Avalanche","year":"2001","trim":"LS","problem":"missing","fields":["0-100"]},
     {"make":"Chevrolet","model":"Avalanche","year":"2001","trim":"LT","problem":"missing","fields":["0-100"]},
@@ -2324,6 +2440,9 @@
     {"make":"Cord","model":"L-29","year":"1931","trim":"Cabriolet","problem":"missing","fields":["fuel"]},
     {"make":"Cord","model":"L-29","year":"1932","trim":"Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Cord","model":"L-29","year":"1932","trim":"Cabriolet","problem":"missing","fields":["fuel"]},
+    {"make":"CUPRA","model":"Formentor","year":"2026","trim":"V","problem":"missing","fields":["weight"]},
+    {"make":"CUPRA","model":"Formentor","year":"2026","trim":"VZx","problem":"missing","fields":["weight"]},
+    {"make":"CUPRA","model":"Formentor","year":"2026","trim":"VZ5","problem":"missing","fields":["weight"]},
     {"make":"Datsun","model":"510","year":"1968","trim":"2-door","problem":"missing","fields":["fuel"]},
     {"make":"Datsun","model":"510","year":"1968","trim":"SSS","problem":"missing","fields":["fuel"]},
     {"make":"Datsun","model":"510","year":"1968","trim":"Standard","problem":"missing","fields":["fuel"]},
@@ -3084,6 +3203,15 @@
     {"make":"Frazer","model":"Manhattan","year":"1949","trim":"Sedan","problem":"missing","fields":["torque","fuel"]},
     {"make":"Frazer","model":"Manhattan","year":"1950","trim":"Sedan","problem":"missing","fields":["torque","fuel"]},
     {"make":"Frazer","model":"Manhattan","year":"1951","trim":"Sedan","problem":"missing","fields":["torque","fuel"]},
+    {"make":"Genesis","model":"G80","year":"2026","trim":"2.5T Signature","problem":"missing","fields":["weight"]},
+    {"make":"Genesis","model":"G80","year":"2026","trim":"Electrified Signature","problem":"missing","fields":["torque","weight"]},
+    {"make":"Genesis","model":"GV70","year":"2026","trim":"2.5T Signature","problem":"missing","fields":["weight"]},
+    {"make":"Genesis","model":"GV70","year":"2026","trim":"2.5T Signature Sport","problem":"missing","fields":["weight"]},
+    {"make":"Genesis","model":"GV70","year":"2026","trim":"3.5T Signature Sport","problem":"missing","fields":["weight"]},
+    {"make":"Genesis","model":"GV70","year":"2026","trim":"Electrified Signature Performance","problem":"missing","fields":["torque"]},
+    {"make":"Genesis","model":"GV80","year":"2026","trim":"2.5T Signature 7 Seat","problem":"missing","fields":["weight"]},
+    {"make":"Genesis","model":"GV80","year":"2026","trim":"3.5T Signature 7 Seat","problem":"missing","fields":["weight"]},
+    {"make":"Genesis","model":"GV80","year":"2026","trim":"3.5T Black 7 Seat","problem":"missing","fields":["weight"]},
     {"make":"Glickenhaus","model":"SCG 003","year":"2015","trim":"Competizione","problem":"missing","fields":["fuel"]},
     {"make":"Glickenhaus","model":"SCG 003","year":"2016","trim":"Competizione","problem":"missing","fields":["fuel"]},
     {"make":"Glickenhaus","model":"SCG 003","year":"2017","trim":"Competizione","problem":"missing","fields":["fuel"]},
@@ -3163,6 +3291,18 @@
     {"make":"Gordon Murray","model":"T.50s","year":"2023","trim":"Niki Lauda","problem":"missing","fields":["fuel"]},
     {"make":"Gordon Murray","model":"T.50s","year":"2024","trim":"Niki Lauda","problem":"missing","fields":["fuel"]},
     {"make":"Gordon Murray","model":"T.50s","year":"2025","trim":"Niki Lauda","problem":"missing","fields":["fuel"]},
+    {"make":"GWM","model":"Haval H6","year":"2026","trim":"Lux","problem":"missing","fields":["0-100"]},
+    {"make":"GWM","model":"Haval H6","year":"2026","trim":"Ultra","problem":"missing","fields":["0-100","price"]},
+    {"make":"GWM","model":"Haval H6","year":"2026","trim":"Lux Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"GWM","model":"Haval H6","year":"2026","trim":"Ultra Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"GWM","model":"Haval H6","year":"2026","trim":"Lux PHEV","problem":"missing","fields":["torque","0-100"]},
+    {"make":"GWM","model":"Haval H6","year":"2026","trim":"Ultra PHEV","problem":"missing","fields":["torque","0-100"]},
+    {"make":"GWM","model":"Haval Jolion","year":"2026","trim":"Premium","problem":"missing","fields":["0-100"]},
+    {"make":"GWM","model":"Haval Jolion","year":"2026","trim":"Vanta","problem":"missing","fields":["0-100"]},
+    {"make":"GWM","model":"Haval Jolion","year":"2026","trim":"Premium Hybrid","problem":"missing","fields":["torque","0-100","weight"]},
+    {"make":"GWM","model":"Haval Jolion","year":"2026","trim":"Lux Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"GWM","model":"Haval Jolion","year":"2026","trim":"Ultra Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"GWM","model":"Haval Jolion","year":"2026","trim":"Vanta Hybrid","problem":"missing","fields":["torque","0-100","weight"]},
     {"make":"Hennessey","model":"Venom GT","year":"2011","trim":"Spyder","problem":"missing","fields":["fuel"]},
     {"make":"Hennessey","model":"Venom GT","year":"2011","trim":"Standard","problem":"missing","fields":["fuel"]},
     {"make":"Hennessey","model":"Venom GT","year":"2012","trim":"Spyder","problem":"missing","fields":["fuel"]},
@@ -3301,6 +3441,12 @@
     {"make":"Holden","model":"Commodore","year":"2020","trim":"ZB Calais-V Sportwagon","problem":"missing","fields":["price"]},
     {"make":"Holden","model":"Commodore","year":"2020","trim":"ZB LT Sportwagon","problem":"missing","fields":["price"]},
     {"make":"Holden","model":"Commodore","year":"2020","trim":"ZB RS Sportwagon","problem":"missing","fields":["price"]},
+    {"make":"Honda","model":"CR-V","year":"2026","trim":"VTi X","problem":"missing","fields":["0-100"]},
+    {"make":"Honda","model":"CR-V","year":"2026","trim":"VTi L7","problem":"missing","fields":["0-100"]},
+    {"make":"Honda","model":"CR-V","year":"2026","trim":"e:HEV X","problem":"missing","fields":["0-100"]},
+    {"make":"Honda","model":"CR-V","year":"2026","trim":"e:HEV L","problem":"missing","fields":["0-100"]},
+    {"make":"Honda","model":"CR-V","year":"2026","trim":"e:HEV LX","problem":"missing","fields":["0-100"]},
+    {"make":"Honda","model":"CR-V","year":"2026","trim":"e:HEV RS","problem":"missing","fields":["0-100"]},
     {"make":"Honda","model":"Integra","year":"1993","trim":"Type R DC2","problem":"missing","fields":["fuel"]},
     {"make":"Honda","model":"Integra","year":"1996","trim":"Type R DC2","problem":"missing","fields":["fuel"]},
     {"make":"Honda","model":"Integra","year":"1998","trim":"VTi-R DC2","problem":"missing","fields":["fuel"]},
@@ -3429,6 +3575,10 @@
     {"make":"Hummer","model":"H3","year":"2010","trim":"H3 Alpha","problem":"missing","fields":["fuel"]},
     {"make":"Hummer","model":"H3","year":"2010","trim":"H3T","problem":"missing","fields":["fuel"]},
     {"make":"Hummer","model":"H3","year":"2010","trim":"H3x","problem":"missing","fields":["fuel"]},
+    {"make":"Hyundai","model":"i30 N","year":"2026","trim":"N Manual","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"i30 N","year":"2026","trim":"N DCT","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Hyundai","model":"i30 N","year":"2026","trim":"N Premium Manual","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"i30 N","year":"2026","trim":"N Premium DCT","problem":"missing","fields":["0-100","weight"]},
     {"make":"Hyundai","model":"Tucson","year":"2026","trim":"Tucson","problem":"missing","fields":["0-100"]},
     {"make":"Hyundai","model":"Tucson","year":"2026","trim":"Elite","problem":"missing","fields":["0-100"]},
     {"make":"Hyundai","model":"Tucson","year":"2026","trim":"Hybrid","problem":"missing","fields":["0-100"]},
@@ -3458,6 +3608,15 @@
     {"make":"Hyundai","model":"Ioniq 5","year":"2026","trim":"Elite RWD","problem":"missing","fields":["0-100","weight"]},
     {"make":"Hyundai","model":"Ioniq 5","year":"2026","trim":"N Line Premium AWD","problem":"missing","fields":["torque","0-100","weight"]},
     {"make":"Hyundai","model":"Ioniq 5 N","year":"2026","trim":"N","problem":"missing","fields":["torque","weight"]},
+    {"make":"Hyundai","model":"Palisade","year":"2026","trim":"Elite Hybrid AWD","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Palisade","year":"2026","trim":"XRT PRO","problem":"missing","fields":["0-100","weight","price"]},
+    {"make":"Hyundai","model":"Palisade","year":"2026","trim":"Calligraphy Hybrid AWD","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Staria","year":"2026","trim":"Staria Diesel","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Hyundai","model":"Staria","year":"2026","trim":"Elite","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Staria","year":"2026","trim":"Highlander","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Staria","year":"2026","trim":"Lounge Hybrid","problem":"missing","fields":["torque","0-100","weight","fuel"]},
+    {"make":"Hyundai","model":"Ioniq 9","year":"2026","trim":"Calligraphy AWD 7 Seat","problem":"missing","fields":["torque"]},
+    {"make":"Hyundai","model":"Ioniq 9","year":"2026","trim":"Calligraphy AWD 6 Seat","problem":"missing","fields":["torque"]},
     {"make":"Imperial","model":"Newport","year":"1955","trim":"Hardtop","problem":"missing","fields":["fuel"]},
     {"make":"Imperial","model":"Newport","year":"1956","trim":"Hardtop","problem":"missing","fields":["fuel"]},
     {"make":"Imperial","model":"Crown","year":"1957","trim":"Hardtop","problem":"missing","fields":["fuel"]},
@@ -3548,6 +3707,9 @@
     {"make":"Isuzu","model":"MU-X","year":"2026","trim":"LS-U","problem":"missing","fields":["0-100"]},
     {"make":"Isuzu","model":"MU-X","year":"2026","trim":"LS-T","problem":"missing","fields":["0-100"]},
     {"make":"Isuzu","model":"MU-X","year":"2026","trim":"X-Terrain","problem":"missing","fields":["0-100"]},
+    {"make":"Jeep","model":"Wrangler","year":"2026","trim":"Unlimited Rewind","problem":"missing","fields":["0-100"]},
+    {"make":"Jeep","model":"Wrangler","year":"2026","trim":"Rubicon 2-door","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Jeep","model":"Wrangler","year":"2026","trim":"Unlimited Rubicon","problem":"missing","fields":["weight"]},
     {"make":"Kaiser","model":"Special","year":"1946","trim":"Sedan","problem":"missing","fields":["torque","fuel"]},
     {"make":"Kaiser","model":"Special","year":"1947","trim":"Sedan","problem":"missing","fields":["torque","fuel"]},
     {"make":"Kaiser","model":"Special","year":"1948","trim":"Sedan","problem":"missing","fields":["torque","fuel"]},
@@ -3598,11 +3760,23 @@
     {"make":"Kia","model":"EV6","year":"2026","trim":"Air RWD","problem":"missing","fields":["weight"]},
     {"make":"Kia","model":"EV6","year":"2026","trim":"GT-Line RWD","problem":"missing","fields":["weight"]},
     {"make":"Kia","model":"EV6","year":"2026","trim":"GT","problem":"missing","fields":["torque","weight"]},
+    {"make":"Kia","model":"Seltos","year":"2026","trim":"S","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"Seltos","year":"2026","trim":"Sport","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Kia","model":"Seltos","year":"2026","trim":"Sport+ FWD","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"Seltos","year":"2026","trim":"Sport+ AWD","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"Seltos","year":"2026","trim":"GT-Line FWD","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Kia","model":"Seltos","year":"2026","trim":"GT-Line AWD","problem":"missing","fields":["0-100"]},
     {"make":"Kia","model":"Tasman","year":"2026","trim":"S 4x2","problem":"missing","fields":["0-100"]},
     {"make":"Kia","model":"Tasman","year":"2026","trim":"SX","problem":"missing","fields":["0-100"]},
     {"make":"Kia","model":"Tasman","year":"2026","trim":"SX+","problem":"missing","fields":["0-100"]},
     {"make":"Kia","model":"Tasman","year":"2026","trim":"X-Line","problem":"missing","fields":["0-100"]},
     {"make":"Kia","model":"Tasman","year":"2026","trim":"X-Pro","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"K4","year":"2026","trim":"S Sedan","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Kia","model":"K4","year":"2026","trim":"Sport Sedan","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Kia","model":"K4","year":"2026","trim":"Sport+ Sedan","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Kia","model":"K4","year":"2026","trim":"GT-Line Sedan","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"K4","year":"2026","trim":"S Hatch","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Kia","model":"K4","year":"2026","trim":"GT-Line Hatch","problem":"missing","fields":["0-100"]},
     {"make":"Lagonda","model":"M45","year":"1933","trim":"Tourer","problem":"missing","fields":["fuel"]},
     {"make":"Lagonda","model":"M45","year":"1934","trim":"Tourer","problem":"missing","fields":["fuel"]},
     {"make":"Lagonda","model":"M45","year":"1935","trim":"Tourer","problem":"missing","fields":["fuel"]},
@@ -4502,6 +4676,13 @@
     {"make":"Lancia","model":"Augusta","year":"1935","trim":"Cabriolet","problem":"missing","fields":["fuel"]},
     {"make":"Lancia","model":"Augusta","year":"1936","trim":"Berlina","problem":"missing","fields":["fuel"]},
     {"make":"Lancia","model":"Augusta","year":"1936","trim":"Cabriolet","problem":"missing","fields":["fuel"]},
+    {"make":"Land Rover","model":"Defender","year":"2026","trim":"110 P300e X-Dynamic SE","problem":"missing","fields":["torque"]},
+    {"make":"Land Rover","model":"Range Rover","year":"2026","trim":"P460e HSE SWB","problem":"missing","fields":["torque"]},
+    {"make":"Land Rover","model":"Range Rover","year":"2026","trim":"EV550 HSE","problem":"missing","fields":["torque"]},
+    {"make":"Land Rover","model":"Range Rover Sport","year":"2026","trim":"P460e Dynamic HSE","problem":"missing","fields":["torque"]},
+    {"make":"Land Rover","model":"Range Rover Sport","year":"2026","trim":"EV550 Dynamic HSE","problem":"missing","fields":["torque","price"]},
+    {"make":"Lexus","model":"LBX","year":"2026","trim":"Luxury 2WD","problem":"missing","fields":["torque"]},
+    {"make":"Lexus","model":"LBX","year":"2026","trim":"Sports Luxury 2WD","problem":"missing","fields":["torque"]},
     {"make":"Lincoln","model":"Aviator","year":"2019","trim":"Grand Touring","problem":"missing","fields":["fuel"]},
     {"make":"Lincoln","model":"Aviator","year":"2020","trim":"Grand Touring","problem":"missing","fields":["fuel"]},
     {"make":"Lincoln","model":"Aviator","year":"2021","trim":"Grand Touring","problem":"missing","fields":["fuel"]},
@@ -4536,6 +4717,9 @@
     {"make":"Marmon","model":"Sixteen","year":"1932","trim":"Limousine","problem":"missing","fields":["fuel"]},
     {"make":"Marmon","model":"Sixteen","year":"1933","trim":"Sport Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Marmon","model":"Sixteen","year":"1933","trim":"Limousine","problem":"missing","fields":["fuel"]},
+    {"make":"Mazda","model":"2","year":"2026","trim":"G15 Evolve Hatch","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"2","year":"2026","trim":"G15 GT Hatch","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"2","year":"2026","trim":"G15 GT Sedan","problem":"missing","fields":["0-100"]},
     {"make":"Mazda","model":"3","year":"2026","trim":"G20 Pure","problem":"missing","fields":["0-100"]},
     {"make":"Mazda","model":"3","year":"2026","trim":"G20 Evolve","problem":"missing","fields":["0-100"]},
     {"make":"Mazda","model":"3","year":"2026","trim":"G20 Touring","problem":"missing","fields":["0-100"]},
@@ -4566,6 +4750,12 @@
     {"make":"Mazda","model":"CX-30","year":"2026","trim":"G25 Touring","problem":"missing","fields":["0-100"]},
     {"make":"Mazda","model":"CX-30","year":"2026","trim":"G25 GT SP","problem":"missing","fields":["0-100"]},
     {"make":"Mazda","model":"CX-30","year":"2026","trim":"G25 Astina","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-80","year":"2026","trim":"G40e Pure","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-80","year":"2026","trim":"G40e GT","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-80","year":"2026","trim":"D50e Pure","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-80","year":"2026","trim":"D50e Azami","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-80","year":"2026","trim":"P50e Touring","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Mazda","model":"CX-80","year":"2026","trim":"P50e Azami","problem":"missing","fields":["torque","0-100"]},
     {"make":"McLaren","model":"P1","year":"2013","trim":"Standard","problem":"missing","fields":["fuel"]},
     {"make":"McLaren","model":"P1","year":"2014","trim":"Standard","problem":"missing","fields":["fuel"]},
     {"make":"McLaren","model":"P1","year":"2015","trim":"Standard","problem":"missing","fields":["fuel"]},
@@ -4577,6 +4767,8 @@
     {"make":"McLaren","model":"765LT","year":"2020","trim":"Spider","problem":"missing","fields":["fuel"]},
     {"make":"McLaren","model":"765LT","year":"2022","trim":"Coupe","problem":"missing","fields":["fuel"]},
     {"make":"McLaren","model":"765LT","year":"2022","trim":"Spider","problem":"missing","fields":["fuel"]},
+    {"make":"McLaren","model":"Artura","year":"2026","trim":"Coupe","problem":"missing","fields":["torque"]},
+    {"make":"McLaren","model":"Artura","year":"2026","trim":"Spider","problem":"missing","fields":["torque","price"]},
     {"make":"Mercedes-Benz","model":"A-Class","year":"2026","trim":"A200","problem":"missing","fields":["weight"]},
     {"make":"Mercedes-Benz","model":"A-Class","year":"2026","trim":"A200 Special Edition","problem":"missing","fields":["weight"]},
     {"make":"Mercedes-Benz","model":"A-Class","year":"2026","trim":"A250 Special Edition","problem":"missing","fields":["weight"]},
@@ -4591,16 +4783,47 @@
     {"make":"Mercedes-Benz","model":"E-Class","year":"2026","trim":"E300 AMG Night Edition","problem":"missing","fields":["weight"]},
     {"make":"Mercedes-Benz","model":"E-Class","year":"2026","trim":"E53 AMG","problem":"missing","fields":["torque","weight"]},
     {"make":"Mercedes-Benz","model":"E-Class","year":"2026","trim":"E53 AMG Dark Carbon Edition","problem":"missing","fields":["torque","weight"]},
+    {"make":"Mercedes-Benz","model":"GLA","year":"2026","trim":"GLA200","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"GLA","year":"2026","trim":"GLA250 e","problem":"missing","fields":["torque","weight"]},
+    {"make":"Mercedes-Benz","model":"GLA","year":"2026","trim":"GLA35 AMG 4MATIC","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"GLC","year":"2026","trim":"GLC350 e 4MATIC","problem":"missing","fields":["torque","weight"]},
+    {"make":"Mercedes-Benz","model":"GLC","year":"2026","trim":"GLC400 4MATIC Electric","problem":"missing","fields":["torque"]},
+    {"make":"Mercedes-Benz","model":"GLC","year":"2026","trim":"GLC53 AMG 4MATIC+","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"GLC","year":"2026","trim":"GLC63 S E Performance","problem":"missing","fields":["torque"]},
+    {"make":"Mercedes-Benz","model":"GLE","year":"2026","trim":"GLE300 d 4MATIC","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"GLE","year":"2026","trim":"GLE350 d 4MATIC","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"GLE","year":"2026","trim":"GLE450 d 4MATIC","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"GLE","year":"2026","trim":"GLE450 4MATIC","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"GLE","year":"2026","trim":"GLE53 AMG 4MATIC+","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"GLE","year":"2026","trim":"GLE63 S AMG 4MATIC+","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"GLS","year":"2026","trim":"GLS450 4MATIC","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"GLS","year":"2026","trim":"GLS450 d 4MATIC","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"GLS","year":"2026","trim":"GLS63 AMG 4MATIC+","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"CLA","year":"2026","trim":"CLA200","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"S-Class","year":"2026","trim":"S450 4MATIC","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"S-Class","year":"2026","trim":"S580 L 4MATIC","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"CLE","year":"2026","trim":"CLE200 Coupe","problem":"missing","fields":["price"]},
+    {"make":"Mercedes-Benz","model":"CLE","year":"2026","trim":"CLE300 4MATIC Coupe","problem":"missing","fields":["price"]},
+    {"make":"Mercedes-Benz","model":"CLE","year":"2026","trim":"CLE53 AMG 4MATIC+ Coupe","problem":"missing","fields":["price"]},
     {"make":"MG","model":"ZS","year":"2026","trim":"Vibe","problem":"missing","fields":["0-100"]},
     {"make":"MG","model":"ZS","year":"2026","trim":"Excite Turbo","problem":"missing","fields":["0-100"]},
     {"make":"MG","model":"ZS","year":"2026","trim":"Vibe Turbo","problem":"missing","fields":["0-100"]},
     {"make":"MG","model":"ZS","year":"2026","trim":"Essence Turbo","problem":"missing","fields":["0-100"]},
     {"make":"MG","model":"ZS","year":"2026","trim":"Excite Hybrid+","problem":"missing","fields":["torque"]},
     {"make":"MG","model":"ZS","year":"2026","trim":"Essence Hybrid+","problem":"missing","fields":["torque"]},
+    {"make":"MG","model":"MG4","year":"2026","trim":"XPOWER","problem":"missing","fields":["torque"]},
+    {"make":"MG","model":"HS","year":"2026","trim":"Vibe","problem":"missing","fields":["0-100"]},
+    {"make":"MG","model":"HS","year":"2026","trim":"Excite","problem":"missing","fields":["0-100","weight"]},
+    {"make":"MG","model":"HS","year":"2026","trim":"Essence","problem":"missing","fields":["0-100"]},
+    {"make":"MG","model":"HS","year":"2026","trim":"Hybrid+ Excite","problem":"missing","fields":["torque","0-100"]},
+    {"make":"MG","model":"HS","year":"2026","trim":"Hybrid+ Essence","problem":"missing","fields":["torque","0-100"]},
+    {"make":"MG","model":"HS","year":"2026","trim":"Super Hybrid Excite","problem":"missing","fields":["torque","0-100"]},
+    {"make":"MG","model":"HS","year":"2026","trim":"Super Hybrid Essence","problem":"missing","fields":["torque","0-100"]},
     {"make":"Mini","model":"Countryman","year":"2021","trim":"Cooper SE","problem":"missing","fields":["fuel"]},
     {"make":"Mini","model":"Countryman","year":"2022","trim":"Cooper SE","problem":"missing","fields":["fuel"]},
     {"make":"Mini","model":"Countryman","year":"2023","trim":"Cooper SE","problem":"missing","fields":["fuel"]},
     {"make":"Mini","model":"Countryman","year":"2024","trim":"Cooper SE","problem":"missing","fields":["fuel"]},
+    {"make":"Mini","model":"Countryman","year":"2026","trim":"SE ALL4 Classic","problem":"missing","fields":["torque"]},
     {"make":"Mitsubishi","model":"Triton","year":"2024","trim":"GLX","problem":"missing","fields":["0-100"]},
     {"make":"Mitsubishi","model":"Triton","year":"2024","trim":"GLX+","problem":"missing","fields":["0-100"]},
     {"make":"Mitsubishi","model":"Triton","year":"2024","trim":"GLX-R","problem":"missing","fields":["0-100"]},
@@ -4748,6 +4971,10 @@
     {"make":"Nissan","model":"X-Trail","year":"2026","trim":"ST-L e-POWER","problem":"missing","fields":["0-100"]},
     {"make":"Nissan","model":"X-Trail","year":"2026","trim":"Ti e-POWER","problem":"missing","fields":["0-100"]},
     {"make":"Nissan","model":"X-Trail","year":"2026","trim":"Ti-L e-POWER","problem":"missing","fields":["0-100"]},
+    {"make":"Nissan","model":"Qashqai","year":"2026","trim":"ST-L e-POWER","problem":"missing","fields":["0-100"]},
+    {"make":"Nissan","model":"Qashqai","year":"2026","trim":"Ti e-POWER","problem":"missing","fields":["0-100"]},
+    {"make":"Nissan","model":"Qashqai","year":"2026","trim":"Ti-L e-POWER","problem":"missing","fields":["0-100"]},
+    {"make":"Nissan","model":"Qashqai","year":"2026","trim":"N-DESIGN e-POWER","problem":"missing","fields":["0-100"]},
     {"make":"Noble","model":"M12 GTO","year":"2000","trim":"3R","problem":"missing","fields":["fuel"]},
     {"make":"Noble","model":"M12 GTO","year":"2001","trim":"3R","problem":"missing","fields":["fuel"]},
     {"make":"Noble","model":"M12 GTO","year":"2002","trim":"3R","problem":"missing","fields":["fuel"]},
@@ -4808,6 +5035,10 @@
     {"make":"Pierce-Arrow","model":"Model 41","year":"1936","trim":"Limousine","problem":"missing","fields":["fuel"]},
     {"make":"Pierce-Arrow","model":"Model 41","year":"1937","trim":"Limousine","problem":"missing","fields":["fuel"]},
     {"make":"Pierce-Arrow","model":"Model 41","year":"1938","trim":"Limousine","problem":"missing","fields":["fuel"]},
+    {"make":"Polestar","model":"2","year":"2026","trim":"Standard Range Single Motor","problem":"missing","fields":["weight"]},
+    {"make":"Polestar","model":"2","year":"2026","trim":"Long Range Single Motor","problem":"missing","fields":["weight"]},
+    {"make":"Polestar","model":"2","year":"2026","trim":"Long Range Dual Motor","problem":"missing","fields":["torque","weight"]},
+    {"make":"Polestar","model":"2","year":"2026","trim":"Long Range Dual Motor Performance Pack","problem":"missing","fields":["torque","weight"]},
     {"make":"Porsche","model":"911","year":"2026","trim":"Carrera GTS","problem":"missing","fields":["torque"]},
     {"make":"Porsche","model":"911","year":"2026","trim":"Carrera 4 GTS","problem":"missing","fields":["torque"]},
     {"make":"Porsche","model":"911","year":"2026","trim":"Targa 4 GTS","problem":"missing","fields":["torque"]},
@@ -4819,6 +5050,19 @@
     {"make":"Porsche","model":"Cayenne","year":"2026","trim":"S E-Hybrid Black Edition","problem":"missing","fields":["torque"]},
     {"make":"Porsche","model":"Cayenne","year":"2026","trim":"Turbo E-Hybrid","problem":"missing","fields":["torque"]},
     {"make":"Porsche","model":"Cayenne","year":"2026","trim":"Turbo Electric","problem":"missing","fields":["torque"]},
+    {"make":"Porsche","model":"Panamera","year":"2026","trim":"4 E-Hybrid","problem":"missing","fields":["torque"]},
+    {"make":"Porsche","model":"Panamera","year":"2026","trim":"4S E-Hybrid","problem":"missing","fields":["torque"]},
+    {"make":"Porsche","model":"Panamera","year":"2026","trim":"Turbo E-Hybrid","problem":"missing","fields":["torque"]},
+    {"make":"Porsche","model":"Panamera","year":"2026","trim":"Turbo S E-Hybrid","problem":"missing","fields":["torque"]},
+    {"make":"Porsche","model":"Taycan","year":"2026","trim":"Taycan GTS","problem":"missing","fields":["weight"]},
+    {"make":"Porsche","model":"Taycan","year":"2026","trim":"Taycan Turbo","problem":"missing","fields":["weight"]},
+    {"make":"Porsche","model":"Taycan","year":"2026","trim":"Taycan Turbo S","problem":"missing","fields":["weight"]},
+    {"make":"Porsche","model":"Taycan","year":"2026","trim":"Taycan Turbo GT","problem":"missing","fields":["torque","weight"]},
+    {"make":"RAM","model":"1500","year":"2026","trim":"Express Black Edition Hurricane SO","problem":"missing","fields":["0-100"]},
+    {"make":"RAM","model":"1500","year":"2026","trim":"Rebel Hurricane SO","problem":"missing","fields":["0-100"]},
+    {"make":"RAM","model":"1500","year":"2026","trim":"Laramie Sport Hurricane SO RamBox","problem":"missing","fields":["0-100"]},
+    {"make":"RAM","model":"1500","year":"2026","trim":"Laramie Night Hurricane SO RamBox","problem":"missing","fields":["0-100"]},
+    {"make":"RAM","model":"1500","year":"2026","trim":"Limited Hurricane HO RamBox","problem":"missing","fields":["0-100"]},
     {"make":"Rambler","model":"American","year":"1950","trim":"Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Rambler","model":"American","year":"1950","trim":"Wagon","problem":"missing","fields":["fuel"]},
     {"make":"Rambler","model":"American","year":"1951","trim":"Sedan","problem":"missing","fields":["fuel"]},
@@ -5033,6 +5277,15 @@
     {"make":"Shelby","model":"Series 1","year":"2003","trim":"Roadster","problem":"missing","fields":["fuel"]},
     {"make":"Shelby","model":"Series 1","year":"2004","trim":"Roadster","problem":"missing","fields":["fuel"]},
     {"make":"Shelby","model":"Series 1","year":"2005","trim":"Roadster","problem":"missing","fields":["fuel"]},
+    {"make":"Skoda","model":"Octavia","year":"2026","trim":"110TSI Select Liftback","problem":"missing","fields":["weight"]},
+    {"make":"Skoda","model":"Octavia","year":"2026","trim":"Select mHEV Liftback","problem":"missing","fields":["weight"]},
+    {"make":"Skoda","model":"Octavia","year":"2026","trim":"110TSI Sportline Liftback","problem":"missing","fields":["weight"]},
+    {"make":"Skoda","model":"Octavia","year":"2026","trim":"RS Liftback","problem":"missing","fields":["weight"]},
+    {"make":"Skoda","model":"Octavia","year":"2026","trim":"110TSI Select Wagon","problem":"missing","fields":["weight"]},
+    {"make":"Skoda","model":"Octavia","year":"2026","trim":"RS Wagon","problem":"missing","fields":["weight"]},
+    {"make":"Skoda","model":"Karoq","year":"2026","trim":"110TSI Select","problem":"missing","fields":["weight"]},
+    {"make":"Skoda","model":"Karoq","year":"2026","trim":"110TSI Sportline","problem":"missing","fields":["weight"]},
+    {"make":"Skoda","model":"Karoq","year":"2026","trim":"140TSI Sportline","problem":"missing","fields":["weight"]},
     {"make":"Spyker","model":"C8 Laviolette","year":"2000","trim":"Standard","problem":"missing","fields":["fuel"]},
     {"make":"Spyker","model":"C8 Laviolette","year":"2001","trim":"Standard","problem":"missing","fields":["fuel"]},
     {"make":"Spyker","model":"C8 Laviolette","year":"2002","trim":"Standard","problem":"missing","fields":["fuel"]},
@@ -5120,6 +5373,11 @@
     {"make":"Stutz","model":"DV-32","year":"1932","trim":"Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Stutz","model":"DV-32","year":"1933","trim":"Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Stutz","model":"DV-32","year":"1934","trim":"Sedan","problem":"missing","fields":["fuel"]},
+    {"make":"Subaru","model":"Outback","year":"2026","trim":"AWD","problem":"missing","fields":["0-100"]},
+    {"make":"Subaru","model":"Outback","year":"2026","trim":"AWD Premium","problem":"missing","fields":["0-100"]},
+    {"make":"Subaru","model":"Outback","year":"2026","trim":"AWD Touring","problem":"missing","fields":["0-100"]},
+    {"make":"Subaru","model":"Outback","year":"2026","trim":"AWD Wilderness","problem":"missing","fields":["0-100"]},
+    {"make":"Subaru","model":"Outback","year":"2026","trim":"AWD Wilderness Apex","problem":"missing","fields":["0-100"]},
     {"make":"Subaru","model":"Forester","year":"2026","trim":"2.5i","problem":"missing","fields":["0-100"]},
     {"make":"Subaru","model":"Forester","year":"2026","trim":"Premium","problem":"missing","fields":["0-100"]},
     {"make":"Subaru","model":"Forester","year":"2026","trim":"Sport","problem":"missing","fields":["0-100"]},
@@ -5127,6 +5385,12 @@
     {"make":"Subaru","model":"Forester","year":"2026","trim":"Hybrid","problem":"missing","fields":["torque","0-100"]},
     {"make":"Subaru","model":"Forester","year":"2026","trim":"Hybrid Sport","problem":"missing","fields":["torque","0-100"]},
     {"make":"Subaru","model":"Forester","year":"2026","trim":"Hybrid Touring","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Subaru","model":"Crosstrek","year":"2026","trim":"2.0L","problem":"missing","fields":["0-100"]},
+    {"make":"Subaru","model":"Crosstrek","year":"2026","trim":"2.0R","problem":"missing","fields":["0-100"]},
+    {"make":"Subaru","model":"Crosstrek","year":"2026","trim":"Sport","problem":"missing","fields":["0-100"]},
+    {"make":"Subaru","model":"Crosstrek","year":"2026","trim":"2.0S","problem":"missing","fields":["0-100"]},
+    {"make":"Subaru","model":"Crosstrek","year":"2026","trim":"Hybrid L","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Subaru","model":"Crosstrek","year":"2026","trim":"Hybrid S","problem":"missing","fields":["torque","0-100"]},
     {"make":"Suzuki","model":"Jimny","year":"2026","trim":"Lite","problem":"missing","fields":["0-100"]},
     {"make":"Suzuki","model":"Jimny","year":"2026","trim":"3-door Auto","problem":"missing","fields":["0-100"]},
     {"make":"Suzuki","model":"Jimny","year":"2026","trim":"XL Auto","problem":"missing","fields":["0-100"]},
@@ -5167,6 +5431,12 @@
     {"make":"Toyota","model":"C-HR","year":"2026","trim":"GXL Hybrid","problem":"missing","fields":["torque","0-100"]},
     {"make":"Toyota","model":"C-HR","year":"2026","trim":"Koba Hybrid","problem":"missing","fields":["torque","0-100"]},
     {"make":"Toyota","model":"C-HR","year":"2026","trim":"GR Sport Hybrid AWD","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"HiAce","year":"2026","trim":"LWB Van Manual","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"HiAce","year":"2026","trim":"LWB Barn Door Van Auto","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"HiAce","year":"2026","trim":"LWB Crew Van Auto","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"HiAce","year":"2026","trim":"SLWB Barn Door Van Auto","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"HiAce","year":"2026","trim":"SLWB Commuter","problem":"missing","fields":["0-100","fuel"]},
+    {"make":"Toyota","model":"HiAce","year":"2026","trim":"SLWB Commuter GL","problem":"missing","fields":["0-100","fuel"]},
     {"make":"Toyota","model":"Kluger","year":"2026","trim":"GX Hybrid","problem":"missing","fields":["torque","0-100"]},
     {"make":"Toyota","model":"Kluger","year":"2026","trim":"GXL Hybrid","problem":"missing","fields":["torque","0-100"]},
     {"make":"Toyota","model":"Kluger","year":"2026","trim":"Grande Hybrid","problem":"missing","fields":["torque","0-100"]},
@@ -5247,10 +5517,41 @@
     {"make":"Volkswagen","model":"Golf","year":"2026","trim":"110TSI Life","problem":"missing","fields":["0-100","weight"]},
     {"make":"Volkswagen","model":"Golf","year":"2026","trim":"110TSI Style","problem":"missing","fields":["0-100"]},
     {"make":"Volkswagen","model":"Golf","year":"2026","trim":"110TSI R-Line","problem":"missing","fields":["0-100"]},
+    {"make":"Volkswagen","model":"Polo","year":"2026","trim":"85TSI Style","problem":"missing","fields":["weight"]},
+    {"make":"Volkswagen","model":"Polo","year":"2026","trim":"GTI","problem":"missing","fields":["weight"]},
     {"make":"Volkswagen","model":"Tiguan","year":"2026","trim":"110TSI Life","problem":"missing","fields":["0-100","weight"]},
     {"make":"Volkswagen","model":"Tiguan","year":"2026","trim":"110TSI Elegance","problem":"missing","fields":["0-100"]},
     {"make":"Volkswagen","model":"Tiguan","year":"2026","trim":"150TSI eHybrid Elegance","problem":"missing","fields":["torque","weight"]},
     {"make":"Volkswagen","model":"Tiguan","year":"2026","trim":"200TSI eHybrid R-Line","problem":"missing","fields":["torque","weight"]},
+    {"make":"Volkswagen","model":"Touareg","year":"2026","trim":"210TDI Elegance","problem":"missing","fields":["weight"]},
+    {"make":"Volkswagen","model":"Touareg","year":"2026","trim":"R eHybrid","problem":"missing","fields":["torque"]},
+    {"make":"Volkswagen","model":"Amarok","year":"2026","trim":"TDI405 Core","problem":"missing","fields":["0-100"]},
+    {"make":"Volkswagen","model":"Amarok","year":"2026","trim":"TDI500 Life","problem":"missing","fields":["0-100"]},
+    {"make":"Volkswagen","model":"Amarok","year":"2026","trim":"TDI500 Style","problem":"missing","fields":["0-100"]},
+    {"make":"Volkswagen","model":"Amarok","year":"2026","trim":"TSI452 Style","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Volkswagen","model":"Amarok","year":"2026","trim":"TSI452 Aventura","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Volkswagen","model":"Amarok","year":"2026","trim":"TDI600 Style","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Volkswagen","model":"Amarok","year":"2026","trim":"TDI600 Dark Label","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Volkswagen","model":"Amarok","year":"2026","trim":"TDI600 PanAmericana","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Volkswagen","model":"Amarok","year":"2026","trim":"TDI600 Aventura","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Volkswagen","model":"Amarok","year":"2026","trim":"TDI600 W600","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Volkswagen","model":"Tayron","year":"2026","trim":"110TSI Life","problem":"missing","fields":["0-100"]},
+    {"make":"Volkswagen","model":"Tayron","year":"2026","trim":"150TSI Life","problem":"missing","fields":["weight"]},
+    {"make":"Volkswagen","model":"Tayron","year":"2026","trim":"150TSI eHybrid Elegance","problem":"missing","fields":["torque","weight"]},
+    {"make":"Volkswagen","model":"Tayron","year":"2026","trim":"200TSI eHybrid R-Line","problem":"missing","fields":["torque","weight"]},
+    {"make":"Volvo","model":"XC40","year":"2026","trim":"Plus B4","problem":"missing","fields":["weight"]},
+    {"make":"Volvo","model":"XC40","year":"2026","trim":"Ultra B4 Bright","problem":"missing","fields":["weight"]},
+    {"make":"Volvo","model":"XC40","year":"2026","trim":"Ultra B4 Dark","problem":"missing","fields":["weight"]},
+    {"make":"Volvo","model":"XC60","year":"2026","trim":"Plus T8 PHEV Dark","problem":"missing","fields":["torque"]},
+    {"make":"Volvo","model":"XC60","year":"2026","trim":"Ultra T8 PHEV Dark","problem":"missing","fields":["torque"]},
+    {"make":"Volvo","model":"XC90","year":"2026","trim":"Plus B5 Bright","problem":"missing","fields":["weight"]},
+    {"make":"Volvo","model":"XC90","year":"2026","trim":"Ultra B5 Dark","problem":"missing","fields":["weight"]},
+    {"make":"Volvo","model":"XC90","year":"2026","trim":"Plus T8 PHEV Dark","problem":"missing","fields":["torque","weight"]},
+    {"make":"Volvo","model":"XC90","year":"2026","trim":"Ultra T8 PHEV Dark","problem":"missing","fields":["torque","weight"]},
+    {"make":"Volvo","model":"EX90","year":"2026","trim":"Plus Single Motor","problem":"missing","fields":["weight"]},
+    {"make":"Volvo","model":"EX90","year":"2026","trim":"Plus Twin Motor","problem":"missing","fields":["torque","weight"]},
+    {"make":"Volvo","model":"EX90","year":"2026","trim":"Ultra Twin Motor Performance","problem":"missing","fields":["torque","weight"]},
+    {"make":"Volvo","model":"EX40","year":"2026","trim":"Ultra Twin Motor Performance","problem":"missing","fields":["torque"]},
     {"make":"Willys","model":"MB","year":"1941","trim":"Military","problem":"missing","fields":["0-100","fuel"]},
     {"make":"Willys","model":"CJ-2A","year":"1945","trim":"Base","problem":"missing","fields":["0-100","fuel"]},
     {"make":"Willys","model":"CJ-2A","year":"1946","trim":"Base","problem":"missing","fields":["0-100","fuel"]},

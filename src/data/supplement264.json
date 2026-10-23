@@ -18,7 +18,8 @@
       "acceleration": 4.1,
       "topSpeed": 294,
       "weight": 1520,
-      "price": "$296,700"
+      "price": "$296,700",
+      "accelClaimed": true
     },
     "Porsche|911|2026|Carrera T": {
       "fuelType": "petrol",
@@ -38,7 +39,8 @@
       "acceleration": 4.5,
       "topSpeed": 295,
       "weight": 1490,
-      "price": "$318,000"
+      "price": "$318,000",
+      "accelClaimed": true
     },
     "Porsche|911|2026|Carrera S": {
       "fuelType": "petrol",
@@ -58,7 +60,8 @@
       "acceleration": 3.5,
       "topSpeed": 308,
       "weight": 1540,
-      "price": "$344,300"
+      "price": "$344,300",
+      "accelClaimed": true
     },
     "Porsche|911|2026|Carrera 4S": {
       "fuelType": "petrol",
@@ -78,7 +81,8 @@
       "acceleration": 3.5,
       "topSpeed": 308,
       "weight": 1585,
-      "price": "$362,300"
+      "price": "$362,300",
+      "accelClaimed": true
     },
     "Porsche|911|2026|Targa 4S": {
       "fuelType": "petrol",
@@ -98,7 +102,8 @@
       "acceleration": 3.7,
       "topSpeed": 308,
       "weight": 1695,
-      "price": "$389,400"
+      "price": "$389,400",
+      "accelClaimed": true
     },
     "Porsche|911|2026|Carrera GTS": {
       "fuelType": "hybrid",
@@ -118,7 +123,8 @@
       "acceleration": 3,
       "topSpeed": 312,
       "weight": 1595,
-      "price": "$392,200"
+      "price": "$392,200",
+      "accelClaimed": true
     },
     "Porsche|911|2026|Carrera 4 GTS": {
       "fuelType": "hybrid",
@@ -138,7 +144,8 @@
       "acceleration": 3,
       "topSpeed": 312,
       "weight": 1645,
-      "price": "$412,300"
+      "price": "$412,300",
+      "accelClaimed": true
     },
     "Porsche|911|2026|Targa 4 GTS": {
       "fuelType": "hybrid",
@@ -158,7 +165,8 @@
       "acceleration": 3.2,
       "topSpeed": 308,
       "weight": 1745,
-      "price": "$449,000"
+      "price": "$449,000",
+      "accelClaimed": true
     },
     "Porsche|911|2026|GT3": {
       "fuelType": "petrol",
@@ -178,7 +186,8 @@
       "topSpeed": 313,
       "seats": null,
       "price": "$449,100",
-      "weight": 1462
+      "weight": 1462,
+      "accelClaimed": true
     },
     "Porsche|911|2026|GT3 Touring": {
       "fuelType": "petrol",
@@ -198,7 +207,8 @@
       "topSpeed": 313,
       "seats": null,
       "price": "$449,100",
-      "weight": 1461
+      "weight": 1461,
+      "accelClaimed": true
     },
     "Porsche|911|2026|Turbo S": {
       "fuelType": "hybrid",
@@ -218,7 +228,8 @@
       "fx": 11.8,
       "acceleration": 2.5,
       "weight": 1725,
-      "price": "$577,300"
+      "price": "$577,300",
+      "accelClaimed": true
     },
     "Porsche|911|2026|Carrera Cabriolet": {
       "fuelType": "petrol",
@@ -238,7 +249,8 @@
       "acceleration": 4.3,
       "topSpeed": 291,
       "weight": 1600,
-      "price": "$319,500"
+      "price": "$319,500",
+      "accelClaimed": true
     },
     "Porsche|911|2026|Carrera S Cabriolet": {
       "fuelType": "petrol",
@@ -258,7 +270,8 @@
       "acceleration": 3.7,
       "topSpeed": 308,
       "weight": 1625,
-      "price": "$367,100"
+      "price": "$367,100",
+      "accelClaimed": true
     },
     "Porsche|911|2026|Turbo S Cabriolet": {
       "fuelType": "hybrid",
@@ -278,7 +291,8 @@
       "fx": 12,
       "acceleration": 2.6,
       "weight": 1810,
-      "price": "$598,000"
+      "price": "$598,000",
+      "accelClaimed": true
     },
     "Porsche|Cayenne|2026|Cayenne": {
       "fuelType": "petrol",
@@ -300,7 +314,8 @@
       "topSpeed": 248,
       "weight": 2085,
       "fuelTank": 90,
-      "price": "$153,300"
+      "price": "$153,300",
+      "accelClaimed": true
     },
     "Porsche|Cayenne|2026|Black Edition": {
       "fuelType": "petrol",
@@ -322,7 +337,8 @@
       "topSpeed": 248,
       "weight": 2085,
       "fuelTank": 90,
-      "price": "$162,500"
+      "price": "$162,500",
+      "accelClaimed": true
     },
     "Porsche|Cayenne|2026|E-Hybrid": {
       "fuelType": "plug-in hybrid",
@@ -345,7 +361,8 @@
       "acceleration": 4.9,
       "topSpeed": 254,
       "weight": 2455,
-      "price": "$171,400"
+      "price": "$171,400",
+      "accelClaimed": true
     },
     "Porsche|Cayenne|2026|E-Hybrid Black Edition": {
       "fuelType": "plug-in hybrid",
@@ -368,7 +385,8 @@
       "acceleration": 4.9,
       "topSpeed": 254,
       "weight": 2455,
-      "price": "$180,500"
+      "price": "$180,500",
+      "accelClaimed": true
     },
     "Porsche|Cayenne|2026|S": {
       "fuelType": "petrol",
@@ -389,7 +407,8 @@
       "acceleration": 5,
       "topSpeed": 273,
       "weight": 2190,
-      "price": "$194,700"
+      "price": "$194,700",
+      "accelClaimed": true
     },
     "Porsche|Cayenne|2026|S E-Hybrid": {
       "fuelType": "plug-in hybrid",
@@ -412,7 +431,8 @@
       "acceleration": 4.7,
       "topSpeed": 263,
       "weight": 2440,
-      "price": "$194,700"
+      "price": "$194,700",
+      "accelClaimed": true
     },
     "Porsche|Cayenne|2026|S E-Hybrid Black Edition": {
       "fuelType": "plug-in hybrid",
@@ -435,7 +455,8 @@
       "acceleration": 4.7,
       "topSpeed": 263,
       "weight": 2440,
-      "price": "$197,600"
+      "price": "$197,600",
+      "accelClaimed": true
     },
     "Porsche|Cayenne|2026|GTS": {
       "fuelType": "petrol",
@@ -456,7 +477,8 @@
       "acceleration": 4.4,
       "topSpeed": 275,
       "weight": 2220,
-      "price": "$214,700"
+      "price": "$214,700",
+      "accelClaimed": true
     },
     "Porsche|Cayenne|2026|Turbo E-Hybrid": {
       "fuelType": "plug-in hybrid",
@@ -479,7 +501,8 @@
       "acceleration": 3.7,
       "topSpeed": 295,
       "weight": 2595,
-      "price": "$312,300"
+      "price": "$312,300",
+      "accelClaimed": true
     },
     "Porsche|Cayenne|2026|Turbo GT": {
       "fuelType": "petrol",
@@ -500,7 +523,8 @@
       "acceleration": 3.3,
       "topSpeed": 305,
       "weight": 2245,
-      "price": "$376,200"
+      "price": "$376,200",
+      "accelClaimed": true
     },
     "Porsche|Cayenne|2026|Turbo Electric": {
       "fuelType": "electric",
@@ -523,7 +547,8 @@
       "towing": 3500,
       "seats": null,
       "cargo": null,
-      "price": "$259,900"
+      "price": "$259,900",
+      "accelClaimed": true
     }
   }
 }

@@ -103,7 +103,8 @@
       "range": 600,
       "weight": 2774,
       "towing": 2500,
-      "price": "$119,668"
+      "price": "$119,668",
+      "accelClaimed": true
     },
     "Hyundai|Ioniq 9|2026|Calligraphy AWD 6 Seat": {
       "topSpeed": null,
@@ -126,7 +127,8 @@
       "range": 600,
       "weight": 2774,
       "towing": 2500,
-      "price": "$121,668"
+      "price": "$121,668",
+      "accelClaimed": true
     },
     "BYD|Sealion 6|2026|Essential": {
       "topSpeed": null,
@@ -150,7 +152,8 @@
       "battery": "18.3 kWh",
       "range": 92,
       "weight": 1940,
-      "price": "$42,990"
+      "price": "$42,990",
+      "accelClaimed": true
     },
     "BYD|Sealion 6|2026|Dynamic Extended Range": {
       "topSpeed": null,
@@ -174,7 +177,8 @@
       "battery": "26.6 kWh",
       "range": 140,
       "weight": 1995,
-      "price": "$46,990"
+      "price": "$46,990",
+      "accelClaimed": true
     },
     "BYD|Sealion 6|2026|Premium Extended Range AWD": {
       "topSpeed": null,
@@ -198,7 +202,8 @@
       "battery": "26.6 kWh",
       "range": 128,
       "weight": 2160,
-      "price": "$52,990"
+      "price": "$52,990",
+      "accelClaimed": true
     },
     "CUPRA|Formentor|2026|V": {
       "topSpeed": null,
@@ -217,7 +222,8 @@
       "power": 150,
       "torque": 320,
       "fx": 7,
-      "price": "$51,990"
+      "price": "$51,990",
+      "accelClaimed": true
     },
     "CUPRA|Formentor|2026|VZx": {
       "topSpeed": null,
@@ -236,7 +242,8 @@
       "power": 245,
       "torque": 420,
       "fx": 8.3,
-      "price": "$65,790"
+      "price": "$65,790",
+      "accelClaimed": true
     },
     "CUPRA|Formentor|2026|VZ5": {
       "topSpeed": 280,
@@ -256,7 +263,8 @@
       "torque": 480,
       "fx": 9.3,
       "fuelTank": 55,
-      "price": "$94,990"
+      "price": "$94,990",
+      "accelClaimed": true
     },
     "Polestar|2|2026|Standard Range Single Motor": {
       "topSpeed": 205,
@@ -278,7 +286,8 @@
       "power": 200,
       "battery": "70 kWh",
       "range": 554,
-      "price": "$62,400"
+      "price": "$62,400",
+      "accelClaimed": true
     },
     "Polestar|2|2026|Long Range Single Motor": {
       "topSpeed": 205,
@@ -300,7 +309,8 @@
       "power": 220,
       "battery": "82 kWh",
       "range": 659,
-      "price": "$66,400"
+      "price": "$66,400",
+      "accelClaimed": true
     },
     "Polestar|2|2026|Long Range Dual Motor": {
       "topSpeed": 205,
@@ -322,7 +332,8 @@
       "power": 310,
       "battery": "82 kWh",
       "range": 596,
-      "price": "$71,400"
+      "price": "$71,400",
+      "accelClaimed": true
     },
     "Polestar|2|2026|Long Range Dual Motor Performance Pack": {
       "topSpeed": 205,
@@ -344,7 +355,8 @@
       "power": 350,
       "battery": "82 kWh",
       "range": 568,
-      "price": "$85,080"
+      "price": "$85,080",
+      "accelClaimed": true
     },
     "Polestar|Polestar 2|2026|Standard Range Single Motor": {
       "topSpeed": 205,
@@ -366,7 +378,8 @@
       "power": 200,
       "battery": "70 kWh",
       "range": 554,
-      "price": "$62,400"
+      "price": "$62,400",
+      "accelClaimed": true
     },
     "Polestar|Polestar 2|2026|Long Range Single Motor": {
       "topSpeed": 205,
@@ -388,7 +401,8 @@
       "power": 220,
       "battery": "82 kWh",
       "range": 659,
-      "price": "$66,400"
+      "price": "$66,400",
+      "accelClaimed": true
     },
     "Polestar|Polestar 2|2026|Long Range Dual Motor": {
       "topSpeed": 205,
@@ -410,7 +424,8 @@
       "power": 310,
       "battery": "82 kWh",
       "range": 596,
-      "price": "$71,400"
+      "price": "$71,400",
+      "accelClaimed": true
     },
     "Polestar|Polestar 2|2026|Long Range Dual Motor Performance Pack": {
       "topSpeed": 205,
@@ -432,7 +447,8 @@
       "power": 350,
       "battery": "82 kWh",
       "range": 568,
-      "price": "$85,080"
+      "price": "$85,080",
+      "accelClaimed": true
     }
   }
 }

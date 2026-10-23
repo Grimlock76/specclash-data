@@ -18,7 +18,8 @@
       "weight": 1570,
       "towing": 1800,
       "fuelTank": 54,
-      "price": "$72,800"
+      "price": "$72,800",
+      "accelClaimed": true
     },
     "BMW|X2|2026|xDrive20i M Sport": {
       "topSpeed": 231,
@@ -39,7 +40,8 @@
       "fx": 7.5,
       "weight": 1620,
       "towing": 1800,
-      "price": "$78,900"
+      "price": "$78,900",
+      "accelClaimed": true
     },
     "BMW|X2|2026|M35i xDrive": {
       "topSpeed": 250,
@@ -57,7 +59,8 @@
       "torque": 400,
       "fx": 8.3,
       "weight": 1695,
-      "price": "$96,700"
+      "price": "$96,700",
+      "accelClaimed": true
     },
     "BMW|Z4|2026|sDrive20i M Sport": {
       "topSpeed": 235,
@@ -78,7 +81,8 @@
       "fx": 6.5,
       "weight": 1450,
       "fuelTank": 52,
-      "price": "$104,300"
+      "price": "$104,300",
+      "accelClaimed": true
     },
     "BMW|Z4|2026|M40i": {
       "topSpeed": 250,
@@ -98,7 +102,8 @@
       "fh": 6.4,
       "fx": 7.8,
       "weight": 1570,
-      "price": "$143,600"
+      "price": "$143,600",
+      "accelClaimed": true
     },
     "BMW|2 Series Gran Coupe|2026|218 M Sport": {
       "topSpeed": 230,
@@ -119,7 +124,8 @@
       "fx": 6.3,
       "weight": 1420,
       "fuelTank": 49,
-      "price": "$61,800"
+      "price": "$61,800",
+      "accelClaimed": true
     },
     "BMW|2 Series Gran Coupe|2026|220 M Sport": {
       "topSpeed": 250,
@@ -139,7 +145,8 @@
       "fh": 5.4,
       "fx": 6.7,
       "weight": 1455,
-      "price": "$64,800"
+      "price": "$64,800",
+      "accelClaimed": true
     },
     "BMW|2 Series Gran Coupe|2026|M235 xDrive": {
       "topSpeed": 250,
@@ -159,7 +166,8 @@
       "fh": 6.4,
       "fx": 7.7,
       "weight": 1575,
-      "price": "$88,500"
+      "price": "$88,500",
+      "accelClaimed": true
     },
     "BMW|2 Series|2026|230i M Sport Coupe": {
       "topSpeed": 250,
@@ -179,7 +187,8 @@
       "fh": 5.7,
       "fx": 6.4,
       "weight": 1525,
-      "price": "$80,400"
+      "price": "$80,400",
+      "accelClaimed": true
     },
     "BMW|2 Series|2026|M240i xDrive Coupe": {
       "topSpeed": 250,
@@ -199,7 +208,8 @@
       "fh": 6.6,
       "fx": 8,
       "weight": 1690,
-      "price": "$103,400"
+      "price": "$103,400",
+      "accelClaimed": true
     },
     "BMW|4 Series|2026|430i M Sport": {
       "topSpeed": 250,
@@ -220,7 +230,8 @@
       "fx": 6.6,
       "weight": 1545,
       "fuelTank": 59,
-      "price": "$115,300"
+      "price": "$115,300",
+      "accelClaimed": true
     },
     "BMW|4 Series|2026|M440i xDrive": {
       "topSpeed": 250,
@@ -240,7 +251,8 @@
       "fh": 6.6,
       "fx": 8,
       "weight": 1735,
-      "price": "$138,700"
+      "price": "$138,700",
+      "accelClaimed": true
     },
     "BMW|4 Series Convertible|2026|420i M Sport Convertible": {
       "topSpeed": 236,
@@ -260,7 +272,8 @@
       "fh": 5.9,
       "fx": 6.6,
       "weight": 1690,
-      "price": "$112,100"
+      "price": "$112,100",
+      "accelClaimed": true
     },
     "BMW|4 Series Convertible|2026|M440i xDrive Convertible": {
       "topSpeed": 250,
@@ -280,7 +293,8 @@
       "fh": 7,
       "fx": 8.4,
       "weight": 1890,
-      "price": "$155,200"
+      "price": "$155,200",
+      "accelClaimed": true
     },
     "BMW|7 Series|2026|740i M Sport": {
       "topSpeed": 250,
@@ -301,7 +315,8 @@
       "fx": 7.9,
       "weight": 2090,
       "fuelTank": 74,
-      "price": "$277,900"
+      "price": "$277,900",
+      "accelClaimed": true
     },
     "BMW|7 Series|2026|740 M Sport (LCI)": {
       "topSpeed": 250,
@@ -321,7 +336,8 @@
       "fh": 6.8,
       "fx": 7.9,
       "weight": 2115,
-      "price": "$277,900"
+      "price": "$277,900",
+      "accelClaimed": true
     },
     "BMW|i4|2026|eDrive35": {
       "topSpeed": 190,
@@ -344,7 +360,8 @@
       "range": 448,
       "weight": 1990,
       "towing": 1600,
-      "price": "$88,900"
+      "price": "$88,900",
+      "accelClaimed": true
     }
   }
 }

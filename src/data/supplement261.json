@@ -21,7 +21,8 @@
       "weight": 1922,
       "towing": 750,
       "cargo": 400,
-      "price": "$46,990"
+      "price": "$46,990",
+      "accelClaimed": true
     },
     "BYD|Seal|2026|Premium": {
       "fuelType": "electric",
@@ -44,7 +45,8 @@
       "weight": 2055,
       "towing": 750,
       "cargo": 400,
-      "price": "$52,990"
+      "price": "$52,990",
+      "accelClaimed": true
     },
     "BYD|Seal|2026|Performance": {
       "fuelType": "electric",
@@ -67,7 +69,8 @@
       "weight": 2185,
       "towing": 1500,
       "cargo": 400,
-      "price": "$61,990"
+      "price": "$61,990",
+      "accelClaimed": true
     },
     "BYD|Sealion 7|2026|Premium": {
       "fuelType": "electric",
@@ -90,7 +93,8 @@
       "weight": 2225,
       "towing": 750,
       "cargo": 500,
-      "price": "$54,990"
+      "price": "$54,990",
+      "accelClaimed": true
     },
     "BYD|Sealion 7|2026|Performance": {
       "fuelType": "electric",
@@ -113,7 +117,8 @@
       "weight": 2340,
       "towing": 1500,
       "cargo": 500,
-      "price": "$63,990"
+      "price": "$63,990",
+      "accelClaimed": true
     },
     "MG|ZS|2026|Vibe": {
       "engine": "1.5L I4 Petrol",
@@ -223,7 +228,8 @@
       "fh": null,
       "fx": 4.7,
       "weight": 1410,
-      "price": "$30,990"
+      "price": "$30,990",
+      "accelClaimed": true
     },
     "MG|ZS|2026|Essence Hybrid+": {
       "engine": "1.5L I4 Hybrid",
@@ -245,7 +251,8 @@
       "fh": null,
       "fx": 4.7,
       "weight": 1420,
-      "price": "$34,990"
+      "price": "$34,990",
+      "accelClaimed": true
     },
     "Subaru|Forester|2026|2.5i": {
       "engine": "2.5L H4 Petrol (Boxer)",

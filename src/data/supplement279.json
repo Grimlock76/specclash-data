@@ -20,7 +20,8 @@
       "torque": 410,
       "range": 468,
       "weight": 2090,
-      "price": "$181,200"
+      "price": "$181,200",
+      "accelClaimed": true
     },
     "Porsche|Taycan|2026|Taycan 4S": {
       "topSpeed": 250,
@@ -42,7 +43,8 @@
       "torque": 710,
       "range": 441,
       "weight": 2250,
-      "price": "$222,100"
+      "price": "$222,100",
+      "accelClaimed": true
     },
     "Porsche|Taycan|2026|Taycan GTS": {
       "topSpeed": 250,
@@ -63,7 +65,8 @@
       "power": 445,
       "torque": 790,
       "range": 505,
-      "price": "$264,500"
+      "price": "$264,500",
+      "accelClaimed": true
     },
     "Porsche|Taycan|2026|Taycan Turbo": {
       "topSpeed": 260,
@@ -84,7 +87,8 @@
       "power": 520,
       "torque": 940,
       "range": 626,
-      "price": "$317,600"
+      "price": "$317,600",
+      "accelClaimed": true
     },
     "Porsche|Taycan|2026|Taycan Turbo S": {
       "topSpeed": 260,
@@ -105,7 +109,8 @@
       "power": 570,
       "torque": 1110,
       "range": 506,
-      "price": "$376,600"
+      "price": "$376,600",
+      "accelClaimed": true
     },
     "Porsche|Taycan|2026|Taycan Turbo GT": {
       "topSpeed": 290,
@@ -126,7 +131,8 @@
       "power": 580,
       "torque": null,
       "range": 512,
-      "price": "$419,000"
+      "price": "$419,000",
+      "accelClaimed": true
     },
     "Porsche|Panamera|2026|Panamera": {
       "topSpeed": 272,
@@ -147,7 +153,8 @@
       "fh": 7.6,
       "fx": 9.5,
       "weight": 1885,
-      "price": "$246,700"
+      "price": "$246,700",
+      "accelClaimed": true
     },
     "Porsche|Panamera|2026|4 E-Hybrid": {
       "topSpeed": 280,
@@ -170,7 +177,8 @@
       "range": 96,
       "power": 346,
       "weight": 2230,
-      "price": "$283,000"
+      "price": "$283,000",
+      "accelClaimed": true
     },
     "Porsche|Panamera|2026|4S E-Hybrid": {
       "topSpeed": 290,
@@ -193,7 +201,8 @@
       "range": 96,
       "power": 400,
       "weight": 2255,
-      "price": "$311,200"
+      "price": "$311,200",
+      "accelClaimed": true
     },
     "Porsche|Panamera|2026|GTS": {
       "topSpeed": 302,
@@ -214,7 +223,8 @@
       "fh": 8.9,
       "fx": 11.7,
       "weight": 2065,
-      "price": "$351,800"
+      "price": "$351,800",
+      "accelClaimed": true
     },
     "Porsche|Panamera|2026|Turbo E-Hybrid": {
       "topSpeed": 315,
@@ -237,7 +247,8 @@
       "range": 92,
       "power": 500,
       "weight": 2360,
-      "price": "$425,500"
+      "price": "$425,500",
+      "accelClaimed": true
     },
     "Porsche|Panamera|2026|Turbo S E-Hybrid": {
       "topSpeed": 325,
@@ -260,7 +271,8 @@
       "range": 92,
       "power": 575,
       "weight": 2365,
-      "price": "$499,900"
+      "price": "$499,900",
+      "accelClaimed": true
     },
     "Audi|A3|2026|TFSI 110kW S line": {
       "topSpeed": 226,
@@ -281,7 +293,8 @@
       "fh": 4.5,
       "fx": 5.3,
       "weight": 1397,
-      "price": "$57,800"
+      "price": "$57,800",
+      "accelClaimed": true
     },
     "Audi|A3|2026|TFSI 150kW S line quattro": {
       "topSpeed": 245,
@@ -302,7 +315,8 @@
       "fh": null,
       "weight": 1599,
       "fx": 6.5,
-      "price": "$65,800"
+      "price": "$65,800",
+      "accelClaimed": true
     },
     "Audi|A3 Sportback|2026|TFSI 110kW S line": {
       "topSpeed": 226,
@@ -323,7 +337,8 @@
       "fh": 4.6,
       "fx": 5.3,
       "weight": 1394,
-      "price": "$54,800"
+      "price": "$54,800",
+      "accelClaimed": true
     },
     "Audi|A3 Sportback|2026|TFSI 150kW S line quattro": {
       "topSpeed": 245,
@@ -344,7 +359,8 @@
       "fh": null,
       "weight": 1599,
       "fx": 6.6,
-      "price": "$62,800"
+      "price": "$62,800",
+      "accelClaimed": true
     },
     "Audi|A3 Sportback|2026|S3": {
       "engine": "2.0L 4-cyl TFSI S quattro",
@@ -363,7 +379,8 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$72,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "accelClaimed": false
     },
     "Audi|A3 Sportback|2026|RS3": {
       "engine": "2.5L 5-cyl TFSI RS quattro",
@@ -382,7 +399,8 @@
       "acceleration": 3.8,
       "topSpeed": 290,
       "price": "~$93,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "accelClaimed": false
     }
   }
 }

@@ -19,7 +19,8 @@
       "fh": 5.5,
       "fx": 6.8,
       "fuelTank": 66,
-      "price": "$88,928"
+      "price": "$88,928",
+      "accelClaimed": true
     },
     "Mercedes-Benz|C-Class|2026|C300": {
       "seats": 5,
@@ -40,7 +41,8 @@
       "fh": 5.5,
       "fx": 7.1,
       "fuelTank": 66,
-      "price": "$99,428"
+      "price": "$99,428",
+      "accelClaimed": true
     },
     "Mercedes-Benz|C-Class|2026|C300 AMG Line Plus Edition": {
       "seats": 5,
@@ -61,7 +63,8 @@
       "fh": 5.5,
       "fx": 7.1,
       "fuelTank": 66,
-      "price": "$95,327"
+      "price": "$95,327",
+      "accelClaimed": true
     },
     "Mercedes-Benz|C-Class|2026|C350 e": {
       "seats": 5,
@@ -83,7 +86,8 @@
       "fx": 1.5,
       "battery": "25.4 kWh",
       "range": 104,
-      "price": "$99,418"
+      "price": "$99,418",
+      "accelClaimed": true
     },
     "Mercedes-Benz|C-Class|2026|C400 electric": {
       "seats": 5,
@@ -105,7 +109,8 @@
       "fx": null,
       "battery": "94.4 kWh",
       "range": 687,
-      "price": null
+      "price": null,
+      "accelClaimed": true
     },
     "Mercedes-Benz|C-Class|2026|C43 AMG": {
       "seats": 5,
@@ -125,7 +130,8 @@
       "fc": 12.2,
       "fh": 7.2,
       "fx": 9.1,
-      "price": "$125,229"
+      "price": "$125,229",
+      "accelClaimed": true
     },
     "Mercedes-Benz|C-Class|2026|C43 AMG Edition R+": {
       "seats": 5,
@@ -145,7 +151,8 @@
       "fc": 12.2,
       "fh": 7.2,
       "fx": 9.1,
-      "price": "$121,127"
+      "price": "$121,127",
+      "accelClaimed": true
     },
     "Mercedes-Benz|C-Class|2026|C63 S AMG E Performance": {
       "seats": 5,
@@ -166,7 +173,8 @@
       "drivetrain": "AWD",
       "fx": 6.4,
       "battery": "6.1 kWh",
-      "price": "$195,228"
+      "price": "$195,228",
+      "accelClaimed": true
     },
     "Mercedes-Benz|E-Class|2026|E200": {
       "seats": 5,
@@ -187,7 +195,8 @@
       "fh": 5.4,
       "fx": 7.2,
       "fuelTank": 66,
-      "price": "$119,400"
+      "price": "$119,400",
+      "accelClaimed": true
     },
     "Mercedes-Benz|E-Class|2026|E300": {
       "seats": 5,
@@ -208,7 +217,8 @@
       "fh": 5.4,
       "fx": 7.2,
       "fuelTank": 66,
-      "price": "$133,600"
+      "price": "$133,600",
+      "accelClaimed": true
     },
     "Mercedes-Benz|E-Class|2026|E300 AMG Night Edition": {
       "seats": 5,
@@ -228,7 +238,8 @@
       "fc": null,
       "fh": null,
       "fx": 7.5,
-      "price": "$129,400"
+      "price": "$129,400",
+      "accelClaimed": true
     },
     "Mercedes-Benz|E-Class|2026|E53 AMG": {
       "seats": 5,
@@ -250,7 +261,8 @@
       "fx": 1.7,
       "battery": "28.6 kWh",
       "range": 100,
-      "price": "$202,100"
+      "price": "$202,100",
+      "accelClaimed": true
     },
     "Mercedes-Benz|E-Class|2026|E53 AMG Dark Carbon Edition": {
       "seats": 5,
@@ -272,7 +284,8 @@
       "fx": 1.7,
       "battery": "28.6 kWh",
       "range": 100,
-      "price": "$206,900"
+      "price": "$206,900",
+      "accelClaimed": true
     },
     "Mercedes-Benz|A-Class|2026|A200": {
       "seats": 5,
@@ -293,7 +306,8 @@
       "fh": 5.1,
       "fx": 6.6,
       "fuelTank": 43,
-      "price": "$58,100"
+      "price": "$58,100",
+      "accelClaimed": true
     },
     "Mercedes-Benz|A-Class|2026|A200 Special Edition": {
       "seats": 5,
@@ -314,7 +328,8 @@
       "fh": 5.1,
       "fx": 6.6,
       "fuelTank": 43,
-      "price": "$58,100"
+      "price": "$58,100",
+      "accelClaimed": true
     },
     "Mercedes-Benz|A-Class|2026|A250 Special Edition": {
       "seats": 5,
@@ -334,7 +349,8 @@
       "fc": 10.3,
       "fh": 5.1,
       "fx": 7,
-      "price": "$74,600"
+      "price": "$74,600",
+      "accelClaimed": true
     },
     "Mercedes-Benz|A-Class|2026|A35 AMG Edition R": {
       "seats": 5,
@@ -354,7 +370,8 @@
       "fc": 11.1,
       "fh": 6.4,
       "fx": 8.2,
-      "price": "$87,327"
+      "price": "$87,327",
+      "accelClaimed": true
     },
     "Mercedes-Benz|A-Class|2026|A45 S AMG Edition R+": {
       "seats": 5,
@@ -374,7 +391,8 @@
       "fc": 11.7,
       "fh": 7.3,
       "fx": 8.9,
-      "price": "$123,927"
+      "price": "$123,927",
+      "accelClaimed": true
     },
     "Audi|Q5|2026|TFSI 150kW": {
       "seats": 5,
@@ -395,7 +413,8 @@
       "fh": 6.1,
       "fx": 5.7,
       "towing": 2000,
-      "price": "$85,927"
+      "price": "$85,927",
+      "accelClaimed": true
     },
     "Audi|Q5|2026|TDI 150kW": {
       "seats": 5,
@@ -416,7 +435,8 @@
       "fh": 5.4,
       "fx": 5.4,
       "towing": 2400,
-      "price": "$88,527"
+      "price": "$88,527",
+      "accelClaimed": true
     },
     "Audi|Q5|2026|TDI 150kW sport": {
       "seats": 5,
@@ -437,7 +457,8 @@
       "fh": 5.4,
       "fx": 5.4,
       "towing": 2400,
-      "price": "$98,527"
+      "price": "$98,527",
+      "accelClaimed": true
     },
     "Audi|Q5|2026|e-hybrid 270kW": {
       "seats": 5,
@@ -460,7 +481,8 @@
       "battery": "25.9 kWh",
       "range": 82,
       "towing": 2000,
-      "price": "$100,318"
+      "price": "$100,318",
+      "accelClaimed": true
     },
     "Audi|Q5|2026|TFSI 200kW sport": {
       "seats": 5,
@@ -480,7 +502,8 @@
       "fc": 10.7,
       "fh": 6.4,
       "fx": 7.9,
-      "price": "$100,327"
+      "price": "$100,327",
+      "accelClaimed": true
     },
     "Volkswagen|Golf|2026|110TSI Life": {
       "seats": 5,
@@ -563,7 +586,8 @@
       "fc": 9.4,
       "fh": 5.9,
       "fx": 7.2,
-      "price": "$59,890"
+      "price": "$59,890",
+      "accelClaimed": true
     },
     "Volkswagen|Golf|2026|R": {
       "seats": 5,
@@ -583,7 +607,8 @@
       "fc": 10.6,
       "fh": 7,
       "fx": 8.3,
-      "price": "$71,990"
+      "price": "$71,990",
+      "accelClaimed": true
     },
     "Volkswagen|Tiguan|2026|110TSI Life": {
       "seats": 5,
@@ -648,7 +673,8 @@
       "fh": 6.6,
       "fx": 7.6,
       "towing": 2300,
-      "price": "$56,850"
+      "price": "$56,850",
+      "accelClaimed": true
     },
     "Volkswagen|Tiguan|2026|150TSI Elegance": {
       "seats": 5,
@@ -669,7 +695,8 @@
       "fh": 6.6,
       "fx": 7.6,
       "towing": 2300,
-      "price": "$61,590"
+      "price": "$61,590",
+      "accelClaimed": true
     },
     "Volkswagen|Tiguan|2026|150TSI eHybrid Elegance": {
       "seats": 5,
@@ -692,7 +719,8 @@
       "battery": "19.7 kWh",
       "range": 117,
       "towing": 1800,
-      "price": "$64,590"
+      "price": "$64,590",
+      "accelClaimed": true
     },
     "Volkswagen|Tiguan|2026|195TSI R-Line": {
       "seats": 5,
@@ -713,7 +741,8 @@
       "fh": 7.4,
       "fx": 8.5,
       "towing": 2300,
-      "price": "$71,550"
+      "price": "$71,550",
+      "accelClaimed": true
     },
     "Volkswagen|Tiguan|2026|200TSI eHybrid R-Line": {
       "seats": 5,
@@ -736,7 +765,8 @@
       "battery": "19.7 kWh",
       "range": 113,
       "towing": 2000,
-      "price": "$74,550"
+      "price": "$74,550",
+      "accelClaimed": true
     }
   }
 }

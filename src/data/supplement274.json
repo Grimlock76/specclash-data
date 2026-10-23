@@ -20,7 +20,8 @@
       "towing": 2200,
       "fuelTank": 66,
       "weight": 1935,
-      "price": "$80,350"
+      "price": "$80,350",
+      "accelClaimed": true
     },
     "Genesis|GV70|2026|2.5T Signature": {
       "topSpeed": 240,
@@ -41,7 +42,8 @@
       "seats": 5,
       "towing": 2200,
       "fuelTank": 66,
-      "price": "$89,350"
+      "price": "$89,350",
+      "accelClaimed": true
     },
     "Genesis|GV70|2026|2.5T Signature Sport": {
       "topSpeed": 240,
@@ -62,7 +64,8 @@
       "seats": 5,
       "towing": 2200,
       "fuelTank": 66,
-      "price": "$91,350"
+      "price": "$91,350",
+      "accelClaimed": true
     },
     "Genesis|GV70|2026|3.5T Signature": {
       "topSpeed": 250,
@@ -83,7 +86,8 @@
       "seats": 5,
       "towing": 2200,
       "weight": 2020,
-      "price": "$99,850"
+      "price": "$99,850",
+      "accelClaimed": true
     },
     "Genesis|GV70|2026|3.5T Signature Sport": {
       "topSpeed": 250,
@@ -103,7 +107,8 @@
       "fx": 11.3,
       "seats": 5,
       "towing": 2200,
-      "price": "$101,850"
+      "price": "$101,850",
+      "accelClaimed": true
     },
     "Genesis|GV70|2026|Electrified Signature Performance": {
       "topSpeed": 235,
@@ -126,7 +131,8 @@
       "weight": 2340,
       "seats": 5,
       "towing": 1800,
-      "price": "$132,718"
+      "price": "$132,718",
+      "accelClaimed": true
     },
     "Genesis|GV80|2026|2.5T Signature 7 Seat": {
       "topSpeed": 237,
@@ -147,7 +153,8 @@
       "fh": 8.1,
       "fx": 10.4,
       "seats": 7,
-      "price": "$120,250"
+      "price": "$120,250",
+      "accelClaimed": true
     },
     "Genesis|GV80|2026|3.5T Signature 7 Seat": {
       "topSpeed": 240,
@@ -168,7 +175,8 @@
       "fh": 9.3,
       "fx": 11.9,
       "seats": 7,
-      "price": "$132,250"
+      "price": "$132,250",
+      "accelClaimed": true
     },
     "Genesis|GV80|2026|3.5T Black 7 Seat": {
       "topSpeed": 240,
@@ -189,7 +197,8 @@
       "fh": 9.3,
       "fx": 11.9,
       "seats": 7,
-      "price": "$136,250"
+      "price": "$136,250",
+      "accelClaimed": true
     },
     "Genesis|G80|2026|2.5T Signature": {
       "topSpeed": 240,
@@ -209,7 +218,8 @@
       "fx": 9,
       "seats": 5,
       "fuelTank": 65,
-      "price": "$104,128"
+      "price": "$104,128",
+      "accelClaimed": true
     },
     "Genesis|G80|2026|3.5T AWD Signature Sport": {
       "topSpeed": 250,
@@ -229,7 +239,8 @@
       "fx": 11,
       "weight": 2020,
       "seats": 5,
-      "price": "$127,128"
+      "price": "$127,128",
+      "accelClaimed": true
     },
     "Genesis|G80|2026|Electrified Signature": {
       "topSpeed": 225,
@@ -250,7 +261,8 @@
       "battery": "94.5 kWh",
       "range": 570,
       "seats": 5,
-      "price": "$155,000"
+      "price": "$155,000",
+      "accelClaimed": true
     },
     "Genesis|G70|2026|3.3T Signature Sport Sedan": {
       "topSpeed": 270,
@@ -271,7 +283,8 @@
       "weight": 1765,
       "seats": 5,
       "fuelTank": 60,
-      "price": "$87,042"
+      "price": "$87,042",
+      "accelClaimed": true
     },
     "Genesis|G70|2026|2.0T Shooting Brake Signature Sport Line": {
       "topSpeed": 235,
@@ -292,7 +305,8 @@
       "weight": 1699,
       "seats": 5,
       "fuelTank": 60,
-      "price": "$80,265"
+      "price": "$80,265",
+      "accelClaimed": true
     },
     "Kia|Seltos|2026|S": {
       "topSpeed": null,

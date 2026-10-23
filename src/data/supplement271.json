@@ -263,7 +263,8 @@
       "towing": 2500,
       "fuelTank": 58,
       "seats": 5,
-      "price": "$54,790"
+      "price": "$54,790",
+      "accelClaimed": true
     },
     "Volkswagen|Tayron|2026|150TSI Elegance": {
       "topSpeed": null,
@@ -285,7 +286,8 @@
       "fuelTank": 58,
       "weight": 1828,
       "seats": 7,
-      "price": "$60,390"
+      "price": "$60,390",
+      "accelClaimed": true
     },
     "Volkswagen|Tayron|2026|150TSI eHybrid Elegance": {
       "topSpeed": 210,
@@ -307,7 +309,8 @@
       "fx": 1.7,
       "range": 116,
       "towing": 1800,
-      "price": "$62,390"
+      "price": "$62,390",
+      "accelClaimed": true
     },
     "Volkswagen|Tayron|2026|195TSI R-Line": {
       "topSpeed": null,
@@ -329,7 +332,8 @@
       "fuelTank": 58,
       "weight": 1844,
       "seats": 7,
-      "price": "$74,550"
+      "price": "$74,550",
+      "accelClaimed": true
     },
     "Volkswagen|Tayron|2026|200TSI eHybrid R-Line": {
       "topSpeed": 215,
@@ -351,7 +355,8 @@
       "fx": 1.8,
       "range": 113,
       "towing": 2000,
-      "price": "$76,550"
+      "price": "$76,550",
+      "accelClaimed": true
     },
     "Volkswagen|Polo|2026|85TSI Life": {
       "topSpeed": null,
@@ -372,7 +377,8 @@
       "seats": 5,
       "fuelTank": 40,
       "weight": 1168,
-      "price": "$30,990"
+      "price": "$30,990",
+      "accelClaimed": true
     },
     "Volkswagen|Polo|2026|85TSI CityLife": {
       "topSpeed": null,
@@ -393,7 +399,8 @@
       "seats": 5,
       "fuelTank": 40,
       "weight": 1168,
-      "price": "$32,790"
+      "price": "$32,790",
+      "accelClaimed": true
     },
     "Volkswagen|Polo|2026|85TSI Style": {
       "topSpeed": null,
@@ -413,7 +420,8 @@
       "fx": 5.4,
       "seats": 5,
       "fuelTank": 40,
-      "price": "$34,990"
+      "price": "$34,990",
+      "accelClaimed": true
     },
     "Volkswagen|Polo|2026|GTI": {
       "topSpeed": null,
@@ -433,7 +441,8 @@
       "fx": 6.7,
       "seats": 5,
       "fuelTank": 40,
-      "price": "$41,790"
+      "price": "$41,790",
+      "accelClaimed": true
     },
     "Volkswagen|Touareg|2026|170TDI": {
       "topSpeed": null,
@@ -455,7 +464,8 @@
       "fh": 6.4,
       "fx": 7.6,
       "weight": 2224,
-      "price": "$89,490"
+      "price": "$89,490",
+      "accelClaimed": true
     },
     "Volkswagen|Touareg|2026|210TDI Elegance": {
       "topSpeed": null,
@@ -476,7 +486,8 @@
       "fc": 9.8,
       "fh": 6.6,
       "fx": 7.7,
-      "price": "$103,490"
+      "price": "$103,490",
+      "accelClaimed": true
     },
     "Volkswagen|Touareg|2026|R eHybrid": {
       "topSpeed": null,
@@ -500,7 +511,8 @@
       "battery": "17.9 kWh",
       "range": 46,
       "weight": 2463,
-      "price": "$133,490"
+      "price": "$133,490",
+      "accelClaimed": true
     },
     "Skoda|Octavia|2026|110TSI Select Liftback": {
       "topSpeed": null,
@@ -521,7 +533,8 @@
       "seats": 5,
       "towing": 1500,
       "fuelTank": 45,
-      "price": "$39,590"
+      "price": "$39,590",
+      "accelClaimed": true
     },
     "Skoda|Octavia|2026|Select mHEV Liftback": {
       "topSpeed": null,
@@ -542,7 +555,8 @@
       "seats": 5,
       "towing": 1500,
       "fuelTank": 45,
-      "price": "$41,990"
+      "price": "$41,990",
+      "accelClaimed": true
     },
     "Skoda|Octavia|2026|110TSI Sportline Liftback": {
       "topSpeed": null,
@@ -563,7 +577,8 @@
       "seats": 5,
       "towing": 1500,
       "fuelTank": 45,
-      "price": "$44,490"
+      "price": "$44,490",
+      "accelClaimed": true
     },
     "Skoda|Octavia|2026|RS Liftback": {
       "topSpeed": null,
@@ -584,7 +599,8 @@
       "seats": 5,
       "towing": 1600,
       "fuelTank": 50,
-      "price": "$58,490"
+      "price": "$58,490",
+      "accelClaimed": true
     },
     "Skoda|Octavia|2026|110TSI Select Wagon": {
       "topSpeed": null,
@@ -605,7 +621,8 @@
       "seats": 5,
       "towing": 1500,
       "fuelTank": 45,
-      "price": "$41,090"
+      "price": "$41,090",
+      "accelClaimed": true
     },
     "Skoda|Octavia|2026|RS Wagon": {
       "topSpeed": null,
@@ -626,7 +643,8 @@
       "seats": 5,
       "towing": 1600,
       "fuelTank": 50,
-      "price": "$59,990"
+      "price": "$59,990",
+      "accelClaimed": true
     },
     "Skoda|Karoq|2026|110TSI Select": {
       "topSpeed": null,
@@ -648,7 +666,8 @@
       "towing": 1500,
       "fuelTank": 50,
       "groundClearance": 161,
-      "price": "$38,490"
+      "price": "$38,490",
+      "accelClaimed": true
     },
     "Skoda|Karoq|2026|110TSI Sportline": {
       "topSpeed": null,
@@ -669,7 +688,8 @@
       "seats": 5,
       "towing": 1500,
       "fuelTank": 50,
-      "price": "$44,490"
+      "price": "$44,490",
+      "accelClaimed": true
     },
     "Skoda|Karoq|2026|140TSI Sportline": {
       "topSpeed": null,
@@ -691,7 +711,8 @@
       "towing": 1900,
       "fuelTank": 55,
       "groundClearance": 170,
-      "price": "$52,990"
+      "price": "$52,990",
+      "accelClaimed": true
     }
   }
 }
