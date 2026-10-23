@@ -71203,12 +71203,18 @@
         "ZR Hybrid"
       ],
       "2024": [
-        "Ascent Sport",
-        "Ascent Sport Hybrid",
-        "GR Sport",
-        "SX",
-        "ZR",
-        "ZR Hybrid"
+        "Ascent Sport Hatch",
+        "SX Hatch",
+        "ZR Hatch",
+        "Ascent Sport Hybrid Hatch",
+        "SX Hybrid Hatch",
+        "ZR Hybrid Hatch",
+        "Ascent Sport Sedan",
+        "SX Sedan",
+        "ZR Sedan",
+        "Ascent Sport Hybrid Sedan",
+        "SX Hybrid Sedan",
+        "ZR Hybrid Sedan"
       ],
       "2025": [
         "Ascent Sport Hybrid Hatch",
@@ -71459,12 +71465,9 @@
       "2024": [
         "Ascent",
         "Ascent Hybrid",
-        "Ascent Sport",
         "Ascent Sport Hybrid",
-        "SX",
         "SX Hybrid",
-        "SXL",
-        "SXL Hybrid"
+        "SL Hybrid"
       ],
       "2025": [
         "Ascent Hybrid",
@@ -72000,11 +72003,13 @@
         "Grande Hybrid"
       ],
       "2024": [
-        "GX",
+        "GX 2WD",
+        "GX AWD",
         "GX Hybrid",
-        "GXL",
+        "GXL 2WD",
+        "GXL AWD",
         "GXL Hybrid",
-        "Grande",
+        "Grande AWD",
         "Grande Hybrid"
       ],
       "2025": [
