@@ -674,7 +674,7 @@ R('scirocco-r', { makes: ['Volkswagen'], models: ['Scirocco'], match: ['^R$'] },
   'Scirocco R', 'Scirocco', 'Hot Scirocco coupe.', ['2.0L turbo four, 188 kW', 'Front-wheel drive']);
 R('troc-r', { makes: ['Volkswagen'], models: ['T-Roc'], match: ['^R$'] },
   'T-Roc R', 'T-Roc', 'Hot small SUV.', ['2.0L turbo four, 221 kW', '4MOTION all-wheel drive', '7-speed DSG']);
-R('touareg-r', { makes: ['Volkswagen'], models: ['Touareg'], match: ['Touareg R'] },
+R('touareg-r', { makes: ['Volkswagen'], models: ['Touareg'], match: ['Touareg R', '^R eHybrid'] },
   'Touareg R', 'Touareg', 'Plug-in hybrid flagship Touareg.', ['3.0L turbo V6 plug-in hybrid, 340 kW / 700 Nm', '4MOTION all-wheel drive']);
 R('vw-alltrack', { makes: ['Volkswagen'], match: ['Alltrack'] },
   'Alltrack', 'Wagon', 'Raised, all-wheel-drive wagon.', ['4MOTION all-wheel drive', 'Raised ride height and rugged body cladding']);

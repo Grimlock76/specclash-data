@@ -247,25 +247,6 @@
       "price": "~$64,990",
       "aspiration": "Electric"
     },
-    "Skoda|Octavia|2026|Style": {
-      "engine": "1.5 TSI",
-      "fuelType": "petrol",
-      "displacement": 1498,
-      "cylinders": 4,
-      "drivetrain": "FWD",
-      "transmission": "7-speed DSG",
-      "power": 110,
-      "torque": 250,
-      "weight": 1360,
-      "seats": 5,
-      "fc": 9,
-      "fh": 4.8,
-      "fx": 6.4,
-      "acceleration": 8.5,
-      "topSpeed": 220,
-      "price": "~$44,990",
-      "aspiration": "IHI Single-Turbo"
-    },
     "Tesla|Model 3|2023|Standard Range RWD": {
       "engine": "Electric Single Motor",
       "fuelType": "electric",

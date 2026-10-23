@@ -67250,13 +67250,12 @@
         "Style 140 TSI"
       ],
       "2026": [
-        "Ambition",
-        "Ambition 110 TSI",
-        "RS",
-        "RS 245",
-        "RS Combi",
-        "Style",
-        "Style 140 TSI"
+        "110TSI Select Liftback",
+        "Select mHEV Liftback",
+        "110TSI Sportline Liftback",
+        "RS Liftback",
+        "110TSI Select Wagon",
+        "RS Wagon"
       ]
     },
     "Superb": {
@@ -67354,10 +67353,9 @@
         "Style"
       ],
       "2026": [
-        "110 TSI Ambition",
-        "110 TSI Style",
-        "Sportline",
-        "Style"
+        "110TSI Select",
+        "110TSI Sportline",
+        "140TSI Sportline"
       ]
     },
     "Kodiaq": {
@@ -77506,9 +77504,8 @@
         "GTI"
       ],
       "2026": [
-        "70TSI Life",
-        "70TSI Trendline",
-        "85TSI Comfortline",
+        "85TSI Life",
+        "85TSI CityLife",
         "85TSI Style",
         "GTI"
       ]
@@ -77898,9 +77895,8 @@
       ],
       "2026": [
         "170TDI",
-        "190TSI",
-        "210TDI",
-        "Touareg R"
+        "210TDI Elegance",
+        "R eHybrid"
       ]
     },
     "Amarok": {
@@ -77986,10 +77982,16 @@
         "TDI600 PanAmericana"
       ],
       "2026": [
+        "TDI405 Core",
+        "TDI500 Life",
         "TDI500 Style",
-        "TDI580 Style",
+        "TSI452 Style",
+        "TSI452 Aventura",
+        "TDI600 Style",
+        "TDI600 Dark Label",
+        "TDI600 PanAmericana",
         "TDI600 Aventura",
-        "TDI600 PanAmericana"
+        "TDI600 W600"
       ]
     },
     "T-Roc": {
@@ -78605,9 +78607,11 @@
       ],
       "2026": [
         "110TSI Life",
-        "150TSI Elegance",
         "150TSI Life",
-        "195TSI R-Line"
+        "150TSI Elegance",
+        "150TSI eHybrid Elegance",
+        "195TSI R-Line",
+        "200TSI eHybrid R-Line"
       ]
     }
   },
@@ -79015,13 +79019,9 @@
         "T5 AWD R-Design"
       ],
       "2026": [
-        "B4",
-        "Recharge",
-        "Recharge Pure Electric",
-        "Recharge T5 PHEV",
-        "T4 Momentum",
-        "T5 AWD Inscription",
-        "T5 AWD R-Design"
+        "Plus B4",
+        "Ultra B4 Bright",
+        "Ultra B4 Dark"
       ]
     },
     "XC60": {
@@ -79139,13 +79139,10 @@
         "T8 Twin Engine AWD"
       ],
       "2026": [
-        "B5",
-        "B5 AWD",
-        "T5 Inscription",
-        "T5 Momentum",
-        "T5 R-Design",
-        "T8 Recharge",
-        "T8 Twin Engine AWD"
+        "Plus B5 Bright",
+        "Ultra B5 Dark",
+        "Plus T8 PHEV Dark",
+        "Ultra T8 PHEV Dark"
       ]
     },
     "XC90": {
@@ -79283,12 +79280,10 @@
         "T8 Twin Engine Excellence"
       ],
       "2026": [
-        "B5",
-        "Recharge T8",
-        "T5 Momentum",
-        "T6 Inscription",
-        "T8 Recharge",
-        "T8 Twin Engine Excellence"
+        "Plus B5 Bright",
+        "Ultra B5 Dark",
+        "Plus T8 PHEV Dark",
+        "Ultra T8 PHEV Dark"
       ]
     },
     "C40 Recharge": {
@@ -79325,8 +79320,8 @@
         "Twin Motor"
       ],
       "2026": [
-        "Extended Range",
-        "Twin Motor"
+        "Plus P5 Long Range",
+        "Ultra P5 Long Range"
       ]
     },
     "EX90": {
@@ -79339,8 +79334,9 @@
         "Twin Motor Performance"
       ],
       "2026": [
-        "Twin Motor",
-        "Twin Motor Performance"
+        "Plus Single Motor",
+        "Plus Twin Motor",
+        "Ultra Twin Motor Performance"
       ]
     },
     "EX40": {
@@ -79353,8 +79349,8 @@
         "Twin Motor Performance"
       ],
       "2026": [
-        "Single Motor",
-        "Twin Motor Performance"
+        "Ultra Single Motor Extended Range",
+        "Ultra Twin Motor Performance"
       ]
     },
     "EC40": {
