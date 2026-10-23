@@ -226,7 +226,9 @@
       "acceleration": 11.5,
       "topSpeed": 175,
       "price": "~$52,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "towing": 3500,
+      "fuelTank": 80
     },
     "Ford|Ranger|2026|P703 XLT": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -245,7 +247,9 @@
       "acceleration": 10.5,
       "topSpeed": 180,
       "price": "~$62,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "towing": 3500,
+      "fuelTank": 80
     },
     "Ford|Ranger|2026|P703 Wildtrak": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -264,7 +268,9 @@
       "acceleration": 10.5,
       "topSpeed": 180,
       "price": "~$74,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "towing": 3500,
+      "fuelTank": 80
     },
     "Ford|Ranger|2026|P703 FX4 Max": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -302,7 +308,10 @@
       "acceleration": 7.9,
       "topSpeed": 180,
       "price": "~$89,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "towing": 2500,
+      "fuelTank": 80,
+      "groundClearance": 272
     },
     "Mini|Countryman|2026|Cooper": {
       "engine": "1.5L I3 TwinPower Turbo",

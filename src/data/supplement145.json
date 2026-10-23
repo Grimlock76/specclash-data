@@ -340,7 +340,10 @@
       "acceleration": 9.8,
       "topSpeed": 175,
       "price": "~$55,490",
-      "aspiration": "MHI VGT Diesel Turbo"
+      "aspiration": "MHI VGT Diesel Turbo",
+      "towing": 3500,
+      "fuelTank": 75,
+      "groundClearance": 228
     },
     "Mitsubishi|Triton|2026|Titan": {
       "engine": "2.4L I4 Turbo Diesel",

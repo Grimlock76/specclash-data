@@ -142,6 +142,11 @@ function normalizeSpec(spec, make = '', model = '', trim = '') {
     se: spec.seats ? String(spec.seats) : '—',
     ca: spec.cargo ? spec.cargo + ' L' : '—',
     pr: spec.price || '—',
+    // Optional capability fields (only some trims have them; rows hide when nobody does)
+    tw: spec.towing ? spec.towing.toLocaleString('en-AU') + ' kg' : undefined,
+    pl: spec.payload ? spec.payload.toLocaleString('en-AU') + ' kg' : undefined,
+    gc: spec.groundClearance ? spec.groundClearance + ' mm' : undefined,
+    tk: spec.fuelTank ? spec.fuelTank + ' L' : undefined,
   }
 }
 
@@ -240,7 +245,15 @@ function estimateCurrentPrice(prStr, year, make = '', model = '', trim = '') {
 export async function lookup(make, model, year, trim) {
   await primeCache(make)
   const yr = parseInt(year)
-  const withPC = spec => {
+  // Power-to-weight is derived for every trim from power and weight (kW per tonne)
+  const withP2W = spec => {
+    if (!spec || spec.p2w) return spec
+    const num = v => { const m = String(v ?? '').replace(/,/g, '').match(/\d+(\.\d+)?/); return m ? parseFloat(m[0]) : NaN }
+    const kw = num(spec.hp), kg = num(spec.wt)
+    return kw > 0 && kg > 300 ? { ...spec, p2w: `${Math.round((kw / kg) * 1000)} kW/t` } : spec
+  }
+  const withPC = raw => {
+    const spec = withP2W(raw)
     if (!spec || yr >= 2024) return spec
     if (spec.pc) return spec
     const pc = estimateCurrentPrice(spec.pr, year, make, model, trim)

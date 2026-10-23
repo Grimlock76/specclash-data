@@ -538,7 +538,11 @@
       "weight": 2537,
       "seats": 7,
       "cargo": 898,
-      "price": "~$76,590"
+      "price": "~$76,590",
+      "towing": 3500,
+      "payload": 690,
+      "fuelTank": 80,
+      "groundClearance": 255
     }
   }
 }

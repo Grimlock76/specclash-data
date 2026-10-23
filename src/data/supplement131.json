@@ -686,7 +686,10 @@
       "acceleration": 10.5,
       "topSpeed": 185,
       "price": "~$52,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "towing": 3500,
+      "fuelTank": 80,
+      "groundClearance": 206
     },
     "Kia|Tasman|2026|GT-Line": {
       "engine": "2.2L 4-cyl CRDi Diesel",
@@ -724,7 +727,11 @@
       "acceleration": 10.5,
       "topSpeed": 185,
       "price": "~$74,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "towing": 3500,
+      "payload": 917,
+      "fuelTank": 80,
+      "groundClearance": 206
     },
     "Mazda|CX-70|2024|GT": {
       "engine": "3.3L 6-cyl SH-VPTR Diesel",

@@ -19,7 +19,12 @@
     "se": "Seating",
     "ca": "Cargo",
     "pr": "Price (new)",
-    "pc": "Price (current est.)"
+    "pc": "Price (current est.)",
+    "p2w": "Power-to-Weight",
+    "tw": "Towing (braked)",
+    "pl": "Payload",
+    "gc": "Ground Clearance",
+    "tk": "Fuel Tank"
   },
   "groups": [
     {
@@ -38,6 +43,7 @@
     {
       "label": "PERFORMANCE",
       "keys": [
+        "p2w",
         "z1",
         "qm",
         "ts"
@@ -49,7 +55,8 @@
         "fc",
         "fh",
         "fx",
-        "ft"
+        "ft",
+        "tk"
       ]
     },
     {
@@ -58,6 +65,14 @@
         "wt",
         "se",
         "ca"
+      ]
+    },
+    {
+      "label": "CAPABILITY",
+      "keys": [
+        "tw",
+        "pl",
+        "gc"
       ]
     },
     {

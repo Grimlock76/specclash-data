@@ -7,7 +7,10 @@ import UltimateClash from './UltimateClash.jsx'
 const { slotColors: COLORS, groups: GROUPS, labels: S } = config
 
 const LOWER = ['z1', 'qm', 'fc', 'fh', 'fx', 'wt', 'pr']
-const HIGHER = ['hp', 'tq', 'ts']
+const HIGHER = ['hp', 'tq', 'ts', 'p2w', 'tw', 'pl', 'gc', 'tk']
+// Rows only shown when at least one loaded car has a value (most trims don't have these yet)
+const OPTIONAL = new Set(['p2w', 'tw', 'pl', 'gc', 'tk'])
+const hasVal = v => v != null && v !== '' && v !== '—'
 // Rows whose values count up and get a bar (engine names like "1GD-FTV" must not count)
 const COUNT_KEYS = new Set([...LOWER, ...HIGHER, 'se', 'ca', 'pc'])
 const BAR_KEYS = new Set([...LOWER, ...HIGHER])
@@ -111,7 +114,8 @@ export default function SpecTable({ loaded, onShare }) {
             </tr>
           </thead>
           <tbody key={playKey}>
-            {GROUPS.map(g => (
+            {GROUPS.map(g => ({ ...g, keys: g.keys.filter(k => !OPTIONAL.has(k) || loaded.some(c => hasVal(c.specs?.[k]))) }))
+              .filter(g => g.keys.length).map(g => (
               <Fragment key={g.label}>
                 <tr className="spec-group" style={{ '--rd': `${rowNo * stagger}ms` }}>
                   <td colSpan={loaded.length + 1} style={{ padding: '14px 12px 5px', fontFamily: "'Barlow Condensed', sans-serif", fontSize: 14, letterSpacing: 3, color: '#C8F04A', textTransform: 'uppercase', borderTop: '1px solid #141414' }}>{g.label}</td>

@@ -23,6 +23,7 @@ const STATS = [
   ['ts', 'Top speed', 'km/h', true],
   ['wt', 'Weight', 'kg', false],
   ['fx', 'Fuel (combined)', 'L/100km', false],
+  ['tw', 'Towing (braked)', 'kg', true],
   ['pr', 'Price new', '', false],
 ]
 
@@ -37,7 +38,7 @@ function statValue(car, key) {
 
 function fmt(n, key) {
   if (key === 'pr') return '$' + Math.round(n).toLocaleString('en-AU')
-  if (key === 'wt') return Math.round(n).toLocaleString('en-AU')
+  if (key === 'wt' || key === 'tw') return Math.round(n).toLocaleString('en-AU')
   return Number.isInteger(n) ? String(n) : n.toFixed(1)
 }
 

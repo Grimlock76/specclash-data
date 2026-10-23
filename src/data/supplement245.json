@@ -238,7 +238,11 @@
       "weight": 2786,
       "seats": 8,
       "cargo": null,
-      "price": "$95,600"
+      "price": "$95,600",
+      "towing": 3500,
+      "payload": 714,
+      "fuelTank": 140,
+      "groundClearance": 272
     },
     "Nissan|Patrol|2026|Ti-L": {
       "engine": "5.6L V8 (VK56VD)",
@@ -258,7 +262,11 @@
       "weight": 2847,
       "seats": 7,
       "cargo": null,
-      "price": "$107,100"
+      "price": "$107,100",
+      "towing": 3500,
+      "payload": 653,
+      "fuelTank": 140,
+      "groundClearance": 272
     },
     "Nissan|Patrol|2026|Warrior": {
       "engine": "5.6L V8 (VK56VD)",
@@ -278,7 +286,11 @@
       "weight": 2884,
       "seats": 8,
       "cargo": null,
-      "price": "$110,660"
+      "price": "$110,660",
+      "towing": 3500,
+      "payload": 736,
+      "fuelTank": 140,
+      "groundClearance": 323
     },
     "Nissan|Patrol|2026|Y63 Ti": {
       "engine": "3.5L V6 Twin-Turbo (VR35DDTT)",
@@ -338,7 +350,8 @@
       "weight": null,
       "seats": 8,
       "cargo": null,
-      "price": null
+      "price": null,
+      "towing": 3700
     },
     "Nissan|Patrol|2026|Y63 Ti-L+": {
       "engine": "3.5L V6 Twin-Turbo (VR35DDTT)",
@@ -358,7 +371,8 @@
       "weight": null,
       "seats": 8,
       "cargo": null,
-      "price": null
+      "price": null,
+      "towing": 3700
     },
     "Nissan|Patrol|2026|Y63 PRO-4X": {
       "engine": "3.5L V6 Twin-Turbo (VR35DDTT)",
@@ -378,7 +392,8 @@
       "weight": null,
       "seats": 8,
       "cargo": null,
-      "price": null
+      "price": null,
+      "towing": 3700
     },
     "Nissan|Patrol|2026|Y63 Ti-L Reserve": {
       "engine": "3.5L V6 Twin-Turbo (VR35DDTT)",
@@ -398,7 +413,8 @@
       "weight": null,
       "seats": 8,
       "cargo": null,
-      "price": null
+      "price": null,
+      "towing": 3700
     }
   }
 }

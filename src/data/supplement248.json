@@ -18,7 +18,11 @@
       "weight": 2105,
       "seats": 5,
       "cargo": null,
-      "price": "$52,490"
+      "price": "$52,490",
+      "towing": 3500,
+      "payload": 960,
+      "fuelTank": 80,
+      "groundClearance": 224
     },
     "Toyota|HiLux|2026|SR 4x2": {
       "engine": "2.8L I4 Turbo Diesel (1GD-FTV)",
@@ -38,7 +42,11 @@
       "weight": 2045,
       "seats": 5,
       "cargo": null,
-      "price": "$52,990"
+      "price": "$52,990",
+      "towing": 2900,
+      "payload": 935,
+      "fuelTank": 80,
+      "groundClearance": 224
     },
     "Toyota|HiLux|2026|SR 48V": {
       "engine": "2.8L I4 Turbo Diesel 48V mild hybrid (1GD-FTV)",
@@ -58,7 +66,11 @@
       "weight": 2125,
       "seats": 5,
       "cargo": null,
-      "price": "$57,990"
+      "price": "$57,990",
+      "towing": 3500,
+      "payload": 965,
+      "fuelTank": 80,
+      "groundClearance": 224
     },
     "Toyota|HiLux|2026|SR5": {
       "engine": "2.8L I4 Turbo Diesel (1GD-FTV)",
@@ -78,7 +90,11 @@
       "weight": 2110,
       "seats": 5,
       "cargo": null,
-      "price": "$63,990"
+      "price": "$63,990",
+      "towing": 3500,
+      "payload": 970,
+      "fuelTank": 80,
+      "groundClearance": 224
     },
     "Toyota|HiLux|2026|SR5 48V": {
       "engine": "2.8L I4 Turbo Diesel 48V mild hybrid (1GD-FTV)",
@@ -98,7 +114,11 @@
       "weight": 2155,
       "seats": 5,
       "cargo": null,
-      "price": "$65,990"
+      "price": "$65,990",
+      "towing": 3500,
+      "payload": 965,
+      "fuelTank": 80,
+      "groundClearance": 224
     },
     "Toyota|HiLux|2026|Rugged X 48V": {
       "engine": "2.8L I4 Turbo Diesel 48V mild hybrid (1GD-FTV)",
@@ -118,7 +138,11 @@
       "weight": 2327,
       "seats": 5,
       "cargo": null,
-      "price": "$71,990"
+      "price": "$71,990",
+      "towing": 3500,
+      "payload": 793,
+      "fuelTank": 80,
+      "groundClearance": 224
     },
     "Toyota|HiLux|2026|Rogue 48V": {
       "engine": "2.8L I4 Turbo Diesel 48V mild hybrid (1GD-FTV)",
@@ -138,7 +162,11 @@
       "weight": 2342,
       "seats": 5,
       "cargo": null,
-      "price": "$71,990"
+      "price": "$71,990",
+      "towing": 3500,
+      "payload": 778,
+      "fuelTank": 80,
+      "groundClearance": 229
     },
     "Toyota|HiLux|2026|SR BEV": {
       "engine": "Dual Motor Electric",
@@ -158,7 +186,9 @@
       "weight": 2420,
       "seats": 5,
       "cargo": null,
-      "price": "$74,990"
+      "price": "$74,990",
+      "towing": 2000,
+      "payload": 725
     },
     "Toyota|HiLux|2026|SR5 BEV": {
       "engine": "Dual Motor Electric",
@@ -178,7 +208,9 @@
       "weight": 2455,
       "seats": 5,
       "cargo": null,
-      "price": "$82,990"
+      "price": "$82,990",
+      "towing": 2000,
+      "payload": 715
     }
   }
 }

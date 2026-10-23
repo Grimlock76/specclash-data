@@ -226,7 +226,11 @@
       "acceleration": 8.5,
       "topSpeed": 200,
       "price": "~$85,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "towing": 3500,
+      "payload": 638,
+      "fuelTank": 80,
+      "groundClearance": 226
     },
     "Ford|Everest|2026|Platinum+": {
       "engine": "3.0L V6 Turbo Diesel",

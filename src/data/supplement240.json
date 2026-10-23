@@ -974,7 +974,11 @@
       "weight": 2692,
       "seats": 5,
       "cargo": null,
-      "price": "~$71,990"
+      "price": "~$71,990",
+      "towing": 3500,
+      "payload": 830,
+      "fuelTank": 70,
+      "groundClearance": 215
     },
     "Ford|Ranger|2026|P703 PHEV Stormtrak": {
       "engine": "2.3L I4 Turbo PHEV",

@@ -207,7 +207,11 @@
       "acceleration": 11,
       "topSpeed": 183,
       "price": "~$63,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "towing": 3500,
+      "payload": 731,
+      "fuelTank": 80,
+      "groundClearance": 226
     },
     "Ford|Everest|2026|Trend": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -226,7 +230,11 @@
       "acceleration": 10,
       "topSpeed": 185,
       "price": "~$67,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "towing": 3500,
+      "payload": 717,
+      "fuelTank": 80,
+      "groundClearance": 226
     },
     "Ford|Everest|2026|Sport": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -245,7 +253,10 @@
       "acceleration": 10,
       "topSpeed": 185,
       "price": "~$74,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "towing": 3500,
+      "fuelTank": 80,
+      "groundClearance": 226
     },
     "Ford|Everest|2026|Titanium": {
       "engine": "3.0L V6 TDCi",

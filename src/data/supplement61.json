@@ -336,7 +336,11 @@
       "fh": 4.3,
       "fx": 5.3,
       "price": "~$69,990",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "towing": 2500,
+      "payload": 790,
+      "fuelTank": 60,
+      "groundClearance": 230
     },
     "BYD|Sealion 6|2024|PHEV": {
       "engine": "1.5L I4 PHEV",

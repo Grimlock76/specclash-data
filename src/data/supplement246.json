@@ -18,7 +18,11 @@
       "weight": 2480,
       "seats": 5,
       "cargo": null,
-      "price": "$99,270"
+      "price": "$99,270",
+      "towing": 3500,
+      "payload": 800,
+      "fuelTank": 110,
+      "groundClearance": 245
     },
     "Toyota|LandCruiser 300|2026|GXL": {
       "engine": "3.3L V6 Twin-Turbo Diesel (F33A-FTV)",
@@ -38,7 +42,11 @@
       "weight": 2545,
       "seats": 7,
       "cargo": null,
-      "price": "$111,750"
+      "price": "$111,750",
+      "towing": 3500,
+      "payload": 735,
+      "fuelTank": 110,
+      "groundClearance": 245
     },
     "Toyota|LandCruiser 300|2026|VX": {
       "engine": "3.3L V6 Twin-Turbo Diesel (F33A-FTV)",
@@ -58,7 +66,11 @@
       "weight": 2620,
       "seats": 7,
       "cargo": null,
-      "price": "$123,440"
+      "price": "$123,440",
+      "towing": 3500,
+      "payload": 660,
+      "fuelTank": 110,
+      "groundClearance": 245
     },
     "Toyota|LandCruiser 300|2026|Sahara": {
       "engine": "3.3L V6 Twin-Turbo Diesel (F33A-FTV)",
@@ -78,7 +90,11 @@
       "weight": 2620,
       "seats": 7,
       "cargo": null,
-      "price": "$140,240"
+      "price": "$140,240",
+      "towing": 3500,
+      "payload": 660,
+      "fuelTank": 110,
+      "groundClearance": 245
     },
     "Toyota|LandCruiser 300|2026|GR Sport": {
       "engine": "3.3L V6 Twin-Turbo Diesel (F33A-FTV)",
@@ -98,7 +114,10 @@
       "weight": 2620,
       "seats": 5,
       "cargo": null,
-      "price": "$147,090"
+      "price": "$147,090",
+      "towing": 3500,
+      "fuelTank": 110,
+      "groundClearance": 245
     },
     "Toyota|LandCruiser 300|2026|Sahara ZX": {
       "engine": "3.3L V6 Twin-Turbo Diesel (F33A-FTV)",
@@ -118,7 +137,11 @@
       "weight": 2600,
       "seats": 5,
       "cargo": null,
-      "price": "$147,840"
+      "price": "$147,840",
+      "towing": 3500,
+      "payload": 680,
+      "fuelTank": 110,
+      "groundClearance": 245
     },
     "Toyota|LandCruiser 300|2026|Performance Hybrid Sahara ZX": {
       "engine": "3.4L V6 Twin-Turbo Hybrid (V35A-FTS)",
@@ -138,7 +161,10 @@
       "weight": 2650,
       "seats": 5,
       "cargo": null,
-      "price": null
+      "price": null,
+      "towing": 3500,
+      "fuelTank": 98,
+      "groundClearance": 231
     },
     "Toyota|LandCruiser 300|2026|Performance Hybrid GR Sport": {
       "engine": "3.4L V6 Twin-Turbo Hybrid (V35A-FTS)",
@@ -158,7 +184,10 @@
       "weight": 2650,
       "seats": 5,
       "cargo": null,
-      "price": null
+      "price": null,
+      "towing": 3500,
+      "fuelTank": 98,
+      "groundClearance": 231
     }
   }
 }
