@@ -257,9 +257,9 @@ R('gr-yaris', { makes: ['Toyota'], models: ['GR Yaris', 'Yaris'], years: [2020, 
   ]);
 R('gr-corolla', { makes: ['Toyota'], models: ['GR Corolla'], match: ['.'] },
   'GR Corolla', 'Corolla', 'Five-door hatch with the GR Yaris drivetrain.', [
-    '1.6L turbo 3-cylinder (G16E-GTS), 224 kW',
+    '1.6L turbo 3-cylinder (G16E-GTS), 221–224 kW',
     'GR-Four all-wheel drive with adjustable torque split',
-    '6-speed manual',
+    '6-speed manual (8-speed auto option from 2025)',
     'Widened body with flared guards',
   ]);
 R('gr86', { makes: ['Toyota'], models: ['GR86'], match: ['.'] },
