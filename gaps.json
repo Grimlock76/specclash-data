@@ -1,13 +1,13 @@
 {
   "generated": "2026-10-23",
-  "trims": 43054,
+  "trims": 43044,
   "noEntry": 0,
   "blank": 0,
   "missingFieldCounts": {
-    "fuel": 3211,
-    "weight": 49,
-    "torque": 114,
-    "0-100": 1429,
+    "fuel": 3209,
+    "weight": 68,
+    "torque": 127,
+    "0-100": 1445,
     "price": 115
   },
   "byMake": {
@@ -287,11 +287,13 @@
       }
     },
     "Hyundai": {
-      "trims": 863,
+      "trims": 864,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "0-100": 13
+        "0-100": 28,
+        "weight": 11,
+        "torque": 7
       }
     },
     "Imperial": {
@@ -328,13 +330,13 @@
       }
     },
     "Kia": {
-      "trims": 673,
+      "trims": 667,
       "noEntry": 0,
       "blank": 0,
       "missing": {
         "0-100": 32,
-        "torque": 14,
-        "weight": 8
+        "torque": 18,
+        "weight": 15
       }
     },
     "Lagonda": {
@@ -565,14 +567,14 @@
       }
     },
     "Toyota": {
-      "trims": 2214,
+      "trims": 2209,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "torque": 38,
-        "0-100": 67,
-        "weight": 3,
-        "fuel": 13,
+        "torque": 40,
+        "0-100": 68,
+        "weight": 4,
+        "fuel": 11,
         "price": 2
       }
     },
@@ -3440,6 +3442,22 @@
     {"make":"Hyundai","model":"Santa Fe","year":"2026","trim":"Hybrid","problem":"missing","fields":["0-100"]},
     {"make":"Hyundai","model":"Santa Fe","year":"2026","trim":"Hybrid Elite AWD","problem":"missing","fields":["0-100"]},
     {"make":"Hyundai","model":"Santa Fe","year":"2026","trim":"Hybrid Calligraphy AWD","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Kona","year":"2026","trim":"Kona","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Kona","year":"2026","trim":"Elite","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Hyundai","model":"Kona","year":"2026","trim":"Elite N Line","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Hyundai","model":"Kona","year":"2026","trim":"Premium","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Hyundai","model":"Kona","year":"2026","trim":"Premium N Line","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Kona","year":"2026","trim":"Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Hyundai","model":"Kona","year":"2026","trim":"Hybrid Elite","problem":"missing","fields":["torque","0-100","weight"]},
+    {"make":"Hyundai","model":"Kona","year":"2026","trim":"Hybrid Elite N Line","problem":"missing","fields":["torque","0-100","weight"]},
+    {"make":"Hyundai","model":"Kona","year":"2026","trim":"Hybrid Premium","problem":"missing","fields":["torque","0-100","weight"]},
+    {"make":"Hyundai","model":"Kona","year":"2026","trim":"Hybrid Premium N Line","problem":"missing","fields":["torque","0-100","weight"]},
+    {"make":"Hyundai","model":"Kona","year":"2026","trim":"Electric","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Kona","year":"2026","trim":"Electric Premium","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Ioniq 5","year":"2026","trim":"RWD","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Hyundai","model":"Ioniq 5","year":"2026","trim":"Elite RWD","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Hyundai","model":"Ioniq 5","year":"2026","trim":"N Line Premium AWD","problem":"missing","fields":["torque","0-100","weight"]},
+    {"make":"Hyundai","model":"Ioniq 5 N","year":"2026","trim":"N","problem":"missing","fields":["torque","weight"]},
     {"make":"Imperial","model":"Newport","year":"1955","trim":"Hardtop","problem":"missing","fields":["fuel"]},
     {"make":"Imperial","model":"Newport","year":"1956","trim":"Hardtop","problem":"missing","fields":["fuel"]},
     {"make":"Imperial","model":"Crown","year":"1957","trim":"Hardtop","problem":"missing","fields":["fuel"]},
@@ -3573,6 +3591,13 @@
     {"make":"Kia","model":"Carnival","year":"2026","trim":"S HEV","problem":"missing","fields":["torque","0-100"]},
     {"make":"Kia","model":"Carnival","year":"2026","trim":"Sport+ HEV","problem":"missing","fields":["torque","0-100"]},
     {"make":"Kia","model":"Carnival","year":"2026","trim":"GT-Line HEV","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Kia","model":"EV9","year":"2026","trim":"Air RWD","problem":"missing","fields":["weight"]},
+    {"make":"Kia","model":"EV9","year":"2026","trim":"Earth AWD","problem":"missing","fields":["torque","weight"]},
+    {"make":"Kia","model":"EV9","year":"2026","trim":"GT-Line AWD","problem":"missing","fields":["torque","weight"]},
+    {"make":"Kia","model":"EV9","year":"2026","trim":"GT","problem":"missing","fields":["torque","weight"]},
+    {"make":"Kia","model":"EV6","year":"2026","trim":"Air RWD","problem":"missing","fields":["weight"]},
+    {"make":"Kia","model":"EV6","year":"2026","trim":"GT-Line RWD","problem":"missing","fields":["weight"]},
+    {"make":"Kia","model":"EV6","year":"2026","trim":"GT","problem":"missing","fields":["torque","weight"]},
     {"make":"Kia","model":"Tasman","year":"2026","trim":"S 4x2","problem":"missing","fields":["0-100"]},
     {"make":"Kia","model":"Tasman","year":"2026","trim":"SX","problem":"missing","fields":["0-100"]},
     {"make":"Kia","model":"Tasman","year":"2026","trim":"SX+","problem":"missing","fields":["0-100"]},
@@ -5201,8 +5226,8 @@
     {"make":"Toyota","model":"bZ4X","year":"2024","trim":"GXL","problem":"missing","fields":["fuel"]},
     {"make":"Toyota","model":"bZ4X","year":"2025","trim":"GX","problem":"missing","fields":["fuel"]},
     {"make":"Toyota","model":"bZ4X","year":"2025","trim":"GXL","problem":"missing","fields":["fuel"]},
-    {"make":"Toyota","model":"bZ4X","year":"2026","trim":"GX","problem":"missing","fields":["fuel"]},
-    {"make":"Toyota","model":"bZ4X","year":"2026","trim":"GXL","problem":"missing","fields":["fuel"]},
+    {"make":"Toyota","model":"bZ4X","year":"2026","trim":"AWD","problem":"missing","fields":["torque","0-100","weight"]},
+    {"make":"Toyota","model":"bZ4X","year":"2026","trim":"Touring AWD","problem":"missing","fields":["torque"]},
     {"make":"Toyota","model":"LandCruiser 300","year":"2026","trim":"GX","problem":"missing","fields":["0-100"]},
     {"make":"Toyota","model":"LandCruiser 300","year":"2026","trim":"GXL","problem":"missing","fields":["0-100"]},
     {"make":"Toyota","model":"LandCruiser 300","year":"2026","trim":"VX","problem":"missing","fields":["0-100"]},

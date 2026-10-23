@@ -1,43 +1,5 @@
 {
   "specs": {
-    "Toyota|bZ4X|2026|FWD": {
-      "engine": "Electric Single Motor",
-      "fuelType": "electric",
-      "battery": "71.4 kWh",
-      "range": 450,
-      "drivetrain": "FWD",
-      "transmission": "1sp auto",
-      "power": 150,
-      "torque": 265,
-      "weight": 2065,
-      "seats": 5,
-      "fc": null,
-      "fh": null,
-      "fx": null,
-      "acceleration": 8.4,
-      "topSpeed": 160,
-      "price": "~$59,990",
-      "aspiration": "Electric"
-    },
-    "Toyota|bZ4X|2026|AWD": {
-      "engine": "Electric Dual Motor",
-      "fuelType": "electric",
-      "battery": "71.4 kWh",
-      "range": 420,
-      "drivetrain": "AWD",
-      "transmission": "1sp auto",
-      "power": 160,
-      "torque": 336,
-      "weight": 2170,
-      "seats": 5,
-      "fc": null,
-      "fh": null,
-      "fx": null,
-      "acceleration": 7.7,
-      "topSpeed": 160,
-      "price": "~$64,990",
-      "aspiration": "Electric"
-    },
     "Toyota|Alphard|2026|Executive": {
       "engine": "2.5L I4 Hybrid E-Four",
       "fuelType": "petrol hybrid",

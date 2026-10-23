@@ -33151,12 +33151,18 @@
         "Hybrid"
       ],
       "2026": [
-        "Active",
-        "Active petrol",
-        "Electric",
+        "Kona",
         "Elite",
-        "Highlander 1.6 T-GDi",
-        "Hybrid"
+        "Elite N Line",
+        "Premium",
+        "Premium N Line",
+        "Hybrid",
+        "Hybrid Elite",
+        "Hybrid Elite N Line",
+        "Hybrid Premium",
+        "Hybrid Premium N Line",
+        "Electric",
+        "Electric Premium"
       ]
     },
     "Ioniq": {
@@ -33245,14 +33251,9 @@
         "Ultimate AWD"
       ],
       "2026": [
-        "Active",
-        "Elite",
-        "Epiq AWD",
-        "Long Range AWD",
-        "Long Range RWD",
-        "Standard Range RWD",
-        "Techniq AWD",
-        "Ultimate AWD"
+        "RWD",
+        "Elite RWD",
+        "N Line Premium AWD"
       ]
     },
     "Ioniq 5 N": {
@@ -36242,13 +36243,10 @@
         "GT-Line AWD"
       ],
       "2026": [
-        "Air Long Range",
         "Air RWD",
         "Earth AWD",
-        "Earth Long Range",
-        "GT",
-        "GT-Line",
-        "GT-Line AWD"
+        "GT-Line AWD",
+        "GT"
       ]
     },
     "EV6": {
@@ -36292,12 +36290,9 @@
         "GT-Line RWD"
       ],
       "2026": [
-        "Air",
         "Air RWD",
-        "Earth",
-        "GT",
-        "GT-Line AWD",
-        "GT-Line RWD"
+        "GT-Line RWD",
+        "GT"
       ]
     },
     "Seltos": {
@@ -74564,14 +74559,9 @@
         "Koba AWD"
       ],
       "2026": [
-        "AWD",
         "FWD",
-        "GX",
-        "GX FWD",
-        "GXL",
-        "GXL AWD",
-        "GXL FWD",
-        "Koba AWD"
+        "AWD",
+        "Touring AWD"
       ]
     },
     "Alphard": {

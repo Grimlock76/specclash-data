@@ -4631,27 +4631,6 @@
       "quarterMile": "~19.1 sec",
       "aspiration": "NA"
     },
-    "Hyundai|Kona|2026|Hybrid": {
-      "engine": "Kappa 1.6L GDi + 32 kW Motor FWD",
-      "displacement": 1580,
-      "cylinders": 4,
-      "power": 104,
-      "torque": 147,
-      "transmission": "6-speed DCT",
-      "fuelType": "hybrid",
-      "fc": 5,
-      "fh": 4.5,
-      "fx": 4.8,
-      "seats": 5,
-      "weight": 1463,
-      "bodyStyle": "SUV",
-      "price": "~$37,000",
-      "cargo": 374,
-      "acceleration": 10.8,
-      "topSpeed": 175,
-      "quarterMile": "~19.1 sec",
-      "aspiration": "NA"
-    },
     "Kia|Sportage|2022|S Hybrid": {
       "engine": "Smartstream G1.6T-GDi HEV + 44 kW Motor AWD",
       "displacement": 1598,
