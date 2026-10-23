@@ -1718,25 +1718,6 @@
       "price": "~$52,990",
       "aspiration": "Electric"
     },
-    "Hyundai|Kona|2025|Electric": {
-      "engine": "Single Electric Motor",
-      "fuelType": "electric",
-      "battery": "65.4 kWh",
-      "range": 514,
-      "drivetrain": "FWD",
-      "transmission": "Auto",
-      "power": 160,
-      "torque": 255,
-      "weight": 1685,
-      "seats": 5,
-      "fc": null,
-      "fh": null,
-      "fx": null,
-      "acceleration": 7.8,
-      "topSpeed": 162,
-      "price": "~$54,490",
-      "aspiration": "Electric"
-    },
     "Volkswagen|ID.3|2021|Pro": {
       "engine": "Single Electric Motor",
       "fuelType": "electric",
