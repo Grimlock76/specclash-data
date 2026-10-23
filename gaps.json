@@ -1,14 +1,14 @@
 {
   "generated": "2026-10-23",
-  "trims": 43056,
+  "trims": 43054,
   "noEntry": 0,
   "blank": 0,
   "missingFieldCounts": {
     "fuel": 3211,
-    "torque": 107,
-    "0-100": 1424,
-    "price": 114,
-    "weight": 28
+    "weight": 49,
+    "torque": 114,
+    "0-100": 1429,
+    "price": 115
   },
   "byMake": {
     "Acura": {
@@ -41,6 +41,14 @@
       "blank": 0,
       "missing": {
         "fuel": 12
+      }
+    },
+    "Audi": {
+      "trims": 795,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "weight": 5
       }
     },
     "BAC": {
@@ -377,6 +385,16 @@
         "fuel": 11
       }
     },
+    "Mercedes-Benz": {
+      "trims": 1143,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "weight": 12,
+        "torque": 5,
+        "price": 1
+      }
+    },
     "MG": {
       "trims": 349,
       "noEntry": 0,
@@ -573,6 +591,16 @@
       "blank": 0,
       "missing": {
         "fuel": 7
+      }
+    },
+    "Volkswagen": {
+      "trims": 938,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "0-100": 5,
+        "weight": 4,
+        "torque": 2
       }
     },
     "Willys": {
@@ -852,6 +880,11 @@
     {"make":"Auburn","model":"851","year":"1936","trim":"Supercharged Speedster","problem":"missing","fields":["fuel"]},
     {"make":"Auburn","model":"852","year":"1935","trim":"Supercharged Phaeton","problem":"missing","fields":["fuel"]},
     {"make":"Auburn","model":"852","year":"1936","trim":"Supercharged Phaeton","problem":"missing","fields":["fuel"]},
+    {"make":"Audi","model":"Q5","year":"2026","trim":"TFSI 150kW","problem":"missing","fields":["weight"]},
+    {"make":"Audi","model":"Q5","year":"2026","trim":"TDI 150kW","problem":"missing","fields":["weight"]},
+    {"make":"Audi","model":"Q5","year":"2026","trim":"TDI 150kW sport","problem":"missing","fields":["weight"]},
+    {"make":"Audi","model":"Q5","year":"2026","trim":"e-hybrid 270kW","problem":"missing","fields":["weight"]},
+    {"make":"Audi","model":"Q5","year":"2026","trim":"TFSI 200kW sport","problem":"missing","fields":["weight"]},
     {"make":"BAC","model":"Mono","year":"2011","trim":"Standard","problem":"missing","fields":["fuel"]},
     {"make":"BAC","model":"Mono","year":"2012","trim":"Standard","problem":"missing","fields":["fuel"]},
     {"make":"BAC","model":"Mono","year":"2013","trim":"Standard","problem":"missing","fields":["fuel"]},
@@ -4519,6 +4552,20 @@
     {"make":"McLaren","model":"765LT","year":"2020","trim":"Spider","problem":"missing","fields":["fuel"]},
     {"make":"McLaren","model":"765LT","year":"2022","trim":"Coupe","problem":"missing","fields":["fuel"]},
     {"make":"McLaren","model":"765LT","year":"2022","trim":"Spider","problem":"missing","fields":["fuel"]},
+    {"make":"Mercedes-Benz","model":"A-Class","year":"2026","trim":"A200","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"A-Class","year":"2026","trim":"A200 Special Edition","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"A-Class","year":"2026","trim":"A250 Special Edition","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"A-Class","year":"2026","trim":"A35 AMG Edition R","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"A-Class","year":"2026","trim":"A45 S AMG Edition R+","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"C-Class","year":"2026","trim":"C200","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"C-Class","year":"2026","trim":"C300","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"C-Class","year":"2026","trim":"C300 AMG Line Plus Edition","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"C-Class","year":"2026","trim":"C350 e","problem":"missing","fields":["torque","weight"]},
+    {"make":"Mercedes-Benz","model":"C-Class","year":"2026","trim":"C400 electric","problem":"missing","fields":["torque","price"]},
+    {"make":"Mercedes-Benz","model":"C-Class","year":"2026","trim":"C63 S AMG E Performance","problem":"missing","fields":["torque"]},
+    {"make":"Mercedes-Benz","model":"E-Class","year":"2026","trim":"E300 AMG Night Edition","problem":"missing","fields":["weight"]},
+    {"make":"Mercedes-Benz","model":"E-Class","year":"2026","trim":"E53 AMG","problem":"missing","fields":["torque","weight"]},
+    {"make":"Mercedes-Benz","model":"E-Class","year":"2026","trim":"E53 AMG Dark Carbon Edition","problem":"missing","fields":["torque","weight"]},
     {"make":"MG","model":"ZS","year":"2026","trim":"Vibe","problem":"missing","fields":["0-100"]},
     {"make":"MG","model":"ZS","year":"2026","trim":"Excite Turbo","problem":"missing","fields":["0-100"]},
     {"make":"MG","model":"ZS","year":"2026","trim":"Vibe Turbo","problem":"missing","fields":["0-100"]},
@@ -5172,6 +5219,13 @@
     {"make":"Vector","model":"W8","year":"1993","trim":"Twin Turbo","problem":"missing","fields":["fuel"]},
     {"make":"Vector","model":"M12","year":"1995","trim":"V12","problem":"missing","fields":["fuel"]},
     {"make":"Vector","model":"M12","year":"1996","trim":"V12","problem":"missing","fields":["fuel"]},
+    {"make":"Volkswagen","model":"Golf","year":"2026","trim":"110TSI Life","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Volkswagen","model":"Golf","year":"2026","trim":"110TSI Style","problem":"missing","fields":["0-100"]},
+    {"make":"Volkswagen","model":"Golf","year":"2026","trim":"110TSI R-Line","problem":"missing","fields":["0-100"]},
+    {"make":"Volkswagen","model":"Tiguan","year":"2026","trim":"110TSI Life","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Volkswagen","model":"Tiguan","year":"2026","trim":"110TSI Elegance","problem":"missing","fields":["0-100"]},
+    {"make":"Volkswagen","model":"Tiguan","year":"2026","trim":"150TSI eHybrid Elegance","problem":"missing","fields":["torque","weight"]},
+    {"make":"Volkswagen","model":"Tiguan","year":"2026","trim":"200TSI eHybrid R-Line","problem":"missing","fields":["torque","weight"]},
     {"make":"Willys","model":"MB","year":"1941","trim":"Military","problem":"missing","fields":["0-100","fuel"]},
     {"make":"Willys","model":"CJ-2A","year":"1945","trim":"Base","problem":"missing","fields":["0-100","fuel"]},
     {"make":"Willys","model":"CJ-2A","year":"1946","trim":"Base","problem":"missing","fields":["0-100","fuel"]},

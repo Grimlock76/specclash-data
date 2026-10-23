@@ -95,25 +95,6 @@
       "price": "~$70,990",
       "aspiration": "IHI Single-Turbo"
     },
-    "Volkswagen|Golf|2026|R": {
-      "engine": "2.0L 4-cyl TSI 4MOTION",
-      "fuelType": "petrol",
-      "displacement": 1984,
-      "cylinders": 4,
-      "drivetrain": "AWD",
-      "transmission": "7-spd DSG",
-      "power": 235,
-      "torque": 420,
-      "weight": 1570,
-      "seats": 5,
-      "fc": null,
-      "fh": null,
-      "fx": 8,
-      "acceleration": 4.7,
-      "topSpeed": 270,
-      "price": "~$72,490",
-      "aspiration": "IHI Single-Turbo"
-    },
     "Volkswagen|Touareg|2021|Touareg R": {
       "engine": "3.0L V6 TSI PHEV 4MOTION",
       "fuelType": "hybrid",

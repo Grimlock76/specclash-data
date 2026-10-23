@@ -3726,11 +3726,11 @@
         "55 TFSI e quattro"
       ],
       "2026": [
-        "TFSI",
-        "TDI quattro",
-        "TDI quattro sport",
-        "TFSI quattro sport",
-        "e-hybrid quattro"
+        "TFSI 150kW",
+        "TDI 150kW",
+        "TDI 150kW sport",
+        "e-hybrid 270kW",
+        "TFSI 200kW sport"
       ]
     },
     "Q7": {
@@ -45638,11 +45638,11 @@
         "A45 S AMG"
       ],
       "2026": [
-        "A180",
         "A200",
-        "A250",
-        "A35 AMG",
-        "A45 S AMG"
+        "A200 Special Edition",
+        "A250 Special Edition",
+        "A35 AMG Edition R",
+        "A45 S AMG Edition R+"
       ]
     },
     "C-Class": {
@@ -45808,12 +45808,14 @@
         "C63 S AMG"
       ],
       "2026": [
-        "AMG C63 S E Performance",
         "C200",
-        "C220d",
         "C300",
+        "C300 AMG Line Plus Edition",
+        "C350 e",
+        "C400 electric",
         "C43 AMG",
-        "C63 S AMG"
+        "C43 AMG Edition R+",
+        "C63 S AMG E Performance"
       ]
     },
     "E-Class": {
@@ -46042,12 +46044,11 @@
         "E400e 4MATIC"
       ],
       "2026": [
-        "AMG E53 4MATIC+",
         "E200",
-        "E220d",
         "E300",
-        "E300e",
-        "E400e 4MATIC"
+        "E300 AMG Night Edition",
+        "E53 AMG",
+        "E53 AMG Dark Carbon Edition"
       ]
     },
     "GLA": {
@@ -77324,10 +77325,9 @@
       ],
       "2026": [
         "110TSI Life",
-        "70TSI Life",
-        "GTE",
+        "110TSI Style",
+        "110TSI R-Line",
         "GTI",
-        "GTI Clubsport",
         "R"
       ]
     },
@@ -77778,15 +77778,13 @@
         "Allspace 162TSI"
       ],
       "2026": [
-        "110TSI Comfortline",
         "110TSI Life",
-        "132TSI Elegance",
-        "132TSI Highline",
-        "140TDI Highline",
-        "162TSI R-Line",
-        "162TSI Sportline",
-        "Allspace 132TSI",
-        "Allspace 162TSI"
+        "110TSI Elegance",
+        "150TSI R-Line",
+        "150TSI Elegance",
+        "150TSI eHybrid Elegance",
+        "195TSI R-Line",
+        "200TSI eHybrid R-Line"
       ]
     },
     "Touareg": {

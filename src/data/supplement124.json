@@ -1009,26 +1009,6 @@
       "price": "~$254,900",
       "aspiration": "IHI Single-Turbo"
     },
-    "Mercedes-Benz|C-Class|2026|AMG C63 S E Performance": {
-      "engine": "2.0L 4-cyl Turbo AMG PHEV",
-      "fuelType": "hybrid",
-      "displacement": 1991,
-      "cylinders": 4,
-      "drivetrain": "AWD",
-      "transmission": "9-spd AMG Speedshift",
-      "power": 500,
-      "torque": 750,
-      "weight": 2110,
-      "seats": 5,
-      "fc": null,
-      "fh": null,
-      "fx": 6.1,
-      "acceleration": 3.4,
-      "topSpeed": 280,
-      "range": 13,
-      "price": "~$257,900",
-      "aspiration": "IHI Single-Turbo"
-    },
     "Volvo|S60|2019|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
       "fuelType": "hybrid",
