@@ -33027,13 +33027,12 @@
         "Highlander"
       ],
       "2024": [
-        "Active",
-        "Calligraphy Hybrid",
-        "Calligraphy PHEV",
-        "Elite",
-        "Elite Hybrid",
-        "Elite PHEV",
-        "Highlander"
+        "Santa Fe",
+        "Elite AWD",
+        "Calligraphy AWD",
+        "Hybrid",
+        "Hybrid Elite AWD",
+        "Hybrid Calligraphy AWD"
       ],
       "2025": [
         "Santa Fe",
@@ -35824,13 +35823,12 @@
         "Sport+"
       ],
       "2024": [
-        "GT-Line Hybrid",
-        "GT-Line PHEV",
-        "GT-Line X",
-        "SLi Hybrid",
-        "Si Hybrid",
-        "Sport",
-        "Sport+"
+        "S Diesel AWD",
+        "Sport Diesel AWD",
+        "Sport+ Diesel AWD",
+        "GT-Line Diesel AWD",
+        "HEV GT-Line",
+        "PHEV GT-Line"
       ],
       "2025": [
         "S Diesel AWD",
@@ -36105,9 +36103,15 @@
         "SLi"
       ],
       "2024": [
-        "Platinum",
+        "S (KA4)",
+        "Si (KA4)",
+        "SLi (KA4)",
+        "Platinum (KA4)",
         "S",
-        "SLi"
+        "Sport",
+        "Sport+",
+        "GT-Line",
+        "GT-Line HEV"
       ],
       "2025": [
         "S",

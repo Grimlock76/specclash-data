@@ -1514,46 +1514,6 @@
       "range": 55,
       "price": "~$74,490",
       "aspiration": "BorgWarner Single-Turbo"
-    },
-    "Hyundai|Santa Fe|2024|Elite PHEV": {
-      "engine": "1.6L 4-cyl T-GDi PHEV",
-      "fuelType": "hybrid",
-      "displacement": 1598,
-      "cylinders": 4,
-      "drivetrain": "AWD",
-      "transmission": "6-spd Auto",
-      "power": 195,
-      "torque": 350,
-      "weight": 2005,
-      "seats": 7,
-      "fc": null,
-      "fh": null,
-      "fx": 1.7,
-      "acceleration": 8.5,
-      "topSpeed": 193,
-      "range": 55,
-      "price": "~$67,990",
-      "aspiration": "BorgWarner Single-Turbo"
-    },
-    "Hyundai|Santa Fe|2024|Calligraphy PHEV": {
-      "engine": "1.6L 4-cyl T-GDi PHEV",
-      "fuelType": "hybrid",
-      "displacement": 1598,
-      "cylinders": 4,
-      "drivetrain": "AWD",
-      "transmission": "6-spd Auto",
-      "power": 195,
-      "torque": 350,
-      "weight": 2005,
-      "seats": 7,
-      "fc": null,
-      "fh": null,
-      "fx": 1.7,
-      "acceleration": 8.5,
-      "topSpeed": 193,
-      "range": 55,
-      "price": "~$75,990",
-      "aspiration": "BorgWarner Single-Turbo"
     }
   }
 }
