@@ -2706,28 +2706,6 @@
       "fx": 3,
       "aspiration": "NA"
     },
-    "Porsche|Cayenne|2025|S": {
-      "engine": "3.0",
-      "displacement": 2994,
-      "cylinders": 6,
-      "power": 348,
-      "torque": 550,
-      "transmission": "8-speed tiptronic",
-      "acceleration": 4.7,
-      "quarterMile": "~13.0 sec",
-      "topSpeed": 266,
-      "fc": 14.8,
-      "fuelType": "premium unleaded",
-      "weight": 2225,
-      "seats": 5,
-      "cargo": 770,
-      "price": "$180,000",
-      "drivetrain": "AWD",
-      "bodyStyle": "SUV",
-      "fh": 7.8,
-      "fx": 10.5,
-      "aspiration": "NA"
-    },
     "Porsche|Macan|2014|S": {
       "engine": "3.0",
       "cylinders": 6,
