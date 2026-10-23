@@ -27440,11 +27440,8 @@
         "Shooting Brake 2.0T"
       ],
       "2026": [
-        "2.0T",
-        "2.0T Sport",
-        "3.3T Sport",
-        "3.3T Sport+",
-        "Shooting Brake 2.0T"
+        "3.3T Signature Sport Sedan",
+        "2.0T Shooting Brake Signature Sport Line"
       ]
     },
     "G80": {
@@ -27504,11 +27501,9 @@
         "Electrified"
       ],
       "2026": [
-        "2.5T",
-        "2.5T Sport",
-        "3.5T",
-        "3.5T Sport+",
-        "Electrified"
+        "2.5T Signature",
+        "3.5T AWD Signature Sport",
+        "Electrified Signature"
       ]
     },
     "G90": {
@@ -27579,10 +27574,12 @@
         "Electrified"
       ],
       "2026": [
-        "2.5T",
-        "2.5T Sport",
-        "3.5T Sport+",
-        "Electrified"
+        "2.5T Advanced",
+        "2.5T Signature",
+        "2.5T Signature Sport",
+        "3.5T Signature",
+        "3.5T Signature Sport",
+        "Electrified Signature Performance"
       ]
     },
     "GV80": {
@@ -27619,11 +27616,9 @@
         "Electrified"
       ],
       "2026": [
-        "2.5T",
-        "2.5T Sport",
-        "3.5T",
-        "3.5T Sport+",
-        "Electrified"
+        "2.5T Signature 7 Seat",
+        "3.5T Signature 7 Seat",
+        "3.5T Black 7 Seat"
       ]
     },
     "GV60": {
@@ -36333,8 +36328,10 @@
       "2026": [
         "S",
         "Sport",
-        "Sport+",
-        "X-Line HEV"
+        "Sport+ FWD",
+        "Sport+ AWD",
+        "GT-Line FWD",
+        "GT-Line AWD"
       ]
     },
     "Niro": {
@@ -36730,10 +36727,12 @@
         "Sport+"
       ],
       "2026": [
-        "GT-Line",
-        "S",
-        "Sport",
-        "Sport+"
+        "S Sedan",
+        "Sport Sedan",
+        "Sport+ Sedan",
+        "GT-Line Sedan",
+        "S Hatch",
+        "GT-Line Hatch"
       ]
     }
   },
