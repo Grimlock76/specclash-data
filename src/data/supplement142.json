@@ -285,25 +285,6 @@
       "price": "~$58,990",
       "aspiration": "BorgWarner Single-Turbo"
     },
-    "Ford|Everest|2024|UB Sport": {
-      "engine": "2.0L Bi-Turbo Diesel I4",
-      "fuelType": "diesel",
-      "displacement": 1996,
-      "cylinders": 4,
-      "drivetrain": "4WD",
-      "transmission": "10-speed auto",
-      "power": 154,
-      "torque": 500,
-      "weight": 2300,
-      "seats": 7,
-      "fc": 9,
-      "fh": 7.2,
-      "fx": 7.9,
-      "acceleration": 10.8,
-      "topSpeed": 178,
-      "price": "~$69,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
-    },
     "Ford|Escape|2023|ZH Titanium": {
       "engine": "2.0L EcoBoost Turbo I4",
       "fuelType": "petrol",
