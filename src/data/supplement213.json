@@ -1,24 +1,5 @@
 {
   "specs": {
-    "Nissan|Navara|2015|PRO-4X": {
-      "engine": "2.3L I4 Biturbo Diesel YD25DDTi",
-      "fuelType": "diesel",
-      "displacement": 2298,
-      "cylinders": 4,
-      "drivetrain": "AWD",
-      "transmission": "7-speed auto",
-      "power": 140,
-      "torque": 450,
-      "weight": 2065,
-      "seats": 5,
-      "fc": 9.9,
-      "fh": 5.9,
-      "fx": 7.5,
-      "acceleration": 10.8,
-      "topSpeed": 183,
-      "price": "~$55,990",
-      "aspiration": "Garrett VGT Diesel Turbo"
-    },
     "Mitsubishi|Triton|2015|Exceed": {
       "engine": "2.4L I4 Turbo Diesel 4N15 MIVEC",
       "fuelType": "diesel",

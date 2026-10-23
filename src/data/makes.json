@@ -10891,8 +10891,9 @@
         "Premium"
       ],
       "2026": [
-        "6",
-        "Premium"
+        "Dynamic",
+        "Premium",
+        "Performance"
       ]
     },
     "Sealion 6": {
@@ -26683,13 +26684,20 @@
         "P703 XLT"
       ],
       "2026": [
-        "P703 FX4 Max",
-        "P703 PHEV Stormtrak",
-        "P703 PHEV XLT",
-        "P703 Raptor",
-        "P703 Wildtrak",
         "P703 XL",
-        "P703 XLT"
+        "P703 XLS",
+        "P703 XLT",
+        "P703 XLT V6",
+        "P703 Sport",
+        "P703 Wildtrak",
+        "P703 Wildtrak V6",
+        "P703 Wolftrak",
+        "P703 Black Edition V6",
+        "P703 Tremor",
+        "P703 Platinum",
+        "P703 Raptor",
+        "P703 PHEV XLT",
+        "P703 PHEV Wildtrak"
       ]
     },
     "Territory": {
@@ -26821,13 +26829,17 @@
         "UB Tremor"
       ],
       "2026": [
+        "Active",
+        "Active V6",
         "Ambiente",
-        "Platinum",
-        "Platinum+",
-        "Sport",
-        "Titanium",
         "Trend",
-        "UB Tremor"
+        "Black Edition",
+        "Sport Bi-Turbo",
+        "Sport",
+        "Wolftrak",
+        "Wildtrak",
+        "Tremor",
+        "Platinum"
       ]
     },
     "Escape": {
@@ -36705,9 +36717,11 @@
         "SX+"
       ],
       "2026": [
-        "GT-Line",
-        "S",
-        "SX+"
+        "S 4x2",
+        "SX",
+        "SX+",
+        "X-Line",
+        "X-Pro"
       ]
     },
     "EV4": {
@@ -44963,9 +44977,13 @@
         "XTR"
       ],
       "2026": [
+        "XS 4x2",
+        "XT 4x2",
+        "XTR 4x2",
+        "Boss",
         "GT",
-        "XT",
-        "XTR"
+        "SP",
+        "Thunder"
       ]
     },
     "MX-30": {
@@ -50670,28 +50688,26 @@
         "GSR"
       ],
       "2024": [
-        "Exceed",
-        "GL",
-        "GLS",
+        "GLX",
         "GLX+",
-        "GSR",
-        "Titan"
+        "GLX-R",
+        "GLS",
+        "GSR"
       ],
       "2025": [
-        "Exceed",
-        "GL",
-        "GLS",
+        "GLX",
         "GLX+",
-        "GSR",
-        "Titan"
+        "GLX-R",
+        "GLS",
+        "GSR"
       ],
       "2026": [
-        "Exceed",
-        "GL",
-        "GLS",
+        "GLX",
         "GLX+",
+        "GLX-R",
+        "GLS",
         "GSR",
-        "Titan"
+        "Raider"
       ]
     },
     "Outlander": {
@@ -54368,32 +54384,26 @@
         "ST-X"
       ],
       "2015": [
-        "PRO-4X",
         "ST",
         "ST-X"
       ],
       "2016": [
-        "PRO-4X",
         "ST",
         "ST-X"
       ],
       "2017": [
-        "PRO-4X",
         "ST",
         "ST-X"
       ],
       "2018": [
-        "PRO-4X",
         "ST",
         "ST-X"
       ],
       "2019": [
-        "PRO-4X",
         "ST",
         "ST-X"
       ],
       "2020": [
-        "PRO-4X",
         "ST",
         "ST-X"
       ],
@@ -71310,11 +71320,8 @@
         "ZR Hybrid"
       ],
       "2026": [
-        "Ascent Sport",
         "Ascent Sport Hybrid",
-        "GR Sport",
-        "SX",
-        "ZR",
+        "SX Hybrid",
         "ZR Hybrid"
       ]
     },
@@ -71571,14 +71578,9 @@
         "SXL Hybrid"
       ],
       "2026": [
-        "Ascent",
         "Ascent Hybrid",
-        "Ascent Sport",
         "Ascent Sport Hybrid",
-        "SX",
-        "SX Hybrid",
-        "SXL",
-        "SXL Hybrid"
+        "SL Hybrid"
       ]
     },
     "Aurion": {
@@ -72124,11 +72126,8 @@
         "Grande Hybrid"
       ],
       "2026": [
-        "GX",
         "GX Hybrid",
-        "GXL",
         "GXL Hybrid",
-        "Grande",
         "Grande Hybrid"
       ]
     },
@@ -72642,24 +72641,18 @@
         "VX"
       ],
       "2024": [
-        "GR Sport Diesel",
-        "GR Sport Hybrid",
         "GX",
         "GXL",
-        "Kakadu",
-        "Sahara Diesel",
-        "Sahara Hybrid",
-        "VX"
+        "VX",
+        "Altitude",
+        "Kakadu"
       ],
       "2025": [
-        "GR Sport Diesel",
-        "GR Sport Hybrid",
         "GX",
         "GXL",
-        "Kakadu",
-        "Sahara Diesel",
-        "Sahara Hybrid",
-        "VX"
+        "VX",
+        "Altitude",
+        "Kakadu"
       ],
       "2026": [
         "GX",

@@ -1,14 +1,14 @@
 {
   "generated": "2026-10-23",
-  "trims": 43052,
+  "trims": 43045,
   "noEntry": 0,
   "blank": 0,
   "missingFieldCounts": {
-    "fuel": 3205,
-    "0-100": 1238,
-    "price": 113,
-    "torque": 42,
-    "weight": 7
+    "fuel": 3206,
+    "0-100": 1314,
+    "price": 114,
+    "weight": 16,
+    "torque": 51
   },
   "byMake": {
     "Acura": {
@@ -65,6 +65,14 @@
       "blank": 0,
       "missing": {
         "fuel": 47
+      }
+    },
+    "BYD": {
+      "trims": 101,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "0-100": 3
       }
     },
     "Chevrolet": {
@@ -149,12 +157,14 @@
       }
     },
     "Ford": {
-      "trims": 813,
+      "trims": 824,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "price": 20,
-        "0-100": 3
+        "price": 21,
+        "0-100": 28,
+        "weight": 8,
+        "fuel": 1
       }
     },
     "FPV": {
@@ -291,6 +301,14 @@
         "fuel": 16
       }
     },
+    "Kia": {
+      "trims": 663,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "0-100": 5
+      }
+    },
     "Lagonda": {
       "trims": 20,
       "noEntry": 0,
@@ -323,6 +341,14 @@
         "fuel": 26
       }
     },
+    "Mazda": {
+      "trims": 847,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "0-100": 7
+      }
+    },
     "McLaren": {
       "trims": 130,
       "noEntry": 0,
@@ -340,10 +366,12 @@
       }
     },
     "Mitsubishi": {
-      "trims": 1339,
+      "trims": 1337,
       "noEntry": 0,
       "blank": 0,
       "missing": {
+        "0-100": 16,
+        "weight": 1,
         "fuel": 22
       }
     },
@@ -364,7 +392,7 @@
       }
     },
     "Nissan": {
-      "trims": 1048,
+      "trims": 1042,
       "noEntry": 0,
       "blank": 0,
       "missing": {
@@ -455,12 +483,12 @@
       }
     },
     "Toyota": {
-      "trims": 2237,
+      "trims": 2220,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "0-100": 33,
-        "torque": 15,
+        "torque": 24,
+        "0-100": 53,
         "fuel": 10,
         "price": 2
       }
@@ -850,6 +878,9 @@
     {"make":"Bugatti","model":"Type 57SC","year":"1938","trim":"Atlantic","problem":"missing","fields":["fuel"]},
     {"make":"Bugatti","model":"Type 57SC","year":"1939","trim":"Atlantic","problem":"missing","fields":["fuel"]},
     {"make":"Bugatti","model":"Type 57SC","year":"1940","trim":"Atlantic","problem":"missing","fields":["fuel"]},
+    {"make":"BYD","model":"Shark","year":"2026","trim":"Dynamic","problem":"missing","fields":["0-100"]},
+    {"make":"BYD","model":"Shark","year":"2026","trim":"Premium","problem":"missing","fields":["0-100"]},
+    {"make":"BYD","model":"Shark","year":"2026","trim":"Performance","problem":"missing","fields":["0-100"]},
     {"make":"Chevrolet","model":"Avalanche","year":"2001","trim":"Base","problem":"missing","fields":["0-100"]},
     {"make":"Chevrolet","model":"Avalanche","year":"2001","trim":"LS","problem":"missing","fields":["0-100"]},
     {"make":"Chevrolet","model":"Avalanche","year":"2001","trim":"LT","problem":"missing","fields":["0-100"]},
@@ -2912,6 +2943,31 @@
     {"make":"Ford","model":"Falcon (FG X)","year":"2016","trim":"XR6","problem":"missing","fields":["0-100"]},
     {"make":"Ford","model":"Falcon (FG X)","year":"2016","trim":"XR6 Turbo","problem":"missing","fields":["0-100"]},
     {"make":"Ford","model":"Falcon (FG X)","year":"2016","trim":"XR8","problem":"missing","fields":["0-100"]},
+    {"make":"Ford","model":"Ranger","year":"2026","trim":"P703 XL","problem":"missing","fields":["0-100","weight","fuel"]},
+    {"make":"Ford","model":"Ranger","year":"2026","trim":"P703 XLS","problem":"missing","fields":["0-100"]},
+    {"make":"Ford","model":"Ranger","year":"2026","trim":"P703 XLT","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Ford","model":"Ranger","year":"2026","trim":"P703 XLT V6","problem":"missing","fields":["0-100"]},
+    {"make":"Ford","model":"Ranger","year":"2026","trim":"P703 Sport","problem":"missing","fields":["0-100"]},
+    {"make":"Ford","model":"Ranger","year":"2026","trim":"P703 Wildtrak","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Ford","model":"Ranger","year":"2026","trim":"P703 Wildtrak V6","problem":"missing","fields":["0-100"]},
+    {"make":"Ford","model":"Ranger","year":"2026","trim":"P703 Wolftrak","problem":"missing","fields":["0-100"]},
+    {"make":"Ford","model":"Ranger","year":"2026","trim":"P703 Black Edition V6","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Ford","model":"Ranger","year":"2026","trim":"P703 Tremor","problem":"missing","fields":["0-100"]},
+    {"make":"Ford","model":"Ranger","year":"2026","trim":"P703 Platinum","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Ford","model":"Ranger","year":"2026","trim":"P703 Raptor","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Ford","model":"Ranger","year":"2026","trim":"P703 PHEV XLT","problem":"missing","fields":["0-100"]},
+    {"make":"Ford","model":"Ranger","year":"2026","trim":"P703 PHEV Wildtrak","problem":"missing","fields":["0-100"]},
+    {"make":"Ford","model":"Everest","year":"2026","trim":"Active","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Ford","model":"Everest","year":"2026","trim":"Active V6","problem":"missing","fields":["0-100"]},
+    {"make":"Ford","model":"Everest","year":"2026","trim":"Ambiente","problem":"missing","fields":["0-100"]},
+    {"make":"Ford","model":"Everest","year":"2026","trim":"Trend","problem":"missing","fields":["0-100"]},
+    {"make":"Ford","model":"Everest","year":"2026","trim":"Black Edition","problem":"missing","fields":["0-100"]},
+    {"make":"Ford","model":"Everest","year":"2026","trim":"Sport Bi-Turbo","problem":"missing","fields":["0-100"]},
+    {"make":"Ford","model":"Everest","year":"2026","trim":"Sport","problem":"missing","fields":["0-100"]},
+    {"make":"Ford","model":"Everest","year":"2026","trim":"Wolftrak","problem":"missing","fields":["0-100","weight","price"]},
+    {"make":"Ford","model":"Everest","year":"2026","trim":"Wildtrak","problem":"missing","fields":["0-100"]},
+    {"make":"Ford","model":"Everest","year":"2026","trim":"Tremor","problem":"missing","fields":["0-100"]},
+    {"make":"Ford","model":"Everest","year":"2026","trim":"Platinum","problem":"missing","fields":["0-100"]},
     {"make":"FPV","model":"GT","year":"2014","trim":"GT F 351","problem":"missing","fields":["0-100"]},
     {"make":"Frazer","model":"Standard","year":"1947","trim":"Sedan","problem":"missing","fields":["torque","fuel"]},
     {"make":"Frazer","model":"Standard","year":"1948","trim":"Sedan","problem":"missing","fields":["torque","fuel"]},
@@ -3374,6 +3430,11 @@
     {"make":"Kaiser","model":"Manhattan","year":"1954","trim":"Sedan","problem":"missing","fields":["torque","fuel"]},
     {"make":"Kaiser","model":"Manhattan","year":"1955","trim":"Sedan","problem":"missing","fields":["torque","fuel"]},
     {"make":"Kaiser","model":"Darrin","year":"1954","trim":"Roadster","problem":"missing","fields":["torque","fuel"]},
+    {"make":"Kia","model":"Tasman","year":"2026","trim":"S 4x2","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"Tasman","year":"2026","trim":"SX","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"Tasman","year":"2026","trim":"SX+","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"Tasman","year":"2026","trim":"X-Line","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"Tasman","year":"2026","trim":"X-Pro","problem":"missing","fields":["0-100"]},
     {"make":"Lagonda","model":"M45","year":"1933","trim":"Tourer","problem":"missing","fields":["fuel"]},
     {"make":"Lagonda","model":"M45","year":"1934","trim":"Tourer","problem":"missing","fields":["fuel"]},
     {"make":"Lagonda","model":"M45","year":"1935","trim":"Tourer","problem":"missing","fields":["fuel"]},
@@ -4307,6 +4368,13 @@
     {"make":"Marmon","model":"Sixteen","year":"1932","trim":"Limousine","problem":"missing","fields":["fuel"]},
     {"make":"Marmon","model":"Sixteen","year":"1933","trim":"Sport Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Marmon","model":"Sixteen","year":"1933","trim":"Limousine","problem":"missing","fields":["fuel"]},
+    {"make":"Mazda","model":"BT-50","year":"2026","trim":"XS 4x2","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"BT-50","year":"2026","trim":"XT 4x2","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"BT-50","year":"2026","trim":"XTR 4x2","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"BT-50","year":"2026","trim":"Boss","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"BT-50","year":"2026","trim":"GT","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"BT-50","year":"2026","trim":"SP","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"BT-50","year":"2026","trim":"Thunder","problem":"missing","fields":["0-100"]},
     {"make":"McLaren","model":"P1","year":"2013","trim":"Standard","problem":"missing","fields":["fuel"]},
     {"make":"McLaren","model":"P1","year":"2014","trim":"Standard","problem":"missing","fields":["fuel"]},
     {"make":"McLaren","model":"P1","year":"2015","trim":"Standard","problem":"missing","fields":["fuel"]},
@@ -4322,6 +4390,22 @@
     {"make":"Mini","model":"Countryman","year":"2022","trim":"Cooper SE","problem":"missing","fields":["fuel"]},
     {"make":"Mini","model":"Countryman","year":"2023","trim":"Cooper SE","problem":"missing","fields":["fuel"]},
     {"make":"Mini","model":"Countryman","year":"2024","trim":"Cooper SE","problem":"missing","fields":["fuel"]},
+    {"make":"Mitsubishi","model":"Triton","year":"2024","trim":"GLX","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Triton","year":"2024","trim":"GLX+","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Triton","year":"2024","trim":"GLX-R","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Triton","year":"2024","trim":"GLS","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Triton","year":"2024","trim":"GSR","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Triton","year":"2025","trim":"GLX","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Triton","year":"2025","trim":"GLX+","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Mitsubishi","model":"Triton","year":"2025","trim":"GLX-R","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Triton","year":"2025","trim":"GLS","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Triton","year":"2025","trim":"GSR","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Triton","year":"2026","trim":"GLX","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Triton","year":"2026","trim":"GLX+","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Triton","year":"2026","trim":"GLX-R","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Triton","year":"2026","trim":"GLS","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Triton","year":"2026","trim":"GSR","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Triton","year":"2026","trim":"Raider","problem":"missing","fields":["0-100"]},
     {"make":"Mitsubishi","model":"i-MiEV","year":"2009","trim":"M","problem":"missing","fields":["fuel"]},
     {"make":"Mitsubishi","model":"i-MiEV","year":"2009","trim":"MiEV","problem":"missing","fields":["fuel"]},
     {"make":"Mitsubishi","model":"i-MiEV","year":"2010","trim":"M","problem":"missing","fields":["fuel"]},
@@ -4818,6 +4902,27 @@
     {"make":"Talbot-Lago","model":"T26 Record","year":"1952","trim":"Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Talbot-Lago","model":"T26 Record","year":"1953","trim":"Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Talbot-Lago","model":"T26 Record","year":"1954","trim":"Sedan","problem":"missing","fields":["fuel"]},
+    {"make":"Toyota","model":"Corolla","year":"2026","trim":"Ascent Sport Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"Corolla","year":"2026","trim":"SX Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"Corolla","year":"2026","trim":"ZR Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"Camry","year":"2026","trim":"Ascent Hybrid","problem":"missing","fields":["torque"]},
+    {"make":"Toyota","model":"Camry","year":"2026","trim":"Ascent Sport Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"Camry","year":"2026","trim":"SL Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"Kluger","year":"2026","trim":"GX Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"Kluger","year":"2026","trim":"GXL Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"Kluger","year":"2026","trim":"Grande Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"Prado","year":"2022","trim":"VX","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"Prado","year":"2023","trim":"VX","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"Prado","year":"2024","trim":"GX","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"Prado","year":"2024","trim":"GXL","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"Prado","year":"2024","trim":"VX","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"Prado","year":"2024","trim":"Altitude","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"Prado","year":"2024","trim":"Kakadu","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"Prado","year":"2025","trim":"GX","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"Prado","year":"2025","trim":"GXL","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"Prado","year":"2025","trim":"VX","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"Prado","year":"2025","trim":"Altitude","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"Prado","year":"2025","trim":"Kakadu","problem":"missing","fields":["0-100"]},
     {"make":"Toyota","model":"Prado","year":"2026","trim":"GX","problem":"missing","fields":["0-100"]},
     {"make":"Toyota","model":"Prado","year":"2026","trim":"GXL","problem":"missing","fields":["0-100"]},
     {"make":"Toyota","model":"Prado","year":"2026","trim":"VX","problem":"missing","fields":["0-100"]},

@@ -734,6 +734,31 @@
     ]
   },
   {
+    "id": "ranger-phev",
+    "makes": [
+      "Ford"
+    ],
+    "models": [
+      "Ranger"
+    ],
+    "years": [
+      2025,
+      2026
+    ],
+    "match": [
+      "PHEV"
+    ],
+    "title": "Ranger PHEV",
+    "base": "Ranger diesel",
+    "summary": "Plug-in hybrid Ranger.",
+    "highlights": [
+      "2.3L turbo petrol plug-in hybrid, 207 kW / 697 Nm system output",
+      "11.8 kWh battery, roughly 50 km electric range",
+      "10-speed automatic, 4WD",
+      "3,500 kg braked towing, same as the diesels"
+    ]
+  },
+  {
     "id": "ranger-wildtrak-px",
     "makes": [
       "Ford"
@@ -3272,6 +3297,586 @@
     "highlights": [
       "3.0L turbo inline-6 (N55), 225 kW / 400 Nm",
       "8-speed automatic"
+    ]
+  },
+  {
+    "id": "rs3-8y",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "RS3",
+      "A3 Sportback"
+    ],
+    "years": [
+      2021,
+      2026
+    ],
+    "match": [
+      "RS3"
+    ],
+    "title": "RS3 (8Y)",
+    "base": "S3",
+    "summary": "Five-cylinder hot hatch, current generation.",
+    "highlights": [
+      "2.5L turbo five-cylinder, 294 kW / 500 Nm",
+      "quattro AWD with RS Torque Splitter rear axle",
+      "7-speed S tronic dual-clutch"
+    ]
+  },
+  {
+    "id": "rs3-8v",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "RS3",
+      "A3 Sportback"
+    ],
+    "years": [
+      2015,
+      2020
+    ],
+    "match": [
+      "RS3"
+    ],
+    "title": "RS3 (8V)",
+    "base": "S3",
+    "summary": "Five-cylinder hot hatch.",
+    "highlights": [
+      "2.5L turbo five-cylinder, 270 kW early, 294 kW from the update",
+      "quattro all-wheel drive",
+      "7-speed S tronic dual-clutch"
+    ]
+  },
+  {
+    "id": "rs3-8p",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "RS3",
+      "A3 Sportback"
+    ],
+    "years": [
+      2011,
+      2013
+    ],
+    "match": [
+      "RS3"
+    ],
+    "title": "RS3 Sportback (8P)",
+    "base": "S3",
+    "summary": "The first RS3.",
+    "highlights": [
+      "2.5L turbo five-cylinder, 250 kW / 450 Nm",
+      "quattro all-wheel drive",
+      "7-speed S tronic dual-clutch"
+    ]
+  },
+  {
+    "id": "rs4-b9",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "RS4"
+    ],
+    "years": [
+      2018,
+      2023
+    ],
+    "match": [
+      "RS4"
+    ],
+    "title": "RS4 Avant (B9)",
+    "base": "S4",
+    "summary": "Twin-turbo V6 super-wagon.",
+    "highlights": [
+      "2.9L twin-turbo V6, 331 kW / 600 Nm",
+      "quattro AWD, 8-speed tiptronic"
+    ]
+  },
+  {
+    "id": "rs4-b8",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "RS4"
+    ],
+    "years": [
+      2012,
+      2016
+    ],
+    "match": [
+      "RS4"
+    ],
+    "title": "RS4 Avant (B8)",
+    "base": "S4",
+    "summary": "Last naturally aspirated V8 RS4.",
+    "highlights": [
+      "4.2L naturally aspirated V8, 331 kW, revs to 8,250 rpm",
+      "quattro AWD, 7-speed S tronic"
+    ]
+  },
+  {
+    "id": "rs4-b7",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "RS4"
+    ],
+    "years": [
+      2004,
+      2008
+    ],
+    "match": [
+      "RS4"
+    ],
+    "title": "RS4 (B7)",
+    "base": "S4",
+    "summary": "High-revving V8 RS4.",
+    "highlights": [
+      "4.2L naturally aspirated V8, 309 kW",
+      "quattro AWD, 6-speed manual"
+    ]
+  },
+  {
+    "id": "rs5-f5",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "RS5"
+    ],
+    "years": [
+      2017,
+      2026
+    ],
+    "match": [
+      "RS5"
+    ],
+    "title": "RS5 (F5)",
+    "base": "S5",
+    "summary": "Twin-turbo V6 RS5.",
+    "highlights": [
+      "2.9L twin-turbo V6, 331 kW / 600 Nm",
+      "quattro AWD, 8-speed tiptronic"
+    ]
+  },
+  {
+    "id": "rs5-8t",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "RS5"
+    ],
+    "years": [
+      2010,
+      2016
+    ],
+    "match": [
+      "RS5"
+    ],
+    "title": "RS5 (8T)",
+    "base": "S5",
+    "summary": "V8 RS5 coupe.",
+    "highlights": [
+      "4.2L naturally aspirated V8, 331 kW",
+      "quattro AWD, 7-speed S tronic"
+    ]
+  },
+  {
+    "id": "rs6-c8",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "RS6"
+    ],
+    "years": [
+      2020,
+      2026
+    ],
+    "match": [
+      "RS6"
+    ],
+    "title": "RS6 Avant (C8)",
+    "base": "S6",
+    "summary": "The family-car flex.",
+    "highlights": [
+      "4.0L twin-turbo V8, 441 kW / 800 Nm (Performance 463 kW)",
+      "quattro AWD, 8-speed tiptronic",
+      "Mild-hybrid 48V system"
+    ]
+  },
+  {
+    "id": "rs6-c7",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "RS6"
+    ],
+    "years": [
+      2013,
+      2019
+    ],
+    "match": [
+      "RS6"
+    ],
+    "title": "RS6 Avant (C7)",
+    "base": "S6",
+    "summary": "Twin-turbo V8 RS6.",
+    "highlights": [
+      "4.0L twin-turbo V8, 412 kW (Performance 445 kW)",
+      "quattro AWD, 8-speed tiptronic"
+    ]
+  },
+  {
+    "id": "rs6-c6",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "RS6"
+    ],
+    "years": [
+      2007,
+      2011
+    ],
+    "match": [
+      "RS6"
+    ],
+    "title": "RS6 Avant (C6)",
+    "base": "S6",
+    "summary": "The V10 RS6.",
+    "highlights": [
+      "5.0L twin-turbo V10, 426 kW",
+      "quattro AWD, 6-speed tiptronic"
+    ]
+  },
+  {
+    "id": "rs7-c8",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "RS7"
+    ],
+    "years": [
+      2020,
+      2026
+    ],
+    "match": [
+      "RS7"
+    ],
+    "title": "RS7 (C8)",
+    "base": "S7",
+    "summary": "Sportback version of the RS6.",
+    "highlights": [
+      "4.0L twin-turbo V8, 441 kW / 800 Nm (Performance 463 kW)",
+      "quattro AWD, 8-speed tiptronic"
+    ]
+  },
+  {
+    "id": "rs7-c7",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "RS7"
+    ],
+    "years": [
+      2014,
+      2019
+    ],
+    "match": [
+      "RS7"
+    ],
+    "title": "RS7 (C7)",
+    "base": "S7",
+    "summary": "Twin-turbo V8 Sportback.",
+    "highlights": [
+      "4.0L twin-turbo V8, 412 kW (Performance 445 kW)",
+      "quattro AWD, 8-speed tiptronic"
+    ]
+  },
+  {
+    "id": "rsq3-f3",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "RS Q3"
+    ],
+    "years": [
+      2020,
+      2026
+    ],
+    "match": [
+      "RS Q3"
+    ],
+    "title": "RS Q3 (F3)",
+    "base": "Q3",
+    "summary": "Five-cylinder performance SUV.",
+    "highlights": [
+      "2.5L turbo five-cylinder, 294 kW / 480 Nm",
+      "quattro AWD, 7-speed S tronic"
+    ]
+  },
+  {
+    "id": "rsq3-8u",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "RS Q3"
+    ],
+    "years": [
+      2014,
+      2018
+    ],
+    "match": [
+      "RS Q3"
+    ],
+    "title": "RS Q3 (8U)",
+    "base": "Q3",
+    "summary": "The first RS SUV.",
+    "highlights": [
+      "2.5L turbo five-cylinder (228–250 kW depending on year)",
+      "quattro AWD, 7-speed S tronic"
+    ]
+  },
+  {
+    "id": "rsq8",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "RS Q8"
+    ],
+    "match": [
+      "^RS Q8$"
+    ],
+    "title": "RS Q8",
+    "base": "SQ8",
+    "summary": "V8 performance SUV.",
+    "highlights": [
+      "4.0L twin-turbo V8, 441 kW / 800 Nm (later Performance 471 kW)",
+      "quattro AWD, 8-speed tiptronic",
+      "Mild-hybrid 48V with active anti-roll"
+    ]
+  },
+  {
+    "id": "rs-etron-gt-perf",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "e-tron GT"
+    ],
+    "match": [
+      "RS e-tron GT Performance"
+    ],
+    "title": "RS e-tron GT Performance",
+    "base": "RS e-tron GT",
+    "summary": "Updated flagship electric RS.",
+    "highlights": [
+      "Dual-motor AWD electric, up to 680 kW with launch control",
+      "Two-speed rear gearbox"
+    ]
+  },
+  {
+    "id": "rs-etron-gt",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "e-tron GT"
+    ],
+    "match": [
+      "RS e-tron GT"
+    ],
+    "title": "RS e-tron GT",
+    "base": "e-tron GT",
+    "summary": "Audi's electric RS (Taycan relative).",
+    "highlights": [
+      "Dual-motor AWD electric, up to 475 kW with launch control (2021–24)",
+      "Two-speed rear gearbox"
+    ]
+  },
+  {
+    "id": "tt-rs-8s",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "TT"
+    ],
+    "years": [
+      2017,
+      2023
+    ],
+    "match": [
+      "TT RS"
+    ],
+    "title": "TT RS (8S)",
+    "base": "TTS",
+    "summary": "Five-cylinder TT.",
+    "highlights": [
+      "2.5L turbo five-cylinder, 294 kW / 480 Nm",
+      "quattro AWD, 7-speed S tronic"
+    ]
+  },
+  {
+    "id": "tt-rs-8j",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "TT"
+    ],
+    "years": [
+      2010,
+      2015
+    ],
+    "match": [
+      "TT RS"
+    ],
+    "title": "TT RS (8J)",
+    "base": "TTS",
+    "summary": "First five-cylinder TT RS.",
+    "highlights": [
+      "2.5L turbo five-cylinder, 250 kW",
+      "quattro AWD"
+    ]
+  },
+  {
+    "id": "r8-v10-perf",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "R8"
+    ],
+    "match": [
+      "V10 Performance"
+    ],
+    "title": "R8 V10 Performance",
+    "base": "R8 V10",
+    "summary": "Top second-gen R8.",
+    "highlights": [
+      "5.2L naturally aspirated V10, 449 kW",
+      "Mid-engine, 7-speed S tronic"
+    ]
+  },
+  {
+    "id": "r8-v10-plus",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "R8"
+    ],
+    "match": [
+      "V10 Plus"
+    ],
+    "title": "R8 V10 Plus",
+    "base": "R8 V10",
+    "summary": "Hardcore R8.",
+    "highlights": [
+      "5.2L naturally aspirated V10 (404 kW first gen, 449 kW second gen)",
+      "Mid-engine, quattro AWD"
+    ]
+  },
+  {
+    "id": "r8-v10-gen2",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "R8"
+    ],
+    "years": [
+      2016,
+      2019
+    ],
+    "match": [
+      "^V10$"
+    ],
+    "title": "R8 V10 (Gen 2)",
+    "base": "R8",
+    "summary": "Second-gen R8.",
+    "highlights": [
+      "5.2L naturally aspirated V10, 397 kW",
+      "Mid-engine, quattro AWD, 7-speed S tronic"
+    ]
+  },
+  {
+    "id": "r8-v10-gen1",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "R8"
+    ],
+    "years": [
+      2009,
+      2015
+    ],
+    "match": [
+      "^V10$"
+    ],
+    "title": "R8 V10 (Gen 1)",
+    "base": "R8 V8",
+    "summary": "V10 first-gen R8, shares its engine family with the Gallardo.",
+    "highlights": [
+      "5.2L naturally aspirated V10, 386 kW",
+      "Mid-engine, quattro AWD"
+    ]
+  },
+  {
+    "id": "r8-v8",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "R8"
+    ],
+    "match": [
+      "^V8$"
+    ],
+    "title": "R8 V8",
+    "base": "—",
+    "summary": "The original R8.",
+    "highlights": [
+      "4.2L naturally aspirated V8 (RS4-derived), 309–316 kW",
+      "Mid-engine, quattro AWD",
+      "Gated 6-speed manual or R tronic"
+    ]
+  },
+  {
+    "id": "rs2",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "RS2 Avant"
+    ],
+    "match": [
+      "."
+    ],
+    "title": "RS2 Avant",
+    "base": "S2",
+    "summary": "The original RS, built with Porsche.",
+    "highlights": [
+      "2.2L turbo five-cylinder, 232 kW",
+      "quattro AWD, 6-speed manual",
+      "Assembled by Porsche at Zuffenhausen"
     ]
   }
 ]

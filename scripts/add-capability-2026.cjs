@@ -1,4 +1,6 @@
 // Towing / payload / fuel tank / ground clearance for 2026 4x4s & utes.
+// Historical one-off: several of these trims were later rebuilt in full by
+// gen249–gen253, so missing keys are skipped rather than fatal.
 // Every figure from the Carsales variant spec page (Redbook data), Oct 2026.
 // Left out where Carsales doesn't list it, or where its own numbers disagree
 // (LC300 GR Sport payload: listed 800 kg but GVM 3,280 − kerb 2,620 = 660).
@@ -43,7 +45,7 @@ for (const [file, rows] of Object.entries(PATCH)) {
   const data = JSON.parse(raw)
   for (const [key, vals] of Object.entries(rows)) {
     const s = data.specs[key]
-    if (!s) throw new Error('missing ' + key)
+    if (!s) { console.warn('skip (since replaced by a newer lineup):', key); continue }
     for (const [k, v] of Object.entries(vals)) if (v != null) s[k] = v
   }
   fs.writeFileSync(p, JSON.stringify(data, null, 2) + (raw.endsWith('\n') ? '\n' : ''))
@@ -88,7 +90,7 @@ function apply(file, rows) {
   const data = JSON.parse(raw)
   for (const [key, vals] of Object.entries(rows)) {
     const s = data.specs[key]
-    if (!s) throw new Error('missing ' + key)
+    if (!s) { console.warn('skip (since replaced by a newer lineup):', key); continue }
     for (const [k, v] of Object.entries(vals)) if (v != null) s[k] = v
   }
   fs.writeFileSync(p, JSON.stringify(data, null, 2) + (raw.endsWith('\n') ? '\n' : ''))

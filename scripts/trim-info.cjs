@@ -207,6 +207,13 @@ R('mustang-gt', { makes: ['Ford'], models: ['Mustang'], years: [2015, 2026], mat
     '6-speed manual or automatic (10-speed from 2018)',
     'Brembo front brakes',
   ]);
+R('ranger-phev', { makes: ['Ford'], models: ['Ranger'], years: [2025, 2026], match: ['PHEV'] },
+  'Ranger PHEV', 'Ranger diesel', 'Plug-in hybrid Ranger.', [
+    '2.3L turbo petrol plug-in hybrid, 207 kW / 697 Nm system output',
+    '11.8 kWh battery, roughly 50 km electric range',
+    '10-speed automatic, 4WD',
+    '3,500 kg braked towing, same as the diesels',
+  ]);
 R('ranger-wildtrak-px', { makes: ['Ford'], models: ['Ranger'], years: [2011, 2016], match: ['Wildtrak'] },
   'Ranger Wildtrak (PX)', 'XLT', 'Lifestyle flagship Ranger.', [
     '3.2L five-cylinder turbo-diesel, 147 kW / 470 Nm',
@@ -735,6 +742,75 @@ R('550i', { makes: ['BMW'], models: S5, match: ['550i'] },
   '550i', '535i', 'V8 5 Series.', ['V8: 4.8L (E60), 4.4L twin-turbo N63 (F10, 300–330 kW)']);
 R('535i', { makes: ['BMW'], models: S5, years: [2010, 2017], match: ['535i'] },
   '535i (F10)', '528i', 'Six-cylinder 5 Series.', ['3.0L turbo inline-6 (N55), 225 kW / 400 Nm', '8-speed automatic']);
+
+
+// ───────────────────────── Audi (RS / R8) ─────────────────────────
+const AUDI = ['Audi'];
+const RS3M = ['RS3', 'A3 Sportback'];
+R('rs3-8y', { makes: AUDI, models: RS3M, years: [2021, 2026], match: ['RS3'] },
+  'RS3 (8Y)', 'S3', 'Five-cylinder hot hatch, current generation.', [
+    '2.5L turbo five-cylinder, 294 kW / 500 Nm',
+    'quattro AWD with RS Torque Splitter rear axle',
+    '7-speed S tronic dual-clutch',
+  ]);
+R('rs3-8v', { makes: AUDI, models: RS3M, years: [2015, 2020], match: ['RS3'] },
+  'RS3 (8V)', 'S3', 'Five-cylinder hot hatch.', [
+    '2.5L turbo five-cylinder, 270 kW early, 294 kW from the update',
+    'quattro all-wheel drive',
+    '7-speed S tronic dual-clutch',
+  ]);
+R('rs3-8p', { makes: AUDI, models: RS3M, years: [2011, 2013], match: ['RS3'] },
+  'RS3 Sportback (8P)', 'S3', 'The first RS3.', [
+    '2.5L turbo five-cylinder, 250 kW / 450 Nm',
+    'quattro all-wheel drive',
+    '7-speed S tronic dual-clutch',
+  ]);
+R('rs4-b9', { makes: AUDI, models: ['RS4'], years: [2018, 2023], match: ['RS4'] },
+  'RS4 Avant (B9)', 'S4', 'Twin-turbo V6 super-wagon.', ['2.9L twin-turbo V6, 331 kW / 600 Nm', 'quattro AWD, 8-speed tiptronic']);
+R('rs4-b8', { makes: AUDI, models: ['RS4'], years: [2012, 2016], match: ['RS4'] },
+  'RS4 Avant (B8)', 'S4', 'Last naturally aspirated V8 RS4.', ['4.2L naturally aspirated V8, 331 kW, revs to 8,250 rpm', 'quattro AWD, 7-speed S tronic']);
+R('rs4-b7', { makes: AUDI, models: ['RS4'], years: [2004, 2008], match: ['RS4'] },
+  'RS4 (B7)', 'S4', 'High-revving V8 RS4.', ['4.2L naturally aspirated V8, 309 kW', 'quattro AWD, 6-speed manual']);
+R('rs5-f5', { makes: AUDI, models: ['RS5'], years: [2017, 2026], match: ['RS5'] },
+  'RS5 (F5)', 'S5', 'Twin-turbo V6 RS5.', ['2.9L twin-turbo V6, 331 kW / 600 Nm', 'quattro AWD, 8-speed tiptronic']);
+R('rs5-8t', { makes: AUDI, models: ['RS5'], years: [2010, 2016], match: ['RS5'] },
+  'RS5 (8T)', 'S5', 'V8 RS5 coupe.', ['4.2L naturally aspirated V8, 331 kW', 'quattro AWD, 7-speed S tronic']);
+R('rs6-c8', { makes: AUDI, models: ['RS6'], years: [2020, 2026], match: ['RS6'] },
+  'RS6 Avant (C8)', 'S6', 'The family-car flex.', ['4.0L twin-turbo V8, 441 kW / 800 Nm (Performance 463 kW)', 'quattro AWD, 8-speed tiptronic', 'Mild-hybrid 48V system']);
+R('rs6-c7', { makes: AUDI, models: ['RS6'], years: [2013, 2019], match: ['RS6'] },
+  'RS6 Avant (C7)', 'S6', 'Twin-turbo V8 RS6.', ['4.0L twin-turbo V8, 412 kW (Performance 445 kW)', 'quattro AWD, 8-speed tiptronic']);
+R('rs6-c6', { makes: AUDI, models: ['RS6'], years: [2007, 2011], match: ['RS6'] },
+  'RS6 Avant (C6)', 'S6', 'The V10 RS6.', ['5.0L twin-turbo V10, 426 kW', 'quattro AWD, 6-speed tiptronic']);
+R('rs7-c8', { makes: AUDI, models: ['RS7'], years: [2020, 2026], match: ['RS7'] },
+  'RS7 (C8)', 'S7', 'Sportback version of the RS6.', ['4.0L twin-turbo V8, 441 kW / 800 Nm (Performance 463 kW)', 'quattro AWD, 8-speed tiptronic']);
+R('rs7-c7', { makes: AUDI, models: ['RS7'], years: [2014, 2019], match: ['RS7'] },
+  'RS7 (C7)', 'S7', 'Twin-turbo V8 Sportback.', ['4.0L twin-turbo V8, 412 kW (Performance 445 kW)', 'quattro AWD, 8-speed tiptronic']);
+R('rsq3-f3', { makes: AUDI, models: ['RS Q3'], years: [2020, 2026], match: ['RS Q3'] },
+  'RS Q3 (F3)', 'Q3', 'Five-cylinder performance SUV.', ['2.5L turbo five-cylinder, 294 kW / 480 Nm', 'quattro AWD, 7-speed S tronic']);
+R('rsq3-8u', { makes: AUDI, models: ['RS Q3'], years: [2014, 2018], match: ['RS Q3'] },
+  'RS Q3 (8U)', 'Q3', 'The first RS SUV.', ['2.5L turbo five-cylinder (228–250 kW depending on year)', 'quattro AWD, 7-speed S tronic']);
+R('rsq8', { makes: AUDI, models: ['RS Q8'], match: ['^RS Q8$'] },
+  'RS Q8', 'SQ8', 'V8 performance SUV.', ['4.0L twin-turbo V8, 441 kW / 800 Nm (later Performance 471 kW)', 'quattro AWD, 8-speed tiptronic', 'Mild-hybrid 48V with active anti-roll']);
+R('rs-etron-gt-perf', { makes: AUDI, models: ['e-tron GT'], match: ['RS e-tron GT Performance'] },
+  'RS e-tron GT Performance', 'RS e-tron GT', 'Updated flagship electric RS.', ['Dual-motor AWD electric, up to 680 kW with launch control', 'Two-speed rear gearbox']);
+R('rs-etron-gt', { makes: AUDI, models: ['e-tron GT'], match: ['RS e-tron GT'] },
+  'RS e-tron GT', 'e-tron GT', 'Audi\'s electric RS (Taycan relative).', ['Dual-motor AWD electric, up to 475 kW with launch control (2021–24)', 'Two-speed rear gearbox']);
+R('tt-rs-8s', { makes: AUDI, models: ['TT'], years: [2017, 2023], match: ['TT RS'] },
+  'TT RS (8S)', 'TTS', 'Five-cylinder TT.', ['2.5L turbo five-cylinder, 294 kW / 480 Nm', 'quattro AWD, 7-speed S tronic']);
+R('tt-rs-8j', { makes: AUDI, models: ['TT'], years: [2010, 2015], match: ['TT RS'] },
+  'TT RS (8J)', 'TTS', 'First five-cylinder TT RS.', ['2.5L turbo five-cylinder, 250 kW', 'quattro AWD']);
+R('r8-v10-perf', { makes: AUDI, models: ['R8'], match: ['V10 Performance'] },
+  'R8 V10 Performance', 'R8 V10', 'Top second-gen R8.', ['5.2L naturally aspirated V10, 449 kW', 'Mid-engine, 7-speed S tronic']);
+R('r8-v10-plus', { makes: AUDI, models: ['R8'], match: ['V10 Plus'] },
+  'R8 V10 Plus', 'R8 V10', 'Hardcore R8.', ['5.2L naturally aspirated V10 (404 kW first gen, 449 kW second gen)', 'Mid-engine, quattro AWD']);
+R('r8-v10-gen2', { makes: AUDI, models: ['R8'], years: [2016, 2019], match: ['^V10$'] },
+  'R8 V10 (Gen 2)', 'R8', 'Second-gen R8.', ['5.2L naturally aspirated V10, 397 kW', 'Mid-engine, quattro AWD, 7-speed S tronic']);
+R('r8-v10-gen1', { makes: AUDI, models: ['R8'], years: [2009, 2015], match: ['^V10$'] },
+  'R8 V10 (Gen 1)', 'R8 V8', 'V10 first-gen R8, shares its engine family with the Gallardo.', ['5.2L naturally aspirated V10, 386 kW', 'Mid-engine, quattro AWD']);
+R('r8-v8', { makes: AUDI, models: ['R8'], match: ['^V8$'] },
+  'R8 V8', '—', 'The original R8.', ['4.2L naturally aspirated V8 (RS4-derived), 309–316 kW', 'Mid-engine, quattro AWD', 'Gated 6-speed manual or R tronic']);
+R('rs2', { makes: AUDI, models: ['RS2 Avant'], match: ['.'] },
+  'RS2 Avant', 'S2', 'The original RS, built with Porsche.', ['2.2L turbo five-cylinder, 232 kW', 'quattro AWD, 6-speed manual', 'Assembled by Porsche at Zuffenhausen']);
 
 // Sanity: ids unique, scopes well-formed
 const ids = new Set();

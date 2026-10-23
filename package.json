@@ -8,7 +8,8 @@
     "build": "vite build && node scripts/gen-seo-pages.cjs",
     "lint": "eslint .",
     "preview": "vite preview",
-    "gaps": "node scripts/spec-gaps.cjs"
+    "gaps": "node scripts/spec-gaps.cjs",
+    "sanity": "node scripts/spec-sanity.mjs"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",
