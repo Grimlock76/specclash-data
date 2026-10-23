@@ -10787,8 +10787,8 @@
         "Standard Range"
       ],
       "2025": [
-        "Extended Range",
-        "Standard Range"
+        "Essential",
+        "Premium"
       ],
       "2026": [
         "Essential",
@@ -48066,14 +48066,18 @@
         "Hybrid+"
       ],
       "2025": [
-        "Core",
+        "Vibe",
         "Excite",
-        "Hybrid+"
+        "Essence",
+        "Excite Hybrid+",
+        "Essence Hybrid+"
       ],
       "2026": [
-        "Core",
+        "Vibe",
         "Excite",
-        "Hybrid+"
+        "Essence",
+        "Excite Hybrid+",
+        "Essence Hybrid+"
       ]
     },
     "MG6": {
@@ -48151,10 +48155,13 @@
         "Excite+ Turbo"
       ],
       "2025": [
-        "Essence",
-        "Essence Turbo",
+        "Vibe",
         "Excite",
-        "Excite+ Turbo"
+        "Essence",
+        "Vibe Turbo",
+        "Essence Turbo",
+        "Excite Hybrid+",
+        "Essence Hybrid+"
       ],
       "2026": [
         "Vibe",
@@ -74126,12 +74133,12 @@
         "ZR Hybrid AWD"
       ],
       "2025": [
-        "GX",
         "GX Hybrid",
-        "GXL",
         "GXL Hybrid",
-        "ZR",
-        "ZR Hybrid AWD"
+        "GXL Hybrid AWD",
+        "Atmos Hybrid",
+        "Atmos Hybrid AWD",
+        "GR Sport Hybrid AWD"
       ],
       "2026": [
         "GX Hybrid",
