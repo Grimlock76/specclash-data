@@ -171,25 +171,6 @@
       "price": "~$106,900",
       "aspiration": "BorgWarner VGT Diesel Turbo"
     },
-    "Skoda|Octavia|2025|Ambition": {
-      "engine": "1.5 TSI",
-      "fuelType": "petrol",
-      "displacement": 1498,
-      "cylinders": 4,
-      "drivetrain": "FWD",
-      "transmission": "7-speed DSG",
-      "power": 110,
-      "torque": 250,
-      "weight": 1325,
-      "seats": 5,
-      "fc": 8.8,
-      "fh": 4.8,
-      "fx": 6.3,
-      "acceleration": 8.7,
-      "topSpeed": 213,
-      "price": "~$36,990",
-      "aspiration": "IHI Single-Turbo"
-    },
     "Skoda|Kodiaq|2025|Style": {
       "engine": "2.0 TSI",
       "fuelType": "petrol",
