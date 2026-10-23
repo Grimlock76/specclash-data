@@ -26992,10 +26992,9 @@
         "Select"
       ],
       "2026": [
-        "GT",
+        "Select",
         "Premium",
-        "Premium ER",
-        "Select"
+        "GT"
       ]
     },
     "Bronco": {
@@ -33669,12 +33668,10 @@
         "Trialmaster Petrol"
       ],
       "2026": [
-        "Fieldmaster Diesel",
-        "Fieldmaster Petrol",
-        "Trailmaster Diesel",
-        "Trailmaster Petrol",
+        "Station Wagon Petrol",
+        "Station Wagon Diesel",
         "Trialmaster Diesel",
-        "Trialmaster Petrol"
+        "Fieldmaster Diesel"
       ]
     },
     "Quartermaster": {
@@ -35052,10 +35049,9 @@
         "Rubicon 4dr"
       ],
       "2026": [
-        "392",
-        "4xe",
-        "Rubicon",
-        "Rubicon 4dr"
+        "Unlimited Rewind",
+        "Rubicon 2-door",
+        "Unlimited Rubicon"
       ]
     },
     "Grand Cherokee": {
@@ -40953,9 +40949,8 @@
         "Morizo RR"
       ],
       "2026": [
-        "F Sport",
-        "LBX",
-        "Luxury",
+        "Luxury 2WD",
+        "Sports Luxury 2WD",
         "Morizo RR"
       ]
     },
@@ -45124,11 +45119,12 @@
         "GT SP Diesel"
       ],
       "2026": [
-        "Azami Diesel",
-        "Azami PHEV",
-        "GT Diesel",
-        "GT Petrol",
-        "GT SP Diesel"
+        "G40e Pure",
+        "G40e GT",
+        "D50e Pure",
+        "D50e Azami",
+        "P50e Touring",
+        "P50e Azami"
       ]
     },
     "CX-70": {
@@ -62728,12 +62724,11 @@
         "Warlock"
       ],
       "2026": [
-        "Express",
-        "Laramie",
-        "Limited",
-        "Longhorn",
-        "TRX",
-        "Warlock"
+        "Express Black Edition Hurricane SO",
+        "Rebel Hurricane SO",
+        "Laramie Sport Hurricane SO RamBox",
+        "Laramie Night Hurricane SO RamBox",
+        "Limited Hurricane HO RamBox"
       ]
     },
     "2500": {
@@ -69043,10 +69038,12 @@
         "WRX tS"
       ],
       "2026": [
-        "WRX",
-        "WRX Premium",
-        "WRX SportTech",
-        "WRX tS"
+        "WRX Manual",
+        "RS Manual",
+        "tS",
+        "tS Spec B Manual",
+        "Club Spec Evo Manual",
+        "GT Sportswagon"
       ]
     },
     "WRX STI": {
@@ -73717,10 +73714,9 @@
         "GTS Auto"
       ],
       "2026": [
-        "GR86",
-        "GR86 Premium",
-        "GTS",
-        "GTS Auto"
+        "GT Manual",
+        "GT Auto",
+        "GTS Manual"
       ]
     },
     "Yaris Cross": {

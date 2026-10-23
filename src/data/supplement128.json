@@ -937,25 +937,6 @@
       "price": "~$97,490",
       "aspiration": "NA"
     },
-    "RAM|1500|2026|Warlock": {
-      "engine": "5.7L V8 HEMI",
-      "fuelType": "petrol",
-      "displacement": 5654,
-      "cylinders": 8,
-      "drivetrain": "AWD",
-      "transmission": "8-spd Auto",
-      "power": 291,
-      "torque": 556,
-      "weight": 2350,
-      "seats": 6,
-      "fc": null,
-      "fh": null,
-      "fx": 15.7,
-      "acceleration": 6.5,
-      "topSpeed": 195,
-      "price": "~$98,990",
-      "aspiration": "NA"
-    },
     "Ford|F-150|2022|Lightning": {
       "engine": "Dual Electric Motor Lightning",
       "fuelType": "electric",
