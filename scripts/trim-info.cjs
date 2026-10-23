@@ -635,6 +635,46 @@ R('kia-sli', { makes: ['Kia'], match: ['\\bSLi\\b'] },
   'SLi', 'Si', 'Upper mid grade.', ['Leather-appointed seats', 'More equipment than the Si']);
 
 // ───────────────────────── Volkswagen ─────────────────────────
+R('formentor-vz5', { makes: ['CUPRA'], models: ['Formentor'], years: [2022, 2026], match: ['VZ5'] },
+  'Formentor VZ5', 'VZx', 'Five-cylinder Formentor.', [
+    '2.5L turbo inline-5, 287 kW / 480 Nm',
+    '4Drive all-wheel drive, 7-speed dual-clutch',
+  ]);
+R('formentor-vzx', { makes: ['CUPRA'], models: ['Formentor'], years: [2025, 2026], match: ['^VZx'] },
+  'Formentor VZx', 'V', 'Hot four-cylinder Formentor.', [
+    '2.0L turbo four, 245 kW / 420 Nm',
+    '4Drive all-wheel drive, 7-speed dual-clutch',
+  ]);
+R('defender-octa', { makes: ['Land Rover'], models: ['Defender'], years: [2025, 2026], match: ['OCTA'] },
+  'Defender OCTA', 'Defender V8', 'The most extreme Defender.', [
+    '4.4L twin-turbo V8 (mild hybrid), 467 kW / 750 Nm',
+    '6D Dynamics hydraulically interlinked suspension',
+  ]);
+R('rrs-sv', { makes: ['Land Rover'], models: ['Range Rover Sport'], years: [2024, 2026], match: ['\\bSV\\b'] },
+  'Range Rover Sport SV', 'P530', 'Performance flagship Range Rover Sport.', [
+    '4.4L twin-turbo V8 (mild hybrid), 467 kW / 750 Nm',
+    '6D Dynamics hydraulically interlinked suspension',
+  ]);
+R('lbx-morizo', { makes: ['Lexus'], models: ['LBX'], years: [2025, 2026], match: ['Morizo'] },
+  'LBX Morizo RR', 'LBX', 'GR Yaris engine in a Lexus.', [
+    '1.6L turbo three-cylinder (G16E), 206 kW / 390 Nm',
+    'All-wheel drive',
+  ]);
+R('mache-gt', { makes: ['Ford'], models: ['Mustang Mach-E'], years: [2021, 2026], match: ['^GT$'] },
+  'Mach-E GT', 'Premium', 'Dual-motor performance Mach-E.', [
+    'Dual-motor all-wheel drive',
+    '434 kW / 955 Nm from the 2026 update',
+  ]);
+R('civic-type-r-fl5', { makes: ['Honda'], models: ['Civic'], years: [2023, 2026], match: ['Type R'] },
+  'Civic Type R (FL5)', 'Civic VTi-LX', 'Sixth-gen Type R.', [
+    '2.0L turbo four (K20C1), 235 kW / 420 Nm',
+    '6-speed manual, front-wheel drive',
+  ]);
+R('alfa-qv', { makes: ['Alfa Romeo'], models: ['Giulia', 'Stelvio'], years: [2016, 2026], match: ['Quadrifoglio'] },
+  'Quadrifoglio', 'Veloce', 'Alfa\'s twin-turbo V6 flagship.', [
+    '2.9L twin-turbo V6, 375–382 kW',
+    'Giulia rear-wheel drive; Stelvio Q4 all-wheel drive',
+  ]);
 R('golf-gti-clubsport', { makes: ['Volkswagen'], models: ['Golf'], years: [2021, 2026], match: ['GTI Clubsport'] },
   'Golf GTI Clubsport', 'GTI', 'Track-leaning Mk8 GTI.', [
     '2.0L turbo four (EA888), 221 kW',
@@ -695,6 +735,51 @@ R('vw-comfortline', { makes: ['Volkswagen'], match: ['Comfortline'] },
 
 // ───────────────────────── BMW ─────────────────────────
 const S3 = ['3 Series'], S5 = ['5 Series'];
+R('m3-cs-g80', { makes: ['BMW'], models: ['M3', '3 Series'], years: [2023, 2026], match: ['^(M3 )?CS$'] },
+  'M3 CS (G80)', 'M3 Competition', 'Lighter, harder M3.', [
+    '3.0L twin-turbo inline-6 (S58), 405 kW / 650 Nm',
+    'M xDrive all-wheel drive, carbon-fibre bonnet and roof',
+  ]);
+R('m3-g80-comp-m', { makes: ['BMW'], models: ['M3'], years: [2021, 2026], match: ['^(Touring )?Competition'] },
+  'M3 Competition (G80/G81)', 'M3', 'The current M3 sedan and Touring.', [
+    '3.0L twin-turbo inline-6 (S58), 375–390 kW',
+    '8-speed M Steptronic; M xDrive all-wheel drive available',
+  ]);
+R('m4-cs-g82', { makes: ['BMW'], models: ['M4', '4 Series'], years: [2024, 2026], match: ['\\bCS\\b'] },
+  'M4 CS (G82)', 'M4 Competition', 'Lightweight, track-focused M4.', [
+    '3.0L twin-turbo inline-6 (S58), 405 kW / 650 Nm',
+    'M xDrive all-wheel drive',
+  ]);
+R('m4-g82-comp', { makes: ['BMW'], models: ['M4', '4 Series'], years: [2021, 2026], match: ['M4 Competition', '^Competition'] },
+  'M4 Competition (G82/G83)', 'M440i', 'Coupe and convertible M4, turned up.', [
+    '3.0L twin-turbo inline-6 (S58), 375 kW (390 kW from the 2025 update)',
+    '8-speed M Steptronic; M xDrive all-wheel drive',
+  ]);
+R('m4-g82', { makes: ['BMW'], models: ['M4', '4 Series'], years: [2021, 2026], match: ['^M4( Coupe)?( Manual)?$'] },
+  'M4 (G82)', 'M440i', 'The rear-drive, manual M4.', [
+    '3.0L twin-turbo inline-6 (S58), 353 kW / 550 Nm',
+    '6-speed manual, rear-wheel drive',
+  ]);
+R('x1-m35i', { makes: ['BMW'], models: ['X1'], years: [2023, 2026], match: ['M35i'] },
+  'M35i xDrive', 'xDrive20i', 'Hot compact BMW SUV.', [
+    '2.0L turbo four, 221 kW / 400 Nm',
+    '7-speed dual-clutch, xDrive all-wheel drive',
+  ]);
+R('x2-m35i', { makes: ['BMW'], models: ['X2'], years: [2024, 2026], match: ['M35i'] },
+  'M35i xDrive (U10)', 'xDrive20i', 'Hot compact BMW coupe-SUV.', [
+    '2.0L turbo four, 221 kW / 400 Nm',
+    '7-speed dual-clutch, xDrive all-wheel drive',
+  ]);
+R('m235-f74', { makes: ['BMW'], models: ['2 Series Gran Coupe'], years: [2025, 2026], match: ['^M235 xDrive$'] },
+  'M235 xDrive (F74)', '220', 'Current-gen performance Gran Coupe.', [
+    '2.0L turbo four, 233 kW / 400 Nm',
+    '7-speed dual-clutch, xDrive all-wheel drive',
+  ]);
+R('m235i-f44', { makes: ['BMW'], models: ['2 Series Gran Coupe'], years: [2020, 2025], match: ['M235i'] },
+  'M235i xDrive (F44)', '220i', 'First-gen performance Gran Coupe.', [
+    '2.0L turbo four (B48), 225 kW / 450 Nm',
+    '8-speed auto, xDrive all-wheel drive',
+  ]);
 R('m3-g80-comp', { makes: ['BMW'], models: S3, years: [2021, 2026], match: ['M3 Competition'] },
   'M3 Competition (G80)', 'M3', 'The current M3, turned up.', [
     '3.0L twin-turbo inline-6 (S58), 375–390 kW',
