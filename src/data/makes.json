@@ -28834,10 +28834,12 @@
         "Ultra"
       ],
       "2026": [
-        "Hybrid Ultra",
-        "Lux",
         "Premium",
-        "Ultra"
+        "Vanta",
+        "Premium Hybrid",
+        "Lux Hybrid",
+        "Ultra Hybrid",
+        "Vanta Hybrid"
       ]
     },
     "Ute": {
@@ -48294,11 +48296,13 @@
         "PHEV Trophy"
       ],
       "2026": [
-        "Essence",
+        "Vibe",
         "Excite",
-        "PHEV",
-        "PHEV Essence",
-        "PHEV Trophy"
+        "Essence",
+        "Hybrid+ Excite",
+        "Hybrid+ Essence",
+        "Super Hybrid Excite",
+        "Super Hybrid Essence"
       ]
     },
     "MG4": {
@@ -48322,9 +48326,7 @@
       ],
       "2026": [
         "Essence 64",
-        "Excite 51",
-        "Excite 64",
-        "X-Power"
+        "XPOWER"
       ]
     },
     "Cyberster": {
@@ -48690,9 +48692,13 @@
         "Vibe"
       ],
       "2026": [
-        "Essence",
+        "Vibe",
         "Excite",
-        "Vibe"
+        "Essence",
+        "Hybrid+ Excite",
+        "Hybrid+ Essence",
+        "Super Hybrid Excite",
+        "Super Hybrid Essence"
       ]
     }
   },
@@ -49203,16 +49209,10 @@
         "SE Electric"
       ],
       "2026": [
-        "Cooper",
-        "Cooper D",
-        "Cooper E",
-        "Cooper S",
-        "Cooper SE",
-        "E Electric",
-        "JCW",
-        "One",
-        "S Petrol",
-        "SE Electric"
+        "C Core 5D",
+        "S Classic 5D",
+        "JCW Classic 3D",
+        "SE Favoured 3D"
       ]
     },
     "Convertible": {
@@ -49529,10 +49529,12 @@
         "SE ALL4"
       ],
       "2026": [
-        "Cooper",
-        "Cooper S ALL4",
-        "E",
-        "SE ALL4"
+        "C Core",
+        "C Classic",
+        "S ALL4 Classic",
+        "JCW ALL4",
+        "E Classic",
+        "SE ALL4 Classic"
       ]
     },
     "Electric": {

@@ -653,6 +653,16 @@ R('golf-gti', { makes: ['Volkswagen'], models: ['Golf'], match: ['\\bGTI\\b'] },
     'Manual or DSG dual-clutch',
     'Sports suspension and tartan seats',
   ]);
+R('mini-jcw-hatch', { makes: ['Mini'], models: ['Hatch'], years: [2024, 2026], match: ['^JCW (Classic|Favoured)'] },
+  'John Cooper Works', 'Cooper', 'Hot-hatch flagship of the MINI Cooper range.', [
+    '2.0L turbo four, 170 kW / 380 Nm',
+    '7-speed dual-clutch, front-wheel drive',
+  ]);
+R('mini-jcw-countryman', { makes: ['Mini'], models: ['Countryman'], years: [2024, 2026], match: ['^JCW'] },
+  'John Cooper Works ALL4', 'Countryman', 'Performance flagship Countryman.', [
+    '2.0L turbo four, 221 kW / 400 Nm',
+    'ALL4 all-wheel drive',
+  ]);
 R('polo-gti', { makes: ['Volkswagen'], models: ['Polo'], match: ['\\bGTI\\b'] },
   'Polo GTI', 'Polo', 'Pocket-sized GTI.', [
     'Turbo petrol: 1.8T, 1.4 twincharger, 1.8 TSI, then 2.0 TSI (147 kW) from 2018',

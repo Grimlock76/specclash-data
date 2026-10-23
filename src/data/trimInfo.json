@@ -2557,6 +2557,52 @@
     ]
   },
   {
+    "id": "mini-jcw-hatch",
+    "makes": [
+      "Mini"
+    ],
+    "models": [
+      "Hatch"
+    ],
+    "years": [
+      2024,
+      2026
+    ],
+    "match": [
+      "^JCW (Classic|Favoured)"
+    ],
+    "title": "John Cooper Works",
+    "base": "Cooper",
+    "summary": "Hot-hatch flagship of the MINI Cooper range.",
+    "highlights": [
+      "2.0L turbo four, 170 kW / 380 Nm",
+      "7-speed dual-clutch, front-wheel drive"
+    ]
+  },
+  {
+    "id": "mini-jcw-countryman",
+    "makes": [
+      "Mini"
+    ],
+    "models": [
+      "Countryman"
+    ],
+    "years": [
+      2024,
+      2026
+    ],
+    "match": [
+      "^JCW"
+    ],
+    "title": "John Cooper Works ALL4",
+    "base": "Countryman",
+    "summary": "Performance flagship Countryman.",
+    "highlights": [
+      "2.0L turbo four, 221 kW / 400 Nm",
+      "ALL4 all-wheel drive"
+    ]
+  },
+  {
     "id": "polo-gti",
     "makes": [
       "Volkswagen"
