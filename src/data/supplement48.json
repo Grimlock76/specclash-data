@@ -682,28 +682,6 @@
       "quarterMile": "~13.2 sec",
       "aspiration": "NA"
     },
-    "Mercedes-Benz|S-Class|2026|S 500": {
-      "engine": "3.0",
-      "displacement": 2999,
-      "cylinders": 6,
-      "power": 320,
-      "torque": 520,
-      "transmission": "9-speed automatic",
-      "acceleration": 4.9,
-      "topSpeed": 250,
-      "fc": 13.4,
-      "fuelType": "hybrid",
-      "weight": 2265,
-      "seats": 5,
-      "cargo": 510,
-      "price": "$355,000",
-      "drivetrain": "AWD",
-      "bodyStyle": "Sedan",
-      "fh": 9,
-      "fx": 11,
-      "quarterMile": "~13.2 sec",
-      "aspiration": "NA"
-    },
     "Mercedes-Benz|B-Class|2005|B 170": {
       "engine": "1.7",
       "displacement": 1700,
