@@ -28813,12 +28813,14 @@
         "Ultra"
       ],
       "2025": [
-        "HEV",
-        "Hybrid Ultra",
-        "Lux",
-        "PHEV",
         "Premium",
-        "Ultra"
+        "Lux",
+        "Ultra",
+        "Vanta",
+        "Premium Hybrid",
+        "Lux Hybrid",
+        "Ultra Hybrid",
+        "Vanta Hybrid"
       ],
       "2026": [
         "Premium",
@@ -28888,8 +28890,11 @@
         "Ultra PHEV"
       ],
       "2026": [
-        "Adventure",
-        "Lux",
+        "Lux Diesel",
+        "Ultra Petrol",
+        "Ultra Diesel",
+        "Ultra Hybrid",
+        "Lux PHEV",
         "Ultra PHEV"
       ]
     },
