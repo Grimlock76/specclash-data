@@ -50773,13 +50773,20 @@
         "PHEV LS"
       ],
       "2024": [
-        "ES",
-        "Exceed",
-        "LS",
-        "PHEV",
+        "ES 2WD",
+        "ES AWD",
+        "LS 2WD",
+        "LS AWD",
+        "Black Edition 2WD",
+        "Aspire 2WD",
+        "Aspire AWD",
+        "Exceed AWD",
+        "Exceed Tourer AWD",
         "PHEV ES",
+        "PHEV Aspire",
         "PHEV Exceed",
-        "PHEV LS"
+        "PHEV Exceed Tourer",
+        "PHEV GSR"
       ],
       "2025": [
         "ES 2WD",
@@ -54506,13 +54513,13 @@
       ],
       "2024": [
         "ST",
-        "ST e-Power",
         "ST-L",
-        "ST-L e-Power",
-        "Ti",
-        "Ti e-Power",
-        "Ti-L",
-        "Ti-L e-4ORCE"
+        "N-TREK",
+        "Ti 4WD",
+        "Ti-L 4WD",
+        "ST-L e-POWER",
+        "Ti e-POWER",
+        "Ti-L e-POWER"
       ],
       "2025": [
         "ST",
