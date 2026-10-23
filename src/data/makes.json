@@ -10889,10 +10889,9 @@
         "Premium FWD"
       ],
       "2026": [
-        "PHEV",
-        "PHEV AWD",
-        "Premium AWD",
-        "Premium FWD"
+        "Essential",
+        "Dynamic Extended Range",
+        "Premium Extended Range AWD"
       ]
     },
     "Sealion 7": {
@@ -18789,10 +18788,8 @@
         "VZ5"
       ],
       "2026": [
-        "1.4 e-Hybrid",
-        "V1",
-        "VZ",
-        "VZ 2.0 TSI 4Drive",
+        "V",
+        "VZx",
         "VZ5"
       ]
     },
@@ -32463,11 +32460,10 @@
         "Standard"
       ],
       "2026": [
-        "Fastback",
-        "N",
-        "N Performance",
-        "Performance",
-        "Standard"
+        "N Manual",
+        "N DCT",
+        "N Premium Manual",
+        "N Premium DCT"
       ]
     },
     "Elantra": {
@@ -33430,10 +33426,8 @@
         "Premium"
       ],
       "2026": [
-        "AWD Performance",
-        "Calligraphy",
-        "Calligraphy AWD",
-        "Premium"
+        "Calligraphy AWD 7 Seat",
+        "Calligraphy AWD 6 Seat"
       ]
     },
     "Kona N": {
@@ -60181,10 +60175,10 @@
         "Standard Range"
       ],
       "2026": [
-        "BST Edition 270",
-        "Long Range AWD",
+        "Standard Range Single Motor",
         "Long Range Single Motor",
-        "Standard Range"
+        "Long Range Dual Motor",
+        "Long Range Dual Motor Performance Pack"
       ]
     },
     "3": {
@@ -60247,8 +60241,10 @@
         "Long Range Single Motor"
       ],
       "2026": [
+        "Standard Range Single Motor",
+        "Long Range Single Motor",
         "Long Range Dual Motor",
-        "Long Range Single Motor"
+        "Long Range Dual Motor Performance Pack"
       ]
     },
     "Polestar 3": {
