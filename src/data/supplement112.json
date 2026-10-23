@@ -4494,24 +4494,6 @@
       "aspiration": "BorgWarner Twin-Turbo",
       "fx": 3.5
     },
-    "McLaren|Artura|2026|Coupe": {
-      "engine": "3.0L V6 Twin-Turbo PHEV",
-      "displacement": 2993,
-      "cylinders": 6,
-      "power": 500,
-      "torque": 720,
-      "transmission": "8sp DCT",
-      "drivetrain": "RWD",
-      "acceleration": 3,
-      "topSpeed": 330,
-      "range": 30,
-      "fuelType": "hybrid",
-      "weight": 1498,
-      "seats": 2,
-      "price": "~$431,990",
-      "aspiration": "BorgWarner Twin-Turbo",
-      "fx": 3.5
-    },
     "McLaren|GT|2020|GT": {
       "engine": "4.0L V8 Twin-Turbo",
       "displacement": 3994,

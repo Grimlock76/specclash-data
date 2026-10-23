@@ -202,26 +202,6 @@
       "price": "~$459,900",
       "aspiration": "BorgWarner Twin-Turbo"
     },
-    "McLaren|Artura|2026|Spider": {
-      "engine": "3.0L V6 Twin-Turbo + Electric",
-      "fuelType": "hybrid",
-      "displacement": 2993,
-      "cylinders": 6,
-      "drivetrain": "RWD",
-      "transmission": "8-speed SSG",
-      "power": 500,
-      "torque": 720,
-      "weight": 1440,
-      "seats": 2,
-      "range": 30,
-      "fc": 13.8,
-      "fh": 7.4,
-      "fx": 9.8,
-      "acceleration": 3,
-      "topSpeed": 330,
-      "price": "~$479,900",
-      "aspiration": "BorgWarner Twin-Turbo"
-    },
     "Lamborghini|Urus|2024|SE": {
       "engine": "4.0L V8 Twin-Turbo + Electric",
       "fuelType": "hybrid",
