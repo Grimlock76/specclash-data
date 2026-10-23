@@ -1,14 +1,14 @@
 {
   "generated": "2026-10-23",
-  "trims": 43045,
+  "trims": 43060,
   "noEntry": 0,
   "blank": 0,
   "missingFieldCounts": {
     "fuel": 3206,
-    "0-100": 1314,
+    "0-100": 1377,
     "price": 114,
-    "weight": 16,
-    "torque": 51
+    "weight": 24,
+    "torque": 71
   },
   "byMake": {
     "Acura": {
@@ -268,6 +268,14 @@
         "fuel": 97
       }
     },
+    "Hyundai": {
+      "trims": 863,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "0-100": 13
+      }
+    },
     "Imperial": {
       "trims": 60,
       "noEntry": 0,
@@ -302,11 +310,13 @@
       }
     },
     "Kia": {
-      "trims": 663,
+      "trims": 668,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "0-100": 5
+        "0-100": 24,
+        "torque": 11,
+        "weight": 7
       }
     },
     "Lagonda": {
@@ -342,11 +352,11 @@
       }
     },
     "Mazda": {
-      "trims": 847,
+      "trims": 852,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "0-100": 7
+        "0-100": 16
       }
     },
     "McLaren": {
@@ -366,12 +376,13 @@
       }
     },
     "Mitsubishi": {
-      "trims": 1337,
+      "trims": 1340,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "0-100": 16,
+        "0-100": 26,
         "weight": 1,
+        "torque": 4,
         "fuel": 22
       }
     },
@@ -396,7 +407,7 @@
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "0-100": 13,
+        "0-100": 21,
         "weight": 6,
         "price": 6,
         "fuel": 6
@@ -474,12 +485,29 @@
         "fuel": 30
       }
     },
+    "Suzuki": {
+      "trims": 314,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "0-100": 4
+      }
+    },
     "Talbot-Lago": {
       "trims": 22,
       "noEntry": 0,
       "blank": 0,
       "missing": {
         "fuel": 22
+      }
+    },
+    "Tesla": {
+      "trims": 158,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "torque": 5,
+        "weight": 1
       }
     },
     "Toyota": {
@@ -3324,6 +3352,19 @@
     {"make":"Hummer","model":"H3","year":"2010","trim":"H3 Alpha","problem":"missing","fields":["fuel"]},
     {"make":"Hummer","model":"H3","year":"2010","trim":"H3T","problem":"missing","fields":["fuel"]},
     {"make":"Hummer","model":"H3","year":"2010","trim":"H3x","problem":"missing","fields":["fuel"]},
+    {"make":"Hyundai","model":"Tucson","year":"2026","trim":"Tucson","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Tucson","year":"2026","trim":"Elite","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Tucson","year":"2026","trim":"Hybrid","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Tucson","year":"2026","trim":"Elite Hybrid","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Tucson","year":"2026","trim":"Elite Hybrid N Line","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Tucson","year":"2026","trim":"Premium Hybrid AWD","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Tucson","year":"2026","trim":"Premium Hybrid N Line AWD","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Santa Fe","year":"2026","trim":"Santa Fe","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Santa Fe","year":"2026","trim":"Elite","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Santa Fe","year":"2026","trim":"Calligraphy","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Santa Fe","year":"2026","trim":"Hybrid","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Santa Fe","year":"2026","trim":"Hybrid Elite AWD","problem":"missing","fields":["0-100"]},
+    {"make":"Hyundai","model":"Santa Fe","year":"2026","trim":"Hybrid Calligraphy AWD","problem":"missing","fields":["0-100"]},
     {"make":"Imperial","model":"Newport","year":"1955","trim":"Hardtop","problem":"missing","fields":["fuel"]},
     {"make":"Imperial","model":"Newport","year":"1956","trim":"Hardtop","problem":"missing","fields":["fuel"]},
     {"make":"Imperial","model":"Crown","year":"1957","trim":"Hardtop","problem":"missing","fields":["fuel"]},
@@ -3430,6 +3471,25 @@
     {"make":"Kaiser","model":"Manhattan","year":"1954","trim":"Sedan","problem":"missing","fields":["torque","fuel"]},
     {"make":"Kaiser","model":"Manhattan","year":"1955","trim":"Sedan","problem":"missing","fields":["torque","fuel"]},
     {"make":"Kaiser","model":"Darrin","year":"1954","trim":"Roadster","problem":"missing","fields":["torque","fuel"]},
+    {"make":"Kia","model":"Sportage","year":"2026","trim":"S Diesel AWD","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"Sportage","year":"2026","trim":"SX Diesel AWD","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"Sportage","year":"2026","trim":"SX+ Diesel AWD","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"Sportage","year":"2026","trim":"GT-Line Diesel AWD","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"Sportage","year":"2026","trim":"HEV S AWD","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Kia","model":"Sportage","year":"2026","trim":"HEV SX AWD","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Kia","model":"Sportage","year":"2026","trim":"HEV GT-Line AWD","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Kia","model":"Sorento","year":"2026","trim":"S","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"Sorento","year":"2026","trim":"Sport","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"Sorento","year":"2026","trim":"Sport+","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"Sorento","year":"2026","trim":"GT-Line","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"Sorento","year":"2026","trim":"HEV S","problem":"missing","fields":["torque","0-100","weight"]},
+    {"make":"Kia","model":"Sorento","year":"2026","trim":"HEV Sport","problem":"missing","fields":["torque","0-100","weight"]},
+    {"make":"Kia","model":"Sorento","year":"2026","trim":"HEV Sport+","problem":"missing","fields":["torque","0-100","weight"]},
+    {"make":"Kia","model":"Sorento","year":"2026","trim":"HEV GT-Line","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Kia","model":"Sorento","year":"2026","trim":"PHEV S","problem":"missing","fields":["torque","0-100","weight"]},
+    {"make":"Kia","model":"Sorento","year":"2026","trim":"PHEV Sport","problem":"missing","fields":["torque","0-100","weight"]},
+    {"make":"Kia","model":"Sorento","year":"2026","trim":"PHEV Sport+","problem":"missing","fields":["torque","0-100","weight"]},
+    {"make":"Kia","model":"Sorento","year":"2026","trim":"PHEV GT-Line","problem":"missing","fields":["torque","0-100","weight"]},
     {"make":"Kia","model":"Tasman","year":"2026","trim":"S 4x2","problem":"missing","fields":["0-100"]},
     {"make":"Kia","model":"Tasman","year":"2026","trim":"SX","problem":"missing","fields":["0-100"]},
     {"make":"Kia","model":"Tasman","year":"2026","trim":"SX+","problem":"missing","fields":["0-100"]},
@@ -4368,6 +4428,15 @@
     {"make":"Marmon","model":"Sixteen","year":"1932","trim":"Limousine","problem":"missing","fields":["fuel"]},
     {"make":"Marmon","model":"Sixteen","year":"1933","trim":"Sport Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Marmon","model":"Sixteen","year":"1933","trim":"Limousine","problem":"missing","fields":["fuel"]},
+    {"make":"Mazda","model":"CX-5","year":"2026","trim":"G20 Maxx","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-5","year":"2026","trim":"G25 Maxx Sport","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-5","year":"2026","trim":"G25 Pure","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-5","year":"2026","trim":"G25 Evolve","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-5","year":"2026","trim":"G25 Touring","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-5","year":"2026","trim":"G25 GT SP","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-5","year":"2026","trim":"G25 Akera","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-5","year":"2026","trim":"G35 GT SP","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-5","year":"2026","trim":"G35 Akera","problem":"missing","fields":["0-100"]},
     {"make":"Mazda","model":"BT-50","year":"2026","trim":"XS 4x2","problem":"missing","fields":["0-100"]},
     {"make":"Mazda","model":"BT-50","year":"2026","trim":"XT 4x2","problem":"missing","fields":["0-100"]},
     {"make":"Mazda","model":"BT-50","year":"2026","trim":"XTR 4x2","problem":"missing","fields":["0-100"]},
@@ -4406,6 +4475,16 @@
     {"make":"Mitsubishi","model":"Triton","year":"2026","trim":"GLS","problem":"missing","fields":["0-100"]},
     {"make":"Mitsubishi","model":"Triton","year":"2026","trim":"GSR","problem":"missing","fields":["0-100"]},
     {"make":"Mitsubishi","model":"Triton","year":"2026","trim":"Raider","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Outlander","year":"2026","trim":"ES","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Outlander","year":"2026","trim":"LS","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Outlander","year":"2026","trim":"Black Edition","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Outlander","year":"2026","trim":"Aspire","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Outlander","year":"2026","trim":"Exceed","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Outlander","year":"2026","trim":"Exceed Tourer","problem":"missing","fields":["0-100"]},
+    {"make":"Mitsubishi","model":"Outlander","year":"2026","trim":"PHEV ES","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Mitsubishi","model":"Outlander","year":"2026","trim":"PHEV Aspire","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Mitsubishi","model":"Outlander","year":"2026","trim":"PHEV Exceed","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Mitsubishi","model":"Outlander","year":"2026","trim":"PHEV Exceed Tourer","problem":"missing","fields":["torque","0-100"]},
     {"make":"Mitsubishi","model":"i-MiEV","year":"2009","trim":"M","problem":"missing","fields":["fuel"]},
     {"make":"Mitsubishi","model":"i-MiEV","year":"2009","trim":"MiEV","problem":"missing","fields":["fuel"]},
     {"make":"Mitsubishi","model":"i-MiEV","year":"2010","trim":"M","problem":"missing","fields":["fuel"]},
@@ -4519,6 +4598,14 @@
     {"make":"Nissan","model":"Navara","year":"2026","trim":"ST","problem":"missing","fields":["0-100"]},
     {"make":"Nissan","model":"Navara","year":"2026","trim":"ST-X","problem":"missing","fields":["0-100"]},
     {"make":"Nissan","model":"Navara","year":"2026","trim":"PRO-4X","problem":"missing","fields":["0-100"]},
+    {"make":"Nissan","model":"X-Trail","year":"2026","trim":"ST","problem":"missing","fields":["0-100"]},
+    {"make":"Nissan","model":"X-Trail","year":"2026","trim":"ST-L","problem":"missing","fields":["0-100"]},
+    {"make":"Nissan","model":"X-Trail","year":"2026","trim":"Rock Creek","problem":"missing","fields":["0-100"]},
+    {"make":"Nissan","model":"X-Trail","year":"2026","trim":"Ti","problem":"missing","fields":["0-100"]},
+    {"make":"Nissan","model":"X-Trail","year":"2026","trim":"Ti-L","problem":"missing","fields":["0-100"]},
+    {"make":"Nissan","model":"X-Trail","year":"2026","trim":"ST-L e-POWER","problem":"missing","fields":["0-100"]},
+    {"make":"Nissan","model":"X-Trail","year":"2026","trim":"Ti e-POWER","problem":"missing","fields":["0-100"]},
+    {"make":"Nissan","model":"X-Trail","year":"2026","trim":"Ti-L e-POWER","problem":"missing","fields":["0-100"]},
     {"make":"Noble","model":"M12 GTO","year":"2000","trim":"3R","problem":"missing","fields":["fuel"]},
     {"make":"Noble","model":"M12 GTO","year":"2001","trim":"3R","problem":"missing","fields":["fuel"]},
     {"make":"Noble","model":"M12 GTO","year":"2002","trim":"3R","problem":"missing","fields":["fuel"]},
@@ -4880,6 +4967,10 @@
     {"make":"Stutz","model":"DV-32","year":"1932","trim":"Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Stutz","model":"DV-32","year":"1933","trim":"Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Stutz","model":"DV-32","year":"1934","trim":"Sedan","problem":"missing","fields":["fuel"]},
+    {"make":"Suzuki","model":"Jimny","year":"2026","trim":"Lite","problem":"missing","fields":["0-100"]},
+    {"make":"Suzuki","model":"Jimny","year":"2026","trim":"3-door Auto","problem":"missing","fields":["0-100"]},
+    {"make":"Suzuki","model":"Jimny","year":"2026","trim":"XL Auto","problem":"missing","fields":["0-100"]},
+    {"make":"Suzuki","model":"Jimny","year":"2026","trim":"XL Rhino","problem":"missing","fields":["0-100"]},
     {"make":"Talbot-Lago","model":"T26 Grand Sport","year":"1937","trim":"Coupe","problem":"missing","fields":["fuel"]},
     {"make":"Talbot-Lago","model":"T26 Grand Sport","year":"1937","trim":"Cabriolet","problem":"missing","fields":["fuel"]},
     {"make":"Talbot-Lago","model":"T26 Grand Sport","year":"1938","trim":"Coupe","problem":"missing","fields":["fuel"]},
@@ -4902,6 +4993,11 @@
     {"make":"Talbot-Lago","model":"T26 Record","year":"1952","trim":"Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Talbot-Lago","model":"T26 Record","year":"1953","trim":"Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Talbot-Lago","model":"T26 Record","year":"1954","trim":"Sedan","problem":"missing","fields":["fuel"]},
+    {"make":"Tesla","model":"Model 3","year":"2026","trim":"Performance","problem":"missing","fields":["torque"]},
+    {"make":"Tesla","model":"Model Y","year":"2026","trim":"Long Range AWD","problem":"missing","fields":["torque"]},
+    {"make":"Tesla","model":"Model Y","year":"2026","trim":"Premium Long Range AWD","problem":"missing","fields":["torque"]},
+    {"make":"Tesla","model":"Model Y","year":"2026","trim":"L Premium AWD","problem":"missing","fields":["torque","weight"]},
+    {"make":"Tesla","model":"Model Y","year":"2026","trim":"Performance","problem":"missing","fields":["torque"]},
     {"make":"Toyota","model":"Corolla","year":"2026","trim":"Ascent Sport Hybrid","problem":"missing","fields":["torque","0-100"]},
     {"make":"Toyota","model":"Corolla","year":"2026","trim":"SX Hybrid","problem":"missing","fields":["torque","0-100"]},
     {"make":"Toyota","model":"Corolla","year":"2026","trim":"ZR Hybrid","problem":"missing","fields":["torque","0-100"]},

@@ -10829,8 +10829,8 @@
         "Standard Range"
       ],
       "2026": [
-        "Extended Range",
-        "Standard Range"
+        "Essential",
+        "Premium"
       ]
     },
     "Seal": {
@@ -32951,13 +32951,13 @@
         "Highlander PHEV"
       ],
       "2026": [
-        "Active",
+        "Tucson",
         "Elite",
+        "Hybrid",
         "Elite Hybrid",
-        "Elite PHEV",
-        "Highlander",
-        "Highlander Hybrid",
-        "Highlander PHEV"
+        "Elite Hybrid N Line",
+        "Premium Hybrid AWD",
+        "Premium Hybrid N Line AWD"
       ]
     },
     "Santa Fe": {
@@ -33075,13 +33075,12 @@
         "Highlander"
       ],
       "2026": [
-        "Active",
-        "Calligraphy Hybrid",
-        "Calligraphy PHEV",
+        "Santa Fe",
         "Elite",
-        "Elite Hybrid",
-        "Elite PHEV",
-        "Highlander"
+        "Calligraphy",
+        "Hybrid",
+        "Hybrid Elite AWD",
+        "Hybrid Calligraphy AWD"
       ]
     },
     "Kona": {
@@ -35775,13 +35774,13 @@
         "Sport"
       ],
       "2026": [
-        "GT-Line",
-        "GT-Line Hybrid",
-        "GT-Line PHEV",
-        "Platinum",
-        "S Hybrid",
-        "SX Hybrid",
-        "Sport"
+        "S Diesel AWD",
+        "SX Diesel AWD",
+        "SX+ Diesel AWD",
+        "GT-Line Diesel AWD",
+        "HEV S AWD",
+        "HEV SX AWD",
+        "HEV GT-Line AWD"
       ]
     },
     "Sorento": {
@@ -35894,13 +35893,18 @@
         "Sport+"
       ],
       "2026": [
-        "GT-Line Hybrid",
-        "GT-Line PHEV",
-        "GT-Line X",
-        "SLi Hybrid",
-        "Si Hybrid",
+        "S",
         "Sport",
-        "Sport+"
+        "Sport+",
+        "GT-Line",
+        "HEV S",
+        "HEV Sport",
+        "HEV Sport+",
+        "HEV GT-Line",
+        "PHEV S",
+        "PHEV Sport",
+        "PHEV Sport+",
+        "PHEV GT-Line"
       ]
     },
     "Rio": {
@@ -44734,10 +44738,15 @@
         "Touring"
       ],
       "2026": [
-        "Akera",
-        "GT",
-        "Maxx",
-        "Touring"
+        "G20 Maxx",
+        "G25 Maxx Sport",
+        "G25 Pure",
+        "G25 Evolve",
+        "G25 Touring",
+        "G25 GT SP",
+        "G25 Akera",
+        "G35 GT SP",
+        "G35 Akera"
       ]
     },
     "CX-8": {
@@ -50858,12 +50867,15 @@
       ],
       "2026": [
         "ES",
-        "Exceed",
         "LS",
-        "PHEV",
+        "Black Edition",
+        "Aspire",
+        "Exceed",
+        "Exceed Tourer",
         "PHEV ES",
+        "PHEV Aspire",
         "PHEV Exceed",
-        "PHEV LS"
+        "PHEV Exceed Tourer"
       ]
     },
     "ASX": {
@@ -54591,13 +54603,13 @@
       ],
       "2026": [
         "ST",
-        "ST e-Power",
         "ST-L",
-        "ST-L e-Power",
+        "Rock Creek",
         "Ti",
-        "Ti e-Power",
         "Ti-L",
-        "Ti-L e-4ORCE"
+        "ST-L e-POWER",
+        "Ti e-POWER",
+        "Ti-L e-POWER"
       ]
     },
     "Pathfinder": {
@@ -70289,10 +70301,10 @@
         "Lite"
       ],
       "2026": [
-        "5-door",
-        "JLX",
-        "JLX-L",
-        "Lite"
+        "Lite",
+        "3-door Auto",
+        "XL Auto",
+        "XL Rhino"
       ]
     },
     "Grand Vitara": {
@@ -70812,9 +70824,11 @@
         "RWD"
       ],
       "2026": [
-        "Long Range AWD",
-        "Performance",
-        "RWD"
+        "Rear-Wheel Drive",
+        "Premium Rear-Wheel Drive",
+        "Long Range RWD",
+        "Premium Long Range RWD",
+        "Performance"
       ]
     },
     "Model Y": {
@@ -70855,11 +70869,12 @@
         "Rear-Wheel Drive"
       ],
       "2026": [
-        "Long Range 7-Seat",
+        "Rear-Wheel Drive",
+        "Premium Rear-Wheel Drive",
         "Long Range AWD",
-        "Performance",
-        "RWD",
-        "Rear-Wheel Drive"
+        "Premium Long Range AWD",
+        "L Premium AWD",
+        "Performance"
       ]
     },
     "Model S": {
