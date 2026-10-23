@@ -152,25 +152,6 @@
       "price": "~$494,900",
       "aspiration": "IHI Single-Turbo"
     },
-    "Porsche|911|2025|Carrera GTS": {
-      "engine": "3.0 Flat-6 Turbo",
-      "fuelType": "petrol",
-      "displacement": 2981,
-      "cylinders": 6,
-      "drivetrain": "AWD",
-      "transmission": "8-speed PDK",
-      "power": 398,
-      "torque": 570,
-      "weight": 1510,
-      "seats": 2,
-      "fc": 16,
-      "fh": 9.5,
-      "fx": 12,
-      "acceleration": 3.3,
-      "topSpeed": 312,
-      "price": "~$294,000",
-      "aspiration": "Single-Turbo"
-    },
     "Porsche|Taycan|2025|Taycan Turbo GT": {
       "engine": "Electric Quad Motor",
       "fuelType": "electric",
