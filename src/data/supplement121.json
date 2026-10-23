@@ -2128,25 +2128,6 @@
       "price": "~$44,490",
       "aspiration": "NA"
     },
-    "Toyota|Corolla|2025|GR Sport": {
-      "engine": "2.0L 4-cyl Dynamic Force Hybrid",
-      "fuelType": "hybrid",
-      "displacement": 1987,
-      "cylinders": 4,
-      "drivetrain": "FWD",
-      "transmission": "CVT",
-      "power": 135,
-      "torque": 190,
-      "weight": 1470,
-      "seats": 5,
-      "fc": null,
-      "fh": null,
-      "fx": 4.4,
-      "acceleration": 7.5,
-      "topSpeed": 180,
-      "price": "~$45,490",
-      "aspiration": "NA"
-    },
     "Porsche|Macan|2024|4 Electric": {
       "engine": "Dual Electric Motor",
       "fuelType": "electric",

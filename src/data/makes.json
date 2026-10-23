@@ -34397,16 +34397,13 @@
         "X-Terrain"
       ],
       "2025": [
-        "LS",
-        "LS-U",
-        "RG LS-M Crew Cab",
-        "RG LS-T Crew Cab",
-        "RG LS-U Crew Cab",
-        "RG X-Terrain Crew Cab",
         "SX",
-        "SX Crew Cab",
-        "SX Space Cab",
-        "X-Terrain"
+        "LS-M",
+        "X-Rider",
+        "LS-U",
+        "LS-U+",
+        "X-Terrain",
+        "Blade"
       ],
       "2026": [
         "SX",
@@ -34494,11 +34491,9 @@
         "X-Terrain"
       ],
       "2025": [
-        "LS-T",
+        "LS-M",
         "LS-U",
-        "RG LS-M",
-        "RG LS-T",
-        "RG LS-U",
+        "LS-T",
         "X-Terrain"
       ],
       "2026": [
@@ -71211,12 +71206,12 @@
         "ZR Hybrid"
       ],
       "2025": [
-        "Ascent Sport",
-        "Ascent Sport Hybrid",
-        "GR Sport",
-        "SX",
-        "ZR",
-        "ZR Hybrid"
+        "Ascent Sport Hybrid Hatch",
+        "SX Hybrid Hatch",
+        "ZR Hybrid Hatch",
+        "Ascent Sport Hybrid Sedan",
+        "SX Hybrid Sedan",
+        "ZR Hybrid Sedan"
       ],
       "2026": [
         "Ascent Sport Hybrid",
@@ -71467,14 +71462,9 @@
         "SXL Hybrid"
       ],
       "2025": [
-        "Ascent",
         "Ascent Hybrid",
-        "Ascent Sport",
         "Ascent Sport Hybrid",
-        "SX",
-        "SX Hybrid",
-        "SXL",
-        "SXL Hybrid"
+        "SL Hybrid"
       ],
       "2026": [
         "Ascent Hybrid",
@@ -72013,11 +72003,8 @@
         "Grande Hybrid"
       ],
       "2025": [
-        "GX",
         "GX Hybrid",
-        "GXL",
         "GXL Hybrid",
-        "Grande",
         "Grande Hybrid"
       ],
       "2026": [
