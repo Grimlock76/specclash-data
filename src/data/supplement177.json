@@ -341,25 +341,6 @@
       "topSpeed": 250,
       "price": "~$250,000",
       "aspiration": "NA"
-    },
-    "Suzuki|Jimny|2023|5-door": {
-      "engine": "1.5L I4 NA",
-      "fuelType": "petrol",
-      "displacement": 1462,
-      "cylinders": 4,
-      "drivetrain": "AWD",
-      "transmission": "4-speed auto",
-      "power": 75,
-      "torque": 130,
-      "weight": 1135,
-      "seats": 5,
-      "fc": 8.9,
-      "fh": 5.6,
-      "fx": 6.9,
-      "acceleration": 14,
-      "topSpeed": 145,
-      "price": "~$36,990",
-      "aspiration": "NA"
     }
   }
 }
