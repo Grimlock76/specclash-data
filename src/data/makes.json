@@ -10856,11 +10856,9 @@
         "Standard Range RWD"
       ],
       "2026": [
-        "AWD Performance",
-        "Long Range RWD",
-        "RWD Extended Range",
-        "RWD Standard Range",
-        "Standard Range RWD"
+        "Dynamic",
+        "Premium",
+        "Performance"
       ]
     },
     "Dolphin": {
@@ -10926,8 +10924,8 @@
         "Standard Range"
       ],
       "2026": [
-        "Long Range AWD",
-        "Standard Range"
+        "Premium",
+        "Performance"
       ]
     },
     "Han": {
@@ -36167,9 +36165,14 @@
         "SLi"
       ],
       "2026": [
-        "Platinum",
         "S",
-        "SLi"
+        "Sport",
+        "Sport+",
+        "GT-Line Lite",
+        "GT-Line",
+        "S HEV",
+        "Sport+ HEV",
+        "GT-Line HEV"
       ]
     },
     "Stinger": {
@@ -43938,10 +43941,12 @@
         "G25 GT"
       ],
       "2026": [
-        "Astina",
-        "G20 Evolve",
         "G20 Pure",
-        "G25 GT"
+        "G20 Evolve",
+        "G20 Touring",
+        "G25 Evolve SP",
+        "G25 GT",
+        "G25 Astina"
       ]
     },
     "6": {
@@ -45120,11 +45125,14 @@
         "X20 Astina"
       ],
       "2026": [
-        "Astute",
-        "Evolve",
-        "GT",
-        "Pure",
-        "X20 Astina"
+        "G20 Pure",
+        "G20 Evolve",
+        "G20 Touring",
+        "G20 Touring LE",
+        "G20 Astina",
+        "G25 Touring",
+        "G25 GT SP",
+        "G25 Astina"
       ]
     },
     "CX-80": {
@@ -48203,10 +48211,12 @@
         "Excite+ Turbo"
       ],
       "2026": [
-        "Essence",
+        "Vibe",
+        "Excite Turbo",
+        "Vibe Turbo",
         "Essence Turbo",
-        "Excite",
-        "Excite+ Turbo"
+        "Excite Hybrid+",
+        "Essence Hybrid+"
       ]
     },
     "ZS EV": {
@@ -69548,8 +69558,12 @@
       ],
       "2026": [
         "2.5i",
-        "2.5i Premium",
-        "2.5i-S Sport"
+        "Premium",
+        "Sport",
+        "Touring",
+        "Hybrid",
+        "Hybrid Sport",
+        "Hybrid Touring"
       ]
     },
     "Liberty": {
@@ -71715,13 +71729,9 @@
         "Koba PHEV"
       ],
       "2026": [
-        "GX",
-        "GX Hybrid",
-        "GXL",
         "GXL Hybrid",
-        "GXL PHEV",
-        "Koba",
-        "Koba PHEV"
+        "Koba Hybrid",
+        "GR Sport Hybrid AWD"
       ]
     },
     "Echo": {
@@ -73798,13 +73808,13 @@
         "ZR Hybrid AWD"
       ],
       "2026": [
-        "GR Sport",
-        "GX",
         "GX Hybrid",
-        "GXL",
+        "GX Hybrid AWD",
         "GXL Hybrid",
-        "ZR",
-        "ZR Hybrid AWD"
+        "GXL Hybrid AWD",
+        "Urban Hybrid",
+        "Urban Hybrid AWD",
+        "GR Sport Hybrid"
       ]
     },
     "Cressida": {
@@ -74271,12 +74281,10 @@
         "ZR Hybrid AWD"
       ],
       "2026": [
-        "GX",
         "GX Hybrid",
-        "GXL",
         "GXL Hybrid",
-        "ZR",
-        "ZR Hybrid AWD"
+        "Atmos Hybrid",
+        "GR Sport Hybrid AWD"
       ]
     },
     "GR Corolla": {

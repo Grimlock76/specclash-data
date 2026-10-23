@@ -1,14 +1,14 @@
 {
   "generated": "2026-10-23",
-  "trims": 43060,
+  "trims": 43068,
   "noEntry": 0,
   "blank": 0,
   "missingFieldCounts": {
-    "fuel": 3206,
-    "0-100": 1377,
+    "fuel": 3209,
+    "torque": 94,
+    "0-100": 1424,
     "price": 114,
-    "weight": 24,
-    "torque": 71
+    "weight": 28
   },
   "byMake": {
     "Acura": {
@@ -68,10 +68,11 @@
       }
     },
     "BYD": {
-      "trims": 101,
+      "trims": 99,
       "noEntry": 0,
       "blank": 0,
       "missing": {
+        "torque": 1,
         "0-100": 3
       }
     },
@@ -310,13 +311,13 @@
       }
     },
     "Kia": {
-      "trims": 668,
+      "trims": 673,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "0-100": 24,
-        "torque": 11,
-        "weight": 7
+        "0-100": 32,
+        "torque": 14,
+        "weight": 8
       }
     },
     "Lagonda": {
@@ -352,11 +353,11 @@
       }
     },
     "Mazda": {
-      "trims": 852,
+      "trims": 857,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "0-100": 16
+        "0-100": 30
       }
     },
     "McLaren": {
@@ -365,6 +366,15 @@
       "blank": 0,
       "missing": {
         "fuel": 11
+      }
+    },
+    "MG": {
+      "trims": 349,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "0-100": 4,
+        "torque": 2
       }
     },
     "Mini": {
@@ -485,6 +495,15 @@
         "fuel": 30
       }
     },
+    "Subaru": {
+      "trims": 653,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "0-100": 7,
+        "torque": 3
+      }
+    },
     "Suzuki": {
       "trims": 314,
       "noEntry": 0,
@@ -511,13 +530,14 @@
       }
     },
     "Toyota": {
-      "trims": 2220,
+      "trims": 2214,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "torque": 24,
-        "0-100": 53,
-        "fuel": 10,
+        "torque": 38,
+        "0-100": 67,
+        "weight": 3,
+        "fuel": 13,
         "price": 2
       }
     },
@@ -906,6 +926,7 @@
     {"make":"Bugatti","model":"Type 57SC","year":"1938","trim":"Atlantic","problem":"missing","fields":["fuel"]},
     {"make":"Bugatti","model":"Type 57SC","year":"1939","trim":"Atlantic","problem":"missing","fields":["fuel"]},
     {"make":"Bugatti","model":"Type 57SC","year":"1940","trim":"Atlantic","problem":"missing","fields":["fuel"]},
+    {"make":"BYD","model":"Seal","year":"2026","trim":"Performance","problem":"missing","fields":["torque"]},
     {"make":"BYD","model":"Shark","year":"2026","trim":"Dynamic","problem":"missing","fields":["0-100"]},
     {"make":"BYD","model":"Shark","year":"2026","trim":"Premium","problem":"missing","fields":["0-100"]},
     {"make":"BYD","model":"Shark","year":"2026","trim":"Performance","problem":"missing","fields":["0-100"]},
@@ -3490,6 +3511,14 @@
     {"make":"Kia","model":"Sorento","year":"2026","trim":"PHEV Sport","problem":"missing","fields":["torque","0-100","weight"]},
     {"make":"Kia","model":"Sorento","year":"2026","trim":"PHEV Sport+","problem":"missing","fields":["torque","0-100","weight"]},
     {"make":"Kia","model":"Sorento","year":"2026","trim":"PHEV GT-Line","problem":"missing","fields":["torque","0-100","weight"]},
+    {"make":"Kia","model":"Carnival","year":"2026","trim":"S","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"Carnival","year":"2026","trim":"Sport","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"Carnival","year":"2026","trim":"Sport+","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"Carnival","year":"2026","trim":"GT-Line Lite","problem":"missing","fields":["0-100"]},
+    {"make":"Kia","model":"Carnival","year":"2026","trim":"GT-Line","problem":"missing","fields":["0-100","weight"]},
+    {"make":"Kia","model":"Carnival","year":"2026","trim":"S HEV","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Kia","model":"Carnival","year":"2026","trim":"Sport+ HEV","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Kia","model":"Carnival","year":"2026","trim":"GT-Line HEV","problem":"missing","fields":["torque","0-100"]},
     {"make":"Kia","model":"Tasman","year":"2026","trim":"S 4x2","problem":"missing","fields":["0-100"]},
     {"make":"Kia","model":"Tasman","year":"2026","trim":"SX","problem":"missing","fields":["0-100"]},
     {"make":"Kia","model":"Tasman","year":"2026","trim":"SX+","problem":"missing","fields":["0-100"]},
@@ -4428,6 +4457,12 @@
     {"make":"Marmon","model":"Sixteen","year":"1932","trim":"Limousine","problem":"missing","fields":["fuel"]},
     {"make":"Marmon","model":"Sixteen","year":"1933","trim":"Sport Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Marmon","model":"Sixteen","year":"1933","trim":"Limousine","problem":"missing","fields":["fuel"]},
+    {"make":"Mazda","model":"3","year":"2026","trim":"G20 Pure","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"3","year":"2026","trim":"G20 Evolve","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"3","year":"2026","trim":"G20 Touring","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"3","year":"2026","trim":"G25 Evolve SP","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"3","year":"2026","trim":"G25 GT","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"3","year":"2026","trim":"G25 Astina","problem":"missing","fields":["0-100"]},
     {"make":"Mazda","model":"CX-5","year":"2026","trim":"G20 Maxx","problem":"missing","fields":["0-100"]},
     {"make":"Mazda","model":"CX-5","year":"2026","trim":"G25 Maxx Sport","problem":"missing","fields":["0-100"]},
     {"make":"Mazda","model":"CX-5","year":"2026","trim":"G25 Pure","problem":"missing","fields":["0-100"]},
@@ -4444,6 +4479,14 @@
     {"make":"Mazda","model":"BT-50","year":"2026","trim":"GT","problem":"missing","fields":["0-100"]},
     {"make":"Mazda","model":"BT-50","year":"2026","trim":"SP","problem":"missing","fields":["0-100"]},
     {"make":"Mazda","model":"BT-50","year":"2026","trim":"Thunder","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-30","year":"2026","trim":"G20 Pure","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-30","year":"2026","trim":"G20 Evolve","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-30","year":"2026","trim":"G20 Touring","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-30","year":"2026","trim":"G20 Touring LE","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-30","year":"2026","trim":"G20 Astina","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-30","year":"2026","trim":"G25 Touring","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-30","year":"2026","trim":"G25 GT SP","problem":"missing","fields":["0-100"]},
+    {"make":"Mazda","model":"CX-30","year":"2026","trim":"G25 Astina","problem":"missing","fields":["0-100"]},
     {"make":"McLaren","model":"P1","year":"2013","trim":"Standard","problem":"missing","fields":["fuel"]},
     {"make":"McLaren","model":"P1","year":"2014","trim":"Standard","problem":"missing","fields":["fuel"]},
     {"make":"McLaren","model":"P1","year":"2015","trim":"Standard","problem":"missing","fields":["fuel"]},
@@ -4455,6 +4498,12 @@
     {"make":"McLaren","model":"765LT","year":"2020","trim":"Spider","problem":"missing","fields":["fuel"]},
     {"make":"McLaren","model":"765LT","year":"2022","trim":"Coupe","problem":"missing","fields":["fuel"]},
     {"make":"McLaren","model":"765LT","year":"2022","trim":"Spider","problem":"missing","fields":["fuel"]},
+    {"make":"MG","model":"ZS","year":"2026","trim":"Vibe","problem":"missing","fields":["0-100"]},
+    {"make":"MG","model":"ZS","year":"2026","trim":"Excite Turbo","problem":"missing","fields":["0-100"]},
+    {"make":"MG","model":"ZS","year":"2026","trim":"Vibe Turbo","problem":"missing","fields":["0-100"]},
+    {"make":"MG","model":"ZS","year":"2026","trim":"Essence Turbo","problem":"missing","fields":["0-100"]},
+    {"make":"MG","model":"ZS","year":"2026","trim":"Excite Hybrid+","problem":"missing","fields":["torque"]},
+    {"make":"MG","model":"ZS","year":"2026","trim":"Essence Hybrid+","problem":"missing","fields":["torque"]},
     {"make":"Mini","model":"Countryman","year":"2021","trim":"Cooper SE","problem":"missing","fields":["fuel"]},
     {"make":"Mini","model":"Countryman","year":"2022","trim":"Cooper SE","problem":"missing","fields":["fuel"]},
     {"make":"Mini","model":"Countryman","year":"2023","trim":"Cooper SE","problem":"missing","fields":["fuel"]},
@@ -4967,6 +5016,13 @@
     {"make":"Stutz","model":"DV-32","year":"1932","trim":"Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Stutz","model":"DV-32","year":"1933","trim":"Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Stutz","model":"DV-32","year":"1934","trim":"Sedan","problem":"missing","fields":["fuel"]},
+    {"make":"Subaru","model":"Forester","year":"2026","trim":"2.5i","problem":"missing","fields":["0-100"]},
+    {"make":"Subaru","model":"Forester","year":"2026","trim":"Premium","problem":"missing","fields":["0-100"]},
+    {"make":"Subaru","model":"Forester","year":"2026","trim":"Sport","problem":"missing","fields":["0-100"]},
+    {"make":"Subaru","model":"Forester","year":"2026","trim":"Touring","problem":"missing","fields":["0-100"]},
+    {"make":"Subaru","model":"Forester","year":"2026","trim":"Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Subaru","model":"Forester","year":"2026","trim":"Hybrid Sport","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Subaru","model":"Forester","year":"2026","trim":"Hybrid Touring","problem":"missing","fields":["torque","0-100"]},
     {"make":"Suzuki","model":"Jimny","year":"2026","trim":"Lite","problem":"missing","fields":["0-100"]},
     {"make":"Suzuki","model":"Jimny","year":"2026","trim":"3-door Auto","problem":"missing","fields":["0-100"]},
     {"make":"Suzuki","model":"Jimny","year":"2026","trim":"XL Auto","problem":"missing","fields":["0-100"]},
@@ -5004,6 +5060,9 @@
     {"make":"Toyota","model":"Camry","year":"2026","trim":"Ascent Hybrid","problem":"missing","fields":["torque"]},
     {"make":"Toyota","model":"Camry","year":"2026","trim":"Ascent Sport Hybrid","problem":"missing","fields":["torque","0-100"]},
     {"make":"Toyota","model":"Camry","year":"2026","trim":"SL Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"C-HR","year":"2026","trim":"GXL Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"C-HR","year":"2026","trim":"Koba Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"C-HR","year":"2026","trim":"GR Sport Hybrid AWD","problem":"missing","fields":["torque","0-100"]},
     {"make":"Toyota","model":"Kluger","year":"2026","trim":"GX Hybrid","problem":"missing","fields":["torque","0-100"]},
     {"make":"Toyota","model":"Kluger","year":"2026","trim":"GXL Hybrid","problem":"missing","fields":["torque","0-100"]},
     {"make":"Toyota","model":"Kluger","year":"2026","trim":"Grande Hybrid","problem":"missing","fields":["torque","0-100"]},
@@ -5044,6 +5103,17 @@
     {"make":"Toyota","model":"RAV4","year":"2026","trim":"XSE PHEV","problem":"missing","fields":["torque","0-100"]},
     {"make":"Toyota","model":"RAV4","year":"2026","trim":"XSE PHEV eFour","problem":"missing","fields":["torque","0-100"]},
     {"make":"Toyota","model":"RAV4","year":"2026","trim":"XSE eFour","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"Yaris Cross","year":"2026","trim":"GX Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"Yaris Cross","year":"2026","trim":"GX Hybrid AWD","problem":"missing","fields":["torque","0-100","weight","fuel"]},
+    {"make":"Toyota","model":"Yaris Cross","year":"2026","trim":"GXL Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"Yaris Cross","year":"2026","trim":"GXL Hybrid AWD","problem":"missing","fields":["torque","0-100","weight","fuel"]},
+    {"make":"Toyota","model":"Yaris Cross","year":"2026","trim":"Urban Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"Yaris Cross","year":"2026","trim":"Urban Hybrid AWD","problem":"missing","fields":["torque","0-100","weight","fuel"]},
+    {"make":"Toyota","model":"Yaris Cross","year":"2026","trim":"GR Sport Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"Corolla Cross","year":"2026","trim":"GX Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"Corolla Cross","year":"2026","trim":"GXL Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"Corolla Cross","year":"2026","trim":"Atmos Hybrid","problem":"missing","fields":["torque","0-100"]},
+    {"make":"Toyota","model":"Corolla Cross","year":"2026","trim":"GR Sport Hybrid AWD","problem":"missing","fields":["torque","0-100"]},
     {"make":"Toyota","model":"bZ4X","year":"2022","trim":"GX","problem":"missing","fields":["fuel"]},
     {"make":"Toyota","model":"bZ4X","year":"2022","trim":"GXL","problem":"missing","fields":["fuel"]},
     {"make":"Toyota","model":"bZ4X","year":"2023","trim":"GX","problem":"missing","fields":["fuel"]},
