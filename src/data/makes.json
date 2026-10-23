@@ -39506,15 +39506,13 @@
         "90 V8"
       ],
       "2025": [
-        "110 P400",
-        "110 P400e",
-        "110 S",
-        "110 V8",
-        "130 S",
-        "130 V8",
-        "130 X",
-        "90 S",
-        "90 V8"
+        "90 D250 S",
+        "110 D250 S",
+        "110 D350 X-Dynamic SE",
+        "110 P400 X-Dynamic SE",
+        "130 D350 X-Dynamic SE",
+        "110 P525 V8",
+        "110 P635 OCTA"
       ],
       "2026": [
         "90 D250 S",
@@ -69417,9 +69415,15 @@
         "Hybrid S"
       ],
       "2025": [
-        "2.5i",
-        "2.5i Premium",
-        "2.5i-S Sport"
+        "2.5i (S5)",
+        "Hybrid L (S5)",
+        "Hybrid S (S5)",
+        "Premium",
+        "Hybrid",
+        "Sport",
+        "Touring",
+        "Hybrid Sport",
+        "Hybrid Touring"
       ],
       "2026": [
         "2.5i",
