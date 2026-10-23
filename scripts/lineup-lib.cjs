@@ -35,4 +35,17 @@ function writeLineups(num, lineups) {
   }
   console.log('wrote', file, Object.keys(specs).length, 'entries');
 }
-module.exports = { writeLineups, $ };
+// Current resolved raw spec for a trim (last file wins, like the app) — used
+// to carry a trim over unchanged when rebuilding the rest of its lineup.
+function existing(make, model, year, trim) {
+  let hit = null;
+  const files = fs.readdirSync(DATA).filter(f => /^(supplement\d+|holden|ford)\.json$/.test(f))
+    .sort((a, b) => (parseInt(a.replace(/\D/g, '')) || 0) - (parseInt(b.replace(/\D/g, '')) || 0));
+  for (const f of files) {
+    const o = JSON.parse(fs.readFileSync(path.join(DATA, f), 'utf8')).specs;
+    hit = o[`${make}|${model}|${year}|${trim}`] || o[`${model}|${year}|${trim}`] || hit;
+  }
+  if (!hit) throw new Error(`no existing spec for ${make}|${model}|${year}|${trim}`);
+  return JSON.parse(JSON.stringify(hit));
+}
+module.exports = { writeLineups, existing, $ };

@@ -28729,12 +28729,12 @@
         "Ultra Petrol"
       ],
       "2026": [
-        "Hybrid",
         "Lux",
-        "Premium",
-        "Ultra AWD",
-        "Ultra PHEV",
-        "Ultra Petrol"
+        "Ultra",
+        "Lux Hybrid",
+        "Ultra Hybrid",
+        "Lux PHEV",
+        "Ultra PHEV"
       ]
     },
     "Haval H9": {
@@ -30687,13 +30687,12 @@
         "e:PHEV"
       ],
       "2026": [
-        "RS e:HEV",
-        "VTi",
-        "VTi-L",
-        "VTi-LX",
-        "e:HEV VTi-L",
-        "e:HEV VTi-LX",
-        "e:PHEV"
+        "VTi X",
+        "VTi L7",
+        "e:HEV X",
+        "e:HEV L",
+        "e:HEV LX",
+        "e:HEV RS"
       ]
     },
     "HR-V": {
@@ -33374,13 +33373,9 @@
         "Highlander Petrol"
       ],
       "2026": [
-        "Active",
-        "Elite",
-        "Elite Diesel",
-        "Elite Petrol",
-        "Highlander",
-        "Highlander Diesel",
-        "Highlander Petrol"
+        "Elite Hybrid AWD",
+        "XRT PRO",
+        "Calligraphy Hybrid AWD"
       ]
     },
     "Staria": {
@@ -33420,11 +33415,11 @@
         "Lounge"
       ],
       "2026": [
-        "Active",
+        "Staria Diesel",
         "Elite",
         "Highlander",
-        "Load",
-        "Lounge"
+        "Lounge Hybrid",
+        "Load"
       ]
     },
     "Inster": {
@@ -39538,15 +39533,15 @@
         "90 V8"
       ],
       "2026": [
-        "110 P400",
-        "110 P400e",
-        "110 S",
-        "110 V8",
-        "130 S",
-        "130 V8",
-        "130 X",
-        "90 S",
-        "90 V8"
+        "90 D250 S",
+        "110 D250 S",
+        "110 D350 X-Dynamic SE",
+        "110 P300e X-Dynamic SE",
+        "110 P425 X-Dynamic SE",
+        "110 D350 X",
+        "130 D350 X-Dynamic SE",
+        "130 P500 V8",
+        "110 P635 OCTA"
       ]
     },
     "Discovery": {
@@ -39637,10 +39632,11 @@
         "SE"
       ],
       "2026": [
-        "Dynamic HSE",
-        "Dynamic SE",
-        "HSE",
-        "SE"
+        "D350 S",
+        "D350 Dynamic SE",
+        "D350 Landmark",
+        "D350 Gemini",
+        "D350 Tempest"
       ]
     },
     "Discovery Sport": {
@@ -39820,11 +39816,11 @@
         "SV"
       ],
       "2026": [
-        "Autobiography",
-        "P510e Autobiography",
-        "P510e SE",
-        "SE",
-        "SV"
+        "D350 HSE SWB",
+        "P460e HSE SWB",
+        "P530 HSE SWB",
+        "EV550 HSE",
+        "P615 SV"
       ]
     },
     "Range Rover Sport": {
@@ -39937,12 +39933,12 @@
         "SE"
       ],
       "2026": [
-        "Dynamic HSE",
-        "Dynamic SE",
-        "P510e SE",
-        "P530",
-        "S",
-        "SE"
+        "D250 Dynamic SE",
+        "D350 Dynamic HSE",
+        "P460e Dynamic HSE",
+        "P530 Dynamic HSE",
+        "EV550 Dynamic HSE",
+        "P635 SV"
       ]
     },
     "Range Rover Evoque": {
@@ -54886,12 +54882,10 @@
         "Ti e-Power"
       ],
       "2026": [
-        "ST",
-        "ST e-Power",
-        "ST-L",
-        "ST-L e-Power",
-        "Ti",
-        "Ti e-Power"
+        "ST-L e-POWER",
+        "Ti e-POWER",
+        "Ti-L e-POWER",
+        "N-DESIGN e-POWER"
       ]
     },
     "Juke": {
@@ -69365,12 +69359,11 @@
         "Wilderness"
       ],
       "2026": [
-        "2.4XT",
-        "2.4XT Premium",
-        "2.4XT Sport",
-        "2.5i",
-        "2.5i Premium",
-        "Wilderness"
+        "AWD",
+        "AWD Premium",
+        "AWD Touring",
+        "AWD Wilderness",
+        "AWD Wilderness Apex"
       ]
     },
     "Forester": {

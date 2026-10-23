@@ -75,25 +75,6 @@
       "topSpeed": 210,
       "price": "~$159,990",
       "aspiration": "Toyota VGT Diesel Turbo"
-    },
-    "Subaru|Outback|2026|Wilderness": {
-      "engine": "2.4L DOHC Turbo",
-      "fuelType": "petrol",
-      "displacement": 2387,
-      "cylinders": 4,
-      "drivetrain": "AWD",
-      "transmission": "Lineartronic CVT",
-      "power": 194,
-      "torque": 376,
-      "weight": 1730,
-      "seats": 5,
-      "fc": 14.8,
-      "fh": 8.4,
-      "fx": 10.8,
-      "acceleration": 6.1,
-      "topSpeed": 220,
-      "price": "~$61,490",
-      "aspiration": "IHI Single-Turbo"
     }
   }
 }

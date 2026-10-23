@@ -2412,26 +2412,6 @@
       "range": 81,
       "price": "~$66,490",
       "aspiration": "NA"
-    },
-    "Honda|CR-V|2026|e:PHEV": {
-      "engine": "2.0L 4-cyl e:PHEV",
-      "fuelType": "hybrid",
-      "displacement": 1993,
-      "cylinders": 4,
-      "drivetrain": "AWD",
-      "transmission": "Auto",
-      "power": 158,
-      "torque": 335,
-      "weight": 1945,
-      "seats": 5,
-      "fc": null,
-      "fh": null,
-      "fx": 1.4,
-      "acceleration": 7.7,
-      "topSpeed": 180,
-      "range": 81,
-      "price": "~$67,490",
-      "aspiration": "NA"
     }
   }
 }
