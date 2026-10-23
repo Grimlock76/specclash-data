@@ -152,25 +152,6 @@
       "price": "~$28,990",
       "aspiration": "BorgWarner Single-Turbo"
     },
-    "Isuzu|MU-X|2024|LS-M": {
-      "engine": "3.0L I4 Turbo Diesel",
-      "fuelType": "diesel",
-      "displacement": 2999,
-      "cylinders": 4,
-      "drivetrain": "4WD",
-      "transmission": "6-speed auto",
-      "power": 140,
-      "torque": 450,
-      "weight": 2170,
-      "seats": 7,
-      "fc": 11.9,
-      "fh": 6.8,
-      "fx": 8.5,
-      "acceleration": 10.8,
-      "topSpeed": 175,
-      "price": "~$57,990",
-      "aspiration": "Isuzu IHI VGT Diesel Turbo"
-    },
     "Jaguar|I-Pace|2026|EV400 SE": {
       "engine": "Electric Dual Motor",
       "fuelType": "electric",
