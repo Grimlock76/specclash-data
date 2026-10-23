@@ -172,8 +172,21 @@ const COLLECTIBLE_FACTOR = {
   TVR:           1.3,   // cult following, limited supply
 }
 
-// Current AUD conversion rates (May 2026)
-const FX = { USD: 1.402, GBP: 1.863, EUR: 1.628, RUB: 0.0198, JPY: 0.0095, INR: 0.0145 }
+// AUD per unit of foreign currency. USD/EUR/GBP from exchange-rates.org,
+// 1-2 Oct 2026 (1 AUD = 0.6928 USD / 0.61674 EUR / 0.52428 GBP); others May 2026.
+const FX = { USD: 1.443, GBP: 1.907, EUR: 1.621, RUB: 0.0198, JPY: 0.0095, INR: 0.0145 }
+
+// Cars sold outside Australia keep their home-market price, but the table
+// compares numbers, so show the AUD conversion first and the original after:
+// "~£24,000" -> "~A$45,800 (~£24,000)". AUD prices pass through unchanged.
+const FOREIGN = /£|€|₽|₹|¥|USD/i
+function localisePrice(pr) {
+  if (!pr || typeof pr !== 'string' || !FOREIGN.test(pr) || /A\$/.test(pr)) return pr
+  const aud = parsePriceAUD(pr)
+  if (!aud) return pr
+  const r = aud < 20000 ? Math.round(aud / 100) * 100 : Math.round(aud / 500) * 500
+  return `${pr.trim().startsWith('~') ? '~' : '≈'}A$${r.toLocaleString('en-AU')} (${pr.trim().replace('Â¥', '¥')})`
+}
 
 function parsePriceAUD(prStr) {
   if (!prStr || prStr === '—' || prStr === '-' || prStr === 'N/A') return null
@@ -254,12 +267,17 @@ export async function lookup(make, model, year, trim) {
     const kw = num(spec.hp), kg = num(spec.wt)
     return kw > 0 && kg > 300 ? { ...spec, p2w: `${Math.round((kw / kg) * 1000)} kW/t` } : spec
   }
-  const withPC = raw => {
+  const withPCRaw = raw => {
     const spec = withP2W(raw)
     if (!spec || yr >= 2024) return spec
     if (spec.pc) return spec
     const pc = estimateCurrentPrice(spec.pr, year, make, model, trim)
     return pc ? { ...spec, pc } : spec
+  }
+  // Current-price estimate reads the original currency, so convert pr after it.
+  const withPC = raw => {
+    const spec = withPCRaw(raw)
+    return spec && spec.pr ? { ...spec, pr: localisePrice(spec.pr) } : spec
   }
   const exact = `${make}|${model}|${year}|${trim}`
   if (cache[exact]) return withPC(normalizeSpec(cache[exact], make, model, trim))
