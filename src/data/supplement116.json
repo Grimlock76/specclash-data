@@ -6652,48 +6652,6 @@
       "battery": "54.2 kWh",
       "price": "~$57,990",
       "aspiration": "Electric"
-    },
-    "Mini|Hatch|2025|Cooper E": {
-      "engine": "Electric",
-      "displacement": null,
-      "cylinders": null,
-      "power": 135,
-      "torque": 290,
-      "transmission": "1sp auto",
-      "drivetrain": "FWD",
-      "acceleration": 6.7,
-      "topSpeed": 160,
-      "range": 305,
-      "fc": null,
-      "fh": null,
-      "fx": null,
-      "fuelType": "electric",
-      "weight": 1440,
-      "seats": 4,
-      "battery": "40.7 kWh",
-      "price": "~$51,490",
-      "aspiration": "Electric"
-    },
-    "Mini|Hatch|2025|Cooper SE": {
-      "engine": "Electric",
-      "displacement": null,
-      "cylinders": null,
-      "power": 160,
-      "torque": 330,
-      "transmission": "1sp auto",
-      "drivetrain": "FWD",
-      "acceleration": 5.9,
-      "topSpeed": 160,
-      "range": 402,
-      "fc": null,
-      "fh": null,
-      "fx": null,
-      "fuelType": "electric",
-      "weight": 1510,
-      "seats": 4,
-      "battery": "54.2 kWh",
-      "price": "~$59,490",
-      "aspiration": "Electric"
     }
   }
 }
