@@ -525,27 +525,6 @@
       "quarterMile": "~17.2 sec",
       "aspiration": "IHI Single-Turbo"
     },
-    "Audi|A3|2026|35 TFSI": {
-      "engine": "2.0 TFSI",
-      "displacement": 2000,
-      "cylinders": 4,
-      "power": 110,
-      "torque": 200,
-      "transmission": "7-speed S tronic",
-      "acceleration": 8.9,
-      "topSpeed": 210,
-      "fc": 9.2,
-      "fuelType": "petrol",
-      "weight": 1370,
-      "seats": 5,
-      "cargo": 380,
-      "price": "$50,000",
-      "bodyStyle": "Hatch",
-      "fh": 4.8,
-      "fx": 6.5,
-      "quarterMile": "~17.2 sec",
-      "aspiration": "IHI Single-Turbo"
-    },
     "Audi|A3|2013|S3": {
       "engine": "2.0 TFSI",
       "displacement": 2000,

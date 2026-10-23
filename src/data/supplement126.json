@@ -513,25 +513,6 @@
       "price": "~$265,900",
       "aspiration": "Electric"
     },
-    "Porsche|Taycan|2026|GTS": {
-      "engine": "Dual Electric Motor GTS AWD",
-      "fuelType": "electric",
-      "battery": "105.0 kWh",
-      "range": 558,
-      "drivetrain": "AWD",
-      "transmission": "Auto",
-      "power": 400,
-      "torque": 870,
-      "weight": 2310,
-      "seats": 4,
-      "fc": null,
-      "fh": null,
-      "fx": null,
-      "acceleration": 3.5,
-      "topSpeed": 250,
-      "price": "~$271,900",
-      "aspiration": "Electric"
-    },
     "Land Rover|Defender|2022|130 S": {
       "engine": "3.0L 6-cyl MHEV P300",
       "fuelType": "petrol",

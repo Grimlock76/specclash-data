@@ -3357,8 +3357,8 @@
         "40 TFSI quattro"
       ],
       "2026": [
-        "35 TFSI",
-        "40 TFSI quattro"
+        "TFSI 110kW S line",
+        "TFSI 150kW S line quattro"
       ]
     },
     "A4": {
@@ -5078,10 +5078,10 @@
         "S3"
       ],
       "2026": [
-        "35 TFSI",
-        "40 TFSI quattro",
-        "RS3",
-        "S3"
+        "TFSI 110kW S line",
+        "TFSI 150kW S line quattro",
+        "S3",
+        "RS3"
       ]
     },
     "Q4 Sportback e-tron": {
@@ -62609,12 +62609,12 @@
         "Turbo S E-Hybrid Sport Turismo"
       ],
       "2026": [
+        "Panamera",
         "4 E-Hybrid",
-        "4S Sport Turismo",
-        "Panamera 4S",
-        "Panamera Turbo E-Hybrid",
-        "Sport Turismo",
-        "Turbo S E-Hybrid Sport Turismo"
+        "4S E-Hybrid",
+        "GTS",
+        "Turbo E-Hybrid",
+        "Turbo S E-Hybrid"
       ]
     },
     "Taycan": {
@@ -62662,12 +62662,11 @@
         "Taycan Turbo GT"
       ],
       "2026": [
-        "GTS",
-        "Sport Turismo",
         "Taycan",
-        "Taycan 4",
         "Taycan 4S",
+        "Taycan GTS",
         "Taycan Turbo",
+        "Taycan Turbo S",
         "Taycan Turbo GT"
       ]
     }

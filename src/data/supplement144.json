@@ -208,44 +208,6 @@
       "topSpeed": 230,
       "price": "~$107,900",
       "aspiration": "BorgWarner VGT Diesel Turbo"
-    },
-    "Porsche|Taycan|2026|Taycan 4S": {
-      "engine": "Electric Dual Motor",
-      "fuelType": "electric",
-      "battery": "93.4 kWh",
-      "range": 532,
-      "drivetrain": "AWD",
-      "transmission": "2-speed auto",
-      "power": 390,
-      "torque": 650,
-      "weight": 2295,
-      "seats": 4,
-      "fc": null,
-      "fh": null,
-      "fx": null,
-      "acceleration": 4,
-      "topSpeed": 250,
-      "price": "~$199,900",
-      "aspiration": "Electric"
-    },
-    "Porsche|Taycan|2026|Taycan Turbo GT": {
-      "engine": "Electric Quad Motor",
-      "fuelType": "electric",
-      "battery": "105 kWh",
-      "range": 555,
-      "drivetrain": "AWD",
-      "transmission": "2-speed auto",
-      "power": 760,
-      "torque": 1340,
-      "weight": 2370,
-      "seats": 4,
-      "fc": null,
-      "fh": null,
-      "fx": null,
-      "acceleration": 2.2,
-      "topSpeed": 305,
-      "price": "~$549,000",
-      "aspiration": "Electric"
     }
   }
 }
