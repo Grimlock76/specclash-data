@@ -2674,6 +2674,210 @@
     ]
   },
   {
+    "id": "wrx-vb",
+    "makes": [
+      "Subaru"
+    ],
+    "models": [
+      "WRX"
+    ],
+    "years": [
+      2022,
+      2026
+    ],
+    "match": [
+      "."
+    ],
+    "title": "WRX (VB)",
+    "base": "Impreza",
+    "summary": "Current-gen WRX sedan and Sportswagon.",
+    "highlights": [
+      "2.4L turbo flat-four (FA24), 202 kW / 350 Nm",
+      "Symmetrical all-wheel drive; 6-speed manual or CVT"
+    ]
+  },
+  {
+    "id": "octavia-rs-mk4-fl",
+    "makes": [
+      "Skoda"
+    ],
+    "models": [
+      "Octavia"
+    ],
+    "years": [
+      2025,
+      2026
+    ],
+    "match": [
+      "\\bRS\\b"
+    ],
+    "title": "Octavia RS (Mk4 facelift)",
+    "base": "Sportline",
+    "summary": "Facelifted performance Octavia.",
+    "highlights": [
+      "2.0L turbo four, 195 kW / 370 Nm",
+      "7-speed dual-clutch, front-wheel drive"
+    ]
+  },
+  {
+    "id": "octavia-rs-mk4",
+    "makes": [
+      "Skoda"
+    ],
+    "models": [
+      "Octavia"
+    ],
+    "years": [
+      2021,
+      2024
+    ],
+    "match": [
+      "\\bRS\\b"
+    ],
+    "title": "Octavia RS (Mk4)",
+    "base": "Style",
+    "summary": "Performance Octavia.",
+    "highlights": [
+      "2.0L turbo four, 180 kW / 370 Nm",
+      "7-speed dual-clutch, front-wheel drive"
+    ]
+  },
+  {
+    "id": "amarok-w600",
+    "makes": [
+      "Volkswagen"
+    ],
+    "models": [
+      "Amarok"
+    ],
+    "years": [
+      2025,
+      2026
+    ],
+    "match": [
+      "W600"
+    ],
+    "title": "Amarok W600",
+    "base": "TDI600 Aventura",
+    "summary": "Walkinshaw-developed Amarok.",
+    "highlights": [
+      "3.0L V6 turbo-diesel, 184 kW / 600 Nm",
+      "Walkinshaw suspension and styling upgrades"
+    ]
+  },
+  {
+    "id": "mg4-xpower",
+    "makes": [
+      "MG"
+    ],
+    "models": [
+      "MG4"
+    ],
+    "years": [
+      2023,
+      2026
+    ],
+    "match": [
+      "X-?POWER"
+    ],
+    "title": "MG4 XPOWER",
+    "base": "MG4 Essence",
+    "summary": "Dual-motor performance MG4.",
+    "highlights": [
+      "Dual-motor all-wheel drive",
+      "0-100 km/h in 3.8 s (claimed)"
+    ]
+  },
+  {
+    "id": "ram-trx",
+    "makes": [
+      "RAM"
+    ],
+    "models": [
+      "1500",
+      "1500 TRX"
+    ],
+    "match": [
+      "TRX"
+    ],
+    "title": "RAM 1500 TRX",
+    "base": "RAM 1500 Laramie",
+    "summary": "Supercharged desert-runner.",
+    "highlights": [
+      "6.2L supercharged V8, 523 kW / 882 Nm",
+      "Long-travel off-road suspension"
+    ]
+  },
+  {
+    "id": "911-gt3rs-992",
+    "makes": [
+      "Porsche"
+    ],
+    "models": [
+      "911"
+    ],
+    "years": [
+      2023,
+      2026
+    ],
+    "match": [
+      "GT3 RS"
+    ],
+    "title": "911 GT3 RS (992)",
+    "base": "911 GT3",
+    "summary": "Aero-led track 911.",
+    "highlights": [
+      "4.0L naturally aspirated flat-six, 386 kW / 465 Nm",
+      "7-speed PDK, rear-wheel drive"
+    ]
+  },
+  {
+    "id": "cayenne-turbo-gt",
+    "makes": [
+      "Porsche"
+    ],
+    "models": [
+      "Cayenne"
+    ],
+    "years": [
+      2022,
+      2026
+    ],
+    "match": [
+      "Turbo GT"
+    ],
+    "title": "Cayenne Turbo GT",
+    "base": "Cayenne Turbo",
+    "summary": "Nürburgring-honed Cayenne Coupe.",
+    "highlights": [
+      "4.0L twin-turbo V8, 471–485 kW",
+      "All-wheel drive, 8-speed Tiptronic S"
+    ]
+  },
+  {
+    "id": "taycan-turbo-gt",
+    "makes": [
+      "Porsche"
+    ],
+    "models": [
+      "Taycan"
+    ],
+    "years": [
+      2024,
+      2026
+    ],
+    "match": [
+      "Turbo GT"
+    ],
+    "title": "Taycan Turbo GT",
+    "base": "Taycan Turbo S",
+    "summary": "The quickest Taycan.",
+    "highlights": [
+      "Dual-motor all-wheel drive; up to 815 kW with launch control",
+      "Weissach package available"
+    ]
+  },
+  {
     "id": "golf-gti-clubsport",
     "makes": [
       "Volkswagen"

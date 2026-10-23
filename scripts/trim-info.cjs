@@ -675,6 +675,51 @@ R('alfa-qv', { makes: ['Alfa Romeo'], models: ['Giulia', 'Stelvio'], years: [201
     '2.9L twin-turbo V6, 375–382 kW',
     'Giulia rear-wheel drive; Stelvio Q4 all-wheel drive',
   ]);
+R('wrx-vb', { makes: ['Subaru'], models: ['WRX'], years: [2022, 2026], match: ['.'] },
+  'WRX (VB)', 'Impreza', 'Current-gen WRX sedan and Sportswagon.', [
+    '2.4L turbo flat-four (FA24), 202 kW / 350 Nm',
+    'Symmetrical all-wheel drive; 6-speed manual or CVT',
+  ]);
+R('octavia-rs-mk4-fl', { makes: ['Skoda'], models: ['Octavia'], years: [2025, 2026], match: ['\\bRS\\b'] },
+  'Octavia RS (Mk4 facelift)', 'Sportline', 'Facelifted performance Octavia.', [
+    '2.0L turbo four, 195 kW / 370 Nm',
+    '7-speed dual-clutch, front-wheel drive',
+  ]);
+R('octavia-rs-mk4', { makes: ['Skoda'], models: ['Octavia'], years: [2021, 2024], match: ['\\bRS\\b'] },
+  'Octavia RS (Mk4)', 'Style', 'Performance Octavia.', [
+    '2.0L turbo four, 180 kW / 370 Nm',
+    '7-speed dual-clutch, front-wheel drive',
+  ]);
+R('amarok-w600', { makes: ['Volkswagen'], models: ['Amarok'], years: [2025, 2026], match: ['W600'] },
+  'Amarok W600', 'TDI600 Aventura', 'Walkinshaw-developed Amarok.', [
+    '3.0L V6 turbo-diesel, 184 kW / 600 Nm',
+    'Walkinshaw suspension and styling upgrades',
+  ]);
+R('mg4-xpower', { makes: ['MG'], models: ['MG4'], years: [2023, 2026], match: ['X-?POWER'] },
+  'MG4 XPOWER', 'MG4 Essence', 'Dual-motor performance MG4.', [
+    'Dual-motor all-wheel drive',
+    '0-100 km/h in 3.8 s (claimed)',
+  ]);
+R('ram-trx', { makes: ['RAM'], models: ['1500', '1500 TRX'], match: ['TRX'] },
+  'RAM 1500 TRX', 'RAM 1500 Laramie', 'Supercharged desert-runner.', [
+    '6.2L supercharged V8, 523 kW / 882 Nm',
+    'Long-travel off-road suspension',
+  ]);
+R('911-gt3rs-992', { makes: ['Porsche'], models: ['911'], years: [2023, 2026], match: ['GT3 RS'] },
+  '911 GT3 RS (992)', '911 GT3', 'Aero-led track 911.', [
+    '4.0L naturally aspirated flat-six, 386 kW / 465 Nm',
+    '7-speed PDK, rear-wheel drive',
+  ]);
+R('cayenne-turbo-gt', { makes: ['Porsche'], models: ['Cayenne'], years: [2022, 2026], match: ['Turbo GT'] },
+  'Cayenne Turbo GT', 'Cayenne Turbo', 'Nürburgring-honed Cayenne Coupe.', [
+    '4.0L twin-turbo V8, 471–485 kW',
+    'All-wheel drive, 8-speed Tiptronic S',
+  ]);
+R('taycan-turbo-gt', { makes: ['Porsche'], models: ['Taycan'], years: [2024, 2026], match: ['Turbo GT'] },
+  'Taycan Turbo GT', 'Taycan Turbo S', 'The quickest Taycan.', [
+    'Dual-motor all-wheel drive; up to 815 kW with launch control',
+    'Weissach package available',
+  ]);
 R('golf-gti-clubsport', { makes: ['Volkswagen'], models: ['Golf'], years: [2021, 2026], match: ['GTI Clubsport'] },
   'Golf GTI Clubsport', 'GTI', 'Track-leaning Mk8 GTI.', [
     '2.0L turbo four (EA888), 221 kW',
