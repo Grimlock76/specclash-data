@@ -222,7 +222,7 @@ export default function Slot({ index, initial, onResult, onClear }) {
           >view listings ↗</a>
         </div>
       )}
-      {ok  && <TrimBadge trim={trim} make={make} color={color} />}
+      {ok  && <TrimBadge trim={trim} make={make} model={model} year={year || resolveYear()} color={color} />}
     </div>
   )
 }

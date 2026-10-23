@@ -34429,16 +34429,12 @@
         "X-Terrain"
       ],
       "2026": [
-        "LS",
-        "LS-U",
-        "RG LS-M Crew Cab",
-        "RG LS-T Crew Cab",
-        "RG LS-U Crew Cab",
-        "RG X-Terrain Crew Cab",
         "SX",
-        "SX Crew Cab",
-        "SX Space Cab",
-        "X-Terrain"
+        "LS-U",
+        "LS-U+",
+        "X-Rider",
+        "X-Terrain",
+        "Blade"
       ]
     },
     "MU-X": {
@@ -34526,11 +34522,9 @@
         "X-Terrain"
       ],
       "2026": [
-        "LS-T",
+        "LS-M",
         "LS-U",
-        "RG LS-M",
-        "RG LS-T",
-        "RG LS-U",
+        "LS-T",
         "X-Terrain"
       ]
     }
@@ -54429,9 +54423,10 @@
         "ST-X"
       ],
       "2026": [
-        "PRO-4X",
+        "SL",
         "ST",
-        "ST-X"
+        "ST-X",
+        "PRO-4X"
       ]
     },
     "X-Trail": {
@@ -72667,14 +72662,11 @@
         "VX"
       ],
       "2026": [
-        "GR Sport Diesel",
-        "GR Sport Hybrid",
         "GX",
         "GXL",
-        "Kakadu",
-        "Sahara Diesel",
-        "Sahara Hybrid",
-        "VX"
+        "VX",
+        "Altitude",
+        "Kakadu"
       ]
     },
     "HiLux": {

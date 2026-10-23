@@ -1,11 +1,11 @@
 {
   "generated": "2026-10-23",
-  "trims": 43060,
+  "trims": 43052,
   "noEntry": 0,
   "blank": 0,
   "missingFieldCounts": {
     "fuel": 3205,
-    "0-100": 1219,
+    "0-100": 1238,
     "price": 113,
     "torque": 42,
     "weight": 7
@@ -274,6 +274,14 @@
         "fuel": 20
       }
     },
+    "Isuzu": {
+      "trims": 199,
+      "noEntry": 0,
+      "blank": 0,
+      "missing": {
+        "0-100": 10
+      }
+    },
     "Kaiser": {
       "trims": 16,
       "noEntry": 0,
@@ -356,11 +364,11 @@
       }
     },
     "Nissan": {
-      "trims": 1047,
+      "trims": 1048,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "0-100": 9,
+        "0-100": 13,
         "weight": 6,
         "price": 6,
         "fuel": 6
@@ -447,11 +455,11 @@
       }
     },
     "Toyota": {
-      "trims": 2240,
+      "trims": 2237,
       "noEntry": 0,
       "blank": 0,
       "missing": {
-        "0-100": 28,
+        "0-100": 33,
         "torque": 15,
         "fuel": 10,
         "price": 2
@@ -3340,6 +3348,16 @@
     {"make":"Invicta","model":"4.5-Litre","year":"1933","trim":"Tourer","problem":"missing","fields":["fuel"]},
     {"make":"Invicta","model":"4.5-Litre","year":"1934","trim":"S-Type","problem":"missing","fields":["fuel"]},
     {"make":"Invicta","model":"4.5-Litre","year":"1934","trim":"Tourer","problem":"missing","fields":["fuel"]},
+    {"make":"Isuzu","model":"D-MAX","year":"2026","trim":"SX","problem":"missing","fields":["0-100"]},
+    {"make":"Isuzu","model":"D-MAX","year":"2026","trim":"LS-U","problem":"missing","fields":["0-100"]},
+    {"make":"Isuzu","model":"D-MAX","year":"2026","trim":"LS-U+","problem":"missing","fields":["0-100"]},
+    {"make":"Isuzu","model":"D-MAX","year":"2026","trim":"X-Rider","problem":"missing","fields":["0-100"]},
+    {"make":"Isuzu","model":"D-MAX","year":"2026","trim":"X-Terrain","problem":"missing","fields":["0-100"]},
+    {"make":"Isuzu","model":"D-MAX","year":"2026","trim":"Blade","problem":"missing","fields":["0-100"]},
+    {"make":"Isuzu","model":"MU-X","year":"2026","trim":"LS-M","problem":"missing","fields":["0-100"]},
+    {"make":"Isuzu","model":"MU-X","year":"2026","trim":"LS-U","problem":"missing","fields":["0-100"]},
+    {"make":"Isuzu","model":"MU-X","year":"2026","trim":"LS-T","problem":"missing","fields":["0-100"]},
+    {"make":"Isuzu","model":"MU-X","year":"2026","trim":"X-Terrain","problem":"missing","fields":["0-100"]},
     {"make":"Kaiser","model":"Special","year":"1946","trim":"Sedan","problem":"missing","fields":["torque","fuel"]},
     {"make":"Kaiser","model":"Special","year":"1947","trim":"Sedan","problem":"missing","fields":["torque","fuel"]},
     {"make":"Kaiser","model":"Special","year":"1948","trim":"Sedan","problem":"missing","fields":["torque","fuel"]},
@@ -4413,6 +4431,10 @@
     {"make":"Nissan","model":"Patrol","year":"2026","trim":"Y63 Ti-L+","problem":"missing","fields":["0-100","weight","price","fuel"]},
     {"make":"Nissan","model":"Patrol","year":"2026","trim":"Y63 PRO-4X","problem":"missing","fields":["0-100","weight","price","fuel"]},
     {"make":"Nissan","model":"Patrol","year":"2026","trim":"Y63 Ti-L Reserve","problem":"missing","fields":["0-100","weight","price","fuel"]},
+    {"make":"Nissan","model":"Navara","year":"2026","trim":"SL","problem":"missing","fields":["0-100"]},
+    {"make":"Nissan","model":"Navara","year":"2026","trim":"ST","problem":"missing","fields":["0-100"]},
+    {"make":"Nissan","model":"Navara","year":"2026","trim":"ST-X","problem":"missing","fields":["0-100"]},
+    {"make":"Nissan","model":"Navara","year":"2026","trim":"PRO-4X","problem":"missing","fields":["0-100"]},
     {"make":"Noble","model":"M12 GTO","year":"2000","trim":"3R","problem":"missing","fields":["fuel"]},
     {"make":"Noble","model":"M12 GTO","year":"2001","trim":"3R","problem":"missing","fields":["fuel"]},
     {"make":"Noble","model":"M12 GTO","year":"2002","trim":"3R","problem":"missing","fields":["fuel"]},
@@ -4796,6 +4818,11 @@
     {"make":"Talbot-Lago","model":"T26 Record","year":"1952","trim":"Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Talbot-Lago","model":"T26 Record","year":"1953","trim":"Sedan","problem":"missing","fields":["fuel"]},
     {"make":"Talbot-Lago","model":"T26 Record","year":"1954","trim":"Sedan","problem":"missing","fields":["fuel"]},
+    {"make":"Toyota","model":"Prado","year":"2026","trim":"GX","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"Prado","year":"2026","trim":"GXL","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"Prado","year":"2026","trim":"VX","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"Prado","year":"2026","trim":"Altitude","problem":"missing","fields":["0-100"]},
+    {"make":"Toyota","model":"Prado","year":"2026","trim":"Kakadu","problem":"missing","fields":["0-100"]},
     {"make":"Toyota","model":"HiLux","year":"2026","trim":"Workmate","problem":"missing","fields":["0-100"]},
     {"make":"Toyota","model":"HiLux","year":"2026","trim":"SR 4x2","problem":"missing","fields":["0-100"]},
     {"make":"Toyota","model":"HiLux","year":"2026","trim":"SR 48V","problem":"missing","fields":["0-100"]},

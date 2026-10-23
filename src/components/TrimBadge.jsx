@@ -1,9 +1,9 @@
 import { useState } from 'react'
 import { getTrimInfo } from '../utils/trimInfo.js'
 
-export default function TrimBadge({ trim, make, color }) {
+export default function TrimBadge({ trim, make, model, year, color }) {
   const [open, setOpen] = useState(false)
-  const info = getTrimInfo(trim, make)
+  const info = getTrimInfo(trim, make, model, year)
   if (!info) return null
 
   return (
@@ -28,7 +28,7 @@ export default function TrimBadge({ trim, make, color }) {
           <div style={{ fontFamily: "'Barlow Condensed'", fontSize: 14, fontWeight: 700, color, letterSpacing: 1, marginBottom: 2 }}>
             {info.title}
           </div>
-          {info.base && (
+          {info.base && info.base !== '—' && (
             <div style={{ fontSize: 11, color: '#555', marginBottom: 6 }}>
               Upgrades over: <span style={{ color: '#666' }}>{info.base}</span>
             </div>
