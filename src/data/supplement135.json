@@ -916,25 +916,6 @@
       "topSpeed": 250,
       "price": "~$124,900",
       "aspiration": "BorgWarner Single-Turbo"
-    },
-    "BMW|X3|2026|M50 xDrive": {
-      "engine": "3.0L 6-cyl TwinPower Turbo B58",
-      "fuelType": "petrol",
-      "displacement": 2998,
-      "cylinders": 6,
-      "drivetrain": "AWD",
-      "transmission": "8-spd Steptronic",
-      "power": 280,
-      "torque": 540,
-      "weight": 1990,
-      "seats": 5,
-      "fc": null,
-      "fh": null,
-      "fx": 9.1,
-      "acceleration": 4.6,
-      "topSpeed": 250,
-      "price": "~$128,900",
-      "aspiration": "BorgWarner Single-Turbo"
     }
   }
 }

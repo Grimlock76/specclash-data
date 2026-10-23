@@ -7104,15 +7104,9 @@
         "M3 Competition"
       ],
       "2026": [
-        "318i",
-        "320d",
-        "320i",
-        "330e",
-        "330e xDrive",
-        "330i",
-        "340i",
-        "M3",
-        "M3 Competition"
+        "330i M Sport",
+        "330i M Sport Touring",
+        "M340i xDrive"
       ]
     },
     "5 Series": {
@@ -7329,15 +7323,8 @@
         "M550i"
       ],
       "2026": [
-        "520d",
-        "520i",
-        "530e",
-        "530i",
-        "540i",
-        "545e xDrive",
-        "M5",
-        "M5 Competition",
-        "M550i"
+        "520i M Sport",
+        "540d xDrive"
       ]
     },
     "X1": {
@@ -7593,11 +7580,10 @@
         "xDrive30i"
       ],
       "2026": [
-        "M40i",
-        "M50 xDrive",
-        "xDrive20d",
-        "xDrive20i",
-        "xDrive30i"
+        "20 xDrive",
+        "30e xDrive",
+        "40d xDrive",
+        "M50 xDrive"
       ]
     },
     "X5": {
@@ -7763,11 +7749,14 @@
         "xDrive45e"
       ],
       "2026": [
-        "M50i",
-        "xDrive25d",
-        "xDrive30d",
-        "xDrive40i",
-        "xDrive45e"
+        "xDrive30d xLine",
+        "xDrive30d M Sport",
+        "Shadow Edition",
+        "xDrive40i M Sport",
+        "40d xDrive M Sport (G65)",
+        "40 xDrive M Sport (G65)",
+        "xDrive50e M Sport",
+        "M60i"
       ]
     },
     "Z4": {
@@ -62328,20 +62317,18 @@
       ],
       "2026": [
         "Carrera",
-        "Carrera 4",
+        "Carrera T",
+        "Carrera S",
         "Carrera 4S",
-        "Carrera Cabriolet",
-        "Carrera GTS",
-        "Carrera S Cabriolet",
-        "Dakar",
-        "GT3",
-        "GT3 RS",
-        "GT3 Touring",
-        "Targa 4",
         "Targa 4S",
-        "Turbo",
-        "Turbo Cabriolet",
+        "Carrera GTS",
+        "Carrera 4 GTS",
+        "Targa 4 GTS",
+        "GT3",
+        "GT3 Touring",
         "Turbo S",
+        "Carrera Cabriolet",
+        "Carrera S Cabriolet",
         "Turbo S Cabriolet"
       ]
     },
@@ -62490,16 +62477,17 @@
         "Turbo GT"
       ],
       "2026": [
-        "Coupe",
+        "Cayenne",
+        "Black Edition",
         "E-Hybrid",
-        "E-Hybrid Coupe",
-        "GTS",
-        "GTS Coupe",
+        "E-Hybrid Black Edition",
         "S",
-        "S Coupe",
-        "Turbo Coupe",
+        "S E-Hybrid",
+        "S E-Hybrid Black Edition",
+        "GTS",
         "Turbo E-Hybrid",
-        "Turbo GT"
+        "Turbo GT",
+        "Turbo Electric"
       ]
     },
     "Macan": {

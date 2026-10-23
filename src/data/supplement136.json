@@ -830,25 +830,6 @@
       "topSpeed": 318,
       "price": "~$534,900",
       "aspiration": "NA"
-    },
-    "Porsche|911|2026|GT3": {
-      "engine": "4.0L 6-cyl Flat-Six NA",
-      "fuelType": "petrol",
-      "displacement": 3996,
-      "cylinders": 6,
-      "drivetrain": "RWD",
-      "transmission": "7-spd PDK",
-      "power": 375,
-      "torque": 470,
-      "weight": 1418,
-      "seats": 4,
-      "fc": null,
-      "fh": null,
-      "fx": 13,
-      "acceleration": 3.4,
-      "topSpeed": 318,
-      "price": "~$551,600",
-      "aspiration": "NA"
     }
   }
 }
