@@ -152,25 +152,6 @@
       "price": "~$124,990",
       "aspiration": "Single-Turbo"
     },
-    "BMW|X2|2026|xDrive20i": {
-      "engine": "2.0L I4 TwinPower Turbo",
-      "fuelType": "petrol",
-      "displacement": 1998,
-      "cylinders": 4,
-      "drivetrain": "AWD",
-      "transmission": "7-speed DCT",
-      "power": 170,
-      "torque": 300,
-      "weight": 1770,
-      "seats": 5,
-      "fc": 10.9,
-      "fh": 6,
-      "fx": 7.7,
-      "acceleration": 6.8,
-      "topSpeed": 235,
-      "price": "~$63,900",
-      "aspiration": "BorgWarner Single-Turbo"
-    },
     "Mitsubishi|ASX|2026|MK2 Exceed": {
       "engine": "1.3L I4 Turbo",
       "fuelType": "petrol",

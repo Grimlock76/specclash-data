@@ -3023,6 +3023,29 @@
     ]
   },
   {
+    "id": "m135-f70",
+    "makes": [
+      "BMW"
+    ],
+    "models": [
+      "1 Series"
+    ],
+    "years": [
+      2025,
+      2026
+    ],
+    "match": [
+      "^M135 xDrive$"
+    ],
+    "title": "M135 xDrive (F70)",
+    "base": "120",
+    "summary": "Current-gen performance 1 Series.",
+    "highlights": [
+      "2.0L turbo four, 233 kW / 400 Nm",
+      "7-speed dual-clutch, xDrive all-wheel drive"
+    ]
+  },
+  {
     "id": "m135i-f40",
     "makes": [
       "BMW"
@@ -3093,7 +3116,8 @@
       2026
     ],
     "match": [
-      "^(M2 )?Coupe$"
+      "^(M2 )?Coupe( Auto| Manual)?$",
+      "^M2 M xDrive$"
     ],
     "title": "M2 (G87)",
     "base": "M240i",
@@ -3101,7 +3125,30 @@
     "highlights": [
       "3.0L twin-turbo inline-6 (S58), 338 kW (353 kW from 2025)",
       "6-speed manual or 8-speed M Steptronic",
-      "Rear-wheel drive"
+      "Rear-wheel drive (M xDrive AWD option from 2026)"
+    ]
+  },
+  {
+    "id": "m2-cs-g87",
+    "makes": [
+      "BMW"
+    ],
+    "models": [
+      "M2"
+    ],
+    "years": [
+      2025,
+      2026
+    ],
+    "match": [
+      "^(M2 )?CS$"
+    ],
+    "title": "M2 CS (G87)",
+    "base": "M2",
+    "summary": "Lightened, more powerful limited-run M2.",
+    "highlights": [
+      "3.0L twin-turbo inline-6 (S58), 390 kW / 650 Nm",
+      "8-speed M Steptronic, rear-wheel drive"
     ]
   },
   {

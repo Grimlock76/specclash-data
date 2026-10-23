@@ -271,25 +271,6 @@
       "price": "~$91,900",
       "aspiration": "BorgWarner VGT Diesel Turbo"
     },
-    "BMW|X2|2026|M35i xDrive": {
-      "engine": "2.0L 4-cyl TwinPower Turbo M xDrive",
-      "fuelType": "petrol",
-      "displacement": 1998,
-      "cylinders": 4,
-      "drivetrain": "AWD",
-      "transmission": "7-spd DCT",
-      "power": 233,
-      "torque": 400,
-      "weight": 1720,
-      "seats": 5,
-      "fc": null,
-      "fh": null,
-      "fx": 7.4,
-      "acceleration": 5.4,
-      "topSpeed": 250,
-      "price": "~$93,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
-    },
     "Hyundai|Kona N|2022|Kona N": {
       "engine": "2.0L 4-cyl Turbo N",
       "fuelType": "petrol",

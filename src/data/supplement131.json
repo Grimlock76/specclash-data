@@ -57,25 +57,6 @@
       "price": "~$93,900",
       "aspiration": "BorgWarner Twin-Turbo"
     },
-    "BMW|X1|2026|M35i xDrive": {
-      "engine": "2.0L 4-cyl Twin-Turbo B48A20T3",
-      "fuelType": "petrol",
-      "displacement": 1998,
-      "cylinders": 4,
-      "drivetrain": "AWD",
-      "transmission": "7-spd Steptronic DCT",
-      "power": 221,
-      "torque": 400,
-      "weight": 1835,
-      "seats": 5,
-      "fc": null,
-      "fh": null,
-      "fx": 8,
-      "acceleration": 5.4,
-      "topSpeed": 250,
-      "price": "~$96,900",
-      "aspiration": "BorgWarner Twin-Turbo"
-    },
     "Suzuki|Fronx|2024|GL": {
       "engine": "1.5L 4-cyl Dual Jet",
       "fuelType": "petrol",

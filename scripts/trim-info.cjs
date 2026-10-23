@@ -720,14 +720,18 @@ R('m5-e60', { makes: ['BMW'], models: S5, years: [2005, 2010], match: ['\\bM5\\b
   'M5 (E60)', '550i', 'The V10 M5.', ['5.0L V10 (S85), 373 kW', 'Rear-wheel drive, 7-speed SMG III']);
 R('m5-e39', { makes: ['BMW'], models: S5, years: [1999, 2004], match: ['\\bM5\\b'] },
   'M5 (E39)', '540i', 'The analogue V8 M5.', ['4.9L V8 (S62), 294 kW', '6-speed manual only']);
+R('m135-f70', { makes: ['BMW'], models: ['1 Series'], years: [2025, 2026], match: ['^M135 xDrive$'] },
+  'M135 xDrive (F70)', '120', 'Current-gen performance 1 Series.', ['2.0L turbo four, 233 kW / 400 Nm', '7-speed dual-clutch, xDrive all-wheel drive']);
 R('m135i-f40', { makes: ['BMW'], models: ['1 Series'], match: ['M135i xDrive'] },
   'M135i xDrive (F40)', '120i', 'All-wheel-drive four-cylinder M135i.', ['2.0L turbo four (B48), 225 kW / 450 Nm', 'xDrive all-wheel drive']);
 R('m135i-f20', { makes: ['BMW'], models: ['1 Series'], match: ['M135i'] },
   'M135i (F20)', '125i', 'Rear-drive six-cylinder hatch.', ['3.0L turbo inline-6 (N55)', 'Rear-wheel drive']);
 R('m140i', { makes: ['BMW'], models: ['1 Series'], match: ['M140i'] },
   'M140i (F20)', 'M135i', 'Last rear-drive six-cylinder 1 Series.', ['3.0L turbo inline-6 (B58), 250 kW / 500 Nm', 'Rear-wheel drive']);
-R('m2-g87', { makes: ['BMW'], models: ['2 Series', 'M2'], years: [2023, 2026], match: ['^(M2 )?Coupe$'] },
-  'M2 (G87)', 'M240i', 'Second-gen M2.', ['3.0L twin-turbo inline-6 (S58), 338 kW (353 kW from 2025)', '6-speed manual or 8-speed M Steptronic', 'Rear-wheel drive']);
+R('m2-g87', { makes: ['BMW'], models: ['2 Series', 'M2'], years: [2023, 2026], match: ['^(M2 )?Coupe( Auto| Manual)?$', '^M2 M xDrive$'] },
+  'M2 (G87)', 'M240i', 'Second-gen M2.', ['3.0L twin-turbo inline-6 (S58), 338 kW (353 kW from 2025)', '6-speed manual or 8-speed M Steptronic', 'Rear-wheel drive (M xDrive AWD option from 2026)']);
+R('m2-cs-g87', { makes: ['BMW'], models: ['M2'], years: [2025, 2026], match: ['^(M2 )?CS$'] },
+  'M2 CS (G87)', 'M2', 'Lightened, more powerful limited-run M2.', ['3.0L twin-turbo inline-6 (S58), 390 kW / 650 Nm', '8-speed M Steptronic, rear-wheel drive']);
 R('m2-competition', { makes: ['BMW'], models: ['2 Series', 'M2'], years: [2018, 2021], match: ['Competition'] },
   'M2 Competition (F87)', 'M2', 'M2 with the M4\'s engine.', ['3.0L twin-turbo inline-6 (S55), 302 kW', 'Rear-wheel drive']);
 R('m2-f87', { makes: ['BMW'], models: ['2 Series', 'M2'], years: [2016, 2018], match: ['^M2 Coupe$'] },
