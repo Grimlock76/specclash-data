@@ -189,44 +189,6 @@
       "topSpeed": 230,
       "price": "~$73,490",
       "aspiration": "Garrett Single-Turbo"
-    },
-    "Alfa Romeo|Stelvio|2026|Ti": {
-      "engine": "2.0T Turbo",
-      "fuelType": "petrol",
-      "displacement": 1995,
-      "cylinders": 4,
-      "drivetrain": "AWD",
-      "transmission": "8-speed auto",
-      "power": 206,
-      "torque": 400,
-      "weight": 1660,
-      "seats": 5,
-      "fc": 11.3,
-      "fh": 5.9,
-      "fx": 8,
-      "acceleration": 5.7,
-      "topSpeed": 230,
-      "price": "~$74,900",
-      "aspiration": "IHI Single-Turbo"
-    },
-    "Alfa Romeo|Stelvio|2026|Veloce": {
-      "engine": "2.0T Turbo",
-      "fuelType": "petrol",
-      "displacement": 1995,
-      "cylinders": 4,
-      "drivetrain": "AWD",
-      "transmission": "8-speed auto",
-      "power": 206,
-      "torque": 400,
-      "weight": 1680,
-      "seats": 5,
-      "fc": 11.3,
-      "fh": 5.9,
-      "fx": 8,
-      "acceleration": 5.7,
-      "topSpeed": 230,
-      "price": "~$86,900",
-      "aspiration": "IHI Single-Turbo"
     }
   }
 }
