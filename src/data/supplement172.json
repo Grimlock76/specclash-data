@@ -134,25 +134,6 @@
       "price": "~$39,990",
       "aspiration": "IHI Single-Turbo"
     },
-    "Volkswagen|Amarok|2024|TDI580 Style": {
-      "engine": "3.0L V6 TDI",
-      "fuelType": "diesel",
-      "displacement": 2967,
-      "cylinders": 6,
-      "drivetrain": "AWD",
-      "transmission": "8-speed Tiptronic",
-      "power": 174,
-      "torque": 500,
-      "weight": 2296,
-      "seats": 5,
-      "fc": 13.6,
-      "fh": 7.6,
-      "fx": 9.8,
-      "acceleration": 8,
-      "topSpeed": 188,
-      "price": "~$70,190",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
-    },
     "Bentley|Bentayga|2024|S": {
       "engine": "4.0L V8 Twin-Turbo",
       "fuelType": "petrol",

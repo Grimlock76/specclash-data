@@ -192,25 +192,6 @@
       "price": "~$59,950",
       "aspiration": "BorgWarner Single-Turbo"
     },
-    "Volkswagen|Amarok|2025|TDI580 Style": {
-      "engine": "3.0L V6 TDI",
-      "fuelType": "diesel",
-      "displacement": 2967,
-      "cylinders": 6,
-      "drivetrain": "AWD",
-      "transmission": "8-speed Tiptronic",
-      "power": 174,
-      "torque": 500,
-      "weight": 2296,
-      "seats": 5,
-      "fc": 13.6,
-      "fh": 7.6,
-      "fx": 9.8,
-      "acceleration": 8,
-      "topSpeed": 188,
-      "price": "~$72,190",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
-    },
     "Maserati|Grecale|2025|GT": {
       "engine": "2.0L 4-cyl Twin-Turbo mHEV",
       "fuelType": "petrol",
