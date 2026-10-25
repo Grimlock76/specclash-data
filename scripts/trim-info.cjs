@@ -570,6 +570,12 @@ R('i30n', { makes: ['Hyundai'], models: ['i30 N'], match: ['.'] },
     'Adaptive dampers and N drive modes',
     '6-speed manual with rev-matching; 8-speed N DCT from 2021',
   ]);
+R('i20n', { makes: ['Hyundai'], models: ['i20'], match: ['^N$'] },
+  'i20 N', 'i20 N Line', 'Hyundai\'s rally-bred light hot hatch.', [
+    '1.6L turbo four, 150 kW / 275 Nm',
+    '6-speed manual with rev-matching, front-wheel drive',
+    'Mechanical limited-slip front diff (N Corner Carving Differential)',
+  ]);
 R('kona-n', { makes: ['Hyundai'], models: ['Kona N'], match: ['.'] },
   'Kona N', 'Kona N Line', 'Hot SUV with the i30 N\'s engine.', [
     '2.0L turbo four, 206 kW / 392 Nm',

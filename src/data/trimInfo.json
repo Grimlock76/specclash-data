@@ -2237,6 +2237,26 @@
     ]
   },
   {
+    "id": "i20n",
+    "makes": [
+      "Hyundai"
+    ],
+    "models": [
+      "i20"
+    ],
+    "match": [
+      "^N$"
+    ],
+    "title": "i20 N",
+    "base": "i20 N Line",
+    "summary": "Hyundai's rally-bred light hot hatch.",
+    "highlights": [
+      "1.6L turbo four, 150 kW / 275 Nm",
+      "6-speed manual with rev-matching, front-wheel drive",
+      "Mechanical limited-slip front diff (N Corner Carving Differential)"
+    ]
+  },
+  {
     "id": "kona-n",
     "makes": [
       "Hyundai"
