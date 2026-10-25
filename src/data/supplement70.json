@@ -479,28 +479,6 @@
       "quarterMile": "~19.8 sec",
       "price": "~$46,990",
       "aspiration": "NA"
-    },
-    "LDV|T60|2024|Max Luxe": {
-      "engine": "2.0L Turbo Diesel",
-      "displacement": 1996,
-      "cylinders": 4,
-      "power": 120,
-      "torque": 400,
-      "transmission": "6-speed auto",
-      "drivetrain": "4WD",
-      "fuelType": "diesel",
-      "fc": 12.5,
-      "fh": 7.3,
-      "fx": 9.5,
-      "weight": 2175,
-      "seats": 5,
-      "bodyStyle": "Ute",
-      "acceleration": 11.8,
-      "topSpeed": 172,
-      "cargo": 1090,
-      "quarterMile": "~20.1 sec",
-      "price": "~$38,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
     }
   }
 }
