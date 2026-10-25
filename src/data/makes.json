@@ -36612,14 +36612,16 @@
     },
     "EV3": {
       "2025": [
-        "GT-Line",
-        "Long Range",
-        "Standard Range"
+        "Air Standard Range",
+        "Air Long Range",
+        "Earth Long Range",
+        "GT-Line Long Range"
       ],
       "2026": [
-        "GT-Line",
-        "Long Range",
-        "Standard Range"
+        "Air Standard Range",
+        "Air Long Range",
+        "Earth Long Range",
+        "GT-Line Long Range"
       ]
     },
     "Stonic": {
