@@ -203,9 +203,15 @@ R('g6e', { makes: ['Ford'], models: [...FALCON_FG, 'Falcon \\(FG X\\)'], match: 
   ]);
 R('mustang-gt', { makes: ['Ford'], models: ['Mustang'], years: [2015, 2026], match: ['\\bGT\\b'] },
   'Mustang GT', 'EcoBoost', 'The V8 Mustang.', [
-    '5.0L Coyote V8 (306–339 kW depending on year)',
+    '5.0L Coyote V8 (306–345 kW depending on year)',
     '6-speed manual or automatic (10-speed from 2018)',
     'Brembo front brakes',
+  ]);
+R('mustang-dark-horse', { makes: ['Ford'], models: ['Mustang'], years: [2024, 2026], match: ['Dark Horse'] },
+  'Mustang Dark Horse', 'Mustang GT', 'Track-focused flagship S650 Mustang.', [
+    '5.0L Coyote V8, 349 kW / 548 Nm',
+    '6-speed manual or 10-speed automatic',
+    'Sits above the GT in the S650 range',
   ]);
 R('ranger-phev', { makes: ['Ford'], models: ['Ranger'], years: [2025, 2026], match: ['PHEV'] },
   'Ranger PHEV', 'Ranger diesel', 'Plug-in hybrid Ranger.', [

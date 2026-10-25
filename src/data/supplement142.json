@@ -266,25 +266,6 @@
       "price": "~$61,990",
       "aspiration": "NA"
     },
-    "Ford|Mustang|2024|Fastback EcoBoost": {
-      "engine": "2.3L I4 EcoBoost High Performance",
-      "fuelType": "petrol",
-      "displacement": 2300,
-      "cylinders": 4,
-      "drivetrain": "RWD",
-      "transmission": "10-speed auto",
-      "power": 232,
-      "torque": 475,
-      "weight": 1620,
-      "seats": 4,
-      "fc": 10,
-      "fh": 7,
-      "fx": 8.4,
-      "acceleration": 5.3,
-      "topSpeed": 250,
-      "price": "~$58,990",
-      "aspiration": "BorgWarner Single-Turbo"
-    },
     "Ford|Escape|2023|ZH Titanium": {
       "engine": "2.0L EcoBoost Turbo I4",
       "fuelType": "petrol",
