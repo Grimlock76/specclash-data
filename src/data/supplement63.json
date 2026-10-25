@@ -63,27 +63,6 @@
       "price": "~$109,990",
       "aspiration": "Electric"
     },
-    "Hyundai|Ioniq 5 N|2024|N": {
-      "engine": "Dual Motor Electric",
-      "displacement": null,
-      "cylinders": null,
-      "power": 448,
-      "torque": 740,
-      "transmission": "Single-speed",
-      "drivetrain": "AWD",
-      "fuelType": "electric",
-      "battery": "84.0 kWh",
-      "range": 448,
-      "weight": 2232,
-      "seats": 5,
-      "bodyStyle": "SUV",
-      "acceleration": 3.4,
-      "topSpeed": 260,
-      "cargo": 527,
-      "quarterMile": "~11.7 sec",
-      "price": "~$109,990",
-      "aspiration": "Electric"
-    },
     "Honda|CR-V|2024|VTi": {
       "engine": "2.0L i-MMD e:HEV",
       "displacement": 1993,
