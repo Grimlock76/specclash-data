@@ -1196,25 +1196,6 @@
       "price": "~$97,990",
       "aspiration": "Electric"
     },
-    "Kia|EV9|2024|GT": {
-      "engine": "Dual Electric Motor GT",
-      "fuelType": "electric",
-      "battery": "99.8 kWh",
-      "range": 480,
-      "drivetrain": "AWD",
-      "transmission": "Auto",
-      "power": 430,
-      "torque": 700,
-      "weight": 2610,
-      "seats": 6,
-      "fc": null,
-      "fh": null,
-      "fx": null,
-      "acceleration": 4.3,
-      "topSpeed": 206,
-      "price": "~$109,990",
-      "aspiration": "Electric"
-    },
     "Mercedes-Benz|E-Class|2024|E300e": {
       "engine": "2.0L 4-cyl Turbo PHEV",
       "fuelType": "hybrid",
