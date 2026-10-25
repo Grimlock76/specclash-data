@@ -1,0 +1,48 @@
+{
+  "specs": {
+    "Genesis|G70|2025|3.3T Sport Luxury Sedan": {
+      "topSpeed": 270,
+      "acceleration": 4.7,
+      "cargo": 330,
+      "transmission": "8-speed automatic",
+      "engine": "3.3L V6 Twin-Turbo Petrol",
+      "displacement": 3342,
+      "cylinders": 6,
+      "aspiration": "Twin-Turbo",
+      "fuelType": "petrol",
+      "power": 274,
+      "torque": 510,
+      "drivetrain": "RWD",
+      "fc": 15.4,
+      "fh": 7.8,
+      "fx": 10.6,
+      "weight": 1765,
+      "seats": 5,
+      "fuelTank": 60,
+      "price": "$87,114",
+      "accelClaimed": true
+    },
+    "Genesis|G70|2025|2.0T Shooting Brake Sport Line Luxury": {
+      "topSpeed": 235,
+      "acceleration": 6.4,
+      "cargo": 465,
+      "transmission": "8-speed automatic",
+      "engine": "2.0L I4 Turbo Petrol",
+      "displacement": 1998,
+      "cylinders": 4,
+      "aspiration": "Turbo",
+      "fuelType": "petrol",
+      "power": 179,
+      "torque": 353,
+      "drivetrain": "RWD",
+      "fc": 13.1,
+      "fh": 6.9,
+      "fx": 9.1,
+      "weight": 1699,
+      "seats": 5,
+      "fuelTank": 60,
+      "price": "$80,265",
+      "accelClaimed": true
+    }
+  }
+}
