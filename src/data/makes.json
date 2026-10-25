@@ -8050,14 +8050,13 @@
         "M2 Coupe"
       ],
       "2024": [
-        "CS",
-        "Coupe",
-        "M2 Coupe"
+        "M2 Coupe Auto",
+        "M2 Coupe Manual"
       ],
       "2025": [
-        "CS",
-        "Coupe",
-        "M2 Coupe"
+        "M2 Coupe Auto",
+        "M2 Coupe Manual",
+        "M2 CS"
       ],
       "2026": [
         "M2 Coupe Auto",
@@ -8768,8 +8767,7 @@
     },
     "M5": {
       "2024": [
-        "M5 Sedan",
-        "M5 Touring"
+        "M5 Sedan"
       ],
       "2025": [
         "M5 Sedan",
