@@ -695,48 +695,6 @@
       "quarterMile": "~12.3 sec",
       "price": "~$54,990",
       "aspiration": "Electric"
-    },
-    "MG|Cyberster|2024|Trophy": {
-      "engine": "Dual Motor Electric",
-      "displacement": null,
-      "cylinders": null,
-      "power": 375,
-      "torque": 725,
-      "transmission": "Single-speed",
-      "drivetrain": "AWD",
-      "fuelType": "electric",
-      "battery": "77 kWh",
-      "range": 443,
-      "weight": 1985,
-      "seats": 2,
-      "bodyStyle": "Coupe",
-      "acceleration": 3.2,
-      "topSpeed": 200,
-      "cargo": 170,
-      "quarterMile": "~11.6 sec",
-      "price": "~$69,990",
-      "aspiration": "Electric"
-    },
-    "MG|Cyberster|2025|Trophy": {
-      "engine": "Dual Motor Electric",
-      "displacement": null,
-      "cylinders": null,
-      "power": 375,
-      "torque": 725,
-      "transmission": "Single-speed",
-      "drivetrain": "AWD",
-      "fuelType": "electric",
-      "battery": "77 kWh",
-      "range": 443,
-      "weight": 1985,
-      "seats": 2,
-      "bodyStyle": "Coupe",
-      "acceleration": 3.2,
-      "topSpeed": 200,
-      "cargo": 170,
-      "quarterMile": "~11.6 sec",
-      "price": "~$69,990",
-      "aspiration": "Electric"
     }
   }
 }
