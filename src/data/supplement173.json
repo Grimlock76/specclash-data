@@ -285,25 +285,6 @@
       "price": "~$67,990",
       "aspiration": "BorgWarner Single-Turbo"
     },
-    "BYD|Shark|2024|Premium": {
-      "engine": "1.5L I4 Turbo PHEV",
-      "fuelType": "PHEV",
-      "displacement": 1497,
-      "cylinders": 4,
-      "drivetrain": "AWD",
-      "transmission": "3-speed DHT",
-      "power": 321,
-      "torque": 650,
-      "weight": 2680,
-      "seats": 5,
-      "fc": 6.5,
-      "fh": 4.3,
-      "fx": 5.3,
-      "acceleration": 5.7,
-      "topSpeed": 175,
-      "price": "~$67,990",
-      "aspiration": "Single-Turbo"
-    },
     "Renault|Megane E-Tech|2024|EV40": {
       "engine": "Electric 40 kWh",
       "fuelType": "electric",
