@@ -247,25 +247,6 @@
       "price": "~$67,990",
       "aspiration": "Electric"
     },
-    "Volvo|EX30|2024|Extended Range": {
-      "engine": "Single Motor Electric",
-      "fuelType": "electric",
-      "battery": "69 kWh",
-      "range": 480,
-      "drivetrain": "RWD",
-      "transmission": "1-speed auto",
-      "power": 200,
-      "torque": 343,
-      "weight": 1870,
-      "seats": 5,
-      "fc": null,
-      "fh": null,
-      "fx": null,
-      "acceleration": 5.7,
-      "topSpeed": 180,
-      "price": "~$45,990",
-      "aspiration": "Electric"
-    },
     "GWM|Tank 300|2024|Ultra PHEV": {
       "engine": "2.0L I4 Turbo PHEV",
       "fuelType": "PHEV",
