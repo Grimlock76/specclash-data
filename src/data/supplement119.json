@@ -1528,25 +1528,6 @@
       "price": "~$63,990",
       "aspiration": "IHI Single-Turbo"
     },
-    "Subaru|Outback|2024|Wilderness": {
-      "engine": "2.4L Turbo Flat-4",
-      "displacement": 2387,
-      "cylinders": 4,
-      "transmission": "CVT",
-      "drivetrain": "AWD",
-      "fuelType": "petrol",
-      "power": 194,
-      "torque": 376,
-      "weight": 1730,
-      "seats": 5,
-      "fc": 10.8,
-      "fh": 7.8,
-      "fx": 9.5,
-      "acceleration": 7.5,
-      "topSpeed": 188,
-      "price": "~$65,990",
-      "aspiration": "IHI Single-Turbo"
-    },
     "Hyundai|Inster|2025|Standard Range": {
       "engine": "Single Electric Motor",
       "fuelType": "electric",
