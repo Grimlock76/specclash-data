@@ -1490,25 +1490,6 @@
       "price": "~$62,990",
       "aspiration": "Electric"
     },
-    "Kia|Seltos|2024|X-Line HEV": {
-      "engine": "1.6L 4-cyl Hybrid",
-      "fuelType": "hybrid",
-      "displacement": 1598,
-      "cylinders": 4,
-      "drivetrain": "AWD",
-      "transmission": "6-spd Auto",
-      "power": 104,
-      "torque": 264,
-      "weight": 1575,
-      "seats": 5,
-      "fc": null,
-      "fh": null,
-      "fx": 5.3,
-      "acceleration": 9.5,
-      "topSpeed": 175,
-      "price": "~$47,990",
-      "aspiration": "NA"
-    },
     "Hyundai|Kona|2021|Electric": {
       "engine": "Single Electric Motor",
       "fuelType": "electric",
