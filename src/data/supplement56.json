@@ -1556,27 +1556,6 @@
       "price": "~$54,990",
       "aspiration": "Electric"
     },
-    "Volvo|EX30|2025|Extended Range": {
-      "engine": "Single Motor Electric",
-      "displacement": null,
-      "cylinders": null,
-      "power": 200,
-      "torque": 343,
-      "transmission": "Single-speed",
-      "drivetrain": "RWD",
-      "fuelType": "electric",
-      "battery": "69 kWh",
-      "range": 480,
-      "weight": 1870,
-      "seats": 5,
-      "bodyStyle": "SUV",
-      "acceleration": 5.7,
-      "topSpeed": 180,
-      "cargo": 318,
-      "quarterMile": "~14.0 sec",
-      "price": "~$47,990",
-      "aspiration": "Electric"
-    },
     "Volvo|EX90|2025|Twin Motor": {
       "engine": "Dual Motor Electric",
       "displacement": null,

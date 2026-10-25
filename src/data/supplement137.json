@@ -76,25 +76,6 @@
       "price": "~$66,490",
       "aspiration": "Electric"
     },
-    "Volvo|EX30|2025|Twin Motor": {
-      "engine": "Dual Motor Electric",
-      "fuelType": "electric",
-      "battery": "69 kWh",
-      "range": 480,
-      "drivetrain": "AWD",
-      "transmission": "Single-speed",
-      "power": 315,
-      "torque": 543,
-      "weight": 1945,
-      "seats": 5,
-      "fc": null,
-      "fh": null,
-      "fx": null,
-      "acceleration": 3.6,
-      "topSpeed": 180,
-      "price": "~$57,990",
-      "aspiration": "Electric"
-    },
     "Ora|Funky Cat|2023|Cat": {
       "engine": "Single Electric Motor",
       "fuelType": "electric",
