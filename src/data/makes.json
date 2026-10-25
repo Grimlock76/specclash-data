@@ -30499,20 +30499,14 @@
         "e:HEV RS"
       ],
       "2025": [
-        "RS",
-        "Type R FL5",
-        "VTi",
-        "VTi-LX",
-        "VTi-S",
-        "e:HEV RS"
+        "e:HEV L",
+        "e:HEV LX",
+        "Type R"
       ],
       "2026": [
-        "RS",
-        "Type R FL5",
-        "VTi",
-        "VTi-LX",
-        "VTi-S",
-        "e:HEV RS"
+        "e:HEV L",
+        "e:HEV LX",
+        "Type R"
       ]
     },
     "Accord": {
@@ -30737,9 +30731,8 @@
         "e:HEV L"
       ],
       "2026": [
-        "VTi",
-        "VTi-LX",
-        "VTi-S",
+        "Vi X",
+        "e:HEV X",
         "e:HEV L",
         "e:HEV RS"
       ]
@@ -31087,8 +31080,13 @@
         "VTi-S e:HEV"
       ],
       "2026": [
-        "VTi-LX e:HEV",
-        "VTi-S e:HEV"
+        "VTi X+",
+        "VTi X",
+        "VTi L+",
+        "e:HEV X",
+        "e:HEV L",
+        "VTi LX",
+        "e:HEV LX"
       ]
     },
     "e:Ny1": {
