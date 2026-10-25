@@ -1100,28 +1100,6 @@
       "quarterMile": "~13.7 sec",
       "aspiration": "IHI Single-Turbo"
     },
-    "Audi|SQ5|2024|SQ5": {
-      "engine": "3.0 V6 TFSI",
-      "displacement": 2995,
-      "cylinders": 6,
-      "power": 260,
-      "torque": 500,
-      "transmission": "8-speed tiptronic",
-      "fuelType": "petrol",
-      "fc": 14.1,
-      "acceleration": 5.4,
-      "topSpeed": 250,
-      "weight": 1930,
-      "seats": 5,
-      "cargo": 550,
-      "bodyStyle": "SUV",
-      "drivetrain": "AWD",
-      "price": "$115,000",
-      "fh": 7.4,
-      "fx": 10,
-      "quarterMile": "~13.7 sec",
-      "aspiration": "IHI Single-Turbo"
-    },
     "Audi|SQ7|2016|SQ7": {
       "engine": "4.0 V8 TDI",
       "displacement": 3956,

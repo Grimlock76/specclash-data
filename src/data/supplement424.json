@@ -1,0 +1,50 @@
+{
+  "specs": {
+    "Audi|SQ5|2024|TDI": {
+      "engine": "3.0L V6 Turbo Diesel",
+      "displacement": 2967,
+      "cylinders": 6,
+      "aspiration": "Turbo + electric compressor",
+      "fuelType": "diesel",
+      "drivetrain": "AWD",
+      "transmission": "8-speed automatic",
+      "power": 251,
+      "torque": 700,
+      "fc": 8.7,
+      "fh": 6,
+      "fx": 7,
+      "acceleration": 5.1,
+      "topSpeed": null,
+      "weight": null,
+      "seats": 5,
+      "cargo": null,
+      "fuelTank": 70,
+      "towing": 2000,
+      "accelClaimed": true,
+      "price": "$124,315"
+    },
+    "Audi|SQ5|2025|TDI": {
+      "engine": "3.0L V6 Turbo Diesel",
+      "displacement": 2967,
+      "cylinders": 6,
+      "aspiration": "Turbo + electric compressor",
+      "fuelType": "diesel",
+      "drivetrain": "AWD",
+      "transmission": "8-speed automatic",
+      "power": 251,
+      "torque": 700,
+      "fc": 8.7,
+      "fh": 6,
+      "fx": 7,
+      "acceleration": 5.1,
+      "topSpeed": null,
+      "weight": null,
+      "seats": 5,
+      "cargo": null,
+      "fuelTank": 70,
+      "towing": 2000,
+      "accelClaimed": true,
+      "price": "$124,315"
+    }
+  }
+}
