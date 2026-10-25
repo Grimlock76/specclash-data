@@ -3,8 +3,8 @@
 // K4 replaced it for 2025) and Kia Stonic 2024 (YB MY24), 2025 + 2026 (YB PE2
 // MY26 facelift, 1.0T only). Replaces stale rows (~ prices). Specs + price when
 // new: Carsales variant pages (base price incl GST & LCT). Tare-only / below-
-// tare weights null. Stonic MY26 power: Carsales spec table says 88.3 kW but
-// its overview says 74 kW -> null.
+// tare weights null. Stonic MY26 is the 48V mild hybrid (CarsGuide "MHEV"):
+// 88.3 kW per the Carsales spec table (its overview's 74 kW is the old engine).
 const { writeLineups, $ } = require('./lineup-lib.cjs');
 const C = { engine: '2.0L I4 Petrol', displacement: 1999, cylinders: 4, aspiration: 'Naturally Aspirated', fuelType: 'petrol',
   power: 112, torque: 192, transmission: '6-speed automatic', drivetrain: 'FWD', seats: 5, fuelTank: 50, weight: null,
@@ -19,7 +19,7 @@ const S14M = { ...S14, transmission: '6-speed manual', fc: 7.4, fh: 5.2, fx: 6.0
 const S14A = { ...S14, transmission: '6-speed automatic', fc: 8.6, fh: 5.6, fx: 6.7 };
 const S10 = { ...ST, engine: '1.0L I3 Turbo Petrol', displacement: 998, cylinders: 3, aspiration: 'Turbo', power: 74, torque: 172,
   transmission: '7-speed dual-clutch', fc: 6.4, fh: 4.9, fx: 5.4 };
-const S26 = { ...S10, power: null, fc: 5.8, fh: 4.5, fx: 5.0, cargo: 352 };
+const S26 = { ...S10, engine: '1.0L I3 Turbo Petrol Mild Hybrid', power: 88.3, fc: 5.8, fh: 4.5, fx: 5.0, cargo: 352 };
 const st26 = () => ({ 'S': { ...S26, price: $(28180) }, 'Sport': { ...S26, price: $(32290) }, 'GT-Line': { ...S26, price: $(35740) } });
 
 writeLineups(363, {
