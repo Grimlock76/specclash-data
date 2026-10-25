@@ -35997,9 +35997,14 @@
         "Sport+"
       ],
       "2024": [
-        "GT",
-        "S",
-        "Sport+"
+        "S Sedan",
+        "Sport Sedan",
+        "Sport+ Sedan",
+        "GT Sedan",
+        "S Hatch",
+        "Sport Hatch",
+        "Sport+ Hatch",
+        "GT Hatch"
       ],
       "2025": [
         "GT",
@@ -36650,9 +36655,21 @@
         "Sport"
       ],
       "2024": [
-        "GT-Line",
+        "S Manual",
+        "S Auto",
+        "Sport Manual",
+        "Sport Auto",
+        "GT-Line"
+      ],
+      "2025": [
         "S",
-        "Sport"
+        "Sport",
+        "GT-Line"
+      ],
+      "2026": [
+        "S",
+        "Sport",
+        "GT-Line"
       ]
     },
     "Tasman": {
