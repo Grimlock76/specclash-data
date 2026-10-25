@@ -1636,6 +1636,36 @@
     ]
   },
   {
+    "id": "mazda-pure",
+    "makes": [
+      "Mazda"
+    ],
+    "match": [
+      "\\bPure\\b"
+    ],
+    "title": "Pure",
+    "base": "Evolve",
+    "summary": "Entry grade.",
+    "highlights": [
+      "The base equipment level in the range"
+    ]
+  },
+  {
+    "id": "mazda-evolve",
+    "makes": [
+      "Mazda"
+    ],
+    "match": [
+      "\\bEvolve\\b"
+    ],
+    "title": "Evolve",
+    "base": "Pure",
+    "summary": "Step-up grade above Pure.",
+    "highlights": [
+      "Adds equipment over the Pure, below Touring"
+    ]
+  },
+  {
     "id": "mazda-atenza",
     "makes": [
       "Mazda"

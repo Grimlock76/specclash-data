@@ -435,6 +435,10 @@ R('mazda-grand-touring', { makes: ['Mazda'], match: ['Grand Touring'] },
 R('mazda-akari', { makes: ['Mazda'], match: ['Akari'] }, 'Akari', 'Touring', 'Top-spec grade.', ['The most equipment in the range']);
 R('mazda-asaki', { makes: ['Mazda'], match: ['Asaki'] }, 'Asaki', 'GT', 'Flagship luxury grade.', ['Nappa leather and the most equipment in the range']);
 R('mazda-azami', { makes: ['Mazda'], match: ['Azami'] }, 'Azami', 'GT', 'Flagship luxury grade.', ['Premium leather and the most equipment in the range']);
+R('mazda-pure', { makes: ['Mazda'], match: ['\\bPure\\b'] }, 'Pure', 'Evolve', 'Entry grade.',
+  ['The base equipment level in the range']);
+R('mazda-evolve', { makes: ['Mazda'], match: ['\\bEvolve\\b'] }, 'Evolve', 'Pure', 'Step-up grade above Pure.',
+  ['Adds equipment over the Pure, below Touring']);
 R('mazda-atenza', { makes: ['Mazda'], match: ['Atenza'] }, 'Atenza', 'GT', 'Flagship luxury grade.', ['The most equipment in the range']);
 R('mazda-genki', { makes: ['Mazda'], match: ['Genki'] }, 'Genki', 'Maxx', 'Top-spec Mazda2.', ['Sports styling and the most equipment in the range']);
 R('mazda-astina', { makes: ['Mazda'], match: ['Astina'] }, 'Astina', 'GT / SP25', 'Top-spec grade.', ['The most equipment in the range for its year']);
