@@ -691,6 +691,12 @@ R('mache-gt', { makes: ['Ford'], models: ['Mustang Mach-E'], years: [2021, 2026]
     'Dual-motor all-wheel drive',
     '434 kW / 955 Nm from the 2026 update',
   ]);
+R('honda-ehev-rs', { makes: ['Honda'], match: ['e:HEV RS'] },
+  'e:HEV RS', 'e:HEV L / LX', 'Sports-styled top hybrid grade.', ['RS styling over the e:HEV hybrid']);
+R('honda-lx', { makes: ['Honda'], models: ['CR-V', 'ZR-V', 'Civic'], match: ['\\bLX\\b'] },
+  'LX', 'L', 'Top luxury grade.', ['The most equipment in the range']);
+R('honda-l7', { makes: ['Honda'], models: ['CR-V'], match: ['\\bL7$', '\\bX7$'] },
+  '7-seat', '5-seat', 'Seven-seat CR-V.', ['Third-row seats (5+2)']);
 R('civic-type-r-fl5', { makes: ['Honda'], models: ['Civic'], years: [2023, 2026], match: ['Type R'] },
   'Civic Type R (FL5)', 'Civic VTi-LX', 'Sixth-gen Type R.', [
     '2.0L turbo four (K20C1), 235 kW / 420 Nm',

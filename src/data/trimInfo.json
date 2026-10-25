@@ -2803,6 +2803,60 @@
     ]
   },
   {
+    "id": "honda-ehev-rs",
+    "makes": [
+      "Honda"
+    ],
+    "match": [
+      "e:HEV RS"
+    ],
+    "title": "e:HEV RS",
+    "base": "e:HEV L / LX",
+    "summary": "Sports-styled top hybrid grade.",
+    "highlights": [
+      "RS styling over the e:HEV hybrid"
+    ]
+  },
+  {
+    "id": "honda-lx",
+    "makes": [
+      "Honda"
+    ],
+    "models": [
+      "CR-V",
+      "ZR-V",
+      "Civic"
+    ],
+    "match": [
+      "\\bLX\\b"
+    ],
+    "title": "LX",
+    "base": "L",
+    "summary": "Top luxury grade.",
+    "highlights": [
+      "The most equipment in the range"
+    ]
+  },
+  {
+    "id": "honda-l7",
+    "makes": [
+      "Honda"
+    ],
+    "models": [
+      "CR-V"
+    ],
+    "match": [
+      "\\bL7$",
+      "\\bX7$"
+    ],
+    "title": "7-seat",
+    "base": "5-seat",
+    "summary": "Seven-seat CR-V.",
+    "highlights": [
+      "Third-row seats (5+2)"
+    ]
+  },
+  {
     "id": "civic-type-r-fl5",
     "makes": [
       "Honda"
