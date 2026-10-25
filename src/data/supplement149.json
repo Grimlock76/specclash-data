@@ -152,25 +152,6 @@
       "price": "~$124,990",
       "aspiration": "Single-Turbo"
     },
-    "Mitsubishi|ASX|2026|MK2 Exceed": {
-      "engine": "1.3L I4 Turbo",
-      "fuelType": "petrol",
-      "displacement": 1332,
-      "cylinders": 4,
-      "drivetrain": "FWD",
-      "transmission": "6-speed auto",
-      "power": 116,
-      "torque": 270,
-      "weight": 1310,
-      "seats": 5,
-      "fc": 9.6,
-      "fh": 5.3,
-      "fx": 6.7,
-      "acceleration": 9.5,
-      "topSpeed": 185,
-      "price": "~$38,490",
-      "aspiration": "MHI Single-Turbo"
-    },
     "Peugeot|308|2026|Allure": {
       "engine": "1.2 PureTech Turbo",
       "fuelType": "petrol",
