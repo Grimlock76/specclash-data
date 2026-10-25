@@ -1,0 +1,52 @@
+{
+  "specs": {
+    "BYD|Atto 3|2024|Standard Range": {
+      "fuelType": "electric",
+      "aspiration": "Electric",
+      "transmission": "1-speed automatic",
+      "cylinders": null,
+      "displacement": null,
+      "fc": null,
+      "fh": null,
+      "fx": null,
+      "engine": "Single Motor Electric",
+      "drivetrain": "FWD",
+      "power": 150,
+      "torque": 310,
+      "topSpeed": null,
+      "seats": 5,
+      "towing": 750,
+      "cargo": 440,
+      "battery": "49.9 kWh",
+      "range": 410,
+      "acceleration": 7.9,
+      "weight": 1680,
+      "price": "$44,499",
+      "accelClaimed": true
+    },
+    "BYD|Atto 3|2024|Extended Range": {
+      "fuelType": "electric",
+      "aspiration": "Electric",
+      "transmission": "1-speed automatic",
+      "cylinders": null,
+      "displacement": null,
+      "fc": null,
+      "fh": null,
+      "fx": null,
+      "engine": "Single Motor Electric",
+      "drivetrain": "FWD",
+      "power": 150,
+      "torque": 310,
+      "topSpeed": null,
+      "seats": 5,
+      "towing": 750,
+      "cargo": 440,
+      "battery": "60.5 kWh",
+      "range": 480,
+      "acceleration": 7.3,
+      "weight": 1750,
+      "price": "$51,011",
+      "accelClaimed": true
+    }
+  }
+}
