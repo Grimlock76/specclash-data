@@ -1561,6 +1561,26 @@
     ]
   },
   {
+    "id": "mazda-large-gt",
+    "makes": [
+      "Mazda"
+    ],
+    "models": [
+      "CX-60",
+      "CX-80",
+      "CX-90"
+    ],
+    "match": [
+      "\\bGT$"
+    ],
+    "title": "GT",
+    "base": "Touring",
+    "summary": "Upper grade of Mazda's large SUVs.",
+    "highlights": [
+      "More equipment than the Touring, below Azami"
+    ]
+  },
+  {
     "id": "mazda-stouring",
     "makes": [
       "Mazda"
@@ -2421,6 +2441,44 @@
     ]
   },
   {
+    "id": "hyundai-dynamiq",
+    "makes": [
+      "Hyundai"
+    ],
+    "models": [
+      "Ioniq 5",
+      "Ioniq 6"
+    ],
+    "match": [
+      "Dynamiq"
+    ],
+    "title": "Dynamiq",
+    "base": "Standard / Long Range",
+    "summary": "Mid-spec Ioniq grade.",
+    "highlights": [
+      "More equipment than the base Ioniq, below Epiq"
+    ]
+  },
+  {
+    "id": "hyundai-epiq",
+    "makes": [
+      "Hyundai"
+    ],
+    "models": [
+      "Ioniq 5",
+      "Ioniq 6"
+    ],
+    "match": [
+      "Epiq"
+    ],
+    "title": "Epiq",
+    "base": "Dynamiq",
+    "summary": "Top-spec Ioniq grade.",
+    "highlights": [
+      "The most equipment in the Ioniq range (below the N)"
+    ]
+  },
+  {
     "id": "hyundai-trophy",
     "makes": [
       "Hyundai"
@@ -2529,6 +2587,50 @@
     "highlights": [
       "GT-Line bumpers, trim and wheels",
       "Sports seats and steering wheel"
+    ]
+  },
+  {
+    "id": "kia-ev-air",
+    "makes": [
+      "Kia"
+    ],
+    "models": [
+      "EV3",
+      "EV4",
+      "EV5",
+      "EV6",
+      "EV9"
+    ],
+    "match": [
+      "^Air"
+    ],
+    "title": "Air",
+    "base": "Earth",
+    "summary": "Entry grade of Kia's EV range.",
+    "highlights": [
+      "The base equipment level in the range"
+    ]
+  },
+  {
+    "id": "kia-ev-earth",
+    "makes": [
+      "Kia"
+    ],
+    "models": [
+      "EV3",
+      "EV4",
+      "EV5",
+      "EV6",
+      "EV9"
+    ],
+    "match": [
+      "^Earth"
+    ],
+    "title": "Earth",
+    "base": "Air",
+    "summary": "Mid grade of Kia's EV range.",
+    "highlights": [
+      "More equipment than the Air, below GT-Line"
     ]
   },
   {

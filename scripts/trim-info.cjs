@@ -428,6 +428,8 @@ R('mazda-touring', { makes: ['Mazda'], match: ['\\bTouring\\b'], exclude: ['Gran
     'Leather-appointed seats',
     'More equipment than the entry grades',
   ]);
+R('mazda-large-gt', { makes: ['Mazda'], models: ['CX-60', 'CX-80', 'CX-90'], match: ['\\bGT$'] },
+  'GT', 'Touring', 'Upper grade of Mazda\'s large SUVs.', ['More equipment than the Touring, below Azami']);
 R('mazda-stouring', { makes: ['Mazda'], match: ['sTouring'] },
   'sTouring', 'Touring', 'Sportier-styled Touring.', ['Touring equipment with sportier styling']);
 R('mazda-grand-touring', { makes: ['Mazda'], match: ['Grand Touring'] },
@@ -612,6 +614,10 @@ R('hyundai-highlander', { makes: ['Hyundai'], match: ['Highlander'] },
   'Highlander', 'Elite', 'Top-spec grade.', ['Leather trim and the most equipment in the range']);
 R('hyundai-elite', { makes: ['Hyundai'], match: ['Elite'] },
   'Elite', 'Active', 'Upper mid grade.', ['Leather-appointed seats', 'More equipment than the Active']);
+R('hyundai-dynamiq', { makes: ['Hyundai'], models: ['Ioniq 5', 'Ioniq 6'], match: ['Dynamiq'] },
+  'Dynamiq', 'Standard / Long Range', 'Mid-spec Ioniq grade.', ['More equipment than the base Ioniq, below Epiq']);
+R('hyundai-epiq', { makes: ['Hyundai'], models: ['Ioniq 5', 'Ioniq 6'], match: ['Epiq'] },
+  'Epiq', 'Dynamiq', 'Top-spec Ioniq grade.', ['The most equipment in the Ioniq range (below the N)']);
 R('hyundai-trophy', { makes: ['Hyundai'], match: ['Trophy'] },
   'Trophy', '—', 'Limited sports edition.', ['Special-edition styling and equipment']);
 
@@ -645,6 +651,10 @@ R('kia-gt-line', { makes: ['Kia'], match: ['GT-Line'] },
     'GT-Line bumpers, trim and wheels',
     'Sports seats and steering wheel',
   ]);
+R('kia-ev-air', { makes: ['Kia'], models: ['EV3', 'EV4', 'EV5', 'EV6', 'EV9'], match: ['^Air'] },
+  'Air', 'Earth', 'Entry grade of Kia\'s EV range.', ['The base equipment level in the range']);
+R('kia-ev-earth', { makes: ['Kia'], models: ['EV3', 'EV4', 'EV5', 'EV6', 'EV9'], match: ['^Earth'] },
+  'Earth', 'Air', 'Mid grade of Kia\'s EV range.', ['More equipment than the Air, below GT-Line']);
 R('kia-platinum', { makes: ['Kia'], match: ['Platinum'] },
   'Platinum', 'SLi', 'Flagship grade.', ['Premium leather and the most equipment in the range']);
 R('kia-sli', { makes: ['Kia'], match: ['\\bSLi\\b'] },
