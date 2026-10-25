@@ -228,25 +228,6 @@
       "price": "~$64,990",
       "aspiration": "Electric"
     },
-    "Tesla|Model 3|2023|Standard Range RWD": {
-      "engine": "Electric Single Motor",
-      "fuelType": "electric",
-      "battery": "60 kWh",
-      "range": 491,
-      "drivetrain": "RWD",
-      "transmission": "1sp auto",
-      "power": 208,
-      "torque": 440,
-      "weight": 1752,
-      "seats": 5,
-      "fc": null,
-      "fh": null,
-      "fx": null,
-      "acceleration": 6.1,
-      "topSpeed": 225,
-      "price": "~$54,900",
-      "aspiration": "Electric"
-    },
     "Tesla|Model S|2026|Long Range": {
       "engine": "Electric Dual Motor",
       "fuelType": "electric",
