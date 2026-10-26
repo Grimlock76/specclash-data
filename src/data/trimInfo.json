@@ -4803,5 +4803,380 @@
       "quattro AWD, 6-speed manual",
       "Assembled by Porsche at Zuffenhausen"
     ]
+  },
+  {
+    "id": "audi-dynamic-black",
+    "makes": [
+      "Audi"
+    ],
+    "match": [
+      "Dynamic Black"
+    ],
+    "title": "Dynamic Black",
+    "base": "Standard grade",
+    "summary": "Limited styling edition.",
+    "highlights": [
+      "Black exterior styling package over the grade it is based on"
+    ]
+  },
+  {
+    "id": "audi-edition-one",
+    "makes": [
+      "Audi"
+    ],
+    "match": [
+      "edition one"
+    ],
+    "title": "Edition One",
+    "base": "Standard grade",
+    "summary": "Launch edition of a new generation.",
+    "highlights": [
+      "Extra equipment and unique styling, sold for the launch period only"
+    ]
+  },
+  {
+    "id": "audi-s-line",
+    "makes": [
+      "Audi"
+    ],
+    "match": [
+      "\\bS line\\b"
+    ],
+    "title": "S line",
+    "base": "Base / Sport grade",
+    "summary": "Sportier-looking grade.",
+    "highlights": [
+      "S line bumpers and styling",
+      "Sportier interior trim and seats"
+    ]
+  },
+  {
+    "id": "audi-sport",
+    "makes": [
+      "Audi"
+    ],
+    "match": [
+      "\\bsport\\b"
+    ],
+    "title": "Sport",
+    "base": "Base grade",
+    "summary": "Mid-spec grade.",
+    "highlights": [
+      "More equipment than the base grade, below S line"
+    ]
+  },
+  {
+    "id": "audi-phev",
+    "makes": [
+      "Audi"
+    ],
+    "match": [
+      "TFSI e\\b",
+      "e-hybrid"
+    ],
+    "title": "Plug-in hybrid",
+    "base": "Petrol equivalent",
+    "summary": "Plug-in hybrid version.",
+    "highlights": [
+      "Turbo petrol plus electric motor and a plug-in battery",
+      "Can drive short distances on electric power alone"
+    ]
+  },
+  {
+    "id": "audi-sq-ev",
+    "makes": [
+      "Audi"
+    ],
+    "models": [
+      "Q8 e-tron",
+      "Q8 e-tron Sportback",
+      "Q6 e-tron"
+    ],
+    "match": [
+      "^SQ"
+    ],
+    "title": "Electric S model",
+    "base": "Regular e-tron",
+    "summary": "Audi Sport's fast electric tier.",
+    "highlights": [
+      "More powerful electric motors than the regular e-tron grades",
+      "All-wheel drive"
+    ]
+  },
+  {
+    "id": "audi-sq-s",
+    "makes": [
+      "Audi"
+    ],
+    "match": [
+      "^S[Q]?\\d\\b",
+      "^SQ\\d"
+    ],
+    "title": "S model",
+    "base": "Regular model",
+    "summary": "Audi Sport's fast-but-civil tier, below RS.",
+    "highlights": [
+      "Bigger, more powerful engine than the regular range",
+      "quattro AWD and sports suspension"
+    ]
+  },
+  {
+    "id": "audi-quattro",
+    "makes": [
+      "Audi"
+    ],
+    "match": [
+      "\\bquattro\\b"
+    ],
+    "title": "quattro",
+    "base": "FWD / RWD version",
+    "summary": "All-wheel-drive version.",
+    "highlights": [
+      "Audi quattro all-wheel drive"
+    ]
+  },
+  {
+    "id": "mb-maybach",
+    "makes": [
+      "Mercedes-Benz"
+    ],
+    "match": [
+      "Maybach"
+    ],
+    "title": "Maybach",
+    "base": "Mercedes-Benz equivalent",
+    "summary": "Mercedes' ultra-luxury sub-brand.",
+    "highlights": [
+      "Top-level luxury fit-out and rear-seat comfort",
+      "Unique Maybach styling"
+    ]
+  },
+  {
+    "id": "mb-amg-63",
+    "makes": [
+      "Mercedes-Benz"
+    ],
+    "match": [
+      "(?<!\\d)63\\b"
+    ],
+    "title": "AMG 63",
+    "base": "AMG 53 / 43",
+    "summary": "Top AMG performance tier.",
+    "highlights": [
+      "The most powerful version of the model",
+      "AMG-tuned chassis, brakes and exhaust"
+    ]
+  },
+  {
+    "id": "mb-amg-53",
+    "makes": [
+      "Mercedes-Benz"
+    ],
+    "match": [
+      "(?<!\\d)53\\b"
+    ],
+    "exclude": [
+      "EQ"
+    ],
+    "title": "AMG 53",
+    "base": "Regular model",
+    "summary": "Mid AMG tier, usually six-cylinder or a strong hybrid.",
+    "highlights": [
+      "AMG-tuned performance below the 63",
+      "All-wheel drive (4MATIC+)"
+    ]
+  },
+  {
+    "id": "mb-amg-43",
+    "makes": [
+      "Mercedes-Benz"
+    ],
+    "match": [
+      "(?<!\\d)43\\b"
+    ],
+    "exclude": [
+      "EQ"
+    ],
+    "title": "AMG 43",
+    "base": "Regular model",
+    "summary": "Entry AMG tier for the mid-size cars.",
+    "highlights": [
+      "AMG-tuned engine and chassis"
+    ]
+  },
+  {
+    "id": "mb-amg-35",
+    "makes": [
+      "Mercedes-Benz"
+    ],
+    "match": [
+      "(?<!\\d)35\\b"
+    ],
+    "title": "AMG 35",
+    "base": "Regular model",
+    "summary": "Entry AMG tier for the small cars.",
+    "highlights": [
+      "2.0L turbo four-cylinder",
+      "4MATIC all-wheel drive"
+    ]
+  },
+  {
+    "id": "mb-amg-45",
+    "makes": [
+      "Mercedes-Benz"
+    ],
+    "match": [
+      "\\b45 S\\b",
+      "45 S AMG"
+    ],
+    "title": "AMG 45 S",
+    "base": "AMG 35",
+    "summary": "Top small-car AMG.",
+    "highlights": [
+      "2.0L turbo four-cylinder, 310 kW / 500 Nm",
+      "4MATIC+ all-wheel drive"
+    ]
+  },
+  {
+    "id": "mb-edition-r",
+    "makes": [
+      "Mercedes-Benz"
+    ],
+    "match": [
+      "Edition R\\+?"
+    ],
+    "title": "Edition R",
+    "base": "Standard grade",
+    "summary": "Run-out / special edition with extra equipment.",
+    "highlights": [
+      "Extra equipment or styling over the grade it is based on"
+    ]
+  },
+  {
+    "id": "mb-night",
+    "makes": [
+      "Mercedes-Benz"
+    ],
+    "match": [
+      "Night Edition"
+    ],
+    "title": "Night Edition",
+    "base": "Standard grade",
+    "summary": "Blacked-out styling edition.",
+    "highlights": [
+      "Black exterior trim package"
+    ]
+  },
+  {
+    "id": "mb-special",
+    "makes": [
+      "Mercedes-Benz"
+    ],
+    "match": [
+      "Special Edition",
+      "City Edition",
+      "Sport Edition",
+      "AMG Line Plus Edition"
+    ],
+    "title": "Special edition",
+    "base": "Standard grade",
+    "summary": "Limited-run edition.",
+    "highlights": [
+      "Extra equipment or a value-packed spec over the standard grade"
+    ]
+  },
+  {
+    "id": "mb-carbon",
+    "makes": [
+      "Mercedes-Benz"
+    ],
+    "match": [
+      "Carbon Edition"
+    ],
+    "title": "Carbon Edition",
+    "base": "Standard grade",
+    "summary": "Carbon-fibre styling edition.",
+    "highlights": [
+      "Carbon-fibre exterior and interior trim pieces"
+    ]
+  },
+  {
+    "id": "mb-avantgarde",
+    "makes": [
+      "Mercedes-Benz"
+    ],
+    "match": [
+      "Avantgarde"
+    ],
+    "title": "Avantgarde",
+    "base": "AMG Line",
+    "summary": "Comfort-styled grade.",
+    "highlights": [
+      "Chrome-accented, more classic styling than AMG Line"
+    ]
+  },
+  {
+    "id": "mb-edition-7",
+    "makes": [
+      "Mercedes-Benz"
+    ],
+    "match": [
+      "Edition 7"
+    ],
+    "title": "Edition 7",
+    "base": "Standard grade",
+    "summary": "Seven-seat edition.",
+    "highlights": [
+      "Third-row seating for seven"
+    ]
+  },
+  {
+    "id": "mb-phev",
+    "makes": [
+      "Mercedes-Benz"
+    ],
+    "match": [
+      "\\d{3} e\\b",
+      "\\d{3}e\\b",
+      "\\bde\\b"
+    ],
+    "title": "Plug-in hybrid",
+    "base": "Petrol / diesel equivalent",
+    "summary": "Plug-in hybrid version.",
+    "highlights": [
+      "Combustion engine plus electric motor and a plug-in battery",
+      "Can drive on electric power alone for a useful range"
+    ]
+  },
+  {
+    "id": "mb-electric",
+    "makes": [
+      "Mercedes-Benz"
+    ],
+    "match": [
+      "Electric",
+      "EQ"
+    ],
+    "title": "Electric",
+    "base": "Petrol equivalent",
+    "summary": "Battery-electric version.",
+    "highlights": [
+      "Fully electric drivetrain, no tailpipe emissions"
+    ]
+  },
+  {
+    "id": "mb-4matic",
+    "makes": [
+      "Mercedes-Benz"
+    ],
+    "match": [
+      "4MATIC"
+    ],
+    "title": "4MATIC",
+    "base": "2WD version",
+    "summary": "All-wheel-drive version.",
+    "highlights": [
+      "Mercedes 4MATIC all-wheel drive"
+    ]
   }
 ]

@@ -988,6 +988,57 @@ R('r8-v8', { makes: AUDI, models: ['R8'], match: ['^V8$'] },
 R('rs2', { makes: AUDI, models: ['RS2 Avant'], match: ['.'] },
   'RS2 Avant', 'S2', 'The original RS, built with Porsche.', ['2.2L turbo five-cylinder, 232 kW', 'quattro AWD, 6-speed manual', 'Assembled by Porsche at Zuffenhausen']);
 
+// Audi grade names (generic, after the model-specific RS / R8 rules above)
+R('audi-dynamic-black', { makes: AUDI, match: ['Dynamic Black'] }, 'Dynamic Black', 'Standard grade',
+  'Limited styling edition.', ['Black exterior styling package over the grade it is based on']);
+R('audi-edition-one', { makes: AUDI, match: ['edition one'] }, 'Edition One', 'Standard grade',
+  'Launch edition of a new generation.', ['Extra equipment and unique styling, sold for the launch period only']);
+R('audi-s-line', { makes: AUDI, match: ['\\bS line\\b'] }, 'S line', 'Base / Sport grade',
+  'Sportier-looking grade.', ['S line bumpers and styling', 'Sportier interior trim and seats']);
+R('audi-sport', { makes: AUDI, match: ['\\bsport\\b'] }, 'Sport', 'Base grade',
+  'Mid-spec grade.', ['More equipment than the base grade, below S line']);
+R('audi-phev', { makes: AUDI, match: ['TFSI e\\b', 'e-hybrid'] }, 'Plug-in hybrid', 'Petrol equivalent',
+  'Plug-in hybrid version.', ['Turbo petrol plus electric motor and a plug-in battery', 'Can drive short distances on electric power alone']);
+R('audi-sq-ev', { makes: AUDI, models: ['Q8 e-tron', 'Q8 e-tron Sportback', 'Q6 e-tron'], match: ['^SQ'] }, 'Electric S model', 'Regular e-tron',
+  'Audi Sport\'s fast electric tier.', ['More powerful electric motors than the regular e-tron grades', 'All-wheel drive']);
+R('audi-sq-s', { makes: AUDI, match: ['^S[Q]?\\d\\b', '^SQ\\d'] }, 'S model', 'Regular model',
+  'Audi Sport\'s fast-but-civil tier, below RS.', ['Bigger, more powerful engine than the regular range', 'quattro AWD and sports suspension']);
+R('audi-quattro', { makes: AUDI, match: ['\\bquattro\\b'] }, 'quattro', 'FWD / RWD version',
+  'All-wheel-drive version.', ['Audi quattro all-wheel drive']);
+
+// Mercedes-Benz edition and AMG tier names
+const MB = ['Mercedes-Benz'];
+R('mb-maybach', { makes: MB, match: ['Maybach'] }, 'Maybach', 'Mercedes-Benz equivalent',
+  'Mercedes\' ultra-luxury sub-brand.', ['Top-level luxury fit-out and rear-seat comfort', 'Unique Maybach styling']);
+R('mb-amg-63', { makes: MB, match: ['(?<!\\d)63\\b'] }, 'AMG 63', 'AMG 53 / 43',
+  'Top AMG performance tier.', ['The most powerful version of the model', 'AMG-tuned chassis, brakes and exhaust']);
+R('mb-amg-53', { makes: MB, match: ['(?<!\\d)53\\b'], exclude: ['EQ'] }, 'AMG 53', 'Regular model',
+  'Mid AMG tier, usually six-cylinder or a strong hybrid.', ['AMG-tuned performance below the 63', 'All-wheel drive (4MATIC+)']);
+R('mb-amg-43', { makes: MB, match: ['(?<!\\d)43\\b'], exclude: ['EQ'] }, 'AMG 43', 'Regular model',
+  'Entry AMG tier for the mid-size cars.', ['AMG-tuned engine and chassis']);
+R('mb-amg-35', { makes: MB, match: ['(?<!\\d)35\\b'] }, 'AMG 35', 'Regular model',
+  'Entry AMG tier for the small cars.', ['2.0L turbo four-cylinder', '4MATIC all-wheel drive']);
+R('mb-amg-45', { makes: MB, match: ['\\b45 S\\b', '45 S AMG'] }, 'AMG 45 S', 'AMG 35',
+  'Top small-car AMG.', ['2.0L turbo four-cylinder, 310 kW / 500 Nm', '4MATIC+ all-wheel drive']);
+R('mb-edition-r', { makes: MB, match: ['Edition R\\+?'] }, 'Edition R', 'Standard grade',
+  'Run-out / special edition with extra equipment.', ['Extra equipment or styling over the grade it is based on']);
+R('mb-night', { makes: MB, match: ['Night Edition'] }, 'Night Edition', 'Standard grade',
+  'Blacked-out styling edition.', ['Black exterior trim package']);
+R('mb-special', { makes: MB, match: ['Special Edition', 'City Edition', 'Sport Edition', 'AMG Line Plus Edition'] }, 'Special edition',
+  'Standard grade', 'Limited-run edition.', ['Extra equipment or a value-packed spec over the standard grade']);
+R('mb-carbon', { makes: MB, match: ['Carbon Edition'] }, 'Carbon Edition', 'Standard grade',
+  'Carbon-fibre styling edition.', ['Carbon-fibre exterior and interior trim pieces']);
+R('mb-avantgarde', { makes: MB, match: ['Avantgarde'] }, 'Avantgarde', 'AMG Line',
+  'Comfort-styled grade.', ['Chrome-accented, more classic styling than AMG Line']);
+R('mb-edition-7', { makes: MB, match: ['Edition 7'] }, 'Edition 7', 'Standard grade',
+  'Seven-seat edition.', ['Third-row seating for seven']);
+R('mb-phev', { makes: MB, match: ['\\d{3} e\\b', '\\d{3}e\\b', '\\bde\\b'] }, 'Plug-in hybrid', 'Petrol / diesel equivalent',
+  'Plug-in hybrid version.', ['Combustion engine plus electric motor and a plug-in battery', 'Can drive on electric power alone for a useful range']);
+R('mb-electric', { makes: MB, match: ['Electric', 'EQ'] }, 'Electric', 'Petrol equivalent',
+  'Battery-electric version.', ['Fully electric drivetrain, no tailpipe emissions']);
+R('mb-4matic', { makes: MB, match: ['4MATIC'] }, '4MATIC', '2WD version',
+  'All-wheel-drive version.', ['Mercedes 4MATIC all-wheel drive']);
+
 // Sanity: ids unique, scopes well-formed
 const ids = new Set();
 for (const r of rules) {
