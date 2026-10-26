@@ -29,7 +29,7 @@ export default defineConfig({
         // Static SEO comparison pages are real server-rendered HTML — the SPA
         // shell must not hijack navigations to them for SW-controlled clients.
         navigateFallbackDenylist: [/^\/vs\//, /^\/sitemap\.xml$/, /^\/robots\.txt$/],
-        globPatterns: ['**/*.{js,css,html,ico,png,svg}'],
+        globPatterns: ['**/*.{js,css,html,ico,png,svg}', '**/*-latin-[0-9]*-normal-*.woff2'],
         // Lazy-loaded per-make spec chunks (~13 MB across ~230 files) must NOT be
         // precached — visitors cache only the makes they view, via runtimeCaching below.
         globIgnores: ['**/assets/supplement*.js'],
@@ -41,24 +41,6 @@ export default defineConfig({
               cacheName: 'spec-chunks',
               // Filenames are content-hashed, so cached entries never go stale.
               expiration: { maxEntries: 300, maxAgeSeconds: 60 * 60 * 24 * 365 },
-              cacheableResponse: { statuses: [0, 200] },
-            },
-          },
-          {
-            urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,
-            handler: 'CacheFirst',
-            options: {
-              cacheName: 'google-fonts-cache',
-              expiration: { maxEntries: 10, maxAgeSeconds: 60 * 60 * 24 * 365 },
-              cacheableResponse: { statuses: [0, 200] },
-            },
-          },
-          {
-            urlPattern: /^https:\/\/fonts\.gstatic\.com\/.*/i,
-            handler: 'CacheFirst',
-            options: {
-              cacheName: 'gstatic-fonts-cache',
-              expiration: { maxEntries: 10, maxAgeSeconds: 60 * 60 * 24 * 365 },
               cacheableResponse: { statuses: [0, 200] },
             },
           },
