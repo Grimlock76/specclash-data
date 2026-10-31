@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>Post Queue · Spec Clash</title>
+<link rel="icon" href="/favicon.svg">
+<style>
+  :root{--bg:#0a0a0a;--panel:#141712;--line:#262b22;--fg:#eef2e8;--muted:#9aa293;--lime:#c6f432;--red:#ff5a4f;color-scheme:dark}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif;padding-bottom:env(safe-area-inset-bottom,0)}
+  main{max-width:760px;margin:0 auto;padding:24px 16px 56px;display:grid;gap:16px}
+  h1{margin:0;font-size:26px;letter-spacing:.02em}
+  h1 b{color:var(--lime)}
+  .muted{color:var(--muted);font-size:13px}
+  .bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+  .pill{font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;border:1px solid var(--line);border-radius:99px;padding:4px 10px}
+  .pill.on{color:var(--bg);background:var(--lime);border-color:var(--lime)}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px;display:grid;gap:12px}
+  .card.past{opacity:.55}
+  .top{display:flex;justify-content:space-between;gap:12px;align-items:baseline;flex-wrap:wrap}
+  .top h2{margin:0;font-size:18px}
+  .when{color:var(--lime);font-weight:600;font-size:14px}
+  .grid{display:grid;grid-template-columns:140px 1fr;gap:14px}
+  @media (max-width:520px){.grid{grid-template-columns:1fr}}
+  video{width:100%;max-width:220px;aspect-ratio:9/16;border-radius:10px;background:#000;border:1px solid var(--line)}
+  .cap{white-space:pre-wrap;background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:10px;font-size:14px}
+  ul{margin:4px 0 0;padding-left:18px;font-size:14px}
+  .btns{display:flex;flex-wrap:wrap;gap:8px}
+  button,a.btn{font:600 13px/1 system-ui,sans-serif;letter-spacing:.04em;border-radius:10px;border:1px solid var(--line);background:var(--bg);color:var(--fg);padding:11px 12px;cursor:pointer;text-decoration:none;display:inline-flex;align-items:center}
+  button.primary,a.btn.primary{background:var(--lime);color:var(--bg);border-color:var(--lime)}
+  button:disabled{opacity:.5;cursor:default}
+  button:focus-visible,a.btn:focus-visible{outline:2px solid var(--lime);outline-offset:2px}
+  .msg{font-size:13px;min-height:1em}
+  .msg.err{color:var(--red)}
+  details summary{cursor:pointer;color:var(--muted);font-size:13px}
+  .note{border:1px dashed var(--line);border-radius:12px;padding:12px;font-size:14px}
+</style>
+</head>
+<body>
+<main>
+  <header class="bar" style="justify-content:space-between">
+    <h1>SPEC<b>-</b>CLASH <b>QUEUE</b></h1>
+    <span id="conn" class="pill">Checking TikTok…</span>
+  </header>
+  <p class="muted" id="intro">Each post: send it to your TikTok drafts (or save the video), add one of the suggested sounds in TikTok, paste the caption, post at the time shown.</p>
+  <div class="bar">
+    <a class="btn primary" id="connectBtn" href="/api/tiktok/login" hidden>Connect TikTok</a>
+    <button id="disconnectBtn" hidden>Disconnect TikTok</button>
+    <a class="btn" href="/queue/calendar.ics">Add posting times to calendar</a>
+  </div>
+  <div id="flash" class="msg"></div>
+  <div id="list"></div>
+  <p class="muted">Uploads go to your TikTok <b>drafts</b>. Nothing posts publicly until you do it in the app. <a href="/privacy/" style="color:var(--lime)">Privacy</a> · <a href="/terms/" style="color:var(--lime)">Terms</a></p>
+</main>
+<script src="/queue/queue.js"></script>
+</body>
+</html>

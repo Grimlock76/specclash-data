@@ -28,11 +28,11 @@ export default defineConfig({
         navigateFallback: 'index.html',
         // Static SEO comparison pages are real server-rendered HTML — the SPA
         // shell must not hijack navigations to them for SW-controlled clients.
-        navigateFallbackDenylist: [/^\/vs\//, /^\/sitemap\.xml$/, /^\/robots\.txt$/],
+        navigateFallbackDenylist: [/^\/vs\//, /^\/sitemap\.xml$/, /^\/robots\.txt$/, /^\/(privacy|terms|queue)(\/|$)/, /^\/api\//],
         globPatterns: ['**/*.{js,css,html,ico,png,svg}', '**/*-latin-[0-9]*-normal-*.woff2'],
         // Lazy-loaded per-make spec chunks (~13 MB across ~230 files) must NOT be
         // precached — visitors cache only the makes they view, via runtimeCaching below.
-        globIgnores: ['**/assets/supplement*.js'],
+        globIgnores: ['**/assets/supplement*.js', 'queue/**'],
         runtimeCaching: [
           {
             urlPattern: /\/assets\/supplement[^/]*\.js$/,
