@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T05:03:57.590Z",
+  "updated": "2026-10-31T05:52:38.777Z",
   "posts": [
     {
       "slug": "raptor-vs-hilux-gr-sport",
@@ -30,7 +30,7 @@
       "slug": "ve-ss-vs-fg-xr6-turbo",
       "title": "VE SS vs FG XR6 Turbo",
       "post_at": "2026-11-05T18:50:00+08:00",
-      "caption": "Same 270 kW. Same $46,990. V8 or Barra, there's no wrong answer... but there is a right one 😏 LS or Barra?",
+      "caption": "Same 270 kW, just $300 apart new. V8 or Barra? There's no wrong answer... but there is a right one 😏 LS or Barra?",
       "hashtags": [
         "#commodore",
         "#falcon",
@@ -47,15 +47,15 @@
       ],
       "video": "/queue/ve-ss-vs-fg-xr6-turbo.mp4",
       "sources": [
-        "VE SS: CarsGuide (270 kW, 530 Nm, 14.0 L/100km, 1,704 kg kerb; new price from $46,990)",
-        "FG XR6 Turbo: Carsales FG XR6 and XR6 Turbo review (270 kW, 533 Nm, 11.7 L/100km, ~1,777 kg, $46,990)"
+        "VE SS: Carsales 2008 Holden Commodore SS VE Auto (RRP $47,290, 270 kW, 530 Nm, 14.3 L/100km, tare 1,718 kg)",
+        "FG XR6 Turbo: Carsales 2008 Ford Falcon XR6 Turbo FG Auto (RRP $46,990, 270 kW, 533 Nm, 11.7 L/100km, tare 1,733 kg)"
       ]
     },
     {
       "slug": "w1-vs-gtf-351",
       "title": "HSV GTSR W1 vs FPV GT F 351",
       "post_at": "2026-11-07T17:15:00+08:00",
-      "caption": "The final hero cars. 474 kW LS9 vs the last GT. Only one goes in the shed 👇 (full clash, stick around for the mod-ability round)",
+      "caption": "The final hero cars. 474 kW LS9 vs FPV's last GT. Only one goes in the shed 👇 (full clash, stick around for the mod-ability round)",
       "hashtags": [
         "#hsv",
         "#gtsrw1",
@@ -71,7 +71,10 @@
         "A slower trending sound, since this one's the long full clash (about 2 min)"
       ],
       "video": "/queue/w1-vs-gtf-351.mp4",
-      "sources": []
+      "sources": [
+        "W1: Carsales W1 review (474 kW, 815 Nm, $169,990, 16.5 L/100km, 300 built, AP Racing 6-piston 410 mm, 20in Trofeo R, Tremec TR6060); CarsGuide (16.5 L/100km); Wheels test 0-100 4.5 s",
+        "GT F 351: Carsales 2014 GT F research ($77,990, 351 kW, 570 Nm, 13.6 L/100km manual); CarsGuide review (0-100 about 4.7 s, Brembo, 19in, 500 sedans + 50 NZ)"
+      ]
     }
   ]
 }

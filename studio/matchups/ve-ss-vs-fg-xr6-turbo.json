@@ -1,19 +1,49 @@
 {
   "makeA": "Holden",
   "makeB": "Ford",
-  "eyebrow": "V8 vs Turbo Six · 2008",
+  "eyebrow": "V8 vs Turbo Six · 2008 autos",
   "a": "VE SS",
   "b": "FG XR6 Turbo",
-  "hook": "Same power. Same price. One's a V8, one's a Barra. Settle it.",
+  "hook": "Same 270 kW. $300 apart. One's a V8, one's a Barra. Settle it.",
   "cta": "LS or Barra? Pick a side 👇",
   "handle": "@specclash05",
   "specs": [
-    { "l": "Engine", "a": "6.0 V8", "b": "4.0 turbo I6 (Barra)", "m": "none" },
-    { "l": "Power", "a": "270 kW", "b": "270 kW", "m": "high" },
-    { "l": "Torque", "a": "530 Nm", "b": "533 Nm", "m": "high" },
-    { "l": "Fuel (L/100km)", "a": "14.0", "b": "11.7", "m": "low" },
-    { "l": "Weight", "a": "1,704 kg", "b": "1,777 kg", "m": "low" },
-    { "l": "Price new", "a": "$46,990", "b": "$46,990", "m": "low" }
+    {
+      "l": "Engine",
+      "a": "6.0 V8",
+      "b": "4.0 turbo I6 (Barra)",
+      "m": "none"
+    },
+    {
+      "l": "Power",
+      "a": "270 kW",
+      "b": "270 kW",
+      "m": "high"
+    },
+    {
+      "l": "Torque",
+      "a": "530 Nm",
+      "b": "533 Nm",
+      "m": "high"
+    },
+    {
+      "l": "Fuel (L/100km)",
+      "a": "14.3",
+      "b": "11.7",
+      "m": "low"
+    },
+    {
+      "l": "Weight (tare)",
+      "a": "1,718 kg",
+      "b": "1,733 kg",
+      "m": "low"
+    },
+    {
+      "l": "Price new",
+      "a": "$47,290",
+      "b": "$46,990",
+      "m": "low"
+    }
   ],
   "stories": [
     {
@@ -24,7 +54,7 @@
     }
   ],
   "_sources": [
-    "VE SS: CarsGuide (270 kW, 530 Nm, 14.0 L/100km, 1,704 kg kerb; new price from $46,990)",
-    "FG XR6 Turbo: Carsales FG XR6 and XR6 Turbo review (270 kW, 533 Nm, 11.7 L/100km, ~1,777 kg, $46,990)"
+    "VE SS: Carsales 2008 Holden Commodore SS VE Auto (RRP $47,290, 270 kW, 530 Nm, 14.3 L/100km, tare 1,718 kg)",
+    "FG XR6 Turbo: Carsales 2008 Ford Falcon XR6 Turbo FG Auto (RRP $46,990, 270 kW, 533 Nm, 11.7 L/100km, tare 1,733 kg)"
   ]
 }

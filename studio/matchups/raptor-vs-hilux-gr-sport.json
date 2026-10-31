@@ -8,17 +8,42 @@
   "cta": "Raptor or GR Sport? Comment below 👇",
   "handle": "@specclash05",
   "specs": [
-    { "l": "Engine", "a": "3.0 TT V6 petrol", "b": "2.8 turbo diesel", "m": "none" },
-    { "l": "Power", "a": "292 kW", "b": "165 kW", "m": "high" },
-    { "l": "Torque", "a": "583 Nm", "b": "550 Nm", "m": "high" },
-    { "l": "Towing (braked)", "a": "2,500 kg", "b": "3,500 kg", "m": "high" },
-    { "l": "Price new", "a": "$90,690", "b": "$74,310", "m": "low" }
+    {
+      "l": "Engine",
+      "a": "3.0 TT V6 petrol",
+      "b": "2.8 turbo diesel",
+      "m": "none"
+    },
+    {
+      "l": "Power",
+      "a": "292 kW",
+      "b": "165 kW",
+      "m": "high"
+    },
+    {
+      "l": "Torque",
+      "a": "583 Nm",
+      "b": "550 Nm",
+      "m": "high"
+    },
+    {
+      "l": "Towing (braked)",
+      "a": "2,500 kg",
+      "b": "3,500 kg",
+      "m": "high"
+    },
+    {
+      "l": "Price new",
+      "a": "$90,690",
+      "b": "$74,310",
+      "m": "low"
+    }
   ],
   "stories": [
     {
       "t": "Different jobs",
       "a": "Built to fly over desert tracks: Fox Live Valve shocks, 272 mm clearance and a petrol V6 that drinks for it.",
-      "b": "Toyota's sporty take on the tradie favourite. Keeps the full 3.5-tonne tow rating, and the diesel goes further on a tank.",
+      "b": "Toyota's sporty take on the tradie favourite. Keeps the full 3.5-tonne tow rating, and the diesel uses a lot less fuel.",
       "take": "One's a toy. One still goes to work on Monday."
     }
   ],

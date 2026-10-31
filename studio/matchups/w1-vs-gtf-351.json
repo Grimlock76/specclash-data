@@ -8,31 +8,101 @@
   "cta": "Which one's going in the shed? 👇",
   "handle": "@specclash05",
   "specs": [
-    { "g": "Engine room", "l": "Engine", "a": "LS9 6.2 S/C V8", "b": "Miami 5.0 S/C V8", "m": "none" },
-    { "g": "Engine room", "l": "Power", "a": "474 kW", "b": "351 kW", "m": "high" },
-    { "g": "Engine room", "l": "Power (hp)", "a": "636 hp", "b": "471 hp", "m": "high", "ns": 1 },
-    { "g": "Engine room", "l": "Torque", "a": "815 Nm", "b": "570 Nm", "m": "high" },
-    { "g": "Engine room", "l": "0-100 km/h", "a": "4.5 s", "b": "4.7 s", "m": "low" },
-    { "g": "Gearbox & brakes", "l": "Gearbox", "a": "Tremec TR-6060 6-speed manual", "b": "Tremec 6-speed manual or ZF 6-speed auto", "m": "none" },
-    { "g": "Gearbox & brakes", "l": "Front brakes", "a": "AP Racing 6-piston, 410 mm", "b": "Brembo 6-piston", "m": "none" },
-    { "g": "Gearbox & brakes", "l": "Rubber", "a": "20in Pirelli Trofeo R", "b": "19in Dunlop Sport Maxx", "m": "none" },
-    { "g": "Living with it", "l": "Boot", "a": "496 L", "b": "535 L", "m": "high" },
-    { "g": "Living with it", "l": "Fuel (L/100km)", "a": "16.5", "b": "13.6", "m": "low" },
-    { "g": "Living with it", "l": "Price new", "a": "$169,990", "b": "$77,990", "m": "low" },
-    { "g": "Living with it", "l": "Built (fewer = rarer)", "a": "300", "b": "550", "m": "low" }
+    {
+      "g": "Engine room",
+      "l": "Engine",
+      "a": "LS9 6.2 S/C V8",
+      "b": "5.0 S/C V8 (Miami)",
+      "m": "none"
+    },
+    {
+      "g": "Engine room",
+      "l": "Power",
+      "a": "474 kW",
+      "b": "351 kW",
+      "m": "high"
+    },
+    {
+      "g": "Engine room",
+      "l": "Power (hp)",
+      "a": "636 hp",
+      "b": "471 hp",
+      "m": "high",
+      "ns": 1
+    },
+    {
+      "g": "Engine room",
+      "l": "Torque",
+      "a": "815 Nm",
+      "b": "570 Nm",
+      "m": "high"
+    },
+    {
+      "g": "Engine room",
+      "l": "0-100 km/h (tested)",
+      "a": "4.5 s",
+      "b": "4.7 s",
+      "m": "low"
+    },
+    {
+      "g": "Gearbox & brakes",
+      "l": "Gearbox",
+      "a": "Tremec 6-speed manual",
+      "b": "6-speed manual or auto",
+      "m": "none"
+    },
+    {
+      "g": "Gearbox & brakes",
+      "l": "Front brakes",
+      "a": "AP Racing 6-piston, 410 mm",
+      "b": "Brembo",
+      "m": "none"
+    },
+    {
+      "g": "Gearbox & brakes",
+      "l": "Wheels",
+      "a": "20in, Pirelli Trofeo R",
+      "b": "19in",
+      "m": "none"
+    },
+    {
+      "g": "Living with it",
+      "l": "Fuel (L/100km)",
+      "a": "16.5",
+      "b": "13.6",
+      "m": "low"
+    },
+    {
+      "g": "Living with it",
+      "l": "Price new",
+      "a": "$169,990",
+      "b": "$77,990",
+      "m": "low"
+    },
+    {
+      "g": "Living with it",
+      "l": "Built",
+      "a": "300",
+      "b": "500 + 50 for NZ",
+      "m": "none"
+    }
   ],
   "stories": [
     {
       "t": "Easier to mod?",
-      "a": "The LS9 is the C6 Corvette ZR1's engine family, so LS parts are everywhere. But it's a 300-car collectable.",
-      "b": "The Miami is a hand-built, Coyote-based 5.0 with a forged crank and six-bolt mains. No factory intercooler, so big boost needs work.",
+      "a": "The LS9 is the Corvette ZR1's supercharged V8, and LS parts and know-how are everywhere. But it's one of only 300 cars.",
+      "b": "Supercharged 5.0 V8 that Aussie tuners know well, in a car that cost less than half as much.",
       "take": "Our take: the GT F is the one you'd actually spanner on."
     },
     {
       "t": "Last of the line",
-      "a": "300 built, all pre-sold at $169,990. LS9 fitted at HSV's Clayton plant, SupaShock coil-overs, carbon wing and vents, Pirelli Trofeo R track tyres.",
-      "b": "351 kW with overboost bursts to 404 kW, plus launch control. R-SPEC chassis: firmer strut mounts, thicker rear bar, 9-inch rear rubber. 500 for Australia.",
+      "a": "300 built at $169,990. LS9 V8, SupaShock dampers, carbon vents and spoiler, Pirelli Trofeo R semi-slicks.",
+      "b": "FPV's final GT: 351 kW, manual or auto, Brembos all round. 500 sedans plus 50 for New Zealand.",
       "take": "One's a road-legal race car. One's the GT that closed the book."
     }
+  ],
+  "_sources": [
+    "W1: Carsales W1 review (474 kW, 815 Nm, $169,990, 16.5 L/100km, 300 built, AP Racing 6-piston 410 mm, 20in Trofeo R, Tremec TR6060); CarsGuide (16.5 L/100km); Wheels test 0-100 4.5 s",
+    "GT F 351: Carsales 2014 GT F research ($77,990, 351 kW, 570 Nm, 13.6 L/100km manual); CarsGuide review (0-100 about 4.7 s, Brembo, 19in, 500 sedans + 50 NZ)"
   ]
 }
