@@ -1,0 +1,29 @@
+{
+  "makeA": "Ford",
+  "makeB": "Toyota",
+  "eyebrow": "Top-Dog Utes · 2025",
+  "a": "Ranger Raptor",
+  "b": "HiLux GR Sport",
+  "hook": "Twin-turbo V6 petrol vs turbo diesel. $16k apart. Who's actually winning?",
+  "cta": "Raptor or GR Sport? Comment below 👇",
+  "handle": "@specclash05",
+  "specs": [
+    { "l": "Engine", "a": "3.0 TT V6 petrol", "b": "2.8 turbo diesel", "m": "none" },
+    { "l": "Power", "a": "292 kW", "b": "165 kW", "m": "high" },
+    { "l": "Torque", "a": "583 Nm", "b": "550 Nm", "m": "high" },
+    { "l": "Towing (braked)", "a": "2,500 kg", "b": "3,500 kg", "m": "high" },
+    { "l": "Price new", "a": "$90,690", "b": "$74,310", "m": "low" }
+  ],
+  "stories": [
+    {
+      "t": "Different jobs",
+      "a": "Built to fly over desert tracks: Fox Live Valve shocks, 272 mm clearance and a petrol V6 that drinks for it.",
+      "b": "Toyota's sporty take on the tradie favourite. Keeps the full 3.5-tonne tow rating, and the diesel goes further on a tank.",
+      "take": "One's a toy. One still goes to work on Monday."
+    }
+  ],
+  "_sources": [
+    "Ranger Raptor 2025: CarExpert price & specs (from $90,690, 292 kW, 583 Nm, 2,500 kg braked, 272 mm clearance)",
+    "HiLux GR Sport 2025: CarExpert 2025 HiLux price and specs ($74,310, 165 kW, 550 Nm, 3,500 kg braked 4x4)"
+  ]
+}

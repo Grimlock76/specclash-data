@@ -84,6 +84,9 @@ section.away{opacity:0!important;transform:scale(.94);filter:blur(6px)}
 .side.win .v{color:var(--c);text-shadow:0 0 2cqw color-mix(in srgb,var(--c) 75%,transparent),0 0 6cqw color-mix(in srgb,var(--c) 40%,transparent);animation:swell 3.2s ease-in-out}
 .side.win .bar{background:var(--c);box-shadow:0 0 2cqw color-mix(in srgb,var(--c) 80%,transparent),0 0 6cqw color-mix(in srgb,var(--c) 45%,transparent)}
 .name.a,#hA{color:var(--ca)} .name.b,#hB{color:var(--cb)}
+/* Long values (e.g. "3,500 kg", "$90,690") shrink so the row never runs off the stage */
+.row.long .v{font-size:6.2cqw}
+.row.long .bar{max-width:32%}
 .side.lose .v{opacity:.4}
 .side.lose .bar{opacity:.45}
 @keyframes swell{0%{transform:scale(1)}45%{transform:scale(1.07)}100%{transform:scale(1)}}
@@ -449,7 +452,8 @@ function renderRows(r,num,total){
   $("bRound").textContent=total>1?`Round ${num} · ${r.name}`:"";
   $("rows").innerHTML=r.idx.map(i=>{const s=state.specs[i];
     const txtA=!parseNum(s.a)||s.m==="none",txtB=!parseNum(s.b)||s.m==="none";
-    return `<div class="row" id="row${i}"><div class="r-label">${esc(s.l)}</div>
+    const long=Math.max(String(s.a).length,String(s.b).length)>6&&!(txtA&&txtB);
+    return `<div class="row${long?" long":""}" id="row${i}"><div class="r-label">${esc(s.l)}</div>
       <div class="r-vals">
         <div class="side a"><span class="v${txtA?" txt":""}">${esc(s.a)}</span>${txtA?"":'<i class="bar"></i>'}</div>
         <div class="side b">${txtB?"":'<i class="bar"></i>'}<span class="v${txtB?" txt":""}">${esc(s.b)}</span></div>
@@ -500,11 +504,11 @@ function revealRow(i){
   const pa=parseNum(s.a),pb=parseNum(s.b);
   if(s.m!=="none"&&pa&&pb){
     countUp(vA,s.a,1800);countUp(vB,s.b,1800);
-    const max=Math.max(Math.abs(pa.n),Math.abs(pb.n))||1;
+    const max=Math.max(Math.abs(pa.n),Math.abs(pb.n))||1,W=row.classList.contains("long")?32:48;
     requestAnimationFrame(()=>{
       const ba=A.querySelector(".bar"),bb=B.querySelector(".bar");
-      if(ba)ba.style.width=(Math.abs(pa.n)/max*48)+"%";
-      if(bb)bb.style.width=(Math.abs(pb.n)/max*48)+"%";
+      if(ba)ba.style.width=(Math.abs(pa.n)/max*W)+"%";
+      if(bb)bb.style.width=(Math.abs(pb.n)/max*W)+"%";
     });
     at(1700,()=>{const j=judge(s);if(j>0){A.classList.add("win");B.classList.add("lose")}else if(j<0){B.classList.add("win");A.classList.add("lose")}});
   }
