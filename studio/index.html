@@ -1,0 +1,584 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Spec-Clash Studio</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600&display=swap">
+<style>
+/* Layout: phone-first. 9:16 video stage on top, editor below; side by side on desktop. Single dark look = the Spec-Clash brand. */
+:root{
+  --ink:#0b0d0a;        /* stage + page ground */
+  --panel:#141712;      /* editor surfaces */
+  --line:#262b22;       /* hairlines, grid */
+  --fg:#eef2e8;         /* main text */
+  --muted:#8b9483;      /* secondary text */
+  --lime:#c6f432;       /* brand accent */
+  --lime-dim:#56651f;
+  --danger:#ff6b5a;
+  --win:#ffffff;        /* winner light-up: white glow */
+  --ease:cubic-bezier(.16,1,.3,1);   /* soft ease-out used everywhere */
+  --f-display:"Anton","Impact","Arial Narrow Bold",sans-serif;
+  --f-cond:"Barlow Condensed","Arial Narrow",sans-serif;
+  --f-body:"Barlow",system-ui,sans-serif;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+body{background:var(--ink);color:var(--fg);font-family:var(--f-body);font-size:15px;line-height:1.45}
+.wrap{max-width:1040px;margin:0 auto;padding-block:20px 48px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:grid;gap:24px}
+@media (min-width:860px){.wrap{grid-template-columns:380px 1fr;align-items:start}.stage-col{position:sticky;top:20px}}
+.top h1{font-family:var(--f-display);font-weight:400;font-size:28px;letter-spacing:.02em;margin:0;line-height:1}
+.top h1 b{color:var(--lime);font-weight:400}
+.top p{margin:6px 0 0;color:var(--muted);font-size:14px}
+.stage-col{display:grid;gap:12px;min-width:0}
+.actions{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+button{font:600 15px/1 var(--f-cond);letter-spacing:.06em;text-transform:uppercase;border-radius:10px;border:1px solid var(--line);background:var(--panel);color:var(--fg);padding:14px 12px;cursor:pointer}
+button:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--lime);outline-offset:2px}
+button.primary{background:var(--lime);color:var(--ink);border-color:var(--lime)}
+button.ghost{background:transparent}
+.hint{font-size:13px;color:var(--muted);margin:0}
+
+/* ---------- STAGE (9:16) ---------- */
+.stage{position:relative;width:100%;max-width:380px;margin:0 auto;aspect-ratio:9/16;background:var(--ink);overflow:hidden;border-radius:14px;border:1px solid var(--line);container-type:inline-size;font-family:var(--f-cond)}
+.bg{position:absolute;inset:-8cqw;animation:drift 24s linear infinite;background-image:linear-gradient(var(--line) 1px,transparent 1px),linear-gradient(90deg,var(--line) 1px,transparent 1px);background-size:8cqw 8cqw;opacity:.45;mask-image:radial-gradient(ellipse at 50% 45%,#000 30%,transparent 80%)}
+.glow{position:absolute;left:50%;top:44%;width:120cqw;height:120cqw;transform:translate(-50%,-50%);background:radial-gradient(circle,rgba(198,244,50,.13),transparent 60%);pointer-events:none;animation:breathe 7s ease-in-out infinite}
+@keyframes drift{to{transform:translate(8cqw,8cqw)}}
+@keyframes breathe{0%,100%{opacity:.7}50%{opacity:1}}
+.brand{position:absolute;left:0;right:0;bottom:4cqw;text-align:center;font:600 3cqw var(--f-cond);letter-spacing:.5em;color:var(--lime);opacity:.8}
+section{position:absolute;inset:0;transition:opacity 1.6s var(--ease),transform 1.8s var(--ease),filter 1.6s var(--ease)}
+section.away{opacity:0!important;transform:scale(.94);filter:blur(6px)}
+
+/* intro */
+.intro{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3cqw;padding:10cqw 8cqw;text-align:center}
+.eyebrow{font:600 3.6cqw var(--f-cond);letter-spacing:.35em;color:var(--lime);text-transform:uppercase}
+.name{font:400 14cqw/0.95 var(--f-display);text-transform:uppercase;letter-spacing:.01em;text-wrap:balance}
+.vs{width:17cqw;height:17cqw;border:.7cqw solid var(--lime);border-radius:50%;display:grid;place-items:center;font:400 7cqw var(--f-display);color:var(--lime);margin-block:2cqw}
+.hook{font:500 5.2cqw/1.3 var(--f-body);color:var(--fg);opacity:.85;max-width:80cqw;margin-top:3cqw;text-wrap:balance}
+.intro>*{opacity:0;filter:blur(8px);transition:opacity 1.5s var(--ease),transform 1.6s var(--ease),filter 1.5s var(--ease)}
+.intro .name.a{transform:translateX(-30cqw)}
+.intro .name.b{transform:translateX(30cqw)}
+.intro .vs{transform:scale(.3)}
+.intro .eyebrow,.intro .hook{transform:translateY(4cqw)}
+/* .name.in needed too: '.intro .name.a' outranks '.intro>.in', which left the names stuck half off-screen */
+.intro>.in,.intro .name.in{opacity:1;transform:none;filter:none}
+
+/* board */
+.board{display:flex;flex-direction:column;padding:9cqw 6cqw 12cqw;gap:3cqw;opacity:0;transform:translateY(3cqw)}
+.board.in{opacity:1;transform:none}
+.board-head{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:3cqw;padding-bottom:3cqw;border-bottom:.3cqw solid var(--line)}
+.board-head span{font:400 6.4cqw/1 var(--f-display);text-transform:uppercase}
+.board-head .hb{text-align:right}
+.board-head .hv{font-size:4cqw;color:var(--lime)}
+.rows{display:flex;flex-direction:column;justify-content:space-evenly;flex:1;gap:2cqw}
+.row{opacity:0;transform:translateY(5cqw);filter:blur(6px);transition:opacity 1.5s var(--ease),transform 1.6s var(--ease),filter 1.5s var(--ease)}
+.row.in{opacity:1;transform:none;filter:none}
+.r-label{text-align:center;font:600 3.4cqw var(--f-cond);letter-spacing:.3em;color:var(--muted);text-transform:uppercase;margin-bottom:1.2cqw}
+.r-vals{display:grid;grid-template-columns:1fr 1fr;gap:7cqw}
+.side{display:flex;align-items:center;gap:2cqw;min-width:0}
+.side.a{flex-direction:row-reverse}
+.v{font:400 8cqw/1 var(--f-display);white-space:nowrap;font-variant-numeric:tabular-nums;transition:color 3.2s ease-in-out,opacity 3s ease-in-out,text-shadow 3.2s ease-in-out}
+.v.txt{font:600 5.4cqw/1.1 var(--f-cond);white-space:normal;text-transform:uppercase}
+.side.a .v.txt{text-align:right}
+.bar{display:block;height:2.2cqw;border-radius:2cqw;background:var(--lime-dim);width:0;transition:width 1.8s var(--ease),background 3.2s ease-in-out,box-shadow 3.2s ease-in-out,opacity 3s ease-in-out;flex:none;max-width:48%}
+/* Winner: a slow white light-up, one soft swell, then it holds */
+/* Each car glows in its make's colour (--ca / --cb, set from the editor) */
+.side.a{--c:var(--ca)} .side.b{--c:var(--cb)}
+.side.win .v{color:var(--c);text-shadow:0 0 2cqw color-mix(in srgb,var(--c) 75%,transparent),0 0 6cqw color-mix(in srgb,var(--c) 40%,transparent);animation:swell 3.2s ease-in-out}
+.side.win .bar{background:var(--c);box-shadow:0 0 2cqw color-mix(in srgb,var(--c) 80%,transparent),0 0 6cqw color-mix(in srgb,var(--c) 45%,transparent)}
+.name.a,#hA{color:var(--ca)} .name.b,#hB{color:var(--cb)}
+.side.lose .v{opacity:.4}
+.side.lose .bar{opacity:.45}
+@keyframes swell{0%{transform:scale(1)}45%{transform:scale(1.07)}100%{transform:scale(1)}}
+.side .v{display:inline-block;transform-origin:center}
+
+/* round title card */
+.rcard{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2cqw;text-align:center;padding:10cqw;opacity:0}
+.rcard.in{opacity:1}
+.rcard>*{opacity:0;transform:translateY(4cqw);filter:blur(8px);transition:opacity 1.4s var(--ease),transform 1.6s var(--ease),filter 1.4s var(--ease)}
+.rcard.in>*{opacity:1;transform:none;filter:none}
+.rcard.in>:nth-child(2){transition-delay:.3s}
+.rc-num{font:600 3.8cqw var(--f-cond);letter-spacing:.45em;color:var(--lime)}
+.rc-name{font:400 14cqw/.95 var(--f-display);text-transform:uppercase;text-wrap:balance}
+.b-round{text-align:center;font:600 3.2cqw var(--f-cond);letter-spacing:.4em;color:var(--lime);text-transform:uppercase}
+
+/* story card: the bit that isn't numbers */
+.story{display:flex;flex-direction:column;justify-content:center;gap:5cqw;padding:12cqw 8cqw 14cqw;opacity:0}
+.story.in{opacity:1}
+.story>*{opacity:0;transform:translateY(4cqw);filter:blur(8px);transition:opacity 1.5s var(--ease),transform 1.7s var(--ease),filter 1.5s var(--ease)}
+.story>.in{opacity:1;transform:none;filter:none}
+.st-title{font:400 11cqw/.95 var(--f-display);text-transform:uppercase;text-align:center;text-wrap:balance}
+.st-car{display:grid;gap:1.4cqw}
+.st-name{font:600 4cqw var(--f-cond);letter-spacing:.25em;text-transform:uppercase}
+.st-car.a .st-name{color:var(--ca)} .st-car.b .st-name{color:var(--cb)}
+.st-text{font:500 5.2cqw/1.36 var(--f-body);color:var(--fg);text-wrap:pretty}
+.st-take{font:600 4.8cqw/1.25 var(--f-cond);text-transform:uppercase;letter-spacing:.03em;color:var(--lime);text-align:center;border-top:.3cqw solid var(--line);padding-top:4cqw;text-wrap:balance}
+
+/* outro */
+.outro{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2.5cqw;text-align:center;padding:10cqw;opacity:0;pointer-events:none;background:radial-gradient(circle at 50% 45%,rgba(11,13,10,.82),rgba(11,13,10,.96) 70%);transition:opacity 2s var(--ease)}
+.outro.in{opacity:1}
+.outro>*{opacity:0;transform:translateY(4cqw);filter:blur(6px);transition:opacity 1.6s var(--ease),transform 1.8s var(--ease),filter 1.6s var(--ease)}
+.outro.in>*{opacity:1;transform:none;filter:none}
+.outro.in>:nth-child(2){transition-delay:.35s}
+.outro.in>:nth-child(3){transition-delay:.8s}
+.outro.in>:nth-child(4){transition-delay:1.3s}
+.outro.in>:nth-child(5){transition-delay:1.6s}
+.o-label{font:600 3.6cqw var(--f-cond);letter-spacing:.35em;color:var(--lime)}
+.o-name{font:400 16cqw/.95 var(--f-display);text-transform:uppercase;text-wrap:balance}
+.outro.in .o-name{color:var(--cw,var(--win));text-shadow:0 0 3cqw color-mix(in srgb,var(--cw,var(--win)) 60%,transparent),0 0 9cqw color-mix(in srgb,var(--cw,var(--win)) 30%,transparent);transition:opacity 1s var(--ease),transform 1.4s var(--ease),filter 1s var(--ease),color 3.2s ease-in-out 1s,text-shadow 3.2s ease-in-out 1s}
+.o-score{font:400 9cqw var(--f-display);color:var(--lime)}
+.o-cta{font:600 5.8cqw/1.25 var(--f-cond);text-transform:uppercase;letter-spacing:.04em;margin-top:5cqw;text-wrap:balance}
+.o-handle{font:500 3.6cqw var(--f-body);color:var(--muted)}
+
+/* ---------- RECORD MODE ---------- */
+.rec{position:fixed;inset:0;z-index:50;background:#000;display:grid;place-items:center;padding:env(safe-area-inset-top,0px) env(safe-area-inset-right,0px) env(safe-area-inset-bottom,0px) env(safe-area-inset-left,0px)}
+.rec .stage{height:100%;width:auto;max-width:100%;max-height:100%;border:0;border-radius:0}
+.rec-ui{position:absolute;top:calc(12px + env(safe-area-inset-top,0px));left:0;right:0;display:flex;justify-content:space-between;align-items:center;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));transition:opacity .3s;z-index:2}
+.rec-ui span{font:600 13px var(--f-cond);letter-spacing:.12em;text-transform:uppercase;color:var(--fg);background:rgba(0,0,0,.6);padding:8px 12px;border-radius:8px}
+.rec.playing .rec-ui{opacity:0;pointer-events:none}
+
+/* ---------- EDITOR ---------- */
+.editor{display:grid;gap:18px;min-width:0}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px;display:grid;gap:14px}
+.card h2{margin:0;font:600 13px var(--f-cond);letter-spacing:.2em;text-transform:uppercase;color:var(--lime)}
+.fields{display:grid;gap:12px;grid-template-columns:1fr 1fr}
+.fields .full{grid-column:1/-1}
+label{display:grid;gap:5px;font:600 12px var(--f-cond);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);min-width:0}
+input,select{width:100%;min-width:0;font:500 16px var(--f-body);color:var(--fg);background:var(--ink);border:1px solid var(--line);border-radius:8px;padding:10px 11px}
+.spec{display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:12px;border:1px solid var(--line);border-radius:10px;background:var(--ink)}
+.spec .lbl{grid-column:1/-1;display:flex;gap:8px}
+.spec .lbl input{flex:1}
+.spec select{grid-column:1/-1}
+.spec .grp{grid-column:1/-1}
+.story-ed{display:grid;gap:8px;padding:12px;border:1px solid var(--line);border-radius:10px;background:var(--ink)}
+.story-ed input,.story-ed textarea{background:var(--panel)}
+textarea{width:100%;min-width:0;font:500 16px/1.35 var(--f-body);color:var(--fg);background:var(--ink);border:1px solid var(--line);border-radius:8px;padding:10px 11px;resize:vertical;min-height:64px}
+textarea:focus-visible{outline:2px solid var(--lime);outline-offset:2px}
+.spec input,.spec select{background:var(--panel)}
+.del{padding:0 12px;color:var(--danger);background:transparent;font-size:20px;line-height:1;border-color:var(--line)}
+.specs{display:grid;gap:10px}
+.row-tools{display:flex;gap:8px;flex-wrap:wrap}
+.row-tools button{flex:1}
+.note{font-size:13px;color:var(--muted);margin:0}
+.note b{color:var(--fg)}
+.steps{margin:0;padding-left:20px;display:grid;gap:6px;font-size:14px}
+@media (prefers-reduced-motion:reduce){*{transition-duration:.01ms!important;animation:none!important}}
+</style>
+
+<div class="wrap">
+  <div class="stage-col">
+    <div class="top">
+      <h1>SPEC<b>-</b>CLASH <b>STUDIO</b></h1>
+      <p>Fill in two cars, hit play, screen-record. That's a post.</p>
+    </div>
+
+    <div class="stage" id="stage">
+      <div class="bg"></div><div class="glow"></div>
+      <section class="intro" id="intro">
+        <div class="eyebrow" id="sEyebrow"></div>
+        <div class="name a" id="sA"></div>
+        <div class="vs">VS</div>
+        <div class="name b" id="sB"></div>
+        <div class="hook" id="sHook"></div>
+      </section>
+      <section class="rcard" id="rcard">
+        <div class="rc-num" id="rcNum"></div>
+        <div class="rc-name" id="rcName"></div>
+      </section>
+      <section class="board" id="board">
+        <div class="b-round" id="bRound"></div>
+        <header class="board-head"><span id="hA"></span><span class="hv">VS</span><span class="hb" id="hB"></span></header>
+        <div class="rows" id="rows"></div>
+      </section>
+      <section class="story" id="story">
+        <div class="st-title" id="stTitle"></div>
+        <div class="st-car a"><div class="st-name" id="stNameA"></div><div class="st-text" id="stA"></div></div>
+        <div class="st-car b"><div class="st-name" id="stNameB"></div><div class="st-text" id="stB"></div></div>
+        <div class="st-take" id="stTake"></div>
+      </section>
+      <section class="outro" id="outro">
+        <div class="o-label">WINNER ON PAPER</div>
+        <div class="o-name" id="oName"></div>
+        <div class="o-score" id="oScore"></div>
+        <div class="o-cta" id="oCta"></div>
+        <div class="o-handle" id="oHandle"></div>
+      </section>
+      <div class="brand">SPEC CLASH</div>
+    </div>
+
+    <div class="actions">
+      <button class="ghost" id="btnPlay" type="button">▶ Preview</button>
+      <button class="primary" id="btnRec" type="button">● Record mode</button>
+    </div>
+    <p class="hint">Record mode goes full screen with no buttons in the shot.</p>
+  </div>
+
+  <div class="editor">
+    <div class="card">
+      <h2>Start from</h2>
+      <label for="preset">Example matchup
+        <select id="preset">
+          <option value="">Pick one to load…</option>
+          <optgroup label="Checked against Carsales / CarsGuide">
+            <option value="patrol">Patrol Y63 vs LandCruiser 300</option>
+            <option value="caprice">Caprice V 6.0 vs Caprice V 6.2</option>
+            <option value="redline">SS-V Redline vs Falcon XR8</option>
+            <option value="w1">HSV GTSR W1 vs FPV GT F 351 (full clash)</option>
+          </optgroup>
+          <optgroup label="From memory (check before posting)">
+            <option value="aussie">HSV GTSR vs FPV GT-F</option>
+            <option value="jdm">Skyline R34 GT-R vs Supra A80</option>
+          </optgroup>
+        </select>
+      </label>
+      <p class="note">The first four match the Spec-Clash app and were checked against Carsales and CarsGuide on 22 Oct 2026. Their 0-100 times are published review figures (Patrol ~6.5 s GoAuto, LC300 8.0 s CarsGuide testing, Redline 4.9 s CarsGuide, XR8 5.5 s Carsales, W1 4.5 s Wheels test, GT F ~4.7 s CarsGuide); no source had one for the Caprice Vs. The W1 vs GT F full clash also uses HSV's own W1 spec sheet, GoAuto, WhichCar, Carsales and Private Fleet; the "take" lines are opinion. <b>The last two are from memory</b>, so double-check them before you post.</p>
+    </div>
+
+    <div class="card">
+      <h2>The matchup</h2>
+      <div class="fields">
+        <label class="full" for="fEyebrow">Top line<input id="fEyebrow" maxlength="40"></label>
+        <label for="fA">Car A<input id="fA" maxlength="24"></label>
+        <label for="fB">Car B<input id="fB" maxlength="24"></label>
+        <label for="fMakeA">Car A colour<select id="fMakeA"></select></label>
+        <label for="fMakeB">Car B colour<select id="fMakeB"></select></label>
+        <label class="full" for="fHook">Hook (first 2 seconds)<input id="fHook" maxlength="80"></label>
+        <label class="full" for="fCta">Ending question<input id="fCta" maxlength="60"></label>
+        <label class="full" for="fHandle">Handle<input id="fHandle" maxlength="30"></label>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Specs, grouped into rounds (max 16)</h2>
+      <p class="note">Specs with the same round name play together on one board, after a round title card. Up to about 6 per round fit nicely.</p>
+      <div class="specs" id="specs"></div>
+      <div class="row-tools"><button type="button" id="btnAdd">+ Add spec</button></div>
+    </div>
+
+    <div class="card">
+      <h2>Story cards (max 3)</h2>
+      <p class="note">The non-number stuff: mod potential, brand history, rarity. Plays after the spec rounds, before the winner.</p>
+      <div class="specs" id="stories"></div>
+      <div class="row-tools"><button type="button" id="btnAddStory">+ Add story card</button></div>
+    </div>
+
+    <div class="card">
+      <h2>Recording on iPhone</h2>
+      <ol class="steps">
+        <li>Add Screen Recording to Control Centre (Settings → Control Centre) if it isn't there.</li>
+        <li>Tap <b>Record mode</b> here, then start screen recording.</li>
+        <li>Tap the screen. It plays after a short pause and ends on the winner.</li>
+        <li>Trim the start and end in Photos, then upload with a trending sound.</li>
+      </ol>
+    </div>
+  </div>
+</div>
+
+<script>
+const PRESETS = {
+  patrol:{makeA:"Nissan",makeB:"Toyota",eyebrow:"New Twin-Turbo Patrol",a:"Patrol PRO-4X",b:"LC300 GR Sport",
+    hook:"Nissan's new 3.5 twin-turbo vs Toyota's twin-turbo diesel. Same torque. Very different recipes.",
+    cta:"Patrol or Cruiser? Comment below 👇",handle:"@specclash05",
+    specs:[
+      {l:"Engine",a:"3.5 TT V6",b:"3.3 TT diesel V6",m:"none"},
+      {l:"Power",a:"317 kW",b:"227 kW",m:"high"},
+      {l:"Power (hp)",a:"425 hp",b:"304 hp",m:"high",ns:1},
+      {l:"0-100 km/h",a:"6.5 s",b:"8.0 s",m:"low"},
+      {l:"Torque",a:"700 Nm",b:"700 Nm",m:"high"},
+      {l:"Seats",a:"8",b:"5",m:"high"},
+      {l:"Gearbox",a:"9-speed auto",b:"10-speed auto",m:"none"},
+      {l:"Price new",a:"TBA",b:"$147,090",m:"low"}
+    ]},
+  caprice:{makeA:"Holden",makeB:"Holden",eyebrow:"Same Badge. Two V8s.",a:"Caprice V 6.0",b:"Caprice V 6.2",
+    hook:"2014 WN vs 2016 WN Series II. Even our own database had this one wrong.",
+    cta:"6.0 or LS3? Comment below 👇",handle:"@specclash05",
+    specs:[
+      {l:"Engine",a:"6.0 V8",b:"6.2 LS3 V8",m:"none"},
+      {l:"Power",a:"260 kW",b:"304 kW",m:"high"},
+      {l:"Power (hp)",a:"349 hp",b:"408 hp",m:"high",ns:1},
+      {l:"Torque",a:"517 Nm",b:"570 Nm",m:"high"},
+      {l:"Fuel (L/100km)",a:"11.7",b:"12.9",m:"low"},
+      {l:"Price new",a:"$60,490",b:"$60,990",m:"low"}
+    ]},
+  redline:{makeA:"Holden",makeB:"Ford",eyebrow:"The Last Aussie V8 Sedans",a:"SS-V Redline",b:"Falcon XR8",
+    hook:"2016 VF II vs FG X. Both manuals. One last fight.",
+    cta:"Holden or Ford? Pick a side 👇",handle:"@specclash05",
+    specs:[
+      {l:"Engine",a:"6.2 LS3 V8",b:"5.0 S/C V8",m:"none"},
+      {l:"Power",a:"304 kW",b:"335 kW",m:"high"},
+      {l:"Power (hp)",a:"408 hp",b:"449 hp",m:"high",ns:1},
+      {l:"0-100 km/h",a:"4.9 s",b:"5.5 s",m:"low"},
+      {l:"Torque",a:"570 Nm",b:"570 Nm",m:"high"},
+      {l:"Fuel (L/100km)",a:"12.6",b:"13.6",m:"low"},
+      {l:"Price new",a:"$54,490",b:"$53,490",m:"low"},
+      {l:"Gearbox",a:"6-speed manual",b:"6-speed manual",m:"none"}
+    ]},
+  w1:{makeA:"HSV",makeB:"FPV",eyebrow:"The Final Hero Cars",a:"HSV GTSR W1",b:"FPV GT F 351",
+    hook:"Holden's last hero vs Ford's final GT. Not just a power war.",
+    cta:"Which one's going in the shed? 👇",handle:"@specclash05",
+    specs:[
+      {g:"Engine room",l:"Engine",a:"LS9 6.2 S/C V8",b:"Miami 5.0 S/C V8",m:"none"},
+      {g:"Engine room",l:"Power",a:"474 kW",b:"351 kW",m:"high"},
+      {g:"Engine room",l:"Power (hp)",a:"636 hp",b:"471 hp",m:"high",ns:1},
+      {g:"Engine room",l:"Torque",a:"815 Nm",b:"570 Nm",m:"high"},
+      {g:"Engine room",l:"0-100 km/h",a:"4.5 s",b:"4.7 s",m:"low"},
+      {g:"Gearbox & brakes",l:"Gearbox",a:"Tremec TR-6060 6-speed manual",b:"Tremec 6-speed manual or ZF 6-speed auto",m:"none"},
+      {g:"Gearbox & brakes",l:"Front brakes",a:"AP Racing 6-piston, 410 mm",b:"Brembo 6-piston",m:"none"},
+      {g:"Gearbox & brakes",l:"Rubber",a:"20in Pirelli Trofeo R",b:"19in Dunlop Sport Maxx",m:"none"},
+      {g:"Living with it",l:"Boot",a:"496 L",b:"535 L",m:"high"},
+      {g:"Living with it",l:"Fuel (L/100km)",a:"16.5",b:"13.6",m:"low"},
+      {g:"Living with it",l:"Price new",a:"$169,990",b:"$77,990",m:"low"},
+      {g:"Living with it",l:"Built (fewer = rarer)",a:"300",b:"550",m:"low"}
+    ],
+    stories:[
+      {t:"Easier to mod?",
+       a:"The LS9 is the C6 Corvette ZR1's engine family, so LS parts are everywhere. But it's a 300-car collectable.",
+       b:"The Miami is a hand-built, Coyote-based 5.0 with a forged crank and six-bolt mains. No factory intercooler, so big boost needs work.",
+       take:"Our take: the GT F is the one you'd actually spanner on."},
+      {t:"Last of the line",
+       a:"300 built, all pre-sold at $169,990. LS9 fitted at HSV's Clayton plant, SupaShock coil-overs, carbon wing and vents, Pirelli Trofeo R track tyres.",
+       b:"351 kW with overboost bursts to 404 kW, plus launch control. R-SPEC chassis: firmer strut mounts, thicker rear bar, 9-inch rear rubber. 500 for Australia.",
+       take:"One's a road-legal race car. One's the GT that closed the book."}
+    ]},
+  aussie:{makeA:"HSV",makeB:"FPV",eyebrow:"The Great Aussie V8 War",a:"HSV GTSR",b:"FPV GT-F",
+    hook:"Holden's last hero vs Ford's final Falcon. Only one wins on paper.",
+    cta:"Who you taking? Comment below 👇",handle:"@specclash05",
+    specs:[
+      {l:"Engine",a:"6.2 S/C V8",b:"5.0 S/C V8",m:"none"},
+      {l:"Power",a:"435 kW",b:"351 kW",m:"high"},
+      {l:"Power (hp)",a:"583 hp",b:"471 hp",m:"high",ns:1},
+      {l:"Torque",a:"740 Nm",b:"570 Nm",m:"high"},
+      {l:"Weight",a:"1880 kg",b:"1870 kg",m:"low"},
+      {l:"Gearbox",a:"6-speed manual",b:"6-speed manual",m:"none"}
+    ]},
+  jdm:{makeA:"Nissan",makeB:"Toyota",eyebrow:"JDM Legends",a:"Skyline R34 GT-R",b:"Supra A80 RZ",
+    hook:"RB26 vs 2JZ. The argument that never ends.",
+    cta:"RB or 2JZ? Settle it in the comments 👇",handle:"@specclash05",
+    specs:[
+      {l:"Engine",a:"2.6 TT I6",b:"3.0 TT I6",m:"none"},
+      {l:"Power",a:"206 kW",b:"206 kW",m:"high"},
+      {l:"Power (hp)",a:"276 hp",b:"276 hp",m:"high",ns:1},
+      {l:"Torque",a:"392 Nm",b:"431 Nm",m:"high"},
+      {l:"Weight",a:"1560 kg",b:"1510 kg",m:"low"},
+      {l:"Drive",a:"AWD",b:"RWD",m:"none"}
+    ]}
+};
+const KEY="specclash-studio-v1";
+let state;
+try{state=JSON.parse(localStorage.getItem(KEY)||"null")}catch(e){state=null}
+if(!state||!state.specs)state=structuredClone(PRESETS.aussie);
+/* Make colours: the car glows in this when it wins a spec */
+const MAKE_COLOURS={Holden:"#ff2b2b",HSV:"#ff2b2b",Ford:"#2f7dff",FPV:"#2f7dff",Nissan:"#3aa0ff",Toyota:"#ff3b41",
+  Subaru:"#4f7dff",Mitsubishi:"#ff3b41",Mazda:"#d9d9d9",Honda:"#ff3b41",Kia:"#ff4d6d",Hyundai:"#4f8cff",White:"#ffffff"};
+if(!state.makeA)state.makeA="Holden";
+if(!state.makeB)state.makeB="Ford";
+const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(state))}catch(e){}};
+const $=id=>document.getElementById(id);
+for(const id of ["fMakeA","fMakeB"])$(id).innerHTML=Object.keys(MAKE_COLOURS).map(m=>`<option value="${m}">${m==="White"?"White (no make)":m}</option>`).join("");
+
+/* ---------- editor ---------- */
+const binds={fEyebrow:"eyebrow",fA:"a",fB:"b",fMakeA:"makeA",fMakeB:"makeB",fHook:"hook",fCta:"cta",fHandle:"handle"};
+function fillFields(){for(const id in binds)$(id).value=state[binds[id]]||""}
+for(const id in binds){$(id).addEventListener("input",e=>{state[binds[id]]=e.target.value;save();renderStage()})}
+if(!state.stories)state.stories=[];
+const MAX_SPECS=16,MAX_STORIES=3,DEFAULT_ROUND="Head to head";
+
+function esc(s){return String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
+function renderSpecs(){
+  $("specs").innerHTML=state.specs.map((s,i)=>`
+    <div class="spec">
+      <div class="lbl"><input id="s${i}l" data-i="${i}" data-k="l" value="${esc(s.l)}" placeholder="e.g. Power" aria-label="Spec name"><button class="del" type="button" data-del="${i}" aria-label="Remove spec">×</button></div>
+      <input class="grp" id="s${i}g" data-i="${i}" data-k="g" value="${esc(s.g||"")}" placeholder="Round, e.g. Engine room" aria-label="Round name">
+      <input id="s${i}a" data-i="${i}" data-k="a" value="${esc(s.a)}" placeholder="Car A" aria-label="Car A value">
+      <input id="s${i}b" data-i="${i}" data-k="b" value="${esc(s.b)}" placeholder="Car B" aria-label="Car B value">
+      <select id="s${i}m" data-i="${i}" data-k="m" aria-label="Who wins this spec">
+        <option value="high"${s.m==="high"?" selected":""}>Higher number wins</option>
+        <option value="low"${s.m==="low"?" selected":""}>Lower number wins</option>
+        <option value="none"${s.m==="none"?" selected":""}>No winner (just info)</option>
+      </select>
+    </div>`).join("");
+  $("btnAdd").disabled=state.specs.length>=MAX_SPECS;
+}
+$("specs").addEventListener("input",e=>{const t=e.target,i=t.dataset.i;if(i==null)return;state.specs[i][t.dataset.k]=t.value;save();renderStage()});
+$("specs").addEventListener("click",e=>{const d=e.target.dataset.del;if(d==null)return;state.specs.splice(+d,1);save();renderSpecs();renderStage()});
+$("btnAdd").addEventListener("click",()=>{if(state.specs.length>=MAX_SPECS)return;
+  const last=state.specs[state.specs.length-1];
+  state.specs.push({g:last?.g||"",l:"",a:"",b:"",m:"high"});save();renderSpecs();renderStage()});
+
+function renderStories(){
+  $("stories").innerHTML=state.stories.map((s,i)=>`
+    <div class="story-ed">
+      <div class="lbl" style="display:flex;gap:8px"><input id="t${i}t" data-j="${i}" data-k="t" value="${esc(s.t)}" placeholder="Title, e.g. Easier to mod?" aria-label="Story title" style="flex:1"><button class="del" type="button" data-sdel="${i}" aria-label="Remove story card">×</button></div>
+      <textarea id="t${i}a" data-j="${i}" data-k="a" placeholder="Car A side" aria-label="Car A text">${esc(s.a)}</textarea>
+      <textarea id="t${i}b" data-j="${i}" data-k="b" placeholder="Car B side" aria-label="Car B text">${esc(s.b)}</textarea>
+      <input id="t${i}k" data-j="${i}" data-k="take" value="${esc(s.take)}" placeholder="One-line take (optional)" aria-label="Take">
+    </div>`).join("");
+  $("btnAddStory").disabled=state.stories.length>=MAX_STORIES;
+}
+$("stories").addEventListener("input",e=>{const t=e.target,j=t.dataset.j;if(j==null)return;state.stories[j][t.dataset.k]=t.value;save();renderStage()});
+$("stories").addEventListener("click",e=>{const d=e.target.dataset.sdel;if(d==null)return;state.stories.splice(+d,1);save();renderStories();renderStage()});
+$("btnAddStory").addEventListener("click",()=>{if(state.stories.length>=MAX_STORIES)return;state.stories.push({t:"",a:"",b:"",take:""});save();renderStories();renderStage()});
+
+$("preset").addEventListener("change",e=>{const p=PRESETS[e.target.value];if(!p)return;state=structuredClone(p);if(!state.stories)state.stories=[];save();fillFields();renderSpecs();renderStories();renderStage();e.target.value=""});
+
+/* ---------- stage ---------- */
+function parseNum(str){
+  const m=String(str).match(/-?\d[\d,]*\.?\d*/);
+  if(!m)return null;
+  const raw=m[0],n=parseFloat(raw.replace(/,/g,""));
+  return{n,pre:str.slice(0,m.index),suf:str.slice(m.index+raw.length),dec:(raw.split(".")[1]||"").length,comma:raw.includes(",")};
+}
+// Keep thousands separators while counting so "$54,490" doesn't flicker to "$54490"
+function fmtN(n,dec,comma){return comma?n.toLocaleString("en-AU",{minimumFractionDigits:dec,maximumFractionDigits:dec}):n.toFixed(dec)}
+function judge(s){
+  if(s.m==="none")return 0;
+  const a=parseNum(s.a),b=parseNum(s.b);
+  if(!a||!b||a.n===b.n)return 0;
+  const aWins=s.m==="high"?a.n>b.n:a.n<b.n;
+  return aWins?1:-1;
+}
+function carColours(){
+  const a=MAKE_COLOURS[state.makeA]||"#ffffff";let b=MAKE_COLOURS[state.makeB]||"#ffffff";
+  if(b===a)b=a==="#ffffff"?"#c6f432":"#ffffff";   // same make (e.g. Holden vs Holden): car B glows white
+  return[a,b];
+}
+// Rounds in the order they first appear; each holds the indexes of its specs
+function rounds(){
+  const out=[];
+  state.specs.forEach((s,i)=>{const g=(s.g||"").trim()||DEFAULT_ROUND;let r=out.find(x=>x.name===g);if(!r){r={name:g,idx:[]};out.push(r)}r.idx.push(i)});
+  return out;
+}
+function renderRows(r,num,total){
+  $("bRound").textContent=total>1?`Round ${num} · ${r.name}`:"";
+  $("rows").innerHTML=r.idx.map(i=>{const s=state.specs[i];
+    const txtA=!parseNum(s.a)||s.m==="none",txtB=!parseNum(s.b)||s.m==="none";
+    return `<div class="row" id="row${i}"><div class="r-label">${esc(s.l)}</div>
+      <div class="r-vals">
+        <div class="side a"><span class="v${txtA?" txt":""}">${esc(s.a)}</span>${txtA?"":'<i class="bar"></i>'}</div>
+        <div class="side b">${txtB?"":'<i class="bar"></i>'}<span class="v${txtB?" txt":""}">${esc(s.b)}</span></div>
+      </div></div>`}).join("");
+}
+function fillStory(s){
+  $("stTitle").textContent=s.t;$("stNameA").textContent=state.a;$("stNameB").textContent=state.b;
+  $("stA").textContent=s.a;$("stB").textContent=s.b;$("stTake").textContent=s.take||"";
+}
+function renderStage(){
+  const [ca,cb]=carColours(),st=$("stage");
+  st.style.setProperty("--ca",ca);st.style.setProperty("--cb",cb);
+  $("sEyebrow").textContent=state.eyebrow;
+  $("sA").textContent=state.a;$("sB").textContent=state.b;
+  $("hA").textContent=state.a;$("hB").textContent=state.b;
+  $("sHook").textContent=state.hook;
+  $("oCta").textContent=state.cta;$("oHandle").textContent=state.handle;
+  const rs=rounds();if(rs.length&&!playing)renderRows(rs[0],1,rs.length);
+  let sa=0,sb=0;state.specs.forEach(s=>{if(s.ns)return;const j=judge(s);if(j>0)sa++;if(j<0)sb++});
+  $("oName").textContent=sa===sb?"Dead heat":(sa>sb?state.a:state.b);
+  if(sa===sb)st.style.removeProperty("--cw");else st.style.setProperty("--cw",sa>sb?ca:cb);
+  $("oScore").textContent=sa===sb?`${sa} – ${sb}`:`${Math.max(sa,sb)} – ${Math.min(sa,sb)}`;
+  if(!playing)showRest();
+}
+
+let timers=[],playing=false;
+const at=(ms,fn)=>timers.push(setTimeout(fn,ms));
+function stopAll(){timers.forEach(clearTimeout);timers=[];playing=false}
+const SECTIONS=["intro","rcard","board","story","outro"];
+function resetSections(){SECTIONS.forEach(id=>$(id).classList.remove("in","away"));document.querySelectorAll("#story>*").forEach(el=>el.classList.remove("in"))}
+function showRest(){
+  resetSections();
+  document.querySelectorAll("#intro>*").forEach(el=>el.classList.add("in"));
+  $("intro").style.opacity=1;
+}
+function countUp(el,str,dur){
+  const p=parseNum(str);if(!p){el.textContent=str;return}
+  const t0=performance.now();
+  (function tick(t){const k=Math.min(1,(t-t0)/dur),e=1-Math.pow(1-k,4);
+    el.textContent=p.pre+fmtN(p.n*e,p.dec,p.comma)+p.suf;
+    if(k<1&&playing)requestAnimationFrame(tick);else el.textContent=str})(t0);
+}
+function revealRow(i){
+  const s=state.specs[i],row=$("row"+i);if(!row)return;
+  row.classList.add("in");
+  const [A,B]=row.querySelectorAll(".side");
+  const vA=A.querySelector(".v"),vB=B.querySelector(".v");
+  const pa=parseNum(s.a),pb=parseNum(s.b);
+  if(s.m!=="none"&&pa&&pb){
+    countUp(vA,s.a,1800);countUp(vB,s.b,1800);
+    const max=Math.max(Math.abs(pa.n),Math.abs(pb.n))||1;
+    requestAnimationFrame(()=>{
+      const ba=A.querySelector(".bar"),bb=B.querySelector(".bar");
+      if(ba)ba.style.width=(Math.abs(pa.n)/max*48)+"%";
+      if(bb)bb.style.width=(Math.abs(pb.n)/max*48)+"%";
+    });
+    at(1700,()=>{const j=judge(s);if(j>0){A.classList.add("win");B.classList.add("lose")}else if(j<0){B.classList.add("win");A.classList.add("lose")}});
+  }
+}
+// Time each row gets: scored rows wait for the slow glow, info rows read faster
+const rowTime=s=>(s.m!=="none"&&parseNum(s.a)&&parseNum(s.b))?4600:3600;
+function play(onDone){
+  stopAll();playing=true;renderStage();resetSections();
+  const intro=[...document.querySelectorAll("#intro>*")];
+  intro.forEach(el=>el.classList.remove("in"));
+  $("intro").style.opacity=1;
+  const [eb,a,vs,b,hook]=intro;
+  at(300,()=>eb.classList.add("in"));
+  at(800,()=>a.classList.add("in"));
+  at(1700,()=>vs.classList.add("in"));
+  at(2200,()=>b.classList.add("in"));
+  at(3100,()=>hook.classList.add("in"));
+  at(6300,()=>$("intro").classList.add("away"));
+  let t=7000;
+  const rs=rounds(),multi=rs.length>1;
+  rs.forEach((r,k)=>{
+    if(multi){
+      at(t,()=>{$("rcNum").textContent=`Round ${k+1}`;$("rcName").textContent=r.name;$("rcard").classList.remove("away");$("rcard").classList.add("in")});
+      at(t+3300,()=>$("rcard").classList.add("away"));
+      t+=3900;
+    }
+    at(t,()=>{const bd=$("board");bd.classList.remove("in","away");renderRows(r,k+1,rs.length);requestAnimationFrame(()=>requestAnimationFrame(()=>bd.classList.add("in")))});
+    t+=800;
+    r.idx.forEach(i=>{at(t,()=>revealRow(i));t+=rowTime(state.specs[i])});
+    t+=2200;
+    at(t,()=>$("board").classList.add("away"));
+    t+=1100;
+  });
+  (state.stories||[]).filter(s=>s.t||s.a||s.b).forEach(s=>{
+    const kids=[...document.querySelectorAll("#story>*")];
+    at(t,()=>{fillStory(s);kids.forEach(el=>el.classList.remove("in"));const sc=$("story");sc.classList.remove("away");sc.classList.add("in")});
+    at(t+300,()=>kids[0].classList.add("in"));
+    at(t+1300,()=>kids[1].classList.add("in"));
+    at(t+4800,()=>kids[2].classList.add("in"));
+    if(s.take)at(t+8300,()=>kids[3].classList.add("in"));
+    t+=s.take?12300:9800;
+    at(t,()=>$("story").classList.add("away"));
+    t+=1100;
+  });
+  at(t,()=>$("outro").classList.add("in"));
+  at(t+7500,()=>{playing=false;onDone&&onDone()});
+}
+$("btnPlay").addEventListener("click",()=>play());
+
+/* ---------- record mode ---------- */
+let recEl=null,home=null;
+$("btnRec").addEventListener("click",()=>{
+  stopAll();
+  const stage=$("stage");home=stage.parentNode;
+  recEl=document.createElement("div");recEl.className="rec";
+  recEl.innerHTML='<div class="rec-ui"><span>Start recording, then tap</span><button type="button" class="ghost" id="recExit">Exit</button></div>';
+  home.removeChild(stage);recEl.appendChild(stage);document.body.appendChild(recEl);
+  renderStage();
+  $("recExit").addEventListener("click",e=>{e.stopPropagation();exitRec()});
+  recEl.addEventListener("click",()=>{
+    if(playing||recEl.classList.contains("playing"))return;
+    recEl.classList.add("playing");
+    at(1200,()=>play(()=>recEl&&recEl.classList.remove("playing")));
+  });
+});
+function exitRec(){
+  stopAll();if(!recEl)return;
+  const stage=$("stage");recEl.removeChild(stage);
+  home.insertBefore(stage,home.querySelector(".actions"));
+  recEl.remove();recEl=null;renderStage();
+}
+
+fillFields();renderSpecs();renderStories();renderStage();
+</script>
+
+
+</body></html>

@@ -1,0 +1,224 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>2014 Caprice V 6.0 vs 2016 Caprice V 6.2</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;700;900&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  /* Layout: one 9:16 stage, screen-recordable; controls sit outside it so they stay out of the crop. Single dark look by design. */
+  :root{
+    --bg:#050505; --page:#000; --ink:#ffffff; --dim:#b4b4b4; --faint:#8f8f8f; --line:#2e2e2e; --track:#1b1b1b;
+    --lime:#c6f135; --a:#3aa0ff; --b:#ff3b41;
+    --display:'Barlow Condensed','Arial Narrow',Impact,sans-serif;
+    --body:'Inter',system-ui,-apple-system,sans-serif;
+    color-scheme:dark;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{height:100%}
+  body{background:var(--page);color:var(--ink);font-family:var(--body);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;
+    min-height:100%;padding-block:12px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+  .stage{position:relative;width:min(430px,100%);aspect-ratio:9/16;max-height:calc(100dvh - 90px);max-width:100%;background:var(--bg);overflow:hidden;user-select:none;container-type:size}
+  .stage::before{content:'';position:absolute;inset:0;z-index:0;pointer-events:none;
+    background-image:linear-gradient(rgba(198,241,53,.16) 1px,transparent 1px),linear-gradient(90deg,rgba(198,241,53,.16) 1px,transparent 1px);
+    background-size:34px 34px;
+    -webkit-mask-image:linear-gradient(to bottom,#000 0%,transparent 48%,transparent 52%,#000 100%);
+    mask-image:linear-gradient(to bottom,#000 0%,transparent 48%,transparent 52%,#000 100%)}
+  .glow{position:absolute;inset:-20px;z-index:0;pointer-events:none;
+    background-image:linear-gradient(rgba(198,241,53,.30) 1px,transparent 1px),linear-gradient(90deg,rgba(198,241,53,.30) 1px,transparent 1px);
+    background-size:34px 34px;filter:blur(4px);opacity:.42;
+    -webkit-mask-image:linear-gradient(to bottom,#000 0%,transparent 45%,transparent 55%,#000 100%);
+    mask-image:linear-gradient(to bottom,#000 0%,transparent 45%,transparent 55%,#000 100%)}
+  .slide{position:absolute;inset:0;z-index:1;display:none;flex-direction:column;padding:44px 30px 30px}
+  .slide.on{display:flex;animation:in .38s ease-out both}
+  @keyframes in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+  .eyebrow{font-size:9.5px;font-weight:700;letter-spacing:.42em;text-transform:uppercase;color:var(--lime)}
+  .rule{height:1px;background:var(--line);margin:16px 0}
+  .t-wrap{flex:1;display:flex;flex-direction:column;justify-content:center;text-align:center}
+  .t-car{font-family:var(--display);font-weight:900;font-size:54px;line-height:.9;letter-spacing:-.015em;text-transform:uppercase;text-wrap:balance}
+  .t-car.a{color:var(--a)} .t-car.b{color:var(--b)}
+  .t-sub{font-size:10px;font-weight:600;letter-spacing:.2em;text-transform:uppercase;color:var(--dim);margin-top:9px}
+  .vs{width:56px;height:56px;margin:22px auto;border:2px solid var(--ink);border-radius:50%;display:flex;align-items:center;justify-content:center;
+    font-family:var(--display);font-weight:900;font-size:22px;letter-spacing:.04em}
+  .t-kicker{margin-top:30px;font-family:var(--display);font-weight:700;font-size:23px;line-height:1.12;text-transform:uppercase;text-wrap:balance}
+  .t-kicker em{color:var(--lime);font-style:normal}
+  .tape{flex:1;display:flex;flex-direction:column;justify-content:center;gap:4px}
+  .tape-car{display:flex;flex-direction:column;gap:10px}
+  .tape-row{display:flex;justify-content:space-between;gap:12px;align-items:baseline;border-bottom:1px solid var(--line);padding-bottom:7px}
+  .tape-row span{font-size:10px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--faint)}
+  .tape-row b{font-family:var(--display);font-weight:700;font-size:21px;text-align:right}
+  .stat-label{font-family:var(--display);font-weight:900;font-size:46px;line-height:.95;text-transform:uppercase;margin-top:6px}
+  .stat-note{font-size:11.5px;line-height:1.5;color:var(--dim);margin-top:10px}
+  .bars{flex:1;display:flex;flex-direction:column;justify-content:center;gap:34px}
+  .row-top{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:9px;gap:10px}
+  .row-name{font-size:10px;font-weight:700;letter-spacing:.2em;text-transform:uppercase}
+  .row-name.a{color:var(--a)} .row-name.b{color:var(--b)}
+  .row-val{font-family:var(--display);font-weight:900;font-size:36px;line-height:1;letter-spacing:-.01em;font-variant-numeric:tabular-nums;white-space:nowrap}
+  .row-val span{font-size:14px;font-weight:700;color:var(--dim);margin-left:4px}
+  .row-val i{font-style:normal;font-size:18px;color:var(--lime);margin-right:6px;vertical-align:4px}
+  .row.lose .row-val{color:var(--faint)}
+  .row.tba .row-val{color:var(--faint)}
+  .track{height:7px;background:var(--track);overflow:hidden}
+  .row.tba .track{background:repeating-linear-gradient(90deg,var(--line) 0 6px,transparent 6px 12px)}
+  .fill{height:100%;width:0;transition:width .85s cubic-bezier(.2,.8,.2,1)}
+  .fill.a{background:var(--a)} .fill.b{background:var(--b)} .fill.tie{background:var(--lime)}
+  .row.lose .fill{opacity:.45}
+  .verdict{font-family:var(--display);font-weight:700;font-size:19px;text-transform:uppercase;border-top:2px solid var(--ink);padding-top:15px;letter-spacing:.02em}
+  .score{display:flex;justify-content:center;align-items:baseline;gap:22px;margin-top:26px;font-family:var(--display);font-weight:900;font-size:96px;line-height:1;font-variant-numeric:tabular-nums}
+  .score .a{color:var(--a)} .score .b{color:var(--b)} .score .dash{color:var(--line);font-size:60px}
+  .big{flex:1;display:flex;flex-direction:column;justify-content:center}
+  .big h2{font-family:var(--display);font-weight:900;font-size:50px;line-height:.92;text-transform:uppercase;letter-spacing:-.015em;text-wrap:balance}
+  .big h2 em{color:var(--lime);font-style:normal}
+  .big p{font-size:13.5px;line-height:1.62;color:var(--dim);margin-top:18px}
+  .cta{font-size:11px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--dim);text-align:center}
+  .cta b{color:var(--lime);font-weight:700}
+  .foot{display:flex;justify-content:space-between;align-items:center;font-size:8.5px;font-weight:700;letter-spacing:.3em;text-transform:uppercase;color:var(--faint);margin-top:16px}
+  .tap{position:absolute;top:0;bottom:0;width:38%;z-index:5;cursor:pointer;background:transparent;border:0}
+  .tap:focus-visible{outline:2px solid var(--lime);outline-offset:-4px}
+  .tap.prev{left:0}.tap.next{right:0}
+  .pips{position:absolute;top:20px;left:30px;right:30px;z-index:6;display:flex;gap:4px}
+  .pip{flex:1;height:2px;background:#333}
+  .pip.on{background:var(--ink)}
+  .controls{display:flex;gap:8px;flex-wrap:wrap;justify-content:center}
+  .controls button{font:600 12px var(--body);letter-spacing:.08em;text-transform:uppercase;color:var(--ink);background:#141414;border:1px solid var(--line);padding:9px 14px;cursor:pointer}
+  .controls button:hover{border-color:var(--lime)}
+  .controls button:focus-visible{outline:2px solid var(--lime);outline-offset:2px}
+  .controls button[aria-pressed="true"]{background:var(--lime);color:#000;border-color:var(--lime)}
+  @media (prefers-reduced-motion:reduce){.slide.on{animation:none}.fill{transition:none}}
+</style>
+<div class="stage" id="stage">
+  <div class="glow"></div>
+  <div class="pips" id="pips"></div>
+  <button class="tap prev" id="prev" aria-label="Previous slide"></button>
+  <button class="tap next" id="next" aria-label="Next slide"></button>
+  <section class="slide on">
+  <div class="eyebrow">Spec Clash</div>
+  <div class="t-wrap">
+    <div class="t-car a">2014 Caprice V 6.0</div>
+    <div class="t-sub">WN · 6.0 V8 · 2014</div>
+    <div class="vs">VS</div>
+    <div class="t-car b">2016 Caprice V 6.2</div>
+    <div class="t-sub">WN Series II · 6.2 LS3 · 2016</div>
+    <div class="t-kicker">Same badge.<br><em>Two different V8s.</em></div>
+  </div>
+  <div class="foot"><span>Swipe</span><span>@specclash05</span></div>
+</section>
+  <section class="slide">
+  <div class="eyebrow">Tale of the tape</div>
+  <div class="tape"><div class="tape-car">
+      <div class="row-name a">2014 Caprice V 6.0</div>
+      <div class="tape-row"><span>Engine</span><b>6.0L V8</b></div><div class="tape-row"><span>Capacity</span><b>6.0L</b></div><div class="tape-row"><span>Gearbox</span><b>6sp auto</b></div>
+    </div><div class="rule"></div><div class="tape-car">
+      <div class="row-name b">2016 Caprice V 6.2</div>
+      <div class="tape-row"><span>Engine</span><b>6.2L V8 (LS3)</b></div><div class="tape-row"><span>Capacity</span><b>6.2L</b></div><div class="tape-row"><span>Gearbox</span><b>6sp auto</b></div>
+    </div></div>
+  <div class="foot"><span>02 of 07</span><span>@specclash05</span></div>
+</section>
+  <section class="slide">
+  <div class="eyebrow">Round 01</div>
+  <div class="stat-label">Power</div>
+  
+  <div class="bars">
+    <div class="row lose">
+      <div class="row-top"><span class="row-name a">2014 Caprice V 6.0</span><span class="row-val">260<span>kW</span></span></div>
+      <div class="track"><div class="fill a" data-w="86"></div></div>
+    </div>
+    <div class="row win">
+      <div class="row-top"><span class="row-name b">2016 Caprice V 6.2</span><span class="row-val"><i>&#9650;</i>304<span>kW</span></span></div>
+      <div class="track"><div class="fill b" data-w="100"></div></div>
+    </div>
+  </div>
+  <div class="verdict">2016 Caprice V 6.2 &mdash; 44 kW more</div>
+  <div class="foot"><span>03 of 07</span><span>@specclash05</span></div>
+</section>
+  <section class="slide">
+  <div class="eyebrow">Round 02</div>
+  <div class="stat-label">Torque</div>
+  
+  <div class="bars">
+    <div class="row lose">
+      <div class="row-top"><span class="row-name a">2014 Caprice V 6.0</span><span class="row-val">517<span>Nm</span></span></div>
+      <div class="track"><div class="fill a" data-w="91"></div></div>
+    </div>
+    <div class="row win">
+      <div class="row-top"><span class="row-name b">2016 Caprice V 6.2</span><span class="row-val"><i>&#9650;</i>570<span>Nm</span></span></div>
+      <div class="track"><div class="fill b" data-w="100"></div></div>
+    </div>
+  </div>
+  <div class="verdict">2016 Caprice V 6.2 &mdash; 53 Nm more</div>
+  <div class="foot"><span>04 of 07</span><span>@specclash05</span></div>
+</section>
+  <section class="slide">
+  <div class="eyebrow">Round 03</div>
+  <div class="stat-label">Fuel use</div>
+  <div class="stat-note">Combined cycle. Lower is better.</div>
+  <div class="bars">
+    <div class="row win">
+      <div class="row-top"><span class="row-name a">2014 Caprice V 6.0</span><span class="row-val"><i>&#9650;</i>11.7<span>L/100km</span></span></div>
+      <div class="track"><div class="fill a" data-w="91"></div></div>
+    </div>
+    <div class="row lose">
+      <div class="row-top"><span class="row-name b">2016 Caprice V 6.2</span><span class="row-val">12.9<span>L/100km</span></span></div>
+      <div class="track"><div class="fill b" data-w="100"></div></div>
+    </div>
+  </div>
+  <div class="verdict">2014 Caprice V 6.0 &mdash; 1.2 L/100km less</div>
+  <div class="foot"><span>05 of 07</span><span>@specclash05</span></div>
+</section>
+  <section class="slide">
+  <div class="eyebrow">Round 04</div>
+  <div class="stat-label">Price<br>when new</div>
+  <div class="stat-note">Base price when new. Lower is better.</div>
+  <div class="bars">
+    <div class="row win">
+      <div class="row-top"><span class="row-name a">2014 Caprice V 6.0</span><span class="row-val"><i>&#9650;</i>$60,490<span></span></span></div>
+      <div class="track"><div class="fill a" data-w="99"></div></div>
+    </div>
+    <div class="row lose">
+      <div class="row-top"><span class="row-name b">2016 Caprice V 6.2</span><span class="row-val">$60,990<span></span></span></div>
+      <div class="track"><div class="fill b" data-w="100"></div></div>
+    </div>
+  </div>
+  <div class="verdict">2014 Caprice V 6.0 &mdash; $500 cheaper</div>
+  <div class="foot"><span>06 of 07</span><span>@specclash05</span></div>
+</section>
+  <section class="slide">
+  <div class="eyebrow">Verdict</div>
+  <div class="score"><span class="a">2</span><span class="dash">&ndash;</span><span class="b">2</span></div>
+  <div class="big">
+    <h2>Dead heat<br><em>on paper.</em></h2>
+    <p>The LS3 wins on grunt, the 6.0 wins on fuel and price. And no, it was never supercharged.</p>
+  </div>
+  <div class="rule"></div>
+  <div class="cta">Compare 43,000+ trims yourself<br><b>spec-clash.vercel.app</b></div>
+  <div class="foot"><span>07 of 07</span><span>@specclash05</span></div>
+</section>
+</div>
+<div class="controls">
+  <button id="restart" type="button">Restart</button>
+  <button id="auto" type="button" aria-pressed="false">Auto-play</button>
+</div>
+<script>
+(function(){
+  var slides=[].slice.call(document.querySelectorAll('.slide')),pips=document.getElementById('pips'),i=0,timer=null;
+  slides.forEach(function(){var p=document.createElement('div');p.className='pip';pips.appendChild(p)});
+  var pipEls=[].slice.call(pips.children);
+  function fill(el){el.querySelectorAll('.fill').forEach(function(f){f.style.width='0%';setTimeout(function(){f.style.width=f.dataset.w+'%'},120)})}
+  function show(n){if(n<0||n>=slides.length)return;slides[i].classList.remove('on');i=n;slides[i].classList.add('on');
+    pipEls.forEach(function(p,k){p.classList.toggle('on',k<=i)});fill(slides[i])}
+  function stop(){clearInterval(timer);timer=null;auto.setAttribute('aria-pressed','false')}
+  var auto=document.getElementById('auto');
+  auto.addEventListener('click',function(){ if(timer){stop();return}
+    show(0);auto.setAttribute('aria-pressed','true');
+    timer=setInterval(function(){ if(i>=slides.length-1){stop();return} show(i+1)},3200)});
+  document.getElementById('restart').addEventListener('click',function(){stop();show(0)});
+  document.getElementById('next').addEventListener('click',function(){show(i+1)});
+  document.getElementById('prev').addEventListener('click',function(){show(i-1)});
+  document.addEventListener('keydown',function(e){
+    if(e.key==='ArrowRight'||e.key===' '){e.preventDefault();show(i+1)}
+    if(e.key==='ArrowLeft')show(i-1);
+    if(e.key==='a'||e.key==='A')auto.click()});
+  pipEls[0].classList.add('on');fill(slides[0]);
+})();
+</script>
+
+</body></html>
