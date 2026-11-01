@@ -1,0 +1,76 @@
+{
+  "makeA": "Ford",
+  "makeB": "White",
+  "eyebrow": "Plug-in Utes · 2026",
+  "a": "Ranger PHEV Wildtrak",
+  "b": "BYD Shark 6 Performance",
+  "hook": "Ford's plug-in Ranger vs BYD's new 350 kW Shark. Under $800 apart drive-away.",
+  "cta": "Ranger or Shark? Pick one 👇",
+  "handle": "@specclash05",
+  "specs": [
+    {
+      "g": "Grunt",
+      "l": "Engine",
+      "a": "2.3 turbo PHEV",
+      "b": "2.0 turbo PHEV",
+      "m": "none"
+    },
+    {
+      "g": "Grunt",
+      "l": "Power (combined)",
+      "a": "207 kW",
+      "b": "350 kW",
+      "m": "high"
+    },
+    {
+      "g": "Grunt",
+      "l": "Torque (combined)",
+      "a": "697 Nm",
+      "b": "700 Nm",
+      "m": "high"
+    },
+    {
+      "g": "Work & plug-in",
+      "l": "Towing (braked)",
+      "a": "3,500 kg",
+      "b": "3,500 kg",
+      "m": "high"
+    },
+    {
+      "g": "Work & plug-in",
+      "l": "Battery",
+      "a": "11.8 kWh",
+      "b": "29.6 kWh",
+      "m": "high"
+    },
+    {
+      "g": "Work & plug-in",
+      "l": "EV range (claimed)",
+      "a": "49 km",
+      "b": "100 km",
+      "m": "high"
+    },
+    {
+      "g": "Work & plug-in",
+      "l": "Drive-away",
+      "a": "$70,000",
+      "b": "$69,231",
+      "m": "low"
+    }
+  ],
+  "stories": [
+    {
+      "t": "What you're really buying",
+      "a": "Ford's badge, Ford's dealers and the Ranger everyone knows, now with an 11.8 kWh battery and a full 3.5-tonne tow rating.",
+      "b": "BYD's new Performance grade adds a 2.0 turbo, 350 kW and a claimed 5.5 s 0-100, plus a 29.6 kWh battery for 100 km on electric.",
+      "take": "The Shark wins the spec sheet. The Ranger wins the pub argument."
+    }
+  ],
+  "_sources": [
+    "Ranger PHEV (MY26 update): 4X4 Australia, 15 May 2026 (Wildtrak $70,000 drive-away, 207 kW / 697 Nm combined, 3,500 kg braked all variants, 11.8 kWh usable battery)",
+    "Ranger PHEV EV range: CarExpert Ranger PHEV vs Shark 6 vs Cannon Alpha spec battle (49 km claimed, 11.8 kWh)",
+    "Shark 6 Performance: CarExpert 2026 Shark 6 Performance price & specs ($62,900 before on-roads, 350 kW, 700 Nm, 0-100 5.5 s claimed, 29.58 kWh, 100 km EV range, 3,500 kg braked)",
+    "Shark 6 Performance drive-away: CarExpert 2026 Shark 6 pricing page ($69,231 drive-away, Sydney)",
+    "Shark 6 Performance: NRMA Open Road, 17 Apr 2026 (2.0 turbo PHEV, 350 kW, 700 Nm, 3,500 kg braked)"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "makeA": "HSV",
+  "makeB": "FPV",
+  "eyebrow": "2012 V8 Flagships",
+  "a": "HSV GTS (E3)",
+  "b": "FPV GT R-SPEC",
+  "hook": "2012. HSV's 6.2 LS3 vs Ford's fastest Falcon. The Ford had more grunt AND was $6k cheaper.",
+  "cta": "GTS or R-SPEC? Wrong answers only 👇",
+  "handle": "@specclash05",
+  "specs": [
+    {
+      "g": "Engine room",
+      "l": "Engine",
+      "a": "6.2 V8 (LS3)",
+      "b": "5.0 S/C V8 (Boss)",
+      "m": "none"
+    },
+    {
+      "g": "Engine room",
+      "l": "Power",
+      "a": "325 kW",
+      "b": "335 kW",
+      "m": "high"
+    },
+    {
+      "g": "Engine room",
+      "l": "Torque",
+      "a": "550 Nm",
+      "b": "570 Nm",
+      "m": "high"
+    },
+    {
+      "g": "Living with it",
+      "l": "Fuel (L/100km)",
+      "a": "13.5",
+      "b": "13.7",
+      "m": "low"
+    },
+    {
+      "g": "Living with it",
+      "l": "Price new",
+      "a": "$82,990",
+      "b": "$76,990",
+      "m": "low"
+    }
+  ],
+  "stories": [
+    {
+      "t": "Why people still fight about it",
+      "a": "Naturally aspirated 6.2 pushrod V8. Simple, loud and a monster aftermarket behind it.",
+      "b": "Just 350 built, half of them in the Silhouette/Vixen colour scheme. Supercharged, and more power for less money.",
+      "take": "On paper the Ford wins. Try telling a Holden fan that."
+    }
+  ],
+  "_sources": [
+    "HSV GTS E Series 3 (MY12.5) manual: Carsales research 2013 HSV GTS (price when new $82,990, LS3 6.2 V8, 325 kW, 550 Nm, 13.5 L/100km)",
+    "FPV GT R-SPEC FG MkII auto: Carsales research 2012 FPV GT R-SPEC (price when new $76,990, 335 kW, 570 Nm, 13.7 L/100km)",
+    "FPV GT R-SPEC: CarAdvice 'FPV GT RSPEC: fastest ever Falcon launches' ($76,990, 335/570, 350 built, half in Silhouette/Vixen)",
+    "Carsales FPV GT R-SPEC 2012 road test lists the HSV GTS from $82,990 as its rival"
+  ]
+}

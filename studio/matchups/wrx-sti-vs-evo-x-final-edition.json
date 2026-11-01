@@ -1,0 +1,74 @@
+{
+  "makeA": "Subaru",
+  "makeB": "Mitsubishi",
+  "eyebrow": "JDM Rally Rivals · 2015-16",
+  "a": "WRX STI Premium",
+  "b": "Lancer Evo X Final Edition",
+  "hook": "A rivalry that ran for over 20 years. Last Evo vs the STI. Tested 0.12 s apart.",
+  "cta": "STI or Evo? Settle it 👇",
+  "handle": "@specclash05",
+  "specs": [
+    {
+      "g": "Engine room",
+      "l": "Engine",
+      "a": "2.5 turbo boxer",
+      "b": "2.0 turbo I4",
+      "m": "none"
+    },
+    {
+      "g": "Engine room",
+      "l": "Power",
+      "a": "221 kW",
+      "b": "226 kW",
+      "m": "high"
+    },
+    {
+      "g": "Engine room",
+      "l": "Torque",
+      "a": "407 Nm",
+      "b": "414 Nm",
+      "m": "high"
+    },
+    {
+      "g": "On the road",
+      "l": "0-100 km/h (WhichCar test)",
+      "a": "5.49 s",
+      "b": "5.61 s",
+      "m": "low"
+    },
+    {
+      "g": "On the road",
+      "l": "Weight (kerb)",
+      "a": "1,537 kg",
+      "b": "1,565 kg",
+      "m": "low"
+    },
+    {
+      "g": "On the road",
+      "l": "Fuel (L/100km)",
+      "a": "10.4",
+      "b": "10.2",
+      "m": "low"
+    },
+    {
+      "g": "On the road",
+      "l": "Price new",
+      "a": "$55,390",
+      "b": "$53,700",
+      "m": "low"
+    }
+  ],
+  "stories": [
+    {
+      "t": "Boxer or four-banger?",
+      "a": "Big 2.5 boxer, that rumble, and a driver-adjustable centre diff. Lighter and quicker in the test, but dearer.",
+      "b": "Mitsubishi's last ever Evo. Smaller 2.0 with more power and torque, and it was the cheaper one new.",
+      "take": "The Evo wins the dyno sheet. The STI wins the stopwatch."
+    }
+  ],
+  "_sources": [
+    "WRX STI Premium MY16: Carsales research 2016 Subaru WRX STI Premium (price when new $55,390, 221 kW, 407 Nm, 10.4 L/100km, kerb 1,537 kg)",
+    "Lancer Evo X Final Edition 2015: CarsGuide 2015 Lancer Evolution Final Edition specs (226 kW, 414 Nm, 10.2 L/100km, kerb 1,565 kg); WhichCar 'Evo X Final Edition lands from $53,700'",
+    "0-100 tested: WhichCar 'Subaru WRX STI vs Mitsubishi Lancer Evo' (STI 5.49 s, Evo FE 5.61 s; also confirms both prices, outputs and weights)"
+  ]
+}

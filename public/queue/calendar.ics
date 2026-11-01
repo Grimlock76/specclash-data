@@ -8,7 +8,7 @@ X-WR-TIMEZONE:Australia/Perth
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:raptor-vs-hilux-gr-sport@spec-clash.vercel.app
-DTSTAMP:20261031T054806Z
+DTSTAMP:20261101T001511Z
 DTSTART:20261103T094000Z
 DTEND:20261103T095500Z
 SUMMARY:Post TikTok: Ranger Raptor vs HiLux GR Sport
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ve-ss-vs-fg-xr6-turbo@spec-clash.vercel.app
-DTSTAMP:20261031T054806Z
+DTSTAMP:20261101T001511Z
 DTSTART:20261105T105000Z
 DTEND:20261105T110500Z
 SUMMARY:Post TikTok: VE SS vs FG XR6 Turbo
@@ -48,7 +48,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:w1-vs-gtf-351@spec-clash.vercel.app
-DTSTAMP:20261031T054806Z
+DTSTAMP:20261101T001511Z
 DTSTART:20261107T091500Z
 DTEND:20261107T093000Z
 SUMMARY:Post TikTok: HSV GTSR W1 vs FPV GT F 351
@@ -63,6 +63,66 @@ URL:https://spec-clash.vercel.app/queue/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Post HSV GTSR W1 vs FPV GT F 351 in 15 min
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ranger-phev-vs-shark-6-performance@spec-clash.vercel.app
+DTSTAMP:20261101T001511Z
+DTSTART:20261110T102500Z
+DTEND:20261110T104000Z
+SUMMARY:Post TikTok: Ranger PHEV Wildtrak vs Shark 6 Performance
+DESCRIPTION:Open the queue: https://spec-clash.vercel.app/queue/\n\nCapti
+ on:\nPlug-in ute war. BYD's new Shark has 143 kW more for less money. For
+ d has the badge. Would you put a Shark in the driveway? 👇\n#fordranger #
+ bydshark6 #phev #ute #4x4australia #carsoftiktok #specclash\n\nSound idea
+ s:\n- Search 'electric' or 'future bass' for something techy to match the
+  plug-in angle\n- Search 'phonk' and pick one with a big drop for the pow
+ er reveal\n- Any sound from your For You page that's been popping up a lo
+ t this week
+URL:https://spec-clash.vercel.app/queue/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post Ranger PHEV Wildtrak vs Shark 6 Performance in 15 min
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wrx-sti-vs-evo-x-final-edition@spec-clash.vercel.app
+DTSTAMP:20261101T001511Z
+DTSTART:20261112T093500Z
+DTEND:20261112T095000Z
+SUMMARY:Post TikTok: WRX STI vs Lancer Evo X Final Edition
+DESCRIPTION:Open the queue: https://spec-clash.vercel.app/queue/\n\nCapti
+ on:\nThe last Evo vs the STI. More power for the Mitsi\, quicker test tim
+ e for the Subie. Which poster was on your wall? 👇\n#wrxsti #evox #subaru
+  #mitsubishi #jdm #carsoftiktok #specclash\n\nSound ideas:\n- Search 'eur
+ obeat' for the classic JDM vibe\n- Search 'boxer rumble' or 'anti lag' fo
+ r a real engine sound under the music\n- Search 'tokyo drift' or 'initial
+  d' and pick a remix
+URL:https://spec-clash.vercel.app/queue/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post WRX STI vs Lancer Evo X Final Edition in 15 min
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gts-e3-vs-fpv-gt-rspec@spec-clash.vercel.app
+DTSTAMP:20261101T001511Z
+DTSTART:20261114T100500Z
+DTEND:20261114T102000Z
+SUMMARY:Post TikTok: HSV GTS (E3) vs FPV GT R-SPEC
+DESCRIPTION:Open the queue: https://spec-clash.vercel.app/queue/\n\nCapti
+ on:\n2012: the Falcon had more power\, more torque and cost $6k less. Did
+  HSV still win? LS3 or Boss 5.0? 👇\n#hsv #fpv #rspec #holdenvsford #auss
+ iemuscle #v8 #specclash\n\nSound ideas:\n- Search 'V8 burnout' or 'superc
+ harger whine' for a real engine note\n- Search 'aussie rock' for a pub-an
+ them feel\n- A trending Holden vs Ford meme sound to stir up the comments
+URL:https://spec-clash.vercel.app/queue/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post HSV GTS (E3) vs FPV GT R-SPEC in 15 min
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
