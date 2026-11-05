@@ -82,7 +82,7 @@ export default function SpecTable({ loaded, onShare }) {
   return (
     <div style={{ padding: '20px 24px 60px' }}>
       {/* Toolbar */}
-      <div className="no-print" style={{ display: 'flex', gap: 8, marginBottom: 14, justifyContent: 'flex-end' }}>
+      <div className="no-print" style={{ display: 'flex', gap: 8, marginBottom: 14, justifyContent: 'flex-end' }} data-tour="toolbar">
         {loaded.length === 2 && (
           <button className="tbl-btn clash-btn" onClick={() => setClash(true)}
             title="Play an animated face-off">▶ Clash</button>
@@ -101,7 +101,7 @@ export default function SpecTable({ loaded, onShare }) {
 
       {clash && loaded.length === 2 && <UltimateClash cars={loaded.slice(0, 2)} onClose={() => setClash(false)} />}
 
-      <div style={{ overflowX: 'auto' }}>
+      <div style={{ overflowX: 'auto' }} data-tour="spectable">
         <table className={bigReveal ? 'big-reveal' : undefined} style={{ width: '100%', borderCollapse: 'collapse', minWidth: 400 }}>
           <thead>
             <tr>

@@ -79,10 +79,10 @@ export default function ScoreCard({ loaded, isPro, onProGate }) {
   }
 
   return (
-    <div style={{ padding: '20px 24px 0' }}>
+    <div style={{ padding: '20px 24px 0' }} data-tour="scorecard">
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: 8, marginBottom: 12 }}>
         <div style={{ fontSize: 13, letterSpacing: 3, color: '#444', textTransform: 'uppercase', fontFamily: "'Barlow Condensed', sans-serif" }}>HEAD-TO-HEAD</div>
-        <div style={{ display: 'flex', gap: 6 }}>
+        <div style={{ display: 'flex', gap: 6 }} data-tour="presets">
           {Object.keys(PRESETS).map(chip)}
           {chip('Custom')}
         </div>

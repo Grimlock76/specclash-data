@@ -1,26 +1,27 @@
 import { useCallback, useEffect, useLayoutEffect, useState } from 'react'
 
-// First-visit walkthrough: dims the page, spotlights one thing at a time.
-// Shown once per browser (sc_tour_done), replayable from "How it works".
-const STEPS = [
-  { title: 'Welcome to Spec Clash', text: 'Pit any two cars against each other, spec for spec. Here’s the 20-second tour.' },
-  { sel: '.slot-grid > :nth-child(1)', title: 'Pick your first car', text: 'Search a make and model, choose the trim and year, then hit LOAD.' },
-  { sel: '.slot-grid > :nth-child(2)', title: 'Pick its rival', text: 'Do the same here for the car you want to clash it with.' },
-  { sel: '[data-tour="random"]', title: 'Can’t decide?', text: 'Hit Random for a surprise matchup.' },
-  { title: 'Then the fun bit', text: 'You’ll see who wins, every spec side by side, and CLASH for the animated battle. Share sends the matchup to a mate.' },
-]
+// Spotlight walkthrough: dims the page and highlights one thing at a time.
+// Steps come from utils/tour.js; ones whose element isn't on screen are skipped.
+import { markTourSeen } from '../utils/tour'
+
 const PAD = 8
 
-export default function Tour({ onDone }) {
+export default function Tour({ steps: allSteps, name, onDone }) {
+  const [STEPS, setSteps] = useState(allSteps)
+  // Drop steps whose element isn't on the page (checked once the page has rendered)
+  useLayoutEffect(() => {
+    const raf = requestAnimationFrame(() => setSteps(allSteps.filter(st => !st.sel || document.querySelector(st.sel))))
+    return () => cancelAnimationFrame(raf)
+  }, [allSteps])
   const [i, setI] = useState(0)
   const [rect, setRect] = useState(null)
-  const step = STEPS[i]
+  const step = STEPS[Math.min(i, STEPS.length - 1)]
   const last = i === STEPS.length - 1
 
   const finish = useCallback(() => {
-    try { localStorage.setItem('sc_tour_done', '1') } catch { /* private mode */ }
+    markTourSeen(name)
     onDone()
-  }, [onDone])
+  }, [onDone, name])
 
   const measure = useCallback(() => {
     const el = step.sel && document.querySelector(step.sel)
@@ -33,7 +34,7 @@ export default function Tour({ onDone }) {
 
   useLayoutEffect(() => {
     const el = step.sel && document.querySelector(step.sel)
-    if (el) el.scrollIntoView({ block: 'center', behavior: 'instant' })
+    if (el) el.scrollIntoView({ block: el.getBoundingClientRect().height > window.innerHeight * 0.6 ? 'start' : 'center', behavior: 'instant' })
     const raf = requestAnimationFrame(measure)
     return () => cancelAnimationFrame(raf)
   }, [step, measure])
@@ -51,9 +52,9 @@ export default function Tour({ onDone }) {
   let cardStyle = { left: '50%', top: '50%', transform: 'translate(-50%,-50%)' }
   if (rect) {
     const below = rect.top + rect.height + 12
-    cardStyle = below + 190 < vh
-      ? { left: '50%', top: below, transform: 'translateX(-50%)' }
-      : { left: '50%', top: Math.max(12, rect.top - 12), transform: 'translate(-50%,-100%)' }
+    if (below + 200 < vh) cardStyle = { left: '50%', top: below, transform: 'translateX(-50%)' }
+    else if (rect.top - 12 > 200) cardStyle = { left: '50%', top: rect.top - 12, transform: 'translate(-50%,-100%)' }
+    else cardStyle = { left: '50%', bottom: 16, transform: 'translateX(-50%)' }
   }
 
   return (
