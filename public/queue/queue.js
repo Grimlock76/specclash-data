@@ -56,7 +56,7 @@
           <div class="btns">
             <button class="primary" data-send>Send to TikTok drafts</button>
             <button data-copy>Copy caption</button>
-            <a class="btn" href="${esc(p.video)}" download>Save video</a>
+            <a class="btn" href="${esc(/^https:/.test(p.video) ? p.video + '?download=1' : p.video)}" download>Save video</a>
           </div>
           <div class="msg"></div>
           ${p.sources && p.sources.length ? `<details><summary>Spec sources</summary><ul>${p.sources.map(s => `<li>${esc(s)}</li>`).join('')}</ul></details>` : ''}

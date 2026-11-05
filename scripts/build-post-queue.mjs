@@ -4,10 +4,12 @@
 //
 // For every post in studio/packs/*.json (last 3 weeks + anything upcoming):
 //   - renders studio/matchups/<slug>.json to MP4 if it isn't rendered yet
-//   - copies the video to public/queue/<slug>.mp4
+//   - copies the video to queue-videos/<slug>.mp4 (the build pushes it to
+//     Vercel Blob; see upload-queue-videos.mjs — videos stay out of public/
+//     so they aren't stored again in every deployment)
 //   - writes public/queue/queue.json (what the queue page shows)
 //   - writes public/queue/calendar.ics (subscribe once, posting slots appear)
-// Older videos are dropped from public/queue so the repo doesn't balloon.
+// Older videos are dropped from queue-videos/ so the repo doesn't balloon.
 import fs from 'node:fs'
 import path from 'node:path'
 import { spawnSync } from 'node:child_process'
@@ -17,9 +19,11 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const PACKS = path.join(ROOT, 'studio/packs')
 const OUT = path.join(ROOT, 'studio/out')
 const Q = path.join(ROOT, 'public/queue')
+const V = path.join(ROOT, 'queue-videos')
 const KEEP_DAYS = 21
 
 fs.mkdirSync(Q, { recursive: true })
+fs.mkdirSync(V, { recursive: true })
 const now = Date.now()
 const posts = fs.readdirSync(PACKS).filter(f => f.endsWith('.json')).sort()
   .flatMap(f => JSON.parse(fs.readFileSync(path.join(PACKS, f), 'utf8')).posts)
@@ -33,15 +37,18 @@ for (const p of posts) {
     const r = spawnSync('node', ['scripts/render-studio-video.mjs', `studio/matchups/${p.slug}.json`, src], { cwd: ROOT, stdio: 'inherit' })
     if (r.status) process.exit(r.status)
   }
-  fs.copyFileSync(src, path.join(Q, `${p.slug}.mp4`))
+  fs.copyFileSync(src, path.join(V, `${p.slug}.mp4`))
 }
 
 // drop videos no longer in the queue
 const keep = new Set(posts.map(p => `${p.slug}.mp4`))
-for (const f of fs.readdirSync(Q)) if (f.endsWith('.mp4') && !keep.has(f)) fs.rmSync(path.join(Q, f))
+for (const f of fs.readdirSync(V)) if (f.endsWith('.mp4') && !keep.has(f)) fs.rmSync(path.join(V, f))
+// (older builds kept videos in public/queue — clear any strays)
+for (const f of fs.readdirSync(Q)) if (f.endsWith('.mp4')) fs.rmSync(path.join(Q, f))
 
 const queue = posts.map(p => {
   const m = JSON.parse(fs.readFileSync(path.join(ROOT, 'studio/matchups', `${p.slug}.json`), 'utf8'))
+  // placeholder path; the deploy build swaps in the Blob URL
   return { ...p, video: `/queue/${p.slug}.mp4`, sources: m._sources || [] }
 })
 fs.writeFileSync(path.join(Q, 'queue.json'), JSON.stringify({ updated: new Date().toISOString(), posts: queue }, null, 2) + '\n')
@@ -68,4 +75,4 @@ fs.writeFileSync(path.join(Q, 'calendar.ics'), [
   ...ev, 'END:VCALENDAR', '',
 ].join('\r\n'))
 
-console.log(`queue: ${queue.length} posts → public/queue/ (queue.json, calendar.ics, videos)`)
+console.log(`queue: ${queue.length} posts → public/queue/ (queue.json, calendar.ics) + queue-videos/ (MP4s)`)
