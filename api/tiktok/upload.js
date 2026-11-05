@@ -26,7 +26,7 @@ export default async function handler(req, res) {
     const days = Math.max(1, Math.floor((ns.rexp - Date.now()) / 864e5))
     res.setHeader('Set-Cookie', cookie(SESSION_COOKIE, seal(ns), days * 86400))
 
-    const file = await fetch(`${ORIGIN}${video}`)
+    const file = await fetch(`${ORIGIN}${video}`, { headers: { cookie: String(req.headers.cookie || '') } })   // /queue is owner-only
     if (!file.ok) throw new Error(`video fetch ${file.status}`)
     const bytes = Buffer.from(await file.arrayBuffer())
     if (bytes.length > 64 * 1024 * 1024) throw new Error('video over 64 MB')

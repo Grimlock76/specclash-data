@@ -4,6 +4,8 @@ import Slot from './components/Slot'
 import ScoreCard from './components/ScoreCard'
 import SpecTable from './components/SpecTable'
 import ProPanel from './components/ProPanel'
+import Tour from './components/Tour'
+import { tourSeen } from './utils/tour'
 import Footer from './components/Footer'
 import { MAKES } from './data/index.js'
 import { VERSION } from './version.js'
@@ -54,6 +56,8 @@ export default function App() {
   const [epoch, setEpoch]     = useState(0) // bump to remount slots with new seeds
   const [isPro, setIsPro]     = useState(false)
   const [showPro, setShowPro] = useState(false)
+  // Auto-show the tour on a first plain visit (not when opening a shared matchup link)
+  const [showTour, setShowTour] = useState(() => !tourSeen() && !parseUrlCars().some(Boolean))
   const [toast, setToast]     = useState(0)  // >0 = showing; bump to replay the animation
 
   const onResult = useCallback((i, r) => setCars(p => { const n = [...p]; n[i] = r; return n }), [])
@@ -144,9 +148,10 @@ export default function App() {
           <p style={{ color: '#666', fontSize: 12, marginTop: 2, letterSpacing: 1, fontVariantNumeric: 'tabular-nums' }}>
             {fmtCount(MAKES_COUNT)} makes · {fmtCount(MODELS_COUNT)} models · {fmtCount(TRIMS_COUNT)} trims
           </p>
+          <button className="how-link" onClick={() => { window.scrollTo(0, 0); setShowTour(true) }}>How it works</button>
         </div>
         <div style={{ display: 'flex', gap: 8, alignItems: 'center', flexShrink: 0, marginTop: 6 }}>
-          <button className="hdr-btn" onClick={randomMatchup} title="Random matchup">
+          <button className="hdr-btn" onClick={randomMatchup} title="Random matchup" data-tour="random">
             <span style={{ fontSize: 13 }}>🎲</span> Random
           </button>
           {anyLoaded && (
@@ -159,6 +164,8 @@ export default function App() {
           </button>
         </div>
       </div>
+
+      {showTour && <Tour onDone={() => setShowTour(false)} />}
 
       {/* Pro panel overlay */}
       {showPro && (

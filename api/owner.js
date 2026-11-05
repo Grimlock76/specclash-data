@@ -1,14 +1,18 @@
-// GET    /api/owner          -> { owner: true|false }
+// GET    /api/owner          -> { owner: true|false, calendar?: secret feed URL (owner only) }
 // POST   /api/owner {code}   -> 204 + owner cookie, or 401 (slowed down)
 // DELETE /api/owner          -> 204, cookie cleared ("lock this device")
-import { codeMatches, isOwner, ownerCookie, ownerToken } from './_lib/owner.js'
+import { calendarKey, codeMatches, isOwner, ownerCookie, ownerToken } from './_lib/owner.js'
 
 const YEAR = 365 * 86400
 const sleep = ms => new Promise(r => setTimeout(r, ms))
 
 export default async function handler(req, res) {
   res.setHeader('Cache-Control', 'no-store')
-  if (req.method === 'GET') { res.status(200).json({ owner: isOwner(req) }); return }
+  if (req.method === 'GET') {
+    const owner = isOwner(req)
+    res.status(200).json(owner ? { owner, calendar: `https://${req.headers.host}/queue/calendar.ics?k=${calendarKey()}` } : { owner })
+    return
+  }
   if (req.method === 'DELETE') { res.setHeader('Set-Cookie', ownerCookie('', 0)); res.status(204).end(); return }
   if (req.method !== 'POST') { res.setHeader('Allow', 'GET, POST, DELETE'); res.status(405).end(); return }
 

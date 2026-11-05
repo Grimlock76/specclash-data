@@ -25,6 +25,17 @@
     document.querySelectorAll('[data-send]').forEach(b => { b.disabled = !connected })
   }
 
+  // Secret calendar feed link (only returned to the owner)
+  fetch('/api/owner', { cache: 'no-store' }).then(r => r.json()).then(o => {
+    if (!o.calendar) return
+    $('calSub').href = o.calendar.replace(/^https:/, 'webcal:')
+    $('calSub').hidden = false; $('calCopy').hidden = false
+    $('calCopy').addEventListener('click', async () => {
+      try { await navigator.clipboard.writeText(o.calendar); $('calCopy').textContent = 'Calendar link copied' }
+      catch { prompt('Calendar link', o.calendar) }
+    })
+  }).catch(() => {})
+
   $('disconnectBtn').addEventListener('click', async () => {
     await fetch('/api/tiktok/disconnect', { method: 'POST' })
     status()

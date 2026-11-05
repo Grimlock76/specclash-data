@@ -29,4 +29,7 @@ export function readCookie(req, name) {
 export const isOwner = req => norm(code()).length >= 12 && eq(readCookie(req, OWNER_COOKIE), ownerToken())
 
 export const ownerCookie = (value, maxAge) =>
-  `${OWNER_COOKIE}=${encodeURIComponent(value)}; Path=/; HttpOnly; Secure; SameSite=Strict; Max-Age=${maxAge}`
+  `${OWNER_COOKIE}=${encodeURIComponent(value)}; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=${maxAge}`
+
+// Secret for the calendar feed link (/queue/calendar.ics?k=…); must match middleware.js
+export const calendarKey = () => crypto.createHmac('sha256', norm(code())).update('spec-clash-calendar-v1').digest('base64url').slice(0, 32)
