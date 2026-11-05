@@ -140,18 +140,18 @@ function page(a, b, segment, related) {
   body{background:#0a0a0a;color:#d8d8d8;font-family:'Barlow Condensed',system-ui,sans-serif;margin:0;padding:24px;line-height:1.5}
   main{max-width:720px;margin:0 auto}
   .logo{font-size:26px;font-weight:800;letter-spacing:3px;color:#fff;text-decoration:none}
-  .logo b{color:#C8F04A}
+  .logo b{color:#A970FF}
   h1{font-size:34px;line-height:1.15;margin:24px 0 8px}
   .seg{color:#555;font-size:13px;letter-spacing:2px;text-transform:uppercase}
   p{color:#9a9a9a;font-size:16px}
   table{width:100%;border-collapse:collapse;margin:22px 0;font-size:16px}
   th,td{padding:9px 10px;border-bottom:1px solid #181818;text-align:center}
   th{color:#666;font-size:13px;letter-spacing:1.5px;text-transform:uppercase;font-weight:600}
-  thead td{color:#C8F04A;font-weight:700;font-size:17px}
+  thead td{color:#A970FF;font-weight:700;font-size:17px}
   thead td:last-child{color:#60C8FF}
-  .win{color:#C8F04A;font-weight:700}
+  .win{color:#A970FF;font-weight:700}
   td:last-child.win{color:#60C8FF}
-  .cta{display:block;text-align:center;background:#C8F04A;color:#000;font-weight:800;letter-spacing:2px;text-transform:uppercase;padding:14px;border-radius:8px;text-decoration:none;margin:26px 0}
+  .cta{display:block;text-align:center;background:#A970FF;color:#000;font-weight:800;letter-spacing:2px;text-transform:uppercase;padding:14px;border-radius:8px;text-decoration:none;margin:26px 0}
   ul{columns:2;padding-left:18px}
   li{margin:4px 0}
   a{color:#8ab4f8}
@@ -225,7 +225,7 @@ fs.writeFileSync(path.join(vsDir, 'index.html'), `<!doctype html>
 <title>Car comparisons — Spec Clash</title>
 <meta name="description" content="Side-by-side spec comparisons of Australia's most popular utes, SUVs, EVs and performance cars.">
 <link rel="canonical" href="${SITE}/vs/"><link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<style>body{background:#0a0a0a;color:#d8d8d8;font-family:'Barlow Condensed',system-ui,sans-serif;margin:0;padding:24px}main{max-width:860px;margin:0 auto}.logo{font-size:26px;font-weight:800;letter-spacing:3px;color:#fff;text-decoration:none}.logo b{color:#C8F04A}h2{color:#C8F04A;font-size:20px;letter-spacing:1px;margin-top:28px}ul{columns:2;padding-left:18px;font-size:15px}li{margin:4px 0}a{color:#8ab4f8}</style>
+<style>body{background:#0a0a0a;color:#d8d8d8;font-family:'Barlow Condensed',system-ui,sans-serif;margin:0;padding:24px}main{max-width:860px;margin:0 auto}.logo{font-size:26px;font-weight:800;letter-spacing:3px;color:#fff;text-decoration:none}.logo b{color:#A970FF}h2{color:#A970FF;font-size:20px;letter-spacing:1px;margin-top:28px}ul{columns:2;padding-left:18px;font-size:15px}li{margin:4px 0}a{color:#8ab4f8}</style>
 </head><body><main><a class="logo" href="/">SPEC<b>CLASH</b></a><h1>Popular car comparisons</h1>
 ${sections}
 </main></body></html>\n`);

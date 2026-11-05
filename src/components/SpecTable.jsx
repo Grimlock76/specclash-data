@@ -93,7 +93,7 @@ export default function SpecTable({ loaded, onShare }) {
         )}
         {loaded.length > 1 && (
           <button className="tbl-btn" onClick={() => setShowDelta(d => !d)}
-            style={showDelta ? { color: '#C8F04A', borderColor: '#C8F04A44' } : undefined}>Δ %</button>
+            style={showDelta ? { color: '#A970FF', borderColor: '#A970FF44' } : undefined}>Δ %</button>
         )}
         <button className="tbl-btn" onClick={() => window.print()}>⎙ Print</button>
         {onShare && <button className="tbl-btn" onClick={onShare}>↗ Share</button>}
@@ -118,7 +118,7 @@ export default function SpecTable({ loaded, onShare }) {
               .filter(g => g.keys.length).map(g => (
               <Fragment key={g.label}>
                 <tr className="spec-group" style={{ '--rd': `${rowNo * stagger}ms` }}>
-                  <td colSpan={loaded.length + 1} style={{ padding: '14px 12px 5px', fontFamily: "'Barlow Condensed', sans-serif", fontSize: 14, letterSpacing: 3, color: '#C8F04A', textTransform: 'uppercase', borderTop: '1px solid #141414' }}>{g.label}</td>
+                  <td colSpan={loaded.length + 1} style={{ padding: '14px 12px 5px', fontFamily: "'Barlow Condensed', sans-serif", fontSize: 14, letterSpacing: 3, color: '#A970FF', textTransform: 'uppercase', borderTop: '1px solid #141414' }}>{g.label}</td>
                 </tr>
                 {g.keys.map(key => {
                   const best = getBest(key, loaded)

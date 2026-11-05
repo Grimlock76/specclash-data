@@ -6,7 +6,7 @@ import { DARK, poly, PATHS } from './silhouettePaths.js'
 import { pickArchetype } from './archetype.js'
 import { getBodyType } from './bodyType.js'
 
-const SLOT_COLORS = ['#C8F04A', '#60C8FF']
+const SLOT_COLORS = ['#A970FF', '#60C8FF']
 const ROWS = [
   ['hp', 'POWER', true], ['tq', 'TORQUE', true], ['z1', '0–100 KM/H', false],
   ['ts', 'TOP SPEED', true], ['wt', 'WEIGHT', false], ['pr', 'PRICE NEW', false],
@@ -71,7 +71,7 @@ export function drawMatchupCard(ctx, cars, { font = '"Barlow Condensed", sans-se
   const logoW = ctx.measureText('SPECCLASH').width
   ctx.textAlign = 'left'
   ctx.fillStyle = '#ffffff'; ctx.fillText('SPEC', (W - logoW) / 2, 150)
-  ctx.fillStyle = '#C8F04A'; ctx.fillText('CLASH', (W - logoW) / 2 + ctx.measureText('SPEC').width, 150)
+  ctx.fillStyle = '#A970FF'; ctx.fillText('CLASH', (W - logoW) / 2 + ctx.measureText('SPEC').width, 150)
   ctx.textAlign = 'center'
   ctx.fillStyle = '#555555'; ctx.font = F('600 40px')
   ctx.fillText('H E A D - T O - H E A D', W / 2, 215)
@@ -136,7 +136,7 @@ export function drawMatchupCard(ctx, cars, { font = '"Barlow Condensed", sans-se
   ctx.fillStyle = '#3a3a3a'; ctx.font = F('600 42px')
   ctx.fillText('spec-clash.vercel.app', W / 2, H - 70)
   if (handle) {
-    ctx.fillStyle = '#C8F04A'; ctx.font = F('700 40px')
+    ctx.fillStyle = '#A970FF'; ctx.font = F('700 40px')
     ctx.fillText(handle, W / 2, H - 125)
   }
 }

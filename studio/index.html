@@ -6,13 +6,13 @@
 <style>
 /* Layout: phone-first. 9:16 video stage on top, editor below; side by side on desktop. Single dark look = the Spec-Clash brand. */
 :root{
-  --ink:#0b0d0a;        /* stage + page ground */
-  --panel:#141712;      /* editor surfaces */
-  --line:#262b22;       /* hairlines, grid */
-  --fg:#eef2e8;         /* main text */
-  --muted:#8b9483;      /* secondary text */
-  --lime:#c6f432;       /* brand accent */
-  --lime-dim:#56651f;
+  --ink:#0b0b0b;        /* stage + page ground */
+  --panel:#141414;      /* editor surfaces */
+  --line:#262626;       /* hairlines, grid */
+  --fg:#eeeeee;         /* main text */
+  --muted:#8f8f8f;      /* secondary text */
+  --lime:#a970ff;       /* brand accent */
+  --lime-dim:#5d5d5d;
   --danger:#ff6b5a;
   --win:#ffffff;        /* winner light-up: white glow */
   --ease:cubic-bezier(.16,1,.3,1);   /* soft ease-out used everywhere */
@@ -39,7 +39,7 @@ button.ghost{background:transparent}
 /* ---------- STAGE (9:16) ---------- */
 .stage{position:relative;width:100%;max-width:380px;margin:0 auto;aspect-ratio:9/16;background:var(--ink);overflow:hidden;border-radius:14px;border:1px solid var(--line);container-type:inline-size;font-family:var(--f-cond)}
 .bg{position:absolute;inset:-8cqw;animation:drift 24s linear infinite;background-image:linear-gradient(var(--line) 1px,transparent 1px),linear-gradient(90deg,var(--line) 1px,transparent 1px);background-size:8cqw 8cqw;opacity:.45;mask-image:radial-gradient(ellipse at 50% 45%,#000 30%,transparent 80%)}
-.glow{position:absolute;left:50%;top:44%;width:120cqw;height:120cqw;transform:translate(-50%,-50%);background:radial-gradient(circle,rgba(198,244,50,.13),transparent 60%);pointer-events:none;animation:breathe 7s ease-in-out infinite}
+.glow{position:absolute;left:50%;top:44%;width:120cqw;height:120cqw;transform:translate(-50%,-50%);background:radial-gradient(circle,rgba(150,90,255,.13),transparent 60%);pointer-events:none;animation:breathe 7s ease-in-out infinite}
 @keyframes drift{to{transform:translate(8cqw,8cqw)}}
 @keyframes breathe{0%,100%{opacity:.7}50%{opacity:1}}
 .brand{position:absolute;left:0;right:0;bottom:4cqw;text-align:center;font:600 3cqw var(--f-cond);letter-spacing:.5em;color:var(--lime);opacity:.8}
@@ -440,7 +440,7 @@ function judge(s){
 }
 function carColours(){
   const a=MAKE_COLOURS[state.makeA]||"#ffffff";let b=MAKE_COLOURS[state.makeB]||"#ffffff";
-  if(b===a)b=a==="#ffffff"?"#c6f432":"#ffffff";   // same make (e.g. Holden vs Holden): car B glows white
+  if(b===a)b=a==="#ffffff"?"#a970ff":"#ffffff";   // same make (e.g. Holden vs Holden): car B glows white
   return[a,b];
 }
 // Rounds in the order they first appear; each holds the indexes of its specs

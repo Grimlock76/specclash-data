@@ -20,7 +20,7 @@ export default function ProPanel({ isPro, onClose, onActivate, onDeactivate }) {
       }}>×</button>
 
       <div style={{ marginBottom: 22 }}>
-        <div style={{ fontSize: 24, fontWeight: 800, letterSpacing: 4, color: '#C8F04A', textTransform: 'uppercase', marginBottom: 4 }}>
+        <div style={{ fontSize: 24, fontWeight: 800, letterSpacing: 4, color: '#A970FF', textTransform: 'uppercase', marginBottom: 4 }}>
           SPEC CLASH PRO
         </div>
         <div style={{ fontSize: 13, color: '#555', letterSpacing: 1 }}>Unlock the full garage</div>
@@ -28,11 +28,11 @@ export default function ProPanel({ isPro, onClose, onActivate, onDeactivate }) {
 
       {isPro ? (
         <>
-          <div style={{ background: '#141408', border: '1px solid #C8F04A33', borderRadius: 12, padding: '16px 18px', marginBottom: 18 }}>
-            <div style={{ color: '#C8F04A', fontSize: 15, fontWeight: 700, letterSpacing: 2, marginBottom: 10 }}>✓ PRO ACTIVE</div>
+          <div style={{ background: '#110d17', border: '1px solid #A970FF33', borderRadius: 12, padding: '16px 18px', marginBottom: 18 }}>
+            <div style={{ color: '#A970FF', fontSize: 15, fontWeight: 700, letterSpacing: 2, marginBottom: 10 }}>✓ PRO ACTIVE</div>
             {PRO_FEATURES.map(f => (
               <div key={f} style={{ fontSize: 13, color: '#777', marginBottom: 5, display: 'flex', gap: 8 }}>
-                <span style={{ color: '#C8F04A', flexShrink: 0 }}>✓</span>{f}
+                <span style={{ color: '#A970FF', flexShrink: 0 }}>✓</span>{f}
               </div>
             ))}
           </div>
@@ -47,13 +47,13 @@ export default function ProPanel({ isPro, onClose, onActivate, onDeactivate }) {
           <div style={{ marginBottom: 22 }}>
             {PRO_FEATURES.map(f => (
               <div key={f} style={{ fontSize: 14, color: '#888', marginBottom: 7, display: 'flex', gap: 8, alignItems: 'center' }}>
-                <span style={{ color: '#C8F04A', fontSize: 10, flexShrink: 0 }}>▲</span>{f}
+                <span style={{ color: '#A970FF', fontSize: 10, flexShrink: 0 }}>▲</span>{f}
               </div>
             ))}
           </div>
 
           <button onClick={onActivate} style={{
-            width: '100%', background: '#C8F04A', color: '#000',
+            width: '100%', background: '#A970FF', color: '#000',
             border: 'none', borderRadius: 10, padding: '15px 0',
             fontSize: 17, fontWeight: 800, letterSpacing: 2, textTransform: 'uppercase',
             cursor: 'pointer', fontFamily: "'Barlow Condensed', sans-serif"

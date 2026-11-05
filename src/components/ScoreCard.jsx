@@ -101,9 +101,9 @@ export default function ScoreCard({ loaded, isPro, onProGate }) {
                 type="range" min="0" max="5" step="1"
                 value={custom[cat.key] ?? cat.weight}
                 onChange={e => setCustom(c => ({ ...c, [cat.key]: +e.target.value }))}
-                style={{ flex: 1, accentColor: '#C8F04A', cursor: 'pointer' }}
+                style={{ flex: 1, accentColor: '#A970FF', cursor: 'pointer' }}
               />
-              <span style={{ width: 10, color: (custom[cat.key] ?? cat.weight) > 0 ? '#C8F04A' : '#333' }}>{custom[cat.key] ?? cat.weight}</span>
+              <span style={{ width: 10, color: (custom[cat.key] ?? cat.weight) > 0 ? '#A970FF' : '#333' }}>{custom[cat.key] ?? cat.weight}</span>
             </label>
           ))}
         </div>

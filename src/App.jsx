@@ -121,7 +121,7 @@ export default function App() {
         <div>
           <div style={{ display: 'flex', alignItems: 'baseline', gap: 0 }}>
             <span style={{ fontSize: 30, fontWeight: 800, letterSpacing: 4, color: '#fff', textTransform: 'uppercase' }}>SPEC</span>
-            <span style={{ fontSize: 30, fontWeight: 800, letterSpacing: 4, color: '#C8F04A', textTransform: 'uppercase' }}>CLASH</span>
+            <span style={{ fontSize: 30, fontWeight: 800, letterSpacing: 4, color: '#A970FF', textTransform: 'uppercase' }}>CLASH</span>
           </div>
           <p style={{ color: '#444', fontSize: 12, marginTop: 3, letterSpacing: 1 }}>
             {isPro ? 'PRO · 4 cars' : 'FREE · 2 cars'}
