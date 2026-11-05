@@ -1,40 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
-  <defs>
-    <filter id="g" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <linearGradient id="ag" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#5500cc"/>
-      <stop offset="70%" stop-color="#863bff"/>
-      <stop offset="100%" stop-color="#ff4444"/>
-    </linearGradient>
-  </defs>
-  <!-- Track arc -->
-  <path d="M 14,92 A 46,46 0 0 1 106,92" stroke="#1e1e1e" stroke-width="8" fill="none" stroke-linecap="round"/>
-  <!-- Gradient arc -->
-  <path d="M 14,92 A 46,46 0 0 1 106,92" stroke="url(#ag)" stroke-width="8" fill="none" stroke-linecap="round" stroke-dasharray="144 200"/>
-  <!-- Tick marks -->
-  <g stroke="#333" stroke-width="1.5">
-    <line x1="14" y1="92" x2="19" y2="84" transform="rotate(0 60 92)"/>
-    <line x1="14" y1="92" x2="19" y2="84" transform="rotate(18 60 92)"/>
-    <line x1="14" y1="92" x2="19" y2="84" transform="rotate(36 60 92)"/>
-    <line x1="14" y1="92" x2="19" y2="84" transform="rotate(54 60 92)"/>
-    <line x1="14" y1="92" x2="19" y2="84" transform="rotate(72 60 92)"/>
-    <line x1="14" y1="92" x2="19" y2="84" transform="rotate(90 60 92)"/>
-    <line x1="14" y1="92" x2="19" y2="84" transform="rotate(108 60 92)"/>
-    <line x1="14" y1="92" x2="19" y2="84" transform="rotate(126 60 92)"/>
-    <line x1="14" y1="92" x2="19" y2="84" transform="rotate(144 60 92)"/>
-    <line x1="14" y1="92" x2="19" y2="84" transform="rotate(162 60 92)"/>
-  </g>
-  <!-- Red zone arc -->
-  <path d="M 97,65 A 46,46 0 0 1 106,92" stroke="#ff3333" stroke-width="9" fill="none" stroke-linecap="round" opacity="0.55"/>
-  <!-- Needle -->
-  <g filter="url(#g)">
-    <line x1="60" y1="92" x2="100" y2="72" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
-    <line x1="60" y1="92" x2="53" y2="96" stroke="#ffffff" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
-  </g>
-  <!-- Hub -->
-  <circle cx="60" cy="92" r="5" fill="#863bff"/>
-  <circle cx="60" cy="92" r="2.5" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><defs>
+ <filter id="glow" filterUnits="userSpaceOnUse" x="0" y="0" width="512" height="512"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="glow2" filterUnits="userSpaceOnUse" x="0" y="0" width="512" height="512"><feGaussianBlur stdDeviation="18" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <radialGradient id="bg" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#151318"/><stop offset="1" stop-color="#0b0b0b"/></radialGradient>
+ <linearGradient id="br" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2f7dff"/><stop offset=".42" stop-color="#2f7dff"/><stop offset=".58" stop-color="#ff2b2b"/><stop offset="1" stop-color="#ff2b2b"/></linearGradient>
+</defs><rect width="512" height="512" fill="url(#bg)"/>
+ <path d="M82.8,386.0 A200,200 0 1 1 429.2,386.0" fill="none" stroke="url(#br)" stroke-width="30" stroke-linecap="round" filter="url(#glow)"/>
+ <line x1="103.57952893393878" y1="374" x2="126.0961894323342" y2="361" stroke="#4b3a66" stroke-width="7" stroke-linecap="round"/><line x1="82.67383546985138" y1="316.56207926937975" x2="108.27883704816881" y2="312.04722665003953" stroke="#4b3a66" stroke-width="7" stroke-linecap="round"/><line x1="82.67383546985138" y1="255.43792073062025" x2="108.27883704816881" y2="259.9527733499604" stroke="#4b3a66" stroke-width="7" stroke-linecap="round"/><line x1="103.5795289339388" y1="198" x2="126.0961894323342" y2="211" stroke="#4b3a66" stroke-width="7" stroke-linecap="round"/><line x1="142.86938069516907" y1="151.1761780110599" x2="159.58185854701907" y2="171.0933335321533" stroke="#4b3a66" stroke-width="7" stroke-linecap="round"/><line x1="195.8044547746822" y1="120.61409874168015" x2="204.6969785011496" y2="145.04610688211378" stroke="#4b3a66" stroke-width="7" stroke-linecap="round"/><line x1="255.99999999999997" y1="110" x2="255.99999999999997" y2="136" stroke="#4b3a66" stroke-width="7" stroke-linecap="round"/><line x1="316.1955452253176" y1="120.6140987416801" x2="307.3030214988502" y2="145.04610688211372" stroke="#4b3a66" stroke-width="7" stroke-linecap="round"/><line x1="369.13061930483093" y1="151.17617801105985" x2="352.4181414529809" y2="171.09333353215328" stroke="#4b3a66" stroke-width="7" stroke-linecap="round"/><line x1="408.42047106606117" y1="197.99999999999991" x2="385.90381056766574" y2="210.99999999999994" stroke="#4b3a66" stroke-width="7" stroke-linecap="round"/><line x1="429.3261645301486" y1="255.4379207306201" x2="403.72116295183116" y2="259.9527733499603" stroke="#4b3a66" stroke-width="7" stroke-linecap="round"/><line x1="429.3261645301486" y1="316.56207926937964" x2="403.7211629518312" y2="312.0472266500395" stroke="#4b3a66" stroke-width="7" stroke-linecap="round"/><line x1="408.4204710660613" y1="373.9999999999999" x2="385.90381056766586" y2="360.9999999999999" stroke="#4b3a66" stroke-width="7" stroke-linecap="round"/>
+ <line x1="256" y1="286" x2="343.5" y2="134.44555433772325" stroke="#a970ff" stroke-width="14" stroke-linecap="round" filter="url(#glow)"/>
+ <circle cx="256" cy="286" r="82" fill="#0b0b0b" stroke="#a970ff" stroke-width="10" filter="url(#glow)"/>
+ <path transform="translate(213.55,331.53) scale(0.04492,-0.04492)" fill="#f4f6ee" d="M240 0 23 1761H358L487 563L602 1761H937L720 0ZM1457 -16Q1216 -16 1109.5 104.0Q1003 224 1003 486V658H1351V438Q1351 377 1369.5 342.5Q1388 308 1434 308Q1482 308 1500.5 336.0Q1519 364 1519 428Q1519 509 1503.0 563.5Q1487 618 1447.5 667.5Q1408 717 1338 783L1180 933Q1003 1100 1003 1315Q1003 1540 1107.5 1658.0Q1212 1776 1410 1776Q1652 1776 1753.5 1647.0Q1855 1518 1855 1255H1497V1376Q1497 1412 1476.5 1432.0Q1456 1452 1421 1452Q1379 1452 1359.5 1428.5Q1340 1405 1340 1368Q1340 1331 1360.0 1288.0Q1380 1245 1439 1189L1642 994Q1703 936 1754.0 871.5Q1805 807 1836.0 721.5Q1867 636 1867 513Q1867 265 1775.5 124.5Q1684 -16 1457 -16Z"/>
 </svg>

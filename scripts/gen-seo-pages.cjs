@@ -147,10 +147,10 @@ function page(a, b, segment, related) {
   table{width:100%;border-collapse:collapse;margin:22px 0;font-size:16px}
   th,td{padding:9px 10px;border-bottom:1px solid #181818;text-align:center}
   th{color:#666;font-size:13px;letter-spacing:1.5px;text-transform:uppercase;font-weight:600}
-  thead td{color:#A970FF;font-weight:700;font-size:17px}
-  thead td:last-child{color:#60C8FF}
-  .win{color:#A970FF;font-weight:700}
-  td:last-child.win{color:#60C8FF}
+  thead td{color:#FF3B3B;font-weight:700;font-size:17px}
+  thead td:last-child{color:#3D8BFF}
+  .win{color:#FF3B3B;font-weight:700}
+  td:last-child.win{color:#3D8BFF}
   .cta{display:block;text-align:center;background:#A970FF;color:#000;font-weight:800;letter-spacing:2px;text-transform:uppercase;padding:14px;border-radius:8px;text-decoration:none;margin:26px 0}
   ul{columns:2;padding-left:18px}
   li{margin:4px 0}

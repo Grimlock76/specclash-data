@@ -6,7 +6,7 @@ import { DARK, poly, PATHS } from './silhouettePaths.js'
 import { pickArchetype } from './archetype.js'
 import { getBodyType } from './bodyType.js'
 
-const SLOT_COLORS = ['#A970FF', '#60C8FF']
+const SLOT_COLORS = ['#FF3B3B', '#3D8BFF']
 const ROWS = [
   ['hp', 'POWER', true], ['tq', 'TORQUE', true], ['z1', '0–100 KM/H', false],
   ['ts', 'TOP SPEED', true], ['wt', 'WEIGHT', false], ['pr', 'PRICE NEW', false],

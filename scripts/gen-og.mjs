@@ -3,7 +3,7 @@
 import { chromium } from 'playwright'
 import fs from 'node:fs'
 
-const SLOT_COLORS = ['#A970FF', '#60C8FF', '#FF7043', '#C8F04A']
+const SLOT_COLORS = ['#FF3B3B', '#3D8BFF', '#C8F04A', '#FFB020']
 const html = `<!doctype html><html><head>
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;800&display=swap" rel="stylesheet">
 <style>

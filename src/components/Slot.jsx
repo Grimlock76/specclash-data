@@ -7,7 +7,7 @@ import CarSilhouette from './CarSilhouette.jsx'
 import { listingUrl, logListingClick } from '../utils/listings.js'
 import { pickArchetype } from '../utils/archetype.js'
 
-const COLORS = ['#A970FF', '#60C8FF', '#FF7043', '#C8F04A']
+const COLORS = ['#FF3B3B', '#3D8BFF', '#C8F04A', '#FFB020']
 
 // Group trims by generation code (leading short token: VB, VF, ZB, WN, MkIV…).
 // Returns ordered [{gen, trims}] when grouping genuinely consolidates the list
