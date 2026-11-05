@@ -6,7 +6,7 @@
 
   const flash = new URLSearchParams(location.search).get('tiktok')
   if (flash) {
-    $('flash').textContent = flash === 'connected' ? 'TikTok connected ✅' : 'TikTok connect failed: ' + flash
+    $('flash').textContent = flash === 'connected' ? 'TikTok connected ✅' : flash === 'owner-only' ? 'Owner only: unlock with your owner code on the main site (★ GO PRO → Owner access), then try again.' : 'TikTok connect failed: ' + flash
     if (flash !== 'connected') $('flash').classList.add('err')
     history.replaceState(null, '', location.pathname)
   }
@@ -63,7 +63,7 @@
       try {
         const r = await fetch('/api/tiktok/upload', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ video: p.video }) })
         const j = await r.json().catch(() => ({}))
-        if (!r.ok) throw new Error(j.error || r.status)
+        if (!r.ok) throw new Error(r.status === 403 ? 'owner only. Unlock with your owner code on the main site first.' : (j.error || r.status))
         msg.textContent = 'Sent ✅ Check your TikTok inbox notifications to finish the post.'
       } catch (e) {
         msg.textContent = 'Upload failed: ' + e.message; msg.classList.add('err'); send.disabled = false

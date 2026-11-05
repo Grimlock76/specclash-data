@@ -31,9 +31,9 @@ function parseUrlCars() {
   }
 }
 
-function readPro() {
-  try { return localStorage.getItem('sc_pro') === '1' } catch { return false }
-}
+// Pro is locked for now: only the owner (after entering the owner code, checked
+// server-side by /api/owner) gets it. The old free "sc_pro" flag is ignored.
+try { localStorage.removeItem('sc_pro') } catch { /* private mode */ }
 
 // Any makes.json entry is loadable (gap-check guarantees makes ⊆ SPECS).
 function randomCar() {
@@ -52,7 +52,7 @@ export default function App() {
   const [cars, setCars]       = useState(Array(4).fill(null))
   const [seeds, setSeeds]     = useState(parseUrlCars)
   const [epoch, setEpoch]     = useState(0) // bump to remount slots with new seeds
-  const [isPro, setIsPro]     = useState(readPro)
+  const [isPro, setIsPro]     = useState(false)
   const [showPro, setShowPro] = useState(false)
   const [toast, setToast]     = useState(0)  // >0 = showing; bump to replay the animation
 
@@ -85,12 +85,27 @@ export default function App() {
   // eslint-disable-next-line react-hooks/exhaustive-deps
   const recents = useMemo(() => readRecents(), [cars])
 
-  const activatePro = () => {
-    try { localStorage.setItem('sc_pro', '1') } catch { /* private mode */ }
-    setIsPro(true); setShowPro(false)
+  useEffect(() => {
+    fetch('/api/owner', { cache: 'no-store', credentials: 'same-origin' })
+      .then(r => (r.ok ? r.json() : { owner: false }))
+      .then(j => setIsPro(!!j.owner))
+      .catch(() => setIsPro(false))
+  }, [])
+
+  // Returns an error message, or null on success
+  const unlockOwner = async code => {
+    try {
+      const r = await fetch('/api/owner', {
+        method: 'POST', credentials: 'same-origin',
+        headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ code }),
+      })
+      if (!r.ok) return r.status === 401 ? 'That code is not right.' : 'Could not check the code. Try again.'
+      setIsPro(true); setShowPro(false)
+      return null
+    } catch { return 'No connection. Try again.' }
   }
-  const deactivatePro = () => {
-    try { localStorage.removeItem('sc_pro') } catch { /* private mode */ }
+  const lockOwner = async () => {
+    try { await fetch('/api/owner', { method: 'DELETE', credentials: 'same-origin' }) } catch { /* offline */ }
     setIsPro(false); setShowPro(false)
   }
 
@@ -151,8 +166,8 @@ export default function App() {
           <ProPanel
             isPro={isPro}
             onClose={() => setShowPro(false)}
-            onActivate={activatePro}
-            onDeactivate={deactivatePro}
+            onUnlock={unlockOwner}
+            onLock={lockOwner}
           />
         </div>
       )}

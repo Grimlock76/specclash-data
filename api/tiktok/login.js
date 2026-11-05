@@ -1,8 +1,10 @@
 // Starts "Connect TikTok": sends the browser to TikTok's consent screen.
 import crypto from 'node:crypto'
 import { config, redirectUri, SCOPES, STATE_COOKIE, cookie } from '../_lib/tiktok.js'
+import { isOwner } from '../_lib/owner.js'
 
 export default function handler(req, res) {
+  if (!isOwner(req)) { res.setHeader('Cache-Control', 'no-store'); res.redirect(302, '/queue/?tiktok=owner-only'); return }
   let key
   try { ({ key } = config()) } catch (e) { res.status(500).send(e.message); return }
   const state = crypto.randomBytes(16).toString('hex')

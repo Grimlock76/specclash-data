@@ -5,7 +5,21 @@ const PRO_FEATURES = [
   'Print-ready export',
 ]
 
-export default function ProPanel({ isPro, onClose, onActivate, onDeactivate }) {
+import { useState } from 'react'
+
+export default function ProPanel({ isPro, onClose, onUnlock, onLock }) {
+  const [showCode, setShowCode] = useState(false)
+  const [code, setCode] = useState('')
+  const [busy, setBusy] = useState(false)
+  const [err, setErr] = useState('')
+  const submit = async e => {
+    e.preventDefault()
+    if (!code.trim() || busy) return
+    setBusy(true); setErr('')
+    const msg = await onUnlock(code)
+    setBusy(false)
+    if (msg) setErr(msg)
+  }
 
   return (
     <div style={{
@@ -29,18 +43,18 @@ export default function ProPanel({ isPro, onClose, onActivate, onDeactivate }) {
       {isPro ? (
         <>
           <div style={{ background: '#110d17', border: '1px solid #A970FF33', borderRadius: 12, padding: '16px 18px', marginBottom: 18 }}>
-            <div style={{ color: '#A970FF', fontSize: 15, fontWeight: 700, letterSpacing: 2, marginBottom: 10 }}>✓ PRO ACTIVE</div>
+            <div style={{ color: '#A970FF', fontSize: 15, fontWeight: 700, letterSpacing: 2, marginBottom: 10 }}>✓ PRO ACTIVE · OWNER</div>
             {PRO_FEATURES.map(f => (
               <div key={f} style={{ fontSize: 13, color: '#777', marginBottom: 5, display: 'flex', gap: 8 }}>
                 <span style={{ color: '#A970FF', flexShrink: 0 }}>✓</span>{f}
               </div>
             ))}
           </div>
-          <button onClick={onDeactivate} style={{
+          <button onClick={onLock} style={{
             width: '100%', background: '#1a1a1a', color: '#555',
             border: '1px solid #2a2a2a', borderRadius: 10, padding: '13px 0',
             fontSize: 13, fontWeight: 700, letterSpacing: 2, textTransform: 'uppercase', cursor: 'pointer'
-          }}>DEACTIVATE PRO</button>
+          }}>LOCK THIS DEVICE</button>
         </>
       ) : (
         <>
@@ -52,12 +66,35 @@ export default function ProPanel({ isPro, onClose, onActivate, onDeactivate }) {
             ))}
           </div>
 
-          <button onClick={onActivate} style={{
-            width: '100%', background: '#A970FF', color: '#000',
-            border: 'none', borderRadius: 10, padding: '15px 0',
+          <div style={{
+            width: '100%', background: '#1a1a1a', color: '#A970FF',
+            border: '1px solid #A970FF55', borderRadius: 10, padding: '15px 0', textAlign: 'center',
             fontSize: 17, fontWeight: 800, letterSpacing: 2, textTransform: 'uppercase',
-            cursor: 'pointer', fontFamily: "'Barlow Condensed', sans-serif"
-          }}>ACTIVATE PRO — FREE</button>
+          }}>PRO COMING SOON</div>
+
+          {!showCode ? (
+            <button onClick={() => setShowCode(true)} style={{
+              display: 'block', margin: '16px auto 0', background: 'none', border: 'none',
+              color: '#555', fontSize: 12, letterSpacing: 2, textTransform: 'uppercase', cursor: 'pointer',
+            }}>Owner access</button>
+          ) : (
+            <form onSubmit={submit} style={{ marginTop: 16, display: 'grid', gap: 8 }}>
+              <input
+                type="password" autoComplete="current-password" autoCapitalize="characters" spellCheck={false}
+                placeholder="Owner code" value={code} onChange={e => setCode(e.target.value)} maxLength={64} autoFocus
+                aria-label="Owner code"
+                style={{
+                  background: '#0a0a0a', border: '1px solid #2a2a2a', borderRadius: 10, color: '#e8e8e8',
+                  padding: '12px 14px', fontSize: 16, letterSpacing: 2, fontFamily: 'inherit',
+                }}
+              />
+              <button type="submit" disabled={busy} style={{
+                background: '#A970FF', color: '#000', border: 'none', borderRadius: 10, padding: '12px 0',
+                fontSize: 14, fontWeight: 800, letterSpacing: 2, textTransform: 'uppercase', cursor: 'pointer', opacity: busy ? 0.6 : 1,
+              }}>{busy ? 'Checking…' : 'Unlock'}</button>
+              {err && <div role="alert" style={{ color: '#ff6b5a', fontSize: 13 }}>{err}</div>}
+            </form>
+          )}
         </>
       )}
     </div>

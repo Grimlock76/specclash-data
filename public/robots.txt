@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /queue/
+Disallow: /api/
 
 Sitemap: https://spec-clash.vercel.app/sitemap.xml

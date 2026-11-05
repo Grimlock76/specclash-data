@@ -2,12 +2,17 @@
 // POST {"video":"/queue/<file>.mp4"}  ->  {"publish_id": "..."}
 // The user then opens TikTok, adds a sound and posts it themselves.
 import { cookies, cookie, refresh, seal, sessionFrom, unseal, SESSION_COOKIE } from '../_lib/tiktok.js'
+import { isOwner } from '../_lib/owner.js'
+
+// Fetch queue videos from the production site, never from the request's Host header
+const ORIGIN = 'https://spec-clash.vercel.app'
 
 export const config = { maxDuration: 60 }
 
 export default async function handler(req, res) {
   res.setHeader('Cache-Control', 'no-store')
   if (req.method !== 'POST') { res.setHeader('Allow', 'POST'); res.status(405).end(); return }
+  if (!isOwner(req)) { res.status(403).json({ error: 'owner only' }); return }
   const video = String((req.body && req.body.video) || '')
   if (!/^\/queue\/[a-z0-9-]+\.mp4$/.test(video)) { res.status(400).json({ error: 'bad video path' }); return }
 
@@ -21,7 +26,7 @@ export default async function handler(req, res) {
     const days = Math.max(1, Math.floor((ns.rexp - Date.now()) / 864e5))
     res.setHeader('Set-Cookie', cookie(SESSION_COOKIE, seal(ns), days * 86400))
 
-    const file = await fetch(`https://${req.headers.host}${video}`)
+    const file = await fetch(`${ORIGIN}${video}`)
     if (!file.ok) throw new Error(`video fetch ${file.status}`)
     const bytes = Buffer.from(await file.arrayBuffer())
     if (bytes.length > 64 * 1024 * 1024) throw new Error('video over 64 MB')
