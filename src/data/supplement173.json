@@ -171,25 +171,6 @@
       "price": "~$103,900",
       "aspiration": "BorgWarner VGT Diesel Turbo"
     },
-    "Porsche|Cayenne|2024|GTS": {
-      "engine": "4.0L V8 biturbo",
-      "fuelType": "petrol",
-      "displacement": 3996,
-      "cylinders": 8,
-      "drivetrain": "AWD",
-      "transmission": "8-speed Tiptronic",
-      "power": 368,
-      "torque": 730,
-      "weight": 2220,
-      "seats": 5,
-      "fc": 19.9,
-      "fh": 10.7,
-      "fx": 14.2,
-      "acceleration": 4.5,
-      "topSpeed": 270,
-      "price": "~$244,000",
-      "aspiration": "BorgWarner Twin-Turbo"
-    },
     "Porsche|Macan|2024|Electric": {
       "engine": "Electric Single Motor 95 kWh",
       "fuelType": "electric",
