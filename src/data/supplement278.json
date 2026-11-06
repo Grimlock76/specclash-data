@@ -338,30 +338,6 @@
       "weight": 2115,
       "price": "$277,900",
       "accelClaimed": true
-    },
-    "BMW|i4|2026|eDrive35": {
-      "topSpeed": 190,
-      "acceleration": 6,
-      "cargo": 470,
-      "seats": 5,
-      "transmission": "1-speed automatic",
-      "engine": "Single-Motor Electric",
-      "displacement": null,
-      "cylinders": null,
-      "aspiration": null,
-      "fuelType": "electric",
-      "drivetrain": "RWD",
-      "power": 210,
-      "torque": 400,
-      "fc": null,
-      "fh": null,
-      "fx": null,
-      "battery": "66.4 kWh",
-      "range": 448,
-      "weight": 1990,
-      "towing": 1600,
-      "price": "$88,900",
-      "accelClaimed": true
     }
   }
 }
