@@ -8,7 +8,7 @@ X-WR-TIMEZONE:Australia/Perth
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:raptor-vs-hilux-gr-sport@spec-clash.vercel.app
-DTSTAMP:20261105T122852Z
+DTSTAMP:20261108T001247Z
 DTSTART:20261103T094000Z
 DTEND:20261103T095500Z
 SUMMARY:Post TikTok: Ranger Raptor vs HiLux GR Sport
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ve-ss-vs-fg-xr6-turbo@spec-clash.vercel.app
-DTSTAMP:20261105T122852Z
+DTSTAMP:20261108T001247Z
 DTSTART:20261105T105000Z
 DTEND:20261105T110500Z
 SUMMARY:Post TikTok: VE SS vs FG XR6 Turbo
@@ -48,7 +48,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:w1-vs-gtf-351@spec-clash.vercel.app
-DTSTAMP:20261105T122852Z
+DTSTAMP:20261108T001247Z
 DTSTART:20261107T091500Z
 DTEND:20261107T093000Z
 SUMMARY:Post TikTok: HSV GTSR W1 vs FPV GT F 351
@@ -68,7 +68,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ranger-phev-vs-shark-6-performance@spec-clash.vercel.app
-DTSTAMP:20261105T122852Z
+DTSTAMP:20261108T001247Z
 DTSTART:20261110T102500Z
 DTEND:20261110T104000Z
 SUMMARY:Post TikTok: Ranger PHEV Wildtrak vs Shark 6 Performance
@@ -89,7 +89,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wrx-sti-vs-evo-x-final-edition@spec-clash.vercel.app
-DTSTAMP:20261105T122852Z
+DTSTAMP:20261108T001247Z
 DTSTART:20261112T093500Z
 DTEND:20261112T095000Z
 SUMMARY:Post TikTok: WRX STI vs Lancer Evo X Final Edition
@@ -109,7 +109,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gts-e3-vs-fpv-gt-rspec@spec-clash.vercel.app
-DTSTAMP:20261105T122852Z
+DTSTAMP:20261108T001247Z
 DTSTART:20261114T100500Z
 DTEND:20261114T102000Z
 SUMMARY:Post TikTok: HSV GTS (E3) vs FPV GT R-SPEC
@@ -123,6 +123,65 @@ URL:https://spec-clash.vercel.app/queue/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Post HSV GTS (E3) vs FPV GT R-SPEC in 15 min
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:prado-gxl-vs-everest-sport-v6@spec-clash.vercel.app
+DTSTAMP:20261108T001247Z
+DTSTART:20261117T101000Z
+DTEND:20261117T102500Z
+SUMMARY:Post TikTok: Prado 250 GXL vs Everest Sport V6
+DESCRIPTION:Open the queue: https://spec-clash.vercel.app/queue/\n\nCapti
+ on:\nNew Prado vs the V6 Everest. Ford has the grunt and the cheaper stic
+ ker\, Toyota has the range. Which one's doing the lap of Oz? 👇\n#prado #
+ fordeverest #4x4australia #4wd #caravanning #carsoftiktok #specclash\n\nS
+ ound ideas:\n- Search 'road trip' or 'outback' for an open-road vibe\n- S
+ earch 'country rock' for something with a bit of dirt on it\n- Any sound 
+ from your For You page that keeps popping up this week
+URL:https://spec-clash.vercel.app/queue/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post Prado 250 GXL vs Everest Sport V6 in 15 min
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nissan-z-vs-gr-supra-gts@spec-clash.vercel.app
+DTSTAMP:20261108T001247Z
+DTSTART:20261119T092500Z
+DTEND:20261119T094000Z
+SUMMARY:Post TikTok: Nissan Z vs GR Supra GTS
+DESCRIPTION:Open the queue: https://spec-clash.vercel.app/queue/\n\nCapti
+ on:\nZ has more power and costs $21k less. Supra has more torque and BMW 
+ bones. Real JDM or half German? 👇\n#nissanz #supra #grsupra #jdm #nissan
+  #carsoftiktok #specclash\n\nSound ideas:\n- Search 'eurobeat' or 'initia
+ l d' and pick a remix\n- Search 'phonk drift' for a heavy drop on the pow
+ er reveal\n- Search 'tokyo night drive' for something chilled and moody
+URL:https://spec-clash.vercel.app/queue/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post Nissan Z vs GR Supra GTS in 15 min
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:xr8-sprint-vs-clubsport-r8-lsa@spec-clash.vercel.app
+DTSTAMP:20261108T001247Z
+DTSTART:20261121T104500Z
+DTEND:20261121T110000Z
+SUMMARY:Post TikTok: Falcon XR8 Sprint vs HSV Clubsport R8 LSA
+DESCRIPTION:Open the queue: https://spec-clash.vercel.app/queue/\n\nCapti
+ on:\nThe last blown Falcon vs the blown Clubsport. Same strip\, same day\
+ , half a second apart and $21k apart. Sprint or LSA? 👇\n#xr8sprint #falc
+ on #hsv #clubsport #holdenvsford #aussiemuscle #specclash\n\nSound ideas:
+ \n- Search 'supercharger whine' or 'V8 launch' for a real engine note\n- 
+ Search 'aussie rock' for a pub-anthem feel\n- A trending Holden vs Ford m
+ eme sound to get the comments going
+URL:https://spec-clash.vercel.app/queue/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post Falcon XR8 Sprint vs HSV Clubsport R8 LSA in 15 min
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

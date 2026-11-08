@@ -1,0 +1,83 @@
+{
+  "makeA": "Toyota",
+  "makeB": "Ford",
+  "eyebrow": "Big 4WD Wagons · 2025",
+  "a": "Prado 250 GXL",
+  "b": "Everest Sport V6",
+  "hook": "The new Prado vs the Everest V6. Both tow 3.5 tonnes. One costs $5k less.",
+  "cta": "Prado or Everest? Comment below 👇",
+  "handle": "@specclash05",
+  "specs": [
+    {
+      "g": "Grunt",
+      "l": "Engine",
+      "a": "2.8 4cyl diesel hybrid",
+      "b": "3.0 V6 diesel",
+      "m": "none"
+    },
+    {
+      "g": "Grunt",
+      "l": "Power",
+      "a": "150 kW",
+      "b": "184 kW",
+      "m": "high"
+    },
+    {
+      "g": "Grunt",
+      "l": "Torque",
+      "a": "500 Nm",
+      "b": "600 Nm",
+      "m": "high"
+    },
+    {
+      "g": "Touring",
+      "l": "Fuel (claimed L/100km)",
+      "a": "7.6",
+      "b": "8.5",
+      "m": "low"
+    },
+    {
+      "g": "Touring",
+      "l": "Fuel tank",
+      "a": "110 L",
+      "b": "80 L",
+      "m": "high"
+    },
+    {
+      "g": "Touring",
+      "l": "Price (+ORC)",
+      "a": "$79,990",
+      "b": "$74,640",
+      "m": "low"
+    },
+    {
+      "g": "Work",
+      "l": "Towing (braked)",
+      "a": "3,500 kg",
+      "b": "3,500 kg",
+      "m": "high"
+    },
+    {
+      "g": "Work",
+      "l": "Payload",
+      "a": "615 kg",
+      "b": "703 kg",
+      "m": "high"
+    }
+  ],
+  "stories": [
+    {
+      "t": "Range or grunt?",
+      "a": "Sips less and carries 30 L more fuel, so it goes further between servos.",
+      "b": "V6 with 100 Nm more, same 3,500 kg towing, and still about $5k cheaper. Seven seats in both.",
+      "take": "The Everest wins the tow. The Prado wins the outback."
+    }
+  ],
+  "_sources": [
+    "Carsales 'Ford Everest Sport v Toyota Prado GXL comparison' (Feb 2025): Prado GXL 2.8 turbo-diesel 48V, 150 kW/500 Nm, 7.6 L/100km, 110 L tank, $79,990; Everest Sport V6 184 kW/600 Nm, 8.5 L/100km, 80 L tank; both 3500 kg braked towing",
+    "Chasing Cars 'Prado GXL vs Everest Sport' (Mar 2025): Everest Sport V6 $74,640 +ORC, Prado GXL $79,990, 7.6 vs 8.5 L/100km, 110 L vs 80 L",
+    "Chasing Cars (same article): payload Prado GXL 615 kg, Everest Sport V6 703 kg",
+    "NRMA '2025 Toyota Prado vs Ford Everest comparison review': Everest Sport V6 $74,640 before on-roads, $5,350 less than Prado GXL ($79,990), 150/500 vs 184/600",
+    "Note: Carsales printed the Everest price as $74,690; two other sources say $74,640, used here"
+  ]
+}

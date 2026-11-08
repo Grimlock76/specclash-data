@@ -1,0 +1,73 @@
+{
+  "makeA": "Nissan",
+  "makeB": "Toyota",
+  "eyebrow": "JDM Coupes · 2023",
+  "a": "Nissan Z",
+  "b": "GR Supra GTS",
+  "hook": "Twin-turbo V6 vs BMW-powered six. More kW for the Z, more Nm for the Supra. $21k apart.",
+  "cta": "Z or Supra? Pick one 👇",
+  "handle": "@specclash05",
+  "specs": [
+    {
+      "g": "Engine room",
+      "l": "Engine",
+      "a": "3.0 TT V6",
+      "b": "3.0 turbo I6",
+      "m": "none"
+    },
+    {
+      "g": "Engine room",
+      "l": "Power",
+      "a": "298 kW",
+      "b": "285 kW",
+      "m": "high"
+    },
+    {
+      "g": "Engine room",
+      "l": "Torque",
+      "a": "475 Nm",
+      "b": "500 Nm",
+      "m": "high"
+    },
+    {
+      "g": "Engine room",
+      "l": "Gearbox",
+      "a": "6MT or 9AT",
+      "b": "6MT or 8AT",
+      "m": "none"
+    },
+    {
+      "g": "On the road",
+      "l": "Weight (kerb, auto)",
+      "a": "1,633 kg",
+      "b": "1,525 kg",
+      "m": "low"
+    },
+    {
+      "g": "On the road",
+      "l": "Fuel (L/100km, auto)",
+      "a": "9.8",
+      "b": "8.9",
+      "m": "low"
+    },
+    {
+      "g": "The wallet",
+      "l": "Price (2023, +ORC)",
+      "a": "$75,800",
+      "b": "$97,380",
+      "m": "low"
+    }
+  ],
+  "stories": [
+    {
+      "t": "Nissan heart or BMW heart?",
+      "a": "All-Nissan twin-turbo V6, more power, and a manual for no extra cost. Over $20k cheaper.",
+      "b": "BMW's B58 straight-six, more torque, 108 kg lighter and sips less fuel. Toyota claims 4.1 s to 100.",
+      "take": "The Z wins the price tag. The Supra wins the scales."
+    }
+  ],
+  "_sources": [
+    "Carsales 'Nissan Z v Toyota GR Supra 2023 comparison' (30 Sep 2023): Z 298 kW, 475 Nm, 1633 kg auto, 9.8 L/100km auto, $75,800; GR Supra GTS 285 kW, 500 Nm, 1525 kg auto, 8.9 L/100km, $97,380, claimed 0-100 4.1 s auto; both manual or auto",
+    "CarExpert '2023 Nissan Z review': VR30DDTT 3.0 twin-turbo V6, 298 kW/475 Nm, Nissan quotes no 0-100 (so 0-100 left off the clash)"
+  ]
+}

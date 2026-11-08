@@ -1,0 +1,74 @@
+{
+  "makeA": "Ford",
+  "makeB": "HSV",
+  "eyebrow": "Last Supercharged V8s · 2016",
+  "a": "Falcon XR8 Sprint",
+  "b": "Clubsport R8 LSA",
+  "hook": "The last blown Falcon vs the blown Clubsport. Same dragstrip, same day. $21k apart.",
+  "cta": "Sprint or LSA? Settle it 👇",
+  "handle": "@specclash05",
+  "specs": [
+    {
+      "g": "Engine room",
+      "l": "Engine",
+      "a": "5.0 s/c V8",
+      "b": "6.2 s/c LSA V8",
+      "m": "none"
+    },
+    {
+      "g": "Engine room",
+      "l": "Power",
+      "a": "345 kW",
+      "b": "400 kW",
+      "m": "high"
+    },
+    {
+      "g": "Engine room",
+      "l": "Torque",
+      "a": "575 Nm",
+      "b": "671 Nm",
+      "m": "high"
+    },
+    {
+      "g": "On the strip",
+      "l": "0-100 km/h (MOTOR test)",
+      "a": "5.07 s",
+      "b": "4.48 s",
+      "m": "low"
+    },
+    {
+      "g": "On the strip",
+      "l": "Quarter mile (MOTOR test)",
+      "a": "13.14 s",
+      "b": "12.55 s",
+      "m": "low"
+    },
+    {
+      "g": "On the strip",
+      "l": "Weight (kerb)",
+      "a": "1,872 kg",
+      "b": "1,907 kg",
+      "m": "low"
+    },
+    {
+      "g": "The wallet",
+      "l": "Price new (auto)",
+      "a": "$62,190",
+      "b": "$83,490",
+      "m": "low"
+    }
+  ],
+  "stories": [
+    {
+      "t": "The overboost trick",
+      "a": "Ford's last hurrah. 10 seconds of overboost lifts it to 400 kW and 650 Nm, and it cost $21k less.",
+      "b": "Big 6.2 LSA with 400 kW all day, no timer. Quicker on MOTOR's strip by over half a second.",
+      "take": "The LSA wins the strip. The Sprint wins the wallet."
+    }
+  ],
+  "_sources": [
+    "MOTOR/WhichCar 'Ford Falcon XR8 Sprint v HSV Clubsport R8 LSA' (whichcar.com.au and motormag.com.au): XR8 Sprint 4951cc supercharged V8, 345 kW (400 kW overboost), 575 Nm (650 Nm overboost), 1872 kg, $62,190, tested 5.07 s 0-100; Clubsport R8 LSA 6162cc supercharged LSA V8, 400 kW, 671 Nm, 1907 kg, $83,490 auto, tested 4.48 s 0-100; quarter mile tested 13.14 s (Sprint) vs 12.55 s (LSA)",
+    "CarAdvice 'Falcon Sprint a head-to-head Clubsport LSA rival: our car is $21,000 cheaper': overboost 400 kW/650 Nm for 10 s, Clubsport R8 LSA $83,490",
+    "Carsales 'HSV Gen-F2 Clubsport R8 LSA review': 400 kW @ 6150, 671 Nm @ 4200, 1907 kg, $83,490 auto"
+  ]
+}
