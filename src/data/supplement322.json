@@ -42,7 +42,7 @@
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 366,
-      "torque": 765,
+      "torque": 590,
       "battery": null,
       "range": 629,
       "acceleration": 4.4,
@@ -338,7 +338,6 @@
       "towing": 1300,
       "price": "$36,000",
       "est": [
-        "torque",
         "topSpeed",
         "cargo"
       ],
@@ -365,7 +364,6 @@
       "towing": 1300,
       "price": "$43,500",
       "est": [
-        "torque",
         "topSpeed",
         "cargo"
       ],

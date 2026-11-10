@@ -524,7 +524,7 @@
       "aspiration": "Turbo",
       "fuelType": "hybrid",
       "power": 169,
-      "torque": 265,
+      "torque": 350,
       "transmission": "6-speed automatic",
       "drivetrain": "FWD",
       "fc": 4.8,
@@ -534,7 +534,6 @@
       "towing": 1650,
       "price": "$45,950",
       "est": [
-        "torque",
         "topSpeed"
       ],
       "quarterMile": "~17.6 sec"
@@ -551,7 +550,7 @@
       "aspiration": "Turbo",
       "fuelType": "hybrid",
       "power": 169,
-      "torque": 265,
+      "torque": 350,
       "transmission": "6-speed automatic",
       "drivetrain": "FWD",
       "fc": 4.8,
@@ -561,7 +560,6 @@
       "towing": 1650,
       "price": "$55,420",
       "est": [
-        "torque",
         "topSpeed"
       ],
       "quarterMile": "~17.6 sec"

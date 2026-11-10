@@ -381,7 +381,7 @@
       "aspiration": "Turbo",
       "fuelType": "hybrid",
       "power": 180,
-      "torque": 365,
+      "torque": 366,
       "transmission": "6-speed automatic",
       "drivetrain": "FWD",
       "fc": 4.2,
@@ -392,7 +392,6 @@
       "towing": 1000,
       "price": "$76,210",
       "est": [
-        "torque",
         "topSpeed",
         "cargo"
       ],
@@ -527,7 +526,6 @@
       "weight": 1951,
       "price": "$70,330",
       "est": [
-        "torque",
         "topSpeed"
       ],
       "quarterMile": "~17.1 sec"
@@ -556,7 +554,6 @@
       "weight": 1995,
       "est": [
         "weight",
-        "torque",
         "topSpeed",
         "fc",
         "fh"

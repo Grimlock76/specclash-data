@@ -2354,7 +2354,7 @@
       "cylinders": null,
       "displacement": null,
       "power": 630,
-      "torque": 1315,
+      "torque": 1500,
       "battery": "113.0 kWh",
       "range": null,
       "fc": null,
@@ -2369,7 +2369,6 @@
       "price": "$259,900",
       "accelClaimed": true,
       "est": [
-        "torque",
         "cargo"
       ],
       "quarterMile": "~10.4 sec"

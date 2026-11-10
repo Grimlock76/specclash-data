@@ -73,9 +73,6 @@
       "range": 500,
       "acceleration": 6.1,
       "price": "$64,770",
-      "est": [
-        "torque"
-      ],
       "quarterMile": "~14.4 sec"
     },
     "Kia|EV5|2024|GT-Line AWD": {
@@ -101,9 +98,6 @@
       "range": 470,
       "acceleration": 6.3,
       "price": "$71,770",
-      "est": [
-        "torque"
-      ],
       "quarterMile": "~14.6 sec"
     }
   }

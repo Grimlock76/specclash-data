@@ -155,14 +155,13 @@
       "fx": null,
       "battery": "97 kWh",
       "power": 580,
-      "torque": 1110,
+      "torque": 1340,
       "range": 512,
       "price": "$419,000",
       "accelClaimed": true,
       "weight": 2235,
       "est": [
         "weight",
-        "torque",
         "cargo"
       ],
       "quarterMile": "~10.2 sec"

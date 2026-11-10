@@ -201,7 +201,6 @@
       "accelClaimed": true,
       "est": [
         "weight",
-        "torque",
         "topSpeed",
         "cargo"
       ],
@@ -247,7 +246,7 @@
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "hybrid",
-      "torque": 250,
+      "torque": 240,
       "transmission": "7-speed dual-clutch",
       "drivetrain": "FWD",
       "fc": 5.3,
@@ -261,7 +260,6 @@
       "accelClaimed": true,
       "est": [
         "weight",
-        "torque",
         "topSpeed"
       ],
       "quarterMile": "~16.5 sec"
@@ -274,7 +272,7 @@
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "hybrid",
-      "torque": 250,
+      "torque": 240,
       "transmission": "7-speed dual-clutch",
       "drivetrain": "FWD",
       "fc": 5.3,
@@ -288,7 +286,6 @@
       "accelClaimed": true,
       "est": [
         "weight",
-        "torque",
         "topSpeed"
       ],
       "quarterMile": "~16.5 sec"
@@ -413,14 +410,13 @@
       "aspiration": "Turbo",
       "fuelType": "hybrid",
       "power": 255,
-      "torque": 500,
+      "torque": 648,
       "transmission": "9-speed automatic",
       "fc": 7.8,
       "fh": 8.8,
       "fx": 8.4,
       "weight": 2305,
       "est": [
-        "torque",
         "topSpeed"
       ],
       "quarterMile": "~15.5 sec"
@@ -439,14 +435,13 @@
       "aspiration": "Turbo",
       "fuelType": "hybrid",
       "power": 255,
-      "torque": 500,
+      "torque": 648,
       "transmission": "9-speed automatic",
       "fc": 7.8,
       "fh": 8.8,
       "fx": 8.4,
       "weight": 2305,
       "est": [
-        "torque",
         "topSpeed"
       ],
       "quarterMile": "~15.5 sec"

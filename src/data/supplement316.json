@@ -244,7 +244,7 @@
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "power": 185,
-      "torque": 360,
+      "torque": 450,
       "transmission": "1-speed automatic",
       "fuelType": "plug-in hybrid",
       "drivetrain": "AWD",
@@ -258,7 +258,6 @@
       "seats": 5,
       "price": "$57,290",
       "est": [
-        "torque",
         "topSpeed",
         "fc",
         "fh"
@@ -274,7 +273,7 @@
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "power": 185,
-      "torque": 360,
+      "torque": 450,
       "transmission": "1-speed automatic",
       "fuelType": "plug-in hybrid",
       "drivetrain": "AWD",
@@ -288,7 +287,6 @@
       "seats": 5,
       "price": "$63,790",
       "est": [
-        "torque",
         "topSpeed",
         "fc",
         "fh"
@@ -304,7 +302,7 @@
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "power": 185,
-      "torque": 360,
+      "torque": 450,
       "transmission": "1-speed automatic",
       "fuelType": "plug-in hybrid",
       "drivetrain": "AWD",
@@ -318,7 +316,6 @@
       "seats": 7,
       "price": "$69,290",
       "est": [
-        "torque",
         "topSpeed",
         "fc",
         "fh"
@@ -334,7 +331,7 @@
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "power": 185,
-      "torque": 360,
+      "torque": 450,
       "transmission": "1-speed automatic",
       "fuelType": "plug-in hybrid",
       "drivetrain": "AWD",
@@ -348,7 +345,6 @@
       "seats": 7,
       "price": "$71,790",
       "est": [
-        "torque",
         "topSpeed",
         "fc",
         "fh"
@@ -364,7 +360,7 @@
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "power": 185,
-      "torque": 360,
+      "torque": 450,
       "transmission": "1-speed automatic",
       "fuelType": "plug-in hybrid",
       "drivetrain": "AWD",
@@ -378,7 +374,6 @@
       "seats": 7,
       "price": "$73,790",
       "est": [
-        "torque",
         "topSpeed",
         "fc",
         "fh"

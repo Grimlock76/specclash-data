@@ -130,7 +130,7 @@
       "fuelType": "electric",
       "drivetrain": "AWD",
       "power": 360,
-      "torque": 605,
+      "torque": 700,
       "fc": null,
       "fh": null,
       "fx": null,
@@ -141,9 +141,6 @@
       "towing": 1800,
       "price": "$132,800",
       "accelClaimed": true,
-      "est": [
-        "torque"
-      ],
       "quarterMile": "~12.7 sec"
     }
   }

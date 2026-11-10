@@ -234,16 +234,13 @@
       "fx": null,
       "seats": 5,
       "power": 230,
-      "torque": 495,
+      "torque": 494,
       "battery": "66.5 kWh",
       "range": 396,
       "weight": 2000,
       "towing": 1200,
       "price": "$73,990",
       "accelClaimed": true,
-      "est": [
-        "torque"
-      ],
       "quarterMile": "~13.9 sec"
     }
   }

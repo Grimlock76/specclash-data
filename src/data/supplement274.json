@@ -143,7 +143,7 @@
       "fuelType": "electric",
       "drivetrain": "AWD",
       "power": 360,
-      "torque": 605,
+      "torque": 700,
       "fc": null,
       "fh": null,
       "fx": null,
@@ -155,7 +155,6 @@
       "price": "$132,718",
       "accelClaimed": true,
       "est": [
-        "torque",
         "cargo"
       ],
       "quarterMile": "~12.7 sec"
@@ -307,7 +306,7 @@
       "fuelType": "electric",
       "drivetrain": "AWD",
       "power": 272,
-      "torque": 515,
+      "torque": 700,
       "fc": null,
       "fh": null,
       "fx": null,
@@ -319,7 +318,6 @@
       "weight": 2020,
       "est": [
         "weight",
-        "torque",
         "cargo"
       ],
       "quarterMile": "~13.4 sec"

@@ -478,7 +478,6 @@
       "weight": 2550,
       "est": [
         "weight",
-        "torque",
         "topSpeed"
       ],
       "quarterMile": "~12.8 sec"
@@ -836,7 +835,7 @@
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 448,
-      "torque": 770,
+      "torque": 740,
       "battery": "84 kWh",
       "range": 487,
       "acceleration": 3.4,
@@ -844,7 +843,6 @@
       "accelClaimed": true,
       "est": [
         "weight",
-        "torque",
         "cargo"
       ],
       "quarterMile": "~11.5 sec"

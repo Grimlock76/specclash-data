@@ -140,7 +140,6 @@
       "accelClaimed": true,
       "est": [
         "weight",
-        "torque",
         "topSpeed",
         "cargo"
       ],
@@ -170,7 +169,6 @@
       "accelClaimed": true,
       "est": [
         "weight",
-        "torque",
         "topSpeed",
         "cargo"
       ],

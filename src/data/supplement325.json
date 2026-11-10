@@ -88,7 +88,7 @@
       "aspiration": "Turbo",
       "fuelType": "hybrid",
       "power": 255,
-      "torque": 500,
+      "torque": 648,
       "transmission": "9-speed automatic",
       "fc": 9.4,
       "fh": 8.2,
@@ -96,7 +96,6 @@
       "weight": 2335,
       "price": "$55,190",
       "est": [
-        "torque",
         "topSpeed"
       ],
       "quarterMile": "~15.6 sec"

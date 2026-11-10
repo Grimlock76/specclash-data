@@ -7199,7 +7199,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 155,
-      "torque": 305,
+      "torque": 425,
       "transmission": "3-speed automatic",
       "drivetrain": "FWD",
       "fc": 4.9,
@@ -7209,7 +7209,6 @@
       "price": "$27,990",
       "accelClaimed": true,
       "est": [
-        "torque",
         "topSpeed",
         "fc",
         "fh",
@@ -7228,7 +7227,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 155,
-      "torque": 305,
+      "torque": 425,
       "transmission": "3-speed automatic",
       "drivetrain": "FWD",
       "fc": 4.9,
@@ -7238,7 +7237,6 @@
       "price": "$29,990",
       "accelClaimed": true,
       "est": [
-        "torque",
         "topSpeed",
         "fc",
         "fh",
@@ -7332,7 +7330,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 155,
-      "torque": 305,
+      "torque": 425,
       "transmission": "3-speed automatic",
       "drivetrain": "FWD",
       "fc": 4.9,
@@ -7342,7 +7340,6 @@
       "price": "$27,990",
       "accelClaimed": true,
       "est": [
-        "torque",
         "topSpeed",
         "fc",
         "fh",
@@ -7361,7 +7358,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 155,
-      "torque": 305,
+      "torque": 425,
       "transmission": "3-speed automatic",
       "drivetrain": "FWD",
       "fc": 4.9,
@@ -7371,7 +7368,6 @@
       "price": "$29,990",
       "accelClaimed": true,
       "est": [
-        "torque",
         "topSpeed",
         "fc",
         "fh",
@@ -7465,7 +7461,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 155,
-      "torque": 305,
+      "torque": 425,
       "transmission": "3-speed automatic",
       "drivetrain": "FWD",
       "fc": 4.9,
@@ -7475,7 +7471,6 @@
       "price": "$26,990",
       "accelClaimed": true,
       "est": [
-        "torque",
         "topSpeed",
         "fc",
         "fh",
@@ -7494,7 +7489,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 155,
-      "torque": 305,
+      "torque": 425,
       "transmission": "3-speed automatic",
       "drivetrain": "FWD",
       "fc": 4.9,
@@ -7504,7 +7499,6 @@
       "price": "$29,990",
       "accelClaimed": true,
       "est": [
-        "torque",
         "topSpeed",
         "fc",
         "fh",
@@ -7550,7 +7544,7 @@
       "engine": "1.5L I4 Petrol Hybrid",
       "fuelType": "hybrid",
       "power": 158,
-      "torque": 310,
+      "torque": 465,
       "transmission": "3-speed automatic",
       "fc": 5.4,
       "fh": 3.8,
@@ -7561,7 +7555,6 @@
       "weight": 1410,
       "accelClaimed": true,
       "est": [
-        "torque",
         "topSpeed",
         "fc",
         "fh"
@@ -7579,7 +7572,7 @@
       "engine": "1.5L I4 Petrol Hybrid",
       "fuelType": "hybrid",
       "power": 158,
-      "torque": 310,
+      "torque": 465,
       "transmission": "3-speed automatic",
       "fc": 5.4,
       "fh": 3.8,
@@ -7590,7 +7583,6 @@
       "weight": 1420,
       "accelClaimed": true,
       "est": [
-        "torque",
         "topSpeed",
         "fc",
         "fh"
@@ -7737,7 +7729,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 158,
-      "torque": 310,
+      "torque": 465,
       "transmission": "3-speed automatic",
       "drivetrain": "FWD",
       "fc": 5.4,
@@ -7750,7 +7742,6 @@
       "weight": 1410,
       "accelClaimed": true,
       "est": [
-        "torque",
         "topSpeed",
         "fc",
         "fh"
@@ -7767,7 +7758,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 158,
-      "torque": 310,
+      "torque": 465,
       "transmission": "3-speed automatic",
       "drivetrain": "FWD",
       "fc": 5.4,
@@ -7780,7 +7771,6 @@
       "weight": 1420,
       "accelClaimed": true,
       "est": [
-        "torque",
         "topSpeed",
         "fc",
         "fh"
@@ -7906,7 +7896,7 @@
       "acceleration": 8.7,
       "topSpeed": 215,
       "power": 158,
-      "torque": 310,
+      "torque": 465,
       "fc": 5.4,
       "fh": 3.8,
       "fx": 4.7,
@@ -7914,7 +7904,6 @@
       "price": "$30,990",
       "accelClaimed": true,
       "est": [
-        "torque",
         "topSpeed",
         "fc",
         "fh"
@@ -7936,7 +7925,7 @@
       "acceleration": 8.7,
       "topSpeed": 215,
       "power": 158,
-      "torque": 310,
+      "torque": 465,
       "fc": 5.4,
       "fh": 3.8,
       "fx": 4.7,
@@ -7944,7 +7933,6 @@
       "price": "$34,990",
       "accelClaimed": true,
       "est": [
-        "torque",
         "topSpeed",
         "fc",
         "fh"

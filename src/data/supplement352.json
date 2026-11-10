@@ -111,7 +111,6 @@
       "price": "$83,000",
       "est": [
         "weight",
-        "torque",
         "topSpeed",
         "cargo"
       ],
@@ -170,7 +169,6 @@
       "price": "$86,500",
       "est": [
         "weight",
-        "torque",
         "topSpeed",
         "cargo"
       ],
@@ -193,14 +191,11 @@
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 448,
-      "torque": 770,
+      "torque": 740,
       "battery": "84.0 kWh",
       "range": 448,
       "price": "$110,383",
       "accelClaimed": true,
-      "est": [
-        "torque"
-      ],
       "quarterMile": "~11.7 sec"
     }
   }

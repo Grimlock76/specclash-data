@@ -40,7 +40,7 @@
       "fuelType": "plug-in hybrid",
       "transmission": "8-speed automatic",
       "power": 340,
-      "torque": 710,
+      "torque": 709,
       "drivetrain": "AWD",
       "fc": 2.1,
       "fh": 1.4,
@@ -54,7 +54,6 @@
       "accelClaimed": true,
       "est": [
         "weight",
-        "torque",
         "fc",
         "fh"
       ],
