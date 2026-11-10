@@ -33,3 +33,7 @@ export const ownerCookie = (value, maxAge) =>
 
 // Secret for the calendar feed link (/queue/calendar.ics?k=…); must match middleware.js
 export const calendarKey = () => crypto.createHmac('sha256', norm(code())).update('spec-clash-calendar-v1').digest('base64url').slice(0, 32)
+
+// Same-origin guard for state-changing requests. Browsers always send Origin on
+// cross-site POST/DELETE, so a mismatch means another site is driving the call.
+export const sameOrigin = req => !req.headers.origin || req.headers.origin === `https://${req.headers.host}`

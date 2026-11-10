@@ -10,8 +10,9 @@ export default function Footer() {
         Specifications are compiled from public sources and may contain errors or omissions —
         always verify details with the manufacturer or a licensed dealer before making a purchase
         decision. New prices are the manufacturer’s list price at the time (incl. GST and LCT,
-        excluding on-road costs), not drive-away prices. “Price (current est.)” figures are
-        indicative estimates only, not valuations, appraisals or offers.
+        excluding on-road costs), not drive-away prices. Figures marked “~” are estimates, not
+        official or tested numbers. “Price (current est.)” figures are indicative estimates
+        only, not valuations, appraisals or offers.
         {AFFILIATE_ACTIVE && ' Listing links are affiliate links — Spec Clash may earn a commission from purchases made through them, at no cost to you.'}
       </p>
       <div className="no-print" style={{ display: 'flex', gap: 16, marginTop: 10 }}>
@@ -30,8 +31,10 @@ export default function Footer() {
           no cross-site tracking, no ads. Searches that return no results are logged anonymously
           (the search text only) so catalogue gaps can be filled, and clicks on “view listings”
           links are counted by make and model only. Fonts and scripts are served from this site —
-          no third-party trackers. Your comparisons, settings and
-          Pro status live in your browser&apos;s local storage and never leave your device.
+          no third-party trackers. Your recent comparisons and settings live in your
+          browser&apos;s local storage and never leave your device.{' '}
+          <a href="/privacy/" style={{ color: '#555' }}>Full privacy policy</a> ·{' '}
+          <a href="/terms/" style={{ color: '#555' }}>Terms</a>
         </p>
       )}
     </footer>

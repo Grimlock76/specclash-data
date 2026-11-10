@@ -3,7 +3,7 @@
 //   (or the older "/queue/<file>.mp4")  ->  {"publish_id": "..."}
 // The user then opens TikTok, adds a sound and posts it themselves.
 import { cookies, cookie, refresh, seal, sessionFrom, unseal, SESSION_COOKIE } from '../_lib/tiktok.js'
-import { isOwner } from '../_lib/owner.js'
+import { isOwner, sameOrigin } from '../_lib/owner.js'
 
 // Fetch queue videos from the production site, never from the request's Host header
 const ORIGIN = 'https://spec-clash.vercel.app'
@@ -29,6 +29,7 @@ export const config = { maxDuration: 60 }
 export default async function handler(req, res) {
   res.setHeader('Cache-Control', 'no-store')
   if (req.method !== 'POST') { res.setHeader('Allow', 'POST'); res.status(405).end(); return }
+  if (!sameOrigin(req)) { res.status(403).json({ error: 'bad origin' }); return }
   if (!isOwner(req)) { res.status(403).json({ error: 'owner only' }); return }
   const video = String((req.body && req.body.video) || '')
   const src = videoUrl(video)
