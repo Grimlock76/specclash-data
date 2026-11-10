@@ -22,7 +22,8 @@
       "accelClaimed": true,
       "range": 436,
       "acceleration": 7.5,
-      "price": "$47,600"
+      "price": "$47,600",
+      "quarterMile": "~15.6 sec"
     },
     "Kia|EV3|2025|Air Long Range": {
       "fuelType": "electric",
@@ -46,7 +47,8 @@
       "accelClaimed": true,
       "range": 604,
       "acceleration": 7.7,
-      "price": "$53,315"
+      "price": "$53,315",
+      "quarterMile": "~15.8 sec"
     },
     "Kia|EV3|2025|Earth Long Range": {
       "fuelType": "electric",
@@ -70,7 +72,8 @@
       "accelClaimed": true,
       "range": 563,
       "acceleration": 7.9,
-      "price": "$58,600"
+      "price": "$58,600",
+      "quarterMile": "~16.0 sec"
     },
     "Kia|EV3|2025|GT-Line Long Range": {
       "fuelType": "electric",
@@ -94,7 +97,8 @@
       "accelClaimed": true,
       "range": 563,
       "acceleration": 7.9,
-      "price": "$63,950"
+      "price": "$63,950",
+      "quarterMile": "~16.0 sec"
     },
     "Kia|EV3|2026|Air Standard Range": {
       "fuelType": "electric",
@@ -118,7 +122,8 @@
       "accelClaimed": true,
       "range": 436,
       "acceleration": 7.5,
-      "price": "$47,600"
+      "price": "$47,600",
+      "quarterMile": "~15.6 sec"
     },
     "Kia|EV3|2026|Air Long Range": {
       "fuelType": "electric",
@@ -142,7 +147,8 @@
       "accelClaimed": true,
       "range": 604,
       "acceleration": 7.7,
-      "price": "$53,315"
+      "price": "$53,315",
+      "quarterMile": "~15.8 sec"
     },
     "Kia|EV3|2026|Earth Long Range": {
       "fuelType": "electric",
@@ -166,7 +172,8 @@
       "accelClaimed": true,
       "range": 563,
       "acceleration": 7.9,
-      "price": "$58,600"
+      "price": "$58,600",
+      "quarterMile": "~16.0 sec"
     },
     "Kia|EV3|2026|GT-Line Long Range": {
       "fuelType": "electric",
@@ -190,7 +197,8 @@
       "accelClaimed": true,
       "range": 563,
       "acceleration": 7.9,
-      "price": "$63,950"
+      "price": "$63,950",
+      "quarterMile": "~16.0 sec"
     }
   }
 }

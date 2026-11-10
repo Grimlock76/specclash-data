@@ -12,14 +12,19 @@
       "seats": 5,
       "cargo": 255,
       "fuelTank": 35,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 960,
+      "topSpeed": 170,
+      "acceleration": 12.5,
       "transmission": "5-speed manual",
       "fc": 6.8,
       "fh": 4.6,
       "fx": 5.4,
-      "price": "$17,890"
+      "price": "$17,890",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~19.1 sec"
     },
     "Kia|Picanto|2024|Sport Auto": {
       "engine": "1.25L I4 Petrol",
@@ -33,14 +38,19 @@
       "seats": 5,
       "cargo": 255,
       "fuelTank": 35,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 960,
+      "topSpeed": 170,
+      "acceleration": 12.5,
       "transmission": "4-speed automatic",
       "fc": 7.7,
       "fh": 5.1,
       "fx": 6,
-      "price": "$19,490"
+      "price": "$19,490",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~19.1 sec"
     },
     "Kia|Picanto|2024|GT-Line Manual": {
       "engine": "1.25L I4 Petrol",
@@ -54,14 +64,19 @@
       "seats": 5,
       "cargo": 255,
       "fuelTank": 35,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 960,
+      "topSpeed": 170,
+      "acceleration": 12.5,
       "transmission": "5-speed manual",
       "fc": 6.8,
       "fh": 4.6,
       "fx": 5.4,
-      "price": "$19,690"
+      "price": "$19,690",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~19.1 sec"
     },
     "Kia|Picanto|2024|GT-Line Auto": {
       "engine": "1.25L I4 Petrol",
@@ -75,14 +90,19 @@
       "seats": 5,
       "cargo": 255,
       "fuelTank": 35,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 960,
+      "topSpeed": 170,
+      "acceleration": 12.5,
       "transmission": "4-speed automatic",
       "fc": 7.7,
       "fh": 5.1,
       "fx": 6,
-      "price": "$21,290"
+      "price": "$21,290",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~19.1 sec"
     },
     "Kia|Picanto|2025|Sport Manual": {
       "engine": "1.25L I4 Petrol",
@@ -96,14 +116,19 @@
       "seats": 5,
       "cargo": 255,
       "fuelTank": 35,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 960,
+      "topSpeed": 170,
+      "acceleration": 11.8,
       "transmission": "5-speed manual",
       "fc": 6.8,
       "fh": 4.6,
       "fx": 5.4,
-      "price": "$19,190"
+      "price": "$19,190",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.7 sec"
     },
     "Kia|Picanto|2025|Sport Auto": {
       "engine": "1.25L I4 Petrol",
@@ -117,14 +142,19 @@
       "seats": 5,
       "cargo": 255,
       "fuelTank": 35,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 960,
+      "topSpeed": 170,
+      "acceleration": 11.8,
       "transmission": "4-speed automatic",
       "fc": 7.7,
       "fh": 5.1,
       "fx": 6,
-      "price": "$20,790"
+      "price": "$20,790",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.7 sec"
     },
     "Kia|Picanto|2025|GT-Line Manual": {
       "engine": "1.25L I4 Petrol",
@@ -138,14 +168,19 @@
       "seats": 5,
       "cargo": 255,
       "fuelTank": 35,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 960,
+      "topSpeed": 170,
+      "acceleration": 11.8,
       "transmission": "5-speed manual",
       "fc": 6.8,
       "fh": 4.6,
       "fx": 5.4,
-      "price": "$20,990"
+      "price": "$20,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.7 sec"
     },
     "Kia|Picanto|2025|GT-Line Auto": {
       "engine": "1.25L I4 Petrol",
@@ -159,14 +194,19 @@
       "seats": 5,
       "cargo": 255,
       "fuelTank": 35,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 960,
+      "topSpeed": 170,
+      "acceleration": 11.8,
       "transmission": "4-speed automatic",
       "fc": 7.7,
       "fh": 5.1,
       "fx": 6,
-      "price": "$22,590"
+      "price": "$22,590",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.7 sec"
     },
     "Kia|Picanto|2026|Sport Manual": {
       "engine": "1.25L I4 Petrol",
@@ -180,14 +220,19 @@
       "seats": 5,
       "cargo": 255,
       "fuelTank": 35,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 935,
+      "topSpeed": 175,
+      "acceleration": 11.6,
       "transmission": "5-speed manual",
       "fc": 6.8,
       "fh": 4.6,
       "fx": 5.4,
-      "price": "$19,190"
+      "price": "$19,190",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.5 sec"
     },
     "Kia|Picanto|2026|Sport Auto": {
       "engine": "1.25L I4 Petrol",
@@ -201,14 +246,19 @@
       "seats": 5,
       "cargo": 255,
       "fuelTank": 35,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 935,
+      "topSpeed": 175,
+      "acceleration": 11.6,
       "transmission": "4-speed automatic",
       "fc": 7.7,
       "fh": 5.1,
       "fx": 6,
-      "price": "$20,790"
+      "price": "$20,790",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.5 sec"
     },
     "Kia|Picanto|2026|GT-Line Manual": {
       "engine": "1.25L I4 Petrol",
@@ -222,14 +272,19 @@
       "seats": 5,
       "cargo": 255,
       "fuelTank": 35,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 935,
+      "topSpeed": 175,
+      "acceleration": 11.6,
       "transmission": "5-speed manual",
       "fc": 6.8,
       "fh": 4.6,
       "fx": 5.4,
-      "price": "$20,990"
+      "price": "$20,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.5 sec"
     },
     "Kia|Picanto|2026|GT-Line Auto": {
       "engine": "1.25L I4 Petrol",
@@ -243,14 +298,19 @@
       "seats": 5,
       "cargo": 255,
       "fuelTank": 35,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 935,
+      "topSpeed": 175,
+      "acceleration": 11.6,
       "transmission": "4-speed automatic",
       "fc": 7.7,
       "fh": 5.1,
       "fx": 6,
-      "price": "$22,590"
+      "price": "$22,590",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.5 sec"
     }
   }
 }

@@ -20,7 +20,8 @@
       "seats": 5,
       "fuelTank": 60,
       "price": "$87,114",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.0 sec"
     },
     "Genesis|G70|2025|2.0T Shooting Brake Sport Line Luxury": {
       "topSpeed": 235,
@@ -42,7 +43,8 @@
       "seats": 5,
       "fuelTank": 60,
       "price": "$80,265",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.7 sec"
     }
   }
 }

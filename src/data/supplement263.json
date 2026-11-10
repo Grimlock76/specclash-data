@@ -2,7 +2,7 @@
   "specs": {
     "BMW|3 Series|2026|330i M Sport": {
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 230,
       "transmission": "8-speed automatic",
       "engine": "2.0L I4 Turbo Petrol (B48)",
       "displacement": 1998,
@@ -20,11 +20,15 @@
       "fuelTank": 59,
       "cargo": 480,
       "price": "$96,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|3 Series|2026|330i M Sport Touring": {
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 230,
       "transmission": "8-speed automatic",
       "engine": "2.0L I4 Turbo Petrol (B48)",
       "displacement": 1998,
@@ -42,11 +46,15 @@
       "fuelTank": 59,
       "cargo": 500,
       "price": "$99,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|3 Series|2026|M340i xDrive": {
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 255,
       "transmission": "8-speed automatic",
       "engine": "3.0L I6 Turbo Petrol (B58)",
       "displacement": 2998,
@@ -64,11 +72,15 @@
       "fuelTank": 59,
       "cargo": 480,
       "price": "$119,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|5 Series|2026|520i M Sport": {
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 245,
       "transmission": "8-speed automatic",
       "engine": "2.0L I4 Turbo Petrol (B48)",
       "displacement": 1998,
@@ -78,19 +90,25 @@
       "power": 153,
       "torque": 330,
       "drivetrain": "RWD",
-      "fc": null,
-      "fh": null,
+      "fc": 8.4,
+      "fh": 4.6,
       "fx": 6.7,
       "acceleration": 7.5,
       "weight": 1725,
       "fuelTank": 60,
       "cargo": 520,
       "price": "$117,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BMW|5 Series|2026|540d xDrive": {
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 250,
       "transmission": "8-speed automatic",
       "engine": "3.0L I6 Turbo Diesel (B57)",
       "displacement": 2993,
@@ -108,7 +126,11 @@
       "fuelTank": 60,
       "cargo": 520,
       "price": "$137,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

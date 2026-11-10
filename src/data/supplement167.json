@@ -17,7 +17,8 @@
       "acceleration": 4.3,
       "topSpeed": 290,
       "price": "~$315,990",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~12.6 sec"
     },
     "Maserati|GranCabrio|2024|Trofeo": {
       "engine": "3.0L Nettuno V6 Twin-Turbo",
@@ -36,7 +37,8 @@
       "acceleration": 3.8,
       "topSpeed": 302,
       "price": "~$405,990",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~12.0 sec"
     },
     "Maserati|GranCabrio|2024|Folgore": {
       "engine": "Electric Triple Motor",
@@ -55,7 +57,8 @@
       "acceleration": 3.6,
       "topSpeed": 290,
       "price": "~$462,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.8 sec"
     },
     "Maserati|GranCabrio|2025|Modena": {
       "engine": "3.0L Nettuno V6 Twin-Turbo",
@@ -74,7 +77,8 @@
       "acceleration": 4.3,
       "topSpeed": 290,
       "price": "~$324,990",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~12.6 sec"
     },
     "Maserati|GranCabrio|2025|Trofeo": {
       "engine": "3.0L Nettuno V6 Twin-Turbo",
@@ -93,7 +97,8 @@
       "acceleration": 3.8,
       "topSpeed": 302,
       "price": "~$415,990",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~12.0 sec"
     },
     "Maserati|GranCabrio|2025|Folgore": {
       "engine": "Electric Triple Motor",
@@ -112,7 +117,8 @@
       "acceleration": 3.6,
       "topSpeed": 290,
       "price": "~$474,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.8 sec"
     },
     "Maserati|GranCabrio|2026|Modena": {
       "engine": "3.0L Nettuno V6 Twin-Turbo",
@@ -131,7 +137,8 @@
       "acceleration": 4.3,
       "topSpeed": 290,
       "price": "~$334,990",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~12.6 sec"
     },
     "Maserati|GranCabrio|2026|Trofeo": {
       "engine": "3.0L Nettuno V6 Twin-Turbo",
@@ -150,7 +157,8 @@
       "acceleration": 3.8,
       "topSpeed": 302,
       "price": "~$425,990",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~12.0 sec"
     },
     "Maserati|GranCabrio|2026|Folgore": {
       "engine": "Electric Triple Motor",
@@ -169,7 +177,8 @@
       "acceleration": 3.6,
       "topSpeed": 290,
       "price": "~$486,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.8 sec"
     },
     "XPENG|G6|2024|Long Range RWD": {
       "engine": "Electric Single Motor",
@@ -188,7 +197,12 @@
       "acceleration": 6.9,
       "topSpeed": 200,
       "price": "~$55,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.1 sec",
+      "cargo": 571,
+      "est": [
+        "cargo"
+      ]
     },
     "XPENG|G6|2024|AWD Performance": {
       "engine": "Electric Dual Motor",
@@ -207,7 +221,12 @@
       "acceleration": 3.9,
       "topSpeed": 200,
       "price": "~$64,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.2 sec",
+      "cargo": 571,
+      "est": [
+        "cargo"
+      ]
     },
     "XPENG|G6|2025|Long Range RWD": {
       "engine": "Electric Single Motor",
@@ -226,7 +245,12 @@
       "acceleration": 6.9,
       "topSpeed": 200,
       "price": "~$57,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.1 sec",
+      "cargo": 571,
+      "est": [
+        "cargo"
+      ]
     },
     "XPENG|G6|2025|AWD Performance": {
       "engine": "Electric Dual Motor",
@@ -245,7 +269,12 @@
       "acceleration": 3.9,
       "topSpeed": 200,
       "price": "~$66,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.2 sec",
+      "cargo": 571,
+      "est": [
+        "cargo"
+      ]
     },
     "XPENG|G6|2026|Long Range RWD": {
       "engine": "Electric Single Motor",
@@ -264,7 +293,12 @@
       "acceleration": 6.9,
       "topSpeed": 200,
       "price": "~$58,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.1 sec",
+      "cargo": 571,
+      "est": [
+        "cargo"
+      ]
     },
     "XPENG|G6|2026|AWD Performance": {
       "engine": "Electric Dual Motor",
@@ -283,7 +317,12 @@
       "acceleration": 3.9,
       "topSpeed": 200,
       "price": "~$67,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.2 sec",
+      "cargo": 571,
+      "est": [
+        "cargo"
+      ]
     },
     "XPENG|G9|2024|Long Range RWD": {
       "engine": "Electric Single Motor",
@@ -302,7 +341,12 @@
       "acceleration": 7,
       "topSpeed": 200,
       "price": "~$69,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.2 sec",
+      "cargo": 660,
+      "est": [
+        "cargo"
+      ]
     },
     "XPENG|G9|2024|AWD Performance": {
       "engine": "Electric Dual Motor",
@@ -321,7 +365,12 @@
       "acceleration": 3.9,
       "topSpeed": 200,
       "price": "~$82,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.2 sec",
+      "cargo": 660,
+      "est": [
+        "cargo"
+      ]
     },
     "XPENG|G9|2025|Long Range RWD": {
       "engine": "Electric Single Motor",
@@ -340,7 +389,12 @@
       "acceleration": 7,
       "topSpeed": 200,
       "price": "~$71,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.2 sec",
+      "cargo": 660,
+      "est": [
+        "cargo"
+      ]
     },
     "XPENG|G9|2025|AWD Performance": {
       "engine": "Electric Dual Motor",
@@ -359,7 +413,12 @@
       "acceleration": 3.9,
       "topSpeed": 200,
       "price": "~$84,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.2 sec",
+      "cargo": 660,
+      "est": [
+        "cargo"
+      ]
     },
     "XPENG|G9|2026|Long Range RWD": {
       "engine": "Electric Single Motor",
@@ -378,7 +437,12 @@
       "acceleration": 7,
       "topSpeed": 200,
       "price": "~$72,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.2 sec",
+      "cargo": 660,
+      "est": [
+        "cargo"
+      ]
     },
     "XPENG|G9|2026|AWD Performance": {
       "engine": "Electric Dual Motor",
@@ -397,7 +461,12 @@
       "acceleration": 3.9,
       "topSpeed": 200,
       "price": "~$85,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.2 sec",
+      "cargo": 660,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

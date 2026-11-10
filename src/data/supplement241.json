@@ -18,7 +18,8 @@
       "weight": 1361,
       "seats": 5,
       "cargo": 380,
-      "price": "~$23,990"
+      "price": "~$23,990",
+      "quarterMile": "~17.7 sec"
     },
     "Chery|Tiggo 4|2024|Ultimate": {
       "engine": "1.5L I4 Turbo",
@@ -38,7 +39,8 @@
       "weight": 1361,
       "seats": 5,
       "cargo": 380,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~17.7 sec"
     },
     "Chery|Tiggo 4|2025|Urban": {
       "engine": "1.5L I4 Turbo",
@@ -58,7 +60,8 @@
       "weight": 1361,
       "seats": 5,
       "cargo": 380,
-      "price": "~$23,990"
+      "price": "~$23,990",
+      "quarterMile": "~17.7 sec"
     },
     "Chery|Tiggo 4|2025|Ultimate": {
       "engine": "1.5L I4 Turbo",
@@ -78,7 +81,8 @@
       "weight": 1361,
       "seats": 5,
       "cargo": 380,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~17.7 sec"
     },
     "Chery|Tiggo 4|2026|Urban": {
       "engine": "1.5L I4 Turbo",
@@ -98,7 +102,8 @@
       "weight": 1361,
       "seats": 5,
       "cargo": 380,
-      "price": "~$23,990"
+      "price": "~$23,990",
+      "quarterMile": "~17.7 sec"
     },
     "Chery|Tiggo 4|2026|Ultimate": {
       "engine": "1.5L I4 Turbo",
@@ -118,7 +123,8 @@
       "weight": 1361,
       "seats": 5,
       "cargo": 380,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~17.7 sec"
     },
     "GWM|Haval H7|2025|Vanta": {
       "engine": "1.5L I4 Turbo HEV",
@@ -129,8 +135,8 @@
       "transmission": "2-speed DHT",
       "power": 179,
       "torque": 530,
-      "fc": null,
-      "fh": null,
+      "fc": 6.5,
+      "fh": 4.7,
       "fx": 5.7,
       "fuelType": "hybrid",
       "acceleration": 8,
@@ -138,7 +144,12 @@
       "weight": 1795,
       "seats": 5,
       "cargo": 483,
-      "price": "~$46,990"
+      "price": "~$46,990",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Haval H7|2026|Vanta": {
       "engine": "1.5L I4 Turbo HEV",
@@ -149,8 +160,8 @@
       "transmission": "2-speed DHT",
       "power": 179,
       "torque": 530,
-      "fc": null,
-      "fh": null,
+      "fc": 6.5,
+      "fh": 4.7,
       "fx": 5.7,
       "fuelType": "hybrid",
       "acceleration": 8,
@@ -158,7 +169,12 @@
       "weight": 1795,
       "seats": 5,
       "cargo": 483,
-      "price": "~$46,990"
+      "price": "~$46,990",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Deepal|S05|2026|RWD": {
       "engine": "Electric",
@@ -180,7 +196,8 @@
       "weight": 1930,
       "seats": 5,
       "cargo": 492,
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "quarterMile": "~15.1 sec"
     }
   }
 }

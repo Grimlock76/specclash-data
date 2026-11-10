@@ -1,8 +1,8 @@
 {
   "specs": {
     "Jeep|Wrangler|2026|Unlimited Rewind": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 7.6,
       "cargo": null,
       "transmission": "8-speed automatic",
       "drivetrain": "4WD",
@@ -21,11 +21,15 @@
       "weight": 2087,
       "towing": 2495,
       "groundClearance": 255,
-      "price": "$73,990"
+      "price": "$73,990",
+      "quarterMile": "~15.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Jeep|Wrangler|2026|Rubicon 2-door": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 7.5,
       "cargo": null,
       "transmission": "8-speed automatic",
       "drivetrain": "4WD",
@@ -43,10 +47,16 @@
       "fuelTank": 81,
       "towing": 1497,
       "groundClearance": 257,
-      "price": "$81,990"
+      "price": "$81,990",
+      "weight": 2065,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.6 sec"
     },
     "Jeep|Wrangler|2026|Unlimited Rubicon": {
-      "topSpeed": null,
+      "topSpeed": 175,
       "acceleration": 7.4,
       "cargo": null,
       "transmission": "8-speed automatic",
@@ -66,11 +76,17 @@
       "towing": 2495,
       "groundClearance": 255,
       "price": "$84,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2065,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "RAM|1500|2026|Express Black Edition Hurricane SO": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 6.6,
       "cargo": null,
       "transmission": "8-speed automatic",
       "drivetrain": "4WD",
@@ -81,19 +97,25 @@
       "fuelType": "petrol",
       "power": 313,
       "torque": 635,
-      "fc": null,
-      "fh": null,
+      "fc": 13.4,
+      "fh": 7.4,
       "fx": 10.7,
       "seats": 5,
       "towing": 4500,
       "fuelTank": 98,
       "weight": 2478,
       "groundClearance": 217,
-      "price": "$109,950"
+      "price": "$109,950",
+      "quarterMile": "~14.9 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "RAM|1500|2026|Rebel Hurricane SO": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 6.9,
       "cargo": null,
       "transmission": "8-speed automatic",
       "drivetrain": "4WD",
@@ -104,8 +126,8 @@
       "fuelType": "petrol",
       "power": 313,
       "torque": 635,
-      "fc": null,
-      "fh": null,
+      "fc": 13.4,
+      "fh": 7.4,
       "fx": 10.7,
       "seats": 5,
       "towing": 4500,
@@ -113,11 +135,17 @@
       "weight": 2612,
       "payload": 893,
       "groundClearance": 240,
-      "price": "$141,950"
+      "price": "$141,950",
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "RAM|1500|2026|Laramie Sport Hurricane SO RamBox": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 7,
       "cargo": null,
       "transmission": "8-speed automatic",
       "drivetrain": "4WD",
@@ -128,8 +156,8 @@
       "fuelType": "petrol",
       "power": 313,
       "torque": 635,
-      "fc": null,
-      "fh": null,
+      "fc": 13.4,
+      "fh": 7.4,
       "fx": 10.7,
       "seats": 5,
       "towing": 4500,
@@ -137,11 +165,17 @@
       "weight": 2642,
       "payload": 879,
       "groundClearance": 217,
-      "price": "$141,950"
+      "price": "$141,950",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "RAM|1500|2026|Laramie Night Hurricane SO RamBox": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 7.1,
       "cargo": null,
       "transmission": "8-speed automatic",
       "drivetrain": "4WD",
@@ -152,19 +186,25 @@
       "fuelType": "petrol",
       "power": 313,
       "torque": 635,
-      "fc": null,
-      "fh": null,
+      "fc": 13.4,
+      "fh": 7.4,
       "fx": 10.7,
       "seats": 5,
       "towing": 4500,
       "fuelTank": 98,
       "weight": 2706,
       "groundClearance": 217,
-      "price": "$141,950"
+      "price": "$141,950",
+      "quarterMile": "~15.3 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "RAM|1500|2026|Limited Hurricane HO RamBox": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 210,
+      "acceleration": 5.8,
       "cargo": null,
       "transmission": "8-speed automatic",
       "drivetrain": "4WD",
@@ -175,20 +215,26 @@
       "fuelType": "petrol",
       "power": 403,
       "torque": 707,
-      "fc": null,
-      "fh": null,
+      "fc": 14.8,
+      "fh": 8.1,
       "fx": 11.8,
       "seats": 5,
       "towing": 4200,
       "fuelTank": 98,
       "weight": 2722,
       "payload": 783,
-      "price": "$159,950"
+      "price": "$159,950",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "INEOS|Grenadier|2026|Station Wagon Petrol": {
       "topSpeed": 160,
       "acceleration": 8.8,
-      "cargo": null,
+      "cargo": 1152,
       "transmission": "8-speed automatic",
       "drivetrain": "4WD",
       "engine": "3.0L I6 Turbo Petrol",
@@ -207,12 +253,16 @@
       "fuelTank": 90,
       "payload": 907,
       "price": "$107,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "INEOS|Grenadier|2026|Station Wagon Diesel": {
       "topSpeed": 160,
       "acceleration": 9.8,
-      "cargo": null,
+      "cargo": 1152,
       "transmission": "8-speed automatic",
       "drivetrain": "4WD",
       "engine": "3.0L I6 Twin-Turbo Diesel",
@@ -232,12 +282,16 @@
       "payload": 833,
       "groundClearance": 264,
       "price": "$107,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "INEOS|Grenadier|2026|Trialmaster Diesel": {
       "topSpeed": 160,
       "acceleration": 9.8,
-      "cargo": null,
+      "cargo": 1152,
       "transmission": "8-speed automatic",
       "drivetrain": "4WD",
       "engine": "3.0L I6 Twin-Turbo Diesel",
@@ -255,12 +309,16 @@
       "towing": 3500,
       "fuelTank": 90,
       "price": "$120,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "INEOS|Grenadier|2026|Fieldmaster Diesel": {
       "topSpeed": 160,
       "acceleration": 9.8,
-      "cargo": null,
+      "cargo": 1152,
       "transmission": "8-speed automatic",
       "drivetrain": "4WD",
       "engine": "3.0L I6 Twin-Turbo Diesel",
@@ -278,7 +336,11 @@
       "towing": 3500,
       "fuelTank": 90,
       "price": "$120,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

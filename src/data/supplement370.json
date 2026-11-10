@@ -1,7 +1,7 @@
 {
   "specs": {
     "Subaru|WRX|2024|WRX Manual": {
-      "topSpeed": null,
+      "topSpeed": 245,
       "acceleration": 6,
       "cargo": 414,
       "seats": 5,
@@ -18,12 +18,17 @@
       "fc": 13.8,
       "fh": 7.7,
       "fx": 9.9,
-      "weight": null,
+      "weight": 1570,
       "price": "$47,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.3 sec"
     },
     "Subaru|WRX|2024|WRX Auto": {
-      "topSpeed": null,
+      "topSpeed": 245,
       "acceleration": 6.1,
       "cargo": 414,
       "seats": 5,
@@ -40,12 +45,17 @@
       "fc": 11.2,
       "fh": 7,
       "fx": 8.5,
-      "weight": null,
+      "weight": 1570,
       "price": "$49,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.4 sec"
     },
     "Subaru|WRX|2024|RS Manual": {
-      "topSpeed": null,
+      "topSpeed": 245,
       "acceleration": 6,
       "cargo": 414,
       "seats": 5,
@@ -62,12 +72,17 @@
       "fc": 13.8,
       "fh": 7.7,
       "fx": 9.9,
-      "weight": null,
+      "weight": 1570,
       "price": "$52,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.3 sec"
     },
     "Subaru|WRX|2024|RS Auto": {
-      "topSpeed": null,
+      "topSpeed": 245,
       "acceleration": 6.1,
       "cargo": 414,
       "seats": 5,
@@ -84,12 +99,17 @@
       "fc": 11.2,
       "fh": 7,
       "fx": 8.5,
-      "weight": null,
+      "weight": 1570,
       "price": "$55,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.4 sec"
     },
     "Subaru|WRX|2024|tS": {
-      "topSpeed": null,
+      "topSpeed": 245,
       "acceleration": 6.1,
       "cargo": 414,
       "seats": 5,
@@ -106,12 +126,17 @@
       "fc": 11.2,
       "fh": 7,
       "fx": 8.5,
-      "weight": null,
+      "weight": 1570,
       "price": "$57,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.4 sec"
     },
     "Subaru|WRX|2024|Sportswagon": {
-      "topSpeed": null,
+      "topSpeed": 245,
       "acceleration": 6.1,
       "cargo": 492,
       "seats": 5,
@@ -128,12 +153,17 @@
       "fc": 11.2,
       "fh": 7,
       "fx": 8.5,
-      "weight": null,
+      "weight": 1570,
       "price": "$51,790",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.4 sec"
     },
     "Subaru|WRX|2024|GT Sportswagon": {
-      "topSpeed": null,
+      "topSpeed": 245,
       "acceleration": 6.1,
       "cargo": 492,
       "seats": 5,
@@ -150,12 +180,17 @@
       "fc": 11.2,
       "fh": 7,
       "fx": 8.5,
-      "weight": null,
+      "weight": 1570,
       "price": "$57,290",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.4 sec"
     },
     "Subaru|WRX|2024|tS Sportswagon": {
-      "topSpeed": null,
+      "topSpeed": 245,
       "acceleration": 6.1,
       "cargo": 492,
       "seats": 5,
@@ -172,12 +207,17 @@
       "fc": 11.2,
       "fh": 7,
       "fx": 8.5,
-      "weight": null,
+      "weight": 1570,
       "price": "$59,790",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.4 sec"
     },
     "Subaru|WRX|2024|Club Spec Manual": {
-      "topSpeed": null,
+      "topSpeed": 245,
       "acceleration": 6,
       "cargo": 414,
       "seats": 5,
@@ -194,9 +234,14 @@
       "fc": 13.8,
       "fh": 8.2,
       "fx": 10.4,
-      "weight": null,
+      "weight": 1570,
       "price": "$52,590",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.3 sec"
     }
   }
 }

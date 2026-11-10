@@ -3,8 +3,8 @@
     "Mazda|BT-50|2026|XS 4x2": {
       "fuelType": "diesel",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 13,
+      "topSpeed": 160,
       "seats": 5,
       "towing": 3500,
       "engine": "2.2L I4 Turbo Diesel (RZ4F-TC)",
@@ -22,13 +22,17 @@
       "weight": 1888,
       "price": "$47,210",
       "payload": 1112,
-      "groundClearance": 235
+      "groundClearance": 235,
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|BT-50|2026|XT 4x2": {
       "fuelType": "diesel",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.8,
+      "topSpeed": 170,
       "seats": 5,
       "towing": 3500,
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -46,13 +50,17 @@
       "weight": 1929,
       "price": "$49,710",
       "payload": 1071,
-      "groundClearance": 235
+      "groundClearance": 235,
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|BT-50|2026|XTR 4x2": {
       "fuelType": "diesel",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.2,
+      "topSpeed": 165,
       "seats": 5,
       "towing": 3500,
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -70,13 +78,17 @@
       "weight": 2012,
       "price": "$55,780",
       "payload": 988,
-      "groundClearance": 240
+      "groundClearance": 240,
+      "quarterMile": "~18.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|BT-50|2026|Boss": {
       "fuelType": "diesel",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.2,
+      "topSpeed": 165,
       "seats": 5,
       "towing": 3500,
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -94,13 +106,17 @@
       "weight": 2067,
       "price": "$60,220",
       "payload": 1033,
-      "groundClearance": 235
+      "groundClearance": 235,
+      "quarterMile": "~18.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|BT-50|2026|GT": {
       "fuelType": "diesel",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.4,
+      "topSpeed": 165,
       "seats": 5,
       "towing": 3500,
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -118,13 +134,17 @@
       "weight": 2102,
       "price": "$68,160",
       "payload": 998,
-      "groundClearance": 240
+      "groundClearance": 240,
+      "quarterMile": "~19.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|BT-50|2026|SP": {
       "fuelType": "diesel",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.8,
+      "topSpeed": 165,
       "seats": 5,
       "towing": 3500,
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -142,13 +162,17 @@
       "weight": 2176,
       "price": "$73,490",
       "payload": 924,
-      "groundClearance": 240
+      "groundClearance": 240,
+      "quarterMile": "~19.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|BT-50|2026|Thunder": {
       "fuelType": "diesel",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 13,
+      "topSpeed": 165,
       "seats": 5,
       "towing": 3500,
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -166,7 +190,11 @@
       "weight": 2213,
       "price": "$79,490",
       "payload": 887,
-      "groundClearance": 240
+      "groundClearance": 240,
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

@@ -17,7 +17,12 @@
       "weight": 1010,
       "seats": 5,
       "price": "~$18,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.4 sec",
+      "cargo": 342,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|Jazz|2003|VTi-S": {
       "engine": "1.3L i-DSI",
@@ -36,7 +41,12 @@
       "weight": 1010,
       "seats": 5,
       "price": "~$20,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.1 sec",
+      "cargo": 342,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|Jazz|2004|VTi": {
       "engine": "1.3L i-DSI",
@@ -55,7 +65,12 @@
       "weight": 1010,
       "seats": 5,
       "price": "~$18,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.4 sec",
+      "cargo": 342,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|Jazz|2004|VTi-S": {
       "engine": "1.3L i-DSI",
@@ -74,7 +89,12 @@
       "weight": 1010,
       "seats": 5,
       "price": "~$20,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.1 sec",
+      "cargo": 342,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|Jazz|2005|VTi": {
       "engine": "1.3L i-DSI",
@@ -93,7 +113,8 @@
       "weight": 1010,
       "seats": 5,
       "price": "~$19,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.4 sec"
     },
     "Honda|Jazz|2005|VTi-S": {
       "engine": "1.3L i-DSI",
@@ -112,7 +133,8 @@
       "weight": 1010,
       "seats": 5,
       "price": "~$21,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.1 sec"
     },
     "Honda|Jazz|2006|VTi": {
       "engine": "1.3L i-DSI",
@@ -131,7 +153,8 @@
       "weight": 1010,
       "seats": 5,
       "price": "~$19,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.4 sec"
     },
     "Honda|Jazz|2006|VTi-S": {
       "engine": "1.3L i-DSI",
@@ -150,7 +173,8 @@
       "weight": 1010,
       "seats": 5,
       "price": "~$21,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.1 sec"
     },
     "Honda|Jazz|2007|VTi": {
       "engine": "1.3L i-DSI",
@@ -169,7 +193,12 @@
       "weight": 1010,
       "seats": 5,
       "price": "~$20,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.4 sec",
+      "cargo": 354,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|Jazz|2007|VTi-S": {
       "engine": "1.3L i-DSI",
@@ -188,7 +217,12 @@
       "weight": 1010,
       "seats": 5,
       "price": "~$22,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.1 sec",
+      "cargo": 354,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|Jazz|2008|VTi": {
       "engine": "1.3L i-DSI",
@@ -207,7 +241,12 @@
       "weight": 1010,
       "seats": 5,
       "price": "~$20,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.4 sec",
+      "cargo": 354,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|Jazz|2008|VTi-S": {
       "engine": "1.3L i-DSI",
@@ -226,7 +265,12 @@
       "weight": 1010,
       "seats": 5,
       "price": "~$22,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.1 sec",
+      "cargo": 354,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|Jazz|2009|VTi-S": {
       "engine": "1.5L i-VTEC",
@@ -245,7 +289,12 @@
       "weight": 1135,
       "seats": 5,
       "price": "~$23,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec",
+      "cargo": 354,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|Jazz|2010|VTi-S": {
       "engine": "1.5L i-VTEC",
@@ -264,7 +313,12 @@
       "weight": 1135,
       "seats": 5,
       "price": "~$24,090",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec",
+      "cargo": 354,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|Jazz|2011|VTi-S": {
       "engine": "1.5L i-VTEC",
@@ -283,7 +337,12 @@
       "weight": 1135,
       "seats": 5,
       "price": "~$24,690",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec",
+      "cargo": 354,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|Jazz|2012|VTi-S": {
       "engine": "1.5L i-VTEC",
@@ -302,7 +361,8 @@
       "weight": 1135,
       "seats": 5,
       "price": "~$25,290",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec"
     },
     "Honda|Jazz|2013|VTi-S": {
       "engine": "1.5L i-VTEC",
@@ -321,7 +381,8 @@
       "weight": 1135,
       "seats": 5,
       "price": "~$25,890",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec"
     },
     "Honda|Jazz|2014|VTi-S": {
       "engine": "1.5L i-VTEC",
@@ -340,7 +401,8 @@
       "weight": 1135,
       "seats": 5,
       "price": "~$26,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec"
     },
     "Honda|Jazz|2015|VTi": {
       "engine": "1.5L i-VTEC",
@@ -416,7 +478,8 @@
       "weight": 1105,
       "seats": 5,
       "price": "~$19,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.5 sec"
     },
     "Honda|Jazz|2016|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -435,7 +498,8 @@
       "weight": 1105,
       "seats": 5,
       "price": "~$22,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.5 sec"
     },
     "Honda|Jazz|2016|VTi-LX": {
       "engine": "1.5L i-VTEC",
@@ -454,7 +518,8 @@
       "weight": 1105,
       "seats": 5,
       "price": "~$25,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.5 sec"
     },
     "Honda|Jazz|2017|VTi": {
       "engine": "1.5L i-VTEC",
@@ -473,7 +538,8 @@
       "weight": 1105,
       "seats": 5,
       "price": "~$19,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.5 sec"
     },
     "Honda|Jazz|2017|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -492,7 +558,8 @@
       "weight": 1105,
       "seats": 5,
       "price": "~$23,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.5 sec"
     },
     "Honda|Jazz|2017|VTi-LX": {
       "engine": "1.5L i-VTEC",
@@ -511,7 +578,8 @@
       "weight": 1105,
       "seats": 5,
       "price": "~$26,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.5 sec"
     },
     "Honda|Jazz|2018|VTi": {
       "engine": "1.5L i-VTEC",
@@ -530,7 +598,8 @@
       "weight": 1105,
       "seats": 5,
       "price": "~$20,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.5 sec"
     },
     "Honda|Jazz|2018|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -549,7 +618,8 @@
       "weight": 1105,
       "seats": 5,
       "price": "~$23,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.5 sec"
     },
     "Honda|Jazz|2018|VTi-LX": {
       "engine": "1.5L i-VTEC",
@@ -568,7 +638,8 @@
       "weight": 1105,
       "seats": 5,
       "price": "~$26,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.5 sec"
     },
     "Honda|Jazz|2019|VTi": {
       "engine": "1.5L i-VTEC",
@@ -587,7 +658,8 @@
       "weight": 1105,
       "seats": 5,
       "price": "~$20,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.5 sec"
     },
     "Honda|Jazz|2019|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -606,7 +678,8 @@
       "weight": 1105,
       "seats": 5,
       "price": "~$24,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.5 sec"
     },
     "Honda|Jazz|2019|VTi-LX": {
       "engine": "1.5L i-VTEC",
@@ -625,7 +698,8 @@
       "weight": 1105,
       "seats": 5,
       "price": "~$27,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.5 sec"
     },
     "Honda|Jazz|2020|VTi": {
       "engine": "1.5L i-VTEC",
@@ -644,7 +718,8 @@
       "weight": 1105,
       "seats": 5,
       "price": "~$21,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.5 sec"
     },
     "Honda|Jazz|2020|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -663,7 +738,8 @@
       "weight": 1105,
       "seats": 5,
       "price": "~$24,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.5 sec"
     },
     "Honda|Jazz|2020|VTi-LX": {
       "engine": "1.5L i-VTEC",
@@ -682,7 +758,8 @@
       "weight": 1105,
       "seats": 5,
       "price": "~$27,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.5 sec"
     },
     "Honda|CR-V|2017|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -702,7 +779,8 @@
       "seats": 5,
       "cargo": 522,
       "price": "~$41,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.1 sec"
     },
     "Honda|CR-V|2017|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -722,7 +800,8 @@
       "seats": 5,
       "cargo": 522,
       "price": "~$35,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.4 sec"
     },
     "Honda|CR-V|2018|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -742,7 +821,8 @@
       "seats": 5,
       "cargo": 522,
       "price": "~$42,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.1 sec"
     },
     "Honda|CR-V|2018|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -762,7 +842,8 @@
       "seats": 5,
       "cargo": 522,
       "price": "~$36,790",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.4 sec"
     },
     "Honda|CR-V|2019|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -782,7 +863,8 @@
       "seats": 5,
       "cargo": 522,
       "price": "~$43,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.1 sec"
     },
     "Honda|CR-V|2019|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -802,7 +884,8 @@
       "seats": 5,
       "cargo": 522,
       "price": "~$37,590",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.4 sec"
     },
     "Honda|CR-V|2020|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -822,7 +905,8 @@
       "seats": 5,
       "cargo": 522,
       "price": "~$44,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.1 sec"
     },
     "Honda|CR-V|2020|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -842,7 +926,8 @@
       "seats": 5,
       "cargo": 522,
       "price": "~$38,390",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.4 sec"
     },
     "Honda|CR-V|2021|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -862,7 +947,8 @@
       "seats": 5,
       "cargo": 522,
       "price": "~$45,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.1 sec"
     },
     "Honda|CR-V|2021|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -882,7 +968,8 @@
       "seats": 5,
       "cargo": 522,
       "price": "~$39,190",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.4 sec"
     },
     "Honda|CR-V|2023|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -1038,7 +1125,8 @@
       "weight": 1320,
       "seats": 5,
       "price": "~$33,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.9 sec"
     },
     "Honda|HR-V|2023|e:HEV L": {
       "engine": "1.5L e:HEV",
@@ -1057,7 +1145,8 @@
       "weight": 1415,
       "seats": 5,
       "price": "~$38,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec"
     },
     "Honda|HR-V|2023|e:HEV RS": {
       "engine": "1.5L e:HEV",
@@ -1076,7 +1165,8 @@
       "weight": 1415,
       "seats": 5,
       "price": "~$43,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec"
     },
     "Honda|HR-V|2014|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -1095,7 +1185,12 @@
       "weight": 1235,
       "seats": 5,
       "price": "~$26,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec",
+      "cargo": 437,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|HR-V|2015|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -1114,7 +1209,12 @@
       "weight": 1235,
       "seats": 5,
       "price": "~$27,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec",
+      "cargo": 437,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|HR-V|2016|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -1133,7 +1233,12 @@
       "weight": 1235,
       "seats": 5,
       "price": "~$27,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec",
+      "cargo": 437,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|HR-V|2017|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -1152,7 +1257,8 @@
       "weight": 1235,
       "seats": 5,
       "price": "~$28,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec"
     },
     "Honda|HR-V|2017|RS": {
       "engine": "1.5L i-VTEC",
@@ -1190,7 +1296,8 @@
       "weight": 1235,
       "seats": 5,
       "price": "~$28,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec"
     },
     "Honda|HR-V|2018|RS": {
       "engine": "1.5L i-VTEC",
@@ -1209,7 +1316,8 @@
       "weight": 1235,
       "seats": 5,
       "price": "~$29,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec"
     },
     "Honda|HR-V|2019|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -1228,7 +1336,8 @@
       "weight": 1235,
       "seats": 5,
       "price": "~$29,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec"
     },
     "Honda|HR-V|2019|RS": {
       "engine": "1.5L i-VTEC",
@@ -1247,7 +1356,8 @@
       "weight": 1235,
       "seats": 5,
       "price": "~$30,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec"
     },
     "Honda|HR-V|2020|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -1266,7 +1376,12 @@
       "weight": 1235,
       "seats": 5,
       "price": "~$29,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec",
+      "cargo": 393,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|HR-V|2020|RS": {
       "engine": "1.5L i-VTEC",
@@ -1285,7 +1400,12 @@
       "weight": 1235,
       "seats": 5,
       "price": "~$30,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec",
+      "cargo": 393,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|HR-V|2021|VTi-L": {
       "engine": "1.5L i-VTEC",
@@ -1304,7 +1424,12 @@
       "weight": 1235,
       "seats": 5,
       "price": "~$30,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec",
+      "cargo": 393,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|HR-V|2021|RS": {
       "engine": "1.5L i-VTEC",
@@ -1323,7 +1448,12 @@
       "weight": 1235,
       "seats": 5,
       "price": "~$31,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec",
+      "cargo": 393,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|Odyssey|2014|VTi-L": {
       "engine": "2.4L i-VTEC",
@@ -1343,7 +1473,8 @@
       "seats": 8,
       "cargo": 695,
       "price": "~$47,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec"
     },
     "Honda|Odyssey|2014|VTi-LX": {
       "engine": "2.4L i-VTEC",
@@ -1363,7 +1494,8 @@
       "seats": 8,
       "cargo": 695,
       "price": "~$54,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec"
     },
     "Honda|Odyssey|2015|VTi-L": {
       "engine": "2.4L i-VTEC",
@@ -1383,7 +1515,8 @@
       "seats": 8,
       "cargo": 695,
       "price": "~$48,790",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec"
     },
     "Honda|Odyssey|2015|VTi-LX": {
       "engine": "2.4L i-VTEC",
@@ -1403,7 +1536,8 @@
       "seats": 8,
       "cargo": 695,
       "price": "~$55,790",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec"
     },
     "Honda|Odyssey|2016|VTi-L": {
       "engine": "2.4L i-VTEC",
@@ -1423,7 +1557,8 @@
       "seats": 8,
       "cargo": 695,
       "price": "~$49,590",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec"
     },
     "Honda|Odyssey|2016|VTi-LX": {
       "engine": "2.4L i-VTEC",
@@ -1443,7 +1578,8 @@
       "seats": 8,
       "cargo": 695,
       "price": "~$56,590",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec"
     },
     "Honda|Odyssey|2017|VTi-L": {
       "engine": "2.4L i-VTEC",
@@ -1463,7 +1599,8 @@
       "seats": 8,
       "cargo": 695,
       "price": "~$50,390",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec"
     },
     "Honda|Odyssey|2017|VTi-LX": {
       "engine": "2.4L i-VTEC",
@@ -1483,7 +1620,8 @@
       "seats": 8,
       "cargo": 695,
       "price": "~$57,390",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec"
     },
     "Honda|Odyssey|2018|VTi-L": {
       "engine": "2.4L i-VTEC",
@@ -1503,7 +1641,8 @@
       "seats": 8,
       "cargo": 695,
       "price": "~$51,190",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec"
     },
     "Honda|Odyssey|2018|VTi-LX": {
       "engine": "2.4L i-VTEC",
@@ -1523,7 +1662,8 @@
       "seats": 8,
       "cargo": 695,
       "price": "~$58,190",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec"
     },
     "Honda|Odyssey|2019|VTi-L": {
       "engine": "2.4L i-VTEC",
@@ -1543,7 +1683,8 @@
       "seats": 8,
       "cargo": 695,
       "price": "~$51,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec"
     },
     "Honda|Odyssey|2019|VTi-LX": {
       "engine": "2.4L i-VTEC",
@@ -1563,7 +1704,8 @@
       "seats": 8,
       "cargo": 695,
       "price": "~$58,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec"
     },
     "Honda|Odyssey|2020|VTi-L": {
       "engine": "2.4L i-VTEC",
@@ -1583,7 +1725,8 @@
       "seats": 8,
       "cargo": 695,
       "price": "~$52,790",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec"
     },
     "Honda|Odyssey|2020|VTi-LX": {
       "engine": "2.4L i-VTEC",
@@ -1603,7 +1746,8 @@
       "seats": 8,
       "cargo": 695,
       "price": "~$59,790",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec"
     },
     "Honda|Odyssey|2021|VTi-L": {
       "engine": "2.4L i-VTEC",
@@ -1623,7 +1767,8 @@
       "seats": 8,
       "cargo": 695,
       "price": "~$53,590",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec"
     },
     "Honda|Odyssey|2021|VTi-LX": {
       "engine": "2.4L i-VTEC",
@@ -1643,7 +1788,8 @@
       "seats": 8,
       "cargo": 695,
       "price": "~$60,590",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec"
     },
     "Honda|Civic|2022|VTi-S": {
       "engine": "1.5L VTEC Turbo",
@@ -1700,7 +1846,8 @@
       "weight": 1235,
       "seats": 5,
       "price": "~$35,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.1 sec"
     },
     "Honda|Civic|2023|RS": {
       "engine": "1.5L VTEC Turbo",
@@ -1719,7 +1866,8 @@
       "weight": 1235,
       "seats": 5,
       "price": "~$38,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.1 sec"
     },
     "Honda|Accord|2018|VTi": {
       "engine": "1.5L VTEC Turbo",
@@ -1738,7 +1886,8 @@
       "weight": 1445,
       "seats": 5,
       "price": "~$35,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "Honda|Accord|2018|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -1757,7 +1906,8 @@
       "weight": 1445,
       "seats": 5,
       "price": "~$39,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "Honda|Accord|2019|VTi": {
       "engine": "1.5L VTEC Turbo",
@@ -1776,7 +1926,8 @@
       "weight": 1445,
       "seats": 5,
       "price": "~$36,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "Honda|Accord|2019|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -1795,7 +1946,8 @@
       "weight": 1445,
       "seats": 5,
       "price": "~$40,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "Honda|Accord|2020|VTi": {
       "engine": "1.5L VTEC Turbo",
@@ -1814,7 +1966,8 @@
       "weight": 1445,
       "seats": 5,
       "price": "~$37,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "Honda|Accord|2020|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -1833,7 +1986,8 @@
       "weight": 1445,
       "seats": 5,
       "price": "~$41,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "Honda|Accord|2021|VTi": {
       "engine": "1.5L VTEC Turbo",
@@ -1852,7 +2006,8 @@
       "weight": 1445,
       "seats": 5,
       "price": "~$38,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "Honda|Accord|2021|VTi-L": {
       "engine": "1.5L VTEC Turbo",
@@ -1871,7 +2026,8 @@
       "weight": 1445,
       "seats": 5,
       "price": "~$42,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "Honda|Accord|2022|e:HEV Sport": {
       "engine": "2.0L e:HEV",
@@ -1909,7 +2065,12 @@
       "weight": 1590,
       "seats": 5,
       "price": "~$51,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.9 sec",
+      "cargo": 519,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|Accord|2024|e:HEV Sport": {
       "engine": "2.0L e:HEV",
@@ -1928,7 +2089,12 @@
       "weight": 1590,
       "seats": 5,
       "price": "~$52,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.9 sec",
+      "cargo": 519,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|Accord|2025|e:HEV Sport": {
       "engine": "2.0L e:HEV",
@@ -1947,7 +2113,12 @@
       "weight": 1590,
       "seats": 5,
       "price": "~$53,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.9 sec",
+      "cargo": 519,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|Accord|2026|e:HEV Sport": {
       "engine": "2.0L e:HEV",
@@ -1966,7 +2137,12 @@
       "weight": 1590,
       "seats": 5,
       "price": "~$54,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.9 sec",
+      "cargo": 519,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

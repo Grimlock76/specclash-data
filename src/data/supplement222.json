@@ -13,13 +13,19 @@
       "weight": 1370,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.1,
+      "fh": 8.4,
+      "fx": 12.1,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 190,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1986|L Coupe": {
       "engine": "C25A1 2.5L V6 SOHC",
@@ -34,13 +40,19 @@
       "weight": 1340,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15,
+      "fh": 8.3,
+      "fx": 12,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 190,
-      "price": "~$21,500"
+      "price": "~$21,500",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1986|LS Sedan": {
       "engine": "C25A1 2.5L V6 SOHC",
@@ -55,13 +67,19 @@
       "weight": 1370,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.1,
+      "fh": 8.4,
+      "fx": 12.1,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 190,
-      "price": "~$22,500"
+      "price": "~$22,500",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1987|L Sedan": {
       "engine": "C25A1 2.5L V6 SOHC",
@@ -76,13 +94,19 @@
       "weight": 1370,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15,
+      "fh": 8.3,
+      "fx": 12,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 190,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1987|L Coupe": {
       "engine": "C25A1 2.5L V6 SOHC",
@@ -97,13 +121,19 @@
       "weight": 1340,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.9,
+      "fh": 8.2,
+      "fx": 11.9,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 190,
-      "price": "~$21,500"
+      "price": "~$21,500",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1987|LS Sedan": {
       "engine": "C25A1 2.5L V6 SOHC",
@@ -118,13 +148,19 @@
       "weight": 1370,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15,
+      "fh": 8.3,
+      "fx": 12,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 190,
-      "price": "~$22,500"
+      "price": "~$22,500",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1988|L Sedan": {
       "engine": "C25A1 2.5L V6 SOHC",
@@ -139,13 +175,19 @@
       "weight": 1370,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.8,
+      "fh": 8.1,
+      "fx": 11.8,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 190,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1988|L Coupe": {
       "engine": "C25A1 2.5L V6 SOHC",
@@ -160,13 +202,19 @@
       "weight": 1340,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.8,
+      "fh": 8.1,
+      "fx": 11.8,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 190,
-      "price": "~$21,500"
+      "price": "~$21,500",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1988|LS Sedan": {
       "engine": "C25A1 2.5L V6 SOHC",
@@ -181,13 +229,19 @@
       "weight": 1370,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.8,
+      "fh": 8.1,
+      "fx": 11.8,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 190,
-      "price": "~$22,500"
+      "price": "~$22,500",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1989|L Sedan": {
       "engine": "C25A1 2.5L V6 SOHC",
@@ -202,13 +256,19 @@
       "weight": 1370,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.6,
+      "fh": 8.2,
+      "fx": 11.7,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 190,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1989|L Coupe": {
       "engine": "C25A1 2.5L V6 SOHC",
@@ -223,13 +283,19 @@
       "weight": 1340,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.5,
+      "fh": 8.1,
+      "fx": 11.6,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 190,
-      "price": "~$21,500"
+      "price": "~$21,500",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1989|LS Sedan": {
       "engine": "C25A1 2.5L V6 SOHC",
@@ -244,13 +310,19 @@
       "weight": 1370,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.6,
+      "fh": 8.2,
+      "fx": 11.7,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 190,
-      "price": "~$22,500"
+      "price": "~$22,500",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1990|L Sedan": {
       "engine": "C25A1 2.5L V6 SOHC",
@@ -265,13 +337,19 @@
       "weight": 1370,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.4,
+      "fh": 8,
+      "fx": 11.5,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 190,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1990|L Coupe": {
       "engine": "C25A1 2.5L V6 SOHC",
@@ -286,13 +364,19 @@
       "weight": 1340,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.4,
+      "fh": 8,
+      "fx": 11.5,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 190,
-      "price": "~$21,500"
+      "price": "~$21,500",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1990|LS Sedan": {
       "engine": "C25A1 2.5L V6 SOHC",
@@ -307,13 +391,19 @@
       "weight": 1370,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.4,
+      "fh": 8,
+      "fx": 11.5,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 190,
-      "price": "~$22,500"
+      "price": "~$22,500",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1991|L Sedan": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -328,13 +418,19 @@
       "weight": 1530,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.3,
+      "fh": 9,
+      "fx": 13,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$26,000"
+      "price": "~$26,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1991|LS Sedan": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -349,13 +445,19 @@
       "weight": 1530,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.3,
+      "fh": 9,
+      "fx": 13,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$30,000"
+      "price": "~$30,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1991|GS Sedan": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -370,13 +472,19 @@
       "weight": 1530,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.4,
+      "fh": 9.1,
+      "fx": 13.1,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1991|L Coupe": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -391,13 +499,19 @@
       "weight": 1500,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.1,
+      "fh": 9,
+      "fx": 12.9,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$28,000"
+      "price": "~$28,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1991|LS Coupe": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -412,13 +526,19 @@
       "weight": 1500,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.1,
+      "fh": 9,
+      "fx": 12.9,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$32,000"
+      "price": "~$32,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1992|L Sedan": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -433,13 +553,19 @@
       "weight": 1530,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16,
+      "fh": 8.9,
+      "fx": 12.8,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$26,000"
+      "price": "~$26,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1992|LS Sedan": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -454,13 +580,19 @@
       "weight": 1530,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16,
+      "fh": 8.9,
+      "fx": 12.8,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$30,000"
+      "price": "~$30,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1992|GS Sedan": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -475,13 +607,19 @@
       "weight": 1530,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.1,
+      "fh": 9,
+      "fx": 12.9,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1992|L Coupe": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -496,13 +634,19 @@
       "weight": 1500,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.9,
+      "fh": 8.8,
+      "fx": 12.7,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$28,000"
+      "price": "~$28,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1992|LS Coupe": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -517,13 +661,19 @@
       "weight": 1500,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.9,
+      "fh": 8.8,
+      "fx": 12.7,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$32,000"
+      "price": "~$32,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1993|L Sedan": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -538,13 +688,19 @@
       "weight": 1530,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.8,
+      "fh": 8.7,
+      "fx": 12.6,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$26,000"
+      "price": "~$26,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1993|LS Sedan": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -559,13 +715,19 @@
       "weight": 1530,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.8,
+      "fh": 8.7,
+      "fx": 12.6,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$30,000"
+      "price": "~$30,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1993|GS Sedan": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -580,13 +742,19 @@
       "weight": 1530,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16,
+      "fh": 8.9,
+      "fx": 12.8,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1993|L Coupe": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -601,13 +769,19 @@
       "weight": 1500,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.8,
+      "fh": 8.7,
+      "fx": 12.6,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$28,000"
+      "price": "~$28,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1993|LS Coupe": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -622,13 +796,19 @@
       "weight": 1500,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.8,
+      "fh": 8.7,
+      "fx": 12.6,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$32,000"
+      "price": "~$32,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1994|L Sedan": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -643,13 +823,19 @@
       "weight": 1530,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.6,
+      "fh": 8.7,
+      "fx": 12.5,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$26,000"
+      "price": "~$26,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1994|LS Sedan": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -664,13 +850,19 @@
       "weight": 1530,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.6,
+      "fh": 8.7,
+      "fx": 12.5,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$30,000"
+      "price": "~$30,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1994|GS Sedan": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -685,13 +877,19 @@
       "weight": 1530,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.8,
+      "fh": 8.7,
+      "fx": 12.6,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1994|L Coupe": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -706,13 +904,19 @@
       "weight": 1500,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.5,
+      "fh": 8.6,
+      "fx": 12.4,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$28,000"
+      "price": "~$28,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1994|LS Coupe": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -727,13 +931,19 @@
       "weight": 1500,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.5,
+      "fh": 8.6,
+      "fx": 12.4,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$32,000"
+      "price": "~$32,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1995|L Sedan": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -748,13 +958,19 @@
       "weight": 1530,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.4,
+      "fh": 8.5,
+      "fx": 12.3,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$26,000"
+      "price": "~$26,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1995|LS Sedan": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -769,13 +985,19 @@
       "weight": 1530,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.4,
+      "fh": 8.5,
+      "fx": 12.3,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$30,000"
+      "price": "~$30,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1995|GS Sedan": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -790,13 +1012,19 @@
       "weight": 1530,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.5,
+      "fh": 8.6,
+      "fx": 12.4,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1995|L Coupe": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -811,13 +1039,19 @@
       "weight": 1500,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.4,
+      "fh": 8.5,
+      "fx": 12.3,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$28,000"
+      "price": "~$28,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Legend|1995|LS Coupe": {
       "engine": "C32A3 3.2L V6 SOHC VTEC",
@@ -832,13 +1066,19 @@
       "weight": 1500,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.4,
+      "fh": 8.5,
+      "fx": 12.3,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 220,
-      "price": "~$32,000"
+      "price": "~$32,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1986|RS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -853,13 +1093,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.1,
+      "fh": 6.8,
+      "fx": 9.7,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$11,000"
+      "price": "~$11,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1986|LS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -874,13 +1120,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.1,
+      "fh": 6.8,
+      "fx": 9.7,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$13,000"
+      "price": "~$13,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1986|GS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -895,13 +1147,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.9,
+      "fh": 7.1,
+      "fx": 10.3,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1987|RS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -916,13 +1174,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12,
+      "fh": 6.7,
+      "fx": 9.6,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$11,000"
+      "price": "~$11,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1987|LS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -937,13 +1201,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12,
+      "fh": 6.7,
+      "fx": 9.6,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$13,000"
+      "price": "~$13,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1987|GS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -958,13 +1228,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.8,
+      "fh": 7,
+      "fx": 10.2,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1988|RS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -979,13 +1255,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.9,
+      "fh": 6.6,
+      "fx": 9.5,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$11,000"
+      "price": "~$11,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1988|LS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -1000,13 +1282,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.9,
+      "fh": 6.6,
+      "fx": 9.5,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$13,000"
+      "price": "~$13,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1988|GS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -1021,13 +1309,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.6,
+      "fh": 7,
+      "fx": 10.1,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1989|RS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -1042,13 +1336,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.8,
+      "fh": 6.5,
+      "fx": 9.4,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$11,000"
+      "price": "~$11,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1989|LS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -1063,13 +1363,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.8,
+      "fh": 6.5,
+      "fx": 9.4,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$13,000"
+      "price": "~$13,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1989|GS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -1084,13 +1390,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.5,
+      "fh": 6.9,
+      "fx": 10,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1990|RS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -1105,13 +1417,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.6,
+      "fh": 6.5,
+      "fx": 9.3,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$11,000"
+      "price": "~$11,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1990|LS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -1126,13 +1444,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.6,
+      "fh": 6.5,
+      "fx": 9.3,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$13,000"
+      "price": "~$13,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1990|GS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -1147,13 +1471,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.3,
+      "fh": 6.7,
+      "fx": 9.8,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1991|RS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -1168,13 +1498,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.5,
+      "fh": 6.4,
+      "fx": 9.2,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$11,000"
+      "price": "~$11,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1991|LS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -1189,13 +1525,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.5,
+      "fh": 6.4,
+      "fx": 9.2,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$13,000"
+      "price": "~$13,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1991|GS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -1210,13 +1552,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.1,
+      "fh": 6.8,
+      "fx": 9.7,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1992|RS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -1231,13 +1579,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.4,
+      "fh": 6.3,
+      "fx": 9.1,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$11,000"
+      "price": "~$11,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1992|LS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -1252,13 +1606,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.4,
+      "fh": 6.3,
+      "fx": 9.1,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$13,000"
+      "price": "~$13,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1992|GS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -1273,13 +1633,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12,
+      "fh": 6.7,
+      "fx": 9.6,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1993|RS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -1294,13 +1660,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.1,
+      "fh": 6.2,
+      "fx": 8.9,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$11,000"
+      "price": "~$11,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1993|LS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -1315,13 +1687,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.1,
+      "fh": 6.2,
+      "fx": 8.9,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$13,000"
+      "price": "~$13,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1993|GS": {
       "engine": "ZC 1.6L DOHC I4",
@@ -1336,13 +1714,19 @@
       "weight": 990,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.9,
+      "fh": 6.6,
+      "fx": 9.5,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 185,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1994|RS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1357,13 +1741,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12,
+      "fh": 6.7,
+      "fx": 9.6,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1994|LS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1378,13 +1768,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12,
+      "fh": 6.7,
+      "fx": 9.6,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1994|GS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1399,13 +1795,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12,
+      "fh": 6.7,
+      "fx": 9.6,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$19,000"
+      "price": "~$19,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1994|GS-R": {
       "engine": "B18C1 1.8L DOHC VTEC I4",
@@ -1420,13 +1822,19 @@
       "weight": 1080,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.5,
+      "fh": 7.5,
+      "fx": 10.8,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 210,
-      "price": "~$22,000"
+      "price": "~$22,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1995|RS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1441,13 +1849,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.9,
+      "fh": 6.6,
+      "fx": 9.5,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1995|LS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1462,13 +1876,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.9,
+      "fh": 6.6,
+      "fx": 9.5,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1995|GS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1483,13 +1903,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.9,
+      "fh": 6.6,
+      "fx": 9.5,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$19,000"
+      "price": "~$19,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1995|GS-R": {
       "engine": "B18C1 1.8L DOHC VTEC I4",
@@ -1504,13 +1930,19 @@
       "weight": 1080,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.3,
+      "fh": 7.3,
+      "fx": 10.6,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 210,
-      "price": "~$22,000"
+      "price": "~$22,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1996|RS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1525,13 +1957,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.8,
+      "fh": 6.5,
+      "fx": 9.4,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1996|LS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1546,13 +1984,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.8,
+      "fh": 6.5,
+      "fx": 9.4,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1996|GS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1567,13 +2011,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.8,
+      "fh": 6.5,
+      "fx": 9.4,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$19,000"
+      "price": "~$19,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1996|GS-R": {
       "engine": "B18C1 1.8L DOHC VTEC I4",
@@ -1588,13 +2038,19 @@
       "weight": 1080,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.1,
+      "fh": 7.3,
+      "fx": 10.5,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 210,
-      "price": "~$22,000"
+      "price": "~$22,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1997|RS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1609,13 +2065,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.6,
+      "fh": 6.5,
+      "fx": 9.3,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1997|LS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1630,13 +2092,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.6,
+      "fh": 6.5,
+      "fx": 9.3,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1997|GS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1651,13 +2119,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.6,
+      "fh": 6.5,
+      "fx": 9.3,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$19,000"
+      "price": "~$19,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1997|GS-R": {
       "engine": "B18C1 1.8L DOHC VTEC I4",
@@ -1672,13 +2146,19 @@
       "weight": 1080,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13,
+      "fh": 7.2,
+      "fx": 10.4,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 210,
-      "price": "~$22,000"
+      "price": "~$22,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1997|Type R": {
       "engine": "B18C5 1.8L DOHC i-VTEC I4",
@@ -1693,13 +2173,19 @@
       "weight": 1070,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.4,
+      "fh": 7.4,
+      "fx": 10.7,
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 225,
-      "price": "~$25,000"
+      "price": "~$25,000",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1998|RS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1714,13 +2200,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.5,
+      "fh": 6.4,
+      "fx": 9.2,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1998|LS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1735,13 +2227,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.5,
+      "fh": 6.4,
+      "fx": 9.2,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1998|GS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1756,13 +2254,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.5,
+      "fh": 6.4,
+      "fx": 9.2,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$19,000"
+      "price": "~$19,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1998|GS-R": {
       "engine": "B18C1 1.8L DOHC VTEC I4",
@@ -1777,13 +2281,19 @@
       "weight": 1080,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.9,
+      "fh": 7.1,
+      "fx": 10.3,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 210,
-      "price": "~$22,000"
+      "price": "~$22,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1998|Type R": {
       "engine": "B18C5 1.8L DOHC i-VTEC I4",
@@ -1798,13 +2308,19 @@
       "weight": 1070,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.3,
+      "fh": 7.3,
+      "fx": 10.6,
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 225,
-      "price": "~$25,000"
+      "price": "~$25,000",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1999|RS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1819,13 +2335,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.3,
+      "fh": 6.2,
+      "fx": 9,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1999|LS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1840,13 +2362,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.3,
+      "fh": 6.2,
+      "fx": 9,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1999|GS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1861,13 +2389,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.3,
+      "fh": 6.2,
+      "fx": 9,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$19,000"
+      "price": "~$19,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1999|GS-R": {
       "engine": "B18C1 1.8L DOHC VTEC I4",
@@ -1882,13 +2416,19 @@
       "weight": 1080,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.6,
+      "fh": 7,
+      "fx": 10.1,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 210,
-      "price": "~$22,000"
+      "price": "~$22,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|1999|Type R": {
       "engine": "B18C5 1.8L DOHC i-VTEC I4",
@@ -1903,13 +2443,19 @@
       "weight": 1070,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.1,
+      "fh": 7.3,
+      "fx": 10.5,
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 225,
-      "price": "~$25,000"
+      "price": "~$25,000",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|2000|RS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1924,13 +2470,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.1,
+      "fh": 6.2,
+      "fx": 8.9,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|2000|LS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1945,13 +2497,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.1,
+      "fh": 6.2,
+      "fx": 8.9,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|2000|GS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -1966,13 +2524,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.1,
+      "fh": 6.2,
+      "fx": 8.9,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$19,000"
+      "price": "~$19,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|2000|GS-R": {
       "engine": "B18C1 1.8L DOHC VTEC I4",
@@ -1987,13 +2551,19 @@
       "weight": 1080,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.5,
+      "fh": 6.9,
+      "fx": 10,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 210,
-      "price": "~$22,000"
+      "price": "~$22,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|2000|Type R": {
       "engine": "B18C5 1.8L DOHC i-VTEC I4",
@@ -2008,13 +2578,19 @@
       "weight": 1070,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13,
+      "fh": 7.2,
+      "fx": 10.4,
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 225,
-      "price": "~$25,000"
+      "price": "~$25,000",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|2001|RS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -2029,13 +2605,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11,
+      "fh": 6.1,
+      "fx": 8.8,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|2001|LS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -2050,13 +2632,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11,
+      "fh": 6.1,
+      "fx": 8.8,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|2001|GS": {
       "engine": "B18B1 1.8L SOHC I4",
@@ -2071,13 +2659,19 @@
       "weight": 1050,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11,
+      "fh": 6.1,
+      "fx": 8.8,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$19,000"
+      "price": "~$19,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|2001|GS-R": {
       "engine": "B18C1 1.8L DOHC VTEC I4",
@@ -2092,13 +2686,19 @@
       "weight": 1080,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.4,
+      "fh": 6.8,
+      "fx": 9.9,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 210,
-      "price": "~$22,000"
+      "price": "~$22,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|Integra|2001|Type R": {
       "engine": "B18C5 1.8L DOHC i-VTEC I4",
@@ -2113,13 +2713,19 @@
       "weight": 1070,
       "seats": 5,
       "cargo": 200,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.8,
+      "fh": 7,
+      "fx": 10.2,
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 225,
-      "price": "~$25,000"
+      "price": "~$25,000",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|RSX|2002|Base": {
       "engine": "K20A3 2.0L DOHC i-VTEC I4",
@@ -2134,13 +2740,19 @@
       "weight": 1260,
       "seats": 4,
       "cargo": 286,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.1,
+      "fh": 6.8,
+      "fx": 9.7,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 200,
-      "price": "~$22,000"
+      "price": "~$22,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|RSX|2002|Type-S": {
       "engine": "K20Z1 2.0L DOHC i-VTEC I4",
@@ -2155,13 +2767,19 @@
       "weight": 1285,
       "seats": 4,
       "cargo": 286,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.5,
+      "fh": 7.5,
+      "fx": 10.8,
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 230,
-      "price": "~$27,000"
+      "price": "~$27,000",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|RSX|2003|Base": {
       "engine": "K20A3 2.0L DOHC i-VTEC I4",
@@ -2176,13 +2794,19 @@
       "weight": 1260,
       "seats": 4,
       "cargo": 286,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12,
+      "fh": 6.7,
+      "fx": 9.6,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 200,
-      "price": "~$22,000"
+      "price": "~$22,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|RSX|2003|Type-S": {
       "engine": "K20Z1 2.0L DOHC i-VTEC I4",
@@ -2197,13 +2821,19 @@
       "weight": 1285,
       "seats": 4,
       "cargo": 286,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.3,
+      "fh": 7.3,
+      "fx": 10.6,
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 230,
-      "price": "~$27,000"
+      "price": "~$27,000",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|RSX|2004|Base": {
       "engine": "K20A3 2.0L DOHC i-VTEC I4",
@@ -2218,13 +2848,19 @@
       "weight": 1260,
       "seats": 4,
       "cargo": 286,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.9,
+      "fh": 6.6,
+      "fx": 9.5,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 200,
-      "price": "~$22,000"
+      "price": "~$22,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|RSX|2004|Type-S": {
       "engine": "K20Z1 2.0L DOHC i-VTEC I4",
@@ -2239,13 +2875,19 @@
       "weight": 1285,
       "seats": 4,
       "cargo": 286,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.1,
+      "fh": 7.3,
+      "fx": 10.5,
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 230,
-      "price": "~$27,000"
+      "price": "~$27,000",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|RSX|2005|Base": {
       "engine": "K20A3 2.0L DOHC i-VTEC I4",
@@ -2260,13 +2902,19 @@
       "weight": 1260,
       "seats": 4,
       "cargo": 286,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.8,
+      "fh": 6.5,
+      "fx": 9.4,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 200,
-      "price": "~$22,000"
+      "price": "~$22,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|RSX|2005|Type-S": {
       "engine": "K20Z1 2.0L DOHC i-VTEC I4",
@@ -2281,13 +2929,19 @@
       "weight": 1285,
       "seats": 4,
       "cargo": 286,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13,
+      "fh": 7.2,
+      "fx": 10.4,
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 230,
-      "price": "~$27,000"
+      "price": "~$27,000",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|RSX|2006|Base": {
       "engine": "K20A3 2.0L DOHC i-VTEC I4",
@@ -2302,13 +2956,19 @@
       "weight": 1260,
       "seats": 4,
       "cargo": 286,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.5,
+      "fh": 6.4,
+      "fx": 9.2,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 200,
-      "price": "~$22,000"
+      "price": "~$22,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|RSX|2006|Type-S": {
       "engine": "K20Z1 2.0L DOHC i-VTEC I4",
@@ -2323,13 +2983,19 @@
       "weight": 1285,
       "seats": 4,
       "cargo": 286,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.8,
+      "fh": 7,
+      "fx": 10.2,
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 230,
-      "price": "~$27,000"
+      "price": "~$27,000",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|1991|NSX": {
       "engine": "C30A 3.0L VTEC V6",
@@ -2344,13 +3010,19 @@
       "weight": 1350,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.1,
+      "fh": 9.5,
+      "fx": 13.7,
       "ft": "Petrol",
       "acceleration": 5.7,
       "topSpeed": 270,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|1991|NSX-T": {
       "engine": "C30A 3.0L VTEC V6",
@@ -2365,13 +3037,19 @@
       "weight": 1380,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.3,
+      "fh": 9.5,
+      "fx": 13.8,
       "ft": "Petrol",
       "acceleration": 5.7,
       "topSpeed": 270,
-      "price": "~$67,000"
+      "price": "~$67,000",
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|1992|NSX": {
       "engine": "C30A 3.0L VTEC V6",
@@ -2386,13 +3064,19 @@
       "weight": 1350,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.9,
+      "fh": 9.3,
+      "fx": 13.5,
       "ft": "Petrol",
       "acceleration": 5.7,
       "topSpeed": 270,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|1992|NSX-T": {
       "engine": "C30A 3.0L VTEC V6",
@@ -2407,13 +3091,19 @@
       "weight": 1380,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17,
+      "fh": 9.4,
+      "fx": 13.6,
       "ft": "Petrol",
       "acceleration": 5.7,
       "topSpeed": 270,
-      "price": "~$67,000"
+      "price": "~$67,000",
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|1993|NSX": {
       "engine": "C30A 3.0L VTEC V6",
@@ -2428,13 +3118,19 @@
       "weight": 1350,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.8,
+      "fh": 9.2,
+      "fx": 13.4,
       "ft": "Petrol",
       "acceleration": 5.7,
       "topSpeed": 270,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|1993|NSX-T": {
       "engine": "C30A 3.0L VTEC V6",
@@ -2449,13 +3145,19 @@
       "weight": 1380,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.8,
+      "fh": 9.2,
+      "fx": 13.4,
       "ft": "Petrol",
       "acceleration": 5.7,
       "topSpeed": 270,
-      "price": "~$67,000"
+      "price": "~$67,000",
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|1994|NSX": {
       "engine": "C30A 3.0L VTEC V6",
@@ -2470,13 +3172,19 @@
       "weight": 1350,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.5,
+      "fh": 9.2,
+      "fx": 13.2,
       "ft": "Petrol",
       "acceleration": 5.7,
       "topSpeed": 270,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|1994|NSX-T": {
       "engine": "C30A 3.0L VTEC V6",
@@ -2491,13 +3199,19 @@
       "weight": 1380,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.6,
+      "fh": 9.3,
+      "fx": 13.3,
       "ft": "Petrol",
       "acceleration": 5.7,
       "topSpeed": 270,
-      "price": "~$67,000"
+      "price": "~$67,000",
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|1995|NSX": {
       "engine": "C30A 3.0L VTEC V6",
@@ -2512,13 +3226,19 @@
       "weight": 1350,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.4,
+      "fh": 9.1,
+      "fx": 13.1,
       "ft": "Petrol",
       "acceleration": 5.7,
       "topSpeed": 270,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|1995|NSX-T": {
       "engine": "C30A 3.0L VTEC V6",
@@ -2533,13 +3253,19 @@
       "weight": 1380,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.4,
+      "fh": 9.1,
+      "fx": 13.1,
       "ft": "Petrol",
       "acceleration": 5.7,
       "topSpeed": 270,
-      "price": "~$67,000"
+      "price": "~$67,000",
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|1996|NSX": {
       "engine": "C30A 3.0L VTEC V6",
@@ -2554,13 +3280,19 @@
       "weight": 1350,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.1,
+      "fh": 9,
+      "fx": 12.9,
       "ft": "Petrol",
       "acceleration": 5.7,
       "topSpeed": 270,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|1996|NSX-T": {
       "engine": "C30A 3.0L VTEC V6",
@@ -2575,13 +3307,19 @@
       "weight": 1380,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.3,
+      "fh": 9,
+      "fx": 13,
       "ft": "Petrol",
       "acceleration": 5.7,
       "topSpeed": 270,
-      "price": "~$67,000"
+      "price": "~$67,000",
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|1997|NSX": {
       "engine": "C32B 3.2L VTEC V6",
@@ -2596,13 +3334,19 @@
       "weight": 1355,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16,
+      "fh": 8.9,
+      "fx": 12.8,
       "ft": "Petrol",
       "acceleration": 5.5,
       "topSpeed": 274,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|1997|NSX-T": {
       "engine": "C32B 3.2L VTEC V6",
@@ -2617,13 +3361,19 @@
       "weight": 1380,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.1,
+      "fh": 9,
+      "fx": 12.9,
       "ft": "Petrol",
       "acceleration": 5.5,
       "topSpeed": 274,
-      "price": "~$92,000"
+      "price": "~$92,000",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|1998|NSX": {
       "engine": "C32B 3.2L VTEC V6",
@@ -2638,13 +3388,19 @@
       "weight": 1355,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.9,
+      "fh": 8.8,
+      "fx": 12.7,
       "ft": "Petrol",
       "acceleration": 5.5,
       "topSpeed": 274,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|1998|NSX-T": {
       "engine": "C32B 3.2L VTEC V6",
@@ -2659,13 +3415,19 @@
       "weight": 1380,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.9,
+      "fh": 8.8,
+      "fx": 12.7,
       "ft": "Petrol",
       "acceleration": 5.5,
       "topSpeed": 274,
-      "price": "~$92,000"
+      "price": "~$92,000",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|1999|NSX": {
       "engine": "C32B 3.2L VTEC V6",
@@ -2680,13 +3442,19 @@
       "weight": 1355,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.6,
+      "fh": 8.7,
+      "fx": 12.5,
       "ft": "Petrol",
       "acceleration": 5.5,
       "topSpeed": 274,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|1999|NSX-T": {
       "engine": "C32B 3.2L VTEC V6",
@@ -2701,13 +3469,19 @@
       "weight": 1380,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.8,
+      "fh": 8.7,
+      "fx": 12.6,
       "ft": "Petrol",
       "acceleration": 5.5,
       "topSpeed": 274,
-      "price": "~$92,000"
+      "price": "~$92,000",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2000|NSX": {
       "engine": "C32B 3.2L VTEC V6",
@@ -2722,13 +3496,19 @@
       "weight": 1355,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.5,
+      "fh": 8.6,
+      "fx": 12.4,
       "ft": "Petrol",
       "acceleration": 5.5,
       "topSpeed": 274,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2000|NSX-T": {
       "engine": "C32B 3.2L VTEC V6",
@@ -2743,13 +3523,19 @@
       "weight": 1380,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.5,
+      "fh": 8.6,
+      "fx": 12.4,
       "ft": "Petrol",
       "acceleration": 5.5,
       "topSpeed": 274,
-      "price": "~$92,000"
+      "price": "~$92,000",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2001|NSX": {
       "engine": "C32B 3.2L VTEC V6",
@@ -2764,13 +3550,19 @@
       "weight": 1355,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.3,
+      "fh": 8.4,
+      "fx": 12.2,
       "ft": "Petrol",
       "acceleration": 5.5,
       "topSpeed": 274,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2001|NSX-T": {
       "engine": "C32B 3.2L VTEC V6",
@@ -2785,13 +3577,19 @@
       "weight": 1380,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.4,
+      "fh": 8.5,
+      "fx": 12.3,
       "ft": "Petrol",
       "acceleration": 5.5,
       "topSpeed": 274,
-      "price": "~$92,000"
+      "price": "~$92,000",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2002|NSX": {
       "engine": "C32B 3.2L VTEC V6",
@@ -2806,13 +3604,19 @@
       "weight": 1355,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.1,
+      "fh": 8.4,
+      "fx": 12.1,
       "ft": "Petrol",
       "acceleration": 5.5,
       "topSpeed": 274,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2002|NSX-T": {
       "engine": "C32B 3.2L VTEC V6",
@@ -2827,13 +3631,19 @@
       "weight": 1380,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.1,
+      "fh": 8.4,
+      "fx": 12.1,
       "ft": "Petrol",
       "acceleration": 5.5,
       "topSpeed": 274,
-      "price": "~$92,000"
+      "price": "~$92,000",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2002|NSX-R": {
       "engine": "C32B 3.2L VTEC V6",
@@ -2848,13 +3658,19 @@
       "weight": 1270,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.9,
+      "fh": 8.2,
+      "fx": 11.9,
       "ft": "Petrol",
       "acceleration": 4.9,
       "topSpeed": 280,
-      "price": "~$120,000"
+      "price": "~$120,000",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2003|NSX": {
       "engine": "C32B 3.2L VTEC V6",
@@ -2869,13 +3685,19 @@
       "weight": 1355,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.9,
+      "fh": 8.2,
+      "fx": 11.9,
       "ft": "Petrol",
       "acceleration": 5.5,
       "topSpeed": 274,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2003|NSX-T": {
       "engine": "C32B 3.2L VTEC V6",
@@ -2890,13 +3712,19 @@
       "weight": 1380,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15,
+      "fh": 8.3,
+      "fx": 12,
       "ft": "Petrol",
       "acceleration": 5.5,
       "topSpeed": 274,
-      "price": "~$92,000"
+      "price": "~$92,000",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2003|NSX-R": {
       "engine": "C32B 3.2L VTEC V6",
@@ -2911,13 +3739,19 @@
       "weight": 1270,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.6,
+      "fh": 8.2,
+      "fx": 11.7,
       "ft": "Petrol",
       "acceleration": 4.9,
       "topSpeed": 280,
-      "price": "~$120,000"
+      "price": "~$120,000",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2004|NSX": {
       "engine": "C32B 3.2L VTEC V6",
@@ -2932,13 +3766,19 @@
       "weight": 1355,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.8,
+      "fh": 8.1,
+      "fx": 11.8,
       "ft": "Petrol",
       "acceleration": 5.5,
       "topSpeed": 274,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2004|NSX-T": {
       "engine": "C32B 3.2L VTEC V6",
@@ -2953,13 +3793,19 @@
       "weight": 1380,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.8,
+      "fh": 8.1,
+      "fx": 11.8,
       "ft": "Petrol",
       "acceleration": 5.5,
       "topSpeed": 274,
-      "price": "~$92,000"
+      "price": "~$92,000",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2004|NSX-R": {
       "engine": "C32B 3.2L VTEC V6",
@@ -2974,13 +3820,19 @@
       "weight": 1270,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.5,
+      "fh": 8.1,
+      "fx": 11.6,
       "ft": "Petrol",
       "acceleration": 4.9,
       "topSpeed": 280,
-      "price": "~$120,000"
+      "price": "~$120,000",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2005|NSX": {
       "engine": "C32B 3.2L VTEC V6",
@@ -2995,13 +3847,19 @@
       "weight": 1355,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.5,
+      "fh": 8.1,
+      "fx": 11.6,
       "ft": "Petrol",
       "acceleration": 5.5,
       "topSpeed": 274,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2005|NSX-T": {
       "engine": "C32B 3.2L VTEC V6",
@@ -3016,13 +3874,19 @@
       "weight": 1380,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.6,
+      "fh": 8.2,
+      "fx": 11.7,
       "ft": "Petrol",
       "acceleration": 5.5,
       "topSpeed": 274,
-      "price": "~$92,000"
+      "price": "~$92,000",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2005|NSX-R": {
       "engine": "C32B 3.2L VTEC V6",
@@ -3037,13 +3901,19 @@
       "weight": 1270,
       "seats": 2,
       "cargo": 150,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.4,
+      "fh": 8,
+      "fx": 11.5,
       "ft": "Petrol",
       "acceleration": 4.9,
       "topSpeed": 280,
-      "price": "~$120,000"
+      "price": "~$120,000",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2017|NSX": {
       "engine": "3.5L V6 Twin-Turbo + 3 Electric Motors",
@@ -3058,13 +3928,19 @@
       "weight": 1725,
       "seats": 2,
       "cargo": 110,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 5.9,
+      "fh": 4.3,
+      "fx": 5.2,
       "ft": "Petrol Hybrid",
       "acceleration": 3.1,
       "topSpeed": 307,
-      "price": "~$200,000"
+      "price": "~$200,000",
+      "quarterMile": "~11.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2018|NSX": {
       "engine": "3.5L V6 Twin-Turbo + 3 Electric Motors",
@@ -3079,13 +3955,19 @@
       "weight": 1725,
       "seats": 2,
       "cargo": 110,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 5.8,
+      "fh": 4.2,
+      "fx": 5.1,
       "ft": "Petrol Hybrid",
       "acceleration": 3.1,
       "topSpeed": 307,
-      "price": "~$200,000"
+      "price": "~$200,000",
+      "quarterMile": "~11.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2019|NSX": {
       "engine": "3.5L V6 Twin-Turbo + 3 Electric Motors",
@@ -3100,13 +3982,19 @@
       "weight": 1725,
       "seats": 2,
       "cargo": 110,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 5.8,
+      "fh": 4.2,
+      "fx": 5.1,
       "ft": "Petrol Hybrid",
       "acceleration": 3.1,
       "topSpeed": 307,
-      "price": "~$200,000"
+      "price": "~$200,000",
+      "quarterMile": "~11.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2020|NSX": {
       "engine": "3.5L V6 Twin-Turbo + 3 Electric Motors",
@@ -3121,13 +4009,19 @@
       "weight": 1725,
       "seats": 2,
       "cargo": 110,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 5.8,
+      "fh": 4.2,
+      "fx": 5.1,
       "ft": "Petrol Hybrid",
       "acceleration": 3.1,
       "topSpeed": 307,
-      "price": "~$200,000"
+      "price": "~$200,000",
+      "quarterMile": "~11.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2021|NSX": {
       "engine": "3.5L V6 Twin-Turbo + 3 Electric Motors",
@@ -3142,13 +4036,19 @@
       "weight": 1725,
       "seats": 2,
       "cargo": 110,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 5.7,
+      "fh": 4.1,
+      "fx": 5,
       "ft": "Petrol Hybrid",
       "acceleration": 3.1,
       "topSpeed": 307,
-      "price": "~$200,000"
+      "price": "~$200,000",
+      "quarterMile": "~11.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2022|NSX": {
       "engine": "3.5L V6 Twin-Turbo + 3 Electric Motors",
@@ -3163,13 +4063,19 @@
       "weight": 1725,
       "seats": 2,
       "cargo": 110,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 5.7,
+      "fh": 4.1,
+      "fx": 5,
       "ft": "Petrol Hybrid",
       "acceleration": 3.1,
       "topSpeed": 307,
-      "price": "~$200,000"
+      "price": "~$200,000",
+      "quarterMile": "~11.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|NSX|2022|Type S": {
       "engine": "3.5L V6 Twin-Turbo + 3 Electric Motors",
@@ -3184,13 +4090,19 @@
       "weight": 1727,
       "seats": 2,
       "cargo": 110,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 5.7,
+      "fh": 4.1,
+      "fx": 5,
       "ft": "Petrol Hybrid",
       "acceleration": 2.9,
       "topSpeed": 307,
-      "price": "~$240,000"
+      "price": "~$240,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|1996|2.5": {
       "engine": "G25A4 2.5L I5 SOHC",
@@ -3205,13 +4117,19 @@
       "weight": 1520,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14,
+      "fh": 7.8,
+      "fx": 11.2,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 210,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|1996|3.2": {
       "engine": "C32A6 3.2L V6 SOHC VTEC",
@@ -3226,13 +4144,19 @@
       "weight": 1520,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.5,
+      "fh": 8.6,
+      "fx": 12.4,
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 210,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~15.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|1997|2.5": {
       "engine": "G25A4 2.5L I5 SOHC",
@@ -3247,13 +4171,19 @@
       "weight": 1520,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.9,
+      "fh": 7.7,
+      "fx": 11.1,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 210,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|1997|3.2": {
       "engine": "C32A6 3.2L V6 SOHC VTEC",
@@ -3268,13 +4198,19 @@
       "weight": 1520,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.4,
+      "fh": 8.5,
+      "fx": 12.3,
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 210,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~15.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|1998|2.5": {
       "engine": "G25A4 2.5L I5 SOHC",
@@ -3289,13 +4225,19 @@
       "weight": 1520,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.6,
+      "fh": 7.6,
+      "fx": 10.9,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 210,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|1998|3.2": {
       "engine": "C32A6 3.2L V6 SOHC VTEC",
@@ -3310,13 +4252,19 @@
       "weight": 1520,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.1,
+      "fh": 8.4,
+      "fx": 12.1,
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 210,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~15.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|1999|3.2": {
       "engine": "J32A1 3.2L V6 SOHC VTEC",
@@ -3331,13 +4279,19 @@
       "weight": 1573,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.4,
+      "fh": 8.5,
+      "fx": 12.3,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 215,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|1999|3.2 S": {
       "engine": "J32A1 3.2L V6 SOHC VTEC",
@@ -3352,13 +4306,19 @@
       "weight": 1573,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.6,
+      "fh": 8.7,
+      "fx": 12.5,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 215,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|2000|3.2": {
       "engine": "J32A1 3.2L V6 SOHC VTEC",
@@ -3373,13 +4333,19 @@
       "weight": 1573,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.1,
+      "fh": 8.4,
+      "fx": 12.1,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 215,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|2000|3.2 S": {
       "engine": "J32A1 3.2L V6 SOHC VTEC",
@@ -3394,13 +4360,19 @@
       "weight": 1573,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.4,
+      "fh": 8.5,
+      "fx": 12.3,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 215,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|2001|3.2": {
       "engine": "J32A1 3.2L V6 SOHC VTEC",
@@ -3415,13 +4387,19 @@
       "weight": 1573,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15,
+      "fh": 8.3,
+      "fx": 12,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 215,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|2001|3.2 S": {
       "engine": "J32A1 3.2L V6 SOHC VTEC",
@@ -3436,13 +4414,19 @@
       "weight": 1573,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.3,
+      "fh": 8.4,
+      "fx": 12.2,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 215,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|2002|3.2": {
       "engine": "J32A1 3.2L V6 SOHC VTEC",
@@ -3457,13 +4441,19 @@
       "weight": 1573,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.8,
+      "fh": 8.1,
+      "fx": 11.8,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 215,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|2002|3.2 S": {
       "engine": "J32A1 3.2L V6 SOHC VTEC",
@@ -3478,13 +4468,19 @@
       "weight": 1573,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15,
+      "fh": 8.3,
+      "fx": 12,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 215,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|2003|3.2": {
       "engine": "J32A1 3.2L V6 SOHC VTEC",
@@ -3499,13 +4495,19 @@
       "weight": 1573,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.6,
+      "fh": 8.2,
+      "fx": 11.7,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 215,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|2003|3.2 S": {
       "engine": "J32A1 3.2L V6 SOHC VTEC",
@@ -3520,13 +4522,19 @@
       "weight": 1573,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.9,
+      "fh": 8.2,
+      "fx": 11.9,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 215,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|2004|TL": {
       "engine": "J32A3 3.2L V6 SOHC VTEC",
@@ -3541,13 +4549,19 @@
       "weight": 1625,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.9,
+      "fh": 8.2,
+      "fx": 11.9,
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 218,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|2004|TL-S": {
       "engine": "J32A3 3.2L V6 SOHC VTEC",
@@ -3562,13 +4576,19 @@
       "weight": 1625,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.4,
+      "fh": 8.5,
+      "fx": 12.3,
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 218,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|2005|TL": {
       "engine": "J32A3 3.2L V6 SOHC VTEC",
@@ -3583,13 +4603,19 @@
       "weight": 1625,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.8,
+      "fh": 8.1,
+      "fx": 11.8,
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 218,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|2005|TL-S": {
       "engine": "J32A3 3.2L V6 SOHC VTEC",
@@ -3604,13 +4630,19 @@
       "weight": 1625,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.1,
+      "fh": 8.4,
+      "fx": 12.1,
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 218,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|2006|TL": {
       "engine": "J32A3 3.2L V6 SOHC VTEC",
@@ -3625,13 +4657,19 @@
       "weight": 1625,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.3,
+      "fh": 7.3,
+      "fx": 10.6,
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 218,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|2006|TL-S": {
       "engine": "J32A3 3.2L V6 SOHC VTEC",
@@ -3646,13 +4684,19 @@
       "weight": 1625,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.6,
+      "fh": 7.6,
+      "fx": 10.9,
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 218,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|2007|TL": {
       "engine": "J32A3 3.2L V6 SOHC VTEC",
@@ -3667,13 +4711,19 @@
       "weight": 1625,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13,
+      "fh": 7.2,
+      "fx": 10.4,
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 218,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|2007|TL-S": {
       "engine": "J32A3 3.2L V6 SOHC VTEC",
@@ -3688,13 +4738,19 @@
       "weight": 1625,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.5,
+      "fh": 7.5,
+      "fx": 10.8,
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 218,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|2008|TL": {
       "engine": "J32A3 3.2L V6 SOHC VTEC",
@@ -3709,13 +4765,19 @@
       "weight": 1625,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.9,
+      "fh": 7.1,
+      "fx": 10.3,
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 218,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|2008|TL-S": {
       "engine": "J32A3 3.2L V6 SOHC VTEC",
@@ -3730,13 +4792,19 @@
       "weight": 1625,
       "seats": 5,
       "cargo": 340,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.3,
+      "fh": 7.3,
+      "fx": 10.6,
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 218,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Acura|TL|2009|TL": {
       "engine": "J35Z6 3.5L V6 SOHC VTEC",
@@ -3757,7 +4825,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 220,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|TL|2009|TL SH-AWD": {
       "engine": "J35Z6 3.5L V6 SOHC VTEC",
@@ -3778,7 +4847,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 220,
-      "price": "~$49,000"
+      "price": "~$49,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|TL|2009|TL V6 6MT": {
       "engine": "J35Z6 3.5L V6 SOHC VTEC",
@@ -3799,7 +4869,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 220,
-      "price": "~$43,000"
+      "price": "~$43,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|TL|2010|TL": {
       "engine": "J35Z6 3.5L V6 SOHC VTEC",
@@ -3820,7 +4891,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 220,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|TL|2010|TL SH-AWD": {
       "engine": "J35Z6 3.5L V6 SOHC VTEC",
@@ -3841,7 +4913,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 220,
-      "price": "~$49,000"
+      "price": "~$49,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|TL|2010|TL V6 6MT": {
       "engine": "J35Z6 3.5L V6 SOHC VTEC",
@@ -3862,7 +4935,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 220,
-      "price": "~$43,000"
+      "price": "~$43,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|TL|2011|TL": {
       "engine": "J35Z6 3.5L V6 SOHC VTEC",
@@ -3883,7 +4957,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 220,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|TL|2011|TL SH-AWD": {
       "engine": "J35Z6 3.5L V6 SOHC VTEC",
@@ -3904,7 +4979,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 220,
-      "price": "~$49,000"
+      "price": "~$49,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|TL|2011|TL V6 6MT": {
       "engine": "J35Z6 3.5L V6 SOHC VTEC",
@@ -3925,7 +5001,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 220,
-      "price": "~$43,000"
+      "price": "~$43,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|TL|2012|TL": {
       "engine": "J35Z6 3.5L V6 SOHC VTEC",
@@ -3946,7 +5023,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 220,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|TL|2012|TL SH-AWD": {
       "engine": "J35Z6 3.5L V6 SOHC VTEC",
@@ -3967,7 +5045,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 220,
-      "price": "~$49,000"
+      "price": "~$49,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|TL|2012|TL V6 6MT": {
       "engine": "J35Z6 3.5L V6 SOHC VTEC",
@@ -3988,7 +5067,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 220,
-      "price": "~$43,000"
+      "price": "~$43,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|TL|2013|TL": {
       "engine": "J35Z6 3.5L V6 SOHC VTEC",
@@ -4009,7 +5089,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 220,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|TL|2013|TL SH-AWD": {
       "engine": "J35Z6 3.5L V6 SOHC VTEC",
@@ -4030,7 +5111,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 220,
-      "price": "~$49,000"
+      "price": "~$49,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|TL|2013|TL V6 6MT": {
       "engine": "J35Z6 3.5L V6 SOHC VTEC",
@@ -4051,7 +5133,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 220,
-      "price": "~$43,000"
+      "price": "~$43,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|TL|2014|TL": {
       "engine": "J35Z6 3.5L V6 SOHC VTEC",
@@ -4072,7 +5155,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 220,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|TL|2014|TL SH-AWD": {
       "engine": "J35Z6 3.5L V6 SOHC VTEC",
@@ -4093,7 +5177,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 220,
-      "price": "~$49,000"
+      "price": "~$49,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|TL|2014|TL V6 6MT": {
       "engine": "J35Z6 3.5L V6 SOHC VTEC",
@@ -4114,7 +5199,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 220,
-      "price": "~$43,000"
+      "price": "~$43,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|TLX|2015|2.4": {
       "engine": "K24W7 2.4L I4 VTEC",
@@ -4135,7 +5221,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 205,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.6 sec"
     },
     "Acura|TLX|2015|V6 SH-AWD": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -4156,7 +5243,8 @@
       "ft": "Petrol",
       "acceleration": 6.2,
       "topSpeed": 220,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~14.5 sec"
     },
     "Acura|TLX|2015|V6 A-Spec": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -4177,7 +5265,8 @@
       "ft": "Petrol",
       "acceleration": 6.2,
       "topSpeed": 220,
-      "price": "~$56,000"
+      "price": "~$56,000",
+      "quarterMile": "~14.5 sec"
     },
     "Acura|TLX|2016|2.4": {
       "engine": "K24W7 2.4L I4 VTEC",
@@ -4198,7 +5287,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 205,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.6 sec"
     },
     "Acura|TLX|2016|V6 SH-AWD": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -4219,7 +5309,8 @@
       "ft": "Petrol",
       "acceleration": 6.2,
       "topSpeed": 220,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~14.5 sec"
     },
     "Acura|TLX|2016|V6 A-Spec": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -4240,7 +5331,8 @@
       "ft": "Petrol",
       "acceleration": 6.2,
       "topSpeed": 220,
-      "price": "~$56,000"
+      "price": "~$56,000",
+      "quarterMile": "~14.5 sec"
     },
     "Acura|TLX|2017|2.4": {
       "engine": "K24W7 2.4L I4 VTEC",
@@ -4261,7 +5353,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 205,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.6 sec"
     },
     "Acura|TLX|2017|V6 SH-AWD": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -4282,7 +5375,8 @@
       "ft": "Petrol",
       "acceleration": 6.2,
       "topSpeed": 220,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~14.5 sec"
     },
     "Acura|TLX|2017|V6 A-Spec": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -4303,7 +5397,8 @@
       "ft": "Petrol",
       "acceleration": 6.2,
       "topSpeed": 220,
-      "price": "~$56,000"
+      "price": "~$56,000",
+      "quarterMile": "~14.5 sec"
     },
     "Acura|TLX|2018|2.4": {
       "engine": "K24W7 2.4L I4 VTEC",
@@ -4324,7 +5419,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 205,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.6 sec"
     },
     "Acura|TLX|2018|V6 SH-AWD": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -4345,7 +5441,8 @@
       "ft": "Petrol",
       "acceleration": 6.2,
       "topSpeed": 220,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~14.5 sec"
     },
     "Acura|TLX|2018|V6 A-Spec": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -4366,7 +5463,8 @@
       "ft": "Petrol",
       "acceleration": 6.2,
       "topSpeed": 220,
-      "price": "~$56,000"
+      "price": "~$56,000",
+      "quarterMile": "~14.5 sec"
     },
     "Acura|TLX|2019|2.4": {
       "engine": "K24W7 2.4L I4 VTEC",
@@ -4387,7 +5485,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 205,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.6 sec"
     },
     "Acura|TLX|2019|V6 SH-AWD": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -4408,7 +5507,8 @@
       "ft": "Petrol",
       "acceleration": 6.2,
       "topSpeed": 220,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~14.5 sec"
     },
     "Acura|TLX|2019|V6 A-Spec": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -4429,7 +5529,8 @@
       "ft": "Petrol",
       "acceleration": 6.2,
       "topSpeed": 220,
-      "price": "~$56,000"
+      "price": "~$56,000",
+      "quarterMile": "~14.5 sec"
     },
     "Acura|TLX|2020|2.4": {
       "engine": "K24W7 2.4L I4 VTEC",
@@ -4450,7 +5551,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 205,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.6 sec"
     },
     "Acura|TLX|2020|V6 SH-AWD": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -4471,7 +5573,8 @@
       "ft": "Petrol",
       "acceleration": 6.2,
       "topSpeed": 220,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~14.5 sec"
     },
     "Acura|TLX|2020|V6 A-Spec": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -4492,7 +5595,8 @@
       "ft": "Petrol",
       "acceleration": 6.2,
       "topSpeed": 220,
-      "price": "~$56,000"
+      "price": "~$56,000",
+      "quarterMile": "~14.5 sec"
     },
     "Acura|TLX|2021|TLX": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -4513,7 +5617,8 @@
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 220,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~14.3 sec"
     },
     "Acura|TLX|2021|A-Spec": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -4534,7 +5639,8 @@
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 220,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~14.3 sec"
     },
     "Acura|TLX|2021|Advance": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -4555,7 +5661,8 @@
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 220,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~14.3 sec"
     },
     "Acura|TLX|2021|Type S": {
       "engine": "NSX 3.0T V6 Twin-Turbo",
@@ -4576,7 +5683,8 @@
       "ft": "Petrol",
       "acceleration": 4.4,
       "topSpeed": 290,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~12.7 sec"
     },
     "Acura|TLX|2021|Type S PMC": {
       "engine": "NSX 3.0T V6 Twin-Turbo",
@@ -4597,7 +5705,8 @@
       "ft": "Petrol",
       "acceleration": 4.4,
       "topSpeed": 290,
-      "price": "~$88,000"
+      "price": "~$88,000",
+      "quarterMile": "~12.7 sec"
     },
     "Acura|TLX|2022|TLX": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -4618,7 +5727,8 @@
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 220,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~14.3 sec"
     },
     "Acura|TLX|2022|A-Spec": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -4639,7 +5749,8 @@
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 220,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~14.3 sec"
     },
     "Acura|TLX|2022|Advance": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -4660,7 +5771,8 @@
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 220,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~14.3 sec"
     },
     "Acura|TLX|2022|Type S": {
       "engine": "NSX 3.0T V6 Twin-Turbo",
@@ -4681,7 +5793,8 @@
       "ft": "Petrol",
       "acceleration": 4.4,
       "topSpeed": 290,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~12.7 sec"
     },
     "Acura|TLX|2022|Type S PMC": {
       "engine": "NSX 3.0T V6 Twin-Turbo",
@@ -4702,7 +5815,8 @@
       "ft": "Petrol",
       "acceleration": 4.4,
       "topSpeed": 290,
-      "price": "~$88,000"
+      "price": "~$88,000",
+      "quarterMile": "~12.7 sec"
     },
     "Acura|TLX|2023|TLX": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -4723,7 +5837,8 @@
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 220,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~14.3 sec"
     },
     "Acura|TLX|2023|A-Spec": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -4744,7 +5859,8 @@
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 220,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~14.3 sec"
     },
     "Acura|TLX|2023|Advance": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -4765,7 +5881,8 @@
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 220,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~14.3 sec"
     },
     "Acura|TLX|2023|Type S": {
       "engine": "NSX 3.0T V6 Twin-Turbo",
@@ -4786,7 +5903,8 @@
       "ft": "Petrol",
       "acceleration": 4.4,
       "topSpeed": 290,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~12.7 sec"
     },
     "Acura|TLX|2023|Type S PMC": {
       "engine": "NSX 3.0T V6 Twin-Turbo",
@@ -4807,7 +5925,8 @@
       "ft": "Petrol",
       "acceleration": 4.4,
       "topSpeed": 290,
-      "price": "~$88,000"
+      "price": "~$88,000",
+      "quarterMile": "~12.7 sec"
     },
     "Acura|TLX|2024|TLX": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -4828,7 +5947,8 @@
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 220,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~14.3 sec"
     },
     "Acura|TLX|2024|A-Spec": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -4849,7 +5969,8 @@
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 220,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~14.3 sec"
     },
     "Acura|TLX|2024|Advance": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -4870,7 +5991,8 @@
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 220,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~14.3 sec"
     },
     "Acura|TLX|2024|Type S": {
       "engine": "NSX 3.0T V6 Twin-Turbo",
@@ -4891,7 +6013,8 @@
       "ft": "Petrol",
       "acceleration": 4.4,
       "topSpeed": 290,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~12.7 sec"
     },
     "Acura|TLX|2024|Type S PMC": {
       "engine": "NSX 3.0T V6 Twin-Turbo",
@@ -4912,7 +6035,8 @@
       "ft": "Petrol",
       "acceleration": 4.4,
       "topSpeed": 290,
-      "price": "~$88,000"
+      "price": "~$88,000",
+      "quarterMile": "~12.7 sec"
     },
     "Acura|TLX|2025|TLX": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -4933,7 +6057,8 @@
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 220,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~14.3 sec"
     },
     "Acura|TLX|2025|A-Spec": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -4954,7 +6079,8 @@
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 220,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~14.3 sec"
     },
     "Acura|TLX|2025|Advance": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -4975,7 +6101,8 @@
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 220,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~14.3 sec"
     },
     "Acura|TLX|2025|Type S": {
       "engine": "NSX 3.0T V6 Twin-Turbo",
@@ -4996,7 +6123,8 @@
       "ft": "Petrol",
       "acceleration": 4.4,
       "topSpeed": 290,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~12.7 sec"
     },
     "Acura|TLX|2025|Type S PMC": {
       "engine": "NSX 3.0T V6 Twin-Turbo",
@@ -5017,7 +6145,8 @@
       "ft": "Petrol",
       "acceleration": 4.4,
       "topSpeed": 290,
-      "price": "~$88,000"
+      "price": "~$88,000",
+      "quarterMile": "~12.7 sec"
     },
     "Acura|ILX|2013|Premium": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5038,7 +6167,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2013|A-Spec": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5059,7 +6189,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2013|2.4 6MT": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5080,7 +6211,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$32,000"
+      "price": "~$32,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2014|Premium": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5101,7 +6233,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2014|A-Spec": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5122,7 +6255,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2014|2.4 6MT": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5143,7 +6277,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$32,000"
+      "price": "~$32,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2015|Premium": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5164,7 +6299,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2015|A-Spec": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5185,7 +6321,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2016|Premium": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5206,7 +6343,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2016|A-Spec": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5227,7 +6365,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2017|Premium": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5248,7 +6387,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2017|A-Spec": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5269,7 +6409,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2018|Premium": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5290,7 +6431,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2018|A-Spec": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5311,7 +6453,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2019|Premium": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5332,7 +6475,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2019|A-Spec": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5353,7 +6497,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2020|Premium": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5374,7 +6519,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2020|A-Spec": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5395,7 +6541,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2021|Premium": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5416,7 +6563,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2021|A-Spec": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5437,7 +6585,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2022|Premium": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5458,7 +6607,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$35,000"
+      "price": "~$35,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|ILX|2022|A-Spec": {
       "engine": "K24Z7 2.4L I4 VTEC",
@@ -5479,7 +6629,8 @@
       "ft": "Petrol",
       "acceleration": 8.2,
       "topSpeed": 210,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~16.2 sec"
     },
     "Acura|RDX|2007|Base": {
       "engine": "K23A1 2.3T I4 DOHC VTEC Turbo",
@@ -5500,7 +6651,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 205,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|RDX|2007|Technology": {
       "engine": "K23A1 2.3T I4 DOHC VTEC Turbo",
@@ -5521,7 +6673,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 205,
-      "price": "~$47,000"
+      "price": "~$47,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|RDX|2008|Base": {
       "engine": "K23A1 2.3T I4 DOHC VTEC Turbo",
@@ -5542,7 +6695,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 205,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|RDX|2008|Technology": {
       "engine": "K23A1 2.3T I4 DOHC VTEC Turbo",
@@ -5563,7 +6717,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 205,
-      "price": "~$47,000"
+      "price": "~$47,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|RDX|2009|Base": {
       "engine": "K23A1 2.3T I4 DOHC VTEC Turbo",
@@ -5584,7 +6739,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 205,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|RDX|2009|Technology": {
       "engine": "K23A1 2.3T I4 DOHC VTEC Turbo",
@@ -5605,7 +6761,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 205,
-      "price": "~$47,000"
+      "price": "~$47,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|RDX|2010|Base": {
       "engine": "K23A1 2.3T I4 DOHC VTEC Turbo",
@@ -5626,7 +6783,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 205,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|RDX|2010|Technology": {
       "engine": "K23A1 2.3T I4 DOHC VTEC Turbo",
@@ -5647,7 +6805,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 205,
-      "price": "~$47,000"
+      "price": "~$47,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|RDX|2011|Base": {
       "engine": "K23A1 2.3T I4 DOHC VTEC Turbo",
@@ -5668,7 +6827,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 205,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|RDX|2011|Technology": {
       "engine": "K23A1 2.3T I4 DOHC VTEC Turbo",
@@ -5689,7 +6849,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 205,
-      "price": "~$47,000"
+      "price": "~$47,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|RDX|2012|Base": {
       "engine": "K23A1 2.3T I4 DOHC VTEC Turbo",
@@ -5710,7 +6871,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 205,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|RDX|2012|Technology": {
       "engine": "K23A1 2.3T I4 DOHC VTEC Turbo",
@@ -5731,7 +6893,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 205,
-      "price": "~$47,000"
+      "price": "~$47,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|RDX|2013|Base": {
       "engine": "J35Y3 3.5L V6 SOHC VTEC",
@@ -5752,7 +6915,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 215,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|RDX|2013|Technology": {
       "engine": "J35Y3 3.5L V6 SOHC VTEC",
@@ -5773,7 +6937,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 215,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|RDX|2013|Advance": {
       "engine": "J35Y3 3.5L V6 SOHC VTEC",
@@ -5794,7 +6959,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 215,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|RDX|2014|Base": {
       "engine": "J35Y3 3.5L V6 SOHC VTEC",
@@ -5815,7 +6981,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 215,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|RDX|2014|Technology": {
       "engine": "J35Y3 3.5L V6 SOHC VTEC",
@@ -5836,7 +7003,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 215,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|RDX|2014|Advance": {
       "engine": "J35Y3 3.5L V6 SOHC VTEC",
@@ -5857,7 +7025,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 215,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|RDX|2015|Base": {
       "engine": "J35Y3 3.5L V6 SOHC VTEC",
@@ -5878,7 +7047,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 215,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|RDX|2015|Technology": {
       "engine": "J35Y3 3.5L V6 SOHC VTEC",
@@ -5899,7 +7069,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 215,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|RDX|2015|Advance": {
       "engine": "J35Y3 3.5L V6 SOHC VTEC",
@@ -5920,7 +7091,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 215,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|RDX|2016|Base": {
       "engine": "J35Y3 3.5L V6 SOHC VTEC",
@@ -5941,7 +7113,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 215,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|RDX|2016|Technology": {
       "engine": "J35Y3 3.5L V6 SOHC VTEC",
@@ -5962,7 +7135,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 215,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|RDX|2016|Advance": {
       "engine": "J35Y3 3.5L V6 SOHC VTEC",
@@ -5983,7 +7157,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 215,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|RDX|2017|Base": {
       "engine": "J35Y3 3.5L V6 SOHC VTEC",
@@ -6004,7 +7179,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 215,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|RDX|2017|Technology": {
       "engine": "J35Y3 3.5L V6 SOHC VTEC",
@@ -6025,7 +7201,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 215,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|RDX|2017|Advance": {
       "engine": "J35Y3 3.5L V6 SOHC VTEC",
@@ -6046,7 +7223,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 215,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|RDX|2018|Base": {
       "engine": "J35Y3 3.5L V6 SOHC VTEC",
@@ -6067,7 +7245,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 215,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|RDX|2018|Technology": {
       "engine": "J35Y3 3.5L V6 SOHC VTEC",
@@ -6088,7 +7267,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 215,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|RDX|2018|Advance": {
       "engine": "J35Y3 3.5L V6 SOHC VTEC",
@@ -6109,7 +7289,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 215,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|RDX|2019|Standard": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6130,7 +7311,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2019|Technology": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6151,7 +7333,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$57,000"
+      "price": "~$57,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2019|A-Spec": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6172,7 +7355,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2019|Advance": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6193,7 +7377,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$67,000"
+      "price": "~$67,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2019|PMC Edition": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6214,7 +7399,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2020|Standard": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6235,7 +7421,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2020|Technology": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6256,7 +7443,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$57,000"
+      "price": "~$57,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2020|A-Spec": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6277,7 +7465,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2020|Advance": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6298,7 +7487,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$67,000"
+      "price": "~$67,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2020|PMC Edition": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6319,7 +7509,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2021|Standard": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6340,7 +7531,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2021|Technology": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6361,7 +7553,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$57,000"
+      "price": "~$57,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2021|A-Spec": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6382,7 +7575,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2021|Advance": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6403,7 +7597,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$67,000"
+      "price": "~$67,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2021|PMC Edition": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6424,7 +7619,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2022|Standard": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6445,7 +7641,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2022|Technology": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6466,7 +7663,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$57,000"
+      "price": "~$57,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2022|A-Spec": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6487,7 +7685,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2022|Advance": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6508,7 +7707,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$67,000"
+      "price": "~$67,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2022|PMC Edition": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6529,7 +7729,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2023|Standard": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6550,7 +7751,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2023|Technology": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6571,7 +7773,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$57,000"
+      "price": "~$57,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2023|A-Spec": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6592,7 +7795,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2023|Advance": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6613,7 +7817,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$67,000"
+      "price": "~$67,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2023|PMC Edition": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6634,7 +7839,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2024|Standard": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6655,7 +7861,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2024|Technology": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6676,7 +7883,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$57,000"
+      "price": "~$57,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2024|A-Spec": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6697,7 +7905,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2024|Advance": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6718,7 +7927,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$67,000"
+      "price": "~$67,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2024|PMC Edition": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6739,7 +7949,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2025|Standard": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6760,7 +7971,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2025|Technology": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6781,7 +7993,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$57,000"
+      "price": "~$57,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2025|A-Spec": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6802,7 +8015,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2025|Advance": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6823,7 +8037,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$67,000"
+      "price": "~$67,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|RDX|2025|PMC Edition": {
       "engine": "K20C4 2.0T I4 DOHC VTEC Turbo",
@@ -6844,7 +8059,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 215,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~14.8 sec"
     },
     "Acura|MDX|2001|Standard": {
       "engine": "J35A1 3.5L V6 SOHC VTEC",
@@ -6865,7 +8081,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~15.9 sec"
     },
     "Acura|MDX|2001|Touring": {
       "engine": "J35A1 3.5L V6 SOHC VTEC",
@@ -6886,7 +8103,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.9 sec"
     },
     "Acura|MDX|2002|Standard": {
       "engine": "J35A1 3.5L V6 SOHC VTEC",
@@ -6907,7 +8125,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~15.9 sec"
     },
     "Acura|MDX|2002|Touring": {
       "engine": "J35A1 3.5L V6 SOHC VTEC",
@@ -6928,7 +8147,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.9 sec"
     },
     "Acura|MDX|2003|Standard": {
       "engine": "J35A1 3.5L V6 SOHC VTEC",
@@ -6949,7 +8169,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~15.9 sec"
     },
     "Acura|MDX|2003|Touring": {
       "engine": "J35A1 3.5L V6 SOHC VTEC",
@@ -6970,7 +8191,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.9 sec"
     },
     "Acura|MDX|2004|Standard": {
       "engine": "J35A1 3.5L V6 SOHC VTEC",
@@ -6991,7 +8213,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~15.9 sec"
     },
     "Acura|MDX|2004|Touring": {
       "engine": "J35A1 3.5L V6 SOHC VTEC",
@@ -7012,7 +8235,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.9 sec"
     },
     "Acura|MDX|2005|Standard": {
       "engine": "J35A1 3.5L V6 SOHC VTEC",
@@ -7033,7 +8257,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~15.9 sec"
     },
     "Acura|MDX|2005|Touring": {
       "engine": "J35A1 3.5L V6 SOHC VTEC",
@@ -7054,7 +8279,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.9 sec"
     },
     "Acura|MDX|2006|Standard": {
       "engine": "J35A1 3.5L V6 SOHC VTEC",
@@ -7075,7 +8301,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~15.9 sec"
     },
     "Acura|MDX|2006|Touring": {
       "engine": "J35A1 3.5L V6 SOHC VTEC",
@@ -7096,7 +8323,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.9 sec"
     },
     "Acura|MDX|2007|Standard": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7117,7 +8345,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2007|Technology": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7138,7 +8367,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2007|Advance": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7159,7 +8389,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$66,000"
+      "price": "~$66,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2008|Standard": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7180,7 +8411,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2008|Technology": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7201,7 +8433,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2008|Advance": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7222,7 +8455,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$66,000"
+      "price": "~$66,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2009|Standard": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7243,7 +8477,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2009|Technology": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7264,7 +8499,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2009|Advance": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7285,7 +8521,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$66,000"
+      "price": "~$66,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2010|Standard": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7306,7 +8543,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2010|Technology": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7327,7 +8565,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2010|Advance": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7348,7 +8587,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$66,000"
+      "price": "~$66,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2011|Standard": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7369,7 +8609,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2011|Technology": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7390,7 +8631,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2011|Advance": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7411,7 +8653,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$66,000"
+      "price": "~$66,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2012|Standard": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7432,7 +8675,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2012|Technology": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7453,7 +8697,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2012|Advance": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7474,7 +8719,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$66,000"
+      "price": "~$66,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2013|Standard": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7495,7 +8741,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2013|Technology": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7516,7 +8763,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2013|Advance": {
       "engine": "J37A1 3.7L V6 SOHC VTEC",
@@ -7537,7 +8785,8 @@
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 200,
-      "price": "~$66,000"
+      "price": "~$66,000",
+      "quarterMile": "~15.2 sec"
     },
     "Acura|MDX|2014|Standard": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -7558,7 +8807,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2014|Technology": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -7579,7 +8829,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$64,000"
+      "price": "~$64,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2014|Advance": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -7600,7 +8851,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2015|Standard": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -7621,7 +8873,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2015|Technology": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -7642,7 +8895,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$64,000"
+      "price": "~$64,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2015|Advance": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -7663,7 +8917,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2016|Standard": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -7684,7 +8939,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2016|Technology": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -7705,7 +8961,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$64,000"
+      "price": "~$64,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2016|Advance": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -7726,7 +8983,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2017|Standard": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -7747,7 +9005,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2017|Technology": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -7768,7 +9027,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$64,000"
+      "price": "~$64,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2017|Advance": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -7789,7 +9049,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2017|Sport Hybrid": {
       "engine": "3.0L V6 + 3 Electric Motors Sport Hybrid",
@@ -7810,7 +9071,8 @@
       "ft": "Petrol Hybrid",
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$75,000"
+      "price": "~$75,000",
+      "quarterMile": "~13.9 sec"
     },
     "Acura|MDX|2018|Standard": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -7831,7 +9093,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2018|Technology": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -7852,7 +9115,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$64,000"
+      "price": "~$64,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2018|Advance": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -7873,7 +9137,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2018|Sport Hybrid": {
       "engine": "3.0L V6 + 3 Electric Motors Sport Hybrid",
@@ -7894,7 +9159,8 @@
       "ft": "Petrol Hybrid",
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$75,000"
+      "price": "~$75,000",
+      "quarterMile": "~13.9 sec"
     },
     "Acura|MDX|2019|Standard": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -7915,7 +9181,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2019|Technology": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -7936,7 +9203,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$64,000"
+      "price": "~$64,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2019|Advance": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -7957,7 +9225,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2019|Sport Hybrid": {
       "engine": "3.0L V6 + 3 Electric Motors Sport Hybrid",
@@ -7978,7 +9247,8 @@
       "ft": "Petrol Hybrid",
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$75,000"
+      "price": "~$75,000",
+      "quarterMile": "~13.9 sec"
     },
     "Acura|MDX|2020|Standard": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -7999,7 +9269,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2020|Technology": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -8020,7 +9291,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$64,000"
+      "price": "~$64,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2020|Advance": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -8041,7 +9313,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2020|Sport Hybrid": {
       "engine": "3.0L V6 + 3 Electric Motors Sport Hybrid",
@@ -8062,7 +9335,8 @@
       "ft": "Petrol Hybrid",
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$75,000"
+      "price": "~$75,000",
+      "quarterMile": "~13.9 sec"
     },
     "Acura|MDX|2021|Standard": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -8083,7 +9357,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2021|Technology": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -8104,7 +9379,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$64,000"
+      "price": "~$64,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2021|Advance": {
       "engine": "J35Y5 3.5L V6 SOHC VTEC",
@@ -8125,7 +9401,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 200,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~15.4 sec"
     },
     "Acura|MDX|2021|Sport Hybrid": {
       "engine": "3.0L V6 + 3 Electric Motors Sport Hybrid",
@@ -8146,7 +9423,8 @@
       "ft": "Petrol Hybrid",
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$75,000"
+      "price": "~$75,000",
+      "quarterMile": "~13.9 sec"
     },
     "Acura|MDX|2022|Standard": {
       "engine": "J35Y9 3.5L V6",
@@ -8167,7 +9445,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 200,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|MDX|2022|Technology": {
       "engine": "J35Y9 3.5L V6",
@@ -8188,7 +9467,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 200,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|MDX|2022|A-Spec": {
       "engine": "J35Y9 3.5L V6",
@@ -8209,7 +9489,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 200,
-      "price": "~$78,000"
+      "price": "~$78,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|MDX|2022|Advance": {
       "engine": "J35Y9 3.5L V6",
@@ -8230,7 +9511,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 200,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|MDX|2022|Type S": {
       "engine": "NSX 3.0T V6 Twin-Turbo",
@@ -8251,7 +9533,8 @@
       "ft": "Petrol",
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~13.2 sec"
     },
     "Acura|MDX|2023|Standard": {
       "engine": "J35Y9 3.5L V6",
@@ -8272,7 +9555,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 200,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|MDX|2023|Technology": {
       "engine": "J35Y9 3.5L V6",
@@ -8293,7 +9577,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 200,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|MDX|2023|A-Spec": {
       "engine": "J35Y9 3.5L V6",
@@ -8314,7 +9599,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 200,
-      "price": "~$78,000"
+      "price": "~$78,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|MDX|2023|Advance": {
       "engine": "J35Y9 3.5L V6",
@@ -8335,7 +9621,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 200,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|MDX|2023|Type S": {
       "engine": "NSX 3.0T V6 Twin-Turbo",
@@ -8356,7 +9643,8 @@
       "ft": "Petrol",
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~13.2 sec"
     },
     "Acura|MDX|2024|Standard": {
       "engine": "J35Y9 3.5L V6",
@@ -8377,7 +9665,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 200,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|MDX|2024|Technology": {
       "engine": "J35Y9 3.5L V6",
@@ -8398,7 +9687,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 200,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|MDX|2024|A-Spec": {
       "engine": "J35Y9 3.5L V6",
@@ -8419,7 +9709,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 200,
-      "price": "~$78,000"
+      "price": "~$78,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|MDX|2024|Advance": {
       "engine": "J35Y9 3.5L V6",
@@ -8440,7 +9731,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 200,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|MDX|2024|Type S": {
       "engine": "NSX 3.0T V6 Twin-Turbo",
@@ -8461,7 +9753,8 @@
       "ft": "Petrol",
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~13.2 sec"
     },
     "Acura|MDX|2025|Standard": {
       "engine": "J35Y9 3.5L V6",
@@ -8482,7 +9775,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 200,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|MDX|2025|Technology": {
       "engine": "J35Y9 3.5L V6",
@@ -8503,7 +9797,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 200,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|MDX|2025|A-Spec": {
       "engine": "J35Y9 3.5L V6",
@@ -8524,7 +9819,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 200,
-      "price": "~$78,000"
+      "price": "~$78,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|MDX|2025|Advance": {
       "engine": "J35Y9 3.5L V6",
@@ -8545,7 +9841,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 200,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~15.0 sec"
     },
     "Acura|MDX|2025|Type S": {
       "engine": "NSX 3.0T V6 Twin-Turbo",
@@ -8566,7 +9863,8 @@
       "ft": "Petrol",
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~13.2 sec"
     },
     "Acura|Integra|2023|Standard": {
       "engine": "K20C4 1.5T I4 DOHC VTEC Turbo",
@@ -8587,7 +9885,8 @@
       "ft": "Petrol",
       "acceleration": 7.4,
       "topSpeed": 210,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.5 sec"
     },
     "Acura|Integra|2023|A-Spec": {
       "engine": "K20C4 1.5T I4 DOHC VTEC Turbo",
@@ -8608,7 +9907,8 @@
       "ft": "Petrol",
       "acceleration": 7.4,
       "topSpeed": 210,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.5 sec"
     },
     "Acura|Integra|2023|Type S": {
       "engine": "K20C1 2.0T I4 DOHC VTEC Turbo",
@@ -8629,7 +9929,8 @@
       "ft": "Petrol",
       "acceleration": 5.1,
       "topSpeed": 270,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~13.4 sec"
     },
     "Acura|Integra|2024|Standard": {
       "engine": "K20C4 1.5T I4 DOHC VTEC Turbo",
@@ -8650,7 +9951,8 @@
       "ft": "Petrol",
       "acceleration": 7.4,
       "topSpeed": 210,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.5 sec"
     },
     "Acura|Integra|2024|A-Spec": {
       "engine": "K20C4 1.5T I4 DOHC VTEC Turbo",
@@ -8671,7 +9973,8 @@
       "ft": "Petrol",
       "acceleration": 7.4,
       "topSpeed": 210,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.5 sec"
     },
     "Acura|Integra|2024|Type S": {
       "engine": "K20C1 2.0T I4 DOHC VTEC Turbo",
@@ -8692,7 +9995,8 @@
       "ft": "Petrol",
       "acceleration": 5.1,
       "topSpeed": 270,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~13.4 sec"
     },
     "Acura|Integra|2025|Standard": {
       "engine": "K20C4 1.5T I4 DOHC VTEC Turbo",
@@ -8713,7 +10017,8 @@
       "ft": "Petrol",
       "acceleration": 7.4,
       "topSpeed": 210,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.5 sec"
     },
     "Acura|Integra|2025|A-Spec": {
       "engine": "K20C4 1.5T I4 DOHC VTEC Turbo",
@@ -8734,7 +10039,8 @@
       "ft": "Petrol",
       "acceleration": 7.4,
       "topSpeed": 210,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.5 sec"
     },
     "Acura|Integra|2025|Type S": {
       "engine": "K20C1 2.0T I4 DOHC VTEC Turbo",
@@ -8755,7 +10061,8 @@
       "ft": "Petrol",
       "acceleration": 5.1,
       "topSpeed": 270,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~13.4 sec"
     }
   }
 }

@@ -13,13 +13,19 @@
       "weight": 862,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.5,
+      "fh": 11.9,
+      "fx": 17.2,
       "ft": "Petrol",
       "acceleration": 4.2,
       "topSpeed": 225,
-      "price": "~$5,995"
+      "price": "~$5,995",
+      "quarterMile": "~12.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|Cobra 289|1963|Roadster": {
       "engine": "Ford 289 Hi-Po 4.7L V8",
@@ -34,13 +40,19 @@
       "weight": 862,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.3,
+      "fh": 11.7,
+      "fx": 17,
       "ft": "Petrol",
       "acceleration": 4.2,
       "topSpeed": 225,
-      "price": "~$5,995"
+      "price": "~$5,995",
+      "quarterMile": "~12.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|Cobra 289|1964|Roadster": {
       "engine": "Ford 289 Hi-Po 4.7L V8",
@@ -55,13 +67,19 @@
       "weight": 862,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21,
+      "fh": 11.7,
+      "fx": 16.8,
       "ft": "Petrol",
       "acceleration": 4.2,
       "topSpeed": 225,
-      "price": "~$6,495"
+      "price": "~$6,495",
+      "quarterMile": "~12.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|Cobra 289|1965|Roadster": {
       "engine": "Ford 289 Hi-Po 4.7L V8",
@@ -76,13 +94,19 @@
       "weight": 862,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.8,
+      "fh": 11.5,
+      "fx": 16.6,
       "ft": "Petrol",
       "acceleration": 4.2,
       "topSpeed": 225,
-      "price": "~$6,495"
+      "price": "~$6,495",
+      "quarterMile": "~12.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|Cobra 427|1965|Roadster": {
       "engine": "Ford 427 FE 7.0L V8",
@@ -97,13 +121,19 @@
       "weight": 1060,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.1,
+      "fh": 14,
+      "fx": 20.1,
       "ft": "Petrol",
       "acceleration": 4.1,
       "topSpeed": 260,
-      "price": "~$7,495"
+      "price": "~$7,495",
+      "quarterMile": "~12.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|Cobra 427|1965|S/C Roadster": {
       "engine": "Ford 427 S/C 7.0L V8 (Side Oiler)",
@@ -118,13 +148,19 @@
       "weight": 1060,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.1,
+      "fh": 14.5,
+      "fx": 20.9,
       "ft": "Petrol",
       "acceleration": 3.6,
       "topSpeed": 285,
-      "price": "~$8,995"
+      "price": "~$8,995",
+      "quarterMile": "~11.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|Cobra 427|1966|Roadster": {
       "engine": "Ford 427 FE 7.0L V8",
@@ -139,13 +175,19 @@
       "weight": 1060,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24.9,
+      "fh": 13.8,
+      "fx": 19.9,
       "ft": "Petrol",
       "acceleration": 4.1,
       "topSpeed": 260,
-      "price": "~$7,495"
+      "price": "~$7,495",
+      "quarterMile": "~12.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|Cobra 427|1966|S/C Roadster": {
       "engine": "Ford 427 S/C 7.0L V8 (Side Oiler)",
@@ -160,13 +202,19 @@
       "weight": 1060,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.8,
+      "fh": 14.2,
+      "fx": 20.6,
       "ft": "Petrol",
       "acceleration": 3.6,
       "topSpeed": 285,
-      "price": "~$8,995"
+      "price": "~$8,995",
+      "quarterMile": "~11.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|Cobra 427|1967|Roadster": {
       "engine": "Ford 427 FE 7.0L V8",
@@ -181,13 +229,19 @@
       "weight": 1060,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24.6,
+      "fh": 13.7,
+      "fx": 19.7,
       "ft": "Petrol",
       "acceleration": 4.1,
       "topSpeed": 260,
-      "price": "~$7,495"
+      "price": "~$7,495",
+      "quarterMile": "~12.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|Cobra 427|1967|S/C Roadster": {
       "engine": "Ford 427 S/C 7.0L V8 (Side Oiler)",
@@ -202,13 +256,19 @@
       "weight": 1060,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.5,
+      "fh": 14.2,
+      "fx": 20.4,
       "ft": "Petrol",
       "acceleration": 3.6,
       "topSpeed": 285,
-      "price": "~$8,995"
+      "price": "~$8,995",
+      "quarterMile": "~11.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|1965|Fastback": {
       "engine": "Ford K-code 289 HiPo 4.7L V8",
@@ -223,13 +283,19 @@
       "weight": 1278,
       "seats": 2,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.9,
+      "fh": 13.2,
+      "fx": 19.1,
       "ft": "Petrol",
       "acceleration": 5.7,
       "topSpeed": 225,
-      "price": "~$4,547"
+      "price": "~$4,547",
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|1965|R-Model": {
       "engine": "Ford K-code 289 HiPo 4.7L V8",
@@ -244,13 +310,19 @@
       "weight": 1210,
       "seats": 2,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24.3,
+      "fh": 13.4,
+      "fx": 19.4,
       "ft": "Petrol",
       "acceleration": 5.2,
       "topSpeed": 225,
-      "price": "~$5,950"
+      "price": "~$5,950",
+      "quarterMile": "~13.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|1966|Fastback": {
       "engine": "Ford K-code 289 HiPo 4.7L V8",
@@ -265,13 +337,19 @@
       "weight": 1278,
       "seats": 2,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.6,
+      "fh": 13.2,
+      "fx": 18.9,
       "ft": "Petrol",
       "acceleration": 5.7,
       "topSpeed": 225,
-      "price": "~$4,547"
+      "price": "~$4,547",
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|1966|R-Model": {
       "engine": "Ford K-code 289 HiPo 4.7L V8",
@@ -286,13 +364,19 @@
       "weight": 1210,
       "seats": 2,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24,
+      "fh": 13.3,
+      "fx": 19.2,
       "ft": "Petrol",
       "acceleration": 5.2,
       "topSpeed": 225,
-      "price": "~$5,950"
+      "price": "~$5,950",
+      "quarterMile": "~13.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|1966|Hertz (GT350H)": {
       "engine": "Ford K-code 289 HiPo 4.7L V8",
@@ -307,13 +391,19 @@
       "weight": 1278,
       "seats": 2,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.6,
+      "fh": 13.2,
+      "fx": 18.9,
       "ft": "Petrol",
       "acceleration": 5.7,
       "topSpeed": 225,
-      "price": "~$4,845"
+      "price": "~$4,845",
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|1967|Fastback": {
       "engine": "Ford 306 HiPo 5.0L V8",
@@ -328,13 +418,19 @@
       "weight": 1360,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.6,
+      "fh": 13.2,
+      "fx": 18.9,
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 218,
-      "price": "~$3,995"
+      "price": "~$3,995",
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|1967|Convertible": {
       "engine": "Ford 306 HiPo 5.0L V8",
@@ -349,13 +445,19 @@
       "weight": 1390,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.8,
+      "fh": 13.1,
+      "fx": 19,
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 218,
-      "price": "~$4,238"
+      "price": "~$4,238",
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|1968|Fastback": {
       "engine": "Ford 306 HiPo 5.0L V8",
@@ -370,13 +472,19 @@
       "weight": 1360,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.4,
+      "fh": 13,
+      "fx": 18.7,
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 218,
-      "price": "~$3,995"
+      "price": "~$3,995",
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|1968|Convertible": {
       "engine": "Ford 306 HiPo 5.0L V8",
@@ -391,13 +499,19 @@
       "weight": 1390,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.5,
+      "fh": 13.1,
+      "fx": 18.8,
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 218,
-      "price": "~$4,238"
+      "price": "~$4,238",
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|1969|Fastback": {
       "engine": "Ford 306 HiPo 5.0L V8",
@@ -412,13 +526,19 @@
       "weight": 1360,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.1,
+      "fh": 12.9,
+      "fx": 18.5,
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 218,
-      "price": "~$4,434"
+      "price": "~$4,434",
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|1969|Convertible": {
       "engine": "Ford 306 HiPo 5.0L V8",
@@ -433,13 +553,19 @@
       "weight": 1390,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.3,
+      "fh": 12.9,
+      "fx": 18.6,
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 218,
-      "price": "~$4,753"
+      "price": "~$4,753",
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|1970|Fastback": {
       "engine": "Ford 306 HiPo 5.0L V8",
@@ -454,13 +580,19 @@
       "weight": 1360,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22.9,
+      "fh": 12.7,
+      "fx": 18.3,
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 218,
-      "price": "~$4,434"
+      "price": "~$4,434",
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|1970|Convertible": {
       "engine": "Ford 306 HiPo 5.0L V8",
@@ -475,13 +607,19 @@
       "weight": 1390,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23,
+      "fh": 12.8,
+      "fx": 18.4,
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 218,
-      "price": "~$4,753"
+      "price": "~$4,753",
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT500|1967|Fastback": {
       "engine": "Ford 428 Police Interceptor 7.0L V8",
@@ -496,13 +634,19 @@
       "weight": 1478,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.6,
+      "fh": 14.3,
+      "fx": 20.5,
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 210,
-      "price": "~$4,195"
+      "price": "~$4,195",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT500|1967|Convertible": {
       "engine": "Ford 428 Police Interceptor 7.0L V8",
@@ -517,13 +661,19 @@
       "weight": 1510,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.8,
+      "fh": 14.2,
+      "fx": 20.6,
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 210,
-      "price": "~$4,438"
+      "price": "~$4,438",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT500|1968|Fastback": {
       "engine": "Ford 428 Police Interceptor 7.0L V8",
@@ -538,13 +688,19 @@
       "weight": 1478,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.4,
+      "fh": 14.1,
+      "fx": 20.3,
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 210,
-      "price": "~$4,317"
+      "price": "~$4,317",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT500|1968|Convertible": {
       "engine": "Ford 428 Police Interceptor 7.0L V8",
@@ -559,13 +715,19 @@
       "weight": 1510,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.5,
+      "fh": 14.2,
+      "fx": 20.4,
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 210,
-      "price": "~$4,617"
+      "price": "~$4,617",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT500|1968|KR Fastback": {
       "engine": "Ford 428 Cobra Jet 7.0L V8",
@@ -580,13 +742,19 @@
       "weight": 1478,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.4,
+      "fh": 14.1,
+      "fx": 20.3,
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 210,
-      "price": "~$4,473"
+      "price": "~$4,473",
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT500|1968|KR Convertible": {
       "engine": "Ford 428 Cobra Jet 7.0L V8",
@@ -601,13 +769,19 @@
       "weight": 1530,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.5,
+      "fh": 14.2,
+      "fx": 20.4,
       "ft": "Petrol",
       "acceleration": 6,
       "topSpeed": 210,
-      "price": "~$4,817"
+      "price": "~$4,817",
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT500|1969|Fastback": {
       "engine": "Ford 428 Police Interceptor 7.0L V8",
@@ -622,13 +796,19 @@
       "weight": 1478,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25,
+      "fh": 13.9,
+      "fx": 20,
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 210,
-      "price": "~$4,709"
+      "price": "~$4,709",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT500|1969|Convertible": {
       "engine": "Ford 428 Police Interceptor 7.0L V8",
@@ -643,13 +823,19 @@
       "weight": 1510,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.1,
+      "fh": 14,
+      "fx": 20.1,
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 210,
-      "price": "~$5,027"
+      "price": "~$5,027",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT500|1970|Fastback": {
       "engine": "Ford 428 Police Interceptor 7.0L V8",
@@ -664,13 +850,19 @@
       "weight": 1478,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24.8,
+      "fh": 13.7,
+      "fx": 19.8,
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 210,
-      "price": "~$5,027"
+      "price": "~$5,027",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT500|1970|Convertible": {
       "engine": "Ford 428 Police Interceptor 7.0L V8",
@@ -685,13 +877,19 @@
       "weight": 1510,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24.9,
+      "fh": 13.8,
+      "fx": 19.9,
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 210,
-      "price": "~$5,373"
+      "price": "~$5,373",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|2015|Fastback": {
       "engine": "Voodoo 5.2L V8 Flat-Plane",
@@ -706,13 +904,19 @@
       "weight": 1732,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.6,
+      "fh": 9.3,
+      "fx": 13.3,
       "ft": "Petrol",
       "acceleration": 4.3,
       "topSpeed": 277,
-      "price": "~$59,150"
+      "price": "~$59,150",
+      "quarterMile": "~12.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|2015|R": {
       "engine": "Voodoo 5.2L V8 Flat-Plane",
@@ -727,13 +931,19 @@
       "weight": 1678,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.5,
+      "fh": 9.2,
+      "fx": 13.2,
       "ft": "Petrol",
       "acceleration": 4,
       "topSpeed": 283,
-      "price": "~$65,650"
+      "price": "~$65,650",
+      "quarterMile": "~12.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|2016|Fastback": {
       "engine": "Voodoo 5.2L V8 Flat-Plane",
@@ -748,13 +958,19 @@
       "weight": 1732,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.4,
+      "fh": 9.1,
+      "fx": 13.1,
       "ft": "Petrol",
       "acceleration": 4.3,
       "topSpeed": 277,
-      "price": "~$59,150"
+      "price": "~$59,150",
+      "quarterMile": "~12.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|2016|R": {
       "engine": "Voodoo 5.2L V8 Flat-Plane",
@@ -769,13 +985,19 @@
       "weight": 1678,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.3,
+      "fh": 9,
+      "fx": 13,
       "ft": "Petrol",
       "acceleration": 4,
       "topSpeed": 283,
-      "price": "~$65,650"
+      "price": "~$65,650",
+      "quarterMile": "~12.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|2017|Fastback": {
       "engine": "Voodoo 5.2L V8 Flat-Plane",
@@ -790,13 +1012,19 @@
       "weight": 1732,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.3,
+      "fh": 9,
+      "fx": 13,
       "ft": "Petrol",
       "acceleration": 4.3,
       "topSpeed": 277,
-      "price": "~$59,150"
+      "price": "~$59,150",
+      "quarterMile": "~12.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|2017|R": {
       "engine": "Voodoo 5.2L V8 Flat-Plane",
@@ -811,13 +1039,19 @@
       "weight": 1678,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.1,
+      "fh": 9,
+      "fx": 12.9,
       "ft": "Petrol",
       "acceleration": 4,
       "topSpeed": 283,
-      "price": "~$65,650"
+      "price": "~$65,650",
+      "quarterMile": "~12.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|2018|Fastback": {
       "engine": "Voodoo 5.2L V8 Flat-Plane",
@@ -832,13 +1066,19 @@
       "weight": 1732,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16,
+      "fh": 8.9,
+      "fx": 12.8,
       "ft": "Petrol",
       "acceleration": 4.3,
       "topSpeed": 277,
-      "price": "~$59,150"
+      "price": "~$59,150",
+      "quarterMile": "~12.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|2018|R": {
       "engine": "Voodoo 5.2L V8 Flat-Plane",
@@ -853,13 +1093,19 @@
       "weight": 1678,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.9,
+      "fh": 8.8,
+      "fx": 12.7,
       "ft": "Petrol",
       "acceleration": 4,
       "topSpeed": 283,
-      "price": "~$65,650"
+      "price": "~$65,650",
+      "quarterMile": "~12.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|2019|Fastback": {
       "engine": "Voodoo 5.2L V8 Flat-Plane",
@@ -874,13 +1120,19 @@
       "weight": 1732,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.8,
+      "fh": 8.7,
+      "fx": 12.6,
       "ft": "Petrol",
       "acceleration": 4.3,
       "topSpeed": 277,
-      "price": "~$59,150"
+      "price": "~$59,150",
+      "quarterMile": "~12.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|2019|R": {
       "engine": "Voodoo 5.2L V8 Flat-Plane",
@@ -895,13 +1147,19 @@
       "weight": 1678,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.8,
+      "fh": 8.7,
+      "fx": 12.6,
       "ft": "Petrol",
       "acceleration": 4,
       "topSpeed": 283,
-      "price": "~$65,650"
+      "price": "~$65,650",
+      "quarterMile": "~12.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|2020|Fastback": {
       "engine": "Voodoo 5.2L V8 Flat-Plane",
@@ -916,13 +1174,19 @@
       "weight": 1732,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.6,
+      "fh": 8.7,
+      "fx": 12.5,
       "ft": "Petrol",
       "acceleration": 4.3,
       "topSpeed": 277,
-      "price": "~$59,150"
+      "price": "~$59,150",
+      "quarterMile": "~12.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT350|2020|R": {
       "engine": "Voodoo 5.2L V8 Flat-Plane",
@@ -937,13 +1201,19 @@
       "weight": 1678,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.5,
+      "fh": 8.6,
+      "fx": 12.4,
       "ft": "Petrol",
       "acceleration": 4,
       "topSpeed": 283,
-      "price": "~$65,650"
+      "price": "~$65,650",
+      "quarterMile": "~12.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT500|2020|Fastback": {
       "engine": "Predator 5.2L V8 Supercharged",
@@ -958,13 +1228,19 @@
       "weight": 1923,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.9,
+      "fh": 9.9,
+      "fx": 14.3,
       "ft": "Petrol",
       "acceleration": 3.5,
       "topSpeed": 290,
-      "price": "~$75,995"
+      "price": "~$75,995",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT500|2020|Carbon Fiber": {
       "engine": "Predator 5.2L V8 Supercharged",
@@ -979,13 +1255,19 @@
       "weight": 1868,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.8,
+      "fh": 9.8,
+      "fx": 14.2,
       "ft": "Petrol",
       "acceleration": 3.3,
       "topSpeed": 290,
-      "price": "~$93,580"
+      "price": "~$93,580",
+      "quarterMile": "~11.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT500|2021|Fastback": {
       "engine": "Predator 5.2L V8 Supercharged",
@@ -1000,13 +1282,19 @@
       "weight": 1923,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.8,
+      "fh": 9.8,
+      "fx": 14.2,
       "ft": "Petrol",
       "acceleration": 3.5,
       "topSpeed": 290,
-      "price": "~$75,995"
+      "price": "~$75,995",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT500|2021|Carbon Fiber": {
       "engine": "Predator 5.2L V8 Supercharged",
@@ -1021,13 +1309,19 @@
       "weight": 1868,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.6,
+      "fh": 9.8,
+      "fx": 14.1,
       "ft": "Petrol",
       "acceleration": 3.3,
       "topSpeed": 290,
-      "price": "~$93,580"
+      "price": "~$93,580",
+      "quarterMile": "~11.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT500|2022|Fastback": {
       "engine": "Predator 5.2L V8 Supercharged",
@@ -1042,13 +1336,19 @@
       "weight": 1923,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.5,
+      "fh": 9.7,
+      "fx": 14,
       "ft": "Petrol",
       "acceleration": 3.5,
       "topSpeed": 290,
-      "price": "~$75,995"
+      "price": "~$75,995",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|GT500|2022|Carbon Fiber": {
       "engine": "Predator 5.2L V8 Supercharged",
@@ -1063,13 +1363,19 @@
       "weight": 1868,
       "seats": 4,
       "cargo": 290,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.4,
+      "fh": 9.6,
+      "fx": 13.9,
       "ft": "Petrol",
       "acceleration": 3.3,
       "topSpeed": 290,
-      "price": "~$93,580"
+      "price": "~$93,580",
+      "quarterMile": "~11.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|Series 1|1999|Roadster": {
       "engine": "Oldsmobile 4.0L DOHC V8",
@@ -1084,13 +1390,19 @@
       "weight": 1110,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.1,
+      "fh": 9,
+      "fx": 12.9,
       "ft": "Petrol",
       "acceleration": 4.4,
       "topSpeed": 230,
-      "price": "~$99,495"
+      "price": "~$99,495",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|Series 1|2000|Roadster": {
       "engine": "Oldsmobile 4.0L DOHC V8",
@@ -1105,13 +1417,19 @@
       "weight": 1110,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.9,
+      "fh": 8.8,
+      "fx": 12.7,
       "ft": "Petrol",
       "acceleration": 4.4,
       "topSpeed": 230,
-      "price": "~$99,495"
+      "price": "~$99,495",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|Series 1|2001|Roadster": {
       "engine": "Oldsmobile 4.0L DOHC V8",
@@ -1126,13 +1444,19 @@
       "weight": 1110,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.6,
+      "fh": 8.7,
+      "fx": 12.5,
       "ft": "Petrol",
       "acceleration": 4.4,
       "topSpeed": 230,
-      "price": "~$99,495"
+      "price": "~$99,495",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|Series 1|2002|Roadster": {
       "engine": "Oldsmobile 4.0L DOHC V8",
@@ -1147,13 +1471,19 @@
       "weight": 1110,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.5,
+      "fh": 8.6,
+      "fx": 12.4,
       "ft": "Petrol",
       "acceleration": 4.4,
       "topSpeed": 230,
-      "price": "~$99,495"
+      "price": "~$99,495",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|Series 1|2003|Roadster": {
       "engine": "Oldsmobile 4.0L DOHC V8",
@@ -1168,13 +1498,19 @@
       "weight": 1110,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.3,
+      "fh": 8.4,
+      "fx": 12.2,
       "ft": "Petrol",
       "acceleration": 4.4,
       "topSpeed": 230,
-      "price": "~$99,495"
+      "price": "~$99,495",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|Series 1|2004|Roadster": {
       "engine": "Oldsmobile 4.0L DOHC V8",
@@ -1189,13 +1525,19 @@
       "weight": 1110,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.1,
+      "fh": 8.4,
+      "fx": 12.1,
       "ft": "Petrol",
       "acceleration": 4.4,
       "topSpeed": 230,
-      "price": "~$99,495"
+      "price": "~$99,495",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Shelby|Series 1|2005|Roadster": {
       "engine": "Oldsmobile 4.0L DOHC V8",
@@ -1210,13 +1552,19 @@
       "weight": 1110,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.9,
+      "fh": 8.2,
+      "fx": 11.9,
       "ft": "Petrol",
       "acceleration": 4.4,
       "topSpeed": 230,
-      "price": "~$99,495"
+      "price": "~$99,495",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Newport|1955|Hardtop": {
       "engine": "FirePower 331 Hemi 5.4L V8",
@@ -1231,13 +1579,19 @@
       "weight": 2132,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.6,
+      "fh": 15.4,
+      "fx": 22.1,
       "ft": "Petrol",
       "acceleration": 11.5,
       "topSpeed": 170,
-      "price": "~$4,483"
+      "price": "~$4,483",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Newport|1956|Hardtop": {
       "engine": "FirePower 331 Hemi 5.4L V8",
@@ -1252,13 +1606,19 @@
       "weight": 2132,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.4,
+      "fh": 15.2,
+      "fx": 21.9,
       "ft": "Petrol",
       "acceleration": 11.5,
       "topSpeed": 170,
-      "price": "~$4,832"
+      "price": "~$4,832",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1957|Hardtop": {
       "engine": "Hemi 392 6.4L V8",
@@ -1273,13 +1633,19 @@
       "weight": 2267,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30.4,
+      "fh": 16.8,
+      "fx": 24.3,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$5,406"
+      "price": "~$5,406",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1957|Convertible": {
       "engine": "Hemi 392 6.4L V8",
@@ -1294,13 +1660,19 @@
       "weight": 2267,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30.4,
+      "fh": 16.8,
+      "fx": 24.3,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$5,838"
+      "price": "~$5,838",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1957|Hardtop": {
       "engine": "Hemi 392 6.4L V8",
@@ -1315,13 +1687,19 @@
       "weight": 2267,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30.9,
+      "fh": 17.1,
+      "fx": 24.7,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$6,100"
+      "price": "~$6,100",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1958|Hardtop": {
       "engine": "Hemi 392 6.4L V8",
@@ -1336,13 +1714,19 @@
       "weight": 2267,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30,
+      "fh": 16.7,
+      "fx": 24,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$5,406"
+      "price": "~$5,406",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1958|Convertible": {
       "engine": "Hemi 392 6.4L V8",
@@ -1357,13 +1741,19 @@
       "weight": 2267,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30,
+      "fh": 16.7,
+      "fx": 24,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$5,838"
+      "price": "~$5,838",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1958|Hardtop": {
       "engine": "Hemi 392 6.4L V8",
@@ -1378,13 +1768,19 @@
       "weight": 2267,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30.5,
+      "fh": 16.9,
+      "fx": 24.4,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$6,100"
+      "price": "~$6,100",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1959|Hardtop": {
       "engine": "Hemi 392 6.4L V8",
@@ -1399,13 +1795,19 @@
       "weight": 2267,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.6,
+      "fh": 16.5,
+      "fx": 23.7,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$5,406"
+      "price": "~$5,406",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1959|Convertible": {
       "engine": "Hemi 392 6.4L V8",
@@ -1420,13 +1822,19 @@
       "weight": 2267,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.6,
+      "fh": 16.5,
+      "fx": 23.7,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$5,838"
+      "price": "~$5,838",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1959|Hardtop": {
       "engine": "Hemi 392 6.4L V8",
@@ -1441,13 +1849,19 @@
       "weight": 2267,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30.1,
+      "fh": 16.8,
+      "fx": 24.1,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$6,100"
+      "price": "~$6,100",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1960|Hardtop": {
       "engine": "Hemi 392 6.4L V8",
@@ -1462,13 +1876,19 @@
       "weight": 2267,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.3,
+      "fh": 16.2,
+      "fx": 23.4,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$5,406"
+      "price": "~$5,406",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1960|Convertible": {
       "engine": "Hemi 392 6.4L V8",
@@ -1483,13 +1903,19 @@
       "weight": 2267,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.3,
+      "fh": 16.2,
+      "fx": 23.4,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$5,838"
+      "price": "~$5,838",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1960|Hardtop": {
       "engine": "Hemi 392 6.4L V8",
@@ -1504,13 +1930,19 @@
       "weight": 2267,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.8,
+      "fh": 16.5,
+      "fx": 23.8,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$6,100"
+      "price": "~$6,100",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1961|Hardtop": {
       "engine": "RB 413 6.8L V8",
@@ -1525,13 +1957,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.1,
+      "fh": 16.2,
+      "fx": 23.3,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$5,800"
+      "price": "~$5,800",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1961|Convertible": {
       "engine": "RB 413 6.8L V8",
@@ -1546,13 +1984,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.1,
+      "fh": 16.2,
+      "fx": 23.3,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$6,400"
+      "price": "~$6,400",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1961|Hardtop": {
       "engine": "RB 413 6.8L V8",
@@ -1567,13 +2011,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.8,
+      "fh": 16.5,
+      "fx": 23.8,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$6,900"
+      "price": "~$6,900",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1962|Hardtop": {
       "engine": "RB 413 6.8L V8",
@@ -1588,13 +2038,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.9,
+      "fh": 16,
+      "fx": 23.1,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$5,800"
+      "price": "~$5,800",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1962|Convertible": {
       "engine": "RB 413 6.8L V8",
@@ -1609,13 +2065,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.9,
+      "fh": 16,
+      "fx": 23.1,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$6,400"
+      "price": "~$6,400",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1962|Hardtop": {
       "engine": "RB 413 6.8L V8",
@@ -1630,13 +2092,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.4,
+      "fh": 16.3,
+      "fx": 23.5,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$6,900"
+      "price": "~$6,900",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1963|Hardtop": {
       "engine": "RB 413 6.8L V8",
@@ -1651,13 +2119,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.5,
+      "fh": 15.8,
+      "fx": 22.8,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$5,800"
+      "price": "~$5,800",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1963|Convertible": {
       "engine": "RB 413 6.8L V8",
@@ -1672,13 +2146,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.5,
+      "fh": 15.8,
+      "fx": 22.8,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$6,400"
+      "price": "~$6,400",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1963|Hardtop": {
       "engine": "RB 413 6.8L V8",
@@ -1693,13 +2173,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.1,
+      "fh": 16.2,
+      "fx": 23.3,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$6,900"
+      "price": "~$6,900",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1964|Hardtop": {
       "engine": "RB 413 6.8L V8",
@@ -1714,13 +2200,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.1,
+      "fh": 15.7,
+      "fx": 22.5,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$5,800"
+      "price": "~$5,800",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1964|Convertible": {
       "engine": "RB 413 6.8L V8",
@@ -1735,13 +2227,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.1,
+      "fh": 15.7,
+      "fx": 22.5,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$6,400"
+      "price": "~$6,400",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1964|Hardtop": {
       "engine": "RB 413 6.8L V8",
@@ -1756,13 +2254,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.8,
+      "fh": 15.9,
+      "fx": 23,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$6,900"
+      "price": "~$6,900",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1965|Hardtop": {
       "engine": "RB 413 6.8L V8",
@@ -1777,13 +2281,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.8,
+      "fh": 15.4,
+      "fx": 22.2,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$5,800"
+      "price": "~$5,800",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1965|Convertible": {
       "engine": "RB 413 6.8L V8",
@@ -1798,13 +2308,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.8,
+      "fh": 15.4,
+      "fx": 22.2,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$6,400"
+      "price": "~$6,400",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1965|Hardtop": {
       "engine": "RB 413 6.8L V8",
@@ -1819,13 +2335,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.4,
+      "fh": 15.7,
+      "fx": 22.7,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$6,900"
+      "price": "~$6,900",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1966|Hardtop": {
       "engine": "RB 413 6.8L V8",
@@ -1840,13 +2362,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.5,
+      "fh": 15.3,
+      "fx": 22,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$5,800"
+      "price": "~$5,800",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1966|Convertible": {
       "engine": "RB 413 6.8L V8",
@@ -1861,13 +2389,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.5,
+      "fh": 15.3,
+      "fx": 22,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$6,400"
+      "price": "~$6,400",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1966|Hardtop": {
       "engine": "RB 413 6.8L V8",
@@ -1882,13 +2416,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28,
+      "fh": 15.6,
+      "fx": 22.4,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$6,900"
+      "price": "~$6,900",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1967|Hardtop": {
       "engine": "RB 413 6.8L V8",
@@ -1903,13 +2443,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.1,
+      "fh": 15.1,
+      "fx": 21.7,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$5,800"
+      "price": "~$5,800",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1967|Convertible": {
       "engine": "RB 413 6.8L V8",
@@ -1924,13 +2470,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.1,
+      "fh": 15.1,
+      "fx": 21.7,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$6,400"
+      "price": "~$6,400",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1967|Hardtop": {
       "engine": "RB 413 6.8L V8",
@@ -1945,13 +2497,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.8,
+      "fh": 15.4,
+      "fx": 22.2,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$6,900"
+      "price": "~$6,900",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1968|Hardtop": {
       "engine": "RB 413 6.8L V8",
@@ -1966,13 +2524,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.8,
+      "fh": 14.8,
+      "fx": 21.4,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$5,800"
+      "price": "~$5,800",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|Crown|1968|Convertible": {
       "engine": "RB 413 6.8L V8",
@@ -1987,13 +2551,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.8,
+      "fh": 14.8,
+      "fx": 21.4,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$6,400"
+      "price": "~$6,400",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1968|Hardtop": {
       "engine": "RB 413 6.8L V8",
@@ -2008,13 +2578,19 @@
       "weight": 2245,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.4,
+      "fh": 15.2,
+      "fx": 21.9,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$6,900"
+      "price": "~$6,900",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1969|Hardtop": {
       "engine": "RB 440 7.2L V8",
@@ -2029,13 +2605,19 @@
       "weight": 2346,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.1,
+      "fh": 15.1,
+      "fx": 21.7,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$399700"
+      "price": "~$399700",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1969|Convertible": {
       "engine": "RB 440 7.2L V8",
@@ -2050,13 +2632,19 @@
       "weight": 2346,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.1,
+      "fh": 15.1,
+      "fx": 21.7,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$400300"
+      "price": "~$400300",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1970|Hardtop": {
       "engine": "RB 440 7.2L V8",
@@ -2071,13 +2659,19 @@
       "weight": 2346,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.9,
+      "fh": 14.9,
+      "fx": 21.5,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$399900"
+      "price": "~$399900",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1970|Convertible": {
       "engine": "RB 440 7.2L V8",
@@ -2092,13 +2686,19 @@
       "weight": 2346,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.9,
+      "fh": 14.9,
+      "fx": 21.5,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$400500"
+      "price": "~$400500",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1971|Hardtop": {
       "engine": "RB 440 7.2L V8",
@@ -2113,13 +2713,19 @@
       "weight": 2346,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.5,
+      "fh": 14.7,
+      "fx": 21.2,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$400100"
+      "price": "~$400100",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1971|Convertible": {
       "engine": "RB 440 7.2L V8",
@@ -2134,13 +2740,19 @@
       "weight": 2346,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.5,
+      "fh": 14.7,
+      "fx": 21.2,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$400700"
+      "price": "~$400700",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1972|Hardtop": {
       "engine": "RB 440 7.2L V8",
@@ -2155,13 +2767,19 @@
       "weight": 2346,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.1,
+      "fh": 14.5,
+      "fx": 20.9,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$400300"
+      "price": "~$400300",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1972|Convertible": {
       "engine": "RB 440 7.2L V8",
@@ -2176,13 +2794,19 @@
       "weight": 2346,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.1,
+      "fh": 14.5,
+      "fx": 20.9,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$400900"
+      "price": "~$400900",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1973|Hardtop": {
       "engine": "RB 440 7.2L V8",
@@ -2197,13 +2821,19 @@
       "weight": 2346,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.9,
+      "fh": 14.3,
+      "fx": 20.7,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$400500"
+      "price": "~$400500",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1973|Convertible": {
       "engine": "RB 440 7.2L V8",
@@ -2218,13 +2848,19 @@
       "weight": 2346,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.9,
+      "fh": 14.3,
+      "fx": 20.7,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$401100"
+      "price": "~$401100",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1974|Hardtop": {
       "engine": "RB 440 7.2L V8",
@@ -2239,13 +2875,19 @@
       "weight": 2346,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.5,
+      "fh": 14.2,
+      "fx": 20.4,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$400700"
+      "price": "~$400700",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1974|Convertible": {
       "engine": "RB 440 7.2L V8",
@@ -2260,13 +2902,19 @@
       "weight": 2346,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.5,
+      "fh": 14.2,
+      "fx": 20.4,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$401300"
+      "price": "~$401300",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1975|Hardtop": {
       "engine": "RB 440 7.2L V8",
@@ -2281,13 +2929,19 @@
       "weight": 2346,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.3,
+      "fh": 14,
+      "fx": 20.2,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$400900"
+      "price": "~$400900",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1975|Convertible": {
       "engine": "RB 440 7.2L V8",
@@ -2302,13 +2956,19 @@
       "weight": 2346,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.3,
+      "fh": 14,
+      "fx": 20.2,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 185,
-      "price": "~$401500"
+      "price": "~$401500",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1976|Coupe": {
       "engine": "360 5.9L V8",
@@ -2323,13 +2983,19 @@
       "weight": 2168,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.6,
+      "fh": 11.5,
+      "fx": 16.5,
       "ft": "Petrol",
       "acceleration": 11.5,
       "topSpeed": 175,
-      "price": "~$998000"
+      "price": "~$998000",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1977|Coupe": {
       "engine": "360 5.9L V8",
@@ -2344,13 +3010,19 @@
       "weight": 2168,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.4,
+      "fh": 11.3,
+      "fx": 16.3,
       "ft": "Petrol",
       "acceleration": 11.5,
       "topSpeed": 175,
-      "price": "~$998500"
+      "price": "~$998500",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1978|Coupe": {
       "engine": "360 5.9L V8",
@@ -2365,13 +3037,19 @@
       "weight": 2168,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.1,
+      "fh": 11.2,
+      "fx": 16.1,
       "ft": "Petrol",
       "acceleration": 11.5,
       "topSpeed": 175,
-      "price": "~$999000"
+      "price": "~$999000",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1979|Coupe": {
       "engine": "360 5.9L V8",
@@ -2386,13 +3064,19 @@
       "weight": 2168,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.9,
+      "fh": 11,
+      "fx": 15.9,
       "ft": "Petrol",
       "acceleration": 11.5,
       "topSpeed": 175,
-      "price": "~$999500"
+      "price": "~$999500",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1980|Coupe": {
       "engine": "360 5.9L V8",
@@ -2407,13 +3091,19 @@
       "weight": 2168,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.6,
+      "fh": 10.9,
+      "fx": 15.7,
       "ft": "Petrol",
       "acceleration": 11.5,
       "topSpeed": 175,
-      "price": "~$1000000"
+      "price": "~$1000000",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1981|Coupe": {
       "engine": "360 5.9L V8",
@@ -2428,13 +3118,19 @@
       "weight": 2168,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.4,
+      "fh": 10.7,
+      "fx": 15.5,
       "ft": "Petrol",
       "acceleration": 11.5,
       "topSpeed": 175,
-      "price": "~$1000500"
+      "price": "~$1000500",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1982|Coupe": {
       "engine": "360 5.9L V8",
@@ -2449,13 +3145,19 @@
       "weight": 2168,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.1,
+      "fh": 10.7,
+      "fx": 15.3,
       "ft": "Petrol",
       "acceleration": 11.5,
       "topSpeed": 175,
-      "price": "~$1001000"
+      "price": "~$1001000",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Imperial|LeBaron|1983|Coupe": {
       "engine": "360 5.9L V8",
@@ -2470,13 +3172,19 @@
       "weight": 2168,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19,
+      "fh": 10.6,
+      "fx": 15.2,
       "ft": "Petrol",
       "acceleration": 11.5,
       "topSpeed": 175,
-      "price": "~$1001500"
+      "price": "~$1001500",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1950|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -2491,13 +3199,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.8,
+      "fh": 10.9,
+      "fx": 15.8,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$1,489"
+      "price": "~$1,489",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1950|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -2512,13 +3226,19 @@
       "weight": 1320,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20,
+      "fh": 11.1,
+      "fx": 16,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$201"
+      "price": "~$201",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1951|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -2533,13 +3253,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.5,
+      "fh": 10.8,
+      "fx": 15.6,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$1,489"
+      "price": "~$1,489",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1951|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -2554,13 +3280,19 @@
       "weight": 1320,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.8,
+      "fh": 10.9,
+      "fx": 15.8,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$201"
+      "price": "~$201",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1952|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -2575,13 +3307,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.3,
+      "fh": 10.6,
+      "fx": 15.4,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$1,489"
+      "price": "~$1,489",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1952|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -2596,13 +3334,19 @@
       "weight": 1320,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.5,
+      "fh": 10.8,
+      "fx": 15.6,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$201"
+      "price": "~$201",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1953|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -2617,13 +3361,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19,
+      "fh": 10.6,
+      "fx": 15.2,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$1,489"
+      "price": "~$1,489",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1953|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -2638,13 +3388,19 @@
       "weight": 1320,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.3,
+      "fh": 10.6,
+      "fx": 15.4,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$201"
+      "price": "~$201",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1954|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -2659,13 +3415,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.9,
+      "fh": 10.5,
+      "fx": 15.1,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$1,489"
+      "price": "~$1,489",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1954|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -2680,13 +3442,19 @@
       "weight": 1320,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19,
+      "fh": 10.6,
+      "fx": 15.2,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$201"
+      "price": "~$201",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1955|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -2701,13 +3469,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.6,
+      "fh": 10.4,
+      "fx": 14.9,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$1,489"
+      "price": "~$1,489",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1955|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -2722,13 +3496,19 @@
       "weight": 1320,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.8,
+      "fh": 10.4,
+      "fx": 15,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$201"
+      "price": "~$201",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1956|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -2743,13 +3523,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.4,
+      "fh": 10.2,
+      "fx": 14.7,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$1,795"
+      "price": "~$1,795",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1956|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -2764,13 +3550,19 @@
       "weight": 1320,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.6,
+      "fh": 10.4,
+      "fx": 14.9,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$201"
+      "price": "~$201",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1957|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -2785,13 +3577,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.1,
+      "fh": 10.1,
+      "fx": 14.5,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$1,795"
+      "price": "~$1,795",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1957|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -2806,13 +3604,19 @@
       "weight": 1320,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.4,
+      "fh": 10.2,
+      "fx": 14.7,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$201"
+      "price": "~$201",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1958|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -2827,13 +3631,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.9,
+      "fh": 9.9,
+      "fx": 14.3,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$1,795"
+      "price": "~$1,795",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1958|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -2848,13 +3658,19 @@
       "weight": 1320,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.1,
+      "fh": 10.1,
+      "fx": 14.5,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$201"
+      "price": "~$201",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1959|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -2869,13 +3685,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.8,
+      "fh": 9.8,
+      "fx": 14.2,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$1,795"
+      "price": "~$1,795",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1959|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -2890,13 +3712,19 @@
       "weight": 1320,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.9,
+      "fh": 9.9,
+      "fx": 14.3,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$201"
+      "price": "~$201",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1960|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -2911,13 +3739,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.5,
+      "fh": 9.7,
+      "fx": 14,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$1,795"
+      "price": "~$1,795",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1960|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -2932,13 +3766,19 @@
       "weight": 1320,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.6,
+      "fh": 9.8,
+      "fx": 14.1,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$201"
+      "price": "~$201",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1961|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -2953,13 +3793,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.3,
+      "fh": 9.5,
+      "fx": 13.8,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$1,895"
+      "price": "~$1,895",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1961|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -2974,13 +3820,19 @@
       "weight": 1320,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.5,
+      "fh": 9.7,
+      "fx": 14,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$201"
+      "price": "~$201",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1961|Convertible": {
       "engine": "3.2L I6 OHV",
@@ -2995,13 +3847,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.3,
+      "fh": 9.5,
+      "fx": 13.8,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$401"
+      "price": "~$401",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1962|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -3016,13 +3874,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.1,
+      "fh": 9.5,
+      "fx": 13.7,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$1,895"
+      "price": "~$1,895",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1962|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -3037,13 +3901,19 @@
       "weight": 1320,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.3,
+      "fh": 9.5,
+      "fx": 13.8,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$201"
+      "price": "~$201",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1962|Convertible": {
       "engine": "3.2L I6 OHV",
@@ -3058,13 +3928,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.1,
+      "fh": 9.5,
+      "fx": 13.7,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$401"
+      "price": "~$401",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1963|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -3079,13 +3955,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.9,
+      "fh": 9.3,
+      "fx": 13.5,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$1,895"
+      "price": "~$1,895",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1963|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -3100,13 +3982,19 @@
       "weight": 1320,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17,
+      "fh": 9.4,
+      "fx": 13.6,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$201"
+      "price": "~$201",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1963|Convertible": {
       "engine": "3.2L I6 OHV",
@@ -3121,13 +4009,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.9,
+      "fh": 9.3,
+      "fx": 13.5,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$401"
+      "price": "~$401",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1964|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -3142,13 +4036,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.6,
+      "fh": 9.3,
+      "fx": 13.3,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$1,895"
+      "price": "~$1,895",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1964|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -3163,13 +4063,19 @@
       "weight": 1320,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.9,
+      "fh": 9.3,
+      "fx": 13.5,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$201"
+      "price": "~$201",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1964|Convertible": {
       "engine": "3.2L I6 OHV",
@@ -3184,13 +4090,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.6,
+      "fh": 9.3,
+      "fx": 13.3,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$401"
+      "price": "~$401",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1965|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -3205,13 +4117,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.5,
+      "fh": 9.7,
+      "fx": 14,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$1,895"
+      "price": "~$1,895",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1965|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -3226,13 +4144,19 @@
       "weight": 1320,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.8,
+      "fh": 9.8,
+      "fx": 14.2,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$201"
+      "price": "~$201",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1965|Convertible": {
       "engine": "3.2L I6 OHV",
@@ -3247,13 +4171,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.5,
+      "fh": 9.7,
+      "fx": 14,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$401"
+      "price": "~$401",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1966|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -3268,13 +4198,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.3,
+      "fh": 9.5,
+      "fx": 13.8,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$1,995"
+      "price": "~$1,995",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1966|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -3289,13 +4225,19 @@
       "weight": 1320,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.5,
+      "fh": 9.7,
+      "fx": 14,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$201"
+      "price": "~$201",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1966|Convertible": {
       "engine": "3.2L I6 OHV",
@@ -3310,13 +4252,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.3,
+      "fh": 9.5,
+      "fx": 13.8,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$401"
+      "price": "~$401",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1967|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -3331,13 +4279,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.1,
+      "fh": 9.5,
+      "fx": 13.7,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$1,995"
+      "price": "~$1,995",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1967|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -3352,13 +4306,19 @@
       "weight": 1320,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.3,
+      "fh": 9.5,
+      "fx": 13.8,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$201"
+      "price": "~$201",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1967|Convertible": {
       "engine": "3.2L I6 OHV",
@@ -3373,13 +4333,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.1,
+      "fh": 9.5,
+      "fx": 13.7,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$401"
+      "price": "~$401",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1968|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -3394,13 +4360,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.9,
+      "fh": 9.3,
+      "fx": 13.5,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$1,995"
+      "price": "~$1,995",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1968|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -3415,13 +4387,19 @@
       "weight": 1320,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17,
+      "fh": 9.4,
+      "fx": 13.6,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$201"
+      "price": "~$201",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1968|Convertible": {
       "engine": "3.2L I6 OHV",
@@ -3436,13 +4414,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.9,
+      "fh": 9.3,
+      "fx": 13.5,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$401"
+      "price": "~$401",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1969|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -3457,13 +4441,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.6,
+      "fh": 9.3,
+      "fx": 13.3,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$1,995"
+      "price": "~$1,995",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1969|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -3478,13 +4468,19 @@
       "weight": 1320,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.9,
+      "fh": 9.3,
+      "fx": 13.5,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$201"
+      "price": "~$201",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|American|1969|Convertible": {
       "engine": "3.2L I6 OHV",
@@ -3499,13 +4495,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.6,
+      "fh": 9.3,
+      "fx": 13.3,
       "ft": "Petrol",
       "acceleration": 13.5,
       "topSpeed": 155,
-      "price": "~$401"
+      "price": "~$401",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1956|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -3520,13 +4522,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.3,
+      "fh": 11.2,
+      "fx": 16.2,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$2,095"
+      "price": "~$2,095",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1956|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -3541,13 +4549,19 @@
       "weight": 1510,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.4,
+      "fh": 11.3,
+      "fx": 16.3,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1956|V8 Sedan": {
       "engine": "4.7L V8",
@@ -3562,13 +4576,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24.3,
+      "fh": 13.4,
+      "fx": 19.4,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$302"
+      "price": "~$302",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1957|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -3583,13 +4603,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20,
+      "fh": 11.1,
+      "fx": 16,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$2,095"
+      "price": "~$2,095",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1957|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -3604,13 +4630,19 @@
       "weight": 1510,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.1,
+      "fh": 11.2,
+      "fx": 16.1,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1957|V8 Sedan": {
       "engine": "4.7L V8",
@@ -3625,13 +4657,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.9,
+      "fh": 13.2,
+      "fx": 19.1,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$302"
+      "price": "~$302",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1958|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -3646,13 +4684,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.8,
+      "fh": 10.9,
+      "fx": 15.8,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$2,095"
+      "price": "~$2,095",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1958|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -3667,13 +4711,19 @@
       "weight": 1510,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.9,
+      "fh": 11,
+      "fx": 15.9,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1958|V8 Sedan": {
       "engine": "4.7L V8",
@@ -3688,13 +4738,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.6,
+      "fh": 13.2,
+      "fx": 18.9,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$302"
+      "price": "~$302",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1959|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -3709,13 +4765,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.5,
+      "fh": 10.8,
+      "fx": 15.6,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$2,095"
+      "price": "~$2,095",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1959|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -3730,13 +4792,19 @@
       "weight": 1510,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.6,
+      "fh": 10.9,
+      "fx": 15.7,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1959|V8 Sedan": {
       "engine": "4.7L V8",
@@ -3751,13 +4819,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.4,
+      "fh": 13,
+      "fx": 18.7,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$302"
+      "price": "~$302",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1960|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -3772,13 +4846,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.3,
+      "fh": 10.6,
+      "fx": 15.4,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$2,095"
+      "price": "~$2,095",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1960|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -3793,13 +4873,19 @@
       "weight": 1510,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.4,
+      "fh": 10.7,
+      "fx": 15.5,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1960|V8 Sedan": {
       "engine": "4.7L V8",
@@ -3814,13 +4900,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.1,
+      "fh": 12.9,
+      "fx": 18.5,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$302"
+      "price": "~$302",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1961|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -3835,13 +4927,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19,
+      "fh": 10.6,
+      "fx": 15.2,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$2,195"
+      "price": "~$2,195",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1961|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -3856,13 +4954,19 @@
       "weight": 1510,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.1,
+      "fh": 10.7,
+      "fx": 15.3,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1961|V8 Sedan": {
       "engine": "4.7L V8",
@@ -3877,13 +4981,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22.8,
+      "fh": 12.6,
+      "fx": 18.2,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$302"
+      "price": "~$302",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1962|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -3898,13 +5008,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.8,
+      "fh": 10.4,
+      "fx": 15,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$2,195"
+      "price": "~$2,195",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1962|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -3919,13 +5035,19 @@
       "weight": 1510,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19,
+      "fh": 10.6,
+      "fx": 15.2,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1962|V8 Sedan": {
       "engine": "4.7L V8",
@@ -3940,13 +5062,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22.5,
+      "fh": 12.5,
+      "fx": 18,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$302"
+      "price": "~$302",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1963|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -3961,13 +5089,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.5,
+      "fh": 10.3,
+      "fx": 14.8,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$2,195"
+      "price": "~$2,195",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1963|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -3982,13 +5116,19 @@
       "weight": 1510,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.8,
+      "fh": 10.4,
+      "fx": 15,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1963|V8 Sedan": {
       "engine": "4.7L V8",
@@ -4003,13 +5143,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22.3,
+      "fh": 12.3,
+      "fx": 17.8,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$302"
+      "price": "~$302",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1964|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -4024,13 +5170,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.4,
+      "fh": 10.2,
+      "fx": 14.7,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$2,195"
+      "price": "~$2,195",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1964|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -4045,13 +5197,19 @@
       "weight": 1510,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.5,
+      "fh": 10.3,
+      "fx": 14.8,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1964|V8 Sedan": {
       "engine": "4.7L V8",
@@ -4066,13 +5224,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22,
+      "fh": 12.2,
+      "fx": 17.6,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$302"
+      "price": "~$302",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1965|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -4087,13 +5251,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.1,
+      "fh": 10.1,
+      "fx": 14.5,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$2,195"
+      "price": "~$2,195",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1965|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -4108,13 +5278,19 @@
       "weight": 1510,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.3,
+      "fh": 10.1,
+      "fx": 14.6,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1965|V8 Sedan": {
       "engine": "4.7L V8",
@@ -4129,13 +5305,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.8,
+      "fh": 12,
+      "fx": 17.4,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$302"
+      "price": "~$302",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1966|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -4150,13 +5332,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.9,
+      "fh": 9.9,
+      "fx": 14.3,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$2,395"
+      "price": "~$2,395",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1966|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -4171,13 +5359,19 @@
       "weight": 1510,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18,
+      "fh": 10,
+      "fx": 14.4,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1966|V8 Sedan": {
       "engine": "4.7L V8",
@@ -4192,13 +5386,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.5,
+      "fh": 11.9,
+      "fx": 17.2,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$302"
+      "price": "~$302",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1967|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -4213,13 +5413,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.6,
+      "fh": 9.8,
+      "fx": 14.1,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$2,395"
+      "price": "~$2,395",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1967|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -4234,13 +5440,19 @@
       "weight": 1510,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.9,
+      "fh": 9.9,
+      "fx": 14.3,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1967|V8 Sedan": {
       "engine": "4.7L V8",
@@ -4255,13 +5467,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.1,
+      "fh": 11.8,
+      "fx": 16.9,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$302"
+      "price": "~$302",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1968|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -4276,13 +5494,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.5,
+      "fh": 9.7,
+      "fx": 14,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$2,395"
+      "price": "~$2,395",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1968|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -4297,13 +5521,19 @@
       "weight": 1510,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.6,
+      "fh": 9.8,
+      "fx": 14.1,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1968|V8 Sedan": {
       "engine": "4.7L V8",
@@ -4318,13 +5548,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.9,
+      "fh": 11.6,
+      "fx": 16.7,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$302"
+      "price": "~$302",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1969|Sedan": {
       "engine": "3.2L I6 OHV",
@@ -4339,13 +5575,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.3,
+      "fh": 9.5,
+      "fx": 13.8,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$2,395"
+      "price": "~$2,395",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1969|Wagon": {
       "engine": "3.2L I6 OHV",
@@ -4360,13 +5602,19 @@
       "weight": 1510,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.4,
+      "fh": 9.6,
+      "fx": 13.9,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Classic|1969|V8 Sedan": {
       "engine": "4.7L V8",
@@ -4381,13 +5629,19 @@
       "weight": 1450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.6,
+      "fh": 11.5,
+      "fx": 16.5,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 165,
-      "price": "~$302"
+      "price": "~$302",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1958|Sedan": {
       "engine": "5.6L V8 OHV",
@@ -4402,13 +5656,19 @@
       "weight": 1630,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24.9,
+      "fh": 13.8,
+      "fx": 19.9,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$2,395"
+      "price": "~$2,395",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1958|Wagon": {
       "engine": "5.6L V8 OHV",
@@ -4423,13 +5683,19 @@
       "weight": 1680,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25,
+      "fh": 13.9,
+      "fx": 20,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1959|Sedan": {
       "engine": "5.6L V8 OHV",
@@ -4444,13 +5710,19 @@
       "weight": 1630,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24.5,
+      "fh": 13.6,
+      "fx": 19.6,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$2,395"
+      "price": "~$2,395",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1959|Wagon": {
       "engine": "5.6L V8 OHV",
@@ -4465,13 +5737,19 @@
       "weight": 1680,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24.8,
+      "fh": 13.7,
+      "fx": 19.8,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1960|Sedan": {
       "engine": "5.6L V8 OHV",
@@ -4486,13 +5764,19 @@
       "weight": 1630,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24.3,
+      "fh": 13.4,
+      "fx": 19.4,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$2,395"
+      "price": "~$2,395",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1960|Wagon": {
       "engine": "5.6L V8 OHV",
@@ -4507,13 +5791,19 @@
       "weight": 1680,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24.4,
+      "fh": 13.5,
+      "fx": 19.5,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1961|Sedan": {
       "engine": "5.6L V8 OHV",
@@ -4528,13 +5818,19 @@
       "weight": 1630,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24,
+      "fh": 13.3,
+      "fx": 19.2,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$2,395"
+      "price": "~$2,395",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1961|Wagon": {
       "engine": "5.6L V8 OHV",
@@ -4549,13 +5845,19 @@
       "weight": 1680,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24.1,
+      "fh": 13.4,
+      "fx": 19.3,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1962|Sedan": {
       "engine": "5.6L V8 OHV",
@@ -4570,13 +5872,19 @@
       "weight": 1630,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.6,
+      "fh": 13.2,
+      "fx": 18.9,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$2,395"
+      "price": "~$2,395",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1962|Wagon": {
       "engine": "5.6L V8 OHV",
@@ -4591,13 +5899,19 @@
       "weight": 1680,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.9,
+      "fh": 13.2,
+      "fx": 19.1,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1963|Sedan": {
       "engine": "5.6L V8 OHV",
@@ -4612,13 +5926,19 @@
       "weight": 1630,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.4,
+      "fh": 13,
+      "fx": 18.7,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$2,595"
+      "price": "~$2,595",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1963|Wagon": {
       "engine": "5.6L V8 OHV",
@@ -4633,13 +5953,19 @@
       "weight": 1680,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.5,
+      "fh": 13.1,
+      "fx": 18.8,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1964|Sedan": {
       "engine": "5.6L V8 OHV",
@@ -4654,13 +5980,19 @@
       "weight": 1630,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.1,
+      "fh": 12.9,
+      "fx": 18.5,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$2,595"
+      "price": "~$2,595",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1964|Wagon": {
       "engine": "5.6L V8 OHV",
@@ -4675,13 +6007,19 @@
       "weight": 1680,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.3,
+      "fh": 12.9,
+      "fx": 18.6,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1965|Sedan": {
       "engine": "5.6L V8 OHV",
@@ -4696,13 +6034,19 @@
       "weight": 1630,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22.8,
+      "fh": 12.6,
+      "fx": 18.2,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$2,595"
+      "price": "~$2,595",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1965|Wagon": {
       "engine": "5.6L V8 OHV",
@@ -4717,13 +6061,19 @@
       "weight": 1680,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23,
+      "fh": 12.8,
+      "fx": 18.4,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1966|Sedan": {
       "engine": "5.6L V8 OHV",
@@ -4738,13 +6088,19 @@
       "weight": 1630,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22.5,
+      "fh": 12.5,
+      "fx": 18,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$2,595"
+      "price": "~$2,595",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1966|Wagon": {
       "engine": "5.6L V8 OHV",
@@ -4759,13 +6115,19 @@
       "weight": 1680,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22.6,
+      "fh": 12.6,
+      "fx": 18.1,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1967|Sedan": {
       "engine": "5.6L V8 OHV",
@@ -4780,13 +6142,19 @@
       "weight": 1630,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22.3,
+      "fh": 12.3,
+      "fx": 17.8,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$2,795"
+      "price": "~$2,795",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1967|Wagon": {
       "engine": "5.6L V8 OHV",
@@ -4801,13 +6169,19 @@
       "weight": 1680,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22.4,
+      "fh": 12.4,
+      "fx": 17.9,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1968|Sedan": {
       "engine": "5.6L V8 OHV",
@@ -4822,13 +6196,19 @@
       "weight": 1630,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22,
+      "fh": 12.2,
+      "fx": 17.6,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$2,795"
+      "price": "~$2,795",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1968|Wagon": {
       "engine": "5.6L V8 OHV",
@@ -4843,13 +6223,19 @@
       "weight": 1680,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22.1,
+      "fh": 12.3,
+      "fx": 17.7,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1969|Sedan": {
       "engine": "5.6L V8 OHV",
@@ -4864,13 +6250,19 @@
       "weight": 1630,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.8,
+      "fh": 12,
+      "fx": 17.4,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$2,795"
+      "price": "~$2,795",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Ambassador|1969|Wagon": {
       "engine": "5.6L V8 OHV",
@@ -4885,13 +6277,19 @@
       "weight": 1680,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.9,
+      "fh": 12.1,
+      "fx": 17.5,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$202"
+      "price": "~$202",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Marlin|1965|Fastback": {
       "engine": "5.6L V8",
@@ -4906,13 +6304,19 @@
       "weight": 1520,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22.4,
+      "fh": 12.4,
+      "fx": 17.9,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$3,100"
+      "price": "~$3,100",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Marlin|1966|Fastback": {
       "engine": "5.6L V8",
@@ -4927,13 +6331,19 @@
       "weight": 1520,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22.1,
+      "fh": 12.3,
+      "fx": 17.7,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$3,100"
+      "price": "~$3,100",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Rambler|Marlin|1967|Fastback": {
       "engine": "5.6L V8",
@@ -4948,13 +6358,19 @@
       "weight": 1520,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.9,
+      "fh": 12.1,
+      "fx": 17.5,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$3,100"
+      "price": "~$3,100",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     }
   }
 }

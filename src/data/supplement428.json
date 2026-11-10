@@ -6,7 +6,7 @@
       "aspiration": "Turbo",
       "fuelType": "petrol",
       "transmission": "7-speed dual-clutch",
-      "weight": null,
+      "weight": 1370,
       "accelClaimed": true,
       "engine": "1.5L I4 Turbo Petrol",
       "displacement": 1498,
@@ -20,7 +20,11 @@
       "fc": 6,
       "fh": 4.2,
       "fx": 4.9,
-      "price": "$53,100"
+      "price": "$53,100",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Audi|A3|2024|40 TFSI S line quattro": {
       "seats": 5,
@@ -28,7 +32,7 @@
       "aspiration": "Turbo",
       "fuelType": "petrol",
       "transmission": "7-speed dual-clutch",
-      "weight": null,
+      "weight": 1435,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
@@ -36,13 +40,18 @@
       "torque": 320,
       "drivetrain": "AWD",
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 230,
       "acceleration": 7,
       "cargo": 390,
       "fc": 8.6,
       "fh": 5.5,
       "fx": 6.6,
-      "price": "$60,200"
+      "price": "$60,200",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.2 sec"
     },
     "Audi|A3 Sportback|2024|35 TFSI": {
       "seats": 5,
@@ -50,7 +59,7 @@
       "aspiration": "Turbo",
       "fuelType": "petrol",
       "transmission": "7-speed dual-clutch",
-      "weight": null,
+      "weight": 1505,
       "accelClaimed": true,
       "engine": "1.5L I4 Turbo Petrol",
       "displacement": 1498,
@@ -65,7 +74,11 @@
       "fh": 4.3,
       "fx": 5,
       "towing": 1500,
-      "price": "$50,600"
+      "price": "$50,600",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Audi|A3 Sportback|2024|40 TFSI S line quattro": {
       "seats": 5,
@@ -73,7 +86,7 @@
       "aspiration": "Turbo",
       "fuelType": "petrol",
       "transmission": "7-speed dual-clutch",
-      "weight": null,
+      "weight": 1505,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
@@ -81,13 +94,18 @@
       "torque": 320,
       "drivetrain": "AWD",
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 235,
       "acceleration": 7,
       "cargo": 325,
       "fc": 8.7,
       "fh": 5.6,
       "fx": 6.7,
-      "price": "$57,700"
+      "price": "$57,700",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.2 sec"
     },
     "Audi|A3 Sportback|2024|S3": {
       "engine": "2.0L 4-cyl TFSI S quattro",
@@ -100,14 +118,19 @@
       "torque": 400,
       "weight": 1505,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.6,
+      "fh": 5.4,
       "fx": 7.7,
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$71,900",
       "aspiration": "IHI Single-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|A3 Sportback|2024|RS3": {
       "engine": "2.5L 5-cyl TFSI RS quattro",
@@ -120,14 +143,19 @@
       "torque": 500,
       "weight": 1555,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.6,
+      "fh": 6.5,
       "fx": 9.3,
       "acceleration": 3.8,
       "topSpeed": 290,
       "price": "~$92,900",
       "aspiration": "IHI Single-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|A3|2025|35 TFSI S line": {
       "seats": 5,
@@ -135,7 +163,7 @@
       "aspiration": "Turbo",
       "fuelType": "petrol",
       "transmission": "7-speed dual-clutch",
-      "weight": null,
+      "weight": 1370,
       "accelClaimed": true,
       "engine": "1.5L I4 Turbo Petrol",
       "displacement": 1498,
@@ -149,7 +177,11 @@
       "fc": 6.5,
       "fh": 4.5,
       "fx": 5.3,
-      "price": "$57,800"
+      "price": "$57,800",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Audi|A3 Sportback|2025|35 TFSI S line": {
       "seats": 5,
@@ -157,7 +189,7 @@
       "aspiration": "Turbo",
       "fuelType": "petrol",
       "transmission": "7-speed dual-clutch",
-      "weight": null,
+      "weight": 1555,
       "accelClaimed": true,
       "engine": "1.5L I4 Turbo Petrol",
       "displacement": 1498,
@@ -171,7 +203,11 @@
       "fc": 6.6,
       "fh": 4.6,
       "fx": 5.3,
-      "price": "$54,800"
+      "price": "$54,800",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Audi|A3 Sportback|2025|S3": {
       "engine": "2.0L 4-cyl TFSI S quattro",
@@ -184,14 +220,19 @@
       "torque": 400,
       "weight": 1505,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.6,
+      "fh": 5.4,
       "fx": 7.7,
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$72,400",
       "aspiration": "IHI Single-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|A3 Sportback|2025|RS3": {
       "engine": "2.5L 5-cyl TFSI RS quattro",
@@ -204,14 +245,19 @@
       "torque": 500,
       "weight": 1555,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.6,
+      "fh": 6.5,
       "fx": 9.3,
       "acceleration": 3.8,
       "topSpeed": 290,
       "price": "~$93,400",
       "aspiration": "IHI Single-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|A3|2026|TFSI 110kW S line": {
       "topSpeed": 226,
@@ -231,9 +277,13 @@
       "fc": 6.5,
       "fh": 4.5,
       "fx": 5.3,
-      "weight": null,
+      "weight": 1485,
       "price": "$57,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Audi|A3|2026|TFSI 150kW S line quattro": {
       "topSpeed": 245,
@@ -250,12 +300,17 @@
       "transmission": "7-speed dual-clutch",
       "drivetrain": "AWD",
       "fuelTank": 55,
-      "fc": null,
-      "fh": null,
+      "fc": 8.1,
+      "fh": 4.5,
       "weight": 1599,
       "fx": 6.5,
       "price": "$65,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|A3 Sportback|2026|TFSI 110kW S line": {
       "topSpeed": 226,
@@ -275,9 +330,13 @@
       "fc": 6.6,
       "fh": 4.6,
       "fx": 5.3,
-      "weight": null,
+      "weight": 1555,
       "price": "$54,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Audi|A3 Sportback|2026|TFSI 150kW S line quattro": {
       "topSpeed": 245,
@@ -294,12 +353,17 @@
       "transmission": "7-speed dual-clutch",
       "drivetrain": "AWD",
       "fuelTank": 55,
-      "fc": null,
-      "fh": null,
+      "fc": 8.3,
+      "fh": 4.5,
       "weight": 1599,
       "fx": 6.6,
       "price": "$62,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|A3 Sportback|2026|S3": {
       "engine": "2.0L 4-cyl TFSI S quattro",
@@ -312,14 +376,19 @@
       "torque": 400,
       "weight": 1505,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.6,
+      "fh": 5.4,
       "fx": 7.7,
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$72,900",
       "aspiration": "IHI Single-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|A3 Sportback|2026|RS3": {
       "engine": "2.5L 5-cyl TFSI RS quattro",
@@ -332,14 +401,19 @@
       "torque": 500,
       "weight": 1555,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.6,
+      "fh": 6.5,
       "fx": 9.3,
       "acceleration": 3.8,
       "topSpeed": 290,
       "price": "~$93,900",
       "aspiration": "IHI Single-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     }
   }
 }

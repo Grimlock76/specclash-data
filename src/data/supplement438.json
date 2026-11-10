@@ -21,7 +21,8 @@
       "weight": 2048,
       "seats": 5,
       "cargo": 340,
-      "price": "$84,900"
+      "price": "$84,900",
+      "quarterMile": "~16.6 sec"
     },
     "Mercedes-Benz|EQA|2025|EQA250+ City Edition": {
       "fuelType": "electric",
@@ -44,7 +45,8 @@
       "weight": 2048,
       "seats": 5,
       "cargo": 340,
-      "price": "$80,700"
+      "price": "$80,700",
+      "quarterMile": "~16.6 sec"
     },
     "Mercedes-Benz|EQB|2024|EQB250+": {
       "fuelType": "electric",
@@ -55,7 +57,7 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 160,
       "accelClaimed": true,
       "engine": "Single Motor Electric",
       "drivetrain": "FWD",
@@ -64,10 +66,15 @@
       "battery": "70.5 kWh",
       "range": 564,
       "acceleration": 8.9,
-      "weight": null,
+      "weight": 2310,
       "seats": 7,
       "cargo": null,
-      "price": "$89,100"
+      "price": "$89,100",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.8 sec"
     },
     "Mercedes-Benz|EQB|2025|EQB250+": {
       "fuelType": "electric",
@@ -78,7 +85,7 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 150,
       "accelClaimed": true,
       "engine": "Single Motor Electric",
       "drivetrain": "FWD",
@@ -87,10 +94,15 @@
       "battery": "70.5 kWh",
       "range": 564,
       "acceleration": 8.9,
-      "weight": null,
+      "weight": 2310,
       "seats": 7,
       "cargo": null,
-      "price": "$89,100"
+      "price": "$89,100",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.8 sec"
     },
     "Mercedes-Benz|EQB|2025|EQB250+ City Edition": {
       "fuelType": "electric",
@@ -101,7 +113,7 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 150,
       "accelClaimed": true,
       "engine": "Single Motor Electric",
       "drivetrain": "FWD",
@@ -110,10 +122,15 @@
       "battery": "70.5 kWh",
       "range": 564,
       "acceleration": 8.9,
-      "weight": null,
+      "weight": 2310,
       "seats": 7,
       "cargo": null,
-      "price": "$85,400"
+      "price": "$85,400",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.8 sec"
     }
   }
 }

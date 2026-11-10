@@ -11,13 +11,18 @@
       "torque": 215,
       "weight": 1445,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9,
+      "fh": 5,
       "fx": 7.2,
       "acceleration": 9.5,
       "topSpeed": 185,
       "price": "~$28,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Chery|Tiggo 4 Pro|2023|Premium": {
       "engine": "1.5L 4-cyl Turbo",
@@ -30,13 +35,18 @@
       "torque": 215,
       "weight": 1470,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9,
+      "fh": 5,
       "fx": 7.2,
       "acceleration": 9.5,
       "topSpeed": 185,
       "price": "~$32,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Chery|Tiggo 4 Pro|2024|Lite": {
       "engine": "1.5L 4-cyl Turbo",
@@ -49,13 +59,18 @@
       "torque": 215,
       "weight": 1445,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9,
+      "fh": 5,
       "fx": 7.2,
       "acceleration": 9.5,
       "topSpeed": 185,
       "price": "~$29,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Chery|Tiggo 4 Pro|2024|Premium": {
       "engine": "1.5L 4-cyl Turbo",
@@ -68,13 +83,18 @@
       "torque": 215,
       "weight": 1470,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9,
+      "fh": 5,
       "fx": 7.2,
       "acceleration": 9.5,
       "topSpeed": 185,
       "price": "~$33,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Chery|Tiggo 4 Pro|2025|Lite": {
       "engine": "1.5L 4-cyl Turbo",
@@ -87,13 +107,18 @@
       "torque": 215,
       "weight": 1445,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9,
+      "fh": 5,
       "fx": 7.2,
       "acceleration": 9.5,
       "topSpeed": 185,
       "price": "~$30,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Chery|Tiggo 4 Pro|2025|Premium": {
       "engine": "1.5L 4-cyl Turbo",
@@ -106,13 +131,18 @@
       "torque": 215,
       "weight": 1470,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9,
+      "fh": 5,
       "fx": 7.2,
       "acceleration": 9.5,
       "topSpeed": 185,
       "price": "~$34,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Chery|Tiggo 4 Pro|2026|Lite": {
       "engine": "1.5L 4-cyl Turbo",
@@ -125,13 +155,18 @@
       "torque": 215,
       "weight": 1445,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9,
+      "fh": 5,
       "fx": 7.2,
       "acceleration": 9.5,
       "topSpeed": 185,
       "price": "~$31,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Chery|Tiggo 4 Pro|2026|Premium": {
       "engine": "1.5L 4-cyl Turbo",
@@ -144,13 +179,18 @@
       "torque": 215,
       "weight": 1470,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9,
+      "fh": 5,
       "fx": 7.2,
       "acceleration": 9.5,
       "topSpeed": 185,
       "price": "~$35,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|4 Series Gran Coupe|2022|420i Gran Coupe": {
       "engine": "2.0L 4-cyl TwinPower Turbo B48",
@@ -163,13 +203,18 @@
       "torque": 300,
       "weight": 1605,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.4,
+      "fh": 4.6,
       "fx": 6.7,
       "acceleration": 7.5,
       "topSpeed": 235,
       "price": "~$82,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|4 Series Gran Coupe|2022|430i Gran Coupe": {
       "engine": "2.0L 4-cyl TwinPower Turbo B48",
@@ -182,13 +227,18 @@
       "torque": 400,
       "weight": 1650,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.9,
+      "fh": 4.9,
       "fx": 7.1,
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$97,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|4 Series Gran Coupe|2022|M440i Gran Coupe xDrive": {
       "engine": "3.0L 6-cyl TwinPower Turbo B58",
@@ -201,13 +251,18 @@
       "torque": 500,
       "weight": 1840,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 10,
+      "fh": 5.6,
       "fx": 8,
       "acceleration": 4.7,
       "topSpeed": 250,
       "price": "~$119,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~13.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|4 Series Gran Coupe|2023|420i Gran Coupe": {
       "engine": "2.0L 4-cyl TwinPower Turbo B48",
@@ -220,13 +275,18 @@
       "torque": 300,
       "weight": 1605,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.4,
+      "fh": 4.6,
       "fx": 6.7,
       "acceleration": 7.5,
       "topSpeed": 235,
       "price": "~$85,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|4 Series Gran Coupe|2023|430i Gran Coupe": {
       "engine": "2.0L 4-cyl TwinPower Turbo B48",
@@ -239,13 +299,18 @@
       "torque": 400,
       "weight": 1650,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.9,
+      "fh": 4.9,
       "fx": 7.1,
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$100,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|4 Series Gran Coupe|2023|M440i Gran Coupe xDrive": {
       "engine": "3.0L 6-cyl TwinPower Turbo B58",
@@ -258,13 +323,18 @@
       "torque": 500,
       "weight": 1840,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 10,
+      "fh": 5.6,
       "fx": 8,
       "acceleration": 4.7,
       "topSpeed": 250,
       "price": "~$124,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~13.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|4 Series Gran Coupe|2024|420i Gran Coupe": {
       "engine": "2.0L 4-cyl TwinPower Turbo B48",
@@ -277,13 +347,18 @@
       "torque": 300,
       "weight": 1605,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.4,
+      "fh": 4.6,
       "fx": 6.7,
       "acceleration": 7.5,
       "topSpeed": 235,
       "price": "~$87,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|4 Series Gran Coupe|2024|430i Gran Coupe": {
       "engine": "2.0L 4-cyl TwinPower Turbo B48",
@@ -296,13 +371,18 @@
       "torque": 400,
       "weight": 1650,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.9,
+      "fh": 4.9,
       "fx": 7.1,
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$103,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|4 Series Gran Coupe|2024|M440i Gran Coupe xDrive": {
       "engine": "3.0L 6-cyl TwinPower Turbo B58",
@@ -315,13 +395,18 @@
       "torque": 500,
       "weight": 1840,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 10,
+      "fh": 5.6,
       "fx": 8,
       "acceleration": 4.7,
       "topSpeed": 250,
       "price": "~$129,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~13.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|4 Series Gran Coupe|2025|420i Gran Coupe": {
       "engine": "2.0L 4-cyl TwinPower Turbo B48",
@@ -334,13 +419,18 @@
       "torque": 300,
       "weight": 1605,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.4,
+      "fh": 4.6,
       "fx": 6.7,
       "acceleration": 7.5,
       "topSpeed": 235,
       "price": "~$89,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|4 Series Gran Coupe|2025|430i Gran Coupe": {
       "engine": "2.0L 4-cyl TwinPower Turbo B48",
@@ -353,13 +443,18 @@
       "torque": 400,
       "weight": 1650,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.9,
+      "fh": 4.9,
       "fx": 7.1,
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$106,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|4 Series Gran Coupe|2025|M440i Gran Coupe xDrive": {
       "engine": "3.0L 6-cyl TwinPower Turbo B58",
@@ -372,13 +467,18 @@
       "torque": 500,
       "weight": 1840,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 10,
+      "fh": 5.6,
       "fx": 8,
       "acceleration": 4.7,
       "topSpeed": 250,
       "price": "~$134,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~13.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|4 Series Gran Coupe|2026|420i Gran Coupe": {
       "engine": "2.0L 4-cyl TwinPower Turbo B48",
@@ -391,13 +491,18 @@
       "torque": 300,
       "weight": 1605,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.4,
+      "fh": 4.6,
       "fx": 6.7,
       "acceleration": 7.5,
       "topSpeed": 235,
       "price": "~$91,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|4 Series Gran Coupe|2026|430i Gran Coupe": {
       "engine": "2.0L 4-cyl TwinPower Turbo B48",
@@ -410,13 +515,18 @@
       "torque": 400,
       "weight": 1650,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.9,
+      "fh": 4.9,
       "fx": 7.1,
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$109,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|4 Series Gran Coupe|2026|M440i Gran Coupe xDrive": {
       "engine": "3.0L 6-cyl TwinPower Turbo B58",
@@ -429,13 +539,18 @@
       "torque": 500,
       "weight": 1840,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 10,
+      "fh": 5.6,
       "fx": 8,
       "acceleration": 4.7,
       "topSpeed": 250,
       "price": "~$139,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~13.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2019|314 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -448,13 +563,18 @@
       "torque": 330,
       "weight": 2275,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.5,
+      "fh": 6.1,
       "fx": 8.5,
       "acceleration": 14.5,
       "topSpeed": 155,
       "price": "~$65,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~20.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2019|316 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -467,13 +587,18 @@
       "torque": 340,
       "weight": 2275,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.5,
+      "fh": 6.1,
       "fx": 8.5,
       "acceleration": 14.5,
       "topSpeed": 155,
       "price": "~$72,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~20.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2019|319 CDI": {
       "engine": "3.0L V6 OM642 CDI",
@@ -486,13 +611,18 @@
       "torque": 440,
       "weight": 2440,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 12.1,
+      "fh": 7,
       "fx": 9.8,
       "acceleration": 12.5,
       "topSpeed": 165,
       "price": "~$85,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2020|314 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -505,13 +635,18 @@
       "torque": 330,
       "weight": 2275,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.5,
+      "fh": 6.1,
       "fx": 8.5,
       "acceleration": 14.5,
       "topSpeed": 155,
       "price": "~$66,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~20.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2020|316 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -524,13 +659,18 @@
       "torque": 340,
       "weight": 2275,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.5,
+      "fh": 6.1,
       "fx": 8.5,
       "acceleration": 14.5,
       "topSpeed": 155,
       "price": "~$73,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~20.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2020|319 CDI": {
       "engine": "3.0L V6 OM642 CDI",
@@ -543,13 +683,18 @@
       "torque": 440,
       "weight": 2440,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 12.1,
+      "fh": 7,
       "fx": 9.8,
       "acceleration": 12.5,
       "topSpeed": 165,
       "price": "~$86,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2021|314 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -562,13 +707,18 @@
       "torque": 330,
       "weight": 2275,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.5,
+      "fh": 6.1,
       "fx": 8.5,
       "acceleration": 14.5,
       "topSpeed": 155,
       "price": "~$67,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~20.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2021|316 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -581,13 +731,18 @@
       "torque": 340,
       "weight": 2275,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.5,
+      "fh": 6.1,
       "fx": 8.5,
       "acceleration": 14.5,
       "topSpeed": 155,
       "price": "~$74,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~20.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2021|319 CDI": {
       "engine": "3.0L V6 OM642 CDI",
@@ -600,13 +755,18 @@
       "torque": 440,
       "weight": 2440,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 12.1,
+      "fh": 7,
       "fx": 9.8,
       "acceleration": 12.5,
       "topSpeed": 165,
       "price": "~$87,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2022|314 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -619,13 +779,18 @@
       "torque": 330,
       "weight": 2275,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.5,
+      "fh": 6.1,
       "fx": 8.5,
       "acceleration": 14.5,
       "topSpeed": 155,
       "price": "~$68,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~20.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2022|316 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -638,13 +803,18 @@
       "torque": 340,
       "weight": 2275,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.5,
+      "fh": 6.1,
       "fx": 8.5,
       "acceleration": 14.5,
       "topSpeed": 155,
       "price": "~$75,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~20.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2022|319 CDI": {
       "engine": "3.0L V6 OM642 CDI",
@@ -657,13 +827,18 @@
       "torque": 440,
       "weight": 2440,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 12.1,
+      "fh": 7,
       "fx": 9.8,
       "acceleration": 12.5,
       "topSpeed": 165,
       "price": "~$88,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2023|314 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -676,13 +851,18 @@
       "torque": 330,
       "weight": 2275,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.5,
+      "fh": 6.1,
       "fx": 8.5,
       "acceleration": 14.5,
       "topSpeed": 155,
       "price": "~$69,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~20.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2023|316 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -695,13 +875,18 @@
       "torque": 340,
       "weight": 2275,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.5,
+      "fh": 6.1,
       "fx": 8.5,
       "acceleration": 14.5,
       "topSpeed": 155,
       "price": "~$76,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~20.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2023|319 CDI": {
       "engine": "3.0L V6 OM642 CDI",
@@ -714,13 +899,18 @@
       "torque": 440,
       "weight": 2440,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 12.1,
+      "fh": 7,
       "fx": 9.8,
       "acceleration": 12.5,
       "topSpeed": 165,
       "price": "~$89,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2024|314 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -733,13 +923,18 @@
       "torque": 330,
       "weight": 2275,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.5,
+      "fh": 6.1,
       "fx": 8.5,
       "acceleration": 14.5,
       "topSpeed": 155,
       "price": "~$71,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~20.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2024|316 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -752,13 +947,18 @@
       "torque": 340,
       "weight": 2275,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.5,
+      "fh": 6.1,
       "fx": 8.5,
       "acceleration": 14.5,
       "topSpeed": 155,
       "price": "~$78,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~20.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2024|319 CDI": {
       "engine": "3.0L V6 OM642 CDI",
@@ -771,13 +971,18 @@
       "torque": 440,
       "weight": 2440,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 12.1,
+      "fh": 7,
       "fx": 9.8,
       "acceleration": 12.5,
       "topSpeed": 165,
       "price": "~$91,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2025|314 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -790,13 +995,18 @@
       "torque": 330,
       "weight": 2275,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.5,
+      "fh": 6.1,
       "fx": 8.5,
       "acceleration": 14.5,
       "topSpeed": 155,
       "price": "~$73,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~20.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2025|316 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -809,13 +1019,18 @@
       "torque": 340,
       "weight": 2275,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.5,
+      "fh": 6.1,
       "fx": 8.5,
       "acceleration": 14.5,
       "topSpeed": 155,
       "price": "~$80,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~20.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2025|319 CDI": {
       "engine": "3.0L V6 OM642 CDI",
@@ -828,13 +1043,18 @@
       "torque": 440,
       "weight": 2440,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 12.1,
+      "fh": 7,
       "fx": 9.8,
       "acceleration": 12.5,
       "topSpeed": 165,
       "price": "~$93,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2026|314 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -847,13 +1067,18 @@
       "torque": 330,
       "weight": 2275,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.5,
+      "fh": 6.1,
       "fx": 8.5,
       "acceleration": 14.5,
       "topSpeed": 155,
       "price": "~$75,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~20.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2026|316 CDI": {
       "engine": "2.0L 4-cyl OM654 CDI",
@@ -866,13 +1091,18 @@
       "torque": 340,
       "weight": 2275,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.5,
+      "fh": 6.1,
       "fx": 8.5,
       "acceleration": 14.5,
       "topSpeed": 155,
       "price": "~$82,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~20.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Sprinter|2026|319 CDI": {
       "engine": "3.0L V6 OM642 CDI",
@@ -885,13 +1115,18 @@
       "torque": 440,
       "weight": 2440,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 12.1,
+      "fh": 7,
       "fx": 9.8,
       "acceleration": 12.5,
       "topSpeed": 165,
       "price": "~$95,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     }
   }
 }

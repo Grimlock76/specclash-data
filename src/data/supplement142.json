@@ -55,7 +55,8 @@
       "acceleration": 9.5,
       "topSpeed": 206,
       "price": "~$46,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec"
     },
     "Skoda|Kodiaq|2023|Sportline": {
       "engine": "2.0 TSI",
@@ -74,7 +75,8 @@
       "acceleration": 7.8,
       "topSpeed": 215,
       "price": "~$54,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.9 sec"
     },
     "Skoda|Fabia|2026|Style": {
       "engine": "1.0 TSI",
@@ -93,7 +95,12 @@
       "acceleration": 9.9,
       "topSpeed": 192,
       "price": "~$31,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.5 sec",
+      "cargo": 380,
+      "est": [
+        "cargo"
+      ]
     },
     "Skoda|Fabia|2026|Monte Carlo": {
       "engine": "1.0 TSI",
@@ -112,7 +119,12 @@
       "acceleration": 9.9,
       "topSpeed": 192,
       "price": "~$35,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.5 sec",
+      "cargo": 380,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Clio|2026|Intens": {
       "engine": "1.0 TCe",
@@ -131,7 +143,8 @@
       "acceleration": 12,
       "topSpeed": 175,
       "price": "~$34,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.8 sec"
     },
     "Renault|Clio|2026|RS Line": {
       "engine": "1.0L Turbo",
@@ -150,7 +163,8 @@
       "acceleration": 11.5,
       "topSpeed": 175,
       "price": "~$36,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.5 sec"
     },
     "Chevrolet|Corvette|2025|Stingray": {
       "engine": "6.2L V8 LT2 Mid-Engine",
@@ -169,7 +183,8 @@
       "acceleration": 2.9,
       "topSpeed": 312,
       "price": "~$99,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~10.9 sec"
     },
     "Chevrolet|Corvette|2025|Z06": {
       "engine": "5.5L V8 LT6 Flat-Plane",
@@ -188,7 +203,8 @@
       "acceleration": 2.6,
       "topSpeed": 312,
       "price": "~$199,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~10.6 sec"
     },
     "Chevrolet|Equinox|2024|L": {
       "engine": "1.5L I4 Turbo",
@@ -207,7 +223,8 @@
       "acceleration": 9.5,
       "topSpeed": 180,
       "price": "~$38,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.2 sec"
     },
     "Chevrolet|Equinox|2024|LT": {
       "engine": "1.5L I4 Turbo",
@@ -226,7 +243,8 @@
       "acceleration": 9.5,
       "topSpeed": 180,
       "price": "~$43,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.2 sec"
     },
     "Chevrolet|Traverse|2024|LS": {
       "engine": "3.6L V6 DI",
@@ -245,7 +263,8 @@
       "acceleration": 8.5,
       "topSpeed": 185,
       "price": "~$56,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.5 sec"
     },
     "Chevrolet|Traverse|2024|LT": {
       "engine": "3.6L V6 DI",
@@ -264,7 +283,8 @@
       "acceleration": 8.5,
       "topSpeed": 185,
       "price": "~$61,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.5 sec"
     },
     "Ford|Escape|2023|ZH Titanium": {
       "engine": "2.0L EcoBoost Turbo I4",
@@ -283,7 +303,12 @@
       "acceleration": 7.8,
       "topSpeed": 210,
       "price": "~$50,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.9 sec",
+      "cargo": 793,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.7|2026|Pro S": {
       "engine": "Electric",
@@ -302,7 +327,12 @@
       "acceleration": 6.5,
       "topSpeed": 180,
       "price": "~$109,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.8 sec",
+      "cargo": 532,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|S3|2026|S3": {
       "engine": "2.0 TFSI quattro",
@@ -321,7 +351,8 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$70,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.1 sec"
     },
     "Audi|RS3|2024|RS3": {
       "engine": "2.5 TFSI",
@@ -340,7 +371,12 @@
       "acceleration": 3.8,
       "topSpeed": 290,
       "price": "~$84,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.0 sec",
+      "cargo": 380,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|S4|2026|S4": {
       "engine": "3.0 TFSI",
@@ -359,7 +395,12 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "price": "~$122,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.0 sec",
+      "cargo": 480,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|S5|2026|S5": {
       "engine": "3.0 TFSI",
@@ -378,7 +419,12 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "price": "~$112,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.0 sec",
+      "cargo": 455,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|S6|2026|S6": {
       "engine": "2.9 V6 TFSI biturbo",
@@ -397,7 +443,8 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$180,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.8 sec"
     }
   }
 }

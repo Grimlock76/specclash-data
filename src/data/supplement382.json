@@ -12,16 +12,23 @@
       "seats": 5,
       "towing": 3500,
       "fuelTank": 73,
-      "fc": null,
-      "fh": null,
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "fc": 11.4,
+      "fh": 6.5,
+      "topSpeed": 195,
+      "acceleration": 9.7,
+      "cargo": 1090,
       "price": null,
       "transmission": "6-speed manual",
       "fx": 9.2,
       "weight": 2115,
-      "payload": 935
+      "payload": 935,
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "LDV|T60|2023|Max Luxe Manual": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -35,16 +42,23 @@
       "seats": 5,
       "towing": 3500,
       "fuelTank": 73,
-      "fc": null,
-      "fh": null,
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "fc": 11.4,
+      "fh": 6.5,
+      "topSpeed": 190,
+      "acceleration": 9.8,
+      "cargo": 1090,
       "price": null,
       "transmission": "6-speed manual",
       "fx": 9.2,
       "weight": 2150,
-      "payload": 750
+      "payload": 750,
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "LDV|T60|2023|Max Pro Auto": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -58,15 +72,24 @@
       "seats": 5,
       "towing": 3500,
       "fuelTank": 73,
-      "fc": null,
-      "fh": null,
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "fc": 11.4,
+      "fh": 6.5,
+      "topSpeed": 195,
+      "acceleration": 9.7,
+      "cargo": 1090,
       "price": null,
       "transmission": "8-speed automatic",
-      "fx": null,
-      "weight": null
+      "fx": 9.2,
+      "weight": 2115,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fx",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~17.4 sec"
     },
     "LDV|T60|2023|Max Luxe Auto": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -80,15 +103,24 @@
       "seats": 5,
       "towing": 3500,
       "fuelTank": 73,
-      "fc": null,
-      "fh": null,
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "fc": 11.4,
+      "fh": 6.5,
+      "topSpeed": 195,
+      "acceleration": 9.7,
+      "cargo": 1090,
       "price": null,
       "transmission": "8-speed automatic",
-      "fx": null,
-      "weight": null
+      "fx": 9.2,
+      "weight": 2115,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fx",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~17.4 sec"
     },
     "LDV|T60|2024|Max Pro Manual": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -102,16 +134,22 @@
       "seats": 5,
       "towing": 3500,
       "fuelTank": 73,
-      "fc": null,
-      "fh": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "fc": 11.4,
+      "fh": 6.5,
+      "topSpeed": 195,
+      "acceleration": 9.6,
       "cargo": null,
       "price": null,
       "transmission": "6-speed manual",
       "fx": 9.2,
       "weight": 2115,
-      "payload": 935
+      "payload": 935,
+      "quarterMile": "~17.3 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "LDV|T60|2024|Max Plus Manual": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -125,16 +163,22 @@
       "seats": 5,
       "towing": 3500,
       "fuelTank": 73,
-      "fc": null,
-      "fh": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "fc": 11.5,
+      "fh": 6.6,
+      "topSpeed": 190,
+      "acceleration": 10,
       "cargo": null,
       "price": null,
       "transmission": "6-speed manual",
       "fx": 9.3,
       "weight": 2210,
-      "payload": 840
+      "payload": 840,
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "LDV|T60|2024|Max Luxe Manual": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -148,16 +192,22 @@
       "seats": 5,
       "towing": 3500,
       "fuelTank": 73,
-      "fc": null,
-      "fh": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "fc": 11.4,
+      "fh": 6.5,
+      "topSpeed": 190,
+      "acceleration": 9.7,
       "cargo": null,
       "price": null,
       "transmission": "6-speed manual",
       "fx": 9.2,
       "weight": 2150,
-      "payload": 750
+      "payload": 750,
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "LDV|T60|2024|Max Pro Auto": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -171,16 +221,22 @@
       "seats": 5,
       "towing": 3500,
       "fuelTank": 73,
-      "fc": null,
-      "fh": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "fc": 10,
+      "fh": 5.8,
+      "topSpeed": 195,
+      "acceleration": 9.6,
       "cargo": null,
       "price": null,
       "transmission": "8-speed automatic",
       "fx": 8.1,
       "weight": 2110,
-      "payload": 1040
+      "payload": 1040,
+      "quarterMile": "~17.3 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "LDV|T60|2024|Max Plus Auto": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -194,16 +250,22 @@
       "seats": 5,
       "towing": 3500,
       "fuelTank": 73,
-      "fc": null,
-      "fh": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "fc": 10,
+      "fh": 5.8,
+      "topSpeed": 190,
+      "acceleration": 9.9,
       "cargo": null,
       "price": null,
       "transmission": "8-speed automatic",
       "fx": 8.1,
       "weight": 2180,
-      "payload": 870
+      "payload": 870,
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "LDV|T60|2024|Max Plus Mega Tub": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -217,16 +279,22 @@
       "seats": 5,
       "towing": 3500,
       "fuelTank": 73,
-      "fc": null,
-      "fh": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "fc": 10,
+      "fh": 5.8,
+      "topSpeed": 190,
+      "acceleration": 10.2,
       "cargo": null,
       "price": null,
       "transmission": "8-speed automatic",
       "fx": 8.1,
       "weight": 2250,
-      "payload": 800
+      "payload": 800,
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "LDV|T60|2025|Max Pro Auto": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -240,16 +308,22 @@
       "seats": 5,
       "towing": 3500,
       "fuelTank": 73,
-      "fc": null,
-      "fh": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "fc": 10,
+      "fh": 5.8,
+      "topSpeed": 195,
+      "acceleration": 9.7,
       "cargo": null,
       "price": null,
       "transmission": "8-speed automatic",
       "fx": 8.1,
       "weight": 2110,
-      "payload": 1040
+      "payload": 1040,
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "LDV|T60|2025|Max Plus Auto": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -263,16 +337,22 @@
       "seats": 5,
       "towing": 3500,
       "fuelTank": 73,
-      "fc": null,
-      "fh": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "fc": 10,
+      "fh": 5.8,
+      "topSpeed": 190,
+      "acceleration": 9.9,
       "cargo": null,
       "price": null,
       "transmission": "8-speed automatic",
       "fx": 8.1,
       "weight": 2180,
-      "payload": 870
+      "payload": 870,
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "LDV|T60|2025|Max Plus Mega Tub": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -286,16 +366,22 @@
       "seats": 5,
       "towing": 3500,
       "fuelTank": 73,
-      "fc": null,
-      "fh": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "fc": 10,
+      "fh": 5.8,
+      "topSpeed": 190,
+      "acceleration": 10.2,
       "cargo": null,
       "price": null,
       "transmission": "8-speed automatic",
       "fx": 8.1,
       "weight": 2250,
-      "payload": 800
+      "payload": 800,
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "LDV|T60|2026|Max Pro Auto": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -309,16 +395,22 @@
       "seats": 5,
       "towing": 3500,
       "fuelTank": 73,
-      "fc": null,
-      "fh": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "fc": 10,
+      "fh": 5.8,
+      "topSpeed": 180,
+      "acceleration": 9.1,
       "cargo": null,
       "price": "$45,253",
       "transmission": "8-speed automatic",
       "fx": 8.1,
       "weight": 2110,
-      "payload": 1040
+      "payload": 1040,
+      "quarterMile": "~17.0 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "LDV|T60|2026|Max Plus Auto": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -332,16 +424,22 @@
       "seats": 5,
       "towing": 3500,
       "fuelTank": 73,
-      "fc": null,
-      "fh": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "fc": 10,
+      "fh": 5.8,
+      "topSpeed": 180,
+      "acceleration": 9.4,
       "cargo": null,
       "price": "$52,095",
       "transmission": "8-speed automatic",
       "fx": 8.1,
       "weight": 2180,
-      "payload": 870
+      "payload": 870,
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "LDV|T60|2026|Max Plus Mega Tub": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -355,16 +453,22 @@
       "seats": 5,
       "towing": 3500,
       "fuelTank": 73,
-      "fc": null,
-      "fh": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "fc": 10,
+      "fh": 5.8,
+      "topSpeed": 180,
+      "acceleration": 9.7,
       "cargo": null,
       "price": "$53,674",
       "transmission": "8-speed automatic",
       "fx": 8.1,
       "weight": 2250,
-      "payload": 800
+      "payload": 800,
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     }
   }
 }

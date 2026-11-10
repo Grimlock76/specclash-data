@@ -17,7 +17,12 @@
       "acceleration": 11.5,
       "topSpeed": 195,
       "price": "~$39,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.5 sec",
+      "cargo": 456,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Puma|2025|ST-Line X": {
       "engine": "1.0L I3 EcoBoost mHEV",
@@ -36,7 +41,12 @@
       "acceleration": 11.5,
       "topSpeed": 195,
       "price": "~$42,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.5 sec",
+      "cargo": 456,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Puma|2025|ST": {
       "engine": "1.5L I3 EcoBoost",
@@ -55,7 +65,12 @@
       "acceleration": 6.7,
       "topSpeed": 222,
       "price": "~$49,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.9 sec",
+      "cargo": 456,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Puma|2026|ST-Line": {
       "engine": "1.0L I3 EcoBoost mHEV",
@@ -74,7 +89,12 @@
       "acceleration": 11.5,
       "topSpeed": 195,
       "price": "~$41,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.5 sec",
+      "cargo": 456,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Puma|2026|ST-Line X": {
       "engine": "1.0L I3 EcoBoost mHEV",
@@ -93,7 +113,12 @@
       "acceleration": 11.5,
       "topSpeed": 195,
       "price": "~$44,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.5 sec",
+      "cargo": 456,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Puma|2026|ST": {
       "engine": "1.5L I3 EcoBoost",
@@ -112,7 +137,12 @@
       "acceleration": 6.7,
       "topSpeed": 222,
       "price": "~$51,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.9 sec",
+      "cargo": 456,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

@@ -3,7 +3,7 @@
     "Mercedes-Benz|GLE|2024|GLE300 d 4MATIC": {
       "topSpeed": 230,
       "acceleration": 6.9,
-      "cargo": null,
+      "cargo": 630,
       "seats": 5,
       "transmission": "9-speed automatic",
       "drivetrain": "AWD",
@@ -20,12 +20,18 @@
       "fx": 6.6,
       "fuelTank": 85,
       "price": "$144,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2460,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~15.1 sec"
     },
     "Mercedes-Benz|GLE|2024|GLE300 d 4MATIC Night Edition": {
       "topSpeed": 230,
       "acceleration": 6.9,
-      "cargo": null,
+      "cargo": 630,
       "seats": 5,
       "transmission": "9-speed automatic",
       "drivetrain": "AWD",
@@ -42,12 +48,18 @@
       "fx": 6.6,
       "fuelTank": 85,
       "price": "$141,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2460,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~15.1 sec"
     },
     "Mercedes-Benz|GLE|2024|GLE450 d 4MATIC": {
       "topSpeed": 250,
       "acceleration": 5.6,
-      "cargo": null,
+      "cargo": 630,
       "seats": 5,
       "engine": "3.0L I6 Turbo Diesel",
       "displacement": 2989,
@@ -63,12 +75,18 @@
       "fh": 6.4,
       "fx": 7.4,
       "price": "$166,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2460,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~13.9 sec"
     },
     "Mercedes-Benz|GLE|2024|GLE450 4MATIC": {
-      "topSpeed": null,
+      "topSpeed": 265,
       "acceleration": 5.6,
-      "cargo": null,
+      "cargo": 630,
       "seats": 5,
       "engine": "3.0L I6 Turbo Petrol (MHEV)",
       "displacement": 2998,
@@ -84,12 +102,19 @@
       "fh": 7.8,
       "fx": 9.5,
       "price": "$159,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2460,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.9 sec"
     },
     "Mercedes-Benz|GLE|2024|GLE53 AMG 4MATIC+": {
       "topSpeed": 250,
       "acceleration": 5,
-      "cargo": null,
+      "cargo": 630,
       "seats": 5,
       "engine": "3.0L I6 Turbo Petrol (MHEV)",
       "displacement": 2999,
@@ -101,16 +126,24 @@
       "towing": 2700,
       "power": 320,
       "torque": 560,
-      "fc": null,
-      "fh": null,
+      "fc": 12.6,
+      "fh": 7,
       "fx": 10.1,
       "price": "$190,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2460,
+      "est": [
+        "weight",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~13.3 sec"
     },
     "Mercedes-Benz|GLE|2024|GLE63 S AMG 4MATIC+": {
       "topSpeed": 280,
       "acceleration": 3.9,
-      "cargo": null,
+      "cargo": 630,
       "seats": 5,
       "transmission": "9-speed automatic",
       "drivetrain": "AWD",
@@ -126,7 +159,13 @@
       "fh": 10,
       "fx": 13,
       "price": "$268,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2430,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~12.2 sec"
     }
   }
 }

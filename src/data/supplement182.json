@@ -17,7 +17,8 @@
       "acceleration": 6.9,
       "topSpeed": 217,
       "price": "~$69,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.1 sec"
     },
     "Tesla|Model Y|2022|Rear-Wheel Drive": {
       "engine": "Single Motor Electric",
@@ -36,7 +37,8 @@
       "acceleration": 6.9,
       "topSpeed": 217,
       "price": "~$67,400",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.1 sec"
     },
     "Tesla|Model Y|2022|Long Range 7-Seat": {
       "engine": "Dual Motor Electric",
@@ -55,7 +57,8 @@
       "acceleration": 5,
       "topSpeed": 217,
       "price": "~$91,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.3 sec"
     },
     "Chevrolet|Bolt EV|2022|1LT": {
       "engine": "Single Motor Electric",
@@ -74,7 +77,8 @@
       "acceleration": 6.5,
       "topSpeed": 145,
       "price": "~$47,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.8 sec"
     },
     "Chevrolet|Bolt EV|2022|EUV LT": {
       "engine": "Single Motor Electric",
@@ -93,7 +97,8 @@
       "acceleration": 6.5,
       "topSpeed": 145,
       "price": "~$52,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.8 sec"
     },
     "Chevrolet|Bolt EV|2022|EUV Premier": {
       "engine": "Single Motor Electric",
@@ -112,7 +117,8 @@
       "acceleration": 6.5,
       "topSpeed": 145,
       "price": "~$57,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.8 sec"
     },
     "BMW|M4|2022|M4 Competition Convertible": {
       "engine": "3.0L I6 Twin-Turbo M TwinPower",
@@ -131,7 +137,12 @@
       "acceleration": 3.9,
       "topSpeed": 250,
       "price": "~$189,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.2 sec",
+      "cargo": 440,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|M4|2022|M4 Competition xDrive Convertible": {
       "engine": "3.0L I6 Twin-Turbo M TwinPower",
@@ -150,7 +161,12 @@
       "acceleration": 3.7,
       "topSpeed": 250,
       "price": "~$199,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.9 sec",
+      "cargo": 440,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLC|2022|GLC300e": {
       "engine": "2.0L I4 Turbo PHEV",
@@ -163,13 +179,20 @@
       "torque": 550,
       "weight": 2095,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "fx": 1.2,
       "acceleration": 6.6,
       "topSpeed": 210,
       "price": "~$119,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 575
     },
     "Mercedes-Benz|GLC|2022|GLC63 S E AMG": {
       "engine": "2.0L I4 Twin-Turbo PHEV AMG",
@@ -182,13 +205,20 @@
       "torque": 1020,
       "weight": 2285,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3,
+      "fh": 2.1,
       "fx": 2.6,
       "acceleration": 3.5,
       "topSpeed": 250,
       "price": "~$249,900",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 575
     },
     "Porsche|Cayenne|2022|Turbo GT": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -207,7 +237,12 @@
       "acceleration": 3.3,
       "topSpeed": 300,
       "price": "~$499,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.4 sec",
+      "cargo": 770,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2022|Turbo S": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -226,7 +261,12 @@
       "acceleration": 3.9,
       "topSpeed": 286,
       "price": "~$395,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.2 sec",
+      "cargo": 770,
+      "est": [
+        "cargo"
+      ]
     },
     "Mazda|CX-3|2022|Maxx Sport": {
       "engine": "2.0L I4 NA",
@@ -245,7 +285,12 @@
       "acceleration": 10,
       "topSpeed": 180,
       "price": "~$33,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.5 sec",
+      "cargo": 264,
+      "est": [
+        "cargo"
+      ]
     },
     "Mazda|CX-3|2022|sTouring": {
       "engine": "2.0L I4 NA",
@@ -264,7 +309,12 @@
       "acceleration": 10,
       "topSpeed": 180,
       "price": "~$36,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.5 sec",
+      "cargo": 264,
+      "est": [
+        "cargo"
+      ]
     },
     "Mitsubishi|ASX|2022|MK2 ES": {
       "engine": "1.3L I4 Turbo",
@@ -283,7 +333,12 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "price": "~$37,490",
-      "aspiration": "MHI Single-Turbo"
+      "aspiration": "MHI Single-Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 393,
+      "est": [
+        "cargo"
+      ]
     },
     "Mitsubishi|ASX|2022|MK2 LS": {
       "engine": "1.3L I4 Turbo",
@@ -302,7 +357,12 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "price": "~$41,490",
-      "aspiration": "MHI Single-Turbo"
+      "aspiration": "MHI Single-Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 393,
+      "est": [
+        "cargo"
+      ]
     },
     "Mitsubishi|Eclipse Cross|2022|PHEV ES": {
       "engine": "2.4L I4 PHEV",
@@ -315,13 +375,20 @@
       "torque": 350,
       "weight": 1840,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.2,
+      "fh": 1.5,
       "fx": 1.9,
       "acceleration": 9.3,
       "topSpeed": 200,
       "price": "~$47,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 341
     },
     "Mitsubishi|Eclipse Cross|2022|PHEV Exceed": {
       "engine": "2.4L I4 PHEV",
@@ -334,13 +401,20 @@
       "torque": 350,
       "weight": 1850,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.2,
+      "fh": 1.5,
       "fx": 1.9,
       "acceleration": 9.3,
       "topSpeed": 200,
       "price": "~$52,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 341
     },
     "Lamborghini|Urus|2022|S": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -359,7 +433,12 @@
       "acceleration": 3.5,
       "topSpeed": 305,
       "price": "~$480,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.7 sec",
+      "cargo": 616,
+      "est": [
+        "cargo"
+      ]
     },
     "Lamborghini|Urus|2022|Performante": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -378,7 +457,12 @@
       "acceleration": 3.3,
       "topSpeed": 306,
       "price": "~$540,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.4 sec",
+      "cargo": 616,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

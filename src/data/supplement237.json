@@ -19,7 +19,8 @@
       "cargo": 203,
       "acceleration": 8.6,
       "topSpeed": 200,
-      "price": "~$45,990"
+      "price": "~$45,990",
+      "quarterMile": "~16.6 sec"
     },
     "MG|MG QS|2025|Essence": {
       "engine": "2.0L I4 Turbo",
@@ -40,7 +41,8 @@
       "cargo": 203,
       "acceleration": 8.4,
       "topSpeed": 200,
-      "price": "~$50,990"
+      "price": "~$50,990",
+      "quarterMile": "~16.4 sec"
     },
     "MG|MG QS|2026|Excite": {
       "engine": "2.0L I4 Turbo",
@@ -61,7 +63,8 @@
       "cargo": 203,
       "acceleration": 8.6,
       "topSpeed": 200,
-      "price": "~$45,990"
+      "price": "~$45,990",
+      "quarterMile": "~16.6 sec"
     },
     "MG|MG QS|2026|Essence": {
       "engine": "2.0L I4 Turbo",
@@ -82,7 +85,8 @@
       "cargo": 203,
       "acceleration": 8.4,
       "topSpeed": 200,
-      "price": "~$50,990"
+      "price": "~$50,990",
+      "quarterMile": "~16.4 sec"
     },
     "MG|MG U9|2025|Explore": {
       "engine": "2.5L I4 Turbo-Diesel",
@@ -103,7 +107,8 @@
       "cargo": 1100,
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$55,990"
+      "price": "~$55,990",
+      "quarterMile": "~17.9 sec"
     },
     "MG|MG U9|2026|Explore": {
       "engine": "2.5L I4 Turbo-Diesel",
@@ -124,7 +129,8 @@
       "cargo": 1100,
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$55,990"
+      "price": "~$55,990",
+      "quarterMile": "~17.9 sec"
     },
     "MG|MG S5 EV|2025|Standard Range": {
       "engine": "Single Motor Electric",
@@ -145,7 +151,8 @@
       "cargo": 453,
       "acceleration": 8,
       "topSpeed": 170,
-      "price": "~$40,490"
+      "price": "~$40,490",
+      "quarterMile": "~16.1 sec"
     },
     "MG|MG S5 EV|2025|Long Range": {
       "engine": "Single Motor Electric",
@@ -166,7 +173,8 @@
       "cargo": 453,
       "acceleration": 6.8,
       "topSpeed": 170,
-      "price": "~$46,990"
+      "price": "~$46,990",
+      "quarterMile": "~15.0 sec"
     },
     "MG|MG S5 EV|2026|Standard Range": {
       "engine": "Single Motor Electric",
@@ -187,7 +195,8 @@
       "cargo": 453,
       "acceleration": 8,
       "topSpeed": 170,
-      "price": "~$40,490"
+      "price": "~$40,490",
+      "quarterMile": "~16.1 sec"
     },
     "MG|MG S5 EV|2026|Long Range": {
       "engine": "Single Motor Electric",
@@ -208,7 +217,8 @@
       "cargo": 453,
       "acceleration": 6.8,
       "topSpeed": 170,
-      "price": "~$46,990"
+      "price": "~$46,990",
+      "quarterMile": "~15.0 sec"
     },
     "GWM|Cannon Alpha|2024|Ultra Diesel": {
       "engine": "2.4L I4 Turbo-Diesel",
@@ -229,7 +239,8 @@
       "cargo": 1200,
       "acceleration": 11.5,
       "topSpeed": 175,
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "quarterMile": "~18.5 sec"
     },
     "GWM|Cannon Alpha|2024|Ultra PHEV": {
       "engine": "2.0L I4 Turbo PHEV",
@@ -250,7 +261,8 @@
       "cargo": 1200,
       "acceleration": 6.9,
       "topSpeed": 180,
-      "price": "~$64,990"
+      "price": "~$64,990",
+      "quarterMile": "~15.1 sec"
     },
     "GWM|Cannon Alpha|2025|Ultra Diesel": {
       "engine": "2.4L I4 Turbo-Diesel",
@@ -271,7 +283,8 @@
       "cargo": 1200,
       "acceleration": 11.5,
       "topSpeed": 175,
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "quarterMile": "~18.5 sec"
     },
     "GWM|Cannon Alpha|2025|Ultra PHEV": {
       "engine": "2.0L I4 Turbo PHEV",
@@ -292,7 +305,8 @@
       "cargo": 1200,
       "acceleration": 6.9,
       "topSpeed": 180,
-      "price": "~$64,990"
+      "price": "~$64,990",
+      "quarterMile": "~15.1 sec"
     },
     "GWM|Cannon Alpha|2026|Ultra Diesel": {
       "engine": "2.4L I4 Turbo-Diesel",
@@ -313,7 +327,8 @@
       "cargo": 1200,
       "acceleration": 11.5,
       "topSpeed": 175,
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "quarterMile": "~18.5 sec"
     },
     "GWM|Cannon Alpha|2026|Ultra PHEV": {
       "engine": "2.0L I4 Turbo PHEV",
@@ -334,7 +349,8 @@
       "cargo": 1200,
       "acceleration": 6.9,
       "topSpeed": 180,
-      "price": "~$64,990"
+      "price": "~$64,990",
+      "quarterMile": "~15.1 sec"
     },
     "Chery|Tiggo 9|2025|2.0T AWD": {
       "engine": "2.0L I4 Turbo",
@@ -355,7 +371,8 @@
       "cargo": 660,
       "acceleration": 8,
       "topSpeed": 200,
-      "price": "~$49,990"
+      "price": "~$49,990",
+      "quarterMile": "~16.1 sec"
     },
     "Chery|Tiggo 9|2025|Super Hybrid PHEV": {
       "engine": "1.5L I4 Turbo PHEV",
@@ -376,7 +393,8 @@
       "cargo": 660,
       "acceleration": 6.3,
       "topSpeed": 200,
-      "price": "~$55,990"
+      "price": "~$55,990",
+      "quarterMile": "~14.6 sec"
     },
     "Chery|Tiggo 9|2026|2.0T AWD": {
       "engine": "2.0L I4 Turbo",
@@ -397,7 +415,8 @@
       "cargo": 660,
       "acceleration": 8,
       "topSpeed": 200,
-      "price": "~$49,990"
+      "price": "~$49,990",
+      "quarterMile": "~16.1 sec"
     },
     "Chery|Tiggo 9|2026|Super Hybrid PHEV": {
       "engine": "1.5L I4 Turbo PHEV",
@@ -418,7 +437,8 @@
       "cargo": 660,
       "acceleration": 6.3,
       "topSpeed": 200,
-      "price": "~$55,990"
+      "price": "~$55,990",
+      "quarterMile": "~14.6 sec"
     },
     "Mahindra|Pik-Up|2007|S Dual Cab": {
       "engine": "2.2L I4 mHawk Turbo-Diesel",
@@ -439,7 +459,8 @@
       "cargo": 1000,
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~19.8 sec"
     },
     "Mahindra|Pik-Up|2008|S Dual Cab": {
       "engine": "2.2L I4 mHawk Turbo-Diesel",
@@ -460,7 +481,8 @@
       "cargo": 1000,
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~19.8 sec"
     },
     "Mahindra|Pik-Up|2009|S Dual Cab": {
       "engine": "2.2L I4 mHawk Turbo-Diesel",
@@ -481,7 +503,8 @@
       "cargo": 1000,
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~19.8 sec"
     },
     "Mahindra|Pik-Up|2010|S Dual Cab": {
       "engine": "2.2L I4 mHawk Turbo-Diesel",
@@ -502,7 +525,8 @@
       "cargo": 1000,
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~19.8 sec"
     },
     "Mahindra|Pik-Up|2011|S Dual Cab": {
       "engine": "2.2L I4 mHawk Turbo-Diesel",
@@ -523,7 +547,8 @@
       "cargo": 1000,
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~19.8 sec"
     },
     "Mahindra|Pik-Up|2012|S Dual Cab": {
       "engine": "2.2L I4 mHawk Turbo-Diesel",
@@ -544,7 +569,8 @@
       "cargo": 1000,
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~19.8 sec"
     },
     "Mahindra|Pik-Up|2013|S Dual Cab": {
       "engine": "2.2L I4 mHawk Turbo-Diesel",
@@ -565,7 +591,8 @@
       "cargo": 1000,
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~19.8 sec"
     },
     "Mahindra|Pik-Up|2014|S Dual Cab": {
       "engine": "2.2L I4 mHawk Turbo-Diesel",
@@ -586,7 +613,8 @@
       "cargo": 1000,
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~19.8 sec"
     },
     "Mahindra|Pik-Up|2015|S Dual Cab": {
       "engine": "2.2L I4 mHawk Turbo-Diesel",
@@ -607,7 +635,8 @@
       "cargo": 1000,
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~19.8 sec"
     },
     "Mahindra|Pik-Up|2016|S Dual Cab": {
       "engine": "2.2L I4 mHawk Turbo-Diesel",
@@ -628,7 +657,8 @@
       "cargo": 1000,
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~19.8 sec"
     }
   }
 }

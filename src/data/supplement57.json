@@ -606,7 +606,8 @@
       "topSpeed": 200,
       "cargo": 594,
       "price": "~$55,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.8 sec"
     },
     "Tesla|Model 3|2020|Long Range": {
       "engine": "Dual Motor Electric",
@@ -626,7 +627,8 @@
       "topSpeed": 200,
       "cargo": 594,
       "price": "~$65,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.3 sec"
     },
     "Tesla|Model S|2018|75D": {
       "engine": "Dual Motor Electric",
@@ -646,7 +648,8 @@
       "topSpeed": 200,
       "cargo": 744,
       "price": "~$129,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.5 sec"
     },
     "Tesla|Model S|2018|P100D": {
       "engine": "Dual Motor Electric Performance",
@@ -686,7 +689,8 @@
       "topSpeed": 200,
       "cargo": 2830,
       "price": "~$139,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.7 sec"
     },
     "Tesla|Model X|2018|P100D": {
       "engine": "Dual Motor Electric Performance",

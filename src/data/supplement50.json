@@ -456,7 +456,8 @@
       "cargo": 520,
       "bodyStyle": "SUV",
       "price": "~$69,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Audi|Q4 e-tron|2022|50 quattro": {
       "engine": "Dual electric motor quattro",
@@ -473,7 +474,8 @@
       "cargo": 520,
       "bodyStyle": "SUV",
       "price": "~$80,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.5 sec"
     },
     "Audi|Q4 e-tron|2023|40": {
       "engine": "Rear electric motor",
@@ -490,7 +492,8 @@
       "cargo": 520,
       "bodyStyle": "SUV",
       "price": "~$69,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Audi|Q4 e-tron|2023|50 quattro": {
       "engine": "Dual electric motor quattro",
@@ -507,7 +510,8 @@
       "cargo": 520,
       "bodyStyle": "SUV",
       "price": "~$80,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.5 sec"
     },
     "Audi|A3|2009|1.8 TFSI": {
       "engine": "1.8 TFSI",

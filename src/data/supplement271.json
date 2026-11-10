@@ -1,7 +1,7 @@
 {
   "specs": {
     "Skoda|Octavia|2026|110TSI Select Liftback": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.7,
       "cargo": 600,
       "engine": "1.4L I4 Turbo Petrol",
@@ -20,10 +20,16 @@
       "towing": 1500,
       "fuelTank": 45,
       "price": "$39,590",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1360,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Skoda|Octavia|2026|Select mHEV Liftback": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.5,
       "cargo": 600,
       "engine": "1.5L I4 Turbo Petrol (MHEV)",
@@ -35,17 +41,25 @@
       "torque": 250,
       "transmission": "7-speed dual-clutch",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 6.8,
+      "fh": 3.7,
       "fx": 5.4,
       "seats": 5,
       "towing": 1500,
       "fuelTank": 45,
       "price": "$41,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1360,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~16.5 sec"
     },
     "Skoda|Octavia|2026|110TSI Sportline Liftback": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.7,
       "cargo": 600,
       "engine": "1.4L I4 Turbo Petrol",
@@ -64,10 +78,16 @@
       "towing": 1500,
       "fuelTank": 45,
       "price": "$44,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1360,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Skoda|Octavia|2026|RS Liftback": {
-      "topSpeed": null,
+      "topSpeed": 260,
       "acceleration": 6.4,
       "cargo": 600,
       "engine": "2.0L I4 Turbo Petrol",
@@ -86,10 +106,16 @@
       "towing": 1600,
       "fuelTank": 50,
       "price": "$58,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1430,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.7 sec"
     },
     "Skoda|Octavia|2026|110TSI Select Wagon": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.7,
       "cargo": 640,
       "engine": "1.4L I4 Turbo Petrol",
@@ -108,10 +134,16 @@
       "towing": 1500,
       "fuelTank": 45,
       "price": "$41,090",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1360,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Skoda|Octavia|2026|RS Wagon": {
-      "topSpeed": null,
+      "topSpeed": 260,
       "acceleration": 6.5,
       "cargo": 640,
       "engine": "2.0L I4 Turbo Petrol",
@@ -130,10 +162,16 @@
       "towing": 1600,
       "fuelTank": 50,
       "price": "$59,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1430,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.8 sec"
     },
     "Skoda|Karoq|2026|110TSI Select": {
-      "topSpeed": null,
+      "topSpeed": 195,
       "acceleration": 9.2,
       "cargo": 521,
       "engine": "1.4L I4 Turbo Petrol",
@@ -153,10 +191,16 @@
       "fuelTank": 50,
       "groundClearance": 161,
       "price": "$38,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1540,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Skoda|Karoq|2026|110TSI Sportline": {
-      "topSpeed": null,
+      "topSpeed": 195,
       "acceleration": 9.2,
       "cargo": 521,
       "engine": "1.4L I4 Turbo Petrol",
@@ -175,10 +219,16 @@
       "towing": 1500,
       "fuelTank": 50,
       "price": "$44,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1540,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Skoda|Karoq|2026|140TSI Sportline": {
-      "topSpeed": null,
+      "topSpeed": 215,
       "acceleration": 7,
       "cargo": 521,
       "engine": "2.0L I4 Turbo Petrol",
@@ -198,7 +248,13 @@
       "fuelTank": 55,
       "groundClearance": 170,
       "price": "$52,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1540,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.2 sec"
     }
   }
 }

@@ -7,7 +7,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 146,
-      "torque": null,
+      "torque": 285,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 4,
@@ -17,10 +17,14 @@
       "seats": 5,
       "cargo": 368,
       "fuelTank": 43,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 9.2,
       "price": "$55,370",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Lexus|UX|2026|UX300h Sports Luxury": {
       "engine": "2.0L I4 Petrol Hybrid",
@@ -29,7 +33,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 146,
-      "torque": null,
+      "torque": 285,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 4,
@@ -39,10 +43,14 @@
       "seats": 5,
       "cargo": 368,
       "fuelTank": 43,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 9.2,
       "price": "$62,320",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Lexus|UX|2026|UX300h Sports Luxury AWD": {
       "engine": "2.0L I4 Petrol Hybrid",
@@ -51,20 +59,26 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 146,
-      "torque": null,
+      "torque": 285,
       "transmission": "CVT",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5,
+      "fh": 3.7,
       "fx": 4.4,
       "weight": 1640,
       "seats": 5,
       "cargo": 368,
       "fuelTank": 43,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 9.1,
       "price": "$70,520",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~17.0 sec"
     },
     "Lexus|UX|2026|UX300h F Sport": {
       "engine": "2.0L I4 Petrol Hybrid",
@@ -73,7 +87,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 146,
-      "torque": null,
+      "torque": 285,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 4,
@@ -83,10 +97,14 @@
       "seats": 5,
       "cargo": 368,
       "fuelTank": 43,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 9.2,
       "price": "$63,110",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Lexus|UX|2026|UX300h F Sport AWD": {
       "engine": "2.0L I4 Petrol Hybrid",
@@ -95,20 +113,26 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 146,
-      "torque": null,
+      "torque": 285,
       "transmission": "CVT",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5,
+      "fh": 3.7,
       "fx": 4.4,
       "weight": 1640,
       "seats": 5,
       "cargo": 368,
       "fuelTank": 43,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 9.1,
       "price": "$73,210",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~17.0 sec"
     }
   }
 }

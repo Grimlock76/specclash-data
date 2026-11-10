@@ -13,7 +13,7 @@
       "drivetrain": "FWD",
       "power": 150,
       "torque": 310,
-      "topSpeed": null,
+      "topSpeed": 160,
       "seats": 5,
       "towing": 750,
       "cargo": 440,
@@ -22,7 +22,11 @@
       "acceleration": 7.9,
       "weight": 1680,
       "price": "$39,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BYD|Atto 3|2025|Premium": {
       "fuelType": "electric",
@@ -37,7 +41,7 @@
       "drivetrain": "FWD",
       "power": 150,
       "torque": 310,
-      "topSpeed": null,
+      "topSpeed": 160,
       "seats": 5,
       "towing": 750,
       "cargo": 440,
@@ -46,7 +50,11 @@
       "acceleration": 7.3,
       "weight": 1750,
       "price": "$44,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

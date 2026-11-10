@@ -1,14 +1,14 @@
 {
   "specs": {
     "Volkswagen|Golf|2024|110TSI Life": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.5,
-      "cargo": null,
+      "cargo": 377,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1320,
       "engine": "1.4L I4 Turbo Petrol",
       "displacement": 1395,
       "power": 110,
@@ -19,17 +19,23 @@
       "fh": 5,
       "fx": 5.8,
       "price": "$39,190",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.5 sec"
     },
     "Volkswagen|Golf|2024|110TSI R-Line": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.5,
-      "cargo": null,
+      "cargo": 377,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1320,
       "engine": "1.4L I4 Turbo Petrol",
       "displacement": 1395,
       "power": 110,
@@ -40,17 +46,23 @@
       "fh": 5,
       "fx": 5.8,
       "price": "$42,290",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.5 sec"
     },
     "Volkswagen|Golf|2024|110TSI Style (8.5)": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 210,
+      "acceleration": 8.5,
+      "cargo": 377,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1320,
       "engine": "1.4L I4 Turbo Petrol",
       "displacement": 1395,
       "power": 110,
@@ -60,17 +72,23 @@
       "fc": 8.1,
       "fh": 5.2,
       "fx": 6.3,
-      "price": "$43,690"
+      "price": "$43,690",
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.5 sec"
     },
     "Volkswagen|Golf|2024|GTI": {
-      "topSpeed": null,
+      "topSpeed": 240,
       "acceleration": 6.3,
-      "cargo": null,
+      "cargo": 377,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1525,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
       "transmission": "7-speed dual-clutch",
@@ -81,17 +99,23 @@
       "fh": 5.6,
       "fx": 7,
       "price": "$56,090",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~14.6 sec"
     },
     "Volkswagen|Golf|2024|R": {
-      "topSpeed": null,
+      "topSpeed": 265,
       "acceleration": 4.8,
-      "cargo": null,
+      "cargo": 377,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1525,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
       "transmission": "7-speed dual-clutch",
@@ -102,12 +126,18 @@
       "fh": 6.4,
       "fx": 7.8,
       "price": "$70,590",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.1 sec"
     },
     "Volkswagen|Golf|2024|R Black Edition (8.5)": {
-      "topSpeed": null,
+      "topSpeed": 270,
       "acceleration": 4.6,
-      "cargo": null,
+      "cargo": 377,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -123,7 +153,12 @@
       "fh": 7,
       "fx": 8.3,
       "price": "$72,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     }
   }
 }

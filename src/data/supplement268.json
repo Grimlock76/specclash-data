@@ -1,8 +1,8 @@
 {
   "specs": {
     "Nissan|Qashqai|2026|ST-L e-POWER": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 7.8,
       "cargo": 404,
       "engine": "1.5L I3 Turbo e-POWER (series hybrid)",
       "displacement": 1497,
@@ -20,11 +20,15 @@
       "towing": 750,
       "fuelTank": 55,
       "weight": 1676,
-      "price": "$45,850"
+      "price": "$45,850",
+      "quarterMile": "~15.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Qashqai|2026|Ti e-POWER": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 7.9,
       "cargo": 404,
       "engine": "1.5L I3 Turbo e-POWER (series hybrid)",
       "displacement": 1497,
@@ -42,11 +46,15 @@
       "towing": 750,
       "fuelTank": 55,
       "weight": 1697,
-      "price": "$49,850"
+      "price": "$49,850",
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Qashqai|2026|Ti-L e-POWER": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 7.9,
       "cargo": 404,
       "engine": "1.5L I3 Turbo e-POWER (series hybrid)",
       "displacement": 1497,
@@ -64,11 +72,15 @@
       "towing": 750,
       "fuelTank": 55,
       "weight": 1701,
-      "price": "$53,850"
+      "price": "$53,850",
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Qashqai|2026|N-DESIGN e-POWER": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 8,
       "cargo": 404,
       "engine": "1.5L I3 Turbo e-POWER (series hybrid)",
       "displacement": 1497,
@@ -86,11 +98,15 @@
       "towing": 750,
       "fuelTank": 55,
       "weight": 1718,
-      "price": "$54,350"
+      "price": "$54,350",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Outback|2026|AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 9.3,
       "cargo": null,
       "engine": "2.5L H4 Petrol (Boxer)",
       "displacement": 2498,
@@ -109,11 +125,15 @@
       "fuelTank": 63,
       "groundClearance": 220,
       "weight": 1705,
-      "price": "$48,990"
+      "price": "$48,990",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Outback|2026|AWD Premium": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 9.5,
       "cargo": null,
       "engine": "2.5L H4 Petrol (Boxer)",
       "displacement": 2498,
@@ -132,11 +152,15 @@
       "fuelTank": 63,
       "groundClearance": 220,
       "weight": 1732,
-      "price": "$53,490"
+      "price": "$53,490",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Outback|2026|AWD Touring": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 9.5,
       "cargo": null,
       "engine": "2.5L H4 Petrol (Boxer)",
       "displacement": 2498,
@@ -155,11 +179,15 @@
       "fuelTank": 63,
       "groundClearance": 220,
       "weight": 1733,
-      "price": "$56,990"
+      "price": "$56,990",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Outback|2026|AWD Wilderness": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 7.1,
       "cargo": null,
       "engine": "2.4L H4 Turbo Petrol (Boxer)",
       "displacement": 2387,
@@ -178,11 +206,15 @@
       "fuelTank": 63,
       "groundClearance": 240,
       "weight": 1781,
-      "price": "$59,690"
+      "price": "$59,690",
+      "quarterMile": "~15.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Outback|2026|AWD Wilderness Apex": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 7.1,
       "cargo": null,
       "engine": "2.4L H4 Turbo Petrol (Boxer)",
       "displacement": 2387,
@@ -201,11 +233,15 @@
       "fuelTank": 63,
       "groundClearance": 240,
       "weight": 1802,
-      "price": "$62,690"
+      "price": "$62,690",
+      "quarterMile": "~15.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|CR-V|2026|VTi X": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 9,
       "cargo": 589,
       "engine": "1.5L I4 Turbo Petrol",
       "displacement": 1498,
@@ -223,11 +259,15 @@
       "weight": 1613,
       "seats": 5,
       "towing": 1500,
-      "price": "$44,900"
+      "price": "$44,900",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|CR-V|2026|VTi L7": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 9.4,
       "cargo": null,
       "engine": "1.5L I4 Turbo Petrol",
       "displacement": 1498,
@@ -245,11 +285,15 @@
       "weight": 1700,
       "seats": 7,
       "towing": 1000,
-      "price": "$54,900"
+      "price": "$54,900",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|CR-V|2026|e:HEV X": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 8.4,
       "cargo": null,
       "engine": "2.0L I4 e:HEV (motor-driven hybrid)",
       "displacement": 1993,
@@ -266,11 +310,15 @@
       "fh": 5.8,
       "fx": 5.5,
       "weight": 1741,
-      "price": "$49,900"
+      "price": "$49,900",
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|CR-V|2026|e:HEV L": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 8.4,
       "cargo": null,
       "engine": "2.0L I4 e:HEV (motor-driven hybrid)",
       "displacement": 1993,
@@ -287,11 +335,15 @@
       "fh": 5.8,
       "fx": 5.5,
       "weight": 1744,
-      "price": "$53,900"
+      "price": "$53,900",
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|CR-V|2026|e:HEV LX": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 8.8,
       "cargo": null,
       "engine": "2.0L I4 e:HEV (motor-driven hybrid)",
       "displacement": 1993,
@@ -308,11 +360,15 @@
       "fh": 6,
       "fx": 5.7,
       "weight": 1796,
-      "price": "$58,900"
+      "price": "$58,900",
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|CR-V|2026|e:HEV RS": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 9,
       "cargo": null,
       "engine": "2.0L I4 e:HEV (motor-driven hybrid)",
       "displacement": 1993,
@@ -329,7 +385,11 @@
       "fh": 6,
       "fx": 5.7,
       "weight": 1828,
-      "price": "$64,400"
+      "price": "$64,400",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "specs": {
     "Kia|Seltos|2025|S": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10,
       "cargo": 468,
       "seats": 5,
       "cylinders": 4,
@@ -19,12 +19,17 @@
       "fx": 6.9,
       "towing": 1100,
       "fuelTank": 50,
-      "weight": null,
-      "price": "$30,050"
+      "weight": 1310,
+      "price": "$30,050",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.5 sec"
     },
     "Kia|Seltos|2025|Sport": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10,
       "cargo": 468,
       "seats": 5,
       "cylinders": 4,
@@ -41,12 +46,17 @@
       "fx": 6.9,
       "towing": 1100,
       "fuelTank": 50,
-      "weight": null,
-      "price": "$33,250"
+      "weight": 1310,
+      "price": "$33,250",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.5 sec"
     },
     "Kia|Seltos|2025|Sport+ FWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10,
       "cargo": 468,
       "seats": 5,
       "cylinders": 4,
@@ -63,12 +73,17 @@
       "fx": 6.9,
       "towing": 1100,
       "fuelTank": 50,
-      "weight": null,
-      "price": "$36,350"
+      "weight": 1310,
+      "price": "$36,350",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.5 sec"
     },
     "Kia|Seltos|2025|Sport+ AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 205,
+      "acceleration": 7.6,
       "cargo": 468,
       "seats": 5,
       "cylinders": 4,
@@ -85,12 +100,17 @@
       "fx": 7.4,
       "towing": 1250,
       "fuelTank": 50,
-      "weight": null,
-      "price": "$39,870"
+      "weight": 1430,
+      "price": "$39,870",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.7 sec"
     },
     "Kia|Seltos|2025|GT-Line FWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10,
       "cargo": 468,
       "seats": 5,
       "cylinders": 4,
@@ -107,12 +127,17 @@
       "fx": 6.9,
       "towing": 1100,
       "fuelTank": 50,
-      "weight": null,
-      "price": "$42,050"
+      "weight": 1310,
+      "price": "$42,050",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.5 sec"
     },
     "Kia|Seltos|2025|GT-Line AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 205,
+      "acceleration": 7.6,
       "cargo": 468,
       "seats": 5,
       "cylinders": 4,
@@ -129,8 +154,13 @@
       "fx": 7.4,
       "towing": 1250,
       "fuelTank": 50,
-      "weight": null,
-      "price": "$45,470"
+      "weight": 1430,
+      "price": "$45,470",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.7 sec"
     }
   }
 }

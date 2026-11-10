@@ -19,7 +19,8 @@
       "cargo": 500,
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$32,990"
+      "price": "~$32,990",
+      "quarterMile": "~17.2 sec"
     },
     "Jetour|Dashing|2025|Vortex": {
       "engine": "1.6L I4 Turbo",
@@ -40,7 +41,8 @@
       "cargo": 500,
       "acceleration": 8.5,
       "topSpeed": 195,
-      "price": "~$39,990"
+      "price": "~$39,990",
+      "quarterMile": "~16.5 sec"
     },
     "Jetour|Dashing|2026|Inspira": {
       "engine": "1.5L I4 Turbo",
@@ -61,7 +63,8 @@
       "cargo": 500,
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$32,990"
+      "price": "~$32,990",
+      "quarterMile": "~17.2 sec"
     },
     "Jetour|Dashing|2026|Vortex": {
       "engine": "1.6L I4 Turbo",
@@ -82,7 +85,8 @@
       "cargo": 500,
       "acceleration": 8.5,
       "topSpeed": 195,
-      "price": "~$39,990"
+      "price": "~$39,990",
+      "quarterMile": "~16.5 sec"
     },
     "Jetour|T2|2025|Adventure": {
       "engine": "2.0L I4 Turbo",
@@ -103,7 +107,8 @@
       "cargo": 590,
       "acceleration": 8.8,
       "topSpeed": 190,
-      "price": "~$45,990"
+      "price": "~$45,990",
+      "quarterMile": "~16.8 sec"
     },
     "Jetour|T2|2026|Adventure": {
       "engine": "2.0L I4 Turbo",
@@ -124,7 +129,8 @@
       "cargo": 590,
       "acceleration": 8.8,
       "topSpeed": 190,
-      "price": "~$45,990"
+      "price": "~$45,990",
+      "quarterMile": "~16.8 sec"
     },
     "Voyah|Free|2024|EV": {
       "engine": "Dual Motor Electric",
@@ -145,7 +151,8 @@
       "cargo": 560,
       "acceleration": 4.7,
       "topSpeed": 200,
-      "price": "~$77,000"
+      "price": "~$77,000",
+      "quarterMile": "~13.0 sec"
     },
     "Voyah|Free|2024|EREV": {
       "engine": "1.5L I4 Range Extender",
@@ -166,7 +173,8 @@
       "cargo": 560,
       "acceleration": 5,
       "topSpeed": 200,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~13.3 sec"
     },
     "Voyah|Free|2025|EV": {
       "engine": "Dual Motor Electric",
@@ -187,7 +195,8 @@
       "cargo": 560,
       "acceleration": 4.7,
       "topSpeed": 200,
-      "price": "~$77,000"
+      "price": "~$77,000",
+      "quarterMile": "~13.0 sec"
     },
     "Voyah|Free|2025|EREV": {
       "engine": "1.5L I4 Range Extender",
@@ -208,7 +217,8 @@
       "cargo": 560,
       "acceleration": 5,
       "topSpeed": 200,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~13.3 sec"
     },
     "Voyah|Free|2026|EV": {
       "engine": "Dual Motor Electric",
@@ -229,7 +239,8 @@
       "cargo": 560,
       "acceleration": 4.7,
       "topSpeed": 200,
-      "price": "~$77,000"
+      "price": "~$77,000",
+      "quarterMile": "~13.0 sec"
     },
     "Voyah|Free|2026|EREV": {
       "engine": "1.5L I4 Range Extender",
@@ -250,7 +261,8 @@
       "cargo": 560,
       "acceleration": 5,
       "topSpeed": 200,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~13.3 sec"
     },
     "Voyah|Courage|2025|AWD": {
       "engine": "Dual Motor Electric",
@@ -271,7 +283,8 @@
       "cargo": 520,
       "acceleration": 5.6,
       "topSpeed": 190,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~13.9 sec"
     },
     "Voyah|Courage|2026|AWD": {
       "engine": "Dual Motor Electric",
@@ -292,7 +305,8 @@
       "cargo": 520,
       "acceleration": 5.6,
       "topSpeed": 190,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~13.9 sec"
     },
     "Voyah|Dreamer|2025|EREV": {
       "engine": "1.5L I4 Range Extender",
@@ -313,7 +327,8 @@
       "cargo": 480,
       "acceleration": 7.8,
       "topSpeed": 180,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~15.9 sec"
     },
     "Voyah|Dreamer|2026|EREV": {
       "engine": "1.5L I4 Range Extender",
@@ -334,7 +349,8 @@
       "cargo": 480,
       "acceleration": 7.8,
       "topSpeed": 180,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~15.9 sec"
     },
     "Avatr|11|2025|Dual Motor": {
       "engine": "Dual Motor Electric",
@@ -355,7 +371,8 @@
       "cargo": 560,
       "acceleration": 4,
       "topSpeed": 200,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~12.3 sec"
     },
     "Avatr|12|2025|Dual Motor": {
       "engine": "Dual Motor Electric",
@@ -376,7 +393,8 @@
       "cargo": 420,
       "acceleration": 3.9,
       "topSpeed": 200,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~12.2 sec"
     },
     "Avatr|11|2026|Dual Motor": {
       "engine": "Dual Motor Electric",
@@ -397,7 +415,8 @@
       "cargo": 560,
       "acceleration": 4,
       "topSpeed": 200,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~12.3 sec"
     },
     "Avatr|12|2026|Dual Motor": {
       "engine": "Dual Motor Electric",
@@ -418,7 +437,8 @@
       "cargo": 420,
       "acceleration": 3.9,
       "topSpeed": 200,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~12.2 sec"
     },
     "Seres|Seres 3|2022|Luxury": {
       "engine": "Single Motor Electric",
@@ -439,7 +459,8 @@
       "cargo": 466,
       "acceleration": 8.9,
       "topSpeed": 155,
-      "price": "~$45,900"
+      "price": "~$45,900",
+      "quarterMile": "~16.8 sec"
     },
     "Seres|Seres 3|2023|Luxury": {
       "engine": "Single Motor Electric",
@@ -460,7 +481,8 @@
       "cargo": 466,
       "acceleration": 8.9,
       "topSpeed": 155,
-      "price": "~$45,900"
+      "price": "~$45,900",
+      "quarterMile": "~16.8 sec"
     },
     "IM Motors|IM5|2025|RWD": {
       "engine": "Single Motor Electric",
@@ -481,7 +503,8 @@
       "cargo": 457,
       "acceleration": 6.4,
       "topSpeed": 200,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~14.7 sec"
     },
     "IM Motors|IM5|2025|Performance": {
       "engine": "Dual Motor Electric",
@@ -502,7 +525,8 @@
       "cargo": 457,
       "acceleration": 3.2,
       "topSpeed": 200,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~11.3 sec"
     },
     "IM Motors|IM5|2026|RWD": {
       "engine": "Single Motor Electric",
@@ -523,7 +547,8 @@
       "cargo": 457,
       "acceleration": 6.4,
       "topSpeed": 200,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~14.7 sec"
     },
     "IM Motors|IM5|2026|Performance": {
       "engine": "Dual Motor Electric",
@@ -544,7 +569,8 @@
       "cargo": 457,
       "acceleration": 3.2,
       "topSpeed": 200,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~11.3 sec"
     },
     "IM Motors|IM6|2025|RWD": {
       "engine": "Single Motor Electric",
@@ -565,7 +591,8 @@
       "cargo": 525,
       "acceleration": 6.5,
       "topSpeed": 200,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~14.8 sec"
     },
     "IM Motors|IM6|2025|Performance": {
       "engine": "Dual Motor Electric",
@@ -586,7 +613,8 @@
       "cargo": 525,
       "acceleration": 3.5,
       "topSpeed": 200,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~11.7 sec"
     },
     "IM Motors|IM6|2026|RWD": {
       "engine": "Single Motor Electric",
@@ -607,7 +635,8 @@
       "cargo": 525,
       "acceleration": 6.5,
       "topSpeed": 200,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~14.8 sec"
     },
     "IM Motors|IM6|2026|Performance": {
       "engine": "Dual Motor Electric",
@@ -628,7 +657,8 @@
       "cargo": 525,
       "acceleration": 3.5,
       "topSpeed": 200,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~11.7 sec"
     }
   }
 }

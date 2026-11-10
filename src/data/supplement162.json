@@ -17,7 +17,12 @@
       "acceleration": 11.8,
       "topSpeed": 186,
       "price": "~$31,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "cargo": 311,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|208|2024|Allure": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -36,7 +41,12 @@
       "acceleration": 11.8,
       "topSpeed": 186,
       "price": "~$36,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "cargo": 311,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|208|2024|GT": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -55,7 +65,12 @@
       "acceleration": 9,
       "topSpeed": 200,
       "price": "~$42,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.9 sec",
+      "cargo": 311,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|208|2024|e-208": {
       "engine": "Single Motor Electric",
@@ -73,7 +88,12 @@
       "acceleration": 8.1,
       "topSpeed": 150,
       "price": "~$51,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.2 sec",
+      "cargo": 311,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|208|2025|Active": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -92,7 +112,12 @@
       "acceleration": 11.8,
       "topSpeed": 186,
       "price": "~$33,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "cargo": 311,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|208|2025|Allure": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -111,7 +136,12 @@
       "acceleration": 11.8,
       "topSpeed": 186,
       "price": "~$38,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "cargo": 311,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|208|2025|GT": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -130,7 +160,12 @@
       "acceleration": 9,
       "topSpeed": 200,
       "price": "~$44,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.9 sec",
+      "cargo": 311,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|208|2025|e-208": {
       "engine": "Single Motor Electric",
@@ -148,7 +183,12 @@
       "acceleration": 8.1,
       "topSpeed": 150,
       "price": "~$53,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.2 sec",
+      "cargo": 311,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|208|2026|Active": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -167,7 +207,8 @@
       "acceleration": 11.8,
       "topSpeed": 186,
       "price": "~$34,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.7 sec"
     },
     "Peugeot|208|2026|Allure": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -186,7 +227,8 @@
       "acceleration": 11.8,
       "topSpeed": 186,
       "price": "~$39,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.7 sec"
     },
     "Peugeot|208|2026|GT": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -205,7 +247,8 @@
       "acceleration": 9,
       "topSpeed": 200,
       "price": "~$45,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.9 sec"
     },
     "Peugeot|208|2026|e-208": {
       "engine": "Single Motor Electric",
@@ -223,7 +266,8 @@
       "acceleration": 8.1,
       "topSpeed": 150,
       "price": "~$54,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.2 sec"
     },
     "Peugeot|508|2024|Active": {
       "engine": "1.6L I4 PureTech Turbo",
@@ -242,7 +286,12 @@
       "acceleration": 8.8,
       "topSpeed": 228,
       "price": "~$58,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.8 sec",
+      "cargo": 487,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|508|2024|Allure": {
       "engine": "1.6L I4 PureTech Turbo",
@@ -261,7 +310,12 @@
       "acceleration": 8.8,
       "topSpeed": 228,
       "price": "~$63,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.8 sec",
+      "cargo": 487,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|508|2024|GT": {
       "engine": "1.6L I4 PureTech Turbo",
@@ -280,7 +334,12 @@
       "acceleration": 7.3,
       "topSpeed": 240,
       "price": "~$71,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.5 sec",
+      "cargo": 487,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|508|2024|SW": {
       "engine": "1.6L I4 PureTech Turbo",
@@ -299,7 +358,12 @@
       "acceleration": 9,
       "topSpeed": 225,
       "price": "~$66,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.9 sec",
+      "cargo": 487,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|508|2025|Active": {
       "engine": "1.6L I4 PureTech Turbo",
@@ -318,7 +382,12 @@
       "acceleration": 8.8,
       "topSpeed": 228,
       "price": "~$60,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.8 sec",
+      "cargo": 487,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|508|2025|Allure": {
       "engine": "1.6L I4 PureTech Turbo",
@@ -337,7 +406,12 @@
       "acceleration": 8.8,
       "topSpeed": 228,
       "price": "~$65,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.8 sec",
+      "cargo": 487,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|508|2025|GT": {
       "engine": "1.6L I4 PureTech Turbo",
@@ -356,7 +430,12 @@
       "acceleration": 7.3,
       "topSpeed": 240,
       "price": "~$73,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.5 sec",
+      "cargo": 487,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|508|2025|SW": {
       "engine": "1.6L I4 PureTech Turbo",
@@ -375,7 +454,12 @@
       "acceleration": 9,
       "topSpeed": 225,
       "price": "~$68,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.9 sec",
+      "cargo": 487,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|508|2026|Active": {
       "engine": "1.6L I4 PureTech Turbo",
@@ -394,7 +478,8 @@
       "acceleration": 8.8,
       "topSpeed": 228,
       "price": "~$62,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.8 sec"
     },
     "Peugeot|508|2026|Allure": {
       "engine": "1.6L I4 PureTech Turbo",
@@ -413,7 +498,8 @@
       "acceleration": 8.8,
       "topSpeed": 228,
       "price": "~$67,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.8 sec"
     },
     "Peugeot|508|2026|GT": {
       "engine": "1.6L I4 PureTech Turbo",
@@ -432,7 +518,8 @@
       "acceleration": 7.3,
       "topSpeed": 240,
       "price": "~$75,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.5 sec"
     },
     "Peugeot|508|2026|SW": {
       "engine": "1.6L I4 PureTech Turbo",
@@ -451,7 +538,8 @@
       "acceleration": 9,
       "topSpeed": 225,
       "price": "~$70,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.9 sec"
     }
   }
 }

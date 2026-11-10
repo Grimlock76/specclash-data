@@ -17,7 +17,12 @@
       "acceleration": 7.4,
       "topSpeed": 160,
       "price": "~$64,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 540,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Tavascan|2024|VZ": {
       "engine": "Electric Dual Motor 77 kWh",
@@ -36,7 +41,12 @@
       "acceleration": 5.6,
       "topSpeed": 180,
       "price": "~$74,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.9 sec",
+      "cargo": 540,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Tavascan|2025|V1": {
       "engine": "Electric 77 kWh",
@@ -55,7 +65,12 @@
       "acceleration": 7.4,
       "topSpeed": 160,
       "price": "~$66,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 540,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Tavascan|2025|VZ": {
       "engine": "Electric Dual Motor 77 kWh",
@@ -93,7 +108,12 @@
       "acceleration": 7.4,
       "topSpeed": 160,
       "price": "~$68,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 540,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Tavascan|2026|VZ": {
       "engine": "Electric Dual Motor 77 kWh",
@@ -131,7 +151,12 @@
       "acceleration": 7.1,
       "topSpeed": 224,
       "price": "~$64,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.3 sec",
+      "cargo": 405,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|A4 allroad|2026|45 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -150,7 +175,12 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$99,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.2 sec",
+      "cargo": 495,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|A4 allroad|2026|50 TDI quattro": {
       "engine": "3.0 TDI V6",
@@ -169,7 +199,12 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$109,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 495,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

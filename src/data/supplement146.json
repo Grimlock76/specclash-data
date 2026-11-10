@@ -17,7 +17,8 @@
       "acceleration": 7.5,
       "topSpeed": 170,
       "price": "~$113,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec"
     },
     "Toyota|Alphard|2026|Executive Lounge": {
       "engine": "2.5L I4 Hybrid E-Four",
@@ -36,7 +37,8 @@
       "acceleration": 7.5,
       "topSpeed": 170,
       "price": "~$127,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec"
     },
     "Audi|A4|2026|40 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -55,7 +57,12 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "price": "~$78,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.6 sec",
+      "cargo": 495,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

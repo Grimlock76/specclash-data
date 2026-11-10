@@ -17,7 +17,12 @@
       "acceleration": 9,
       "topSpeed": 200,
       "price": "~$27,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.9 sec",
+      "cargo": 524,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Camry|2018|Ascent Sport": {
       "engine": "2.5L I4 NA A25A-FKS",
@@ -36,7 +41,12 @@
       "acceleration": 9,
       "topSpeed": 200,
       "price": "~$30,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.9 sec",
+      "cargo": 524,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Camry|2018|SL": {
       "engine": "3.5L V6 NA 2GR-FKS",
@@ -55,7 +65,12 @@
       "acceleration": 7,
       "topSpeed": 220,
       "price": "~$47,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.2 sec",
+      "cargo": 524,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Camry|2018|Ascent Hybrid": {
       "engine": "2.5L I4 Hybrid A25A-FXS",
@@ -74,7 +89,12 @@
       "acceleration": 8.3,
       "topSpeed": 180,
       "price": "~$30,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.3 sec",
+      "cargo": 524,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Camry|2018|Ascent Sport Hybrid": {
       "engine": "2.5L I4 Hybrid A25A-FXS",
@@ -93,7 +113,12 @@
       "acceleration": 8.3,
       "topSpeed": 180,
       "price": "~$33,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.3 sec",
+      "cargo": 524,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Camry|2018|SX Hybrid": {
       "engine": "2.5L I4 Hybrid A25A-FXS",
@@ -112,7 +137,12 @@
       "acceleration": 8.3,
       "topSpeed": 180,
       "price": "~$36,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.3 sec",
+      "cargo": 524,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Camry|2018|SXL Hybrid": {
       "engine": "2.5L I4 Hybrid A25A-FXS",
@@ -131,7 +161,12 @@
       "acceleration": 8.3,
       "topSpeed": 180,
       "price": "~$44,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.3 sec",
+      "cargo": 524,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Corolla|2018|Ascent Sport": {
       "engine": "1.8L I4 NA 2ZR-FAE",
@@ -150,7 +185,8 @@
       "acceleration": 9.8,
       "topSpeed": 200,
       "price": "~$25,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec"
     },
     "Toyota|RAV4|2018|Edge": {
       "engine": "2.5L I4 NA 2AR-FE",
@@ -169,7 +205,12 @@
       "acceleration": 9.8,
       "topSpeed": 200,
       "price": "~$44,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec",
+      "cargo": 580,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|Tiguan|2018|Allspace 132TSI": {
       "engine": "1.4L I4 Turbo TSI CZEA",
@@ -188,7 +229,12 @@
       "acceleration": 9,
       "topSpeed": 210,
       "price": "~$42,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.9 sec",
+      "cargo": 615,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|Tiguan|2018|Allspace 162TSI": {
       "engine": "2.0L I4 Turbo TSI DNFA",
@@ -207,7 +253,12 @@
       "acceleration": 7.2,
       "topSpeed": 220,
       "price": "~$56,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.4 sec",
+      "cargo": 615,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|Touareg|2018|170TDI": {
       "engine": "3.0L V6 Turbo Diesel DCMA",
@@ -226,7 +277,12 @@
       "acceleration": 7.2,
       "topSpeed": 234,
       "price": "~$89,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~15.4 sec",
+      "cargo": 810,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|Touareg|2018|210TDI": {
       "engine": "3.0L V6 Turbo Diesel DCMB",
@@ -245,7 +301,12 @@
       "acceleration": 6.1,
       "topSpeed": 245,
       "price": "~$109,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~14.4 sec",
+      "cargo": 810,
+      "est": [
+        "cargo"
+      ]
     },
     "Volvo|S60|2018|T5 Momentum": {
       "engine": "2.0L I4 Turbo B4204T11",
@@ -264,7 +325,12 @@
       "acceleration": 6.5,
       "topSpeed": 250,
       "price": "~$59,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.8 sec",
+      "cargo": 442,
+      "est": [
+        "cargo"
+      ]
     },
     "Volvo|S60|2018|T5 R-Design": {
       "engine": "2.0L I4 Turbo B4204T11",
@@ -283,7 +349,12 @@
       "acceleration": 6.5,
       "topSpeed": 250,
       "price": "~$66,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.8 sec",
+      "cargo": 442,
+      "est": [
+        "cargo"
+      ]
     },
     "Volvo|S60|2018|T8 Recharge": {
       "engine": "2.0L I4 Turbo+SC + Electric PHEV",
@@ -296,13 +367,20 @@
       "torque": 640,
       "weight": 2030,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "acceleration": 5.3,
       "topSpeed": 250,
       "price": "~$84,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~13.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 442
     },
     "Volvo|XC60|2018|T8 Recharge": {
       "engine": "2.0L I4 Turbo+SC + Electric PHEV",
@@ -315,13 +393,20 @@
       "torque": 640,
       "weight": 2140,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "acceleration": 5.3,
       "topSpeed": 210,
       "price": "~$89,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~13.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 505
     }
   }
 }

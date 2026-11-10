@@ -10,8 +10,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.4,
+      "topSpeed": 175,
       "cargo": null,
       "towing": 3500,
       "seats": 5,
@@ -21,7 +21,11 @@
       "fx": 8,
       "weight": 2035,
       "payload": 1065,
-      "price": "$52,200"
+      "price": "$52,200",
+      "quarterMile": "~19.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2023|X-Rider": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -33,8 +37,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.4,
+      "topSpeed": 175,
       "cargo": null,
       "towing": 3500,
       "seats": 5,
@@ -44,7 +48,11 @@
       "fx": 8,
       "weight": 2045,
       "payload": 1055,
-      "price": "$58,000"
+      "price": "$58,000",
+      "quarterMile": "~19.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2023|LS-U": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -56,8 +64,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.8,
+      "topSpeed": 170,
       "cargo": null,
       "towing": 3500,
       "seats": 5,
@@ -67,7 +75,11 @@
       "fx": 8,
       "weight": 2110,
       "payload": 990,
-      "price": "$61,000"
+      "price": "$61,000",
+      "quarterMile": "~19.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2023|LS-U+": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -79,8 +91,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.8,
+      "topSpeed": 170,
       "cargo": null,
       "towing": 3500,
       "seats": 5,
@@ -90,7 +102,11 @@
       "fx": 8,
       "weight": 2115,
       "payload": 985,
-      "price": "$63,500"
+      "price": "$63,500",
+      "quarterMile": "~19.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2023|X-Terrain": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -102,8 +118,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 13.2,
+      "topSpeed": 170,
       "cargo": null,
       "towing": 3500,
       "seats": 5,
@@ -114,7 +130,11 @@
       "weight": 2175,
       "payload": 925,
       "groundClearance": 240,
-      "price": "$67,500"
+      "price": "$67,500",
+      "quarterMile": "~19.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

@@ -16,20 +16,24 @@
       "seats": 5,
       "cargo": 436,
       "fuelTank": 47,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 8.3,
       "weight": 1380,
-      "price": "$33,980"
+      "price": "$33,980",
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Corolla Cross|2024|GX Hybrid": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.3,
+      "topSpeed": 185,
       "seats": 5,
       "cylinders": 4,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 210,
       "engine": "2.0L I4 Hybrid",
       "displacement": 1987,
       "power": 146,
@@ -42,7 +46,11 @@
       "cargo": 425,
       "weight": 1435,
       "price": "$36,480",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.3 sec"
     },
     "Toyota|Corolla Cross|2024|GXL": {
       "engine": "2.0L I4 Petrol",
@@ -54,26 +62,32 @@
       "torque": 202,
       "transmission": "CVT",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 7.5,
+      "fh": 4.2,
       "fx": 6,
       "seats": 5,
       "cargo": 436,
       "fuelTank": 47,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 8.5,
       "weight": 1420,
-      "price": "$37,730"
+      "price": "$37,730",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Corolla Cross|2024|GXL Hybrid": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.5,
+      "topSpeed": 180,
       "seats": 5,
       "cylinders": 4,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 210,
       "engine": "2.0L I4 Hybrid",
       "displacement": 1987,
       "power": 146,
@@ -86,17 +100,21 @@
       "cargo": 425,
       "weight": 1475,
       "price": "$40,230",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.5 sec"
     },
     "Toyota|Corolla Cross|2024|GXL Hybrid AWD": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 7.8,
+      "topSpeed": 180,
       "seats": 5,
       "cylinders": 4,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 210,
       "engine": "2.0L I4 Hybrid",
       "displacement": 1987,
       "power": 146,
@@ -109,7 +127,11 @@
       "cargo": 425,
       "weight": 1545,
       "price": "$43,230",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.9 sec"
     },
     "Toyota|Corolla Cross|2024|Atmos": {
       "engine": "2.0L I4 Petrol",
@@ -121,26 +143,32 @@
       "torque": 202,
       "transmission": "CVT",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 7.5,
+      "fh": 4.2,
       "fx": 6,
       "seats": 5,
       "cargo": 436,
       "fuelTank": 47,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 8.6,
       "weight": 1430,
-      "price": "$44,530"
+      "price": "$44,530",
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Corolla Cross|2024|Atmos Hybrid": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.5,
+      "topSpeed": 180,
       "seats": 5,
       "cylinders": 4,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 210,
       "engine": "2.0L I4 Hybrid",
       "displacement": 1987,
       "power": 146,
@@ -153,17 +181,21 @@
       "cargo": 425,
       "weight": 1480,
       "price": "$47,030",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.5 sec"
     },
     "Toyota|Corolla Cross|2024|Atmos Hybrid AWD": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 7.8,
+      "topSpeed": 180,
       "seats": 5,
       "cylinders": 4,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 210,
       "engine": "2.0L I4 Hybrid",
       "displacement": 1987,
       "power": 146,
@@ -176,7 +208,11 @@
       "cargo": 425,
       "weight": 1550,
       "price": "$50,030",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.9 sec"
     }
   }
 }

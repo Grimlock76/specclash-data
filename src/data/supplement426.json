@@ -22,7 +22,8 @@
       "range": 558,
       "acceleration": 6.7,
       "towing": 2000,
-      "price": "$115,500"
+      "price": "$115,500",
+      "quarterMile": "~14.9 sec"
     },
     "Audi|Q6 e-tron|2024|quattro": {
       "fuelType": "electric",
@@ -40,13 +41,17 @@
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
-      "torque": null,
+      "torque": 595,
       "power": 285,
       "battery": "100 kWh",
       "range": 542,
       "acceleration": 5.9,
       "towing": null,
-      "price": "$122,500"
+      "price": "$122,500",
+      "est": [
+        "torque"
+      ],
+      "quarterMile": "~14.2 sec"
     },
     "Audi|Q6 e-tron|2024|SQ6": {
       "fuelType": "electric",
@@ -64,13 +69,17 @@
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
-      "torque": null,
+      "torque": 750,
       "power": 360,
       "battery": "100 kWh",
       "range": 568,
       "acceleration": 4.4,
       "towing": 2400,
-      "price": "$151,400"
+      "price": "$151,400",
+      "est": [
+        "torque"
+      ],
+      "quarterMile": "~12.7 sec"
     },
     "Audi|Q6 e-tron|2025|e-tron": {
       "fuelType": "electric",
@@ -94,7 +103,8 @@
       "range": 493,
       "acceleration": 7.6,
       "towing": 2000,
-      "price": "$99,900"
+      "price": "$99,900",
+      "quarterMile": "~15.7 sec"
     },
     "Audi|Q6 e-tron|2025|Performance": {
       "fuelType": "electric",
@@ -118,7 +128,8 @@
       "range": 558,
       "acceleration": 6.7,
       "towing": 2000,
-      "price": "$115,500"
+      "price": "$115,500",
+      "quarterMile": "~14.9 sec"
     },
     "Audi|Q6 e-tron|2025|quattro": {
       "fuelType": "electric",
@@ -136,13 +147,17 @@
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
-      "torque": null,
+      "torque": 595,
       "power": 285,
       "battery": "100 kWh",
       "range": 542,
       "acceleration": 5.9,
       "towing": null,
-      "price": "$122,500"
+      "price": "$122,500",
+      "est": [
+        "torque"
+      ],
+      "quarterMile": "~14.2 sec"
     },
     "Audi|Q6 e-tron|2025|SQ6": {
       "fuelType": "electric",
@@ -160,13 +175,17 @@
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
-      "torque": null,
+      "torque": 750,
       "power": 360,
       "battery": "100 kWh",
       "range": 585,
       "acceleration": 4.4,
       "towing": 2400,
-      "price": "$156,400"
+      "price": "$156,400",
+      "est": [
+        "torque"
+      ],
+      "quarterMile": "~12.7 sec"
     },
     "Audi|Q6 e-tron|2026|Sport": {
       "fuelType": "electric",
@@ -190,7 +209,8 @@
       "range": 466,
       "acceleration": 7.6,
       "towing": 2000,
-      "price": "$104,018"
+      "price": "$104,018",
+      "quarterMile": "~15.7 sec"
     },
     "Audi|Q6 e-tron|2026|Performance": {
       "fuelType": "electric",
@@ -214,7 +234,8 @@
       "range": 558,
       "acceleration": 6.7,
       "towing": 2000,
-      "price": "$115,500"
+      "price": "$115,500",
+      "quarterMile": "~14.9 sec"
     },
     "Audi|Q6 e-tron|2026|quattro": {
       "fuelType": "electric",
@@ -232,13 +253,17 @@
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
-      "torque": null,
+      "torque": 595,
       "power": 285,
       "battery": "100 kWh",
       "range": 542,
       "acceleration": 5.9,
       "towing": null,
-      "price": null
+      "price": null,
+      "est": [
+        "torque"
+      ],
+      "quarterMile": "~14.2 sec"
     },
     "Audi|Q6 e-tron|2026|SQ6": {
       "fuelType": "electric",
@@ -256,13 +281,17 @@
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
-      "torque": null,
+      "torque": 750,
       "power": 360,
       "battery": "100 kWh",
       "range": 585,
       "acceleration": 4.4,
       "towing": 2400,
-      "price": null
+      "price": null,
+      "est": [
+        "torque"
+      ],
+      "quarterMile": "~12.7 sec"
     }
   }
 }

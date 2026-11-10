@@ -14,15 +14,20 @@
       "seats": 5,
       "towing": 1600,
       "cargo": 971,
-      "torque": null,
-      "weight": null,
+      "torque": 340,
+      "weight": 1920,
       "power": 220,
       "battery": "60 kWh",
       "range": 510,
       "acceleration": 6.9,
       "topSpeed": 217,
       "price": "$55,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "torque"
+      ],
+      "quarterMile": "~15.1 sec"
     },
     "Tesla|Model Y|2024|Long Range AWD": {
       "engine": "Dual-Motor Electric",
@@ -38,15 +43,20 @@
       "seats": 5,
       "towing": 1600,
       "cargo": null,
-      "torque": null,
-      "weight": null,
+      "torque": 790,
+      "weight": 1920,
       "power": 378,
       "battery": "79 kWh",
       "range": 533,
       "acceleration": 5,
       "topSpeed": 217,
       "price": "$69,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "torque"
+      ],
+      "quarterMile": "~13.3 sec"
     },
     "Tesla|Model Y|2024|Performance": {
       "engine": "Dual-Motor Electric",
@@ -62,19 +72,24 @@
       "seats": 5,
       "towing": 1600,
       "cargo": null,
-      "torque": null,
-      "weight": null,
+      "torque": 660,
+      "weight": 1920,
       "power": 393,
       "battery": "79 kWh",
       "range": 604,
       "acceleration": 3.7,
       "topSpeed": 250,
       "price": "$82,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "torque"
+      ],
+      "quarterMile": "~11.9 sec"
     },
     "Hyundai|Tucson|2024|Tucson": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11,
       "cargo": 539,
       "seats": 5,
       "fuelTank": 54,
@@ -91,11 +106,17 @@
       "fh": 6.5,
       "fx": 8.1,
       "towing": 1650,
-      "price": "$35,650"
+      "price": "$35,650",
+      "weight": 1455,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.2 sec"
     },
     "Hyundai|Tucson|2024|Elite": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11,
       "cargo": 539,
       "seats": 5,
       "fuelTank": 54,
@@ -112,11 +133,17 @@
       "fh": 6.5,
       "fx": 8.1,
       "towing": 1650,
-      "price": "$40,650"
+      "price": "$40,650",
+      "weight": 1455,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.2 sec"
     },
     "Hyundai|Tucson|2024|Elite 1.6T AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 9.6,
       "cargo": 539,
       "seats": 5,
       "fuelTank": 54,
@@ -133,11 +160,17 @@
       "fh": 6.3,
       "fx": 7.2,
       "towing": 1650,
-      "price": "$44,650"
+      "price": "$44,650",
+      "weight": 1590,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.3 sec"
     },
     "Hyundai|Tucson|2024|Elite Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.9,
       "cargo": 539,
       "seats": 5,
       "fuelTank": 54,
@@ -154,11 +187,17 @@
       "fh": 5.4,
       "fx": 6.3,
       "towing": 1900,
-      "price": "$46,650"
+      "price": "$46,650",
+      "weight": 1590,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.8 sec"
     },
     "Hyundai|Tucson|2024|Highlander": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11,
       "cargo": 539,
       "seats": 5,
       "fuelTank": 54,
@@ -175,11 +214,17 @@
       "fh": 6.5,
       "fx": 8.1,
       "towing": 1650,
-      "price": "$47,650"
+      "price": "$47,650",
+      "weight": 1455,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.2 sec"
     },
     "Hyundai|Tucson|2024|Highlander 1.6T AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 9.6,
       "cargo": 539,
       "seats": 5,
       "fuelTank": 54,
@@ -196,11 +241,17 @@
       "fh": 6.3,
       "fx": 7.2,
       "towing": 1650,
-      "price": "$51,650"
+      "price": "$51,650",
+      "weight": 1590,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.3 sec"
     },
     "Hyundai|Tucson|2024|Highlander Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.9,
       "cargo": 539,
       "seats": 5,
       "fuelTank": 54,
@@ -217,7 +268,13 @@
       "fh": 5.4,
       "fx": 6.3,
       "towing": 1900,
-      "price": "$53,650"
+      "price": "$53,650",
+      "weight": 1590,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.8 sec"
     }
   }
 }

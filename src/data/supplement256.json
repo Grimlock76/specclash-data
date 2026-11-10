@@ -4,8 +4,8 @@
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
-      "topSpeed": null,
+      "torque": 220,
+      "topSpeed": 175,
       "cargo": null,
       "engine": "2.5L I4 Hybrid (A25A-FXS)",
       "displacement": 2487,
@@ -18,16 +18,21 @@
       "seats": 7,
       "towing": 2000,
       "fuelTank": 65,
-      "acceleration": null,
+      "acceleration": 8.4,
       "weight": 2050,
-      "price": "$62,410"
+      "price": "$62,410",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Toyota|Kluger|2026|GXL Hybrid": {
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
-      "topSpeed": null,
+      "torque": 220,
+      "topSpeed": 175,
       "cargo": null,
       "engine": "2.5L I4 Hybrid (A25A-FXS)",
       "displacement": 2487,
@@ -40,16 +45,21 @@
       "seats": 7,
       "towing": 2000,
       "fuelTank": 65,
-      "acceleration": null,
+      "acceleration": 8.4,
       "weight": 2050,
-      "price": "$71,930"
+      "price": "$71,930",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Toyota|Kluger|2026|Grande Hybrid": {
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
-      "topSpeed": null,
+      "torque": 220,
+      "topSpeed": 175,
       "cargo": null,
       "engine": "2.5L I4 Hybrid (A25A-FXS)",
       "displacement": 2487,
@@ -62,16 +72,21 @@
       "seats": 7,
       "towing": 2000,
       "fuelTank": 65,
-      "acceleration": null,
+      "acceleration": 8.5,
       "weight": 2095,
-      "price": "$85,065"
+      "price": "$85,065",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.5 sec"
     },
     "Toyota|Corolla|2026|Ascent Sport Hybrid": {
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
-      "topSpeed": null,
+      "torque": 200,
+      "topSpeed": 190,
       "cargo": 217,
       "engine": "1.8L I4 Hybrid (2ZR-FXE)",
       "displacement": 1798,
@@ -83,16 +98,21 @@
       "fx": 4,
       "seats": 5,
       "fuelTank": 43,
-      "acceleration": null,
+      "acceleration": 9.1,
       "weight": 1400,
-      "price": "$32,110"
+      "price": "$32,110",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.0 sec"
     },
     "Toyota|Corolla|2026|SX Hybrid": {
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
-      "topSpeed": null,
+      "torque": 200,
+      "topSpeed": 190,
       "cargo": 217,
       "engine": "1.8L I4 Hybrid (2ZR-FXE)",
       "displacement": 1798,
@@ -104,16 +124,21 @@
       "fx": 4,
       "seats": 5,
       "fuelTank": 43,
-      "acceleration": null,
+      "acceleration": 9.1,
       "weight": 1400,
-      "price": "$35,260"
+      "price": "$35,260",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.0 sec"
     },
     "Toyota|Corolla|2026|ZR Hybrid": {
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
-      "topSpeed": null,
+      "torque": 200,
+      "topSpeed": 190,
       "cargo": 333,
       "engine": "1.8L I4 Hybrid (2ZR-FXE)",
       "displacement": 1798,
@@ -125,9 +150,14 @@
       "fx": 4,
       "seats": 5,
       "fuelTank": 43,
-      "acceleration": null,
+      "acceleration": 9.1,
       "weight": 1400,
-      "price": "$39,100"
+      "price": "$39,100",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.0 sec"
     }
   }
 }

@@ -17,7 +17,12 @@
       "acceleration": 9.4,
       "topSpeed": 195,
       "price": "~$74,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 981,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Discovery Sport|2015|R-Dynamic": {
       "engine": "2.0L I4 Turbo Ingenium P200",
@@ -36,7 +41,12 @@
       "acceleration": 8.9,
       "topSpeed": 196,
       "price": "~$64,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~16.8 sec",
+      "cargo": 981,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Discovery Sport|2015|SE": {
       "engine": "2.0L I4 Turbo Diesel Ingenium TD4",
@@ -55,7 +65,12 @@
       "acceleration": 10.6,
       "topSpeed": 186,
       "price": "~$56,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.9 sec",
+      "cargo": 981,
+      "est": [
+        "cargo"
+      ]
     },
     "Volvo|XC90|2015|T5": {
       "engine": "2.0L I4 Turbo Drive-E T5 B4204T5",
@@ -74,7 +89,12 @@
       "acceleration": 7.9,
       "topSpeed": 210,
       "price": "~$79,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.0 sec",
+      "cargo": 314,
+      "est": [
+        "cargo"
+      ]
     },
     "Volvo|XC90|2015|T5 Momentum": {
       "engine": "2.0L I4 Turbo Drive-E T5 B4204T5",
@@ -93,7 +113,12 @@
       "acceleration": 7.9,
       "topSpeed": 210,
       "price": "~$87,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.0 sec",
+      "cargo": 314,
+      "est": [
+        "cargo"
+      ]
     },
     "Volvo|XC90|2015|T6 Inscription": {
       "engine": "2.0L I4 Turbo+SC Drive-E T6 B4204T7",
@@ -112,7 +137,12 @@
       "acceleration": 6.5,
       "topSpeed": 230,
       "price": "~$109,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.8 sec",
+      "cargo": 314,
+      "est": [
+        "cargo"
+      ]
     },
     "Volvo|XC90|2015|T8 Twin Engine Excellence": {
       "engine": "2.0L I4 Turbo+SC + Electric PHEV B4204T26",
@@ -125,13 +155,20 @@
       "torque": 640,
       "weight": 2350,
       "seats": 7,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "acceleration": 5.5,
       "topSpeed": 230,
       "price": "~$149,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 314
     },
     "GWM|Haval H2|2015|Premium": {
       "engine": "1.5L I4 Turbo GW4G15B",
@@ -150,7 +187,12 @@
       "acceleration": 11,
       "topSpeed": 170,
       "price": "~$26,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.2 sec",
+      "cargo": 354,
+      "est": [
+        "cargo"
+      ]
     },
     "GWM|Haval H6|2015|Premium": {
       "engine": "2.0L I4 Turbo GW4G20B",
@@ -188,7 +230,12 @@
       "acceleration": 11.5,
       "topSpeed": 175,
       "price": "~$47,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.5 sec",
+      "cargo": 234,
+      "est": [
+        "cargo"
+      ]
     },
     "Jeep|Compass|2015|Limited": {
       "engine": "2.4L I4 NA Tigershark MultiAir2",
@@ -207,7 +254,12 @@
       "acceleration": 9.7,
       "topSpeed": 193,
       "price": "~$40,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec",
+      "cargo": 438,
+      "est": [
+        "cargo"
+      ]
     },
     "Jeep|Compass|2015|Sport": {
       "engine": "2.4L I4 NA Tigershark MultiAir2",
@@ -226,7 +278,12 @@
       "acceleration": 10.5,
       "topSpeed": 190,
       "price": "~$30,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec",
+      "cargo": 438,
+      "est": [
+        "cargo"
+      ]
     },
     "Jeep|Compass|2015|Trailhawk": {
       "engine": "2.4L I4 NA Tigershark MultiAir2",
@@ -245,7 +302,12 @@
       "acceleration": 10,
       "topSpeed": 193,
       "price": "~$44,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.5 sec",
+      "cargo": 438,
+      "est": [
+        "cargo"
+      ]
     },
     "Jeep|Renegade|2015|Limited": {
       "engine": "1.4L I4 Turbo MultiAir",
@@ -264,7 +326,8 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "price": "~$35,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.2 sec"
     },
     "Jeep|Renegade|2015|Sport": {
       "engine": "1.6L I4 NA E-Torq",
@@ -283,7 +346,8 @@
       "acceleration": 12,
       "topSpeed": 170,
       "price": "~$24,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.8 sec"
     },
     "Jeep|Renegade|2015|Trailhawk": {
       "engine": "2.4L I4 NA Tigershark MultiAir2",
@@ -302,7 +366,8 @@
       "acceleration": 9.3,
       "topSpeed": 185,
       "price": "~$44,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.1 sec"
     },
     "GWM|Haval H2|2015|Lux": {
       "engine": "1.5L I4 Turbo GW4G15B",

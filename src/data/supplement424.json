@@ -14,14 +14,20 @@
       "fh": 6,
       "fx": 7,
       "acceleration": 5.1,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 245,
+      "weight": 1995,
       "seats": 5,
-      "cargo": null,
+      "cargo": 520,
       "fuelTank": 70,
       "towing": 2000,
       "accelClaimed": true,
-      "price": "$124,315"
+      "price": "$124,315",
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.4 sec"
     },
     "Audi|SQ5|2025|TDI": {
       "engine": "3.0L V6 Turbo Diesel",
@@ -37,14 +43,20 @@
       "fh": 6,
       "fx": 7,
       "acceleration": 5.1,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 245,
+      "weight": 2075,
       "seats": 5,
-      "cargo": null,
+      "cargo": 520,
       "fuelTank": 70,
       "towing": 2000,
       "accelClaimed": true,
-      "price": "$124,315"
+      "price": "$124,315",
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.4 sec"
     }
   }
 }

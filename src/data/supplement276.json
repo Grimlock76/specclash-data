@@ -16,11 +16,18 @@
       "fuelTank": 90,
       "power": 280,
       "torque": 560,
-      "fc": null,
-      "fh": null,
+      "fc": 13.8,
+      "fh": 7.6,
       "fx": 11,
       "price": "$181,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2600,
+      "est": [
+        "weight",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~13.9 sec"
     },
     "Mercedes-Benz|GLS|2026|GLS450 d 4MATIC": {
       "topSpeed": 250,
@@ -42,7 +49,12 @@
       "fh": 6.7,
       "fx": 7.8,
       "price": "$191,127",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2600,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~14.4 sec"
     },
     "Mercedes-Benz|GLS|2026|GLS63 AMG 4MATIC+": {
       "topSpeed": 280,
@@ -64,12 +76,17 @@
       "fh": 10.5,
       "fx": 13.4,
       "price": "$310,227",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2640,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~12.5 sec"
     },
     "Mercedes-Benz|S-Class|2026|S450 4MATIC": {
       "topSpeed": 250,
       "acceleration": 4.9,
-      "cargo": null,
+      "cargo": 510,
       "seats": 5,
       "transmission": "9-speed automatic",
       "drivetrain": "AWD",
@@ -80,17 +97,25 @@
       "fuelType": "petrol",
       "power": 280,
       "torque": 560,
-      "fc": null,
-      "fh": null,
+      "fc": 11.3,
+      "fh": 6.2,
       "fx": 9,
       "fuelTank": 76,
       "price": "$264,200",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2265,
+      "est": [
+        "weight",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~13.2 sec"
     },
     "Mercedes-Benz|S-Class|2026|S580 L 4MATIC": {
       "topSpeed": 250,
       "acceleration": 4,
-      "cargo": null,
+      "cargo": 510,
       "seats": 5,
       "transmission": "9-speed automatic",
       "drivetrain": "AWD",
@@ -101,11 +126,19 @@
       "fuelType": "petrol",
       "power": 395,
       "torque": 750,
-      "fc": null,
-      "fh": null,
+      "fc": 14.3,
+      "fh": 7.9,
       "fx": 11.4,
       "price": "$353,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2300,
+      "est": [
+        "weight",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~12.3 sec"
     },
     "Mercedes-Benz|CLA|2026|CLA200": {
       "topSpeed": 232,
@@ -121,16 +154,23 @@
       "fuelType": "petrol",
       "power": 120,
       "torque": 250,
-      "fc": null,
-      "fh": null,
+      "fc": 6.8,
+      "fh": 3.7,
       "fx": 5.4,
       "price": "$68,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2065,
+      "est": [
+        "weight",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~16.1 sec"
     },
     "Mercedes-Benz|CLA|2026|CLA200 Electric": {
       "topSpeed": 210,
       "acceleration": 7.5,
-      "cargo": null,
+      "cargo": 405,
       "seats": 5,
       "transmission": "2-speed automatic",
       "drivetrain": "RWD",
@@ -148,12 +188,16 @@
       "range": 470,
       "weight": 2065,
       "price": "$72,200",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLA|2026|CLA350 4MATIC Electric": {
       "topSpeed": 210,
       "acceleration": 4.9,
-      "cargo": null,
+      "cargo": 405,
       "seats": 5,
       "transmission": "2-speed automatic",
       "drivetrain": "AWD",
@@ -171,7 +215,11 @@
       "range": 663,
       "weight": 2160,
       "price": "$91,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

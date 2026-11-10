@@ -16,10 +16,15 @@
       "seats": 5,
       "cargo": 291,
       "fuelTank": 50,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
-      "price": "$31,490"
+      "weight": 1345,
+      "topSpeed": 185,
+      "acceleration": 8.4,
+      "price": "$31,490",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Subaru|Impreza|2024|2.0R": {
       "engine": "2.0L H4 Petrol (Boxer)",
@@ -37,10 +42,15 @@
       "seats": 5,
       "cargo": 291,
       "fuelTank": 50,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
-      "price": "$34,990"
+      "weight": 1345,
+      "topSpeed": 185,
+      "acceleration": 8.4,
+      "price": "$34,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Subaru|Impreza|2024|2.0S": {
       "engine": "2.0L H4 Petrol (Boxer)",
@@ -58,10 +68,15 @@
       "seats": 5,
       "cargo": 291,
       "fuelTank": 50,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
-      "price": "$37,990"
+      "weight": 1345,
+      "topSpeed": 185,
+      "acceleration": 8.4,
+      "price": "$37,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.4 sec"
     }
   }
 }

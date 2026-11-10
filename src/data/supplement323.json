@@ -9,8 +9,8 @@
       "power": 75,
       "torque": 130,
       "drivetrain": "4WD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 150,
+      "acceleration": 11.8,
       "cargo": null,
       "towing": 1300,
       "fuelTank": 40,
@@ -20,7 +20,11 @@
       "fh": 5.7,
       "fx": 6.4,
       "weight": 1075,
-      "price": "$30,490"
+      "price": "$30,490",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Jimny|2023|GLX Manual": {
       "engine": "1.5L I4 Petrol",
@@ -31,8 +35,8 @@
       "power": 75,
       "torque": 130,
       "drivetrain": "4WD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 150,
+      "acceleration": 12.1,
       "cargo": null,
       "towing": 1300,
       "fuelTank": 40,
@@ -42,7 +46,11 @@
       "fh": 5.7,
       "fx": 6.4,
       "weight": 1095,
-      "price": "$31,990"
+      "price": "$31,990",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Jimny|2023|Heritage Edition Manual": {
       "engine": "1.5L I4 Petrol",
@@ -53,8 +61,8 @@
       "power": 75,
       "torque": 130,
       "drivetrain": "4WD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 150,
+      "acceleration": 12.1,
       "cargo": null,
       "towing": 1300,
       "fuelTank": 40,
@@ -64,7 +72,11 @@
       "fh": 5.7,
       "fx": 6.4,
       "weight": 1095,
-      "price": "$33,490"
+      "price": "$33,490",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Jimny|2023|GLX Auto": {
       "engine": "1.5L I4 Petrol",
@@ -75,8 +87,8 @@
       "power": 75,
       "torque": 130,
       "drivetrain": "4WD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 150,
+      "acceleration": 12.2,
       "cargo": null,
       "towing": 1300,
       "fuelTank": 40,
@@ -86,7 +98,11 @@
       "fh": 6.1,
       "fx": 6.9,
       "weight": 1110,
-      "price": "$33,490"
+      "price": "$33,490",
+      "quarterMile": "~18.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Jimny|2023|XL Manual": {
       "engine": "1.5L I4 Petrol",
@@ -97,8 +113,8 @@
       "power": 75,
       "torque": 130,
       "drivetrain": "4WD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 145,
+      "acceleration": 13,
       "cargo": null,
       "towing": 1300,
       "fuelTank": 40,
@@ -108,7 +124,11 @@
       "fh": 5.7,
       "fx": 6.4,
       "weight": 1185,
-      "price": "$34,990"
+      "price": "$34,990",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Jimny|2023|XL Auto": {
       "engine": "1.5L I4 Petrol",
@@ -119,8 +139,8 @@
       "power": 75,
       "torque": 130,
       "drivetrain": "4WD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 145,
+      "acceleration": 13.1,
       "cargo": null,
       "towing": 1300,
       "fuelTank": 40,
@@ -130,7 +150,11 @@
       "fh": 6.3,
       "fx": 6.9,
       "weight": 1200,
-      "price": "$36,490"
+      "price": "$36,490",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

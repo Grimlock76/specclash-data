@@ -10,7 +10,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 155,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -21,7 +21,11 @@
       "range": 540,
       "acceleration": 7.3,
       "weight": 2057,
-      "price": "$76,990"
+      "price": "$76,990",
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

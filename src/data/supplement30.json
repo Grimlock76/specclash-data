@@ -2267,7 +2267,8 @@
       "cargo": 420,
       "acceleration": 8.5,
       "topSpeed": 144,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Leaf|2012|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2289,7 +2290,8 @@
       "cargo": 420,
       "acceleration": 7.9,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec"
     },
     "Nissan|Leaf|2013|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2311,7 +2313,8 @@
       "cargo": 420,
       "acceleration": 8.5,
       "topSpeed": 144,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Leaf|2013|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2333,7 +2336,8 @@
       "cargo": 420,
       "acceleration": 7.9,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec"
     },
     "Nissan|Leaf|2014|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2355,7 +2359,8 @@
       "cargo": 420,
       "acceleration": 8.5,
       "topSpeed": 144,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Leaf|2014|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2377,7 +2382,8 @@
       "cargo": 420,
       "acceleration": 7.9,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec"
     },
     "Nissan|Leaf|2015|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2399,7 +2405,8 @@
       "cargo": 420,
       "acceleration": 8.5,
       "topSpeed": 144,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Leaf|2015|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2421,7 +2428,8 @@
       "cargo": 420,
       "acceleration": 7.9,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec"
     },
     "Nissan|Leaf|2016|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2443,7 +2451,8 @@
       "cargo": 420,
       "acceleration": 8.5,
       "topSpeed": 144,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Leaf|2016|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2465,7 +2474,8 @@
       "cargo": 420,
       "acceleration": 7.9,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec"
     },
     "Nissan|Leaf|2017|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2487,7 +2497,8 @@
       "cargo": 420,
       "acceleration": 8.5,
       "topSpeed": 144,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Leaf|2017|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2509,7 +2520,8 @@
       "cargo": 420,
       "acceleration": 7.9,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec"
     },
     "Nissan|Leaf|2018|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2531,7 +2543,8 @@
       "cargo": 420,
       "acceleration": 8.5,
       "topSpeed": 144,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Leaf|2018|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2553,7 +2566,8 @@
       "cargo": 420,
       "acceleration": 7.9,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec"
     },
     "Nissan|Leaf|2019|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2575,7 +2589,8 @@
       "cargo": 420,
       "acceleration": 8.5,
       "topSpeed": 144,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Leaf|2019|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2597,7 +2612,8 @@
       "cargo": 420,
       "acceleration": 7.9,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec"
     },
     "Nissan|Leaf|2019|e+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2641,7 +2657,8 @@
       "cargo": 420,
       "acceleration": 8.5,
       "topSpeed": 144,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Leaf|2020|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2663,7 +2680,8 @@
       "cargo": 420,
       "acceleration": 7.9,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec"
     },
     "Nissan|Leaf|2020|e+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2685,7 +2703,8 @@
       "cargo": 420,
       "acceleration": 6.5,
       "topSpeed": 157,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.8 sec"
     },
     "Nissan|Leaf|2021|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2707,7 +2726,8 @@
       "cargo": 420,
       "acceleration": 8.5,
       "topSpeed": 144,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Leaf|2021|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2729,7 +2749,8 @@
       "cargo": 420,
       "acceleration": 7.9,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec"
     },
     "Nissan|Leaf|2021|e+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2751,7 +2772,8 @@
       "cargo": 420,
       "acceleration": 6.5,
       "topSpeed": 157,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.8 sec"
     },
     "Nissan|Leaf|2022|ST": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2773,7 +2795,8 @@
       "cargo": 420,
       "acceleration": 8.5,
       "topSpeed": 144,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Leaf|2022|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2795,7 +2818,8 @@
       "cargo": 420,
       "acceleration": 7.9,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec"
     },
     "Nissan|Leaf|2022|e+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2839,7 +2863,8 @@
       "cargo": 420,
       "acceleration": 8.5,
       "topSpeed": 144,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Leaf|2023|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2861,7 +2886,8 @@
       "cargo": 420,
       "acceleration": 7.9,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec"
     },
     "Nissan|Leaf|2023|e+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2905,7 +2931,8 @@
       "cargo": 420,
       "acceleration": 8.5,
       "topSpeed": 144,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Leaf|2024|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2927,7 +2954,8 @@
       "cargo": 420,
       "acceleration": 7.9,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec"
     },
     "Nissan|Leaf|2024|e+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2971,7 +2999,8 @@
       "cargo": 420,
       "acceleration": 8.5,
       "topSpeed": 144,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Leaf|2025|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -2993,7 +3022,8 @@
       "cargo": 420,
       "acceleration": 7.9,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec"
     },
     "Nissan|Leaf|2025|e+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -3037,7 +3067,8 @@
       "cargo": 420,
       "acceleration": 8.5,
       "topSpeed": 144,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Nissan|Leaf|2026|ST+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -3059,7 +3090,8 @@
       "cargo": 420,
       "acceleration": 7.9,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec"
     },
     "Nissan|Leaf|2026|e+": {
       "engine": "EM57 AC Synchronous Motor",
@@ -3544,7 +3576,8 @@
       "cargo": 415,
       "acceleration": 7.5,
       "topSpeed": 160,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     },
     "Nissan|Ariya|2022|Engage+": {
       "engine": "AC Synchronous Motor FWD",
@@ -3566,7 +3599,8 @@
       "cargo": 415,
       "acceleration": 7.5,
       "topSpeed": 160,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     },
     "Nissan|Ariya|2022|Engage+ e-4ORCE": {
       "engine": "Dual AC Synchronous Motor AWD",
@@ -3588,7 +3622,8 @@
       "cargo": 415,
       "acceleration": 5.7,
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.0 sec"
     },
     "Nissan|Ariya|2023|Engage": {
       "engine": "AC Synchronous Motor FWD",
@@ -3610,7 +3645,8 @@
       "cargo": 415,
       "acceleration": 7.5,
       "topSpeed": 160,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     },
     "Nissan|Ariya|2023|Engage+": {
       "engine": "AC Synchronous Motor FWD",
@@ -3632,7 +3668,8 @@
       "cargo": 415,
       "acceleration": 7.5,
       "topSpeed": 160,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     },
     "Nissan|Ariya|2023|Engage+ e-4ORCE": {
       "engine": "Dual AC Synchronous Motor AWD",
@@ -3654,7 +3691,8 @@
       "cargo": 415,
       "acceleration": 5.7,
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.0 sec"
     },
     "Nissan|Ariya|2024|Engage": {
       "engine": "AC Synchronous Motor FWD",
@@ -3676,7 +3714,8 @@
       "cargo": 415,
       "acceleration": 7.5,
       "topSpeed": 160,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     },
     "Nissan|Ariya|2024|Engage+": {
       "engine": "AC Synchronous Motor FWD",
@@ -3698,7 +3737,8 @@
       "cargo": 415,
       "acceleration": 7.5,
       "topSpeed": 160,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     },
     "Nissan|Ariya|2024|Engage+ e-4ORCE": {
       "engine": "Dual AC Synchronous Motor AWD",
@@ -3720,7 +3760,8 @@
       "cargo": 415,
       "acceleration": 5.7,
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.0 sec"
     },
     "Nissan|Ariya|2025|Engage": {
       "engine": "AC Synchronous Motor FWD",
@@ -3742,7 +3783,8 @@
       "cargo": 415,
       "acceleration": 7.5,
       "topSpeed": 160,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     },
     "Nissan|Ariya|2025|Engage+": {
       "engine": "AC Synchronous Motor FWD",
@@ -3764,7 +3806,8 @@
       "cargo": 415,
       "acceleration": 7.5,
       "topSpeed": 160,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     },
     "Nissan|Ariya|2025|Engage+ e-4ORCE": {
       "engine": "Dual AC Synchronous Motor AWD",
@@ -3786,7 +3829,8 @@
       "cargo": 415,
       "acceleration": 5.7,
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.0 sec"
     },
     "Nissan|Ariya|2026|Engage": {
       "engine": "AC Synchronous Motor FWD",
@@ -3808,7 +3852,8 @@
       "cargo": 415,
       "acceleration": 7.5,
       "topSpeed": 160,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     },
     "Nissan|Ariya|2026|Engage+": {
       "engine": "AC Synchronous Motor FWD",
@@ -3830,7 +3875,8 @@
       "cargo": 415,
       "acceleration": 7.5,
       "topSpeed": 160,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     },
     "Nissan|Ariya|2026|Engage+ e-4ORCE": {
       "engine": "Dual AC Synchronous Motor AWD",
@@ -3852,7 +3898,8 @@
       "cargo": 415,
       "acceleration": 5.7,
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.0 sec"
     },
     "Nissan|Juke|2022|ST": {
       "engine": "HR13DDT 1.3L DOHC Turbo I4",

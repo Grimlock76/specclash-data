@@ -11,13 +11,18 @@
       "torque": 400,
       "weight": 2055,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.3,
+      "fh": 5.3,
       "fx": 7.5,
       "acceleration": 11.5,
       "topSpeed": 170,
       "price": "~$42,490",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Ranger|2022|P703 XLT": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -30,13 +35,18 @@
       "torque": 500,
       "weight": 2130,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.7,
+      "fh": 5.5,
       "fx": 7.8,
       "acceleration": 10,
       "topSpeed": 185,
       "price": "~$54,490",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Ranger|2022|P703 Wildtrak": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -49,13 +59,18 @@
       "torque": 500,
       "weight": 2165,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.8,
+      "fh": 5.6,
       "fx": 7.9,
       "acceleration": 10,
       "topSpeed": 185,
       "price": "~$59,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Ranger|2022|P703 Raptor": {
       "engine": "3.0L V6 EcoBoost Petrol",
@@ -68,13 +83,18 @@
       "torque": 491,
       "weight": 2283,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 15.8,
+      "fh": 8.7,
       "fx": 12.6,
       "acceleration": 7,
       "topSpeed": 200,
       "price": "~$83,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Ranger|2023|P703 XL": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -87,13 +107,18 @@
       "torque": 400,
       "weight": 2055,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.3,
+      "fh": 5.3,
       "fx": 7.5,
       "acceleration": 11.5,
       "topSpeed": 170,
       "price": "~$44,490",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Ranger|2023|P703 XLT": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -106,13 +131,18 @@
       "torque": 500,
       "weight": 2130,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.7,
+      "fh": 5.5,
       "fx": 7.8,
       "acceleration": 10,
       "topSpeed": 185,
       "price": "~$56,490",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Ranger|2023|P703 Wildtrak": {
       "engine": "2.0L 4-cyl Bi-Turbo TDCi",
@@ -125,13 +155,18 @@
       "torque": 500,
       "weight": 2165,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.8,
+      "fh": 5.6,
       "fx": 7.9,
       "acceleration": 10,
       "topSpeed": 185,
       "price": "~$62,490",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Ranger|2023|P703 Raptor": {
       "engine": "3.0L V6 EcoBoost Petrol",
@@ -144,13 +179,18 @@
       "torque": 583,
       "weight": 2283,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 15.8,
+      "fh": 8.7,
       "fx": 12.6,
       "acceleration": 7,
       "topSpeed": 200,
       "price": "~$85,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Hyundai|Venue|2020|Active": {
       "engine": "1.6L 4-cyl MPI",
@@ -163,13 +203,18 @@
       "torque": 151,
       "weight": 1155,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.5,
+      "fh": 4.7,
       "fx": 6.8,
       "acceleration": 11.5,
       "topSpeed": 171,
       "price": "~$24,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Hyundai|Venue|2020|Elite": {
       "engine": "1.6L 4-cyl MPI",
@@ -182,13 +227,18 @@
       "torque": 151,
       "weight": 1155,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.5,
+      "fh": 4.7,
       "fx": 6.8,
       "acceleration": 11.5,
       "topSpeed": 171,
       "price": "~$29,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Hyundai|Venue|2020|N Line": {
       "engine": "1.6L 4-cyl MPI",
@@ -201,13 +251,18 @@
       "torque": 151,
       "weight": 1155,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.5,
+      "fh": 4.7,
       "fx": 6.8,
       "acceleration": 11.5,
       "topSpeed": 171,
       "price": "~$33,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Hyundai|Venue|2021|Active": {
       "engine": "1.6L 4-cyl MPI",
@@ -220,13 +275,18 @@
       "torque": 151,
       "weight": 1155,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.5,
+      "fh": 4.7,
       "fx": 6.8,
       "acceleration": 11.5,
       "topSpeed": 171,
       "price": "~$25,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Hyundai|Venue|2021|Elite": {
       "engine": "1.6L 4-cyl MPI",
@@ -239,13 +299,18 @@
       "torque": 151,
       "weight": 1155,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.5,
+      "fh": 4.7,
       "fx": 6.8,
       "acceleration": 11.5,
       "topSpeed": 171,
       "price": "~$30,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Hyundai|Venue|2021|N Line": {
       "engine": "1.6L 4-cyl MPI",
@@ -258,13 +323,18 @@
       "torque": 151,
       "weight": 1155,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.5,
+      "fh": 4.7,
       "fx": 6.8,
       "acceleration": 11.5,
       "topSpeed": 171,
       "price": "~$34,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Hyundai|Venue|2022|Active": {
       "engine": "1.6L 4-cyl MPI",
@@ -277,13 +347,18 @@
       "torque": 151,
       "weight": 1155,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.5,
+      "fh": 4.7,
       "fx": 6.8,
       "acceleration": 11.5,
       "topSpeed": 171,
       "price": "~$26,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Hyundai|Venue|2022|Elite": {
       "engine": "1.6L 4-cyl MPI",
@@ -296,13 +371,18 @@
       "torque": 151,
       "weight": 1155,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.5,
+      "fh": 4.7,
       "fx": 6.8,
       "acceleration": 11.5,
       "topSpeed": 171,
       "price": "~$31,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Hyundai|Venue|2022|N Line": {
       "engine": "1.6L 4-cyl MPI",
@@ -315,13 +395,18 @@
       "torque": 151,
       "weight": 1155,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.5,
+      "fh": 4.7,
       "fx": 6.8,
       "acceleration": 11.5,
       "topSpeed": 171,
       "price": "~$35,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Hyundai|Venue|2023|Active": {
       "engine": "1.6L 4-cyl MPI",
@@ -334,13 +419,18 @@
       "torque": 151,
       "weight": 1155,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.5,
+      "fh": 4.7,
       "fx": 6.8,
       "acceleration": 11.5,
       "topSpeed": 171,
       "price": "~$27,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Hyundai|Venue|2023|Elite": {
       "engine": "1.6L 4-cyl MPI",
@@ -353,13 +443,18 @@
       "torque": 151,
       "weight": 1155,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.5,
+      "fh": 4.7,
       "fx": 6.8,
       "acceleration": 11.5,
       "topSpeed": 171,
       "price": "~$32,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Hyundai|Venue|2023|N Line": {
       "engine": "1.6L 4-cyl MPI",
@@ -372,13 +467,18 @@
       "torque": 151,
       "weight": 1155,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.5,
+      "fh": 4.7,
       "fx": 6.8,
       "acceleration": 11.5,
       "topSpeed": 171,
       "price": "~$36,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Kia|Stonic|2018|S": {
       "engine": "1.0L 3-cyl T-GDi Turbo",
@@ -391,13 +491,18 @@
       "torque": 171,
       "weight": 1170,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.8,
+      "fh": 4.2,
       "fx": 6.2,
       "acceleration": 11.9,
       "topSpeed": 185,
       "price": "~$24,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Kia|Stonic|2018|Sport": {
       "engine": "1.0L 3-cyl T-GDi Turbo",
@@ -410,13 +515,18 @@
       "torque": 171,
       "weight": 1170,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.8,
+      "fh": 4.2,
       "fx": 6.2,
       "acceleration": 11.9,
       "topSpeed": 185,
       "price": "~$27,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Kia|Stonic|2018|GT-Line": {
       "engine": "1.0L 3-cyl T-GDi Turbo",
@@ -429,13 +539,18 @@
       "torque": 171,
       "weight": 1170,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.8,
+      "fh": 4.2,
       "fx": 6.2,
       "acceleration": 11.9,
       "topSpeed": 185,
       "price": "~$30,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Kia|Stonic|2019|S": {
       "engine": "1.0L 3-cyl T-GDi Turbo",
@@ -448,13 +563,18 @@
       "torque": 171,
       "weight": 1170,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.8,
+      "fh": 4.2,
       "fx": 6.2,
       "acceleration": 11.9,
       "topSpeed": 185,
       "price": "~$25,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Kia|Stonic|2019|Sport": {
       "engine": "1.0L 3-cyl T-GDi Turbo",
@@ -467,13 +587,18 @@
       "torque": 171,
       "weight": 1170,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.8,
+      "fh": 4.2,
       "fx": 6.2,
       "acceleration": 11.9,
       "topSpeed": 185,
       "price": "~$28,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Kia|Stonic|2019|GT-Line": {
       "engine": "1.0L 3-cyl T-GDi Turbo",
@@ -486,13 +611,18 @@
       "torque": 171,
       "weight": 1170,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.8,
+      "fh": 4.2,
       "fx": 6.2,
       "acceleration": 11.9,
       "topSpeed": 185,
       "price": "~$31,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Kia|Stonic|2020|S": {
       "engine": "1.0L 3-cyl T-GDi Turbo",
@@ -505,13 +635,18 @@
       "torque": 171,
       "weight": 1170,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.8,
+      "fh": 4.2,
       "fx": 6.2,
       "acceleration": 11.9,
       "topSpeed": 185,
       "price": "~$25,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Kia|Stonic|2020|Sport": {
       "engine": "1.0L 3-cyl T-GDi Turbo",
@@ -524,13 +659,18 @@
       "torque": 171,
       "weight": 1170,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.8,
+      "fh": 4.2,
       "fx": 6.2,
       "acceleration": 11.9,
       "topSpeed": 185,
       "price": "~$28,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Kia|Stonic|2020|GT-Line": {
       "engine": "1.0L 3-cyl T-GDi Turbo",
@@ -543,13 +683,18 @@
       "torque": 171,
       "weight": 1170,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.8,
+      "fh": 4.2,
       "fx": 6.2,
       "acceleration": 11.9,
       "topSpeed": 185,
       "price": "~$31,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Kia|Stonic|2021|S": {
       "engine": "1.0L 3-cyl T-GDi Turbo",
@@ -562,13 +707,18 @@
       "torque": 171,
       "weight": 1170,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.8,
+      "fh": 4.2,
       "fx": 6.2,
       "acceleration": 11.9,
       "topSpeed": 185,
       "price": "~$26,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Kia|Stonic|2021|Sport": {
       "engine": "1.0L 3-cyl T-GDi Turbo",
@@ -581,13 +731,18 @@
       "torque": 171,
       "weight": 1170,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.8,
+      "fh": 4.2,
       "fx": 6.2,
       "acceleration": 11.9,
       "topSpeed": 185,
       "price": "~$29,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Kia|Stonic|2021|GT-Line": {
       "engine": "1.0L 3-cyl T-GDi Turbo",
@@ -600,13 +755,18 @@
       "torque": 171,
       "weight": 1170,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.8,
+      "fh": 4.2,
       "fx": 6.2,
       "acceleration": 11.9,
       "topSpeed": 185,
       "price": "~$32,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Kia|Stonic|2022|S": {
       "engine": "1.0L 3-cyl T-GDi Turbo",
@@ -619,13 +779,20 @@
       "torque": 171,
       "weight": 1170,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.8,
+      "fh": 4.2,
       "fx": 6.2,
       "acceleration": 11.9,
       "topSpeed": 185,
       "price": "~$27,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 332
     },
     "Kia|Stonic|2022|Sport": {
       "engine": "1.0L 3-cyl T-GDi Turbo",
@@ -638,13 +805,20 @@
       "torque": 171,
       "weight": 1170,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.8,
+      "fh": 4.2,
       "fx": 6.2,
       "acceleration": 11.9,
       "topSpeed": 185,
       "price": "~$30,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 332
     },
     "Kia|Stonic|2022|GT-Line": {
       "engine": "1.0L 3-cyl T-GDi Turbo",
@@ -657,13 +831,20 @@
       "torque": 171,
       "weight": 1170,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.8,
+      "fh": 4.2,
       "fx": 6.2,
       "acceleration": 11.9,
       "topSpeed": 185,
       "price": "~$33,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 332
     },
     "Kia|Stonic|2023|S": {
       "engine": "1.0L 3-cyl T-GDi Turbo",
@@ -676,13 +857,20 @@
       "torque": 171,
       "weight": 1170,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.8,
+      "fh": 4.2,
       "fx": 6.2,
       "acceleration": 11.9,
       "topSpeed": 185,
       "price": "~$28,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 332
     },
     "Kia|Stonic|2023|Sport": {
       "engine": "1.0L 3-cyl T-GDi Turbo",
@@ -695,13 +883,20 @@
       "torque": 171,
       "weight": 1170,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.8,
+      "fh": 4.2,
       "fx": 6.2,
       "acceleration": 11.9,
       "topSpeed": 185,
       "price": "~$31,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 332
     },
     "Kia|Stonic|2023|GT-Line": {
       "engine": "1.0L 3-cyl T-GDi Turbo",
@@ -714,13 +909,20 @@
       "torque": 171,
       "weight": 1170,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.8,
+      "fh": 4.2,
       "fx": 6.2,
       "acceleration": 11.9,
       "topSpeed": 185,
       "price": "~$34,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 332
     }
   }
 }

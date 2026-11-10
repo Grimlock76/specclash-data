@@ -22,7 +22,8 @@
       "weight": 1805,
       "towing": 500,
       "accelClaimed": true,
-      "price": "$49,990"
+      "price": "$49,990",
+      "quarterMile": "~15.5 sec"
     },
     "Kia|EV4|2025|Earth Long Range": {
       "fuelType": "electric",
@@ -46,7 +47,8 @@
       "weight": 1912,
       "towing": 1000,
       "accelClaimed": true,
-      "price": "$59,190"
+      "price": "$59,190",
+      "quarterMile": "~15.9 sec"
     },
     "Kia|EV4|2025|GT-Line Long Range": {
       "fuelType": "electric",
@@ -70,7 +72,8 @@
       "weight": 1912,
       "towing": 1000,
       "accelClaimed": true,
-      "price": "$64,690"
+      "price": "$64,690",
+      "quarterMile": "~15.9 sec"
     },
     "Kia|EV4|2026|Air Standard Range": {
       "fuelType": "electric",
@@ -94,7 +97,8 @@
       "weight": 1805,
       "towing": 500,
       "accelClaimed": true,
-      "price": "$49,990"
+      "price": "$49,990",
+      "quarterMile": "~15.5 sec"
     },
     "Kia|EV4|2026|Earth Long Range": {
       "fuelType": "electric",
@@ -118,7 +122,8 @@
       "weight": 1912,
       "towing": 1000,
       "accelClaimed": true,
-      "price": "$59,190"
+      "price": "$59,190",
+      "quarterMile": "~15.9 sec"
     },
     "Kia|EV4|2026|GT-Line Long Range": {
       "fuelType": "electric",
@@ -142,7 +147,8 @@
       "weight": 1912,
       "towing": 1000,
       "accelClaimed": true,
-      "price": "$64,690"
+      "price": "$64,690",
+      "quarterMile": "~15.9 sec"
     }
   }
 }

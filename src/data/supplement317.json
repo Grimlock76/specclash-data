@@ -1,8 +1,8 @@
 {
   "specs": {
     "Toyota|Camry|2024|Ascent": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 210,
+      "acceleration": 7.7,
       "cargo": 524,
       "seats": 5,
       "cylinders": 4,
@@ -19,11 +19,15 @@
       "fx": 6.8,
       "weight": 1500,
       "fuelTank": 60,
-      "price": "$35,051"
+      "price": "$35,051",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Camry|2024|Ascent Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 210,
+      "acceleration": 8.4,
       "cargo": 524,
       "seats": 5,
       "cylinders": 4,
@@ -33,18 +37,23 @@
       "engine": "2.5L I4 Hybrid",
       "fuelType": "hybrid",
       "power": 160,
-      "torque": null,
+      "torque": 215,
       "transmission": "CVT",
       "fuelTank": 50,
       "fc": 4.3,
       "fh": 4.2,
       "fx": 4.2,
       "weight": 1655,
-      "price": "$37,917"
+      "price": "$37,917",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Toyota|Camry|2024|Ascent Sport Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 210,
+      "acceleration": 8.4,
       "cargo": 524,
       "seats": 5,
       "cylinders": 4,
@@ -54,18 +63,23 @@
       "engine": "2.5L I4 Hybrid",
       "fuelType": "hybrid",
       "power": 160,
-      "torque": null,
+      "torque": 215,
       "transmission": "CVT",
       "fuelTank": 50,
       "fc": 4.3,
       "fh": 4.2,
       "fx": 4.2,
       "weight": 1655,
-      "price": "$40,717"
+      "price": "$40,717",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Toyota|Camry|2024|SX Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 210,
+      "acceleration": 8.4,
       "cargo": 524,
       "seats": 5,
       "cylinders": 4,
@@ -75,18 +89,23 @@
       "engine": "2.5L I4 Hybrid",
       "fuelType": "hybrid",
       "power": 160,
-      "torque": null,
+      "torque": 215,
       "transmission": "CVT",
       "fuelTank": 50,
       "fc": 4.9,
       "fh": 4.7,
       "fx": 4.7,
       "weight": 1645,
-      "price": "$44,117"
+      "price": "$44,117",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Toyota|Camry|2024|SL Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 210,
+      "acceleration": 8.4,
       "cargo": 524,
       "seats": 5,
       "cylinders": 4,
@@ -96,18 +115,23 @@
       "engine": "2.5L I4 Hybrid",
       "fuelType": "hybrid",
       "power": 160,
-      "torque": null,
+      "torque": 215,
       "transmission": "CVT",
       "fuelTank": 50,
       "fc": 4.7,
       "fh": 4.5,
       "fx": 4.5,
       "weight": 1655,
-      "price": "$51,417"
+      "price": "$51,417",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Toyota|Kluger|2024|GX 2WD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 7.2,
       "cargo": null,
       "seats": 7,
       "cylinders": 4,
@@ -125,11 +149,15 @@
       "fh": 6.8,
       "fx": 8.3,
       "weight": 1900,
-      "price": "$54,420"
+      "price": "$54,420",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Kluger|2024|GX AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 7.2,
       "cargo": null,
       "seats": 7,
       "cylinders": 4,
@@ -147,11 +175,15 @@
       "fh": 6.9,
       "fx": 8.5,
       "weight": 1985,
-      "price": "$58,420"
+      "price": "$58,420",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Kluger|2024|GX Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 8.4,
       "cargo": null,
       "seats": 7,
       "cylinders": 4,
@@ -161,7 +193,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 184,
-      "torque": null,
+      "torque": 220,
       "transmission": "CVT",
       "drivetrain": "AWD",
       "fc": 6,
@@ -169,11 +201,16 @@
       "fx": 5.6,
       "weight": 2050,
       "fuelTank": 65,
-      "price": "$60,920"
+      "price": "$60,920",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Toyota|Kluger|2024|GXL 2WD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 7.2,
       "cargo": null,
       "seats": 7,
       "cylinders": 4,
@@ -191,11 +228,15 @@
       "fh": 6.8,
       "fx": 8.3,
       "weight": 1900,
-      "price": "$63,940"
+      "price": "$63,940",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Kluger|2024|GXL AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 7.2,
       "cargo": null,
       "seats": 7,
       "cylinders": 4,
@@ -213,11 +254,15 @@
       "fh": 6.9,
       "fx": 8.5,
       "weight": 1985,
-      "price": "$67,940"
+      "price": "$67,940",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Kluger|2024|GXL Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 8.4,
       "cargo": null,
       "seats": 7,
       "cylinders": 4,
@@ -227,7 +272,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 184,
-      "torque": null,
+      "torque": 220,
       "transmission": "CVT",
       "drivetrain": "AWD",
       "fc": 6,
@@ -235,11 +280,16 @@
       "fx": 5.6,
       "weight": 2050,
       "fuelTank": 65,
-      "price": "$70,440"
+      "price": "$70,440",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Toyota|Kluger|2024|Grande AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 7.4,
       "cargo": null,
       "seats": 7,
       "cylinders": 4,
@@ -257,11 +307,15 @@
       "fh": 7.1,
       "fx": 8.7,
       "weight": 2060,
-      "price": "$77,973"
+      "price": "$77,973",
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Kluger|2024|Grande Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 8.5,
       "cargo": null,
       "seats": 7,
       "cylinders": 4,
@@ -271,7 +325,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 184,
-      "torque": null,
+      "torque": 220,
       "transmission": "CVT",
       "drivetrain": "AWD",
       "fc": 6,
@@ -279,7 +333,12 @@
       "fx": 5.6,
       "weight": 2095,
       "fuelTank": 65,
-      "price": "$82,860"
+      "price": "$82,860",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.5 sec"
     }
   }
 }

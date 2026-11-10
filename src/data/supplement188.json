@@ -17,7 +17,12 @@
       "acceleration": 12.5,
       "topSpeed": 170,
       "price": "~$53,900",
-      "aspiration": "Isuzu IHI VGT Diesel Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo",
+      "quarterMile": "~19.1 sec",
+      "cargo": 621,
+      "est": [
+        "cargo"
+      ]
     },
     "Isuzu|MU-X|2021|RG LS-T": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -36,7 +41,12 @@
       "acceleration": 12.5,
       "topSpeed": 170,
       "price": "~$61,900",
-      "aspiration": "Isuzu IHI VGT Diesel Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo",
+      "quarterMile": "~19.1 sec",
+      "cargo": 621,
+      "est": [
+        "cargo"
+      ]
     },
     "Isuzu|MU-X|2021|RG LS-U": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -55,7 +65,12 @@
       "acceleration": 12.5,
       "topSpeed": 170,
       "price": "~$69,900",
-      "aspiration": "Isuzu IHI VGT Diesel Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo",
+      "quarterMile": "~19.1 sec",
+      "cargo": 621,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Escape|2021|ZH Ambiente": {
       "engine": "1.5L I3 EcoBoost Turbo",
@@ -74,7 +89,12 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "price": "~$35,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 793,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Escape|2021|ZH Trend": {
       "engine": "1.5L I3 EcoBoost Turbo",
@@ -93,7 +113,12 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "price": "~$38,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 793,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Escape|2021|ZH ST-Line": {
       "engine": "2.0L I4 EcoBoost Turbo",
@@ -112,7 +137,12 @@
       "acceleration": 8,
       "topSpeed": 210,
       "price": "~$46,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.1 sec",
+      "cargo": 793,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Escape|2021|ZH Titanium": {
       "engine": "2.0L I4 EcoBoost Turbo",
@@ -131,7 +161,12 @@
       "acceleration": 8,
       "topSpeed": 210,
       "price": "~$50,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.1 sec",
+      "cargo": 793,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Mustang|2021|Mach 1": {
       "engine": "5.0L V8 Coyote NA",
@@ -150,7 +185,12 @@
       "acceleration": 4.4,
       "topSpeed": 265,
       "price": "~$89,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.7 sec",
+      "cargo": 408,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G80|2021|2.5T": {
       "engine": "2.5L I4 Turbo",
@@ -169,7 +209,8 @@
       "acceleration": 6,
       "topSpeed": 240,
       "price": "~$89,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.3 sec"
     },
     "Genesis|G80|2021|2.5T Sport": {
       "engine": "2.5L I4 Turbo",
@@ -188,7 +229,8 @@
       "acceleration": 6,
       "topSpeed": 240,
       "price": "~$99,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.3 sec"
     },
     "Genesis|G80|2021|3.5T": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -207,7 +249,8 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$115,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.4 sec"
     },
     "Genesis|G80|2021|3.5T Sport+": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -226,7 +269,8 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$129,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.4 sec"
     },
     "Genesis|G80|2021|Electrified": {
       "engine": "Dual Motor Electric",
@@ -245,7 +289,8 @@
       "acceleration": 4.9,
       "topSpeed": 225,
       "price": "~$139,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.2 sec"
     },
     "Honda|CR-V|2021|VTi-LX": {
       "engine": "1.5L I4 VTEC Turbo",
@@ -264,7 +309,12 @@
       "acceleration": 10.5,
       "topSpeed": 195,
       "price": "~$47,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.9 sec",
+      "cargo": 522,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|HR-V|2021|VTi-LX": {
       "engine": "1.8L I4 NA SOHC i-VTEC",
@@ -283,7 +333,12 @@
       "acceleration": 10.5,
       "topSpeed": 185,
       "price": "~$32,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec",
+      "cargo": 393,
+      "est": [
+        "cargo"
+      ]
     },
     "Isuzu|D-MAX|2021|SX Space Cab": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -302,7 +357,12 @@
       "acceleration": 12.5,
       "topSpeed": 170,
       "price": "~$43,900",
-      "aspiration": "Isuzu IHI VGT Diesel Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo",
+      "quarterMile": "~19.1 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "Isuzu|D-MAX|2021|RG LS-M Crew Cab": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -321,7 +381,12 @@
       "acceleration": 12,
       "topSpeed": 170,
       "price": "~$52,900",
-      "aspiration": "Isuzu IHI VGT Diesel Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo",
+      "quarterMile": "~18.8 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "Isuzu|D-MAX|2021|RG LS-T Crew Cab": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -340,7 +405,12 @@
       "acceleration": 12,
       "topSpeed": 170,
       "price": "~$58,900",
-      "aspiration": "Isuzu IHI VGT Diesel Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo",
+      "quarterMile": "~18.8 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "Isuzu|D-MAX|2021|RG LS-U Crew Cab": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -359,7 +429,12 @@
       "acceleration": 12,
       "topSpeed": 170,
       "price": "~$65,900",
-      "aspiration": "Isuzu IHI VGT Diesel Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo",
+      "quarterMile": "~18.8 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "Isuzu|D-MAX|2021|RG X-Terrain Crew Cab": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -378,7 +453,12 @@
       "acceleration": 12,
       "topSpeed": 170,
       "price": "~$71,900",
-      "aspiration": "Isuzu IHI VGT Diesel Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo",
+      "quarterMile": "~18.8 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

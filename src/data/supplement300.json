@@ -7,21 +7,26 @@
       "aspiration": "Turbo",
       "fuelType": "diesel",
       "power": 133,
-      "torque": null,
+      "torque": 400,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
       "fc": 10.9,
       "fh": 7.5,
       "fx": 8.6,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 13,
+      "topSpeed": 185,
       "cargo": null,
       "seats": 5,
       "weight": 2097,
       "towing": 3500,
       "payload": 783,
       "fuelTank": 75,
-      "price": "$42,500"
+      "price": "$42,500",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~19.4 sec"
     },
     "SsangYong|Musso|2026|Advance": {
       "engine": "2.2L I4 Turbo Diesel",
@@ -30,21 +35,26 @@
       "aspiration": "Turbo",
       "fuelType": "diesel",
       "power": 133,
-      "torque": null,
+      "torque": 400,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
       "fc": 10.9,
       "fh": 7.5,
       "fx": 8.6,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 13,
+      "topSpeed": 185,
       "cargo": null,
       "seats": 5,
       "weight": 2097,
       "towing": 3500,
       "payload": 783,
       "fuelTank": 75,
-      "price": "$46,500"
+      "price": "$46,500",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~19.4 sec"
     },
     "SsangYong|Musso|2026|Ultimate": {
       "engine": "2.2L I4 Turbo Diesel",
@@ -53,21 +63,26 @@
       "aspiration": "Turbo",
       "fuelType": "diesel",
       "power": 133,
-      "torque": null,
+      "torque": 400,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
       "fc": 10.9,
       "fh": 7.5,
       "fx": 8.6,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 13,
+      "topSpeed": 185,
       "cargo": null,
       "seats": 5,
       "weight": 2097,
       "towing": 3500,
       "payload": 783,
       "fuelTank": 75,
-      "price": "$51,500"
+      "price": "$51,500",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~19.4 sec"
     },
     "SsangYong|Musso|2026|EV 2WD": {
       "displacement": null,
@@ -78,8 +93,8 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.2,
+      "topSpeed": 160,
       "cargo": null,
       "seats": 5,
       "battery": "80.6 kWh",
@@ -91,7 +106,11 @@
       "range": 420,
       "weight": 2165,
       "payload": 905,
-      "price": "$60,000"
+      "price": "$60,000",
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "SsangYong|Musso|2026|EV AWD": {
       "displacement": null,
@@ -102,8 +121,8 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 6.6,
+      "topSpeed": 190,
       "cargo": null,
       "seats": 5,
       "battery": "80.6 kWh",
@@ -111,11 +130,16 @@
       "engine": "Dual-Motor Electric",
       "drivetrain": "AWD",
       "power": 266,
-      "torque": null,
+      "torque": 555,
       "range": 379,
       "weight": 2285,
       "payload": 805,
-      "price": "$64,000"
+      "price": "$64,000",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.9 sec"
     }
   }
 }

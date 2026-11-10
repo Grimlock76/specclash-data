@@ -17,7 +17,12 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$112,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.8 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|RS Q8|2026|RS Q8": {
       "engine": "4.0 TFSI V8 biturbo",
@@ -36,7 +41,12 @@
       "acceleration": 3.8,
       "topSpeed": 250,
       "price": "~$239,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.0 sec",
+      "cargo": 605,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|RS7|2026|RS7": {
       "engine": "4.0 TFSI V8 biturbo",
@@ -55,7 +65,12 @@
       "acceleration": 3.6,
       "topSpeed": 250,
       "price": "~$229,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.8 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|S7|2026|S7": {
       "engine": "2.9 V6 TFSI biturbo",
@@ -74,7 +89,8 @@
       "acceleration": 4.6,
       "topSpeed": 250,
       "price": "~$182,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.9 sec"
     },
     "Audi|S8|2026|S8": {
       "engine": "4.0 TFSI V8 biturbo",
@@ -93,7 +109,8 @@
       "acceleration": 3.8,
       "topSpeed": 250,
       "price": "~$267,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.0 sec"
     },
     "Audi|SQ7|2026|SQ7": {
       "engine": "4.0 TFSI V8 biturbo",
@@ -112,7 +129,12 @@
       "acceleration": 4.1,
       "topSpeed": 250,
       "price": "~$186,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.4 sec",
+      "cargo": 770,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|SQ8|2026|SQ8": {
       "engine": "4.0 TFSI V8 biturbo",
@@ -131,7 +153,12 @@
       "acceleration": 4.1,
       "topSpeed": 250,
       "price": "~$196,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.4 sec",
+      "cargo": 605,
+      "est": [
+        "cargo"
+      ]
     },
     "Chevrolet|Malibu|2024|L": {
       "engine": "1.5T Turbo",
@@ -150,7 +177,8 @@
       "acceleration": 8.2,
       "topSpeed": 190,
       "price": "~$28,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.2 sec"
     },
     "Jaguar|I-Pace|2026|EV400 SE": {
       "engine": "Electric Dual Motor",
@@ -169,7 +197,8 @@
       "acceleration": 4.8,
       "topSpeed": 200,
       "price": "~$139,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.1 sec"
     },
     "Jeep|Grand Cherokee|2024|Laredo": {
       "engine": "3.6L V6 Pentastar",
@@ -188,7 +217,12 @@
       "acceleration": 7.9,
       "topSpeed": 195,
       "price": "~$67,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.0 sec",
+      "cargo": 1000,
+      "est": [
+        "cargo"
+      ]
     },
     "RAM|1500 TRX|2026|TRX": {
       "engine": "6.2L Supercharged HEMI V8",
@@ -207,7 +241,12 @@
       "acceleration": 4.5,
       "topSpeed": 190,
       "price": "~$199,990",
-      "aspiration": "Eaton TVS2650 Supercharged"
+      "aspiration": "Eaton TVS2650 Supercharged",
+      "quarterMile": "~12.8 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Megane E-Tech|2026|EV60": {
       "engine": "Electric Single Motor",
@@ -226,7 +265,12 @@
       "acceleration": 7.4,
       "topSpeed": 160,
       "price": "~$64,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 440,
+      "est": [
+        "cargo"
+      ]
     },
     "Tesla|Model S|2026|Long Range": {
       "engine": "Electric Dual Motor",
@@ -245,7 +289,8 @@
       "acceleration": 3.1,
       "topSpeed": 250,
       "price": "~$139,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.2 sec"
     },
     "Tesla|Model X|2026|Long Range": {
       "engine": "Electric Dual Motor",
@@ -264,7 +309,8 @@
       "acceleration": 3.8,
       "topSpeed": 250,
       "price": "~$159,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.0 sec"
     },
     "Volvo|V90|2026|B5": {
       "engine": "2.0T Mild Hybrid",
@@ -283,7 +329,8 @@
       "acceleration": 6.6,
       "topSpeed": 230,
       "price": "~$113,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec"
     }
   }
 }

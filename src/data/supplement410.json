@@ -20,7 +20,12 @@
       "fh": 5.8,
       "fx": 6.9,
       "price": "$54,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1680,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Volvo|XC40|2024|Ultimate B4 Bright": {
       "topSpeed": 180,
@@ -41,9 +46,13 @@
       "fc": 9.1,
       "fh": 6,
       "fx": 7.1,
-      "weight": null,
+      "weight": 1680,
       "price": "$61,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.5 sec"
     },
     "Volvo|XC40|2024|Ultimate B4 Dark": {
       "topSpeed": 180,
@@ -64,9 +73,13 @@
       "fc": 9.1,
       "fh": 6,
       "fx": 7.1,
-      "weight": null,
+      "weight": 1680,
       "price": "$62,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.5 sec"
     },
     "Volvo|XC40|2025|Plus B4": {
       "topSpeed": 180,
@@ -88,7 +101,12 @@
       "fh": 5.8,
       "fx": 6.9,
       "price": "$54,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1680,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Volvo|XC40|2025|Ultra B4 Bright": {
       "topSpeed": 180,
@@ -109,9 +127,13 @@
       "fc": 9.1,
       "fh": 6,
       "fx": 7.1,
-      "weight": null,
+      "weight": 1680,
       "price": "$61,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.5 sec"
     },
     "Volvo|XC40|2025|Ultra B4 Dark": {
       "topSpeed": 180,
@@ -132,9 +154,13 @@
       "fc": 9.1,
       "fh": 6,
       "fx": 7.1,
-      "weight": null,
+      "weight": 1680,
       "price": "$62,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.5 sec"
     },
     "Volvo|XC40|2025|Black Edition": {
       "topSpeed": 180,
@@ -155,9 +181,13 @@
       "fc": 9.1,
       "fh": 6,
       "fx": 7.1,
-      "weight": null,
+      "weight": 1680,
       "price": "$63,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.5 sec"
     }
   }
 }

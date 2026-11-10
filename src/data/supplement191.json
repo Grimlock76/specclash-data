@@ -17,7 +17,8 @@
       "acceleration": 11.5,
       "topSpeed": 181,
       "price": "~$14,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.5 sec"
     },
     "Dacia|Sandero|2021|1.0 TCe": {
       "engine": "1.0L I3 Turbo TCe 90",
@@ -36,7 +37,8 @@
       "acceleration": 11.8,
       "topSpeed": 178,
       "price": "~$13,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.7 sec"
     },
     "Dacia|Sandero|2021|Stepway TCe 90": {
       "engine": "1.0L I3 Turbo TCe 90",
@@ -55,7 +57,8 @@
       "acceleration": 12,
       "topSpeed": 175,
       "price": "~$18,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.8 sec"
     },
     "Dacia|Sandero|2021|TCe 90": {
       "engine": "1.0L I3 Turbo TCe 90",
@@ -74,7 +77,8 @@
       "acceleration": 11.6,
       "topSpeed": 178,
       "price": "~$16,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.5 sec"
     },
     "Jeep|Grand Cherokee|2021|Trailhawk L": {
       "engine": "3.6L V6 Pentastar NA",
@@ -93,7 +97,12 @@
       "acceleration": 8.5,
       "topSpeed": 195,
       "price": "~$99,950",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.5 sec",
+      "cargo": 1000,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Defender|2021|90 V8": {
       "engine": "5.0L V8 Supercharged",
@@ -112,7 +121,8 @@
       "acceleration": 5,
       "topSpeed": 240,
       "price": "~$269,900",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.3 sec"
     },
     "Mercedes-Benz|AMG GT|2021|AMG GT Black Series": {
       "engine": "4.0L V8 Biturbo AMG",
@@ -131,7 +141,8 @@
       "acceleration": 3.2,
       "topSpeed": 325,
       "price": "~$749,900",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~11.3 sec"
     },
     "Mercedes-Benz|C-Class|2021|C63 S AMG": {
       "engine": "4.0L V8 Biturbo AMG",
@@ -150,7 +161,12 @@
       "acceleration": 3.9,
       "topSpeed": 290,
       "price": "~$149,900",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~12.2 sec",
+      "cargo": 480,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2021|CLS 450": {
       "engine": "3.0L I6 Turbo MHEV",
@@ -169,7 +185,12 @@
       "acceleration": 5,
       "topSpeed": 250,
       "price": "~$139,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.3 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Pagani|Huayra|2021|R": {
       "engine": "6.0L V12 NA AMG-based",
@@ -182,13 +203,19 @@
       "torque": 750,
       "weight": 1020,
       "seats": 2,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22.8,
+      "fh": 12.6,
+      "fx": 18.2,
       "acceleration": 2.5,
       "topSpeed": 340,
       "price": "~$4,500,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "RAM|1500|2021|TRX": {
       "engine": "6.2L V8 Supercharged Hellcat",
@@ -207,7 +234,12 @@
       "acceleration": 4.5,
       "topSpeed": 190,
       "price": "~$175,000",
-      "aspiration": "IHI Twin-Screw Supercharged"
+      "aspiration": "IHI Twin-Screw Supercharged",
+      "quarterMile": "~12.8 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "SsangYong|Korando|2021|e-Motion": {
       "engine": "Single Motor Electric",
@@ -226,7 +258,8 @@
       "acceleration": 8.5,
       "topSpeed": 150,
       "price": "~$59,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Rolls-Royce|Ghost (2nd Gen)|2021|Standard": {
       "engine": "6.75L V12 Biturbo MHEV",
@@ -245,7 +278,8 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$499,000",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~13.1 sec"
     },
     "Rolls-Royce|Ghost (2nd Gen)|2021|Extended Wheelbase": {
       "engine": "6.75L V12 Biturbo MHEV",
@@ -264,7 +298,8 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$619,000",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~13.2 sec"
     },
     "Rolls-Royce|Ghost (2nd Gen)|2021|Black Badge": {
       "engine": "6.75L V12 Biturbo MHEV",
@@ -283,7 +318,8 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "price": "~$565,000",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~13.0 sec"
     },
     "Ferrari|812 GTS|2021|GTS": {
       "engine": "6.5L V12 NA",
@@ -302,7 +338,8 @@
       "acceleration": 3,
       "topSpeed": 340,
       "price": "~$799,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~11.1 sec"
     },
     "Lamborghini|Huracan|2021|STO": {
       "engine": "5.2L V10 NA",
@@ -321,7 +358,8 @@
       "acceleration": 3,
       "topSpeed": 310,
       "price": "~$599,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~11.1 sec"
     },
     "McLaren|765LT|2021|Coupe": {
       "engine": "4.0L V8 Biturbo M840T",
@@ -340,7 +378,8 @@
       "acceleration": 2.8,
       "topSpeed": 330,
       "price": "~$599,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.8 sec"
     },
     "McLaren|765LT|2021|Spider": {
       "engine": "4.0L V8 Biturbo M840T",
@@ -359,7 +398,8 @@
       "acceleration": 2.9,
       "topSpeed": 330,
       "price": "~$679,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec"
     }
   }
 }

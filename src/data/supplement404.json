@@ -10,18 +10,25 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 205,
+      "cargo": 521,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
-      "torque": null,
+      "torque": 435,
       "accelClaimed": true,
       "power": 230,
       "battery": "71.4 kWh",
       "range": 470,
       "acceleration": 5.3,
-      "weight": null,
-      "price": "$121,059"
+      "weight": 2110,
+      "price": "$121,059",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.6 sec"
     },
     "Lexus|RZ|2024|RZ450e Sports Luxury": {
       "fuelType": "electric",
@@ -33,18 +40,24 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 205,
+      "cargo": 521,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
-      "torque": null,
+      "torque": 435,
       "accelClaimed": true,
       "power": 230,
       "battery": "71.4 kWh",
       "range": 470,
       "acceleration": 5.3,
       "weight": 2110,
-      "price": "$133,059"
+      "price": "$133,059",
+      "est": [
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.6 sec"
     },
     "Lexus|RZ|2025|RZ450e Luxury": {
       "fuelType": "electric",
@@ -56,18 +69,25 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 205,
+      "cargo": 521,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
-      "torque": null,
+      "torque": 435,
       "accelClaimed": true,
       "power": 230,
       "battery": "71.4 kWh",
       "range": 470,
       "acceleration": 5.3,
-      "weight": null,
-      "price": "$121,059"
+      "weight": 2110,
+      "price": "$121,059",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.6 sec"
     },
     "Lexus|RZ|2025|RZ450e Sports Luxury": {
       "fuelType": "electric",
@@ -79,18 +99,24 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 205,
+      "cargo": 521,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
-      "torque": null,
+      "torque": 435,
       "accelClaimed": true,
       "power": 230,
       "battery": "71.4 kWh",
       "range": 470,
       "acceleration": 5.3,
       "weight": 2110,
-      "price": "$133,059"
+      "price": "$133,059",
+      "est": [
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.6 sec"
     }
   }
 }

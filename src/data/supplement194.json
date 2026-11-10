@@ -17,7 +17,12 @@
       "acceleration": 7.5,
       "topSpeed": 238,
       "price": "~$109,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~15.6 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLA|2020|GLA35 AMG": {
       "engine": "2.0L I4 Turbo AMG",
@@ -36,7 +41,12 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$87,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.4 sec",
+      "cargo": 454,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLA|2020|GLA45 S AMG": {
       "engine": "2.0L I4 Turbo AMG",
@@ -55,7 +65,12 @@
       "acceleration": 4.3,
       "topSpeed": 265,
       "price": "~$109,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.6 sec",
+      "cargo": 454,
+      "est": [
+        "cargo"
+      ]
     },
     "Mini|Countryman|2020|Cooper SE": {
       "engine": "1.5L I3 Turbo PHEV",
@@ -68,13 +83,18 @@
       "torque": 385,
       "weight": 1870,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.6,
+      "fh": 1.9,
       "fx": 2.3,
       "acceleration": 6.8,
       "topSpeed": 196,
       "price": "~$59,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mitsubishi|Pajero Sport|2020|GLX+": {
       "engine": "2.4L I4 MIVEC Turbo Diesel",
@@ -93,7 +113,12 @@
       "acceleration": 11.5,
       "topSpeed": 175,
       "price": "~$55,990",
-      "aspiration": "MHI VGT Diesel Turbo"
+      "aspiration": "MHI VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "cargo": 505,
+      "est": [
+        "cargo"
+      ]
     },
     "Opel|Mokka|2020|1.2 Turbo": {
       "engine": "1.2L I3 Turbo PureTech",
@@ -112,7 +137,8 @@
       "acceleration": 10.4,
       "topSpeed": 190,
       "price": "~$35,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.8 sec"
     },
     "Opel|Mokka|2020|Electric": {
       "engine": "Single Motor Electric",
@@ -131,7 +157,8 @@
       "acceleration": 9,
       "topSpeed": 150,
       "price": "~$45,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.9 sec"
     },
     "Porsche|718|2020|718 Spyder": {
       "engine": "4.0L F6 NA 718",
@@ -150,7 +177,12 @@
       "acceleration": 4.4,
       "topSpeed": 301,
       "price": "~$199,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.7 sec",
+      "cargo": 125,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2020|Turbo S": {
       "engine": "3.8L F6 Biturbo 992",
@@ -169,7 +201,12 @@
       "acceleration": 2.7,
       "topSpeed": 330,
       "price": "~$499,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.7 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2020|Turbo S": {
       "engine": "4.0L V8 Biturbo Hybrid",
@@ -182,13 +219,20 @@
       "torque": 900,
       "weight": 2395,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.5,
+      "fh": 2.6,
       "fx": 3.1,
       "acceleration": 3.8,
       "topSpeed": 295,
       "price": "~$349,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 770
     },
     "SEAT|Leon|2020|1.5 TSI": {
       "engine": "1.5L I4 TSI EVO",
@@ -207,7 +251,8 @@
       "acceleration": 8.9,
       "topSpeed": 210,
       "price": "~$38,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.8 sec"
     },
     "SEAT|Leon|2020|Cupra": {
       "engine": "2.0L I4 TSI",
@@ -226,7 +271,8 @@
       "acceleration": 5.7,
       "topSpeed": 247,
       "price": "~$58,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.0 sec"
     },
     "Subaru|Impreza|2020|2.0i-L": {
       "engine": "2.0L I4 Boxer NA FB20",
@@ -245,7 +291,12 @@
       "acceleration": 10.5,
       "topSpeed": 185,
       "price": "~$27,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec",
+      "cargo": 255,
+      "est": [
+        "cargo"
+      ]
     },
     "Subaru|Liberty|2020|2.5i Premium": {
       "engine": "2.5L I4 Boxer NA FB25",
@@ -264,7 +315,12 @@
       "acceleration": 10.2,
       "topSpeed": 190,
       "price": "~$39,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.7 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Subaru|Outback|2020|2.4XT": {
       "engine": "2.4L I4 Boxer Turbo FA24F",
@@ -283,7 +339,12 @@
       "acceleration": 6.4,
       "topSpeed": 215,
       "price": "~$46,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.7 sec",
+      "cargo": 512,
+      "est": [
+        "cargo"
+      ]
     },
     "Subaru|Outback|2020|2.4XT Premium": {
       "engine": "2.4L I4 Boxer Turbo FA24F",
@@ -302,7 +363,12 @@
       "acceleration": 6.4,
       "topSpeed": 215,
       "price": "~$49,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.7 sec",
+      "cargo": 512,
+      "est": [
+        "cargo"
+      ]
     },
     "Subaru|Outback|2020|2.4XT Sport": {
       "engine": "2.4L I4 Boxer Turbo FA24F",
@@ -321,7 +387,12 @@
       "acceleration": 6.4,
       "topSpeed": 215,
       "price": "~$52,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.7 sec",
+      "cargo": 512,
+      "est": [
+        "cargo"
+      ]
     },
     "Tesla|Model S|2020|Long Range": {
       "engine": "Dual Motor Electric",
@@ -340,7 +411,12 @@
       "acceleration": 3.1,
       "topSpeed": 250,
       "price": "~$139,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.2 sec",
+      "cargo": 744,
+      "est": [
+        "cargo"
+      ]
     },
     "Tesla|Model S|2020|Plaid": {
       "engine": "Tri Motor Electric",
@@ -359,7 +435,12 @@
       "acceleration": 2.1,
       "topSpeed": 322,
       "price": "~$174,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~10.0 sec",
+      "cargo": 744,
+      "est": [
+        "cargo"
+      ]
     },
     "Tesla|Model X|2020|Long Range": {
       "engine": "Dual Motor Electric",
@@ -378,7 +459,12 @@
       "acceleration": 3.9,
       "topSpeed": 250,
       "price": "~$149,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.2 sec",
+      "cargo": 2830,
+      "est": [
+        "cargo"
+      ]
     },
     "Tesla|Model X|2020|Plaid": {
       "engine": "Tri Motor Electric",
@@ -397,7 +483,12 @@
       "acceleration": 2.5,
       "topSpeed": 262,
       "price": "~$189,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~10.4 sec",
+      "cargo": 2830,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|HiLux|2020|SR5+": {
       "engine": "2.8L I4 TD 1GD-FTV",
@@ -416,7 +507,8 @@
       "acceleration": 10.5,
       "topSpeed": 175,
       "price": "~$65,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~17.9 sec"
     },
     "Toyota|Yaris|2020|GR": {
       "engine": "1.6L I3 Turbo G16E-GTS",
@@ -435,7 +527,8 @@
       "acceleration": 5.5,
       "topSpeed": 230,
       "price": "~$59,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.8 sec"
     },
     "Volkswagen|Passat|2020|GTE": {
       "engine": "1.4L I4 TSI PHEV",
@@ -448,13 +541,20 @@
       "torque": 400,
       "weight": 1720,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.9,
+      "fh": 1.5,
       "fx": 1.7,
       "acceleration": 7.4,
       "topSpeed": 222,
       "price": "~$62,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 586
     },
     "Volvo|XC40|2020|Recharge T5 PHEV": {
       "engine": "1.5L I3 Turbo PHEV",
@@ -467,13 +567,20 @@
       "torque": 425,
       "weight": 1890,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "fx": 1.8,
       "acceleration": 7.3,
       "topSpeed": 195,
       "price": "~$72,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 460
     },
     "Volvo|XC90|2020|B5": {
       "engine": "2.0L I4 Turbo MHEV",
@@ -492,7 +599,12 @@
       "acceleration": 6.5,
       "topSpeed": 220,
       "price": "~$99,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.8 sec",
+      "cargo": 314,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

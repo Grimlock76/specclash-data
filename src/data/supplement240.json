@@ -18,7 +18,8 @@
       "weight": 1500,
       "seats": 5,
       "cargo": 703,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~18.0 sec"
     },
     "KGM|Torres|2024|Ultimate": {
       "engine": "1.5L I4 Turbo",
@@ -38,7 +39,8 @@
       "weight": 1585,
       "seats": 5,
       "cargo": 703,
-      "price": "~$43,500"
+      "price": "~$43,500",
+      "quarterMile": "~18.3 sec"
     },
     "KGM|Torres EVX|2024|Ultimate": {
       "engine": "Electric",
@@ -60,7 +62,8 @@
       "weight": 1865,
       "seats": 5,
       "cargo": 703,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~16.2 sec"
     },
     "KGM|Torres|2025|ELX": {
       "engine": "1.5L I4 Turbo",
@@ -80,7 +83,8 @@
       "weight": 1500,
       "seats": 5,
       "cargo": 703,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~18.0 sec"
     },
     "KGM|Torres|2025|Ultimate": {
       "engine": "1.5L I4 Turbo",
@@ -100,7 +104,8 @@
       "weight": 1585,
       "seats": 5,
       "cargo": 703,
-      "price": "~$43,500"
+      "price": "~$43,500",
+      "quarterMile": "~18.3 sec"
     },
     "KGM|Torres EVX|2025|Ultimate": {
       "engine": "Electric",
@@ -122,7 +127,8 @@
       "weight": 1865,
       "seats": 5,
       "cargo": 703,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~16.2 sec"
     },
     "KGM|Torres|2026|ELX": {
       "engine": "1.5L I4 Turbo",
@@ -142,7 +148,8 @@
       "weight": 1500,
       "seats": 5,
       "cargo": 703,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~18.0 sec"
     },
     "KGM|Torres|2026|Ultimate": {
       "engine": "1.5L I4 Turbo",
@@ -162,7 +169,8 @@
       "weight": 1585,
       "seats": 5,
       "cargo": 703,
-      "price": "~$43,500"
+      "price": "~$43,500",
+      "quarterMile": "~18.3 sec"
     },
     "KGM|Torres EVX|2026|Ultimate": {
       "engine": "Electric",
@@ -184,7 +192,8 @@
       "weight": 1865,
       "seats": 5,
       "cargo": 703,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~16.2 sec"
     },
     "KGM|Actyon|2025|Ultimate": {
       "engine": "1.5L I4 Turbo",
@@ -204,7 +213,8 @@
       "weight": 1690,
       "seats": 5,
       "cargo": 668,
-      "price": "~$47,000"
+      "price": "~$47,000",
+      "quarterMile": "~18.1 sec"
     },
     "KGM|Actyon|2026|Ultimate": {
       "engine": "1.5L I4 Turbo",
@@ -224,7 +234,8 @@
       "weight": 1690,
       "seats": 5,
       "cargo": 668,
-      "price": "~$47,000"
+      "price": "~$47,000",
+      "quarterMile": "~18.1 sec"
     },
     "Denza|B5|2025|Premium": {
       "engine": "1.5L I4 Turbo PHEV",
@@ -235,8 +246,8 @@
       "transmission": "1sp DHT",
       "power": 505,
       "torque": 760,
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "fx": 1.8,
       "fuelType": "hybrid",
       "acceleration": 4.8,
@@ -244,7 +255,12 @@
       "weight": 2890,
       "seats": 5,
       "cargo": 425,
-      "price": "~$99,900"
+      "price": "~$99,900",
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Denza|B5|2026|Premium": {
       "engine": "1.5L I4 Turbo PHEV",
@@ -255,8 +271,8 @@
       "transmission": "1sp DHT",
       "power": 505,
       "torque": 760,
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "fx": 1.8,
       "fuelType": "hybrid",
       "acceleration": 4.8,
@@ -264,7 +280,12 @@
       "weight": 2890,
       "seats": 5,
       "cargo": 425,
-      "price": "~$99,900"
+      "price": "~$99,900",
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Iveco|Daily|2015|35S": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -284,7 +305,8 @@
       "weight": 2300,
       "seats": 3,
       "cargo": 12000,
-      "price": "~$62,500"
+      "price": "~$62,500",
+      "quarterMile": "~19.1 sec"
     },
     "Iveco|Daily|2016|35S": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -304,7 +326,8 @@
       "weight": 2300,
       "seats": 3,
       "cargo": 12000,
-      "price": "~$62,500"
+      "price": "~$62,500",
+      "quarterMile": "~19.1 sec"
     },
     "Iveco|Daily|2017|35S": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -324,7 +347,8 @@
       "weight": 2300,
       "seats": 3,
       "cargo": 12000,
-      "price": "~$62,500"
+      "price": "~$62,500",
+      "quarterMile": "~19.1 sec"
     },
     "Iveco|Daily|2018|35S": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -344,7 +368,8 @@
       "weight": 2300,
       "seats": 3,
       "cargo": 12000,
-      "price": "~$62,500"
+      "price": "~$62,500",
+      "quarterMile": "~19.1 sec"
     },
     "Iveco|Daily|2019|35S": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -364,7 +389,8 @@
       "weight": 2300,
       "seats": 3,
       "cargo": 12000,
-      "price": "~$62,500"
+      "price": "~$62,500",
+      "quarterMile": "~19.1 sec"
     },
     "Iveco|Daily|2020|35S": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -384,7 +410,8 @@
       "weight": 2300,
       "seats": 3,
       "cargo": 12000,
-      "price": "~$62,500"
+      "price": "~$62,500",
+      "quarterMile": "~19.1 sec"
     },
     "Iveco|Daily|2021|35S": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -404,7 +431,8 @@
       "weight": 2300,
       "seats": 3,
       "cargo": 12000,
-      "price": "~$62,500"
+      "price": "~$62,500",
+      "quarterMile": "~19.1 sec"
     },
     "Iveco|Daily|2022|35S": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -424,7 +452,8 @@
       "weight": 2300,
       "seats": 3,
       "cargo": 12000,
-      "price": "~$62,500"
+      "price": "~$62,500",
+      "quarterMile": "~19.1 sec"
     },
     "Iveco|Daily|2023|35S": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -444,7 +473,8 @@
       "weight": 2300,
       "seats": 3,
       "cargo": 12000,
-      "price": "~$62,500"
+      "price": "~$62,500",
+      "quarterMile": "~19.1 sec"
     },
     "Iveco|Daily|2024|35S": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -464,7 +494,8 @@
       "weight": 2300,
       "seats": 3,
       "cargo": 12000,
-      "price": "~$62,500"
+      "price": "~$62,500",
+      "quarterMile": "~19.1 sec"
     },
     "Iveco|Daily|2025|35S": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -484,7 +515,8 @@
       "weight": 2300,
       "seats": 3,
       "cargo": 12000,
-      "price": "~$62,500"
+      "price": "~$62,500",
+      "quarterMile": "~19.1 sec"
     },
     "Iveco|Daily|2026|35S": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -504,7 +536,8 @@
       "weight": 2300,
       "seats": 3,
       "cargo": 12000,
-      "price": "~$62,500"
+      "price": "~$62,500",
+      "quarterMile": "~19.1 sec"
     },
     "Farizon|SV|2025|LWB": {
       "engine": "Electric",
@@ -526,7 +559,8 @@
       "weight": 2550,
       "seats": 3,
       "cargo": 6950,
-      "price": "~$75,990"
+      "price": "~$75,990",
+      "quarterMile": "~16.9 sec"
     },
     "Farizon|SV|2026|LWB": {
       "engine": "Electric",
@@ -548,7 +582,8 @@
       "weight": 2550,
       "seats": 3,
       "cargo": 6950,
-      "price": "~$75,990"
+      "price": "~$75,990",
+      "quarterMile": "~16.9 sec"
     },
     "Geely|EX5|2025|Complete": {
       "engine": "Electric",
@@ -570,7 +605,8 @@
       "weight": 1765,
       "seats": 5,
       "cargo": 461,
-      "price": "~$40,990"
+      "price": "~$40,990",
+      "quarterMile": "~15.1 sec"
     },
     "Geely|EX5|2025|Inspire": {
       "engine": "Electric",
@@ -592,7 +628,8 @@
       "weight": 1795,
       "seats": 5,
       "cargo": 461,
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "quarterMile": "~15.1 sec"
     },
     "Geely|Starray EM-i|2025|Complete": {
       "engine": "1.5L I4 PHEV",
@@ -603,8 +640,8 @@
       "transmission": "1sp DHT",
       "power": 160,
       "torque": 262,
-      "fc": null,
-      "fh": null,
+      "fc": 5.6,
+      "fh": 4,
       "fx": 4.9,
       "fuelType": "hybrid",
       "acceleration": 8.9,
@@ -612,7 +649,12 @@
       "weight": 1770,
       "seats": 5,
       "cargo": 535,
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Geely|EX5|2026|Complete": {
       "engine": "Electric",
@@ -634,7 +676,8 @@
       "weight": 1765,
       "seats": 5,
       "cargo": 461,
-      "price": "~$40,990"
+      "price": "~$40,990",
+      "quarterMile": "~15.1 sec"
     },
     "Geely|EX5|2026|Inspire": {
       "engine": "Electric",
@@ -656,7 +699,8 @@
       "weight": 1795,
       "seats": 5,
       "cargo": 461,
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "quarterMile": "~15.1 sec"
     },
     "Geely|Starray EM-i|2026|Complete": {
       "engine": "1.5L I4 PHEV",
@@ -667,8 +711,8 @@
       "transmission": "1sp DHT",
       "power": 160,
       "torque": 262,
-      "fc": null,
-      "fh": null,
+      "fc": 5.6,
+      "fh": 4,
       "fx": 4.9,
       "fuelType": "hybrid",
       "acceleration": 8.9,
@@ -676,7 +720,12 @@
       "weight": 1770,
       "seats": 5,
       "cargo": 535,
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Zeekr|7X|2025|RWD": {
       "engine": "Electric",
@@ -698,7 +747,8 @@
       "weight": 2260,
       "seats": 5,
       "cargo": 539,
-      "price": "~$59,900"
+      "price": "~$59,900",
+      "quarterMile": "~14.3 sec"
     },
     "Zeekr|7X|2025|Performance AWD": {
       "engine": "Electric",
@@ -720,7 +770,8 @@
       "weight": 2410,
       "seats": 5,
       "cargo": 539,
-      "price": "~$69,900"
+      "price": "~$69,900",
+      "quarterMile": "~12.0 sec"
     },
     "Zeekr|7X|2026|RWD": {
       "engine": "Electric",
@@ -742,7 +793,8 @@
       "weight": 2260,
       "seats": 5,
       "cargo": 539,
-      "price": "~$59,900"
+      "price": "~$59,900",
+      "quarterMile": "~14.3 sec"
     },
     "Zeekr|7X|2026|Performance AWD": {
       "engine": "Electric",
@@ -764,7 +816,8 @@
       "weight": 2410,
       "seats": 5,
       "cargo": 539,
-      "price": "~$69,900"
+      "price": "~$69,900",
+      "quarterMile": "~12.0 sec"
     },
     "Leapmotor|C10 REEV|2025|Style": {
       "engine": "1.5L I4 REEV",
@@ -775,8 +828,8 @@
       "transmission": "1sp auto",
       "power": 158,
       "torque": 320,
-      "fc": null,
-      "fh": null,
+      "fc": 7.4,
+      "fh": 5.4,
       "fx": 6.5,
       "fuelType": "hybrid",
       "acceleration": 8.5,
@@ -784,7 +837,12 @@
       "weight": 1980,
       "seats": 5,
       "cargo": 546,
-      "price": "~$45,900"
+      "price": "~$45,900",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Leapmotor|C10 REEV|2026|Style": {
       "engine": "1.5L I4 REEV",
@@ -795,8 +853,8 @@
       "transmission": "1sp auto",
       "power": 158,
       "torque": 320,
-      "fc": null,
-      "fh": null,
+      "fc": 7.4,
+      "fh": 5.4,
       "fx": 6.5,
       "fuelType": "hybrid",
       "acceleration": 8.5,
@@ -804,7 +862,12 @@
       "weight": 1980,
       "seats": 5,
       "cargo": 546,
-      "price": "~$45,900"
+      "price": "~$45,900",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Leapmotor|B10|2026|Design": {
       "engine": "Electric",
@@ -826,7 +889,8 @@
       "weight": 1790,
       "seats": 5,
       "cargo": 420,
-      "price": "~$39,990"
+      "price": "~$39,990",
+      "quarterMile": "~16.1 sec"
     },
     "Smart|#5|2025|Pro+": {
       "engine": "Electric",
@@ -848,7 +912,8 @@
       "weight": 2450,
       "seats": 5,
       "cargo": 630,
-      "price": "~$64,900"
+      "price": "~$64,900",
+      "quarterMile": "~15.1 sec"
     },
     "Smart|#5|2025|Brabus": {
       "engine": "Electric",
@@ -870,7 +935,8 @@
       "weight": 2550,
       "seats": 5,
       "cargo": 630,
-      "price": "~$79,900"
+      "price": "~$79,900",
+      "quarterMile": "~12.0 sec"
     },
     "Smart|#5|2026|Pro+": {
       "engine": "Electric",
@@ -892,7 +958,8 @@
       "weight": 2450,
       "seats": 5,
       "cargo": 630,
-      "price": "~$64,900"
+      "price": "~$64,900",
+      "quarterMile": "~15.1 sec"
     },
     "Smart|#5|2026|Brabus": {
       "engine": "Electric",
@@ -914,7 +981,8 @@
       "weight": 2550,
       "seats": 5,
       "cargo": 630,
-      "price": "~$79,900"
+      "price": "~$79,900",
+      "quarterMile": "~12.0 sec"
     },
     "Mahindra|XUV 3XO|2025|AX5L": {
       "engine": "1.2L I3 Turbo",
@@ -934,7 +1002,8 @@
       "weight": 1250,
       "seats": 5,
       "cargo": 364,
-      "price": "~$23,990"
+      "price": "~$23,990",
+      "quarterMile": "~18.5 sec"
     },
     "Mahindra|XUV 3XO|2025|AX7L": {
       "engine": "1.2L I3 Turbo",
@@ -954,7 +1023,8 @@
       "weight": 1265,
       "seats": 5,
       "cargo": 364,
-      "price": "~$26,490"
+      "price": "~$26,490",
+      "quarterMile": "~18.5 sec"
     },
     "Mahindra|XUV 3XO|2026|AX5L": {
       "engine": "1.2L I3 Turbo",
@@ -974,7 +1044,8 @@
       "weight": 1250,
       "seats": 5,
       "cargo": 364,
-      "price": "~$23,990"
+      "price": "~$23,990",
+      "quarterMile": "~18.5 sec"
     },
     "Mahindra|XUV 3XO|2026|AX7L": {
       "engine": "1.2L I3 Turbo",
@@ -994,7 +1065,8 @@
       "weight": 1265,
       "seats": 5,
       "cargo": 364,
-      "price": "~$26,490"
+      "price": "~$26,490",
+      "quarterMile": "~18.5 sec"
     }
   }
 }

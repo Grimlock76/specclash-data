@@ -1,9 +1,9 @@
 {
   "specs": {
     "Mitsubishi|ASX|2024|ES": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 200,
+      "acceleration": 10.3,
+      "cargo": 393,
       "seats": 5,
       "cylinders": 4,
       "drivetrain": "FWD",
@@ -20,12 +20,16 @@
       "weight": 1384,
       "fuelTank": 63,
       "price": "$27,990",
-      "accelClaimed": false
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Mitsubishi|ASX|2024|MR": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 200,
+      "acceleration": 10.3,
+      "cargo": 393,
       "seats": 5,
       "cylinders": 4,
       "drivetrain": "FWD",
@@ -42,12 +46,16 @@
       "weight": 1384,
       "fuelTank": 63,
       "price": "$29,740",
-      "accelClaimed": false
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Mitsubishi|ASX|2024|LS": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 200,
+      "acceleration": 10.3,
+      "cargo": 393,
       "seats": 5,
       "cylinders": 4,
       "drivetrain": "FWD",
@@ -64,12 +72,16 @@
       "weight": 1389,
       "fuelTank": 63,
       "price": "$30,490",
-      "accelClaimed": false
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Mitsubishi|ASX|2024|GSR": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 205,
+      "acceleration": 9.4,
+      "cargo": 393,
       "seats": 5,
       "cylinders": 4,
       "drivetrain": "FWD",
@@ -86,12 +98,16 @@
       "weight": 1398,
       "fuelTank": 63,
       "price": "$32,740",
-      "accelClaimed": false
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Mitsubishi|ASX|2024|Exceed": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 205,
+      "acceleration": 9.6,
+      "cargo": 393,
       "seats": 5,
       "cylinders": 4,
       "drivetrain": "FWD",
@@ -108,11 +124,15 @@
       "weight": 1437,
       "fuelTank": 63,
       "price": "$35,240",
-      "accelClaimed": false
+      "quarterMile": "~17.3 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Hyundai|Venue|2024|Venue": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 11.9,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -130,11 +150,14 @@
       "fuelTank": 45,
       "weight": 1225,
       "price": "$24,750",
-      "accelClaimed": false
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Venue|2024|Active": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 11.9,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -152,11 +175,14 @@
       "fuelTank": 45,
       "weight": 1225,
       "price": "$27,000",
-      "accelClaimed": false
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Venue|2024|Elite": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 11.9,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -174,11 +200,14 @@
       "fuelTank": 45,
       "weight": 1225,
       "price": "$29,500",
-      "accelClaimed": false
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Venue|2026|Venue": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 11.9,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -194,13 +223,17 @@
       "fh": 5.9,
       "fx": 7.2,
       "fuelTank": 45,
-      "weight": null,
+      "weight": 1225,
       "price": "$26,000",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.7 sec"
     },
     "Hyundai|Venue|2026|Active": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 11.9,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -216,13 +249,17 @@
       "fh": 5.9,
       "fx": 7.2,
       "fuelTank": 45,
-      "weight": null,
+      "weight": 1225,
       "price": "$28,250",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.7 sec"
     },
     "Hyundai|Venue|2026|Elite": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 11.9,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -238,9 +275,13 @@
       "fh": 5.9,
       "fx": 7.2,
       "fuelTank": 45,
-      "weight": null,
+      "weight": 1225,
       "price": "$30,500",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.7 sec"
     }
   }
 }

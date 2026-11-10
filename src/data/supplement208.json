@@ -17,7 +17,12 @@
       "acceleration": 7.7,
       "topSpeed": 240,
       "price": "~$74,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~15.8 sec",
+      "cargo": 495,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|A4 allroad|2016|45 TFSI quattro": {
       "engine": "2.0L I4 Turbo TFSI",
@@ -36,7 +41,12 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$79,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.2 sec",
+      "cargo": 495,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|A7|2016|3.0 TDI quattro": {
       "engine": "3.0L V6 Turbo Diesel TDI",
@@ -55,7 +65,12 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "price": "~$119,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~14.6 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|Q7|2016|3.0 TFSI quattro": {
       "engine": "3.0L V6 SC TFSI",
@@ -74,7 +89,12 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$109,900",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~14.2 sec",
+      "cargo": 770,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|M4|2016|M4 Competition": {
       "engine": "3.0L I6 Biturbo S55",
@@ -93,7 +113,12 @@
       "acceleration": 4,
       "topSpeed": 280,
       "price": "~$149,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.3 sec",
+      "cargo": 440,
+      "est": [
+        "cargo"
+      ]
     },
     "Chevrolet|Camaro|2016|LT": {
       "engine": "3.6L V6 NA LGX",
@@ -112,7 +137,12 @@
       "acceleration": 6,
       "topSpeed": 250,
       "price": "~$59,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.3 sec",
+      "cargo": 261,
+      "est": [
+        "cargo"
+      ]
     },
     "Chevrolet|Camaro|2016|SS": {
       "engine": "6.2L V8 NA LT1",
@@ -131,7 +161,12 @@
       "acceleration": 4.1,
       "topSpeed": 290,
       "price": "~$79,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.4 sec",
+      "cargo": 261,
+      "est": [
+        "cargo"
+      ]
     },
     "Chevrolet|Cruze|2016|L": {
       "engine": "1.4L I4 Turbo LUV",
@@ -150,7 +185,8 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "price": "~$19,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.2 sec"
     },
     "Chevrolet|Cruze|2016|LT Diesel": {
       "engine": "1.6L I4 Turbo Diesel LH7",
@@ -169,7 +205,8 @@
       "acceleration": 10.5,
       "topSpeed": 195,
       "price": "~$26,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.9 sec"
     },
     "Chevrolet|Cruze|2016|Premier": {
       "engine": "1.4L I4 Turbo LUV",
@@ -188,7 +225,8 @@
       "acceleration": 9.5,
       "topSpeed": 200,
       "price": "~$28,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.2 sec"
     },
     "Chevrolet|Malibu|2016|L": {
       "engine": "1.5L I4 Turbo LFV",
@@ -207,7 +245,8 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "price": "~$24,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.2 sec"
     },
     "Chevrolet|Malibu|2016|Premier": {
       "engine": "2.0L I4 Turbo LTG",
@@ -226,7 +265,8 @@
       "acceleration": 6.5,
       "topSpeed": 235,
       "price": "~$37,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.8 sec"
     },
     "Chevrolet|Spark|2016|ACTIV": {
       "engine": "1.4L I4 NA LV7",
@@ -245,7 +285,8 @@
       "acceleration": 11.5,
       "topSpeed": 168,
       "price": "~$19,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.5 sec"
     },
     "Chevrolet|Spark|2016|Premier": {
       "engine": "1.4L I4 NA LV7",
@@ -264,7 +305,8 @@
       "acceleration": 11.5,
       "topSpeed": 168,
       "price": "~$17,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.5 sec"
     },
     "Chevrolet|Volt|2016|LT": {
       "engine": "1.5L I4 NA + Electric PHEV Voltec",
@@ -277,13 +319,18 @@
       "torque": 270,
       "weight": 1720,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.9,
+      "fh": 1.5,
       "fx": 1.7,
       "acceleration": 8.4,
       "topSpeed": 150,
       "price": "~$44,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Chevrolet|Volt|2016|Premier": {
       "engine": "1.5L I4 NA + Electric PHEV Voltec",
@@ -296,13 +343,18 @@
       "torque": 270,
       "weight": 1725,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.9,
+      "fh": 1.5,
       "fx": 1.7,
       "acceleration": 8.4,
       "topSpeed": 150,
       "price": "~$49,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Fiat|Abarth 500|2016|695": {
       "engine": "1.4L I4 Turbo T-Jet",
@@ -321,7 +373,12 @@
       "acceleration": 7.3,
       "topSpeed": 205,
       "price": "~$38,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.5 sec",
+      "cargo": 185,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Everest|2016|UA Sport": {
       "engine": "3.2L I5 Turbo Diesel P4AT",
@@ -340,7 +397,12 @@
       "acceleration": 10.5,
       "topSpeed": 175,
       "price": "~$53,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.9 sec",
+      "cargo": 810,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

@@ -10,7 +10,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "weight": null,
+      "weight": 2020,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "accelClaimed": true,
@@ -21,7 +21,11 @@
       "cargo": 490,
       "range": 528,
       "acceleration": 7.3,
-      "price": "$72,590"
+      "price": "$72,590",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Kia|EV6|2024|GT-Line RWD": {
       "fuelType": "electric",
@@ -33,7 +37,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "weight": null,
+      "weight": 2020,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "accelClaimed": true,
@@ -44,7 +48,11 @@
       "cargo": 480,
       "range": 504,
       "acceleration": 7.3,
-      "price": "$79,590"
+      "price": "$79,590",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Kia|EV6|2024|GT-Line AWD": {
       "fuelType": "electric",
@@ -56,18 +64,23 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "weight": null,
+      "weight": 2060,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "accelClaimed": true,
       "power": 239,
-      "torque": null,
+      "torque": 605,
       "battery": "77.4 kWh",
       "topSpeed": 185,
       "cargo": 480,
       "range": 484,
       "acceleration": 5.2,
-      "price": "$87,590"
+      "price": "$87,590",
+      "est": [
+        "weight",
+        "torque"
+      ],
+      "quarterMile": "~13.5 sec"
     },
     "Kia|EV6|2024|GT": {
       "fuelType": "electric",
@@ -79,18 +92,23 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "weight": null,
+      "weight": 2175,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "accelClaimed": true,
       "power": 430,
-      "torque": null,
+      "torque": 740,
       "battery": "77.4 kWh",
       "topSpeed": 260,
       "cargo": 480,
       "range": 424,
       "acceleration": 3.5,
-      "price": "$99,590"
+      "price": "$99,590",
+      "est": [
+        "weight",
+        "torque"
+      ],
+      "quarterMile": "~11.7 sec"
     },
     "Kia|EV9|2024|Air RWD": {
       "fuelType": "electric",
@@ -102,11 +120,11 @@
       "fh": null,
       "fx": null,
       "seats": 7,
-      "weight": null,
+      "weight": 2550,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "accelClaimed": true,
-      "topSpeed": null,
+      "topSpeed": 155,
       "cargo": null,
       "battery": "76.1 kWh",
       "power": 160,
@@ -114,7 +132,12 @@
       "torque": 350,
       "range": 443,
       "acceleration": 8.2,
-      "price": "$97,000"
+      "price": "$97,000",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Kia|EV9|2024|Earth AWD": {
       "fuelType": "electric",
@@ -126,19 +149,25 @@
       "fh": null,
       "fx": null,
       "seats": 7,
-      "weight": null,
+      "weight": 2550,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "accelClaimed": true,
-      "topSpeed": null,
+      "topSpeed": 195,
       "cargo": null,
       "battery": "99.8 kWh",
       "power": 282.6,
       "towing": 2500,
-      "torque": null,
+      "torque": 700,
       "range": 512,
       "acceleration": 6,
-      "price": "$106,500"
+      "price": "$106,500",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.3 sec"
     },
     "Kia|EV9|2024|GT-Line AWD": {
       "fuelType": "electric",
@@ -150,19 +179,25 @@
       "fh": null,
       "fx": null,
       "seats": 7,
-      "weight": null,
+      "weight": 2550,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "accelClaimed": true,
-      "topSpeed": null,
+      "topSpeed": 195,
       "cargo": null,
       "battery": "99.8 kWh",
       "power": 282.6,
       "towing": 2500,
-      "torque": null,
+      "torque": 700,
       "range": 505,
       "acceleration": 5.3,
-      "price": "$121,000"
+      "price": "$121,000",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.6 sec"
     }
   }
 }

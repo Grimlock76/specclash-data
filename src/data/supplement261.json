@@ -11,7 +11,7 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 175,
       "seats": 5,
       "power": 230,
       "torque": 380,
@@ -22,7 +22,11 @@
       "towing": 750,
       "cargo": 500,
       "price": "$54,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BYD|Sealion 7|2026|Performance": {
       "fuelType": "electric",
@@ -35,7 +39,7 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 205,
       "seats": 5,
       "power": 390,
       "torque": 690,
@@ -46,7 +50,11 @@
       "towing": 1500,
       "cargo": 500,
       "price": "$63,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Forester|2026|2.5i": {
       "engine": "2.5L H4 Petrol (Boxer)",
@@ -66,10 +74,14 @@
       "fuelTank": 63,
       "groundClearance": 220,
       "cargo": 496,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.6,
+      "topSpeed": 195,
       "weight": 1622,
-      "price": "$43,490"
+      "price": "$43,490",
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Forester|2026|Premium": {
       "engine": "2.5L H4 Petrol (Boxer)",
@@ -89,10 +101,14 @@
       "fuelTank": 63,
       "groundClearance": 220,
       "cargo": 496,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.6,
+      "topSpeed": 195,
       "weight": 1632,
-      "price": "$46,490"
+      "price": "$46,490",
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Forester|2026|Sport": {
       "engine": "2.5L H4 Petrol (Boxer)",
@@ -112,10 +128,14 @@
       "fuelTank": 63,
       "groundClearance": 220,
       "cargo": 496,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.7,
+      "topSpeed": 190,
       "weight": 1651,
-      "price": "$48,490"
+      "price": "$48,490",
+      "quarterMile": "~16.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Forester|2026|Touring": {
       "engine": "2.5L H4 Petrol (Boxer)",
@@ -135,10 +155,14 @@
       "fuelTank": 63,
       "groundClearance": 220,
       "cargo": 496,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.8,
+      "topSpeed": 190,
       "weight": 1662,
-      "price": "$50,990"
+      "price": "$50,990",
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Forester|2026|Hybrid": {
       "engine": "2.5L H4 Hybrid (Boxer)",
@@ -149,7 +173,7 @@
       "transmission": "CVT",
       "drivetrain": "AWD",
       "power": 145,
-      "torque": null,
+      "torque": 285,
       "fc": 6.4,
       "fh": 6,
       "fx": 6.2,
@@ -158,10 +182,15 @@
       "fuelTank": 63,
       "groundClearance": 220,
       "cargo": 484,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.5,
+      "topSpeed": 195,
       "weight": 1717,
-      "price": "$46,490"
+      "price": "$46,490",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.5 sec"
     },
     "Subaru|Forester|2026|Hybrid Sport": {
       "engine": "2.5L H4 Hybrid (Boxer)",
@@ -172,7 +201,7 @@
       "transmission": "CVT",
       "drivetrain": "AWD",
       "power": 145,
-      "torque": null,
+      "torque": 285,
       "fc": 6.4,
       "fh": 6,
       "fx": 6.2,
@@ -181,10 +210,15 @@
       "fuelTank": 63,
       "groundClearance": 220,
       "cargo": 484,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.7,
+      "topSpeed": 195,
       "weight": 1763,
-      "price": "$54,990"
+      "price": "$54,990",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Subaru|Forester|2026|Hybrid Touring": {
       "engine": "2.5L H4 Hybrid (Boxer)",
@@ -195,7 +229,7 @@
       "transmission": "CVT",
       "drivetrain": "AWD",
       "power": 145,
-      "torque": null,
+      "torque": 285,
       "fc": 6.4,
       "fh": 6,
       "fx": 6.2,
@@ -204,10 +238,15 @@
       "fuelTank": 63,
       "groundClearance": 220,
       "cargo": 484,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.7,
+      "topSpeed": 195,
       "weight": 1766,
-      "price": "$55,990"
+      "price": "$55,990",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     }
   }
 }

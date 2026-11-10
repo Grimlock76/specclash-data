@@ -17,7 +17,12 @@
       "acceleration": 7.3,
       "topSpeed": 185,
       "price": "~$42,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 401,
+      "est": [
+        "cargo"
+      ]
     },
     "MG|MG5|2022|Long Range": {
       "engine": "Single Electric Motor",
@@ -36,7 +41,12 @@
       "acceleration": 7.3,
       "topSpeed": 185,
       "price": "~$49,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 401,
+      "est": [
+        "cargo"
+      ]
     },
     "MG|MG5|2023|Standard Range": {
       "engine": "Single Electric Motor",
@@ -55,7 +65,12 @@
       "acceleration": 7.3,
       "topSpeed": 185,
       "price": "~$43,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 401,
+      "est": [
+        "cargo"
+      ]
     },
     "MG|MG5|2023|Long Range": {
       "engine": "Single Electric Motor",
@@ -74,7 +89,12 @@
       "acceleration": 7.3,
       "topSpeed": 185,
       "price": "~$50,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 401,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Kangoo E-Tech|2022|Van": {
       "engine": "Single Electric Motor",
@@ -93,7 +113,8 @@
       "acceleration": 11,
       "topSpeed": 132,
       "price": "~$54,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~18.2 sec"
     },
     "Renault|Kangoo E-Tech|2022|Maxi Van": {
       "engine": "Single Electric Motor",
@@ -112,7 +133,8 @@
       "acceleration": 11,
       "topSpeed": 132,
       "price": "~$59,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~18.2 sec"
     },
     "Renault|Kangoo E-Tech|2023|Van": {
       "engine": "Single Electric Motor",
@@ -131,7 +153,8 @@
       "acceleration": 11,
       "topSpeed": 132,
       "price": "~$56,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~18.2 sec"
     },
     "Renault|Kangoo E-Tech|2023|Maxi Van": {
       "engine": "Single Electric Motor",
@@ -150,7 +173,8 @@
       "acceleration": 11,
       "topSpeed": 132,
       "price": "~$61,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~18.2 sec"
     },
     "Renault|Kangoo E-Tech|2024|Van": {
       "engine": "Single Electric Motor",
@@ -169,7 +193,8 @@
       "acceleration": 11,
       "topSpeed": 132,
       "price": "~$58,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~18.2 sec"
     },
     "Renault|Kangoo E-Tech|2024|Maxi Van": {
       "engine": "Single Electric Motor",
@@ -188,7 +213,8 @@
       "acceleration": 11,
       "topSpeed": 132,
       "price": "~$63,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~18.2 sec"
     },
     "Renault|Kangoo E-Tech|2025|Van": {
       "engine": "Single Electric Motor",
@@ -207,7 +233,8 @@
       "acceleration": 11,
       "topSpeed": 132,
       "price": "~$60,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~18.2 sec"
     },
     "Renault|Kangoo E-Tech|2025|Maxi Van": {
       "engine": "Single Electric Motor",
@@ -226,7 +253,8 @@
       "acceleration": 11,
       "topSpeed": 132,
       "price": "~$65,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~18.2 sec"
     },
     "Renault|Kangoo E-Tech|2026|Van": {
       "engine": "Single Electric Motor",
@@ -245,7 +273,8 @@
       "acceleration": 11,
       "topSpeed": 132,
       "price": "~$62,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~18.2 sec"
     },
     "Renault|Kangoo E-Tech|2026|Maxi Van": {
       "engine": "Single Electric Motor",
@@ -264,7 +293,8 @@
       "acceleration": 11,
       "topSpeed": 132,
       "price": "~$67,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~18.2 sec"
     },
     "Renault|5 E-Tech|2024|Standard Range": {
       "engine": "Single Electric Motor",
@@ -283,7 +313,8 @@
       "acceleration": 9.4,
       "topSpeed": 150,
       "price": "~$42,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|5 E-Tech|2024|Long Range": {
       "engine": "Single Electric Motor",
@@ -302,7 +333,8 @@
       "acceleration": 8,
       "topSpeed": 150,
       "price": "~$49,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.1 sec"
     },
     "Renault|5 E-Tech|2025|Standard Range": {
       "engine": "Single Electric Motor",
@@ -321,7 +353,8 @@
       "acceleration": 9.4,
       "topSpeed": 150,
       "price": "~$44,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|5 E-Tech|2025|Long Range": {
       "engine": "Single Electric Motor",
@@ -340,7 +373,8 @@
       "acceleration": 8,
       "topSpeed": 150,
       "price": "~$51,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.1 sec"
     },
     "Renault|5 E-Tech|2026|Standard Range": {
       "engine": "Single Electric Motor",
@@ -359,7 +393,8 @@
       "acceleration": 9.4,
       "topSpeed": 150,
       "price": "~$45,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|5 E-Tech|2026|Long Range": {
       "engine": "Single Electric Motor",
@@ -378,7 +413,8 @@
       "acceleration": 8,
       "topSpeed": 150,
       "price": "~$52,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.1 sec"
     },
     "Volkswagen|Transporter|2020|Trendline": {
       "engine": "2.0L 4-cyl TDI 110",
@@ -391,13 +427,18 @@
       "torque": 340,
       "weight": 2025,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 9.9,
+      "fh": 5.7,
       "fx": 8,
       "acceleration": 12,
       "topSpeed": 185,
       "price": "~$55,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Transporter|2020|Comfortline": {
       "engine": "2.0L 4-cyl TDI 110",
@@ -410,13 +451,18 @@
       "torque": 340,
       "weight": 2025,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 9.9,
+      "fh": 5.7,
       "fx": 8,
       "acceleration": 12,
       "topSpeed": 185,
       "price": "~$63,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Transporter|2020|Highline": {
       "engine": "2.0L 4-cyl TDI 150",
@@ -429,13 +475,18 @@
       "torque": 400,
       "weight": 2160,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.6,
+      "fh": 6.2,
       "fx": 8.6,
       "acceleration": 10.5,
       "topSpeed": 195,
       "price": "~$72,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Transporter|2021|Trendline": {
       "engine": "2.0L 4-cyl TDI 110",
@@ -448,13 +499,18 @@
       "torque": 340,
       "weight": 2025,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 9.9,
+      "fh": 5.7,
       "fx": 8,
       "acceleration": 12,
       "topSpeed": 185,
       "price": "~$57,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Transporter|2021|Comfortline": {
       "engine": "2.0L 4-cyl TDI 110",
@@ -467,13 +523,18 @@
       "torque": 340,
       "weight": 2025,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 9.9,
+      "fh": 5.7,
       "fx": 8,
       "acceleration": 12,
       "topSpeed": 185,
       "price": "~$65,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Transporter|2021|Highline": {
       "engine": "2.0L 4-cyl TDI 150",
@@ -486,13 +547,18 @@
       "torque": 400,
       "weight": 2160,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.6,
+      "fh": 6.2,
       "fx": 8.6,
       "acceleration": 10.5,
       "topSpeed": 195,
       "price": "~$74,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Transporter|2022|Trendline": {
       "engine": "2.0L 4-cyl TDI 110",
@@ -505,13 +571,18 @@
       "torque": 340,
       "weight": 2025,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 9.9,
+      "fh": 5.7,
       "fx": 8,
       "acceleration": 12,
       "topSpeed": 185,
       "price": "~$59,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Transporter|2022|Comfortline": {
       "engine": "2.0L 4-cyl TDI 110",
@@ -524,13 +595,18 @@
       "torque": 340,
       "weight": 2025,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 9.9,
+      "fh": 5.7,
       "fx": 8,
       "acceleration": 12,
       "topSpeed": 185,
       "price": "~$67,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Transporter|2022|Highline": {
       "engine": "2.0L 4-cyl TDI 150",
@@ -543,13 +619,18 @@
       "torque": 400,
       "weight": 2160,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.6,
+      "fh": 6.2,
       "fx": 8.6,
       "acceleration": 10.5,
       "topSpeed": 195,
       "price": "~$76,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Transporter|2023|Trendline": {
       "engine": "2.0L 4-cyl TDI 110",
@@ -562,13 +643,18 @@
       "torque": 340,
       "weight": 2025,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 9.9,
+      "fh": 5.7,
       "fx": 8,
       "acceleration": 12,
       "topSpeed": 185,
       "price": "~$61,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Transporter|2023|Comfortline": {
       "engine": "2.0L 4-cyl TDI 110",
@@ -581,13 +667,18 @@
       "torque": 340,
       "weight": 2025,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 9.9,
+      "fh": 5.7,
       "fx": 8,
       "acceleration": 12,
       "topSpeed": 185,
       "price": "~$69,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Transporter|2023|Highline": {
       "engine": "2.0L 4-cyl TDI 150",
@@ -600,13 +691,18 @@
       "torque": 400,
       "weight": 2160,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.6,
+      "fh": 6.2,
       "fx": 8.6,
       "acceleration": 10.5,
       "topSpeed": 195,
       "price": "~$78,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Transporter|2024|Trendline": {
       "engine": "2.0L 4-cyl TDI 110",
@@ -619,13 +715,18 @@
       "torque": 340,
       "weight": 2025,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 9.9,
+      "fh": 5.7,
       "fx": 8,
       "acceleration": 12,
       "topSpeed": 185,
       "price": "~$63,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Transporter|2024|Comfortline": {
       "engine": "2.0L 4-cyl TDI 110",
@@ -638,13 +739,18 @@
       "torque": 340,
       "weight": 2025,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 9.9,
+      "fh": 5.7,
       "fx": 8,
       "acceleration": 12,
       "topSpeed": 185,
       "price": "~$71,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Transporter|2024|Highline": {
       "engine": "2.0L 4-cyl TDI 150",
@@ -657,13 +763,18 @@
       "torque": 400,
       "weight": 2160,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.6,
+      "fh": 6.2,
       "fx": 8.6,
       "acceleration": 10.5,
       "topSpeed": 195,
       "price": "~$80,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Transit Custom|2023|Trend": {
       "engine": "2.0L 4-cyl EcoBlue Diesel",
@@ -676,13 +787,18 @@
       "torque": 385,
       "weight": 2060,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 9.7,
+      "fh": 5.5,
       "fx": 7.8,
       "acceleration": 11.5,
       "topSpeed": 175,
       "price": "~$69,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Transit Custom|2023|Sport": {
       "engine": "2.0L 4-cyl EcoBlue Diesel",
@@ -695,13 +811,18 @@
       "torque": 385,
       "weight": 2060,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 9.7,
+      "fh": 5.5,
       "fx": 7.8,
       "acceleration": 11.5,
       "topSpeed": 175,
       "price": "~$79,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Transit Custom|2023|Trend PHEV": {
       "engine": "2.5L iVCT Atkinson PHEV",
@@ -714,14 +835,19 @@
       "torque": 210,
       "weight": 2335,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 2.7,
+      "fh": 2,
       "fx": 2.4,
       "acceleration": 13,
       "topSpeed": 160,
       "range": 65,
       "price": "~$79,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Transit Custom|2024|Trend": {
       "engine": "2.0L 4-cyl EcoBlue Diesel",
@@ -734,13 +860,18 @@
       "torque": 385,
       "weight": 2060,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 9.7,
+      "fh": 5.5,
       "fx": 7.8,
       "acceleration": 11.5,
       "topSpeed": 175,
       "price": "~$71,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Transit Custom|2024|Sport": {
       "engine": "2.0L 4-cyl EcoBlue Diesel",
@@ -753,13 +884,18 @@
       "torque": 385,
       "weight": 2060,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 9.7,
+      "fh": 5.5,
       "fx": 7.8,
       "acceleration": 11.5,
       "topSpeed": 175,
       "price": "~$81,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Transit Custom|2024|Trend PHEV": {
       "engine": "2.5L iVCT Atkinson PHEV",
@@ -772,14 +908,19 @@
       "torque": 210,
       "weight": 2335,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 2.7,
+      "fh": 2,
       "fx": 2.4,
       "acceleration": 13,
       "topSpeed": 160,
       "range": 65,
       "price": "~$81,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Transit Custom|2025|Trend": {
       "engine": "2.0L 4-cyl EcoBlue Diesel",
@@ -792,13 +933,18 @@
       "torque": 385,
       "weight": 2060,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 9.7,
+      "fh": 5.5,
       "fx": 7.8,
       "acceleration": 11.5,
       "topSpeed": 175,
       "price": "~$73,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Transit Custom|2025|Sport": {
       "engine": "2.0L 4-cyl EcoBlue Diesel",
@@ -811,13 +957,18 @@
       "torque": 385,
       "weight": 2060,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 9.7,
+      "fh": 5.5,
       "fx": 7.8,
       "acceleration": 11.5,
       "topSpeed": 175,
       "price": "~$83,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Transit Custom|2025|Trend PHEV": {
       "engine": "2.5L iVCT Atkinson PHEV",
@@ -830,14 +981,19 @@
       "torque": 210,
       "weight": 2335,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 2.7,
+      "fh": 2,
       "fx": 2.4,
       "acceleration": 13,
       "topSpeed": 160,
       "range": 65,
       "price": "~$83,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Transit Custom|2026|Trend": {
       "engine": "2.0L 4-cyl EcoBlue Diesel",
@@ -850,13 +1006,18 @@
       "torque": 385,
       "weight": 2060,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 9.7,
+      "fh": 5.5,
       "fx": 7.8,
       "acceleration": 11.5,
       "topSpeed": 175,
       "price": "~$75,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Transit Custom|2026|Sport": {
       "engine": "2.0L 4-cyl EcoBlue Diesel",
@@ -869,13 +1030,18 @@
       "torque": 385,
       "weight": 2060,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 9.7,
+      "fh": 5.5,
       "fx": 7.8,
       "acceleration": 11.5,
       "topSpeed": 175,
       "price": "~$85,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Transit Custom|2026|Trend PHEV": {
       "engine": "2.5L iVCT Atkinson PHEV",
@@ -888,14 +1054,19 @@
       "torque": 210,
       "weight": 2335,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 2.7,
+      "fh": 2,
       "fx": 2.4,
       "acceleration": 13,
       "topSpeed": 160,
       "range": 65,
       "price": "~$85,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     }
   }
 }

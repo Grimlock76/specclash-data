@@ -18,7 +18,8 @@
       "weight": 1930,
       "seats": 5,
       "cargo": 738,
-      "price": "~$49,990"
+      "price": "~$49,990",
+      "quarterMile": "~16.5 sec"
     },
     "Jaecoo|J8|2025|Ridge AWD": {
       "engine": "2.0L I4 Turbo",
@@ -38,7 +39,8 @@
       "weight": 2010,
       "seats": 5,
       "cargo": 738,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "quarterMile": "~16.8 sec"
     },
     "Jaecoo|J8|2026|Track": {
       "engine": "2.0L I4 Turbo",
@@ -58,7 +60,8 @@
       "weight": 1930,
       "seats": 5,
       "cargo": 738,
-      "price": "~$49,990"
+      "price": "~$49,990",
+      "quarterMile": "~16.5 sec"
     },
     "Jaecoo|J8|2026|Ridge AWD": {
       "engine": "2.0L I4 Turbo",
@@ -78,7 +81,8 @@
       "weight": 2010,
       "seats": 5,
       "cargo": 738,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "quarterMile": "~16.8 sec"
     },
     "Chery|Tiggo 8|2025|Super Hybrid Urban": {
       "engine": "1.5L I4 Turbo PHEV (105kW) + 150kW motor",
@@ -89,8 +93,8 @@
       "transmission": "1sp DHT",
       "power": 150,
       "torque": 310,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "fuelType": "hybrid",
       "acceleration": 8.5,
@@ -98,7 +102,12 @@
       "weight": 1910,
       "seats": 7,
       "cargo": 889,
-      "price": "~$45,990"
+      "price": "~$45,990",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Chery|Tiggo 8|2025|Super Hybrid Ultimate": {
       "engine": "1.5L I4 Turbo PHEV (105kW) + 150kW motor",
@@ -109,8 +118,8 @@
       "transmission": "1sp DHT",
       "power": 150,
       "torque": 310,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "fuelType": "hybrid",
       "acceleration": 8.5,
@@ -118,7 +127,12 @@
       "weight": 1910,
       "seats": 7,
       "cargo": 889,
-      "price": "~$49,990"
+      "price": "~$49,990",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Chery|Tiggo 8|2026|Super Hybrid Urban": {
       "engine": "1.5L I4 Turbo PHEV (105kW) + 150kW motor",
@@ -129,8 +143,8 @@
       "transmission": "1sp DHT",
       "power": 150,
       "torque": 310,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "fuelType": "hybrid",
       "acceleration": 8.5,
@@ -138,7 +152,12 @@
       "weight": 1910,
       "seats": 7,
       "cargo": 889,
-      "price": "~$45,990"
+      "price": "~$45,990",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Chery|Tiggo 8|2026|Super Hybrid Ultimate": {
       "engine": "1.5L I4 Turbo PHEV (105kW) + 150kW motor",
@@ -149,8 +168,8 @@
       "transmission": "1sp DHT",
       "power": 150,
       "torque": 310,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "fuelType": "hybrid",
       "acceleration": 8.5,
@@ -158,7 +177,12 @@
       "weight": 1910,
       "seats": 7,
       "cargo": 889,
-      "price": "~$49,990"
+      "price": "~$49,990",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     }
   }
 }

@@ -19,7 +19,8 @@
       "cargo": 208,
       "acceleration": 8.6,
       "topSpeed": 200,
-      "price": "~$28,990"
+      "price": "~$28,990",
+      "quarterMile": "~16.6 sec"
     },
     "Proton|Satria|2000|GLi": {
       "engine": "1.5L I4 4G15",
@@ -40,7 +41,8 @@
       "cargo": 208,
       "acceleration": 11.5,
       "topSpeed": 165,
-      "price": "~$16,990"
+      "price": "~$16,990",
+      "quarterMile": "~18.5 sec"
     },
     "Proton|Satria|2001|GTi": {
       "engine": "1.8L I4 4G93 DOHC",
@@ -61,7 +63,8 @@
       "cargo": 208,
       "acceleration": 8.6,
       "topSpeed": 200,
-      "price": "~$28,990"
+      "price": "~$28,990",
+      "quarterMile": "~16.6 sec"
     },
     "Proton|Satria|2001|GLi": {
       "engine": "1.5L I4 4G15",
@@ -82,7 +85,8 @@
       "cargo": 208,
       "acceleration": 11.5,
       "topSpeed": 165,
-      "price": "~$16,990"
+      "price": "~$16,990",
+      "quarterMile": "~18.5 sec"
     },
     "Proton|Satria|2002|GTi": {
       "engine": "1.8L I4 4G93 DOHC",
@@ -103,7 +107,8 @@
       "cargo": 208,
       "acceleration": 8.6,
       "topSpeed": 200,
-      "price": "~$28,990"
+      "price": "~$28,990",
+      "quarterMile": "~16.6 sec"
     },
     "Proton|Satria|2002|GLi": {
       "engine": "1.5L I4 4G15",
@@ -124,7 +129,8 @@
       "cargo": 208,
       "acceleration": 11.5,
       "topSpeed": 165,
-      "price": "~$16,990"
+      "price": "~$16,990",
+      "quarterMile": "~18.5 sec"
     },
     "Proton|Satria|2003|GTi": {
       "engine": "1.8L I4 4G93 DOHC",
@@ -145,7 +151,8 @@
       "cargo": 208,
       "acceleration": 8.6,
       "topSpeed": 200,
-      "price": "~$28,990"
+      "price": "~$28,990",
+      "quarterMile": "~16.6 sec"
     },
     "Proton|Satria|2003|GLi": {
       "engine": "1.5L I4 4G15",
@@ -166,7 +173,8 @@
       "cargo": 208,
       "acceleration": 11.5,
       "topSpeed": 165,
-      "price": "~$16,990"
+      "price": "~$16,990",
+      "quarterMile": "~18.5 sec"
     },
     "Proton|Satria|2004|GTi": {
       "engine": "1.8L I4 4G93 DOHC",
@@ -187,7 +195,8 @@
       "cargo": 208,
       "acceleration": 8.6,
       "topSpeed": 200,
-      "price": "~$28,990"
+      "price": "~$28,990",
+      "quarterMile": "~16.6 sec"
     },
     "Proton|Satria|2004|GLi": {
       "engine": "1.5L I4 4G15",
@@ -208,7 +217,8 @@
       "cargo": 208,
       "acceleration": 11.5,
       "topSpeed": 165,
-      "price": "~$16,990"
+      "price": "~$16,990",
+      "quarterMile": "~18.5 sec"
     },
     "Proton|Satria|2005|GTi": {
       "engine": "1.8L I4 4G93 DOHC",
@@ -229,7 +239,8 @@
       "cargo": 208,
       "acceleration": 8.6,
       "topSpeed": 200,
-      "price": "~$28,990"
+      "price": "~$28,990",
+      "quarterMile": "~16.6 sec"
     },
     "Proton|Satria|2005|GLi": {
       "engine": "1.5L I4 4G15",
@@ -250,7 +261,8 @@
       "cargo": 208,
       "acceleration": 11.5,
       "topSpeed": 165,
-      "price": "~$16,990"
+      "price": "~$16,990",
+      "quarterMile": "~18.5 sec"
     },
     "Proton|Jumbuck|2003|GLi": {
       "engine": "1.5L I4 4G15",
@@ -271,7 +283,8 @@
       "cargo": 650,
       "acceleration": 12.5,
       "topSpeed": 160,
-      "price": "~$13,990"
+      "price": "~$13,990",
+      "quarterMile": "~19.1 sec"
     },
     "Proton|Jumbuck|2004|GLi": {
       "engine": "1.5L I4 4G15",
@@ -292,7 +305,8 @@
       "cargo": 650,
       "acceleration": 12.5,
       "topSpeed": 160,
-      "price": "~$13,990"
+      "price": "~$13,990",
+      "quarterMile": "~19.1 sec"
     },
     "Proton|Jumbuck|2005|GLi": {
       "engine": "1.5L I4 4G15",
@@ -313,7 +327,8 @@
       "cargo": 650,
       "acceleration": 12.5,
       "topSpeed": 160,
-      "price": "~$13,990"
+      "price": "~$13,990",
+      "quarterMile": "~19.1 sec"
     },
     "Proton|Jumbuck|2006|GLi": {
       "engine": "1.5L I4 4G15",
@@ -334,7 +349,8 @@
       "cargo": 650,
       "acceleration": 12.5,
       "topSpeed": 160,
-      "price": "~$13,990"
+      "price": "~$13,990",
+      "quarterMile": "~19.1 sec"
     },
     "Proton|Jumbuck|2007|GLi": {
       "engine": "1.5L I4 4G15",
@@ -355,7 +371,8 @@
       "cargo": 650,
       "acceleration": 12.5,
       "topSpeed": 160,
-      "price": "~$13,990"
+      "price": "~$13,990",
+      "quarterMile": "~19.1 sec"
     },
     "Proton|Jumbuck|2008|GLi": {
       "engine": "1.5L I4 4G15",
@@ -376,7 +393,8 @@
       "cargo": 650,
       "acceleration": 12.5,
       "topSpeed": 160,
-      "price": "~$13,990"
+      "price": "~$13,990",
+      "quarterMile": "~19.1 sec"
     },
     "Proton|Jumbuck|2009|GLi": {
       "engine": "1.5L I4 4G15",
@@ -397,7 +415,8 @@
       "cargo": 650,
       "acceleration": 12.5,
       "topSpeed": 160,
-      "price": "~$13,990"
+      "price": "~$13,990",
+      "quarterMile": "~19.1 sec"
     },
     "Proton|Jumbuck|2010|GLi": {
       "engine": "1.5L I4 4G15",
@@ -418,7 +437,8 @@
       "cargo": 650,
       "acceleration": 12.5,
       "topSpeed": 160,
-      "price": "~$13,990"
+      "price": "~$13,990",
+      "quarterMile": "~19.1 sec"
     },
     "Proton|Gen-2|2004|GX": {
       "engine": "1.6L I4 CamPro",
@@ -439,7 +459,8 @@
       "cargo": 290,
       "acceleration": 11,
       "topSpeed": 185,
-      "price": "~$17,490"
+      "price": "~$17,490",
+      "quarterMile": "~18.2 sec"
     },
     "Proton|Gen-2|2005|GX": {
       "engine": "1.6L I4 CamPro",
@@ -460,7 +481,8 @@
       "cargo": 290,
       "acceleration": 11,
       "topSpeed": 185,
-      "price": "~$17,490"
+      "price": "~$17,490",
+      "quarterMile": "~18.2 sec"
     },
     "Proton|Gen-2|2006|GX": {
       "engine": "1.6L I4 CamPro",
@@ -481,7 +503,8 @@
       "cargo": 290,
       "acceleration": 11,
       "topSpeed": 185,
-      "price": "~$17,490"
+      "price": "~$17,490",
+      "quarterMile": "~18.2 sec"
     },
     "Proton|Gen-2|2007|GX": {
       "engine": "1.6L I4 CamPro",
@@ -502,7 +525,8 @@
       "cargo": 290,
       "acceleration": 11,
       "topSpeed": 185,
-      "price": "~$17,490"
+      "price": "~$17,490",
+      "quarterMile": "~18.2 sec"
     },
     "Proton|Gen-2|2008|GX": {
       "engine": "1.6L I4 CamPro",
@@ -523,7 +547,8 @@
       "cargo": 290,
       "acceleration": 11,
       "topSpeed": 185,
-      "price": "~$17,490"
+      "price": "~$17,490",
+      "quarterMile": "~18.2 sec"
     },
     "Proton|Gen-2|2009|GX": {
       "engine": "1.6L I4 CamPro",
@@ -544,7 +569,8 @@
       "cargo": 290,
       "acceleration": 11,
       "topSpeed": 185,
-      "price": "~$17,490"
+      "price": "~$17,490",
+      "quarterMile": "~18.2 sec"
     },
     "Proton|Gen-2|2010|GX": {
       "engine": "1.6L I4 CamPro",
@@ -565,7 +591,8 @@
       "cargo": 290,
       "acceleration": 11,
       "topSpeed": 185,
-      "price": "~$17,490"
+      "price": "~$17,490",
+      "quarterMile": "~18.2 sec"
     },
     "Proton|Persona|2008|GX": {
       "engine": "1.6L I4 CamPro",
@@ -586,7 +613,8 @@
       "cargo": 430,
       "acceleration": 11.5,
       "topSpeed": 180,
-      "price": "~$16,990"
+      "price": "~$16,990",
+      "quarterMile": "~18.5 sec"
     },
     "Proton|Persona|2009|GX": {
       "engine": "1.6L I4 CamPro",
@@ -607,7 +635,8 @@
       "cargo": 430,
       "acceleration": 11.5,
       "topSpeed": 180,
-      "price": "~$16,990"
+      "price": "~$16,990",
+      "quarterMile": "~18.5 sec"
     },
     "Proton|Persona|2010|GX": {
       "engine": "1.6L I4 CamPro",
@@ -628,7 +657,8 @@
       "cargo": 430,
       "acceleration": 11.5,
       "topSpeed": 180,
-      "price": "~$16,990"
+      "price": "~$16,990",
+      "quarterMile": "~18.5 sec"
     },
     "Proton|Persona|2011|GX": {
       "engine": "1.6L I4 CamPro",
@@ -649,7 +679,8 @@
       "cargo": 430,
       "acceleration": 11.5,
       "topSpeed": 180,
-      "price": "~$16,990"
+      "price": "~$16,990",
+      "quarterMile": "~18.5 sec"
     },
     "Proton|Persona|2012|GX": {
       "engine": "1.6L I4 CamPro",
@@ -670,7 +701,8 @@
       "cargo": 430,
       "acceleration": 11.5,
       "topSpeed": 180,
-      "price": "~$16,990"
+      "price": "~$16,990",
+      "quarterMile": "~18.5 sec"
     },
     "Proton|Preve|2012|GXR": {
       "engine": "1.6L I4 CFE Turbo",
@@ -691,7 +723,8 @@
       "cargo": 508,
       "acceleration": 9.8,
       "topSpeed": 190,
-      "price": "~$19,990"
+      "price": "~$19,990",
+      "quarterMile": "~17.4 sec"
     },
     "Proton|Preve|2013|GXR": {
       "engine": "1.6L I4 CFE Turbo",
@@ -712,7 +745,8 @@
       "cargo": 508,
       "acceleration": 9.8,
       "topSpeed": 190,
-      "price": "~$19,990"
+      "price": "~$19,990",
+      "quarterMile": "~17.4 sec"
     },
     "Proton|Preve|2014|GXR": {
       "engine": "1.6L I4 CFE Turbo",
@@ -733,7 +767,8 @@
       "cargo": 508,
       "acceleration": 9.8,
       "topSpeed": 190,
-      "price": "~$19,990"
+      "price": "~$19,990",
+      "quarterMile": "~17.4 sec"
     },
     "Proton|Preve|2015|GXR": {
       "engine": "1.6L I4 CFE Turbo",
@@ -754,7 +789,8 @@
       "cargo": 508,
       "acceleration": 9.8,
       "topSpeed": 190,
-      "price": "~$19,990"
+      "price": "~$19,990",
+      "quarterMile": "~17.4 sec"
     },
     "Proton|Preve|2016|GXR": {
       "engine": "1.6L I4 CFE Turbo",
@@ -775,7 +811,8 @@
       "cargo": 508,
       "acceleration": 9.8,
       "topSpeed": 190,
-      "price": "~$19,990"
+      "price": "~$19,990",
+      "quarterMile": "~17.4 sec"
     },
     "Proton|Suprima S|2013|GXR": {
       "engine": "1.6L I4 CFE Turbo",
@@ -796,7 +833,8 @@
       "cargo": 437,
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$21,990"
+      "price": "~$21,990",
+      "quarterMile": "~17.5 sec"
     },
     "Proton|Suprima S|2014|GXR": {
       "engine": "1.6L I4 CFE Turbo",
@@ -817,7 +855,8 @@
       "cargo": 437,
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$21,990"
+      "price": "~$21,990",
+      "quarterMile": "~17.5 sec"
     },
     "Proton|Suprima S|2015|GXR": {
       "engine": "1.6L I4 CFE Turbo",
@@ -838,7 +877,8 @@
       "cargo": 437,
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$21,990"
+      "price": "~$21,990",
+      "quarterMile": "~17.5 sec"
     },
     "Proton|Suprima S|2016|GXR": {
       "engine": "1.6L I4 CFE Turbo",
@@ -859,7 +899,8 @@
       "cargo": 437,
       "acceleration": 10,
       "topSpeed": 190,
-      "price": "~$21,990"
+      "price": "~$21,990",
+      "quarterMile": "~17.5 sec"
     },
     "Proton|Exora|2011|GXR": {
       "engine": "1.6L I4 CFE Turbo",
@@ -880,7 +921,8 @@
       "cargo": 270,
       "acceleration": 11.5,
       "topSpeed": 180,
-      "price": "~$23,990"
+      "price": "~$23,990",
+      "quarterMile": "~18.5 sec"
     },
     "Proton|Exora|2012|GXR": {
       "engine": "1.6L I4 CFE Turbo",
@@ -901,7 +943,8 @@
       "cargo": 270,
       "acceleration": 11.5,
       "topSpeed": 180,
-      "price": "~$23,990"
+      "price": "~$23,990",
+      "quarterMile": "~18.5 sec"
     },
     "Proton|Exora|2013|GXR": {
       "engine": "1.6L I4 CFE Turbo",
@@ -922,7 +965,8 @@
       "cargo": 270,
       "acceleration": 11.5,
       "topSpeed": 180,
-      "price": "~$23,990"
+      "price": "~$23,990",
+      "quarterMile": "~18.5 sec"
     },
     "Proton|Exora|2014|GXR": {
       "engine": "1.6L I4 CFE Turbo",
@@ -943,7 +987,8 @@
       "cargo": 270,
       "acceleration": 11.5,
       "topSpeed": 180,
-      "price": "~$23,990"
+      "price": "~$23,990",
+      "quarterMile": "~18.5 sec"
     },
     "Proton|Exora|2015|GXR": {
       "engine": "1.6L I4 CFE Turbo",
@@ -964,7 +1009,8 @@
       "cargo": 270,
       "acceleration": 11.5,
       "topSpeed": 180,
-      "price": "~$23,990"
+      "price": "~$23,990",
+      "quarterMile": "~18.5 sec"
     },
     "Proton|Exora|2016|GXR": {
       "engine": "1.6L I4 CFE Turbo",
@@ -985,7 +1031,8 @@
       "cargo": 270,
       "acceleration": 11.5,
       "topSpeed": 180,
-      "price": "~$23,990"
+      "price": "~$23,990",
+      "quarterMile": "~18.5 sec"
     },
     "Tata|Xenon|2014|Dual Cab": {
       "engine": "2.2L I4 DICOR Turbo-Diesel",
@@ -1006,7 +1053,8 @@
       "cargo": 1050,
       "acceleration": 13.5,
       "topSpeed": 160,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~19.6 sec"
     },
     "Tata|Xenon|2015|Dual Cab": {
       "engine": "2.2L I4 DICOR Turbo-Diesel",
@@ -1027,7 +1075,8 @@
       "cargo": 1050,
       "acceleration": 13.5,
       "topSpeed": 160,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~19.6 sec"
     },
     "Tata|Xenon|2016|Dual Cab": {
       "engine": "2.2L I4 DICOR Turbo-Diesel",
@@ -1048,7 +1097,8 @@
       "cargo": 1050,
       "acceleration": 13.5,
       "topSpeed": 160,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~19.6 sec"
     },
     "Maybach|S-Class|2021|S 580": {
       "engine": "4.0L V8 BiTurbo",
@@ -1069,7 +1119,8 @@
       "cargo": 550,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$380,000"
+      "price": "~$380,000",
+      "quarterMile": "~13.2 sec"
     },
     "Maybach|S-Class|2021|S 680": {
       "engine": "6.0L V12 BiTurbo",
@@ -1090,7 +1141,8 @@
       "cargo": 550,
       "acceleration": 4.5,
       "topSpeed": 250,
-      "price": "~$500,000"
+      "price": "~$500,000",
+      "quarterMile": "~12.8 sec"
     },
     "Maybach|S-Class|2022|S 580": {
       "engine": "4.0L V8 BiTurbo",
@@ -1111,7 +1163,8 @@
       "cargo": 550,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$380,000"
+      "price": "~$380,000",
+      "quarterMile": "~13.2 sec"
     },
     "Maybach|S-Class|2022|S 680": {
       "engine": "6.0L V12 BiTurbo",
@@ -1132,7 +1185,8 @@
       "cargo": 550,
       "acceleration": 4.5,
       "topSpeed": 250,
-      "price": "~$500,000"
+      "price": "~$500,000",
+      "quarterMile": "~12.8 sec"
     },
     "Maybach|S-Class|2023|S 580": {
       "engine": "4.0L V8 BiTurbo",
@@ -1153,7 +1207,8 @@
       "cargo": 550,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$380,000"
+      "price": "~$380,000",
+      "quarterMile": "~13.2 sec"
     },
     "Maybach|S-Class|2023|S 680": {
       "engine": "6.0L V12 BiTurbo",
@@ -1174,7 +1229,8 @@
       "cargo": 550,
       "acceleration": 4.5,
       "topSpeed": 250,
-      "price": "~$500,000"
+      "price": "~$500,000",
+      "quarterMile": "~12.8 sec"
     },
     "Maybach|S-Class|2024|S 580": {
       "engine": "4.0L V8 BiTurbo",
@@ -1195,7 +1251,8 @@
       "cargo": 550,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$380,000"
+      "price": "~$380,000",
+      "quarterMile": "~13.2 sec"
     },
     "Maybach|S-Class|2024|S 680": {
       "engine": "6.0L V12 BiTurbo",
@@ -1216,7 +1273,8 @@
       "cargo": 550,
       "acceleration": 4.5,
       "topSpeed": 250,
-      "price": "~$500,000"
+      "price": "~$500,000",
+      "quarterMile": "~12.8 sec"
     },
     "Maybach|S-Class|2025|S 580": {
       "engine": "4.0L V8 BiTurbo",
@@ -1237,7 +1295,8 @@
       "cargo": 550,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$380,000"
+      "price": "~$380,000",
+      "quarterMile": "~13.2 sec"
     },
     "Maybach|S-Class|2025|S 680": {
       "engine": "6.0L V12 BiTurbo",
@@ -1258,7 +1317,8 @@
       "cargo": 550,
       "acceleration": 4.5,
       "topSpeed": 250,
-      "price": "~$500,000"
+      "price": "~$500,000",
+      "quarterMile": "~12.8 sec"
     },
     "Maybach|S-Class|2026|S 580": {
       "engine": "4.0L V8 BiTurbo",
@@ -1279,7 +1339,8 @@
       "cargo": 550,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$380,000"
+      "price": "~$380,000",
+      "quarterMile": "~13.2 sec"
     },
     "Maybach|S-Class|2026|S 680": {
       "engine": "6.0L V12 BiTurbo",
@@ -1300,7 +1361,8 @@
       "cargo": 550,
       "acceleration": 4.5,
       "topSpeed": 250,
-      "price": "~$500,000"
+      "price": "~$500,000",
+      "quarterMile": "~12.8 sec"
     },
     "Maybach|GLS|2021|GLS 600": {
       "engine": "4.0L V8 BiTurbo + EQ Boost",
@@ -1321,7 +1383,8 @@
       "cargo": 680,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$390,000"
+      "price": "~$390,000",
+      "quarterMile": "~13.2 sec"
     },
     "Maybach|GLS|2022|GLS 600": {
       "engine": "4.0L V8 BiTurbo + EQ Boost",
@@ -1342,7 +1405,8 @@
       "cargo": 680,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$390,000"
+      "price": "~$390,000",
+      "quarterMile": "~13.2 sec"
     },
     "Maybach|GLS|2023|GLS 600": {
       "engine": "4.0L V8 BiTurbo + EQ Boost",
@@ -1363,7 +1427,8 @@
       "cargo": 680,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$390,000"
+      "price": "~$390,000",
+      "quarterMile": "~13.2 sec"
     },
     "Maybach|GLS|2024|GLS 600": {
       "engine": "4.0L V8 BiTurbo + EQ Boost",
@@ -1384,7 +1449,8 @@
       "cargo": 680,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$390,000"
+      "price": "~$390,000",
+      "quarterMile": "~13.2 sec"
     },
     "Maybach|GLS|2025|GLS 600": {
       "engine": "4.0L V8 BiTurbo + EQ Boost",
@@ -1405,7 +1471,8 @@
       "cargo": 680,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$390,000"
+      "price": "~$390,000",
+      "quarterMile": "~13.2 sec"
     },
     "Maybach|GLS|2026|GLS 600": {
       "engine": "4.0L V8 BiTurbo + EQ Boost",
@@ -1426,7 +1493,8 @@
       "cargo": 680,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$390,000"
+      "price": "~$390,000",
+      "quarterMile": "~13.2 sec"
     },
     "Maybach|EQS SUV|2024|EQS 680": {
       "engine": "Dual Motor Electric",
@@ -1447,7 +1515,8 @@
       "cargo": 645,
       "acceleration": 4.4,
       "topSpeed": 210,
-      "price": "~$420,000"
+      "price": "~$420,000",
+      "quarterMile": "~12.7 sec"
     },
     "Maybach|EQS SUV|2025|EQS 680": {
       "engine": "Dual Motor Electric",
@@ -1468,7 +1537,8 @@
       "cargo": 645,
       "acceleration": 4.4,
       "topSpeed": 210,
-      "price": "~$420,000"
+      "price": "~$420,000",
+      "quarterMile": "~12.7 sec"
     },
     "Maybach|EQS SUV|2026|EQS 680": {
       "engine": "Dual Motor Electric",
@@ -1489,7 +1559,8 @@
       "cargo": 645,
       "acceleration": 4.4,
       "topSpeed": 210,
-      "price": "~$420,000"
+      "price": "~$420,000",
+      "quarterMile": "~12.7 sec"
     },
     "Hongqi|H9|2021|3.0T": {
       "engine": "3.0L V6 Supercharged",
@@ -1510,7 +1581,8 @@
       "cargo": 510,
       "acceleration": 7.4,
       "topSpeed": 230,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~15.5 sec"
     },
     "Hongqi|H9|2022|3.0T": {
       "engine": "3.0L V6 Supercharged",
@@ -1531,7 +1603,8 @@
       "cargo": 510,
       "acceleration": 7.4,
       "topSpeed": 230,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~15.5 sec"
     },
     "Hongqi|H9|2023|3.0T": {
       "engine": "3.0L V6 Supercharged",
@@ -1552,7 +1625,8 @@
       "cargo": 510,
       "acceleration": 7.4,
       "topSpeed": 230,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~15.5 sec"
     },
     "Hongqi|H9|2024|3.0T": {
       "engine": "3.0L V6 Supercharged",
@@ -1573,7 +1647,8 @@
       "cargo": 510,
       "acceleration": 7.4,
       "topSpeed": 230,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~15.5 sec"
     },
     "Hongqi|H9|2025|3.0T": {
       "engine": "3.0L V6 Supercharged",
@@ -1594,7 +1669,8 @@
       "cargo": 510,
       "acceleration": 7.4,
       "topSpeed": 230,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~15.5 sec"
     },
     "Hongqi|H9|2026|3.0T": {
       "engine": "3.0L V6 Supercharged",
@@ -1615,7 +1691,8 @@
       "cargo": 510,
       "acceleration": 7.4,
       "topSpeed": 230,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~15.5 sec"
     },
     "Hongqi|E-HS9|2021|Flagship": {
       "engine": "Dual Motor Electric",
@@ -1636,7 +1713,8 @@
       "cargo": 320,
       "acceleration": 5,
       "topSpeed": 200,
-      "price": "~$120,000"
+      "price": "~$120,000",
+      "quarterMile": "~13.3 sec"
     },
     "Hongqi|E-HS9|2022|Flagship": {
       "engine": "Dual Motor Electric",
@@ -1657,7 +1735,8 @@
       "cargo": 320,
       "acceleration": 5,
       "topSpeed": 200,
-      "price": "~$120,000"
+      "price": "~$120,000",
+      "quarterMile": "~13.3 sec"
     },
     "Hongqi|E-HS9|2023|Flagship": {
       "engine": "Dual Motor Electric",
@@ -1678,7 +1757,8 @@
       "cargo": 320,
       "acceleration": 5,
       "topSpeed": 200,
-      "price": "~$120,000"
+      "price": "~$120,000",
+      "quarterMile": "~13.3 sec"
     },
     "Hongqi|E-HS9|2024|Flagship": {
       "engine": "Dual Motor Electric",
@@ -1699,7 +1779,8 @@
       "cargo": 320,
       "acceleration": 5,
       "topSpeed": 200,
-      "price": "~$120,000"
+      "price": "~$120,000",
+      "quarterMile": "~13.3 sec"
     },
     "Hongqi|E-HS9|2025|Flagship": {
       "engine": "Dual Motor Electric",
@@ -1720,7 +1801,8 @@
       "cargo": 320,
       "acceleration": 5,
       "topSpeed": 200,
-      "price": "~$120,000"
+      "price": "~$120,000",
+      "quarterMile": "~13.3 sec"
     },
     "Hongqi|E-HS9|2026|Flagship": {
       "engine": "Dual Motor Electric",
@@ -1741,7 +1823,8 @@
       "cargo": 320,
       "acceleration": 5,
       "topSpeed": 200,
-      "price": "~$120,000"
+      "price": "~$120,000",
+      "quarterMile": "~13.3 sec"
     },
     "Hongqi|HS5|2022|Premium": {
       "engine": "2.0L I4 Turbo",
@@ -1762,7 +1845,8 @@
       "cargo": 478,
       "acceleration": 8.5,
       "topSpeed": 200,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~16.5 sec"
     },
     "Hongqi|HS5|2023|Premium": {
       "engine": "2.0L I4 Turbo",
@@ -1783,7 +1867,8 @@
       "cargo": 478,
       "acceleration": 8.5,
       "topSpeed": 200,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~16.5 sec"
     },
     "Hongqi|HS5|2024|Premium": {
       "engine": "2.0L I4 Turbo",
@@ -1804,7 +1889,8 @@
       "cargo": 478,
       "acceleration": 8.5,
       "topSpeed": 200,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~16.5 sec"
     },
     "Hongqi|HS5|2025|Premium": {
       "engine": "2.0L I4 Turbo",
@@ -1825,7 +1911,8 @@
       "cargo": 478,
       "acceleration": 8.5,
       "topSpeed": 200,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~16.5 sec"
     },
     "Hongqi|HS5|2026|Premium": {
       "engine": "2.0L I4 Turbo",
@@ -1846,7 +1933,8 @@
       "cargo": 478,
       "acceleration": 8.5,
       "topSpeed": 200,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~16.5 sec"
     }
   }
 }

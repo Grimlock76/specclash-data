@@ -11,7 +11,7 @@
       "fx": null,
       "seats": 5,
       "cargo": 594,
-      "weight": null,
+      "weight": 1760,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 208,
@@ -21,7 +21,11 @@
       "acceleration": 6.1,
       "topSpeed": 201,
       "price": "$54,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~14.4 sec"
     },
     "Tesla|Model 3|2024|Long Range AWD": {
       "fuelType": "electric",
@@ -34,17 +38,22 @@
       "fx": null,
       "seats": 5,
       "cargo": 594,
-      "weight": null,
+      "weight": 1745,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 366,
-      "torque": null,
+      "torque": 765,
       "battery": null,
       "range": 629,
       "acceleration": 4.4,
       "topSpeed": 201,
       "price": "$64,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "torque"
+      ],
+      "quarterMile": "~12.7 sec"
     },
     "Tesla|Model 3|2024|Performance": {
       "fuelType": "electric",
@@ -57,17 +66,22 @@
       "fx": null,
       "seats": 5,
       "cargo": 594,
-      "weight": null,
+      "weight": 1745,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 461,
-      "torque": null,
+      "torque": 960,
       "battery": "85 kWh",
       "range": 528,
       "acceleration": 3.1,
       "topSpeed": 262,
       "price": "$80,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "torque"
+      ],
+      "quarterMile": "~11.2 sec"
     },
     "Suzuki|Jimny|2024|Lite Manual": {
       "engine": "1.5L I4 Petrol",
@@ -78,8 +92,8 @@
       "power": 75,
       "torque": 130,
       "drivetrain": "4WD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 10.4,
       "cargo": null,
       "towing": 1300,
       "fuelTank": 40,
@@ -89,7 +103,11 @@
       "fx": 6.4,
       "weight": 1075,
       "seats": 4,
-      "price": "$30,490"
+      "price": "$30,490",
+      "quarterMile": "~17.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Jimny|2024|GLX Manual": {
       "engine": "1.5L I4 Petrol",
@@ -100,8 +118,8 @@
       "power": 75,
       "torque": 130,
       "drivetrain": "4WD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 10.6,
       "cargo": null,
       "towing": 1300,
       "fuelTank": 40,
@@ -111,7 +129,11 @@
       "fx": 6.4,
       "weight": 1095,
       "seats": 4,
-      "price": "$31,990"
+      "price": "$31,990",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Jimny|2024|GLX Auto": {
       "engine": "1.5L I4 Petrol",
@@ -122,8 +144,8 @@
       "power": 75,
       "torque": 130,
       "drivetrain": "4WD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 10.7,
       "cargo": null,
       "towing": 1300,
       "fuelTank": 40,
@@ -133,7 +155,11 @@
       "fx": 6.9,
       "weight": 1110,
       "seats": 4,
-      "price": "$34,490"
+      "price": "$34,490",
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Jimny|2024|XL Manual": {
       "engine": "1.5L I4 Petrol",
@@ -144,8 +170,8 @@
       "power": 75,
       "torque": 130,
       "drivetrain": "4WD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11.4,
       "cargo": null,
       "towing": 1300,
       "fuelTank": 40,
@@ -155,7 +181,11 @@
       "fx": 6.4,
       "weight": 1185,
       "seats": 4,
-      "price": "$34,990"
+      "price": "$34,990",
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Jimny|2024|XL Heritage Manual": {
       "engine": "1.5L I4 Petrol",
@@ -166,8 +196,8 @@
       "power": 75,
       "torque": 130,
       "drivetrain": "4WD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11.4,
       "cargo": null,
       "towing": 1300,
       "fuelTank": 40,
@@ -177,7 +207,11 @@
       "fx": 6.4,
       "weight": 1185,
       "seats": 4,
-      "price": "$36,490"
+      "price": "$36,490",
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Jimny|2024|XL Auto": {
       "engine": "1.5L I4 Petrol",
@@ -188,8 +222,8 @@
       "power": 75,
       "torque": 130,
       "drivetrain": "4WD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 11.6,
       "cargo": null,
       "towing": 1300,
       "fuelTank": 40,
@@ -199,11 +233,15 @@
       "fx": 6.9,
       "weight": 1210,
       "seats": 4,
-      "price": "$37,490"
+      "price": "$37,490",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Kona|2024|Kona": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 11.6,
       "cargo": 407,
       "seats": 5,
       "drivetrain": "FWD",
@@ -221,11 +259,15 @@
       "weight": 1455,
       "towing": 1300,
       "fuelTank": 47,
-      "price": "$32,000"
+      "price": "$32,000",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Kona|2024|N Line": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 11.6,
       "cargo": 407,
       "seats": 5,
       "drivetrain": "FWD",
@@ -243,11 +285,15 @@
       "weight": 1455,
       "towing": 1300,
       "fuelTank": 47,
-      "price": "$36,000"
+      "price": "$36,000",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Kona|2024|Premium": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 11.6,
       "cargo": 407,
       "seats": 5,
       "drivetrain": "FWD",
@@ -265,12 +311,16 @@
       "weight": 1455,
       "towing": 1300,
       "fuelTank": 47,
-      "price": "$39,500"
+      "price": "$39,500",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Kona|2024|Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 175,
+      "acceleration": 11.2,
+      "cargo": 407,
       "seats": 5,
       "drivetrain": "FWD",
       "engine": "1.6L I4 Hybrid",
@@ -279,19 +329,25 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 104,
-      "torque": null,
+      "torque": 265,
       "transmission": "6-speed dual-clutch",
       "fc": 3.9,
       "fh": 4,
       "fx": 3.9,
       "weight": 1525,
       "towing": 1300,
-      "price": "$36,000"
+      "price": "$36,000",
+      "est": [
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~18.3 sec"
     },
     "Hyundai|Kona|2024|Hybrid Premium": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 175,
+      "acceleration": 11.2,
+      "cargo": 407,
       "seats": 5,
       "drivetrain": "FWD",
       "engine": "1.6L I4 Hybrid",
@@ -300,14 +356,20 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 104,
-      "torque": null,
+      "torque": 265,
       "transmission": "6-speed dual-clutch",
       "fc": 3.9,
       "fh": 4,
       "fx": 3.9,
       "weight": 1525,
       "towing": 1300,
-      "price": "$43,500"
+      "price": "$43,500",
+      "est": [
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~18.3 sec"
     },
     "Hyundai|Kona|2024|Electric": {
       "fuelType": "electric",
@@ -319,9 +381,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 165,
+      "acceleration": 7.7,
+      "cargo": 407,
       "drivetrain": "FWD",
       "engine": "Single-Motor Electric",
       "power": 150,
@@ -329,7 +391,12 @@
       "battery": "64.8 kWh",
       "range": 505,
       "weight": 1698,
-      "price": "$58,000"
+      "price": "$58,000",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Hyundai|Kona|2024|Electric Premium": {
       "fuelType": "electric",
@@ -341,17 +408,23 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 170,
+      "acceleration": 6.7,
+      "cargo": 407,
       "drivetrain": "FWD",
       "engine": "Single-Motor Electric",
       "power": 150,
       "torque": 255,
       "battery": "64.8 kWh",
       "range": 444,
-      "weight": null,
-      "price": "$68,000"
+      "weight": 1455,
+      "price": "$68,000",
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~14.9 sec"
     }
   }
 }

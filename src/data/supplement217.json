@@ -17,7 +17,12 @@
       "acceleration": 8.1,
       "topSpeed": 225,
       "price": "~$57,990",
-      "aspiration": "Garrett VGT Diesel Turbo"
+      "aspiration": "Garrett VGT Diesel Turbo",
+      "quarterMile": "~16.2 sec",
+      "cargo": 455,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XE|2015|P250": {
       "engine": "2.0L I4 Turbo Ingenium P250",
@@ -36,7 +41,12 @@
       "acceleration": 6.5,
       "topSpeed": 250,
       "price": "~$64,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.8 sec",
+      "cargo": 455,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XE|2015|P300 R-Sport": {
       "engine": "2.0L I4 Turbo Ingenium P300",
@@ -55,7 +65,12 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$77,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.2 sec",
+      "cargo": 455,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XE|2015|S": {
       "engine": "3.0L V6 SC AJ126",
@@ -74,7 +89,12 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$99,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.2 sec",
+      "cargo": 455,
+      "est": [
+        "cargo"
+      ]
     },
     "Skoda|Octavia|2015|110 TSI": {
       "engine": "1.4L I4 Turbo TSI EA211",
@@ -93,7 +113,12 @@
       "acceleration": 9.5,
       "topSpeed": 206,
       "price": "~$27,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 590,
+      "est": [
+        "cargo"
+      ]
     },
     "Skoda|Octavia|2015|110 TSI Ambition": {
       "engine": "1.4L I4 Turbo TSI EA211",
@@ -112,7 +137,12 @@
       "acceleration": 9.5,
       "topSpeed": 206,
       "price": "~$31,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 590,
+      "est": [
+        "cargo"
+      ]
     },
     "Skoda|Octavia|2015|RS 230": {
       "engine": "2.0L I4 Turbo TSI EA888",
@@ -131,7 +161,12 @@
       "acceleration": 6.8,
       "topSpeed": 248,
       "price": "~$44,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.0 sec",
+      "cargo": 590,
+      "est": [
+        "cargo"
+      ]
     },
     "Skoda|Octavia|2015|RS 245": {
       "engine": "2.0L I4 Turbo TSI EA888 gen3",
@@ -150,7 +185,12 @@
       "acceleration": 6.4,
       "topSpeed": 250,
       "price": "~$48,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.7 sec",
+      "cargo": 590,
+      "est": [
+        "cargo"
+      ]
     },
     "Dodge|Challenger|2015|SRT Hellcat": {
       "engine": "6.2L V8 SC Supercharged Hellcat",
@@ -169,7 +209,12 @@
       "acceleration": 3.7,
       "topSpeed": 325,
       "price": "~$89,990",
-      "aspiration": "IHI Twin-Screw Supercharged"
+      "aspiration": "IHI Twin-Screw Supercharged",
+      "quarterMile": "~11.9 sec",
+      "cargo": 459,
+      "est": [
+        "cargo"
+      ]
     },
     "Dodge|Charger|2015|Hellcat": {
       "engine": "6.2L V8 SC Supercharged Hellcat",
@@ -188,7 +233,12 @@
       "acceleration": 3.7,
       "topSpeed": 328,
       "price": "~$84,990",
-      "aspiration": "IHI Twin-Screw Supercharged"
+      "aspiration": "IHI Twin-Screw Supercharged",
+      "quarterMile": "~11.9 sec",
+      "cargo": 465,
+      "est": [
+        "cargo"
+      ]
     },
     "Dodge|Charger|2015|SRT Hellcat": {
       "engine": "6.2L V8 SC Supercharged Hellcat",
@@ -207,7 +257,12 @@
       "acceleration": 3.7,
       "topSpeed": 328,
       "price": "~$89,990",
-      "aspiration": "IHI Twin-Screw Supercharged"
+      "aspiration": "IHI Twin-Screw Supercharged",
+      "quarterMile": "~11.9 sec",
+      "cargo": 465,
+      "est": [
+        "cargo"
+      ]
     },
     "Dodge|Charger|2015|Scat Pack": {
       "engine": "6.4L V8 NA SRT 392 Apache",
@@ -226,7 +281,12 @@
       "acceleration": 4.4,
       "topSpeed": 280,
       "price": "~$69,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.7 sec",
+      "cargo": 465,
+      "est": [
+        "cargo"
+      ]
     },
     "Chevrolet|Colorado|2015|LT": {
       "engine": "3.6L V6 NA LGX",
@@ -245,7 +305,8 @@
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$42,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec"
     },
     "Chevrolet|Colorado|2015|WT": {
       "engine": "2.5L I4 NA LCV Ecotec",
@@ -264,7 +325,8 @@
       "acceleration": 9.5,
       "topSpeed": 175,
       "price": "~$31,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec"
     },
     "Chevrolet|Colorado|2015|Z71": {
       "engine": "3.6L V6 NA LGX",
@@ -283,7 +345,8 @@
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$46,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec"
     },
     "Chevrolet|Colorado|2015|ZR2": {
       "engine": "2.8L I4 Turbo Diesel LWN Duramax",
@@ -302,7 +365,8 @@
       "acceleration": 10.8,
       "topSpeed": 175,
       "price": "~$59,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~18.0 sec"
     }
   }
 }

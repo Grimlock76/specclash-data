@@ -1,9 +1,9 @@
 {
   "specs": {
     "Hyundai|Palisade|2024|Elite": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 205,
+      "acceleration": 8.2,
+      "cargo": 509,
       "seats": 7,
       "transmission": "8-speed automatic",
       "towing": 2200,
@@ -20,12 +20,16 @@
       "fx": 10.7,
       "weight": 1911,
       "price": "$66,800",
-      "accelClaimed": false
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Hyundai|Palisade|2024|Elite Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 195,
+      "acceleration": 9.2,
+      "cargo": 509,
       "seats": 7,
       "transmission": "8-speed automatic",
       "towing": 2200,
@@ -40,14 +44,19 @@
       "fc": 9.2,
       "fh": 6.2,
       "fx": 7.3,
-      "weight": null,
+      "weight": 2070,
       "price": "$70,800",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Hyundai|Palisade|2024|Calligraphy": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 205,
+      "acceleration": 8.4,
+      "cargo": 509,
       "seats": 7,
       "transmission": "8-speed automatic",
       "towing": 2200,
@@ -64,12 +73,16 @@
       "fx": 10.7,
       "weight": 1984,
       "price": "$75,900",
-      "accelClaimed": false
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Hyundai|Palisade|2024|Calligraphy Black Ink": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 205,
+      "acceleration": 8.4,
+      "cargo": 509,
       "seats": 7,
       "transmission": "8-speed automatic",
       "towing": 2200,
@@ -86,12 +99,16 @@
       "fx": 10.7,
       "weight": 1984,
       "price": "$76,900",
-      "accelClaimed": false
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Hyundai|Palisade|2024|Calligraphy Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 195,
+      "acceleration": 9.2,
+      "cargo": 509,
       "seats": 7,
       "transmission": "8-speed automatic",
       "towing": 2200,
@@ -108,12 +125,16 @@
       "fx": 7.3,
       "weight": 2070,
       "price": "$79,219",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Hyundai|Palisade|2024|Calligraphy Black Ink Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 195,
+      "acceleration": 9.2,
+      "cargo": 509,
       "seats": 7,
       "transmission": "8-speed automatic",
       "towing": 2200,
@@ -130,12 +151,16 @@
       "fx": 7.3,
       "weight": 2070,
       "price": "$79,988",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Hyundai|Palisade|2025|Elite": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 205,
+      "acceleration": 8.2,
+      "cargo": 509,
       "seats": 7,
       "transmission": "8-speed automatic",
       "towing": 2200,
@@ -152,12 +177,16 @@
       "fx": 10.7,
       "weight": 1911,
       "price": "$66,800",
-      "accelClaimed": false
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Hyundai|Palisade|2025|Elite Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 200,
+      "acceleration": 8.9,
+      "cargo": 509,
       "seats": 7,
       "transmission": "8-speed automatic",
       "towing": 2200,
@@ -172,14 +201,19 @@
       "fc": 9.2,
       "fh": 6.2,
       "fx": 7.3,
-      "weight": null,
+      "weight": 1985,
       "price": "$70,800",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.8 sec"
     },
     "Hyundai|Palisade|2025|Calligraphy": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 205,
+      "acceleration": 8.4,
+      "cargo": 509,
       "seats": 7,
       "transmission": "8-speed automatic",
       "towing": 2200,
@@ -196,12 +230,16 @@
       "fx": 10.7,
       "weight": 1984,
       "price": "$75,900",
-      "accelClaimed": false
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Hyundai|Palisade|2025|Calligraphy Black Ink": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 205,
+      "acceleration": 8.4,
+      "cargo": 509,
       "seats": 7,
       "transmission": "8-speed automatic",
       "towing": 2200,
@@ -218,12 +256,16 @@
       "fx": 10.7,
       "weight": 1984,
       "price": "$78,400",
-      "accelClaimed": false
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Hyundai|Palisade|2025|Calligraphy Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 195,
+      "acceleration": 9.2,
+      "cargo": 509,
       "seats": 7,
       "transmission": "8-speed automatic",
       "towing": 2200,
@@ -240,12 +282,16 @@
       "fx": 7.3,
       "weight": 2070,
       "price": "$79,219",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Hyundai|Palisade|2025|Calligraphy Black Ink Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 200,
+      "acceleration": 8.9,
+      "cargo": 509,
       "seats": 7,
       "transmission": "8-speed automatic",
       "towing": 2200,
@@ -260,9 +306,14 @@
       "fc": 9.2,
       "fh": 6.2,
       "fx": 7.3,
-      "weight": null,
+      "weight": 1985,
       "price": "$81,719",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.8 sec"
     }
   }
 }

@@ -6,8 +6,8 @@
       "transmission": "6-speed automatic",
       "seats": 5,
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.3,
+      "topSpeed": 165,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Turbo Diesel",
@@ -22,7 +22,10 @@
       "weight": 2182,
       "payload": 1008,
       "price": "$50,880",
-      "accelClaimed": false
+      "quarterMile": "~19.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2024|P703 XL Bi-Turbo": {
       "fuelType": "diesel",
@@ -31,7 +34,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 10.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -46,7 +49,11 @@
       "weight": 2204,
       "payload": 1046,
       "price": "$54,380",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2024|P703 XLS": {
       "fuelType": "diesel",
@@ -55,7 +62,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 10.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -70,7 +77,11 @@
       "weight": 2247,
       "payload": 983,
       "price": "$55,430",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2024|P703 Black Edition": {
       "fuelType": "diesel",
@@ -79,7 +90,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 10.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -94,7 +105,11 @@
       "weight": 2256,
       "payload": 994,
       "price": "$56,680",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2024|P703 XLT": {
       "fuelType": "diesel",
@@ -103,7 +118,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 10.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -118,7 +133,11 @@
       "weight": 2250,
       "payload": 980,
       "price": "$63,390",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2024|P703 XLT V6": {
       "fuelType": "diesel",
@@ -126,8 +145,8 @@
       "transmission": "10-speed automatic",
       "seats": 5,
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.1,
+      "topSpeed": 190,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "3.0L V6 Turbo Diesel",
@@ -142,7 +161,10 @@
       "weight": 2306,
       "payload": 974,
       "price": "$67,590",
-      "accelClaimed": false
+      "quarterMile": "~17.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2024|P703 Sport": {
       "fuelType": "diesel",
@@ -151,7 +173,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 10.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -166,7 +188,11 @@
       "weight": 2267,
       "payload": 963,
       "price": "$65,890",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2024|P703 Sport V6": {
       "fuelType": "diesel",
@@ -174,8 +200,8 @@
       "transmission": "10-speed automatic",
       "seats": 5,
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.2,
+      "topSpeed": 190,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "3.0L V6 Turbo Diesel",
@@ -190,7 +216,10 @@
       "weight": 2322,
       "payload": 958,
       "price": "$70,090",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2024|P703 Wildtrak": {
       "fuelType": "diesel",
@@ -199,7 +228,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 10.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -214,7 +243,11 @@
       "weight": 2329,
       "payload": 901,
       "price": "$69,390",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2024|P703 Wildtrak V6": {
       "fuelType": "diesel",
@@ -222,8 +255,8 @@
       "transmission": "10-speed automatic",
       "seats": 5,
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.4,
+      "topSpeed": 190,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "3.0L V6 Turbo Diesel",
@@ -238,7 +271,10 @@
       "weight": 2384,
       "payload": 966,
       "price": "$73,590",
-      "accelClaimed": false
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2024|P703 Tremor": {
       "fuelType": "diesel",
@@ -247,7 +283,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 10.5,
-      "topSpeed": null,
+      "topSpeed": 175,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -263,7 +299,11 @@
       "weight": 2419,
       "payload": 901,
       "price": "$69,690",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2024|P703 Wildtrak X": {
       "fuelType": "diesel",
@@ -272,7 +312,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 10.5,
-      "topSpeed": null,
+      "topSpeed": 175,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -288,7 +328,11 @@
       "weight": 2432,
       "payload": 918,
       "price": "$75,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2024|P703 Platinum": {
       "fuelType": "diesel",
@@ -296,8 +340,8 @@
       "transmission": "10-speed automatic",
       "seats": 5,
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.4,
+      "topSpeed": 190,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "3.0L V6 Turbo Diesel",
@@ -312,7 +356,10 @@
       "weight": 2388,
       "payload": 912,
       "price": "$79,390",
-      "accelClaimed": false
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2024|P703 Raptor": {
       "fuelType": "petrol",
@@ -321,7 +368,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 6,
-      "topSpeed": null,
+      "topSpeed": 225,
       "towing": 2500,
       "fuelTank": 80,
       "engine": "3.0L V6 Twin-Turbo Petrol (EcoBoost)",
@@ -337,7 +384,11 @@
       "payload": 655,
       "groundClearance": 272,
       "price": "$89,190",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2025|P703 XL": {
       "fuelType": "diesel",
@@ -345,8 +396,8 @@
       "transmission": "6-speed automatic",
       "seats": 5,
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.1,
+      "topSpeed": 165,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Turbo Diesel",
@@ -361,7 +412,10 @@
       "weight": 2232,
       "payload": 1018,
       "price": "$51,130",
-      "accelClaimed": false
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2025|P703 XL Bi-Turbo": {
       "fuelType": "diesel",
@@ -370,7 +424,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 10.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -385,7 +439,11 @@
       "weight": 2360,
       "payload": 890,
       "price": "$54,630",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2025|P703 XLS": {
       "fuelType": "diesel",
@@ -394,7 +452,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 10.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -409,7 +467,11 @@
       "weight": 2247,
       "payload": 983,
       "price": "$57,880",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2025|P703 Black Edition": {
       "fuelType": "diesel",
@@ -418,7 +480,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 10.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -433,7 +495,11 @@
       "weight": 2256,
       "payload": 994,
       "price": "$57,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2025|P703 XLT": {
       "fuelType": "diesel",
@@ -442,7 +508,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 10.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -458,7 +524,11 @@
       "payload": 870,
       "groundClearance": 234,
       "price": "$63,890",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2025|P703 XLT V6": {
       "fuelType": "diesel",
@@ -466,8 +536,8 @@
       "transmission": "10-speed automatic",
       "seats": 5,
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.3,
+      "topSpeed": 190,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "3.0L V6 Turbo Diesel",
@@ -482,7 +552,10 @@
       "weight": 2416,
       "payload": 864,
       "price": "$69,090",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2025|P703 Sport": {
       "fuelType": "diesel",
@@ -491,7 +564,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 10.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -506,7 +579,11 @@
       "weight": 2296,
       "payload": 934,
       "price": "$66,390",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2025|P703 Sport V6": {
       "fuelType": "diesel",
@@ -514,8 +591,8 @@
       "transmission": "10-speed automatic",
       "seats": 5,
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.1,
+      "topSpeed": 190,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "3.0L V6 Turbo Diesel",
@@ -530,7 +607,10 @@
       "weight": 2353,
       "payload": 927,
       "price": "$71,590",
-      "accelClaimed": false
+      "quarterMile": "~17.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2025|P703 Wildtrak": {
       "fuelType": "diesel",
@@ -539,7 +619,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 10.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -555,7 +635,11 @@
       "payload": 920,
       "groundClearance": 234,
       "price": "$69,890",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2025|P703 Wildtrak V6": {
       "fuelType": "diesel",
@@ -563,8 +647,8 @@
       "transmission": "10-speed automatic",
       "seats": 5,
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.3,
+      "topSpeed": 190,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "3.0L V6 Turbo Diesel",
@@ -579,7 +663,10 @@
       "weight": 2416,
       "payload": 934,
       "price": "$75,090",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2025|P703 Wildtrak X": {
       "fuelType": "diesel",
@@ -588,7 +675,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 10.5,
-      "topSpeed": null,
+      "topSpeed": 175,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -604,7 +691,11 @@
       "payload": 919,
       "groundClearance": 261,
       "price": "$77,640",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2025|P703 Platinum": {
       "fuelType": "diesel",
@@ -612,8 +703,8 @@
       "transmission": "10-speed automatic",
       "seats": 5,
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.3,
+      "topSpeed": 190,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "3.0L V6 Turbo Diesel",
@@ -628,7 +719,10 @@
       "weight": 2416,
       "payload": 934,
       "price": "$80,890",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2025|P703 Raptor": {
       "fuelType": "petrol",
@@ -637,7 +731,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 6,
-      "topSpeed": null,
+      "topSpeed": 225,
       "towing": 2500,
       "fuelTank": 80,
       "engine": "3.0L V6 Twin-Turbo Petrol (EcoBoost)",
@@ -653,7 +747,11 @@
       "payload": 620,
       "groundClearance": 272,
       "price": "$90,690",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2025|P703 PHEV XLT": {
       "fuelType": "plug-in hybrid",
@@ -662,7 +760,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 9.2,
-      "topSpeed": null,
+      "topSpeed": 190,
       "towing": 3500,
       "fuelTank": 70,
       "engine": "2.3L I4 Turbo PHEV",
@@ -672,14 +770,20 @@
       "power": 207,
       "torque": 697,
       "battery": "11.8 kWh",
-      "fc": null,
-      "fh": null,
+      "fc": 3.3,
+      "fh": 2.4,
       "fx": 2.9,
       "range": 49,
       "weight": 2670,
       "payload": 830,
       "price": "$71,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Ranger|2025|P703 PHEV Sport": {
       "fuelType": "plug-in hybrid",
@@ -688,7 +792,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 9.2,
-      "topSpeed": null,
+      "topSpeed": 190,
       "towing": 3500,
       "fuelTank": 70,
       "engine": "2.3L I4 Turbo PHEV",
@@ -698,14 +802,20 @@
       "power": 207,
       "torque": 697,
       "battery": "11.8 kWh",
-      "fc": null,
-      "fh": null,
+      "fc": 3.3,
+      "fh": 2.4,
       "fx": 2.9,
       "range": 49,
       "weight": 2685,
       "payload": 815,
       "price": "$75,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Ranger|2025|P703 PHEV Wildtrak": {
       "fuelType": "plug-in hybrid",
@@ -714,7 +824,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 9.2,
-      "topSpeed": null,
+      "topSpeed": 190,
       "towing": 3500,
       "fuelTank": 70,
       "engine": "2.3L I4 Turbo PHEV",
@@ -724,14 +834,20 @@
       "power": 207,
       "torque": 697,
       "battery": "11.8 kWh",
-      "fc": null,
-      "fh": null,
+      "fc": 3.3,
+      "fh": 2.4,
       "fx": 2.9,
       "range": 49,
       "weight": 2695,
       "payload": 805,
       "price": "$79,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Ranger|2025|P703 PHEV Stormtrak": {
       "fuelType": "plug-in hybrid",
@@ -740,7 +856,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 9.2,
-      "topSpeed": null,
+      "topSpeed": 190,
       "towing": 3500,
       "fuelTank": 70,
       "engine": "2.3L I4 Turbo PHEV",
@@ -750,14 +866,20 @@
       "power": 207,
       "torque": 697,
       "battery": "11.8 kWh",
-      "fc": null,
-      "fh": null,
+      "fc": 3.3,
+      "fh": 2.4,
       "fx": 2.9,
       "range": 49,
       "weight": 2695,
       "payload": 805,
       "price": "$86,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Ranger|2026|P703 XL": {
       "fuelType": "diesel",
@@ -765,8 +887,8 @@
       "transmission": "10-speed automatic",
       "seats": 5,
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.7,
+      "topSpeed": 165,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Turbo Diesel",
@@ -775,12 +897,19 @@
       "aspiration": "Turbo",
       "power": 125,
       "torque": 405,
-      "fc": null,
-      "fh": null,
-      "fx": null,
-      "weight": null,
+      "fc": 9.3,
+      "fh": 5.3,
+      "fx": 7.5,
+      "weight": 2295,
       "price": "$54,630",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~19.2 sec"
     },
     "Ford|Ranger|2026|P703 XLS": {
       "fuelType": "diesel",
@@ -789,7 +918,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 10.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -805,7 +934,11 @@
       "price": "$57,880",
       "payload": 983,
       "groundClearance": 234,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2026|P703 XLT": {
       "fuelType": "diesel",
@@ -814,7 +947,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 10.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -826,9 +959,14 @@
       "fc": 7.7,
       "fh": 6.9,
       "fx": 7.2,
-      "weight": null,
+      "weight": 2295,
       "price": "$63,890",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.9 sec"
     },
     "Ford|Ranger|2026|P703 XLT V6": {
       "fuelType": "diesel",
@@ -836,8 +974,8 @@
       "transmission": "10-speed automatic",
       "seats": 5,
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.1,
+      "topSpeed": 190,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "3.0L V6 Turbo Diesel",
@@ -853,7 +991,10 @@
       "price": "$67,990",
       "payload": 1005,
       "groundClearance": 234,
-      "accelClaimed": false
+      "quarterMile": "~17.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2026|P703 Sport": {
       "fuelType": "diesel",
@@ -862,7 +1003,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 10.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -878,7 +1019,11 @@
       "price": "$66,390",
       "payload": 934,
       "groundClearance": 234,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2026|P703 Wildtrak": {
       "fuelType": "diesel",
@@ -887,7 +1032,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 10.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -901,7 +1046,11 @@
       "fx": 7.2,
       "weight": 2360,
       "price": "$69,890",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2026|P703 Wildtrak V6": {
       "fuelType": "diesel",
@@ -909,8 +1058,8 @@
       "transmission": "10-speed automatic",
       "seats": 5,
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.4,
+      "topSpeed": 190,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "3.0L V6 Turbo Diesel",
@@ -926,7 +1075,10 @@
       "price": "$75,090",
       "payload": 923,
       "groundClearance": 234,
-      "accelClaimed": false
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2026|P703 Wolftrak": {
       "fuelType": "diesel",
@@ -934,8 +1086,8 @@
       "transmission": "10-speed automatic",
       "seats": 5,
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.1,
+      "topSpeed": 190,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "3.0L V6 Turbo Diesel",
@@ -951,7 +1103,10 @@
       "price": "$70,990",
       "payload": 1005,
       "groundClearance": 234,
-      "accelClaimed": false
+      "quarterMile": "~17.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2026|P703 Black Edition V6": {
       "fuelType": "diesel",
@@ -959,8 +1114,8 @@
       "transmission": "10-speed automatic",
       "seats": 5,
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.8,
+      "topSpeed": 195,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "3.0L V6 Turbo Diesel",
@@ -974,7 +1129,10 @@
       "fx": 8.3,
       "weight": 2254,
       "price": "$59,990",
-      "accelClaimed": false
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2026|P703 Tremor": {
       "fuelType": "diesel",
@@ -982,8 +1140,8 @@
       "transmission": "10-speed automatic",
       "seats": 5,
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.3,
+      "topSpeed": 190,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "3.0L V6 Turbo Diesel",
@@ -999,7 +1157,10 @@
       "price": "$75,090",
       "payload": 935,
       "groundClearance": 261,
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2026|P703 Platinum": {
       "fuelType": "diesel",
@@ -1007,8 +1168,8 @@
       "transmission": "10-speed automatic",
       "seats": 5,
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.3,
+      "topSpeed": 190,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "3.0L V6 Turbo Diesel",
@@ -1022,7 +1183,10 @@
       "fx": 8.4,
       "weight": 2416,
       "price": "$80,890",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2026|P703 Raptor": {
       "fuelType": "petrol",
@@ -1031,7 +1195,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 5.8,
-      "topSpeed": null,
+      "topSpeed": 225,
       "towing": 2500,
       "fuelTank": 80,
       "engine": "3.0L V6 Twin-Turbo Petrol (EcoBoost)",
@@ -1046,7 +1210,11 @@
       "weight": 2510,
       "price": "$90,690",
       "groundClearance": 272,
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Ranger|2026|P703 PHEV XLT": {
       "fuelType": "plug-in hybrid",
@@ -1055,7 +1223,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 9.2,
-      "topSpeed": null,
+      "topSpeed": 190,
       "towing": 3500,
       "fuelTank": 70,
       "engine": "2.3L I4 Turbo PHEV",
@@ -1065,15 +1233,21 @@
       "power": 207,
       "torque": 697,
       "battery": "11.8 kWh",
-      "fc": null,
-      "fh": null,
+      "fc": 3.3,
+      "fh": 2.4,
       "fx": 2.9,
       "range": 49,
       "weight": 2670,
       "price": "$71,990",
       "payload": 830,
       "groundClearance": 215,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Ranger|2026|P703 PHEV Wildtrak": {
       "fuelType": "plug-in hybrid",
@@ -1082,7 +1256,7 @@
       "seats": 5,
       "cargo": null,
       "acceleration": 9.2,
-      "topSpeed": null,
+      "topSpeed": 190,
       "towing": 3500,
       "fuelTank": 70,
       "engine": "2.3L I4 Turbo PHEV",
@@ -1092,18 +1266,24 @@
       "power": 207,
       "torque": 697,
       "battery": "11.8 kWh",
-      "fc": null,
-      "fh": null,
+      "fc": 3.5,
+      "fh": 2.6,
       "fx": 3.1,
       "range": 50,
       "weight": 2695,
       "price": "$72,000",
       "payload": 805,
       "groundClearance": 226,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Golf|2025|110TSI Life": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.5,
       "cargo": 374,
       "seats": 5,
@@ -1122,10 +1302,14 @@
       "weight": 1319,
       "fuelTank": 50,
       "price": "$38,690",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Golf|2025|110TSI Style": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.5,
       "cargo": 374,
       "seats": 5,
@@ -1144,10 +1328,14 @@
       "weight": 1319,
       "fuelTank": 50,
       "price": "$43,690",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Golf|2025|110TSI R-Line": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.5,
       "cargo": 374,
       "seats": 5,
@@ -1166,10 +1354,14 @@
       "weight": 1319,
       "fuelTank": 50,
       "price": "$47,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Golf|2025|GTI": {
-      "topSpeed": null,
+      "topSpeed": 255,
       "acceleration": 5.9,
       "cargo": 374,
       "seats": 5,
@@ -1188,10 +1380,14 @@
       "weight": 1435,
       "fuelTank": 50,
       "price": "$58,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Golf|2025|R": {
-      "topSpeed": null,
+      "topSpeed": 270,
       "acceleration": 4.6,
       "cargo": 374,
       "seats": 5,
@@ -1210,10 +1406,14 @@
       "weight": 1527,
       "fuelTank": 50,
       "price": "$70,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Golf|2025|R Black Edition": {
-      "topSpeed": null,
+      "topSpeed": 270,
       "acceleration": 4.6,
       "cargo": 374,
       "seats": 5,
@@ -1232,14 +1432,18 @@
       "weight": 1527,
       "fuelTank": 50,
       "price": "$72,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Golf|2026|110TSI Life": {
       "seats": 5,
       "cargo": 374,
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.5,
-      "weight": null,
+      "weight": 1320,
       "engine": "1.4L I4 Turbo Petrol",
       "displacement": 1395,
       "cylinders": 4,
@@ -1254,12 +1458,17 @@
       "fx": 6.3,
       "fuelTank": 50,
       "price": "$39,290",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.5 sec"
     },
     "Volkswagen|Golf|2026|110TSI Style": {
       "seats": 5,
       "cargo": 374,
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.5,
       "weight": 1319,
       "engine": "1.4L I4 Turbo Petrol",
@@ -1276,12 +1485,16 @@
       "fx": 6.3,
       "fuelTank": 50,
       "price": "$44,350",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Golf|2026|110TSI R-Line": {
       "seats": 5,
       "cargo": 374,
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.5,
       "weight": 1319,
       "engine": "1.4L I4 Turbo Petrol",
@@ -1298,12 +1511,16 @@
       "fx": 6.3,
       "fuelTank": 50,
       "price": "$48,690",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Golf|2026|GTI": {
       "seats": 5,
-      "cargo": null,
-      "topSpeed": null,
+      "cargo": 374,
+      "topSpeed": 255,
       "acceleration": 5.9,
       "weight": 1435,
       "engine": "2.0L I4 Turbo Petrol",
@@ -1319,12 +1536,17 @@
       "fh": 5.9,
       "fx": 7.2,
       "price": "$59,890",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Volkswagen|Golf|2026|R": {
       "seats": 5,
-      "cargo": null,
-      "topSpeed": null,
+      "cargo": 374,
+      "topSpeed": 270,
       "acceleration": 4.6,
       "weight": 1527,
       "engine": "2.0L I4 Turbo Petrol",
@@ -1340,17 +1562,22 @@
       "fh": 7,
       "fx": 8.3,
       "price": "$71,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Volkswagen|Tiguan|2024|110TSI Life": {
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 9.2,
-      "cargo": null,
+      "cargo": 615,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1610,
       "engine": "1.4L I4 Turbo Petrol",
       "displacement": 1395,
       "power": 110,
@@ -1362,17 +1589,23 @@
       "fx": 7.7,
       "towing": 1800,
       "price": "$43,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Volkswagen|Tiguan|2024|132TSI Life": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 210,
+      "acceleration": 8.3,
+      "cargo": 615,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1755,
       "transmission": "7-speed dual-clutch",
       "drivetrain": "AWD",
       "towing": 2000,
@@ -1384,17 +1617,22 @@
       "fh": 7.1,
       "fx": 8.8,
       "price": "$47,990",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.3 sec"
     },
     "Volkswagen|Tiguan|2024|132TSI Life Allspace": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.2,
-      "cargo": null,
+      "cargo": 615,
       "seats": 7,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1755,
       "transmission": "7-speed dual-clutch",
       "drivetrain": "AWD",
       "towing": 2000,
@@ -1406,17 +1644,23 @@
       "fh": 7.3,
       "fx": 8.9,
       "price": "$47,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Volkswagen|Tiguan|2024|162TSI Elegance": {
-      "topSpeed": null,
+      "topSpeed": 220,
       "acceleration": 6.5,
-      "cargo": null,
+      "cargo": 615,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1745,
       "transmission": "7-speed dual-clutch",
       "drivetrain": "AWD",
       "towing": 2500,
@@ -1428,17 +1672,23 @@
       "fh": 7.4,
       "fx": 8.5,
       "price": "$57,090",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~14.8 sec"
     },
     "Volkswagen|Tiguan|2024|162TSI R-Line": {
-      "topSpeed": null,
+      "topSpeed": 220,
       "acceleration": 6.5,
-      "cargo": null,
+      "cargo": 615,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1745,
       "transmission": "7-speed dual-clutch",
       "drivetrain": "AWD",
       "towing": 2500,
@@ -1450,17 +1700,23 @@
       "fh": 7.4,
       "fx": 8.5,
       "price": "$60,590",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~14.8 sec"
     },
     "Volkswagen|Tiguan|2024|162TSI R-Line Allspace": {
-      "topSpeed": null,
+      "topSpeed": 220,
       "acceleration": 6.8,
-      "cargo": null,
+      "cargo": 615,
       "seats": 7,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1745,
       "transmission": "7-speed dual-clutch",
       "drivetrain": "AWD",
       "towing": 2500,
@@ -1472,17 +1728,23 @@
       "fh": 7.5,
       "fx": 8.6,
       "price": "$60,590",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~15.0 sec"
     },
     "Volkswagen|Tiguan|2024|R": {
-      "topSpeed": null,
+      "topSpeed": 255,
       "acceleration": 5.1,
-      "cargo": null,
+      "cargo": 615,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1755,
       "transmission": "7-speed dual-clutch",
       "drivetrain": "AWD",
       "towing": 2000,
@@ -1494,12 +1756,18 @@
       "fh": 7.5,
       "fx": 8.8,
       "price": "$73,790",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.4 sec"
     },
     "Volkswagen|Tiguan|2024|195TSI R-Line (CT)": {
-      "topSpeed": null,
+      "topSpeed": 235,
       "acceleration": 5.9,
-      "cargo": null,
+      "cargo": 615,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -1516,10 +1784,15 @@
       "fh": 7.4,
       "fx": 8.5,
       "price": "$70,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Volkswagen|Tiguan|2025|110TSI Life": {
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 9.2,
       "cargo": 652,
       "seats": 5,
@@ -1539,10 +1812,14 @@
       "towing": 1800,
       "fuelTank": 55,
       "price": "$44,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Tiguan|2025|110TSI Elegance": {
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 9.2,
       "cargo": 652,
       "seats": 5,
@@ -1562,12 +1839,16 @@
       "towing": 1800,
       "fuelTank": 55,
       "price": "$50,690",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Tiguan|2025|150TSI R-Line": {
-      "topSpeed": null,
+      "topSpeed": 215,
       "acceleration": 7.1,
-      "cargo": null,
+      "cargo": 615,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -1584,12 +1865,17 @@
       "weight": 1723,
       "towing": 2300,
       "price": "$55,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.3 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Volkswagen|Tiguan|2025|150TSI Elegance": {
-      "topSpeed": null,
+      "topSpeed": 215,
       "acceleration": 7.1,
-      "cargo": null,
+      "cargo": 615,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -1606,12 +1892,17 @@
       "weight": 1723,
       "towing": 2300,
       "price": "$60,690",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.3 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Volkswagen|Tiguan|2025|150TSI eHybrid Elegance": {
-      "topSpeed": null,
+      "topSpeed": 215,
       "acceleration": 8.2,
-      "cargo": null,
+      "cargo": 615,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -1619,22 +1910,32 @@
       "transmission": "6-speed dual-clutch",
       "engine": "1.5L I4 Turbo PHEV",
       "displacement": 1498,
-      "torque": null,
+      "torque": 295,
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "battery": "19.7 kWh",
       "power": 150,
       "fx": 1.6,
       "range": 117,
       "towing": 1800,
       "price": "$64,590",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1725,
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Volkswagen|Tiguan|2025|195TSI R-Line": {
-      "topSpeed": null,
+      "topSpeed": 235,
       "acceleration": 5.9,
-      "cargo": null,
+      "cargo": 615,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -1651,12 +1952,17 @@
       "weight": 1754,
       "towing": 2300,
       "price": "$70,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Volkswagen|Tiguan|2025|200TSI eHybrid R-Line": {
-      "topSpeed": null,
+      "topSpeed": 240,
       "acceleration": 7.2,
-      "cargo": null,
+      "cargo": 615,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -1666,22 +1972,31 @@
       "displacement": 1498,
       "torque": 400,
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.9,
+      "fh": 1.5,
       "battery": "19.7 kWh",
       "power": 200,
       "fx": 1.7,
       "range": 113,
       "towing": 2000,
       "price": "$74,550",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1725,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~15.4 sec"
     },
     "Volkswagen|Tiguan|2026|110TSI Life": {
       "seats": 5,
       "cargo": 652,
-      "topSpeed": null,
+      "topSpeed": 195,
       "acceleration": 9.2,
-      "weight": null,
+      "weight": 1725,
       "engine": "1.4L I4 Turbo Petrol",
       "displacement": 1395,
       "cylinders": 4,
@@ -1697,12 +2012,17 @@
       "towing": 1800,
       "fuelTank": 55,
       "price": "$45,650",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Volkswagen|Tiguan|2026|110TSI Elegance": {
       "seats": 5,
       "cargo": 652,
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 9.2,
       "weight": 1559,
       "engine": "1.4L I4 Turbo Petrol",
@@ -1720,12 +2040,16 @@
       "towing": 1800,
       "fuelTank": 55,
       "price": "$51,450",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Tiguan|2026|150TSI R-Line": {
       "seats": 5,
-      "cargo": null,
-      "topSpeed": null,
+      "cargo": 652,
+      "topSpeed": 215,
       "acceleration": 7.1,
       "weight": 1723,
       "engine": "2.0L I4 Turbo Petrol",
@@ -1742,12 +2066,17 @@
       "fx": 7.6,
       "towing": 2300,
       "price": "$56,850",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.3 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Volkswagen|Tiguan|2026|150TSI Elegance": {
       "seats": 5,
-      "cargo": null,
-      "topSpeed": null,
+      "cargo": 652,
+      "topSpeed": 215,
       "acceleration": 7.1,
       "weight": 1723,
       "engine": "2.0L I4 Turbo Petrol",
@@ -1764,22 +2093,27 @@
       "fx": 7.6,
       "towing": 2300,
       "price": "$61,590",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.3 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Volkswagen|Tiguan|2026|150TSI eHybrid Elegance": {
       "seats": 5,
-      "cargo": null,
-      "topSpeed": null,
+      "cargo": 652,
+      "topSpeed": 215,
       "acceleration": 8.2,
-      "weight": null,
+      "weight": 1725,
       "engine": "1.5L I4 Turbo PHEV",
       "displacement": 1498,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "plug-in hybrid",
-      "fc": null,
-      "fh": null,
-      "torque": null,
+      "fc": 1.8,
+      "fh": 1.4,
+      "torque": 295,
       "transmission": "6-speed DSG",
       "power": 150,
       "drivetrain": "FWD",
@@ -1788,12 +2122,21 @@
       "range": 117,
       "towing": 1800,
       "price": "$64,590",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Volkswagen|Tiguan|2026|195TSI R-Line": {
       "seats": 5,
-      "cargo": null,
-      "topSpeed": null,
+      "cargo": 652,
+      "topSpeed": 235,
       "acceleration": 5.9,
       "weight": 1754,
       "engine": "2.0L I4 Turbo Petrol",
@@ -1810,21 +2153,26 @@
       "fx": 8.5,
       "towing": 2300,
       "price": "$71,550",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Volkswagen|Tiguan|2026|200TSI eHybrid R-Line": {
       "seats": 5,
-      "cargo": null,
-      "topSpeed": null,
+      "cargo": 652,
+      "topSpeed": 240,
       "acceleration": 7.2,
-      "weight": null,
+      "weight": 1725,
       "engine": "1.5L I4 Turbo PHEV",
       "displacement": 1498,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "plug-in hybrid",
-      "fc": null,
-      "fh": null,
+      "fc": 1.9,
+      "fh": 1.5,
       "torque": 400,
       "transmission": "6-speed DSG",
       "power": 200,
@@ -1834,11 +2182,19 @@
       "range": 113,
       "towing": 2000,
       "price": "$74,550",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~15.4 sec"
     },
     "Volkswagen|Tayron|2026|110TSI Life": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.8,
       "cargo": 345,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -1857,10 +2213,13 @@
       "towing": 1800,
       "fuelTank": 55,
       "price": "$48,950",
-      "accelClaimed": false
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Tayron|2026|150TSI Life": {
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 7.4,
       "cargo": 345,
       "cylinders": 4,
@@ -1879,10 +2238,16 @@
       "fuelTank": 58,
       "seats": 5,
       "price": "$54,790",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1830,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Volkswagen|Tayron|2026|150TSI Elegance": {
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 7.4,
       "cargo": 345,
       "cylinders": 4,
@@ -1902,7 +2267,11 @@
       "weight": 1828,
       "seats": 7,
       "price": "$60,390",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Tayron|2026|150TSI eHybrid Elegance": {
       "topSpeed": 210,
@@ -1914,10 +2283,10 @@
       "transmission": "6-speed dual-clutch",
       "engine": "1.5L I4 Turbo PHEV",
       "displacement": 1498,
-      "torque": null,
+      "torque": 295,
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.9,
+      "fh": 1.5,
       "battery": "19.7 kWh",
       "seats": 5,
       "power": 150,
@@ -1925,10 +2294,18 @@
       "range": 116,
       "towing": 1800,
       "price": "$62,390",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1830,
+      "est": [
+        "weight",
+        "torque",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~16.6 sec"
     },
     "Volkswagen|Tayron|2026|195TSI R-Line": {
-      "topSpeed": null,
+      "topSpeed": 230,
       "acceleration": 6.1,
       "cargo": 345,
       "cylinders": 4,
@@ -1948,7 +2325,11 @@
       "weight": 1844,
       "seats": 7,
       "price": "$74,550",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Tayron|2026|200TSI eHybrid R-Line": {
       "topSpeed": 215,
@@ -1962,8 +2343,8 @@
       "displacement": 1498,
       "torque": 400,
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "battery": "19.7 kWh",
       "seats": 5,
       "power": 200,
@@ -1971,10 +2352,17 @@
       "range": 113,
       "towing": 2000,
       "price": "$76,550",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1830,
+      "est": [
+        "weight",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Volkswagen|Touareg|2024|170TDI": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8,
       "cargo": 810,
       "engine": "3.0L V6 Turbo Diesel",
@@ -1992,12 +2380,17 @@
       "fc": 9.8,
       "fh": 6.4,
       "fx": 7.6,
-      "weight": null,
+      "weight": 2170,
       "price": "$86,790",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.1 sec"
     },
     "Volkswagen|Touareg|2024|210TDI Elegance": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 6,
       "cargo": 810,
       "engine": "3.0L V6 Turbo Diesel",
@@ -2017,10 +2410,15 @@
       "fx": 7.7,
       "price": "$99,990",
       "accelClaimed": true,
-      "weight": null
+      "weight": 2310,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.3 sec"
     },
     "Volkswagen|Touareg|2024|210TDI R-Line": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 6,
       "cargo": 810,
       "engine": "3.0L V6 Turbo Diesel",
@@ -2035,17 +2433,24 @@
       "fuelTank": 90,
       "power": 210,
       "torque": 600,
-      "fc": null,
-      "fh": null,
+      "fc": 9.2,
+      "fh": 5.2,
       "fx": 7.4,
       "price": "$109,990",
       "accelClaimed": true,
-      "weight": null
+      "weight": 2310,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~14.3 sec"
     },
     "Volkswagen|Touareg|2024|R eHybrid": {
-      "topSpeed": null,
+      "topSpeed": 255,
       "acceleration": 5.1,
-      "cargo": null,
+      "cargo": 810,
       "engine": "3.0L V6 Turbo PHEV",
       "displacement": 2995,
       "cylinders": 6,
@@ -2058,17 +2463,25 @@
       "fuelTank": null,
       "power": 340,
       "torque": 700,
-      "fc": null,
-      "fh": null,
+      "fc": 3.8,
+      "fh": 2.7,
       "fx": 3.3,
       "battery": "17.9 kWh",
       "range": 51,
-      "weight": null,
+      "weight": 2290,
       "price": "$129,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~13.4 sec"
     },
     "Volkswagen|Touareg|2025|170TDI": {
-      "topSpeed": null,
+      "topSpeed": 205,
       "acceleration": 8,
       "cargo": 810,
       "engine": "3.0L V6 Turbo Diesel",
@@ -2088,10 +2501,14 @@
       "fx": 7.6,
       "weight": 2224,
       "price": "$89,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Touareg|2025|210TDI Elegance": {
-      "topSpeed": null,
+      "topSpeed": 215,
       "acceleration": 6,
       "cargo": 810,
       "engine": "3.0L V6 Turbo Diesel",
@@ -2111,10 +2528,15 @@
       "fx": 7.7,
       "price": "$103,490",
       "accelClaimed": true,
-      "weight": null
+      "weight": 2310,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.3 sec"
     },
     "Volkswagen|Touareg|2025|210TDI R-Line": {
-      "topSpeed": null,
+      "topSpeed": 215,
       "acceleration": 6,
       "cargo": 810,
       "engine": "3.0L V6 Turbo Diesel",
@@ -2129,15 +2551,21 @@
       "fuelTank": 90,
       "power": 210,
       "torque": 600,
-      "fc": null,
-      "fh": null,
+      "fc": 9.2,
+      "fh": 5.2,
       "fx": 7.4,
       "price": "$113,490",
       "accelClaimed": true,
-      "weight": 2309
+      "weight": 2309,
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Touareg|2025|210TDI Wolfsburg Edition": {
-      "topSpeed": null,
+      "topSpeed": 215,
       "acceleration": 6,
       "cargo": 810,
       "engine": "3.0L V6 Turbo Diesel",
@@ -2152,17 +2580,23 @@
       "fuelTank": 90,
       "power": 210,
       "torque": 600,
-      "fc": null,
-      "fh": null,
+      "fc": 9.2,
+      "fh": 5.2,
       "fx": 7.4,
       "price": "$124,990",
       "accelClaimed": true,
-      "weight": 2309
+      "weight": 2309,
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Touareg|2025|R eHybrid": {
-      "topSpeed": null,
+      "topSpeed": 250,
       "acceleration": 5.1,
-      "cargo": null,
+      "cargo": 810,
       "engine": "3.0L V6 Turbo PHEV",
       "displacement": 2995,
       "cylinders": 6,
@@ -2175,17 +2609,24 @@
       "fuelTank": null,
       "power": 340,
       "torque": 700,
-      "fc": null,
-      "fh": null,
+      "fc": 3.8,
+      "fh": 2.7,
       "fx": 3.3,
       "battery": "17.9 kWh",
       "range": 51,
       "weight": 2463,
       "price": "$133,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.4 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Volkswagen|Touareg|2026|170TDI": {
-      "topSpeed": null,
+      "topSpeed": 205,
       "acceleration": 8,
       "cargo": 810,
       "engine": "3.0L V6 Turbo Diesel",
@@ -2205,10 +2646,14 @@
       "fx": 7.6,
       "weight": 2224,
       "price": "$89,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Touareg|2026|210TDI Elegance": {
-      "topSpeed": null,
+      "topSpeed": 220,
       "acceleration": 6,
       "cargo": 810,
       "engine": "3.0L V6 Turbo Diesel",
@@ -2227,12 +2672,18 @@
       "fh": 6.6,
       "fx": 7.7,
       "price": "$103,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2310,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.3 sec"
     },
     "Volkswagen|Touareg|2026|R eHybrid": {
-      "topSpeed": null,
+      "topSpeed": 255,
       "acceleration": 5.1,
-      "cargo": null,
+      "cargo": 810,
       "engine": "3.0L V6 Turbo PHEV",
       "displacement": 2995,
       "cylinders": 6,
@@ -2245,14 +2696,21 @@
       "fuelTank": null,
       "power": 340,
       "torque": 700,
-      "fc": null,
-      "fh": null,
+      "fc": 6.5,
+      "fh": 4.7,
       "fx": 5.7,
       "battery": "17.9 kWh",
       "range": 46,
       "weight": 2463,
       "price": "$133,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.4 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Volkswagen|T-Roc|2024|CityLife": {
       "cylinders": 4,
@@ -2261,7 +2719,7 @@
       "seats": 5,
       "cargo": 445,
       "fuelTank": 50,
-      "topSpeed": null,
+      "topSpeed": 200,
       "engine": "1.4L I4 Turbo Petrol",
       "displacement": 1395,
       "power": 110,
@@ -2272,9 +2730,14 @@
       "fh": 5.4,
       "fx": 6.3,
       "acceleration": 8.7,
-      "weight": null,
+      "weight": 1370,
       "price": "$36,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Volkswagen|T-Roc|2024|110TSI Style": {
       "cylinders": 4,
@@ -2283,7 +2746,7 @@
       "seats": 5,
       "cargo": 445,
       "fuelTank": 50,
-      "topSpeed": null,
+      "topSpeed": 200,
       "engine": "1.4L I4 Turbo Petrol",
       "displacement": 1395,
       "power": 110,
@@ -2294,9 +2757,14 @@
       "fh": 5.4,
       "fx": 6.3,
       "acceleration": 8.7,
-      "weight": null,
+      "weight": 1370,
       "price": "$40,590",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Volkswagen|T-Roc|2024|140TSI R-Line": {
       "cylinders": 4,
@@ -2305,7 +2773,7 @@
       "seats": 5,
       "cargo": 445,
       "fuelTank": 50,
-      "topSpeed": null,
+      "topSpeed": 220,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
       "power": 140,
@@ -2317,8 +2785,13 @@
       "fx": 7.2,
       "acceleration": 7.2,
       "accelClaimed": true,
-      "weight": null,
-      "price": "$47,990"
+      "weight": 1370,
+      "price": "$47,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.4 sec"
     },
     "Volkswagen|T-Roc|2024|R": {
       "cylinders": 4,
@@ -2327,7 +2800,7 @@
       "seats": 5,
       "cargo": 445,
       "fuelTank": 50,
-      "topSpeed": null,
+      "topSpeed": 250,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
       "power": 221,
@@ -2339,8 +2812,13 @@
       "fx": 8.3,
       "acceleration": 4.9,
       "accelClaimed": true,
-      "weight": null,
-      "price": "$63,490"
+      "weight": 1595,
+      "price": "$63,490",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.2 sec"
     },
     "Volkswagen|T-Roc|2025|CityLife": {
       "cylinders": 4,
@@ -2349,7 +2827,7 @@
       "seats": 5,
       "cargo": 445,
       "fuelTank": 50,
-      "topSpeed": null,
+      "topSpeed": 190,
       "engine": "1.4L I4 Turbo Petrol",
       "displacement": 1395,
       "power": 110,
@@ -2360,9 +2838,14 @@
       "fh": 5.4,
       "fx": 6.3,
       "acceleration": 8.7,
-      "weight": null,
+      "weight": 1595,
       "price": "$38,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Volkswagen|T-Roc|2025|110TSI Style": {
       "cylinders": 4,
@@ -2371,7 +2854,7 @@
       "seats": 5,
       "cargo": 445,
       "fuelTank": 50,
-      "topSpeed": null,
+      "topSpeed": 200,
       "engine": "1.4L I4 Turbo Petrol",
       "displacement": 1395,
       "power": 110,
@@ -2384,7 +2867,11 @@
       "acceleration": 8.7,
       "weight": 1370,
       "price": "$41,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|T-Roc|2025|140TSI R-Line": {
       "cylinders": 4,
@@ -2393,7 +2880,7 @@
       "seats": 5,
       "cargo": 445,
       "fuelTank": 50,
-      "topSpeed": null,
+      "topSpeed": 210,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
       "power": 140,
@@ -2405,8 +2892,13 @@
       "fx": 7.2,
       "acceleration": 7.2,
       "accelClaimed": true,
-      "weight": null,
-      "price": "$49,990"
+      "weight": 1595,
+      "price": "$49,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.4 sec"
     },
     "Volkswagen|T-Roc|2025|R": {
       "cylinders": 4,
@@ -2415,7 +2907,7 @@
       "seats": 5,
       "cargo": 445,
       "fuelTank": 50,
-      "topSpeed": null,
+      "topSpeed": 250,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
       "power": 221,
@@ -2428,7 +2920,11 @@
       "acceleration": 4.9,
       "accelClaimed": true,
       "weight": 1593,
-      "price": "$64,290"
+      "price": "$64,290",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|T-Roc|2025|R Wolfsburg Edition": {
       "cylinders": 4,
@@ -2437,7 +2933,7 @@
       "seats": 5,
       "cargo": 445,
       "fuelTank": 50,
-      "topSpeed": null,
+      "topSpeed": 250,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
       "power": 221,
@@ -2450,7 +2946,11 @@
       "acceleration": 4.9,
       "accelClaimed": true,
       "weight": 1593,
-      "price": "$69,290"
+      "price": "$69,290",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|T-Roc|2026|CityLife": {
       "cylinders": 4,
@@ -2459,7 +2959,7 @@
       "seats": 5,
       "cargo": 445,
       "fuelTank": 50,
-      "topSpeed": null,
+      "topSpeed": 190,
       "engine": "1.4L I4 Turbo Petrol",
       "displacement": 1395,
       "power": 110,
@@ -2470,9 +2970,14 @@
       "fh": 5.4,
       "fx": 6.3,
       "acceleration": 8.7,
-      "weight": null,
+      "weight": 1595,
       "price": "$38,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Volkswagen|T-Roc|2026|110TSI Style": {
       "cylinders": 4,
@@ -2481,7 +2986,7 @@
       "seats": 5,
       "cargo": 445,
       "fuelTank": 50,
-      "topSpeed": null,
+      "topSpeed": 190,
       "engine": "1.4L I4 Turbo Petrol",
       "displacement": 1395,
       "power": 110,
@@ -2492,9 +2997,14 @@
       "fh": 5.4,
       "fx": 6.3,
       "acceleration": 8.7,
-      "weight": null,
+      "weight": 1595,
       "price": "$41,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Volkswagen|T-Roc|2026|140TSI R-Line": {
       "cylinders": 4,
@@ -2503,7 +3013,7 @@
       "seats": 5,
       "cargo": 445,
       "fuelTank": 50,
-      "topSpeed": null,
+      "topSpeed": 210,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
       "power": 140,
@@ -2515,13 +3025,18 @@
       "fx": 7.2,
       "acceleration": 7.2,
       "accelClaimed": true,
-      "weight": null,
-      "price": "$49,990"
+      "weight": 1595,
+      "price": "$49,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.4 sec"
     },
     "Volkswagen|Amarok|2024|TDI405 Core": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 170,
+      "acceleration": 11.7,
+      "cargo": 1090,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "diesel",
@@ -2541,12 +3056,16 @@
       "payload": 967,
       "groundClearance": 220,
       "price": "$52,990",
-      "accelClaimed": false
+      "quarterMile": "~18.6 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Volkswagen|Amarok|2024|TDI500 Life": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 180,
+      "acceleration": 9.8,
+      "cargo": 1090,
       "cylinders": 4,
       "aspiration": "Twin-Turbo",
       "fuelType": "diesel",
@@ -2566,12 +3085,16 @@
       "payload": 913,
       "groundClearance": 235,
       "price": "$56,990",
-      "accelClaimed": false
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Volkswagen|Amarok|2024|TDI500 Style": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 180,
+      "acceleration": 9.9,
+      "cargo": 1090,
       "cylinders": 4,
       "aspiration": "Twin-Turbo",
       "fuelType": "diesel",
@@ -2591,12 +3114,16 @@
       "payload": 935,
       "groundClearance": 233,
       "price": "$66,990",
-      "accelClaimed": false
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Volkswagen|Amarok|2024|TDI600 Style": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 185,
+      "acceleration": 8.6,
+      "cargo": 1090,
       "cylinders": 6,
       "aspiration": "Turbo",
       "fuelType": "diesel",
@@ -2614,13 +3141,17 @@
       "fx": 8.4,
       "groundClearance": 233,
       "price": "$70,990",
-      "accelClaimed": false,
-      "weight": 2378
+      "weight": 2378,
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Volkswagen|Amarok|2024|TSI452 Aventura": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 205,
+      "acceleration": 7.3,
+      "cargo": 1090,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
@@ -2637,13 +3168,17 @@
       "fh": 8.2,
       "fx": 9.7,
       "price": "$79,990",
-      "accelClaimed": false,
-      "weight": 2280
+      "weight": 2280,
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Volkswagen|Amarok|2024|TDI600 PanAmericana": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 185,
+      "acceleration": 8.6,
+      "cargo": 1090,
       "cylinders": 6,
       "aspiration": "Turbo",
       "fuelType": "diesel",
@@ -2660,13 +3195,17 @@
       "fh": 7.5,
       "fx": 8.4,
       "price": "$75,990",
-      "accelClaimed": false,
-      "weight": 2378
+      "weight": 2378,
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Volkswagen|Amarok|2024|TDI600 Aventura": {
-      "topSpeed": null,
+      "topSpeed": 185,
       "acceleration": 8.6,
-      "cargo": null,
+      "cargo": 1090,
       "cylinders": 6,
       "aspiration": "Turbo",
       "fuelType": "diesel",
@@ -2684,11 +3223,16 @@
       "fx": 8.4,
       "price": "$79,990",
       "accelClaimed": false,
-      "weight": 2391
+      "weight": 2391,
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Volkswagen|Amarok|2025|TDI405 Core": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 11.7,
       "cargo": null,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -2709,11 +3253,14 @@
       "payload": 967,
       "groundClearance": 220,
       "price": "$55,490",
-      "accelClaimed": false
+      "quarterMile": "~18.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Amarok|2025|TDI500 Life": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 9.8,
       "cargo": null,
       "cylinders": 4,
       "aspiration": "Twin-Turbo",
@@ -2734,11 +3281,14 @@
       "payload": 913,
       "groundClearance": 235,
       "price": "$59,490",
-      "accelClaimed": false
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Amarok|2025|TDI500 Style": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 9.9,
       "cargo": null,
       "cylinders": 4,
       "aspiration": "Twin-Turbo",
@@ -2759,11 +3309,14 @@
       "payload": 935,
       "groundClearance": 233,
       "price": "$69,740",
-      "accelClaimed": false
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Amarok|2025|TDI500 10 Deserts Edition": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 10.1,
       "cargo": null,
       "cylinders": 4,
       "aspiration": "Twin-Turbo",
@@ -2784,11 +3337,14 @@
       "payload": 935,
       "groundClearance": 233,
       "price": "$68,490",
-      "accelClaimed": false
+      "quarterMile": "~17.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Amarok|2025|TDI600 Style": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.6,
       "cargo": null,
       "cylinders": 6,
       "aspiration": "Turbo",
@@ -2807,12 +3363,15 @@
       "fx": 8.4,
       "groundClearance": 233,
       "price": "$73,740",
-      "accelClaimed": false,
-      "weight": 2393
+      "weight": 2393,
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Amarok|2025|TSI452 Aventura": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 205,
+      "acceleration": 7.3,
       "cargo": null,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -2830,12 +3389,15 @@
       "fh": 8.2,
       "fx": 9.7,
       "price": "$82,990",
-      "accelClaimed": false,
-      "weight": 2293
+      "weight": 2293,
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Amarok|2025|TDI600 PanAmericana": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.6,
       "cargo": null,
       "cylinders": 6,
       "aspiration": "Turbo",
@@ -2853,11 +3415,14 @@
       "fh": 7.5,
       "fx": 8.4,
       "price": "$78,990",
-      "accelClaimed": false,
-      "weight": 2394
+      "weight": 2394,
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Amarok|2025|TDI600 Aventura": {
-      "topSpeed": null,
+      "topSpeed": 185,
       "acceleration": 8.6,
       "cargo": null,
       "cylinders": 6,
@@ -2877,11 +3442,15 @@
       "fx": 8.4,
       "price": "$82,990",
       "accelClaimed": false,
-      "weight": 2406
+      "weight": 2406,
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Amarok|2026|TDI405 Core": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 165,
+      "acceleration": 11.7,
       "cargo": null,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -2902,11 +3471,14 @@
       "payload": 967,
       "groundClearance": 220,
       "price": "$55,490",
-      "accelClaimed": false
+      "quarterMile": "~18.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Amarok|2026|TDI500 Life": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 9.8,
       "cargo": null,
       "cylinders": 4,
       "aspiration": "Twin-Turbo",
@@ -2927,11 +3499,14 @@
       "payload": 913,
       "groundClearance": 235,
       "price": "$59,490",
-      "accelClaimed": false
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Amarok|2026|TDI500 Style": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 9.9,
       "cargo": null,
       "cylinders": 4,
       "aspiration": "Twin-Turbo",
@@ -2952,11 +3527,14 @@
       "payload": 935,
       "groundClearance": 233,
       "price": "$69,740",
-      "accelClaimed": false
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Amarok|2026|TSI452 Style": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 200,
+      "acceleration": 7.6,
       "cargo": null,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -2975,11 +3553,16 @@
       "fx": 9.7,
       "groundClearance": 233,
       "price": "$73,740",
-      "accelClaimed": false
+      "weight": 2395,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.7 sec"
     },
     "Volkswagen|Amarok|2026|TSI452 Aventura": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 205,
+      "acceleration": 7.3,
       "cargo": null,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -2997,12 +3580,15 @@
       "fh": 8.2,
       "fx": 9.7,
       "price": "$79,990",
-      "accelClaimed": false,
-      "weight": 2293
+      "weight": 2293,
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Amarok|2026|TDI600 Style": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.6,
       "cargo": null,
       "cylinders": 6,
       "aspiration": "Turbo",
@@ -3021,11 +3607,16 @@
       "fx": 8.4,
       "groundClearance": 233,
       "price": "$73,740",
-      "accelClaimed": false
+      "weight": 2395,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.6 sec"
     },
     "Volkswagen|Amarok|2026|TDI600 Dark Label": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.6,
       "cargo": null,
       "cylinders": 6,
       "aspiration": "Turbo",
@@ -3043,11 +3634,16 @@
       "fh": 7.5,
       "fx": 8.4,
       "price": "$77,990",
-      "accelClaimed": false
+      "weight": 2395,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.6 sec"
     },
     "Volkswagen|Amarok|2026|TDI600 PanAmericana": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.6,
       "cargo": null,
       "cylinders": 6,
       "aspiration": "Turbo",
@@ -3065,11 +3661,14 @@
       "fh": 7.5,
       "fx": 8.4,
       "price": "$78,990",
-      "accelClaimed": false,
-      "weight": 2394
+      "weight": 2394,
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Amarok|2026|TDI600 Aventura": {
-      "topSpeed": null,
+      "topSpeed": 185,
       "acceleration": 8.6,
       "cargo": null,
       "cylinders": 6,
@@ -3089,11 +3688,15 @@
       "fx": 8.4,
       "price": "$82,990",
       "accelClaimed": false,
-      "weight": 2406
+      "weight": 2406,
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Amarok|2026|TDI600 W600": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.6,
       "cargo": null,
       "cylinders": 6,
       "aspiration": "Turbo",
@@ -3112,7 +3715,12 @@
       "fx": 8.4,
       "groundClearance": 232,
       "price": "$91,900",
-      "accelClaimed": false
+      "weight": 2395,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.6 sec"
     },
     "Nissan|Navara|2024|SL Manual": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3124,7 +3732,7 @@
       "torque": 450,
       "drivetrain": "4WD",
       "acceleration": 10.8,
-      "topSpeed": null,
+      "topSpeed": 170,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3136,7 +3744,11 @@
       "weight": 2024,
       "payload": 1126,
       "price": "$48,228",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Navara|2024|SL": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3147,8 +3759,8 @@
       "power": 140,
       "torque": 450,
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.3,
+      "topSpeed": 170,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3160,7 +3772,10 @@
       "weight": 2033,
       "payload": 1117,
       "price": "$50,728",
-      "accelClaimed": false
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Navara|2024|ST Manual": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3172,7 +3787,7 @@
       "torque": 450,
       "drivetrain": "4WD",
       "acceleration": 10.8,
-      "topSpeed": null,
+      "topSpeed": 165,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3184,7 +3799,11 @@
       "weight": 2053,
       "payload": 1097,
       "price": "$53,333",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Navara|2024|ST": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3195,8 +3814,8 @@
       "power": 140,
       "torque": 450,
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.5,
+      "topSpeed": 165,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3208,7 +3827,10 @@
       "weight": 2062,
       "payload": 1088,
       "price": "$55,833",
-      "accelClaimed": false
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Navara|2024|ST-X Manual": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3220,7 +3842,7 @@
       "torque": 450,
       "drivetrain": "4WD",
       "acceleration": 10.8,
-      "topSpeed": null,
+      "topSpeed": 165,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3232,7 +3854,11 @@
       "weight": 2134,
       "payload": 1016,
       "price": "$56,823",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Navara|2024|ST-X": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3243,8 +3869,8 @@
       "power": 140,
       "torque": 450,
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.8,
+      "topSpeed": 165,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3256,7 +3882,10 @@
       "weight": 2142,
       "payload": 1008,
       "price": "$59,323",
-      "accelClaimed": false
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Navara|2024|Black Edition": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3267,8 +3896,8 @@
       "power": 140,
       "torque": 450,
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.5,
+      "topSpeed": 165,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3280,7 +3909,10 @@
       "weight": 2062,
       "payload": 1088,
       "price": "$60,833",
-      "accelClaimed": false
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Navara|2024|PRO-4X Manual": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3292,7 +3924,7 @@
       "torque": 450,
       "drivetrain": "4WD",
       "acceleration": 10.8,
-      "topSpeed": null,
+      "topSpeed": 165,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3304,7 +3936,11 @@
       "weight": 2137,
       "payload": 1013,
       "price": "$59,783",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Navara|2024|PRO-4X": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3315,8 +3951,8 @@
       "power": 140,
       "torque": 450,
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.9,
+      "topSpeed": 165,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3328,7 +3964,10 @@
       "weight": 2146,
       "payload": 1004,
       "price": "$62,283",
-      "accelClaimed": false
+      "quarterMile": "~18.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Navara|2024|PRO-4X Warrior Manual": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3340,7 +3979,7 @@
       "torque": 450,
       "drivetrain": "4WD",
       "acceleration": 10.8,
-      "topSpeed": null,
+      "topSpeed": 160,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3353,7 +3992,11 @@
       "payload": 961,
       "groundClearance": 260,
       "price": "$69,143",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Navara|2024|PRO-4X Warrior": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3364,8 +4007,8 @@
       "power": 140,
       "torque": 450,
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.6,
+      "topSpeed": 160,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3378,7 +4021,10 @@
       "payload": 952,
       "groundClearance": 260,
       "price": "$71,643",
-      "accelClaimed": false
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Navara|2025|SL Manual": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3390,7 +4036,7 @@
       "torque": 450,
       "drivetrain": "4WD",
       "acceleration": 10.8,
-      "topSpeed": null,
+      "topSpeed": 170,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3402,7 +4048,11 @@
       "weight": 2024,
       "payload": 1126,
       "price": "$48,228",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Navara|2025|SL": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3413,8 +4063,8 @@
       "power": 140,
       "torque": 450,
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.3,
+      "topSpeed": 170,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3426,7 +4076,10 @@
       "weight": 2026,
       "payload": 1124,
       "price": "$50,728",
-      "accelClaimed": false
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Navara|2025|ST Manual": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3438,7 +4091,7 @@
       "torque": 450,
       "drivetrain": "4WD",
       "acceleration": 10.8,
-      "topSpeed": null,
+      "topSpeed": 165,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3450,7 +4103,11 @@
       "weight": 2053,
       "payload": 1097,
       "price": "$53,333",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Navara|2025|ST": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3461,8 +4118,8 @@
       "power": 140,
       "torque": 450,
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.4,
+      "topSpeed": 170,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3474,7 +4131,10 @@
       "weight": 2038,
       "payload": 1112,
       "price": "$55,833",
-      "accelClaimed": false
+      "quarterMile": "~17.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Navara|2025|ST-X Manual": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3486,7 +4146,7 @@
       "torque": 450,
       "drivetrain": "4WD",
       "acceleration": 10.8,
-      "topSpeed": null,
+      "topSpeed": 165,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3498,7 +4158,11 @@
       "weight": 2134,
       "payload": 1016,
       "price": "$56,823",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Navara|2025|ST-X": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3509,8 +4173,8 @@
       "power": 140,
       "torque": 450,
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.8,
+      "topSpeed": 165,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3522,7 +4186,10 @@
       "weight": 2142,
       "payload": 1008,
       "price": "$59,323",
-      "accelClaimed": false
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Navara|2025|PRO-4X Manual": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3534,7 +4201,7 @@
       "torque": 450,
       "drivetrain": "4WD",
       "acceleration": 10.8,
-      "topSpeed": null,
+      "topSpeed": 165,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3546,7 +4213,11 @@
       "weight": 2137,
       "payload": 1013,
       "price": "$59,783",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Navara|2025|PRO-4X": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3557,8 +4228,8 @@
       "power": 140,
       "torque": 450,
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.9,
+      "topSpeed": 165,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3570,7 +4241,10 @@
       "weight": 2146,
       "payload": 1004,
       "price": "$62,283",
-      "accelClaimed": false
+      "quarterMile": "~18.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Navara|2025|PRO-4X Warrior Manual": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3582,7 +4256,7 @@
       "torque": 450,
       "drivetrain": "4WD",
       "acceleration": 10.8,
-      "topSpeed": null,
+      "topSpeed": 160,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3595,7 +4269,11 @@
       "payload": 961,
       "groundClearance": 260,
       "price": "$69,143",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Navara|2025|PRO-4X Warrior": {
       "engine": "2.3L I4 Twin-Turbo Diesel (YS23DDTT)",
@@ -3606,8 +4284,8 @@
       "power": 140,
       "torque": 450,
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.6,
+      "topSpeed": 160,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -3620,12 +4298,15 @@
       "payload": 952,
       "groundClearance": 260,
       "price": "$71,643",
-      "accelClaimed": false
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|X-Trail|2024|ST": {
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 7.2,
+      "topSpeed": 180,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -3643,12 +4324,15 @@
       "fx": 7.4,
       "weight": 1540,
       "price": "$37,750",
-      "accelClaimed": false
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|X-Trail|2024|ST-L": {
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 7.4,
+      "topSpeed": 180,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -3666,12 +4350,15 @@
       "fx": 7.4,
       "weight": 1578,
       "price": "$44,190",
-      "accelClaimed": false
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|X-Trail|2024|N-TREK": {
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 7.4,
+      "topSpeed": 180,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -3689,12 +4376,15 @@
       "fx": 7.4,
       "weight": 1578,
       "price": "$47,790",
-      "accelClaimed": false
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|X-Trail|2024|Ti 4WD": {
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 7.3,
+      "topSpeed": 175,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -3712,12 +4402,15 @@
       "fx": 7.8,
       "weight": 1668,
       "price": "$50,990",
-      "accelClaimed": false
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|X-Trail|2024|Ti-L 4WD": {
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 7.3,
+      "topSpeed": 175,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -3735,18 +4428,21 @@
       "fx": 7.8,
       "weight": 1672,
       "price": "$53,990",
-      "accelClaimed": false
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|X-Trail|2024|ST-L e-POWER": {
       "cargo": null,
       "acceleration": 7,
-      "topSpeed": null,
+      "topSpeed": 170,
       "engine": "1.5L I3 Turbo e-POWER (series hybrid)",
       "displacement": 1497,
       "cylinders": 3,
       "aspiration": "Turbo",
       "power": 157,
-      "torque": null,
+      "torque": 305,
       "transmission": "1-speed automatic",
       "fuelType": "hybrid",
       "drivetrain": "AWD",
@@ -3757,18 +4453,23 @@
       "towing": 1650,
       "weight": 1871,
       "price": "$50,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.2 sec"
     },
     "Nissan|X-Trail|2024|Ti e-POWER": {
       "cargo": null,
       "acceleration": 7,
-      "topSpeed": null,
+      "topSpeed": 170,
       "engine": "1.5L I3 Turbo e-POWER (series hybrid)",
       "displacement": 1497,
       "cylinders": 3,
       "aspiration": "Turbo",
       "power": 157,
-      "torque": null,
+      "torque": 305,
       "transmission": "1-speed automatic",
       "fuelType": "hybrid",
       "drivetrain": "AWD",
@@ -3779,18 +4480,23 @@
       "towing": 1650,
       "weight": 1903,
       "price": "$55,190",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.2 sec"
     },
     "Nissan|X-Trail|2024|Ti-L e-POWER": {
       "cargo": null,
       "acceleration": 7,
-      "topSpeed": null,
+      "topSpeed": 170,
       "engine": "1.5L I3 Turbo e-POWER (series hybrid)",
       "displacement": 1497,
       "cylinders": 3,
       "aspiration": "Turbo",
       "power": 157,
-      "torque": null,
+      "torque": 305,
       "transmission": "1-speed automatic",
       "fuelType": "hybrid",
       "drivetrain": "AWD",
@@ -3801,12 +4507,17 @@
       "towing": 1650,
       "weight": 1911,
       "price": "$58,190",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.2 sec"
     },
     "Nissan|X-Trail|2025|ST": {
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.2,
+      "topSpeed": 180,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -3824,12 +4535,15 @@
       "fx": 7.4,
       "weight": 1539,
       "price": "$36,990",
-      "accelClaimed": false
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|X-Trail|2025|ST-L": {
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.4,
+      "topSpeed": 180,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -3847,12 +4561,15 @@
       "fx": 7.4,
       "weight": 1578,
       "price": "$41,465",
-      "accelClaimed": false
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|X-Trail|2025|N-TREK": {
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.4,
+      "topSpeed": 180,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -3871,12 +4588,15 @@
       "weight": 1578,
       "groundClearance": 205,
       "price": "$46,060",
-      "accelClaimed": false
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|X-Trail|2025|Ti 4WD": {
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.3,
+      "topSpeed": 175,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -3894,18 +4614,21 @@
       "fx": 7.8,
       "weight": 1668,
       "price": "$50,265",
-      "accelClaimed": false
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|X-Trail|2025|ST-L e-POWER": {
       "cargo": null,
       "acceleration": 7,
-      "topSpeed": null,
+      "topSpeed": 170,
       "engine": "1.5L I3 Turbo e-POWER (series hybrid)",
       "displacement": 1497,
       "cylinders": 3,
       "aspiration": "Turbo",
       "power": 157,
-      "torque": null,
+      "torque": 305,
       "transmission": "1-speed automatic",
       "fuelType": "hybrid",
       "drivetrain": "AWD",
@@ -3916,18 +4639,23 @@
       "towing": 1650,
       "weight": 1871,
       "price": "$47,765",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.2 sec"
     },
     "Nissan|X-Trail|2025|Ti-L e-POWER": {
       "cargo": null,
       "acceleration": 7,
-      "topSpeed": null,
+      "topSpeed": 170,
       "engine": "1.5L I3 Turbo e-POWER (series hybrid)",
       "displacement": 1497,
       "cylinders": 3,
       "aspiration": "Turbo",
       "power": 157,
-      "torque": null,
+      "torque": 305,
       "transmission": "1-speed automatic",
       "fuelType": "hybrid",
       "drivetrain": "AWD",
@@ -3938,12 +4666,17 @@
       "towing": 1650,
       "weight": 1912,
       "price": "$57,065",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.2 sec"
     },
     "Nissan|X-Trail|2026|ST": {
       "cargo": 585,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.2,
+      "topSpeed": 180,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -3961,12 +4694,15 @@
       "fx": 7.4,
       "weight": 1535,
       "price": "$38,305",
-      "accelClaimed": false
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|X-Trail|2026|ST-L": {
       "cargo": 585,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.4,
+      "topSpeed": 180,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -3984,12 +4720,15 @@
       "fx": 7.4,
       "weight": 1571,
       "price": "$42,780",
-      "accelClaimed": false
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|X-Trail|2026|Rock Creek": {
       "cargo": 465,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.3,
+      "topSpeed": 175,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -4007,12 +4746,15 @@
       "fx": 7.8,
       "weight": 1672,
       "price": "$48,315",
-      "accelClaimed": false
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|X-Trail|2026|Ti": {
       "cargo": 585,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.3,
+      "topSpeed": 175,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -4030,12 +4772,15 @@
       "fx": 7.8,
       "weight": 1670,
       "price": "$51,580",
-      "accelClaimed": false
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|X-Trail|2026|Ti-L": {
       "cargo": 585,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.4,
+      "topSpeed": 175,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -4053,12 +4798,15 @@
       "fx": 7.8,
       "weight": 1678,
       "price": "$54,580",
-      "accelClaimed": false
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|X-Trail|2026|ST-L e-POWER": {
       "cargo": 575,
       "acceleration": 8,
-      "topSpeed": null,
+      "topSpeed": 170,
       "engine": "1.5L I3 Turbo e-POWER (series hybrid)",
       "displacement": 1497,
       "cylinders": 3,
@@ -4076,12 +4824,16 @@
       "seats": 5,
       "weight": 1752,
       "price": "$45,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|X-Trail|2026|Ti e-POWER": {
       "cargo": 575,
       "acceleration": 8,
-      "topSpeed": null,
+      "topSpeed": 170,
       "engine": "1.5L I3 Turbo e-POWER (series hybrid)",
       "displacement": 1497,
       "cylinders": 3,
@@ -4099,12 +4851,16 @@
       "seats": 5,
       "weight": 1782,
       "price": "$50,915",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|X-Trail|2026|Ti-L e-POWER": {
       "cargo": 575,
       "acceleration": 8,
-      "topSpeed": null,
+      "topSpeed": 170,
       "engine": "1.5L I3 Turbo e-POWER (series hybrid)",
       "displacement": 1497,
       "cylinders": 3,
@@ -4122,15 +4878,19 @@
       "seats": 5,
       "weight": 1787,
       "price": "$54,715",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Qashqai|2024|ST": {
       "seats": 5,
       "cargo": 504,
       "fuelTank": 55,
       "drivetrain": "FWD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 160,
+      "acceleration": 8.4,
       "cylinders": 4,
       "aspiration": "Turbo",
       "engine": "1.3L I4 Turbo Petrol",
@@ -4140,20 +4900,25 @@
       "torque": 250,
       "transmission": "CVT",
       "towing": 1500,
-      "fc": null,
-      "fh": null,
+      "fc": 7.6,
+      "fh": 4.3,
       "fx": 6.1,
       "weight": 1451,
       "price": "$34,665",
-      "accelClaimed": false
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Nissan|Qashqai|2024|ST+": {
       "seats": 5,
       "cargo": 504,
       "fuelTank": 55,
       "drivetrain": "FWD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 160,
+      "acceleration": 8.5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "engine": "1.3L I4 Turbo Petrol",
@@ -4163,20 +4928,25 @@
       "torque": 250,
       "transmission": "CVT",
       "towing": 1500,
-      "fc": null,
-      "fh": null,
+      "fc": 7.6,
+      "fh": 4.3,
       "fx": 6.1,
       "weight": 1472,
       "price": "$38,665",
-      "accelClaimed": false
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Nissan|Qashqai|2024|ST-L": {
       "seats": 5,
       "cargo": 504,
       "fuelTank": 55,
       "drivetrain": "FWD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 160,
+      "acceleration": 8.6,
       "cylinders": 4,
       "aspiration": "Turbo",
       "engine": "1.3L I4 Turbo Petrol",
@@ -4186,20 +4956,25 @@
       "torque": 250,
       "transmission": "CVT",
       "towing": 1500,
-      "fc": null,
-      "fh": null,
+      "fc": 7.6,
+      "fh": 4.3,
       "fx": 6.1,
       "weight": 1482,
       "price": "$42,965",
-      "accelClaimed": false
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Nissan|Qashqai|2024|Ti": {
       "seats": 5,
       "cargo": 504,
       "fuelTank": 55,
       "drivetrain": "FWD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 160,
+      "acceleration": 8.8,
       "cylinders": 4,
       "aspiration": "Turbo",
       "engine": "1.3L I4 Turbo Petrol",
@@ -4209,19 +4984,24 @@
       "torque": 250,
       "transmission": "CVT",
       "towing": 1500,
-      "fc": null,
-      "fh": null,
+      "fc": 7.6,
+      "fh": 4.3,
       "fx": 6.1,
       "weight": 1524,
       "price": "$48,255",
-      "accelClaimed": false
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Nissan|Qashqai|2024|Ti e-POWER": {
       "seats": 5,
       "cargo": 404,
       "fuelTank": 55,
       "drivetrain": "FWD",
-      "topSpeed": null,
+      "topSpeed": 170,
       "acceleration": 7.9,
       "cylinders": 3,
       "aspiration": "Turbo",
@@ -4237,15 +5017,19 @@
       "fx": 5.2,
       "weight": 1729,
       "price": "$52,335",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Qashqai|2025|ST": {
       "seats": 5,
       "cargo": 504,
       "fuelTank": 55,
       "drivetrain": "FWD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 160,
+      "acceleration": 8.5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "engine": "1.3L I4 Turbo Petrol",
@@ -4260,15 +5044,18 @@
       "fx": 6.1,
       "weight": 1454,
       "price": "$34,665",
-      "accelClaimed": false
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Qashqai|2025|ST-L": {
       "seats": 5,
       "cargo": 504,
       "fuelTank": 55,
       "drivetrain": "FWD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 160,
+      "acceleration": 8.6,
       "cylinders": 4,
       "aspiration": "Turbo",
       "engine": "1.3L I4 Turbo Petrol",
@@ -4283,15 +5070,18 @@
       "fx": 6.1,
       "weight": 1474,
       "price": "$38,665",
-      "accelClaimed": false
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Qashqai|2025|Ti": {
       "seats": 5,
       "cargo": 504,
       "fuelTank": 55,
       "drivetrain": "FWD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 160,
+      "acceleration": 8.7,
       "cylinders": 4,
       "aspiration": "Turbo",
       "engine": "1.3L I4 Turbo Petrol",
@@ -4306,15 +5096,18 @@
       "fx": 6.1,
       "weight": 1487,
       "price": "$42,965",
-      "accelClaimed": false
+      "quarterMile": "~16.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Qashqai|2025|Ti-L": {
       "seats": 5,
       "cargo": 504,
       "fuelTank": 55,
       "drivetrain": "FWD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 160,
+      "acceleration": 8.8,
       "cylinders": 4,
       "aspiration": "Turbo",
       "engine": "1.3L I4 Turbo Petrol",
@@ -4329,14 +5122,17 @@
       "fx": 5.8,
       "weight": 1526,
       "price": "$48,165",
-      "accelClaimed": false
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Qashqai|2025|Ti e-POWER": {
       "seats": 5,
       "cargo": 404,
       "fuelTank": 55,
       "drivetrain": "FWD",
-      "topSpeed": null,
+      "topSpeed": 170,
       "acceleration": 7.9,
       "cylinders": 3,
       "aspiration": "Turbo",
@@ -4352,14 +5148,18 @@
       "fx": 4.8,
       "weight": 1707,
       "price": "$47,165",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Qashqai|2025|Ti-L e-POWER": {
       "seats": 5,
       "cargo": 404,
       "fuelTank": 55,
       "drivetrain": "FWD",
-      "topSpeed": null,
+      "topSpeed": 170,
       "acceleration": 7.9,
       "cylinders": 3,
       "aspiration": "Turbo",
@@ -4375,14 +5175,18 @@
       "fx": 4.8,
       "weight": 1717,
       "price": "$52,365",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Qashqai|2025|N-DESIGN e-POWER": {
       "seats": 5,
       "cargo": 404,
       "fuelTank": 55,
       "drivetrain": "FWD",
-      "topSpeed": null,
+      "topSpeed": 170,
       "acceleration": 7.9,
       "cylinders": 3,
       "aspiration": "Turbo",
@@ -4398,7 +5202,11 @@
       "fx": 4.8,
       "weight": 1732,
       "price": "$54,365",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Patrol|2026|Ti": {
       "engine": "5.6L V8 (VK56VD)",
@@ -4413,8 +5221,8 @@
       "fh": 11,
       "fx": 14.4,
       "fuelType": "petrol",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 7.5,
+      "topSpeed": 200,
       "weight": 2786,
       "seats": 8,
       "cargo": null,
@@ -4423,7 +5231,10 @@
       "payload": 714,
       "fuelTank": 140,
       "groundClearance": 272,
-      "accelClaimed": false
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Patrol|2026|Ti-L": {
       "engine": "5.6L V8 (VK56VD)",
@@ -4438,8 +5249,8 @@
       "fh": 11,
       "fx": 14.4,
       "fuelType": "petrol",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 7.6,
+      "topSpeed": 200,
       "weight": 2847,
       "seats": 7,
       "cargo": null,
@@ -4448,7 +5259,10 @@
       "payload": 653,
       "fuelTank": 140,
       "groundClearance": 272,
-      "accelClaimed": false
+      "quarterMile": "~15.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Patrol|2026|Warrior": {
       "engine": "5.6L V8 (VK56VD)",
@@ -4463,8 +5277,8 @@
       "fh": 11,
       "fx": 14.4,
       "fuelType": "petrol",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 7.7,
+      "topSpeed": 200,
       "weight": 2884,
       "seats": 8,
       "cargo": null,
@@ -4473,7 +5287,10 @@
       "payload": 736,
       "fuelTank": 140,
       "groundClearance": 323,
-      "accelClaimed": false
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Patrol|2026|Y63 Ti": {
       "engine": "3.5L V6 Twin-Turbo (VR35DDTT)",
@@ -4484,17 +5301,24 @@
       "transmission": "9-speed automatic",
       "power": 317,
       "torque": 700,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.4,
+      "fh": 10.2,
+      "fx": 14.7,
       "fuelType": "petrol",
-      "acceleration": null,
-      "topSpeed": null,
-      "weight": null,
+      "acceleration": 7.1,
+      "topSpeed": 205,
+      "weight": 2845,
       "seats": 8,
       "cargo": null,
       "price": "$98,990",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.3 sec"
     },
     "Nissan|Patrol|2026|Y63 Ti-L": {
       "engine": "3.5L V6 Twin-Turbo (VR35DDTT)",
@@ -4505,17 +5329,24 @@
       "transmission": "9-speed automatic",
       "power": 317,
       "torque": 700,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.4,
+      "fh": 10.2,
+      "fx": 14.7,
       "fuelType": "petrol",
-      "acceleration": null,
-      "topSpeed": null,
-      "weight": null,
+      "acceleration": 7.1,
+      "topSpeed": 205,
+      "weight": 2845,
       "seats": 8,
       "cargo": null,
       "price": "$122,690",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.3 sec"
     },
     "Nissan|Patrol|2026|Y63 Ti+": {
       "engine": "3.5L V6 Twin-Turbo (VR35DDTT)",
@@ -4526,18 +5357,25 @@
       "transmission": "9-speed automatic",
       "power": 317,
       "torque": 700,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.4,
+      "fh": 10.2,
+      "fx": 14.7,
       "fuelType": "petrol",
-      "acceleration": null,
-      "topSpeed": null,
-      "weight": null,
+      "acceleration": 7.1,
+      "topSpeed": 205,
+      "weight": 2845,
       "seats": 8,
       "cargo": null,
       "price": "$109,480",
       "towing": 3700,
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.3 sec"
     },
     "Nissan|Patrol|2026|Y63 Ti-L+": {
       "engine": "3.5L V6 Twin-Turbo (VR35DDTT)",
@@ -4548,18 +5386,25 @@
       "transmission": "9-speed automatic",
       "power": 317,
       "torque": 700,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.4,
+      "fh": 10.2,
+      "fx": 14.7,
       "fuelType": "petrol",
-      "acceleration": null,
-      "topSpeed": null,
-      "weight": null,
+      "acceleration": 7.1,
+      "topSpeed": 205,
+      "weight": 2845,
       "seats": 8,
       "cargo": null,
       "price": "$134,690",
       "towing": 3700,
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.3 sec"
     },
     "Nissan|Patrol|2026|Y63 PRO-4X": {
       "engine": "3.5L V6 Twin-Turbo (VR35DDTT)",
@@ -4570,18 +5415,25 @@
       "transmission": "9-speed automatic",
       "power": 317,
       "torque": 700,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.4,
+      "fh": 10.2,
+      "fx": 14.7,
       "fuelType": "petrol",
-      "acceleration": null,
-      "topSpeed": null,
-      "weight": null,
+      "acceleration": 7.1,
+      "topSpeed": 205,
+      "weight": 2845,
       "seats": 8,
       "cargo": null,
       "price": "$137,590",
       "towing": 3700,
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.3 sec"
     },
     "Nissan|Patrol|2026|Y63 Ti-L Reserve": {
       "engine": "3.5L V6 Twin-Turbo (VR35DDTT)",
@@ -4592,18 +5444,25 @@
       "transmission": "9-speed automatic",
       "power": 317,
       "torque": 700,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.4,
+      "fh": 10.2,
+      "fx": 14.7,
       "fuelType": "petrol",
-      "acceleration": null,
-      "topSpeed": null,
-      "weight": null,
+      "acceleration": 7.1,
+      "topSpeed": 205,
+      "weight": 2845,
       "seats": 8,
       "cargo": null,
       "price": "$145,990",
       "towing": 3700,
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.3 sec"
     },
     "Mitsubishi|Pajero Sport|2024|GLX": {
       "engine": "2.4L I4 Turbo Diesel",
@@ -4618,16 +5477,20 @@
       "fc": 9.8,
       "fh": 7,
       "fx": 8,
-      "acceleration": null,
-      "topSpeed": null,
-      "cargo": null,
+      "acceleration": 11.1,
+      "topSpeed": 170,
+      "cargo": 505,
       "towing": 3100,
       "fuelTank": 68,
       "weight": 2087,
       "seats": 5,
       "groundClearance": 218,
       "price": "$51,540",
-      "accelClaimed": false
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Mitsubishi|Pajero Sport|2024|GLS": {
       "engine": "2.4L I4 Turbo Diesel",
@@ -4642,15 +5505,19 @@
       "fc": 9.8,
       "fh": 7,
       "fx": 8,
-      "acceleration": null,
-      "topSpeed": null,
-      "cargo": null,
+      "acceleration": 11.3,
+      "topSpeed": 170,
+      "cargo": 505,
       "towing": 3100,
       "fuelTank": 68,
       "weight": 2119,
       "seats": 7,
       "price": "$56,890",
-      "accelClaimed": false
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Mitsubishi|Pajero Sport|2024|Exceed": {
       "engine": "2.4L I4 Turbo Diesel",
@@ -4666,14 +5533,19 @@
       "fh": 7,
       "fx": 8,
       "acceleration": 11.3,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 170,
+      "cargo": 505,
       "towing": 3100,
       "fuelTank": 68,
       "weight": 2125,
       "seats": 7,
       "price": "$62,590",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Mitsubishi|Pajero Sport|2024|GSR": {
       "engine": "2.4L I4 Turbo Diesel",
@@ -4688,15 +5560,19 @@
       "fc": 9.8,
       "fh": 7,
       "fx": 8,
-      "acceleration": null,
-      "topSpeed": null,
-      "cargo": null,
+      "acceleration": 11.2,
+      "topSpeed": 170,
+      "cargo": 505,
       "towing": 3100,
       "fuelTank": 68,
       "weight": 2118,
       "seats": 7,
       "price": "$64,840",
-      "accelClaimed": false
+      "quarterMile": "~18.3 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Mitsubishi|Pajero Sport|2025|GLX": {
       "engine": "2.4L I4 Turbo Diesel",
@@ -4711,16 +5587,20 @@
       "fc": 9.8,
       "fh": 7,
       "fx": 8,
-      "acceleration": null,
-      "topSpeed": null,
-      "cargo": null,
+      "acceleration": 11.1,
+      "topSpeed": 175,
+      "cargo": 505,
       "towing": 3100,
       "fuelTank": 68,
       "weight": 2087,
       "seats": 5,
       "groundClearance": 218,
       "price": "$51,540",
-      "accelClaimed": false
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Mitsubishi|Pajero Sport|2025|GLS": {
       "engine": "2.4L I4 Turbo Diesel",
@@ -4735,15 +5615,19 @@
       "fc": 9.8,
       "fh": 7,
       "fx": 8,
-      "acceleration": null,
-      "topSpeed": null,
-      "cargo": null,
+      "acceleration": 11.3,
+      "topSpeed": 170,
+      "cargo": 505,
       "towing": 3100,
       "fuelTank": 68,
       "weight": 2119,
       "seats": 7,
       "price": "$57,640",
-      "accelClaimed": false
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Mitsubishi|Pajero Sport|2025|Exceed": {
       "engine": "2.4L I4 Turbo Diesel",
@@ -4759,14 +5643,19 @@
       "fh": 7,
       "fx": 8,
       "acceleration": 11.3,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 170,
+      "cargo": 505,
       "towing": 3100,
       "fuelTank": 68,
       "weight": 2125,
       "seats": 7,
       "price": "$63,340",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Mitsubishi|Pajero Sport|2025|GSR": {
       "engine": "2.4L I4 Turbo Diesel",
@@ -4781,15 +5670,19 @@
       "fc": 9.8,
       "fh": 7,
       "fx": 8,
-      "acceleration": null,
-      "topSpeed": null,
-      "cargo": null,
+      "acceleration": 11.3,
+      "topSpeed": 170,
+      "cargo": 505,
       "towing": 3100,
       "fuelTank": 68,
       "weight": 2118,
       "seats": 7,
       "price": "$65,590",
-      "accelClaimed": false
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Mitsubishi|Pajero Sport|2026|GLX": {
       "engine": "2.4L I4 Turbo Diesel",
@@ -4804,8 +5697,8 @@
       "fc": 9.8,
       "fh": 7,
       "fx": 8,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.1,
+      "topSpeed": 170,
       "cargo": null,
       "towing": 3100,
       "fuelTank": 68,
@@ -4813,7 +5706,10 @@
       "seats": 5,
       "groundClearance": 218,
       "price": "$51,540",
-      "accelClaimed": false
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Pajero Sport|2026|GLS": {
       "engine": "2.4L I4 Turbo Diesel",
@@ -4828,15 +5724,18 @@
       "fc": 9.8,
       "fh": 7,
       "fx": 8,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.3,
+      "topSpeed": 170,
       "cargo": null,
       "towing": 3100,
       "fuelTank": 68,
       "weight": 2119,
       "seats": 7,
       "price": "$57,640",
-      "accelClaimed": false
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Pajero Sport|2026|Exceed": {
       "engine": "2.4L I4 Turbo Diesel",
@@ -4852,14 +5751,18 @@
       "fh": 7,
       "fx": 8,
       "acceleration": 11.3,
-      "topSpeed": null,
+      "topSpeed": 170,
       "cargo": null,
       "towing": 3100,
       "fuelTank": 68,
       "weight": 2125,
       "seats": 7,
       "price": "$63,340",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Pajero Sport|2026|GSR": {
       "engine": "2.4L I4 Turbo Diesel",
@@ -4874,15 +5777,18 @@
       "fc": 9.8,
       "fh": 7,
       "fx": 8,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.3,
+      "topSpeed": 170,
       "cargo": null,
       "towing": 3100,
       "fuelTank": 68,
       "weight": 2118,
       "seats": 7,
       "price": "$65,590",
-      "accelClaimed": false
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Triton|2025|GLX": {
       "engine": "2.4L I4 Twin-Turbo Diesel (4N16)",
@@ -4897,8 +5803,8 @@
       "fh": 6.7,
       "fx": 7.7,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.3,
+      "topSpeed": 175,
       "weight": 2111,
       "seats": 5,
       "cargo": null,
@@ -4907,7 +5813,10 @@
       "payload": 1091,
       "fuelTank": 75,
       "groundClearance": 228,
-      "accelClaimed": false
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Triton|2025|GLX+": {
       "engine": "2.4L I4 Twin-Turbo Diesel (4N16)",
@@ -4922,8 +5831,8 @@
       "fh": 6.7,
       "fx": 7.7,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.2,
+      "topSpeed": 175,
       "weight": 2090,
       "seats": 5,
       "cargo": null,
@@ -4931,7 +5840,10 @@
       "towing": 3500,
       "fuelTank": 75,
       "groundClearance": 228,
-      "accelClaimed": false
+      "quarterMile": "~18.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Triton|2025|GLX-R": {
       "engine": "2.4L I4 Twin-Turbo Diesel (4N16)",
@@ -4946,8 +5858,8 @@
       "fh": 6.7,
       "fx": 7.7,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.3,
+      "topSpeed": 175,
       "weight": 2120,
       "seats": 5,
       "cargo": null,
@@ -4956,7 +5868,10 @@
       "payload": 1080,
       "fuelTank": 75,
       "groundClearance": 228,
-      "accelClaimed": false
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Triton|2025|GLS": {
       "engine": "2.4L I4 Twin-Turbo Diesel (4N16)",
@@ -4971,8 +5886,8 @@
       "fh": 6.7,
       "fx": 7.7,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.3,
+      "topSpeed": 175,
       "weight": 2125,
       "seats": 5,
       "cargo": null,
@@ -4981,7 +5896,10 @@
       "payload": 1075,
       "fuelTank": 75,
       "groundClearance": 228,
-      "accelClaimed": false
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Triton|2025|GSR": {
       "engine": "2.4L I4 Twin-Turbo Diesel (4N16)",
@@ -4996,8 +5914,8 @@
       "fh": 6.7,
       "fx": 7.7,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.5,
+      "topSpeed": 175,
       "weight": 2164,
       "seats": 5,
       "cargo": null,
@@ -5006,12 +5924,15 @@
       "payload": 916,
       "fuelTank": 75,
       "groundClearance": 228,
-      "accelClaimed": false
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Outlander|2025|ES 2WD": {
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10,
+      "topSpeed": 190,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -5028,13 +5949,16 @@
       "fx": 7.6,
       "seats": 7,
       "price": "$42,540",
-      "accelClaimed": false,
-      "weight": 1580
+      "weight": 1580,
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Outlander|2025|Aspire 2WD": {
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.5,
+      "topSpeed": 190,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -5052,12 +5976,15 @@
       "weight": 1665,
       "seats": 7,
       "price": "$44,840",
-      "accelClaimed": false
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Outlander|2025|Exceed Tourer AWD": {
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.1,
+      "topSpeed": 185,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -5075,23 +6002,26 @@
       "weight": 1695,
       "seats": 5,
       "price": "$58,740",
-      "accelClaimed": false
+      "quarterMile": "~17.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Outlander|2025|PHEV ES": {
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 6,
+      "topSpeed": 190,
       "engine": "2.4L I4 PHEV (twin motor)",
       "displacement": 2360,
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "power": 185,
-      "torque": null,
+      "torque": 360,
       "transmission": "1-speed automatic",
       "fuelType": "plug-in hybrid",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "battery": "20 kWh",
       "range": 84,
@@ -5099,23 +6029,29 @@
       "weight": 2020,
       "seats": 5,
       "price": "$57,290",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~14.3 sec"
     },
     "Mitsubishi|Outlander|2025|PHEV Exceed Tourer": {
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 6.4,
+      "topSpeed": 185,
       "engine": "2.4L I4 PHEV (twin motor)",
       "displacement": 2360,
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "power": 185,
-      "torque": null,
+      "torque": 360,
       "transmission": "1-speed automatic",
       "fuelType": "plug-in hybrid",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "battery": "20 kWh",
       "range": 84,
@@ -5123,23 +6059,29 @@
       "weight": 2145,
       "seats": 7,
       "price": "$71,790",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~14.7 sec"
     },
     "Mitsubishi|Outlander|2025|PHEV GSR": {
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 6.3,
+      "topSpeed": 185,
       "engine": "2.4L I4 PHEV (twin motor)",
       "displacement": 2360,
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "power": 185,
-      "torque": null,
+      "torque": 360,
       "transmission": "1-speed automatic",
       "fuelType": "plug-in hybrid",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "battery": "20 kWh",
       "range": 84,
@@ -5147,7 +6089,13 @@
       "weight": 2139,
       "seats": 7,
       "price": "$73,790",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~14.6 sec"
     }
   }
 }

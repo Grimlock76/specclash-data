@@ -13,13 +13,18 @@
       "seats": 5,
       "cargo": 385,
       "fuelTank": 40,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 1300,
+      "topSpeed": 175,
+      "acceleration": 11.6,
       "fc": 6,
       "fh": 5,
       "fx": 5.4,
-      "price": "$33,990"
+      "price": "$33,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.5 sec"
     },
     "Volkswagen|T-Cross|2024|85TSI Style": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -34,13 +39,18 @@
       "seats": 5,
       "cargo": 385,
       "fuelTank": 40,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 1300,
+      "topSpeed": 175,
+      "acceleration": 11.6,
       "fc": 6,
       "fh": 5,
       "fx": 5.4,
-      "price": "$37,490"
+      "price": "$37,490",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.5 sec"
     },
     "Volkswagen|T-Cross|2024|85TSI R-Line": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -55,13 +65,18 @@
       "seats": 5,
       "cargo": 385,
       "fuelTank": 40,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 1300,
+      "topSpeed": 175,
+      "acceleration": 11.6,
       "fc": 6,
       "fh": 5,
       "fx": 5.4,
-      "price": "$40,990"
+      "price": "$40,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.5 sec"
     },
     "Volkswagen|T-Cross|2025|85TSI Life": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -76,13 +91,18 @@
       "seats": 5,
       "cargo": 385,
       "fuelTank": 40,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 1300,
+      "topSpeed": 180,
+      "acceleration": 11.6,
       "fc": 6.5,
       "fh": 5,
       "fx": 5.6,
-      "price": "$34,990"
+      "price": "$34,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.5 sec"
     },
     "Volkswagen|T-Cross|2025|85TSI Style": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -97,13 +117,18 @@
       "seats": 5,
       "cargo": 385,
       "fuelTank": 40,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 1300,
+      "topSpeed": 180,
+      "acceleration": 11.6,
       "fc": 6.5,
       "fh": 5,
       "fx": 5.6,
-      "price": "$38,490"
+      "price": "$38,490",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.5 sec"
     },
     "Volkswagen|T-Cross|2025|85TSI R-Line": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -118,13 +143,18 @@
       "seats": 5,
       "cargo": 385,
       "fuelTank": 40,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 1300,
+      "topSpeed": 180,
+      "acceleration": 11.6,
       "fc": 6.5,
       "fh": 5,
       "fx": 5.6,
-      "price": "$41,490"
+      "price": "$41,490",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.5 sec"
     },
     "Volkswagen|T-Cross|2026|85TSI Life": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -139,13 +169,18 @@
       "seats": 5,
       "cargo": 385,
       "fuelTank": 40,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 1300,
+      "topSpeed": 180,
+      "acceleration": 11.6,
       "fc": 6.5,
       "fh": 5,
       "fx": 5.6,
-      "price": "$34,990"
+      "price": "$34,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.5 sec"
     },
     "Volkswagen|T-Cross|2026|85TSI Style": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -160,13 +195,18 @@
       "seats": 5,
       "cargo": 385,
       "fuelTank": 40,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 1300,
+      "topSpeed": 180,
+      "acceleration": 11.6,
       "fc": 6.5,
       "fh": 5,
       "fx": 5.6,
-      "price": "$38,490"
+      "price": "$38,490",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.5 sec"
     },
     "Volkswagen|T-Cross|2026|85TSI R-Line": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -181,13 +221,18 @@
       "seats": 5,
       "cargo": 385,
       "fuelTank": 40,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 1300,
+      "topSpeed": 180,
+      "acceleration": 11.6,
       "fc": 6.5,
       "fh": 5,
       "fx": 5.6,
-      "price": "$41,490"
+      "price": "$41,490",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.5 sec"
     }
   }
 }

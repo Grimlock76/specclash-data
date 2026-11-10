@@ -9934,7 +9934,8 @@
       "cargo": 374,
       "acceleration": 7.9,
       "topSpeed": 167,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec"
     },
     "Hyundai|Kona|2019|Electric Highlander": {
       "engine": "BLDC Motor FWD",
@@ -9956,7 +9957,8 @@
       "cargo": 374,
       "acceleration": 7.9,
       "topSpeed": 167,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec"
     },
     "Hyundai|Kona|2020|Electric Active": {
       "engine": "BLDC Motor FWD",
@@ -9978,7 +9980,8 @@
       "cargo": 374,
       "acceleration": 7.9,
       "topSpeed": 167,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec"
     },
     "Hyundai|Kona|2020|Electric Highlander": {
       "engine": "BLDC Motor FWD",
@@ -10000,7 +10003,8 @@
       "cargo": 374,
       "acceleration": 7.9,
       "topSpeed": 167,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec"
     },
     "Hyundai|Kona|2021|Electric Active": {
       "engine": "BLDC Motor FWD",
@@ -10513,7 +10517,8 @@
       "cargo": 443,
       "acceleration": 9.9,
       "topSpeed": 165,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.5 sec"
     },
     "Hyundai|Ioniq|2019|Elite Electric": {
       "engine": "BLDC Motor FWD",
@@ -10535,7 +10540,8 @@
       "cargo": 443,
       "acceleration": 9.9,
       "topSpeed": 165,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.5 sec"
     },
     "Hyundai|Ioniq|2020|Elite Electric": {
       "engine": "BLDC Motor FWD",
@@ -10557,7 +10563,8 @@
       "cargo": 443,
       "acceleration": 9.9,
       "topSpeed": 165,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.5 sec"
     },
     "Hyundai|Ioniq|2021|Elite Electric": {
       "engine": "BLDC Motor FWD",
@@ -10579,7 +10586,8 @@
       "cargo": 443,
       "acceleration": 9.9,
       "topSpeed": 165,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.5 sec"
     },
     "Hyundai|Ioniq|2022|Elite Electric": {
       "engine": "BLDC Motor FWD",
@@ -10601,7 +10609,8 @@
       "cargo": 443,
       "acceleration": 9.9,
       "topSpeed": 165,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.5 sec"
     },
     "Hyundai|Ioniq 5|2021|Active": {
       "engine": "BLDC Motor FWD",
@@ -10623,7 +10632,8 @@
       "cargo": 531,
       "acceleration": 8.5,
       "topSpeed": 185,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Hyundai|Ioniq 5|2021|Elite": {
       "engine": "BLDC Motor FWD",
@@ -10645,7 +10655,8 @@
       "cargo": 531,
       "acceleration": 8.5,
       "topSpeed": 185,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Hyundai|Ioniq 5|2021|Ultimate AWD": {
       "engine": "Dual BLDC Motor AWD",
@@ -10667,7 +10678,8 @@
       "cargo": 531,
       "acceleration": 5.1,
       "topSpeed": 185,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Hyundai|Ioniq 5|2022|Active": {
       "engine": "BLDC Motor FWD",
@@ -10689,7 +10701,8 @@
       "cargo": 531,
       "acceleration": 8.5,
       "topSpeed": 185,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Hyundai|Ioniq 5|2022|Elite": {
       "engine": "BLDC Motor FWD",
@@ -10711,7 +10724,8 @@
       "cargo": 531,
       "acceleration": 8.5,
       "topSpeed": 185,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Hyundai|Ioniq 5|2022|Ultimate AWD": {
       "engine": "Dual BLDC Motor AWD",
@@ -10733,7 +10747,8 @@
       "cargo": 531,
       "acceleration": 5.1,
       "topSpeed": 185,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Hyundai|Ioniq 5|2023|Active": {
       "engine": "BLDC Motor FWD",
@@ -10755,7 +10770,8 @@
       "cargo": 531,
       "acceleration": 8.5,
       "topSpeed": 185,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Hyundai|Ioniq 5|2023|Elite": {
       "engine": "BLDC Motor FWD",
@@ -10777,7 +10793,8 @@
       "cargo": 531,
       "acceleration": 8.5,
       "topSpeed": 185,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Hyundai|Ioniq 5|2023|Ultimate AWD": {
       "engine": "Dual BLDC Motor AWD",
@@ -10799,7 +10816,8 @@
       "cargo": 531,
       "acceleration": 5.1,
       "topSpeed": 185,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Hyundai|Ioniq 6|2022|Active": {
       "engine": "BLDC Motor FWD",
@@ -10821,7 +10839,8 @@
       "cargo": 401,
       "acceleration": 7.4,
       "topSpeed": 185,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "Hyundai|Ioniq 6|2022|Ultimate AWD": {
       "engine": "Dual BLDC Motor AWD",
@@ -10843,7 +10862,8 @@
       "cargo": 401,
       "acceleration": 5.1,
       "topSpeed": 185,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Hyundai|Ioniq 6|2023|Active": {
       "engine": "BLDC Motor FWD",
@@ -10865,7 +10885,8 @@
       "cargo": 401,
       "acceleration": 7.4,
       "topSpeed": 185,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "Hyundai|Ioniq 6|2023|Ultimate AWD": {
       "engine": "Dual BLDC Motor AWD",
@@ -10887,7 +10908,8 @@
       "cargo": 401,
       "acceleration": 5.1,
       "topSpeed": 185,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Hyundai|Palisade|2019|Active": {
       "engine": "G6DP 3.8L MPI V6 AWD",

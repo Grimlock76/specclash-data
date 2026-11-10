@@ -5,8 +5,8 @@
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "cargo": null,
-      "weight": null,
+      "cargo": 570,
+      "weight": 1710,
       "accelClaimed": true,
       "engine": "1.3L I4 Turbo Petrol",
       "displacement": 1332,
@@ -21,15 +21,20 @@
       "topSpeed": 207,
       "fuelTank": 52,
       "towing": 1500,
-      "price": "$74,800"
+      "price": "$74,800",
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Mercedes-Benz|GLB|2024|GLB250 4MATIC": {
       "seats": 7,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "cargo": null,
-      "weight": null,
+      "cargo": 570,
+      "weight": 1715,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -44,15 +49,20 @@
       "acceleration": 7,
       "topSpeed": 236,
       "towing": 1900,
-      "price": "$84,100"
+      "price": "$84,100",
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~15.2 sec"
     },
     "Mercedes-Benz|GLB|2024|GLB35 AMG 4MATIC": {
       "seats": 7,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "cargo": null,
-      "weight": null,
+      "cargo": 570,
+      "weight": 1785,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -67,7 +77,12 @@
       "acceleration": 5.5,
       "topSpeed": 250,
       "towing": 1800,
-      "price": "$102,900"
+      "price": "$102,900",
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~13.8 sec"
     }
   }
 }

@@ -11,13 +11,18 @@
       "torque": 250,
       "weight": 1350,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 6.9,
+      "fh": 3.8,
       "fx": 5.5,
       "acceleration": 8.4,
       "topSpeed": 220,
       "price": "~$45,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|A3 Sportback|2021|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -30,13 +35,18 @@
       "torque": 320,
       "weight": 1420,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.4,
+      "fh": 4.6,
       "fx": 6.7,
       "acceleration": 6.8,
       "topSpeed": 237,
       "price": "~$52,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|A3 Sportback|2021|S3": {
       "engine": "2.0L 4-cyl TFSI S quattro",
@@ -49,13 +59,18 @@
       "torque": 400,
       "weight": 1505,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.6,
+      "fh": 5.4,
       "fx": 7.7,
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$68,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|A3 Sportback|2021|RS3": {
       "engine": "2.5L 5-cyl TFSI RS quattro",
@@ -68,13 +83,18 @@
       "torque": 500,
       "weight": 1555,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.6,
+      "fh": 6.5,
       "fx": 9.3,
       "acceleration": 3.8,
       "topSpeed": 290,
       "price": "~$89,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|A3 Sportback|2022|35 TFSI": {
       "engine": "1.5L 4-cyl TFSI",
@@ -87,13 +107,18 @@
       "torque": 250,
       "weight": 1350,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 6.9,
+      "fh": 3.8,
       "fx": 5.5,
       "acceleration": 8.4,
       "topSpeed": 220,
       "price": "~$47,400",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|A3 Sportback|2022|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -106,13 +131,18 @@
       "torque": 320,
       "weight": 1420,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.4,
+      "fh": 4.6,
       "fx": 6.7,
       "acceleration": 6.8,
       "topSpeed": 237,
       "price": "~$54,400",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|A3 Sportback|2022|S3": {
       "engine": "2.0L 4-cyl TFSI S quattro",
@@ -125,13 +155,18 @@
       "torque": 400,
       "weight": 1505,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.6,
+      "fh": 5.4,
       "fx": 7.7,
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$70,400",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|A3 Sportback|2022|RS3": {
       "engine": "2.5L 5-cyl TFSI RS quattro",
@@ -144,13 +179,18 @@
       "torque": 500,
       "weight": 1555,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.6,
+      "fh": 6.5,
       "fx": 9.3,
       "acceleration": 3.8,
       "topSpeed": 290,
       "price": "~$91,400",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|A3 Sportback|2023|35 TFSI": {
       "engine": "1.5L 4-cyl TFSI",
@@ -163,13 +203,18 @@
       "torque": 250,
       "weight": 1350,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 6.9,
+      "fh": 3.8,
       "fx": 5.5,
       "acceleration": 8.4,
       "topSpeed": 220,
       "price": "~$48,400",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|A3 Sportback|2023|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -182,13 +227,18 @@
       "torque": 320,
       "weight": 1420,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.4,
+      "fh": 4.6,
       "fx": 6.7,
       "acceleration": 6.8,
       "topSpeed": 237,
       "price": "~$55,400",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|A3 Sportback|2023|S3": {
       "engine": "2.0L 4-cyl TFSI S quattro",
@@ -201,13 +251,18 @@
       "torque": 400,
       "weight": 1505,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.6,
+      "fh": 5.4,
       "fx": 7.7,
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$71,400",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|A3 Sportback|2023|RS3": {
       "engine": "2.5L 5-cyl TFSI RS quattro",
@@ -220,13 +275,18 @@
       "torque": 500,
       "weight": 1555,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.6,
+      "fh": 6.5,
       "fx": 9.3,
       "acceleration": 3.8,
       "topSpeed": 290,
       "price": "~$92,400",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|Q5|2019|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -239,13 +299,20 @@
       "torque": 320,
       "weight": 1820,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9,
+      "fh": 5,
       "fx": 7.2,
       "acceleration": 8.5,
       "topSpeed": 215,
       "price": "~$68,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 520
     },
     "Audi|Q5|2019|55 TFSI e quattro": {
       "engine": "2.0L 4-cyl TFSI e quattro",
@@ -258,14 +325,21 @@
       "torque": 450,
       "weight": 2065,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "fx": 1.8,
       "acceleration": 5.3,
       "topSpeed": 224,
       "range": 68,
       "price": "~$88,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 520
     },
     "Audi|Q5|2019|45 TFSI quattro Black Edition": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -278,13 +352,20 @@
       "torque": 370,
       "weight": 1840,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.8,
+      "fh": 5.4,
       "fx": 7.8,
       "acceleration": 5.9,
       "topSpeed": 235,
       "price": "~$84,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 520
     },
     "Audi|Q5|2020|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -297,13 +378,20 @@
       "torque": 320,
       "weight": 1820,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9,
+      "fh": 5,
       "fx": 7.2,
       "acceleration": 8.5,
       "topSpeed": 215,
       "price": "~$69,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 520
     },
     "Audi|Q5|2020|55 TFSI e quattro": {
       "engine": "2.0L 4-cyl TFSI e quattro",
@@ -316,14 +404,21 @@
       "torque": 450,
       "weight": 2065,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "fx": 1.8,
       "acceleration": 5.3,
       "topSpeed": 224,
       "range": 68,
       "price": "~$89,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 520
     },
     "Audi|Q5|2020|45 TFSI quattro Black Edition": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -336,13 +431,20 @@
       "torque": 370,
       "weight": 1840,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.8,
+      "fh": 5.4,
       "fx": 7.8,
       "acceleration": 5.9,
       "topSpeed": 235,
       "price": "~$85,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 520
     },
     "Audi|Q5|2021|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -355,13 +457,20 @@
       "torque": 320,
       "weight": 1820,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9,
+      "fh": 5,
       "fx": 7.2,
       "acceleration": 8.5,
       "topSpeed": 215,
       "price": "~$70,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 520
     },
     "Audi|Q5|2021|55 TFSI e quattro": {
       "engine": "2.0L 4-cyl TFSI e quattro",
@@ -374,14 +483,21 @@
       "torque": 450,
       "weight": 2065,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "fx": 1.8,
       "acceleration": 5.3,
       "topSpeed": 224,
       "range": 68,
       "price": "~$90,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 520
     },
     "Audi|Q5|2021|45 TFSI quattro Black Edition": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -394,13 +510,20 @@
       "torque": 370,
       "weight": 1840,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.8,
+      "fh": 5.4,
       "fx": 7.8,
       "acceleration": 5.9,
       "topSpeed": 235,
       "price": "~$86,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 520
     },
     "Audi|Q5|2022|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -413,13 +536,20 @@
       "torque": 320,
       "weight": 1820,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9,
+      "fh": 5,
       "fx": 7.2,
       "acceleration": 8.5,
       "topSpeed": 215,
       "price": "~$71,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 520
     },
     "Audi|Q5|2022|55 TFSI e quattro": {
       "engine": "2.0L 4-cyl TFSI e quattro",
@@ -432,14 +562,21 @@
       "torque": 450,
       "weight": 2065,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "fx": 1.8,
       "acceleration": 5.3,
       "topSpeed": 224,
       "range": 68,
       "price": "~$91,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 520
     },
     "Audi|Q5|2022|45 TFSI quattro Black Edition": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -452,13 +589,20 @@
       "torque": 370,
       "weight": 1840,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.8,
+      "fh": 5.4,
       "fx": 7.8,
       "acceleration": 5.9,
       "topSpeed": 235,
       "price": "~$87,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 520
     },
     "Audi|Q5|2023|40 TFSI quattro": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -471,13 +615,20 @@
       "torque": 320,
       "weight": 1820,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9,
+      "fh": 5,
       "fx": 7.2,
       "acceleration": 8.5,
       "topSpeed": 215,
       "price": "~$72,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 520
     },
     "Audi|Q5|2023|55 TFSI e quattro": {
       "engine": "2.0L 4-cyl TFSI e quattro",
@@ -490,14 +641,21 @@
       "torque": 450,
       "weight": 2065,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "fx": 1.8,
       "acceleration": 5.3,
       "topSpeed": 224,
       "range": 68,
       "price": "~$92,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 520
     },
     "Audi|Q5|2023|45 TFSI quattro Black Edition": {
       "engine": "2.0L 4-cyl TFSI quattro",
@@ -510,13 +668,20 @@
       "torque": 370,
       "weight": 1840,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.8,
+      "fh": 5.4,
       "fx": 7.8,
       "acceleration": 5.9,
       "topSpeed": 235,
       "price": "~$88,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 520
     },
     "Audi|SQ5|2019|SQ5": {
       "engine": "3.0L V6 TFSI quattro",
@@ -529,13 +694,20 @@
       "torque": 500,
       "weight": 1995,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.3,
+      "fh": 6.2,
       "fx": 9,
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$104,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 550
     },
     "Audi|SQ5|2020|SQ5": {
       "engine": "3.0L V6 TFSI quattro",
@@ -548,13 +720,18 @@
       "torque": 500,
       "weight": 1995,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.3,
+      "fh": 6.2,
       "fx": 9,
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$105,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|SQ5|2021|SQ5": {
       "engine": "3.0L V6 TFSI quattro",
@@ -567,13 +744,18 @@
       "torque": 500,
       "weight": 1995,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.3,
+      "fh": 6.2,
       "fx": 9,
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$106,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|SQ5|2022|SQ5": {
       "engine": "3.0L V6 TFSI quattro",
@@ -586,13 +768,18 @@
       "torque": 500,
       "weight": 1995,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.3,
+      "fh": 6.2,
       "fx": 9,
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$107,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|SQ5|2023|SQ5": {
       "engine": "3.0L V6 TFSI quattro",
@@ -605,13 +792,18 @@
       "torque": 500,
       "weight": 1995,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.3,
+      "fh": 6.2,
       "fx": 9,
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$108,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Audi|SQ5|2026|SQ5": {
       "engine": "3.0L V6 TFSI quattro",
@@ -643,13 +835,20 @@
       "torque": 250,
       "weight": 1400,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 6.5,
+      "fh": 4.7,
       "fx": 5.7,
       "acceleration": 9,
       "topSpeed": 210,
       "price": "~$44,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "CUPRA|Leon|2021|1.4 e-Hybrid": {
       "engine": "1.4L 4-cyl e-Hybrid",
@@ -662,14 +861,21 @@
       "torque": 350,
       "weight": 1540,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "acceleration": 7,
       "topSpeed": 220,
       "range": 60,
       "price": "~$48,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "CUPRA|Leon|2021|VZ": {
       "engine": "2.0L 4-cyl TSI",
@@ -682,13 +888,20 @@
       "torque": 370,
       "weight": 1455,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.9,
+      "fh": 4.9,
       "fx": 7.1,
       "acceleration": 6.8,
       "topSpeed": 250,
       "price": "~$52,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "CUPRA|Leon|2021|VZ 4Drive": {
       "engine": "2.0L 4-cyl TSI 4Drive",
@@ -701,13 +914,20 @@
       "torque": 400,
       "weight": 1570,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 10,
+      "fh": 5.6,
       "fx": 8,
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$58,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "CUPRA|Leon|2022|1.5 eTSI": {
       "engine": "1.5L 4-cyl eTSI Mild Hybrid",
@@ -720,13 +940,20 @@
       "torque": 250,
       "weight": 1400,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 6.5,
+      "fh": 4.7,
       "fx": 5.7,
       "acceleration": 9,
       "topSpeed": 210,
       "price": "~$45,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "CUPRA|Leon|2022|1.4 e-Hybrid": {
       "engine": "1.4L 4-cyl e-Hybrid",
@@ -739,14 +966,21 @@
       "torque": 350,
       "weight": 1540,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "acceleration": 7,
       "topSpeed": 220,
       "range": 60,
       "price": "~$49,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "CUPRA|Leon|2022|VZ": {
       "engine": "2.0L 4-cyl TSI",
@@ -778,13 +1012,20 @@
       "torque": 400,
       "weight": 1570,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 10,
+      "fh": 5.6,
       "fx": 8,
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$59,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "CUPRA|Leon|2023|1.5 eTSI": {
       "engine": "1.5L 4-cyl eTSI Mild Hybrid",
@@ -797,13 +1038,20 @@
       "torque": 250,
       "weight": 1400,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 6.5,
+      "fh": 4.7,
       "fx": 5.7,
       "acceleration": 9,
       "topSpeed": 210,
       "price": "~$46,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "CUPRA|Leon|2023|1.4 e-Hybrid": {
       "engine": "1.4L 4-cyl e-Hybrid",
@@ -816,14 +1064,21 @@
       "torque": 350,
       "weight": 1540,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "acceleration": 7,
       "topSpeed": 220,
       "range": 60,
       "price": "~$50,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "CUPRA|Leon|2023|VZ": {
       "engine": "2.0L 4-cyl TSI",
@@ -855,13 +1110,20 @@
       "torque": 400,
       "weight": 1570,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 10,
+      "fh": 5.6,
       "fx": 8,
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$60,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "CUPRA|Leon|2024|1.5 eTSI": {
       "engine": "1.5L 4-cyl eTSI Mild Hybrid",
@@ -874,13 +1136,20 @@
       "torque": 250,
       "weight": 1400,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 6.5,
+      "fh": 4.7,
       "fx": 5.7,
       "acceleration": 9,
       "topSpeed": 210,
       "price": "~$47,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "CUPRA|Leon|2024|1.4 e-Hybrid": {
       "engine": "1.4L 4-cyl e-Hybrid",
@@ -893,14 +1162,21 @@
       "torque": 350,
       "weight": 1540,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "acceleration": 7,
       "topSpeed": 220,
       "range": 60,
       "price": "~$51,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "CUPRA|Leon|2024|VZ": {
       "engine": "2.0L 4-cyl TSI",
@@ -932,13 +1208,20 @@
       "torque": 400,
       "weight": 1570,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 10,
+      "fh": 5.6,
       "fx": 8,
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$61,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "CUPRA|Leon|2025|1.5 eTSI": {
       "engine": "1.5L 4-cyl eTSI Mild Hybrid",
@@ -951,13 +1234,20 @@
       "torque": 250,
       "weight": 1400,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 6.5,
+      "fh": 4.7,
       "fx": 5.7,
       "acceleration": 9,
       "topSpeed": 210,
       "price": "~$47,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "CUPRA|Leon|2025|1.4 e-Hybrid": {
       "engine": "1.4L 4-cyl e-Hybrid",
@@ -970,14 +1260,21 @@
       "torque": 350,
       "weight": 1540,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "acceleration": 7,
       "topSpeed": 220,
       "range": 60,
       "price": "~$51,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "CUPRA|Leon|2025|VZ": {
       "engine": "2.0L 4-cyl TSI",
@@ -990,13 +1287,20 @@
       "torque": 370,
       "weight": 1455,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.9,
+      "fh": 4.9,
       "fx": 7.1,
       "acceleration": 6.8,
       "topSpeed": 250,
       "price": "~$55,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "CUPRA|Leon|2025|VZ 4Drive": {
       "engine": "2.0L 4-cyl TSI 4Drive",
@@ -1009,13 +1313,20 @@
       "torque": 400,
       "weight": 1570,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 10,
+      "fh": 5.6,
       "fx": 8,
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$61,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "CUPRA|Leon|2026|1.5 eTSI": {
       "engine": "1.5L 4-cyl eTSI Mild Hybrid",
@@ -1028,13 +1339,20 @@
       "torque": 250,
       "weight": 1400,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 6.5,
+      "fh": 4.7,
       "fx": 5.7,
       "acceleration": 9,
       "topSpeed": 210,
       "price": "~$48,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "CUPRA|Leon|2026|1.4 e-Hybrid": {
       "engine": "1.4L 4-cyl e-Hybrid",
@@ -1047,14 +1365,21 @@
       "torque": 350,
       "weight": 1540,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "acceleration": 7,
       "topSpeed": 220,
       "range": 60,
       "price": "~$52,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "CUPRA|Leon|2026|VZ": {
       "engine": "2.0L 4-cyl TSI",
@@ -1067,13 +1392,20 @@
       "torque": 370,
       "weight": 1455,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 8.9,
+      "fh": 4.9,
       "fx": 7.1,
       "acceleration": 6.8,
       "topSpeed": 250,
       "price": "~$56,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "CUPRA|Leon|2026|VZ 4Drive": {
       "engine": "2.0L 4-cyl TSI 4Drive",
@@ -1086,13 +1418,20 @@
       "torque": 400,
       "weight": 1570,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 10,
+      "fh": 5.6,
       "fx": 8,
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$62,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "Toyota|GR Corolla|2023|Circuit": {
       "engine": "1.6L 3-cyl Turbo GR-FOUR",
@@ -1105,13 +1444,20 @@
       "torque": 370,
       "weight": 1420,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 10.3,
+      "fh": 5.6,
       "fx": 8.2,
       "acceleration": 5.9,
       "topSpeed": 230,
       "price": "~$74,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 217
     },
     "Skoda|Octavia|2021|RS": {
       "engine": "2.0L 4-cyl TSI RS",
@@ -1124,13 +1470,20 @@
       "torque": 370,
       "weight": 1430,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.3,
+      "fh": 5.1,
       "fx": 7.4,
       "acceleration": 6.7,
       "topSpeed": 248,
       "price": "~$52,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 600
     },
     "Skoda|Octavia|2021|RS Combi": {
       "engine": "2.0L 4-cyl TSI RS",
@@ -1162,13 +1515,20 @@
       "torque": 370,
       "weight": 1430,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.3,
+      "fh": 5.1,
       "fx": 7.4,
       "acceleration": 6.7,
       "topSpeed": 248,
       "price": "~$53,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 600
     },
     "Skoda|Octavia|2022|RS Combi": {
       "engine": "2.0L 4-cyl TSI RS",
@@ -1181,13 +1541,20 @@
       "torque": 370,
       "weight": 1460,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.4,
+      "fh": 5.2,
       "fx": 7.5,
       "acceleration": 6.9,
       "topSpeed": 248,
       "price": "~$56,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 600
     },
     "Skoda|Octavia|2023|RS": {
       "engine": "2.0L 4-cyl TSI RS",
@@ -1200,13 +1567,20 @@
       "torque": 370,
       "weight": 1430,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.3,
+      "fh": 5.1,
       "fx": 7.4,
       "acceleration": 6.7,
       "topSpeed": 248,
       "price": "~$54,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 620
     },
     "Skoda|Octavia|2023|RS Combi": {
       "engine": "2.0L 4-cyl TSI RS",
@@ -1219,13 +1593,20 @@
       "torque": 370,
       "weight": 1460,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.4,
+      "fh": 5.2,
       "fx": 7.5,
       "acceleration": 6.9,
       "topSpeed": 248,
       "price": "~$57,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 620
     },
     "Honda|CR-V|2023|e:PHEV": {
       "engine": "2.0L 4-cyl e:PHEV",

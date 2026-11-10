@@ -1,8 +1,8 @@
 {
   "specs": {
     "Hyundai|Tucson|2025|Tucson": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11,
       "cargo": 539,
       "seats": 5,
       "engine": "2.0L I4 Petrol",
@@ -20,11 +20,15 @@
       "weight": 1456,
       "towing": 1650,
       "fuelTank": 54,
-      "price": "$39,350"
+      "price": "$39,350",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Tucson|2025|Elite": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11,
       "cargo": 539,
       "seats": 5,
       "engine": "2.0L I4 Petrol",
@@ -42,11 +46,15 @@
       "weight": 1456,
       "towing": 1650,
       "fuelTank": 54,
-      "price": "$44,350"
+      "price": "$44,350",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Tucson|2025|Premium 1.6T AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 9.6,
       "cargo": 539,
       "seats": 5,
       "engine": "1.6L I4 Turbo Petrol",
@@ -64,11 +72,15 @@
       "weight": 1591,
       "towing": null,
       "fuelTank": 54,
-      "price": "$55,850"
+      "price": "$55,850",
+      "quarterMile": "~17.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Tucson|2025|Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 8.1,
       "cargo": 539,
       "seats": 5,
       "engine": "1.6L I4 Turbo Hybrid",
@@ -85,11 +97,15 @@
       "fx": 4.9,
       "weight": 1626,
       "towing": 1900,
-      "price": "$42,850"
+      "price": "$42,850",
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Tucson|2025|Hybrid Elite": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 8.1,
       "cargo": 539,
       "seats": 5,
       "engine": "1.6L I4 Turbo Hybrid",
@@ -106,11 +122,15 @@
       "fx": 4.9,
       "weight": 1626,
       "towing": 1900,
-      "price": "$48,350"
+      "price": "$48,350",
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Tucson|2025|Hybrid Premium AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 8.1,
       "cargo": 539,
       "seats": 5,
       "engine": "1.6L I4 Turbo Hybrid",
@@ -127,7 +147,11 @@
       "fx": 5.3,
       "weight": 1686,
       "towing": 1900,
-      "price": "$58,350"
+      "price": "$58,350",
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

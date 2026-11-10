@@ -17,7 +17,8 @@
       "acceleration": 9,
       "topSpeed": 195,
       "price": "~$37,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.9 sec"
     },
     "Honda|Civic|2022|VTi-S": {
       "engine": "1.5L I4 VTEC Turbo",
@@ -36,7 +37,8 @@
       "acceleration": 9,
       "topSpeed": 195,
       "price": "~$41,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.9 sec"
     },
     "Honda|Civic|2022|RS": {
       "engine": "1.5L I4 VTEC Turbo",
@@ -55,7 +57,8 @@
       "acceleration": 9,
       "topSpeed": 195,
       "price": "~$44,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.9 sec"
     },
     "Honda|Civic|2022|e:HEV RS": {
       "engine": "2.0L I4 i-MMD Hybrid",
@@ -74,7 +77,8 @@
       "acceleration": 8,
       "topSpeed": 195,
       "price": "~$48,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.1 sec"
     },
     "Honda|HR-V|2022|VTi": {
       "engine": "1.5L I4 NA",
@@ -93,7 +97,8 @@
       "acceleration": 12,
       "topSpeed": 175,
       "price": "~$29,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.8 sec"
     },
     "Honda|HR-V|2022|VTi-S": {
       "engine": "1.5L I4 NA",
@@ -112,7 +117,8 @@
       "acceleration": 12,
       "topSpeed": 175,
       "price": "~$34,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.8 sec"
     },
     "Honda|HR-V|2022|e:HEV L": {
       "engine": "1.5L I4 Atkinson e:HEV",
@@ -131,7 +137,8 @@
       "acceleration": 9.5,
       "topSpeed": 175,
       "price": "~$39,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec"
     },
     "Honda|HR-V|2022|e:HEV RS": {
       "engine": "1.5L I4 Atkinson e:HEV",
@@ -150,7 +157,8 @@
       "acceleration": 9.5,
       "topSpeed": 175,
       "price": "~$43,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec"
     },
     "Land Rover|Range Rover|2022|SE": {
       "engine": "3.0L I6 Turbo MHEV",
@@ -169,7 +177,8 @@
       "acceleration": 6,
       "topSpeed": 225,
       "price": "~$195,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.3 sec"
     },
     "Land Rover|Range Rover|2022|SV": {
       "engine": "4.4L V8 Twin-Turbo",
@@ -188,7 +197,8 @@
       "acceleration": 4.4,
       "topSpeed": 250,
       "price": "~$398,000",
-      "aspiration": "ZF Twin-Turbo"
+      "aspiration": "ZF Twin-Turbo",
+      "quarterMile": "~12.7 sec"
     },
     "Land Rover|Range Rover|2022|P510e SE": {
       "engine": "3.0L I6 Turbo PHEV",
@@ -201,13 +211,18 @@
       "torque": 700,
       "weight": 2810,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.9,
+      "fh": 2,
       "fx": 2.5,
       "acceleration": 6.1,
       "topSpeed": 220,
       "price": "~$267,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Land Rover|Range Rover|2022|P510e Autobiography": {
       "engine": "3.0L I6 Turbo PHEV",
@@ -220,13 +235,18 @@
       "torque": 700,
       "weight": 2820,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.9,
+      "fh": 2,
       "fx": 2.5,
       "acceleration": 6.1,
       "topSpeed": 220,
       "price": "~$323,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Land Rover|Range Rover Sport|2022|S": {
       "engine": "3.0L I6 Turbo MHEV",
@@ -245,7 +265,12 @@
       "acceleration": 6.5,
       "topSpeed": 225,
       "price": "~$165,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.8 sec",
+      "cargo": 782,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Sport|2022|Dynamic SE": {
       "engine": "3.0L I6 Turbo MHEV",
@@ -264,7 +289,12 @@
       "acceleration": 6,
       "topSpeed": 225,
       "price": "~$199,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.3 sec",
+      "cargo": 782,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Sport|2022|Dynamic HSE": {
       "engine": "3.0L I6 Twin-Turbo MHEV",
@@ -283,7 +313,12 @@
       "acceleration": 5.5,
       "topSpeed": 240,
       "price": "~$225,000",
-      "aspiration": "ZF Twin-Turbo"
+      "aspiration": "ZF Twin-Turbo",
+      "quarterMile": "~13.8 sec",
+      "cargo": 782,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Sport|2022|P530": {
       "engine": "4.4L V8 Twin-Turbo",
@@ -302,7 +337,12 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$285,000",
-      "aspiration": "ZF Twin-Turbo"
+      "aspiration": "ZF Twin-Turbo",
+      "quarterMile": "~12.8 sec",
+      "cargo": 782,
+      "est": [
+        "cargo"
+      ]
     },
     "Mitsubishi|Outlander|2022|PHEV ES": {
       "engine": "2.4L I4 PHEV",
@@ -315,13 +355,20 @@
       "torque": 350,
       "weight": 1930,
       "seats": 7,
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "fx": 1.8,
       "acceleration": 8.6,
       "topSpeed": 200,
       "price": "~$62,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 892
     },
     "Mitsubishi|Outlander|2022|PHEV LS": {
       "engine": "2.4L I4 PHEV",
@@ -334,13 +381,20 @@
       "torque": 350,
       "weight": 1935,
       "seats": 7,
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "fx": 1.8,
       "acceleration": 8.6,
       "topSpeed": 200,
       "price": "~$68,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 892
     },
     "Mitsubishi|Outlander|2022|PHEV Exceed": {
       "engine": "2.4L I4 PHEV",
@@ -353,13 +407,20 @@
       "torque": 350,
       "weight": 1940,
       "seats": 7,
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "fx": 1.8,
       "acceleration": 8.6,
       "topSpeed": 200,
       "price": "~$74,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 892
     }
   }
 }

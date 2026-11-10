@@ -20,7 +20,8 @@
       "fuelTank": 59,
       "cargo": 480,
       "price": "$92,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.1 sec"
     },
     "BMW|3 Series|2025|M340i xDrive": {
       "seats": 5,
@@ -42,7 +43,8 @@
       "fuelTank": 59,
       "cargo": 480,
       "price": "$117,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.7 sec"
     },
     "BMW|5 Series|2025|520i M Sport": {
       "seats": 5,
@@ -56,15 +58,20 @@
       "power": 153,
       "torque": 330,
       "drivetrain": "RWD",
-      "fc": null,
-      "fh": null,
+      "fc": 8.4,
+      "fh": 4.6,
       "fx": 6.7,
       "acceleration": 7.5,
       "weight": 1725,
       "fuelTank": 60,
       "cargo": 520,
       "price": "$114,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|5 Series|2025|540d xDrive": {
       "seats": 5,
@@ -86,7 +93,8 @@
       "fuelTank": 60,
       "cargo": 520,
       "price": "$136,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.5 sec"
     }
   }
 }

@@ -17,7 +17,12 @@
       "acceleration": 4.5,
       "topSpeed": 293,
       "price": "~$189,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.8 sec",
+      "cargo": 125,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|718|2019|718 Cayman GTS 4.0": {
       "engine": "4.0L F6 NA 718",
@@ -36,7 +41,12 @@
       "acceleration": 4.5,
       "topSpeed": 295,
       "price": "~$184,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.8 sec",
+      "cargo": 125,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|718|2019|Boxster Spyder": {
       "engine": "4.0L F6 NA 718",
@@ -55,7 +65,12 @@
       "acceleration": 4.4,
       "topSpeed": 301,
       "price": "~$194,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.7 sec",
+      "cargo": 125,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|718|2019|Cayman GT4": {
       "engine": "4.0L F6 NA 718",
@@ -74,7 +89,12 @@
       "acceleration": 4.4,
       "topSpeed": 304,
       "price": "~$189,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.7 sec",
+      "cargo": 125,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2019|Carrera": {
       "engine": "3.0L F6 Biturbo 992",
@@ -93,7 +113,12 @@
       "acceleration": 4.2,
       "topSpeed": 293,
       "price": "~$249,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.5 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2019|Carrera Cabriolet": {
       "engine": "3.0L F6 Biturbo 992",
@@ -112,7 +137,12 @@
       "acceleration": 4.3,
       "topSpeed": 291,
       "price": "~$279,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.6 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2019|Carrera S": {
       "engine": "3.0L F6 Biturbo 992",
@@ -131,7 +161,12 @@
       "acceleration": 3.7,
       "topSpeed": 308,
       "price": "~$299,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.9 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2019|Carrera S Cabriolet": {
       "engine": "3.0L F6 Biturbo 992",
@@ -150,7 +185,12 @@
       "acceleration": 3.9,
       "topSpeed": 306,
       "price": "~$329,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.2 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2019|GT3 RS": {
       "engine": "4.0L F6 NA 991.2",
@@ -169,7 +209,12 @@
       "acceleration": 3.3,
       "topSpeed": 312,
       "price": "~$599,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~11.4 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2019|Coupe": {
       "engine": "3.0L V6 Turbo",
@@ -188,7 +233,12 @@
       "acceleration": 6,
       "topSpeed": 245,
       "price": "~$129,900",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~14.3 sec",
+      "cargo": 770,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2019|E-Hybrid": {
       "engine": "3.0L V6 Turbo PHEV",
@@ -201,13 +251,20 @@
       "torque": 700,
       "weight": 2295,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.9,
+      "fh": 2.8,
       "fx": 3.4,
       "acceleration": 5,
       "topSpeed": 253,
       "price": "~$139,900",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 770
     },
     "Porsche|Cayenne|2019|E-Hybrid Coupe": {
       "engine": "3.0L V6 Turbo PHEV",
@@ -220,13 +277,20 @@
       "torque": 700,
       "weight": 2310,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.9,
+      "fh": 2.8,
       "fx": 3.4,
       "acceleration": 5,
       "topSpeed": 252,
       "price": "~$149,900",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 770
     },
     "Porsche|Cayenne|2019|GTS Coupe": {
       "engine": "4.0L V8 Biturbo",
@@ -245,7 +309,12 @@
       "acceleration": 4.5,
       "topSpeed": 272,
       "price": "~$229,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.8 sec",
+      "cargo": 770,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2019|S Coupe": {
       "engine": "2.9L V6 Biturbo",
@@ -264,7 +333,12 @@
       "acceleration": 5.1,
       "topSpeed": 265,
       "price": "~$189,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.4 sec",
+      "cargo": 770,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2019|Turbo Coupe": {
       "engine": "4.0L V8 Biturbo",
@@ -283,7 +357,12 @@
       "acceleration": 3.9,
       "topSpeed": 286,
       "price": "~$279,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.2 sec",
+      "cargo": 770,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Panamera|2019|Panamera GTS": {
       "engine": "4.0L V8 Biturbo",
@@ -302,7 +381,8 @@
       "acceleration": 4.1,
       "topSpeed": 290,
       "price": "~$259,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.4 sec"
     },
     "Porsche|Panamera|2019|Panamera Turbo S E-Hybrid": {
       "engine": "4.0L V8 Biturbo PHEV",
@@ -315,13 +395,18 @@
       "torque": 870,
       "weight": 2340,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 3.4,
+      "fh": 2.5,
       "fx": 3,
       "acceleration": 3.2,
       "topSpeed": 310,
       "price": "~$449,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Renault|Koleos|2019|Life": {
       "engine": "2.5L I4 NA QR25DE",
@@ -340,7 +425,8 @@
       "acceleration": 10.5,
       "topSpeed": 185,
       "price": "~$34,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec"
     }
   }
 }

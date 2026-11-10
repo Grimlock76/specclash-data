@@ -19,7 +19,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 200,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~12.7 sec"
     },
     "NIO|ES8|2018|Performance": {
       "engine": "Tri-Motor Electric",
@@ -40,7 +41,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 200,
-      "price": "~$110,000"
+      "price": "~$110,000",
+      "quarterMile": "~12.0 sec"
     },
     "NIO|ES8|2019|Standard": {
       "engine": "Dual Motor Electric",
@@ -61,7 +63,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 200,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~12.7 sec"
     },
     "NIO|ES8|2019|Performance": {
       "engine": "Tri-Motor Electric",
@@ -82,7 +85,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 200,
-      "price": "~$110,000"
+      "price": "~$110,000",
+      "quarterMile": "~12.0 sec"
     },
     "NIO|ES8|2020|Standard": {
       "engine": "Dual Motor Electric",
@@ -103,7 +107,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 200,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~12.7 sec"
     },
     "NIO|ES8|2020|Performance": {
       "engine": "Tri-Motor Electric",
@@ -124,7 +129,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 200,
-      "price": "~$110,000"
+      "price": "~$110,000",
+      "quarterMile": "~12.0 sec"
     },
     "NIO|ES8|2021|Standard": {
       "engine": "Dual Motor Electric",
@@ -145,7 +151,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 200,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~12.7 sec"
     },
     "NIO|ES8|2021|Performance": {
       "engine": "Tri-Motor Electric",
@@ -166,7 +173,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 200,
-      "price": "~$110,000"
+      "price": "~$110,000",
+      "quarterMile": "~12.0 sec"
     },
     "NIO|ES8|2022|Standard": {
       "engine": "Dual Motor Electric",
@@ -187,7 +195,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 200,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~12.7 sec"
     },
     "NIO|ES8|2022|Performance": {
       "engine": "Tri-Motor Electric",
@@ -208,7 +217,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 200,
-      "price": "~$110,000"
+      "price": "~$110,000",
+      "quarterMile": "~12.0 sec"
     },
     "NIO|ES8|2023|Standard": {
       "engine": "Dual Motor Electric",
@@ -229,7 +239,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 200,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~12.7 sec"
     },
     "NIO|ES8|2023|Performance": {
       "engine": "Tri-Motor Electric",
@@ -250,7 +261,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 200,
-      "price": "~$110,000"
+      "price": "~$110,000",
+      "quarterMile": "~12.0 sec"
     },
     "NIO|ES8|2024|Standard": {
       "engine": "Dual Motor Electric",
@@ -271,7 +283,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 200,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~12.7 sec"
     },
     "NIO|ES8|2024|Performance": {
       "engine": "Tri-Motor Electric",
@@ -292,7 +305,8 @@
       "fx": null,
       "acceleration": 3.8,
       "topSpeed": 200,
-      "price": "~$110,000"
+      "price": "~$110,000",
+      "quarterMile": "~12.0 sec"
     },
     "NIO|ES6|2019|Standard Range": {
       "engine": "Dual Motor Electric",
@@ -313,7 +327,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 200,
-      "price": "~$75,000"
+      "price": "~$75,000",
+      "quarterMile": "~13.0 sec"
     },
     "NIO|ES6|2019|Long Range": {
       "engine": "Dual Motor Electric",
@@ -334,7 +349,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 200,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~12.7 sec"
     },
     "NIO|ES6|2020|Standard Range": {
       "engine": "Dual Motor Electric",
@@ -355,7 +371,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 200,
-      "price": "~$75,000"
+      "price": "~$75,000",
+      "quarterMile": "~13.0 sec"
     },
     "NIO|ES6|2020|Long Range": {
       "engine": "Dual Motor Electric",
@@ -376,7 +393,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 200,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~12.7 sec"
     },
     "NIO|ES6|2021|Standard Range": {
       "engine": "Dual Motor Electric",
@@ -397,7 +415,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 200,
-      "price": "~$75,000"
+      "price": "~$75,000",
+      "quarterMile": "~13.0 sec"
     },
     "NIO|ES6|2021|Long Range": {
       "engine": "Dual Motor Electric",
@@ -418,7 +437,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 200,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~12.7 sec"
     },
     "NIO|ES6|2022|Standard Range": {
       "engine": "Dual Motor Electric",
@@ -439,7 +459,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 200,
-      "price": "~$75,000"
+      "price": "~$75,000",
+      "quarterMile": "~13.0 sec"
     },
     "NIO|ES6|2022|Long Range": {
       "engine": "Dual Motor Electric",
@@ -460,7 +481,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 200,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~12.7 sec"
     },
     "NIO|ES6|2023|Standard Range": {
       "engine": "Dual Motor Electric",
@@ -481,7 +503,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 200,
-      "price": "~$75,000"
+      "price": "~$75,000",
+      "quarterMile": "~13.0 sec"
     },
     "NIO|ES6|2023|Long Range": {
       "engine": "Dual Motor Electric",
@@ -502,7 +525,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 200,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~12.7 sec"
     },
     "NIO|ES6|2024|Standard Range": {
       "engine": "Dual Motor Electric",
@@ -523,7 +547,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 200,
-      "price": "~$75,000"
+      "price": "~$75,000",
+      "quarterMile": "~13.0 sec"
     },
     "NIO|ES6|2024|Long Range": {
       "engine": "Dual Motor Electric",
@@ -544,7 +569,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 200,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~12.7 sec"
     },
     "NIO|EC6|2020|Standard Range": {
       "engine": "Dual Motor Electric",
@@ -565,7 +591,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 200,
-      "price": "~$77,000"
+      "price": "~$77,000",
+      "quarterMile": "~13.0 sec"
     },
     "NIO|EC6|2020|Performance": {
       "engine": "Dual Motor Electric",
@@ -586,7 +613,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 200,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~12.7 sec"
     },
     "NIO|EC6|2021|Standard Range": {
       "engine": "Dual Motor Electric",
@@ -607,7 +635,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 200,
-      "price": "~$77,000"
+      "price": "~$77,000",
+      "quarterMile": "~13.0 sec"
     },
     "NIO|EC6|2021|Performance": {
       "engine": "Dual Motor Electric",
@@ -628,7 +657,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 200,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~12.7 sec"
     },
     "NIO|EC6|2022|Standard Range": {
       "engine": "Dual Motor Electric",
@@ -649,7 +679,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 200,
-      "price": "~$77,000"
+      "price": "~$77,000",
+      "quarterMile": "~13.0 sec"
     },
     "NIO|EC6|2022|Performance": {
       "engine": "Dual Motor Electric",
@@ -670,7 +701,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 200,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~12.7 sec"
     },
     "NIO|EC6|2023|Standard Range": {
       "engine": "Dual Motor Electric",
@@ -691,7 +723,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 200,
-      "price": "~$77,000"
+      "price": "~$77,000",
+      "quarterMile": "~13.0 sec"
     },
     "NIO|EC6|2023|Performance": {
       "engine": "Dual Motor Electric",
@@ -712,7 +745,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 200,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~12.7 sec"
     },
     "NIO|EC6|2024|Standard Range": {
       "engine": "Dual Motor Electric",
@@ -733,7 +767,8 @@
       "fx": null,
       "acceleration": 4.7,
       "topSpeed": 200,
-      "price": "~$77,000"
+      "price": "~$77,000",
+      "quarterMile": "~13.0 sec"
     },
     "NIO|EC6|2024|Performance": {
       "engine": "Dual Motor Electric",
@@ -754,7 +789,8 @@
       "fx": null,
       "acceleration": 4.4,
       "topSpeed": 200,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~12.7 sec"
     },
     "NIO|ET7|2022|Standard": {
       "engine": "Dual Motor Electric",
@@ -775,7 +811,8 @@
       "fx": null,
       "acceleration": 3.9,
       "topSpeed": 200,
-      "price": "~$110,000"
+      "price": "~$110,000",
+      "quarterMile": "~12.2 sec"
     },
     "NIO|ET5|2022|Standard": {
       "engine": "Dual Motor Electric",
@@ -796,7 +833,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 200,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~12.3 sec"
     },
     "NIO|ET5|2022|Touring": {
       "engine": "Dual Motor Electric",
@@ -817,7 +855,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 200,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~12.3 sec"
     },
     "NIO|EL7|2022|Standard": {
       "engine": "Dual Motor Electric",
@@ -838,7 +877,8 @@
       "fx": null,
       "acceleration": 3.9,
       "topSpeed": 200,
-      "price": "~$105,000"
+      "price": "~$105,000",
+      "quarterMile": "~12.2 sec"
     },
     "NIO|ET7|2023|Standard": {
       "engine": "Dual Motor Electric",
@@ -859,7 +899,8 @@
       "fx": null,
       "acceleration": 3.9,
       "topSpeed": 200,
-      "price": "~$110,000"
+      "price": "~$110,000",
+      "quarterMile": "~12.2 sec"
     },
     "NIO|ET5|2023|Standard": {
       "engine": "Dual Motor Electric",
@@ -880,7 +921,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 200,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~12.3 sec"
     },
     "NIO|ET5|2023|Touring": {
       "engine": "Dual Motor Electric",
@@ -901,7 +943,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 200,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~12.3 sec"
     },
     "NIO|EL7|2023|Standard": {
       "engine": "Dual Motor Electric",
@@ -922,7 +965,8 @@
       "fx": null,
       "acceleration": 3.9,
       "topSpeed": 200,
-      "price": "~$105,000"
+      "price": "~$105,000",
+      "quarterMile": "~12.2 sec"
     },
     "NIO|ET7|2024|Standard": {
       "engine": "Dual Motor Electric",
@@ -943,7 +987,8 @@
       "fx": null,
       "acceleration": 3.9,
       "topSpeed": 200,
-      "price": "~$110,000"
+      "price": "~$110,000",
+      "quarterMile": "~12.2 sec"
     },
     "NIO|ET5|2024|Standard": {
       "engine": "Dual Motor Electric",
@@ -964,7 +1009,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 200,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~12.3 sec"
     },
     "NIO|ET5|2024|Touring": {
       "engine": "Dual Motor Electric",
@@ -985,7 +1031,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 200,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~12.3 sec"
     },
     "NIO|EL7|2024|Standard": {
       "engine": "Dual Motor Electric",
@@ -1006,7 +1053,8 @@
       "fx": null,
       "acceleration": 3.9,
       "topSpeed": 200,
-      "price": "~$105,000"
+      "price": "~$105,000",
+      "quarterMile": "~12.2 sec"
     },
     "NIO|ET7|2025|Standard": {
       "engine": "Dual Motor Electric",
@@ -1027,7 +1075,8 @@
       "fx": null,
       "acceleration": 3.9,
       "topSpeed": 200,
-      "price": "~$110,000"
+      "price": "~$110,000",
+      "quarterMile": "~12.2 sec"
     },
     "NIO|ET5|2025|Standard": {
       "engine": "Dual Motor Electric",
@@ -1048,7 +1097,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 200,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~12.3 sec"
     },
     "NIO|ET5|2025|Touring": {
       "engine": "Dual Motor Electric",
@@ -1069,7 +1119,8 @@
       "fx": null,
       "acceleration": 4,
       "topSpeed": 200,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~12.3 sec"
     },
     "NIO|EL7|2025|Standard": {
       "engine": "Dual Motor Electric",
@@ -1090,7 +1141,8 @@
       "fx": null,
       "acceleration": 3.9,
       "topSpeed": 200,
-      "price": "~$105,000"
+      "price": "~$105,000",
+      "quarterMile": "~12.2 sec"
     },
     "Geely|Coolray|2019|Standard": {
       "engine": "JLH-3G15TD 1.5T I3",
@@ -1111,7 +1163,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$22,990"
+      "price": "~$22,990",
+      "quarterMile": "~16.5 sec"
     },
     "Geely|Coolray|2019|Sport": {
       "engine": "JLH-3G15TD 1.5T I3",
@@ -1132,7 +1185,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~16.5 sec"
     },
     "Geely|Coolray|2020|Standard": {
       "engine": "JLH-3G15TD 1.5T I3",
@@ -1153,7 +1207,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$22,990"
+      "price": "~$22,990",
+      "quarterMile": "~16.5 sec"
     },
     "Geely|Coolray|2020|Sport": {
       "engine": "JLH-3G15TD 1.5T I3",
@@ -1174,7 +1229,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~16.5 sec"
     },
     "Geely|Coolray|2021|Standard": {
       "engine": "JLH-3G15TD 1.5T I3",
@@ -1195,7 +1251,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$22,990"
+      "price": "~$22,990",
+      "quarterMile": "~16.5 sec"
     },
     "Geely|Coolray|2021|Sport": {
       "engine": "JLH-3G15TD 1.5T I3",
@@ -1216,7 +1273,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~16.5 sec"
     },
     "Geely|Coolray|2022|Standard": {
       "engine": "JLH-3G15TD 1.5T I3",
@@ -1237,7 +1295,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$22,990"
+      "price": "~$22,990",
+      "quarterMile": "~16.5 sec"
     },
     "Geely|Coolray|2022|Sport": {
       "engine": "JLH-3G15TD 1.5T I3",
@@ -1258,7 +1317,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~16.5 sec"
     },
     "Geely|Coolray|2023|Standard": {
       "engine": "JLH-3G15TD 1.5T I3",
@@ -1279,7 +1339,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$22,990"
+      "price": "~$22,990",
+      "quarterMile": "~16.5 sec"
     },
     "Geely|Coolray|2023|Sport": {
       "engine": "JLH-3G15TD 1.5T I3",
@@ -1300,7 +1361,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$26,990"
+      "price": "~$26,990",
+      "quarterMile": "~16.5 sec"
     },
     "Geely|Monjaro|2022|2.0T FWD": {
       "engine": "BHE 2.0T I4",
@@ -1321,7 +1383,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 195,
-      "price": "~$35,990"
+      "price": "~$35,990",
+      "quarterMile": "~16.1 sec"
     },
     "Geely|Monjaro|2022|2.0T AWD": {
       "engine": "BHE 2.0T I4",
@@ -1342,7 +1405,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 195,
-      "price": "~$42,990"
+      "price": "~$42,990",
+      "quarterMile": "~15.6 sec"
     },
     "Geely|Monjaro|2023|2.0T FWD": {
       "engine": "BHE 2.0T I4",
@@ -1363,7 +1427,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 195,
-      "price": "~$35,990"
+      "price": "~$35,990",
+      "quarterMile": "~16.1 sec"
     },
     "Geely|Monjaro|2023|2.0T AWD": {
       "engine": "BHE 2.0T I4",
@@ -1384,7 +1449,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 195,
-      "price": "~$42,990"
+      "price": "~$42,990",
+      "quarterMile": "~15.6 sec"
     },
     "Geely|Monjaro|2024|2.0T FWD": {
       "engine": "BHE 2.0T I4",
@@ -1405,7 +1471,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 195,
-      "price": "~$35,990"
+      "price": "~$35,990",
+      "quarterMile": "~16.1 sec"
     },
     "Geely|Monjaro|2024|2.0T AWD": {
       "engine": "BHE 2.0T I4",
@@ -1426,7 +1493,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 195,
-      "price": "~$42,990"
+      "price": "~$42,990",
+      "quarterMile": "~15.6 sec"
     },
     "Geely|Monjaro|2025|2.0T FWD": {
       "engine": "BHE 2.0T I4",
@@ -1447,7 +1515,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 195,
-      "price": "~$35,990"
+      "price": "~$35,990",
+      "quarterMile": "~16.1 sec"
     },
     "Geely|Monjaro|2025|2.0T AWD": {
       "engine": "BHE 2.0T I4",
@@ -1468,7 +1537,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 195,
-      "price": "~$42,990"
+      "price": "~$42,990",
+      "quarterMile": "~15.6 sec"
     },
     "Geely|Galaxy L7|2023|PHEV": {
       "engine": "1.5T PHEV I4 + Electric",
@@ -1489,7 +1559,8 @@
       "ft": "Petrol PHEV",
       "acceleration": 6.5,
       "topSpeed": 190,
-      "price": "~$45,990"
+      "price": "~$45,990",
+      "quarterMile": "~14.8 sec"
     },
     "Geely|Galaxy E8|2023|Standard": {
       "engine": "Dual Motor Electric",
@@ -1510,7 +1581,8 @@
       "fx": null,
       "acceleration": 3.9,
       "topSpeed": 200,
-      "price": "~$58,990"
+      "price": "~$58,990",
+      "quarterMile": "~12.2 sec"
     },
     "Geely|Galaxy L7|2024|PHEV": {
       "engine": "1.5T PHEV I4 + Electric",
@@ -1531,7 +1603,8 @@
       "ft": "Petrol PHEV",
       "acceleration": 6.5,
       "topSpeed": 190,
-      "price": "~$45,990"
+      "price": "~$45,990",
+      "quarterMile": "~14.8 sec"
     },
     "Geely|Galaxy E8|2024|Standard": {
       "engine": "Dual Motor Electric",
@@ -1552,7 +1625,8 @@
       "fx": null,
       "acceleration": 3.9,
       "topSpeed": 200,
-      "price": "~$58,990"
+      "price": "~$58,990",
+      "quarterMile": "~12.2 sec"
     },
     "Geely|Galaxy L7|2025|PHEV": {
       "engine": "1.5T PHEV I4 + Electric",
@@ -1573,7 +1647,8 @@
       "ft": "Petrol PHEV",
       "acceleration": 6.5,
       "topSpeed": 190,
-      "price": "~$45,990"
+      "price": "~$45,990",
+      "quarterMile": "~14.8 sec"
     },
     "Geely|Galaxy E8|2025|Standard": {
       "engine": "Dual Motor Electric",
@@ -1594,7 +1669,8 @@
       "fx": null,
       "acceleration": 3.9,
       "topSpeed": 200,
-      "price": "~$58,990"
+      "price": "~$58,990",
+      "quarterMile": "~12.2 sec"
     },
     "Mitsuoka|Galue|1996|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -1609,13 +1685,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.9,
+      "fh": 8.2,
+      "fx": 11.9,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|1997|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -1630,13 +1712,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.6,
+      "fh": 8.2,
+      "fx": 11.7,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|1998|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -1651,13 +1739,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.5,
+      "fh": 8.1,
+      "fx": 11.6,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|1999|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -1672,13 +1766,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.4,
+      "fh": 8,
+      "fx": 11.5,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2000|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -1693,13 +1793,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.1,
+      "fh": 7.9,
+      "fx": 11.3,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2001|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -1714,13 +1820,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14,
+      "fh": 7.8,
+      "fx": 11.2,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2002|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -1735,13 +1847,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.8,
+      "fh": 7.6,
+      "fx": 11,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2003|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -1756,13 +1874,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.6,
+      "fh": 7.6,
+      "fx": 10.9,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2004|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -1777,13 +1901,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.5,
+      "fh": 7.5,
+      "fx": 10.8,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2005|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -1798,13 +1928,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.3,
+      "fh": 7.3,
+      "fx": 10.6,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2006|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -1819,13 +1955,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.1,
+      "fh": 7.3,
+      "fx": 10.5,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2007|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -1840,13 +1982,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13,
+      "fh": 7.2,
+      "fx": 10.4,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2008|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -1861,13 +2009,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.9,
+      "fh": 7.1,
+      "fx": 10.3,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2009|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -1882,13 +2036,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.6,
+      "fh": 7,
+      "fx": 10.1,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2010|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -1903,13 +2063,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.5,
+      "fh": 6.9,
+      "fx": 10,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2011|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -1924,13 +2090,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.4,
+      "fh": 6.8,
+      "fx": 9.9,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2012|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -1945,13 +2117,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.3,
+      "fh": 6.7,
+      "fx": 9.8,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2013|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -1966,13 +2144,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.1,
+      "fh": 6.8,
+      "fx": 9.7,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2014|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -1987,13 +2171,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.9,
+      "fh": 6.6,
+      "fx": 9.5,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2015|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -2008,13 +2198,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.8,
+      "fh": 6.5,
+      "fx": 9.4,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2016|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -2029,13 +2225,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.6,
+      "fh": 6.5,
+      "fx": 9.3,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2017|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -2050,13 +2252,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.5,
+      "fh": 6.4,
+      "fx": 9.2,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2018|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -2071,13 +2279,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.4,
+      "fh": 6.3,
+      "fx": 9.1,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2019|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -2092,13 +2306,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.3,
+      "fh": 6.2,
+      "fx": 9,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Galue|2020|2.5": {
       "engine": "Nissan VQ25DE 2.5L V6",
@@ -2113,13 +2333,19 @@
       "weight": 1610,
       "seats": 5,
       "cargo": 380,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.1,
+      "fh": 6.2,
+      "fx": 8.9,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 180,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Himiko|2008|Roadster": {
       "engine": "MZR 1.8L I4 DOHC",
@@ -2134,13 +2360,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": 130,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.1,
+      "fh": 5.7,
+      "fx": 8.1,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Himiko|2009|Roadster": {
       "engine": "MZR 1.8L I4 DOHC",
@@ -2155,13 +2387,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": 130,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10,
+      "fh": 5.6,
+      "fx": 8,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Himiko|2010|Roadster": {
       "engine": "MZR 1.8L I4 DOHC",
@@ -2176,13 +2414,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": 130,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.9,
+      "fh": 5.5,
+      "fx": 7.9,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Himiko|2011|Roadster": {
       "engine": "MZR 1.8L I4 DOHC",
@@ -2197,13 +2441,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": 130,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.8,
+      "fh": 5.4,
+      "fx": 7.8,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Himiko|2012|Roadster": {
       "engine": "MZR 1.8L I4 DOHC",
@@ -2218,13 +2468,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": 130,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.6,
+      "fh": 5.4,
+      "fx": 7.7,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Himiko|2013|Roadster": {
       "engine": "MZR 1.8L I4 DOHC",
@@ -2239,13 +2495,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": 130,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.5,
+      "fh": 5.3,
+      "fx": 7.6,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Himiko|2014|Roadster": {
       "engine": "MZR 1.8L I4 DOHC",
@@ -2260,13 +2522,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": 130,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.4,
+      "fh": 5.2,
+      "fx": 7.5,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Himiko|2015|Roadster": {
       "engine": "MZR 1.8L I4 DOHC",
@@ -2281,13 +2549,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": 130,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.3,
+      "fh": 5.1,
+      "fx": 7.4,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 185,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Rock Star|2016|Roadster": {
       "engine": "SkyActiv-G 2.0L I4",
@@ -2302,13 +2576,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": 130,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10,
+      "fh": 5.6,
+      "fx": 8,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 195,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Rock Star|2017|Roadster": {
       "engine": "SkyActiv-G 2.0L I4",
@@ -2323,13 +2603,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": 130,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.9,
+      "fh": 5.5,
+      "fx": 7.9,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 195,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Rock Star|2018|Roadster": {
       "engine": "SkyActiv-G 2.0L I4",
@@ -2344,13 +2630,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": 130,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.8,
+      "fh": 5.4,
+      "fx": 7.8,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 195,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Rock Star|2019|Roadster": {
       "engine": "SkyActiv-G 2.0L I4",
@@ -2365,13 +2657,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": 130,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.6,
+      "fh": 5.4,
+      "fx": 7.7,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 195,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Rock Star|2020|Roadster": {
       "engine": "SkyActiv-G 2.0L I4",
@@ -2386,13 +2684,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": 130,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.5,
+      "fh": 5.3,
+      "fx": 7.6,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 195,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Rock Star|2021|Roadster": {
       "engine": "SkyActiv-G 2.0L I4",
@@ -2407,13 +2711,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": 130,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.4,
+      "fh": 5.2,
+      "fx": 7.5,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 195,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Rock Star|2022|Roadster": {
       "engine": "SkyActiv-G 2.0L I4",
@@ -2428,13 +2738,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": 130,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.3,
+      "fh": 5.1,
+      "fx": 7.4,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 195,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Rock Star|2023|Roadster": {
       "engine": "SkyActiv-G 2.0L I4",
@@ -2449,13 +2765,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": 130,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.1,
+      "fh": 5.1,
+      "fx": 7.3,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 195,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Rock Star|2024|Roadster": {
       "engine": "SkyActiv-G 2.0L I4",
@@ -2470,13 +2792,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": 130,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9,
+      "fh": 5,
+      "fx": 7.2,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 195,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Rock Star|2025|Roadster": {
       "engine": "SkyActiv-G 2.0L I4",
@@ -2491,13 +2819,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": 130,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 8.9,
+      "fh": 4.9,
+      "fx": 7.1,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 195,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Orochi|2006|V6": {
       "engine": "Camry 3.3L V6",
@@ -2512,13 +2846,19 @@
       "weight": 1540,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14,
+      "fh": 7.8,
+      "fx": 11.2,
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 250,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Orochi|2007|V6": {
       "engine": "Camry 3.3L V6",
@@ -2533,13 +2873,19 @@
       "weight": 1540,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.8,
+      "fh": 7.6,
+      "fx": 11,
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 250,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Orochi|2008|V6": {
       "engine": "Camry 3.3L V6",
@@ -2554,13 +2900,19 @@
       "weight": 1540,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.6,
+      "fh": 7.6,
+      "fx": 10.9,
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 250,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Orochi|2009|V6": {
       "engine": "Camry 3.3L V6",
@@ -2575,13 +2927,19 @@
       "weight": 1540,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.5,
+      "fh": 7.5,
+      "fx": 10.8,
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 250,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Orochi|2010|V6": {
       "engine": "Camry 3.3L V6",
@@ -2596,13 +2954,19 @@
       "weight": 1540,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.3,
+      "fh": 7.3,
+      "fx": 10.6,
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 250,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Orochi|2011|V6": {
       "engine": "Camry 3.3L V6",
@@ -2617,13 +2981,19 @@
       "weight": 1540,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.1,
+      "fh": 7.3,
+      "fx": 10.5,
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 250,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Orochi|2012|V6": {
       "engine": "Camry 3.3L V6",
@@ -2638,13 +3008,19 @@
       "weight": 1540,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13,
+      "fh": 7.2,
+      "fx": 10.4,
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 250,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Orochi|2013|V6": {
       "engine": "Camry 3.3L V6",
@@ -2659,13 +3035,19 @@
       "weight": 1540,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.8,
+      "fh": 7,
+      "fx": 10.2,
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 250,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mitsuoka|Orochi|2014|V6": {
       "engine": "Camry 3.3L V6",
@@ -2680,13 +3062,19 @@
       "weight": 1540,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.6,
+      "fh": 7,
+      "fx": 10.1,
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 250,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Zastava|101|1971|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -2707,7 +3095,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1972|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -2728,7 +3117,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1973|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -2749,7 +3139,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1974|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -2770,7 +3161,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1975|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -2791,7 +3183,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1976|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -2812,7 +3205,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1977|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -2833,7 +3227,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1978|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -2854,7 +3249,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1979|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -2875,7 +3271,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1980|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -2896,7 +3293,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1981|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -2917,7 +3315,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1982|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -2938,7 +3337,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1983|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -2959,7 +3359,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1984|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -2980,7 +3381,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1985|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -3001,7 +3403,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1986|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -3022,7 +3425,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1987|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -3043,7 +3447,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1988|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -3064,7 +3469,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1989|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -3085,7 +3491,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1990|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -3106,7 +3513,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1991|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -3127,7 +3535,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|101|1992|Base": {
       "engine": "Fiat 1.1L I4 OHV",
@@ -3148,7 +3557,8 @@
       "ft": "Petrol",
       "acceleration": 16.5,
       "topSpeed": 135,
-      "price": "~$3,200"
+      "price": "~$3,200",
+      "quarterMile": "~21.0 sec"
     },
     "Zastava|128|1974|Standard": {
       "engine": "Fiat 1.3L I4 OHV",
@@ -3169,7 +3579,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 148,
-      "price": "~$3,800"
+      "price": "~$3,800",
+      "quarterMile": "~20.1 sec"
     },
     "Zastava|128|1975|Standard": {
       "engine": "Fiat 1.3L I4 OHV",
@@ -3190,7 +3601,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 148,
-      "price": "~$3,800"
+      "price": "~$3,800",
+      "quarterMile": "~20.1 sec"
     },
     "Zastava|128|1976|Standard": {
       "engine": "Fiat 1.3L I4 OHV",
@@ -3211,7 +3623,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 148,
-      "price": "~$3,800"
+      "price": "~$3,800",
+      "quarterMile": "~20.1 sec"
     },
     "Zastava|128|1977|Standard": {
       "engine": "Fiat 1.3L I4 OHV",
@@ -3232,7 +3645,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 148,
-      "price": "~$3,800"
+      "price": "~$3,800",
+      "quarterMile": "~20.1 sec"
     },
     "Zastava|128|1978|Standard": {
       "engine": "Fiat 1.3L I4 OHV",
@@ -3253,7 +3667,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 148,
-      "price": "~$3,800"
+      "price": "~$3,800",
+      "quarterMile": "~20.1 sec"
     },
     "Zastava|128|1979|Standard": {
       "engine": "Fiat 1.3L I4 OHV",
@@ -3274,7 +3689,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 148,
-      "price": "~$3,800"
+      "price": "~$3,800",
+      "quarterMile": "~20.1 sec"
     },
     "Zastava|128|1980|Standard": {
       "engine": "Fiat 1.3L I4 OHV",
@@ -3295,7 +3711,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 148,
-      "price": "~$3,800"
+      "price": "~$3,800",
+      "quarterMile": "~20.1 sec"
     },
     "Zastava|128|1981|Standard": {
       "engine": "Fiat 1.3L I4 OHV",
@@ -3316,7 +3733,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 148,
-      "price": "~$3,800"
+      "price": "~$3,800",
+      "quarterMile": "~20.1 sec"
     },
     "Zastava|128|1982|Standard": {
       "engine": "Fiat 1.3L I4 OHV",
@@ -3337,7 +3755,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 148,
-      "price": "~$3,800"
+      "price": "~$3,800",
+      "quarterMile": "~20.1 sec"
     },
     "Zastava|128|1983|Standard": {
       "engine": "Fiat 1.3L I4 OHV",
@@ -3358,7 +3777,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 148,
-      "price": "~$3,800"
+      "price": "~$3,800",
+      "quarterMile": "~20.1 sec"
     },
     "Zastava|128|1984|Standard": {
       "engine": "Fiat 1.3L I4 OHV",
@@ -3379,7 +3799,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 148,
-      "price": "~$3,800"
+      "price": "~$3,800",
+      "quarterMile": "~20.1 sec"
     },
     "Zastava|128|1985|Standard": {
       "engine": "Fiat 1.3L I4 OHV",
@@ -3400,7 +3821,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 148,
-      "price": "~$3,800"
+      "price": "~$3,800",
+      "quarterMile": "~20.1 sec"
     },
     "Zastava|128|1986|Standard": {
       "engine": "Fiat 1.3L I4 OHV",
@@ -3421,7 +3843,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 148,
-      "price": "~$3,800"
+      "price": "~$3,800",
+      "quarterMile": "~20.1 sec"
     },
     "Zastava|128|1987|Standard": {
       "engine": "Fiat 1.3L I4 OHV",
@@ -3442,7 +3865,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 148,
-      "price": "~$3,800"
+      "price": "~$3,800",
+      "quarterMile": "~20.1 sec"
     },
     "Zastava|128|1988|Standard": {
       "engine": "Fiat 1.3L I4 OHV",
@@ -3463,7 +3887,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 148,
-      "price": "~$3,800"
+      "price": "~$3,800",
+      "quarterMile": "~20.1 sec"
     },
     "Zastava|128|1989|Standard": {
       "engine": "Fiat 1.3L I4 OHV",
@@ -3484,7 +3909,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 148,
-      "price": "~$3,800"
+      "price": "~$3,800",
+      "quarterMile": "~20.1 sec"
     },
     "Zastava|128|1990|Standard": {
       "engine": "Fiat 1.3L I4 OHV",
@@ -3505,7 +3931,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 148,
-      "price": "~$3,800"
+      "price": "~$3,800",
+      "quarterMile": "~20.1 sec"
     },
     "Zastava|128|1991|Standard": {
       "engine": "Fiat 1.3L I4 OHV",
@@ -3526,7 +3953,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 148,
-      "price": "~$3,800"
+      "price": "~$3,800",
+      "quarterMile": "~20.1 sec"
     },
     "Talbot|Horizon|1978|GL": {
       "engine": "1.3L I4 OHV",
@@ -3547,7 +3975,8 @@
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$5,500"
+      "price": "~$5,500",
+      "quarterMile": "~19.8 sec"
     },
     "Talbot|Horizon|1978|SX": {
       "engine": "1.6L I4",
@@ -3568,7 +3997,8 @@
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 170,
-      "price": "~$6,200"
+      "price": "~$6,200",
+      "quarterMile": "~18.8 sec"
     },
     "Talbot|Horizon|1979|GL": {
       "engine": "1.3L I4 OHV",
@@ -3589,7 +4019,8 @@
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$5,500"
+      "price": "~$5,500",
+      "quarterMile": "~19.8 sec"
     },
     "Talbot|Horizon|1979|SX": {
       "engine": "1.6L I4",
@@ -3610,7 +4041,8 @@
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 170,
-      "price": "~$6,200"
+      "price": "~$6,200",
+      "quarterMile": "~18.8 sec"
     },
     "Talbot|Horizon|1980|GL": {
       "engine": "1.3L I4 OHV",
@@ -3631,7 +4063,8 @@
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$5,500"
+      "price": "~$5,500",
+      "quarterMile": "~19.8 sec"
     },
     "Talbot|Horizon|1980|SX": {
       "engine": "1.6L I4",
@@ -3652,7 +4085,8 @@
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 170,
-      "price": "~$6,200"
+      "price": "~$6,200",
+      "quarterMile": "~18.8 sec"
     },
     "Talbot|Horizon|1981|GL": {
       "engine": "1.3L I4 OHV",
@@ -3673,7 +4107,8 @@
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$5,500"
+      "price": "~$5,500",
+      "quarterMile": "~19.8 sec"
     },
     "Talbot|Horizon|1981|SX": {
       "engine": "1.6L I4",
@@ -3694,7 +4129,8 @@
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 170,
-      "price": "~$6,200"
+      "price": "~$6,200",
+      "quarterMile": "~18.8 sec"
     },
     "Talbot|Horizon|1982|GL": {
       "engine": "1.3L I4 OHV",
@@ -3715,7 +4151,8 @@
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$5,500"
+      "price": "~$5,500",
+      "quarterMile": "~19.8 sec"
     },
     "Talbot|Horizon|1982|SX": {
       "engine": "1.6L I4",
@@ -3736,7 +4173,8 @@
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 170,
-      "price": "~$6,200"
+      "price": "~$6,200",
+      "quarterMile": "~18.8 sec"
     },
     "Talbot|Horizon|1983|GL": {
       "engine": "1.3L I4 OHV",
@@ -3757,7 +4195,8 @@
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$5,500"
+      "price": "~$5,500",
+      "quarterMile": "~19.8 sec"
     },
     "Talbot|Horizon|1983|SX": {
       "engine": "1.6L I4",
@@ -3778,7 +4217,8 @@
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 170,
-      "price": "~$6,200"
+      "price": "~$6,200",
+      "quarterMile": "~18.8 sec"
     },
     "Talbot|Horizon|1984|GL": {
       "engine": "1.3L I4 OHV",
@@ -3799,7 +4239,8 @@
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$5,500"
+      "price": "~$5,500",
+      "quarterMile": "~19.8 sec"
     },
     "Talbot|Horizon|1984|SX": {
       "engine": "1.6L I4",
@@ -3820,7 +4261,8 @@
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 170,
-      "price": "~$6,200"
+      "price": "~$6,200",
+      "quarterMile": "~18.8 sec"
     },
     "Talbot|Horizon|1985|GL": {
       "engine": "1.3L I4 OHV",
@@ -3841,7 +4283,8 @@
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$5,500"
+      "price": "~$5,500",
+      "quarterMile": "~19.8 sec"
     },
     "Talbot|Horizon|1985|SX": {
       "engine": "1.6L I4",
@@ -3862,7 +4305,8 @@
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 170,
-      "price": "~$6,200"
+      "price": "~$6,200",
+      "quarterMile": "~18.8 sec"
     },
     "Talbot|Horizon|1986|GL": {
       "engine": "1.3L I4 OHV",
@@ -3883,7 +4327,8 @@
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$5,500"
+      "price": "~$5,500",
+      "quarterMile": "~19.8 sec"
     },
     "Talbot|Horizon|1986|SX": {
       "engine": "1.6L I4",
@@ -3904,7 +4349,8 @@
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 170,
-      "price": "~$6,200"
+      "price": "~$6,200",
+      "quarterMile": "~18.8 sec"
     },
     "Talbot|Alpine|1975|GL": {
       "engine": "1.3L I4",
@@ -3925,7 +4371,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$4,800"
+      "price": "~$4,800",
+      "quarterMile": "~20.1 sec"
     },
     "Talbot|Alpine|1975|SX": {
       "engine": "1.5L I4",
@@ -3946,7 +4393,8 @@
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 165,
-      "price": "~$5,500"
+      "price": "~$5,500",
+      "quarterMile": "~19.4 sec"
     },
     "Talbot|Alpine|1976|GL": {
       "engine": "1.3L I4",
@@ -3967,7 +4415,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$4,800"
+      "price": "~$4,800",
+      "quarterMile": "~20.1 sec"
     },
     "Talbot|Alpine|1976|SX": {
       "engine": "1.5L I4",
@@ -3988,7 +4437,8 @@
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 165,
-      "price": "~$5,500"
+      "price": "~$5,500",
+      "quarterMile": "~19.4 sec"
     },
     "Talbot|Alpine|1977|GL": {
       "engine": "1.3L I4",
@@ -4009,7 +4459,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$4,800"
+      "price": "~$4,800",
+      "quarterMile": "~20.1 sec"
     },
     "Talbot|Alpine|1977|SX": {
       "engine": "1.5L I4",
@@ -4030,7 +4481,8 @@
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 165,
-      "price": "~$5,500"
+      "price": "~$5,500",
+      "quarterMile": "~19.4 sec"
     },
     "Talbot|Alpine|1978|GL": {
       "engine": "1.3L I4",
@@ -4051,7 +4503,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$4,800"
+      "price": "~$4,800",
+      "quarterMile": "~20.1 sec"
     },
     "Talbot|Alpine|1978|SX": {
       "engine": "1.5L I4",
@@ -4072,7 +4525,8 @@
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 165,
-      "price": "~$5,500"
+      "price": "~$5,500",
+      "quarterMile": "~19.4 sec"
     },
     "Talbot|Alpine|1979|GL": {
       "engine": "1.3L I4",
@@ -4093,7 +4547,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$4,800"
+      "price": "~$4,800",
+      "quarterMile": "~20.1 sec"
     },
     "Talbot|Alpine|1979|SX": {
       "engine": "1.5L I4",
@@ -4114,7 +4569,8 @@
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 165,
-      "price": "~$5,500"
+      "price": "~$5,500",
+      "quarterMile": "~19.4 sec"
     },
     "Talbot|Alpine|1980|GL": {
       "engine": "1.3L I4",
@@ -4135,7 +4591,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$4,800"
+      "price": "~$4,800",
+      "quarterMile": "~20.1 sec"
     },
     "Talbot|Alpine|1980|SX": {
       "engine": "1.5L I4",
@@ -4156,7 +4613,8 @@
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 165,
-      "price": "~$5,500"
+      "price": "~$5,500",
+      "quarterMile": "~19.4 sec"
     },
     "Talbot|Alpine|1981|GL": {
       "engine": "1.3L I4",
@@ -4177,7 +4635,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$4,800"
+      "price": "~$4,800",
+      "quarterMile": "~20.1 sec"
     },
     "Talbot|Alpine|1981|SX": {
       "engine": "1.5L I4",
@@ -4198,7 +4657,8 @@
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 165,
-      "price": "~$5,500"
+      "price": "~$5,500",
+      "quarterMile": "~19.4 sec"
     },
     "Talbot|Alpine|1982|GL": {
       "engine": "1.3L I4",
@@ -4219,7 +4679,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$4,800"
+      "price": "~$4,800",
+      "quarterMile": "~20.1 sec"
     },
     "Talbot|Alpine|1982|SX": {
       "engine": "1.5L I4",
@@ -4240,7 +4701,8 @@
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 165,
-      "price": "~$5,500"
+      "price": "~$5,500",
+      "quarterMile": "~19.4 sec"
     },
     "Talbot|Alpine|1983|GL": {
       "engine": "1.3L I4",
@@ -4261,7 +4723,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$4,800"
+      "price": "~$4,800",
+      "quarterMile": "~20.1 sec"
     },
     "Talbot|Alpine|1983|SX": {
       "engine": "1.5L I4",
@@ -4282,7 +4745,8 @@
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 165,
-      "price": "~$5,500"
+      "price": "~$5,500",
+      "quarterMile": "~19.4 sec"
     },
     "Talbot|Alpine|1984|GL": {
       "engine": "1.3L I4",
@@ -4303,7 +4767,8 @@
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 155,
-      "price": "~$4,800"
+      "price": "~$4,800",
+      "quarterMile": "~20.1 sec"
     },
     "Talbot|Alpine|1984|SX": {
       "engine": "1.5L I4",
@@ -4324,7 +4789,8 @@
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 165,
-      "price": "~$5,500"
+      "price": "~$5,500",
+      "quarterMile": "~19.4 sec"
     },
     "Talbot|Samba|1981|GL": {
       "engine": "1.0L I4",
@@ -4345,7 +4811,8 @@
       "ft": "Petrol",
       "acceleration": 16,
       "topSpeed": 145,
-      "price": "~$5,200"
+      "price": "~$5,200",
+      "quarterMile": "~20.7 sec"
     },
     "Talbot|Samba|1981|Cabriolet": {
       "engine": "1.1L I4",
@@ -4366,7 +4833,8 @@
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 152,
-      "price": "~$6,800"
+      "price": "~$6,800",
+      "quarterMile": "~20.3 sec"
     },
     "Talbot|Samba|1982|GL": {
       "engine": "1.0L I4",
@@ -4387,7 +4855,8 @@
       "ft": "Petrol",
       "acceleration": 16,
       "topSpeed": 145,
-      "price": "~$5,200"
+      "price": "~$5,200",
+      "quarterMile": "~20.7 sec"
     },
     "Talbot|Samba|1982|Cabriolet": {
       "engine": "1.1L I4",
@@ -4408,7 +4877,8 @@
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 152,
-      "price": "~$6,800"
+      "price": "~$6,800",
+      "quarterMile": "~20.3 sec"
     },
     "Talbot|Samba|1983|GL": {
       "engine": "1.0L I4",
@@ -4429,7 +4899,8 @@
       "ft": "Petrol",
       "acceleration": 16,
       "topSpeed": 145,
-      "price": "~$5,200"
+      "price": "~$5,200",
+      "quarterMile": "~20.7 sec"
     },
     "Talbot|Samba|1983|Cabriolet": {
       "engine": "1.1L I4",
@@ -4450,7 +4921,8 @@
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 152,
-      "price": "~$6,800"
+      "price": "~$6,800",
+      "quarterMile": "~20.3 sec"
     },
     "Talbot|Samba|1984|GL": {
       "engine": "1.0L I4",
@@ -4471,7 +4943,8 @@
       "ft": "Petrol",
       "acceleration": 16,
       "topSpeed": 145,
-      "price": "~$5,200"
+      "price": "~$5,200",
+      "quarterMile": "~20.7 sec"
     },
     "Talbot|Samba|1984|Cabriolet": {
       "engine": "1.1L I4",
@@ -4492,7 +4965,8 @@
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 152,
-      "price": "~$6,800"
+      "price": "~$6,800",
+      "quarterMile": "~20.3 sec"
     },
     "Talbot|Samba|1985|GL": {
       "engine": "1.0L I4",
@@ -4513,7 +4987,8 @@
       "ft": "Petrol",
       "acceleration": 16,
       "topSpeed": 145,
-      "price": "~$5,200"
+      "price": "~$5,200",
+      "quarterMile": "~20.7 sec"
     },
     "Talbot|Samba|1985|Cabriolet": {
       "engine": "1.1L I4",
@@ -4534,7 +5009,8 @@
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 152,
-      "price": "~$6,800"
+      "price": "~$6,800",
+      "quarterMile": "~20.3 sec"
     },
     "Talbot|Samba|1986|GL": {
       "engine": "1.0L I4",
@@ -4555,7 +5031,8 @@
       "ft": "Petrol",
       "acceleration": 16,
       "topSpeed": 145,
-      "price": "~$5,200"
+      "price": "~$5,200",
+      "quarterMile": "~20.7 sec"
     },
     "Talbot|Samba|1986|Cabriolet": {
       "engine": "1.1L I4",
@@ -4576,7 +5053,8 @@
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 152,
-      "price": "~$6,800"
+      "price": "~$6,800",
+      "quarterMile": "~20.3 sec"
     }
   }
 }

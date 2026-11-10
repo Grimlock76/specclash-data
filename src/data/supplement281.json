@@ -1,7 +1,7 @@
 {
   "specs": {
     "Subaru|WRX|2026|WRX Manual": {
-      "topSpeed": null,
+      "topSpeed": 250,
       "acceleration": 6,
       "cargo": 414,
       "seats": 5,
@@ -20,10 +20,14 @@
       "fx": 9.9,
       "weight": 1524,
       "price": "$48,890",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|WRX|2026|RS Manual": {
-      "topSpeed": null,
+      "topSpeed": 245,
       "acceleration": 6,
       "cargo": 414,
       "seats": 5,
@@ -42,10 +46,14 @@
       "fx": 9.9,
       "weight": 1561,
       "price": "$54,190",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|WRX|2026|tS": {
-      "topSpeed": null,
+      "topSpeed": 245,
       "acceleration": 6.1,
       "cargo": 414,
       "seats": 5,
@@ -64,10 +72,14 @@
       "fx": 8.5,
       "weight": 1631,
       "price": "$62,190",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|WRX|2026|tS Spec B Manual": {
-      "topSpeed": null,
+      "topSpeed": 245,
       "acceleration": 6,
       "cargo": 414,
       "seats": 5,
@@ -86,10 +98,14 @@
       "fx": 10.4,
       "weight": 1562,
       "price": "$62,190",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|WRX|2026|Club Spec Evo Manual": {
-      "topSpeed": null,
+      "topSpeed": 245,
       "acceleration": 6,
       "cargo": 414,
       "seats": 5,
@@ -108,10 +124,14 @@
       "fx": 10.4,
       "weight": 1562,
       "price": "$63,190",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|WRX|2026|GT Sportswagon": {
-      "topSpeed": null,
+      "topSpeed": 240,
       "acceleration": 6.1,
       "cargo": 492,
       "seats": 5,
@@ -130,7 +150,11 @@
       "fx": 8.5,
       "weight": 1655,
       "price": "$58,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|GR86|2026|GT Manual": {
       "topSpeed": 226,
@@ -152,7 +176,8 @@
       "fx": 9.4,
       "weight": 1290,
       "price": "$46,340",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.6 sec"
     },
     "Toyota|GR86|2026|GT Auto": {
       "topSpeed": 226,
@@ -174,7 +199,8 @@
       "fx": 8.7,
       "weight": 1309,
       "price": "$46,340",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec"
     },
     "Toyota|GR86|2026|GTS Manual": {
       "topSpeed": 226,
@@ -196,10 +222,11 @@
       "fx": 9.5,
       "weight": 1299,
       "price": "$48,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.6 sec"
     },
     "Lexus|LBX|2026|Luxury 2WD": {
-      "topSpeed": null,
+      "topSpeed": 180,
       "acceleration": 9.2,
       "cargo": 402,
       "seats": 5,
@@ -209,7 +236,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 100,
-      "torque": null,
+      "torque": 195,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 3.6,
@@ -218,10 +245,15 @@
       "weight": 1330,
       "fuelTank": 36,
       "price": "$47,320",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Lexus|LBX|2026|Sports Luxury 2WD": {
-      "topSpeed": null,
+      "topSpeed": 180,
       "acceleration": 9.2,
       "cargo": 402,
       "seats": 5,
@@ -231,7 +263,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 100,
-      "torque": null,
+      "torque": 195,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 3.6,
@@ -240,12 +272,17 @@
       "weight": 1330,
       "fuelTank": 36,
       "price": "$52,760",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Lexus|LBX|2026|Morizo RR": {
       "topSpeed": 230,
       "acceleration": 5.2,
-      "cargo": null,
+      "cargo": 402,
       "seats": 5,
       "engine": "1.6L I3 Turbo Petrol",
       "displacement": 1618,
@@ -262,10 +299,14 @@
       "weight": 1485,
       "fuelTank": 50,
       "price": "$76,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.5 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Mustang Mach-E|2026|Select": {
-      "topSpeed": null,
+      "topSpeed": 185,
       "acceleration": 6.2,
       "cargo": null,
       "seats": 5,
@@ -285,10 +326,14 @@
       "range": 470,
       "weight": 2151,
       "price": "$65,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Mustang Mach-E|2026|Premium": {
-      "topSpeed": null,
+      "topSpeed": 185,
       "acceleration": 6.1,
       "cargo": null,
       "seats": 5,
@@ -308,10 +353,14 @@
       "range": 615,
       "weight": 2101,
       "price": "$80,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Ford|Mustang Mach-E|2026|GT": {
-      "topSpeed": null,
+      "topSpeed": 215,
       "acceleration": 3.8,
       "cargo": null,
       "seats": 5,
@@ -331,7 +380,11 @@
       "range": 515,
       "weight": 2307,
       "price": "$98,405",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

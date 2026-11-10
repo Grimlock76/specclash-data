@@ -17,7 +17,8 @@
       "acceleration": 10.9,
       "topSpeed": 185,
       "price": "~$38,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.1 sec"
     },
     "Fiat|600|2025|La Prima": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -36,7 +37,8 @@
       "acceleration": 10.9,
       "topSpeed": 185,
       "price": "~$40,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.1 sec"
     },
     "Fiat|600|2026|La Prima": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -55,7 +57,8 @@
       "acceleration": 10.9,
       "topSpeed": 185,
       "price": "~$41,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.1 sec"
     },
     "Fiat|600e|2024|600e": {
       "engine": "Electric Single Motor",
@@ -74,7 +77,8 @@
       "acceleration": 9,
       "topSpeed": 150,
       "price": "~$50,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.9 sec"
     },
     "Fiat|600e|2025|600e": {
       "engine": "Electric Single Motor",
@@ -93,7 +97,8 @@
       "acceleration": 9,
       "topSpeed": 150,
       "price": "~$52,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.9 sec"
     },
     "Fiat|600e|2026|600e": {
       "engine": "Electric Single Motor",
@@ -112,7 +117,8 @@
       "acceleration": 9,
       "topSpeed": 150,
       "price": "~$53,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.9 sec"
     },
     "Abarth|600e|2024|600e": {
       "engine": "Electric Single Motor",
@@ -131,7 +137,8 @@
       "acceleration": 5.7,
       "topSpeed": 200,
       "price": "~$67,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.0 sec"
     },
     "Abarth|600e|2025|600e": {
       "engine": "Electric Single Motor",
@@ -150,7 +157,8 @@
       "acceleration": 5.7,
       "topSpeed": 200,
       "price": "~$69,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.0 sec"
     },
     "Abarth|600e|2026|600e": {
       "engine": "Electric Single Motor",
@@ -169,7 +177,8 @@
       "acceleration": 5.7,
       "topSpeed": 200,
       "price": "~$70,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.0 sec"
     },
     "Smart|#1|2025|Premium": {
       "engine": "Electric Single Motor",
@@ -188,7 +197,8 @@
       "acceleration": 6.7,
       "topSpeed": 180,
       "price": "~$54,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.9 sec"
     },
     "Smart|#1|2025|Pro+": {
       "engine": "Electric Single Motor",
@@ -207,7 +217,8 @@
       "acceleration": 6.7,
       "topSpeed": 180,
       "price": "~$47,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.9 sec"
     },
     "Smart|#1|2025|Brabus": {
       "engine": "Electric Dual Motor",
@@ -226,7 +237,8 @@
       "acceleration": 3.9,
       "topSpeed": 180,
       "price": "~$61,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.2 sec"
     },
     "Smart|#1|2026|Premium": {
       "engine": "Electric Single Motor",
@@ -245,7 +257,8 @@
       "acceleration": 6.7,
       "topSpeed": 180,
       "price": "~$55,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.9 sec"
     },
     "Smart|#1|2026|Pro+": {
       "engine": "Electric Single Motor",
@@ -264,7 +277,8 @@
       "acceleration": 6.7,
       "topSpeed": 180,
       "price": "~$48,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.9 sec"
     },
     "Smart|#1|2026|Brabus": {
       "engine": "Electric Dual Motor",
@@ -283,7 +297,8 @@
       "acceleration": 3.9,
       "topSpeed": 180,
       "price": "~$62,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.2 sec"
     },
     "Smart|#3|2025|Pro+": {
       "engine": "Electric Single Motor",
@@ -302,7 +317,8 @@
       "acceleration": 6.7,
       "topSpeed": 180,
       "price": "~$49,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.9 sec"
     },
     "Smart|#3|2025|Brabus": {
       "engine": "Electric Dual Motor",
@@ -321,7 +337,8 @@
       "acceleration": 3.7,
       "topSpeed": 180,
       "price": "~$65,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.9 sec"
     },
     "Smart|#3|2026|Pro+": {
       "engine": "Electric Single Motor",
@@ -340,7 +357,8 @@
       "acceleration": 6.7,
       "topSpeed": 180,
       "price": "~$50,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.9 sec"
     },
     "Smart|#3|2026|Brabus": {
       "engine": "Electric Dual Motor",
@@ -359,7 +377,8 @@
       "acceleration": 3.7,
       "topSpeed": 180,
       "price": "~$66,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.9 sec"
     }
   }
 }

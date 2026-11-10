@@ -3,8 +3,8 @@
     "Kia|Tasman|2025|S 4x2": {
       "fuelType": "diesel",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.8,
+      "topSpeed": 180,
       "seats": 5,
       "towing": 3500,
       "engine": "2.2L I4 Turbo Diesel",
@@ -23,13 +23,16 @@
       "price": "$42,990",
       "payload": 1124,
       "groundClearance": 206,
-      "accelClaimed": false
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Tasman|2025|SX": {
       "fuelType": "diesel",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.2,
+      "topSpeed": 180,
       "seats": 5,
       "towing": 3500,
       "engine": "2.2L I4 Turbo Diesel",
@@ -48,13 +51,16 @@
       "price": "$54,490",
       "payload": 917,
       "groundClearance": 206,
-      "accelClaimed": false
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Tasman|2025|SX+": {
       "fuelType": "diesel",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.2,
+      "topSpeed": 180,
       "seats": 5,
       "towing": 3500,
       "engine": "2.2L I4 Turbo Diesel",
@@ -73,13 +79,16 @@
       "price": "$62,390",
       "payload": 917,
       "groundClearance": 206,
-      "accelClaimed": false
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Tasman|2025|X-Line": {
       "fuelType": "diesel",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10,
+      "topSpeed": 180,
       "seats": 5,
       "towing": 3500,
       "engine": "2.2L I4 Turbo Diesel",
@@ -98,13 +107,16 @@
       "price": "$67,990",
       "payload": 1027,
       "groundClearance": 224,
-      "accelClaimed": false
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Tasman|2025|X-Pro": {
       "fuelType": "diesel",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.2,
+      "topSpeed": 180,
       "seats": 5,
       "towing": 3500,
       "engine": "2.2L I4 Turbo Diesel",
@@ -119,17 +131,21 @@
       "fc": 9.4,
       "fh": 7.3,
       "fx": 8.1,
-      "weight": null,
+      "weight": 2285,
       "price": "$74,990",
       "payload": 1013,
       "groundClearance": 252,
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.7 sec"
     },
     "Kia|Tasman|2026|S 4x2": {
       "fuelType": "diesel",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.8,
+      "topSpeed": 180,
       "seats": 5,
       "towing": 3500,
       "engine": "2.2L I4 Turbo Diesel",
@@ -148,13 +164,16 @@
       "price": "$42,990",
       "payload": 1124,
       "groundClearance": 206,
-      "accelClaimed": false
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Tasman|2026|SX": {
       "fuelType": "diesel",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.2,
+      "topSpeed": 180,
       "seats": 5,
       "towing": 3500,
       "engine": "2.2L I4 Turbo Diesel",
@@ -173,13 +192,16 @@
       "price": "$54,490",
       "payload": 917,
       "groundClearance": 206,
-      "accelClaimed": false
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Tasman|2026|SX+": {
       "fuelType": "diesel",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.2,
+      "topSpeed": 180,
       "seats": 5,
       "towing": 3500,
       "engine": "2.2L I4 Turbo Diesel",
@@ -198,13 +220,16 @@
       "price": "$62,390",
       "payload": 917,
       "groundClearance": 206,
-      "accelClaimed": false
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Tasman|2026|X-Line": {
       "fuelType": "diesel",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10,
+      "topSpeed": 180,
       "seats": 5,
       "towing": 3500,
       "engine": "2.2L I4 Turbo Diesel",
@@ -223,13 +248,16 @@
       "price": "$67,990",
       "payload": 1027,
       "groundClearance": 224,
-      "accelClaimed": false
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Tasman|2026|X-Pro": {
       "fuelType": "diesel",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.2,
+      "topSpeed": 180,
       "seats": 5,
       "towing": 3500,
       "engine": "2.2L I4 Turbo Diesel",
@@ -244,11 +272,15 @@
       "fc": 9.4,
       "fh": 7.3,
       "fx": 8.1,
-      "weight": null,
+      "weight": 2285,
       "price": "$74,990",
       "payload": 1013,
       "groundClearance": 252,
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.7 sec"
     }
   }
 }

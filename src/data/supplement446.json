@@ -41,7 +41,12 @@
       "seats": 4,
       "price": "~$262,000",
       "aspiration": "BorgWarner VTG Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~12.3 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2024|Carrera 4S": {
       "engine": "3.0L Flat-6 Twin-Turbo",
@@ -61,7 +66,12 @@
       "seats": 4,
       "price": "~$312,000",
       "aspiration": "BorgWarner VTG Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~11.8 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2024|Carrera Cabriolet": {
       "engine": "3.0L Flat-6 Twin-Turbo",
@@ -81,7 +91,12 @@
       "seats": 4,
       "price": "~$268,000",
       "aspiration": "BorgWarner VTG Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~12.7 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2024|Carrera GTS": {
       "engine": "3.0 Flat-6",
@@ -124,7 +139,12 @@
       "seats": 4,
       "price": "~$320,000",
       "aspiration": "BorgWarner VTG Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~12.2 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2024|Dakar": {
       "engine": "3.0L Flat-6 Twin-Turbo",
@@ -144,7 +164,12 @@
       "seats": 4,
       "price": "~$378,000",
       "aspiration": "BorgWarner VTG Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~11.5 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2024|GT3": {
       "engine": "4.0L 6-cyl Flat-Six NA",
@@ -157,14 +182,21 @@
       "torque": 470,
       "weight": 1418,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 16.3,
+      "fh": 9,
       "fx": 13,
       "acceleration": 3.4,
       "topSpeed": 318,
       "price": "~$518,200",
       "aspiration": "NA",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 132
     },
     "Porsche|911|2024|GT3 RS": {
       "engine": "4.0L Flat-6 NA",
@@ -184,7 +216,12 @@
       "topSpeed": 296,
       "price": "~$555,000",
       "aspiration": "NA",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~11.3 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2024|GT3 Touring": {
       "engine": "4.0L Flat-6 NA",
@@ -204,7 +241,12 @@
       "seats": 4,
       "price": "~$397,000",
       "aspiration": "NA",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~12.2 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2024|Targa 4": {
       "engine": "3.0L Flat-6 Twin-Turbo",
@@ -224,7 +266,12 @@
       "seats": 4,
       "price": "~$274,000",
       "aspiration": "BorgWarner VTG Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~12.3 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2024|Targa 4S": {
       "engine": "3.0L Flat-6 Twin-Turbo",
@@ -244,7 +291,12 @@
       "seats": 4,
       "price": "~$326,000",
       "aspiration": "BorgWarner VTG Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~11.8 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2024|Turbo": {
       "engine": "3.8L Flat-6 Twin-Turbo",
@@ -264,7 +316,12 @@
       "topSpeed": 320,
       "price": "~$380,000",
       "aspiration": "BorgWarner VTG Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~11.1 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2024|Turbo Cabriolet": {
       "engine": "3.8L Flat-6 Twin-Turbo",
@@ -284,7 +341,12 @@
       "topSpeed": 320,
       "price": "~$400,000",
       "aspiration": "BorgWarner VTG Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~11.2 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2024|Turbo S": {
       "engine": "3.7 Flat-6 Biturbo",
@@ -304,7 +366,12 @@
       "topSpeed": 330,
       "price": "~$484,000",
       "aspiration": "BorgWarner Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~10.7 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2024|Turbo S Cabriolet": {
       "engine": "3.8L Flat-6 Twin-Turbo",
@@ -324,13 +391,18 @@
       "topSpeed": 330,
       "price": "~$465,000",
       "aspiration": "BorgWarner VTG Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~10.7 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2025|Carrera": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 13.3,
+      "fh": 7.3,
       "engine": "3.0L Flat-6 Twin-Turbo",
       "displacement": 2981,
       "cylinders": 6,
@@ -345,13 +417,19 @@
       "topSpeed": 294,
       "weight": 1520,
       "price": "$279,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2025|Carrera T": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 14.4,
+      "fh": 8,
       "engine": "3.0L Flat-6 Twin-Turbo",
       "displacement": 2981,
       "cylinders": 6,
@@ -366,13 +444,19 @@
       "topSpeed": 295,
       "weight": 1490,
       "price": "$306,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2025|Carrera S": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 12.8,
+      "fh": 7,
       "engine": "3.0L Flat-6 Twin-Turbo",
       "displacement": 2981,
       "cylinders": 6,
@@ -387,13 +471,19 @@
       "topSpeed": 308,
       "weight": 1540,
       "price": "$342,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2025|Carrera 4S": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 13.3,
+      "fh": 7.3,
       "engine": "3.0L Flat-6 Twin-Turbo",
       "displacement": 2981,
       "cylinders": 6,
@@ -408,13 +498,19 @@
       "topSpeed": 308,
       "weight": 1585,
       "price": "$362,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2025|Targa 4S": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 13.5,
+      "fh": 7.5,
       "engine": "3.0L Flat-6 Twin-Turbo",
       "displacement": 2981,
       "cylinders": 6,
@@ -429,13 +525,19 @@
       "topSpeed": 308,
       "weight": 1695,
       "price": "$389,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2025|Carrera GTS": {
       "fuelType": "hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 12.2,
+      "fh": 8.9,
       "engine": "3.6L Flat-6 Turbo T-Hybrid",
       "displacement": 3591,
       "cylinders": 6,
@@ -450,13 +552,19 @@
       "drivetrain": "RWD",
       "weight": 1595,
       "price": "$380,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2025|Carrera 4 GTS": {
       "fuelType": "hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 12.2,
+      "fh": 8.9,
       "engine": "3.6L Flat-6 Turbo T-Hybrid",
       "displacement": 3591,
       "cylinders": 6,
@@ -471,13 +579,19 @@
       "drivetrain": "AWD",
       "weight": 1645,
       "price": "$400,200",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2025|Targa 4 GTS": {
       "fuelType": "hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 12.5,
+      "fh": 8.9,
       "engine": "3.6L Flat-6 Turbo T-Hybrid",
       "displacement": 3591,
       "cylinders": 6,
@@ -492,13 +606,19 @@
       "drivetrain": "AWD",
       "weight": 1745,
       "price": "$436,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2025|GT3": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 17,
+      "fh": 9.4,
       "engine": "4.0L Flat-6 (naturally aspirated)",
       "displacement": 3996,
       "cylinders": 6,
@@ -513,13 +633,19 @@
       "seats": null,
       "price": "$446,700",
       "weight": 1462,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2025|GT3 Touring": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 17,
+      "fh": 9.4,
       "engine": "4.0L Flat-6 (naturally aspirated)",
       "displacement": 3996,
       "cylinders": 6,
@@ -534,13 +660,19 @@
       "seats": null,
       "price": "$446,700",
       "weight": 1461,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2025|Turbo S": {
       "fuelType": "hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 13.5,
+      "fh": 9.7,
       "engine": "3.6L Flat-6 Twin-Turbo T-Hybrid",
       "displacement": 3591,
       "cylinders": 6,
@@ -555,13 +687,19 @@
       "acceleration": 2.5,
       "weight": 1725,
       "price": "$577,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2025|Carrera Cabriolet": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 13.4,
+      "fh": 7.4,
       "engine": "3.0L Flat-6 Twin-Turbo",
       "displacement": 2981,
       "cylinders": 6,
@@ -576,13 +714,19 @@
       "topSpeed": 291,
       "weight": 1600,
       "price": "$302,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2025|Carrera S Cabriolet": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 13.1,
+      "fh": 7.3,
       "engine": "3.0L Flat-6 Twin-Turbo",
       "displacement": 2981,
       "cylinders": 6,
@@ -597,13 +741,19 @@
       "topSpeed": 308,
       "weight": 1625,
       "price": "$365,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2025|Turbo S Cabriolet": {
       "fuelType": "hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 13.7,
+      "fh": 9.9,
       "engine": "3.6L Flat-6 Twin-Turbo T-Hybrid",
       "displacement": 3591,
       "cylinders": 6,
@@ -618,13 +768,19 @@
       "acceleration": 2.6,
       "weight": 1810,
       "price": "$598,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~10.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2026|Carrera": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 13.3,
+      "fh": 7.3,
       "engine": "3.0L Flat-6 Twin-Turbo",
       "displacement": 2981,
       "cylinders": 6,
@@ -639,13 +795,19 @@
       "topSpeed": 294,
       "weight": 1520,
       "price": "$296,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2026|Carrera T": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 14.4,
+      "fh": 8,
       "engine": "3.0L Flat-6 Twin-Turbo",
       "displacement": 2981,
       "cylinders": 6,
@@ -660,13 +822,19 @@
       "topSpeed": 295,
       "weight": 1490,
       "price": "$318,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2026|Carrera S": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 12.8,
+      "fh": 7,
       "engine": "3.0L Flat-6 Twin-Turbo",
       "displacement": 2981,
       "cylinders": 6,
@@ -681,13 +849,19 @@
       "topSpeed": 308,
       "weight": 1540,
       "price": "$344,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2026|Carrera 4S": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 13.3,
+      "fh": 7.3,
       "engine": "3.0L Flat-6 Twin-Turbo",
       "displacement": 2981,
       "cylinders": 6,
@@ -702,13 +876,19 @@
       "topSpeed": 308,
       "weight": 1585,
       "price": "$362,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2026|Targa 4S": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 13.5,
+      "fh": 7.5,
       "engine": "3.0L Flat-6 Twin-Turbo",
       "displacement": 2981,
       "cylinders": 6,
@@ -723,13 +903,19 @@
       "topSpeed": 308,
       "weight": 1695,
       "price": "$389,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2026|Carrera GTS": {
       "fuelType": "hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 12.2,
+      "fh": 8.9,
       "engine": "3.6L Flat-6 Turbo T-Hybrid",
       "displacement": 3591,
       "cylinders": 6,
@@ -744,13 +930,19 @@
       "topSpeed": 312,
       "weight": 1595,
       "price": "$392,200",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2026|Carrera 4 GTS": {
       "fuelType": "hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 12.2,
+      "fh": 8.9,
       "engine": "3.6L Flat-6 Turbo T-Hybrid",
       "displacement": 3591,
       "cylinders": 6,
@@ -765,13 +957,19 @@
       "topSpeed": 312,
       "weight": 1645,
       "price": "$412,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2026|Targa 4 GTS": {
       "fuelType": "hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 12.5,
+      "fh": 8.9,
       "engine": "3.6L Flat-6 Turbo T-Hybrid",
       "displacement": 3591,
       "cylinders": 6,
@@ -786,13 +984,19 @@
       "topSpeed": 308,
       "weight": 1745,
       "price": "$449,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2026|GT3": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 17,
+      "fh": 9.4,
       "engine": "4.0L Flat-6 (naturally aspirated)",
       "displacement": 3996,
       "cylinders": 6,
@@ -807,13 +1011,19 @@
       "seats": null,
       "price": "$449,100",
       "weight": 1462,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2026|GT3 Touring": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 17,
+      "fh": 9.4,
       "engine": "4.0L Flat-6 (naturally aspirated)",
       "displacement": 3996,
       "cylinders": 6,
@@ -828,13 +1038,19 @@
       "seats": null,
       "price": "$449,100",
       "weight": 1461,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2026|Turbo S": {
       "fuelType": "hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 13.5,
+      "fh": 9.7,
       "engine": "3.6L Flat-6 Twin-Turbo T-Hybrid",
       "displacement": 3591,
       "cylinders": 6,
@@ -849,13 +1065,19 @@
       "acceleration": 2.5,
       "weight": 1725,
       "price": "$577,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2026|Carrera Cabriolet": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 13.4,
+      "fh": 7.4,
       "engine": "3.0L Flat-6 Twin-Turbo",
       "displacement": 2981,
       "cylinders": 6,
@@ -870,13 +1092,19 @@
       "topSpeed": 291,
       "weight": 1600,
       "price": "$319,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2026|Carrera S Cabriolet": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 13.1,
+      "fh": 7.3,
       "engine": "3.0L Flat-6 Twin-Turbo",
       "displacement": 2981,
       "cylinders": 6,
@@ -891,13 +1119,19 @@
       "topSpeed": 308,
       "weight": 1625,
       "price": "$367,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|911|2026|Turbo S Cabriolet": {
       "fuelType": "hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 132,
+      "fc": 13.7,
+      "fh": 9.9,
       "engine": "3.6L Flat-6 Twin-Turbo T-Hybrid",
       "displacement": 3591,
       "cylinders": 6,
@@ -912,7 +1146,13 @@
       "acceleration": 2.6,
       "weight": 1810,
       "price": "$598,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~10.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2024|Coupe": {
       "engine": "3.0L V6 Turbo",
@@ -932,7 +1172,12 @@
       "seats": 4,
       "price": "~$150,000",
       "aspiration": "Single-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~14.3 sec",
+      "cargo": 770,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2024|E-Hybrid": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -945,15 +1190,22 @@
       "torque": 700,
       "weight": 2225,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.9,
+      "fh": 2.8,
       "fx": 3.4,
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
       "price": "~$159,900",
       "aspiration": "Single-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 770
     },
     "Porsche|Cayenne|2024|E-Hybrid Coupe": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -966,15 +1218,22 @@
       "torque": 700,
       "weight": 2255,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.9,
+      "fh": 2.8,
       "fx": 3.4,
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
       "price": "~$166,900",
       "aspiration": "Single-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 770
     },
     "Porsche|Cayenne|2024|GTS": {
       "engine": "4.0L V8 biturbo",
@@ -994,7 +1253,12 @@
       "topSpeed": 270,
       "price": "~$244,000",
       "aspiration": "BorgWarner Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~12.8 sec",
+      "cargo": 770,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2024|GTS Coupe": {
       "engine": "4.0L V8 Biturbo",
@@ -1014,7 +1278,12 @@
       "seats": 4,
       "price": "~$246,000",
       "aspiration": "BorgWarner Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~12.8 sec",
+      "cargo": 770,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2024|S": {
       "engine": "3.0",
@@ -1057,7 +1326,12 @@
       "seats": 4,
       "price": "~$206,000",
       "aspiration": "BorgWarner Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~13.3 sec",
+      "cargo": 770,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2024|Turbo Coupe": {
       "engine": "4.0L V8 Biturbo",
@@ -1077,7 +1351,12 @@
       "seats": 4,
       "price": "~$302,000",
       "aspiration": "BorgWarner Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~12.2 sec",
+      "cargo": 770,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2024|Turbo E-Hybrid": {
       "engine": "4.0L V8 TwinTurbo E-Hybrid",
@@ -1090,15 +1369,22 @@
       "torque": 900,
       "weight": 2355,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 4.5,
+      "fh": 3.2,
       "fx": 3.9,
       "acceleration": 3.7,
       "topSpeed": 295,
       "range": 42,
       "price": "~$309,900",
       "aspiration": "BorgWarner Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~11.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 770
     },
     "Porsche|Cayenne|2024|Turbo GT": {
       "engine": "4.0L V8 Biturbo",
@@ -1118,13 +1404,18 @@
       "seats": 4,
       "price": "~$338,000",
       "aspiration": "BorgWarner Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~11.4 sec",
+      "cargo": 770,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2025|Cayenne": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 13,
+      "fh": 7.2,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1141,13 +1432,19 @@
       "acceleration": 6,
       "weight": 2055,
       "price": "$141,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2025|Coupe": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 13,
+      "fh": 7.2,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1164,13 +1461,19 @@
       "acceleration": 5.7,
       "weight": 2085,
       "price": "$149,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2025|E-Hybrid": {
       "fuelType": "plug-in hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 2.2,
+      "fh": 1.5,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1188,13 +1491,19 @@
       "seats": 5,
       "weight": 2425,
       "price": "$158,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2025|E-Hybrid Coupe": {
       "fuelType": "plug-in hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 2.2,
+      "fh": 1.5,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1212,13 +1521,19 @@
       "seats": 4,
       "weight": 2455,
       "price": "$165,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2025|S": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 15.4,
+      "fh": 8.5,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1234,13 +1549,19 @@
       "seats": 5,
       "weight": 2160,
       "price": "$181,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2025|S Coupe": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 15.4,
+      "fh": 8.5,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1256,13 +1577,19 @@
       "seats": 4,
       "weight": 2190,
       "price": "$191,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2025|S E-Hybrid": {
       "fuelType": "plug-in hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 2.3,
+      "fh": 1.6,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1280,13 +1607,19 @@
       "seats": 5,
       "weight": 2410,
       "price": "$181,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.0 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2025|S E-Hybrid Coupe": {
       "fuelType": "plug-in hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 2.3,
+      "fh": 1.6,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1304,13 +1637,19 @@
       "seats": 4,
       "weight": 2440,
       "price": "$188,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.0 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2025|GTS": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 15.4,
+      "fh": 8.5,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1326,13 +1665,19 @@
       "seats": 5,
       "weight": 2190,
       "price": "$208,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2025|GTS Coupe": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 15.4,
+      "fh": 8.5,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1348,13 +1693,19 @@
       "seats": 4,
       "weight": 2220,
       "price": "$211,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2025|Turbo E-Hybrid": {
       "fuelType": "plug-in hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 2.9,
+      "fh": 2,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1372,13 +1723,19 @@
       "seats": 5,
       "weight": 2570,
       "price": "$297,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2025|Turbo E-Hybrid Coupe": {
       "fuelType": "plug-in hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 2.9,
+      "fh": 2,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1396,13 +1753,19 @@
       "seats": 4,
       "weight": 2595,
       "price": "$306,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2025|Turbo GT": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 15.6,
+      "fh": 8.7,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1418,13 +1781,19 @@
       "weight": 2245,
       "seats": 4,
       "price": "$370,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2026|Cayenne": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 13,
+      "fh": 7.2,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1441,13 +1810,19 @@
       "acceleration": 6,
       "weight": 2055,
       "price": "$144,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2026|Coupe": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 13,
+      "fh": 7.2,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1464,13 +1839,19 @@
       "acceleration": 5.7,
       "weight": 2085,
       "price": "$153,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2026|Black Edition": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 13,
+      "fh": 7.2,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1487,13 +1868,19 @@
       "acceleration": 6,
       "weight": 2055,
       "price": "$156,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2026|Black Edition Coupe": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 13,
+      "fh": 7.2,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1510,13 +1897,19 @@
       "acceleration": 5.7,
       "weight": 2085,
       "price": "$162,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2026|E-Hybrid": {
       "fuelType": "plug-in hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 2.2,
+      "fh": 1.5,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1534,13 +1927,19 @@
       "seats": 5,
       "weight": 2425,
       "price": "$164,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2026|E-Hybrid Coupe": {
       "fuelType": "plug-in hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 2.2,
+      "fh": 1.5,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1558,13 +1957,19 @@
       "seats": 4,
       "weight": 2455,
       "price": "$171,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2026|E-Hybrid Black Edition": {
       "fuelType": "plug-in hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 2.2,
+      "fh": 1.5,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1582,13 +1987,19 @@
       "seats": 5,
       "weight": 2425,
       "price": "$175,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2026|E-Hybrid Black Edition Coupe": {
       "fuelType": "plug-in hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 2.2,
+      "fh": 1.5,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1606,13 +2017,19 @@
       "seats": 4,
       "weight": 2455,
       "price": "$180,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2026|S": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 15.4,
+      "fh": 8.5,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1628,13 +2045,19 @@
       "seats": 5,
       "weight": 2160,
       "price": "$184,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2026|S Coupe": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 15.4,
+      "fh": 8.5,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1650,13 +2073,19 @@
       "seats": 4,
       "weight": 2190,
       "price": "$194,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2026|S E-Hybrid": {
       "fuelType": "plug-in hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 2.3,
+      "fh": 1.6,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1674,13 +2103,19 @@
       "seats": 5,
       "weight": 2410,
       "price": "$187,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.0 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2026|S E-Hybrid Coupe": {
       "fuelType": "plug-in hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 2.3,
+      "fh": 1.6,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1698,13 +2133,19 @@
       "seats": 4,
       "weight": 2440,
       "price": "$194,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.0 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2026|S E-Hybrid Black Edition": {
       "fuelType": "plug-in hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 2.3,
+      "fh": 1.6,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1722,13 +2163,19 @@
       "seats": 5,
       "weight": 2410,
       "price": "$195,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.0 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2026|S E-Hybrid Black Edition Coupe": {
       "fuelType": "plug-in hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 2.3,
+      "fh": 1.6,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1746,13 +2193,19 @@
       "seats": 4,
       "weight": 2440,
       "price": "$197,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.0 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2026|GTS": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 15.4,
+      "fh": 8.5,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1768,13 +2221,19 @@
       "seats": 5,
       "weight": 2190,
       "price": "$211,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2026|GTS Coupe": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 15.4,
+      "fh": 8.5,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1790,13 +2249,19 @@
       "seats": 4,
       "weight": 2220,
       "price": "$214,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2026|Turbo E-Hybrid": {
       "fuelType": "plug-in hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 2.9,
+      "fh": 2,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1814,13 +2279,19 @@
       "seats": 5,
       "weight": 2570,
       "price": "$303,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2026|Turbo E-Hybrid Coupe": {
       "fuelType": "plug-in hybrid",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 2.9,
+      "fh": 2,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1838,13 +2309,19 @@
       "seats": 4,
       "weight": 2595,
       "price": "$312,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2026|Turbo GT": {
       "fuelType": "petrol",
-      "cargo": null,
-      "fc": null,
-      "fh": null,
+      "cargo": 770,
+      "fc": 15.6,
+      "fh": 8.7,
       "drivetrain": "AWD",
       "transmission": "8-speed automatic",
       "towing": 3500,
@@ -1860,7 +2337,13 @@
       "weight": 2245,
       "seats": 4,
       "price": "$376,200",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2026|Turbo Electric": {
       "fuelType": "electric",
@@ -1871,7 +2354,7 @@
       "cylinders": null,
       "displacement": null,
       "power": 630,
-      "torque": null,
+      "torque": 1315,
       "battery": "113.0 kWh",
       "range": null,
       "fc": null,
@@ -1882,9 +2365,14 @@
       "weight": 2650,
       "towing": 3500,
       "seats": null,
-      "cargo": null,
+      "cargo": 770,
       "price": "$259,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "cargo"
+      ],
+      "quarterMile": "~10.4 sec"
     },
     "Porsche|Panamera|2024|4 E-Hybrid": {
       "engine": "2.9L V6 TwinTurbo E-Hybrid",
@@ -1897,15 +2385,20 @@
       "torque": 700,
       "weight": 2190,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 3.3,
+      "fh": 2.4,
       "fx": 2.9,
       "acceleration": 3.7,
       "topSpeed": 294,
       "range": 68,
       "price": "~$258,900",
       "aspiration": "BorgWarner Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~11.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Porsche|Panamera|2024|4S Sport Turismo": {
       "engine": "2.9L V6 Biturbo",
@@ -1926,7 +2419,8 @@
       "cargo": 520,
       "price": "~$283,000",
       "aspiration": "BorgWarner Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~12.5 sec"
     },
     "Porsche|Panamera|2024|Panamera 4": {
       "engine": "2.9",
@@ -1985,15 +2479,20 @@
       "torque": 1050,
       "weight": 2340,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 4,
+      "fh": 2.9,
       "fx": 3.5,
       "acceleration": 3.2,
       "topSpeed": 315,
       "range": 68,
       "price": "~$378,900",
       "aspiration": "BorgWarner Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~11.3 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Porsche|Panamera|2024|Sport Turismo": {
       "engine": "2.9L V6 Biturbo",
@@ -2014,7 +2513,8 @@
       "cargo": 520,
       "price": "~$228,000",
       "aspiration": "BorgWarner Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~13.8 sec"
     },
     "Porsche|Panamera|2024|Turbo S E-Hybrid Sport Turismo": {
       "engine": "4.0L V8 TwinTurbo E-Hybrid Sport Turismo",
@@ -2027,15 +2527,20 @@
       "torque": 1050,
       "weight": 2380,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 4.2,
+      "fh": 3.1,
       "fx": 3.7,
       "acceleration": 3.2,
       "topSpeed": 310,
       "range": 61,
       "price": "~$408,900",
       "aspiration": "BorgWarner Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~11.3 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Porsche|Panamera|2025|4 E-Hybrid": {
       "engine": "2.9L V6 TwinTurbo E-Hybrid",
@@ -2048,15 +2553,20 @@
       "torque": 700,
       "weight": 2190,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 3.3,
+      "fh": 2.4,
       "fx": 2.9,
       "acceleration": 3.7,
       "topSpeed": 294,
       "range": 68,
       "price": "~$261,900",
       "aspiration": "BorgWarner Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~11.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Porsche|Panamera|2025|4S Sport Turismo": {
       "engine": "2.9L V6 Biturbo",
@@ -2077,7 +2587,8 @@
       "cargo": 520,
       "price": "~$288,000",
       "aspiration": "BorgWarner Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~12.5 sec"
     },
     "Porsche|Panamera|2025|Panamera 4S": {
       "engine": "2.9",
@@ -2113,15 +2624,20 @@
       "torque": 1050,
       "weight": 2340,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 4,
+      "fh": 2.9,
       "fx": 3.5,
       "acceleration": 3.2,
       "topSpeed": 315,
       "range": 68,
       "price": "~$381,900",
       "aspiration": "BorgWarner Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~11.3 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Porsche|Panamera|2025|Sport Turismo": {
       "engine": "2.9L V6 Biturbo",
@@ -2142,7 +2658,8 @@
       "cargo": 520,
       "price": "~$232,000",
       "aspiration": "BorgWarner Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~13.8 sec"
     },
     "Porsche|Panamera|2025|Turbo S E-Hybrid Sport Turismo": {
       "engine": "4.0L V8 TwinTurbo E-Hybrid Sport Turismo",
@@ -2155,15 +2672,20 @@
       "torque": 1050,
       "weight": 2380,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 4.2,
+      "fh": 3.1,
       "fx": 3.7,
       "acceleration": 3.2,
       "topSpeed": 310,
       "range": 61,
       "price": "~$411,900",
       "aspiration": "BorgWarner Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~11.3 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Porsche|Panamera|2026|Panamera": {
       "topSpeed": 272,
@@ -2185,7 +2707,8 @@
       "fx": 9.5,
       "weight": 1885,
       "price": "$246,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.4 sec"
     },
     "Porsche|Panamera|2026|4 E-Hybrid": {
       "topSpeed": 280,
@@ -2201,15 +2724,20 @@
       "cylinders": 6,
       "fuelType": "plug-in hybrid",
       "torque": 650,
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "fx": 1.8,
       "battery": "25.9 kWh",
       "range": 96,
       "power": 346,
       "weight": 2230,
       "price": "$283,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Porsche|Panamera|2026|4S E-Hybrid": {
       "topSpeed": 290,
@@ -2225,15 +2753,20 @@
       "cylinders": 6,
       "fuelType": "plug-in hybrid",
       "torque": 750,
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "fx": 1.8,
       "battery": "25.9 kWh",
       "range": 96,
       "power": 400,
       "weight": 2255,
       "price": "$311,200",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Porsche|Panamera|2026|GTS": {
       "topSpeed": 302,
@@ -2255,7 +2788,8 @@
       "fx": 11.7,
       "weight": 2065,
       "price": "$351,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.0 sec"
     },
     "Porsche|Panamera|2026|Turbo E-Hybrid": {
       "topSpeed": 315,
@@ -2271,15 +2805,20 @@
       "cylinders": 8,
       "fuelType": "plug-in hybrid",
       "torque": 930,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "battery": "25.9 kWh",
       "range": 92,
       "power": 500,
       "weight": 2360,
       "price": "$425,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.3 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Porsche|Panamera|2026|Turbo S E-Hybrid": {
       "topSpeed": 325,
@@ -2295,15 +2834,20 @@
       "cylinders": 8,
       "fuelType": "plug-in hybrid",
       "torque": 1000,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "battery": "25.9 kWh",
       "range": 92,
       "power": 575,
       "weight": 2365,
       "price": "$499,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Land Rover|Defender|2026|90 D250 S": {
       "topSpeed": 188,
@@ -2327,10 +2871,11 @@
       "fuelTank": 89,
       "groundClearance": 216,
       "price": "$102,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.1 sec"
     },
     "Land Rover|Defender|2026|110 D250 S": {
-      "topSpeed": null,
+      "topSpeed": 180,
       "acceleration": 8.3,
       "cargo": null,
       "transmission": "8-speed automatic",
@@ -2349,7 +2894,11 @@
       "torque": 570,
       "weight": 2393,
       "price": "$105,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Land Rover|Defender|2026|110 D350 X-Dynamic SE": {
       "topSpeed": 191,
@@ -2371,7 +2920,8 @@
       "torque": 700,
       "weight": 2361,
       "price": "$119,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.7 sec"
     },
     "Land Rover|Defender|2026|110 P300e X-Dynamic SE": {
       "topSpeed": 191,
@@ -2386,15 +2936,20 @@
       "fuelType": "plug-in hybrid",
       "power": 221,
       "torque": 625,
-      "fc": null,
-      "fh": null,
+      "fc": 3.5,
+      "fh": 2.6,
       "fx": 3.1,
       "battery": "19.2 kWh",
       "weight": 2538,
       "seats": 5,
       "towing": 3000,
       "price": "$136,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Land Rover|Defender|2026|110 P425 X-Dynamic SE": {
       "topSpeed": 191,
@@ -2416,10 +2971,11 @@
       "seats": 5,
       "towing": 3500,
       "price": "$132,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.1 sec"
     },
     "Land Rover|Defender|2026|110 D350 X": {
-      "topSpeed": null,
+      "topSpeed": 205,
       "acceleration": 6.4,
       "cargo": null,
       "transmission": "8-speed automatic",
@@ -2429,8 +2985,8 @@
       "cylinders": 6,
       "aspiration": "Turbo",
       "fuelType": "diesel",
-      "fc": null,
-      "fh": null,
+      "fc": 10,
+      "fh": 5.8,
       "fx": 8.1,
       "towing": 3500,
       "seats": 5,
@@ -2438,10 +2994,16 @@
       "torque": 700,
       "weight": 2361,
       "price": "$171,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.7 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Land Rover|Defender|2026|130 D350 X-Dynamic SE": {
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 6.8,
       "cargo": null,
       "transmission": "8-speed automatic",
@@ -2460,7 +3022,11 @@
       "torque": 700,
       "weight": 2591,
       "price": "$141,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Land Rover|Defender|2026|130 P500 V8": {
       "topSpeed": 240,
@@ -2482,7 +3048,8 @@
       "seats": 8,
       "towing": 3000,
       "price": "$235,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.0 sec"
     },
     "Land Rover|Defender|2026|110 P635 OCTA": {
       "topSpeed": 250,
@@ -2505,12 +3072,13 @@
       "towing": 3500,
       "groundClearance": 250,
       "price": "$305,200",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.3 sec"
     },
     "Land Rover|Range Rover|2026|D350 HSE SWB": {
       "topSpeed": 234,
       "acceleration": 6,
-      "cargo": null,
+      "cargo": 818,
       "transmission": "8-speed automatic",
       "drivetrain": "AWD",
       "engine": "3.0L I6 Turbo Diesel (MHEV)",
@@ -2528,12 +3096,16 @@
       "towing": 3500,
       "fuelTank": 80,
       "price": "$281,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover|2026|P460e HSE SWB": {
       "topSpeed": 225,
       "acceleration": 5.7,
-      "cargo": null,
+      "cargo": 818,
       "transmission": "8-speed automatic",
       "drivetrain": "AWD",
       "engine": "3.0L I6 Turbo PHEV",
@@ -2543,20 +3115,26 @@
       "fuelType": "plug-in hybrid",
       "power": 338,
       "torque": 660,
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "battery": "38.2 kWh",
       "seats": 5,
       "fx": 1.6,
       "range": 126,
       "weight": 2695,
       "price": "$284,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover|2026|P530 HSE SWB": {
       "topSpeed": 250,
       "acceleration": 4.6,
-      "cargo": null,
+      "cargo": 818,
       "transmission": "8-speed automatic",
       "drivetrain": "AWD",
       "engine": "4.4L V8 Twin-Turbo Petrol (MHEV)",
@@ -2573,12 +3151,16 @@
       "towing": 3500,
       "weight": 2510,
       "price": "$317,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover|2026|EV550 HSE": {
       "topSpeed": 200,
       "acceleration": 4.5,
-      "cargo": null,
+      "cargo": 818,
       "transmission": "1-speed automatic",
       "drivetrain": "AWD",
       "engine": "Dual-Motor Electric",
@@ -2597,12 +3179,16 @@
       "seats": 5,
       "weight": 2735,
       "price": "$317,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover|2026|P615 SV": {
       "topSpeed": 261,
       "acceleration": 4.5,
-      "cargo": null,
+      "cargo": 818,
       "transmission": "8-speed automatic",
       "drivetrain": "AWD",
       "engine": "4.4L V8 Twin-Turbo Petrol (MHEV)",
@@ -2619,12 +3205,16 @@
       "towing": 3500,
       "weight": 2686,
       "price": "$427,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Sport|2026|D250 Dynamic SE": {
       "topSpeed": 206,
       "acceleration": 7.7,
-      "cargo": null,
+      "cargo": 780,
       "transmission": "8-speed automatic",
       "drivetrain": "AWD",
       "engine": "3.0L I6 Turbo Diesel (MHEV)",
@@ -2642,12 +3232,16 @@
       "torque": 600,
       "weight": 2315,
       "price": "$151,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Sport|2026|D350 Dynamic HSE": {
       "topSpeed": 234,
       "acceleration": 5.8,
-      "cargo": null,
+      "cargo": 780,
       "transmission": "8-speed automatic",
       "drivetrain": "AWD",
       "engine": "3.0L I6 Turbo Diesel (MHEV)",
@@ -2665,12 +3259,16 @@
       "torque": 700,
       "weight": 2360,
       "price": "$183,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Sport|2026|P460e Dynamic HSE": {
       "topSpeed": 225,
       "acceleration": 5.5,
-      "cargo": null,
+      "cargo": 780,
       "transmission": "8-speed automatic",
       "drivetrain": "AWD",
       "engine": "3.0L I6 Turbo PHEV",
@@ -2680,20 +3278,26 @@
       "fuelType": "plug-in hybrid",
       "power": 338,
       "torque": 660,
-      "fc": null,
-      "fh": null,
+      "fc": 1.9,
+      "fh": 1.5,
       "battery": "38.2 kWh",
       "seats": 5,
       "fx": 1.7,
       "weight": 2660,
       "towing": 3000,
       "price": "$188,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Sport|2026|P530 Dynamic HSE": {
       "topSpeed": 250,
       "acceleration": 4.5,
-      "cargo": null,
+      "cargo": 780,
       "transmission": "8-speed automatic",
       "drivetrain": "AWD",
       "engine": "4.4L V8 Twin-Turbo Petrol (MHEV)",
@@ -2710,12 +3314,16 @@
       "towing": null,
       "weight": 2505,
       "price": "$218,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Sport|2026|EV550 Dynamic HSE": {
       "topSpeed": 200,
       "acceleration": 4.5,
-      "cargo": null,
+      "cargo": 780,
       "transmission": "1-speed automatic",
       "drivetrain": "AWD",
       "engine": "Dual-Motor Electric",
@@ -2734,12 +3342,16 @@
       "seats": 5,
       "weight": 2695,
       "price": null,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Sport|2026|P635 SV": {
       "topSpeed": 266,
       "acceleration": 3.9,
-      "cargo": null,
+      "cargo": 780,
       "transmission": "8-speed automatic",
       "drivetrain": "AWD",
       "engine": "4.4L V8 Twin-Turbo Petrol (MHEV)",
@@ -2755,7 +3367,11 @@
       "weight": 2485,
       "seats": 5,
       "price": "$321,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.2 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Polestar|2|2024|Standard Range Single Motor": {
       "topSpeed": 205,
@@ -2779,7 +3395,8 @@
       "range": 518,
       "price": "$67,400",
       "accelClaimed": true,
-      "weight": 1944
+      "weight": 1944,
+      "quarterMile": "~14.7 sec"
     },
     "Polestar|2|2024|Long Range Single Motor": {
       "topSpeed": 205,
@@ -2803,7 +3420,8 @@
       "range": 654,
       "price": "$71,400",
       "accelClaimed": true,
-      "weight": 2009
+      "weight": 2009,
+      "quarterMile": "~14.5 sec"
     },
     "Polestar|2|2024|Long Range Dual Motor": {
       "topSpeed": 205,
@@ -2827,7 +3445,8 @@
       "range": 591,
       "price": "$76,400",
       "accelClaimed": true,
-      "weight": 2108
+      "weight": 2108,
+      "quarterMile": "~12.8 sec"
     },
     "Polestar|2|2024|Long Range Dual Motor Performance Pack": {
       "topSpeed": 205,
@@ -2851,7 +3470,8 @@
       "range": 568,
       "price": "$80,380",
       "accelClaimed": true,
-      "weight": 2105
+      "weight": 2105,
+      "quarterMile": "~12.5 sec"
     },
     "Polestar|2|2025|Standard Range Single Motor": {
       "topSpeed": 205,
@@ -2875,7 +3495,8 @@
       "range": 546,
       "price": "$62,400",
       "accelClaimed": true,
-      "weight": 1944
+      "weight": 1944,
+      "quarterMile": "~14.7 sec"
     },
     "Polestar|2|2025|Long Range Single Motor": {
       "topSpeed": 205,
@@ -2899,7 +3520,8 @@
       "range": 659,
       "price": "$66,400",
       "accelClaimed": true,
-      "weight": 2009
+      "weight": 2009,
+      "quarterMile": "~14.5 sec"
     },
     "Polestar|2|2025|Long Range Dual Motor": {
       "topSpeed": 205,
@@ -2923,7 +3545,8 @@
       "range": 596,
       "price": "$71,400",
       "accelClaimed": true,
-      "weight": 2108
+      "weight": 2108,
+      "quarterMile": "~12.8 sec"
     },
     "Polestar|2|2025|Long Range Dual Motor Performance Pack": {
       "topSpeed": 205,
@@ -2947,7 +3570,8 @@
       "range": 568,
       "price": "$80,380",
       "accelClaimed": true,
-      "weight": 2105
+      "weight": 2105,
+      "quarterMile": "~12.5 sec"
     },
     "Polestar|2|2026|Standard Range Single Motor": {
       "topSpeed": 205,
@@ -2970,7 +3594,12 @@
       "battery": "70 kWh",
       "range": 554,
       "price": "$62,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2010,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~14.7 sec"
     },
     "Polestar|2|2026|Long Range Single Motor": {
       "topSpeed": 205,
@@ -2993,7 +3622,12 @@
       "battery": "82 kWh",
       "range": 659,
       "price": "$66,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2010,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~14.5 sec"
     },
     "Polestar|2|2026|Long Range Dual Motor": {
       "topSpeed": 205,
@@ -3016,7 +3650,12 @@
       "battery": "82 kWh",
       "range": 596,
       "price": "$71,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2105,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~12.8 sec"
     },
     "Polestar|2|2026|Long Range Dual Motor Performance Pack": {
       "topSpeed": 205,
@@ -3039,7 +3678,12 @@
       "battery": "82 kWh",
       "range": 568,
       "price": "$85,080",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2105,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~12.5 sec"
     },
     "Polestar|3|2024|Long Range Dual Motor": {
       "fuelType": "electric",
@@ -3063,7 +3707,8 @@
       "range": 610,
       "acceleration": 5,
       "towing": 2200,
-      "price": "$131,574"
+      "price": "$131,574",
+      "quarterMile": "~13.3 sec"
     },
     "Polestar|3|2024|Performance Pack": {
       "fuelType": "electric",
@@ -3087,7 +3732,8 @@
       "range": 567,
       "acceleration": 4.7,
       "towing": 2200,
-      "price": "$142,754"
+      "price": "$142,754",
+      "quarterMile": "~13.0 sec"
     },
     "Polestar|3|2025|Long Range Single Motor": {
       "fuelType": "electric",
@@ -3111,7 +3757,8 @@
       "range": 706,
       "acceleration": 7.8,
       "towing": 1500,
-      "price": "$116,754"
+      "price": "$116,754",
+      "quarterMile": "~15.9 sec"
     },
     "Polestar|3|2025|Long Range Dual Motor": {
       "fuelType": "electric",
@@ -3135,7 +3782,8 @@
       "range": 636,
       "acceleration": 5,
       "towing": 2200,
-      "price": "$131,054"
+      "price": "$131,054",
+      "quarterMile": "~13.3 sec"
     },
     "Polestar|3|2025|Performance Pack": {
       "fuelType": "electric",
@@ -3159,7 +3807,8 @@
       "range": 567,
       "acceleration": 4.7,
       "towing": 2200,
-      "price": "$142,754"
+      "price": "$142,754",
+      "quarterMile": "~13.0 sec"
     },
     "Polestar|3|2026|Long Range Single Motor": {
       "fuelType": "electric",
@@ -3183,7 +3832,8 @@
       "range": 706,
       "acceleration": 7.8,
       "towing": 1500,
-      "price": "$121,920"
+      "price": "$121,920",
+      "quarterMile": "~15.9 sec"
     },
     "Polestar|3|2026|Long Range Dual Motor": {
       "fuelType": "electric",
@@ -3207,7 +3857,8 @@
       "range": 636,
       "acceleration": 5,
       "towing": 2200,
-      "price": "$132,900"
+      "price": "$132,900",
+      "quarterMile": "~13.3 sec"
     },
     "Polestar|3|2026|Performance Pack": {
       "fuelType": "electric",
@@ -3231,7 +3882,8 @@
       "range": 567,
       "acceleration": 4.7,
       "towing": 2200,
-      "price": "$141,900"
+      "price": "$141,900",
+      "quarterMile": "~13.0 sec"
     },
     "Polestar|4|2024|Long Range Single Motor": {
       "fuelType": "electric",
@@ -3243,7 +3895,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 175,
       "cargo": 526,
       "battery": "100 kWh",
       "accelClaimed": true,
@@ -3255,7 +3907,11 @@
       "acceleration": 7.1,
       "weight": 2230,
       "towing": 1500,
-      "price": "$81,500"
+      "price": "$81,500",
+      "quarterMile": "~15.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Polestar|4|2024|Long Range Dual Motor": {
       "fuelType": "electric",
@@ -3267,7 +3923,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 220,
       "cargo": 526,
       "battery": "100 kWh",
       "accelClaimed": true,
@@ -3279,7 +3935,11 @@
       "acceleration": 3.8,
       "weight": 2355,
       "towing": 2000,
-      "price": "$91,350"
+      "price": "$91,350",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Polestar|4|2025|Long Range Single Motor": {
       "fuelType": "electric",
@@ -3291,7 +3951,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 175,
       "cargo": 526,
       "battery": "100 kWh",
       "accelClaimed": true,
@@ -3303,7 +3963,11 @@
       "acceleration": 7.1,
       "weight": 2230,
       "towing": 1500,
-      "price": "$81,500"
+      "price": "$81,500",
+      "quarterMile": "~15.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Polestar|4|2025|Long Range Dual Motor": {
       "fuelType": "electric",
@@ -3315,7 +3979,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 220,
       "cargo": 526,
       "battery": "100 kWh",
       "accelClaimed": true,
@@ -3327,7 +3991,11 @@
       "acceleration": 3.8,
       "weight": 2355,
       "towing": 2000,
-      "price": "$88,350"
+      "price": "$88,350",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Polestar|4|2026|Long Range Single Motor": {
       "fuelType": "electric",
@@ -3339,7 +4007,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 175,
       "cargo": 526,
       "battery": "100 kWh",
       "accelClaimed": true,
@@ -3351,7 +4019,11 @@
       "acceleration": 7.1,
       "weight": 2230,
       "towing": 1500,
-      "price": "$78,500"
+      "price": "$78,500",
+      "quarterMile": "~15.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Polestar|4|2026|Long Range Dual Motor": {
       "fuelType": "electric",
@@ -3363,7 +4035,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 220,
       "cargo": 526,
       "battery": "100 kWh",
       "accelClaimed": true,
@@ -3375,7 +4047,11 @@
       "acceleration": 3.8,
       "weight": 2355,
       "towing": 2000,
-      "price": "$88,350"
+      "price": "$88,350",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BYD|Seal|2024|Dynamic": {
       "fuelType": "electric",
@@ -3387,8 +4063,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 175,
+      "cargo": 400,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 150,
@@ -3396,9 +4072,15 @@
       "battery": "61.5 kWh",
       "range": 510,
       "acceleration": 7.5,
-      "weight": null,
+      "weight": 2150,
       "price": "$49,888",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~15.6 sec"
     },
     "BYD|Seal|2024|Premium": {
       "fuelType": "electric",
@@ -3410,8 +4092,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 205,
+      "cargo": 400,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 230,
@@ -3419,9 +4101,15 @@
       "battery": "82.5 kWh",
       "range": 650,
       "acceleration": 5.9,
-      "weight": null,
+      "weight": 2060,
       "price": "$58,798",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~14.2 sec"
     },
     "BYD|Seal|2024|Performance": {
       "fuelType": "electric",
@@ -3433,8 +4121,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 245,
+      "cargo": 400,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 390,
@@ -3442,9 +4130,15 @@
       "battery": "82.5 kWh",
       "range": 580,
       "acceleration": 3.8,
-      "weight": null,
+      "weight": 2185,
       "price": "$68,748",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~12.0 sec"
     },
     "BYD|Seal|2025|Dynamic": {
       "fuelType": "electric",
@@ -3456,8 +4150,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 180,
+      "cargo": 400,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 150,
@@ -3467,7 +4161,12 @@
       "acceleration": 7.6,
       "weight": 1922,
       "price": "$46,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.7 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "BYD|Seal|2025|Premium": {
       "fuelType": "electric",
@@ -3479,8 +4178,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 205,
+      "cargo": 400,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 230,
@@ -3490,7 +4189,12 @@
       "acceleration": 5.9,
       "weight": 2055,
       "price": "$52,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "BYD|Seal|2025|Performance": {
       "fuelType": "electric",
@@ -3502,8 +4206,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 245,
+      "cargo": 400,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 390,
@@ -3513,7 +4217,12 @@
       "acceleration": 3.8,
       "weight": 2185,
       "price": "$61,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "BYD|Seal|2026|Dynamic": {
       "fuelType": "electric",
@@ -3526,7 +4235,7 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 180,
       "seats": 5,
       "power": 150,
       "torque": 310,
@@ -3537,7 +4246,11 @@
       "towing": 750,
       "cargo": 400,
       "price": "$46,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BYD|Seal|2026|Premium": {
       "fuelType": "electric",
@@ -3550,7 +4263,7 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 205,
       "seats": 5,
       "power": 230,
       "torque": 360,
@@ -3561,7 +4274,11 @@
       "towing": 750,
       "cargo": 400,
       "price": "$52,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BYD|Seal|2026|Performance": {
       "fuelType": "electric",
@@ -3574,7 +4291,7 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 245,
       "seats": 5,
       "power": 390,
       "torque": 670,
@@ -3585,13 +4302,17 @@
       "towing": 1500,
       "cargo": 400,
       "price": "$61,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BYD|Shark|2024|Premium": {
       "fuelType": "plug-in hybrid",
       "cargo": null,
       "acceleration": 5.7,
-      "topSpeed": null,
+      "topSpeed": 180,
       "seats": 5,
       "drivetrain": "AWD",
       "transmission": "1-speed automatic",
@@ -3600,8 +4321,8 @@
       "battery": "29.6 kWh",
       "fuelTank": 60,
       "groundClearance": 230,
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "engine": "1.5L I4 Turbo PHEV",
       "displacement": 1497,
       "power": 321,
@@ -3612,13 +4333,19 @@
       "price": "$57,900",
       "towing": 2500,
       "payload": 790,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Shark|2025|Dynamic": {
       "fuelType": "plug-in hybrid",
       "cargo": null,
       "acceleration": 5.7,
-      "topSpeed": null,
+      "topSpeed": 180,
       "seats": 5,
       "drivetrain": "AWD",
       "transmission": "1-speed automatic",
@@ -3627,8 +4354,8 @@
       "battery": "29.6 kWh",
       "fuelTank": 60,
       "groundClearance": 230,
-      "fc": null,
-      "fh": null,
+      "fc": 2.3,
+      "fh": 1.6,
       "engine": "1.5L I4 Turbo PHEV",
       "displacement": 1497,
       "power": 321,
@@ -3639,13 +4366,19 @@
       "price": "$55,900",
       "towing": 2500,
       "payload": 900,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Shark|2025|Premium": {
       "fuelType": "plug-in hybrid",
       "cargo": null,
       "acceleration": 5.7,
-      "topSpeed": null,
+      "topSpeed": 180,
       "seats": 5,
       "drivetrain": "AWD",
       "transmission": "1-speed automatic",
@@ -3654,8 +4387,8 @@
       "battery": "29.6 kWh",
       "fuelTank": 60,
       "groundClearance": 230,
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "engine": "1.5L I4 Turbo PHEV",
       "displacement": 1497,
       "power": 321,
@@ -3666,13 +4399,19 @@
       "price": "$57,900",
       "towing": 2500,
       "payload": 790,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Shark|2026|Dynamic": {
       "fuelType": "plug-in hybrid",
       "cargo": null,
       "acceleration": 5.7,
-      "topSpeed": null,
+      "topSpeed": 180,
       "seats": 5,
       "drivetrain": "AWD",
       "transmission": "1-speed automatic",
@@ -3681,8 +4420,8 @@
       "battery": "29.6 kWh",
       "fuelTank": 60,
       "groundClearance": 230,
-      "fc": null,
-      "fh": null,
+      "fc": 2.3,
+      "fh": 1.6,
       "engine": "1.5L I4 Turbo PHEV",
       "displacement": 1497,
       "power": 321,
@@ -3693,13 +4432,19 @@
       "price": "$55,900",
       "towing": 2500,
       "payload": 900,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Shark|2026|Premium": {
       "fuelType": "plug-in hybrid",
       "cargo": null,
       "acceleration": 5.7,
-      "topSpeed": null,
+      "topSpeed": 180,
       "seats": 5,
       "drivetrain": "AWD",
       "transmission": "1-speed automatic",
@@ -3708,8 +4453,8 @@
       "battery": "29.6 kWh",
       "fuelTank": 60,
       "groundClearance": 230,
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "engine": "1.5L I4 Turbo PHEV",
       "displacement": 1497,
       "power": 321,
@@ -3720,13 +4465,19 @@
       "price": "$57,900",
       "towing": 2500,
       "payload": 790,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.0 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Shark|2026|Performance": {
       "fuelType": "plug-in hybrid",
       "cargo": null,
       "acceleration": 5.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "seats": 5,
       "drivetrain": "AWD",
       "transmission": "1-speed automatic",
@@ -3735,8 +4486,8 @@
       "battery": "29.6 kWh",
       "fuelTank": 60,
       "groundClearance": 230,
-      "fc": null,
-      "fh": null,
+      "fc": 1.5,
+      "fh": 1.1,
       "engine": "2.0L I4 Turbo PHEV",
       "displacement": 1997,
       "power": 350,
@@ -3747,10 +4498,16 @@
       "price": "$62,900",
       "towing": 3500,
       "payload": 725,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Sealion 6|2024|Dynamic": {
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 8.5,
       "cargo": null,
       "seats": 5,
@@ -3762,8 +4519,8 @@
       "torque": 300,
       "transmission": "1-speed automatic",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.3,
+      "fh": 0.9,
       "towing": 750,
       "fuelTank": 60,
       "power": 160,
@@ -3772,10 +4529,16 @@
       "range": 92,
       "weight": 1940,
       "price": "$48,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Sealion 6|2024|Premium AWD": {
-      "topSpeed": null,
+      "topSpeed": 230,
       "acceleration": 5.9,
       "cargo": null,
       "seats": 5,
@@ -3787,8 +4550,8 @@
       "torque": 550,
       "transmission": "1-speed automatic",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.6,
+      "fh": 1.2,
       "towing": 1300,
       "fuelTank": 60,
       "power": 238,
@@ -3797,10 +4560,16 @@
       "range": 81,
       "weight": 2100,
       "price": "$52,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Sealion 6|2025|Essential": {
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 8.5,
       "cargo": null,
       "seats": 5,
@@ -3812,8 +4581,8 @@
       "torque": 300,
       "transmission": "1-speed automatic",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.3,
+      "fh": 0.9,
       "towing": 750,
       "fuelTank": 60,
       "power": 160,
@@ -3822,10 +4591,16 @@
       "range": 92,
       "weight": 1940,
       "price": "$42,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Sealion 6|2025|Dynamic Extended Range": {
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 8.9,
       "cargo": null,
       "seats": 5,
@@ -3837,8 +4612,8 @@
       "torque": 300,
       "transmission": "1-speed automatic",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 0.9,
+      "fh": 0.7,
       "towing": 750,
       "fuelTank": 60,
       "power": 160,
@@ -3847,10 +4622,16 @@
       "range": 140,
       "weight": 1995,
       "price": "$46,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Sealion 6|2025|Premium AWD": {
-      "topSpeed": null,
+      "topSpeed": 230,
       "acceleration": 5.9,
       "cargo": null,
       "seats": 5,
@@ -3862,8 +4643,8 @@
       "torque": 550,
       "transmission": "1-speed automatic",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.6,
+      "fh": 1.2,
       "towing": 1300,
       "fuelTank": 60,
       "power": 238,
@@ -3872,10 +4653,16 @@
       "range": 81,
       "weight": 2100,
       "price": "$52,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Sealion 6|2025|Premium Extended Range AWD": {
-      "topSpeed": null,
+      "topSpeed": 235,
       "acceleration": 5.5,
       "cargo": null,
       "seats": 5,
@@ -3887,8 +4674,8 @@
       "torque": 550,
       "transmission": "1-speed automatic",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.3,
+      "fh": 0.9,
       "towing": 1300,
       "fuelTank": 60,
       "power": 253,
@@ -3897,10 +4684,16 @@
       "range": 128,
       "weight": 2160,
       "price": "$52,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Sealion 6|2026|Essential": {
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 8.5,
       "cargo": null,
       "seats": 5,
@@ -3912,8 +4705,8 @@
       "torque": 300,
       "transmission": "1-speed automatic",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.3,
+      "fh": 0.9,
       "towing": 750,
       "fuelTank": 60,
       "power": 160,
@@ -3922,10 +4715,16 @@
       "range": 92,
       "weight": 1940,
       "price": "$42,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Sealion 6|2026|Dynamic Extended Range": {
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 8.9,
       "cargo": null,
       "seats": 5,
@@ -3937,8 +4736,8 @@
       "torque": 300,
       "transmission": "1-speed automatic",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 0.9,
+      "fh": 0.7,
       "towing": 750,
       "fuelTank": 60,
       "power": 160,
@@ -3947,10 +4746,16 @@
       "range": 140,
       "weight": 1995,
       "price": "$46,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Sealion 6|2026|Premium Extended Range AWD": {
-      "topSpeed": null,
+      "topSpeed": 235,
       "acceleration": 5.5,
       "cargo": null,
       "seats": 5,
@@ -3962,8 +4767,8 @@
       "torque": 550,
       "transmission": "1-speed automatic",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.3,
+      "fh": 0.9,
       "towing": 1300,
       "fuelTank": 60,
       "power": 253,
@@ -3972,7 +4777,13 @@
       "range": 128,
       "weight": 2160,
       "price": "$52,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Isuzu|D-MAX|2024|SX": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -3984,8 +4795,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.4,
+      "topSpeed": 175,
       "cargo": null,
       "towing": 3500,
       "seats": 5,
@@ -3997,7 +4808,10 @@
       "payload": 1065,
       "groundClearance": 235,
       "price": "$52,700",
-      "accelClaimed": false
+      "quarterMile": "~19.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2024|LS-M": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -4009,8 +4823,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.4,
+      "topSpeed": 175,
       "cargo": null,
       "towing": 3500,
       "seats": 5,
@@ -4022,7 +4836,10 @@
       "payload": 1070,
       "groundClearance": 235,
       "price": "$55,800",
-      "accelClaimed": false
+      "quarterMile": "~19.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2024|X-Rider": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -4034,8 +4851,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.5,
+      "topSpeed": 175,
       "cargo": null,
       "towing": 3500,
       "seats": 5,
@@ -4047,7 +4864,10 @@
       "payload": 1045,
       "groundClearance": 235,
       "price": "$59,500",
-      "accelClaimed": false
+      "quarterMile": "~19.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2024|LS-U": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -4059,8 +4879,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.8,
+      "topSpeed": 170,
       "cargo": null,
       "towing": 3500,
       "seats": 5,
@@ -4072,7 +4892,10 @@
       "payload": 995,
       "groundClearance": 240,
       "price": "$62,500",
-      "accelClaimed": false
+      "quarterMile": "~19.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2024|LS-U+": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -4084,8 +4907,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.8,
+      "topSpeed": 170,
       "cargo": null,
       "towing": 3500,
       "seats": 5,
@@ -4097,7 +4920,10 @@
       "payload": 990,
       "groundClearance": 240,
       "price": "$65,500",
-      "accelClaimed": false
+      "quarterMile": "~19.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2024|X-Terrain": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -4110,7 +4936,7 @@
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
       "acceleration": 10.1,
-      "topSpeed": null,
+      "topSpeed": 170,
       "cargo": null,
       "towing": 3500,
       "seats": 5,
@@ -4122,7 +4948,11 @@
       "payload": 930,
       "groundClearance": 240,
       "price": "$70,500",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~17.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2024|Blade": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -4134,8 +4964,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 13.3,
+      "topSpeed": 170,
       "cargo": null,
       "towing": 3500,
       "seats": 5,
@@ -4147,7 +4977,10 @@
       "payload": 949,
       "groundClearance": 244,
       "price": "$78,900",
-      "accelClaimed": false
+      "quarterMile": "~19.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2025|SX": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -4159,8 +4992,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.5,
+      "topSpeed": 175,
       "cargo": null,
       "towing": 3500,
       "seats": 5,
@@ -4172,7 +5005,10 @@
       "payload": 1065,
       "groundClearance": 235,
       "price": "$54,200",
-      "accelClaimed": false
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2025|LS-M": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -4184,8 +5020,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.5,
+      "topSpeed": 175,
       "cargo": null,
       "towing": 3500,
       "seats": 5,
@@ -4197,7 +5033,10 @@
       "payload": 1070,
       "groundClearance": 235,
       "price": "$55,800",
-      "accelClaimed": false
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2025|X-Rider": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -4209,8 +5048,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.6,
+      "topSpeed": 175,
       "cargo": null,
       "towing": 3500,
       "seats": 5,
@@ -4222,7 +5061,10 @@
       "payload": 1040,
       "groundClearance": 235,
       "price": "$61,500",
-      "accelClaimed": false
+      "quarterMile": "~17.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2025|LS-U": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -4234,8 +5076,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.8,
+      "topSpeed": 175,
       "cargo": null,
       "towing": 3500,
       "seats": 5,
@@ -4247,7 +5089,10 @@
       "payload": 995,
       "groundClearance": 240,
       "price": "$62,500",
-      "accelClaimed": false
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2025|LS-U+": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -4259,8 +5104,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.8,
+      "topSpeed": 175,
       "cargo": null,
       "towing": 3500,
       "seats": 5,
@@ -4272,7 +5117,10 @@
       "payload": 995,
       "groundClearance": 240,
       "price": "$68,000",
-      "accelClaimed": false
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2025|X-Terrain": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -4285,7 +5133,7 @@
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
       "acceleration": 10.1,
-      "topSpeed": null,
+      "topSpeed": 170,
       "cargo": null,
       "towing": 3500,
       "seats": 5,
@@ -4297,7 +5145,11 @@
       "payload": 930,
       "groundClearance": 240,
       "price": "$73,000",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~17.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2025|Blade": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -4309,8 +5161,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.2,
+      "topSpeed": 170,
       "cargo": null,
       "towing": 3500,
       "seats": 5,
@@ -4322,7 +5174,10 @@
       "payload": 901,
       "groundClearance": 244,
       "price": "$80,900",
-      "accelClaimed": false
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2026|SX": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -4337,8 +5192,8 @@
       "fh": 6.5,
       "fx": 7.1,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.5,
+      "topSpeed": 180,
       "weight": 2035,
       "seats": 5,
       "cargo": null,
@@ -4347,7 +5202,10 @@
       "payload": 1065,
       "fuelTank": 76,
       "groundClearance": 235,
-      "accelClaimed": false
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2026|LS-U": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -4362,8 +5220,8 @@
       "fh": 6.5,
       "fx": 7.1,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.8,
+      "topSpeed": 180,
       "weight": 2105,
       "seats": 5,
       "cargo": null,
@@ -4372,7 +5230,10 @@
       "payload": 995,
       "fuelTank": 76,
       "groundClearance": 240,
-      "accelClaimed": false
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2026|LS-U+": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -4387,8 +5248,8 @@
       "fh": 6.5,
       "fx": 7.1,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.8,
+      "topSpeed": 180,
       "weight": 2105,
       "seats": 5,
       "cargo": null,
@@ -4397,7 +5258,10 @@
       "payload": 995,
       "fuelTank": 76,
       "groundClearance": 240,
-      "accelClaimed": false
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2026|X-Rider": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -4412,8 +5276,8 @@
       "fh": 7.4,
       "fx": 7.8,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.6,
+      "topSpeed": 180,
       "weight": 2060,
       "seats": 5,
       "cargo": null,
@@ -4422,7 +5286,10 @@
       "payload": 1040,
       "fuelTank": 76,
       "groundClearance": 235,
-      "accelClaimed": false
+      "quarterMile": "~17.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2026|X-Terrain": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -4438,7 +5305,7 @@
       "fx": 7.8,
       "fuelType": "diesel",
       "acceleration": 10.1,
-      "topSpeed": null,
+      "topSpeed": 180,
       "weight": 2170,
       "seats": 5,
       "cargo": null,
@@ -4447,7 +5314,11 @@
       "payload": 930,
       "fuelTank": 76,
       "groundClearance": 240,
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~17.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|D-MAX|2026|Blade": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -4462,8 +5333,8 @@
       "fh": 6.5,
       "fx": 7.1,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.2,
+      "topSpeed": 180,
       "weight": 2199,
       "seats": 5,
       "cargo": null,
@@ -4472,7 +5343,10 @@
       "payload": 901,
       "fuelTank": 76,
       "groundClearance": 244,
-      "accelClaimed": false
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

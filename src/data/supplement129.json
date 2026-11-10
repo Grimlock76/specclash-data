@@ -11,14 +11,19 @@
       "torque": 740,
       "weight": 1470,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 9.3,
+      "fh": 6.6,
       "fx": 8.1,
       "acceleration": 2.9,
       "topSpeed": 330,
       "range": 25,
       "price": "~$599,000",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ferrari|296 GTB|2023|GTB": {
       "engine": "3.0L V6 Twin-Turbo Plug-In Hybrid",
@@ -31,14 +36,19 @@
       "torque": 740,
       "weight": 1470,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 9.3,
+      "fh": 6.6,
       "fx": 8.1,
       "acceleration": 2.9,
       "topSpeed": 330,
       "range": 25,
       "price": "~$625,000",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ferrari|296 GTB|2024|GTB": {
       "engine": "3.0L V6 Twin-Turbo Plug-In Hybrid",
@@ -51,14 +61,19 @@
       "torque": 740,
       "weight": 1470,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 9.3,
+      "fh": 6.6,
       "fx": 8.1,
       "acceleration": 2.9,
       "topSpeed": 330,
       "range": 25,
       "price": "~$649,000",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ferrari|296 GTB|2025|GTB": {
       "engine": "3.0L V6 Twin-Turbo Plug-In Hybrid",
@@ -71,14 +86,19 @@
       "torque": 740,
       "weight": 1470,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 9.3,
+      "fh": 6.6,
       "fx": 8.1,
       "acceleration": 2.9,
       "topSpeed": 330,
       "range": 25,
       "price": "~$669,000",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ferrari|296 GTB|2026|GTB": {
       "engine": "3.0L V6 Twin-Turbo Plug-In Hybrid",
@@ -91,14 +111,19 @@
       "torque": 740,
       "weight": 1470,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 9.3,
+      "fh": 6.6,
       "fx": 8.1,
       "acceleration": 2.9,
       "topSpeed": 330,
       "range": 25,
       "price": "~$689,000",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ferrari|296 GTS|2023|GTS": {
       "engine": "3.0L V6 Twin-Turbo Plug-In Hybrid",
@@ -111,14 +136,19 @@
       "torque": 740,
       "weight": 1560,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 9.5,
+      "fh": 6.8,
       "fx": 8.3,
       "acceleration": 2.9,
       "topSpeed": 320,
       "range": 25,
       "price": "~$679,000",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ferrari|296 GTS|2024|GTS": {
       "engine": "3.0L V6 Twin-Turbo Plug-In Hybrid",
@@ -131,14 +161,19 @@
       "torque": 740,
       "weight": 1560,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 9.5,
+      "fh": 6.8,
       "fx": 8.3,
       "acceleration": 2.9,
       "topSpeed": 320,
       "range": 25,
       "price": "~$699,000",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ferrari|296 GTS|2025|GTS": {
       "engine": "3.0L V6 Twin-Turbo Plug-In Hybrid",
@@ -151,14 +186,19 @@
       "torque": 740,
       "weight": 1560,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 9.5,
+      "fh": 6.8,
       "fx": 8.3,
       "acceleration": 2.9,
       "topSpeed": 320,
       "range": 25,
       "price": "~$719,000",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ferrari|296 GTS|2026|GTS": {
       "engine": "3.0L V6 Twin-Turbo Plug-In Hybrid",
@@ -171,14 +211,19 @@
       "torque": 740,
       "weight": 1560,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 9.5,
+      "fh": 6.8,
       "fx": 8.3,
       "acceleration": 2.9,
       "topSpeed": 320,
       "range": 25,
       "price": "~$739,000",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ferrari|Purosangue|2023|Purosangue": {
       "engine": "6.5L V12 NA F140IA",
@@ -191,13 +236,18 @@
       "torque": 716,
       "weight": 2033,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 18.1,
+      "fh": 10.1,
       "fx": 14.5,
       "acceleration": 3.3,
       "topSpeed": 310,
       "price": "~$680,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~11.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ferrari|Purosangue|2024|Purosangue": {
       "engine": "6.5L V12 NA F140IA",
@@ -210,13 +260,18 @@
       "torque": 716,
       "weight": 2033,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 18.1,
+      "fh": 10.1,
       "fx": 14.5,
       "acceleration": 3.3,
       "topSpeed": 310,
       "price": "~$710,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~11.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ferrari|Purosangue|2025|Purosangue": {
       "engine": "6.5L V12 NA F140IA",
@@ -229,13 +284,18 @@
       "torque": 716,
       "weight": 2033,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 18.1,
+      "fh": 10.1,
       "fx": 14.5,
       "acceleration": 3.3,
       "topSpeed": 310,
       "price": "~$735,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~11.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ferrari|Purosangue|2026|Purosangue": {
       "engine": "6.5L V12 NA F140IA",
@@ -248,13 +308,18 @@
       "torque": 716,
       "weight": 2033,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 18.1,
+      "fh": 10.1,
       "fx": 14.5,
       "acceleration": 3.3,
       "topSpeed": 310,
       "price": "~$760,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~11.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ferrari|12Cilindri|2024|Coupé": {
       "engine": "6.5L V12 NA F140HD",
@@ -267,13 +332,18 @@
       "torque": 678,
       "weight": 1560,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 18.6,
+      "fh": 10.4,
       "fx": 14.9,
       "acceleration": 2.9,
       "topSpeed": 340,
       "price": "~$719,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ferrari|12Cilindri|2024|Spider": {
       "engine": "6.5L V12 NA F140HD",
@@ -286,13 +356,18 @@
       "torque": 678,
       "weight": 1670,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 18.6,
+      "fh": 10.4,
       "fx": 14.9,
       "acceleration": 2.9,
       "topSpeed": 330,
       "price": "~$789,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ferrari|12Cilindri|2025|Coupé": {
       "engine": "6.5L V12 NA F140HD",
@@ -305,13 +380,18 @@
       "torque": 678,
       "weight": 1560,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 18.6,
+      "fh": 10.4,
       "fx": 14.9,
       "acceleration": 2.9,
       "topSpeed": 340,
       "price": "~$745,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ferrari|12Cilindri|2025|Spider": {
       "engine": "6.5L V12 NA F140HD",
@@ -324,13 +404,18 @@
       "torque": 678,
       "weight": 1670,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 18.6,
+      "fh": 10.4,
       "fx": 14.9,
       "acceleration": 2.9,
       "topSpeed": 330,
       "price": "~$815,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ferrari|12Cilindri|2026|Coupé": {
       "engine": "6.5L V12 NA F140HD",
@@ -343,13 +428,18 @@
       "torque": 678,
       "weight": 1560,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 18.6,
+      "fh": 10.4,
       "fx": 14.9,
       "acceleration": 2.9,
       "topSpeed": 340,
       "price": "~$769,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ferrari|12Cilindri|2026|Spider": {
       "engine": "6.5L V12 NA F140HD",
@@ -362,13 +452,18 @@
       "torque": 678,
       "weight": 1670,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 18.6,
+      "fh": 10.4,
       "fx": 14.9,
       "acceleration": 2.9,
       "topSpeed": 330,
       "price": "~$839,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Lamborghini|Revuelto|2025|base": {
       "engine": "6.5L V12 Hybrid Revuelto",
@@ -381,13 +476,20 @@
       "torque": 750,
       "weight": 1772,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 14.5,
+      "fh": 10.5,
       "fx": 12.7,
       "acceleration": 2.5,
       "topSpeed": 350,
       "price": "~$1,150,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 150
     },
     "Lamborghini|Revuelto|2026|base": {
       "engine": "6.5L V12 Hybrid Revuelto",
@@ -400,13 +502,20 @@
       "torque": 750,
       "weight": 1772,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 14.5,
+      "fh": 10.5,
       "fx": 12.7,
       "acceleration": 2.5,
       "topSpeed": 350,
       "price": "~$1,200,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 150
     },
     "BYD|Seagull|2025|Standard Range": {
       "engine": "Single Electric Motor",
@@ -425,7 +534,8 @@
       "acceleration": 5.9,
       "topSpeed": 130,
       "price": "~$25,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.2 sec"
     },
     "BYD|Seagull|2025|Extended Range": {
       "engine": "Single Electric Motor",
@@ -444,7 +554,8 @@
       "acceleration": 4.9,
       "topSpeed": 150,
       "price": "~$31,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.2 sec"
     },
     "BYD|Seagull|2026|Standard Range": {
       "engine": "Single Electric Motor",
@@ -463,7 +574,8 @@
       "acceleration": 5.9,
       "topSpeed": 130,
       "price": "~$26,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.2 sec"
     },
     "BYD|Seagull|2026|Extended Range": {
       "engine": "Single Electric Motor",
@@ -482,7 +594,8 @@
       "acceleration": 4.9,
       "topSpeed": 150,
       "price": "~$32,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.2 sec"
     },
     "Skoda|Elroq|2024|60": {
       "engine": "Single Electric Motor",
@@ -501,7 +614,8 @@
       "acceleration": 8.7,
       "topSpeed": 160,
       "price": "~$59,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.7 sec"
     },
     "Skoda|Elroq|2024|85": {
       "engine": "Single Electric Motor",
@@ -520,7 +634,8 @@
       "acceleration": 8.4,
       "topSpeed": 160,
       "price": "~$69,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.4 sec"
     },
     "Skoda|Elroq|2024|RS": {
       "engine": "Dual Electric Motor RS",
@@ -539,7 +654,8 @@
       "acceleration": 5.4,
       "topSpeed": 180,
       "price": "~$79,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.7 sec"
     },
     "Skoda|Elroq|2025|60": {
       "engine": "Single Electric Motor",
@@ -558,7 +674,8 @@
       "acceleration": 8.7,
       "topSpeed": 160,
       "price": "~$61,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.7 sec"
     },
     "Skoda|Elroq|2025|85": {
       "engine": "Single Electric Motor",
@@ -577,7 +694,8 @@
       "acceleration": 8.4,
       "topSpeed": 160,
       "price": "~$71,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.4 sec"
     },
     "Skoda|Elroq|2025|RS": {
       "engine": "Dual Electric Motor RS",
@@ -596,7 +714,8 @@
       "acceleration": 5.4,
       "topSpeed": 180,
       "price": "~$81,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.7 sec"
     },
     "Skoda|Elroq|2026|60": {
       "engine": "Single Electric Motor",
@@ -615,7 +734,8 @@
       "acceleration": 8.7,
       "topSpeed": 160,
       "price": "~$63,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.7 sec"
     },
     "Skoda|Elroq|2026|85": {
       "engine": "Single Electric Motor",
@@ -634,7 +754,8 @@
       "acceleration": 8.4,
       "topSpeed": 160,
       "price": "~$73,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.4 sec"
     },
     "Skoda|Elroq|2026|RS": {
       "engine": "Dual Electric Motor RS",
@@ -653,7 +774,8 @@
       "acceleration": 5.4,
       "topSpeed": 180,
       "price": "~$83,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.7 sec"
     },
     "Genesis|G90|2019|3.3T": {
       "engine": "3.3L V6 Twin-Turbo",
@@ -666,13 +788,20 @@
       "torque": 510,
       "weight": 2150,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 15.4,
+      "fh": 8.5,
       "fx": 12.3,
       "acceleration": 5,
       "topSpeed": 240,
       "price": "~$125,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 449
     },
     "Genesis|G90|2019|5.0": {
       "engine": "5.0L V8 GDi",
@@ -685,13 +814,20 @@
       "torque": 520,
       "weight": 2290,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 17.8,
+      "fh": 9.8,
       "fx": 14.2,
       "acceleration": 5.4,
       "topSpeed": 240,
       "price": "~$151,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 449
     },
     "Genesis|G90|2021|3.3T": {
       "engine": "3.3L V6 Twin-Turbo",
@@ -704,13 +840,20 @@
       "torque": 510,
       "weight": 2150,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 15.4,
+      "fh": 8.5,
       "fx": 12.3,
       "acceleration": 5,
       "topSpeed": 240,
       "price": "~$131,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 449
     },
     "Genesis|G90|2021|5.0": {
       "engine": "5.0L V8 GDi",
@@ -723,13 +866,20 @@
       "torque": 520,
       "weight": 2290,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 17.8,
+      "fh": 9.8,
       "fx": 14.2,
       "acceleration": 5.4,
       "topSpeed": 240,
       "price": "~$157,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 449
     },
     "Genesis|G90|2022|3.3T": {
       "engine": "3.3L V6 Twin-Turbo",
@@ -742,13 +892,20 @@
       "torque": 510,
       "weight": 2150,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 15.4,
+      "fh": 8.5,
       "fx": 12.3,
       "acceleration": 5,
       "topSpeed": 240,
       "price": "~$134,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 449
     },
     "Genesis|G90|2022|5.0": {
       "engine": "5.0L V8 GDi",
@@ -761,13 +918,20 @@
       "torque": 520,
       "weight": 2290,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 17.8,
+      "fh": 9.8,
       "fx": 14.2,
       "acceleration": 5.4,
       "topSpeed": 240,
       "price": "~$160,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 449
     },
     "Genesis|G90|2024|3.5T": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -780,13 +944,20 @@
       "torque": 530,
       "weight": 2270,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 16,
+      "fh": 8.9,
       "fx": 12.8,
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$203,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 449
     },
     "Genesis|G90|2024|3.5T e-AWD": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -799,13 +970,20 @@
       "torque": 530,
       "weight": 2270,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 16,
+      "fh": 8.9,
       "fx": 12.8,
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$223,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 449
     },
     "Genesis|G90|2026|3.5T": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -818,13 +996,20 @@
       "torque": 530,
       "weight": 2270,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 16,
+      "fh": 8.9,
       "fx": 12.8,
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$211,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 449
     },
     "Genesis|G90|2026|3.5T e-AWD": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -837,13 +1022,20 @@
       "torque": 530,
       "weight": 2270,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 16,
+      "fh": 8.9,
       "fx": 12.8,
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$231,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 449
     },
     "Jeep|Cherokee|2014|Sport": {
       "engine": "2.4L 4-cyl MultiAir",
@@ -856,13 +1048,18 @@
       "torque": 229,
       "weight": 1800,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 10.4,
+      "fh": 5.7,
       "fx": 8.3,
       "acceleration": 10.5,
       "topSpeed": 195,
       "price": "~$36,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Cherokee|2014|Limited": {
       "engine": "2.0L 4-cyl Turbo",
@@ -875,13 +1072,18 @@
       "torque": 353,
       "weight": 1900,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.3,
       "fx": 9.1,
       "acceleration": 8,
       "topSpeed": 205,
       "price": "~$49,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Cherokee|2014|Trailhawk": {
       "engine": "2.0L 4-cyl Turbo",
@@ -894,13 +1096,18 @@
       "torque": 353,
       "weight": 1900,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.3,
       "fx": 9.1,
       "acceleration": 8,
       "topSpeed": 205,
       "price": "~$52,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Cherokee|2016|Sport": {
       "engine": "2.4L 4-cyl MultiAir",
@@ -913,13 +1120,18 @@
       "torque": 229,
       "weight": 1800,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 10.4,
+      "fh": 5.7,
       "fx": 8.3,
       "acceleration": 10.5,
       "topSpeed": 195,
       "price": "~$37,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Cherokee|2016|Limited": {
       "engine": "2.0L 4-cyl Turbo",
@@ -932,13 +1144,18 @@
       "torque": 353,
       "weight": 1900,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.3,
       "fx": 9.1,
       "acceleration": 8,
       "topSpeed": 205,
       "price": "~$52,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Cherokee|2016|Trailhawk": {
       "engine": "2.0L 4-cyl Turbo",
@@ -951,13 +1168,18 @@
       "torque": 353,
       "weight": 1900,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.3,
       "fx": 9.1,
       "acceleration": 8,
       "topSpeed": 205,
       "price": "~$55,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Cherokee|2018|Sport": {
       "engine": "2.4L 4-cyl MultiAir",
@@ -970,13 +1192,20 @@
       "torque": 229,
       "weight": 1800,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 10.4,
+      "fh": 5.7,
       "fx": 8.3,
       "acceleration": 10.5,
       "topSpeed": 195,
       "price": "~$39,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 673
     },
     "Jeep|Cherokee|2018|Limited": {
       "engine": "2.0L 4-cyl Turbo",
@@ -989,13 +1218,20 @@
       "torque": 353,
       "weight": 1900,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.3,
       "fx": 9.1,
       "acceleration": 8,
       "topSpeed": 205,
       "price": "~$54,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 673
     },
     "Jeep|Cherokee|2018|Trailhawk": {
       "engine": "2.0L 4-cyl Turbo",
@@ -1008,13 +1244,20 @@
       "torque": 353,
       "weight": 1900,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.3,
       "fx": 9.1,
       "acceleration": 8,
       "topSpeed": 205,
       "price": "~$57,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 673
     },
     "Jeep|Cherokee|2020|Sport": {
       "engine": "2.4L 4-cyl MultiAir",
@@ -1027,13 +1270,20 @@
       "torque": 229,
       "weight": 1800,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 10.4,
+      "fh": 5.7,
       "fx": 8.3,
       "acceleration": 10.5,
       "topSpeed": 195,
       "price": "~$41,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 673
     },
     "Jeep|Cherokee|2020|Limited": {
       "engine": "2.0L 4-cyl Turbo",
@@ -1046,13 +1296,20 @@
       "torque": 353,
       "weight": 1900,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.3,
       "fx": 9.1,
       "acceleration": 8,
       "topSpeed": 205,
       "price": "~$57,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 673
     },
     "Jeep|Cherokee|2020|Trailhawk": {
       "engine": "2.0L 4-cyl Turbo",
@@ -1065,13 +1322,20 @@
       "torque": 353,
       "weight": 1900,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.3,
       "fx": 9.1,
       "acceleration": 8,
       "topSpeed": 205,
       "price": "~$60,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 673
     },
     "Jeep|Cherokee|2021|Sport": {
       "engine": "2.4L 4-cyl MultiAir",
@@ -1084,13 +1348,20 @@
       "torque": 229,
       "weight": 1800,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 10.4,
+      "fh": 5.7,
       "fx": 8.3,
       "acceleration": 10.5,
       "topSpeed": 195,
       "price": "~$43,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 673
     },
     "Jeep|Cherokee|2021|Limited": {
       "engine": "2.0L 4-cyl Turbo",
@@ -1103,13 +1374,20 @@
       "torque": 353,
       "weight": 1900,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.3,
       "fx": 9.1,
       "acceleration": 8,
       "topSpeed": 205,
       "price": "~$59,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 673
     },
     "Jeep|Cherokee|2021|Trailhawk": {
       "engine": "2.0L 4-cyl Turbo",
@@ -1122,13 +1400,20 @@
       "torque": 353,
       "weight": 1900,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.3,
       "fx": 9.1,
       "acceleration": 8,
       "topSpeed": 205,
       "price": "~$62,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 673
     }
   }
 }

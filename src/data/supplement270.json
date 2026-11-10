@@ -21,7 +21,12 @@
       "fh": 5.8,
       "fx": 6.9,
       "price": "$55,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1680,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Volvo|XC40|2026|Ultra B4 Bright": {
       "topSpeed": 180,
@@ -44,7 +49,12 @@
       "fh": 6,
       "fx": 7.1,
       "price": "$62,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1680,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.5 sec"
     },
     "Volvo|XC40|2026|Ultra B4 Dark": {
       "topSpeed": 180,
@@ -67,7 +77,12 @@
       "fh": 6,
       "fx": 7.1,
       "price": "$63,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1680,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.5 sec"
     }
   }
 }

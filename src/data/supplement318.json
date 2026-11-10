@@ -1,8 +1,8 @@
 {
   "specs": {
     "Toyota|Corolla|2024|Ascent Sport Hatch": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.3,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
@@ -19,11 +19,15 @@
       "fx": 6,
       "weight": 1420,
       "cargo": 217,
-      "price": "$29,610"
+      "price": "$29,610",
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Corolla|2024|SX Hatch": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.3,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
@@ -40,11 +44,15 @@
       "fx": 6,
       "weight": 1420,
       "cargo": 217,
-      "price": "$32,760"
+      "price": "$32,760",
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Corolla|2024|ZR Hatch": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.3,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
@@ -61,11 +69,15 @@
       "fx": 6,
       "weight": 1420,
       "cargo": 217,
-      "price": "$36,600"
+      "price": "$36,600",
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Corolla|2024|Ascent Sport Hybrid Hatch": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 9.1,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
@@ -74,7 +86,7 @@
       "displacement": 1798,
       "fuelType": "hybrid",
       "power": 103,
-      "torque": null,
+      "torque": 200,
       "transmission": "CVT",
       "fuelTank": 43,
       "fc": 3.8,
@@ -82,11 +94,16 @@
       "fx": 4,
       "weight": 1400,
       "cargo": 217,
-      "price": "$32,110"
+      "price": "$32,110",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.0 sec"
     },
     "Toyota|Corolla|2024|SX Hybrid Hatch": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 9.1,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
@@ -95,7 +112,7 @@
       "displacement": 1798,
       "fuelType": "hybrid",
       "power": 103,
-      "torque": null,
+      "torque": 200,
       "transmission": "CVT",
       "fuelTank": 43,
       "fc": 3.8,
@@ -103,11 +120,16 @@
       "fx": 4,
       "weight": 1400,
       "cargo": 217,
-      "price": "$35,260"
+      "price": "$35,260",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.0 sec"
     },
     "Toyota|Corolla|2024|ZR Hybrid Hatch": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 9.1,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
@@ -116,7 +138,7 @@
       "displacement": 1798,
       "fuelType": "hybrid",
       "power": 103,
-      "torque": null,
+      "torque": 200,
       "transmission": "CVT",
       "fuelTank": 43,
       "fc": 3.8,
@@ -124,11 +146,16 @@
       "fx": 4,
       "weight": 1400,
       "cargo": 217,
-      "price": "$39,100"
+      "price": "$39,100",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.0 sec"
     },
     "Toyota|Corolla|2024|Ascent Sport Sedan": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.3,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
@@ -145,11 +172,15 @@
       "fx": 5.9,
       "weight": 1410,
       "cargo": 470,
-      "price": "$29,270"
+      "price": "$29,270",
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Corolla|2024|SX Sedan": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.3,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
@@ -166,11 +197,15 @@
       "fx": 5.9,
       "weight": 1410,
       "cargo": 470,
-      "price": "$32,760"
+      "price": "$32,760",
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Corolla|2024|ZR Sedan": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.3,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
@@ -187,11 +222,15 @@
       "fx": 5.9,
       "weight": 1410,
       "cargo": 470,
-      "price": "$36,600"
+      "price": "$36,600",
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Corolla|2024|Ascent Sport Hybrid Sedan": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 9.3,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
@@ -200,7 +239,7 @@
       "displacement": 1798,
       "fuelType": "hybrid",
       "power": 103,
-      "torque": null,
+      "torque": 200,
       "transmission": "CVT",
       "fuelTank": 43,
       "fc": 3.9,
@@ -208,11 +247,16 @@
       "fx": 3.9,
       "weight": 1430,
       "cargo": 470,
-      "price": "$32,110"
+      "price": "$32,110",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Toyota|Corolla|2024|SX Hybrid Sedan": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 9.3,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
@@ -221,7 +265,7 @@
       "displacement": 1798,
       "fuelType": "hybrid",
       "power": 103,
-      "torque": null,
+      "torque": 200,
       "transmission": "CVT",
       "fuelTank": 43,
       "fc": 3.9,
@@ -229,11 +273,16 @@
       "fx": 3.9,
       "weight": 1430,
       "cargo": 470,
-      "price": "$34,920"
+      "price": "$34,920",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Toyota|Corolla|2024|ZR Hybrid Sedan": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 9.3,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
@@ -242,7 +291,7 @@
       "displacement": 1798,
       "fuelType": "hybrid",
       "power": 103,
-      "torque": null,
+      "torque": 200,
       "transmission": "CVT",
       "fuelTank": 43,
       "fc": 3.9,
@@ -250,7 +299,12 @@
       "fx": 3.9,
       "weight": 1430,
       "cargo": 470,
-      "price": "$40,260"
+      "price": "$40,260",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     }
   }
 }

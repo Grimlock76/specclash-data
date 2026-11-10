@@ -1,8 +1,8 @@
 {
   "specs": {
     "Kia|Sportage|2025|S Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 10.8,
       "cargo": 543,
       "seats": 5,
       "engine": "2.0L I4 Turbo Diesel",
@@ -20,11 +20,16 @@
       "towing": 1900,
       "fuelTank": 54,
       "price": "$40,395",
-      "accelClaimed": false
+      "weight": 1795,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.0 sec"
     },
     "Kia|Sportage|2025|SX Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 10.8,
       "cargo": 543,
       "seats": 5,
       "engine": "2.0L I4 Turbo Diesel",
@@ -42,11 +47,16 @@
       "towing": 1900,
       "fuelTank": 54,
       "price": "$42,950",
-      "accelClaimed": false
+      "weight": 1795,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.0 sec"
     },
     "Kia|Sportage|2025|SX+ Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 10.8,
       "cargo": 543,
       "seats": 5,
       "engine": "2.0L I4 Turbo Diesel",
@@ -64,11 +74,16 @@
       "towing": 1900,
       "fuelTank": 54,
       "price": "$47,450",
-      "accelClaimed": false
+      "weight": 1795,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.0 sec"
     },
     "Kia|Sportage|2025|GT-Line Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 10.8,
       "cargo": 543,
       "seats": 5,
       "engine": "2.0L I4 Turbo Diesel",
@@ -86,11 +101,16 @@
       "towing": 1900,
       "fuelTank": 54,
       "price": "$52,920",
-      "accelClaimed": false
+      "weight": 1795,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.0 sec"
     },
     "Kia|Sportage|2025|HEV S AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 9,
       "cargo": 543,
       "seats": 5,
       "engine": "1.6L I4 Turbo Hybrid",
@@ -108,11 +128,14 @@
       "weight": 1793,
       "towing": 1900,
       "price": "$47,450",
-      "accelClaimed": false
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Sportage|2025|HEV GT-Line AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 9,
       "cargo": 543,
       "seats": 5,
       "engine": "1.6L I4 Turbo Hybrid",
@@ -130,12 +153,15 @@
       "weight": 1793,
       "towing": 1900,
       "price": "$60,370",
-      "accelClaimed": false
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Sportage|2026|S Diesel AWD": {
       "cargo": 543,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.6,
+      "topSpeed": 175,
       "seats": 5,
       "engine": "2.0L I4 Turbo Diesel",
       "displacement": 1998,
@@ -153,12 +179,15 @@
       "towing": 1900,
       "fuelTank": 54,
       "price": "$43,890",
-      "accelClaimed": false
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Sportage|2026|SX Diesel AWD": {
       "cargo": 543,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.6,
+      "topSpeed": 175,
       "seats": 5,
       "engine": "2.0L I4 Turbo Diesel",
       "displacement": 1998,
@@ -176,12 +205,15 @@
       "towing": 1900,
       "fuelTank": 54,
       "price": "$46,380",
-      "accelClaimed": false
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Sportage|2026|SX+ Diesel AWD": {
       "cargo": 543,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.6,
+      "topSpeed": 175,
       "seats": 5,
       "engine": "2.0L I4 Turbo Diesel",
       "displacement": 1998,
@@ -199,12 +231,15 @@
       "towing": 1900,
       "fuelTank": 54,
       "price": "$50,980",
-      "accelClaimed": false
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Sportage|2026|GT-Line Diesel AWD": {
       "cargo": 543,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.6,
+      "topSpeed": 175,
       "seats": 5,
       "engine": "2.0L I4 Turbo Diesel",
       "displacement": 1998,
@@ -222,12 +257,15 @@
       "towing": 1900,
       "fuelTank": 54,
       "price": "$56,900",
-      "accelClaimed": false
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Sportage|2026|HEV S AWD": {
       "cargo": 586,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9,
+      "topSpeed": 190,
       "seats": 5,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -245,12 +283,15 @@
       "towing": 1900,
       "fuelTank": 52,
       "price": "$47,450",
-      "accelClaimed": false
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Sportage|2026|HEV SX AWD": {
       "cargo": 586,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9,
+      "topSpeed": 190,
       "seats": 5,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -268,12 +309,15 @@
       "towing": 1900,
       "fuelTank": 52,
       "price": "$49,450",
-      "accelClaimed": false
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Sportage|2026|HEV GT-Line AWD": {
       "cargo": 586,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9,
+      "topSpeed": 190,
       "seats": 5,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -291,7 +335,10 @@
       "towing": 1900,
       "fuelTank": 52,
       "price": "$60,370",
-      "accelClaimed": false
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Carnival|2026|S": {
       "engine": "2.2L I4 Turbo Diesel",
@@ -311,10 +358,13 @@
       "towing": 2000,
       "fuelTank": 72,
       "cargo": 627,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.4,
+      "topSpeed": 185,
       "price": "$54,560",
-      "accelClaimed": false
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Carnival|2026|Sport": {
       "engine": "2.2L I4 Turbo Diesel",
@@ -334,10 +384,13 @@
       "towing": 2000,
       "fuelTank": 72,
       "cargo": 627,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.4,
+      "topSpeed": 185,
       "price": "$60,200",
-      "accelClaimed": false
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Carnival|2026|Sport+": {
       "engine": "2.2L I4 Turbo Diesel",
@@ -357,10 +410,13 @@
       "towing": 2000,
       "fuelTank": 72,
       "cargo": 627,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.4,
+      "topSpeed": 185,
       "price": "$66,530",
-      "accelClaimed": false
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Carnival|2026|GT-Line Lite": {
       "engine": "2.2L I4 Turbo Diesel",
@@ -380,10 +436,13 @@
       "towing": 2000,
       "fuelTank": 72,
       "cargo": 627,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.4,
+      "topSpeed": 185,
       "price": "$70,500",
-      "accelClaimed": false
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Carnival|2026|GT-Line": {
       "engine": "2.2L I4 Turbo Diesel",
@@ -398,15 +457,19 @@
       "fc": 7.8,
       "fh": 5.7,
       "fx": 6.5,
-      "weight": null,
+      "weight": 2110,
       "seats": 8,
       "towing": 2000,
       "fuelTank": 72,
       "cargo": 627,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.4,
+      "topSpeed": 185,
       "price": "$75,030",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.4 sec"
     },
     "Kia|Carnival|2026|S HEV": {
       "engine": "1.6L I4 Turbo Hybrid",
@@ -426,10 +489,13 @@
       "towing": 1000,
       "fuelTank": 72,
       "cargo": 627,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.9,
+      "topSpeed": 195,
       "price": "$56,310",
-      "accelClaimed": false
+      "quarterMile": "~18.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Carnival|2026|Sport+ HEV": {
       "engine": "1.6L I4 Turbo Hybrid",
@@ -449,10 +515,13 @@
       "towing": 1000,
       "fuelTank": 72,
       "cargo": 627,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.9,
+      "topSpeed": 195,
       "price": "$68,540",
-      "accelClaimed": false
+      "quarterMile": "~18.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Carnival|2026|GT-Line HEV": {
       "engine": "1.6L I4 Turbo Hybrid",
@@ -472,10 +541,13 @@
       "towing": 1000,
       "fuelTank": 72,
       "cargo": 627,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.9,
+      "topSpeed": 195,
       "price": "$76,840",
-      "accelClaimed": false
+      "quarterMile": "~18.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Niro|2025|HEV S": {
       "engine": "1.6L I4 Petrol Hybrid",
@@ -494,11 +566,15 @@
       "cargo": 425,
       "fuelTank": 42,
       "towing": 1300,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 1425,
+      "topSpeed": 165,
+      "acceleration": 10.4,
       "price": "$45,000",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.8 sec"
     },
     "Kia|Niro|2025|HEV GT-Line": {
       "engine": "1.6L I4 Petrol Hybrid",
@@ -517,11 +593,15 @@
       "cargo": 425,
       "fuelTank": 42,
       "towing": 1300,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 1425,
+      "topSpeed": 165,
+      "acceleration": 10.4,
       "price": "$50,650",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.8 sec"
     },
     "Kia|Niro|2025|EV S": {
       "engine": "Single Motor Electric",
@@ -541,11 +621,16 @@
       "battery": "64.8 kWh",
       "range": 460,
       "towing": 750,
-      "weight": null,
-      "topSpeed": null,
+      "weight": 1725,
+      "topSpeed": 150,
       "acceleration": 7.8,
       "accelClaimed": true,
-      "price": "$66,590"
+      "price": "$66,590",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.9 sec"
     },
     "Kia|Niro|2025|EV GT-Line": {
       "engine": "Single Motor Electric",
@@ -565,11 +650,16 @@
       "battery": "64.8 kWh",
       "range": 460,
       "towing": 750,
-      "weight": null,
-      "topSpeed": null,
+      "weight": 1725,
+      "topSpeed": 150,
       "acceleration": 7.8,
       "accelClaimed": true,
-      "price": "$72,360"
+      "price": "$72,360",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.9 sec"
     },
     "Kia|Niro|2026|HEV S": {
       "engine": "1.6L I4 Petrol Hybrid",
@@ -588,11 +678,15 @@
       "cargo": 425,
       "fuelTank": 42,
       "towing": 1300,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 1425,
+      "topSpeed": 165,
+      "acceleration": 9.7,
       "price": "$45,000",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.4 sec"
     },
     "Kia|Niro|2026|HEV GT-Line": {
       "engine": "1.6L I4 Petrol Hybrid",
@@ -611,11 +705,15 @@
       "cargo": 425,
       "fuelTank": 42,
       "towing": 1300,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 1425,
+      "topSpeed": 165,
+      "acceleration": 9.7,
       "price": "$50,650",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.4 sec"
     },
     "Kia|Niro|2026|EV S": {
       "engine": "Single Motor Electric",
@@ -635,11 +733,16 @@
       "battery": "64.8 kWh",
       "range": 460,
       "towing": 750,
-      "weight": null,
-      "topSpeed": null,
+      "weight": 1725,
+      "topSpeed": 150,
       "acceleration": 7.8,
       "accelClaimed": true,
-      "price": "$66,590"
+      "price": "$66,590",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.9 sec"
     },
     "Kia|Niro|2026|EV GT-Line": {
       "engine": "Single Motor Electric",
@@ -659,15 +762,20 @@
       "battery": "64.8 kWh",
       "range": 460,
       "towing": 750,
-      "weight": null,
-      "topSpeed": null,
+      "weight": 1725,
+      "topSpeed": 150,
       "acceleration": 7.8,
       "accelClaimed": true,
-      "price": "$72,360"
+      "price": "$72,360",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.9 sec"
     },
     "Hyundai|Palisade|2026|Elite Hybrid AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 210,
+      "acceleration": 7.3,
       "cargo": null,
       "engine": "2.5L I4 Turbo Hybrid",
       "displacement": 2497,
@@ -686,11 +794,14 @@
       "towing": 2000,
       "fuelTank": 72,
       "price": "$76,500",
-      "accelClaimed": false
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Palisade|2026|XRT PRO": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 8.5,
       "cargo": null,
       "engine": "2.5L I4 Turbo Petrol",
       "displacement": 2497,
@@ -704,16 +815,20 @@
       "fc": 15.5,
       "fh": 8.6,
       "fx": 11.2,
-      "weight": null,
+      "weight": 2185,
       "seats": 8,
       "towing": 2200,
       "fuelTank": 72,
       "price": "$79,900",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.5 sec"
     },
     "Hyundai|Palisade|2026|Calligraphy Hybrid AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 210,
+      "acceleration": 7.3,
       "cargo": null,
       "engine": "2.5L I4 Turbo Hybrid",
       "displacement": 2497,
@@ -732,7 +847,10 @@
       "towing": 2000,
       "fuelTank": 72,
       "price": "$89,828",
-      "accelClaimed": false
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

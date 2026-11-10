@@ -21,7 +21,8 @@
       "fuelTank": 66,
       "weight": 1935,
       "price": "$80,350",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.5 sec"
     },
     "Genesis|GV70|2026|2.5T Signature": {
       "topSpeed": 240,
@@ -43,7 +44,12 @@
       "towing": 2200,
       "fuelTank": 66,
       "price": "$89,350",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2020,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~14.5 sec"
     },
     "Genesis|GV70|2026|2.5T Signature Sport": {
       "topSpeed": 240,
@@ -65,12 +71,17 @@
       "towing": 2200,
       "fuelTank": 66,
       "price": "$91,350",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2020,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~14.5 sec"
     },
     "Genesis|GV70|2026|3.5T Signature": {
       "topSpeed": 250,
       "acceleration": 5.2,
-      "cargo": null,
+      "cargo": 542,
       "transmission": "8-speed automatic",
       "engine": "3.5L V6 Twin-Turbo Petrol",
       "displacement": 3470,
@@ -87,12 +98,16 @@
       "towing": 2200,
       "weight": 2020,
       "price": "$99,850",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.5 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|GV70|2026|3.5T Signature Sport": {
       "topSpeed": 250,
       "acceleration": 5.2,
-      "cargo": null,
+      "cargo": 542,
       "transmission": "8-speed automatic",
       "engine": "3.5L V6 Twin-Turbo Petrol",
       "displacement": 3470,
@@ -108,12 +123,18 @@
       "seats": 5,
       "towing": 2200,
       "price": "$101,850",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2020,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~13.5 sec"
     },
     "Genesis|GV70|2026|Electrified Signature Performance": {
       "topSpeed": 235,
       "acceleration": 4.4,
-      "cargo": null,
+      "cargo": 542,
       "transmission": "1-speed automatic",
       "engine": "Dual-Motor Electric",
       "displacement": null,
@@ -122,7 +143,7 @@
       "fuelType": "electric",
       "drivetrain": "AWD",
       "power": 360,
-      "torque": null,
+      "torque": 605,
       "fc": null,
       "fh": null,
       "fx": null,
@@ -132,12 +153,17 @@
       "seats": 5,
       "towing": 1800,
       "price": "$132,718",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "cargo"
+      ],
+      "quarterMile": "~12.7 sec"
     },
     "Genesis|GV80|2026|2.5T Signature 7 Seat": {
       "topSpeed": 237,
       "acceleration": 7.1,
-      "cargo": null,
+      "cargo": 719,
       "transmission": "8-speed automatic",
       "engine": "2.5L I4 Turbo Petrol",
       "displacement": 2497,
@@ -154,12 +180,18 @@
       "fx": 10.4,
       "seats": 7,
       "price": "$120,250",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2170,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~15.3 sec"
     },
     "Genesis|GV80|2026|3.5T Signature 7 Seat": {
       "topSpeed": 240,
       "acceleration": 5.7,
-      "cargo": null,
+      "cargo": 719,
       "transmission": "8-speed automatic",
       "engine": "3.5L V6 Twin-Turbo Petrol",
       "displacement": 3470,
@@ -176,12 +208,18 @@
       "fx": 11.9,
       "seats": 7,
       "price": "$132,250",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2310,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~14.0 sec"
     },
     "Genesis|GV80|2026|3.5T Black 7 Seat": {
       "topSpeed": 240,
       "acceleration": 5.7,
-      "cargo": null,
+      "cargo": 719,
       "transmission": "8-speed automatic",
       "engine": "3.5L V6 Twin-Turbo Petrol",
       "displacement": 3470,
@@ -198,7 +236,13 @@
       "fx": 11.9,
       "seats": 7,
       "price": "$136,250",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2310,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~14.0 sec"
     },
     "Genesis|G80|2026|2.5T Signature": {
       "topSpeed": 240,
@@ -219,12 +263,17 @@
       "seats": 5,
       "fuelTank": 65,
       "price": "$104,128",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1890,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~14.3 sec"
     },
     "Genesis|G80|2026|3.5T AWD Signature Sport": {
       "topSpeed": 250,
       "acceleration": 5.1,
-      "cargo": null,
+      "cargo": 430,
       "transmission": "8-speed automatic",
       "engine": "3.5L V6 Twin-Turbo Petrol",
       "displacement": 3470,
@@ -240,12 +289,16 @@
       "weight": 2020,
       "seats": 5,
       "price": "$127,128",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.4 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G80|2026|Electrified Signature": {
       "topSpeed": 225,
       "acceleration": 5.1,
-      "cargo": null,
+      "cargo": 430,
       "transmission": "1-speed automatic",
       "engine": "Dual-Motor Electric",
       "displacement": null,
@@ -254,7 +307,7 @@
       "fuelType": "electric",
       "drivetrain": "AWD",
       "power": 272,
-      "torque": null,
+      "torque": 515,
       "fc": null,
       "fh": null,
       "fx": null,
@@ -262,7 +315,14 @@
       "range": 570,
       "seats": 5,
       "price": "$155,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2020,
+      "est": [
+        "weight",
+        "torque",
+        "cargo"
+      ],
+      "quarterMile": "~13.4 sec"
     },
     "Genesis|G70|2026|3.3T Signature Sport Sedan": {
       "topSpeed": 270,
@@ -284,7 +344,8 @@
       "seats": 5,
       "fuelTank": 60,
       "price": "$87,042",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.0 sec"
     },
     "Genesis|G70|2026|2.0T Shooting Brake Signature Sport Line": {
       "topSpeed": 235,
@@ -306,11 +367,12 @@
       "seats": 5,
       "fuelTank": 60,
       "price": "$80,265",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.7 sec"
     },
     "Kia|Seltos|2026|S": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10,
       "cargo": 468,
       "transmission": "CVT",
       "engine": "2.0L I4 Petrol",
@@ -329,11 +391,15 @@
       "fuelTank": 50,
       "weight": 1310,
       "groundClearance": 170,
-      "price": "$31,250"
+      "price": "$31,250",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Seltos|2026|Sport": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10,
       "cargo": 468,
       "transmission": "CVT",
       "engine": "2.0L I4 Petrol",
@@ -350,11 +416,17 @@
       "seats": 5,
       "towing": 1100,
       "fuelTank": 50,
-      "price": "$34,450"
+      "price": "$34,450",
+      "weight": 1310,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.5 sec"
     },
     "Kia|Seltos|2026|Sport+ FWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10,
       "cargo": 468,
       "transmission": "CVT",
       "engine": "2.0L I4 Petrol",
@@ -372,11 +444,15 @@
       "towing": 1100,
       "fuelTank": 50,
       "weight": 1310,
-      "price": "$37,550"
+      "price": "$37,550",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Seltos|2026|Sport+ AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 205,
+      "acceleration": 7.6,
       "cargo": 468,
       "transmission": "8-speed automatic",
       "engine": "1.6L I4 Turbo Petrol",
@@ -394,11 +470,15 @@
       "towing": 1250,
       "fuelTank": 50,
       "weight": 1430,
-      "price": "$41,070"
+      "price": "$41,070",
+      "quarterMile": "~15.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Seltos|2026|GT-Line FWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10,
       "cargo": 468,
       "transmission": "CVT",
       "engine": "2.0L I4 Petrol",
@@ -415,11 +495,17 @@
       "seats": 5,
       "towing": 1100,
       "fuelTank": 50,
-      "price": "$43,250"
+      "price": "$43,250",
+      "weight": 1310,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.5 sec"
     },
     "Kia|Seltos|2026|GT-Line AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 205,
+      "acceleration": 7.6,
       "cargo": 468,
       "transmission": "8-speed automatic",
       "engine": "1.6L I4 Turbo Petrol",
@@ -437,7 +523,11 @@
       "towing": 1250,
       "fuelTank": 50,
       "weight": 1430,
-      "price": "$46,670"
+      "price": "$46,670",
+      "quarterMile": "~15.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

@@ -20,7 +20,8 @@
       "seats": 5,
       "fuelTank": 40,
       "cargo": null,
-      "price": "$34,990"
+      "price": "$34,990",
+      "quarterMile": "~14.5 sec"
     },
     "Hyundai|i20|2025|N": {
       "engine": "1.6L I4 Turbo Petrol",
@@ -38,11 +39,15 @@
       "acceleration": 6.2,
       "accelClaimed": true,
       "topSpeed": 230,
-      "weight": null,
+      "weight": 1165,
       "seats": 5,
       "fuelTank": 40,
       "cargo": null,
-      "price": "$37,500"
+      "price": "$37,500",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~14.5 sec"
     },
     "Hyundai|i20|2026|N": {
       "engine": "1.6L I4 Turbo Petrol",
@@ -60,11 +65,15 @@
       "acceleration": 6.2,
       "accelClaimed": true,
       "topSpeed": 230,
-      "weight": null,
+      "weight": 1165,
       "seats": 5,
       "fuelTank": 40,
       "cargo": null,
-      "price": "$37,500"
+      "price": "$37,500",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~14.5 sec"
     },
     "Hyundai|i30 N|2024|N Manual": {
       "engine": "2.0L I4 Turbo Petrol",
@@ -76,17 +85,20 @@
       "torque": 392,
       "drivetrain": "FWD",
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 245,
       "transmission": "6-speed manual",
       "fc": 11.8,
       "fh": 6.6,
       "fx": 8.5,
-      "acceleration": null,
-      "accelClaimed": false,
+      "acceleration": 5.9,
       "cargo": 381,
       "fuelTank": 50,
       "weight": 1508,
-      "price": "$46,200"
+      "price": "$46,200",
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|i30 N|2024|N DCT": {
       "engine": "2.0L I4 Turbo Petrol",
@@ -98,7 +110,7 @@
       "torque": 392,
       "drivetrain": "FWD",
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 245,
       "transmission": "8-speed dual-clutch",
       "fc": 11.9,
       "fh": 6.5,
@@ -108,7 +120,11 @@
       "cargo": 381,
       "fuelTank": 50,
       "weight": 1541,
-      "price": "$49,200"
+      "price": "$49,200",
+      "quarterMile": "~13.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|i30 N|2024|N Premium Manual": {
       "engine": "2.0L I4 Turbo Petrol",
@@ -120,17 +136,20 @@
       "torque": 392,
       "drivetrain": "FWD",
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 245,
       "transmission": "6-speed manual",
       "fc": 11.8,
       "fh": 6.6,
       "fx": 8.5,
-      "acceleration": null,
-      "accelClaimed": false,
+      "acceleration": 5.9,
       "cargo": 381,
       "fuelTank": 50,
       "weight": 1508,
-      "price": "$49,200"
+      "price": "$49,200",
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|i30 N|2024|N Premium DCT": {
       "engine": "2.0L I4 Turbo Petrol",
@@ -142,7 +161,7 @@
       "torque": 392,
       "drivetrain": "FWD",
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 245,
       "transmission": "8-speed dual-clutch",
       "fc": 11.9,
       "fh": 6.5,
@@ -152,7 +171,11 @@
       "cargo": 381,
       "fuelTank": 50,
       "weight": 1541,
-      "price": "$53,700"
+      "price": "$53,700",
+      "quarterMile": "~13.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|i30 N|2024|Sedan N Premium Manual": {
       "engine": "2.0L I4 Turbo Petrol",
@@ -164,17 +187,20 @@
       "torque": 392,
       "drivetrain": "FWD",
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 250,
       "transmission": "6-speed manual",
       "fc": 12,
       "fh": 6.5,
       "fx": 8.5,
-      "acceleration": null,
-      "accelClaimed": false,
+      "acceleration": 5.8,
       "cargo": 464,
       "fuelTank": 47,
       "weight": 1475,
-      "price": "$52,000"
+      "price": "$52,000",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|i30 N|2024|Sedan N Premium DCT": {
       "engine": "2.0L I4 Turbo Petrol",
@@ -186,17 +212,20 @@
       "torque": 392,
       "drivetrain": "FWD",
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 245,
       "transmission": "8-speed dual-clutch",
       "fc": 11.8,
       "fh": 6.3,
       "fx": 8.3,
-      "acceleration": null,
-      "accelClaimed": false,
+      "acceleration": 5.9,
       "cargo": 464,
       "fuelTank": 47,
       "weight": 1515,
-      "price": "$52,000"
+      "price": "$52,000",
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

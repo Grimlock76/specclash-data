@@ -17,10 +17,14 @@
       "cargo": 422,
       "fuelTank": 46,
       "towing": 1250,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.7,
       "weight": 1251,
-      "price": "$28,890"
+      "price": "$28,890",
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Juke|2024|ST+": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -39,10 +43,14 @@
       "cargo": 422,
       "fuelTank": 46,
       "towing": 1250,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.7,
       "weight": 1251,
-      "price": "$31,640"
+      "price": "$31,640",
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Juke|2024|ST-L": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -61,10 +69,14 @@
       "cargo": 422,
       "fuelTank": 46,
       "towing": 1250,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.9,
       "weight": 1274,
-      "price": "$34,940"
+      "price": "$34,940",
+      "quarterMile": "~18.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Juke|2024|Ti": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -83,10 +95,14 @@
       "cargo": 422,
       "fuelTank": 46,
       "towing": 1250,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.9,
       "weight": 1274,
-      "price": "$37,390"
+      "price": "$37,390",
+      "quarterMile": "~18.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Juke|2024|N-Sport": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -105,10 +121,14 @@
       "cargo": 422,
       "fuelTank": 46,
       "towing": 1250,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.9,
       "weight": 1274,
-      "price": "$38,665"
+      "price": "$38,665",
+      "quarterMile": "~18.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Juke|2024|ST-L+": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -127,10 +147,14 @@
       "cargo": 422,
       "fuelTank": 46,
       "towing": 1250,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.9,
       "weight": 1274,
-      "price": "$36,040"
+      "price": "$36,040",
+      "quarterMile": "~18.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Juke|2024|Ti Energy Orange": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -149,10 +173,14 @@
       "cargo": 422,
       "fuelTank": 46,
       "towing": 1250,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.9,
       "weight": 1274,
-      "price": "$37,390"
+      "price": "$37,390",
+      "quarterMile": "~18.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Juke|2025|ST": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -171,10 +199,14 @@
       "cargo": 422,
       "fuelTank": 46,
       "towing": 1250,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.7,
       "weight": 1251,
-      "price": "$29,165"
+      "price": "$29,165",
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Juke|2025|ST+": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -193,10 +225,14 @@
       "cargo": 422,
       "fuelTank": 46,
       "towing": 1250,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.7,
       "weight": 1251,
-      "price": "$31,915"
+      "price": "$31,915",
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Juke|2025|ST-L": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -215,10 +251,14 @@
       "cargo": 422,
       "fuelTank": 46,
       "towing": 1250,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.9,
       "weight": 1274,
-      "price": "$35,215"
+      "price": "$35,215",
+      "quarterMile": "~18.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Juke|2025|Ti": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -237,10 +277,14 @@
       "cargo": 422,
       "fuelTank": 46,
       "towing": 1250,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.9,
       "weight": 1274,
-      "price": "$37,665"
+      "price": "$37,665",
+      "quarterMile": "~18.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Juke|2025|N-Sport": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -259,10 +303,14 @@
       "cargo": 422,
       "fuelTank": 46,
       "towing": 1250,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.9,
       "weight": 1274,
-      "price": "$38,665"
+      "price": "$38,665",
+      "quarterMile": "~18.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Juke|2026|ST": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -281,10 +329,14 @@
       "cargo": 422,
       "fuelTank": 46,
       "towing": 1250,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.7,
       "weight": 1251,
-      "price": "$29,440"
+      "price": "$29,440",
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Juke|2026|ST+": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -303,10 +355,14 @@
       "cargo": 422,
       "fuelTank": 46,
       "towing": 1250,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.7,
       "weight": 1251,
-      "price": "$32,190"
+      "price": "$32,190",
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Juke|2026|ST-L": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -325,10 +381,14 @@
       "cargo": 422,
       "fuelTank": 46,
       "towing": 1250,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.9,
       "weight": 1274,
-      "price": "$35,490"
+      "price": "$35,490",
+      "quarterMile": "~18.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Juke|2026|Ti": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -347,10 +407,14 @@
       "cargo": 422,
       "fuelTank": 46,
       "towing": 1250,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.9,
       "weight": 1274,
-      "price": "$37,940"
+      "price": "$37,940",
+      "quarterMile": "~18.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Juke|2026|N-Sport": {
       "engine": "1.0L I3 Turbo Petrol",
@@ -369,10 +433,14 @@
       "cargo": 422,
       "fuelTank": 46,
       "towing": 1250,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.9,
       "weight": 1274,
-      "price": "$38,940"
+      "price": "$38,940",
+      "quarterMile": "~18.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

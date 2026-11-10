@@ -17,7 +17,8 @@
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$59,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec"
     },
     "Chevrolet|Silverado|2019|Custom": {
       "engine": "5.3L V8 NA EcoTec3",
@@ -36,7 +37,8 @@
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$69,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec"
     },
     "Chevrolet|Silverado|2019|RST": {
       "engine": "5.3L V8 NA EcoTec3",
@@ -55,7 +57,8 @@
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$79,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec"
     },
     "Chevrolet|Silverado|2019|Trail Boss": {
       "engine": "5.3L V8 NA EcoTec3",
@@ -74,7 +77,8 @@
       "acceleration": 7.8,
       "topSpeed": 180,
       "price": "~$89,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.9 sec"
     },
     "Chevrolet|Silverado|2019|ZR2": {
       "engine": "6.2L V8 NA EcoTec3",
@@ -93,7 +97,8 @@
       "acceleration": 6.5,
       "topSpeed": 185,
       "price": "~$129,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec"
     },
     "Ford|Mustang|2019|GT350": {
       "engine": "5.2L V8 NA Voodoo Flat-Plane",
@@ -112,7 +117,12 @@
       "acceleration": 4.3,
       "topSpeed": 290,
       "price": "~$129,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.6 sec",
+      "cargo": 408,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Mustang|2019|Shelby GT500": {
       "engine": "5.2L V8 Supercharged Predator",
@@ -131,7 +141,12 @@
       "acceleration": 3.5,
       "topSpeed": 290,
       "price": "~$179,990",
-      "aspiration": "Eaton TVS2650 Supercharged"
+      "aspiration": "Eaton TVS2650 Supercharged",
+      "quarterMile": "~11.7 sec",
+      "cargo": 408,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G80|2019|3.3T Sport": {
       "engine": "3.3L V6 Biturbo Lambda II",
@@ -150,7 +165,8 @@
       "acceleration": 5.5,
       "topSpeed": 250,
       "price": "~$99,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.8 sec"
     },
     "Genesis|G80|2019|5.0": {
       "engine": "5.0L V8 NA Tau",
@@ -169,7 +185,8 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$119,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.4 sec"
     },
     "Honda|CR-V|2019|VTi-LX": {
       "engine": "1.5L I4 Turbo VTEC",
@@ -188,7 +205,8 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "price": "~$46,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.2 sec"
     },
     "Honda|HR-V|2019|VTi-LX": {
       "engine": "1.8L I4 NA i-VTEC",
@@ -207,7 +225,8 @@
       "acceleration": 10.8,
       "topSpeed": 185,
       "price": "~$33,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.0 sec"
     },
     "Honda|Civic|2019|Type R FK8 Limited Edition": {
       "engine": "2.0L I4 Turbo K20C1",
@@ -245,7 +264,8 @@
       "acceleration": 8.8,
       "topSpeed": 200,
       "price": "~$35,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.8 sec"
     },
     "Hyundai|Kona|2019|Electric": {
       "engine": "Single Motor Electric",
@@ -264,7 +284,12 @@
       "acceleration": 7.6,
       "topSpeed": 167,
       "price": "~$59,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.7 sec",
+      "cargo": 374,
+      "est": [
+        "cargo"
+      ]
     },
     "Hyundai|Veloster|2019|N": {
       "engine": "2.0L I4 Turbo Gamma",
@@ -283,7 +308,12 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$49,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.2 sec",
+      "cargo": 361,
+      "est": [
+        "cargo"
+      ]
     },
     "Hyundai|Veloster|2019|Turbo": {
       "engine": "1.6L I4 Turbo Gamma",
@@ -302,7 +332,12 @@
       "acceleration": 7.4,
       "topSpeed": 220,
       "price": "~$37,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.5 sec",
+      "cargo": 361,
+      "est": [
+        "cargo"
+      ]
     },
     "Infiniti|QX50|2019|Sport": {
       "engine": "2.0L I4 Turbo VC-Turbo",
@@ -321,7 +356,8 @@
       "acceleration": 7.7,
       "topSpeed": 200,
       "price": "~$79,990",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.8 sec"
     }
   }
 }

@@ -10,9 +10,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "torque": null,
-      "weight": null,
-      "cargo": null,
+      "torque": 340,
+      "weight": 1845,
+      "cargo": 971,
       "towing": 1600,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
@@ -22,7 +22,13 @@
       "acceleration": 6.9,
       "topSpeed": 217,
       "price": "$65,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "torque",
+        "cargo"
+      ],
+      "quarterMile": "~15.1 sec"
     },
     "Tesla|Model Y|2023|Long Range AWD": {
       "fuelType": "electric",
@@ -34,9 +40,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "torque": null,
-      "weight": null,
-      "cargo": null,
+      "torque": 790,
+      "weight": 2055,
+      "cargo": 971,
       "towing": 1600,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
@@ -46,7 +52,13 @@
       "acceleration": 5,
       "topSpeed": 217,
       "price": "$82,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "torque",
+        "cargo"
+      ],
+      "quarterMile": "~13.3 sec"
     },
     "Tesla|Model Y|2023|Performance": {
       "fuelType": "electric",
@@ -58,9 +70,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "torque": null,
-      "weight": null,
-      "cargo": null,
+      "torque": 660,
+      "weight": 2055,
+      "cargo": 971,
       "towing": 1600,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
@@ -70,7 +82,13 @@
       "acceleration": 3.7,
       "topSpeed": 250,
       "price": "$92,020",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "torque",
+        "cargo"
+      ],
+      "quarterMile": "~11.9 sec"
     },
     "Tesla|Model 3|2023|Rear-Wheel Drive": {
       "fuelType": "electric",
@@ -82,9 +100,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "torque": null,
-      "weight": null,
-      "cargo": null,
+      "torque": 350,
+      "weight": 1845,
+      "cargo": 594,
       "towing": null,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
@@ -94,7 +112,13 @@
       "acceleration": 6.1,
       "topSpeed": 225,
       "price": "$57,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "torque",
+        "cargo"
+      ],
+      "quarterMile": "~14.4 sec"
     },
     "Tesla|Model 3|2023|Long Range AWD": {
       "fuelType": "electric",
@@ -106,9 +130,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "torque": null,
-      "weight": null,
-      "cargo": null,
+      "torque": 765,
+      "weight": 1845,
+      "cargo": 594,
       "towing": null,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
@@ -118,7 +142,13 @@
       "acceleration": 4.4,
       "topSpeed": 233,
       "price": "$70,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "torque",
+        "cargo"
+      ],
+      "quarterMile": "~12.7 sec"
     },
     "Tesla|Model 3|2023|Performance": {
       "fuelType": "electric",
@@ -130,9 +160,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "torque": null,
-      "weight": null,
-      "cargo": null,
+      "torque": 765,
+      "weight": 1845,
+      "cargo": 594,
       "towing": null,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
@@ -142,7 +172,13 @@
       "acceleration": 3.3,
       "topSpeed": 261,
       "price": "$83,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "torque",
+        "cargo"
+      ],
+      "quarterMile": "~11.4 sec"
     }
   }
 }

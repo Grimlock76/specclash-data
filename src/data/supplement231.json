@@ -13,13 +13,19 @@
       "weight": 1905,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.3,
+      "fh": 15.6,
+      "fx": 22.6,
       "ft": "Petrol",
       "acceleration": 20,
       "topSpeed": 128,
-      "price": "~$3,095"
+      "price": "~$3,095",
+      "quarterMile": "~22.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Cord|L-29|1929|Cabriolet": {
       "engine": "Lycoming 4.9L I8 OHV",
@@ -34,13 +40,19 @@
       "weight": 1950,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.4,
+      "fh": 15.7,
+      "fx": 22.7,
       "ft": "Petrol",
       "acceleration": 20,
       "topSpeed": 128,
-      "price": "~$3,295"
+      "price": "~$3,295",
+      "quarterMile": "~22.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Cord|L-29|1930|Sedan": {
       "engine": "Lycoming 4.9L I8 OHV",
@@ -55,13 +67,19 @@
       "weight": 1905,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.9,
+      "fh": 15.5,
+      "fx": 22.3,
       "ft": "Petrol",
       "acceleration": 20,
       "topSpeed": 128,
-      "price": "~$3,095"
+      "price": "~$3,095",
+      "quarterMile": "~22.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Cord|L-29|1930|Cabriolet": {
       "engine": "Lycoming 4.9L I8 OHV",
@@ -76,13 +94,19 @@
       "weight": 1950,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28,
+      "fh": 15.6,
+      "fx": 22.4,
       "ft": "Petrol",
       "acceleration": 20,
       "topSpeed": 128,
-      "price": "~$3,295"
+      "price": "~$3,295",
+      "quarterMile": "~22.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Cord|L-29|1931|Sedan": {
       "engine": "Lycoming 4.9L I8 OHV",
@@ -97,13 +121,19 @@
       "weight": 1905,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.5,
+      "fh": 15.3,
+      "fx": 22,
       "ft": "Petrol",
       "acceleration": 20,
       "topSpeed": 128,
-      "price": "~$3,095"
+      "price": "~$3,095",
+      "quarterMile": "~22.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Cord|L-29|1931|Cabriolet": {
       "engine": "Lycoming 4.9L I8 OHV",
@@ -118,13 +148,19 @@
       "weight": 1950,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.6,
+      "fh": 15.4,
+      "fx": 22.1,
       "ft": "Petrol",
       "acceleration": 20,
       "topSpeed": 128,
-      "price": "~$3,295"
+      "price": "~$3,295",
+      "quarterMile": "~22.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Cord|L-29|1932|Sedan": {
       "engine": "Lycoming 4.9L I8 OHV",
@@ -139,13 +175,19 @@
       "weight": 1905,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.1,
+      "fh": 15.1,
+      "fx": 21.7,
       "ft": "Petrol",
       "acceleration": 20,
       "topSpeed": 128,
-      "price": "~$3,095"
+      "price": "~$3,095",
+      "quarterMile": "~22.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Cord|L-29|1932|Cabriolet": {
       "engine": "Lycoming 4.9L I8 OHV",
@@ -160,13 +202,19 @@
       "weight": 1950,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.4,
+      "fh": 15.2,
+      "fx": 21.9,
       "ft": "Petrol",
       "acceleration": 20,
       "topSpeed": 128,
-      "price": "~$3,295"
+      "price": "~$3,295",
+      "quarterMile": "~22.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Cord|810|1936|Westchester": {
       "engine": "Lycoming V8 4.7L Supercharged",
@@ -181,13 +229,19 @@
       "weight": 1729,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.6,
+      "fh": 16.5,
+      "fx": 23.7,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 177,
-      "price": "~$1,995"
+      "price": "~$1,995",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Cord|810|1936|Phaeton": {
       "engine": "Lycoming V8 4.7L Supercharged",
@@ -202,13 +256,19 @@
       "weight": 1770,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.8,
+      "fh": 16.5,
+      "fx": 23.8,
       "ft": "Petrol",
       "acceleration": 12.5,
       "topSpeed": 177,
-      "price": "~$2,145"
+      "price": "~$2,145",
+      "quarterMile": "~19.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Cord|812|1936|Supercharged": {
       "engine": "Lycoming V8 4.7L Supercharged",
@@ -223,13 +283,19 @@
       "weight": 1750,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 32,
+      "fh": 17.8,
+      "fx": 25.6,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 193,
-      "price": "~$2,945"
+      "price": "~$2,945",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Cord|810|1937|Westchester": {
       "engine": "Lycoming V8 4.7L Supercharged",
@@ -244,13 +310,19 @@
       "weight": 1729,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.3,
+      "fh": 16.2,
+      "fx": 23.4,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 177,
-      "price": "~$1,995"
+      "price": "~$1,995",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Cord|810|1937|Phaeton": {
       "engine": "Lycoming V8 4.7L Supercharged",
@@ -265,13 +337,19 @@
       "weight": 1770,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.4,
+      "fh": 16.3,
+      "fx": 23.5,
       "ft": "Petrol",
       "acceleration": 12.5,
       "topSpeed": 177,
-      "price": "~$2,145"
+      "price": "~$2,145",
+      "quarterMile": "~19.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Cord|812|1937|Supercharged": {
       "engine": "Lycoming V8 4.7L Supercharged",
@@ -286,13 +364,19 @@
       "weight": 1750,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 31.6,
+      "fh": 17.6,
+      "fx": 25.3,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 193,
-      "price": "~$2,945"
+      "price": "~$2,945",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model A|1921|Touring": {
       "engine": "Lycoming 4.3L I8 DOHC",
@@ -307,13 +391,19 @@
       "weight": 1814,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.5,
+      "fh": 15.8,
+      "fx": 22.8,
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 145,
-      "price": "~$6,500"
+      "price": "~$6,500",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model A|1922|Touring": {
       "engine": "Lycoming 4.3L I8 DOHC",
@@ -328,13 +418,19 @@
       "weight": 1814,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.1,
+      "fh": 15.7,
+      "fx": 22.5,
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 145,
-      "price": "~$6,500"
+      "price": "~$6,500",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model A|1923|Touring": {
       "engine": "Lycoming 4.3L I8 DOHC",
@@ -349,13 +445,19 @@
       "weight": 1814,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.8,
+      "fh": 15.4,
+      "fx": 22.2,
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 145,
-      "price": "~$6,500"
+      "price": "~$6,500",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model A|1924|Touring": {
       "engine": "Lycoming 4.3L I8 DOHC",
@@ -370,13 +472,19 @@
       "weight": 1814,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.5,
+      "fh": 15.3,
+      "fx": 22,
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 145,
-      "price": "~$6,500"
+      "price": "~$6,500",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model A|1925|Touring": {
       "engine": "Lycoming 4.3L I8 DOHC",
@@ -391,13 +499,19 @@
       "weight": 1814,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.1,
+      "fh": 15.1,
+      "fx": 21.7,
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 145,
-      "price": "~$6,500"
+      "price": "~$6,500",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model A|1926|Touring": {
       "engine": "Lycoming 4.3L I8 DOHC",
@@ -412,13 +526,19 @@
       "weight": 1814,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.8,
+      "fh": 14.8,
+      "fx": 21.4,
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 145,
-      "price": "~$6,500"
+      "price": "~$6,500",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model J|1929|Dual Cowl Phaeton": {
       "engine": "Lycoming 6.9L I8 DOHC",
@@ -433,13 +553,19 @@
       "weight": 2268,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 40.5,
+      "fh": 22.5,
+      "fx": 32.4,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$13,500"
+      "price": "~$13,500",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model J|1929|Sedan": {
       "engine": "Lycoming 6.9L I8 DOHC",
@@ -454,13 +580,19 @@
       "weight": 2450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 41.3,
+      "fh": 22.9,
+      "fx": 33,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$14,750"
+      "price": "~$14,750",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model J|1930|Dual Cowl Phaeton": {
       "engine": "Lycoming 6.9L I8 DOHC",
@@ -475,13 +607,19 @@
       "weight": 2268,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 40,
+      "fh": 22.2,
+      "fx": 32,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$13,500"
+      "price": "~$13,500",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model J|1930|Sedan": {
       "engine": "Lycoming 6.9L I8 DOHC",
@@ -496,13 +634,19 @@
       "weight": 2450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 40.8,
+      "fh": 22.6,
+      "fx": 32.6,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$14,750"
+      "price": "~$14,750",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model J|1931|Dual Cowl Phaeton": {
       "engine": "Lycoming 6.9L I8 DOHC",
@@ -517,13 +661,19 @@
       "weight": 2268,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 39.5,
+      "fh": 21.9,
+      "fx": 31.6,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$13,500"
+      "price": "~$13,500",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model J|1931|Sedan": {
       "engine": "Lycoming 6.9L I8 DOHC",
@@ -538,13 +688,19 @@
       "weight": 2450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 40.3,
+      "fh": 22.3,
+      "fx": 32.2,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$14,750"
+      "price": "~$14,750",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model J|1932|Dual Cowl Phaeton": {
       "engine": "Lycoming 6.9L I8 DOHC",
@@ -559,13 +715,19 @@
       "weight": 2268,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 39.1,
+      "fh": 21.8,
+      "fx": 31.3,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$13,500"
+      "price": "~$13,500",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model J|1932|Sedan": {
       "engine": "Lycoming 6.9L I8 DOHC",
@@ -580,13 +742,19 @@
       "weight": 2450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 39.8,
+      "fh": 22,
+      "fx": 31.8,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$14,750"
+      "price": "~$14,750",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model J|1933|Dual Cowl Phaeton": {
       "engine": "Lycoming 6.9L I8 DOHC",
@@ -601,13 +769,19 @@
       "weight": 2268,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 38.6,
+      "fh": 21.5,
+      "fx": 30.9,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$13,500"
+      "price": "~$13,500",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model J|1933|Sedan": {
       "engine": "Lycoming 6.9L I8 DOHC",
@@ -622,13 +796,19 @@
       "weight": 2450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 39.4,
+      "fh": 21.8,
+      "fx": 31.5,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$14,750"
+      "price": "~$14,750",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model J|1934|Dual Cowl Phaeton": {
       "engine": "Lycoming 6.9L I8 DOHC",
@@ -643,13 +823,19 @@
       "weight": 2268,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 38.1,
+      "fh": 21.2,
+      "fx": 30.5,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$13,500"
+      "price": "~$13,500",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model J|1934|Sedan": {
       "engine": "Lycoming 6.9L I8 DOHC",
@@ -664,13 +850,19 @@
       "weight": 2450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 38.9,
+      "fh": 21.6,
+      "fx": 31.1,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$14,750"
+      "price": "~$14,750",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model J|1935|Dual Cowl Phaeton": {
       "engine": "Lycoming 6.9L I8 DOHC",
@@ -685,13 +877,19 @@
       "weight": 2268,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 37.6,
+      "fh": 20.9,
+      "fx": 30.1,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$13,500"
+      "price": "~$13,500",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model J|1935|Sedan": {
       "engine": "Lycoming 6.9L I8 DOHC",
@@ -706,13 +904,19 @@
       "weight": 2450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 38.4,
+      "fh": 21.3,
+      "fx": 30.7,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$14,750"
+      "price": "~$14,750",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model J|1936|Dual Cowl Phaeton": {
       "engine": "Lycoming 6.9L I8 DOHC",
@@ -727,13 +931,19 @@
       "weight": 2268,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 37.3,
+      "fh": 20.6,
+      "fx": 29.8,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$13,500"
+      "price": "~$13,500",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model J|1936|Sedan": {
       "engine": "Lycoming 6.9L I8 DOHC",
@@ -748,13 +958,19 @@
       "weight": 2450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 37.9,
+      "fh": 21,
+      "fx": 30.3,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$14,750"
+      "price": "~$14,750",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model J|1937|Dual Cowl Phaeton": {
       "engine": "Lycoming 6.9L I8 DOHC",
@@ -769,13 +985,19 @@
       "weight": 2268,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 36.8,
+      "fh": 20.4,
+      "fx": 29.4,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$13,500"
+      "price": "~$13,500",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model J|1937|Sedan": {
       "engine": "Lycoming 6.9L I8 DOHC",
@@ -790,13 +1012,19 @@
       "weight": 2450,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 37.5,
+      "fh": 20.8,
+      "fx": 30,
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$14,750"
+      "price": "~$14,750",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model SJ|1932|Speedster": {
       "engine": "Lycoming 6.9L I8 DOHC Supercharged",
@@ -811,13 +1039,19 @@
       "weight": 2200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 42.9,
+      "fh": 23.8,
+      "fx": 34.3,
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 225,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model SJ|1933|Speedster": {
       "engine": "Lycoming 6.9L I8 DOHC Supercharged",
@@ -832,13 +1066,19 @@
       "weight": 2200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 42.4,
+      "fh": 23.5,
+      "fx": 33.9,
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 225,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model SJ|1934|Speedster": {
       "engine": "Lycoming 6.9L I8 DOHC Supercharged",
@@ -853,13 +1093,19 @@
       "weight": 2200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 41.9,
+      "fh": 23.2,
+      "fx": 33.5,
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 225,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model SJ|1935|Speedster": {
       "engine": "Lycoming 6.9L I8 DOHC Supercharged",
@@ -874,13 +1120,19 @@
       "weight": 2200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 41.4,
+      "fh": 23,
+      "fx": 33.1,
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 225,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model SJ|1936|Speedster": {
       "engine": "Lycoming 6.9L I8 DOHC Supercharged",
@@ -895,13 +1147,19 @@
       "weight": 2200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 40.9,
+      "fh": 22.7,
+      "fx": 32.7,
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 225,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Duesenberg|Model SJ|1937|Speedster": {
       "engine": "Lycoming 6.9L I8 DOHC Supercharged",
@@ -916,13 +1174,19 @@
       "weight": 2200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 40.4,
+      "fh": 22.4,
+      "fx": 32.3,
       "ft": "Petrol",
       "acceleration": 7,
       "topSpeed": 225,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Auburn|120|1928|Speedster": {
       "engine": "Lycoming 4.6L I8",
@@ -937,13 +1201,19 @@
       "weight": 1360,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.4,
+      "fh": 14.6,
+      "fx": 21.1,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 160,
-      "price": "~$1,395"
+      "price": "~$1,395",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Auburn|120|1929|Speedster": {
       "engine": "Lycoming 4.6L I8",
@@ -958,13 +1228,19 @@
       "weight": 1360,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26,
+      "fh": 14.4,
+      "fx": 20.8,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 160,
-      "price": "~$1,395"
+      "price": "~$1,395",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Auburn|120|1930|Speedster": {
       "engine": "Lycoming 4.6L I8",
@@ -979,13 +1255,19 @@
       "weight": 1360,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.8,
+      "fh": 14.2,
+      "fx": 20.6,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 160,
-      "price": "~$1,395"
+      "price": "~$1,395",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Auburn|120|1931|Speedster": {
       "engine": "Lycoming 4.6L I8",
@@ -1000,13 +1282,19 @@
       "weight": 1360,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.4,
+      "fh": 14.1,
+      "fx": 20.3,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 160,
-      "price": "~$1,395"
+      "price": "~$1,395",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Auburn|120|1932|Speedster": {
       "engine": "Lycoming 4.6L I8",
@@ -1021,13 +1309,19 @@
       "weight": 1360,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.1,
+      "fh": 14,
+      "fx": 20.1,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 160,
-      "price": "~$1,395"
+      "price": "~$1,395",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Auburn|850|1933|Speedster": {
       "engine": "Lycoming 4.6L I8",
@@ -1042,13 +1336,19 @@
       "weight": 1400,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.5,
+      "fh": 15.3,
+      "fx": 22,
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 172,
-      "price": "~$945"
+      "price": "~$945",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Auburn|850|1934|Speedster": {
       "engine": "Lycoming 4.6L I8",
@@ -1063,13 +1363,19 @@
       "weight": 1400,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.1,
+      "fh": 15.1,
+      "fx": 21.7,
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 172,
-      "price": "~$945"
+      "price": "~$945",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Auburn|850|1935|Speedster": {
       "engine": "Lycoming 4.6L I8",
@@ -1084,13 +1390,19 @@
       "weight": 1400,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.9,
+      "fh": 14.9,
+      "fx": 21.5,
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 172,
-      "price": "~$945"
+      "price": "~$945",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Auburn|851|1935|Supercharged Speedster": {
       "engine": "Lycoming 4.6L I8 Supercharged",
@@ -1105,13 +1417,19 @@
       "weight": 1450,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.1,
+      "fh": 15.7,
+      "fx": 22.5,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 161,
-      "price": "~$2,245"
+      "price": "~$2,245",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Auburn|852|1935|Supercharged Phaeton": {
       "engine": "Lycoming 4.6L I8 Supercharged",
@@ -1126,13 +1444,19 @@
       "weight": 1680,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.1,
+      "fh": 16.2,
+      "fx": 23.3,
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 155,
-      "price": "~$1,195"
+      "price": "~$1,195",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Auburn|851|1936|Supercharged Speedster": {
       "engine": "Lycoming 4.6L I8 Supercharged",
@@ -1147,13 +1471,19 @@
       "weight": 1450,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.8,
+      "fh": 15.4,
+      "fx": 22.2,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 161,
-      "price": "~$2,245"
+      "price": "~$2,245",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Auburn|852|1936|Supercharged Phaeton": {
       "engine": "Lycoming 4.6L I8 Supercharged",
@@ -1168,13 +1498,19 @@
       "weight": 1680,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.8,
+      "fh": 15.9,
+      "fx": 23,
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 155,
-      "price": "~$1,195"
+      "price": "~$1,195",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 33|1920|Touring": {
       "engine": "6.0L I6 OHV",
@@ -1189,13 +1525,19 @@
       "weight": 2268,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 36.1,
+      "fh": 20.1,
+      "fx": 28.9,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$6,000"
+      "price": "~$6,000",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 33|1921|Touring": {
       "engine": "6.0L I6 OHV",
@@ -1210,13 +1552,19 @@
       "weight": 2268,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 35.8,
+      "fh": 19.8,
+      "fx": 28.6,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$6,000"
+      "price": "~$6,000",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 33|1922|Touring": {
       "engine": "6.0L I6 OHV",
@@ -1231,13 +1579,19 @@
       "weight": 2268,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 35.3,
+      "fh": 19.5,
+      "fx": 28.2,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$6,000"
+      "price": "~$6,000",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 33|1923|Touring": {
       "engine": "6.0L I6 OHV",
@@ -1252,13 +1606,19 @@
       "weight": 2268,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 34.9,
+      "fh": 19.3,
+      "fx": 27.9,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$6,000"
+      "price": "~$6,000",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 33|1924|Touring": {
       "engine": "6.0L I6 OHV",
@@ -1273,13 +1633,19 @@
       "weight": 2268,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 34.4,
+      "fh": 19.1,
+      "fx": 27.5,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$6,000"
+      "price": "~$6,000",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 33|1925|Touring": {
       "engine": "6.0L I6 OHV",
@@ -1294,13 +1660,19 @@
       "weight": 2268,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 34,
+      "fh": 18.9,
+      "fx": 27.2,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$6,500"
+      "price": "~$6,500",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 33|1926|Touring": {
       "engine": "6.0L I6 OHV",
@@ -1315,13 +1687,19 @@
       "weight": 2268,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 33.6,
+      "fh": 18.7,
+      "fx": 26.9,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$6,500"
+      "price": "~$6,500",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 33|1927|Touring": {
       "engine": "6.0L I6 OHV",
@@ -1336,13 +1714,19 @@
       "weight": 2268,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 33.3,
+      "fh": 18.4,
+      "fx": 26.6,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$6,500"
+      "price": "~$6,500",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 33|1928|Touring": {
       "engine": "6.0L I6 OHV",
@@ -1357,13 +1741,19 @@
       "weight": 2268,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 32.8,
+      "fh": 18.1,
+      "fx": 26.2,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$6,500"
+      "price": "~$6,500",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 33|1929|Touring": {
       "engine": "6.0L I6 OHV",
@@ -1378,13 +1768,19 @@
       "weight": 2268,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 32.4,
+      "fh": 18,
+      "fx": 25.9,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$6,500"
+      "price": "~$6,500",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 33|1930|Touring": {
       "engine": "6.0L I6 OHV",
@@ -1399,13 +1795,19 @@
       "weight": 2268,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 32,
+      "fh": 17.8,
+      "fx": 25.6,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$7,500"
+      "price": "~$7,500",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 33|1931|Touring": {
       "engine": "6.0L I6 OHV",
@@ -1420,13 +1822,19 @@
       "weight": 2268,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 31.6,
+      "fh": 17.6,
+      "fx": 25.3,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$7,500"
+      "price": "~$7,500",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 33|1932|Touring": {
       "engine": "6.0L I6 OHV",
@@ -1441,13 +1849,19 @@
       "weight": 2268,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 31.3,
+      "fh": 17.3,
+      "fx": 25,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$7,500"
+      "price": "~$7,500",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 33|1933|Touring": {
       "engine": "6.0L I6 OHV",
@@ -1462,13 +1876,19 @@
       "weight": 2268,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30.9,
+      "fh": 17.1,
+      "fx": 24.7,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$7,500"
+      "price": "~$7,500",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 33|1934|Touring": {
       "engine": "6.0L I6 OHV",
@@ -1483,13 +1903,19 @@
       "weight": 2268,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30.5,
+      "fh": 16.9,
+      "fx": 24.4,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$7,500"
+      "price": "~$7,500",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 33|1935|Touring": {
       "engine": "6.0L I6 OHV",
@@ -1504,13 +1930,19 @@
       "weight": 2268,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30.1,
+      "fh": 16.8,
+      "fx": 24.1,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$7,500"
+      "price": "~$7,500",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 33|1936|Touring": {
       "engine": "6.0L I6 OHV",
@@ -1525,13 +1957,19 @@
       "weight": 2268,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.8,
+      "fh": 16.5,
+      "fx": 23.8,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$7,500"
+      "price": "~$7,500",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 33|1937|Touring": {
       "engine": "6.0L I6 OHV",
@@ -1546,13 +1984,19 @@
       "weight": 2268,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.4,
+      "fh": 16.3,
+      "fx": 23.5,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$7,500"
+      "price": "~$7,500",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 33|1938|Touring": {
       "engine": "6.0L I6 OHV",
@@ -1567,13 +2011,19 @@
       "weight": 2268,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29,
+      "fh": 16.1,
+      "fx": 23.2,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$7,500"
+      "price": "~$7,500",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 41|1930|Limousine": {
       "engine": "7.6L V12 OHV",
@@ -1588,13 +2038,19 @@
       "weight": 2722,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 38.4,
+      "fh": 21.3,
+      "fx": 30.7,
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 153,
-      "price": "~$10,000"
+      "price": "~$10,000",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 41|1931|Limousine": {
       "engine": "7.6L V12 OHV",
@@ -1609,13 +2065,19 @@
       "weight": 2722,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 37.9,
+      "fh": 21,
+      "fx": 30.3,
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 153,
-      "price": "~$10,000"
+      "price": "~$10,000",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 41|1932|Limousine": {
       "engine": "7.6L V12 OHV",
@@ -1630,13 +2092,19 @@
       "weight": 2722,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 37.4,
+      "fh": 20.7,
+      "fx": 29.9,
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 153,
-      "price": "~$10,000"
+      "price": "~$10,000",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 41|1933|Limousine": {
       "engine": "7.6L V12 OHV",
@@ -1651,13 +2119,19 @@
       "weight": 2722,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 37,
+      "fh": 20.6,
+      "fx": 29.6,
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 153,
-      "price": "~$10,000"
+      "price": "~$10,000",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 41|1934|Limousine": {
       "engine": "7.6L V12 OHV",
@@ -1672,13 +2146,19 @@
       "weight": 2722,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 36.5,
+      "fh": 20.3,
+      "fx": 29.2,
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 153,
-      "price": "~$10,000"
+      "price": "~$10,000",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 41|1935|Limousine": {
       "engine": "7.6L V12 OHV",
@@ -1693,13 +2173,19 @@
       "weight": 2722,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 36.1,
+      "fh": 20.1,
+      "fx": 28.9,
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 153,
-      "price": "~$10,000"
+      "price": "~$10,000",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 41|1936|Limousine": {
       "engine": "7.6L V12 OHV",
@@ -1714,13 +2200,19 @@
       "weight": 2722,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 35.6,
+      "fh": 19.8,
+      "fx": 28.5,
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 153,
-      "price": "~$10,000"
+      "price": "~$10,000",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 41|1937|Limousine": {
       "engine": "7.6L V12 OHV",
@@ -1735,13 +2227,19 @@
       "weight": 2722,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 35.3,
+      "fh": 19.5,
+      "fx": 28.2,
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 153,
-      "price": "~$10,000"
+      "price": "~$10,000",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Pierce-Arrow|Model 41|1938|Limousine": {
       "engine": "7.6L V12 OHV",
@@ -1756,13 +2254,19 @@
       "weight": 2722,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 34.8,
+      "fh": 19.2,
+      "fx": 27.8,
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 153,
-      "price": "~$10,000"
+      "price": "~$10,000",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Bearcat|1914|Roadster": {
       "engine": "Wisconsin 6.2L T-head I4",
@@ -1777,13 +2281,19 @@
       "weight": 1020,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27,
+      "fh": 15,
+      "fx": 21.6,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$2,000"
+      "price": "~$2,000",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Bearcat|1915|Roadster": {
       "engine": "Wisconsin 6.2L T-head I4",
@@ -1798,13 +2308,19 @@
       "weight": 1020,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.8,
+      "fh": 14.8,
+      "fx": 21.4,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$2,000"
+      "price": "~$2,000",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Bearcat|1916|Roadster": {
       "engine": "Wisconsin 6.2L T-head I4",
@@ -1819,13 +2335,19 @@
       "weight": 1020,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.4,
+      "fh": 14.6,
+      "fx": 21.1,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$2,000"
+      "price": "~$2,000",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Bearcat|1917|Roadster": {
       "engine": "Wisconsin 6.2L T-head I4",
@@ -1840,13 +2362,19 @@
       "weight": 1020,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.1,
+      "fh": 14.5,
+      "fx": 20.9,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$2,000"
+      "price": "~$2,000",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Bearcat|1918|Roadster": {
       "engine": "Wisconsin 6.2L T-head I4",
@@ -1861,13 +2389,19 @@
       "weight": 1020,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.8,
+      "fh": 14.2,
+      "fx": 20.6,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$2,000"
+      "price": "~$2,000",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Bearcat|1919|Roadster": {
       "engine": "Wisconsin 6.2L T-head I4",
@@ -1882,13 +2416,19 @@
       "weight": 1020,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.5,
+      "fh": 14.2,
+      "fx": 20.4,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$2,000"
+      "price": "~$2,000",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Bearcat|1920|Roadster": {
       "engine": "Wisconsin 6.2L T-head I4",
@@ -1903,13 +2443,19 @@
       "weight": 1020,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.1,
+      "fh": 14,
+      "fx": 20.1,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$2,000"
+      "price": "~$2,000",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Bearcat|1921|Roadster": {
       "engine": "Wisconsin 6.2L T-head I4",
@@ -1924,13 +2470,19 @@
       "weight": 1020,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24.9,
+      "fh": 13.8,
+      "fx": 19.9,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$2,000"
+      "price": "~$2,000",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Bearcat|1922|Roadster": {
       "engine": "Wisconsin 6.2L T-head I4",
@@ -1945,13 +2497,19 @@
       "weight": 1020,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24.5,
+      "fh": 13.6,
+      "fx": 19.6,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$2,000"
+      "price": "~$2,000",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Bearcat|1923|Roadster": {
       "engine": "Wisconsin 6.2L T-head I4",
@@ -1966,13 +2524,19 @@
       "weight": 1020,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24.3,
+      "fh": 13.4,
+      "fx": 19.4,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$2,000"
+      "price": "~$2,000",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Bearcat|1924|Roadster": {
       "engine": "Wisconsin 6.2L T-head I4",
@@ -1987,13 +2551,19 @@
       "weight": 1020,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24,
+      "fh": 13.3,
+      "fx": 19.2,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$2,000"
+      "price": "~$2,000",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Bearcat|1925|Roadster": {
       "engine": "Wisconsin 6.2L T-head I4",
@@ -2008,13 +2578,19 @@
       "weight": 1020,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.6,
+      "fh": 13.2,
+      "fx": 18.9,
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 145,
-      "price": "~$2,000"
+      "price": "~$2,000",
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Black Hawk|1926|Speedster": {
       "engine": "Vertical Eight 4.7L I8 DOHC",
@@ -2029,13 +2605,19 @@
       "weight": 1519,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.9,
+      "fh": 16.6,
+      "fx": 23.9,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 177,
-      "price": "~$3,895"
+      "price": "~$3,895",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|DV-32|1926|Sedan": {
       "engine": "Vertical Eight 5.3L I8 DOHC",
@@ -2050,13 +2632,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 37.5,
+      "fh": 20.8,
+      "fx": 30,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 185,
-      "price": "~$4,995"
+      "price": "~$4,995",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Black Hawk|1927|Speedster": {
       "engine": "Vertical Eight 4.7L I8 DOHC",
@@ -2071,13 +2659,19 @@
       "weight": 1519,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.5,
+      "fh": 16.4,
+      "fx": 23.6,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 177,
-      "price": "~$3,895"
+      "price": "~$3,895",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|DV-32|1927|Sedan": {
       "engine": "Vertical Eight 5.3L I8 DOHC",
@@ -2092,13 +2686,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 37,
+      "fh": 20.6,
+      "fx": 29.6,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 185,
-      "price": "~$4,995"
+      "price": "~$4,995",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Black Hawk|1928|Speedster": {
       "engine": "Vertical Eight 4.7L I8 DOHC",
@@ -2113,13 +2713,19 @@
       "weight": 1519,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.1,
+      "fh": 16.2,
+      "fx": 23.3,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 177,
-      "price": "~$3,895"
+      "price": "~$3,895",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|DV-32|1928|Sedan": {
       "engine": "Vertical Eight 5.3L I8 DOHC",
@@ -2134,13 +2740,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 36.6,
+      "fh": 20.4,
+      "fx": 29.3,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 185,
-      "price": "~$4,995"
+      "price": "~$4,995",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Black Hawk|1929|Speedster": {
       "engine": "Vertical Eight 4.7L I8 DOHC",
@@ -2155,13 +2767,19 @@
       "weight": 1519,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.9,
+      "fh": 16,
+      "fx": 23.1,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 177,
-      "price": "~$3,895"
+      "price": "~$3,895",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|DV-32|1929|Sedan": {
       "engine": "Vertical Eight 5.3L I8 DOHC",
@@ -2176,13 +2794,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 36.1,
+      "fh": 20.1,
+      "fx": 28.9,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 185,
-      "price": "~$4,995"
+      "price": "~$4,995",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Black Hawk|1930|Speedster": {
       "engine": "Vertical Eight 4.7L I8 DOHC",
@@ -2197,13 +2821,19 @@
       "weight": 1519,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.5,
+      "fh": 15.8,
+      "fx": 22.8,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 177,
-      "price": "~$3,895"
+      "price": "~$3,895",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|DV-32|1930|Sedan": {
       "engine": "Vertical Eight 5.3L I8 DOHC",
@@ -2218,13 +2848,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 35.8,
+      "fh": 19.8,
+      "fx": 28.6,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 185,
-      "price": "~$4,995"
+      "price": "~$4,995",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Black Hawk|1931|Speedster": {
       "engine": "Vertical Eight 4.7L I8 DOHC",
@@ -2239,13 +2875,19 @@
       "weight": 1519,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.1,
+      "fh": 15.7,
+      "fx": 22.5,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 177,
-      "price": "~$3,895"
+      "price": "~$3,895",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|DV-32|1931|Sedan": {
       "engine": "Vertical Eight 5.3L I8 DOHC",
@@ -2260,13 +2902,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 35.3,
+      "fh": 19.5,
+      "fx": 28.2,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 185,
-      "price": "~$4,995"
+      "price": "~$4,995",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Black Hawk|1932|Speedster": {
       "engine": "Vertical Eight 4.7L I8 DOHC",
@@ -2281,13 +2929,19 @@
       "weight": 1519,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.8,
+      "fh": 15.4,
+      "fx": 22.2,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 177,
-      "price": "~$3,895"
+      "price": "~$3,895",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|DV-32|1932|Sedan": {
       "engine": "Vertical Eight 5.3L I8 DOHC",
@@ -2302,13 +2956,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 34.9,
+      "fh": 19.3,
+      "fx": 27.9,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 185,
-      "price": "~$4,995"
+      "price": "~$4,995",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Black Hawk|1933|Speedster": {
       "engine": "Vertical Eight 4.7L I8 DOHC",
@@ -2323,13 +2983,19 @@
       "weight": 1519,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.5,
+      "fh": 15.3,
+      "fx": 22,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 177,
-      "price": "~$3,895"
+      "price": "~$3,895",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|DV-32|1933|Sedan": {
       "engine": "Vertical Eight 5.3L I8 DOHC",
@@ -2344,13 +3010,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 34.4,
+      "fh": 19.1,
+      "fx": 27.5,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 185,
-      "price": "~$4,995"
+      "price": "~$4,995",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|Black Hawk|1934|Speedster": {
       "engine": "Vertical Eight 4.7L I8 DOHC",
@@ -2365,13 +3037,19 @@
       "weight": 1519,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.1,
+      "fh": 15.1,
+      "fx": 21.7,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 177,
-      "price": "~$3,895"
+      "price": "~$3,895",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Stutz|DV-32|1934|Sedan": {
       "engine": "Vertical Eight 5.3L I8 DOHC",
@@ -2386,13 +3064,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 34,
+      "fh": 18.9,
+      "fx": 27.2,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 185,
-      "price": "~$4,995"
+      "price": "~$4,995",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Model 41|1911|Touring": {
       "engine": "6.4L I6 OHV",
@@ -2407,13 +3091,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 35.5,
+      "fh": 19.7,
+      "fx": 28.4,
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 130,
-      "price": "~$3,500"
+      "price": "~$3,500",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Model 41|1912|Touring": {
       "engine": "6.4L I6 OHV",
@@ -2428,13 +3118,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 35.1,
+      "fh": 19.5,
+      "fx": 28.1,
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 130,
-      "price": "~$3,500"
+      "price": "~$3,500",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Model 41|1913|Touring": {
       "engine": "6.4L I6 OHV",
@@ -2449,13 +3145,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 34.8,
+      "fh": 19.2,
+      "fx": 27.8,
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 130,
-      "price": "~$3,500"
+      "price": "~$3,500",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Model 41|1914|Touring": {
       "engine": "6.4L I6 OHV",
@@ -2470,13 +3172,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 34.3,
+      "fh": 19,
+      "fx": 27.4,
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 130,
-      "price": "~$3,500"
+      "price": "~$3,500",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Model 41|1915|Touring": {
       "engine": "6.4L I6 OHV",
@@ -2491,13 +3199,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 33.9,
+      "fh": 18.8,
+      "fx": 27.1,
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 130,
-      "price": "~$3,500"
+      "price": "~$3,500",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Model 41|1916|Touring": {
       "engine": "6.4L I6 OHV",
@@ -2512,13 +3226,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 33.5,
+      "fh": 18.6,
+      "fx": 26.8,
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 130,
-      "price": "~$3,500"
+      "price": "~$3,500",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Model 41|1917|Touring": {
       "engine": "6.4L I6 OHV",
@@ -2533,13 +3253,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 33,
+      "fh": 18.3,
+      "fx": 26.4,
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 130,
-      "price": "~$3,500"
+      "price": "~$3,500",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Model 41|1918|Touring": {
       "engine": "6.4L I6 OHV",
@@ -2554,13 +3280,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 32.6,
+      "fh": 18.2,
+      "fx": 26.1,
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 130,
-      "price": "~$3,500"
+      "price": "~$3,500",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Model 41|1919|Touring": {
       "engine": "6.4L I6 OHV",
@@ -2575,13 +3307,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 32.3,
+      "fh": 17.9,
+      "fx": 25.8,
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 130,
-      "price": "~$3,500"
+      "price": "~$3,500",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Model 41|1920|Touring": {
       "engine": "6.4L I6 OHV",
@@ -2596,13 +3334,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 31.9,
+      "fh": 17.7,
+      "fx": 25.5,
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 130,
-      "price": "~$3,500"
+      "price": "~$3,500",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Model 41|1921|Touring": {
       "engine": "6.4L I6 OHV",
@@ -2617,13 +3361,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 31.5,
+      "fh": 17.5,
+      "fx": 25.2,
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 130,
-      "price": "~$3,500"
+      "price": "~$3,500",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Model 41|1922|Touring": {
       "engine": "6.4L I6 OHV",
@@ -2638,13 +3388,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 31.1,
+      "fh": 17.3,
+      "fx": 24.9,
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 130,
-      "price": "~$3,500"
+      "price": "~$3,500",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Model 41|1923|Touring": {
       "engine": "6.4L I6 OHV",
@@ -2659,13 +3415,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30.8,
+      "fh": 17,
+      "fx": 24.6,
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 130,
-      "price": "~$3,500"
+      "price": "~$3,500",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Model 41|1924|Touring": {
       "engine": "6.4L I6 OHV",
@@ -2680,13 +3442,19 @@
       "weight": 2041,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30.4,
+      "fh": 16.8,
+      "fx": 24.3,
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 130,
-      "price": "~$3,500"
+      "price": "~$3,500",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Model 68|1925|Sedan": {
       "engine": "5.5L I8 OHV",
@@ -2701,13 +3469,19 @@
       "weight": 1905,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 32.6,
+      "fh": 18.2,
+      "fx": 26.1,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$2,495"
+      "price": "~$2,495",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Model 68|1926|Sedan": {
       "engine": "5.5L I8 OHV",
@@ -2722,13 +3496,19 @@
       "weight": 1905,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 32.3,
+      "fh": 17.9,
+      "fx": 25.8,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$2,495"
+      "price": "~$2,495",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Model 68|1927|Sedan": {
       "engine": "5.5L I8 OHV",
@@ -2743,13 +3523,19 @@
       "weight": 1905,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 31.9,
+      "fh": 17.7,
+      "fx": 25.5,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$2,495"
+      "price": "~$2,495",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Model 68|1928|Sedan": {
       "engine": "5.5L I8 OHV",
@@ -2764,13 +3550,19 @@
       "weight": 1905,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 31.5,
+      "fh": 17.5,
+      "fx": 25.2,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$2,495"
+      "price": "~$2,495",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Model 68|1929|Sedan": {
       "engine": "5.5L I8 OHV",
@@ -2785,13 +3577,19 @@
       "weight": 1905,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 31.1,
+      "fh": 17.3,
+      "fx": 24.9,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$2,495"
+      "price": "~$2,495",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Model 68|1930|Sedan": {
       "engine": "5.5L I8 OHV",
@@ -2806,13 +3604,19 @@
       "weight": 1905,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30.8,
+      "fh": 17,
+      "fx": 24.6,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 155,
-      "price": "~$2,495"
+      "price": "~$2,495",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Sixteen|1931|Sport Sedan": {
       "engine": "8.0L V16 OHV",
@@ -2827,13 +3631,19 @@
       "weight": 2495,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 37,
+      "fh": 20.6,
+      "fx": 29.6,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 185,
-      "price": "~$5,000"
+      "price": "~$5,000",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Sixteen|1931|Limousine": {
       "engine": "8.0L V16 OHV",
@@ -2848,13 +3658,19 @@
       "weight": 2722,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 37.8,
+      "fh": 20.9,
+      "fx": 30.2,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 180,
-      "price": "~$6,500"
+      "price": "~$6,500",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Sixteen|1932|Sport Sedan": {
       "engine": "8.0L V16 OHV",
@@ -2869,13 +3685,19 @@
       "weight": 2495,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 36.5,
+      "fh": 20.3,
+      "fx": 29.2,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 185,
-      "price": "~$5,000"
+      "price": "~$5,000",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Sixteen|1932|Limousine": {
       "engine": "8.0L V16 OHV",
@@ -2890,13 +3712,19 @@
       "weight": 2722,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 37.4,
+      "fh": 20.7,
+      "fx": 29.9,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 180,
-      "price": "~$6,500"
+      "price": "~$6,500",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Sixteen|1933|Sport Sedan": {
       "engine": "8.0L V16 OHV",
@@ -2911,13 +3739,19 @@
       "weight": 2495,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 36.1,
+      "fh": 20.1,
+      "fx": 28.9,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 185,
-      "price": "~$5,000"
+      "price": "~$5,000",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Marmon|Sixteen|1933|Limousine": {
       "engine": "8.0L V16 OHV",
@@ -2932,13 +3766,19 @@
       "weight": 2722,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 36.9,
+      "fh": 20.5,
+      "fx": 29.5,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 180,
-      "price": "~$6,500"
+      "price": "~$6,500",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     }
   }
 }

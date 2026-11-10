@@ -17,7 +17,8 @@
       "acceleration": 8.5,
       "topSpeed": 235,
       "price": "~$74,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "BMW|4 Series Convertible|2021|430i Convertible": {
       "engine": "2.0L I4 Turbo",
@@ -36,7 +37,8 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$88,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.2 sec"
     },
     "BMW|4 Series Convertible|2021|M440i xDrive Convertible": {
       "engine": "3.0L I6 Twin-Scroll Turbo",
@@ -55,7 +57,8 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$118,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~12.8 sec"
     },
     "BMW|4 Series Convertible|2022|420i Convertible": {
       "engine": "2.0L I4 Turbo",
@@ -74,7 +77,8 @@
       "acceleration": 8.5,
       "topSpeed": 235,
       "price": "~$78,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "BMW|4 Series Convertible|2022|430i Convertible": {
       "engine": "2.0L I4 Turbo",
@@ -93,7 +97,8 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$92,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.2 sec"
     },
     "BMW|4 Series Convertible|2022|M440i xDrive Convertible": {
       "engine": "3.0L I6 Twin-Scroll Turbo",
@@ -112,7 +117,8 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$122,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~12.8 sec"
     },
     "BMW|4 Series Convertible|2023|420i Convertible": {
       "engine": "2.0L I4 Turbo",
@@ -131,7 +137,8 @@
       "acceleration": 8.5,
       "topSpeed": 235,
       "price": "~$82,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "BMW|4 Series Convertible|2023|430i Convertible": {
       "engine": "2.0L I4 Turbo",
@@ -150,7 +157,8 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$96,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.2 sec"
     },
     "BMW|4 Series Convertible|2023|M440i xDrive Convertible": {
       "engine": "3.0L I6 Twin-Scroll Turbo",
@@ -169,7 +177,8 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$126,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~12.8 sec"
     },
     "BMW|4 Series Convertible|2024|420i Convertible": {
       "engine": "2.0L I4 Turbo",
@@ -188,7 +197,8 @@
       "acceleration": 8.5,
       "topSpeed": 235,
       "price": "~$86,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "BMW|4 Series Convertible|2024|430i Convertible": {
       "engine": "2.0L I4 Turbo",
@@ -207,7 +217,8 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$100,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.2 sec"
     },
     "BMW|4 Series Convertible|2024|M440i xDrive Convertible": {
       "engine": "3.0L I6 Twin-Scroll Turbo",
@@ -226,7 +237,8 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$131,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~12.8 sec"
     },
     "BMW|4 Series Convertible|2025|420i Convertible": {
       "engine": "2.0L I4 Turbo",
@@ -245,7 +257,8 @@
       "acceleration": 8.5,
       "topSpeed": 235,
       "price": "~$90,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "BMW|4 Series Convertible|2025|430i Convertible": {
       "engine": "2.0L I4 Turbo",
@@ -264,7 +277,8 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$104,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.2 sec"
     },
     "BMW|4 Series Convertible|2025|M440i xDrive Convertible": {
       "engine": "3.0L I6 Twin-Scroll Turbo",
@@ -283,7 +297,8 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$136,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~12.8 sec"
     },
     "Lexus|LC|2025|LC 500 Convertible": {
       "engine": "5.0L V8 NA",
@@ -302,7 +317,12 @@
       "acceleration": 4.6,
       "topSpeed": 270,
       "price": "~$264,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.9 sec",
+      "cargo": 172,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LC|2026|LC 500 Convertible": {
       "engine": "5.0L V8 NA",
@@ -321,7 +341,12 @@
       "acceleration": 4.6,
       "topSpeed": 270,
       "price": "~$274,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.9 sec",
+      "cargo": 172,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

@@ -11,13 +11,18 @@
       "torque": 220,
       "weight": 1430,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 6.9,
+      "fh": 3.8,
       "fx": 5.5,
       "acceleration": 9.2,
       "topSpeed": 205,
       "price": "~$44,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|2 Series Gran Coupe|2020|220i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -30,13 +35,18 @@
       "torque": 300,
       "weight": 1460,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.6,
+      "fh": 4.3,
       "fx": 6.1,
       "acceleration": 7.5,
       "topSpeed": 233,
       "price": "~$52,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|2 Series Gran Coupe|2020|M235i xDrive": {
       "engine": "2.0L 4-cyl Turbo xDrive",
@@ -49,13 +59,18 @@
       "torque": 450,
       "weight": 1605,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.4,
+      "fh": 5.2,
       "fx": 7.5,
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$72,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|2 Series Gran Coupe|2021|218i": {
       "engine": "1.5L 3-cyl Turbo",
@@ -68,13 +83,18 @@
       "torque": 220,
       "weight": 1430,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 6.9,
+      "fh": 3.8,
       "fx": 5.5,
       "acceleration": 9.2,
       "topSpeed": 205,
       "price": "~$45,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|2 Series Gran Coupe|2021|220i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -87,13 +107,18 @@
       "torque": 300,
       "weight": 1460,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.6,
+      "fh": 4.3,
       "fx": 6.1,
       "acceleration": 7.5,
       "topSpeed": 233,
       "price": "~$53,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|2 Series Gran Coupe|2021|M235i xDrive": {
       "engine": "2.0L 4-cyl Turbo xDrive",
@@ -106,13 +131,18 @@
       "torque": 450,
       "weight": 1605,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.4,
+      "fh": 5.2,
       "fx": 7.5,
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$73,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|2 Series Gran Coupe|2022|218i": {
       "engine": "1.5L 3-cyl Turbo",
@@ -125,13 +155,18 @@
       "torque": 220,
       "weight": 1430,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 6.9,
+      "fh": 3.8,
       "fx": 5.5,
       "acceleration": 9.2,
       "topSpeed": 205,
       "price": "~$47,400",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|2 Series Gran Coupe|2022|220i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -144,13 +179,18 @@
       "torque": 300,
       "weight": 1460,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.6,
+      "fh": 4.3,
       "fx": 6.1,
       "acceleration": 7.5,
       "topSpeed": 233,
       "price": "~$55,400",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|2 Series Gran Coupe|2022|M235i xDrive": {
       "engine": "2.0L 4-cyl Turbo xDrive",
@@ -163,13 +203,18 @@
       "torque": 450,
       "weight": 1605,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.4,
+      "fh": 5.2,
       "fx": 7.5,
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$75,400",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|2 Series Gran Coupe|2023|218i": {
       "engine": "1.5L 3-cyl Turbo",
@@ -182,13 +227,18 @@
       "torque": 220,
       "weight": 1430,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 6.9,
+      "fh": 3.8,
       "fx": 5.5,
       "acceleration": 9.2,
       "topSpeed": 205,
       "price": "~$48,400",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|2 Series Gran Coupe|2023|220i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -201,13 +251,18 @@
       "torque": 300,
       "weight": 1460,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.6,
+      "fh": 4.3,
       "fx": 6.1,
       "acceleration": 7.5,
       "topSpeed": 233,
       "price": "~$56,400",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|2 Series Gran Coupe|2023|M235i xDrive": {
       "engine": "2.0L 4-cyl Turbo xDrive",
@@ -220,13 +275,18 @@
       "torque": 450,
       "weight": 1605,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.4,
+      "fh": 5.2,
       "fx": 7.5,
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$76,400",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|2 Series Gran Coupe|2024|218i": {
       "engine": "1.5L 3-cyl Turbo",
@@ -239,13 +299,20 @@
       "torque": 220,
       "weight": 1430,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 6.9,
+      "fh": 3.8,
       "fx": 5.5,
       "acceleration": 9.2,
       "topSpeed": 205,
       "price": "~$49,400",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 430
     },
     "BMW|2 Series Gran Coupe|2024|220i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -258,13 +325,20 @@
       "torque": 300,
       "weight": 1460,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.6,
+      "fh": 4.3,
       "fx": 6.1,
       "acceleration": 7.5,
       "topSpeed": 233,
       "price": "~$57,400",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 430
     },
     "BMW|2 Series Gran Coupe|2024|M235i xDrive": {
       "engine": "2.0L 4-cyl Turbo xDrive",
@@ -277,13 +351,20 @@
       "torque": 450,
       "weight": 1605,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.4,
+      "fh": 5.2,
       "fx": 7.5,
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$77,400",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 430
     },
     "BMW|2 Series Gran Coupe|2025|218i": {
       "engine": "1.5L 3-cyl Turbo",
@@ -296,13 +377,20 @@
       "torque": 220,
       "weight": 1430,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 6.9,
+      "fh": 3.8,
       "fx": 5.5,
       "acceleration": 9.2,
       "topSpeed": 205,
       "price": "~$50,400",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 430
     },
     "BMW|2 Series Gran Coupe|2025|220i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -315,13 +403,20 @@
       "torque": 300,
       "weight": 1460,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.6,
+      "fh": 4.3,
       "fx": 6.1,
       "acceleration": 7.5,
       "topSpeed": 233,
       "price": "~$58,400",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 430
     },
     "BMW|2 Series Gran Coupe|2025|M235i xDrive": {
       "engine": "2.0L 4-cyl Turbo xDrive",
@@ -334,13 +429,20 @@
       "torque": 450,
       "weight": 1605,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.4,
+      "fh": 5.2,
       "fx": 7.5,
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$78,400",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 430
     },
     "Jeep|Avenger|2023|Longitude": {
       "engine": "1.2L 3-cyl Turbo",
@@ -353,13 +455,18 @@
       "torque": 205,
       "weight": 1365,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.3,
+      "fh": 4,
       "fx": 5.8,
       "acceleration": 10.2,
       "topSpeed": 182,
       "price": "~$36,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Avenger|2023|Altitude": {
       "engine": "1.2L 3-cyl Turbo",
@@ -372,13 +479,18 @@
       "torque": 205,
       "weight": 1365,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.3,
+      "fh": 4,
       "fx": 5.8,
       "acceleration": 10.2,
       "topSpeed": 182,
       "price": "~$41,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Avenger|2023|Summit": {
       "engine": "1.2L 3-cyl Turbo",
@@ -391,13 +503,18 @@
       "torque": 205,
       "weight": 1365,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.3,
+      "fh": 4,
       "fx": 5.8,
       "acceleration": 10.2,
       "topSpeed": 182,
       "price": "~$46,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Avenger|2023|Electric": {
       "engine": "Single Electric Motor",
@@ -416,7 +533,8 @@
       "acceleration": 7.4,
       "topSpeed": 150,
       "price": "~$54,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "Jeep|Avenger|2023|Electric Summit": {
       "engine": "Single Electric Motor",
@@ -435,7 +553,8 @@
       "acceleration": 7.4,
       "topSpeed": 150,
       "price": "~$59,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "Jeep|Avenger|2024|Longitude": {
       "engine": "1.2L 3-cyl Turbo",
@@ -448,13 +567,18 @@
       "torque": 205,
       "weight": 1365,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.3,
+      "fh": 4,
       "fx": 5.8,
       "acceleration": 10.2,
       "topSpeed": 182,
       "price": "~$38,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Avenger|2024|Altitude": {
       "engine": "1.2L 3-cyl Turbo",
@@ -467,13 +591,18 @@
       "torque": 205,
       "weight": 1365,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.3,
+      "fh": 4,
       "fx": 5.8,
       "acceleration": 10.2,
       "topSpeed": 182,
       "price": "~$43,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Avenger|2024|Summit": {
       "engine": "1.2L 3-cyl Turbo",
@@ -486,13 +615,18 @@
       "torque": 205,
       "weight": 1365,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.3,
+      "fh": 4,
       "fx": 5.8,
       "acceleration": 10.2,
       "topSpeed": 182,
       "price": "~$48,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Avenger|2024|Electric": {
       "engine": "Single Electric Motor",
@@ -511,7 +645,8 @@
       "acceleration": 7.4,
       "topSpeed": 150,
       "price": "~$56,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "Jeep|Avenger|2024|Electric Summit": {
       "engine": "Single Electric Motor",
@@ -530,7 +665,8 @@
       "acceleration": 7.4,
       "topSpeed": 150,
       "price": "~$61,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "Jeep|Avenger|2025|Longitude": {
       "engine": "1.2L 3-cyl Turbo",
@@ -543,13 +679,18 @@
       "torque": 205,
       "weight": 1365,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.3,
+      "fh": 4,
       "fx": 5.8,
       "acceleration": 10.2,
       "topSpeed": 182,
       "price": "~$40,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Avenger|2025|Altitude": {
       "engine": "1.2L 3-cyl Turbo",
@@ -562,13 +703,18 @@
       "torque": 205,
       "weight": 1365,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.3,
+      "fh": 4,
       "fx": 5.8,
       "acceleration": 10.2,
       "topSpeed": 182,
       "price": "~$45,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Avenger|2025|Summit": {
       "engine": "1.2L 3-cyl Turbo",
@@ -581,13 +727,18 @@
       "torque": 205,
       "weight": 1365,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.3,
+      "fh": 4,
       "fx": 5.8,
       "acceleration": 10.2,
       "topSpeed": 182,
       "price": "~$50,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Avenger|2025|Electric": {
       "engine": "Single Electric Motor",
@@ -606,7 +757,8 @@
       "acceleration": 7.4,
       "topSpeed": 150,
       "price": "~$58,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "Jeep|Avenger|2025|Electric Summit": {
       "engine": "Single Electric Motor",
@@ -625,7 +777,8 @@
       "acceleration": 7.4,
       "topSpeed": 150,
       "price": "~$63,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "Jeep|Avenger|2026|Longitude": {
       "engine": "1.2L 3-cyl Turbo",
@@ -638,13 +791,18 @@
       "torque": 205,
       "weight": 1365,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.3,
+      "fh": 4,
       "fx": 5.8,
       "acceleration": 10.2,
       "topSpeed": 182,
       "price": "~$41,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Avenger|2026|Altitude": {
       "engine": "1.2L 3-cyl Turbo",
@@ -657,13 +815,18 @@
       "torque": 205,
       "weight": 1365,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.3,
+      "fh": 4,
       "fx": 5.8,
       "acceleration": 10.2,
       "topSpeed": 182,
       "price": "~$46,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Avenger|2026|Summit": {
       "engine": "1.2L 3-cyl Turbo",
@@ -676,13 +839,18 @@
       "torque": 205,
       "weight": 1365,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.3,
+      "fh": 4,
       "fx": 5.8,
       "acceleration": 10.2,
       "topSpeed": 182,
       "price": "~$51,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Avenger|2026|Electric": {
       "engine": "Single Electric Motor",
@@ -701,7 +869,8 @@
       "acceleration": 7.4,
       "topSpeed": 150,
       "price": "~$59,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "Jeep|Avenger|2026|Electric Summit": {
       "engine": "Single Electric Motor",
@@ -720,7 +889,8 @@
       "acceleration": 7.4,
       "topSpeed": 150,
       "price": "~$64,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "Honda|e:Ny1|2024|e:Ny1": {
       "engine": "Single Electric Motor",
@@ -739,7 +909,8 @@
       "acceleration": 7.6,
       "topSpeed": 160,
       "price": "~$56,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.7 sec"
     },
     "Honda|e:Ny1|2024|Advance": {
       "engine": "Single Electric Motor",
@@ -758,7 +929,8 @@
       "acceleration": 7.6,
       "topSpeed": 160,
       "price": "~$62,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.7 sec"
     },
     "Honda|e:Ny1|2025|e:Ny1": {
       "engine": "Single Electric Motor",
@@ -777,7 +949,8 @@
       "acceleration": 7.6,
       "topSpeed": 160,
       "price": "~$58,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.7 sec"
     },
     "Honda|e:Ny1|2025|Advance": {
       "engine": "Single Electric Motor",
@@ -796,7 +969,8 @@
       "acceleration": 7.6,
       "topSpeed": 160,
       "price": "~$64,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.7 sec"
     },
     "Honda|e:Ny1|2026|e:Ny1": {
       "engine": "Single Electric Motor",
@@ -815,7 +989,8 @@
       "acceleration": 7.6,
       "topSpeed": 160,
       "price": "~$60,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.7 sec"
     },
     "Honda|e:Ny1|2026|Advance": {
       "engine": "Single Electric Motor",
@@ -834,7 +1009,8 @@
       "acceleration": 7.6,
       "topSpeed": 160,
       "price": "~$66,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.7 sec"
     },
     "GWM|Ora|2022|Standard Range": {
       "engine": "Single Electric Motor",
@@ -853,7 +1029,8 @@
       "acceleration": 8.5,
       "topSpeed": 140,
       "price": "~$37,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "GWM|Ora|2022|Long Range": {
       "engine": "Single Electric Motor",
@@ -872,7 +1049,8 @@
       "acceleration": 7.5,
       "topSpeed": 155,
       "price": "~$43,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     },
     "GWM|Ora|2023|Standard Range": {
       "engine": "Single Electric Motor",
@@ -891,7 +1069,8 @@
       "acceleration": 8.5,
       "topSpeed": 140,
       "price": "~$39,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "GWM|Ora|2023|Long Range": {
       "engine": "Single Electric Motor",
@@ -910,7 +1089,8 @@
       "acceleration": 7.5,
       "topSpeed": 155,
       "price": "~$45,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     },
     "GWM|Ora|2024|Standard Range": {
       "engine": "Single Electric Motor",
@@ -929,7 +1109,8 @@
       "acceleration": 8.5,
       "topSpeed": 140,
       "price": "~$40,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "GWM|Ora|2024|Long Range": {
       "engine": "Single Electric Motor",
@@ -948,7 +1129,8 @@
       "acceleration": 7.5,
       "topSpeed": 155,
       "price": "~$46,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     },
     "GWM|Ora|2025|Standard Range": {
       "engine": "Single Electric Motor",
@@ -967,7 +1149,8 @@
       "acceleration": 8.5,
       "topSpeed": 140,
       "price": "~$41,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "GWM|Ora|2025|Long Range": {
       "engine": "Single Electric Motor",
@@ -986,7 +1169,8 @@
       "acceleration": 7.5,
       "topSpeed": 155,
       "price": "~$47,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     },
     "GWM|Ora|2026|Standard Range": {
       "engine": "Single Electric Motor",
@@ -1005,7 +1189,8 @@
       "acceleration": 8.5,
       "topSpeed": 140,
       "price": "~$42,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "GWM|Ora|2026|Long Range": {
       "engine": "Single Electric Motor",
@@ -1024,7 +1209,8 @@
       "acceleration": 7.5,
       "topSpeed": 155,
       "price": "~$48,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     },
     "BYD|Seal U|2023|DM-i": {
       "engine": "1.5L 4-cyl DM-i PHEV",
@@ -1037,14 +1223,19 @@
       "torque": 310,
       "weight": 2085,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "fx": 1.2,
       "acceleration": 7.9,
       "topSpeed": 185,
       "range": 110,
       "price": "~$49,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Seal U|2023|DM-i Premium": {
       "engine": "1.5L 4-cyl DM-i PHEV",
@@ -1057,14 +1248,19 @@
       "torque": 310,
       "weight": 2085,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "fx": 1.2,
       "acceleration": 7.9,
       "topSpeed": 185,
       "range": 110,
       "price": "~$54,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Seal U|2023|EV": {
       "engine": "Dual Electric Motor",
@@ -1083,7 +1279,8 @@
       "acceleration": 5.9,
       "topSpeed": 185,
       "price": "~$62,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.2 sec"
     },
     "BYD|Seal U|2024|DM-i": {
       "engine": "1.5L 4-cyl DM-i PHEV",
@@ -1096,14 +1293,19 @@
       "torque": 310,
       "weight": 2085,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "fx": 1.2,
       "acceleration": 7.9,
       "topSpeed": 185,
       "range": 110,
       "price": "~$51,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Seal U|2024|DM-i Premium": {
       "engine": "1.5L 4-cyl DM-i PHEV",
@@ -1116,14 +1318,19 @@
       "torque": 310,
       "weight": 2085,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "fx": 1.2,
       "acceleration": 7.9,
       "topSpeed": 185,
       "range": 110,
       "price": "~$56,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Seal U|2024|EV": {
       "engine": "Dual Electric Motor",
@@ -1142,7 +1349,8 @@
       "acceleration": 5.9,
       "topSpeed": 185,
       "price": "~$64,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.2 sec"
     },
     "BYD|Seal U|2025|DM-i": {
       "engine": "1.5L 4-cyl DM-i PHEV",
@@ -1155,14 +1363,19 @@
       "torque": 310,
       "weight": 2085,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "fx": 1.2,
       "acceleration": 7.9,
       "topSpeed": 185,
       "range": 110,
       "price": "~$53,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Seal U|2025|DM-i Premium": {
       "engine": "1.5L 4-cyl DM-i PHEV",
@@ -1175,14 +1388,19 @@
       "torque": 310,
       "weight": 2085,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "fx": 1.2,
       "acceleration": 7.9,
       "topSpeed": 185,
       "range": 110,
       "price": "~$58,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Seal U|2025|EV": {
       "engine": "Dual Electric Motor",
@@ -1201,7 +1419,8 @@
       "acceleration": 5.9,
       "topSpeed": 185,
       "price": "~$66,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.2 sec"
     },
     "BYD|Seal U|2026|DM-i": {
       "engine": "1.5L 4-cyl DM-i PHEV",
@@ -1214,14 +1433,19 @@
       "torque": 310,
       "weight": 2085,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "fx": 1.2,
       "acceleration": 7.9,
       "topSpeed": 185,
       "range": 110,
       "price": "~$54,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Seal U|2026|DM-i Premium": {
       "engine": "1.5L 4-cyl DM-i PHEV",
@@ -1234,14 +1458,19 @@
       "torque": 310,
       "weight": 2085,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "fx": 1.2,
       "acceleration": 7.9,
       "topSpeed": 185,
       "range": 110,
       "price": "~$59,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BYD|Seal U|2026|EV": {
       "engine": "Dual Electric Motor",
@@ -1260,7 +1489,8 @@
       "acceleration": 5.9,
       "topSpeed": 185,
       "price": "~$67,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.2 sec"
     },
     "Peugeot|308|2023|e-308": {
       "engine": "Single Electric Motor",
@@ -1317,7 +1547,12 @@
       "acceleration": 8.8,
       "topSpeed": 170,
       "price": "~$55,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.8 sec",
+      "cargo": 420,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|308|2024|e-308 SW": {
       "engine": "Single Electric Motor",
@@ -1336,7 +1571,12 @@
       "acceleration": 8.8,
       "topSpeed": 170,
       "price": "~$59,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.8 sec",
+      "cargo": 420,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|308|2025|e-308": {
       "engine": "Single Electric Motor",
@@ -1355,7 +1595,12 @@
       "acceleration": 8.8,
       "topSpeed": 170,
       "price": "~$57,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.8 sec",
+      "cargo": 420,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|308|2025|e-308 SW": {
       "engine": "Single Electric Motor",
@@ -1374,7 +1619,12 @@
       "acceleration": 8.8,
       "topSpeed": 170,
       "price": "~$61,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.8 sec",
+      "cargo": 420,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|308|2026|e-308": {
       "engine": "Single Electric Motor",
@@ -1393,7 +1643,8 @@
       "acceleration": 8.8,
       "topSpeed": 170,
       "price": "~$58,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.8 sec"
     },
     "Peugeot|308|2026|e-308 SW": {
       "engine": "Single Electric Motor",
@@ -1412,7 +1663,8 @@
       "acceleration": 8.8,
       "topSpeed": 170,
       "price": "~$62,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.8 sec"
     },
     "Hyundai|Kona|2021|Electric": {
       "engine": "Single Electric Motor",
@@ -1431,7 +1683,12 @@
       "acceleration": 9.9,
       "topSpeed": 155,
       "price": "~$49,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.5 sec",
+      "cargo": 374,
+      "est": [
+        "cargo"
+      ]
     },
     "Hyundai|Kona|2021|Electric Active": {
       "engine": "Single Electric Motor",
@@ -1450,7 +1707,12 @@
       "acceleration": 7.6,
       "topSpeed": 167,
       "price": "~$59,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.7 sec",
+      "cargo": 374,
+      "est": [
+        "cargo"
+      ]
     },
     "Hyundai|Kona|2021|Electric Highlander": {
       "engine": "Single Electric Motor",
@@ -1469,7 +1731,12 @@
       "acceleration": 7.6,
       "topSpeed": 167,
       "price": "~$67,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.7 sec",
+      "cargo": 374,
+      "est": [
+        "cargo"
+      ]
     },
     "Hyundai|Kona|2022|Electric": {
       "engine": "Single Electric Motor",
@@ -1488,7 +1755,12 @@
       "acceleration": 9.9,
       "topSpeed": 155,
       "price": "~$51,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.5 sec",
+      "cargo": 374,
+      "est": [
+        "cargo"
+      ]
     },
     "Hyundai|Kona|2022|Electric Active": {
       "engine": "Single Electric Motor",
@@ -1507,7 +1779,12 @@
       "acceleration": 7.6,
       "topSpeed": 167,
       "price": "~$61,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.7 sec",
+      "cargo": 374,
+      "est": [
+        "cargo"
+      ]
     },
     "Hyundai|Kona|2022|Electric Highlander": {
       "engine": "Single Electric Motor",
@@ -1526,7 +1803,12 @@
       "acceleration": 7.6,
       "topSpeed": 167,
       "price": "~$69,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.7 sec",
+      "cargo": 374,
+      "est": [
+        "cargo"
+      ]
     },
     "Hyundai|Kona|2023|Electric": {
       "engine": "Single Electric Motor",
@@ -1545,7 +1827,12 @@
       "acceleration": 9.9,
       "topSpeed": 155,
       "price": "~$53,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.5 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     },
     "Hyundai|Kona|2023|Electric Active": {
       "engine": "Single Electric Motor",
@@ -1564,7 +1851,12 @@
       "acceleration": 7.6,
       "topSpeed": 167,
       "price": "~$63,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.7 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     },
     "Hyundai|Kona|2023|Electric Highlander": {
       "engine": "Single Electric Motor",
@@ -1583,7 +1875,12 @@
       "acceleration": 7.6,
       "topSpeed": 167,
       "price": "~$71,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.7 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.3|2021|Pro": {
       "engine": "Single Electric Motor",
@@ -1602,7 +1899,12 @@
       "acceleration": 7.3,
       "topSpeed": 160,
       "price": "~$54,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.3|2021|Pro S": {
       "engine": "Single Electric Motor Pro",
@@ -1621,7 +1923,12 @@
       "acceleration": 7.9,
       "topSpeed": 160,
       "price": "~$64,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.3|2022|Pro": {
       "engine": "Single Electric Motor",
@@ -1640,7 +1947,12 @@
       "acceleration": 7.3,
       "topSpeed": 160,
       "price": "~$56,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.3|2022|Pro S": {
       "engine": "Single Electric Motor Pro",
@@ -1659,7 +1971,12 @@
       "acceleration": 7.9,
       "topSpeed": 160,
       "price": "~$66,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.3|2023|Pro": {
       "engine": "Single Electric Motor",
@@ -1678,7 +1995,12 @@
       "acceleration": 7.3,
       "topSpeed": 160,
       "price": "~$57,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.3|2023|Pro S": {
       "engine": "Single Electric Motor Pro",
@@ -1697,7 +2019,12 @@
       "acceleration": 7.9,
       "topSpeed": 160,
       "price": "~$67,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.3|2024|Pro": {
       "engine": "Single Electric Motor",
@@ -1716,7 +2043,12 @@
       "acceleration": 7.3,
       "topSpeed": 160,
       "price": "~$58,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.3|2024|Pro S": {
       "engine": "Single Electric Motor Pro",
@@ -1735,7 +2067,12 @@
       "acceleration": 7.9,
       "topSpeed": 160,
       "price": "~$68,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.3|2025|Pro": {
       "engine": "Single Electric Motor",
@@ -1754,7 +2091,12 @@
       "acceleration": 7.3,
       "topSpeed": 160,
       "price": "~$59,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.3|2025|Pro S": {
       "engine": "Single Electric Motor Pro",
@@ -1773,7 +2115,12 @@
       "acceleration": 7.9,
       "topSpeed": 160,
       "price": "~$69,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.3|2026|Pro": {
       "engine": "Single Electric Motor",
@@ -1792,7 +2139,8 @@
       "acceleration": 7.3,
       "topSpeed": 160,
       "price": "~$60,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "Volkswagen|ID.3|2026|Pro S": {
       "engine": "Single Electric Motor Pro",
@@ -1811,7 +2159,8 @@
       "acceleration": 7.9,
       "topSpeed": 160,
       "price": "~$70,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.0 sec"
     }
   }
 }

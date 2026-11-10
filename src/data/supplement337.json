@@ -1,12 +1,12 @@
 {
   "specs": {
     "Kia|Seltos|2024|S": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 10.7,
       "cargo": 468,
       "seats": 5,
       "cylinders": 4,
-      "weight": null,
+      "weight": 1430,
       "engine": "2.0L I4 Petrol",
       "displacement": 1999,
       "aspiration": "Naturally Aspirated",
@@ -20,15 +20,20 @@
       "fx": 6.9,
       "towing": 1100,
       "fuelTank": 50,
-      "price": "$29,780"
+      "price": "$29,780",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.0 sec"
     },
     "Kia|Seltos|2024|Sport": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 10.7,
       "cargo": 468,
       "seats": 5,
       "cylinders": 4,
-      "weight": null,
+      "weight": 1430,
       "engine": "2.0L I4 Petrol",
       "displacement": 1999,
       "aspiration": "Naturally Aspirated",
@@ -42,15 +47,20 @@
       "fx": 6.9,
       "towing": 1100,
       "fuelTank": 50,
-      "price": "$32,980"
+      "price": "$32,980",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.0 sec"
     },
     "Kia|Seltos|2024|Sport+ FWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 10.7,
       "cargo": 468,
       "seats": 5,
       "cylinders": 4,
-      "weight": null,
+      "weight": 1430,
       "engine": "2.0L I4 Petrol",
       "displacement": 1999,
       "aspiration": "Naturally Aspirated",
@@ -64,15 +74,20 @@
       "fx": 6.9,
       "towing": 1100,
       "fuelTank": 50,
-      "price": "$36,080"
+      "price": "$36,080",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.0 sec"
     },
     "Kia|Seltos|2024|Sport+ AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 205,
+      "acceleration": 7.6,
       "cargo": 468,
       "seats": 5,
       "cylinders": 4,
-      "weight": null,
+      "weight": 1430,
       "engine": "1.6L I4 Turbo Petrol",
       "displacement": 1598,
       "aspiration": "Turbo",
@@ -86,15 +101,20 @@
       "fx": 7.4,
       "towing": 1250,
       "fuelTank": 50,
-      "price": "$39,580"
+      "price": "$39,580",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.7 sec"
     },
     "Kia|Seltos|2024|GT-Line FWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 10.7,
       "cargo": 468,
       "seats": 5,
       "cylinders": 4,
-      "weight": null,
+      "weight": 1430,
       "engine": "2.0L I4 Petrol",
       "displacement": 1999,
       "aspiration": "Naturally Aspirated",
@@ -108,15 +128,20 @@
       "fx": 6.9,
       "towing": 1100,
       "fuelTank": 50,
-      "price": "$41,780"
+      "price": "$41,780",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.0 sec"
     },
     "Kia|Seltos|2024|GT-Line AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 205,
+      "acceleration": 7.6,
       "cargo": 468,
       "seats": 5,
       "cylinders": 4,
-      "weight": null,
+      "weight": 1430,
       "engine": "1.6L I4 Turbo Petrol",
       "displacement": 1598,
       "aspiration": "Turbo",
@@ -130,21 +155,26 @@
       "fx": 7.4,
       "towing": 1250,
       "fuelTank": 50,
-      "price": "$45,180"
+      "price": "$45,180",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.7 sec"
     },
     "Toyota|Yaris Cross|2024|GX Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11.2,
       "cargo": 390,
       "seats": 5,
       "cylinders": 3,
-      "weight": null,
+      "weight": 1185,
       "engine": "1.5L I3 Hybrid",
       "displacement": 1490,
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 85,
-      "torque": null,
+      "torque": 120,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 4.2,
@@ -152,21 +182,27 @@
       "fx": 3.8,
       "towing": 400,
       "fuelTank": 36,
-      "price": "$30,000"
+      "price": "$30,000",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.3 sec"
     },
     "Toyota|Yaris Cross|2024|GX Hybrid AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 10.1,
       "cargo": 390,
       "seats": 5,
       "cylinders": 3,
-      "weight": null,
+      "weight": 1185,
       "engine": "1.5L I3 Hybrid",
       "displacement": 1490,
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 85,
-      "torque": null,
+      "torque": 120,
       "transmission": "CVT",
       "drivetrain": "AWD",
       "fc": 4.4,
@@ -174,21 +210,27 @@
       "fx": 4,
       "towing": 400,
       "fuelTank": 36,
-      "price": "$33,000"
+      "price": "$33,000",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.6 sec"
     },
     "Toyota|Yaris Cross|2024|GXL Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11.2,
       "cargo": 390,
       "seats": 5,
       "cylinders": 3,
-      "weight": null,
+      "weight": 1185,
       "engine": "1.5L I3 Hybrid",
       "displacement": 1490,
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 85,
-      "torque": null,
+      "torque": 120,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 4.2,
@@ -196,21 +238,27 @@
       "fx": 3.8,
       "towing": 400,
       "fuelTank": 36,
-      "price": "$33,000"
+      "price": "$33,000",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.3 sec"
     },
     "Toyota|Yaris Cross|2024|GXL Hybrid AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 10.1,
       "cargo": 390,
       "seats": 5,
       "cylinders": 3,
-      "weight": null,
+      "weight": 1185,
       "engine": "1.5L I3 Hybrid",
       "displacement": 1490,
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 85,
-      "torque": null,
+      "torque": 120,
       "transmission": "CVT",
       "drivetrain": "AWD",
       "fc": 3.6,
@@ -218,21 +266,27 @@
       "fx": 4,
       "towing": 400,
       "fuelTank": 36,
-      "price": "$36,950"
+      "price": "$36,950",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.6 sec"
     },
     "Toyota|Yaris Cross|2024|Urban Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11.2,
       "cargo": 390,
       "seats": 5,
       "cylinders": 3,
-      "weight": null,
+      "weight": 1185,
       "engine": "1.5L I3 Hybrid",
       "displacement": 1490,
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 85,
-      "torque": null,
+      "torque": 120,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 4.2,
@@ -240,21 +294,27 @@
       "fx": 3.8,
       "towing": 400,
       "fuelTank": 36,
-      "price": "$36,000"
+      "price": "$36,000",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.3 sec"
     },
     "Toyota|Yaris Cross|2024|Urban Hybrid AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 10.1,
       "cargo": 390,
       "seats": 5,
       "cylinders": 3,
-      "weight": null,
+      "weight": 1185,
       "engine": "1.5L I3 Hybrid",
       "displacement": 1490,
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 85,
-      "torque": null,
+      "torque": 120,
       "transmission": "CVT",
       "drivetrain": "AWD",
       "fc": 3.6,
@@ -262,21 +322,27 @@
       "fx": 4,
       "towing": 400,
       "fuelTank": 36,
-      "price": "$39,880"
+      "price": "$39,880",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.6 sec"
     },
     "Toyota|Yaris Cross|2024|GR Sport Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11.2,
       "cargo": 390,
       "seats": 5,
       "cylinders": 3,
-      "weight": null,
+      "weight": 1185,
       "engine": "1.5L I3 Hybrid",
       "displacement": 1490,
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 85,
-      "torque": null,
+      "torque": 120,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 4.2,
@@ -284,7 +350,13 @@
       "fx": 3.8,
       "towing": 400,
       "fuelTank": 36,
-      "price": "$36,000"
+      "price": "$36,000",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.3 sec"
     }
   }
 }

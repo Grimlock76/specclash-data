@@ -10,9 +10,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 170,
+      "cargo": 531,
+      "weight": 1985,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "accelClaimed": true,
@@ -21,7 +21,13 @@
       "battery": "58 kWh",
       "range": 384,
       "acceleration": 8.5,
-      "price": "$67,500"
+      "price": "$67,500",
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.5 sec"
     },
     "Hyundai|Ioniq 5|2024|Long Range RWD": {
       "fuelType": "electric",
@@ -33,9 +39,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 190,
+      "cargo": 531,
+      "weight": 2050,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "accelClaimed": true,
@@ -44,7 +50,13 @@
       "battery": "77.4 kWh",
       "range": 507,
       "acceleration": 7.3,
-      "price": "$73,500"
+      "price": "$73,500",
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Hyundai|Ioniq 5|2024|Dynamiq RWD": {
       "fuelType": "electric",
@@ -56,9 +68,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 190,
+      "cargo": 531,
+      "weight": 2050,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "accelClaimed": true,
@@ -67,7 +79,13 @@
       "battery": "77.4 kWh",
       "range": 476,
       "acceleration": 7.3,
-      "price": "$78,500"
+      "price": "$78,500",
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Hyundai|Ioniq 5|2024|Dynamiq AWD": {
       "fuelType": "electric",
@@ -79,18 +97,25 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 190,
+      "cargo": 531,
+      "weight": 2215,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "accelClaimed": true,
       "power": 239,
-      "torque": null,
+      "torque": 605,
       "battery": "77.4 kWh",
       "range": 454,
       "acceleration": 5.1,
-      "price": "$83,000"
+      "price": "$83,000",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.4 sec"
     },
     "Hyundai|Ioniq 5|2024|Epiq RWD": {
       "fuelType": "electric",
@@ -102,9 +127,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 190,
+      "cargo": 531,
+      "weight": 2050,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "accelClaimed": true,
@@ -113,7 +138,13 @@
       "battery": "77.4 kWh",
       "range": 476,
       "acceleration": 7.3,
-      "price": "$82,000"
+      "price": "$82,000",
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Hyundai|Ioniq 5|2024|Epiq AWD": {
       "fuelType": "electric",
@@ -125,18 +156,25 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 190,
+      "cargo": 531,
+      "weight": 2215,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "accelClaimed": true,
       "power": 239,
-      "torque": null,
+      "torque": 605,
       "battery": "77.4 kWh",
       "range": 454,
       "acceleration": 5.1,
-      "price": "$86,500"
+      "price": "$86,500",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.4 sec"
     },
     "Hyundai|Ioniq 5 N|2024|N": {
       "fuelType": "electric",
@@ -155,11 +193,15 @@
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 448,
-      "torque": null,
+      "torque": 770,
       "battery": "84.0 kWh",
       "range": 448,
       "price": "$110,383",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque"
+      ],
+      "quarterMile": "~11.7 sec"
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "specs": {
     "Skoda|Octavia|2024|110TSI Select Liftback": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "cargo": 600,
-      "weight": null,
+      "weight": 1360,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -19,12 +19,17 @@
       "fh": 4.9,
       "fx": 6.1,
       "acceleration": 8.7,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Skoda|Octavia|2024|110TSI Sportline Liftback": {
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 210,
+      "cargo": 600,
+      "weight": 1360,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -40,12 +45,18 @@
       "fh": 4.8,
       "fx": 5.7,
       "acceleration": 8.5,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.5 sec"
     },
     "Skoda|Octavia|2024|RS Liftback": {
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 250,
+      "cargo": 600,
+      "weight": 1430,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -61,12 +72,18 @@
       "fh": 5.3,
       "fx": 6.8,
       "acceleration": 6.6,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~14.9 sec"
     },
     "Skoda|Octavia|2024|110TSI Select Wagon": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "cargo": 640,
-      "weight": null,
+      "weight": 1360,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -82,12 +99,17 @@
       "fh": 5,
       "fx": 6.2,
       "acceleration": 8.7,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Skoda|Octavia|2024|110TSI Sportline Wagon": {
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 210,
+      "cargo": 600,
+      "weight": 1360,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -103,12 +125,18 @@
       "fh": 4.9,
       "fx": 5.8,
       "acceleration": 8.6,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.6 sec"
     },
     "Skoda|Octavia|2024|RS Wagon": {
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 250,
+      "cargo": 600,
+      "weight": 1430,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -124,12 +152,18 @@
       "fh": 5.4,
       "fx": 6.8,
       "acceleration": 6.7,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~14.9 sec"
     },
     "Skoda|Kodiaq|2024|Style": {
-      "topSpeed": null,
+      "topSpeed": 200,
       "cargo": null,
-      "weight": null,
+      "weight": 1760,
       "seats": 7,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -146,12 +180,17 @@
       "fx": 8.2,
       "acceleration": 8.4,
       "towing": 2000,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Skoda|Kodiaq|2024|Sportline": {
-      "topSpeed": null,
+      "topSpeed": 200,
       "cargo": null,
-      "weight": null,
+      "weight": 1760,
       "seats": 7,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -168,12 +207,17 @@
       "fx": 8.2,
       "acceleration": 8.4,
       "towing": 2000,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Skoda|Kodiaq|2024|RS": {
-      "topSpeed": null,
+      "topSpeed": 225,
       "cargo": null,
-      "weight": null,
+      "weight": 1700,
       "seats": 7,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -190,12 +234,17 @@
       "fx": 7.5,
       "acceleration": 6.6,
       "towing": 2000,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.9 sec"
     },
     "Skoda|Karoq|2024|110TSI Select": {
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 200,
+      "cargo": 521,
+      "weight": 1440,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -212,12 +261,18 @@
       "fx": 6.6,
       "acceleration": 9.2,
       "towing": 1500,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Skoda|Karoq|2024|110TSI Style": {
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 200,
+      "cargo": 521,
+      "weight": 1440,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -234,12 +289,18 @@
       "fx": 6.6,
       "acceleration": 9.2,
       "towing": 1500,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Skoda|Karoq|2024|140TSI Sportline": {
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 220,
+      "cargo": 521,
+      "weight": 1440,
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -256,7 +317,13 @@
       "fx": 6.8,
       "acceleration": 7,
       "towing": 1900,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~15.2 sec"
     }
   }
 }

@@ -17,7 +17,12 @@
       "acceleration": 9.8,
       "topSpeed": 195,
       "price": "~$37,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.4 sec",
+      "cargo": 560,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Territory|2015|SZ Mk2 TS": {
       "engine": "2.7L V6 Turbo Diesel TDCi",
@@ -36,7 +41,12 @@
       "acceleration": 9.8,
       "topSpeed": 195,
       "price": "~$44,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.4 sec",
+      "cargo": 560,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Territory|2015|SZ Mk2 TX": {
       "engine": "2.7L V6 Turbo Diesel TDCi",
@@ -55,7 +65,12 @@
       "acceleration": 9.8,
       "topSpeed": 195,
       "price": "~$48,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.4 sec",
+      "cargo": 560,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Territory|2015|SZ Mk2 Titanium": {
       "engine": "2.7L V6 Turbo Diesel TDCi",
@@ -74,7 +89,12 @@
       "acceleration": 9.8,
       "topSpeed": 195,
       "price": "~$54,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.4 sec",
+      "cargo": 560,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Everest|2015|UA Ambiente": {
       "engine": "3.2L I5 Turbo Diesel P4AT",
@@ -93,7 +113,12 @@
       "acceleration": 11,
       "topSpeed": 175,
       "price": "~$44,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.2 sec",
+      "cargo": 810,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Everest|2015|UA Titanium": {
       "engine": "3.2L I5 Turbo Diesel P4AT",
@@ -112,7 +137,12 @@
       "acceleration": 10.8,
       "topSpeed": 175,
       "price": "~$58,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.0 sec",
+      "cargo": 810,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Everest|2015|UA Trend": {
       "engine": "3.2L I5 Turbo Diesel P4AT",
@@ -131,7 +161,12 @@
       "acceleration": 10.8,
       "topSpeed": 175,
       "price": "~$51,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.0 sec",
+      "cargo": 810,
+      "est": [
+        "cargo"
+      ]
     },
     "HSV|GTS|2015|VF II GTS GEN-F2": {
       "engine": "6.2L V8 SC LSA",
@@ -150,7 +185,12 @@
       "acceleration": 4.2,
       "topSpeed": 290,
       "price": "~$139,990",
-      "aspiration": "Eaton TVS2300 Supercharged"
+      "aspiration": "Eaton TVS2300 Supercharged",
+      "quarterMile": "~12.5 sec",
+      "cargo": 460,
+      "est": [
+        "cargo"
+      ]
     },
     "HSV|GTS|2015|VF II GTS GEN-F2 25th Anniversary": {
       "engine": "6.2L V8 SC LSA",
@@ -169,7 +209,12 @@
       "acceleration": 4.2,
       "topSpeed": 290,
       "price": "~$159,990",
-      "aspiration": "Eaton TVS2300 Supercharged"
+      "aspiration": "Eaton TVS2300 Supercharged",
+      "quarterMile": "~12.5 sec",
+      "cargo": 460,
+      "est": [
+        "cargo"
+      ]
     },
     "HSV|Clubsport|2015|VF II Clubsport R8": {
       "engine": "6.2L V8 SC LSA",
@@ -188,7 +233,12 @@
       "acceleration": 4.4,
       "topSpeed": 290,
       "price": "~$82,990",
-      "aspiration": "Eaton TVS2300 Supercharged"
+      "aspiration": "Eaton TVS2300 Supercharged",
+      "quarterMile": "~12.7 sec",
+      "cargo": 460,
+      "est": [
+        "cargo"
+      ]
     },
     "HSV|Maloo|2015|VF II Maloo R8": {
       "engine": "6.2L V8 SC LSA",
@@ -207,7 +257,8 @@
       "acceleration": 4.5,
       "topSpeed": 285,
       "price": "~$97,990",
-      "aspiration": "Eaton TVS2300 Supercharged"
+      "aspiration": "Eaton TVS2300 Supercharged",
+      "quarterMile": "~12.8 sec"
     },
     "HSV|GTSR|2015|VF II GTSR": {
       "engine": "6.2L V8 SC LSA",
@@ -226,7 +277,12 @@
       "acceleration": 4.3,
       "topSpeed": 290,
       "price": "~$119,990",
-      "aspiration": "Eaton TVS2300 Supercharged"
+      "aspiration": "Eaton TVS2300 Supercharged",
+      "quarterMile": "~12.6 sec",
+      "cargo": 460,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Fortuner|2015|Crusade": {
       "engine": "2.7L I4 NA 2TR-FE",
@@ -245,7 +301,8 @@
       "acceleration": 13,
       "topSpeed": 178,
       "price": "~$53,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.4 sec"
     },
     "Toyota|Fortuner|2015|GX": {
       "engine": "2.7L I4 NA 2TR-FE",
@@ -264,7 +321,8 @@
       "acceleration": 13.5,
       "topSpeed": 178,
       "price": "~$38,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.6 sec"
     },
     "Toyota|Fortuner|2015|GXL": {
       "engine": "2.7L I4 NA 2TR-FE",
@@ -283,7 +341,8 @@
       "acceleration": 13,
       "topSpeed": 178,
       "price": "~$46,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.4 sec"
     },
     "Toyota|HiLux|2015|Rogue": {
       "engine": "3.0L I4 Turbo Diesel 1KD-FTV",
@@ -302,7 +361,8 @@
       "acceleration": 11.5,
       "topSpeed": 175,
       "price": "~$55,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec"
     },
     "Toyota|Prius C|2015|Prius C Plus": {
       "engine": "1.5L I4 NA 1NZ-FXE + Electric HSD",
@@ -321,7 +381,12 @@
       "acceleration": 11.5,
       "topSpeed": 165,
       "price": "~$28,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.5 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Mazda|2|2015|Genki": {
       "engine": "1.5L I4 NA P5-VP Skyactiv-G",
@@ -340,7 +405,12 @@
       "acceleration": 10.5,
       "topSpeed": 175,
       "price": "~$19,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec",
+      "cargo": 250,
+      "est": [
+        "cargo"
+      ]
     },
     "Mazda|MX-5|2015|MX-5": {
       "engine": "2.0L I4 NA PE-VPS Skyactiv-G",
@@ -359,7 +429,8 @@
       "acceleration": 8.3,
       "topSpeed": 214,
       "price": "~$34,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.3 sec"
     },
     "Mazda|CX-3|2015|Akari": {
       "engine": "2.0L I4 NA PE Skyactiv-G",
@@ -378,7 +449,12 @@
       "acceleration": 10.2,
       "topSpeed": 185,
       "price": "~$32,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.7 sec",
+      "cargo": 264,
+      "est": [
+        "cargo"
+      ]
     },
     "Mazda|CX-3|2015|Maxx": {
       "engine": "2.0L I4 NA PE Skyactiv-G",
@@ -397,7 +473,12 @@
       "acceleration": 10.5,
       "topSpeed": 185,
       "price": "~$23,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec",
+      "cargo": 264,
+      "est": [
+        "cargo"
+      ]
     },
     "Mazda|CX-3|2015|sTouring": {
       "engine": "2.0L I4 NA PE Skyactiv-G",
@@ -416,7 +497,12 @@
       "acceleration": 10.2,
       "topSpeed": 185,
       "price": "~$27,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.7 sec",
+      "cargo": 264,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

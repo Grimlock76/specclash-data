@@ -17,7 +17,8 @@
       "acceleration": 4.4,
       "topSpeed": 330,
       "price": "~$399,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.7 sec"
     },
     "Audi|A4|2018|35 TFSI": {
       "engine": "1.4L I4 Turbo TFSI",
@@ -36,7 +37,12 @@
       "acceleration": 8.3,
       "topSpeed": 218,
       "price": "~$49,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.3 sec",
+      "cargo": 495,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|A4|2018|40 TFSI": {
       "engine": "2.0L I4 Turbo TFSI",
@@ -55,7 +61,12 @@
       "acceleration": 7.3,
       "topSpeed": 240,
       "price": "~$59,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.5 sec",
+      "cargo": 495,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|A6|2018|45 TFSI quattro": {
       "engine": "2.0L I4 Turbo TFSI MHEV",
@@ -74,7 +85,12 @@
       "acceleration": 6.8,
       "topSpeed": 250,
       "price": "~$99,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.0 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|A6|2018|55 TFSI quattro": {
       "engine": "3.0L V6 Turbo TFSI MHEV",
@@ -93,7 +109,12 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$129,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.4 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|A7|2018|55 TFSI quattro": {
       "engine": "3.0L V6 Turbo TFSI MHEV",
@@ -112,7 +133,12 @@
       "acceleration": 5.3,
       "topSpeed": 250,
       "price": "~$149,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.6 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|A8|2018|55 TFSI quattro": {
       "engine": "3.0L V6 Turbo TFSI MHEV",
@@ -131,7 +157,8 @@
       "acceleration": 5.7,
       "topSpeed": 250,
       "price": "~$179,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.0 sec"
     },
     "Audi|A8|2018|60 TFSI quattro": {
       "engine": "4.0L V8 Biturbo TFSI MHEV",
@@ -150,7 +177,8 @@
       "acceleration": 3.8,
       "topSpeed": 250,
       "price": "~$259,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.0 sec"
     },
     "Audi|Q2|2018|2.0 TDI quattro": {
       "engine": "2.0L I4 Turbo Diesel TFSI",
@@ -169,7 +197,12 @@
       "acceleration": 8.9,
       "topSpeed": 200,
       "price": "~$47,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~16.8 sec",
+      "cargo": 405,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|Q3|2018|35 TFSI": {
       "engine": "1.5L I4 Turbo TFSI",
@@ -188,7 +221,8 @@
       "acceleration": 8.9,
       "topSpeed": 204,
       "price": "~$49,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.8 sec"
     },
     "Audi|Q3|2018|40 TFSI quattro": {
       "engine": "2.0L I4 Turbo TFSI",
@@ -207,7 +241,8 @@
       "acceleration": 6.3,
       "topSpeed": 215,
       "price": "~$59,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.6 sec"
     },
     "Bentley|Bentayga|2018|V8": {
       "engine": "4.0L V8 Biturbo",
@@ -226,7 +261,8 @@
       "acceleration": 4.5,
       "topSpeed": 290,
       "price": "~$399,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.8 sec"
     },
     "Bentley|Continental GT|2018|Speed W12": {
       "engine": "6.0L W12 Biturbo",
@@ -245,7 +281,8 @@
       "acceleration": 3.6,
       "topSpeed": 333,
       "price": "~$649,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.8 sec"
     },
     "BMW|i3|2018|i3s": {
       "engine": "Single Motor Electric",
@@ -264,7 +301,12 @@
       "acceleration": 6.9,
       "topSpeed": 160,
       "price": "~$69,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.1 sec",
+      "cargo": 260,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|i3|2018|i3s REx": {
       "engine": "Single Motor Electric + REx",
@@ -283,7 +325,12 @@
       "acceleration": 7.1,
       "topSpeed": 160,
       "price": "~$76,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.3 sec",
+      "cargo": 260,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|X4|2018|xDrive30i": {
       "engine": "2.0L I4 Turbo B48",
@@ -302,7 +349,12 @@
       "acceleration": 6,
       "topSpeed": 230,
       "price": "~$89,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.3 sec",
+      "cargo": 525,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|X4|2018|M40i": {
       "engine": "3.0L I6 Turbo B58",
@@ -321,7 +373,12 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$119,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 525,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|X5|2018|xDrive25d": {
       "engine": "2.0L I4 Turbo Diesel B47",
@@ -340,7 +397,12 @@
       "acceleration": 7,
       "topSpeed": 222,
       "price": "~$104,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~15.2 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|X5|2018|xDrive40i": {
       "engine": "3.0L I6 Turbo B58",
@@ -359,7 +421,12 @@
       "acceleration": 5.3,
       "topSpeed": 250,
       "price": "~$124,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~13.6 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|X5|2018|M50i": {
       "engine": "4.4L V8 Biturbo S63",
@@ -378,7 +445,12 @@
       "acceleration": 4.3,
       "topSpeed": 250,
       "price": "~$174,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.6 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

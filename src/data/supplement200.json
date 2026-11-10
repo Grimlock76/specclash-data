@@ -17,7 +17,12 @@
       "acceleration": 9.2,
       "topSpeed": 204,
       "price": "~$32,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.1 sec",
+      "cargo": 521,
+      "est": [
+        "cargo"
+      ]
     },
     "Skoda|Karoq|2019|110 TSI Style": {
       "engine": "1.5L I4 Turbo TSI",
@@ -36,7 +41,12 @@
       "acceleration": 9.2,
       "topSpeed": 204,
       "price": "~$38,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.1 sec",
+      "cargo": 521,
+      "est": [
+        "cargo"
+      ]
     },
     "SsangYong|Korando|2019|ELX": {
       "engine": "1.5L I4 Turbo GDI",
@@ -55,7 +65,8 @@
       "acceleration": 10.2,
       "topSpeed": 180,
       "price": "~$28,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.7 sec"
     },
     "SsangYong|Korando|2019|Ultimate": {
       "engine": "1.5L I4 Turbo GDI",
@@ -74,7 +85,8 @@
       "acceleration": 10.2,
       "topSpeed": 180,
       "price": "~$34,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.7 sec"
     },
     "Suzuki|Jimny|2019|Lite": {
       "engine": "1.5L I4 NA K15B",
@@ -93,7 +105,12 @@
       "acceleration": 14,
       "topSpeed": 145,
       "price": "~$21,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.8 sec",
+      "cargo": 85,
+      "est": [
+        "cargo"
+      ]
     },
     "Suzuki|Vitara|2019|GL": {
       "engine": "1.6L I4 NA M16A",
@@ -112,7 +129,12 @@
       "acceleration": 10.5,
       "topSpeed": 175,
       "price": "~$22,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec",
+      "cargo": 375,
+      "est": [
+        "cargo"
+      ]
     },
     "Suzuki|Vitara|2019|GLX": {
       "engine": "1.6L I4 NA M16A",
@@ -131,7 +153,12 @@
       "acceleration": 10.5,
       "topSpeed": 175,
       "price": "~$26,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.9 sec",
+      "cargo": 375,
+      "est": [
+        "cargo"
+      ]
     },
     "Suzuki|Vitara|2019|GLX Turbo": {
       "engine": "1.4L I4 Turbo K14C",
@@ -150,7 +177,12 @@
       "acceleration": 9.7,
       "topSpeed": 185,
       "price": "~$31,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.4 sec",
+      "cargo": 375,
+      "est": [
+        "cargo"
+      ]
     },
     "Tesla|Model 3|2019|Long Range AWD": {
       "engine": "Dual Motor Electric",
@@ -169,7 +201,8 @@
       "acceleration": 4.2,
       "topSpeed": 225,
       "price": "~$76,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.5 sec"
     },
     "Tesla|Model 3|2019|Standard Range Plus": {
       "engine": "Single Motor Electric",
@@ -188,7 +221,8 @@
       "acceleration": 5.6,
       "topSpeed": 225,
       "price": "~$59,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.9 sec"
     },
     "Toyota|86|2019|GR Sport": {
       "engine": "2.0L F4 NA 4U-GSE",
@@ -207,7 +241,12 @@
       "acceleration": 7.6,
       "topSpeed": 226,
       "price": "~$41,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.7 sec",
+      "cargo": 243,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Corolla|2019|Ascent Sport Hybrid": {
       "engine": "1.8L I4 Hybrid 2ZR-FXE",
@@ -226,7 +265,8 @@
       "acceleration": 11.2,
       "topSpeed": 180,
       "price": "~$31,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.3 sec"
     },
     "Toyota|Corolla|2019|ZR Hybrid": {
       "engine": "1.8L I4 Hybrid 2ZR-FXE",
@@ -245,7 +285,8 @@
       "acceleration": 11.2,
       "topSpeed": 180,
       "price": "~$37,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.3 sec"
     },
     "Toyota|RAV4|2019|GX Hybrid": {
       "engine": "2.5L I4 Hybrid A25A-FXS",
@@ -264,7 +305,12 @@
       "acceleration": 8.4,
       "topSpeed": 180,
       "price": "~$38,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.4 sec",
+      "cargo": 580,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|RAV4|2019|GXL Hybrid": {
       "engine": "2.5L I4 Hybrid A25A-FXS",
@@ -283,7 +329,12 @@
       "acceleration": 8.4,
       "topSpeed": 180,
       "price": "~$42,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.4 sec",
+      "cargo": 580,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|RAV4|2019|Edge Hybrid": {
       "engine": "2.5L I4 Hybrid A25A-FXS",
@@ -302,7 +353,12 @@
       "acceleration": 8.4,
       "topSpeed": 180,
       "price": "~$48,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.4 sec",
+      "cargo": 580,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|RAV4|2019|Cruiser Hybrid": {
       "engine": "2.5L I4 Hybrid A25A-FXS",
@@ -321,7 +377,12 @@
       "acceleration": 8.4,
       "topSpeed": 180,
       "price": "~$55,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.4 sec",
+      "cargo": 580,
+      "est": [
+        "cargo"
+      ]
     },
     "Volvo|S60|2019|T6": {
       "engine": "2.0L I4 Turbo+SC B4204T19",
@@ -340,7 +401,12 @@
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$79,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "cargo": 442,
+      "est": [
+        "cargo"
+      ]
     },
     "Volvo|V60|2019|T6": {
       "engine": "2.0L I4 Turbo+SC B4204T19",
@@ -359,7 +425,12 @@
       "acceleration": 6,
       "topSpeed": 250,
       "price": "~$82,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.3 sec",
+      "cargo": 529,
+      "est": [
+        "cargo"
+      ]
     },
     "Honda|Civic|2021|Type R FK8 Limited Edition": {
       "engine": "2.0L I4 VTEC Turbo K20C1",
@@ -378,7 +449,8 @@
       "acceleration": 5.7,
       "topSpeed": 272,
       "price": "~$70,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.0 sec"
     }
   }
 }

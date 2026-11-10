@@ -10,8 +10,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 180,
+      "weight": 2270,
       "battery": "82 kWh",
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -22,7 +22,12 @@
       "towing": 1200,
       "range": 544,
       "cargo": 543,
-      "price": "$59,990"
+      "price": "$59,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.9 sec"
     },
     "Volkswagen|ID.4|2025|Pro": {
       "fuelType": "electric",
@@ -34,8 +39,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 180,
+      "weight": 2270,
       "battery": "82 kWh",
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -46,7 +51,12 @@
       "towing": 1200,
       "range": 544,
       "cargo": 543,
-      "price": "$59,990"
+      "price": "$59,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.9 sec"
     },
     "Volkswagen|ID.4|2025|GTX": {
       "fuelType": "electric",
@@ -58,19 +68,25 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 190,
+      "weight": 2270,
       "battery": "82 kWh",
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 250,
-      "torque": null,
+      "torque": 680,
       "acceleration": 5.4,
       "towing": 1400,
       "range": 511,
       "cargo": 543,
-      "price": "$69,990"
+      "price": "$69,990",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.7 sec"
     },
     "Volkswagen|ID.4|2026|Pro": {
       "fuelType": "electric",
@@ -82,8 +98,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 180,
+      "weight": 2270,
       "battery": "82 kWh",
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -94,7 +110,12 @@
       "towing": 1200,
       "range": 544,
       "cargo": 543,
-      "price": "$60,990"
+      "price": "$60,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.9 sec"
     },
     "Volkswagen|ID.4|2026|GTX": {
       "fuelType": "electric",
@@ -106,19 +127,25 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 190,
+      "weight": 2270,
       "battery": "82 kWh",
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 250,
-      "torque": null,
+      "torque": 680,
       "acceleration": 5.4,
       "towing": 1400,
       "range": 511,
       "cargo": 543,
-      "price": "$70,990"
+      "price": "$70,990",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.7 sec"
     },
     "Volkswagen|ID.5|2024|GTX": {
       "fuelType": "electric",
@@ -130,19 +157,25 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 190,
+      "weight": 2180,
       "battery": "84 kWh",
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 250,
-      "torque": null,
+      "torque": 520,
       "acceleration": 5.4,
       "towing": 1400,
       "range": 522,
       "cargo": 549,
-      "price": "$72,990"
+      "price": "$72,990",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.7 sec"
     },
     "Volkswagen|ID.5|2025|Pro": {
       "fuelType": "electric",
@@ -154,8 +187,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 180,
+      "weight": 2180,
       "battery": "82 kWh",
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -166,7 +199,12 @@
       "towing": 1200,
       "range": 543,
       "cargo": 549,
-      "price": "$62,990"
+      "price": "$62,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.9 sec"
     },
     "Volkswagen|ID.5|2025|GTX": {
       "fuelType": "electric",
@@ -178,19 +216,25 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 190,
+      "weight": 2180,
       "battery": "84 kWh",
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 250,
-      "torque": null,
+      "torque": 520,
       "acceleration": 5.4,
       "towing": 1400,
       "range": 522,
       "cargo": 549,
-      "price": "$72,990"
+      "price": "$72,990",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.7 sec"
     },
     "Volkswagen|ID.5|2026|Pro": {
       "fuelType": "electric",
@@ -202,8 +246,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 180,
+      "weight": 2180,
       "battery": "82 kWh",
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -214,7 +258,12 @@
       "towing": 1200,
       "range": 543,
       "cargo": 549,
-      "price": "$62,990"
+      "price": "$62,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.9 sec"
     },
     "Volkswagen|ID.5|2026|GTX": {
       "fuelType": "electric",
@@ -226,19 +275,25 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 190,
+      "weight": 2180,
       "battery": "84 kWh",
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 250,
-      "torque": null,
+      "torque": 520,
       "acceleration": 5.4,
       "towing": 1400,
       "range": 522,
       "cargo": 549,
-      "price": "$72,990"
+      "price": "$72,990",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.7 sec"
     }
   }
 }

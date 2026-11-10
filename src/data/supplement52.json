@@ -778,7 +778,8 @@
       "bodyStyle": "Sedan",
       "cargo": 500,
       "price": "~$219,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.2 sec"
     },
     "BMW|i7|2022|xDrive60": {
       "engine": "Dual motor electric",
@@ -814,7 +815,8 @@
       "bodyStyle": "Sedan",
       "cargo": 500,
       "price": "~$219,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.2 sec"
     },
     "BMW|i7|2023|xDrive60": {
       "engine": "Dual motor electric",

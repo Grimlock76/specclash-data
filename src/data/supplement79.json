@@ -12,7 +12,13 @@
       "wt": "1430 kg",
       "se": "6",
       "pr": "$1,820",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~13.4 sec",
+      "qm": "~19.6 sec",
+      "ts": "~160 km/h",
+      "fx": "~16.5L",
+      "fc": "~20.6L",
+      "fh": "~11.5L"
     },
     "Chevrolet|Bel Air|1957|Base": {
       "en": "4.1L I6 OHV",
@@ -26,7 +32,13 @@
       "wt": "1510 kg",
       "se": "6",
       "pr": "$2,238",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~13.9 sec",
+      "qm": "~19.8 sec",
+      "ts": "~155 km/h",
+      "fx": "~16.5L",
+      "fc": "~20.6L",
+      "fh": "~11.5L"
     },
     "Chevrolet|Bel Air|1961|Base": {
       "en": "4.6L V8 OHV",
@@ -40,7 +52,13 @@
       "wt": "1580 kg",
       "se": "6",
       "pr": "$2,262",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~12.5 sec",
+      "qm": "~19.1 sec",
+      "ts": "~155 km/h",
+      "fx": "~17.3L",
+      "fc": "~21.6L",
+      "fh": "~12.0L"
     },
     "Chevrolet|Bel Air|1965|Base": {
       "en": "5.4L V8 OHV",
@@ -54,7 +72,13 @@
       "wt": "1640 kg",
       "se": "6",
       "pr": "$2,468",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~11.4 sec",
+      "qm": "~18.4 sec",
+      "ts": "~180 km/h",
+      "fx": "~17.3L",
+      "fc": "~21.6L",
+      "fh": "~12.0L"
     },
     "Chevrolet|Bel Air|1969|Base": {
       "en": "5.0L V8 OHV",
@@ -68,7 +92,13 @@
       "wt": "1710 kg",
       "se": "6",
       "pr": "$2,726",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~11.0 sec",
+      "qm": "~18.2 sec",
+      "ts": "~185 km/h",
+      "fx": "~17.2L",
+      "fc": "~21.5L",
+      "fh": "~11.9L"
     },
     "Chevrolet|Bel Air|1973|Base": {
       "en": "5.7L V8 OHV",
@@ -85,7 +115,10 @@
       "fc": "20.0",
       "fh": "13.5",
       "fx": "17.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~11.8 sec",
+      "qm": "~18.7 sec",
+      "ts": "~170 km/h"
     },
     "Chevrolet|Bel Air|1975|Base": {
       "en": "5.0L V8 OHV",
@@ -102,7 +135,10 @@
       "fc": "21.0",
       "fh": "14.0",
       "fx": "18.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~13.8 sec",
+      "qm": "~19.8 sec",
+      "ts": "~155 km/h"
     },
     "Chevrolet|Bel Air|1956|V8": {
       "en": "4.3L V8 OHV",
@@ -118,7 +154,11 @@
       "pr": "$2,258",
       "z1": "~11.0 sec",
       "ts": "~180 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~18.2 sec",
+      "fx": "~18.2L",
+      "fc": "~22.8L",
+      "fh": "~12.6L"
     },
     "Chevrolet|Bel Air|1957|Fuel Injection": {
       "en": "4.6L V8 OHV Ramjet Fuel Injection",
@@ -134,7 +174,11 @@
       "pr": "$3,020",
       "z1": "~8.5 sec",
       "ts": "~195 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~16.5 sec",
+      "fx": "~21.5L",
+      "fc": "~26.9L",
+      "fh": "~14.9L"
     },
     "Chevrolet|Corvair|1960|Base": {
       "en": "2.3L Flat-6 OHV Air-Cooled",
@@ -150,7 +194,11 @@
       "pr": "$1,984",
       "z1": "~16.0 sec",
       "ts": "~145 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~20.7 sec",
+      "fx": "~12.5L",
+      "fc": "~15.6L",
+      "fh": "~8.7L"
     },
     "Chevrolet|Corvair|1963|Base": {
       "en": "2.3L Flat-6 OHV Air-Cooled",
@@ -166,7 +214,11 @@
       "pr": "$2,054",
       "z1": "~15.5 sec",
       "ts": "~148 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~20.5 sec",
+      "fx": "~12.5L",
+      "fc": "~15.6L",
+      "fh": "~8.7L"
     },
     "Chevrolet|Corvair|1960|Monza": {
       "en": "2.3L Flat-6 OHV Air-Cooled",
@@ -182,7 +234,11 @@
       "pr": "$2,238",
       "z1": "~14.5 sec",
       "ts": "~152 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~20.1 sec",
+      "fx": "~12.8L",
+      "fc": "~16.0L",
+      "fh": "~8.9L"
     },
     "Chevrolet|Corvair|1963|Monza": {
       "en": "2.3L Flat-6 OHV Air-Cooled",
@@ -198,7 +254,11 @@
       "pr": "$2,314",
       "z1": "~13.5 sec",
       "ts": "~160 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~19.6 sec",
+      "fx": "~13.0L",
+      "fc": "~16.3L",
+      "fh": "~9.0L"
     },
     "Chevrolet|Corvair|1966|Monza": {
       "en": "2.7L Flat-6 OHV Air-Cooled",
@@ -214,7 +274,11 @@
       "pr": "$2,694",
       "z1": "~12.0 sec",
       "ts": "~168 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~18.8 sec",
+      "fx": "~13.6L",
+      "fc": "~17.0L",
+      "fh": "~9.4L"
     },
     "Chevrolet|Corvair|1969|Monza": {
       "en": "2.7L Flat-6 OHV Air-Cooled",
@@ -230,7 +294,11 @@
       "pr": "$2,522",
       "z1": "~13.0 sec",
       "ts": "~162 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~19.4 sec",
+      "fx": "~12.7L",
+      "fc": "~15.9L",
+      "fh": "~8.8L"
     },
     "Chevrolet|Corvair|1962|Spyder": {
       "en": "2.3L Turbocharged Flat-6 OHV",
@@ -247,7 +315,10 @@
       "z1": "~9.8 sec",
       "qm": "~17.5 sec",
       "ts": "~190 km/h",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "fx": "~15.2L",
+      "fc": "~19.0L",
+      "fh": "~10.6L"
     },
     "Chevrolet|Corvair|1965|500": {
       "en": "2.7L Flat-6 OHV Air-Cooled",
@@ -263,7 +334,11 @@
       "pr": "$2,066",
       "z1": "~14.0 sec",
       "ts": "~155 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~19.8 sec",
+      "fx": "~12.4L",
+      "fc": "~15.5L",
+      "fh": "~8.6L"
     },
     "Chevrolet|Corvair|1968|500": {
       "en": "2.7L Flat-6 OHV Air-Cooled",
@@ -279,7 +354,11 @@
       "pr": "$2,243",
       "z1": "~14.5 sec",
       "ts": "~152 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~20.1 sec",
+      "fx": "~12.2L",
+      "fc": "~15.3L",
+      "fh": "~8.4L"
     },
     "Chevrolet|Corvair|1965|Corsa": {
       "en": "2.7L Flat-6 OHV Air-Cooled (4-carb)",
@@ -296,7 +375,10 @@
       "z1": "~9.5 sec",
       "qm": "~17.2 sec",
       "ts": "~195 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "fx": "~15.0L",
+      "fc": "~18.8L",
+      "fh": "~10.4L"
     },
     "Chevrolet|Chevelle|1964|Base": {
       "en": "3.8L I6 OHV",
@@ -310,7 +392,13 @@
       "wt": "1420 kg",
       "se": "6",
       "pr": "$2,194",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~12.1 sec",
+      "qm": "~18.8 sec",
+      "ts": "~155 km/h",
+      "fx": "~14.6L",
+      "fc": "~18.3L",
+      "fh": "~10.1L"
     },
     "Chevrolet|Chevelle|1968|Base": {
       "en": "4.1L I6 OHV",
@@ -324,7 +412,13 @@
       "wt": "1480 kg",
       "se": "6",
       "pr": "$2,574",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~11.2 sec",
+      "qm": "~18.3 sec",
+      "ts": "~160 km/h",
+      "fx": "~14.9L",
+      "fc": "~18.6L",
+      "fh": "~10.4L"
     },
     "Chevrolet|Chevelle|1972|Base": {
       "en": "5.7L V8 OHV",
@@ -338,7 +432,13 @@
       "wt": "1590 kg",
       "se": "6",
       "pr": "$2,980",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~10.9 sec",
+      "qm": "~18.1 sec",
+      "ts": "~160 km/h",
+      "fx": "~18.5L",
+      "fc": "~23.1L",
+      "fh": "~12.9L"
     },
     "Chevrolet|Chevelle|1976|Base": {
       "en": "5.0L V8 OHV",
@@ -355,7 +455,10 @@
       "fc": "20.5",
       "fh": "13.5",
       "fx": "17.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~12.2 sec",
+      "qm": "~18.9 sec",
+      "ts": "~160 km/h"
     },
     "Chevrolet|Chevelle|1964|Malibu": {
       "en": "4.6L V8 OHV",
@@ -369,7 +472,13 @@
       "wt": "1460 kg",
       "se": "6",
       "pr": "$2,540",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~10.0 sec",
+      "qm": "~17.5 sec",
+      "ts": "~170 km/h",
+      "fx": "~16.1L",
+      "fc": "~20.1L",
+      "fh": "~11.2L"
     },
     "Chevrolet|Chevelle|1968|Malibu": {
       "en": "5.4L V8 OHV",
@@ -383,7 +492,13 @@
       "wt": "1540 kg",
       "se": "6",
       "pr": "$2,797",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.6 sec",
+      "qm": "~17.3 sec",
+      "ts": "~175 km/h",
+      "fx": "~16.4L",
+      "fc": "~20.5L",
+      "fh": "~11.4L"
     },
     "Chevrolet|Chevelle|1972|Malibu": {
       "en": "5.7L V8 OHV",
@@ -397,7 +512,13 @@
       "wt": "1640 kg",
       "se": "6",
       "pr": "$3,220",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~10.8 sec",
+      "qm": "~18.0 sec",
+      "ts": "~160 km/h",
+      "fx": "~19.1L",
+      "fc": "~23.9L",
+      "fh": "~13.2L"
     },
     "Chevrolet|Chevelle|1975|Malibu": {
       "en": "5.7L V8 OHV",
@@ -414,7 +535,10 @@
       "fc": "21.0",
       "fh": "14.0",
       "fx": "18.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~10.4 sec",
+      "qm": "~17.8 sec",
+      "ts": "~155 km/h"
     },
     "Chevrolet|Chevelle|1964|Malibu SS": {
       "en": "5.4L V8 OHV",
@@ -431,7 +555,10 @@
       "z1": "~8.5 sec",
       "qm": "~16.0 sec",
       "ts": "~195 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "fx": "~18.6L",
+      "fc": "~23.3L",
+      "fh": "~12.9L"
     },
     "Chevrolet|Chevelle|1966|SS 396": {
       "en": "6.5L V8 OHV",
@@ -448,7 +575,10 @@
       "z1": "~7.2 sec",
       "qm": "~15.2 sec",
       "ts": "~205 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "fx": "~19.4L",
+      "fc": "~24.3L",
+      "fh": "~13.4L"
     },
     "Chevrolet|Chevelle|1970|SS 396": {
       "en": "6.5L V8 OHV",
@@ -465,7 +595,10 @@
       "z1": "~6.8 sec",
       "qm": "~14.9 sec",
       "ts": "~210 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "fx": "~19.3L",
+      "fc": "~24.1L",
+      "fh": "~13.4L"
     },
     "Chevrolet|Chevelle|1969|COPO 427": {
       "en": "7.0L V8 OHV L72",
@@ -482,7 +615,10 @@
       "z1": "~5.8 sec",
       "qm": "~13.9 sec",
       "ts": "~220 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "fx": "~21.6L",
+      "fc": "~27.0L",
+      "fh": "~15.0L"
     },
     "Chevrolet|Chevelle|1970|SS 454": {
       "en": "7.4L V8 OHV LS5",
@@ -499,7 +635,10 @@
       "z1": "~6.0 sec",
       "qm": "~14.5 sec",
       "ts": "~215 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "fx": "~25.2L",
+      "fc": "~31.5L",
+      "fh": "~17.5L"
     },
     "Chevrolet|Chevelle|1970|LS6": {
       "en": "7.4L V8 OHV LS6",
@@ -516,7 +655,10 @@
       "z1": "~6.1 sec",
       "qm": "~13.8 sec",
       "ts": "~220 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "fx": "~27.6L",
+      "fc": "~34.5L",
+      "fh": "~19.2L"
     },
     "Chevrolet|Chevelle|1971|Heavy Chevy": {
       "en": "5.7L V8 OHV",
@@ -532,7 +674,11 @@
       "pr": "$3,050",
       "z1": "~8.0 sec",
       "ts": "~190 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~16.1 sec",
+      "fx": "~21.8L",
+      "fc": "~27.3L",
+      "fh": "~15.1L"
     },
     "Chevrolet|Chevelle|1975|Malibu Classic": {
       "en": "5.7L V8 OHV",
@@ -549,7 +695,10 @@
       "fc": "21.0",
       "fh": "14.0",
       "fx": "18.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~11.0 sec",
+      "qm": "~18.2 sec",
+      "ts": "~150 km/h"
     },
     "Chevrolet|Chevelle|1974|Laguna": {
       "en": "5.7L V8 OHV",
@@ -566,7 +715,10 @@
       "fc": "21.5",
       "fh": "14.5",
       "fx": "18.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.8 sec",
+      "qm": "~17.4 sec",
+      "ts": "~160 km/h"
     },
     "Chevrolet|Chevelle|1975|Laguna S-3": {
       "en": "5.7L V8 OHV",
@@ -583,7 +735,10 @@
       "fc": "21.5",
       "fh": "14.5",
       "fx": "18.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~11.2 sec",
+      "qm": "~18.3 sec",
+      "ts": "~170 km/h"
     },
     "Chevrolet|Nova|1962|Base": {
       "en": "2.5L I4 OHV",
@@ -597,7 +752,13 @@
       "wt": "1170 kg",
       "se": "4",
       "pr": "$2,206",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~16.8 sec",
+      "qm": "~21.1 sec",
+      "ts": "~140 km/h",
+      "fx": "~12.4L",
+      "fc": "~15.5L",
+      "fh": "~8.6L"
     },
     "Chevrolet|Nova|1966|Base": {
       "en": "3.2L I6 OHV",
@@ -611,7 +772,13 @@
       "wt": "1300 kg",
       "se": "4",
       "pr": "$2,316",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~13.5 sec",
+      "qm": "~19.6 sec",
+      "ts": "~155 km/h",
+      "fx": "~13.9L",
+      "fc": "~17.4L",
+      "fh": "~9.6L"
     },
     "Chevrolet|Nova|1970|Base": {
       "en": "4.1L I6 OHV",
@@ -625,7 +792,13 @@
       "wt": "1380 kg",
       "se": "4",
       "pr": "$2,456",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~11.5 sec",
+      "qm": "~18.5 sec",
+      "ts": "~155 km/h",
+      "fx": "~13.8L",
+      "fc": "~17.3L",
+      "fh": "~9.5L"
     },
     "Chevrolet|Nova|1974|Base": {
       "en": "5.0L V8 OHV",
@@ -642,7 +815,10 @@
       "fc": "20.0",
       "fh": "13.5",
       "fx": "17.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~10.7 sec",
+      "qm": "~18.0 sec",
+      "ts": "~170 km/h"
     },
     "Chevrolet|Nova|1978|Base": {
       "en": "5.0L V8 OHV",
@@ -659,7 +835,10 @@
       "fc": "20.5",
       "fh": "13.5",
       "fx": "17.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~11.5 sec",
+      "qm": "~18.5 sec",
+      "ts": "~165 km/h"
     },
     "Chevrolet|Nova|1986|Base": {
       "en": "1.6L I4 SOHC",
@@ -676,7 +855,10 @@
       "fc": "8.5",
       "fh": "6.0",
       "fx": "7.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~14.0 sec",
+      "qm": "~19.8 sec",
+      "ts": "~155 km/h"
     },
     "Chevrolet|Nova|1962|SS": {
       "en": "3.2L I6 OHV",
@@ -692,7 +874,11 @@
       "pr": "$2,550",
       "z1": "~14.0 sec",
       "ts": "~160 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~19.8 sec",
+      "fx": "~13.9L",
+      "fc": "~17.4L",
+      "fh": "~9.6L"
     },
     "Chevrolet|Nova|1966|SS": {
       "en": "4.6L V8 OHV",
@@ -708,7 +894,11 @@
       "pr": "$2,793",
       "z1": "~10.0 sec",
       "ts": "~180 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~17.5 sec",
+      "fx": "~16.3L",
+      "fc": "~20.4L",
+      "fh": "~11.3L"
     },
     "Chevrolet|Nova|1970|SS": {
       "en": "5.7L V8 OHV",
@@ -725,7 +915,10 @@
       "z1": "~7.5 sec",
       "qm": "~15.7 sec",
       "ts": "~195 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "fx": "~17.3L",
+      "fc": "~21.6L",
+      "fh": "~12.0L"
     },
     "Chevrolet|Nova|1974|SS": {
       "en": "5.7L V8 OHV",
@@ -741,7 +934,11 @@
       "pr": "$3,740",
       "z1": "~9.5 sec",
       "ts": "~185 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~17.2 sec",
+      "fx": "~18.8L",
+      "fc": "~23.5L",
+      "fh": "~13.1L"
     },
     "Chevrolet|Nova|1968|SS 396": {
       "en": "6.5L V8 OHV",
@@ -758,7 +955,10 @@
       "z1": "~6.8 sec",
       "qm": "~14.8 sec",
       "ts": "~205 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "fx": "~19.0L",
+      "fc": "~23.8L",
+      "fh": "~13.1L"
     },
     "Chevrolet|Nova|1974|LN": {
       "en": "5.7L V8 OHV",
@@ -775,7 +975,10 @@
       "fc": "20.0",
       "fh": "13.5",
       "fx": "17.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.5 sec",
+      "qm": "~17.2 sec",
+      "ts": "~185 km/h"
     },
     "Chevrolet|Nova|1976|Concours": {
       "en": "5.7L V8 OHV",
@@ -792,7 +995,10 @@
       "fc": "21.0",
       "fh": "14.0",
       "fx": "18.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~10.3 sec",
+      "qm": "~17.7 sec",
+      "ts": "~175 km/h"
     },
     "Chevrolet|Nova|1978|Custom": {
       "en": "5.0L V8 OHV",
@@ -809,7 +1015,10 @@
       "fc": "21.0",
       "fh": "14.0",
       "fx": "18.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~11.6 sec",
+      "qm": "~18.5 sec",
+      "ts": "~165 km/h"
     },
     "Chevrolet|El Camino|1959|Base": {
       "en": "3.9L I6 OHV",
@@ -823,7 +1032,13 @@
       "wt": "1570 kg",
       "se": "3",
       "pr": "$2,447",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~15.2 sec",
+      "qm": "~20.4 sec",
+      "ts": "~150 km/h",
+      "fx": "~15.6L",
+      "fc": "~19.5L",
+      "fh": "~10.8L"
     },
     "Chevrolet|El Camino|1964|Base": {
       "en": "4.1L I6 OHV",
@@ -837,7 +1052,13 @@
       "wt": "1590 kg",
       "se": "3",
       "pr": "$2,524",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~12.4 sec",
+      "qm": "~19.0 sec",
+      "ts": "~155 km/h",
+      "fx": "~15.1L",
+      "fc": "~18.9L",
+      "fh": "~10.5L"
     },
     "Chevrolet|El Camino|1968|Base": {
       "en": "4.1L I6 OHV",
@@ -851,7 +1072,13 @@
       "wt": "1650 kg",
       "se": "3",
       "pr": "$2,724",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~11.6 sec",
+      "qm": "~18.5 sec",
+      "ts": "~160 km/h",
+      "fx": "~15.3L",
+      "fc": "~19.1L",
+      "fh": "~10.7L"
     },
     "Chevrolet|El Camino|1972|Base": {
       "en": "5.7L V8 OHV",
@@ -865,7 +1092,13 @@
       "wt": "1720 kg",
       "se": "3",
       "pr": "$3,019",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~10.2 sec",
+      "qm": "~17.7 sec",
+      "ts": "~165 km/h",
+      "fx": "~19.0L",
+      "fc": "~23.8L",
+      "fh": "~13.1L"
     },
     "Chevrolet|El Camino|1976|Base": {
       "en": "5.0L V8 OHV",
@@ -882,7 +1115,10 @@
       "fc": "21.0",
       "fh": "14.0",
       "fx": "18.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~13.2 sec",
+      "qm": "~19.5 sec",
+      "ts": "~155 km/h"
     },
     "Chevrolet|El Camino|1980|Base": {
       "en": "3.8L V6 OHV",
@@ -899,7 +1135,10 @@
       "fc": "17.0",
       "fh": "11.5",
       "fx": "15.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~14.1 sec",
+      "qm": "~19.9 sec",
+      "ts": "~155 km/h"
     },
     "Chevrolet|El Camino|1986|Base": {
       "en": "3.8L V6 OHV",
@@ -916,7 +1155,10 @@
       "fc": "16.0",
       "fh": "11.0",
       "fx": "14.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~12.9 sec",
+      "qm": "~19.3 sec",
+      "ts": "~160 km/h"
     },
     "Chevrolet|El Camino|1964|Custom": {
       "en": "4.6L V8 OHV",
@@ -930,7 +1172,13 @@
       "wt": "1630 kg",
       "se": "3",
       "pr": "$2,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~10.4 sec",
+      "qm": "~17.8 sec",
+      "ts": "~170 km/h",
+      "fx": "~16.6L",
+      "fc": "~20.8L",
+      "fh": "~11.5L"
     },
     "Chevrolet|El Camino|1968|Custom": {
       "en": "5.0L V8 OHV",
@@ -944,7 +1192,13 @@
       "wt": "1700 kg",
       "se": "3",
       "pr": "$3,100",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.3 sec",
+      "qm": "~17.1 sec",
+      "ts": "~180 km/h",
+      "fx": "~17.4L",
+      "fc": "~21.8L",
+      "fh": "~12.0L"
     },
     "Chevrolet|El Camino|1972|Custom": {
       "en": "5.7L V8 OHV",
@@ -958,7 +1212,13 @@
       "wt": "1740 kg",
       "se": "3",
       "pr": "$3,350",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.3 sec",
+      "qm": "~17.1 sec",
+      "ts": "~170 km/h",
+      "fx": "~19.9L",
+      "fc": "~24.9L",
+      "fh": "~13.8L"
     },
     "Chevrolet|El Camino|1965|SS": {
       "en": "5.4L V8 OHV",
@@ -974,7 +1234,11 @@
       "pr": "$3,200",
       "z1": "~8.0 sec",
       "ts": "~195 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~16.1 sec",
+      "fx": "~19.1L",
+      "fc": "~23.9L",
+      "fh": "~13.2L"
     },
     "Chevrolet|El Camino|1974|SS": {
       "en": "5.7L V8 OHV",
@@ -991,7 +1255,10 @@
       "fc": "21.0",
       "fh": "14.0",
       "fx": "18.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.4 sec",
+      "qm": "~17.2 sec",
+      "ts": "~160 km/h"
     },
     "Chevrolet|El Camino|1978|SS": {
       "en": "5.0L V8 OHV",
@@ -1008,7 +1275,10 @@
       "fc": "21.5",
       "fh": "14.0",
       "fx": "18.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~12.4 sec",
+      "qm": "~19.0 sec",
+      "ts": "~165 km/h"
     },
     "Chevrolet|El Camino|1982|SS": {
       "en": "5.0L V8 OHV",
@@ -1025,7 +1295,10 @@
       "fc": "19.5",
       "fh": "13.0",
       "fx": "17.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~12.6 sec",
+      "qm": "~19.2 sec",
+      "ts": "~160 km/h"
     },
     "Chevrolet|El Camino|1986|SS": {
       "en": "5.0L V8 OHV",
@@ -1042,7 +1315,10 @@
       "fc": "18.5",
       "fh": "12.5",
       "fx": "16.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~12.0 sec",
+      "qm": "~18.8 sec",
+      "ts": "~165 km/h"
     },
     "Chevrolet|El Camino|1969|SS 396": {
       "en": "6.5L V8 OHV",
@@ -1059,7 +1335,10 @@
       "z1": "~6.8 sec",
       "qm": "~15.0 sec",
       "ts": "~205 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "fx": "~19.4L",
+      "fc": "~24.3L",
+      "fh": "~13.4L"
     },
     "Chevrolet|El Camino|1971|SS 454": {
       "en": "7.4L V8 OHV LS5",
@@ -1076,7 +1355,10 @@
       "z1": "~6.0 sec",
       "qm": "~14.6 sec",
       "ts": "~215 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "fx": "~25.3L",
+      "fc": "~31.6L",
+      "fh": "~17.6L"
     },
     "Chevrolet|El Camino|1971|Heavy Chevy": {
       "en": "5.7L V8 OHV",
@@ -1092,7 +1374,11 @@
       "pr": "$3,400",
       "z1": "~8.0 sec",
       "ts": "~190 km/h",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~16.1 sec",
+      "fx": "~21.9L",
+      "fc": "~27.4L",
+      "fh": "~15.2L"
     },
     "Chevrolet|El Camino|1975|Classic": {
       "en": "5.7L V8 OHV",
@@ -1109,7 +1395,10 @@
       "fc": "21.5",
       "fh": "14.0",
       "fx": "18.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~10.6 sec",
+      "qm": "~17.9 sec",
+      "ts": "~155 km/h"
     },
     "Chevrolet|El Camino|1980|Royal Knight": {
       "en": "5.0L V8 OHV",
@@ -1126,7 +1415,10 @@
       "fc": "21.0",
       "fh": "14.0",
       "fx": "18.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~12.9 sec",
+      "qm": "~19.3 sec",
+      "ts": "~160 km/h"
     },
     "Chevrolet|El Camino|1983|Royal Knight": {
       "en": "5.0L V8 OHV",
@@ -1143,7 +1435,10 @@
       "fc": "20.5",
       "fh": "13.5",
       "fx": "17.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~12.8 sec",
+      "qm": "~19.3 sec",
+      "ts": "~160 km/h"
     }
   }
 }

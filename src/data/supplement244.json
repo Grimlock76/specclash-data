@@ -18,7 +18,8 @@
       "weight": 1635,
       "seats": 5,
       "cargo": 645,
-      "price": "~$73,990 d/a"
+      "price": "~$73,990 d/a",
+      "quarterMile": "~13.9 sec"
     },
     "Skoda|Superb|2025|Sportline Wagon": {
       "engine": "2.0L I4 Turbo EA888",
@@ -38,7 +39,8 @@
       "weight": 1666,
       "seats": 5,
       "cargo": 690,
-      "price": "~$74,990 d/a"
+      "price": "~$74,990 d/a",
+      "quarterMile": "~14.0 sec"
     },
     "Skoda|Superb|2026|Sportline": {
       "engine": "2.0L I4 Turbo EA888",
@@ -58,7 +60,8 @@
       "weight": 1635,
       "seats": 5,
       "cargo": 645,
-      "price": "~$67,990"
+      "price": "~$67,990",
+      "quarterMile": "~13.9 sec"
     },
     "Skoda|Superb|2026|Sportline Wagon": {
       "engine": "2.0L I4 Turbo EA888",
@@ -78,7 +81,8 @@
       "weight": 1666,
       "seats": 5,
       "cargo": 690,
-      "price": "~$69,690"
+      "price": "~$69,690",
+      "quarterMile": "~14.0 sec"
     },
     "Renault|Duster|2025|Evolution": {
       "engine": "1.3L I4 Turbo",
@@ -98,7 +102,8 @@
       "weight": 1385,
       "seats": 5,
       "cargo": 472,
-      "price": "~$31,990"
+      "price": "~$31,990",
+      "quarterMile": "~17.5 sec"
     },
     "Renault|Duster|2025|Evolution 4x4": {
       "engine": "1.2L I3 Turbo MHEV",
@@ -118,7 +123,8 @@
       "weight": 1440,
       "seats": 5,
       "cargo": 358,
-      "price": "~$36,490"
+      "price": "~$36,490",
+      "quarterMile": "~18.4 sec"
     },
     "Renault|Duster|2025|Techno": {
       "engine": "1.3L I4 Turbo",
@@ -138,7 +144,8 @@
       "weight": 1395,
       "seats": 5,
       "cargo": 472,
-      "price": "~$36,990"
+      "price": "~$36,990",
+      "quarterMile": "~17.5 sec"
     },
     "Renault|Duster|2025|Techno 4x4": {
       "engine": "1.2L I3 Turbo MHEV",
@@ -158,7 +165,8 @@
       "weight": 1450,
       "seats": 5,
       "cargo": 358,
-      "price": "~$37,990"
+      "price": "~$37,990",
+      "quarterMile": "~18.4 sec"
     },
     "Renault|Duster|2026|Evolution": {
       "engine": "1.3L I4 Turbo",
@@ -178,7 +186,8 @@
       "weight": 1385,
       "seats": 5,
       "cargo": 472,
-      "price": "~$31,990"
+      "price": "~$31,990",
+      "quarterMile": "~17.5 sec"
     },
     "Renault|Duster|2026|Evolution 4x4": {
       "engine": "1.2L I3 Turbo MHEV",
@@ -198,7 +207,8 @@
       "weight": 1440,
       "seats": 5,
       "cargo": 358,
-      "price": "~$36,490"
+      "price": "~$36,490",
+      "quarterMile": "~18.4 sec"
     },
     "Renault|Duster|2026|Techno": {
       "engine": "1.3L I4 Turbo",
@@ -218,7 +228,8 @@
       "weight": 1395,
       "seats": 5,
       "cargo": 472,
-      "price": "~$36,990"
+      "price": "~$36,990",
+      "quarterMile": "~17.5 sec"
     },
     "Renault|Duster|2026|Techno 4x4": {
       "engine": "1.2L I3 Turbo MHEV",
@@ -238,7 +249,8 @@
       "weight": 1450,
       "seats": 5,
       "cargo": 358,
-      "price": "~$37,990"
+      "price": "~$37,990",
+      "quarterMile": "~18.4 sec"
     },
     "Audi|Q5 Sportback|2026|TFSI": {
       "engine": "2.0L I4 Turbo MHEV+",
@@ -258,7 +270,8 @@
       "weight": 1930,
       "seats": 5,
       "cargo": 515,
-      "price": "~$84,500"
+      "price": "~$84,500",
+      "quarterMile": "~16.6 sec"
     },
     "Audi|Q5 Sportback|2026|TDI quattro": {
       "engine": "2.0L I4 Turbo Diesel MHEV+",
@@ -278,7 +291,8 @@
       "weight": 2015,
       "seats": 5,
       "cargo": 515,
-      "price": "~$91,100"
+      "price": "~$91,100",
+      "quarterMile": "~15.5 sec"
     },
     "Audi|Q5 Sportback|2026|TDI quattro sport": {
       "engine": "2.0L I4 Turbo Diesel MHEV+",
@@ -298,7 +312,8 @@
       "weight": 2025,
       "seats": 5,
       "cargo": 515,
-      "price": "~$97,600"
+      "price": "~$97,600",
+      "quarterMile": "~15.5 sec"
     },
     "Audi|Q5 Sportback|2026|TFSI quattro sport": {
       "engine": "2.0L I4 Turbo MHEV+",
@@ -318,7 +333,8 @@
       "weight": 1985,
       "seats": 5,
       "cargo": 515,
-      "price": "~$100,400"
+      "price": "~$100,400",
+      "quarterMile": "~14.5 sec"
     },
     "Audi|Q5 Sportback|2026|e-hybrid quattro": {
       "engine": "2.0L I4 Turbo PHEV + motor (270kW system)",
@@ -329,16 +345,22 @@
       "transmission": "7-speed S tronic",
       "power": 270,
       "torque": 500,
-      "fc": null,
-      "fh": null,
+      "fc": 3.8,
+      "fh": 2.7,
       "fx": 3.3,
       "fuelType": "hybrid",
       "acceleration": 5.1,
       "topSpeed": 250,
       "weight": 2195,
       "seats": 5,
-      "cargo": null,
-      "price": "~$100,400"
+      "cargo": 515,
+      "price": "~$100,400",
+      "quarterMile": "~13.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Audi|SQ5|2026|TFSI edition one": {
       "engine": "3.0L V6 Turbo MHEV+",
@@ -358,7 +380,8 @@
       "weight": 2075,
       "seats": 5,
       "cargo": 520,
-      "price": "~$106,400"
+      "price": "~$106,400",
+      "quarterMile": "~12.8 sec"
     },
     "Audi|SQ5|2026|TFSI": {
       "engine": "3.0L V6 Turbo MHEV+",
@@ -378,7 +401,8 @@
       "weight": 2075,
       "seats": 5,
       "cargo": 520,
-      "price": "~$122,400"
+      "price": "~$122,400",
+      "quarterMile": "~12.8 sec"
     },
     "Audi|Q5 Sportback|2026|SQ5 Sportback edition one": {
       "engine": "3.0L V6 Turbo MHEV+",
@@ -398,7 +422,8 @@
       "weight": 2085,
       "seats": 5,
       "cargo": 515,
-      "price": "~$109,900"
+      "price": "~$109,900",
+      "quarterMile": "~12.8 sec"
     },
     "Audi|Q5 Sportback|2026|SQ5 Sportback": {
       "engine": "3.0L V6 Turbo MHEV+",
@@ -418,7 +443,8 @@
       "weight": 2085,
       "seats": 5,
       "cargo": 515,
-      "price": "~$125,900"
+      "price": "~$125,900",
+      "quarterMile": "~12.8 sec"
     }
   }
 }

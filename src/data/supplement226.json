@@ -13,13 +13,19 @@
       "weight": 1233,
       "seats": 2,
       "cargo": 195,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.6,
+      "fh": 8.2,
+      "fx": 11.7,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$25,000"
+      "price": "~$25,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "DeLorean|DMC-12|1981|Auto": {
       "engine": "PRV 2.85L V6",
@@ -34,13 +40,19 @@
       "weight": 1233,
       "seats": 2,
       "cargo": 195,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.4,
+      "fh": 8,
+      "fx": 11.5,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$25,500"
+      "price": "~$25,500",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "DeLorean|DMC-12|1982|Manual": {
       "engine": "PRV 2.85L V6",
@@ -55,13 +67,19 @@
       "weight": 1233,
       "seats": 2,
       "cargo": 195,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.5,
+      "fh": 8.1,
+      "fx": 11.6,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$25,000"
+      "price": "~$25,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "DeLorean|DMC-12|1982|Auto": {
       "engine": "PRV 2.85L V6",
@@ -76,13 +94,19 @@
       "weight": 1233,
       "seats": 2,
       "cargo": 195,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.3,
+      "fh": 7.9,
+      "fx": 11.4,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$25,500"
+      "price": "~$25,500",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "DeLorean|DMC-12|1983|Manual": {
       "engine": "PRV 2.85L V6",
@@ -97,13 +121,19 @@
       "weight": 1233,
       "seats": 2,
       "cargo": 195,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.3,
+      "fh": 7.9,
+      "fx": 11.4,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$25,000"
+      "price": "~$25,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "DeLorean|DMC-12|1983|Auto": {
       "engine": "PRV 2.85L V6",
@@ -118,13 +148,19 @@
       "weight": 1233,
       "seats": 2,
       "cargo": 195,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.1,
+      "fh": 7.9,
+      "fx": 11.3,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$25,500"
+      "price": "~$25,500",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Tucker|48|1948|Torpedo": {
       "engine": "Franklin 6HA 5.5L H6",
@@ -135,17 +171,24 @@
       "transmission": "4-speed manual (pre-selector)",
       "drivetrain": "RWD",
       "power": 101,
-      "torque": null,
+      "torque": 195,
       "weight": 1771,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24.3,
+      "fh": 13.4,
+      "fx": 19.4,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 185,
-      "price": "~$2,450"
+      "price": "~$2,450",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~17.5 sec"
     },
     "Eagle|Premier|1988|LX": {
       "engine": "2.5L I4 Renault",
@@ -160,13 +203,19 @@
       "weight": 1416,
       "seats": 5,
       "cargo": 450,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.3,
+      "fh": 7.9,
+      "fx": 11.4,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 175,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Premier|1988|ES": {
       "engine": "3.0L V6 PRV",
@@ -181,13 +230,19 @@
       "weight": 1416,
       "seats": 5,
       "cargo": 450,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.9,
+      "fh": 8.8,
+      "fx": 12.7,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 175,
-      "price": "~$19,000"
+      "price": "~$19,000",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Premier|1989|LX": {
       "engine": "2.5L I4 Renault",
@@ -202,13 +257,19 @@
       "weight": 1416,
       "seats": 5,
       "cargo": 450,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.1,
+      "fh": 7.9,
+      "fx": 11.3,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 175,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Premier|1989|ES": {
       "engine": "3.0L V6 PRV",
@@ -223,13 +284,19 @@
       "weight": 1416,
       "seats": 5,
       "cargo": 450,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.8,
+      "fh": 8.7,
+      "fx": 12.6,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 175,
-      "price": "~$19,000"
+      "price": "~$19,000",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Premier|1990|LX": {
       "engine": "2.5L I4 Renault",
@@ -244,13 +311,19 @@
       "weight": 1416,
       "seats": 5,
       "cargo": 450,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.9,
+      "fh": 7.7,
+      "fx": 11.1,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 175,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Premier|1990|ES": {
       "engine": "3.0L V6 PRV",
@@ -265,13 +338,19 @@
       "weight": 1416,
       "seats": 5,
       "cargo": 450,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.5,
+      "fh": 8.6,
+      "fx": 12.4,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 175,
-      "price": "~$19,000"
+      "price": "~$19,000",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Premier|1991|LX": {
       "engine": "2.5L I4 Renault",
@@ -286,13 +365,19 @@
       "weight": 1416,
       "seats": 5,
       "cargo": 450,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.8,
+      "fh": 7.6,
+      "fx": 11,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 175,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Premier|1991|ES": {
       "engine": "3.0L V6 PRV",
@@ -307,13 +392,19 @@
       "weight": 1416,
       "seats": 5,
       "cargo": 450,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.4,
+      "fh": 8.5,
+      "fx": 12.3,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 175,
-      "price": "~$19,000"
+      "price": "~$19,000",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Premier|1992|LX": {
       "engine": "2.5L I4 Renault",
@@ -328,13 +419,19 @@
       "weight": 1416,
       "seats": 5,
       "cargo": 450,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.6,
+      "fh": 7.6,
+      "fx": 10.9,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 175,
-      "price": "~$15,000"
+      "price": "~$15,000",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Premier|1992|ES": {
       "engine": "3.0L V6 PRV",
@@ -349,13 +446,19 @@
       "weight": 1416,
       "seats": 5,
       "cargo": 450,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.1,
+      "fh": 8.4,
+      "fx": 12.1,
       "ft": "Petrol",
       "acceleration": 11,
       "topSpeed": 175,
-      "price": "~$19,000"
+      "price": "~$19,000",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1990|Base": {
       "engine": "4G63 2.0L DOHC I4",
@@ -370,13 +473,19 @@
       "weight": 1180,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.8,
+      "fh": 7,
+      "fx": 10.2,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 195,
-      "price": "~$14,000"
+      "price": "~$14,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1990|TSi FWD": {
       "engine": "4G63T 2.0T DOHC I4 Turbo",
@@ -391,13 +500,19 @@
       "weight": 1225,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.3,
+      "fh": 7.9,
+      "fx": 11.4,
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 215,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1990|TSi AWD": {
       "engine": "4G63T 2.0T DOHC I4 Turbo",
@@ -412,13 +527,19 @@
       "weight": 1285,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.4,
+      "fh": 8,
+      "fx": 11.5,
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 215,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1991|Base": {
       "engine": "4G63 2.0L DOHC I4",
@@ -433,13 +554,19 @@
       "weight": 1180,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.5,
+      "fh": 6.9,
+      "fx": 10,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 195,
-      "price": "~$14,000"
+      "price": "~$14,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1991|TSi FWD": {
       "engine": "4G63T 2.0T DOHC I4 Turbo",
@@ -454,13 +581,19 @@
       "weight": 1225,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14,
+      "fh": 7.8,
+      "fx": 11.2,
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 215,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1991|TSi AWD": {
       "engine": "4G63T 2.0T DOHC I4 Turbo",
@@ -475,13 +608,19 @@
       "weight": 1285,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.1,
+      "fh": 7.9,
+      "fx": 11.3,
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 215,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1992|Base": {
       "engine": "4G63 2.0L DOHC I4",
@@ -496,13 +635,19 @@
       "weight": 1180,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.4,
+      "fh": 6.8,
+      "fx": 9.9,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 195,
-      "price": "~$14,000"
+      "price": "~$14,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1992|TSi FWD": {
       "engine": "4G63T 2.0T DOHC I4 Turbo",
@@ -517,13 +662,19 @@
       "weight": 1225,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.9,
+      "fh": 7.7,
+      "fx": 11.1,
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 215,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1992|TSi AWD": {
       "engine": "4G63T 2.0T DOHC I4 Turbo",
@@ -538,13 +689,19 @@
       "weight": 1285,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14,
+      "fh": 7.8,
+      "fx": 11.2,
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 215,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1993|Base": {
       "engine": "4G63 2.0L DOHC I4",
@@ -559,13 +716,19 @@
       "weight": 1180,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.3,
+      "fh": 6.7,
+      "fx": 9.8,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 195,
-      "price": "~$14,000"
+      "price": "~$14,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1993|TSi FWD": {
       "engine": "4G63T 2.0T DOHC I4 Turbo",
@@ -580,13 +743,19 @@
       "weight": 1225,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.6,
+      "fh": 7.6,
+      "fx": 10.9,
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 215,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1993|TSi AWD": {
       "engine": "4G63T 2.0T DOHC I4 Turbo",
@@ -601,13 +770,19 @@
       "weight": 1285,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.9,
+      "fh": 7.7,
+      "fx": 11.1,
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 215,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1994|Base": {
       "engine": "4G63 2.0L DOHC I4",
@@ -622,13 +797,19 @@
       "weight": 1180,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.1,
+      "fh": 6.8,
+      "fx": 9.7,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 195,
-      "price": "~$14,000"
+      "price": "~$14,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1994|TSi FWD": {
       "engine": "4G63T 2.0T DOHC I4 Turbo",
@@ -643,13 +824,19 @@
       "weight": 1225,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.5,
+      "fh": 7.5,
+      "fx": 10.8,
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 215,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1994|TSi AWD": {
       "engine": "4G63T 2.0T DOHC I4 Turbo",
@@ -664,13 +851,19 @@
       "weight": 1285,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.6,
+      "fh": 7.6,
+      "fx": 10.9,
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 215,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1995|Base": {
       "engine": "4G63 2.0L DOHC I4",
@@ -685,13 +878,19 @@
       "weight": 1180,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.9,
+      "fh": 6.6,
+      "fx": 9.5,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 195,
-      "price": "~$14,000"
+      "price": "~$14,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1995|TSi FWD": {
       "engine": "4G63T 2.0T DOHC I4 Turbo",
@@ -706,13 +905,19 @@
       "weight": 1225,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.4,
+      "fh": 7.4,
+      "fx": 10.7,
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 215,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1995|TSi AWD": {
       "engine": "4G63T 2.0T DOHC I4 Turbo",
@@ -727,13 +932,19 @@
       "weight": 1285,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.5,
+      "fh": 7.5,
+      "fx": 10.8,
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 215,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1996|Base": {
       "engine": "4G63 2.0L DOHC I4",
@@ -748,13 +959,19 @@
       "weight": 1180,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.8,
+      "fh": 6.5,
+      "fx": 9.4,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 195,
-      "price": "~$14,000"
+      "price": "~$14,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1996|TSi FWD": {
       "engine": "4G63T 2.0T DOHC I4 Turbo",
@@ -769,13 +986,19 @@
       "weight": 1225,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.3,
+      "fh": 7.3,
+      "fx": 10.6,
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 215,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1996|TSi AWD": {
       "engine": "4G63T 2.0T DOHC I4 Turbo",
@@ -790,13 +1013,19 @@
       "weight": 1285,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.4,
+      "fh": 7.4,
+      "fx": 10.7,
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 215,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1997|Base": {
       "engine": "4G63 2.0L DOHC I4",
@@ -811,13 +1040,19 @@
       "weight": 1180,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.6,
+      "fh": 6.5,
+      "fx": 9.3,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 195,
-      "price": "~$14,000"
+      "price": "~$14,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1997|TSi FWD": {
       "engine": "4G63T 2.0T DOHC I4 Turbo",
@@ -832,13 +1067,19 @@
       "weight": 1225,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13,
+      "fh": 7.2,
+      "fx": 10.4,
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 215,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1997|TSi AWD": {
       "engine": "4G63T 2.0T DOHC I4 Turbo",
@@ -853,13 +1094,19 @@
       "weight": 1285,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.1,
+      "fh": 7.3,
+      "fx": 10.5,
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 215,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1998|Base": {
       "engine": "4G63 2.0L DOHC I4",
@@ -874,13 +1121,19 @@
       "weight": 1180,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.5,
+      "fh": 6.4,
+      "fx": 9.2,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 195,
-      "price": "~$14,000"
+      "price": "~$14,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1998|TSi FWD": {
       "engine": "4G63T 2.0T DOHC I4 Turbo",
@@ -895,13 +1148,19 @@
       "weight": 1225,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.9,
+      "fh": 7.1,
+      "fx": 10.3,
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 215,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Talon|1998|TSi AWD": {
       "engine": "4G63T 2.0T DOHC I4 Turbo",
@@ -916,13 +1175,19 @@
       "weight": 1285,
       "seats": 4,
       "cargo": 240,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13,
+      "fh": 7.2,
+      "fx": 10.4,
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 215,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Vision|1993|ESi": {
       "engine": "3.5L V6 SOHC",
@@ -937,13 +1202,19 @@
       "weight": 1520,
       "seats": 5,
       "cargo": 455,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.4,
+      "fh": 8.5,
+      "fx": 12.3,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 200,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Vision|1993|ESi AWD": {
       "engine": "3.5L V6 SOHC",
@@ -958,13 +1229,19 @@
       "weight": 1620,
       "seats": 5,
       "cargo": 455,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.6,
+      "fh": 8.7,
+      "fx": 12.5,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 195,
-      "price": "~$23,000"
+      "price": "~$23,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Vision|1994|ESi": {
       "engine": "3.5L V6 SOHC",
@@ -979,13 +1256,19 @@
       "weight": 1520,
       "seats": 5,
       "cargo": 455,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.3,
+      "fh": 8.4,
+      "fx": 12.2,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 200,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Vision|1994|ESi AWD": {
       "engine": "3.5L V6 SOHC",
@@ -1000,13 +1283,19 @@
       "weight": 1620,
       "seats": 5,
       "cargo": 455,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.4,
+      "fh": 8.5,
+      "fx": 12.3,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 195,
-      "price": "~$23,000"
+      "price": "~$23,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Vision|1995|ESi": {
       "engine": "3.5L V6 SOHC",
@@ -1021,13 +1310,19 @@
       "weight": 1520,
       "seats": 5,
       "cargo": 455,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15,
+      "fh": 8.3,
+      "fx": 12,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 200,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Vision|1995|ESi AWD": {
       "engine": "3.5L V6 SOHC",
@@ -1042,13 +1337,19 @@
       "weight": 1620,
       "seats": 5,
       "cargo": 455,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.3,
+      "fh": 8.4,
+      "fx": 12.2,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 195,
-      "price": "~$23,000"
+      "price": "~$23,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Vision|1996|ESi": {
       "engine": "3.5L V6 SOHC",
@@ -1063,13 +1364,19 @@
       "weight": 1520,
       "seats": 5,
       "cargo": 455,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.9,
+      "fh": 8.2,
+      "fx": 11.9,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 200,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Vision|1996|ESi AWD": {
       "engine": "3.5L V6 SOHC",
@@ -1084,13 +1391,19 @@
       "weight": 1620,
       "seats": 5,
       "cargo": 455,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15,
+      "fh": 8.3,
+      "fx": 12,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 195,
-      "price": "~$23,000"
+      "price": "~$23,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Vision|1997|ESi": {
       "engine": "3.5L V6 SOHC",
@@ -1105,13 +1418,19 @@
       "weight": 1520,
       "seats": 5,
       "cargo": 455,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.6,
+      "fh": 8.2,
+      "fx": 11.7,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 200,
-      "price": "~$20,000"
+      "price": "~$20,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Vision|1997|ESi AWD": {
       "engine": "3.5L V6 SOHC",
@@ -1126,13 +1445,19 @@
       "weight": 1620,
       "seats": 5,
       "cargo": 455,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.9,
+      "fh": 8.2,
+      "fx": 11.9,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 195,
-      "price": "~$23,000"
+      "price": "~$23,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Summit|1992|ES": {
       "engine": "4G15 1.5L I4",
@@ -1147,13 +1472,19 @@
       "weight": 1020,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.9,
+      "fh": 6,
+      "fx": 8.7,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$12,000"
+      "price": "~$12,000",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Summit Wagon|1992|AWD": {
       "engine": "4G63 2.0L I4",
@@ -1168,13 +1499,19 @@
       "weight": 1365,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.9,
+      "fh": 7.1,
+      "fx": 10.3,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Summit|1993|ES": {
       "engine": "4G15 1.5L I4",
@@ -1189,13 +1526,19 @@
       "weight": 1020,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.8,
+      "fh": 5.9,
+      "fx": 8.6,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$12,000"
+      "price": "~$12,000",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Summit Wagon|1993|AWD": {
       "engine": "4G63 2.0L I4",
@@ -1210,13 +1553,19 @@
       "weight": 1365,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.6,
+      "fh": 7,
+      "fx": 10.1,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Summit|1994|ES": {
       "engine": "4G15 1.5L I4",
@@ -1231,13 +1580,19 @@
       "weight": 1020,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.6,
+      "fh": 5.9,
+      "fx": 8.5,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$12,000"
+      "price": "~$12,000",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Summit Wagon|1994|AWD": {
       "engine": "4G63 2.0L I4",
@@ -1252,13 +1607,19 @@
       "weight": 1365,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.5,
+      "fh": 6.9,
+      "fx": 10,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Summit|1995|ES": {
       "engine": "4G15 1.5L I4",
@@ -1273,13 +1634,19 @@
       "weight": 1020,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.5,
+      "fh": 5.8,
+      "fx": 8.4,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$12,000"
+      "price": "~$12,000",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Summit Wagon|1995|AWD": {
       "engine": "4G63 2.0L I4",
@@ -1294,13 +1661,19 @@
       "weight": 1365,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.4,
+      "fh": 6.8,
+      "fx": 9.9,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Summit|1996|ES": {
       "engine": "4G15 1.5L I4",
@@ -1315,13 +1688,19 @@
       "weight": 1020,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.4,
+      "fh": 5.7,
+      "fx": 8.3,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 165,
-      "price": "~$12,000"
+      "price": "~$12,000",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Eagle|Summit Wagon|1996|AWD": {
       "engine": "4G63 2.0L I4",
@@ -1336,13 +1715,19 @@
       "weight": 1365,
       "seats": 7,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.3,
+      "fh": 6.7,
+      "fx": 9.8,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$17,000"
+      "price": "~$17,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Willys|MB|1941|Military": {
       "engine": "Go Devil 2.2L I4",
@@ -1357,13 +1742,19 @@
       "weight": 1111,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18,
+      "fh": 10,
+      "fx": 14.4,
       "ft": "Petrol",
-      "acceleration": null,
+      "acceleration": 17.5,
       "topSpeed": 105,
-      "price": "~$738"
+      "price": "~$738",
+      "quarterMile": "~21.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Willys|CJ-2A|1945|Base": {
       "engine": "Go Devil 2.2L I4",
@@ -1378,13 +1769,19 @@
       "weight": 1091,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.1,
+      "fh": 9.5,
+      "fx": 13.7,
       "ft": "Petrol",
-      "acceleration": null,
+      "acceleration": 17.3,
       "topSpeed": 105,
-      "price": "~$1,090"
+      "price": "~$1,090",
+      "quarterMile": "~21.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Willys|CJ-2A|1946|Base": {
       "engine": "Go Devil 2.2L I4",
@@ -1399,13 +1796,19 @@
       "weight": 1091,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.9,
+      "fh": 9.3,
+      "fx": 13.5,
       "ft": "Petrol",
-      "acceleration": null,
+      "acceleration": 17.3,
       "topSpeed": 105,
-      "price": "~$1,090"
+      "price": "~$1,090",
+      "quarterMile": "~21.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Willys|CJ-2A|1947|Base": {
       "engine": "Go Devil 2.2L I4",
@@ -1420,13 +1823,19 @@
       "weight": 1091,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.6,
+      "fh": 9.3,
+      "fx": 13.3,
       "ft": "Petrol",
-      "acceleration": null,
+      "acceleration": 17.3,
       "topSpeed": 105,
-      "price": "~$1,090"
+      "price": "~$1,090",
+      "quarterMile": "~21.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Willys|CJ-2A|1948|Base": {
       "engine": "Go Devil 2.2L I4",
@@ -1441,13 +1850,19 @@
       "weight": 1091,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.5,
+      "fh": 9.2,
+      "fx": 13.2,
       "ft": "Petrol",
-      "acceleration": null,
+      "acceleration": 17.3,
       "topSpeed": 105,
-      "price": "~$1,090"
+      "price": "~$1,090",
+      "quarterMile": "~21.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Willys|CJ-2A|1949|Base": {
       "engine": "Go Devil 2.2L I4",
@@ -1462,13 +1877,19 @@
       "weight": 1091,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.3,
+      "fh": 9,
+      "fx": 13,
       "ft": "Petrol",
-      "acceleration": null,
+      "acceleration": 17.3,
       "topSpeed": 105,
-      "price": "~$1,090"
+      "price": "~$1,090",
+      "quarterMile": "~21.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Willys|CJ-3A|1950|Base": {
       "engine": "Go Devil 2.2L I4",
@@ -1483,13 +1904,19 @@
       "weight": 1097,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.1,
+      "fh": 9,
+      "fx": 12.9,
       "ft": "Petrol",
-      "acceleration": null,
+      "acceleration": 17.3,
       "topSpeed": 108,
-      "price": "~$1,300"
+      "price": "~$1,300",
+      "quarterMile": "~21.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Willys|CJ-3A|1951|Base": {
       "engine": "Go Devil 2.2L I4",
@@ -1504,13 +1931,19 @@
       "weight": 1097,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.9,
+      "fh": 8.8,
+      "fx": 12.7,
       "ft": "Petrol",
-      "acceleration": null,
+      "acceleration": 17.3,
       "topSpeed": 108,
-      "price": "~$1,300"
+      "price": "~$1,300",
+      "quarterMile": "~21.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Willys|CJ-3A|1952|Base": {
       "engine": "Go Devil 2.2L I4",
@@ -1525,13 +1958,19 @@
       "weight": 1097,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.8,
+      "fh": 8.7,
+      "fx": 12.6,
       "ft": "Petrol",
-      "acceleration": null,
+      "acceleration": 17.3,
       "topSpeed": 108,
-      "price": "~$1,300"
+      "price": "~$1,300",
+      "quarterMile": "~21.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Willys|CJ-3A|1953|Base": {
       "engine": "Go Devil 2.2L I4",
@@ -1546,13 +1985,19 @@
       "weight": 1097,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.5,
+      "fh": 8.6,
+      "fx": 12.4,
       "ft": "Petrol",
-      "acceleration": null,
+      "acceleration": 17.3,
       "topSpeed": 108,
-      "price": "~$1,300"
+      "price": "~$1,300",
+      "quarterMile": "~21.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Willys|CJ-3A|1954|Base": {
       "engine": "Go Devil 2.2L I4",
@@ -1567,13 +2012,19 @@
       "weight": 1097,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.4,
+      "fh": 8.5,
+      "fx": 12.3,
       "ft": "Petrol",
-      "acceleration": null,
+      "acceleration": 17.3,
       "topSpeed": 108,
-      "price": "~$1,300"
+      "price": "~$1,300",
+      "quarterMile": "~21.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Willys|CJ-3A|1955|Base": {
       "engine": "Go Devil 2.2L I4",
@@ -1588,13 +2039,19 @@
       "weight": 1097,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.1,
+      "fh": 8.4,
+      "fx": 12.1,
       "ft": "Petrol",
-      "acceleration": null,
+      "acceleration": 17.3,
       "topSpeed": 108,
-      "price": "~$1,300"
+      "price": "~$1,300",
+      "quarterMile": "~21.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Willys|Aero|1952|Lark": {
       "engine": "Hurricane 2.6L I6",
@@ -1609,13 +2066,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.3,
+      "fh": 10.6,
+      "fx": 15.4,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 148,
-      "price": "~$1,750"
+      "price": "~$1,750",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Willys|Aero|1952|Eagle": {
       "engine": "Hurricane 2.6L I6",
@@ -1630,13 +2093,19 @@
       "weight": 1275,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.6,
+      "fh": 11.5,
+      "fx": 16.5,
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 155,
-      "price": "~$2,100"
+      "price": "~$2,100",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Willys|Aero|1953|Lark": {
       "engine": "Hurricane 2.6L I6",
@@ -1651,13 +2120,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19,
+      "fh": 10.6,
+      "fx": 15.2,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 148,
-      "price": "~$1,750"
+      "price": "~$1,750",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Willys|Aero|1953|Eagle": {
       "engine": "Hurricane 2.6L I6",
@@ -1672,13 +2147,19 @@
       "weight": 1275,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.4,
+      "fh": 11.3,
+      "fx": 16.3,
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 155,
-      "price": "~$2,100"
+      "price": "~$2,100",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Willys|Aero|1954|Lark": {
       "engine": "Hurricane 2.6L I6",
@@ -1693,13 +2174,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.9,
+      "fh": 10.5,
+      "fx": 15.1,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 148,
-      "price": "~$1,750"
+      "price": "~$1,750",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Willys|Aero|1954|Eagle": {
       "engine": "Hurricane 2.6L I6",
@@ -1714,13 +2201,19 @@
       "weight": 1275,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.1,
+      "fh": 11.2,
+      "fx": 16.1,
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 155,
-      "price": "~$2,100"
+      "price": "~$2,100",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Willys|Aero|1955|Lark": {
       "engine": "Hurricane 2.6L I6",
@@ -1735,13 +2228,19 @@
       "weight": 1260,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.6,
+      "fh": 10.4,
+      "fx": 14.9,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 148,
-      "price": "~$1,750"
+      "price": "~$1,750",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Willys|Aero|1955|Eagle": {
       "engine": "Hurricane 2.6L I6",
@@ -1756,13 +2255,19 @@
       "weight": 1275,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.9,
+      "fh": 11,
+      "fx": 15.9,
       "ft": "Petrol",
       "acceleration": 13,
       "topSpeed": 155,
-      "price": "~$2,100"
+      "price": "~$2,100",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Edsel|Ranger|1958|Sedan": {
       "engine": "272 V8 4.5L",
@@ -1777,13 +2282,19 @@
       "weight": 1710,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.4,
+      "fh": 13,
+      "fx": 18.7,
       "ft": "Petrol",
       "acceleration": 12.5,
       "topSpeed": 165,
-      "price": "~$2,520"
+      "price": "~$2,520",
+      "quarterMile": "~19.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Edsel|Ranger|1958|Hardtop": {
       "engine": "272 V8 4.5L",
@@ -1798,13 +2309,19 @@
       "weight": 1710,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23.4,
+      "fh": 13,
+      "fx": 18.7,
       "ft": "Petrol",
       "acceleration": 12.5,
       "topSpeed": 165,
-      "price": "~$2,640"
+      "price": "~$2,640",
+      "quarterMile": "~19.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Edsel|Pacer|1958|Sedan": {
       "engine": "361 V8 5.9L",
@@ -1819,13 +2336,19 @@
       "weight": 1890,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.3,
+      "fh": 14.5,
+      "fx": 21,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 180,
-      "price": "~$2,690"
+      "price": "~$2,690",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Edsel|Corsair|1958|Hardtop": {
       "engine": "361 V8 5.9L",
@@ -1840,13 +2363,19 @@
       "weight": 1890,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.3,
+      "fh": 14.5,
+      "fx": 21,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 180,
-      "price": "~$3,346"
+      "price": "~$3,346",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Edsel|Citation|1958|Conv": {
       "engine": "410 V8 6.7L",
@@ -1861,13 +2390,19 @@
       "weight": 2035,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.1,
+      "fh": 16.2,
+      "fx": 23.3,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 190,
-      "price": "~$3,801"
+      "price": "~$3,801",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Edsel|Villager|1958|Wagon": {
       "engine": "361 V8 5.9L",
@@ -1882,13 +2417,19 @@
       "weight": 1890,
       "seats": 9,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.3,
+      "fh": 14.5,
+      "fx": 21,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 180,
-      "price": "~$2,900"
+      "price": "~$2,900",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Edsel|Ranger|1959|Sedan": {
       "engine": "272 V8 4.5L",
@@ -1903,13 +2444,19 @@
       "weight": 1710,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23,
+      "fh": 12.8,
+      "fx": 18.4,
       "ft": "Petrol",
       "acceleration": 12.5,
       "topSpeed": 165,
-      "price": "~$2,629"
+      "price": "~$2,629",
+      "quarterMile": "~19.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Edsel|Corsair|1959|Hardtop": {
       "engine": "361 V8 5.9L",
@@ -1924,13 +2471,19 @@
       "weight": 1890,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26,
+      "fh": 14.4,
+      "fx": 20.8,
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 180,
-      "price": "~$3,072"
+      "price": "~$3,072",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Edsel|Ranger|1960|Sedan": {
       "engine": "272 V8 4.5L",
@@ -1945,13 +2498,19 @@
       "weight": 1710,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22.8,
+      "fh": 12.6,
+      "fx": 18.2,
       "ft": "Petrol",
       "acceleration": 12.5,
       "topSpeed": 165,
-      "price": "~$2,643"
+      "price": "~$2,643",
+      "quarterMile": "~19.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Edsel|Ranger|1960|Hardtop": {
       "engine": "272 V8 4.5L",
@@ -1966,13 +2525,19 @@
       "weight": 1710,
       "seats": 6,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22.8,
+      "fh": 12.6,
+      "fx": 18.2,
       "ft": "Petrol",
       "acceleration": 12.5,
       "topSpeed": 165,
-      "price": "~$2,756"
+      "price": "~$2,756",
+      "quarterMile": "~19.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Kaiser|Special|1946|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -1983,17 +2548,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 75,
-      "torque": null,
+      "torque": 145,
       "weight": 1530,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.8,
+      "fh": 12,
+      "fx": 17.4,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 145,
-      "price": "~$1,868"
+      "price": "~$1,868",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~19.8 sec"
     },
     "Kaiser|Special|1947|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2004,17 +2576,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 75,
-      "torque": null,
+      "torque": 145,
       "weight": 1530,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.5,
+      "fh": 11.9,
+      "fx": 17.2,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 145,
-      "price": "~$1,868"
+      "price": "~$1,868",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~19.8 sec"
     },
     "Kaiser|Special|1948|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2025,17 +2604,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 75,
-      "torque": null,
+      "torque": 145,
       "weight": 1530,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.3,
+      "fh": 11.7,
+      "fx": 17,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 145,
-      "price": "~$1,868"
+      "price": "~$1,868",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~19.8 sec"
     },
     "Kaiser|Special|1949|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2046,17 +2632,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 75,
-      "torque": null,
+      "torque": 145,
       "weight": 1530,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21,
+      "fh": 11.7,
+      "fx": 16.8,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 145,
-      "price": "~$1,868"
+      "price": "~$1,868",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~19.8 sec"
     },
     "Kaiser|Special|1950|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2067,17 +2660,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 75,
-      "torque": null,
+      "torque": 145,
       "weight": 1530,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.8,
+      "fh": 11.5,
+      "fx": 16.6,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 145,
-      "price": "~$2,100"
+      "price": "~$2,100",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~19.8 sec"
     },
     "Kaiser|Special|1951|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2088,17 +2688,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 75,
-      "torque": null,
+      "torque": 145,
       "weight": 1530,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.5,
+      "fh": 11.4,
+      "fx": 16.4,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 145,
-      "price": "~$2,100"
+      "price": "~$2,100",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~19.8 sec"
     },
     "Kaiser|Manhattan|1951|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2109,17 +2716,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 90,
-      "torque": null,
+      "torque": 170,
       "weight": 1530,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.8,
+      "fh": 12,
+      "fx": 17.4,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 145,
-      "price": "~$2,450"
+      "price": "~$2,450",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~19.8 sec"
     },
     "Kaiser|Special|1952|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2130,17 +2744,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 75,
-      "torque": null,
+      "torque": 145,
       "weight": 1530,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.3,
+      "fh": 11.2,
+      "fx": 16.2,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 145,
-      "price": "~$2,100"
+      "price": "~$2,100",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~19.8 sec"
     },
     "Kaiser|Manhattan|1952|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2151,17 +2772,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 90,
-      "torque": null,
+      "torque": 170,
       "weight": 1530,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.5,
+      "fh": 11.9,
+      "fx": 17.2,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 145,
-      "price": "~$2,450"
+      "price": "~$2,450",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~19.8 sec"
     },
     "Kaiser|Special|1953|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2172,17 +2800,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 75,
-      "torque": null,
+      "torque": 145,
       "weight": 1530,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20,
+      "fh": 11.1,
+      "fx": 16,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 145,
-      "price": "~$2,100"
+      "price": "~$2,100",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~19.8 sec"
     },
     "Kaiser|Manhattan|1953|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2193,17 +2828,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 90,
-      "torque": null,
+      "torque": 170,
       "weight": 1530,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.3,
+      "fh": 11.7,
+      "fx": 17,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 145,
-      "price": "~$2,450"
+      "price": "~$2,450",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~19.8 sec"
     },
     "Kaiser|Special|1954|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2214,17 +2856,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 75,
-      "torque": null,
+      "torque": 145,
       "weight": 1530,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.8,
+      "fh": 10.9,
+      "fx": 15.8,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 145,
-      "price": "~$2,100"
+      "price": "~$2,100",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~19.8 sec"
     },
     "Kaiser|Manhattan|1954|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2235,17 +2884,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 90,
-      "torque": null,
+      "torque": 170,
       "weight": 1530,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21,
+      "fh": 11.7,
+      "fx": 16.8,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 145,
-      "price": "~$2,450"
+      "price": "~$2,450",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~19.8 sec"
     },
     "Kaiser|Special|1955|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2256,17 +2912,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 75,
-      "torque": null,
+      "torque": 145,
       "weight": 1530,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.5,
+      "fh": 10.8,
+      "fx": 15.6,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 145,
-      "price": "~$2,100"
+      "price": "~$2,100",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~19.8 sec"
     },
     "Kaiser|Manhattan|1955|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2277,17 +2940,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 90,
-      "torque": null,
+      "torque": 170,
       "weight": 1530,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.8,
+      "fh": 11.5,
+      "fx": 16.6,
       "ft": "Petrol",
       "acceleration": 14,
       "topSpeed": 145,
-      "price": "~$2,450"
+      "price": "~$2,450",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~19.8 sec"
     },
     "Kaiser|Darrin|1954|Roadster": {
       "engine": "Continental 2.6L I6",
@@ -2298,17 +2968,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 90,
-      "torque": null,
+      "torque": 170,
       "weight": 1151,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.6,
+      "fh": 10.9,
+      "fx": 15.7,
       "ft": "Petrol",
       "acceleration": 12,
       "topSpeed": 185,
-      "price": "~$3,668"
+      "price": "~$3,668",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~18.8 sec"
     },
     "Frazer|Standard|1947|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2319,17 +2996,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 75,
-      "torque": null,
+      "torque": 145,
       "weight": 1565,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.6,
+      "fh": 12,
+      "fx": 17.3,
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 140,
-      "price": "~$1,978"
+      "price": "~$1,978",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~20.1 sec"
     },
     "Frazer|Manhattan|1947|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2340,17 +3024,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 90,
-      "torque": null,
+      "torque": 170,
       "weight": 1565,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 23,
+      "fh": 12.8,
+      "fx": 18.4,
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 140,
-      "price": "~$2,483"
+      "price": "~$2,483",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~20.1 sec"
     },
     "Frazer|Standard|1948|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2361,17 +3052,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 75,
-      "torque": null,
+      "torque": 145,
       "weight": 1565,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.4,
+      "fh": 11.8,
+      "fx": 17.1,
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 140,
-      "price": "~$1,978"
+      "price": "~$1,978",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~20.1 sec"
     },
     "Frazer|Manhattan|1948|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2382,17 +3080,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 90,
-      "torque": null,
+      "torque": 170,
       "weight": 1565,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22.6,
+      "fh": 12.6,
+      "fx": 18.1,
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 140,
-      "price": "~$2,483"
+      "price": "~$2,483",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~20.1 sec"
     },
     "Frazer|Standard|1949|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2403,17 +3108,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 75,
-      "torque": null,
+      "torque": 145,
       "weight": 1565,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.1,
+      "fh": 11.8,
+      "fx": 16.9,
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 140,
-      "price": "~$1,978"
+      "price": "~$1,978",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~20.1 sec"
     },
     "Frazer|Manhattan|1949|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2424,17 +3136,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 90,
-      "torque": null,
+      "torque": 170,
       "weight": 1565,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22.4,
+      "fh": 12.4,
+      "fx": 17.9,
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 140,
-      "price": "~$2,483"
+      "price": "~$2,483",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~20.1 sec"
     },
     "Frazer|Standard|1950|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2445,17 +3164,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 75,
-      "torque": null,
+      "torque": 145,
       "weight": 1565,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.8,
+      "fh": 11.5,
+      "fx": 16.6,
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 140,
-      "price": "~$1,978"
+      "price": "~$1,978",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~20.1 sec"
     },
     "Frazer|Manhattan|1950|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2466,17 +3192,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 90,
-      "torque": null,
+      "torque": 170,
       "weight": 1565,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22.1,
+      "fh": 12.3,
+      "fx": 17.7,
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 140,
-      "price": "~$2,483"
+      "price": "~$2,483",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~20.1 sec"
     },
     "Frazer|Standard|1951|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2487,17 +3220,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 75,
-      "torque": null,
+      "torque": 145,
       "weight": 1565,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.5,
+      "fh": 11.4,
+      "fx": 16.4,
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 140,
-      "price": "~$1,978"
+      "price": "~$1,978",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~20.1 sec"
     },
     "Frazer|Manhattan|1951|Sedan": {
       "engine": "Continental 2.6L I6",
@@ -2508,17 +3248,24 @@
       "transmission": "3-speed manual",
       "drivetrain": "RWD",
       "power": 90,
-      "torque": null,
+      "torque": 170,
       "weight": 1565,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.9,
+      "fh": 12.1,
+      "fx": 17.5,
       "ft": "Petrol",
       "acceleration": 14.5,
       "topSpeed": 140,
-      "price": "~$2,483"
+      "price": "~$2,483",
+      "est": [
+        "torque",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~20.1 sec"
     },
     "Yugo|GV|1984|Base": {
       "engine": "1.1L I4 OHV",
@@ -2539,7 +3286,8 @@
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 140,
-      "price": "~$3,990"
+      "price": "~$3,990",
+      "quarterMile": "~21.2 sec"
     },
     "Yugo|GVX|1984|Hatch": {
       "engine": "1.3L I4",
@@ -2560,7 +3308,8 @@
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 140,
-      "price": "~$4,490"
+      "price": "~$4,490",
+      "quarterMile": "~21.2 sec"
     },
     "Yugo|GV|1985|Base": {
       "engine": "1.1L I4 OHV",
@@ -2581,7 +3330,8 @@
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 140,
-      "price": "~$3,990"
+      "price": "~$3,990",
+      "quarterMile": "~21.2 sec"
     },
     "Yugo|GVX|1985|Hatch": {
       "engine": "1.3L I4",
@@ -2602,7 +3352,8 @@
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 140,
-      "price": "~$4,490"
+      "price": "~$4,490",
+      "quarterMile": "~21.2 sec"
     },
     "Yugo|GV|1986|Base": {
       "engine": "1.1L I4 OHV",
@@ -2623,7 +3374,8 @@
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 140,
-      "price": "~$3,990"
+      "price": "~$3,990",
+      "quarterMile": "~21.2 sec"
     },
     "Yugo|GVX|1986|Hatch": {
       "engine": "1.3L I4",
@@ -2644,7 +3396,8 @@
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 140,
-      "price": "~$4,490"
+      "price": "~$4,490",
+      "quarterMile": "~21.2 sec"
     },
     "Yugo|GV|1987|Base": {
       "engine": "1.1L I4 OHV",
@@ -2665,7 +3418,8 @@
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 140,
-      "price": "~$3,990"
+      "price": "~$3,990",
+      "quarterMile": "~21.2 sec"
     },
     "Yugo|GVX|1987|Hatch": {
       "engine": "1.3L I4",
@@ -2686,7 +3440,8 @@
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 140,
-      "price": "~$4,490"
+      "price": "~$4,490",
+      "quarterMile": "~21.2 sec"
     },
     "Yugo|GV|1988|Base": {
       "engine": "1.1L I4 OHV",
@@ -2707,7 +3462,8 @@
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 140,
-      "price": "~$3,990"
+      "price": "~$3,990",
+      "quarterMile": "~21.2 sec"
     },
     "Yugo|GVX|1988|Hatch": {
       "engine": "1.3L I4",
@@ -2728,7 +3484,8 @@
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 140,
-      "price": "~$4,490"
+      "price": "~$4,490",
+      "quarterMile": "~21.2 sec"
     },
     "Yugo|GV|1989|Base": {
       "engine": "1.1L I4 OHV",
@@ -2749,7 +3506,8 @@
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 140,
-      "price": "~$3,990"
+      "price": "~$3,990",
+      "quarterMile": "~21.2 sec"
     },
     "Yugo|GVX|1989|Hatch": {
       "engine": "1.3L I4",
@@ -2770,7 +3528,8 @@
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 140,
-      "price": "~$4,490"
+      "price": "~$4,490",
+      "quarterMile": "~21.2 sec"
     },
     "Yugo|GV|1990|Base": {
       "engine": "1.1L I4 OHV",
@@ -2791,7 +3550,8 @@
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 140,
-      "price": "~$3,990"
+      "price": "~$3,990",
+      "quarterMile": "~21.2 sec"
     },
     "Yugo|GVX|1990|Hatch": {
       "engine": "1.3L I4",
@@ -2812,7 +3572,8 @@
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 140,
-      "price": "~$4,490"
+      "price": "~$4,490",
+      "quarterMile": "~21.2 sec"
     },
     "Yugo|GV|1991|Base": {
       "engine": "1.1L I4 OHV",
@@ -2833,7 +3594,8 @@
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 140,
-      "price": "~$3,990"
+      "price": "~$3,990",
+      "quarterMile": "~21.2 sec"
     },
     "Yugo|GVX|1991|Hatch": {
       "engine": "1.3L I4",
@@ -2854,7 +3616,8 @@
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 140,
-      "price": "~$4,490"
+      "price": "~$4,490",
+      "quarterMile": "~21.2 sec"
     },
     "Yugo|GV|1992|Base": {
       "engine": "1.1L I4 OHV",
@@ -2875,7 +3638,8 @@
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 140,
-      "price": "~$3,990"
+      "price": "~$3,990",
+      "quarterMile": "~21.2 sec"
     },
     "Yugo|GVX|1992|Hatch": {
       "engine": "1.3L I4",
@@ -2896,7 +3660,8 @@
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 140,
-      "price": "~$4,490"
+      "price": "~$4,490",
+      "quarterMile": "~21.2 sec"
     },
     "Trabant|601|1964|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -2917,7 +3682,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~7,600 MDN"
+      "price": "~7,600 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1964|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -2938,7 +3704,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~8,200 MDN"
+      "price": "~8,200 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1965|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -2959,7 +3726,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~7,600 MDN"
+      "price": "~7,600 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1965|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -2980,7 +3748,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~8,200 MDN"
+      "price": "~8,200 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1966|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3001,7 +3770,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~7,600 MDN"
+      "price": "~7,600 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1966|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3022,7 +3792,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~8,200 MDN"
+      "price": "~8,200 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1967|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3043,7 +3814,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~7,600 MDN"
+      "price": "~7,600 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1967|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3064,7 +3836,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~8,200 MDN"
+      "price": "~8,200 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1968|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3085,7 +3858,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~7,600 MDN"
+      "price": "~7,600 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1968|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3106,7 +3880,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~8,200 MDN"
+      "price": "~8,200 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1969|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3127,7 +3902,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~7,600 MDN"
+      "price": "~7,600 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1969|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3148,7 +3924,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~8,200 MDN"
+      "price": "~8,200 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1970|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3169,7 +3946,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~7,600 MDN"
+      "price": "~7,600 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1970|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3190,7 +3968,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~8,200 MDN"
+      "price": "~8,200 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1971|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3211,7 +3990,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~7,600 MDN"
+      "price": "~7,600 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1971|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3232,7 +4012,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~8,200 MDN"
+      "price": "~8,200 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1972|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3253,7 +4034,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~7,600 MDN"
+      "price": "~7,600 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1972|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3274,7 +4056,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~8,200 MDN"
+      "price": "~8,200 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1973|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3295,7 +4078,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~7,600 MDN"
+      "price": "~7,600 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1973|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3316,7 +4100,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~8,200 MDN"
+      "price": "~8,200 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1974|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3337,7 +4122,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~7,600 MDN"
+      "price": "~7,600 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1974|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3358,7 +4144,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~8,200 MDN"
+      "price": "~8,200 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1975|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3379,7 +4166,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~7,600 MDN"
+      "price": "~7,600 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1975|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3400,7 +4188,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~8,200 MDN"
+      "price": "~8,200 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1976|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3421,7 +4210,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,000 MDN"
+      "price": "~9,000 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1976|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3442,7 +4232,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,500 MDN"
+      "price": "~9,500 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1977|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3463,7 +4254,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,000 MDN"
+      "price": "~9,000 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1977|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3484,7 +4276,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,500 MDN"
+      "price": "~9,500 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1978|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3505,7 +4298,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,000 MDN"
+      "price": "~9,000 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1978|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3526,7 +4320,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,500 MDN"
+      "price": "~9,500 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1979|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3547,7 +4342,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,000 MDN"
+      "price": "~9,000 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1979|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3568,7 +4364,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,500 MDN"
+      "price": "~9,500 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1980|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3589,7 +4386,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,000 MDN"
+      "price": "~9,000 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1980|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3610,7 +4408,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,500 MDN"
+      "price": "~9,500 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1981|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3631,7 +4430,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,000 MDN"
+      "price": "~9,000 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1981|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3652,7 +4452,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,500 MDN"
+      "price": "~9,500 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1982|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3673,7 +4474,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,000 MDN"
+      "price": "~9,000 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1982|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3694,7 +4496,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,500 MDN"
+      "price": "~9,500 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1983|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3715,7 +4518,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,000 MDN"
+      "price": "~9,000 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1983|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3736,7 +4540,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,500 MDN"
+      "price": "~9,500 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1984|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3757,7 +4562,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,000 MDN"
+      "price": "~9,000 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1984|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3778,7 +4584,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,500 MDN"
+      "price": "~9,500 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1985|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3799,7 +4606,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,000 MDN"
+      "price": "~9,000 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1985|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3820,7 +4628,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,500 MDN"
+      "price": "~9,500 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1986|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3841,7 +4650,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,000 MDN"
+      "price": "~9,000 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1986|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3862,7 +4672,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,500 MDN"
+      "price": "~9,500 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1987|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3883,7 +4694,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,000 MDN"
+      "price": "~9,000 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1987|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3904,7 +4716,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,500 MDN"
+      "price": "~9,500 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1988|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3925,7 +4738,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,000 MDN"
+      "price": "~9,000 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1988|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3946,7 +4760,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,500 MDN"
+      "price": "~9,500 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1989|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -3967,7 +4782,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,000 MDN"
+      "price": "~9,000 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1989|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -3988,7 +4804,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,500 MDN"
+      "price": "~9,500 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1990|Limousine": {
       "engine": "2-stroke 0.6L I2",
@@ -4009,7 +4826,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,000 MDN"
+      "price": "~9,000 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|601|1990|Universal": {
       "engine": "2-stroke 0.6L I2",
@@ -4030,7 +4848,8 @@
       "ft": "Petrol",
       "acceleration": 21,
       "topSpeed": 112,
-      "price": "~9,500 MDN"
+      "price": "~9,500 MDN",
+      "quarterMile": "~22.9 sec"
     },
     "Trabant|1.1|1990|Limousine": {
       "engine": "VW 1.1L I4 4-stroke",
@@ -4051,7 +4870,8 @@
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 140,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.2 sec"
     },
     "Trabant|1.1|1991|Limousine": {
       "engine": "VW 1.1L I4 4-stroke",
@@ -4072,7 +4892,8 @@
       "ft": "Petrol",
       "acceleration": 17,
       "topSpeed": 140,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.2 sec"
     },
     "Wartburg|353|1966|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4093,7 +4914,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1966|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4114,7 +4936,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1967|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4135,7 +4958,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1967|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4156,7 +4980,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1968|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4177,7 +5002,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1968|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4198,7 +5024,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1969|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4219,7 +5046,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1969|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4240,7 +5068,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1970|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4261,7 +5090,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1970|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4282,7 +5112,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1971|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4303,7 +5134,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1971|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4324,7 +5156,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1972|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4345,7 +5178,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1972|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4366,7 +5200,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1973|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4387,7 +5222,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1973|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4408,7 +5244,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1974|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4429,7 +5266,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1974|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4450,7 +5288,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1975|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4471,7 +5310,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1975|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4492,7 +5332,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1976|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4513,7 +5354,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1976|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4534,7 +5376,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1977|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4555,7 +5398,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1977|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4576,7 +5420,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1978|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4597,7 +5442,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1978|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4618,7 +5464,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1979|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4639,7 +5486,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1979|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4660,7 +5508,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1980|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4681,7 +5530,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1980|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4702,7 +5552,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1981|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4723,7 +5574,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1981|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4744,7 +5596,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1982|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4765,7 +5618,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1982|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4786,7 +5640,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1983|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4807,7 +5662,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1983|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4828,7 +5684,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1984|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4849,7 +5706,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1984|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4870,7 +5728,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1985|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4891,7 +5750,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1985|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4912,7 +5772,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1986|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4933,7 +5794,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1986|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4954,7 +5816,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1987|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -4975,7 +5838,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1987|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -4996,7 +5860,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1988|Tourist": {
       "engine": "2-stroke 0.99L I3",
@@ -5017,7 +5882,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$8,500 MDN"
+      "price": "~$8,500 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|353|1988|Kombi": {
       "engine": "2-stroke 0.99L I3",
@@ -5038,7 +5904,8 @@
       "ft": "Petrol",
       "acceleration": 18,
       "topSpeed": 125,
-      "price": "~$9,200 MDN"
+      "price": "~$9,200 MDN",
+      "quarterMile": "~21.6 sec"
     },
     "Wartburg|Knight|1988|Limousine": {
       "engine": "VW 1.3L I4 4-stroke",
@@ -5059,7 +5926,8 @@
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 140,
-      "price": "~$10,500 MDN"
+      "price": "~$10,500 MDN",
+      "quarterMile": "~20.3 sec"
     },
     "Wartburg|Knight|1988|Estate": {
       "engine": "VW 1.3L I4 4-stroke",
@@ -5080,7 +5948,8 @@
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 140,
-      "price": "~$11,200 MDN"
+      "price": "~$11,200 MDN",
+      "quarterMile": "~20.3 sec"
     },
     "Wartburg|Knight|1989|Limousine": {
       "engine": "VW 1.3L I4 4-stroke",
@@ -5101,7 +5970,8 @@
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 140,
-      "price": "~$10,500 MDN"
+      "price": "~$10,500 MDN",
+      "quarterMile": "~20.3 sec"
     },
     "Wartburg|Knight|1989|Estate": {
       "engine": "VW 1.3L I4 4-stroke",
@@ -5122,7 +5992,8 @@
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 140,
-      "price": "~$11,200 MDN"
+      "price": "~$11,200 MDN",
+      "quarterMile": "~20.3 sec"
     },
     "Wartburg|Knight|1990|Limousine": {
       "engine": "VW 1.3L I4 4-stroke",
@@ -5143,7 +6014,8 @@
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 140,
-      "price": "~$10,500 MDN"
+      "price": "~$10,500 MDN",
+      "quarterMile": "~20.3 sec"
     },
     "Wartburg|Knight|1990|Estate": {
       "engine": "VW 1.3L I4 4-stroke",
@@ -5164,7 +6036,8 @@
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 140,
-      "price": "~$11,200 MDN"
+      "price": "~$11,200 MDN",
+      "quarterMile": "~20.3 sec"
     },
     "Wartburg|Knight|1991|Limousine": {
       "engine": "VW 1.3L I4 4-stroke",
@@ -5185,7 +6058,8 @@
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 140,
-      "price": "~$10,500 MDN"
+      "price": "~$10,500 MDN",
+      "quarterMile": "~20.3 sec"
     },
     "Wartburg|Knight|1991|Estate": {
       "engine": "VW 1.3L I4 4-stroke",
@@ -5206,7 +6080,8 @@
       "ft": "Petrol",
       "acceleration": 15,
       "topSpeed": 140,
-      "price": "~$11,200 MDN"
+      "price": "~$11,200 MDN",
+      "quarterMile": "~20.3 sec"
     }
   }
 }

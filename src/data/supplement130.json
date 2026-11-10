@@ -17,7 +17,8 @@
       "acceleration": 8.8,
       "topSpeed": 170,
       "price": "~$72,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.8 sec"
     },
     "Peugeot|e-3008|2024|GT Long Range": {
       "engine": "170kW Single Electric Motor",
@@ -36,7 +37,8 @@
       "acceleration": 9,
       "topSpeed": 170,
       "price": "~$82,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.9 sec"
     },
     "Peugeot|e-3008|2024|GT Long Range 4x4": {
       "engine": "Dual Electric Motor 4x4",
@@ -55,7 +57,8 @@
       "acceleration": 6.1,
       "topSpeed": 190,
       "price": "~$92,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.4 sec"
     },
     "Peugeot|e-3008|2025|GT": {
       "engine": "157kW Single Electric Motor",
@@ -74,7 +77,8 @@
       "acceleration": 8.8,
       "topSpeed": 170,
       "price": "~$75,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.8 sec"
     },
     "Peugeot|e-3008|2025|GT Long Range": {
       "engine": "170kW Single Electric Motor",
@@ -93,7 +97,8 @@
       "acceleration": 9,
       "topSpeed": 170,
       "price": "~$85,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.9 sec"
     },
     "Peugeot|e-3008|2025|GT Long Range 4x4": {
       "engine": "Dual Electric Motor 4x4",
@@ -112,7 +117,8 @@
       "acceleration": 6.1,
       "topSpeed": 190,
       "price": "~$95,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.4 sec"
     },
     "Peugeot|e-3008|2026|GT": {
       "engine": "157kW Single Electric Motor",
@@ -131,7 +137,8 @@
       "acceleration": 8.8,
       "topSpeed": 170,
       "price": "~$78,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.8 sec"
     },
     "Peugeot|e-3008|2026|GT Long Range": {
       "engine": "170kW Single Electric Motor",
@@ -150,7 +157,8 @@
       "acceleration": 9,
       "topSpeed": 170,
       "price": "~$88,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.9 sec"
     },
     "Peugeot|e-3008|2026|GT Long Range 4x4": {
       "engine": "Dual Electric Motor 4x4",
@@ -169,7 +177,8 @@
       "acceleration": 6.1,
       "topSpeed": 190,
       "price": "~$98,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.4 sec"
     },
     "GWM|Cannon|2022|Adventure": {
       "engine": "2.0L 4-cyl Diesel Turbo",
@@ -182,13 +191,18 @@
       "torque": 400,
       "weight": 2150,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11,
+      "fh": 6.3,
       "fx": 8.9,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$49,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Cannon|2022|Premium": {
       "engine": "2.0L 4-cyl Diesel Turbo",
@@ -201,13 +215,18 @@
       "torque": 400,
       "weight": 2180,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11,
+      "fh": 6.3,
       "fx": 8.9,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$59,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Cannon|2023|Adventure": {
       "engine": "2.0L 4-cyl Diesel Turbo",
@@ -220,13 +239,18 @@
       "torque": 400,
       "weight": 2150,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11,
+      "fh": 6.3,
       "fx": 8.9,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$51,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Cannon|2023|Premium": {
       "engine": "2.0L 4-cyl Diesel Turbo",
@@ -239,13 +263,18 @@
       "torque": 400,
       "weight": 2180,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11,
+      "fh": 6.3,
       "fx": 8.9,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$61,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Cannon|2024|Adventure": {
       "engine": "2.0L 4-cyl Diesel Turbo",
@@ -258,13 +287,18 @@
       "torque": 400,
       "weight": 2150,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11,
+      "fh": 6.3,
       "fx": 8.9,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$53,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Cannon|2024|Premium": {
       "engine": "2.0L 4-cyl Diesel Turbo",
@@ -277,13 +311,18 @@
       "torque": 400,
       "weight": 2180,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11,
+      "fh": 6.3,
       "fx": 8.9,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$63,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Cannon|2025|Adventure": {
       "engine": "2.0L 4-cyl Diesel Turbo",
@@ -296,13 +335,18 @@
       "torque": 400,
       "weight": 2150,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11,
+      "fh": 6.3,
       "fx": 8.9,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$55,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Cannon|2025|Premium": {
       "engine": "2.0L 4-cyl Diesel Turbo",
@@ -315,13 +359,18 @@
       "torque": 400,
       "weight": 2180,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11,
+      "fh": 6.3,
       "fx": 8.9,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$65,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Cannon|2026|Adventure": {
       "engine": "2.0L 4-cyl Diesel Turbo",
@@ -334,13 +383,18 @@
       "torque": 400,
       "weight": 2150,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11,
+      "fh": 6.3,
       "fx": 8.9,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$57,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Cannon|2026|Premium": {
       "engine": "2.0L 4-cyl Diesel Turbo",
@@ -353,13 +407,18 @@
       "torque": 400,
       "weight": 2180,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11,
+      "fh": 6.3,
       "fx": 8.9,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$67,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Leapmotor|C10|2025|Prestige": {
       "engine": "Single Electric Motor",
@@ -378,7 +437,8 @@
       "acceleration": 7.3,
       "topSpeed": 172,
       "price": "~$44,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "Leapmotor|C10|2025|Prestige Plus": {
       "engine": "Single Electric Motor",
@@ -397,7 +457,8 @@
       "acceleration": 6.9,
       "topSpeed": 172,
       "price": "~$52,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.1 sec"
     },
     "Leapmotor|C10|2026|Prestige": {
       "engine": "Single Electric Motor",
@@ -416,7 +477,8 @@
       "acceleration": 7.3,
       "topSpeed": 172,
       "price": "~$46,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "Leapmotor|C10|2026|Prestige Plus": {
       "engine": "Single Electric Motor",
@@ -435,7 +497,8 @@
       "acceleration": 6.9,
       "topSpeed": 172,
       "price": "~$54,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.1 sec"
     },
     "Ford|Capri|2025|Standard": {
       "engine": "Single Electric Motor",
@@ -454,7 +517,8 @@
       "acceleration": 6.4,
       "topSpeed": 180,
       "price": "~$59,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.7 sec"
     },
     "Ford|Capri|2025|AWD": {
       "engine": "Dual Electric Motor AWD",
@@ -473,7 +537,8 @@
       "acceleration": 5.3,
       "topSpeed": 180,
       "price": "~$69,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.6 sec"
     },
     "Ford|Capri|2026|Standard": {
       "engine": "Single Electric Motor",
@@ -492,7 +557,8 @@
       "acceleration": 6.4,
       "topSpeed": 180,
       "price": "~$61,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.7 sec"
     },
     "Ford|Capri|2026|AWD": {
       "engine": "Dual Electric Motor AWD",
@@ -511,7 +577,8 @@
       "acceleration": 5.3,
       "topSpeed": 180,
       "price": "~$71,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.6 sec"
     },
     "Cadillac|Lyriq|2024|RWD": {
       "engine": "Single Electric Motor",
@@ -530,7 +597,8 @@
       "acceleration": 6,
       "topSpeed": 210,
       "price": "~$115,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec"
     },
     "Cadillac|Lyriq|2024|Sport AWD": {
       "engine": "Dual Electric Motor AWD",
@@ -549,7 +617,8 @@
       "acceleration": 4.6,
       "topSpeed": 210,
       "price": "~$135,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.9 sec"
     },
     "Cadillac|Lyriq|2025|RWD": {
       "engine": "Single Electric Motor",
@@ -568,7 +637,8 @@
       "acceleration": 6,
       "topSpeed": 210,
       "price": "~$119,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec"
     },
     "Cadillac|Lyriq|2025|Sport AWD": {
       "engine": "Dual Electric Motor AWD",
@@ -587,7 +657,8 @@
       "acceleration": 4.6,
       "topSpeed": 210,
       "price": "~$139,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.9 sec"
     },
     "Cadillac|Lyriq|2026|RWD": {
       "engine": "Single Electric Motor",
@@ -606,7 +677,8 @@
       "acceleration": 6,
       "topSpeed": 210,
       "price": "~$123,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec"
     },
     "Cadillac|Lyriq|2026|Sport AWD": {
       "engine": "Dual Electric Motor AWD",
@@ -625,7 +697,8 @@
       "acceleration": 4.6,
       "topSpeed": 210,
       "price": "~$143,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.9 sec"
     },
     "Omoda|E5|2024|BX": {
       "engine": "Single Electric Motor",
@@ -644,7 +717,8 @@
       "acceleration": 7.5,
       "topSpeed": 172,
       "price": "~$44,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     },
     "Omoda|E5|2024|EX": {
       "engine": "Single Electric Motor",
@@ -663,7 +737,8 @@
       "acceleration": 7.5,
       "topSpeed": 172,
       "price": "~$50,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     },
     "Omoda|E5|2025|BX": {
       "engine": "Single Electric Motor",
@@ -682,7 +757,8 @@
       "acceleration": 7.5,
       "topSpeed": 172,
       "price": "~$46,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     },
     "Omoda|E5|2025|EX": {
       "engine": "Single Electric Motor",
@@ -701,7 +777,8 @@
       "acceleration": 7.5,
       "topSpeed": 172,
       "price": "~$52,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     },
     "Omoda|E5|2026|BX": {
       "engine": "Single Electric Motor",
@@ -720,7 +797,8 @@
       "acceleration": 7.5,
       "topSpeed": 172,
       "price": "~$48,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     },
     "Omoda|E5|2026|EX": {
       "engine": "Single Electric Motor",
@@ -739,7 +817,8 @@
       "acceleration": 7.5,
       "topSpeed": 172,
       "price": "~$54,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec"
     }
   }
 }

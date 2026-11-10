@@ -2,8 +2,8 @@
   "specs": {
     "Hyundai|Tucson|2026|Tucson": {
       "cargo": 539,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11,
+      "topSpeed": 175,
       "seats": 5,
       "engine": "2.0L I4 Petrol",
       "displacement": 1999,
@@ -20,12 +20,16 @@
       "weight": 1456,
       "towing": 1650,
       "fuelTank": 54,
-      "price": "$39,350"
+      "price": "$39,350",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Tucson|2026|Elite": {
       "cargo": 539,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11,
+      "topSpeed": 175,
       "seats": 5,
       "engine": "2.0L I4 Petrol",
       "displacement": 1999,
@@ -42,12 +46,16 @@
       "weight": 1456,
       "towing": 1650,
       "fuelTank": 54,
-      "price": "$44,350"
+      "price": "$44,350",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Tucson|2026|Hybrid": {
       "cargo": 582,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.1,
+      "topSpeed": 195,
       "seats": 5,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -64,12 +72,16 @@
       "fh": 4.9,
       "fx": 4.9,
       "weight": 1626,
-      "price": "$42,850"
+      "price": "$42,850",
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Tucson|2026|Elite Hybrid": {
       "cargo": 582,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.1,
+      "topSpeed": 195,
       "seats": 5,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -86,12 +98,16 @@
       "fh": 4.9,
       "fx": 4.9,
       "weight": 1626,
-      "price": "$48,350"
+      "price": "$48,350",
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Tucson|2026|Elite Hybrid N Line": {
       "cargo": 582,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.1,
+      "topSpeed": 195,
       "seats": 5,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -108,12 +124,16 @@
       "fh": 4.9,
       "fx": 4.9,
       "weight": 1626,
-      "price": "$50,850"
+      "price": "$50,850",
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Tucson|2026|Premium Hybrid AWD": {
       "cargo": 582,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.1,
+      "topSpeed": 190,
       "seats": 5,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -130,12 +150,16 @@
       "fh": 6.5,
       "fx": 5.3,
       "weight": 1686,
-      "price": "$58,350"
+      "price": "$58,350",
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Tucson|2026|Premium Hybrid N Line AWD": {
       "cargo": 582,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.1,
+      "topSpeed": 190,
       "seats": 5,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -152,7 +176,11 @@
       "fh": 6.5,
       "fx": 5.3,
       "weight": 1686,
-      "price": "$59,850"
+      "price": "$59,850",
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

@@ -56,7 +56,12 @@
       "acceleration": 7.5,
       "topSpeed": 225,
       "price": "~$66,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "cargo": 645,
+      "est": [
+        "cargo"
+      ]
     },
     "Skoda|Superb|2025|iV": {
       "engine": "1.5L I4 TSI Turbo + Electric",
@@ -136,7 +141,12 @@
       "acceleration": 9,
       "topSpeed": 215,
       "price": "~$91,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.9 sec",
+      "cargo": 469,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|Multivan|2024|eHybrid": {
       "engine": "1.4L I4 TSI Turbo + Electric",
@@ -156,7 +166,12 @@
       "acceleration": 9,
       "topSpeed": 215,
       "price": "~$93,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.9 sec",
+      "cargo": 469,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|Multivan|2025|eHybrid": {
       "engine": "1.4L I4 TSI Turbo + Electric",
@@ -176,7 +191,12 @@
       "acceleration": 9,
       "topSpeed": 215,
       "price": "~$95,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.9 sec",
+      "cargo": 469,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|Multivan|2026|eHybrid": {
       "engine": "1.4L I4 TSI Turbo + Electric",
@@ -196,7 +216,12 @@
       "acceleration": 9,
       "topSpeed": 215,
       "price": "~$97,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.9 sec",
+      "cargo": 469,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

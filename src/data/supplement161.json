@@ -52,7 +52,12 @@
       "acceleration": 4.8,
       "topSpeed": 200,
       "price": "~$109,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.1 sec",
+      "cargo": 656,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|I-Pace|2020|EV400 HSE": {
       "engine": "Dual Motor Electric",
@@ -70,7 +75,12 @@
       "acceleration": 4.8,
       "topSpeed": 200,
       "price": "~$129,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.1 sec",
+      "cargo": 656,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|I-Pace|2021|EV400 S": {
       "engine": "Dual Motor Electric",
@@ -88,7 +98,12 @@
       "acceleration": 4.8,
       "topSpeed": 200,
       "price": "~$112,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.1 sec",
+      "cargo": 656,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|I-Pace|2021|EV400 HSE": {
       "engine": "Dual Motor Electric",
@@ -106,7 +121,12 @@
       "acceleration": 4.8,
       "topSpeed": 200,
       "price": "~$132,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.1 sec",
+      "cargo": 656,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|I-Pace|2022|EV400 S": {
       "engine": "Dual Motor Electric",
@@ -124,7 +144,12 @@
       "acceleration": 4.8,
       "topSpeed": 200,
       "price": "~$118,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.1 sec",
+      "cargo": 656,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|I-Pace|2022|EV400 HSE": {
       "engine": "Dual Motor Electric",
@@ -142,7 +167,12 @@
       "acceleration": 4.8,
       "topSpeed": 200,
       "price": "~$138,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.1 sec",
+      "cargo": 656,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|I-Pace|2023|EV400 S": {
       "engine": "Dual Motor Electric",
@@ -160,7 +190,12 @@
       "acceleration": 4.8,
       "topSpeed": 200,
       "price": "~$123,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.1 sec",
+      "cargo": 656,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|I-Pace|2023|EV400 HSE": {
       "engine": "Dual Motor Electric",
@@ -178,7 +213,12 @@
       "acceleration": 4.8,
       "topSpeed": 200,
       "price": "~$143,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.1 sec",
+      "cargo": 656,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Sport|2022|Dynamic SE": {
       "engine": "3.0L I6 MHEV",
@@ -235,7 +275,12 @@
       "acceleration": 5.8,
       "topSpeed": 242,
       "price": "~$172,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~14.1 sec",
+      "cargo": 780,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Sport|2023|Dynamic HSE": {
       "engine": "3.0L I6 MHEV",
@@ -254,7 +299,12 @@
       "acceleration": 5.8,
       "topSpeed": 242,
       "price": "~$185,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~14.1 sec",
+      "cargo": 780,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Sport|2024|Dynamic SE": {
       "engine": "3.0L I6 MHEV",
@@ -273,7 +323,12 @@
       "acceleration": 5.8,
       "topSpeed": 242,
       "price": "~$179,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~14.1 sec",
+      "cargo": 780,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Sport|2024|Dynamic HSE": {
       "engine": "3.0L I6 MHEV",
@@ -292,7 +347,12 @@
       "acceleration": 5.8,
       "topSpeed": 242,
       "price": "~$192,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~14.1 sec",
+      "cargo": 780,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Sport|2025|Dynamic SE": {
       "engine": "3.0L I6 MHEV",
@@ -311,7 +371,12 @@
       "acceleration": 5.8,
       "topSpeed": 242,
       "price": "~$186,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~14.1 sec",
+      "cargo": 780,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Sport|2025|Dynamic HSE": {
       "engine": "3.0L I6 MHEV",
@@ -330,7 +395,12 @@
       "acceleration": 5.8,
       "topSpeed": 242,
       "price": "~$199,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~14.1 sec",
+      "cargo": 780,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

@@ -17,7 +17,12 @@
       "acceleration": 3.5,
       "topSpeed": 315,
       "price": "~$119,990",
-      "aspiration": "Eaton TVS2650 Supercharged"
+      "aspiration": "Eaton TVS2650 Supercharged",
+      "quarterMile": "~11.7 sec",
+      "cargo": 172,
+      "est": [
+        "cargo"
+      ]
     },
     "Chevrolet|Suburban|2015|Premier": {
       "engine": "6.2L V8 NA L86 EcoTec3",
@@ -36,7 +41,8 @@
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$89,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec"
     },
     "Chevrolet|Tahoe|2015|Premier": {
       "engine": "6.2L V8 NA L86 EcoTec3",
@@ -55,7 +61,8 @@
       "acceleration": 7,
       "topSpeed": 185,
       "price": "~$79,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.2 sec"
     },
     "Chevrolet|Trax|2015|Premier": {
       "engine": "1.4L I4 Turbo LUV Ecotec",
@@ -74,7 +81,8 @@
       "acceleration": 10.9,
       "topSpeed": 175,
       "price": "~$32,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~18.1 sec"
     },
     "Fiat|500X|2015|Cross": {
       "engine": "1.4L I4 Turbo MultiAir Fire",
@@ -93,7 +101,12 @@
       "acceleration": 9.5,
       "topSpeed": 187,
       "price": "~$35,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 350,
+      "est": [
+        "cargo"
+      ]
     },
     "Fiat|500X|2015|Lounge": {
       "engine": "1.4L I4 Turbo MultiAir Fire",
@@ -112,7 +125,12 @@
       "acceleration": 9.7,
       "topSpeed": 185,
       "price": "~$31,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.4 sec",
+      "cargo": 350,
+      "est": [
+        "cargo"
+      ]
     },
     "Fiat|500X|2015|Pop": {
       "engine": "1.6L I4 NA E-Torq",
@@ -131,7 +149,12 @@
       "acceleration": 12,
       "topSpeed": 173,
       "price": "~$24,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.8 sec",
+      "cargo": 350,
+      "est": [
+        "cargo"
+      ]
     },
     "Fiat|500X|2015|Sport": {
       "engine": "2.4L I4 NA Tigershark MultiAir2",
@@ -150,7 +173,12 @@
       "acceleration": 8.8,
       "topSpeed": 190,
       "price": "~$40,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.8 sec",
+      "cargo": 350,
+      "est": [
+        "cargo"
+      ]
     },
     "Fiat|Tipo|2015|Cross": {
       "engine": "1.6L I4 NA E6",
@@ -169,7 +197,12 @@
       "acceleration": 11.5,
       "topSpeed": 195,
       "price": "~$23,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.5 sec",
+      "cargo": 440,
+      "est": [
+        "cargo"
+      ]
     },
     "Fiat|Tipo|2015|Easy": {
       "engine": "1.6L I4 NA E6",
@@ -188,7 +221,12 @@
       "acceleration": 11,
       "topSpeed": 195,
       "price": "~$18,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec",
+      "cargo": 440,
+      "est": [
+        "cargo"
+      ]
     },
     "Fiat|Tipo|2015|Lounge": {
       "engine": "1.6L I4 NA E6",
@@ -207,7 +245,12 @@
       "acceleration": 11.5,
       "topSpeed": 195,
       "price": "~$22,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.5 sec",
+      "cargo": 440,
+      "est": [
+        "cargo"
+      ]
     },
     "Fiat|Tipo|2015|Sport": {
       "engine": "1.4L I4 Turbo T-Jet Mair",
@@ -226,7 +269,12 @@
       "acceleration": 9.3,
       "topSpeed": 205,
       "price": "~$26,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.1 sec",
+      "cargo": 440,
+      "est": [
+        "cargo"
+      ]
     },
     "Ferrari|488 GTB|2015|GTB": {
       "engine": "3.9L V8 Biturbo F154CB",
@@ -245,7 +293,12 @@
       "acceleration": 3,
       "topSpeed": 330,
       "price": "~$399,900",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~11.1 sec",
+      "cargo": 230,
+      "est": [
+        "cargo"
+      ]
     },
     "Rolls-Royce|Dawn|2015|Black Badge": {
       "engine": "6.6L V12 Biturbo N74B66",
@@ -264,7 +317,8 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$599,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.2 sec"
     },
     "Rolls-Royce|Dawn|2015|Standard": {
       "engine": "6.6L V12 Biturbo N74B66",
@@ -283,7 +337,8 @@
       "acceleration": 5,
       "topSpeed": 250,
       "price": "~$499,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.3 sec"
     },
     "Bentley|Bentayga|2015|W12": {
       "engine": "6.0L W12 Biturbo TSI",
@@ -302,7 +357,8 @@
       "acceleration": 4.1,
       "topSpeed": 301,
       "price": "~$449,900",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~12.4 sec"
     }
   }
 }

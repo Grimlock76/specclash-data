@@ -14,7 +14,7 @@
       "seats": 5,
       "towing": 1600,
       "cargo": 971,
-      "torque": null,
+      "torque": 340,
       "power": 220,
       "battery": "60 kWh",
       "range": 510,
@@ -22,7 +22,11 @@
       "topSpeed": 217,
       "weight": 1921,
       "price": "$55,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque"
+      ],
+      "quarterMile": "~15.1 sec"
     },
     "Tesla|Model Y|2025|Premium Rear-Wheel Drive": {
       "engine": "Single-Motor Electric",
@@ -45,7 +49,8 @@
       "topSpeed": 201,
       "weight": 1921,
       "price": "$58,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.2 sec"
     },
     "Tesla|Model Y|2025|Long Range AWD": {
       "engine": "Dual-Motor Electric",
@@ -61,14 +66,20 @@
       "seats": 5,
       "towing": 1600,
       "cargo": null,
-      "torque": null,
+      "torque": 790,
       "power": 378,
       "battery": "79 kWh",
       "range": 533,
       "acceleration": 5,
       "topSpeed": 217,
       "price": "$69,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1920,
+      "est": [
+        "weight",
+        "torque"
+      ],
+      "quarterMile": "~13.3 sec"
     },
     "Tesla|Model Y|2025|Premium Long Range AWD": {
       "engine": "Dual-Motor Electric",
@@ -84,7 +95,7 @@
       "seats": 5,
       "towing": 1600,
       "cargo": null,
-      "torque": null,
+      "torque": 790,
       "power": 378,
       "battery": "85 kWh",
       "range": 600,
@@ -92,7 +103,11 @@
       "topSpeed": 201,
       "weight": 1992,
       "price": "$68,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque"
+      ],
+      "quarterMile": "~13.1 sec"
     },
     "Tesla|Model Y|2025|Performance": {
       "engine": "Dual-Motor Electric",
@@ -108,14 +123,20 @@
       "seats": 5,
       "towing": 1600,
       "cargo": null,
-      "torque": null,
+      "torque": 660,
       "power": 393,
       "battery": "79 kWh",
       "range": 604,
       "acceleration": 3.7,
       "topSpeed": 250,
       "price": "$82,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1920,
+      "est": [
+        "weight",
+        "torque"
+      ],
+      "quarterMile": "~11.9 sec"
     }
   }
 }

@@ -15,7 +15,10 @@
       "fc": "16.5",
       "fh": "11.0",
       "fx": "14.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.4 sec",
+      "qm": "~17.2 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2000|LS": {
       "en": "4.8L V8 OHV Vortec",
@@ -32,7 +35,10 @@
       "fc": "17.0",
       "fh": "11.5",
       "fx": "15.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.5 sec",
+      "qm": "~16.5 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2000|LT": {
       "en": "5.3L V8 OHV Vortec",
@@ -49,7 +55,10 @@
       "fc": "17.5",
       "fh": "12.0",
       "fx": "15.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.7 sec",
+      "qm": "~15.8 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2000|Z71": {
       "en": "5.3L V8 OHV Vortec",
@@ -66,7 +75,10 @@
       "fc": "18.5",
       "fh": "12.5",
       "fx": "16.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.5 sec",
+      "qm": "~15.6 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2004|Base": {
       "en": "4.3L V6 OHV Vortec",
@@ -83,7 +95,10 @@
       "fc": "16.5",
       "fh": "11.0",
       "fx": "14.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.9 sec",
+      "qm": "~17.5 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2004|LS": {
       "en": "4.8L V8 OHV Vortec",
@@ -100,7 +115,10 @@
       "fc": "17.0",
       "fh": "11.5",
       "fx": "15.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.6 sec",
+      "qm": "~16.6 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2004|LT": {
       "en": "5.3L V8 OHV Vortec",
@@ -117,7 +135,10 @@
       "fc": "17.5",
       "fh": "12.0",
       "fx": "15.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.8 sec",
+      "qm": "~15.9 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2004|Z71": {
       "en": "5.3L V8 OHV Vortec",
@@ -134,7 +155,10 @@
       "fc": "18.5",
       "fh": "12.5",
       "fx": "16.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.6 sec",
+      "qm": "~15.7 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2008|Base": {
       "en": "4.3L V6 OHV",
@@ -151,7 +175,10 @@
       "fc": "16.5",
       "fh": "11.0",
       "fx": "14.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.9 sec",
+      "qm": "~17.5 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2008|LS": {
       "en": "4.8L V8 OHV",
@@ -168,7 +195,10 @@
       "fc": "17.0",
       "fh": "11.5",
       "fx": "15.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.7 sec",
+      "qm": "~16.7 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2008|LT": {
       "en": "5.3L V8 OHV",
@@ -185,7 +215,10 @@
       "fc": "17.0",
       "fh": "11.5",
       "fx": "15.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.4 sec",
+      "qm": "~15.5 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2008|LTZ": {
       "en": "5.3L V8 OHV",
@@ -202,7 +235,10 @@
       "fc": "17.0",
       "fh": "11.5",
       "fx": "15.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.5 sec",
+      "qm": "~15.6 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2008|Z71": {
       "en": "5.3L V8 OHV",
@@ -219,7 +255,10 @@
       "fc": "18.0",
       "fh": "12.0",
       "fx": "15.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.1 sec",
+      "qm": "~15.3 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2012|Base": {
       "en": "4.3L V6 OHV",
@@ -236,7 +275,10 @@
       "fc": "16.5",
       "fh": "11.0",
       "fx": "14.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.4 sec",
+      "qm": "~17.2 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2012|LS": {
       "en": "4.8L V8 OHV",
@@ -253,7 +295,10 @@
       "fc": "17.0",
       "fh": "11.5",
       "fx": "15.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.2 sec",
+      "qm": "~16.2 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2012|LT": {
       "en": "5.3L V8 OHV",
@@ -270,7 +315,10 @@
       "fc": "17.0",
       "fh": "11.5",
       "fx": "15.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.0 sec",
+      "qm": "~15.2 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2012|LTZ": {
       "en": "6.2L V8 OHV",
@@ -287,7 +335,10 @@
       "fc": "18.0",
       "fh": "12.0",
       "fx": "15.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~5.7 sec",
+      "qm": "~14.0 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2012|Z71": {
       "en": "5.3L V8 OHV",
@@ -304,7 +355,10 @@
       "fc": "18.0",
       "fh": "12.0",
       "fx": "15.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~6.9 sec",
+      "qm": "~15.1 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2015|Base": {
       "en": "4.3L V6 EcoTec3",
@@ -321,7 +375,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.3 sec",
+      "qm": "~15.5 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2015|LS": {
       "en": "4.3L V6 EcoTec3",
@@ -338,7 +395,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.4 sec",
+      "qm": "~15.5 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2015|LT": {
       "en": "5.3L V8 EcoTec3",
@@ -355,7 +415,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~6.1 sec",
+      "qm": "~14.4 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2015|LTZ": {
       "en": "5.3L V8 EcoTec3",
@@ -372,7 +435,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~6.2 sec",
+      "qm": "~14.5 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2015|High Country": {
       "en": "6.2L V8 EcoTec3",
@@ -389,7 +455,10 @@
       "fc": "15.0",
       "fh": "10.0",
       "fx": "13.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~5.6 sec",
+      "qm": "~13.9 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2015|Z71": {
       "en": "5.3L V8 EcoTec3",
@@ -406,7 +475,10 @@
       "fc": "15.5",
       "fh": "10.5",
       "fx": "13.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~5.9 sec",
+      "qm": "~14.2 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2020|WT": {
       "en": "4.3L V6 EcoTec3",
@@ -423,7 +495,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.9 sec",
+      "qm": "~16.8 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2020|Custom": {
       "en": "2.7L I4 Turbocharged",
@@ -440,7 +515,10 @@
       "fc": "13.5",
       "fh": "9.0",
       "fx": "12.0",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "z1": "~7.9 sec",
+      "qm": "~16.0 sec",
+      "ts": "~185 km/h"
     },
     "Chevrolet|Silverado|2020|LT": {
       "en": "5.3L V8 EcoTec3",
@@ -457,7 +535,10 @@
       "fc": "14.0",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.5 sec",
+      "qm": "~15.6 sec",
+      "ts": "~195 km/h"
     },
     "Chevrolet|Silverado|2020|RST": {
       "en": "5.3L V8 EcoTec3",
@@ -474,7 +555,10 @@
       "fc": "14.0",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.5 sec",
+      "qm": "~15.6 sec",
+      "ts": "~195 km/h"
     },
     "Chevrolet|Silverado|2020|LTZ": {
       "en": "6.2L V8 EcoTec3",
@@ -491,7 +575,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~6.8 sec",
+      "qm": "~15.0 sec",
+      "ts": "~200 km/h"
     },
     "Chevrolet|Silverado|2020|High Country": {
       "en": "6.2L V8 EcoTec3",
@@ -508,7 +595,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~6.8 sec",
+      "qm": "~15.0 sec",
+      "ts": "~200 km/h"
     },
     "Chevrolet|Silverado|2020|Trail Boss": {
       "en": "5.3L V8 EcoTec3",
@@ -525,7 +615,10 @@
       "fc": "15.0",
       "fh": "10.0",
       "fx": "13.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.1 sec",
+      "qm": "~15.3 sec",
+      "ts": "~190 km/h"
     },
     "Chevrolet|Silverado|2020|ZR2": {
       "en": "6.2L V8 EcoTec3",
@@ -542,7 +635,10 @@
       "fc": "16.0",
       "fh": "11.0",
       "fx": "14.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~6.5 sec",
+      "qm": "~14.8 sec",
+      "ts": "~200 km/h"
     },
     "Chevrolet|Silverado|2024|WT": {
       "en": "4.3L V6 EcoTec3",
@@ -559,7 +655,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.4 sec",
+      "qm": "~15.5 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Silverado|2024|LTZ": {
       "en": "6.2L V8 EcoTec3",
@@ -576,7 +675,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~5.6 sec",
+      "qm": "~13.9 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Colorado|2005|Base": {
       "en": "2.8L I4 OHV",
@@ -593,7 +695,10 @@
       "fc": "13.5",
       "fh": "9.0",
       "fx": "11.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.4 sec",
+      "qm": "~17.2 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Colorado|2005|LS": {
       "en": "3.5L I5 OHV",
@@ -610,7 +715,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.3 sec",
+      "qm": "~16.3 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Colorado|2005|LT": {
       "en": "3.5L I5 OHV",
@@ -627,7 +735,10 @@
       "fc": "15.5",
       "fh": "10.5",
       "fx": "13.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.1 sec",
+      "qm": "~16.2 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Colorado|2005|Z71": {
       "en": "3.5L I5 OHV",
@@ -644,7 +755,10 @@
       "fc": "15.5",
       "fh": "10.5",
       "fx": "13.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.3 sec",
+      "qm": "~16.3 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Colorado|2009|Base": {
       "en": "2.9L I4 OHV",
@@ -661,7 +775,10 @@
       "fc": "13.5",
       "fh": "9.0",
       "fx": "11.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.2 sec",
+      "qm": "~17.1 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Colorado|2009|LS": {
       "en": "3.7L I5 OHV",
@@ -678,7 +795,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.7 sec",
+      "qm": "~15.8 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Colorado|2009|LT": {
       "en": "3.7L I5 OHV",
@@ -695,7 +815,10 @@
       "fc": "15.5",
       "fh": "10.5",
       "fx": "13.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.5 sec",
+      "qm": "~15.6 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Colorado|2009|Z71": {
       "en": "3.7L I5 OHV",
@@ -712,7 +835,10 @@
       "fc": "15.5",
       "fh": "10.5",
       "fx": "13.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.6 sec",
+      "qm": "~15.7 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Colorado|2016|WT": {
       "en": "2.5L I4 DOHC Ecotec",
@@ -729,7 +855,10 @@
       "fc": "11.0",
       "fh": "7.5",
       "fx": "9.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~10.0 sec",
+      "qm": "~17.5 sec",
+      "ts": "~170 km/h"
     },
     "Chevrolet|Colorado|2016|LT": {
       "en": "3.6L V6 DI SIDI",
@@ -746,7 +875,10 @@
       "fc": "13.0",
       "fh": "8.5",
       "fx": "11.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.8 sec",
+      "qm": "~15.9 sec",
+      "ts": "~195 km/h"
     },
     "Chevrolet|Colorado|2016|Z71": {
       "en": "3.6L V6 DI SIDI",
@@ -763,7 +895,10 @@
       "fc": "14.0",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.4 sec",
+      "qm": "~15.5 sec",
+      "ts": "~190 km/h"
     },
     "Chevrolet|Colorado|2016|ZR2": {
       "en": "3.6L V6 DI SIDI",
@@ -780,7 +915,10 @@
       "fc": "15.0",
       "fh": "10.0",
       "fx": "13.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.8 sec",
+      "qm": "~15.9 sec",
+      "ts": "~190 km/h"
     },
     "Chevrolet|Colorado|2020|WT": {
       "en": "2.5L I4 DOHC Ecotec",
@@ -797,7 +935,10 @@
       "fc": "11.0",
       "fh": "7.5",
       "fx": "9.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.9 sec",
+      "qm": "~16.8 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Colorado|2020|LT": {
       "en": "3.6L V6 DI SIDI",
@@ -814,7 +955,10 @@
       "fc": "13.0",
       "fh": "8.5",
       "fx": "11.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~6.9 sec",
+      "qm": "~15.1 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Colorado|2020|Z71": {
       "en": "3.6L V6 DI SIDI",
@@ -831,7 +975,10 @@
       "fc": "14.0",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~6.6 sec",
+      "qm": "~14.9 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Colorado|2020|ZR2": {
       "en": "3.6L V6 DI SIDI",
@@ -848,7 +995,10 @@
       "fc": "15.0",
       "fh": "10.0",
       "fx": "13.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~6.9 sec",
+      "qm": "~15.1 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Colorado|2023|LT": {
       "en": "2.7L I4 Turbocharged",
@@ -865,7 +1015,10 @@
       "fc": "12.5",
       "fh": "8.5",
       "fx": "11.0",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "z1": "~5.9 sec",
+      "qm": "~14.2 sec",
+      "ts": "~185 km/h"
     },
     "Chevrolet|Colorado|2023|Trail Boss": {
       "en": "2.7L I4 Turbocharged",
@@ -899,7 +1052,10 @@
       "fc": "13.5",
       "fh": "9.0",
       "fx": "12.0",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "z1": "~6.2 sec",
+      "qm": "~14.5 sec",
+      "ts": "~185 km/h"
     },
     "Chevrolet|Colorado|2023|ZR2": {
       "en": "2.7L I4 Turbocharged HD",
@@ -916,7 +1072,10 @@
       "fc": "14.0",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "z1": "~6.5 sec",
+      "qm": "~14.8 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Tahoe|1996|Base": {
       "en": "5.7L V8 OHV Vortec",
@@ -933,7 +1092,10 @@
       "fc": "20.0",
       "fh": "13.5",
       "fx": "17.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.4 sec",
+      "qm": "~16.4 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Tahoe|1996|LS": {
       "en": "5.7L V8 OHV Vortec",
@@ -950,7 +1112,10 @@
       "fc": "20.0",
       "fh": "13.5",
       "fx": "17.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.5 sec",
+      "qm": "~16.5 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Tahoe|1996|LT": {
       "en": "5.7L V8 OHV Vortec",
@@ -967,7 +1132,10 @@
       "fc": "20.0",
       "fh": "13.5",
       "fx": "17.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.6 sec",
+      "qm": "~16.6 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Tahoe|2001|Base": {
       "en": "4.8L V8 OHV Vortec",
@@ -984,7 +1152,10 @@
       "fc": "17.5",
       "fh": "12.0",
       "fx": "15.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.1 sec",
+      "qm": "~17.0 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Tahoe|2001|LS": {
       "en": "5.3L V8 OHV Vortec",
@@ -1001,7 +1172,10 @@
       "fc": "17.5",
       "fh": "12.0",
       "fx": "15.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.5 sec",
+      "qm": "~16.5 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Tahoe|2001|LT": {
       "en": "5.3L V8 OHV Vortec",
@@ -1018,7 +1192,10 @@
       "fc": "17.5",
       "fh": "12.0",
       "fx": "15.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.6 sec",
+      "qm": "~16.6 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Tahoe|2001|Z71": {
       "en": "5.3L V8 OHV Vortec",
@@ -1035,7 +1212,10 @@
       "fc": "18.5",
       "fh": "12.5",
       "fx": "16.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.6 sec",
+      "qm": "~16.6 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Tahoe|2008|Base": {
       "en": "4.8L V8 OHV",
@@ -1052,7 +1232,10 @@
       "fc": "17.5",
       "fh": "12.0",
       "fx": "15.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.6 sec",
+      "qm": "~17.3 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Tahoe|2008|LS": {
       "en": "5.3L V8 OHV AFM",
@@ -1069,7 +1252,10 @@
       "fc": "16.5",
       "fh": "11.0",
       "fx": "14.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.3 sec",
+      "qm": "~16.3 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Tahoe|2008|LT": {
       "en": "5.3L V8 OHV AFM",
@@ -1086,7 +1272,10 @@
       "fc": "16.5",
       "fh": "11.0",
       "fx": "14.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.4 sec",
+      "qm": "~16.4 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Tahoe|2008|LTZ": {
       "en": "5.3L V8 OHV AFM",
@@ -1103,7 +1292,10 @@
       "fc": "16.5",
       "fh": "11.0",
       "fx": "14.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.4 sec",
+      "qm": "~16.4 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Tahoe|2008|Z71": {
       "en": "5.3L V8 OHV AFM",
@@ -1120,7 +1312,10 @@
       "fc": "17.5",
       "fh": "12.0",
       "fx": "15.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.0 sec",
+      "qm": "~16.1 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Tahoe|2015|LS": {
       "en": "5.3L V8 EcoTec3",
@@ -1137,7 +1332,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.0 sec",
+      "qm": "~16.1 sec",
+      "ts": "~185 km/h"
     },
     "Chevrolet|Tahoe|2015|LT": {
       "en": "5.3L V8 EcoTec3",
@@ -1154,7 +1352,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.0 sec",
+      "qm": "~16.1 sec",
+      "ts": "~185 km/h"
     },
     "Chevrolet|Tahoe|2015|LTZ": {
       "en": "5.3L V8 EcoTec3",
@@ -1171,7 +1372,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.1 sec",
+      "qm": "~16.2 sec",
+      "ts": "~185 km/h"
     },
     "Chevrolet|Tahoe|2015|Premier": {
       "en": "5.3L V8 EcoTec3",
@@ -1205,7 +1409,10 @@
       "fc": "14.0",
       "fh": "9.5",
       "fx": "12.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.4 sec",
+      "qm": "~16.4 sec",
+      "ts": "~185 km/h"
     },
     "Chevrolet|Tahoe|2022|LT": {
       "en": "5.3L V8 EcoTec3",
@@ -1222,7 +1429,10 @@
       "fc": "14.0",
       "fh": "9.5",
       "fx": "12.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.4 sec",
+      "qm": "~16.4 sec",
+      "ts": "~185 km/h"
     },
     "Chevrolet|Tahoe|2022|LTZ": {
       "en": "6.2L V8 EcoTec3",
@@ -1239,7 +1449,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.2 sec",
+      "qm": "~15.4 sec",
+      "ts": "~195 km/h"
     },
     "Chevrolet|Tahoe|2022|Premier": {
       "en": "5.3L V8 EcoTec3",
@@ -1256,7 +1469,10 @@
       "fc": "14.0",
       "fh": "9.5",
       "fx": "12.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.5 sec",
+      "qm": "~16.5 sec",
+      "ts": "~185 km/h"
     },
     "Chevrolet|Tahoe|2022|High Country": {
       "en": "6.2L V8 EcoTec3",
@@ -1273,7 +1489,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.2 sec",
+      "qm": "~15.4 sec",
+      "ts": "~195 km/h"
     },
     "Chevrolet|Tahoe|2022|Z71": {
       "en": "5.3L V8 EcoTec3",
@@ -1290,7 +1509,10 @@
       "fc": "15.5",
       "fh": "10.5",
       "fx": "13.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.2 sec",
+      "qm": "~16.2 sec",
+      "ts": "~185 km/h"
     },
     "Chevrolet|Suburban|1994|Base": {
       "en": "5.7L V8 OHV Vortec TBI",
@@ -1307,7 +1529,10 @@
       "fc": "21.0",
       "fh": "14.0",
       "fx": "18.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~11.0 sec",
+      "qm": "~18.2 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Suburban|1994|LS": {
       "en": "5.7L V8 OHV Vortec TBI",
@@ -1324,7 +1549,10 @@
       "fc": "21.0",
       "fh": "14.0",
       "fx": "18.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~11.2 sec",
+      "qm": "~18.3 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Suburban|1994|LT": {
       "en": "5.7L V8 OHV Vortec TBI",
@@ -1341,7 +1569,10 @@
       "fc": "21.0",
       "fh": "14.0",
       "fx": "18.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~11.3 sec",
+      "qm": "~18.4 sec",
+      "ts": "~175 km/h"
     },
     "Chevrolet|Suburban|2001|Base": {
       "en": "5.3L V8 OHV Vortec",
@@ -1358,7 +1589,10 @@
       "fc": "17.5",
       "fh": "12.0",
       "fx": "15.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.4 sec",
+      "qm": "~17.2 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Suburban|2001|LS": {
       "en": "5.3L V8 OHV Vortec",
@@ -1375,7 +1609,10 @@
       "fc": "17.5",
       "fh": "12.0",
       "fx": "15.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.6 sec",
+      "qm": "~17.3 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Suburban|2001|LT": {
       "en": "5.3L V8 OHV Vortec",
@@ -1392,7 +1629,10 @@
       "fc": "17.5",
       "fh": "12.0",
       "fx": "15.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.6 sec",
+      "qm": "~17.3 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Suburban|2007|Base": {
       "en": "5.3L V8 OHV AFM",
@@ -1409,7 +1649,10 @@
       "fc": "17.0",
       "fh": "11.5",
       "fx": "15.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.1 sec",
+      "qm": "~17.0 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Suburban|2007|LS": {
       "en": "5.3L V8 OHV AFM",
@@ -1426,7 +1669,10 @@
       "fc": "17.0",
       "fh": "11.5",
       "fx": "15.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.2 sec",
+      "qm": "~17.1 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Suburban|2007|LT": {
       "en": "5.3L V8 OHV AFM",
@@ -1443,7 +1689,10 @@
       "fc": "17.0",
       "fh": "11.5",
       "fx": "15.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.3 sec",
+      "qm": "~17.1 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Suburban|2007|LTZ": {
       "en": "5.3L V8 OHV AFM",
@@ -1460,7 +1709,10 @@
       "fc": "17.0",
       "fh": "11.5",
       "fx": "15.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.4 sec",
+      "qm": "~17.2 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Suburban|2015|LS": {
       "en": "5.3L V8 EcoTec3",
@@ -1477,7 +1729,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.8 sec",
+      "qm": "~16.8 sec",
+      "ts": "~175 km/h"
     },
     "Chevrolet|Suburban|2015|LT": {
       "en": "5.3L V8 EcoTec3",
@@ -1494,7 +1749,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.9 sec",
+      "qm": "~16.8 sec",
+      "ts": "~175 km/h"
     },
     "Chevrolet|Suburban|2015|LTZ": {
       "en": "5.3L V8 EcoTec3",
@@ -1511,7 +1769,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.0 sec",
+      "qm": "~16.9 sec",
+      "ts": "~175 km/h"
     },
     "Chevrolet|Suburban|2015|Premier": {
       "en": "5.3L V8 EcoTec3",
@@ -1545,7 +1806,10 @@
       "fc": "14.0",
       "fh": "9.5",
       "fx": "12.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.4 sec",
+      "qm": "~16.4 sec",
+      "ts": "~185 km/h"
     },
     "Chevrolet|Suburban|2022|LT": {
       "en": "5.3L V8 EcoTec3",
@@ -1562,7 +1826,10 @@
       "fc": "14.0",
       "fh": "9.5",
       "fx": "12.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.5 sec",
+      "qm": "~16.5 sec",
+      "ts": "~185 km/h"
     },
     "Chevrolet|Suburban|2022|LTZ": {
       "en": "6.2L V8 EcoTec3",
@@ -1579,7 +1846,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.3 sec",
+      "qm": "~15.5 sec",
+      "ts": "~195 km/h"
     },
     "Chevrolet|Suburban|2022|Premier": {
       "en": "5.3L V8 EcoTec3",
@@ -1596,7 +1866,10 @@
       "fc": "14.0",
       "fh": "9.5",
       "fx": "12.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.5 sec",
+      "qm": "~16.5 sec",
+      "ts": "~185 km/h"
     },
     "Chevrolet|Suburban|2022|High Country": {
       "en": "6.2L V8 EcoTec3",
@@ -1613,7 +1886,10 @@
       "fc": "14.5",
       "fh": "9.5",
       "fx": "12.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.3 sec",
+      "qm": "~15.5 sec",
+      "ts": "~195 km/h"
     },
     "Chevrolet|Avalanche|2002|Base": {
       "en": "5.3L V8 OHV Vortec",
@@ -1630,7 +1906,10 @@
       "fc": "17.5",
       "fh": "12.0",
       "fx": "15.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.2 sec",
+      "qm": "~17.1 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Avalanche|2002|LS": {
       "en": "5.3L V8 OHV Vortec",
@@ -1647,7 +1926,10 @@
       "fc": "17.5",
       "fh": "12.0",
       "fx": "15.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.3 sec",
+      "qm": "~17.1 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Avalanche|2002|LT": {
       "en": "5.3L V8 OHV Vortec",
@@ -1664,7 +1946,10 @@
       "fc": "17.5",
       "fh": "12.0",
       "fx": "15.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.4 sec",
+      "qm": "~17.2 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Avalanche|2002|Z71": {
       "en": "5.3L V8 OHV Vortec",
@@ -1681,7 +1966,10 @@
       "fc": "18.5",
       "fh": "12.5",
       "fx": "16.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.5 sec",
+      "qm": "~17.2 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Avalanche|2008|LS": {
       "en": "5.3L V8 OHV AFM",
@@ -1698,7 +1986,10 @@
       "fc": "17.0",
       "fh": "11.5",
       "fx": "15.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.0 sec",
+      "qm": "~16.9 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Avalanche|2008|LT": {
       "en": "5.3L V8 OHV AFM",
@@ -1715,7 +2006,10 @@
       "fc": "17.0",
       "fh": "11.5",
       "fx": "15.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.1 sec",
+      "qm": "~17.0 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Avalanche|2008|LTZ": {
       "en": "5.3L V8 OHV AFM",
@@ -1732,7 +2026,10 @@
       "fc": "17.0",
       "fh": "11.5",
       "fx": "15.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.2 sec",
+      "qm": "~17.1 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Avalanche|2012|LS": {
       "en": "5.3L V8 OHV AFM",
@@ -1749,7 +2046,10 @@
       "fc": "17.0",
       "fh": "11.5",
       "fx": "15.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.5 sec",
+      "qm": "~16.5 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Avalanche|2012|LT": {
       "en": "5.3L V8 OHV AFM",
@@ -1766,7 +2066,10 @@
       "fc": "17.0",
       "fh": "11.5",
       "fx": "15.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.6 sec",
+      "qm": "~16.6 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Avalanche|2012|LTZ": {
       "en": "5.3L V8 OHV AFM",
@@ -1783,7 +2086,10 @@
       "fc": "17.0",
       "fh": "11.5",
       "fx": "15.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.7 sec",
+      "qm": "~16.7 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Trailblazer|2003|Base": {
       "en": "4.2L I6 DOHC Vortec",
@@ -1800,7 +2106,10 @@
       "fc": "16.0",
       "fh": "11.0",
       "fx": "14.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~6.9 sec",
+      "qm": "~15.1 sec",
+      "ts": "~200 km/h"
     },
     "Chevrolet|Trailblazer|2003|LS": {
       "en": "4.2L I6 DOHC Vortec",
@@ -1817,7 +2126,10 @@
       "fc": "16.0",
       "fh": "11.0",
       "fx": "14.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~6.9 sec",
+      "qm": "~15.1 sec",
+      "ts": "~200 km/h"
     },
     "Chevrolet|Trailblazer|2003|LT": {
       "en": "4.2L I6 DOHC Vortec",
@@ -1834,7 +2146,10 @@
       "fc": "16.0",
       "fh": "11.0",
       "fx": "14.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.0 sec",
+      "qm": "~15.2 sec",
+      "ts": "~200 km/h"
     },
     "Chevrolet|Trailblazer|2003|LTZ": {
       "en": "4.2L I6 DOHC Vortec",
@@ -1851,7 +2166,10 @@
       "fc": "16.0",
       "fh": "11.0",
       "fx": "14.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.0 sec",
+      "qm": "~15.2 sec",
+      "ts": "~200 km/h"
     },
     "Chevrolet|Trailblazer|2006|SS": {
       "en": "5.3L V8 OHV Vortec",
@@ -1870,7 +2188,8 @@
       "fc": "18.0",
       "fh": "12.0",
       "fx": "15.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~15.0 sec"
     },
     "Chevrolet|Trailblazer|2007|Base": {
       "en": "4.2L I6 DOHC Vortec",
@@ -1887,7 +2206,10 @@
       "fc": "16.0",
       "fh": "11.0",
       "fx": "14.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~6.9 sec",
+      "qm": "~15.1 sec",
+      "ts": "~205 km/h"
     },
     "Chevrolet|Trailblazer|2007|LS": {
       "en": "4.2L I6 DOHC Vortec",
@@ -1904,7 +2226,10 @@
       "fc": "16.0",
       "fh": "11.0",
       "fx": "14.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~6.9 sec",
+      "qm": "~15.1 sec",
+      "ts": "~205 km/h"
     },
     "Chevrolet|Trailblazer|2007|LT": {
       "en": "4.2L I6 DOHC Vortec",
@@ -1921,7 +2246,10 @@
       "fc": "16.0",
       "fh": "11.0",
       "fx": "14.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.0 sec",
+      "qm": "~15.2 sec",
+      "ts": "~200 km/h"
     },
     "Chevrolet|Trailblazer|2007|LTZ": {
       "en": "4.2L I6 DOHC Vortec",
@@ -1938,7 +2266,10 @@
       "fc": "16.0",
       "fh": "11.0",
       "fx": "14.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.1 sec",
+      "qm": "~15.3 sec",
+      "ts": "~200 km/h"
     },
     "Chevrolet|Trailblazer|2007|SS": {
       "en": "5.3L V8 OHV Vortec",
@@ -1957,7 +2288,8 @@
       "fc": "18.0",
       "fh": "12.0",
       "fx": "15.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~15.0 sec"
     },
     "Chevrolet|Trailblazer|2009|Base": {
       "en": "4.2L I6 DOHC Vortec",
@@ -1974,7 +2306,10 @@
       "fc": "16.0",
       "fh": "11.0",
       "fx": "14.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~6.9 sec",
+      "qm": "~15.1 sec",
+      "ts": "~205 km/h"
     },
     "Chevrolet|Trailblazer|2021|L": {
       "en": "1.2L I3 Turbocharged SIDI",
@@ -1993,7 +2328,8 @@
       "fc": "9.0",
       "fh": "6.0",
       "fx": "8.0",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~16.9 sec"
     },
     "Chevrolet|Trailblazer|2021|LS": {
       "en": "1.2L I3 Turbocharged SIDI",
@@ -2012,7 +2348,8 @@
       "fc": "9.0",
       "fh": "6.0",
       "fx": "8.0",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~16.9 sec"
     },
     "Chevrolet|Trailblazer|2021|LT": {
       "en": "1.3L I3 Turbocharged SIDI",
@@ -2031,7 +2368,8 @@
       "fc": "9.0",
       "fh": "6.0",
       "fx": "8.0",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~16.5 sec"
     },
     "Chevrolet|Trailblazer|2021|ACTIV": {
       "en": "1.3L I3 Turbocharged SIDI",
@@ -2050,7 +2388,8 @@
       "fc": "10.0",
       "fh": "7.0",
       "fx": "9.0",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~16.5 sec"
     },
     "Chevrolet|Trailblazer|2021|RS": {
       "en": "1.3L I3 Turbocharged SIDI",
@@ -2069,7 +2408,8 @@
       "fc": "10.0",
       "fh": "7.0",
       "fx": "9.0",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~16.5 sec"
     },
     "Chevrolet|Trailblazer|2021|Premier": {
       "en": "1.3L I3 Turbocharged SIDI",
@@ -2088,7 +2428,8 @@
       "fc": "10.0",
       "fh": "7.0",
       "fx": "9.0",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~16.5 sec"
     },
     "Chevrolet|Blazer|2020|LT": {
       "en": "2.5L I4 SIDI",
@@ -2107,7 +2448,8 @@
       "fc": "11.0",
       "fh": "7.5",
       "fx": "9.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~16.5 sec"
     },
     "Chevrolet|Blazer|2020|RS": {
       "en": "3.6L V6 DI SIDI",
@@ -2126,7 +2468,8 @@
       "fc": "13.0",
       "fh": "8.5",
       "fx": "11.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~14.8 sec"
     },
     "Chevrolet|Blazer|2020|Premier": {
       "en": "3.6L V6 DI SIDI",
@@ -2145,7 +2488,8 @@
       "fc": "13.0",
       "fh": "8.5",
       "fx": "11.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~14.8 sec"
     },
     "Chevrolet|Blazer|2023|LT": {
       "en": "2.0L I4 Turbocharged SIDI",
@@ -2164,7 +2508,8 @@
       "fc": "11.0",
       "fh": "7.5",
       "fx": "9.5",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~15.6 sec"
     },
     "Chevrolet|Blazer|2023|RS": {
       "en": "3.6L V6 DI SIDI",
@@ -2183,7 +2528,8 @@
       "fc": "13.0",
       "fh": "8.5",
       "fx": "11.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~14.8 sec"
     },
     "Chevrolet|Blazer|2023|Premier": {
       "en": "3.6L V6 DI SIDI",
@@ -2202,7 +2548,8 @@
       "fc": "13.0",
       "fh": "8.5",
       "fx": "11.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~14.8 sec"
     },
     "Chevrolet|Equinox|2006|Base": {
       "en": "2.4L I4 DOHC Ecotec",
@@ -2219,7 +2566,10 @@
       "fc": "12.0",
       "fh": "8.0",
       "fx": "10.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~10.0 sec",
+      "qm": "~17.5 sec",
+      "ts": "~195 km/h"
     },
     "Chevrolet|Equinox|2006|LS": {
       "en": "2.4L I4 DOHC Ecotec",
@@ -2236,7 +2586,10 @@
       "fc": "12.0",
       "fh": "8.0",
       "fx": "10.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~10.0 sec",
+      "qm": "~17.5 sec",
+      "ts": "~195 km/h"
     },
     "Chevrolet|Equinox|2006|LT": {
       "en": "3.4L V6 OHV",
@@ -2253,7 +2606,10 @@
       "fc": "13.5",
       "fh": "9.0",
       "fx": "11.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~9.3 sec",
+      "qm": "~17.1 sec",
+      "ts": "~190 km/h"
     },
     "Chevrolet|Equinox|2011|LS": {
       "en": "2.4L I4 DOHC Ecotec",
@@ -2270,7 +2626,10 @@
       "fc": "10.5",
       "fh": "7.0",
       "fx": "9.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~10.3 sec",
+      "qm": "~17.7 sec",
+      "ts": "~195 km/h"
     },
     "Chevrolet|Equinox|2011|LT": {
       "en": "2.4L I4 DOHC Ecotec",
@@ -2287,7 +2646,10 @@
       "fc": "10.5",
       "fh": "7.0",
       "fx": "9.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~10.4 sec",
+      "qm": "~17.8 sec",
+      "ts": "~190 km/h"
     },
     "Chevrolet|Equinox|2011|LTZ": {
       "en": "3.0L V6 SIDI",
@@ -2304,7 +2666,10 @@
       "fc": "12.0",
       "fh": "8.0",
       "fx": "10.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.2 sec",
+      "qm": "~15.4 sec",
+      "ts": "~215 km/h"
     },
     "Chevrolet|Equinox|2018|L": {
       "en": "1.5L I4 Turbocharged SIDI",
@@ -2338,7 +2703,10 @@
       "fc": "9.5",
       "fh": "6.5",
       "fx": "8.5",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "z1": "~9.9 sec",
+      "qm": "~17.5 sec",
+      "ts": "~175 km/h"
     },
     "Chevrolet|Equinox|2018|LT": {
       "en": "1.5L I4 Turbocharged SIDI",
@@ -2355,7 +2723,10 @@
       "fc": "9.5",
       "fh": "6.5",
       "fx": "8.5",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "z1": "~9.9 sec",
+      "qm": "~17.5 sec",
+      "ts": "~175 km/h"
     },
     "Chevrolet|Equinox|2018|Premier": {
       "en": "2.0L I4 Turbocharged SIDI",
@@ -2406,7 +2777,10 @@
       "fc": "9.5",
       "fh": "6.5",
       "fx": "8.5",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "z1": "~9.8 sec",
+      "qm": "~17.4 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Equinox|2022|LT": {
       "en": "1.5L I4 Turbocharged SIDI",
@@ -2423,7 +2797,10 @@
       "fc": "9.5",
       "fh": "6.5",
       "fx": "8.5",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "z1": "~9.9 sec",
+      "qm": "~17.5 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Equinox|2024|RS": {
       "en": "1.5L I4 Turbocharged SIDI",
@@ -2440,7 +2817,10 @@
       "fc": "10.0",
       "fh": "7.0",
       "fx": "9.0",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "z1": "~9.7 sec",
+      "qm": "~17.4 sec",
+      "ts": "~175 km/h"
     },
     "Chevrolet|Equinox|2024|Premier": {
       "en": "2.0L I4 Turbocharged SIDI",
@@ -2457,7 +2837,10 @@
       "fc": "11.0",
       "fh": "7.5",
       "fx": "9.5",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "z1": "~7.1 sec",
+      "qm": "~15.3 sec",
+      "ts": "~200 km/h"
     },
     "Chevrolet|Traverse|2010|LS": {
       "en": "3.6L V6 DI SIDI",
@@ -2474,7 +2857,10 @@
       "fc": "13.0",
       "fh": "8.5",
       "fx": "11.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.5 sec",
+      "qm": "~16.5 sec",
+      "ts": "~215 km/h"
     },
     "Chevrolet|Traverse|2010|LT": {
       "en": "3.6L V6 DI SIDI",
@@ -2491,7 +2877,10 @@
       "fc": "13.0",
       "fh": "8.5",
       "fx": "11.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.6 sec",
+      "qm": "~16.6 sec",
+      "ts": "~215 km/h"
     },
     "Chevrolet|Traverse|2010|LTZ": {
       "en": "3.6L V6 DI SIDI",
@@ -2508,7 +2897,10 @@
       "fc": "14.0",
       "fh": "9.0",
       "fx": "12.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.9 sec",
+      "qm": "~16.0 sec",
+      "ts": "~210 km/h"
     },
     "Chevrolet|Traverse|2015|LS": {
       "en": "3.6L V6 DI SIDI",
@@ -2525,7 +2917,10 @@
       "fc": "13.0",
       "fh": "8.5",
       "fx": "11.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.1 sec",
+      "qm": "~16.2 sec",
+      "ts": "~215 km/h"
     },
     "Chevrolet|Traverse|2015|LT": {
       "en": "3.6L V6 DI SIDI",
@@ -2542,7 +2937,10 @@
       "fc": "13.0",
       "fh": "8.5",
       "fx": "11.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.2 sec",
+      "qm": "~16.2 sec",
+      "ts": "~215 km/h"
     },
     "Chevrolet|Traverse|2015|LTZ": {
       "en": "3.6L V6 DI SIDI",
@@ -2559,7 +2957,10 @@
       "fc": "14.0",
       "fh": "9.0",
       "fx": "12.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.7 sec",
+      "qm": "~15.8 sec",
+      "ts": "~215 km/h"
     },
     "Chevrolet|Traverse|2015|High Country": {
       "en": "3.6L V6 DI SIDI",
@@ -2576,7 +2977,10 @@
       "fc": "14.0",
       "fh": "9.0",
       "fx": "12.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.8 sec",
+      "qm": "~15.9 sec",
+      "ts": "~210 km/h"
     },
     "Chevrolet|Traverse|2019|LS": {
       "en": "3.6L V6 DI SIDI",
@@ -2593,7 +2997,10 @@
       "fc": "12.5",
       "fh": "8.5",
       "fx": "11.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.8 sec",
+      "qm": "~15.9 sec",
+      "ts": "~195 km/h"
     },
     "Chevrolet|Traverse|2019|LT": {
       "en": "3.6L V6 DI SIDI",
@@ -2610,7 +3017,10 @@
       "fc": "12.5",
       "fh": "8.5",
       "fx": "11.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.8 sec",
+      "qm": "~15.9 sec",
+      "ts": "~195 km/h"
     },
     "Chevrolet|Traverse|2019|RS": {
       "en": "3.6L V6 DI SIDI",
@@ -2627,7 +3037,10 @@
       "fc": "13.0",
       "fh": "8.5",
       "fx": "11.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.3 sec",
+      "qm": "~15.5 sec",
+      "ts": "~190 km/h"
     },
     "Chevrolet|Traverse|2019|Premier": {
       "en": "3.6L V6 DI SIDI",
@@ -2644,7 +3057,10 @@
       "fc": "13.0",
       "fh": "8.5",
       "fx": "11.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.4 sec",
+      "qm": "~15.5 sec",
+      "ts": "~190 km/h"
     },
     "Chevrolet|Traverse|2019|High Country": {
       "en": "3.6L V6 DI SIDI",
@@ -2661,7 +3077,10 @@
       "fc": "13.0",
       "fh": "8.5",
       "fx": "11.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~7.5 sec",
+      "qm": "~15.6 sec",
+      "ts": "~190 km/h"
     },
     "Chevrolet|Traverse|2022|LS": {
       "en": "3.6L V6 DI SIDI",
@@ -2678,7 +3097,10 @@
       "fc": "12.5",
       "fh": "8.5",
       "fx": "11.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.1 sec",
+      "qm": "~16.2 sec",
+      "ts": "~190 km/h"
     },
     "Chevrolet|Traverse|2022|LT": {
       "en": "3.6L V6 DI SIDI",
@@ -2695,7 +3117,10 @@
       "fc": "12.5",
       "fh": "8.5",
       "fx": "11.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.2 sec",
+      "qm": "~16.2 sec",
+      "ts": "~190 km/h"
     },
     "Chevrolet|Traverse|2024|Premier": {
       "en": "3.6L V6 DI SIDI",
@@ -2712,7 +3137,10 @@
       "fc": "13.0",
       "fh": "8.5",
       "fx": "11.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "z1": "~8.1 sec",
+      "qm": "~16.2 sec",
+      "ts": "~180 km/h"
     },
     "Chevrolet|Cruze|2011|LS": {
       "en": "1.8L I4 DOHC Ecotec",
@@ -2731,7 +3159,8 @@
       "fc": "9.0",
       "fh": "6.0",
       "fx": "8.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~17.5 sec"
     },
     "Chevrolet|Cruze|2011|LT": {
       "en": "1.4L I4 Turbocharged Ecotec",
@@ -2750,7 +3179,8 @@
       "fc": "8.5",
       "fh": "5.5",
       "fx": "7.5",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~17.2 sec"
     },
     "Chevrolet|Cruze|2011|LTZ": {
       "en": "1.4L I4 Turbocharged Ecotec",
@@ -2769,7 +3199,8 @@
       "fc": "8.5",
       "fh": "5.5",
       "fx": "7.5",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~17.2 sec"
     },
     "Chevrolet|Cruze|2011|Eco": {
       "en": "1.4L I4 Turbocharged Ecotec",
@@ -2788,7 +3219,8 @@
       "fc": "7.5",
       "fh": "5.0",
       "fx": "6.8",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~17.2 sec"
     },
     "Chevrolet|Cruze|2013|LS": {
       "en": "1.8L I4 DOHC Ecotec",
@@ -2807,7 +3239,8 @@
       "fc": "9.0",
       "fh": "6.0",
       "fx": "8.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~17.5 sec"
     },
     "Chevrolet|Cruze|2016|L": {
       "en": "1.4L I4 Turbocharged Ecotec",
@@ -2845,7 +3278,8 @@
       "fc": "8.0",
       "fh": "5.5",
       "fx": "7.0",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~16.9 sec"
     },
     "Chevrolet|Cruze|2016|LT": {
       "en": "1.4L I4 Turbocharged Ecotec",
@@ -2864,7 +3298,8 @@
       "fc": "8.0",
       "fh": "5.5",
       "fx": "7.0",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~16.9 sec"
     },
     "Chevrolet|Cruze|2016|Premier": {
       "en": "1.4L I4 Turbocharged Ecotec",
@@ -2902,7 +3337,8 @@
       "fc": "6.5",
       "fh": "4.5",
       "fx": "5.8",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~17.2 sec"
     },
     "Chevrolet|Cruze|2019|L": {
       "en": "1.4L I4 Turbocharged Ecotec",
@@ -2921,7 +3357,8 @@
       "fc": "8.0",
       "fh": "5.5",
       "fx": "7.0",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~16.9 sec"
     },
     "Chevrolet|Sonic|2013|LS": {
       "en": "1.8L I4 DOHC Ecotec",
@@ -2940,7 +3377,8 @@
       "fc": "9.0",
       "fh": "6.0",
       "fx": "8.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~17.9 sec"
     },
     "Chevrolet|Sonic|2013|LT": {
       "en": "1.4L I4 Turbocharged Ecotec",
@@ -2959,7 +3397,8 @@
       "fc": "8.5",
       "fh": "5.5",
       "fx": "7.5",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~17.2 sec"
     },
     "Chevrolet|Sonic|2013|LTZ": {
       "en": "1.4L I4 Turbocharged Ecotec",
@@ -2978,7 +3417,8 @@
       "fc": "8.5",
       "fh": "5.5",
       "fx": "7.5",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~16.9 sec"
     },
     "Chevrolet|Sonic|2013|RS": {
       "en": "1.4L I4 Turbocharged Ecotec",
@@ -2997,7 +3437,8 @@
       "fc": "8.5",
       "fh": "5.5",
       "fx": "7.5",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~16.9 sec"
     },
     "Chevrolet|Sonic|2017|LS": {
       "en": "1.8L I4 DOHC Ecotec",
@@ -3016,7 +3457,8 @@
       "fc": "9.0",
       "fh": "6.0",
       "fx": "8.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~17.9 sec"
     },
     "Chevrolet|Sonic|2017|LT": {
       "en": "1.4L I4 Turbocharged Ecotec",
@@ -3035,7 +3477,8 @@
       "fc": "8.5",
       "fh": "5.5",
       "fx": "7.5",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~17.2 sec"
     },
     "Chevrolet|Sonic|2017|RS": {
       "en": "1.4L I4 Turbocharged Ecotec",
@@ -3054,7 +3497,8 @@
       "fc": "8.5",
       "fh": "5.5",
       "fx": "7.5",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~16.9 sec"
     },
     "Chevrolet|Sonic|2017|Premier": {
       "en": "1.4L I4 Turbocharged Ecotec",
@@ -3092,7 +3536,8 @@
       "fc": "8.5",
       "fh": "5.5",
       "fx": "7.5",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~17.2 sec"
     },
     "Chevrolet|Spark|2014|LS": {
       "en": "1.2L I4 DOHC",
@@ -3111,7 +3556,8 @@
       "fc": "8.5",
       "fh": "6.0",
       "fx": "7.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~19.1 sec"
     },
     "Chevrolet|Spark|2014|LT": {
       "en": "1.2L I4 DOHC",
@@ -3130,7 +3576,8 @@
       "fc": "8.5",
       "fh": "6.0",
       "fx": "7.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~19.4 sec"
     },
     "Chevrolet|Spark|2014|LTZ": {
       "en": "1.2L I4 DOHC",
@@ -3149,7 +3596,8 @@
       "fc": "8.5",
       "fh": "6.0",
       "fx": "7.5",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~19.4 sec"
     },
     "Chevrolet|Spark|2017|LS": {
       "en": "1.4L I4 DOHC Ecotec",
@@ -3168,7 +3616,8 @@
       "fc": "8.0",
       "fh": "5.5",
       "fx": "7.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~18.8 sec"
     },
     "Chevrolet|Spark|2017|LT": {
       "en": "1.4L I4 DOHC Ecotec",
@@ -3187,7 +3636,8 @@
       "fc": "8.0",
       "fh": "5.5",
       "fx": "7.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~19.1 sec"
     },
     "Chevrolet|Spark|2017|ACTIV": {
       "en": "1.4L I4 DOHC Ecotec",
@@ -3206,7 +3656,8 @@
       "fc": "8.0",
       "fh": "5.5",
       "fx": "7.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~19.1 sec"
     },
     "Chevrolet|Spark|2017|Premier": {
       "en": "1.4L I4 DOHC Ecotec",
@@ -3225,7 +3676,8 @@
       "fc": "8.0",
       "fh": "5.5",
       "fx": "7.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~19.1 sec"
     },
     "Chevrolet|Spark|2021|LS": {
       "en": "1.4L I4 DOHC Ecotec",
@@ -3244,7 +3696,8 @@
       "fc": "8.0",
       "fh": "5.5",
       "fx": "7.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~18.8 sec"
     },
     "Chevrolet|Spark|2021|LT": {
       "en": "1.4L I4 DOHC Ecotec",
@@ -3263,7 +3716,8 @@
       "fc": "8.0",
       "fh": "5.5",
       "fx": "7.0",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~19.1 sec"
     },
     "Chevrolet|Trax|2014|LS": {
       "en": "1.4L I4 Turbocharged Ecotec SIDI",
@@ -3282,7 +3736,8 @@
       "fc": "9.5",
       "fh": "6.5",
       "fx": "8.5",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~17.2 sec"
     },
     "Chevrolet|Trax|2014|LT": {
       "en": "1.4L I4 Turbocharged Ecotec SIDI",
@@ -3301,7 +3756,8 @@
       "fc": "9.5",
       "fh": "6.5",
       "fx": "8.5",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~17.2 sec"
     },
     "Chevrolet|Trax|2014|LTZ": {
       "en": "1.4L I4 Turbocharged Ecotec SIDI",
@@ -3320,7 +3776,8 @@
       "fc": "10.5",
       "fh": "7.0",
       "fx": "9.0",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~17.5 sec"
     },
     "Chevrolet|Trax|2018|LS": {
       "en": "1.4L I4 Turbocharged Ecotec SIDI",
@@ -3339,7 +3796,8 @@
       "fc": "9.5",
       "fh": "6.5",
       "fx": "8.5",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~17.2 sec"
     },
     "Chevrolet|Trax|2018|LT": {
       "en": "1.4L I4 Turbocharged Ecotec SIDI",
@@ -3358,7 +3816,8 @@
       "fc": "9.5",
       "fh": "6.5",
       "fx": "8.5",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~17.2 sec"
     },
     "Chevrolet|Trax|2018|LTZ": {
       "en": "1.4L I4 Turbocharged Ecotec SIDI",
@@ -3377,7 +3836,8 @@
       "fc": "10.5",
       "fh": "7.0",
       "fx": "9.0",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~17.5 sec"
     },
     "Chevrolet|Trax|2018|Premier": {
       "en": "1.4L I4 Turbocharged Ecotec SIDI",
@@ -3396,7 +3856,8 @@
       "fc": "10.5",
       "fh": "7.0",
       "fx": "9.0",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~17.5 sec"
     },
     "Chevrolet|Trax|2023|LS": {
       "en": "1.2L I3 Turbocharged Ecotec",
@@ -3415,7 +3876,8 @@
       "fc": "9.0",
       "fh": "6.0",
       "fx": "8.0",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~17.2 sec"
     },
     "Chevrolet|Trax|2023|LT": {
       "en": "1.2L I3 Turbocharged Ecotec",
@@ -3434,7 +3896,8 @@
       "fc": "9.0",
       "fh": "6.0",
       "fx": "8.0",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~17.2 sec"
     },
     "Chevrolet|Trax|2023|RS": {
       "en": "1.2L I3 Turbocharged Ecotec",
@@ -3491,7 +3954,8 @@
       "fc": "9.0",
       "fh": "6.0",
       "fx": "8.0",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "qm": "~17.2 sec"
     },
     "Chevrolet|Volt|2012|Base": {
       "en": "1.4L I4 Ecotec + Electric PHEV",
@@ -3508,9 +3972,10 @@
       "z1": "~8.8 sec",
       "ts": "~160 km/h",
       "fc": "4.4",
-      "fh": "—",
-      "fx": "—",
-      "aspiration": "NA"
+      "fh": "~3.7L",
+      "fx": "~4.1L",
+      "aspiration": "NA",
+      "qm": "~16.8 sec"
     },
     "Chevrolet|Volt|2012|Premium": {
       "en": "1.4L I4 Ecotec + Electric PHEV",
@@ -3527,9 +3992,10 @@
       "z1": "~8.8 sec",
       "ts": "~160 km/h",
       "fc": "4.4",
-      "fh": "—",
-      "fx": "—",
-      "aspiration": "NA"
+      "fh": "~3.7L",
+      "fx": "~4.1L",
+      "aspiration": "NA",
+      "qm": "~16.8 sec"
     },
     "Chevrolet|Volt|2014|Base": {
       "en": "1.4L I4 Ecotec + Electric PHEV",
@@ -3546,9 +4012,10 @@
       "z1": "~8.8 sec",
       "ts": "~160 km/h",
       "fc": "4.4",
-      "fh": "—",
-      "fx": "—",
-      "aspiration": "NA"
+      "fh": "~1.7L",
+      "fx": "~2.8L",
+      "aspiration": "NA",
+      "qm": "~16.8 sec"
     },
     "Chevrolet|Volt|2014|Premium": {
       "en": "1.4L I4 Ecotec + Electric PHEV",
@@ -3565,9 +4032,10 @@
       "z1": "~8.8 sec",
       "ts": "~160 km/h",
       "fc": "4.4",
-      "fh": "—",
-      "fx": "—",
-      "aspiration": "NA"
+      "fh": "~1.7L",
+      "fx": "~2.8L",
+      "aspiration": "NA",
+      "qm": "~16.8 sec"
     },
     "Chevrolet|Volt|2017|LT": {
       "en": "1.5L I4 Ecotec + Electric PHEV",
@@ -3584,9 +4052,10 @@
       "z1": "~8.4 sec",
       "ts": "~160 km/h",
       "fc": "4.0",
-      "fh": "—",
-      "fx": "—",
-      "aspiration": "NA"
+      "fh": "~1.7L",
+      "fx": "~2.9L",
+      "aspiration": "NA",
+      "qm": "~16.4 sec"
     },
     "Chevrolet|Volt|2017|Premier": {
       "en": "1.5L I4 Ecotec + Electric PHEV",
@@ -3603,9 +4072,10 @@
       "z1": "~8.4 sec",
       "ts": "~160 km/h",
       "fc": "4.0",
-      "fh": "—",
-      "fx": "—",
-      "aspiration": "NA"
+      "fh": "~1.7L",
+      "fx": "~2.8L",
+      "aspiration": "NA",
+      "qm": "~16.4 sec"
     },
     "Chevrolet|Volt|2019|LT": {
       "en": "1.5L I4 Ecotec + Electric PHEV",
@@ -3622,9 +4092,10 @@
       "z1": "~8.4 sec",
       "ts": "~160 km/h",
       "fc": "4.0",
-      "fh": "—",
-      "fx": "—",
-      "aspiration": "NA"
+      "fh": "~1.7L",
+      "fx": "~2.8L",
+      "aspiration": "NA",
+      "qm": "~16.4 sec"
     },
     "Chevrolet|Volt|2019|Premier": {
       "en": "1.5L I4 Ecotec + Electric PHEV",
@@ -3641,9 +4112,10 @@
       "z1": "~8.4 sec",
       "ts": "~160 km/h",
       "fc": "4.0",
-      "fh": "—",
-      "fx": "—",
-      "aspiration": "NA"
+      "fh": "~1.7L",
+      "fx": "~2.8L",
+      "aspiration": "NA",
+      "qm": "~16.4 sec"
     },
     "Chevrolet|Bolt EV|2018|LT": {
       "en": "Single Motor Electric",
@@ -3660,7 +4132,8 @@
       "z1": "~6.5 sec",
       "ts": "~150 km/h",
       "fc": "60 kWh",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "qm": "~14.8 sec"
     },
     "Chevrolet|Bolt EV|2018|Premier": {
       "en": "Single Motor Electric",
@@ -3677,7 +4150,8 @@
       "z1": "~6.5 sec",
       "ts": "~150 km/h",
       "fc": "60 kWh",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "qm": "~14.8 sec"
     },
     "Chevrolet|Bolt EV|2020|LT": {
       "en": "Single Motor Electric",
@@ -3694,7 +4168,8 @@
       "z1": "~6.5 sec",
       "ts": "~150 km/h",
       "fc": "60 kWh",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "qm": "~14.8 sec"
     },
     "Chevrolet|Bolt EV|2020|2LT": {
       "en": "Single Motor Electric",
@@ -3728,7 +4203,8 @@
       "z1": "~6.5 sec",
       "ts": "~150 km/h",
       "fc": "60 kWh",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "qm": "~14.8 sec"
     },
     "Chevrolet|Bolt EV|2022|1LT": {
       "en": "Single Motor Electric",
@@ -3762,7 +4238,8 @@
       "z1": "~6.5 sec",
       "ts": "~150 km/h",
       "fc": "65 kWh",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "qm": "~14.8 sec"
     },
     "Chevrolet|Bolt EV|2022|EUV LT": {
       "en": "Single Motor Electric",
@@ -3813,7 +4290,8 @@
       "z1": "~6.5 sec",
       "ts": "~150 km/h",
       "fc": "65 kWh",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "qm": "~14.8 sec"
     },
     "Chevrolet|Bolt EV|2023|EUV LT": {
       "en": "Single Motor Electric",
@@ -3830,7 +4308,8 @@
       "z1": "~7.0 sec",
       "ts": "~150 km/h",
       "fc": "65 kWh",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "qm": "~15.2 sec"
     },
     "Chevrolet|Bolt EV|2023|EUV Premier": {
       "en": "Single Motor Electric",
@@ -3847,7 +4326,8 @@
       "z1": "~7.0 sec",
       "ts": "~150 km/h",
       "fc": "65 kWh",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "qm": "~15.2 sec"
     }
   }
 }

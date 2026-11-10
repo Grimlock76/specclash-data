@@ -19,7 +19,8 @@
       "cargo": 385,
       "acceleration": 7.3,
       "topSpeed": 160,
-      "price": "~$59,990"
+      "price": "~$59,990",
+      "quarterMile": "~15.5 sec"
     },
     "CUPRA|Born|2023|V": {
       "engine": "Single Motor Electric",
@@ -40,7 +41,8 @@
       "cargo": 385,
       "acceleration": 7.3,
       "topSpeed": 160,
-      "price": "~$59,990"
+      "price": "~$59,990",
+      "quarterMile": "~15.5 sec"
     },
     "CUPRA|Born|2024|V": {
       "engine": "Single Motor Electric",
@@ -61,7 +63,8 @@
       "cargo": 385,
       "acceleration": 7.3,
       "topSpeed": 160,
-      "price": "~$59,990"
+      "price": "~$59,990",
+      "quarterMile": "~15.5 sec"
     },
     "CUPRA|Born|2024|VZ": {
       "engine": "Single Motor Electric",
@@ -82,7 +85,8 @@
       "cargo": 385,
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$64,990"
+      "price": "~$64,990",
+      "quarterMile": "~13.9 sec"
     },
     "CUPRA|Born|2025|VZ": {
       "engine": "Single Motor Electric",
@@ -103,7 +107,8 @@
       "cargo": 385,
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$64,990"
+      "price": "~$64,990",
+      "quarterMile": "~13.9 sec"
     },
     "CUPRA|Born|2026|VZ": {
       "engine": "Single Motor Electric",
@@ -124,7 +129,8 @@
       "cargo": 385,
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$64,990"
+      "price": "~$64,990",
+      "quarterMile": "~13.9 sec"
     },
     "CUPRA|Formentor|2022|V": {
       "engine": "1.5L I4 TSI",
@@ -145,7 +151,8 @@
       "cargo": 420,
       "acceleration": 9,
       "topSpeed": 204,
-      "price": "~$42,990"
+      "price": "~$42,990",
+      "quarterMile": "~16.9 sec"
     },
     "CUPRA|Formentor|2022|VZ": {
       "engine": "2.0L I4 TSI",
@@ -166,7 +173,8 @@
       "cargo": 420,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "quarterMile": "~13.2 sec"
     },
     "CUPRA|Formentor|2022|VZx": {
       "engine": "1.4L I4 TSI PHEV",
@@ -187,7 +195,8 @@
       "cargo": 345,
       "acceleration": 7,
       "topSpeed": 210,
-      "price": "~$62,990"
+      "price": "~$62,990",
+      "quarterMile": "~15.2 sec"
     },
     "CUPRA|Formentor|2023|V": {
       "engine": "1.5L I4 TSI",
@@ -208,7 +217,8 @@
       "cargo": 420,
       "acceleration": 9,
       "topSpeed": 204,
-      "price": "~$42,990"
+      "price": "~$42,990",
+      "quarterMile": "~16.9 sec"
     },
     "CUPRA|Formentor|2023|VZ": {
       "engine": "2.0L I4 TSI",
@@ -229,7 +239,8 @@
       "cargo": 420,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "quarterMile": "~13.2 sec"
     },
     "CUPRA|Formentor|2023|VZx": {
       "engine": "1.4L I4 TSI PHEV",
@@ -250,7 +261,8 @@
       "cargo": 345,
       "acceleration": 7,
       "topSpeed": 210,
-      "price": "~$62,990"
+      "price": "~$62,990",
+      "quarterMile": "~15.2 sec"
     },
     "CUPRA|Formentor|2024|V": {
       "engine": "1.5L I4 TSI",
@@ -271,7 +283,8 @@
       "cargo": 420,
       "acceleration": 9,
       "topSpeed": 204,
-      "price": "~$42,990"
+      "price": "~$42,990",
+      "quarterMile": "~16.9 sec"
     },
     "CUPRA|Formentor|2024|VZ": {
       "engine": "2.0L I4 TSI",
@@ -292,7 +305,8 @@
       "cargo": 420,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "~$57,990"
+      "price": "~$57,990",
+      "quarterMile": "~13.2 sec"
     },
     "CUPRA|Formentor|2024|VZx": {
       "engine": "1.4L I4 TSI PHEV",
@@ -313,7 +327,8 @@
       "cargo": 345,
       "acceleration": 7,
       "topSpeed": 210,
-      "price": "~$62,990"
+      "price": "~$62,990",
+      "quarterMile": "~15.2 sec"
     },
     "CUPRA|Formentor|2025|VZ": {
       "engine": "2.0L I4 TSI",
@@ -334,7 +349,8 @@
       "cargo": 420,
       "acceleration": 4.7,
       "topSpeed": 250,
-      "price": "~$60,990"
+      "price": "~$60,990",
+      "quarterMile": "~13.0 sec"
     },
     "CUPRA|Leon|2022|VZ": {
       "engine": "2.0L I4 TSI",
@@ -355,7 +371,8 @@
       "cargo": 380,
       "acceleration": 5.7,
       "topSpeed": 250,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "quarterMile": "~14.0 sec"
     },
     "CUPRA|Leon|2023|VZ": {
       "engine": "2.0L I4 TSI",
@@ -376,7 +393,8 @@
       "cargo": 380,
       "acceleration": 5.7,
       "topSpeed": 250,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "quarterMile": "~14.0 sec"
     },
     "CUPRA|Leon|2024|VZ": {
       "engine": "2.0L I4 TSI",
@@ -397,7 +415,8 @@
       "cargo": 380,
       "acceleration": 5.7,
       "topSpeed": 250,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "quarterMile": "~14.0 sec"
     },
     "CUPRA|Ateca|2022|VZ": {
       "engine": "2.0L I4 TSI",
@@ -418,7 +437,8 @@
       "cargo": 485,
       "acceleration": 5.2,
       "topSpeed": 247,
-      "price": "~$56,990"
+      "price": "~$56,990",
+      "quarterMile": "~13.5 sec"
     },
     "CUPRA|Ateca|2023|VZ": {
       "engine": "2.0L I4 TSI",
@@ -439,7 +459,8 @@
       "cargo": 485,
       "acceleration": 5.2,
       "topSpeed": 247,
-      "price": "~$56,990"
+      "price": "~$56,990",
+      "quarterMile": "~13.5 sec"
     },
     "CUPRA|Ateca|2024|VZ": {
       "engine": "2.0L I4 TSI",
@@ -460,7 +481,8 @@
       "cargo": 485,
       "acceleration": 5.2,
       "topSpeed": 247,
-      "price": "~$56,990"
+      "price": "~$56,990",
+      "quarterMile": "~13.5 sec"
     },
     "CUPRA|Tavascan|2025|Endurance": {
       "engine": "Single Motor Electric",
@@ -481,7 +503,8 @@
       "cargo": 540,
       "acceleration": 6.8,
       "topSpeed": 180,
-      "price": "~$60,990"
+      "price": "~$60,990",
+      "quarterMile": "~15.0 sec"
     },
     "CUPRA|Tavascan|2025|VZ": {
       "engine": "Dual Motor Electric",
@@ -502,7 +525,8 @@
       "cargo": 540,
       "acceleration": 5.5,
       "topSpeed": 180,
-      "price": "~$74,990"
+      "price": "~$74,990",
+      "quarterMile": "~13.8 sec"
     },
     "CUPRA|Tavascan|2026|Endurance": {
       "engine": "Single Motor Electric",
@@ -523,7 +547,8 @@
       "cargo": 540,
       "acceleration": 6.8,
       "topSpeed": 180,
-      "price": "~$60,990"
+      "price": "~$60,990",
+      "quarterMile": "~15.0 sec"
     },
     "CUPRA|Tavascan|2026|VZ": {
       "engine": "Dual Motor Electric",
@@ -544,7 +569,8 @@
       "cargo": 540,
       "acceleration": 5.5,
       "topSpeed": 180,
-      "price": "~$74,990"
+      "price": "~$74,990",
+      "quarterMile": "~13.8 sec"
     },
     "CUPRA|Terramar|2025|VZ": {
       "engine": "1.5L I4 TSI eHybrid",
@@ -565,7 +591,8 @@
       "cargo": 400,
       "acceleration": 7.3,
       "topSpeed": 200,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~15.5 sec"
     },
     "CUPRA|Terramar|2026|VZ": {
       "engine": "1.5L I4 TSI eHybrid",
@@ -586,7 +613,8 @@
       "cargo": 400,
       "acceleration": 7.3,
       "topSpeed": 200,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~15.5 sec"
     },
     "XPENG|G6|2024|Standard Range": {
       "engine": "Single Motor Electric",
@@ -607,7 +635,8 @@
       "cargo": 571,
       "acceleration": 6.9,
       "topSpeed": 200,
-      "price": "~$54,800"
+      "price": "~$54,800",
+      "quarterMile": "~15.1 sec"
     },
     "XPENG|G6|2024|Long Range": {
       "engine": "Single Motor Electric",
@@ -628,7 +657,8 @@
       "cargo": 571,
       "acceleration": 6.6,
       "topSpeed": 200,
-      "price": "~$59,800"
+      "price": "~$59,800",
+      "quarterMile": "~14.9 sec"
     },
     "XPENG|G6|2024|Performance": {
       "engine": "Dual Motor Electric",
@@ -649,7 +679,8 @@
       "cargo": 571,
       "acceleration": 4.1,
       "topSpeed": 200,
-      "price": "~$64,800"
+      "price": "~$64,800",
+      "quarterMile": "~12.4 sec"
     },
     "XPENG|G6|2025|Standard Range": {
       "engine": "Single Motor Electric",
@@ -670,7 +701,8 @@
       "cargo": 571,
       "acceleration": 6.9,
       "topSpeed": 200,
-      "price": "~$54,800"
+      "price": "~$54,800",
+      "quarterMile": "~15.1 sec"
     },
     "XPENG|G6|2025|Long Range": {
       "engine": "Single Motor Electric",
@@ -691,7 +723,8 @@
       "cargo": 571,
       "acceleration": 6.6,
       "topSpeed": 200,
-      "price": "~$59,800"
+      "price": "~$59,800",
+      "quarterMile": "~14.9 sec"
     },
     "XPENG|G6|2025|Performance": {
       "engine": "Dual Motor Electric",
@@ -712,7 +745,8 @@
       "cargo": 571,
       "acceleration": 4.1,
       "topSpeed": 200,
-      "price": "~$64,800"
+      "price": "~$64,800",
+      "quarterMile": "~12.4 sec"
     },
     "XPENG|G6|2026|Standard Range": {
       "engine": "Single Motor Electric",
@@ -733,7 +767,8 @@
       "cargo": 571,
       "acceleration": 6.9,
       "topSpeed": 200,
-      "price": "~$54,800"
+      "price": "~$54,800",
+      "quarterMile": "~15.1 sec"
     },
     "XPENG|G6|2026|Long Range": {
       "engine": "Single Motor Electric",
@@ -754,7 +789,8 @@
       "cargo": 571,
       "acceleration": 6.6,
       "topSpeed": 200,
-      "price": "~$59,800"
+      "price": "~$59,800",
+      "quarterMile": "~14.9 sec"
     },
     "XPENG|G6|2026|Performance": {
       "engine": "Dual Motor Electric",
@@ -775,7 +811,8 @@
       "cargo": 571,
       "acceleration": 4.1,
       "topSpeed": 200,
-      "price": "~$64,800"
+      "price": "~$64,800",
+      "quarterMile": "~12.4 sec"
     },
     "XPENG|G9|2025|Long Range": {
       "engine": "Single Motor Electric",
@@ -796,7 +833,8 @@
       "cargo": 660,
       "acceleration": 6.4,
       "topSpeed": 200,
-      "price": "~$76,800"
+      "price": "~$76,800",
+      "quarterMile": "~14.7 sec"
     },
     "XPENG|G9|2025|Performance": {
       "engine": "Dual Motor Electric",
@@ -817,7 +855,8 @@
       "cargo": 660,
       "acceleration": 3.9,
       "topSpeed": 200,
-      "price": "~$86,800"
+      "price": "~$86,800",
+      "quarterMile": "~12.2 sec"
     },
     "XPENG|G9|2026|Long Range": {
       "engine": "Single Motor Electric",
@@ -838,7 +877,8 @@
       "cargo": 660,
       "acceleration": 6.4,
       "topSpeed": 200,
-      "price": "~$76,800"
+      "price": "~$76,800",
+      "quarterMile": "~14.7 sec"
     },
     "XPENG|G9|2026|Performance": {
       "engine": "Dual Motor Electric",
@@ -859,7 +899,8 @@
       "cargo": 660,
       "acceleration": 3.9,
       "topSpeed": 200,
-      "price": "~$86,800"
+      "price": "~$86,800",
+      "quarterMile": "~12.2 sec"
     },
     "XPENG|X9|2025|Long Range": {
       "engine": "Single Motor Electric",
@@ -880,7 +921,8 @@
       "cargo": 510,
       "acceleration": 7.7,
       "topSpeed": 200,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~15.8 sec"
     },
     "XPENG|X9|2025|Performance": {
       "engine": "Dual Motor Electric",
@@ -901,7 +943,8 @@
       "cargo": 510,
       "acceleration": 5.7,
       "topSpeed": 200,
-      "price": "~$100,000"
+      "price": "~$100,000",
+      "quarterMile": "~14.0 sec"
     },
     "XPENG|X9|2026|Long Range": {
       "engine": "Single Motor Electric",
@@ -922,7 +965,8 @@
       "cargo": 510,
       "acceleration": 7.7,
       "topSpeed": 200,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~15.8 sec"
     },
     "XPENG|X9|2026|Performance": {
       "engine": "Dual Motor Electric",
@@ -943,7 +987,8 @@
       "cargo": 510,
       "acceleration": 5.7,
       "topSpeed": 200,
-      "price": "~$100,000"
+      "price": "~$100,000",
+      "quarterMile": "~14.0 sec"
     },
     "Deepal|S07|2025|EV": {
       "engine": "Single Motor Electric",
@@ -964,7 +1009,8 @@
       "cargo": 445,
       "acceleration": 6.7,
       "topSpeed": 170,
-      "price": "~$53,900"
+      "price": "~$53,900",
+      "quarterMile": "~14.9 sec"
     },
     "Deepal|S07|2025|EREV": {
       "engine": "1.5L I4 Range Extender",
@@ -985,7 +1031,8 @@
       "cargo": 445,
       "acceleration": 7.5,
       "topSpeed": 170,
-      "price": "~$56,900"
+      "price": "~$56,900",
+      "quarterMile": "~15.6 sec"
     },
     "Deepal|S07|2026|EV": {
       "engine": "Single Motor Electric",
@@ -1006,7 +1053,8 @@
       "cargo": 445,
       "acceleration": 6.7,
       "topSpeed": 170,
-      "price": "~$53,900"
+      "price": "~$53,900",
+      "quarterMile": "~14.9 sec"
     },
     "Deepal|S07|2026|EREV": {
       "engine": "1.5L I4 Range Extender",
@@ -1027,7 +1075,8 @@
       "cargo": 445,
       "acceleration": 7.5,
       "topSpeed": 170,
-      "price": "~$56,900"
+      "price": "~$56,900",
+      "quarterMile": "~15.6 sec"
     },
     "Deepal|E07|2025|EV AWD": {
       "engine": "Dual Motor Electric",
@@ -1048,7 +1097,8 @@
       "cargo": 520,
       "acceleration": 4.5,
       "topSpeed": 200,
-      "price": "~$69,900"
+      "price": "~$69,900",
+      "quarterMile": "~12.8 sec"
     },
     "Deepal|E07|2026|EV AWD": {
       "engine": "Dual Motor Electric",
@@ -1069,7 +1119,8 @@
       "cargo": 520,
       "acceleration": 4.5,
       "topSpeed": 200,
-      "price": "~$69,900"
+      "price": "~$69,900",
+      "quarterMile": "~12.8 sec"
     },
     "Skywell|BE11|2023|Standard": {
       "engine": "Single Motor Electric",
@@ -1090,7 +1141,8 @@
       "cargo": 467,
       "acceleration": 9.6,
       "topSpeed": 150,
-      "price": "~$46,900"
+      "price": "~$46,900",
+      "quarterMile": "~17.3 sec"
     },
     "Skywell|BE11|2023|Premium": {
       "engine": "Single Motor Electric",
@@ -1111,7 +1163,8 @@
       "cargo": 467,
       "acceleration": 9.6,
       "topSpeed": 150,
-      "price": "~$52,900"
+      "price": "~$52,900",
+      "quarterMile": "~17.3 sec"
     },
     "Skywell|BE11|2024|Standard": {
       "engine": "Single Motor Electric",
@@ -1132,7 +1185,8 @@
       "cargo": 467,
       "acceleration": 9.6,
       "topSpeed": 150,
-      "price": "~$46,900"
+      "price": "~$46,900",
+      "quarterMile": "~17.3 sec"
     },
     "Skywell|BE11|2024|Premium": {
       "engine": "Single Motor Electric",
@@ -1153,7 +1207,8 @@
       "cargo": 467,
       "acceleration": 9.6,
       "topSpeed": 150,
-      "price": "~$52,900"
+      "price": "~$52,900",
+      "quarterMile": "~17.3 sec"
     },
     "Skywell|BE11|2025|Standard": {
       "engine": "Single Motor Electric",
@@ -1174,7 +1229,8 @@
       "cargo": 467,
       "acceleration": 9.6,
       "topSpeed": 150,
-      "price": "~$46,900"
+      "price": "~$46,900",
+      "quarterMile": "~17.3 sec"
     },
     "Skywell|BE11|2025|Premium": {
       "engine": "Single Motor Electric",
@@ -1195,7 +1251,8 @@
       "cargo": 467,
       "acceleration": 9.6,
       "topSpeed": 150,
-      "price": "~$52,900"
+      "price": "~$52,900",
+      "quarterMile": "~17.3 sec"
     },
     "Aiways|U5|2022|Standard": {
       "engine": "Single Motor Electric",
@@ -1216,7 +1273,8 @@
       "cargo": 432,
       "acceleration": 7.5,
       "topSpeed": 150,
-      "price": "~$46,990"
+      "price": "~$46,990",
+      "quarterMile": "~15.6 sec"
     },
     "Aiways|U5|2023|Standard": {
       "engine": "Single Motor Electric",
@@ -1237,7 +1295,8 @@
       "cargo": 432,
       "acceleration": 7.5,
       "topSpeed": 150,
-      "price": "~$46,990"
+      "price": "~$46,990",
+      "quarterMile": "~15.6 sec"
     },
     "Aiways|U6|2023|Coupe": {
       "engine": "Single Motor Electric",
@@ -1258,7 +1317,8 @@
       "cargo": 472,
       "acceleration": 6.9,
       "topSpeed": 160,
-      "price": "~$50,990"
+      "price": "~$50,990",
+      "quarterMile": "~15.1 sec"
     }
   }
 }

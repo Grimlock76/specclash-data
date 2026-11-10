@@ -10,7 +10,7 @@
       "torque": 392,
       "drivetrain": "FWD",
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 250,
       "transmission": "6-speed manual",
       "fc": 11.8,
       "fh": 6.6,
@@ -20,7 +20,11 @@
       "cargo": 381,
       "fuelTank": 50,
       "weight": 1508,
-      "price": "$52,000"
+      "price": "$52,000",
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|i30 N|2025|N DCT": {
       "engine": "2.0L I4 Turbo Petrol",
@@ -32,7 +36,7 @@
       "torque": 392,
       "drivetrain": "FWD",
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 250,
       "transmission": "8-speed dual-clutch",
       "fc": 11.9,
       "fh": 6.5,
@@ -41,8 +45,13 @@
       "accelClaimed": true,
       "cargo": 381,
       "fuelTank": 50,
-      "weight": null,
-      "price": "$52,000"
+      "weight": 1510,
+      "price": "$52,000",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.6 sec"
     },
     "Hyundai|i30 N|2025|N Premium Manual": {
       "engine": "2.0L I4 Turbo Petrol",
@@ -54,7 +63,7 @@
       "torque": 392,
       "drivetrain": "FWD",
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 250,
       "transmission": "6-speed manual",
       "fc": 11.8,
       "fh": 6.6,
@@ -64,7 +73,11 @@
       "cargo": 381,
       "fuelTank": 50,
       "weight": 1508,
-      "price": "$55,500"
+      "price": "$55,500",
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|i30 N|2025|N Premium DCT": {
       "engine": "2.0L I4 Turbo Petrol",
@@ -76,7 +89,7 @@
       "torque": 392,
       "drivetrain": "FWD",
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 250,
       "transmission": "8-speed dual-clutch",
       "fc": 11.9,
       "fh": 6.5,
@@ -85,8 +98,13 @@
       "accelClaimed": true,
       "cargo": 381,
       "fuelTank": 50,
-      "weight": null,
-      "price": "$55,500"
+      "weight": 1510,
+      "price": "$55,500",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.6 sec"
     },
     "Hyundai|i30 N|2025|Sedan N Premium Manual": {
       "engine": "2.0L I4 Turbo Petrol",
@@ -98,7 +116,7 @@
       "torque": 392,
       "drivetrain": "FWD",
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 250,
       "transmission": "6-speed manual",
       "fc": 12,
       "fh": 6.5,
@@ -108,7 +126,11 @@
       "cargo": 464,
       "fuelTank": 47,
       "weight": 1475,
-      "price": "$53,000"
+      "price": "$53,000",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|i30 N|2025|Sedan N Premium DCT": {
       "engine": "2.0L I4 Turbo Petrol",
@@ -120,7 +142,7 @@
       "torque": 392,
       "drivetrain": "FWD",
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 250,
       "transmission": "8-speed dual-clutch",
       "fc": 11.8,
       "fh": 6.3,
@@ -130,10 +152,14 @@
       "cargo": 464,
       "fuelTank": 47,
       "weight": 1515,
-      "price": "$53,000"
+      "price": "$53,000",
+      "quarterMile": "~13.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|i30 N|2026|N Manual": {
-      "topSpeed": null,
+      "topSpeed": 250,
       "acceleration": 5.9,
       "cargo": 381,
       "seats": 5,
@@ -152,10 +178,14 @@
       "fx": 8.5,
       "weight": 1508,
       "price": "$52,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|i30 N|2026|N DCT": {
-      "topSpeed": null,
+      "topSpeed": 250,
       "acceleration": 5.3,
       "cargo": 381,
       "seats": 5,
@@ -173,10 +203,16 @@
       "fh": 6.5,
       "fx": 8.5,
       "price": "$52,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1510,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.6 sec"
     },
     "Hyundai|i30 N|2026|N Premium Manual": {
-      "topSpeed": null,
+      "topSpeed": 250,
       "acceleration": 5.9,
       "cargo": 381,
       "seats": 5,
@@ -195,10 +231,14 @@
       "fx": 8.5,
       "weight": 1508,
       "price": "$55,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|i30 N|2026|N Premium DCT": {
-      "topSpeed": null,
+      "topSpeed": 250,
       "acceleration": 5.3,
       "cargo": 381,
       "seats": 5,
@@ -216,11 +256,17 @@
       "fh": 6.5,
       "fx": 8.5,
       "price": "$56,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1510,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.6 sec"
     },
     "Hyundai|Santa Fe|2025|Santa Fe": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 200,
+      "acceleration": 7.9,
       "cargo": null,
       "engine": "2.5L I4 Turbo Petrol",
       "displacement": 2497,
@@ -239,10 +285,13 @@
       "drivetrain": "FWD",
       "weight": 1969,
       "price": "$53,250",
-      "accelClaimed": false
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Santa Fe|2025|Elite AWD": {
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 7.7,
       "cargo": null,
       "engine": "2.5L I4 Turbo Petrol",
@@ -262,11 +311,15 @@
       "drivetrain": "AWD",
       "weight": 2034,
       "price": "$62,750",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Santa Fe|2025|Calligraphy AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 200,
+      "acceleration": 7.7,
       "cargo": null,
       "engine": "2.5L I4 Turbo Petrol",
       "displacement": 2497,
@@ -285,11 +338,14 @@
       "drivetrain": "AWD",
       "weight": 2034,
       "price": "$72,750",
-      "accelClaimed": false
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Santa Fe|2025|Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 8.8,
       "cargo": null,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -307,10 +363,13 @@
       "drivetrain": "FWD",
       "weight": 1925,
       "price": "$57,650",
-      "accelClaimed": false
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Santa Fe|2025|Hybrid Elite AWD": {
-      "topSpeed": null,
+      "topSpeed": 185,
       "acceleration": 8.5,
       "cargo": null,
       "engine": "1.6L I4 Turbo Hybrid",
@@ -329,11 +388,15 @@
       "drivetrain": "AWD",
       "weight": 1990,
       "price": "$67,150",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Santa Fe|2025|Hybrid Calligraphy AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.9,
       "cargo": null,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -351,11 +414,14 @@
       "drivetrain": "AWD",
       "weight": 1990,
       "price": "$77,150",
-      "accelClaimed": false
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Santa Fe|2026|Santa Fe": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 7.5,
+      "topSpeed": 205,
       "seats": 7,
       "engine": "2.5L I4 Turbo Petrol",
       "displacement": 2497,
@@ -374,11 +440,14 @@
       "fx": 8.6,
       "weight": 1850,
       "price": "$54,650",
-      "accelClaimed": false
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Santa Fe|2026|Elite": {
       "acceleration": 7.7,
-      "topSpeed": null,
+      "topSpeed": 205,
       "seats": 7,
       "engine": "2.5L I4 Turbo Petrol",
       "displacement": 2497,
@@ -397,11 +466,15 @@
       "fx": 9.1,
       "weight": 1915,
       "price": "$63,900",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Santa Fe|2026|Calligraphy": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 7.3,
+      "topSpeed": 205,
       "seats": 7,
       "engine": "2.5L I4 Turbo Petrol",
       "displacement": 2497,
@@ -420,11 +493,14 @@
       "fx": 9.1,
       "weight": 1915,
       "price": "$73,900",
-      "accelClaimed": false
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Santa Fe|2026|Hybrid": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.8,
+      "topSpeed": 190,
       "seats": 7,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -443,11 +519,14 @@
       "drivetrain": "FWD",
       "weight": 1925,
       "price": "$57,650",
-      "accelClaimed": false
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Santa Fe|2026|Hybrid Elite AWD": {
       "acceleration": 8.5,
-      "topSpeed": null,
+      "topSpeed": 190,
       "seats": 7,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -466,11 +545,15 @@
       "drivetrain": "AWD",
       "weight": 1990,
       "price": "$67,150",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Santa Fe|2026|Hybrid Calligraphy AWD": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.9,
+      "topSpeed": 190,
       "seats": 7,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -489,11 +572,14 @@
       "drivetrain": "AWD",
       "weight": 1990,
       "price": "$77,150",
-      "accelClaimed": false
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Kona|2025|Kona": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 11,
       "cargo": 407,
       "seats": 5,
       "drivetrain": "FWD",
@@ -512,11 +598,14 @@
       "fuelTank": 47,
       "weight": 1335,
       "price": "$32,950",
-      "accelClaimed": false
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Kona|2025|Elite": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 11.9,
       "cargo": 407,
       "seats": 5,
       "drivetrain": "FWD",
@@ -535,11 +624,14 @@
       "fuelTank": 47,
       "weight": 1455,
       "price": "$35,950",
-      "accelClaimed": false
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Kona|2025|Premium N Line": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 11.9,
       "cargo": 407,
       "seats": 5,
       "drivetrain": "FWD",
@@ -558,12 +650,15 @@
       "fuelTank": 47,
       "weight": 1455,
       "price": "$42,750",
-      "accelClaimed": false
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Kona|2025|Hybrid": {
-      "topSpeed": null,
+      "topSpeed": 175,
       "acceleration": 11.2,
-      "cargo": null,
+      "cargo": 407,
       "seats": 5,
       "drivetrain": "FWD",
       "engine": "1.6L I4 Hybrid",
@@ -580,12 +675,17 @@
       "towing": 1300,
       "weight": 1525,
       "price": "$36,950",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.3 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Hyundai|Kona|2025|Hybrid Premium": {
-      "topSpeed": null,
+      "topSpeed": 175,
       "acceleration": 11.2,
-      "cargo": null,
+      "cargo": 407,
       "seats": 5,
       "drivetrain": "FWD",
       "engine": "1.6L I4 Hybrid",
@@ -602,12 +702,17 @@
       "towing": 1300,
       "weight": 1410,
       "price": "$43,750",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.3 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Hyundai|Kona|2025|Electric": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 160,
+      "acceleration": 8.9,
+      "cargo": 407,
       "seats": 5,
       "drivetrain": "FWD",
       "engine": "Single-Motor Electric",
@@ -625,12 +730,16 @@
       "weight": 1795,
       "range": 505,
       "price": "$58,000",
-      "accelClaimed": false
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Hyundai|Kona|2025|Electric Premium": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 160,
+      "acceleration": 8.9,
+      "cargo": 407,
       "seats": 5,
       "drivetrain": "FWD",
       "engine": "Single-Motor Electric",
@@ -648,12 +757,16 @@
       "weight": 1795,
       "range": 444,
       "price": "$68,000",
-      "accelClaimed": false
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Hyundai|Kona|2026|Kona": {
       "seats": 5,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 11,
       "cargo": 407,
       "weight": 1335,
       "engine": "2.0L I4 Petrol",
@@ -671,12 +784,15 @@
       "towing": 1300,
       "fuelTank": 47,
       "price": "$33,700",
-      "accelClaimed": false
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Kona|2026|Elite": {
       "seats": 5,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 11.9,
       "cargo": 407,
       "weight": 1455,
       "engine": "2.0L I4 Petrol",
@@ -694,12 +810,15 @@
       "towing": 1300,
       "fuelTank": 47,
       "price": "$36,700",
-      "accelClaimed": false
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Kona|2026|Elite N Line": {
       "seats": 5,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 11.9,
       "cargo": 407,
       "weight": 1455,
       "engine": "2.0L I4 Petrol",
@@ -717,14 +836,17 @@
       "towing": 1300,
       "fuelTank": 47,
       "price": "$40,200",
-      "accelClaimed": false
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Kona|2026|Premium": {
       "seats": 5,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 11.9,
       "cargo": 407,
-      "weight": null,
+      "weight": 1455,
       "engine": "2.0L I4 Petrol",
       "displacement": 1999,
       "cylinders": 4,
@@ -740,12 +862,16 @@
       "towing": 1300,
       "fuelTank": 47,
       "price": "$42,700",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.7 sec"
     },
     "Hyundai|Kona|2026|Premium N Line": {
       "seats": 5,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 11.9,
       "cargo": 407,
       "weight": 1455,
       "engine": "2.0L I4 Petrol",
@@ -763,11 +889,14 @@
       "towing": 1300,
       "fuelTank": 47,
       "price": "$45,700",
-      "accelClaimed": false
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Kona|2026|Hybrid": {
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 175,
       "acceleration": 11.2,
       "cargo": 407,
       "weight": 1525,
@@ -786,14 +915,18 @@
       "towing": 1300,
       "fuelTank": 38,
       "price": "$36,950",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Kona|2026|Hybrid Elite": {
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 175,
       "acceleration": 11.2,
       "cargo": 407,
-      "weight": null,
+      "weight": 1525,
       "engine": "1.6L I4 Hybrid",
       "displacement": 1580,
       "cylinders": 4,
@@ -809,11 +942,16 @@
       "towing": 1300,
       "fuelTank": 38,
       "price": "$39,950",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.3 sec"
     },
     "Hyundai|Kona|2026|Hybrid Elite N Line": {
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 175,
       "acceleration": 11.2,
       "cargo": 407,
       "weight": 1525,
@@ -832,14 +970,18 @@
       "towing": 1300,
       "fuelTank": 38,
       "price": "$43,450",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Kona|2026|Hybrid Premium": {
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 175,
       "acceleration": 11.2,
       "cargo": 407,
-      "weight": null,
+      "weight": 1525,
       "engine": "1.6L I4 Hybrid",
       "displacement": 1580,
       "cylinders": 4,
@@ -855,11 +997,16 @@
       "towing": 1300,
       "fuelTank": 38,
       "price": "$45,950",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.3 sec"
     },
     "Hyundai|Kona|2026|Hybrid Premium N Line": {
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 175,
       "acceleration": 11.2,
       "cargo": 407,
       "weight": 1525,
@@ -878,12 +1025,16 @@
       "towing": 1300,
       "fuelTank": 38,
       "price": "$48,950",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Kona|2026|Electric": {
       "seats": 5,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 160,
+      "acceleration": 8.9,
       "cargo": 407,
       "weight": 1795,
       "engine": "Single Motor Electric",
@@ -902,12 +1053,15 @@
       "towing": 750,
       "range": 505,
       "price": "$58,000",
-      "accelClaimed": false
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Kona|2026|Electric Premium": {
       "seats": 5,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 160,
+      "acceleration": 8.9,
       "cargo": 407,
       "weight": 1795,
       "engine": "Single Motor Electric",
@@ -926,7 +1080,10 @@
       "towing": 750,
       "range": 444,
       "price": "$68,000",
-      "accelClaimed": false
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Ioniq 5|2025|Standard Range RWD": {
       "displacement": null,
@@ -937,9 +1094,9 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 170,
       "acceleration": 8.5,
-      "cargo": null,
+      "cargo": 526,
       "seats": 5,
       "engine": "Single-Motor Electric",
       "drivetrain": "RWD",
@@ -949,7 +1106,14 @@
       "range": 440,
       "towing": 750,
       "price": "$69,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1985,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.5 sec"
     },
     "Hyundai|Ioniq 5|2025|Elite RWD": {
       "displacement": null,
@@ -960,9 +1124,9 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 190,
+      "acceleration": 7.3,
+      "cargo": 526,
       "seats": 5,
       "engine": "Single-Motor Electric",
       "drivetrain": "RWD",
@@ -971,7 +1135,13 @@
       "battery": "84 kWh",
       "range": 530,
       "price": "$81,200",
-      "accelClaimed": false
+      "weight": 2050,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Hyundai|Ioniq 5|2025|N Line Premium AWD": {
       "displacement": null,
@@ -982,9 +1152,9 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 190,
       "acceleration": 5.3,
-      "cargo": null,
+      "cargo": 526,
       "seats": 5,
       "engine": "Dual-Motor Electric",
       "drivetrain": "AWD",
@@ -993,7 +1163,14 @@
       "battery": "84 kWh",
       "range": 495,
       "price": "$91,618",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2215,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.6 sec"
     },
     "Hyundai|Ioniq 5|2026|RWD": {
       "fuelType": "electric",
@@ -1004,9 +1181,9 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
-      "acceleration": null,
-      "weight": null,
+      "topSpeed": 190,
+      "acceleration": 7.3,
+      "weight": 2050,
       "seats": 5,
       "cargo": 520,
       "engine": "Single Motor Electric",
@@ -1017,7 +1194,11 @@
       "range": 570,
       "towing": 1600,
       "price": "$68,200",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Hyundai|Ioniq 5|2026|Elite RWD": {
       "fuelType": "electric",
@@ -1028,9 +1209,9 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
-      "acceleration": null,
-      "weight": null,
+      "topSpeed": 190,
+      "acceleration": 7.3,
+      "weight": 2050,
       "seats": 5,
       "cargo": 520,
       "engine": "Single Motor Electric",
@@ -1041,7 +1222,11 @@
       "range": 530,
       "towing": 1600,
       "price": "$73,200",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Hyundai|Ioniq 5|2026|N Line Premium AWD": {
       "fuelType": "electric",
@@ -1052,9 +1237,9 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 190,
       "acceleration": 5.3,
-      "weight": null,
+      "weight": 2215,
       "seats": 5,
       "cargo": 520,
       "engine": "Dual Motor Electric",
@@ -1065,13 +1250,18 @@
       "range": 495,
       "towing": 1600,
       "price": "$83,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.6 sec"
     },
     "Hyundai|Staria|2025|Staria": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 215,
+      "acceleration": 9.3,
+      "cargo": 635,
+      "weight": 2175,
       "seats": 8,
       "transmission": "8-speed automatic",
       "towing": 2500,
@@ -1087,13 +1277,18 @@
       "fh": 8.2,
       "fx": 10.5,
       "price": "$49,750",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Hyundai|Staria|2025|Staria Diesel AWD": {
-      "topSpeed": null,
+      "topSpeed": 180,
       "acceleration": 13.5,
-      "cargo": null,
-      "weight": null,
+      "cargo": 635,
+      "weight": 2235,
       "seats": 8,
       "transmission": "8-speed automatic",
       "towing": 2500,
@@ -1109,13 +1304,19 @@
       "fh": 7,
       "fx": 8.2,
       "price": "$52,750",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~19.6 sec"
     },
     "Hyundai|Staria|2025|Elite": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 215,
+      "acceleration": 9.3,
+      "cargo": 635,
+      "weight": 2175,
       "seats": 8,
       "transmission": "8-speed automatic",
       "towing": 2500,
@@ -1131,13 +1332,18 @@
       "fh": 8.2,
       "fx": 10.5,
       "price": "$57,750",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Hyundai|Staria|2025|Elite Diesel AWD": {
-      "topSpeed": null,
+      "topSpeed": 180,
       "acceleration": 13.5,
-      "cargo": null,
-      "weight": null,
+      "cargo": 635,
+      "weight": 2235,
       "seats": 8,
       "transmission": "8-speed automatic",
       "towing": 2500,
@@ -1153,13 +1359,19 @@
       "fh": 7,
       "fx": 8.2,
       "price": "$60,750",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~19.6 sec"
     },
     "Hyundai|Staria|2025|Highlander": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 215,
+      "acceleration": 10.3,
+      "cargo": 635,
+      "weight": 2175,
       "seats": 8,
       "transmission": "8-speed automatic",
       "towing": 2500,
@@ -1175,13 +1387,18 @@
       "fh": 8.2,
       "fx": 10.5,
       "price": "$64,750",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~17.7 sec"
     },
     "Hyundai|Staria|2025|Highlander Diesel AWD": {
-      "topSpeed": null,
+      "topSpeed": 180,
       "acceleration": 13.5,
-      "cargo": null,
-      "weight": null,
+      "cargo": 635,
+      "weight": 2235,
       "seats": 8,
       "transmission": "8-speed automatic",
       "towing": 2500,
@@ -1197,13 +1414,19 @@
       "fh": 7,
       "fx": 8.2,
       "price": "$67,750",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~19.6 sec"
     },
     "Hyundai|Staria|2026|Staria": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 215,
+      "acceleration": 10.3,
       "cargo": null,
-      "weight": null,
+      "weight": 2175,
       "seats": 8,
       "transmission": "8-speed automatic",
       "towing": 2500,
@@ -1219,13 +1442,17 @@
       "fh": 8.2,
       "fx": 10.5,
       "price": "$54,300",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.7 sec"
     },
     "Hyundai|Staria|2026|Staria Diesel 2WD": {
-      "topSpeed": null,
+      "topSpeed": 180,
       "acceleration": 12.4,
       "cargo": null,
-      "weight": null,
+      "weight": 2235,
       "seats": 8,
       "transmission": "8-speed automatic",
       "towing": 2500,
@@ -1241,13 +1468,18 @@
       "fh": 6.5,
       "fx": 7.2,
       "price": "$54,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~19.0 sec"
     },
     "Hyundai|Staria|2026|Elite": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 215,
+      "acceleration": 10.3,
       "cargo": null,
-      "weight": null,
+      "weight": 2175,
       "seats": 8,
       "transmission": "8-speed automatic",
       "towing": 2500,
@@ -1263,13 +1495,17 @@
       "fh": 8.2,
       "fx": 10.5,
       "price": "$58,500",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.7 sec"
     },
     "Hyundai|Staria|2026|Elite Diesel AWD": {
-      "topSpeed": null,
+      "topSpeed": 180,
       "acceleration": 13.5,
       "cargo": null,
-      "weight": null,
+      "weight": 2235,
       "seats": 8,
       "transmission": "8-speed automatic",
       "towing": 2500,
@@ -1285,13 +1521,18 @@
       "fh": 7,
       "fx": 8.2,
       "price": "$61,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~19.6 sec"
     },
     "Hyundai|Staria|2026|Highlander": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 215,
+      "acceleration": 10.3,
       "cargo": null,
-      "weight": null,
+      "weight": 2175,
       "seats": 8,
       "transmission": "8-speed automatic",
       "towing": 2500,
@@ -1307,13 +1548,17 @@
       "fh": 8.2,
       "fx": 10.5,
       "price": "$65,500",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.7 sec"
     },
     "Hyundai|Staria|2026|Highlander Diesel AWD": {
-      "topSpeed": null,
+      "topSpeed": 180,
       "acceleration": 13.5,
       "cargo": null,
-      "weight": null,
+      "weight": 2235,
       "seats": 8,
       "transmission": "8-speed automatic",
       "towing": 2500,
@@ -1329,13 +1574,18 @@
       "fh": 7,
       "fx": 8.2,
       "price": "$68,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~19.6 sec"
     },
     "Hyundai|Staria|2026|Lounge Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 205,
+      "acceleration": 10.7,
       "cargo": null,
-      "weight": null,
+      "weight": 2175,
       "seats": 7,
       "transmission": "6-speed automatic",
       "towing": null,
@@ -1345,13 +1595,20 @@
       "aspiration": "Turbo",
       "fuelType": "hybrid",
       "power": 180,
-      "torque": null,
+      "torque": 350,
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 7.4,
+      "fh": 5.4,
       "fx": 6.5,
       "price": "$73,740",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~18.0 sec"
     },
     "Hyundai|Inster|2025|Standard Range": {
       "fuelType": "electric",
@@ -1363,7 +1620,7 @@
       "fh": null,
       "fx": null,
       "seats": 4,
-      "topSpeed": null,
+      "topSpeed": 135,
       "acceleration": 11.7,
       "cargo": 280,
       "engine": "Single Motor Electric",
@@ -1374,7 +1631,11 @@
       "range": 327,
       "weight": 1393,
       "price": "$39,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Inster|2025|Extended Range": {
       "fuelType": "electric",
@@ -1386,7 +1647,7 @@
       "fh": null,
       "fx": null,
       "seats": 4,
-      "topSpeed": null,
+      "topSpeed": 145,
       "acceleration": 10.6,
       "cargo": 280,
       "engine": "Single Motor Electric",
@@ -1397,7 +1658,11 @@
       "range": 360,
       "weight": 1423,
       "price": "$42,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Inster|2025|Cross": {
       "fuelType": "electric",
@@ -1409,8 +1674,8 @@
       "fh": null,
       "fx": null,
       "seats": 4,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 145,
+      "acceleration": 10.7,
       "cargo": 280,
       "engine": "Single Motor Electric",
       "drivetrain": "FWD",
@@ -1418,9 +1683,13 @@
       "power": 84.5,
       "battery": "49 kWh",
       "range": null,
-      "weight": null,
+      "weight": 1425,
       "price": "$45,000",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.0 sec"
     },
     "Hyundai|Inster|2026|Standard Range": {
       "fuelType": "electric",
@@ -1432,7 +1701,7 @@
       "fh": null,
       "fx": null,
       "seats": 4,
-      "topSpeed": null,
+      "topSpeed": 135,
       "acceleration": 11.7,
       "cargo": 280,
       "engine": "Single Motor Electric",
@@ -1443,7 +1712,11 @@
       "range": 327,
       "weight": 1393,
       "price": "$39,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Inster|2026|Extended Range": {
       "fuelType": "electric",
@@ -1455,7 +1728,7 @@
       "fh": null,
       "fx": null,
       "seats": 4,
-      "topSpeed": null,
+      "topSpeed": 145,
       "acceleration": 10.6,
       "cargo": 280,
       "engine": "Single Motor Electric",
@@ -1466,7 +1739,11 @@
       "range": 360,
       "weight": 1423,
       "price": "$42,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Inster|2026|Cross": {
       "fuelType": "electric",
@@ -1478,8 +1755,8 @@
       "fh": null,
       "fx": null,
       "seats": 4,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 145,
+      "acceleration": 10.7,
       "cargo": 280,
       "engine": "Single Motor Electric",
       "drivetrain": "FWD",
@@ -1487,14 +1764,18 @@
       "power": 84.5,
       "battery": "49 kWh",
       "range": null,
-      "weight": null,
+      "weight": 1425,
       "price": "$45,000",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.0 sec"
     },
     "Kia|Sorento|2025|S Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 190,
+      "acceleration": 9.2,
+      "cargo": 179,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
       "cylinders": 4,
@@ -1512,12 +1793,16 @@
       "towing": 2000,
       "fuelTank": 67,
       "price": "$54,380",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Kia|Sorento|2025|GT-Line Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 190,
+      "acceleration": 9.2,
+      "cargo": 179,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
       "cylinders": 4,
@@ -1535,12 +1820,16 @@
       "towing": 2000,
       "fuelTank": 67,
       "price": "$69,290",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Kia|Sorento|2025|HEV S": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 195,
+      "acceleration": 8.8,
+      "cargo": 179,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
       "cylinders": 4,
@@ -1557,12 +1846,16 @@
       "seats": 7,
       "towing": 1650,
       "price": "$56,630",
-      "accelClaimed": false
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Kia|Sorento|2025|HEV GT-Line": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 190,
+      "acceleration": 9.3,
+      "cargo": 179,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
       "cylinders": 4,
@@ -1579,12 +1872,16 @@
       "seats": 7,
       "towing": 1650,
       "price": "$71,540",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Kia|Sorento|2025|PHEV S": {
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 8.7,
-      "cargo": null,
+      "cargo": 179,
       "engine": "1.6L I4 Turbo PHEV",
       "displacement": 1598,
       "cylinders": 4,
@@ -1594,20 +1891,27 @@
       "torque": 350,
       "transmission": "6-speed automatic",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "fx": 1.6,
       "weight": 2030,
       "seats": 7,
       "towing": 1010,
       "battery": "14 kWh",
       "price": "$70,880",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.7 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Kia|Sorento|2025|PHEV GT-Line": {
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 8.7,
-      "cargo": null,
+      "cargo": 179,
       "engine": "1.6L I4 Turbo PHEV",
       "displacement": 1598,
       "cylinders": 4,
@@ -1617,8 +1921,8 @@
       "torque": 350,
       "transmission": "6-speed automatic",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "fx": 1.6,
       "weight": 2030,
       "seats": 7,
@@ -1626,11 +1930,18 @@
       "battery": "14 kWh",
       "range": 55,
       "price": "$85,790",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.7 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Kia|Sorento|2026|S": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.2,
+      "topSpeed": 190,
       "seats": 7,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
@@ -1649,11 +1960,14 @@
       "fuelTank": 67,
       "cargo": 179,
       "price": "$54,630",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Sorento|2026|Sport": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.2,
+      "topSpeed": 190,
       "seats": 7,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
@@ -1672,11 +1986,14 @@
       "fuelTank": 67,
       "cargo": 179,
       "price": "$57,250",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Sorento|2026|Sport+": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.2,
+      "topSpeed": 190,
       "seats": 7,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
@@ -1695,11 +2012,14 @@
       "fuelTank": 67,
       "cargo": 179,
       "price": "$62,180",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Sorento|2026|GT-Line": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.2,
+      "topSpeed": 190,
       "seats": 7,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
@@ -1718,11 +2038,14 @@
       "fuelTank": 67,
       "cargo": 179,
       "price": "$69,540",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Sorento|2026|HEV S": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.8,
+      "topSpeed": 195,
       "seats": 7,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -1736,16 +2059,20 @@
       "fh": 5.8,
       "fx": 5.4,
       "fuelType": "hybrid",
-      "weight": null,
+      "weight": 1830,
       "towing": 1650,
       "fuelTank": 67,
       "cargo": 179,
       "price": "$56,675",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.8 sec"
     },
     "Kia|Sorento|2026|HEV Sport": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.8,
+      "topSpeed": 195,
       "seats": 7,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -1759,16 +2086,20 @@
       "fh": 5.8,
       "fx": 5.4,
       "fuelType": "hybrid",
-      "weight": null,
+      "weight": 1830,
       "towing": 1650,
       "fuelTank": 67,
       "cargo": 179,
       "price": "$59,325",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.8 sec"
     },
     "Kia|Sorento|2026|HEV Sport+": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.8,
+      "topSpeed": 195,
       "seats": 7,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -1782,16 +2113,20 @@
       "fh": 5.8,
       "fx": 5.4,
       "fuelType": "hybrid",
-      "weight": null,
+      "weight": 1830,
       "towing": 1650,
       "fuelTank": 67,
       "cargo": 179,
       "price": "$64,255",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.8 sec"
     },
     "Kia|Sorento|2026|HEV GT-Line": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.3,
+      "topSpeed": 190,
       "seats": 7,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -1810,11 +2145,14 @@
       "fuelTank": 67,
       "cargo": 179,
       "price": "$71,615",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Sorento|2026|PHEV S": {
       "acceleration": 8.7,
-      "topSpeed": null,
+      "topSpeed": 205,
       "seats": 7,
       "engine": "1.6L I4 Turbo PHEV",
       "displacement": 1598,
@@ -1824,22 +2162,29 @@
       "torque": 350,
       "transmission": "6-speed automatic",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "fx": 1.6,
       "fuelType": "plug-in hybrid",
       "battery": "14.0 kWh",
       "range": 55,
-      "weight": null,
+      "weight": 1830,
       "towing": 1010,
       "fuelTank": 47,
       "cargo": 175,
       "price": "$71,175",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Kia|Sorento|2026|PHEV Sport": {
       "acceleration": 8.7,
-      "topSpeed": null,
+      "topSpeed": 205,
       "seats": 7,
       "engine": "1.6L I4 Turbo PHEV",
       "displacement": 1598,
@@ -1849,22 +2194,29 @@
       "torque": 350,
       "transmission": "6-speed automatic",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "fx": 1.6,
       "fuelType": "plug-in hybrid",
       "battery": "14.0 kWh",
       "range": 55,
-      "weight": null,
+      "weight": 1830,
       "towing": 1010,
       "fuelTank": 47,
       "cargo": 175,
       "price": "$73,825",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Kia|Sorento|2026|PHEV Sport+": {
       "acceleration": 8.7,
-      "topSpeed": null,
+      "topSpeed": 205,
       "seats": 7,
       "engine": "1.6L I4 Turbo PHEV",
       "displacement": 1598,
@@ -1874,22 +2226,29 @@
       "torque": 350,
       "transmission": "6-speed automatic",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "fx": 1.6,
       "fuelType": "plug-in hybrid",
       "battery": "14.0 kWh",
       "range": 55,
-      "weight": null,
+      "weight": 1830,
       "towing": 1010,
       "fuelTank": 47,
       "cargo": 175,
       "price": "$78,755",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Kia|Sorento|2026|PHEV GT-Line": {
       "acceleration": 8.7,
-      "topSpeed": null,
+      "topSpeed": 205,
       "seats": 7,
       "engine": "1.6L I4 Turbo PHEV",
       "displacement": 1598,
@@ -1899,28 +2258,35 @@
       "torque": 350,
       "transmission": "6-speed automatic",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "fx": 1.6,
       "fuelType": "plug-in hybrid",
       "battery": "14.0 kWh",
       "range": 55,
-      "weight": null,
+      "weight": 1830,
       "towing": 1010,
       "fuelTank": 47,
       "cargo": 175,
       "price": "$86,115",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Toyota|Corolla|2025|Ascent Sport Hybrid Hatch": {
-      "topSpeed": null,
+      "topSpeed": 190,
       "acceleration": 9.1,
       "cargo": 217,
       "seats": 5,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
+      "torque": 200,
       "transmission": "CVT",
       "engine": "1.8L I4 Hybrid",
       "displacement": 1798,
@@ -1932,17 +2298,22 @@
       "fx": 4,
       "weight": 1400,
       "price": "$32,110",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.0 sec"
     },
     "Toyota|Corolla|2025|SX Hybrid Hatch": {
-      "topSpeed": null,
+      "topSpeed": 190,
       "acceleration": 9.1,
       "cargo": 217,
       "seats": 5,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
+      "torque": 200,
       "transmission": "CVT",
       "engine": "1.8L I4 Hybrid",
       "displacement": 1798,
@@ -1954,17 +2325,22 @@
       "fx": 4,
       "weight": 1400,
       "price": "$35,260",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.0 sec"
     },
     "Toyota|Corolla|2025|ZR Hybrid Hatch": {
-      "topSpeed": null,
+      "topSpeed": 190,
       "acceleration": 9.1,
       "cargo": 217,
       "seats": 5,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
+      "torque": 200,
       "transmission": "CVT",
       "engine": "1.8L I4 Hybrid",
       "displacement": 1798,
@@ -1976,17 +2352,22 @@
       "fx": 4,
       "weight": 1400,
       "price": "$39,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.0 sec"
     },
     "Toyota|Corolla|2025|Ascent Sport Hybrid Sedan": {
-      "topSpeed": null,
+      "topSpeed": 190,
       "acceleration": 9.3,
       "cargo": 470,
       "seats": 5,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
+      "torque": 200,
       "transmission": "CVT",
       "engine": "1.8L I4 Hybrid",
       "displacement": 1798,
@@ -1998,17 +2379,22 @@
       "fx": 3.9,
       "weight": 1430,
       "price": "$32,585",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Toyota|Corolla|2025|SX Hybrid Sedan": {
-      "topSpeed": null,
+      "topSpeed": 190,
       "acceleration": 9.3,
       "cargo": 470,
       "seats": 5,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
+      "torque": 200,
       "transmission": "CVT",
       "engine": "1.8L I4 Hybrid",
       "displacement": 1798,
@@ -2020,17 +2406,22 @@
       "fx": 3.9,
       "weight": 1430,
       "price": "$34,920",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Toyota|Corolla|2025|ZR Hybrid Sedan": {
-      "topSpeed": null,
+      "topSpeed": 190,
       "acceleration": 9.3,
       "cargo": 470,
       "seats": 5,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
+      "torque": 200,
       "transmission": "CVT",
       "engine": "1.8L I4 Hybrid",
       "displacement": 1798,
@@ -2042,10 +2433,15 @@
       "fx": 3.9,
       "weight": 1430,
       "price": "$40,260",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Toyota|C-HR|2025|GXL Hybrid": {
-      "topSpeed": null,
+      "topSpeed": 175,
       "acceleration": 9.9,
       "cargo": 388,
       "seats": 5,
@@ -2055,7 +2451,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 103,
-      "torque": null,
+      "torque": 200,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 3.8,
@@ -2065,10 +2461,15 @@
       "fuelTank": 43,
       "weight": 1455,
       "price": "$42,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.5 sec"
     },
     "Toyota|C-HR|2025|Koba Hybrid": {
-      "topSpeed": null,
+      "topSpeed": 175,
       "acceleration": 9.9,
       "cargo": 388,
       "seats": 5,
@@ -2078,7 +2479,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 103,
-      "torque": null,
+      "torque": 200,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 3.8,
@@ -2088,11 +2489,16 @@
       "fuelTank": 43,
       "weight": 1490,
       "price": "$52,390",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.5 sec"
     },
     "Toyota|C-HR|2025|GR Sport Hybrid AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 7.5,
       "cargo": 388,
       "seats": 5,
       "engine": "2.0L I4 Hybrid",
@@ -2101,7 +2507,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 146,
-      "torque": null,
+      "torque": 285,
       "transmission": "CVT",
       "drivetrain": "AWD",
       "fc": 3.7,
@@ -2111,17 +2517,21 @@
       "fuelTank": 43,
       "weight": 1575,
       "price": "$54,990",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.6 sec"
     },
     "Toyota|C-HR|2026|GXL Hybrid": {
       "acceleration": 9.9,
-      "topSpeed": null,
+      "topSpeed": 175,
       "seats": 5,
       "cylinders": 4,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 200,
       "engine": "1.8L I4 Hybrid",
       "displacement": 1798,
       "power": 103,
@@ -2134,17 +2544,22 @@
       "cargo": 388,
       "weight": 1455,
       "price": "$46,940",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.5 sec"
     },
     "Toyota|C-HR|2026|Koba Hybrid": {
       "acceleration": 9.9,
-      "topSpeed": null,
+      "topSpeed": 175,
       "seats": 5,
       "cylinders": 4,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 200,
       "engine": "1.8L I4 Hybrid",
       "displacement": 1798,
       "power": 103,
@@ -2157,17 +2572,22 @@
       "cargo": 388,
       "weight": 1490,
       "price": "$53,890",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.5 sec"
     },
     "Toyota|C-HR|2026|GR Sport Hybrid AWD": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 7.5,
+      "topSpeed": 195,
       "seats": 5,
       "cylinders": 4,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 285,
       "engine": "2.0L I4 Hybrid",
       "displacement": 1987,
       "power": 146,
@@ -2180,7 +2600,11 @@
       "cargo": 388,
       "weight": 1575,
       "price": "$58,890",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.6 sec"
     },
     "Toyota|Prado|2025|GX": {
       "engine": "2.8L I4 Turbo Diesel mild hybrid (1GD-FTV)",
@@ -2196,14 +2620,18 @@
       "fx": 7.6,
       "fuelType": "diesel",
       "acceleration": 12.3,
-      "topSpeed": null,
+      "topSpeed": 165,
       "weight": 2495,
       "seats": 5,
       "cargo": null,
       "price": "$73,200",
       "towing": 3500,
       "payload": 605,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~19.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Prado|2025|GXL": {
       "engine": "2.8L I4 Turbo Diesel mild hybrid (1GD-FTV)",
@@ -2219,13 +2647,17 @@
       "fx": 7.6,
       "fuelType": "diesel",
       "acceleration": 12.3,
-      "topSpeed": null,
+      "topSpeed": 160,
       "weight": 2535,
       "seats": 5,
       "cargo": null,
       "price": "$79,690",
       "towing": 3500,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~19.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Prado|2025|VX": {
       "engine": "2.8L I4 Turbo Diesel mild hybrid (1GD-FTV)",
@@ -2241,14 +2673,18 @@
       "fx": 7.6,
       "fuelType": "diesel",
       "acceleration": 12.3,
-      "topSpeed": null,
+      "topSpeed": 160,
       "weight": 2570,
       "seats": 7,
       "cargo": null,
       "price": "$88,100",
       "towing": 3500,
       "payload": 610,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~19.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Prado|2025|Altitude": {
       "engine": "2.8L I4 Turbo Diesel mild hybrid (1GD-FTV)",
@@ -2264,14 +2700,18 @@
       "fx": 7.6,
       "fuelType": "diesel",
       "acceleration": 12.3,
-      "topSpeed": null,
+      "topSpeed": 160,
       "weight": 2520,
       "seats": 5,
       "cargo": null,
       "price": "$93,400",
       "towing": 3500,
       "payload": 580,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~19.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Prado|2025|Kakadu": {
       "engine": "2.8L I4 Turbo Diesel mild hybrid (1GD-FTV)",
@@ -2287,14 +2727,18 @@
       "fx": 7.6,
       "fuelType": "diesel",
       "acceleration": 12.3,
-      "topSpeed": null,
+      "topSpeed": 160,
       "weight": 2595,
       "seats": 7,
       "cargo": null,
       "price": "$99,990",
       "towing": 3500,
       "payload": 605,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~19.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Prado|2026|GX": {
       "engine": "2.8L I4 Turbo Diesel mild hybrid (1GD-FTV)",
@@ -2310,14 +2754,18 @@
       "fx": 7.6,
       "fuelType": "diesel",
       "acceleration": 12.3,
-      "topSpeed": null,
+      "topSpeed": 165,
       "weight": 2495,
       "seats": 5,
       "cargo": null,
       "price": "$73,200",
       "towing": 3500,
       "payload": 605,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~19.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Prado|2026|GXL": {
       "engine": "2.8L I4 Turbo Diesel mild hybrid (1GD-FTV)",
@@ -2333,13 +2781,17 @@
       "fx": 7.6,
       "fuelType": "diesel",
       "acceleration": 12.3,
-      "topSpeed": null,
+      "topSpeed": 160,
       "weight": 2535,
       "seats": 5,
       "cargo": null,
       "price": "$79,665",
       "towing": 3500,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~19.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Prado|2026|VX": {
       "engine": "2.8L I4 Turbo Diesel mild hybrid (1GD-FTV)",
@@ -2355,13 +2807,17 @@
       "fx": 7.6,
       "fuelType": "diesel",
       "acceleration": 12.3,
-      "topSpeed": null,
+      "topSpeed": 160,
       "weight": 2570,
       "seats": 7,
       "cargo": null,
       "price": "$88,030",
       "towing": 3500,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~19.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Prado|2026|Altitude": {
       "engine": "2.8L I4 Turbo Diesel mild hybrid (1GD-FTV)",
@@ -2377,13 +2833,17 @@
       "fx": 7.6,
       "fuelType": "diesel",
       "acceleration": 12.3,
-      "topSpeed": null,
+      "topSpeed": 160,
       "weight": 2520,
       "seats": 5,
       "cargo": null,
       "price": "$93,330",
       "towing": 3500,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~19.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Prado|2026|Kakadu": {
       "engine": "2.8L I4 Turbo Diesel mild hybrid (1GD-FTV)",
@@ -2399,16 +2859,20 @@
       "fx": 7.6,
       "fuelType": "diesel",
       "acceleration": 12.3,
-      "topSpeed": null,
+      "topSpeed": 160,
       "weight": 2595,
       "seats": 7,
       "cargo": null,
       "price": "$100,620",
       "towing": 3500,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~19.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|HiLux|2025|Workmate 2.4 Auto 4x4": {
-      "topSpeed": null,
+      "topSpeed": 155,
       "acceleration": 12.8,
       "cargo": null,
       "seats": 5,
@@ -2429,11 +2893,15 @@
       "weight": 2110,
       "payload": 940,
       "price": "$50,420",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~19.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|HiLux|2025|SR Manual 4x4": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 10.6,
       "cargo": null,
       "seats": 5,
       "engine": "2.8L I4 Turbo Diesel",
@@ -2453,10 +2921,13 @@
       "weight": 2100,
       "payload": 950,
       "price": "$52,640",
-      "accelClaimed": false
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|HiLux|2025|SR Auto 4x4": {
-      "topSpeed": null,
+      "topSpeed": 175,
       "acceleration": 10.7,
       "cargo": null,
       "seats": 5,
@@ -2477,11 +2948,15 @@
       "weight": 2110,
       "payload": 940,
       "price": "$55,190",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|HiLux|2025|SR5 Manual 4x4": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 10.9,
       "cargo": null,
       "seats": 5,
       "engine": "2.8L I4 Turbo Diesel",
@@ -2502,10 +2977,13 @@
       "payload": 890,
       "groundClearance": 216,
       "price": "$60,670",
-      "accelClaimed": false
+      "quarterMile": "~18.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|HiLux|2025|SR5 Extra Cab Auto 4x4": {
-      "topSpeed": null,
+      "topSpeed": 175,
       "acceleration": 10.7,
       "cargo": null,
       "seats": 4,
@@ -2526,10 +3004,14 @@
       "weight": 2085,
       "payload": 1015,
       "price": "$60,250",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|HiLux|2025|SR5 48V Auto 4x4": {
-      "topSpeed": null,
+      "topSpeed": 175,
       "acceleration": 10.7,
       "cargo": null,
       "seats": 5,
@@ -2550,10 +3032,14 @@
       "weight": 2150,
       "payload": 900,
       "price": "$63,260",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|HiLux|2025|Rogue 48V": {
-      "topSpeed": null,
+      "topSpeed": 175,
       "acceleration": 10.7,
       "cargo": null,
       "seats": 5,
@@ -2575,10 +3061,14 @@
       "payload": 764,
       "groundClearance": 265,
       "price": "$71,530",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|HiLux|2025|Rugged X 48V": {
-      "topSpeed": null,
+      "topSpeed": 170,
       "acceleration": 10.7,
       "cargo": null,
       "seats": 5,
@@ -2600,11 +3090,15 @@
       "payload": 793,
       "groundClearance": 224,
       "price": "$71,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|HiLux|2025|GR Sport": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 9.8,
       "cargo": null,
       "seats": 5,
       "engine": "2.8L I4 Turbo Diesel",
@@ -2625,7 +3119,10 @@
       "payload": 910,
       "groundClearance": 265,
       "price": "$74,310",
-      "accelClaimed": false
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|HiLux|2026|Workmate": {
       "engine": "2.8L I4 Turbo Diesel (1GD-FTV)",
@@ -2640,8 +3137,8 @@
       "fh": 6.9,
       "fx": 7.4,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.5,
+      "topSpeed": 175,
       "weight": 2105,
       "seats": 5,
       "cargo": null,
@@ -2650,7 +3147,10 @@
       "payload": 960,
       "fuelTank": 80,
       "groundClearance": 224,
-      "accelClaimed": false
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|HiLux|2026|SR 4x2": {
       "engine": "2.8L I4 Turbo Diesel (1GD-FTV)",
@@ -2665,8 +3165,8 @@
       "fh": 6.9,
       "fx": 7.4,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.5,
+      "topSpeed": 180,
       "weight": 2045,
       "seats": 5,
       "cargo": null,
@@ -2675,7 +3175,10 @@
       "payload": 935,
       "fuelTank": 80,
       "groundClearance": 224,
-      "accelClaimed": false
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|HiLux|2026|SR 48V": {
       "engine": "2.8L I4 Turbo Diesel 48V mild hybrid (1GD-FTV)",
@@ -2691,7 +3194,7 @@
       "fx": 7.2,
       "fuelType": "diesel",
       "acceleration": 10.7,
-      "topSpeed": null,
+      "topSpeed": 175,
       "weight": 2125,
       "seats": 5,
       "cargo": null,
@@ -2700,7 +3203,11 @@
       "payload": 965,
       "fuelTank": 80,
       "groundClearance": 224,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|HiLux|2026|SR5": {
       "engine": "2.8L I4 Turbo Diesel (1GD-FTV)",
@@ -2715,8 +3222,8 @@
       "fh": 6.6,
       "fx": 7.1,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.7,
+      "topSpeed": 175,
       "weight": 2110,
       "seats": 5,
       "cargo": null,
@@ -2725,7 +3232,10 @@
       "payload": 970,
       "fuelTank": 80,
       "groundClearance": 224,
-      "accelClaimed": false
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|HiLux|2026|SR5 48V": {
       "engine": "2.8L I4 Turbo Diesel 48V mild hybrid (1GD-FTV)",
@@ -2741,7 +3251,7 @@
       "fx": 7.2,
       "fuelType": "diesel",
       "acceleration": 10.7,
-      "topSpeed": null,
+      "topSpeed": 175,
       "weight": 2155,
       "seats": 5,
       "cargo": null,
@@ -2750,7 +3260,11 @@
       "payload": 965,
       "fuelTank": 80,
       "groundClearance": 224,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|HiLux|2026|Rugged X 48V": {
       "engine": "2.8L I4 Turbo Diesel 48V mild hybrid (1GD-FTV)",
@@ -2766,7 +3280,7 @@
       "fx": 7.6,
       "fuelType": "diesel",
       "acceleration": 10.7,
-      "topSpeed": null,
+      "topSpeed": 170,
       "weight": 2327,
       "seats": 5,
       "cargo": null,
@@ -2775,7 +3289,11 @@
       "payload": 793,
       "fuelTank": 80,
       "groundClearance": 224,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|HiLux|2026|Rogue 48V": {
       "engine": "2.8L I4 Turbo Diesel 48V mild hybrid (1GD-FTV)",
@@ -2791,7 +3309,7 @@
       "fx": 7.6,
       "fuelType": "diesel",
       "acceleration": 10.7,
-      "topSpeed": null,
+      "topSpeed": 170,
       "weight": 2342,
       "seats": 5,
       "cargo": null,
@@ -2800,7 +3318,11 @@
       "payload": 778,
       "fuelTank": 80,
       "groundClearance": 229,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|HiLux|2026|SR BEV": {
       "engine": "Dual Motor Electric",
@@ -2811,19 +3333,23 @@
       "drivetrain": "4WD",
       "transmission": "1-speed auto",
       "power": 144,
-      "torque": null,
+      "torque": 300,
       "fc": null,
       "fh": null,
       "fx": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.9,
+      "topSpeed": 140,
       "weight": 2420,
       "seats": 5,
       "cargo": null,
       "price": "$74,990",
       "towing": 2000,
       "payload": 725,
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.1 sec"
     },
     "Toyota|HiLux|2026|SR5 BEV": {
       "engine": "Dual Motor Electric",
@@ -2834,22 +3360,26 @@
       "drivetrain": "4WD",
       "transmission": "1-speed auto",
       "power": 144,
-      "torque": null,
+      "torque": 300,
       "fc": null,
       "fh": null,
       "fx": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.1,
+      "topSpeed": 140,
       "weight": 2455,
       "seats": 5,
       "cargo": null,
       "price": "$82,990",
       "towing": 2000,
       "payload": 715,
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.2 sec"
     },
     "Toyota|RAV4|2025|GX 2WD": {
-      "topSpeed": null,
+      "topSpeed": 185,
       "acceleration": 8.4,
       "cargo": 542,
       "seats": 5,
@@ -2858,7 +3388,7 @@
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
-      "torque": null,
+      "torque": 220,
       "transmission": "CVT",
       "fuelTank": 55,
       "power": 160,
@@ -2869,10 +3399,15 @@
       "towing": 480,
       "weight": 1650,
       "price": "$42,260",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Toyota|RAV4|2025|GX eFour": {
-      "topSpeed": null,
+      "topSpeed": 185,
       "acceleration": 8.1,
       "cargo": 542,
       "seats": 5,
@@ -2881,7 +3416,7 @@
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
-      "torque": null,
+      "torque": 220,
       "transmission": "CVT",
       "fuelTank": 55,
       "power": 163,
@@ -2892,10 +3427,15 @@
       "towing": 1500,
       "weight": 1705,
       "price": "$45,260",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Toyota|RAV4|2025|GXL 2WD": {
-      "topSpeed": null,
+      "topSpeed": 185,
       "acceleration": 8.4,
       "cargo": 542,
       "seats": 5,
@@ -2904,7 +3444,7 @@
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
-      "torque": null,
+      "torque": 220,
       "transmission": "CVT",
       "fuelTank": 55,
       "power": 160,
@@ -2915,10 +3455,15 @@
       "towing": 480,
       "weight": 1675,
       "price": "$45,810",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Toyota|RAV4|2025|GXL eFour": {
-      "topSpeed": null,
+      "topSpeed": 185,
       "acceleration": 8.1,
       "cargo": 542,
       "seats": 5,
@@ -2927,7 +3472,7 @@
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
-      "torque": null,
+      "torque": 220,
       "transmission": "CVT",
       "fuelTank": 55,
       "power": 163,
@@ -2938,10 +3483,15 @@
       "towing": 1500,
       "weight": 1735,
       "price": "$48,810",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Toyota|RAV4|2025|XSE 2WD": {
-      "topSpeed": null,
+      "topSpeed": 185,
       "acceleration": 8.4,
       "cargo": 542,
       "seats": 5,
@@ -2950,7 +3500,7 @@
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
-      "torque": null,
+      "torque": 220,
       "transmission": "CVT",
       "fuelTank": 55,
       "power": 160,
@@ -2961,10 +3511,15 @@
       "towing": 480,
       "weight": 1690,
       "price": "$48,910",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Toyota|RAV4|2025|XSE eFour": {
-      "topSpeed": null,
+      "topSpeed": 185,
       "acceleration": 8.1,
       "cargo": 542,
       "seats": 5,
@@ -2973,7 +3528,7 @@
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
-      "torque": null,
+      "torque": 220,
       "transmission": "CVT",
       "fuelTank": 55,
       "power": 163,
@@ -2984,10 +3539,15 @@
       "towing": 1500,
       "weight": 1745,
       "price": "$51,910",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Toyota|RAV4|2025|Cruiser 2WD": {
-      "topSpeed": null,
+      "topSpeed": 185,
       "acceleration": 8.4,
       "cargo": 542,
       "seats": 5,
@@ -2996,7 +3556,7 @@
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
-      "torque": null,
+      "torque": 220,
       "transmission": "CVT",
       "fuelTank": 55,
       "power": 160,
@@ -3007,10 +3567,15 @@
       "towing": 480,
       "weight": 1755,
       "price": "$51,410",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Toyota|RAV4|2025|Cruiser eFour": {
-      "topSpeed": null,
+      "topSpeed": 185,
       "acceleration": 8.1,
       "cargo": 542,
       "seats": 5,
@@ -3019,7 +3584,7 @@
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
-      "torque": null,
+      "torque": 220,
       "transmission": "CVT",
       "fuelTank": 55,
       "power": 163,
@@ -3030,10 +3595,15 @@
       "towing": 1500,
       "weight": 1755,
       "price": "$54,410",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Toyota|RAV4|2025|Edge eFour": {
-      "topSpeed": null,
+      "topSpeed": 185,
       "acceleration": 8.1,
       "cargo": 542,
       "seats": 5,
@@ -3042,7 +3612,7 @@
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
-      "torque": null,
+      "torque": 220,
       "transmission": "CVT",
       "fuelTank": 55,
       "power": 163,
@@ -3054,7 +3624,12 @@
       "weight": 1760,
       "groundClearance": 195,
       "price": "$58,360",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Toyota|RAV4|2026|Cruiser": {
       "engine": "2.5L I4 Hybrid",
@@ -3064,18 +3639,23 @@
       "drivetrain": "FWD",
       "transmission": "CVT",
       "power": 143,
-      "torque": null,
+      "torque": 280,
       "fc": 4.2,
       "fh": 4.7,
       "fx": 4.5,
       "fuelType": "hybrid",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.2,
+      "topSpeed": 180,
       "weight": 1675,
       "seats": 5,
-      "cargo": null,
+      "cargo": 542,
       "price": "$56,990",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Toyota|RAV4|2026|Cruiser eFour": {
       "engine": "2.5L I4 Hybrid",
@@ -3085,18 +3665,23 @@
       "drivetrain": "AWD",
       "transmission": "CVT",
       "power": 143,
-      "torque": null,
+      "torque": 280,
       "fc": 4.4,
       "fh": 4.8,
       "fx": 4.6,
       "fuelType": "hybrid",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.2,
+      "topSpeed": 175,
       "weight": 1740,
       "seats": 5,
-      "cargo": null,
+      "cargo": 542,
       "price": "$60,340",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Toyota|RAV4|2026|Edge": {
       "engine": "2.5L I4 Hybrid",
@@ -3106,18 +3691,23 @@
       "drivetrain": "AWD",
       "transmission": "CVT",
       "power": 143,
-      "torque": null,
+      "torque": 280,
       "fc": 4.4,
       "fh": 4.8,
       "fx": 4.6,
       "fuelType": "hybrid",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8,
+      "topSpeed": 180,
       "weight": 1695,
       "seats": 5,
-      "cargo": null,
+      "cargo": 542,
       "price": "$55,340",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.1 sec"
     },
     "Toyota|RAV4|2026|GR Sport PHEV": {
       "engine": "2.5L I4 Plug-in Hybrid (144 km EV range)",
@@ -3127,18 +3717,26 @@
       "drivetrain": "AWD",
       "transmission": "CVT",
       "power": 227,
-      "torque": null,
-      "fc": null,
-      "fh": null,
+      "torque": 220,
+      "fc": 0.8,
+      "fh": 0.6,
       "fx": 0.7,
       "fuelType": "plug-in hybrid",
       "acceleration": 5.8,
-      "topSpeed": null,
+      "topSpeed": 185,
       "weight": 1990,
       "seats": 5,
-      "cargo": null,
+      "cargo": 542,
       "price": "$66,340",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~14.1 sec"
     },
     "Toyota|RAV4|2026|GX": {
       "engine": "2.5L I4 Hybrid",
@@ -3148,18 +3746,23 @@
       "drivetrain": "FWD",
       "transmission": "CVT",
       "power": 143,
-      "torque": null,
+      "torque": 280,
       "fc": 4.2,
       "fh": 4.7,
       "fx": 4.5,
       "fuelType": "hybrid",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 7.9,
+      "topSpeed": 180,
       "weight": 1605,
       "seats": 5,
-      "cargo": null,
+      "cargo": 542,
       "price": "$45,990",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.0 sec"
     },
     "Toyota|RAV4|2026|GX eFour": {
       "engine": "2.5L I4 Hybrid",
@@ -3169,18 +3772,23 @@
       "drivetrain": "AWD",
       "transmission": "CVT",
       "power": 143,
-      "torque": null,
+      "torque": 280,
       "fc": 4.4,
       "fh": 4.8,
       "fx": 4.6,
       "fuelType": "hybrid",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 7.9,
+      "topSpeed": 180,
       "weight": 1665,
       "seats": 5,
-      "cargo": null,
+      "cargo": 542,
       "price": "$49,340",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.0 sec"
     },
     "Toyota|RAV4|2026|GXL": {
       "engine": "2.5L I4 Hybrid",
@@ -3190,18 +3798,23 @@
       "drivetrain": "FWD",
       "transmission": "CVT",
       "power": 143,
-      "torque": null,
+      "torque": 280,
       "fc": 4.2,
       "fh": 4.7,
       "fx": 4.5,
       "fuelType": "hybrid",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8,
+      "topSpeed": 180,
       "weight": 1630,
       "seats": 5,
-      "cargo": null,
+      "cargo": 542,
       "price": "$48,990",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.1 sec"
     },
     "Toyota|RAV4|2026|GXL eFour": {
       "engine": "2.5L I4 Hybrid",
@@ -3211,18 +3824,23 @@
       "drivetrain": "AWD",
       "transmission": "CVT",
       "power": 143,
-      "torque": null,
+      "torque": 280,
       "fc": 4.4,
       "fh": 4.8,
       "fx": 4.6,
       "fuelType": "hybrid",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8,
+      "topSpeed": 180,
       "weight": 1695,
       "seats": 5,
-      "cargo": null,
+      "cargo": 542,
       "price": "$52,340",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.1 sec"
     },
     "Toyota|RAV4|2026|XSE PHEV": {
       "engine": "2.5L I4 Plug-in Hybrid (154 km EV range)",
@@ -3232,18 +3850,26 @@
       "drivetrain": "FWD",
       "transmission": "CVT",
       "power": 201,
-      "torque": null,
-      "fc": null,
-      "fh": null,
+      "torque": 395,
+      "fc": 0.8,
+      "fh": 0.6,
       "fx": 0.7,
       "fuelType": "plug-in hybrid",
       "acceleration": 7.5,
-      "topSpeed": null,
+      "topSpeed": 175,
       "weight": 1935,
       "seats": 5,
-      "cargo": null,
+      "cargo": 542,
       "price": "$59,515",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~15.6 sec"
     },
     "Toyota|RAV4|2026|XSE PHEV eFour": {
       "engine": "2.5L I4 Plug-in Hybrid (144 km EV range)",
@@ -3253,18 +3879,26 @@
       "drivetrain": "AWD",
       "transmission": "CVT",
       "power": 227,
-      "torque": null,
-      "fc": null,
-      "fh": null,
+      "torque": 220,
+      "fc": 0.8,
+      "fh": 0.6,
       "fx": 0.7,
       "fuelType": "plug-in hybrid",
       "acceleration": 5.8,
-      "topSpeed": null,
+      "topSpeed": 185,
       "weight": 1995,
       "seats": 5,
-      "cargo": null,
+      "cargo": 542,
       "price": "$64,015",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~14.1 sec"
     },
     "Toyota|RAV4|2026|XSE eFour": {
       "engine": "2.5L I4 Hybrid",
@@ -3274,28 +3908,33 @@
       "drivetrain": "AWD",
       "transmission": "CVT",
       "power": 143,
-      "torque": null,
+      "torque": 280,
       "fc": 4.4,
       "fh": 4.8,
       "fx": 4.6,
       "fuelType": "hybrid",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8,
+      "topSpeed": 175,
       "weight": 1710,
       "seats": 5,
-      "cargo": null,
+      "cargo": 542,
       "price": "$59,015",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.1 sec"
     },
     "Toyota|Corolla Cross|2025|GX Hybrid": {
       "acceleration": 7.7,
-      "topSpeed": null,
+      "topSpeed": 185,
       "seats": 5,
       "cylinders": 4,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 210,
       "engine": "2.0L I4 Hybrid",
       "displacement": 1987,
       "power": 146,
@@ -3308,17 +3947,22 @@
       "cargo": 425,
       "weight": 1435,
       "price": "$37,440",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Toyota|Corolla Cross|2025|GXL Hybrid": {
       "acceleration": 7.7,
-      "topSpeed": null,
+      "topSpeed": 180,
       "seats": 5,
       "cylinders": 4,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 210,
       "engine": "2.0L I4 Hybrid",
       "displacement": 1987,
       "power": 146,
@@ -3331,17 +3975,22 @@
       "cargo": 425,
       "weight": 1475,
       "price": "$41,190",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Toyota|Corolla Cross|2025|GXL Hybrid AWD": {
       "acceleration": 7.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "seats": 5,
       "cylinders": 4,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 210,
       "engine": "2.0L I4 Hybrid",
       "displacement": 1987,
       "power": 146,
@@ -3354,17 +4003,22 @@
       "cargo": 425,
       "weight": 1545,
       "price": "$44,190",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.6 sec"
     },
     "Toyota|Corolla Cross|2025|Atmos Hybrid": {
       "acceleration": 7.7,
-      "topSpeed": null,
+      "topSpeed": 180,
       "seats": 5,
       "cylinders": 4,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 210,
       "engine": "2.0L I4 Hybrid",
       "displacement": 1987,
       "power": 146,
@@ -3377,17 +4031,22 @@
       "cargo": 425,
       "weight": 1480,
       "price": "$47,030",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Toyota|Corolla Cross|2025|Atmos Hybrid AWD": {
       "acceleration": 7.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "seats": 5,
       "cylinders": 4,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 210,
       "engine": "2.0L I4 Hybrid",
       "displacement": 1987,
       "power": 146,
@@ -3400,17 +4059,22 @@
       "cargo": 425,
       "weight": 1550,
       "price": "$50,030",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.6 sec"
     },
     "Toyota|Corolla Cross|2025|GR Sport Hybrid AWD": {
       "acceleration": 7.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "seats": 5,
       "cylinders": 4,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 210,
       "engine": "2.0L I4 Hybrid",
       "displacement": 1987,
       "power": 146,
@@ -3423,17 +4087,22 @@
       "cargo": 425,
       "weight": 1555,
       "price": "$50,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.6 sec"
     },
     "Toyota|Corolla Cross|2026|GX Hybrid": {
       "acceleration": 7.7,
-      "topSpeed": null,
+      "topSpeed": 185,
       "seats": 5,
       "cylinders": 4,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 210,
       "engine": "2.0L I4 Hybrid",
       "displacement": 1987,
       "power": 146,
@@ -3446,17 +4115,22 @@
       "cargo": 425,
       "weight": 1435,
       "price": "$37,440",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Toyota|Corolla Cross|2026|GXL Hybrid": {
       "acceleration": 7.7,
-      "topSpeed": null,
+      "topSpeed": 180,
       "seats": 5,
       "cylinders": 4,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 210,
       "engine": "2.0L I4 Hybrid",
       "displacement": 1987,
       "power": 146,
@@ -3469,17 +4143,22 @@
       "cargo": 425,
       "weight": 1475,
       "price": "$41,190",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Toyota|Corolla Cross|2026|Atmos Hybrid": {
       "acceleration": 7.7,
-      "topSpeed": null,
+      "topSpeed": 180,
       "seats": 5,
       "cylinders": 4,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 210,
       "engine": "2.0L I4 Hybrid",
       "displacement": 1987,
       "power": 146,
@@ -3492,17 +4171,22 @@
       "cargo": 425,
       "weight": 1480,
       "price": "$47,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Toyota|Corolla Cross|2026|GR Sport Hybrid AWD": {
       "acceleration": 7.5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "seats": 5,
       "cylinders": 4,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 210,
       "engine": "2.0L I4 Hybrid",
       "displacement": 1987,
       "power": 146,
@@ -3515,7 +4199,12 @@
       "cargo": 425,
       "weight": 1555,
       "price": "$50,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.6 sec"
     }
   }
 }

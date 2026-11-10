@@ -11,13 +11,20 @@
       "torque": 300,
       "weight": 1560,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 8.4,
+      "fh": 4.6,
       "fx": 6.7,
       "acceleration": 8,
       "topSpeed": 235,
       "price": "~$79,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 385
     },
     "BMW|4 Series|2021|430i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -30,13 +37,20 @@
       "torque": 400,
       "weight": 1595,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 8.9,
+      "fh": 4.9,
       "fx": 7.1,
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$89,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 385
     },
     "BMW|4 Series|2021|M440i xDrive": {
       "engine": "3.0L I6 TwinPower Turbo xDrive",
@@ -68,13 +82,20 @@
       "torque": 300,
       "weight": 1560,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 8.4,
+      "fh": 4.6,
       "fx": 6.7,
       "acceleration": 8,
       "topSpeed": 235,
       "price": "~$81,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 385
     },
     "BMW|4 Series|2022|430i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -87,13 +108,20 @@
       "torque": 400,
       "weight": 1595,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 8.9,
+      "fh": 4.9,
       "fx": 7.1,
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$91,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 385
     },
     "BMW|4 Series|2022|M440i xDrive": {
       "engine": "3.0L I6 TwinPower Turbo xDrive",
@@ -106,13 +134,20 @@
       "torque": 500,
       "weight": 1755,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 9.6,
+      "fh": 5.4,
       "fx": 7.7,
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$116,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 385
     },
     "BMW|4 Series|2023|420i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -125,13 +160,18 @@
       "torque": 300,
       "weight": 1560,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 8.4,
+      "fh": 4.6,
       "fx": 6.7,
       "acceleration": 8,
       "topSpeed": 235,
       "price": "~$83,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|4 Series|2023|430i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -144,13 +184,18 @@
       "torque": 400,
       "weight": 1595,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 8.9,
+      "fh": 4.9,
       "fx": 7.1,
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$93,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|4 Series|2023|M440i xDrive": {
       "engine": "3.0L I6 TwinPower Turbo xDrive",
@@ -163,13 +208,18 @@
       "torque": 500,
       "weight": 1755,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 9.6,
+      "fh": 5.4,
       "fx": 7.7,
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$118,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|4 Series|2024|420i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -182,13 +232,20 @@
       "torque": 300,
       "weight": 1560,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 8.4,
+      "fh": 4.6,
       "fx": 6.7,
       "acceleration": 8,
       "topSpeed": 235,
       "price": "~$85,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 440
     },
     "BMW|4 Series|2024|430i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -201,13 +258,20 @@
       "torque": 400,
       "weight": 1595,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 8.9,
+      "fh": 4.9,
       "fx": 7.1,
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$95,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 440
     },
     "BMW|4 Series|2024|M440i xDrive": {
       "engine": "3.0L I6 TwinPower Turbo xDrive",
@@ -220,13 +284,20 @@
       "torque": 500,
       "weight": 1755,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 9.6,
+      "fh": 5.4,
       "fx": 7.7,
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$120,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 440
     },
     "BMW|4 Series|2025|420i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -239,13 +310,20 @@
       "torque": 300,
       "weight": 1560,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 8.4,
+      "fh": 4.6,
       "fx": 6.7,
       "acceleration": 8,
       "topSpeed": 235,
       "price": "~$87,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 440
     },
     "BMW|4 Series|2025|430i": {
       "engine": "2.0L 4-cyl Turbo",
@@ -258,13 +336,20 @@
       "torque": 400,
       "weight": 1595,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 8.9,
+      "fh": 4.9,
       "fx": 7.1,
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$97,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 440
     },
     "BMW|4 Series|2025|M440i xDrive": {
       "engine": "3.0L I6 TwinPower Turbo xDrive",
@@ -277,13 +362,20 @@
       "torque": 500,
       "weight": 1755,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 9.6,
+      "fh": 5.4,
       "fx": 7.7,
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$122,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 440
     },
     "BMW|iX|2021|xDrive40": {
       "engine": "Dual Electric Motor xDrive40",
@@ -302,7 +394,8 @@
       "acceleration": 6.1,
       "topSpeed": 200,
       "price": "~$129,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.4 sec"
     },
     "BMW|iX|2021|xDrive50": {
       "engine": "Dual Electric Motor xDrive50",
@@ -321,7 +414,8 @@
       "acceleration": 4.6,
       "topSpeed": 200,
       "price": "~$159,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.9 sec"
     },
     "BMW|iX|2021|M60": {
       "engine": "Dual Electric Motor M60 xDrive",
@@ -340,7 +434,8 @@
       "acceleration": 3.8,
       "topSpeed": 250,
       "price": "~$189,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.0 sec"
     },
     "BMW|iX|2022|xDrive40": {
       "engine": "Dual Electric Motor xDrive40",
@@ -359,7 +454,8 @@
       "acceleration": 6.1,
       "topSpeed": 200,
       "price": "~$132,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.4 sec"
     },
     "BMW|iX|2022|xDrive50": {
       "engine": "Dual Electric Motor xDrive50",
@@ -378,7 +474,8 @@
       "acceleration": 4.6,
       "topSpeed": 200,
       "price": "~$162,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.9 sec"
     },
     "BMW|iX|2022|M60": {
       "engine": "Dual Electric Motor M60 xDrive",
@@ -397,7 +494,8 @@
       "acceleration": 3.8,
       "topSpeed": 250,
       "price": "~$192,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.0 sec"
     },
     "BMW|iX|2023|xDrive40": {
       "engine": "Dual Electric Motor xDrive40",
@@ -416,7 +514,8 @@
       "acceleration": 6.1,
       "topSpeed": 200,
       "price": "~$135,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.4 sec"
     },
     "BMW|iX|2023|xDrive50": {
       "engine": "Dual Electric Motor xDrive50",
@@ -435,7 +534,8 @@
       "acceleration": 4.6,
       "topSpeed": 200,
       "price": "~$165,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.9 sec"
     },
     "BMW|iX|2023|M60": {
       "engine": "Dual Electric Motor M60 xDrive",
@@ -454,7 +554,8 @@
       "acceleration": 3.8,
       "topSpeed": 250,
       "price": "~$195,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.0 sec"
     },
     "Audi|e-tron GT|2021|e-tron GT": {
       "engine": "Dual Electric Motor quattro",
@@ -473,7 +574,8 @@
       "acceleration": 4.1,
       "topSpeed": 245,
       "price": "~$189,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.4 sec"
     },
     "Audi|e-tron GT|2021|RS e-tron GT": {
       "engine": "Dual Electric Motor RS quattro",
@@ -492,7 +594,8 @@
       "acceleration": 3.3,
       "topSpeed": 250,
       "price": "~$249,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.4 sec"
     },
     "Audi|e-tron GT|2022|e-tron GT": {
       "engine": "Dual Electric Motor quattro",
@@ -511,7 +614,8 @@
       "acceleration": 4.1,
       "topSpeed": 245,
       "price": "~$192,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.4 sec"
     },
     "Audi|e-tron GT|2022|RS e-tron GT": {
       "engine": "Dual Electric Motor RS quattro",
@@ -530,7 +634,8 @@
       "acceleration": 3.3,
       "topSpeed": 250,
       "price": "~$252,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.4 sec"
     },
     "Audi|e-tron GT|2023|e-tron GT": {
       "engine": "Dual Electric Motor quattro",
@@ -549,7 +654,8 @@
       "acceleration": 4.1,
       "topSpeed": 245,
       "price": "~$195,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.4 sec"
     },
     "Audi|e-tron GT|2023|RS e-tron GT": {
       "engine": "Dual Electric Motor RS quattro",
@@ -568,7 +674,8 @@
       "acceleration": 3.3,
       "topSpeed": 250,
       "price": "~$255,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.4 sec"
     },
     "Audi|e-tron GT|2024|e-tron GT": {
       "engine": "Dual Electric Motor quattro",
@@ -587,7 +694,8 @@
       "acceleration": 4.1,
       "topSpeed": 245,
       "price": "~$198,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.4 sec"
     },
     "Audi|e-tron GT|2024|RS e-tron GT": {
       "engine": "Dual Electric Motor RS quattro",
@@ -606,7 +714,8 @@
       "acceleration": 3.3,
       "topSpeed": 250,
       "price": "~$258,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.4 sec"
     },
     "Audi|e-tron GT|2024|RS e-tron GT Performance": {
       "engine": "Dual Electric Motor RS Performance quattro",
@@ -625,7 +734,8 @@
       "acceleration": 2.5,
       "topSpeed": 270,
       "price": "~$338,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~10.4 sec"
     },
     "Audi|e-tron GT|2025|e-tron GT": {
       "engine": "Dual Electric Motor quattro",
@@ -644,7 +754,8 @@
       "acceleration": 4.1,
       "topSpeed": 245,
       "price": "~$200,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.4 sec"
     },
     "Audi|e-tron GT|2025|RS e-tron GT": {
       "engine": "Dual Electric Motor RS quattro",
@@ -663,7 +774,8 @@
       "acceleration": 3.3,
       "topSpeed": 250,
       "price": "~$260,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.4 sec"
     },
     "Audi|e-tron GT|2025|RS e-tron GT Performance": {
       "engine": "Dual Electric Motor RS Performance quattro",
@@ -682,7 +794,8 @@
       "acceleration": 2.5,
       "topSpeed": 270,
       "price": "~$340,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~10.4 sec"
     },
     "Audi|e-tron GT|2026|e-tron GT": {
       "engine": "Dual Electric Motor quattro",
@@ -701,7 +814,8 @@
       "acceleration": 4.1,
       "topSpeed": 245,
       "price": "~$202,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.4 sec"
     },
     "Audi|e-tron GT|2026|RS e-tron GT": {
       "engine": "Dual Electric Motor RS quattro",
@@ -720,7 +834,8 @@
       "acceleration": 3.3,
       "topSpeed": 250,
       "price": "~$262,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.4 sec"
     },
     "Audi|e-tron GT|2026|RS e-tron GT Performance": {
       "engine": "Dual Electric Motor RS Performance quattro",
@@ -739,7 +854,8 @@
       "acceleration": 2.5,
       "topSpeed": 270,
       "price": "~$342,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~10.4 sec"
     },
     "Volvo|S60|2019|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -752,14 +868,21 @@
       "torque": 670,
       "weight": 1910,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
       "price": "~$82,990",
-      "aspiration": "Turbo + Eaton Supercharged"
+      "aspiration": "Turbo + Eaton Supercharged",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 442
     },
     "Volvo|S60|2020|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -772,14 +895,21 @@
       "torque": 670,
       "weight": 1910,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
       "price": "~$84,490",
-      "aspiration": "Turbo + Eaton Supercharged"
+      "aspiration": "Turbo + Eaton Supercharged",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 442
     },
     "Volvo|S60|2021|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -792,14 +922,21 @@
       "torque": 670,
       "weight": 1910,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
       "price": "~$85,990",
-      "aspiration": "Turbo + Eaton Supercharged"
+      "aspiration": "Turbo + Eaton Supercharged",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 442
     },
     "Volvo|S60|2022|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -812,14 +949,21 @@
       "torque": 670,
       "weight": 1910,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
       "price": "~$87,990",
-      "aspiration": "Turbo + Eaton Supercharged"
+      "aspiration": "Turbo + Eaton Supercharged",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 442
     },
     "Volvo|S60|2023|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -832,14 +976,21 @@
       "torque": 670,
       "weight": 1910,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
       "price": "~$89,990",
-      "aspiration": "Turbo + Eaton Supercharged"
+      "aspiration": "Turbo + Eaton Supercharged",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 442
     },
     "Volvo|S60|2024|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -852,14 +1003,21 @@
       "torque": 670,
       "weight": 1910,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
       "price": "~$91,990",
-      "aspiration": "Turbo + Eaton Supercharged"
+      "aspiration": "Turbo + Eaton Supercharged",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 442
     },
     "Volvo|S60|2025|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -872,14 +1030,21 @@
       "torque": 670,
       "weight": 1910,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
       "price": "~$93,990",
-      "aspiration": "Turbo + Eaton Supercharged"
+      "aspiration": "Turbo + Eaton Supercharged",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 442
     },
     "Volvo|S60|2026|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -892,14 +1057,21 @@
       "torque": 670,
       "weight": 1910,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
       "price": "~$95,990",
-      "aspiration": "Turbo + Eaton Supercharged"
+      "aspiration": "Turbo + Eaton Supercharged",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 442
     },
     "Volvo|V90|2019|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -912,14 +1084,21 @@
       "torque": 670,
       "weight": 1960,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
       "price": "~$89,990",
-      "aspiration": "Turbo + Eaton Supercharged"
+      "aspiration": "Turbo + Eaton Supercharged",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 560
     },
     "Volvo|V90|2020|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -932,14 +1111,21 @@
       "torque": 670,
       "weight": 1960,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
       "price": "~$91,490",
-      "aspiration": "Turbo + Eaton Supercharged"
+      "aspiration": "Turbo + Eaton Supercharged",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 560
     },
     "Volvo|V90|2021|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -952,14 +1138,21 @@
       "torque": 670,
       "weight": 1960,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
       "price": "~$92,990",
-      "aspiration": "Turbo + Eaton Supercharged"
+      "aspiration": "Turbo + Eaton Supercharged",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 560
     },
     "Volvo|V90|2022|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -972,14 +1165,21 @@
       "torque": 670,
       "weight": 1960,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
       "price": "~$94,990",
-      "aspiration": "Turbo + Eaton Supercharged"
+      "aspiration": "Turbo + Eaton Supercharged",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 560
     },
     "Volvo|V90|2023|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -992,14 +1192,21 @@
       "torque": 670,
       "weight": 1960,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
       "price": "~$96,990",
-      "aspiration": "Turbo + Eaton Supercharged"
+      "aspiration": "Turbo + Eaton Supercharged",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 560
     },
     "Volvo|V90|2024|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -1012,14 +1219,21 @@
       "torque": 670,
       "weight": 1960,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
       "price": "~$98,990",
-      "aspiration": "Turbo + Eaton Supercharged"
+      "aspiration": "Turbo + Eaton Supercharged",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 560
     },
     "Volvo|V90|2025|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -1032,14 +1246,21 @@
       "torque": 670,
       "weight": 1960,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
       "price": "~$100,990",
-      "aspiration": "Turbo + Eaton Supercharged"
+      "aspiration": "Turbo + Eaton Supercharged",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 560
     },
     "Volvo|V90|2026|T8 Recharge": {
       "engine": "2.0L 4-cyl Turbo + Supercharger T8 PHEV",
@@ -1052,14 +1273,19 @@
       "torque": 670,
       "weight": 1960,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "acceleration": 4.4,
       "topSpeed": 250,
       "range": 59,
       "price": "~$102,990",
-      "aspiration": "Turbo + Eaton Supercharged"
+      "aspiration": "Turbo + Eaton Supercharged",
+      "quarterMile": "~12.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Subaru|BRZ|2022|BRZ tS": {
       "engine": "2.4L H4 Naturally Aspirated",
@@ -1072,13 +1298,20 @@
       "torque": 250,
       "weight": 1285,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 10.5,
+      "fh": 5.8,
       "fx": 8.4,
       "acceleration": 6.2,
       "topSpeed": 226,
       "price": "~$43,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.5 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 237
     },
     "Subaru|BRZ|2023|BRZ tS": {
       "engine": "2.4L H4 Naturally Aspirated",
@@ -1091,13 +1324,20 @@
       "torque": 250,
       "weight": 1285,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 10.5,
+      "fh": 5.8,
       "fx": 8.4,
       "acceleration": 6.2,
       "topSpeed": 226,
       "price": "~$44,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.5 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 237
     },
     "Toyota|Crown Kluger|2023|GX": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1110,13 +1350,18 @@
       "torque": 239,
       "weight": 2030,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 6.6,
+      "fh": 4.8,
       "fx": 5.8,
       "acceleration": 7.7,
       "topSpeed": 180,
       "price": "~$66,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Crown Kluger|2023|GXL": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1129,13 +1374,18 @@
       "torque": 239,
       "weight": 2030,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 6.6,
+      "fh": 4.8,
       "fx": 5.8,
       "acceleration": 7.7,
       "topSpeed": 180,
       "price": "~$74,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Crown Kluger|2023|Edge": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1148,13 +1398,18 @@
       "torque": 239,
       "weight": 2030,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 6.6,
+      "fh": 4.8,
       "fx": 5.8,
       "acceleration": 7.7,
       "topSpeed": 180,
       "price": "~$82,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Crown Kluger|2023|Cruiser": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1167,13 +1422,18 @@
       "torque": 239,
       "weight": 2030,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 6.6,
+      "fh": 4.8,
       "fx": 5.8,
       "acceleration": 7.7,
       "topSpeed": 180,
       "price": "~$89,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Crown Kluger|2024|GX": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1186,13 +1446,18 @@
       "torque": 239,
       "weight": 2030,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 6.6,
+      "fh": 4.8,
       "fx": 5.8,
       "acceleration": 7.7,
       "topSpeed": 180,
       "price": "~$68,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Crown Kluger|2024|GXL": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1205,13 +1470,18 @@
       "torque": 239,
       "weight": 2030,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 6.6,
+      "fh": 4.8,
       "fx": 5.8,
       "acceleration": 7.7,
       "topSpeed": 180,
       "price": "~$76,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Crown Kluger|2024|Edge": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1224,13 +1494,18 @@
       "torque": 239,
       "weight": 2030,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 6.6,
+      "fh": 4.8,
       "fx": 5.8,
       "acceleration": 7.7,
       "topSpeed": 180,
       "price": "~$84,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Crown Kluger|2024|Cruiser": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1243,13 +1518,18 @@
       "torque": 239,
       "weight": 2030,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 6.6,
+      "fh": 4.8,
       "fx": 5.8,
       "acceleration": 7.7,
       "topSpeed": 180,
       "price": "~$91,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Crown Kluger|2025|GX": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1262,13 +1542,18 @@
       "torque": 239,
       "weight": 2030,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 6.6,
+      "fh": 4.8,
       "fx": 5.8,
       "acceleration": 7.7,
       "topSpeed": 180,
       "price": "~$70,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Crown Kluger|2025|GXL": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1281,13 +1566,18 @@
       "torque": 239,
       "weight": 2030,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 6.6,
+      "fh": 4.8,
       "fx": 5.8,
       "acceleration": 7.7,
       "topSpeed": 180,
       "price": "~$78,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Crown Kluger|2025|Edge": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1300,13 +1590,18 @@
       "torque": 239,
       "weight": 2030,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 6.6,
+      "fh": 4.8,
       "fx": 5.8,
       "acceleration": 7.7,
       "topSpeed": 180,
       "price": "~$86,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Crown Kluger|2025|Cruiser": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1319,13 +1614,18 @@
       "torque": 239,
       "weight": 2030,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 6.6,
+      "fh": 4.8,
       "fx": 5.8,
       "acceleration": 7.7,
       "topSpeed": 180,
       "price": "~$93,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Crown Kluger|2026|GX": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1338,13 +1638,18 @@
       "torque": 239,
       "weight": 2030,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 6.6,
+      "fh": 4.8,
       "fx": 5.8,
       "acceleration": 7.7,
       "topSpeed": 180,
       "price": "~$72,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Crown Kluger|2026|GXL": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1357,13 +1662,18 @@
       "torque": 239,
       "weight": 2030,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 6.6,
+      "fh": 4.8,
       "fx": 5.8,
       "acceleration": 7.7,
       "topSpeed": 180,
       "price": "~$80,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Crown Kluger|2026|Edge": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1376,13 +1686,18 @@
       "torque": 239,
       "weight": 2030,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 6.6,
+      "fh": 4.8,
       "fx": 5.8,
       "acceleration": 7.7,
       "topSpeed": 180,
       "price": "~$88,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Crown Kluger|2026|Cruiser": {
       "engine": "2.5L 4-cyl Hybrid AWD",
@@ -1395,13 +1710,18 @@
       "torque": 239,
       "weight": 2030,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 6.6,
+      "fh": 4.8,
       "fx": 5.8,
       "acceleration": 7.7,
       "topSpeed": 180,
       "price": "~$95,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|bZ3C|2025|FWD": {
       "engine": "Single Electric Motor",
@@ -1420,7 +1740,8 @@
       "acceleration": 7,
       "topSpeed": 160,
       "price": "~$54,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.2 sec"
     },
     "Toyota|bZ3C|2025|AWD": {
       "engine": "Single Electric Motor",
@@ -1439,7 +1760,8 @@
       "acceleration": 5.5,
       "topSpeed": 160,
       "price": "~$64,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.8 sec"
     },
     "Toyota|bZ3C|2026|FWD": {
       "engine": "Single Electric Motor",
@@ -1458,7 +1780,8 @@
       "acceleration": 7,
       "topSpeed": 160,
       "price": "~$56,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.2 sec"
     },
     "Toyota|bZ3C|2026|AWD": {
       "engine": "Single Electric Motor",
@@ -1477,7 +1800,8 @@
       "acceleration": 5.5,
       "topSpeed": 160,
       "price": "~$66,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.8 sec"
     }
   }
 }

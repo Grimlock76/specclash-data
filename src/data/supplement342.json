@@ -1,8 +1,8 @@
 {
   "specs": {
     "Mitsubishi|ASX|2025|ES (XD)": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 200,
+      "acceleration": 10.3,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -19,11 +19,15 @@
       "fx": 7.6,
       "weight": 1384,
       "fuelTank": 63,
-      "price": "$27,990"
+      "price": "$27,990",
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|ASX|2025|MR (XD)": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 200,
+      "acceleration": 10.3,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -40,11 +44,15 @@
       "fx": 7.6,
       "weight": 1384,
       "fuelTank": 63,
-      "price": "$29,740"
+      "price": "$29,740",
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|ASX|2025|GSR (XD)": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 205,
+      "acceleration": 9.4,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -61,11 +69,15 @@
       "fx": 7.9,
       "weight": 1398,
       "fuelTank": 63,
-      "price": "$32,740"
+      "price": "$32,740",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|ASX|2025|LS": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 205,
+      "acceleration": 8.6,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -81,11 +93,15 @@
       "fh": 5,
       "fx": 6.4,
       "weight": 1276,
-      "price": "$37,740"
+      "price": "$37,740",
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|ASX|2025|Aspire": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 205,
+      "acceleration": 8.7,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -101,11 +117,15 @@
       "fh": 5,
       "fx": 6.4,
       "weight": 1294,
-      "price": "$42,690"
+      "price": "$42,690",
+      "quarterMile": "~16.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|ASX|2025|Exceed": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 205,
+      "acceleration": 8.7,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -121,11 +141,15 @@
       "fh": 5,
       "fx": 6.4,
       "weight": 1294,
-      "price": "$46,490"
+      "price": "$46,490",
+      "quarterMile": "~16.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|ASX|2026|LS": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 210,
+      "acceleration": 7.9,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -141,11 +165,15 @@
       "fh": 5,
       "fx": 6.4,
       "weight": 1276,
-      "price": "$37,740"
+      "price": "$37,740",
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|ASX|2026|Aspire": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 210,
+      "acceleration": 8,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -161,11 +189,15 @@
       "fh": 5,
       "fx": 6.4,
       "weight": 1294,
-      "price": "$42,690"
+      "price": "$42,690",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|ASX|2026|Exceed": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 210,
+      "acceleration": 8,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -181,11 +213,15 @@
       "fh": 5,
       "fx": 6.4,
       "weight": 1294,
-      "price": "$46,490"
+      "price": "$46,490",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Venue|2025|Venue": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 11.9,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -202,11 +238,15 @@
       "fx": 7.2,
       "fuelTank": 45,
       "weight": 1225,
-      "price": "$25,000"
+      "price": "$25,000",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Venue|2025|Active": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 11.9,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -223,11 +263,15 @@
       "fx": 7.2,
       "fuelTank": 45,
       "weight": 1225,
-      "price": "$27,250"
+      "price": "$27,250",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Venue|2025|Elite": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11.3,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -244,7 +288,11 @@
       "fx": 7.2,
       "fuelTank": 45,
       "weight": 1142,
-      "price": "$29,750"
+      "price": "$29,750",
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

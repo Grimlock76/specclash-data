@@ -16,7 +16,12 @@
       "acceleration": 4.8,
       "topSpeed": 230,
       "price": "~$173,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.1 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Taycan|2025|Taycan Turbo": {
       "engine": "Dual Motor Electric",
@@ -34,7 +39,12 @@
       "acceleration": 2.8,
       "topSpeed": 260,
       "price": "~$292,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~10.8 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Taycan|2025|Sport Turismo": {
       "engine": "Single Motor Electric",
@@ -52,7 +62,12 @@
       "acceleration": 5.5,
       "topSpeed": 230,
       "price": "~$161,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.8 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|718|2025|718 Cayman 4S": {
       "engine": "Dual Motor Electric",
@@ -70,7 +85,12 @@
       "acceleration": 3.5,
       "topSpeed": 270,
       "price": "~$186,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.7 sec",
+      "cargo": 125,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|718|2025|718 Boxster 4S": {
       "engine": "Dual Motor Electric",
@@ -88,7 +108,12 @@
       "acceleration": 3.5,
       "topSpeed": 270,
       "price": "~$196,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.7 sec",
+      "cargo": 125,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|718|2026|718 Cayman 4S": {
       "engine": "Dual Motor Electric",
@@ -106,7 +131,12 @@
       "acceleration": 3.5,
       "topSpeed": 270,
       "price": "~$191,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.7 sec",
+      "cargo": 125,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|718|2026|718 Boxster 4S": {
       "engine": "Dual Motor Electric",
@@ -124,7 +154,12 @@
       "acceleration": 3.5,
       "topSpeed": 270,
       "price": "~$201,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.7 sec",
+      "cargo": 125,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|718|2026|718 Cayman 4": {
       "engine": "Dual Motor Electric",
@@ -142,7 +177,12 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$159,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.8 sec",
+      "cargo": 125,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|718|2026|718 Boxster 4": {
       "engine": "Dual Motor Electric",
@@ -160,7 +200,12 @@
       "acceleration": 4.6,
       "topSpeed": 250,
       "price": "~$169,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.9 sec",
+      "cargo": 125,
+      "est": [
+        "cargo"
+      ]
     },
     "McLaren|Artura|2024|Spider": {
       "engine": "3.0L V6 Twin-Turbo + Electric",
@@ -180,7 +225,8 @@
       "acceleration": 3,
       "topSpeed": 330,
       "price": "~$439,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.1 sec"
     },
     "McLaren|Artura|2025|Spider": {
       "engine": "3.0L V6 Twin-Turbo + Electric",
@@ -200,7 +246,8 @@
       "acceleration": 3,
       "topSpeed": 330,
       "price": "~$459,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.1 sec"
     },
     "Lamborghini|Urus|2024|SE": {
       "engine": "4.0L V8 Twin-Turbo + Electric",
@@ -220,7 +267,12 @@
       "acceleration": 3.4,
       "topSpeed": 312,
       "price": "~$449,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.5 sec",
+      "cargo": 616,
+      "est": [
+        "cargo"
+      ]
     },
     "Lamborghini|Urus|2025|SE": {
       "engine": "4.0L V8 Twin-Turbo + Electric",
@@ -240,7 +292,12 @@
       "acceleration": 3.4,
       "topSpeed": 312,
       "price": "~$464,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.5 sec",
+      "cargo": 616,
+      "est": [
+        "cargo"
+      ]
     },
     "Lamborghini|Urus|2026|SE": {
       "engine": "4.0L V8 Twin-Turbo + Electric",
@@ -260,7 +317,12 @@
       "acceleration": 3.4,
       "topSpeed": 312,
       "price": "~$479,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.5 sec",
+      "cargo": 616,
+      "est": [
+        "cargo"
+      ]
     },
     "Lamborghini|Revuelto|2025|Spider": {
       "engine": "6.5L V12 NA + 3 Electric Motors",
@@ -279,7 +341,12 @@
       "acceleration": 2.5,
       "topSpeed": 350,
       "price": "~$1,149,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~10.4 sec",
+      "cargo": 150,
+      "est": [
+        "cargo"
+      ]
     },
     "Lamborghini|Revuelto|2026|Spider": {
       "engine": "6.5L V12 NA + 3 Electric Motors",
@@ -298,7 +365,12 @@
       "acceleration": 2.5,
       "topSpeed": 350,
       "price": "~$1,199,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~10.4 sec",
+      "cargo": 150,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

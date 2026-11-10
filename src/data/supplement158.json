@@ -17,7 +17,8 @@
       "acceleration": 5.3,
       "topSpeed": 250,
       "price": "~$195,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~13.6 sec"
     },
     "BMW|8 Series Convertible|2021|M850i xDrive Convertible": {
       "engine": "4.4L V8 Twin-Turbo",
@@ -36,7 +37,8 @@
       "acceleration": 3.9,
       "topSpeed": 250,
       "price": "~$268,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.2 sec"
     },
     "BMW|8 Series Convertible|2021|M8 Competition Convertible": {
       "engine": "4.4L V8 Twin-Turbo",
@@ -55,7 +57,8 @@
       "acceleration": 3.3,
       "topSpeed": 305,
       "price": "~$349,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.4 sec"
     },
     "BMW|8 Series Convertible|2022|840i Convertible": {
       "engine": "3.0L I6 Turbo",
@@ -74,7 +77,8 @@
       "acceleration": 5.3,
       "topSpeed": 250,
       "price": "~$201,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~13.6 sec"
     },
     "BMW|8 Series Convertible|2022|M850i xDrive Convertible": {
       "engine": "4.4L V8 Twin-Turbo",
@@ -93,7 +97,8 @@
       "acceleration": 3.9,
       "topSpeed": 250,
       "price": "~$278,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.2 sec"
     },
     "BMW|8 Series Convertible|2022|M8 Competition Convertible": {
       "engine": "4.4L V8 Twin-Turbo",
@@ -112,7 +117,8 @@
       "acceleration": 3.3,
       "topSpeed": 305,
       "price": "~$360,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.4 sec"
     },
     "BMW|8 Series Convertible|2023|840i Convertible": {
       "engine": "3.0L I6 Turbo",
@@ -131,7 +137,8 @@
       "acceleration": 5.3,
       "topSpeed": 250,
       "price": "~$207,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~13.6 sec"
     },
     "BMW|8 Series Convertible|2023|M850i xDrive Convertible": {
       "engine": "4.4L V8 Twin-Turbo",
@@ -150,7 +157,8 @@
       "acceleration": 3.9,
       "topSpeed": 250,
       "price": "~$288,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.2 sec"
     },
     "BMW|8 Series Convertible|2023|M8 Competition Convertible": {
       "engine": "4.4L V8 Twin-Turbo",
@@ -169,7 +177,8 @@
       "acceleration": 3.3,
       "topSpeed": 305,
       "price": "~$371,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.4 sec"
     },
     "BMW|8 Series Convertible|2024|840i Convertible": {
       "engine": "3.0L I6 Turbo",
@@ -188,7 +197,8 @@
       "acceleration": 5.3,
       "topSpeed": 250,
       "price": "~$213,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~13.6 sec"
     },
     "BMW|8 Series Convertible|2024|M850i xDrive Convertible": {
       "engine": "4.4L V8 Twin-Turbo",
@@ -207,7 +217,8 @@
       "acceleration": 3.9,
       "topSpeed": 250,
       "price": "~$298,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.2 sec"
     },
     "BMW|8 Series Convertible|2024|M8 Competition Convertible": {
       "engine": "4.4L V8 Twin-Turbo",
@@ -226,7 +237,8 @@
       "acceleration": 3.3,
       "topSpeed": 305,
       "price": "~$382,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.4 sec"
     },
     "BMW|8 Series Convertible|2025|840i Convertible": {
       "engine": "3.0L I6 Turbo",
@@ -245,7 +257,8 @@
       "acceleration": 5.3,
       "topSpeed": 250,
       "price": "~$219,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~13.6 sec"
     },
     "BMW|8 Series Convertible|2025|M850i xDrive Convertible": {
       "engine": "4.4L V8 Twin-Turbo",
@@ -264,7 +277,8 @@
       "acceleration": 3.9,
       "topSpeed": 250,
       "price": "~$309,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.2 sec"
     },
     "BMW|8 Series Convertible|2025|M8 Competition Convertible": {
       "engine": "4.4L V8 Twin-Turbo",
@@ -283,7 +297,8 @@
       "acceleration": 3.3,
       "topSpeed": 305,
       "price": "~$394,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.4 sec"
     },
     "BMW|8 Series Convertible|2026|840i Convertible": {
       "engine": "3.0L I6 Turbo",
@@ -302,7 +317,8 @@
       "acceleration": 5.3,
       "topSpeed": 250,
       "price": "~$225,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~13.6 sec"
     },
     "BMW|8 Series Convertible|2026|M850i xDrive Convertible": {
       "engine": "4.4L V8 Twin-Turbo",
@@ -321,7 +337,8 @@
       "acceleration": 3.9,
       "topSpeed": 250,
       "price": "~$319,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.2 sec"
     },
     "BMW|8 Series Convertible|2026|M8 Competition Convertible": {
       "engine": "4.4L V8 Twin-Turbo",
@@ -340,7 +357,8 @@
       "acceleration": 3.3,
       "topSpeed": 305,
       "price": "~$406,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.4 sec"
     },
     "Ferrari|812 GTS|2021|GTS": {
       "engine": "6.5L V12 NA",
@@ -378,7 +396,8 @@
       "acceleration": 3,
       "topSpeed": 340,
       "price": "~$689,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~11.1 sec"
     }
   }
 }

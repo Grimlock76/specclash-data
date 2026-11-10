@@ -11,13 +11,18 @@
       "torque": 330,
       "weight": 2020,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.3,
+      "fh": 5.9,
       "fx": 8.3,
       "acceleration": 13.5,
       "topSpeed": 155,
       "price": "~$54,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Vito|2018|116 CDI": {
       "engine": "2.1L 4-cyl OM651 CDI",
@@ -30,13 +35,18 @@
       "torque": 380,
       "weight": 2040,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.3,
+      "fh": 5.9,
       "fx": 8.3,
       "acceleration": 13.5,
       "topSpeed": 155,
       "price": "~$59,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Vito|2019|114 CDI": {
       "engine": "2.1L 4-cyl OM651 CDI",
@@ -49,13 +59,18 @@
       "torque": 330,
       "weight": 2020,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.3,
+      "fh": 5.9,
       "fx": 8.3,
       "acceleration": 13.5,
       "topSpeed": 155,
       "price": "~$55,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Vito|2019|116 CDI": {
       "engine": "2.1L 4-cyl OM651 CDI",
@@ -68,13 +83,18 @@
       "torque": 380,
       "weight": 2040,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.3,
+      "fh": 5.9,
       "fx": 8.3,
       "acceleration": 13.5,
       "topSpeed": 155,
       "price": "~$60,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Vito|2020|114 CDI": {
       "engine": "2.1L 4-cyl OM651 CDI",
@@ -87,13 +107,18 @@
       "torque": 330,
       "weight": 2020,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.3,
+      "fh": 5.9,
       "fx": 8.3,
       "acceleration": 13.5,
       "topSpeed": 155,
       "price": "~$56,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Vito|2020|116 CDI": {
       "engine": "2.1L 4-cyl OM651 CDI",
@@ -106,13 +131,18 @@
       "torque": 380,
       "weight": 2040,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.3,
+      "fh": 5.9,
       "fx": 8.3,
       "acceleration": 13.5,
       "topSpeed": 155,
       "price": "~$61,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Vito|2021|114 CDI": {
       "engine": "2.1L 4-cyl OM651 CDI",
@@ -125,13 +155,18 @@
       "torque": 330,
       "weight": 2020,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.3,
+      "fh": 5.9,
       "fx": 8.3,
       "acceleration": 13.5,
       "topSpeed": 155,
       "price": "~$57,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Vito|2021|116 CDI": {
       "engine": "2.1L 4-cyl OM651 CDI",
@@ -144,13 +179,18 @@
       "torque": 380,
       "weight": 2040,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.3,
+      "fh": 5.9,
       "fx": 8.3,
       "acceleration": 13.5,
       "topSpeed": 155,
       "price": "~$62,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Vito|2022|114 CDI": {
       "engine": "2.1L 4-cyl OM651 CDI",
@@ -163,13 +203,18 @@
       "torque": 330,
       "weight": 2020,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.3,
+      "fh": 5.9,
       "fx": 8.3,
       "acceleration": 13.5,
       "topSpeed": 155,
       "price": "~$58,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Vito|2022|116 CDI": {
       "engine": "2.1L 4-cyl OM651 CDI",
@@ -182,13 +227,18 @@
       "torque": 380,
       "weight": 2040,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.3,
+      "fh": 5.9,
       "fx": 8.3,
       "acceleration": 13.5,
       "topSpeed": 155,
       "price": "~$63,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Vito|2023|114 CDI": {
       "engine": "2.1L 4-cyl OM651 CDI",
@@ -201,13 +251,18 @@
       "torque": 330,
       "weight": 2020,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.3,
+      "fh": 5.9,
       "fx": 8.3,
       "acceleration": 13.5,
       "topSpeed": 155,
       "price": "~$60,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Vito|2023|116 CDI": {
       "engine": "2.1L 4-cyl OM651 CDI",
@@ -220,13 +275,18 @@
       "torque": 380,
       "weight": 2040,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.3,
+      "fh": 5.9,
       "fx": 8.3,
       "acceleration": 13.5,
       "topSpeed": 155,
       "price": "~$65,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Vito|2024|114 CDI": {
       "engine": "2.1L 4-cyl OM651 CDI",
@@ -239,13 +299,18 @@
       "torque": 330,
       "weight": 2020,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.3,
+      "fh": 5.9,
       "fx": 8.3,
       "acceleration": 13.5,
       "topSpeed": 155,
       "price": "~$62,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Vito|2024|116 CDI": {
       "engine": "2.1L 4-cyl OM651 CDI",
@@ -258,13 +323,18 @@
       "torque": 380,
       "weight": 2040,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.3,
+      "fh": 5.9,
       "fx": 8.3,
       "acceleration": 13.5,
       "topSpeed": 155,
       "price": "~$67,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Vito|2025|114 CDI": {
       "engine": "2.1L 4-cyl OM651 CDI",
@@ -277,13 +347,18 @@
       "torque": 330,
       "weight": 2020,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.3,
+      "fh": 5.9,
       "fx": 8.3,
       "acceleration": 13.5,
       "topSpeed": 155,
       "price": "~$64,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Vito|2025|116 CDI": {
       "engine": "2.1L 4-cyl OM651 CDI",
@@ -296,13 +371,18 @@
       "torque": 380,
       "weight": 2040,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.3,
+      "fh": 5.9,
       "fx": 8.3,
       "acceleration": 13.5,
       "topSpeed": 155,
       "price": "~$69,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Vito|2026|114 CDI": {
       "engine": "2.1L 4-cyl OM651 CDI",
@@ -315,13 +395,18 @@
       "torque": 330,
       "weight": 2020,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.3,
+      "fh": 5.9,
       "fx": 8.3,
       "acceleration": 13.5,
       "topSpeed": 155,
       "price": "~$66,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mercedes-Benz|Vito|2026|116 CDI": {
       "engine": "2.1L 4-cyl OM651 CDI",
@@ -334,13 +419,18 @@
       "torque": 380,
       "weight": 2040,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.3,
+      "fh": 5.9,
       "fx": 8.3,
       "acceleration": 13.5,
       "topSpeed": 155,
       "price": "~$71,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Crafter|2019|35 TDI": {
       "engine": "2.0L 4-cyl TDI 410",
@@ -353,13 +443,18 @@
       "torque": 340,
       "weight": 2505,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.6,
+      "fh": 6.2,
       "fx": 8.6,
       "acceleration": 14,
       "topSpeed": 155,
       "price": "~$65,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Crafter|2019|50 TDI": {
       "engine": "2.0L 4-cyl TDI 410",
@@ -372,13 +467,18 @@
       "torque": 400,
       "weight": 2580,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 11.1,
+      "fh": 6.4,
       "fx": 9,
       "acceleration": 14,
       "topSpeed": 155,
       "price": "~$77,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Crafter|2020|35 TDI": {
       "engine": "2.0L 4-cyl TDI 410",
@@ -391,13 +491,18 @@
       "torque": 340,
       "weight": 2505,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.6,
+      "fh": 6.2,
       "fx": 8.6,
       "acceleration": 14,
       "topSpeed": 155,
       "price": "~$66,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Crafter|2020|50 TDI": {
       "engine": "2.0L 4-cyl TDI 410",
@@ -410,13 +515,18 @@
       "torque": 400,
       "weight": 2580,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 11.1,
+      "fh": 6.4,
       "fx": 9,
       "acceleration": 14,
       "topSpeed": 155,
       "price": "~$78,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Crafter|2021|35 TDI": {
       "engine": "2.0L 4-cyl TDI 410",
@@ -429,13 +539,18 @@
       "torque": 340,
       "weight": 2505,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.6,
+      "fh": 6.2,
       "fx": 8.6,
       "acceleration": 14,
       "topSpeed": 155,
       "price": "~$67,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Crafter|2021|50 TDI": {
       "engine": "2.0L 4-cyl TDI 410",
@@ -448,13 +563,18 @@
       "torque": 400,
       "weight": 2580,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 11.1,
+      "fh": 6.4,
       "fx": 9,
       "acceleration": 14,
       "topSpeed": 155,
       "price": "~$79,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Crafter|2022|35 TDI": {
       "engine": "2.0L 4-cyl TDI 410",
@@ -467,13 +587,18 @@
       "torque": 340,
       "weight": 2505,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.6,
+      "fh": 6.2,
       "fx": 8.6,
       "acceleration": 14,
       "topSpeed": 155,
       "price": "~$68,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Crafter|2022|50 TDI": {
       "engine": "2.0L 4-cyl TDI 410",
@@ -486,13 +611,18 @@
       "torque": 400,
       "weight": 2580,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 11.1,
+      "fh": 6.4,
       "fx": 9,
       "acceleration": 14,
       "topSpeed": 155,
       "price": "~$80,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Crafter|2023|35 TDI": {
       "engine": "2.0L 4-cyl TDI 410",
@@ -505,13 +635,18 @@
       "torque": 340,
       "weight": 2505,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.6,
+      "fh": 6.2,
       "fx": 8.6,
       "acceleration": 14,
       "topSpeed": 155,
       "price": "~$70,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Crafter|2023|50 TDI": {
       "engine": "2.0L 4-cyl TDI 410",
@@ -524,13 +659,18 @@
       "torque": 400,
       "weight": 2580,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 11.1,
+      "fh": 6.4,
       "fx": 9,
       "acceleration": 14,
       "topSpeed": 155,
       "price": "~$82,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Crafter|2024|35 TDI": {
       "engine": "2.0L 4-cyl TDI 410",
@@ -543,13 +683,18 @@
       "torque": 340,
       "weight": 2505,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.6,
+      "fh": 6.2,
       "fx": 8.6,
       "acceleration": 14,
       "topSpeed": 155,
       "price": "~$72,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Crafter|2024|50 TDI": {
       "engine": "2.0L 4-cyl TDI 410",
@@ -562,13 +707,18 @@
       "torque": 400,
       "weight": 2580,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 11.1,
+      "fh": 6.4,
       "fx": 9,
       "acceleration": 14,
       "topSpeed": 155,
       "price": "~$84,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Crafter|2025|35 TDI": {
       "engine": "2.0L 4-cyl TDI 410",
@@ -581,13 +731,18 @@
       "torque": 340,
       "weight": 2505,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.6,
+      "fh": 6.2,
       "fx": 8.6,
       "acceleration": 14,
       "topSpeed": 155,
       "price": "~$74,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Crafter|2025|50 TDI": {
       "engine": "2.0L 4-cyl TDI 410",
@@ -600,13 +755,18 @@
       "torque": 400,
       "weight": 2580,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 11.1,
+      "fh": 6.4,
       "fx": 9,
       "acceleration": 14,
       "topSpeed": 155,
       "price": "~$86,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Crafter|2026|35 TDI": {
       "engine": "2.0L 4-cyl TDI 410",
@@ -619,13 +779,18 @@
       "torque": 340,
       "weight": 2505,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.6,
+      "fh": 6.2,
       "fx": 8.6,
       "acceleration": 14,
       "topSpeed": 155,
       "price": "~$76,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Crafter|2026|50 TDI": {
       "engine": "2.0L 4-cyl TDI 410",
@@ -638,13 +803,18 @@
       "torque": 400,
       "weight": 2580,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 11.1,
+      "fh": 6.4,
       "fx": 9,
       "acceleration": 14,
       "topSpeed": 155,
       "price": "~$88,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Fiat|Ducato|2018|LWB 120": {
       "engine": "2.3L 4-cyl MultiJet II",
@@ -657,13 +827,18 @@
       "torque": 380,
       "weight": 2260,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.9,
+      "fh": 6.2,
       "fx": 8.8,
       "acceleration": 14,
       "topSpeed": 160,
       "price": "~$61,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Fiat|Ducato|2018|LWB 140": {
       "engine": "2.3L 4-cyl MultiJet II",
@@ -676,13 +851,18 @@
       "torque": 400,
       "weight": 2300,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.5,
       "fx": 9.2,
       "acceleration": 14,
       "topSpeed": 160,
       "price": "~$69,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Fiat|Ducato|2019|LWB 120": {
       "engine": "2.3L 4-cyl MultiJet II",
@@ -695,13 +875,18 @@
       "torque": 380,
       "weight": 2260,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.9,
+      "fh": 6.2,
       "fx": 8.8,
       "acceleration": 14,
       "topSpeed": 160,
       "price": "~$62,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Fiat|Ducato|2019|LWB 140": {
       "engine": "2.3L 4-cyl MultiJet II",
@@ -714,13 +899,18 @@
       "torque": 400,
       "weight": 2300,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.5,
       "fx": 9.2,
       "acceleration": 14,
       "topSpeed": 160,
       "price": "~$70,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Fiat|Ducato|2020|LWB 120": {
       "engine": "2.3L 4-cyl MultiJet II",
@@ -733,13 +923,18 @@
       "torque": 380,
       "weight": 2260,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.9,
+      "fh": 6.2,
       "fx": 8.8,
       "acceleration": 14,
       "topSpeed": 160,
       "price": "~$63,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Fiat|Ducato|2020|LWB 140": {
       "engine": "2.3L 4-cyl MultiJet II",
@@ -752,13 +947,18 @@
       "torque": 400,
       "weight": 2300,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.5,
       "fx": 9.2,
       "acceleration": 14,
       "topSpeed": 160,
       "price": "~$71,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Fiat|Ducato|2021|LWB 120": {
       "engine": "2.3L 4-cyl MultiJet II",
@@ -771,13 +971,18 @@
       "torque": 380,
       "weight": 2260,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.9,
+      "fh": 6.2,
       "fx": 8.8,
       "acceleration": 14,
       "topSpeed": 160,
       "price": "~$64,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Fiat|Ducato|2021|LWB 140": {
       "engine": "2.3L 4-cyl MultiJet II",
@@ -790,13 +995,18 @@
       "torque": 400,
       "weight": 2300,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.5,
       "fx": 9.2,
       "acceleration": 14,
       "topSpeed": 160,
       "price": "~$72,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Fiat|Ducato|2022|LWB 120": {
       "engine": "2.3L 4-cyl MultiJet II",
@@ -809,13 +1019,18 @@
       "torque": 380,
       "weight": 2260,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.9,
+      "fh": 6.2,
       "fx": 8.8,
       "acceleration": 14,
       "topSpeed": 160,
       "price": "~$65,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Fiat|Ducato|2022|LWB 140": {
       "engine": "2.3L 4-cyl MultiJet II",
@@ -828,13 +1043,18 @@
       "torque": 400,
       "weight": 2300,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.5,
       "fx": 9.2,
       "acceleration": 14,
       "topSpeed": 160,
       "price": "~$73,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Fiat|Ducato|2023|LWB 120": {
       "engine": "2.3L 4-cyl MultiJet II",
@@ -847,13 +1067,18 @@
       "torque": 380,
       "weight": 2260,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.9,
+      "fh": 6.2,
       "fx": 8.8,
       "acceleration": 14,
       "topSpeed": 160,
       "price": "~$67,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Fiat|Ducato|2023|LWB 140": {
       "engine": "2.3L 4-cyl MultiJet II",
@@ -866,13 +1091,18 @@
       "torque": 400,
       "weight": 2300,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.5,
       "fx": 9.2,
       "acceleration": 14,
       "topSpeed": 160,
       "price": "~$75,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Fiat|Ducato|2024|LWB 120": {
       "engine": "2.3L 4-cyl MultiJet II",
@@ -885,13 +1115,18 @@
       "torque": 380,
       "weight": 2260,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.9,
+      "fh": 6.2,
       "fx": 8.8,
       "acceleration": 14,
       "topSpeed": 160,
       "price": "~$69,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Fiat|Ducato|2024|LWB 140": {
       "engine": "2.3L 4-cyl MultiJet II",
@@ -904,13 +1139,18 @@
       "torque": 400,
       "weight": 2300,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.5,
       "fx": 9.2,
       "acceleration": 14,
       "topSpeed": 160,
       "price": "~$77,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Fiat|Ducato|2025|LWB 120": {
       "engine": "2.3L 4-cyl MultiJet II",
@@ -923,13 +1163,18 @@
       "torque": 380,
       "weight": 2260,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.9,
+      "fh": 6.2,
       "fx": 8.8,
       "acceleration": 14,
       "topSpeed": 160,
       "price": "~$71,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Fiat|Ducato|2025|LWB 140": {
       "engine": "2.3L 4-cyl MultiJet II",
@@ -942,13 +1187,18 @@
       "torque": 400,
       "weight": 2300,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.5,
       "fx": 9.2,
       "acceleration": 14,
       "topSpeed": 160,
       "price": "~$79,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Fiat|Ducato|2026|LWB 120": {
       "engine": "2.3L 4-cyl MultiJet II",
@@ -961,13 +1211,18 @@
       "torque": 380,
       "weight": 2260,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 10.9,
+      "fh": 6.2,
       "fx": 8.8,
       "acceleration": 14,
       "topSpeed": 160,
       "price": "~$73,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Fiat|Ducato|2026|LWB 140": {
       "engine": "2.3L 4-cyl MultiJet II",
@@ -980,13 +1235,18 @@
       "torque": 400,
       "weight": 2300,
       "seats": 3,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.5,
       "fx": 9.2,
       "acceleration": 14,
       "topSpeed": 160,
       "price": "~$81,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Transporter|2025|Trendline TDI": {
       "engine": "2.0L 4-cyl TDI 110",
@@ -999,13 +1259,18 @@
       "torque": 340,
       "weight": 2070,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 9.9,
+      "fh": 5.7,
       "fx": 8,
       "acceleration": 12,
       "topSpeed": 185,
       "price": "~$68,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Transporter|2025|Highline TDI 4M": {
       "engine": "2.0L 4-cyl TDI 110",
@@ -1018,13 +1283,18 @@
       "torque": 400,
       "weight": 2210,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.6,
+      "fh": 6.2,
       "fx": 8.6,
       "acceleration": 10.5,
       "topSpeed": 195,
       "price": "~$82,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Transporter|2026|Trendline TDI": {
       "engine": "2.0L 4-cyl TDI 110",
@@ -1037,13 +1307,18 @@
       "torque": 340,
       "weight": 2070,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 9.9,
+      "fh": 5.7,
       "fx": 8,
       "acceleration": 12,
       "topSpeed": 185,
       "price": "~$70,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volkswagen|Transporter|2026|Highline TDI 4M": {
       "engine": "2.0L 4-cyl TDI 110",
@@ -1056,13 +1331,18 @@
       "torque": 400,
       "weight": 2210,
       "seats": 9,
-      "fc": null,
-      "fh": null,
+      "fc": 10.6,
+      "fh": 6.2,
       "fx": 8.6,
       "acceleration": 10.5,
       "topSpeed": 195,
       "price": "~$84,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     }
   }
 }

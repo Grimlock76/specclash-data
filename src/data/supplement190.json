@@ -17,7 +17,8 @@
       "acceleration": 8.5,
       "topSpeed": 225,
       "price": "~$56,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "Audi|Q2|2021|40 TFSI quattro": {
       "engine": "2.0L I4 Turbo TFSI",
@@ -36,7 +37,12 @@
       "acceleration": 7,
       "topSpeed": 225,
       "price": "~$55,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.2 sec",
+      "cargo": 405,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|Q3|2021|40 TFSI quattro": {
       "engine": "2.0L I4 Turbo TFSI",
@@ -55,7 +61,12 @@
       "acceleration": 6.8,
       "topSpeed": 215,
       "price": "~$62,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.0 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Cadillac|Escalade|2021|Premium Luxury": {
       "engine": "6.2L V8 NA EcoTec3",
@@ -74,7 +85,8 @@
       "acceleration": 7,
       "topSpeed": 200,
       "price": "~$249,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.2 sec"
     },
     "Cadillac|Escalade|2021|Sport": {
       "engine": "6.2L V8 NA EcoTec3",
@@ -93,7 +105,8 @@
       "acceleration": 7,
       "topSpeed": 200,
       "price": "~$259,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.2 sec"
     },
     "Chevrolet|Suburban|2021|High Country": {
       "engine": "6.2L V8 NA EcoTec3",
@@ -112,7 +125,8 @@
       "acceleration": 6.5,
       "topSpeed": 195,
       "price": "~$169,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec"
     },
     "Chevrolet|Tahoe|2021|High Country": {
       "engine": "6.2L V8 NA EcoTec3",
@@ -131,7 +145,8 @@
       "acceleration": 6.5,
       "topSpeed": 195,
       "price": "~$149,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec"
     },
     "Chevrolet|Tahoe|2021|Z71": {
       "engine": "5.3L V8 NA EcoTec3",
@@ -150,7 +165,8 @@
       "acceleration": 7.2,
       "topSpeed": 185,
       "price": "~$129,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.4 sec"
     },
     "GWM|Haval H6|2021|Ultra Petrol": {
       "engine": "2.0L I4 Turbo",
@@ -169,7 +185,8 @@
       "acceleration": 7.5,
       "topSpeed": 200,
       "price": "~$42,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec"
     },
     "GWM|Haval H6|2021|Ultra AWD": {
       "engine": "2.0L I4 Turbo",
@@ -188,7 +205,8 @@
       "acceleration": 7.5,
       "topSpeed": 200,
       "price": "~$45,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec"
     },
     "GWM|Haval H6|2021|Hybrid": {
       "engine": "1.5L I4 Turbo DHT Hybrid",
@@ -207,7 +225,8 @@
       "acceleration": 6.5,
       "topSpeed": 200,
       "price": "~$47,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.8 sec"
     },
     "Honda|Jazz|2021|e:HEV Vibe": {
       "engine": "1.5L I4 Atkinson e:HEV",
@@ -226,7 +245,8 @@
       "acceleration": 10.2,
       "topSpeed": 175,
       "price": "~$31,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.7 sec"
     },
     "Honda|Jazz|2021|e:HEV Luxe": {
       "engine": "1.5L I4 Atkinson e:HEV",
@@ -245,7 +265,8 @@
       "acceleration": 10.2,
       "topSpeed": 175,
       "price": "~$35,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.7 sec"
     },
     "Jaguar|F-Pace|2021|R-Dynamic S": {
       "engine": "2.0L I4 Turbo Ingenium",
@@ -264,7 +285,12 @@
       "acceleration": 7.7,
       "topSpeed": 230,
       "price": "~$89,900",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~15.8 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2021|R-Dynamic SE": {
       "engine": "3.0L I6 Turbo MHEV Ingenium",
@@ -283,7 +309,12 @@
       "acceleration": 5.8,
       "topSpeed": 243,
       "price": "~$119,900",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jeep|Grand Cherokee|2021|Overland": {
       "engine": "3.6L V6 Pentastar NA",
@@ -302,7 +333,12 @@
       "acceleration": 7.7,
       "topSpeed": 200,
       "price": "~$89,950",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "cargo": 1000,
+      "est": [
+        "cargo"
+      ]
     },
     "Jeep|Wrangler|2021|392": {
       "engine": "6.4L V8 HEMI NA",
@@ -321,7 +357,12 @@
       "acceleration": 4.5,
       "topSpeed": 210,
       "price": "~$149,950",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.8 sec",
+      "cargo": 142,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Defender|2021|110 P400e": {
       "engine": "2.0L I4 Turbo PHEV",
@@ -334,13 +375,18 @@
       "torque": 640,
       "weight": 2450,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.3,
+      "fh": 2.4,
       "fx": 2.9,
       "acceleration": 5.6,
       "topSpeed": 209,
       "price": "~$159,900",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-8|2021|GT": {
       "engine": "2.5L I4 Turbo Skyactiv-G",
@@ -359,7 +405,12 @@
       "acceleration": 8,
       "topSpeed": 195,
       "price": "~$55,990",
-      "aspiration": "MHI Single-Turbo"
+      "aspiration": "MHI Single-Turbo",
+      "quarterMile": "~16.1 sec",
+      "cargo": 258,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|S-Class|2021|S 350d": {
       "engine": "3.0L I6 Turbo Diesel",
@@ -378,7 +429,12 @@
       "acceleration": 6.1,
       "topSpeed": 250,
       "price": "~$249,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~14.4 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

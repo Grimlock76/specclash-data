@@ -13,8 +13,8 @@
       "fh": 6.5,
       "fx": 7.5,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.1,
+      "topSpeed": 175,
       "weight": 2000,
       "seats": 5,
       "cargo": null,
@@ -22,7 +22,11 @@
       "towing": 3500,
       "payload": 1070,
       "fuelTank": 75,
-      "groundClearance": 228
+      "groundClearance": 228,
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Triton|2024|GLX+": {
       "engine": "2.4L I4 Twin-Turbo Diesel (4N16)",
@@ -37,8 +41,8 @@
       "fh": 6.7,
       "fx": 7.7,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.1,
+      "topSpeed": 175,
       "weight": 2080,
       "seats": 4,
       "cargo": null,
@@ -46,7 +50,11 @@
       "towing": 3500,
       "payload": 1120,
       "fuelTank": 75,
-      "groundClearance": 228
+      "groundClearance": 228,
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Triton|2024|GLX-R": {
       "engine": "2.4L I4 Twin-Turbo Diesel (4N16)",
@@ -61,8 +69,8 @@
       "fh": 6.7,
       "fx": 7.7,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.3,
+      "topSpeed": 175,
       "weight": 2120,
       "seats": 5,
       "cargo": null,
@@ -70,7 +78,11 @@
       "towing": 3500,
       "payload": 1080,
       "fuelTank": 75,
-      "groundClearance": 228
+      "groundClearance": 228,
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Triton|2024|GLS": {
       "engine": "2.4L I4 Twin-Turbo Diesel (4N16)",
@@ -85,8 +97,8 @@
       "fh": 6.7,
       "fx": 7.7,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.3,
+      "topSpeed": 175,
       "weight": 2125,
       "seats": 5,
       "cargo": null,
@@ -94,7 +106,11 @@
       "towing": 3500,
       "payload": 1075,
       "fuelTank": 75,
-      "groundClearance": 228
+      "groundClearance": 228,
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Triton|2024|GSR": {
       "engine": "2.4L I4 Twin-Turbo Diesel (4N16)",
@@ -109,8 +125,8 @@
       "fh": 6.7,
       "fx": 7.7,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.6,
+      "topSpeed": 170,
       "weight": 2170,
       "seats": 5,
       "cargo": null,
@@ -118,7 +134,11 @@
       "towing": 3500,
       "payload": 1030,
       "fuelTank": 75,
-      "groundClearance": 228
+      "groundClearance": 228,
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Triton|2026|GLX": {
       "engine": "2.4L I4 Twin-Turbo Diesel (4N16)",
@@ -133,8 +153,8 @@
       "fh": 6.5,
       "fx": 7.5,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.2,
+      "topSpeed": 175,
       "weight": 2015,
       "seats": 5,
       "cargo": null,
@@ -142,7 +162,11 @@
       "towing": 3500,
       "payload": 1055,
       "fuelTank": 75,
-      "groundClearance": 228
+      "groundClearance": 228,
+      "quarterMile": "~18.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Triton|2026|GLX+": {
       "engine": "2.4L I4 Twin-Turbo Diesel (4N16)",
@@ -157,8 +181,8 @@
       "fh": 6.7,
       "fx": 7.7,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.2,
+      "topSpeed": 175,
       "weight": 2089,
       "seats": 4,
       "cargo": null,
@@ -166,7 +190,11 @@
       "towing": 3500,
       "payload": 1111,
       "fuelTank": 75,
-      "groundClearance": 228
+      "groundClearance": 228,
+      "quarterMile": "~18.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Triton|2026|GLX-R": {
       "engine": "2.4L I4 Twin-Turbo Diesel (4N16)",
@@ -181,8 +209,8 @@
       "fh": 6.7,
       "fx": 7.7,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.3,
+      "topSpeed": 175,
       "weight": 2107,
       "seats": 5,
       "cargo": null,
@@ -190,7 +218,11 @@
       "towing": 3500,
       "payload": 1093,
       "fuelTank": 75,
-      "groundClearance": 228
+      "groundClearance": 228,
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Triton|2026|GLS": {
       "engine": "2.4L I4 Twin-Turbo Diesel (4N16)",
@@ -205,8 +237,8 @@
       "fh": 6.7,
       "fx": 7.7,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.4,
+      "topSpeed": 175,
       "weight": 2129,
       "seats": 5,
       "cargo": null,
@@ -214,7 +246,11 @@
       "towing": 3500,
       "payload": 1071,
       "fuelTank": 75,
-      "groundClearance": 228
+      "groundClearance": 228,
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Triton|2026|GSR": {
       "engine": "2.4L I4 Twin-Turbo Diesel (4N16)",
@@ -229,8 +265,8 @@
       "fh": 6.7,
       "fx": 7.7,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.6,
+      "topSpeed": 175,
       "weight": 2170,
       "seats": 5,
       "cargo": null,
@@ -238,7 +274,11 @@
       "towing": 3500,
       "payload": 1030,
       "fuelTank": 75,
-      "groundClearance": 228
+      "groundClearance": 228,
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Triton|2026|Raider": {
       "engine": "2.4L I4 Twin-Turbo Diesel (4N16)",
@@ -253,8 +293,8 @@
       "fh": 6.7,
       "fx": 7.7,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.7,
+      "topSpeed": 170,
       "weight": 2195,
       "seats": 5,
       "cargo": null,
@@ -262,7 +302,11 @@
       "towing": 3500,
       "payload": 990,
       "fuelTank": 75,
-      "groundClearance": 243
+      "groundClearance": 243,
+      "quarterMile": "~18.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

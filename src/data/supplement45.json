@@ -3354,7 +3354,8 @@
       "price": "$140,000",
       "bodyStyle": "SUV",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.0 sec"
     },
     "Audi|e-tron|2020|55 quattro": {
       "engine": "Dual Electric Motor",
@@ -3371,7 +3372,8 @@
       "price": "$140,000",
       "bodyStyle": "SUV",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.0 sec"
     },
     "Audi|e-tron|2021|55 quattro": {
       "engine": "Dual Electric Motor",
@@ -3388,7 +3390,8 @@
       "price": "$140,000",
       "bodyStyle": "SUV",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.0 sec"
     },
     "Audi|e-tron|2022|55 quattro": {
       "engine": "Dual Electric Motor",
@@ -3405,7 +3408,8 @@
       "price": "$140,000",
       "bodyStyle": "SUV",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.0 sec"
     },
     "Audi|Q8 e-tron|2023|55 quattro": {
       "engine": "Dual Electric Motor",
@@ -3422,7 +3426,8 @@
       "price": "$155,000",
       "bodyStyle": "SUV",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.9 sec"
     },
     "Audi|Q8 e-tron|2023|SQ8": {
       "engine": "Tri Electric Motor",
@@ -3456,7 +3461,8 @@
       "price": "$155,000",
       "bodyStyle": "SUV",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.9 sec"
     },
     "Audi|Q8 e-tron|2026|SQ8": {
       "engine": "Tri Electric Motor",

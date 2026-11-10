@@ -20,7 +20,8 @@
       "seats": 5,
       "fuelTank": 44,
       "price": "$43,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.1 sec"
     },
     "Mini|Hatch|2025|S Classic 5D": {
       "topSpeed": 242,
@@ -42,7 +43,8 @@
       "seats": 5,
       "fuelTank": 44,
       "price": "$51,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec"
     },
     "Mini|Hatch|2025|S Favoured 5D": {
       "topSpeed": 242,
@@ -64,7 +66,8 @@
       "seats": 5,
       "fuelTank": 44,
       "price": "$54,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec"
     },
     "Mini|Hatch|2025|JCW Classic 3D": {
       "topSpeed": 250,
@@ -85,7 +88,8 @@
       "weight": 1330,
       "seats": 4,
       "price": "$57,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec"
     },
     "Mini|Hatch|2025|E Classic 3D": {
       "topSpeed": 160,
@@ -108,7 +112,8 @@
       "range": 271,
       "weight": 1540,
       "price": "$53,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.5 sec"
     },
     "Mini|Hatch|2025|SE Favoured 3D": {
       "topSpeed": 170,
@@ -131,7 +136,8 @@
       "range": 362,
       "weight": 1605,
       "price": "$58,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.9 sec"
     },
     "Mini|Hatch|2025|JCW E Favoured 3D": {
       "topSpeed": 200,
@@ -154,7 +160,8 @@
       "range": null,
       "weight": 1650,
       "price": "$63,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.2 sec"
     }
   }
 }

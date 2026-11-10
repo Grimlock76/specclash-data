@@ -21,7 +21,8 @@
       "weight": 1761,
       "price": "$54,900",
       "range": 513,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec"
     },
     "Tesla|Model 3|2025|Premium Rear-Wheel Drive": {
       "fuelType": "electric",
@@ -44,7 +45,8 @@
       "weight": 1761,
       "price": "$54,900",
       "range": 520,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec"
     },
     "Tesla|Model 3|2025|Long Range RWD": {
       "fuelType": "electric",
@@ -67,7 +69,8 @@
       "acceleration": 5.2,
       "weight": 1747,
       "price": "$61,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.5 sec"
     },
     "Tesla|Model 3|2025|Premium Long Range RWD": {
       "fuelType": "electric",
@@ -90,7 +93,8 @@
       "acceleration": 5.2,
       "weight": 1747,
       "price": "$61,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.5 sec"
     },
     "Tesla|Model 3|2025|Long Range AWD": {
       "fuelType": "electric",
@@ -107,13 +111,18 @@
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 366,
-      "torque": null,
+      "torque": 765,
       "battery": null,
       "range": 629,
       "acceleration": 4.4,
-      "weight": null,
+      "weight": 1745,
       "price": "$64,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "torque"
+      ],
+      "quarterMile": "~12.7 sec"
     },
     "Tesla|Model 3|2025|Performance": {
       "fuelType": "electric",
@@ -130,13 +139,17 @@
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 461,
-      "torque": null,
+      "torque": 960,
       "battery": "85 kWh",
       "range": 528,
       "acceleration": 3.1,
       "weight": 1854,
       "price": "$80,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque"
+      ],
+      "quarterMile": "~11.2 sec"
     }
   }
 }

@@ -30,13 +30,20 @@
       "torque": 400,
       "weight": 1835,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 10,
+      "fh": 5.6,
       "fx": 8,
       "acceleration": 5.4,
       "topSpeed": 250,
       "price": "~$90,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 505
     },
     "BMW|X1|2025|M35i xDrive": {
       "engine": "2.0L 4-cyl Twin-Turbo B48A20T3",
@@ -49,13 +56,20 @@
       "torque": 400,
       "weight": 1835,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 10,
+      "fh": 5.6,
       "fx": 8,
       "acceleration": 5.4,
       "topSpeed": 250,
       "price": "~$93,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 505
     },
     "Suzuki|Fronx|2024|GL": {
       "engine": "1.5L 4-cyl Dual Jet",
@@ -68,13 +82,20 @@
       "torque": 138,
       "weight": 970,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.4,
+      "fh": 4.1,
       "fx": 5.9,
       "acceleration": 13,
       "topSpeed": 165,
       "price": "~$24,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 304
     },
     "Suzuki|Fronx|2024|GLX": {
       "engine": "1.5L 4-cyl Dual Jet",
@@ -87,13 +108,20 @@
       "torque": 138,
       "weight": 970,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.4,
+      "fh": 4.1,
       "fx": 5.9,
       "acceleration": 13.5,
       "topSpeed": 165,
       "price": "~$27,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 304
     },
     "Suzuki|Fronx|2024|GLX+": {
       "engine": "1.5L 4-cyl Dual Jet",
@@ -106,13 +134,20 @@
       "torque": 138,
       "weight": 990,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.4,
+      "fh": 4.1,
       "fx": 5.9,
       "acceleration": 13.5,
       "topSpeed": 165,
       "price": "~$30,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 304
     },
     "Alfa Romeo|Junior|2025|Junior": {
       "engine": "1.2L 3-cyl PureTech 48V Mild Hybrid",
@@ -125,13 +160,18 @@
       "torque": 230,
       "weight": 1350,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 6.3,
+      "fh": 4.5,
       "fx": 5.5,
       "acceleration": 9.4,
       "topSpeed": 200,
       "price": "~$46,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Alfa Romeo|Junior|2025|Junior Elettrica": {
       "engine": "Single Electric Motor",
@@ -150,7 +190,8 @@
       "acceleration": 8,
       "topSpeed": 200,
       "price": "~$59,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.1 sec"
     },
     "Alfa Romeo|Junior|2026|Junior": {
       "engine": "1.2L 3-cyl PureTech 48V Mild Hybrid",
@@ -163,13 +204,18 @@
       "torque": 230,
       "weight": 1350,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 6.3,
+      "fh": 4.5,
       "fx": 5.5,
       "acceleration": 9.4,
       "topSpeed": 200,
       "price": "~$48,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Alfa Romeo|Junior|2026|Junior Elettrica": {
       "engine": "Single Electric Motor",
@@ -188,7 +234,8 @@
       "acceleration": 8,
       "topSpeed": 200,
       "price": "~$61,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.1 sec"
     },
     "Peugeot|408|2023|408": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -201,13 +248,18 @@
       "torque": 230,
       "weight": 1520,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.5,
+      "fh": 4.2,
       "fx": 6,
       "acceleration": 9.5,
       "topSpeed": 210,
       "price": "~$48,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Peugeot|408|2023|408 GT": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -220,13 +272,18 @@
       "torque": 230,
       "weight": 1520,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.5,
+      "fh": 4.2,
       "fx": 6,
       "acceleration": 9.5,
       "topSpeed": 210,
       "price": "~$55,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Peugeot|408|2023|408 PHEV": {
       "engine": "1.6L 4-cyl PureTech PHEV HYbrid4",
@@ -239,14 +296,19 @@
       "torque": 360,
       "weight": 1720,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "acceleration": 7.7,
       "topSpeed": 225,
       "range": 62,
       "price": "~$63,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Peugeot|408|2024|408": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -259,13 +321,18 @@
       "torque": 230,
       "weight": 1520,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.5,
+      "fh": 4.2,
       "fx": 6,
       "acceleration": 9.5,
       "topSpeed": 210,
       "price": "~$50,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Peugeot|408|2024|408 GT": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -278,13 +345,18 @@
       "torque": 230,
       "weight": 1520,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.5,
+      "fh": 4.2,
       "fx": 6,
       "acceleration": 9.5,
       "topSpeed": 210,
       "price": "~$57,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Peugeot|408|2024|408 PHEV": {
       "engine": "1.6L 4-cyl PureTech PHEV HYbrid4",
@@ -297,14 +369,19 @@
       "torque": 360,
       "weight": 1720,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "acceleration": 7.7,
       "topSpeed": 225,
       "range": 62,
       "price": "~$65,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Peugeot|408|2025|408": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -317,13 +394,18 @@
       "torque": 230,
       "weight": 1520,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.5,
+      "fh": 4.2,
       "fx": 6,
       "acceleration": 9.5,
       "topSpeed": 210,
       "price": "~$52,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Peugeot|408|2025|408 GT": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -336,13 +418,18 @@
       "torque": 230,
       "weight": 1520,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.5,
+      "fh": 4.2,
       "fx": 6,
       "acceleration": 9.5,
       "topSpeed": 210,
       "price": "~$59,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Peugeot|408|2025|408 PHEV": {
       "engine": "1.6L 4-cyl PureTech PHEV HYbrid4",
@@ -355,14 +442,19 @@
       "torque": 360,
       "weight": 1720,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "acceleration": 7.7,
       "topSpeed": 225,
       "range": 62,
       "price": "~$67,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Peugeot|408|2026|408": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -375,13 +467,18 @@
       "torque": 230,
       "weight": 1520,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.5,
+      "fh": 4.2,
       "fx": 6,
       "acceleration": 9.5,
       "topSpeed": 210,
       "price": "~$54,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Peugeot|408|2026|408 GT": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -394,13 +491,18 @@
       "torque": 230,
       "weight": 1520,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.5,
+      "fh": 4.2,
       "fx": 6,
       "acceleration": 9.5,
       "topSpeed": 210,
       "price": "~$61,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Peugeot|408|2026|408 PHEV": {
       "engine": "1.6L 4-cyl PureTech PHEV HYbrid4",
@@ -413,14 +515,19 @@
       "torque": 360,
       "weight": 1720,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "acceleration": 7.7,
       "topSpeed": 225,
       "range": 62,
       "price": "~$69,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Peugeot|2008|2024|e-2008": {
       "engine": "115kW Single Electric Motor",
@@ -439,7 +546,12 @@
       "acceleration": 8.9,
       "topSpeed": 150,
       "price": "~$57,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.8 sec",
+      "cargo": 405,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|2008|2025|e-2008": {
       "engine": "115kW Single Electric Motor",
@@ -458,7 +570,12 @@
       "acceleration": 8.9,
       "topSpeed": 150,
       "price": "~$59,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.8 sec",
+      "cargo": 405,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|2008|2026|e-2008": {
       "engine": "115kW Single Electric Motor",
@@ -477,7 +594,8 @@
       "acceleration": 8.9,
       "topSpeed": 150,
       "price": "~$61,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.8 sec"
     },
     "Mazda|CX-70|2024|GT": {
       "engine": "3.3L 6-cyl SH-VPTR Diesel",
@@ -490,13 +608,18 @@
       "torque": 550,
       "weight": 2100,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.7,
+      "fh": 5.5,
       "fx": 7.8,
       "acceleration": 6.8,
       "topSpeed": 210,
       "price": "~$79,990",
-      "aspiration": "Denso VGT Diesel Turbo"
+      "aspiration": "Denso VGT Diesel Turbo",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-70|2024|GT SP": {
       "engine": "3.3L 6-cyl SH-VPTR Diesel",
@@ -509,13 +632,18 @@
       "torque": 550,
       "weight": 2100,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.7,
+      "fh": 5.5,
       "fx": 7.8,
       "acceleration": 6.8,
       "topSpeed": 210,
       "price": "~$89,990",
-      "aspiration": "Denso VGT Diesel Turbo"
+      "aspiration": "Denso VGT Diesel Turbo",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-70|2024|GT PHEV": {
       "engine": "2.5L 4-cyl PHEV",
@@ -528,14 +656,19 @@
       "torque": 500,
       "weight": 2290,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.6,
+      "fh": 1.9,
       "fx": 2.3,
       "acceleration": 5.8,
       "topSpeed": 200,
       "range": 82,
       "price": "~$99,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-70|2025|GT": {
       "engine": "3.3L 6-cyl SH-VPTR Diesel",
@@ -548,13 +681,18 @@
       "torque": 550,
       "weight": 2100,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.7,
+      "fh": 5.5,
       "fx": 7.8,
       "acceleration": 6.8,
       "topSpeed": 210,
       "price": "~$82,990",
-      "aspiration": "Denso VGT Diesel Turbo"
+      "aspiration": "Denso VGT Diesel Turbo",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-70|2025|GT SP": {
       "engine": "3.3L 6-cyl SH-VPTR Diesel",
@@ -567,13 +705,18 @@
       "torque": 550,
       "weight": 2100,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.7,
+      "fh": 5.5,
       "fx": 7.8,
       "acceleration": 6.8,
       "topSpeed": 210,
       "price": "~$92,990",
-      "aspiration": "Denso VGT Diesel Turbo"
+      "aspiration": "Denso VGT Diesel Turbo",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-70|2025|GT PHEV": {
       "engine": "2.5L 4-cyl PHEV",
@@ -586,14 +729,19 @@
       "torque": 500,
       "weight": 2290,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.6,
+      "fh": 1.9,
       "fx": 2.3,
       "acceleration": 5.8,
       "topSpeed": 200,
       "range": 82,
       "price": "~$102,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-70|2026|GT": {
       "engine": "3.3L 6-cyl SH-VPTR Diesel",
@@ -606,13 +754,18 @@
       "torque": 550,
       "weight": 2100,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.7,
+      "fh": 5.5,
       "fx": 7.8,
       "acceleration": 6.8,
       "topSpeed": 210,
       "price": "~$85,990",
-      "aspiration": "Denso VGT Diesel Turbo"
+      "aspiration": "Denso VGT Diesel Turbo",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-70|2026|GT SP": {
       "engine": "3.3L 6-cyl SH-VPTR Diesel",
@@ -625,13 +778,18 @@
       "torque": 550,
       "weight": 2100,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 9.7,
+      "fh": 5.5,
       "fx": 7.8,
       "acceleration": 6.8,
       "topSpeed": 210,
       "price": "~$95,990",
-      "aspiration": "Denso VGT Diesel Turbo"
+      "aspiration": "Denso VGT Diesel Turbo",
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-70|2026|GT PHEV": {
       "engine": "2.5L 4-cyl PHEV",
@@ -644,14 +802,19 @@
       "torque": 500,
       "weight": 2290,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.6,
+      "fh": 1.9,
       "fx": 2.3,
       "acceleration": 5.8,
       "topSpeed": 200,
       "range": 82,
       "price": "~$105,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     }
   }
 }

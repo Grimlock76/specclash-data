@@ -20,7 +20,8 @@
       "fuelTank": 73,
       "weight": 1745,
       "price": "$410,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.7 sec"
     },
     "Aston Martin|Vantage|2026|S Coupe": {
       "topSpeed": 325,
@@ -42,7 +43,8 @@
       "fuelTank": 73,
       "weight": 1745,
       "price": null,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.5 sec"
     },
     "Aston Martin|Vantage|2026|Roadster": {
       "topSpeed": 325,
@@ -57,14 +59,19 @@
       "torque": 800,
       "transmission": "8-speed automatic",
       "drivetrain": "RWD",
-      "fc": null,
-      "fh": null,
+      "fc": 15.5,
+      "fh": 8.6,
       "fx": 12.4,
       "seats": 2,
       "fuelTank": 73,
       "weight": 1805,
       "price": null,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "McLaren|Artura|2026|Coupe": {
       "topSpeed": 330,
@@ -76,18 +83,24 @@
       "aspiration": "Twin-Turbo",
       "fuelType": "plug-in hybrid",
       "power": 515,
-      "torque": null,
+      "torque": 720,
       "transmission": "8-speed dual-clutch",
       "drivetrain": "RWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.5,
+      "fh": 3.9,
       "fx": 4.8,
       "battery": "7.4 kWh",
       "range": 33,
       "seats": 2,
       "weight": 1498,
       "price": "$463,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~11.1 sec"
     },
     "McLaren|Artura|2026|Spider": {
       "topSpeed": 330,
@@ -99,18 +112,24 @@
       "aspiration": "Twin-Turbo",
       "fuelType": "plug-in hybrid",
       "power": 515,
-      "torque": null,
+      "torque": 720,
       "transmission": "8-speed dual-clutch",
       "drivetrain": "RWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.5,
+      "fh": 3.9,
       "fx": 4.8,
       "battery": "7.4 kWh",
       "range": 33,
       "seats": 2,
       "weight": 1560,
       "price": null,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~11.1 sec"
     },
     "Alfa Romeo|Giulia|2026|Veloce": {
       "topSpeed": 240,
@@ -132,7 +151,8 @@
       "seats": 5,
       "fuelTank": 58,
       "price": "$79,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.0 sec"
     },
     "Alfa Romeo|Giulia|2026|Quadrifoglio": {
       "engine": "2.9L V6 Twin-Turbo",
@@ -152,7 +172,12 @@
       "seats": 5,
       "price": "~$157,990",
       "aspiration": "IHI Twin-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~12.2 sec",
+      "cargo": 480,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

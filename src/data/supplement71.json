@@ -1067,7 +1067,7 @@
       "ft": "Premium",
       "wt": "1,453 kg",
       "se": "2",
-      "ca": "—",
+      "ca": "~172 L",
       "pr": "~$50,565 USD",
       "aspiration": "NA"
     },
@@ -1492,7 +1492,11 @@
       "se": "5",
       "ca": "270 L",
       "pr": "~£5,200",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~19.1 sec",
+      "fx": "~8.9L",
+      "fc": "~11.1L",
+      "fh": "~6.2L"
     },
     "Lancia|Delta|1981|LX": {
       "en": "1.5L SOHC inline-4",
@@ -1508,7 +1512,11 @@
       "se": "5",
       "ca": "270 L",
       "pr": "~£5,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~18.5 sec",
+      "fx": "~9.3L",
+      "fc": "~11.6L",
+      "fh": "~6.5L"
     },
     "Lancia|Delta|1981|HF": {
       "en": "1.6L Turbo inline-4",
@@ -1524,7 +1532,11 @@
       "se": "5",
       "ca": "270 L",
       "pr": "~£7,500",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~16.1 sec",
+      "fx": "~10.5L",
+      "fc": "~13.1L",
+      "fh": "~7.3L"
     },
     "Lancia|Delta|1985|LX": {
       "en": "1.5L SOHC inline-4",
@@ -1540,7 +1552,11 @@
       "se": "5",
       "ca": "270 L",
       "pr": "~£6,400",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~18.5 sec",
+      "fx": "~8.9L",
+      "fc": "~11.1L",
+      "fh": "~6.2L"
     },
     "Lancia|Delta|1985|HF": {
       "en": "1.6L Turbo inline-4",
@@ -1556,7 +1572,11 @@
       "se": "5",
       "ca": "270 L",
       "pr": "~£8,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~16.1 sec",
+      "fx": "~10.0L",
+      "fc": "~12.5L",
+      "fh": "~6.9L"
     },
     "Lancia|Delta|1988|HF Integrale": {
       "en": "2.0L Turbo DOHC 8v inline-4",
@@ -1573,7 +1593,10 @@
       "se": "5",
       "ca": "270 L",
       "pr": "~£15,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "fx": "~12.2L",
+      "fc": "~15.3L",
+      "fh": "~8.4L"
     },
     "Lancia|Delta|1990|HF Integrale 16v": {
       "en": "2.0L Turbo DOHC 16v inline-4",
@@ -1590,7 +1613,10 @@
       "se": "5",
       "ca": "270 L",
       "pr": "~£18,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "fx": "~12.3L",
+      "fc": "~15.4L",
+      "fh": "~8.5L"
     },
     "Lancia|Delta|1992|HF Integrale Evo": {
       "en": "2.0L Turbo DOHC 16v inline-4",
@@ -1607,7 +1633,10 @@
       "se": "5",
       "ca": "270 L",
       "pr": "~£22,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "fx": "~12.3L",
+      "fc": "~15.4L",
+      "fh": "~8.5L"
     },
     "Lancia|Delta|1993|HF Integrale Evo II": {
       "en": "2.0L Turbo DOHC 16v inline-4",
@@ -1624,7 +1653,10 @@
       "se": "5",
       "ca": "270 L",
       "pr": "~£26,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "fx": "~12.3L",
+      "fc": "~15.4L",
+      "fh": "~8.5L"
     },
     "Lancia|Stratos|1975|HF": {
       "en": "Ferrari Dino 2.4L DOHC V6",
@@ -1641,7 +1673,10 @@
       "se": "2",
       "ca": "~220 L",
       "pr": "~£8,500",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "fx": "~13.5L",
+      "fc": "~16.9L",
+      "fh": "~9.3L"
     },
     "Lancia|Beta|1975|Coupe": {
       "en": "1.8L DOHC inline-4",
@@ -1657,7 +1692,11 @@
       "se": "4",
       "ca": "280 L",
       "pr": "~£3,500",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~17.2 sec",
+      "fx": "~11.5L",
+      "fc": "~14.4L",
+      "fh": "~8.0L"
     },
     "Lancia|Beta|1975|Spider": {
       "en": "1.8L DOHC inline-4",
@@ -1673,7 +1712,11 @@
       "se": "2",
       "ca": "250 L",
       "pr": "~£3,800",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~17.4 sec",
+      "fx": "~11.5L",
+      "fc": "~14.4L",
+      "fh": "~8.0L"
     },
     "Lancia|Beta|1975|HPE": {
       "en": "1.8L DOHC inline-4",
@@ -1689,7 +1732,11 @@
       "se": "4",
       "ca": "420 L",
       "pr": "~£4,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~17.2 sec",
+      "fx": "~11.6L",
+      "fc": "~14.5L",
+      "fh": "~8.1L"
     },
     "Datsun|Fairlady 1600|1967|Standard": {
       "en": "R16 1.6L SOHC inline-4",
@@ -3321,7 +3368,11 @@
       "se": "4",
       "ca": "~300 L",
       "pr": "~£3,200",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~17.9 sec",
+      "fx": "~10.9L",
+      "fc": "~13.6L",
+      "fh": "~7.6L"
     },
     "Lancia|Aprilia|1941|Standard": {
       "en": "1.4L SOHC V4",
@@ -3337,7 +3388,11 @@
       "se": "4",
       "ca": "~250 L",
       "pr": "~£700",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~21.6 sec",
+      "fx": "~13.2L",
+      "fc": "~16.5L",
+      "fh": "~9.2L"
     },
     "Lancia|Aprilia|1941|Cabriolet": {
       "en": "1.4L SOHC V4",
@@ -3353,7 +3408,11 @@
       "se": "4",
       "ca": "~200 L",
       "pr": "~£850",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~21.8 sec",
+      "fx": "~13.4L",
+      "fc": "~16.8L",
+      "fh": "~9.2L"
     },
     "Lancia|Ardea|1945|Standard": {
       "en": "0.9L SOHC V4",
@@ -3369,7 +3428,11 @@
       "se": "4",
       "ca": "~220 L",
       "pr": "~£550",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~24.6 sec",
+      "fx": "~10.3L",
+      "fc": "~12.9L",
+      "fh": "~7.1L"
     },
     "Lancia|Aurelia|1952|B10 Berlina": {
       "en": "1.8L SOHC V6",
@@ -3385,7 +3448,11 @@
       "se": "4",
       "ca": "~330 L",
       "pr": "~£1,500",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~22.5 sec",
+      "fx": "~12.4L",
+      "fc": "~15.5L",
+      "fh": "~8.6L"
     },
     "Lancia|Aurelia|1954|B20 GT": {
       "en": "2.5L SOHC V6",
@@ -3401,7 +3468,11 @@
       "se": "4",
       "ca": "~280 L",
       "pr": "~£2,400",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~18.5 sec",
+      "fx": "~15.5L",
+      "fc": "~19.4L",
+      "fh": "~10.7L"
     },
     "Lancia|Aurelia|1955|B24 Spider": {
       "en": "2.5L SOHC V6",
@@ -3417,7 +3488,11 @@
       "se": "2",
       "ca": "~200 L",
       "pr": "~£2,800",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~18.8 sec",
+      "fx": "~15.3L",
+      "fc": "~19.1L",
+      "fh": "~10.7L"
     },
     "Lancia|Appia|1957|Berlina": {
       "en": "1.1L SOHC V4",
@@ -3433,7 +3508,11 @@
       "se": "4",
       "ca": "~250 L",
       "pr": "~£1,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~23.3 sec",
+      "fx": "~10.2L",
+      "fc": "~12.8L",
+      "fh": "~7.0L"
     },
     "Lancia|Appia|1957|GT": {
       "en": "1.1L SOHC V4",
@@ -3449,7 +3528,11 @@
       "se": "4",
       "ca": "~250 L",
       "pr": "~£1,200",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~22.5 sec",
+      "fx": "~10.7L",
+      "fc": "~13.4L",
+      "fh": "~7.4L"
     },
     "Lancia|Appia|1957|Zagato": {
       "en": "1.1L SOHC V4",
@@ -3465,7 +3548,11 @@
       "se": "2",
       "ca": "~180 L",
       "pr": "~£1,800",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~21.6 sec",
+      "fx": "~10.7L",
+      "fc": "~13.4L",
+      "fh": "~7.4L"
     },
     "Lancia|Flaminia|1960|Berlina": {
       "en": "2.5L SOHC V6",
@@ -3481,7 +3568,11 @@
       "se": "5",
       "ca": "~380 L",
       "pr": "~£2,200",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~19.8 sec",
+      "fx": "~15.0L",
+      "fc": "~18.8L",
+      "fh": "~10.4L"
     },
     "Lancia|Flaminia|1960|GT": {
       "en": "2.5L SOHC V6",
@@ -3497,7 +3588,11 @@
       "se": "4",
       "ca": "~280 L",
       "pr": "~£2,800",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~19.1 sec",
+      "fx": "~15.3L",
+      "fc": "~19.1L",
+      "fh": "~10.7L"
     },
     "Lancia|Flaminia|1960|Sport": {
       "en": "2.5L SOHC V6 Zagato",
@@ -3513,7 +3608,11 @@
       "se": "4",
       "ca": "~260 L",
       "pr": "~£3,500",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~18.5 sec",
+      "fx": "~15.3L",
+      "fc": "~19.1L",
+      "fh": "~10.7L"
     },
     "Lancia|Flaminia|1961|Convertible": {
       "en": "2.5L SOHC V6",
@@ -3529,7 +3628,11 @@
       "se": "4",
       "ca": "~200 L",
       "pr": "~£3,200",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~19.4 sec",
+      "fx": "~15.3L",
+      "fc": "~19.1L",
+      "fh": "~10.7L"
     },
     "Lancia|Flavia|1964|Berlina": {
       "en": "1.5L SOHC flat-4",
@@ -3545,7 +3648,11 @@
       "se": "4",
       "ca": "~340 L",
       "pr": "~£1,400",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~20.1 sec",
+      "fx": "~12.0L",
+      "fc": "~15.0L",
+      "fh": "~8.3L"
     },
     "Lancia|Flavia|1964|Coupe": {
       "en": "1.5L SOHC flat-4",
@@ -3561,7 +3668,11 @@
       "se": "4",
       "ca": "~270 L",
       "pr": "~£1,700",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~19.6 sec",
+      "fx": "~12.1L",
+      "fc": "~15.1L",
+      "fh": "~8.4L"
     },
     "Lancia|Flavia|1966|1800": {
       "en": "1.8L SOHC flat-4",
@@ -3577,7 +3688,11 @@
       "se": "4",
       "ca": "~340 L",
       "pr": "~£2,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~18.8 sec",
+      "fx": "~12.6L",
+      "fc": "~15.8L",
+      "fh": "~8.7L"
     },
     "Lancia|Fulvia|1968|Coupe": {
       "en": "1.3L DOHC narrow-V4",
@@ -3593,7 +3708,11 @@
       "se": "4",
       "ca": "~240 L",
       "pr": "~£1,600",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~18.8 sec",
+      "fx": "~10.9L",
+      "fc": "~13.6L",
+      "fh": "~7.6L"
     },
     "Lancia|Fulvia|1969|HF": {
       "en": "1.6L DOHC narrow-V4",
@@ -3609,7 +3728,11 @@
       "se": "4",
       "ca": "~240 L",
       "pr": "~£2,400",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~16.8 sec",
+      "fx": "~12.6L",
+      "fc": "~15.8L",
+      "fh": "~8.7L"
     },
     "Lancia|Fulvia|1969|Sport Zagato": {
       "en": "1.3L DOHC narrow-V4",
@@ -3625,7 +3748,11 @@
       "se": "2",
       "ca": "~200 L",
       "pr": "~£2,200",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~17.9 sec",
+      "fx": "~11.1L",
+      "fc": "~13.9L",
+      "fh": "~7.7L"
     },
     "Lancia|Beta Montecarlo|1977|Standard": {
       "en": "2.0L DOHC inline-4 mid-engine",
@@ -3642,7 +3769,10 @@
       "se": "2",
       "ca": "~200 L",
       "pr": "~£7,500",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "fx": "~11.4L",
+      "fc": "~14.3L",
+      "fh": "~7.9L"
     },
     "Lancia|Beta Montecarlo|1981|Turbo": {
       "en": "1.4L Turbo DOHC inline-4 mid-engine",
@@ -3659,7 +3789,10 @@
       "se": "2",
       "ca": "~200 L",
       "pr": "~£10,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "fx": "~11.1L",
+      "fc": "~13.9L",
+      "fh": "~7.7L"
     },
     "Lancia|Gamma|1979|Berlina": {
       "en": "2.5L DOHC flat-4",
@@ -3675,7 +3808,11 @@
       "se": "5",
       "ca": "~380 L",
       "pr": "~£9,500",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~17.9 sec",
+      "fx": "~12.4L",
+      "fc": "~15.5L",
+      "fh": "~8.6L"
     },
     "Lancia|Gamma|1979|Coupe": {
       "en": "2.5L DOHC flat-4",
@@ -3691,7 +3828,11 @@
       "se": "4",
       "ca": "~280 L",
       "pr": "~£11,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~17.4 sec",
+      "fx": "~12.5L",
+      "fc": "~15.6L",
+      "fh": "~8.7L"
     },
     "Lancia|Rally 037|1983|Standard": {
       "en": "2.0L Supercharged DOHC inline-4",
@@ -3708,7 +3849,10 @@
       "se": "2",
       "ca": "~180 L",
       "pr": "~£25,000",
-      "aspiration": "Abarth Volumex Supercharged"
+      "aspiration": "Abarth Volumex Supercharged",
+      "fx": "~13.8L",
+      "fc": "~17.3L",
+      "fh": "~9.5L"
     },
     "Lancia|Rally 037|1983|Evolution": {
       "en": "2.0L Supercharged DOHC inline-4 Evo",
@@ -3725,7 +3869,10 @@
       "se": "2",
       "ca": "~180 L",
       "pr": "~£40,000",
-      "aspiration": "Abarth Volumex Supercharged"
+      "aspiration": "Abarth Volumex Supercharged",
+      "fx": "~14.2L",
+      "fc": "~17.8L",
+      "fh": "~9.8L"
     },
     "Lancia|Prisma|1985|1600": {
       "en": "1.6L DOHC inline-4",
@@ -3741,7 +3888,11 @@
       "se": "5",
       "ca": "~300 L",
       "pr": "~£7,500",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~17.9 sec",
+      "fx": "~9.8L",
+      "fc": "~12.3L",
+      "fh": "~6.7L"
     },
     "Lancia|Prisma|1985|2000 Turbo": {
       "en": "2.0L Turbo DOHC inline-4",
@@ -3757,7 +3908,11 @@
       "se": "5",
       "ca": "~300 L",
       "pr": "~£11,500",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~15.9 sec",
+      "fx": "~11.5L",
+      "fc": "~14.4L",
+      "fh": "~8.0L"
     },
     "Lancia|Thema|1987|2000 Turbo 16v": {
       "en": "2.0L Turbo DOHC 16v inline-4",
@@ -3773,7 +3928,11 @@
       "se": "5",
       "ca": "~380 L",
       "pr": "~£18,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~14.8 sec",
+      "fx": "~12.9L",
+      "fc": "~16.1L",
+      "fh": "~9.0L"
     },
     "Lancia|Thema|1988|8.32": {
       "en": "Ferrari 3.0L DOHC 32v V8",
@@ -3789,7 +3948,11 @@
       "se": "5",
       "ca": "~380 L",
       "pr": "~£35,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~15.0 sec",
+      "fx": "~13.3L",
+      "fc": "~16.6L",
+      "fh": "~9.3L"
     },
     "Lancia|Thema|1990|SW": {
       "en": "2.0L Turbo DOHC inline-4",
@@ -3805,7 +3968,11 @@
       "se": "5",
       "ca": "~520 L",
       "pr": "~£20,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~15.2 sec",
+      "fx": "~12.5L",
+      "fc": "~15.6L",
+      "fh": "~8.7L"
     },
     "Lancia|Y10|1987|Fire": {
       "en": "FIRE 1.0L SOHC inline-4",
@@ -3821,7 +3988,11 @@
       "se": "4",
       "ca": "~225 L",
       "pr": "~£5,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~21.2 sec",
+      "fx": "~6.6L",
+      "fc": "~8.3L",
+      "fh": "~4.5L"
     },
     "Lancia|Y10|1987|GT": {
       "en": "1.1L SOHC inline-4",
@@ -3837,7 +4008,11 @@
       "se": "4",
       "ca": "~225 L",
       "pr": "~£6,500",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~19.8 sec",
+      "fx": "~7.5L",
+      "fc": "~9.4L",
+      "fh": "~5.2L"
     },
     "Lancia|Y10|1988|Turbo": {
       "en": "1.0L Turbo SOHC inline-4",
@@ -3853,7 +4028,11 @@
       "se": "4",
       "ca": "~225 L",
       "pr": "~£8,500",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~17.9 sec",
+      "fx": "~7.9L",
+      "fc": "~9.9L",
+      "fh": "~5.5L"
     },
     "Lancia|Y10|1988|4WD": {
       "en": "1.1L SOHC inline-4 AWD",
@@ -3869,7 +4048,11 @@
       "se": "4",
       "ca": "~225 L",
       "pr": "~£8,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~20.3 sec",
+      "fx": "~7.7L",
+      "fc": "~9.6L",
+      "fh": "~5.4L"
     },
     "Lancia|Dedra|1991|2.0 Turbo": {
       "en": "2.0L Turbo DOHC inline-4",
@@ -3885,7 +4068,11 @@
       "se": "5",
       "ca": "~510 L",
       "pr": "~£16,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~15.0 sec",
+      "fx": "~11.8L",
+      "fc": "~14.8L",
+      "fh": "~8.1L"
     },
     "Lancia|Dedra|1991|Integrale": {
       "en": "2.0L Turbo DOHC 16v inline-4 AWD",
@@ -3901,7 +4088,11 @@
       "se": "5",
       "ca": "~510 L",
       "pr": "~£22,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~14.3 sec",
+      "fx": "~12.2L",
+      "fc": "~15.3L",
+      "fh": "~8.4L"
     },
     "Lancia|Dedra|1993|SW": {
       "en": "2.0L Turbo DOHC inline-4",
@@ -3917,7 +4108,11 @@
       "se": "5",
       "ca": "~650 L",
       "pr": "~£18,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~15.2 sec",
+      "fx": "~11.6L",
+      "fc": "~14.5L",
+      "fh": "~8.1L"
     },
     "Lancia|Kappa|1997|2.0": {
       "en": "2.0L DOHC 16v inline-4",
@@ -3933,7 +4128,11 @@
       "se": "5",
       "ca": "~510 L",
       "pr": "~£17,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~17.4 sec",
+      "fx": "~10.4L",
+      "fc": "~13.0L",
+      "fh": "~7.2L"
     },
     "Lancia|Kappa|1997|Coupe": {
       "en": "2.0L Turbo DOHC inline-5",
@@ -3949,7 +4148,11 @@
       "se": "4",
       "ca": "~310 L",
       "pr": "~£28,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~15.4 sec",
+      "fx": "~11.6L",
+      "fc": "~14.5L",
+      "fh": "~8.1L"
     },
     "Lancia|Zeta|1997|2.0 Turbo": {
       "en": "2.0L Turbo DOHC inline-4",
@@ -3965,7 +4168,11 @@
       "se": "8",
       "ca": "~700 L",
       "pr": "~£20,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~16.9 sec",
+      "fx": "~11.9L",
+      "fc": "~14.9L",
+      "fh": "~8.2L"
     },
     "Lancia|Ypsilon|1999|1.2": {
       "en": "1.2L SOHC inline-4",
@@ -3981,7 +4188,11 @@
       "se": "4",
       "ca": "~225 L",
       "pr": "~£9,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~19.1 sec",
+      "fx": "~7.4L",
+      "fc": "~9.3L",
+      "fh": "~5.1L"
     },
     "Lancia|Ypsilon|1997|Turbo": {
       "en": "1.2L Turbo SOHC inline-4",
@@ -3997,7 +4208,11 @@
       "se": "4",
       "ca": "~225 L",
       "pr": "~£12,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~17.5 sec",
+      "fx": "~8.2L",
+      "fc": "~10.3L",
+      "fh": "~5.6L"
     },
     "Lancia|Ypsilon|2006|1.4": {
       "en": "1.4L SOHC inline-4",
@@ -4013,7 +4228,11 @@
       "se": "4",
       "ca": "~225 L",
       "pr": "~£11,500",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~18.2 sec",
+      "fx": "~7.3L",
+      "fc": "~9.1L",
+      "fh": "~5.1L"
     },
     "Lancia|Ypsilon|2006|1.3 Multijet": {
       "en": "1.3L JTD DOHC inline-4 diesel",
@@ -4029,7 +4248,11 @@
       "se": "4",
       "ca": "~225 L",
       "pr": "~£12,500",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~19.6 sec",
+      "fx": "~4.7L",
+      "fc": "~5.8L",
+      "fh": "~3.4L"
     },
     "Lancia|Ypsilon|2015|1.2 Gold": {
       "en": "1.2L SOHC inline-4",
@@ -4045,7 +4268,11 @@
       "se": "5",
       "ca": "~225 L",
       "pr": "~£14,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~19.8 sec",
+      "fx": "~6.0L",
+      "fc": "~7.5L",
+      "fh": "~4.2L"
     },
     "Lancia|Ypsilon|2013|0.9 TwinAir": {
       "en": "0.9L TwinAir Turbo inline-2",
@@ -4061,7 +4288,11 @@
       "se": "5",
       "ca": "~225 L",
       "pr": "~£16,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~18.8 sec",
+      "fx": "~6.5L",
+      "fc": "~8.1L",
+      "fh": "~4.5L"
     },
     "Lancia|Lybra|2001|1.8": {
       "en": "1.8L DOHC 16v inline-4",
@@ -4077,7 +4308,11 @@
       "se": "5",
       "ca": "~510 L",
       "pr": "~£14,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~17.7 sec",
+      "fx": "~9.2L",
+      "fc": "~11.5L",
+      "fh": "~6.4L"
     },
     "Lancia|Lybra|2001|SW": {
       "en": "2.4L JTD DOHC inline-5 diesel",
@@ -4093,7 +4328,11 @@
       "se": "5",
       "ca": "~650 L",
       "pr": "~£18,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~18.0 sec",
+      "fx": "~7.6L",
+      "fc": "~9.4L",
+      "fh": "~5.4L"
     },
     "Lancia|Thesis|2003|2.0 Turbo": {
       "en": "2.0L Turbo DOHC 20v inline-5",
@@ -4109,7 +4348,11 @@
       "se": "5",
       "ca": "~530 L",
       "pr": "~£30,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~16.5 sec",
+      "fx": "~10.7L",
+      "fc": "~13.4L",
+      "fh": "~7.4L"
     },
     "Lancia|Thesis|2003|3.0 V6": {
       "en": "3.0L DOHC 24v V6",
@@ -4125,7 +4368,11 @@
       "se": "5",
       "ca": "~530 L",
       "pr": "~£38,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~16.1 sec",
+      "fx": "~11.2L",
+      "fc": "~14.0L",
+      "fh": "~7.8L"
     },
     "Lancia|Musa|2006|1.4": {
       "en": "1.4L SOHC inline-4",
@@ -4141,7 +4388,11 @@
       "se": "5",
       "ca": "~280 L",
       "pr": "~£13,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~18.5 sec",
+      "fx": "~7.6L",
+      "fc": "~9.5L",
+      "fh": "~5.3L"
     },
     "Lancia|Musa|2008|1.9 Multijet": {
       "en": "1.9L JTD DOHC diesel inline-4",
@@ -4157,7 +4408,11 @@
       "se": "5",
       "ca": "~280 L",
       "pr": "~£16,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~17.9 sec",
+      "fx": "~5.9L",
+      "fc": "~7.3L",
+      "fh": "~4.2L"
     },
     "Lancia|Phedra|2004|2.0 16v": {
       "en": "2.0L DOHC 16v inline-4",
@@ -4173,7 +4428,11 @@
       "se": "7",
       "ca": "~700 L",
       "pr": "~£22,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~18.5 sec",
+      "fx": "~9.6L",
+      "fc": "~12.0L",
+      "fh": "~6.7L"
     },
     "Lancia|Phedra|2004|2.2 JTD": {
       "en": "2.2L JTD DOHC diesel inline-4",
@@ -4189,7 +4448,11 @@
       "se": "7",
       "ca": "~700 L",
       "pr": "~£24,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~18.2 sec",
+      "fx": "~8.4L",
+      "fc": "~10.4L",
+      "fh": "~6.0L"
     },
     "Lancia|Delta II|2010|1.4 Turbo": {
       "en": "1.4L MultiAir Turbo inline-4",
@@ -4205,7 +4468,11 @@
       "se": "5",
       "ca": "~280 L",
       "pr": "~£18,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~17.2 sec",
+      "fx": "~8.7L",
+      "fc": "~10.9L",
+      "fh": "~6.0L"
     },
     "Lancia|Delta II|2010|1.8 DI Turbo": {
       "en": "1.8L DI Turbo DOHC inline-4",
@@ -4221,7 +4488,11 @@
       "se": "5",
       "ca": "~280 L",
       "pr": "~£26,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~15.4 sec",
+      "fx": "~10.1L",
+      "fc": "~12.6L",
+      "fh": "~7.0L"
     },
     "Lancia|Flavia II|2013|2.4": {
       "en": "Pentastar 2.4L SOHC inline-4",
@@ -4237,7 +4508,11 @@
       "se": "4",
       "ca": "~380 L",
       "pr": "~£22,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~17.1 sec",
+      "fx": "~9.2L",
+      "fc": "~11.5L",
+      "fh": "~6.4L"
     },
     "Lancia|Flavia II|2013|2.4 Convertible": {
       "en": "Pentastar 2.4L SOHC inline-4",
@@ -4253,7 +4528,11 @@
       "se": "4",
       "ca": "~300 L",
       "pr": "~£26,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~17.2 sec",
+      "fx": "~9.4L",
+      "fc": "~11.8L",
+      "fh": "~6.5L"
     },
     "Lancia|Voyager|2012|3.6 V6": {
       "en": "Pentastar 3.6L DOHC V6",
@@ -4269,7 +4548,11 @@
       "se": "7",
       "ca": "~1,007 L",
       "pr": "~£30,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~16.2 sec",
+      "fx": "~11.7L",
+      "fc": "~14.6L",
+      "fh": "~8.2L"
     },
     "Lancia|Voyager|2012|2.8 CRD": {
       "en": "2.8L CRD DOHC diesel inline-4",
@@ -4285,7 +4568,11 @@
       "se": "7",
       "ca": "~1,007 L",
       "pr": "~£28,000",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "qm": "~18.5 sec",
+      "fx": "~9.6L",
+      "fc": "~11.9L",
+      "fh": "~6.8L"
     },
     "Lancia|New Ypsilon|2024|Electric": {
       "en": "Electric motor 115 kW",
@@ -4301,7 +4588,11 @@
       "se": "5",
       "ca": "~220 L",
       "pr": "~€30,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~15.6 sec",
+      "fx": "~7.6L",
+      "fc": "~9.5L",
+      "fh": "~5.3L"
     },
     "Lancia|New Ypsilon|2024|Hybrid": {
       "en": "1.2L Hybrid + electric",
@@ -4333,7 +4624,11 @@
       "se": "5",
       "ca": "~280 L",
       "pr": "~£10,500",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~16.5 sec",
+      "fx": "~10.8L",
+      "fc": "~13.5L",
+      "fh": "~7.5L"
     },
     "Lancia|Delta|1987|HF 4WD": {
       "en": "2.0L Turbo DOHC inline-4 4WD",
@@ -4349,7 +4644,11 @@
       "se": "5",
       "ca": "~280 L",
       "pr": "~£16,000",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "qm": "~14.8 sec",
+      "fx": "~11.9L",
+      "fc": "~14.9L",
+      "fh": "~8.2L"
     },
     "Lancia|Fulvia|1968|Coupe 1.3S": {
       "en": "1.3L DOHC narrow-V4",
@@ -4365,7 +4664,11 @@
       "se": "4",
       "ca": "~240 L",
       "pr": "~£1,800",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~18.5 sec",
+      "fx": "~11.2L",
+      "fc": "~14.0L",
+      "fh": "~7.8L"
     },
     "Lancia|Fulvia|1972|Coupe 1.6 HF Lusso": {
       "en": "1.6L DOHC narrow-V4",
@@ -4381,7 +4684,11 @@
       "se": "4",
       "ca": "~240 L",
       "pr": "~£2,600",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~16.8 sec",
+      "fx": "~12.1L",
+      "fc": "~15.1L",
+      "fh": "~8.4L"
     },
     "Lancia|Trevi|1982|1600": {
       "en": "1.6L DOHC inline-4",
@@ -4397,7 +4704,11 @@
       "se": "4",
       "ca": "~310 L",
       "pr": "~£6,500",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~17.9 sec",
+      "fx": "~10.2L",
+      "fc": "~12.8L",
+      "fh": "~7.0L"
     },
     "Lancia|Trevi|1982|2000": {
       "en": "2.0L DOHC inline-4",
@@ -4413,7 +4724,11 @@
       "se": "4",
       "ca": "~310 L",
       "pr": "~£8,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~16.9 sec",
+      "fx": "~11.2L",
+      "fc": "~14.0L",
+      "fh": "~7.8L"
     },
     "Lancia|Trevi|1983|VX": {
       "en": "2.0L Volumex Supercharged DOHC inline-4",
@@ -4429,7 +4744,11 @@
       "se": "4",
       "ca": "~310 L",
       "pr": "~£11,000",
-      "aspiration": "Lancia Volumex Supercharged"
+      "aspiration": "Lancia Volumex Supercharged",
+      "qm": "~16.1 sec",
+      "fx": "~11.5L",
+      "fc": "~14.4L",
+      "fh": "~8.0L"
     },
     "Lancia|Alpha|1908|Torpedo": {
       "en": "2.5L inline-4",
@@ -4439,13 +4758,17 @@
       "tq": "~80 Nm",
       "tx": "3-speed manual",
       "dr": "RWD",
-      "z1": "N/A",
+      "z1": "~30.6 sec",
       "ts": "~80 km/h",
       "wt": "~900 kg",
       "se": "4",
       "ca": "N/A",
       "pr": "~£400",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~26.8 sec",
+      "fx": "~15.0L",
+      "fc": "~18.8L",
+      "fh": "~10.4L"
     },
     "Lancia|Theta|1915|Torpedo": {
       "en": "3.6L SOHC inline-4",
@@ -4455,13 +4778,17 @@
       "tq": "~130 Nm",
       "tx": "4-speed manual",
       "dr": "RWD",
-      "z1": "N/A",
+      "z1": "~23.7 sec",
       "ts": "~90 km/h",
       "wt": "~1,200 kg",
       "se": "4",
       "ca": "N/A",
       "pr": "~£600",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~24.0 sec",
+      "fx": "~18.5L",
+      "fc": "~23.1L",
+      "fh": "~12.9L"
     },
     "Lancia|Theta|1915|Berlina": {
       "en": "3.6L SOHC inline-4",
@@ -4471,13 +4798,17 @@
       "tq": "~130 Nm",
       "tx": "4-speed manual",
       "dr": "RWD",
-      "z1": "N/A",
+      "z1": "~25.3 sec",
       "ts": "~85 km/h",
       "wt": "~1,300 kg",
       "se": "4",
       "ca": "N/A",
       "pr": "~£700",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~24.7 sec",
+      "fx": "~18.9L",
+      "fc": "~23.6L",
+      "fh": "~13.2L"
     },
     "Lancia|Kappa (1919)|1920|Torpedo": {
       "en": "4.9L SOHC V8",
@@ -4487,13 +4818,17 @@
       "tq": "~210 Nm",
       "tx": "4-speed manual",
       "dr": "RWD",
-      "z1": "N/A",
+      "z1": "~18.6 sec",
       "ts": "~105 km/h",
       "wt": "~1,500 kg",
       "se": "4",
       "ca": "N/A",
       "pr": "~£900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~21.9 sec",
+      "fx": "~22.1L",
+      "fc": "~27.6L",
+      "fh": "~15.4L"
     },
     "Lancia|Kappa (1919)|1920|Berlina": {
       "en": "4.9L SOHC V8",
@@ -4503,13 +4838,17 @@
       "tq": "~210 Nm",
       "tx": "4-speed manual",
       "dr": "RWD",
-      "z1": "N/A",
+      "z1": "~19.6 sec",
       "ts": "~100 km/h",
       "wt": "~1,600 kg",
       "se": "4",
       "ca": "N/A",
       "pr": "~£1,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~22.3 sec",
+      "fx": "~22.4L",
+      "fc": "~28.0L",
+      "fh": "~15.6L"
     },
     "Lancia|Trikappa|1923|Torpedo": {
       "en": "4.6L SOHC V8",
@@ -4519,13 +4858,17 @@
       "tq": "~220 Nm",
       "tx": "4-speed manual",
       "dr": "RWD",
-      "z1": "N/A",
+      "z1": "~17.8 sec",
       "ts": "~115 km/h",
       "wt": "~1,550 kg",
       "se": "4",
       "ca": "N/A",
       "pr": "~£1,100",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~21.5 sec",
+      "fx": "~22.2L",
+      "fc": "~27.8L",
+      "fh": "~15.4L"
     },
     "Lancia|Trikappa|1923|Berlina": {
       "en": "4.6L SOHC V8",
@@ -4535,13 +4878,17 @@
       "tq": "~220 Nm",
       "tx": "4-speed manual",
       "dr": "RWD",
-      "z1": "N/A",
+      "z1": "~18.8 sec",
       "ts": "~110 km/h",
       "wt": "~1,650 kg",
       "se": "4",
       "ca": "N/A",
       "pr": "~£1,200",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~22.0 sec",
+      "fx": "~22.6L",
+      "fc": "~28.3L",
+      "fh": "~15.6L"
     },
     "Lancia|Lambda|1924|Torpedo": {
       "en": "2.1L SOHC narrow-V4",
@@ -4551,13 +4898,17 @@
       "tq": "~110 Nm",
       "tx": "4-speed manual",
       "dr": "RWD",
-      "z1": "N/A",
+      "z1": "~23.3 sec",
       "ts": "~115 km/h",
       "wt": "~1,100 kg",
       "se": "4",
       "ca": "N/A",
       "pr": "~£700",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~23.9 sec",
+      "fx": "~16.3L",
+      "fc": "~20.4L",
+      "fh": "~11.3L"
     },
     "Lancia|Lambda|1924|Berlina": {
       "en": "2.1L SOHC narrow-V4",
@@ -4567,13 +4918,17 @@
       "tq": "~110 Nm",
       "tx": "4-speed manual",
       "dr": "RWD",
-      "z1": "N/A",
+      "z1": "~25.0 sec",
       "ts": "~110 km/h",
       "wt": "~1,200 kg",
       "se": "4",
       "ca": "N/A",
       "pr": "~£800",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~24.6 sec",
+      "fx": "~16.6L",
+      "fc": "~20.8L",
+      "fh": "~11.5L"
     },
     "Lancia|Lambda|1928|Cabriolet": {
       "en": "2.4L SOHC narrow-V4",
@@ -4583,13 +4938,17 @@
       "tq": "~125 Nm",
       "tx": "4-speed manual",
       "dr": "RWD",
-      "z1": "N/A",
+      "z1": "~21.4 sec",
       "ts": "~120 km/h",
       "wt": "~1,200 kg",
       "se": "4",
       "ca": "N/A",
       "pr": "~£900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~23.1 sec",
+      "fx": "~17.1L",
+      "fc": "~21.4L",
+      "fh": "~11.8L"
     },
     "Lancia|Dilambda|1930|Berlina": {
       "en": "4.0L SOHC narrow-V8",
@@ -4599,13 +4958,17 @@
       "tq": "~220 Nm",
       "tx": "4-speed manual",
       "dr": "RWD",
-      "z1": "N/A",
+      "z1": "~18.2 sec",
       "ts": "~130 km/h",
       "wt": "~1,700 kg",
       "se": "5",
       "ca": "N/A",
       "pr": "~£1,400",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~21.7 sec",
+      "fx": "~21.7L",
+      "fc": "~27.1L",
+      "fh": "~15.1L"
     },
     "Lancia|Dilambda|1930|Cabriolet": {
       "en": "4.0L SOHC narrow-V8",
@@ -4615,13 +4978,17 @@
       "tq": "~220 Nm",
       "tx": "4-speed manual",
       "dr": "RWD",
-      "z1": "N/A",
+      "z1": "~19.1 sec",
       "ts": "~125 km/h",
       "wt": "~1,800 kg",
       "se": "4",
       "ca": "N/A",
       "pr": "~£1,600",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~22.1 sec",
+      "fx": "~22.0L",
+      "fc": "~27.5L",
+      "fh": "~15.3L"
     },
     "Lancia|Artena|1932|Berlina": {
       "en": "1.9L SOHC narrow-V4",
@@ -4631,13 +4998,17 @@
       "tq": "~100 Nm",
       "tx": "4-speed manual",
       "dr": "RWD",
-      "z1": "N/A",
+      "z1": "~25.4 sec",
       "ts": "~115 km/h",
       "wt": "~1,200 kg",
       "se": "5",
       "ca": "~300 L",
       "pr": "~£650",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~24.7 sec",
+      "fx": "~15.2L",
+      "fc": "~19.0L",
+      "fh": "~10.6L"
     },
     "Lancia|Artena|1932|Torpedo": {
       "en": "1.9L SOHC narrow-V4",
@@ -4647,13 +5018,17 @@
       "tq": "~100 Nm",
       "tx": "4-speed manual",
       "dr": "RWD",
-      "z1": "N/A",
+      "z1": "~24.6 sec",
       "ts": "~110 km/h",
       "wt": "~1,150 kg",
       "se": "4",
       "ca": "N/A",
       "pr": "~£700",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~24.4 sec",
+      "fx": "~15.0L",
+      "fc": "~18.8L",
+      "fh": "~10.4L"
     },
     "Lancia|Astura|1933|Berlina": {
       "en": "2.6L SOHC narrow-V8",
@@ -4663,13 +5038,17 @@
       "tq": "~150 Nm",
       "tx": "4-speed manual",
       "dr": "RWD",
-      "z1": "N/A",
+      "z1": "~21.7 sec",
       "ts": "~125 km/h",
       "wt": "~1,500 kg",
       "se": "5",
       "ca": "N/A",
       "pr": "~£1,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~23.2 sec",
+      "fx": "~18.3L",
+      "fc": "~22.9L",
+      "fh": "~12.7L"
     },
     "Lancia|Astura|1933|Cabriolet": {
       "en": "2.6L SOHC narrow-V8",
@@ -4679,13 +5058,17 @@
       "tq": "~150 Nm",
       "tx": "4-speed manual",
       "dr": "RWD",
-      "z1": "N/A",
+      "z1": "~22.3 sec",
       "ts": "~120 km/h",
       "wt": "~1,550 kg",
       "se": "4",
       "ca": "N/A",
       "pr": "~£1,200",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~23.4 sec",
+      "fx": "~18.4L",
+      "fc": "~23.0L",
+      "fh": "~12.8L"
     },
     "Lancia|Astura|1936|Sport": {
       "en": "2.97L SOHC narrow-V8",
@@ -4695,13 +5078,17 @@
       "tq": "~175 Nm",
       "tx": "4-speed manual",
       "dr": "RWD",
-      "z1": "N/A",
+      "z1": "~18.3 sec",
       "ts": "~140 km/h",
       "wt": "~1,450 kg",
       "se": "2",
       "ca": "N/A",
       "pr": "~£1,800",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~21.7 sec",
+      "fx": "~18.6L",
+      "fc": "~23.3L",
+      "fh": "~12.9L"
     },
     "Lancia|Augusta|1934|Berlina": {
       "en": "1.2L SOHC narrow-V4",
@@ -4711,13 +5098,17 @@
       "tq": "~65 Nm",
       "tx": "4-speed manual",
       "dr": "RWD",
-      "z1": "N/A",
+      "z1": "~26.9 sec",
       "ts": "~100 km/h",
       "wt": "~870 kg",
       "se": "4",
       "ca": "~250 L",
       "pr": "~£450",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~25.3 sec",
+      "fx": "~12.1L",
+      "fc": "~15.1L",
+      "fh": "~8.4L"
     },
     "Lancia|Augusta|1934|Cabriolet": {
       "en": "1.2L SOHC narrow-V4",
@@ -4727,13 +5118,17 @@
       "tq": "~65 Nm",
       "tx": "4-speed manual",
       "dr": "RWD",
-      "z1": "N/A",
+      "z1": "~27.7 sec",
       "ts": "~98 km/h",
       "wt": "~900 kg",
       "se": "4",
       "ca": "N/A",
       "pr": "~£550",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~25.7 sec",
+      "fx": "~12.2L",
+      "fc": "~15.3L",
+      "fh": "~8.4L"
     }
   }
 }

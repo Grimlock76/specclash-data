@@ -9,7 +9,7 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 165,
       "acceleration": 7.4,
       "weight": 1905,
       "seats": 5,
@@ -22,7 +22,11 @@
       "range": 591,
       "towing": 750,
       "price": "$55,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|bZ4X|2026|AWD": {
       "fuelType": "electric",
@@ -33,7 +37,7 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 190,
       "acceleration": 5.1,
       "weight": 2035,
       "seats": 5,
@@ -41,11 +45,16 @@
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 252,
-      "torque": null,
+      "torque": 525,
       "battery": "74.7 kWh",
       "range": 517,
       "price": "$67,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.4 sec"
     },
     "Toyota|bZ4X|2026|Touring AWD": {
       "fuelType": "electric",
@@ -56,7 +65,7 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 195,
       "acceleration": 4.4,
       "weight": 2065,
       "seats": 5,
@@ -64,12 +73,17 @@
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 280,
-      "torque": null,
+      "torque": 585,
       "battery": "74.7 kWh",
       "range": 488,
       "towing": 1500,
       "price": "$69,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~12.7 sec"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "specs": {
     "Honda|CR-V|2024|VTi X+": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 9,
       "cargo": null,
       "seats": 5,
       "engine": "1.5L I4 Turbo Petrol",
@@ -20,11 +20,14 @@
       "fx": 7.1,
       "weight": 1613,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|CR-V|2024|VTi X7": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 9.2,
       "cargo": 150,
       "seats": 7,
       "engine": "1.5L I4 Turbo Petrol",
@@ -43,11 +46,14 @@
       "weight": 1665,
       "towing": 1000,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|CR-V|2024|VTi L": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 9,
       "cargo": null,
       "seats": 5,
       "engine": "1.5L I4 Turbo Petrol",
@@ -65,11 +71,14 @@
       "fx": 7.1,
       "weight": 1623,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|CR-V|2024|VTi L AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 8.6,
       "cargo": null,
       "seats": 5,
       "engine": "1.5L I4 Turbo Petrol",
@@ -87,11 +96,14 @@
       "fx": 7.4,
       "weight": 1669,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|CR-V|2024|VTi L7": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 9.4,
       "cargo": null,
       "seats": 7,
       "engine": "1.5L I4 Turbo Petrol",
@@ -109,11 +121,14 @@
       "fx": 7.3,
       "weight": 1700,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|CR-V|2024|VTi LX AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 8.9,
       "cargo": null,
       "seats": 5,
       "engine": "1.5L I4 Turbo Petrol",
@@ -131,11 +146,14 @@
       "fx": 7.7,
       "weight": 1719,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|CR-V|2024|e:HEV RS": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 8.5,
       "cargo": null,
       "seats": 5,
       "engine": "2.0L I4 e:HEV (motor-driven hybrid)",
@@ -153,7 +171,10 @@
       "weight": 1771,
       "towing": 750,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

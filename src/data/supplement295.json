@@ -1,8 +1,8 @@
 {
   "specs": {
     "Suzuki|Jimny|2025|Lite Manual": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 10.6,
       "cargo": null,
       "engine": "1.5L I4 Petrol",
       "displacement": 1462,
@@ -20,11 +20,15 @@
       "fh": 5.7,
       "fx": 6.4,
       "weight": 1100,
-      "price": "$31,990"
+      "price": "$31,990",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Jimny|2025|3-door Auto": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 10.8,
       "cargo": null,
       "engine": "1.5L I4 Petrol",
       "displacement": 1462,
@@ -43,11 +47,15 @@
       "fx": 6.9,
       "weight": 1120,
       "groundClearance": 210,
-      "price": "$36,490"
+      "price": "$36,490",
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Jimny|2025|XL Heritage Manual": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11.4,
       "cargo": null,
       "engine": "1.5L I4 Petrol",
       "displacement": 1462,
@@ -65,11 +73,15 @@
       "fh": 5.7,
       "fx": 6.4,
       "weight": 1185,
-      "price": "$36,490"
+      "price": "$36,490",
+      "quarterMile": "~18.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Jimny|2025|XL Auto": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11.6,
       "cargo": null,
       "engine": "1.5L I4 Petrol",
       "displacement": 1462,
@@ -87,12 +99,16 @@
       "fh": 6.3,
       "fx": 6.9,
       "weight": 1210,
-      "price": "$37,490"
+      "price": "$37,490",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|Carnival|2025|S": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 185,
+      "acceleration": 11.9,
+      "cargo": 627,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
       "cylinders": 4,
@@ -109,12 +125,17 @@
       "seats": 8,
       "towing": 2000,
       "fuelTank": 72,
-      "price": "$52,530"
+      "price": "$52,530",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Kia|Carnival|2025|Sport": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 185,
+      "acceleration": 11.9,
+      "cargo": 627,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
       "cylinders": 4,
@@ -131,12 +152,17 @@
       "seats": 8,
       "towing": 2000,
       "fuelTank": 72,
-      "price": "$58,430"
+      "price": "$58,430",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Kia|Carnival|2025|Sport+": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 185,
+      "acceleration": 11.9,
+      "cargo": 627,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
       "cylinders": 4,
@@ -153,12 +179,17 @@
       "seats": 8,
       "towing": 2000,
       "fuelTank": 72,
-      "price": "$64,760"
+      "price": "$64,760",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Kia|Carnival|2025|GT-Line": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 185,
+      "acceleration": 11.9,
+      "cargo": 627,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
       "cylinders": 4,
@@ -175,19 +206,24 @@
       "seats": 8,
       "towing": 2000,
       "fuelTank": 72,
-      "price": "$73,060"
+      "price": "$73,060",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Kia|Carnival|2025|S HEV": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 195,
+      "acceleration": 10.9,
+      "cargo": 627,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "hybrid",
       "power": 180,
-      "torque": null,
+      "torque": 365,
       "transmission": "6-speed automatic",
       "drivetrain": "FWD",
       "fc": 4.2,
@@ -196,19 +232,25 @@
       "weight": 2334,
       "seats": 8,
       "towing": 1000,
-      "price": "$56,100"
+      "price": "$56,100",
+      "est": [
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~18.1 sec"
     },
     "Kia|Carnival|2025|GT-Line HEV": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 195,
+      "acceleration": 10.9,
+      "cargo": 627,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "hybrid",
       "power": 180,
-      "torque": null,
+      "torque": 365,
       "transmission": "6-speed automatic",
       "drivetrain": "FWD",
       "fc": 4.2,
@@ -217,7 +259,13 @@
       "weight": 2334,
       "seats": 8,
       "towing": 1000,
-      "price": "$76,360"
+      "price": "$76,360",
+      "est": [
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~18.1 sec"
     }
   }
 }

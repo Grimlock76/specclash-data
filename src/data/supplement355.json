@@ -22,7 +22,8 @@
       "accelClaimed": true,
       "range": 400,
       "acceleration": 8.5,
-      "price": "$56,770"
+      "price": "$56,770",
+      "quarterMile": "~16.5 sec"
     },
     "Kia|EV5|2024|Air Long Range": {
       "fuelType": "electric",
@@ -46,7 +47,8 @@
       "accelClaimed": true,
       "range": 555,
       "acceleration": 8.9,
-      "price": "$61,170"
+      "price": "$61,170",
+      "quarterMile": "~16.8 sec"
     },
     "Kia|EV5|2024|Earth AWD": {
       "fuelType": "electric",
@@ -64,13 +66,17 @@
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 230,
-      "torque": null,
+      "torque": 480,
       "battery": "88.1 kWh",
       "towing": 1250,
       "accelClaimed": true,
       "range": 500,
       "acceleration": 6.1,
-      "price": "$64,770"
+      "price": "$64,770",
+      "est": [
+        "torque"
+      ],
+      "quarterMile": "~14.4 sec"
     },
     "Kia|EV5|2024|GT-Line AWD": {
       "fuelType": "electric",
@@ -88,13 +94,17 @@
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 230,
-      "torque": null,
+      "torque": 480,
       "battery": "88.1 kWh",
       "towing": 1250,
       "accelClaimed": true,
       "range": 470,
       "acceleration": 6.3,
-      "price": "$71,770"
+      "price": "$71,770",
+      "est": [
+        "torque"
+      ],
+      "quarterMile": "~14.6 sec"
     }
   }
 }

@@ -3,7 +3,7 @@
     "Porsche|Taycan|2026|Taycan": {
       "topSpeed": 230,
       "acceleration": 4.8,
-      "cargo": null,
+      "cargo": 407,
       "seats": 4,
       "displacement": null,
       "cylinders": null,
@@ -21,12 +21,16 @@
       "range": 468,
       "weight": 2090,
       "price": "$181,200",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Taycan|2026|Taycan 4S": {
       "topSpeed": 250,
       "acceleration": 3.7,
-      "cargo": null,
+      "cargo": 407,
       "seats": null,
       "displacement": null,
       "cylinders": null,
@@ -44,12 +48,16 @@
       "range": 441,
       "weight": 2250,
       "price": "$222,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.9 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Taycan|2026|Taycan GTS": {
       "topSpeed": 250,
       "acceleration": 3.3,
-      "cargo": null,
+      "cargo": 407,
       "seats": null,
       "displacement": null,
       "cylinders": null,
@@ -66,12 +74,18 @@
       "torque": 790,
       "range": 505,
       "price": "$264,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2250,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~11.4 sec"
     },
     "Porsche|Taycan|2026|Taycan Turbo": {
       "topSpeed": 260,
       "acceleration": 2.7,
-      "cargo": null,
+      "cargo": 407,
       "seats": null,
       "displacement": null,
       "cylinders": null,
@@ -88,12 +102,18 @@
       "torque": 940,
       "range": 626,
       "price": "$317,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2235,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~10.7 sec"
     },
     "Porsche|Taycan|2026|Taycan Turbo S": {
       "topSpeed": 260,
       "acceleration": 2.4,
-      "cargo": null,
+      "cargo": 407,
       "seats": null,
       "displacement": null,
       "cylinders": null,
@@ -110,12 +130,18 @@
       "torque": 1110,
       "range": 506,
       "price": "$376,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2235,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~10.3 sec"
     },
     "Porsche|Taycan|2026|Taycan Turbo GT": {
       "topSpeed": 290,
       "acceleration": 2.3,
-      "cargo": null,
+      "cargo": 407,
       "seats": 4,
       "displacement": null,
       "cylinders": null,
@@ -129,10 +155,17 @@
       "fx": null,
       "battery": "97 kWh",
       "power": 580,
-      "torque": null,
+      "torque": 1110,
       "range": 512,
       "price": "$419,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2235,
+      "est": [
+        "weight",
+        "torque",
+        "cargo"
+      ],
+      "quarterMile": "~10.2 sec"
     }
   }
 }

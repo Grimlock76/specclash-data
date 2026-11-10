@@ -17,7 +17,8 @@
       "acceleration": 3.8,
       "topSpeed": 290,
       "price": "~$99,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.0 sec"
     },
     "Audi|RS3|2026|RS3": {
       "engine": "2.5L 5-cyl TFSI",
@@ -36,7 +37,8 @@
       "acceleration": 3.8,
       "topSpeed": 290,
       "price": "~$104,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.0 sec"
     },
     "Maserati|MC20|2025|Coupe": {
       "engine": "3.0L V6 Twin-Turbo Nettuno",
@@ -55,7 +57,12 @@
       "acceleration": 2.9,
       "topSpeed": 325,
       "price": "~$399,990",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~10.9 sec",
+      "cargo": 100,
+      "est": [
+        "cargo"
+      ]
     },
     "Maserati|MC20|2025|Cielo": {
       "engine": "3.0L V6 Twin-Turbo Nettuno",
@@ -74,7 +81,12 @@
       "acceleration": 2.9,
       "topSpeed": 320,
       "price": "~$449,990",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~10.9 sec",
+      "cargo": 100,
+      "est": [
+        "cargo"
+      ]
     },
     "Maserati|MC20|2026|Coupe": {
       "engine": "3.0L V6 Twin-Turbo Nettuno",
@@ -93,7 +105,12 @@
       "acceleration": 2.9,
       "topSpeed": 325,
       "price": "~$414,990",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~10.9 sec",
+      "cargo": 100,
+      "est": [
+        "cargo"
+      ]
     },
     "Maserati|MC20|2026|Cielo": {
       "engine": "3.0L V6 Twin-Turbo Nettuno",
@@ -112,7 +129,12 @@
       "acceleration": 2.9,
       "topSpeed": 320,
       "price": "~$464,990",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~10.9 sec",
+      "cargo": 100,
+      "est": [
+        "cargo"
+      ]
     },
     "Rolls-Royce|Spectre|2024|Standard": {
       "engine": "Electric Dual Motor",
@@ -131,7 +153,8 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$780,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.8 sec"
     },
     "Rolls-Royce|Spectre|2025|Standard": {
       "engine": "Electric Dual Motor",
@@ -150,7 +173,8 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$800,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.8 sec"
     },
     "Rolls-Royce|Spectre|2026|Standard": {
       "engine": "Electric Dual Motor",
@@ -169,7 +193,8 @@
       "acceleration": 4.5,
       "topSpeed": 250,
       "price": "~$820,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.8 sec"
     },
     "McLaren|GTS|2025|GTS": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -188,7 +213,8 @@
       "acceleration": 3.1,
       "topSpeed": 326,
       "price": "~$380,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.2 sec"
     },
     "McLaren|GTS|2026|GTS": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -207,7 +233,8 @@
       "acceleration": 3.1,
       "topSpeed": 326,
       "price": "~$390,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.2 sec"
     },
     "Bentley|Bentayga|2025|S": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -226,7 +253,8 @@
       "acceleration": 4.4,
       "topSpeed": 290,
       "price": "~$399,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.7 sec"
     },
     "Bentley|Bentayga|2025|EWB": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -245,7 +273,8 @@
       "acceleration": 4.5,
       "topSpeed": 290,
       "price": "~$499,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.8 sec"
     },
     "Bentley|Bentayga|2026|S": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -264,7 +293,8 @@
       "acceleration": 4.4,
       "topSpeed": 290,
       "price": "~$414,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.7 sec"
     },
     "Bentley|Bentayga|2026|EWB": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -283,7 +313,8 @@
       "acceleration": 4.5,
       "topSpeed": 290,
       "price": "~$514,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.8 sec"
     },
     "Lamborghini|Temerario|2025|Coupe": {
       "engine": "4.0L V8 Twin-Turbo Hybrid",
@@ -302,7 +333,8 @@
       "acceleration": 2.7,
       "topSpeed": 340,
       "price": "~$620,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.7 sec"
     },
     "Lamborghini|Temerario|2026|Coupe": {
       "engine": "4.0L V8 Twin-Turbo Hybrid",
@@ -321,7 +353,8 @@
       "acceleration": 2.7,
       "topSpeed": 340,
       "price": "~$640,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.7 sec"
     }
   }
 }

@@ -17,7 +17,8 @@
       "fh": "12.5L",
       "fx": "16.0L",
       "pr": "~$1,500,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~11.3 sec"
     },
     "McLaren|F1|1993|Standard": {
       "en": "6.1L BMW S70/2 V12",
@@ -36,7 +37,8 @@
       "fh": "12.5L",
       "fx": "16.0L",
       "pr": "~$1,500,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~11.3 sec"
     },
     "McLaren|F1|1994|Standard": {
       "en": "6.1L BMW S70/2 V12",
@@ -55,7 +57,8 @@
       "fh": "12.5L",
       "fx": "16.0L",
       "pr": "~$1,500,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~11.3 sec"
     },
     "McLaren|F1|1995|Standard": {
       "en": "6.1L BMW S70/2 V12",
@@ -74,7 +77,8 @@
       "fh": "12.5L",
       "fx": "16.0L",
       "pr": "~$1,500,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~11.3 sec"
     },
     "McLaren|F1|1996|Standard": {
       "en": "6.1L BMW S70/2 V12",
@@ -93,7 +97,8 @@
       "fh": "12.5L",
       "fx": "16.0L",
       "pr": "~$1,500,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~11.3 sec"
     },
     "McLaren|F1|1997|Standard": {
       "en": "6.1L BMW S70/2 V12",
@@ -112,7 +117,8 @@
       "fh": "12.5L",
       "fx": "16.0L",
       "pr": "~$1,500,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~11.3 sec"
     },
     "McLaren|F1|1998|Standard": {
       "en": "6.1L BMW S70/2 V12",
@@ -131,7 +137,8 @@
       "fh": "12.5L",
       "fx": "16.0L",
       "pr": "~$1,500,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "qm": "~11.3 sec"
     },
     "McLaren|MP4-12C|2011|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -150,7 +157,8 @@
       "fh": "9.5L",
       "fx": "12.0L",
       "pr": "~$280,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.2 sec"
     },
     "McLaren|MP4-12C|2012|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -169,7 +177,8 @@
       "fh": "9.5L",
       "fx": "12.0L",
       "pr": "~$280,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.2 sec"
     },
     "McLaren|MP4-12C|2012|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -188,7 +197,8 @@
       "fh": "9.5L",
       "fx": "12.0L",
       "pr": "~$315,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.2 sec"
     },
     "McLaren|MP4-12C|2013|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -207,7 +217,8 @@
       "fh": "9.5L",
       "fx": "12.0L",
       "pr": "~$280,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.2 sec"
     },
     "McLaren|MP4-12C|2013|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -226,7 +237,8 @@
       "fh": "9.5L",
       "fx": "12.0L",
       "pr": "~$315,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.2 sec"
     },
     "McLaren|MP4-12C|2014|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -245,7 +257,8 @@
       "fh": "9.5L",
       "fx": "12.0L",
       "pr": "~$280,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.2 sec"
     },
     "McLaren|MP4-12C|2014|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -264,7 +277,8 @@
       "fh": "9.5L",
       "fx": "12.0L",
       "pr": "~$315,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.2 sec"
     },
     "McLaren|P1|2013|Standard": {
       "en": "3.8L twin-turbo V8 + electric KERS",
@@ -280,7 +294,11 @@
       "wt": "1,547 kg",
       "se": "2",
       "pr": "~$1,600,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.8 sec",
+      "fx": "~16.2L",
+      "fc": "~20.3L",
+      "fh": "~11.2L"
     },
     "McLaren|P1|2014|Standard": {
       "en": "3.8L twin-turbo V8 + electric KERS",
@@ -296,7 +314,11 @@
       "wt": "1,547 kg",
       "se": "2",
       "pr": "~$1,600,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.8 sec",
+      "fx": "~16.0L",
+      "fc": "~20.0L",
+      "fh": "~11.1L"
     },
     "McLaren|P1|2015|Standard": {
       "en": "3.8L twin-turbo V8 + electric KERS",
@@ -312,7 +334,11 @@
       "wt": "1,547 kg",
       "se": "2",
       "pr": "~$1,600,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.8 sec",
+      "fx": "~15.8L",
+      "fc": "~19.8L",
+      "fh": "~10.9L"
     },
     "McLaren|650S|2014|Coupe": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -331,7 +357,8 @@
       "fh": "9.5L",
       "fx": "12.5L",
       "pr": "~$370,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.1 sec"
     },
     "McLaren|650S|2014|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -350,7 +377,8 @@
       "fh": "9.5L",
       "fx": "12.5L",
       "pr": "~$405,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.1 sec"
     },
     "McLaren|650S|2015|Coupe": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -369,7 +397,8 @@
       "fh": "9.5L",
       "fx": "12.5L",
       "pr": "~$370,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.1 sec"
     },
     "McLaren|650S|2015|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -388,7 +417,8 @@
       "fh": "9.5L",
       "fx": "12.5L",
       "pr": "~$405,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.1 sec"
     },
     "McLaren|650S|2016|Coupe": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -407,7 +437,8 @@
       "fh": "9.5L",
       "fx": "12.5L",
       "pr": "~$370,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.1 sec"
     },
     "McLaren|650S|2016|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -426,7 +457,8 @@
       "fh": "9.5L",
       "fx": "12.5L",
       "pr": "~$405,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.1 sec"
     },
     "McLaren|650S|2017|Coupe": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -445,7 +477,8 @@
       "fh": "9.5L",
       "fx": "12.5L",
       "pr": "~$370,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.1 sec"
     },
     "McLaren|650S|2017|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -464,7 +497,8 @@
       "fh": "9.5L",
       "fx": "12.5L",
       "pr": "~$405,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.1 sec"
     },
     "McLaren|675LT|2015|Coupe": {
       "en": "3.8L twin-turbo V8 M838TL",
@@ -483,7 +517,8 @@
       "fh": "9.5L",
       "fx": "12.5L",
       "pr": "~$490,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.9 sec"
     },
     "McLaren|675LT|2015|Spider": {
       "en": "3.8L twin-turbo V8 M838TL",
@@ -502,7 +537,8 @@
       "fh": "9.5L",
       "fx": "12.5L",
       "pr": "~$530,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.9 sec"
     },
     "McLaren|675LT|2016|Coupe": {
       "en": "3.8L twin-turbo V8 M838TL",
@@ -521,7 +557,8 @@
       "fh": "9.5L",
       "fx": "12.5L",
       "pr": "~$490,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.9 sec"
     },
     "McLaren|675LT|2016|Spider": {
       "en": "3.8L twin-turbo V8 M838TL",
@@ -540,7 +577,8 @@
       "fh": "9.5L",
       "fx": "12.5L",
       "pr": "~$530,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.9 sec"
     },
     "McLaren|540C|2015|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -559,7 +597,8 @@
       "fh": "9.0L",
       "fx": "11.5L",
       "pr": "~$210,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.7 sec"
     },
     "McLaren|540C|2016|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -578,7 +617,8 @@
       "fh": "9.0L",
       "fx": "11.5L",
       "pr": "~$210,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.7 sec"
     },
     "McLaren|540C|2017|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -597,7 +637,8 @@
       "fh": "9.0L",
       "fx": "11.5L",
       "pr": "~$210,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.7 sec"
     },
     "McLaren|540C|2018|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -616,7 +657,8 @@
       "fh": "9.0L",
       "fx": "11.5L",
       "pr": "~$210,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.7 sec"
     },
     "McLaren|540C|2019|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -635,7 +677,8 @@
       "fh": "9.0L",
       "fx": "11.5L",
       "pr": "~$210,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.7 sec"
     },
     "McLaren|540C|2020|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -654,7 +697,8 @@
       "fh": "9.0L",
       "fx": "11.5L",
       "pr": "~$210,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.7 sec"
     },
     "McLaren|570S|2015|Coupe": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -673,7 +717,8 @@
       "fh": "9.5L",
       "fx": "12.0L",
       "pr": "~$260,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.3 sec"
     },
     "McLaren|570S|2015|Spider": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -692,7 +737,8 @@
       "fh": "9.5L",
       "fx": "12.0L",
       "pr": "~$295,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.3 sec"
     },
     "McLaren|570S|2016|Coupe": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -901,7 +947,8 @@
       "fh": "9.5L",
       "fx": "12.0L",
       "pr": "~$280,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.5 sec"
     },
     "McLaren|570GT|2017|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -920,7 +967,8 @@
       "fh": "9.5L",
       "fx": "12.0L",
       "pr": "~$280,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.5 sec"
     },
     "McLaren|570GT|2018|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -939,7 +987,8 @@
       "fh": "9.5L",
       "fx": "12.0L",
       "pr": "~$280,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.5 sec"
     },
     "McLaren|570GT|2019|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -958,7 +1007,8 @@
       "fh": "9.5L",
       "fx": "12.0L",
       "pr": "~$280,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.5 sec"
     },
     "McLaren|570GT|2020|Standard": {
       "en": "3.8L twin-turbo V8 M838T",
@@ -977,7 +1027,8 @@
       "fh": "9.5L",
       "fx": "12.0L",
       "pr": "~$280,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.5 sec"
     },
     "McLaren|600LT|2018|Coupe": {
       "en": "3.8L twin-turbo V8 M838TL",
@@ -996,7 +1047,8 @@
       "fh": "9.5L",
       "fx": "12.0L",
       "pr": "~$400,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.9 sec"
     },
     "McLaren|600LT|2018|Spider": {
       "en": "3.8L twin-turbo V8 M838TL",
@@ -1015,7 +1067,8 @@
       "fh": "9.5L",
       "fx": "12.0L",
       "pr": "~$435,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.9 sec"
     },
     "McLaren|600LT|2019|Coupe": {
       "en": "3.8L twin-turbo V8 M838TL",
@@ -1034,7 +1087,8 @@
       "fh": "9.5L",
       "fx": "12.0L",
       "pr": "~$400,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.9 sec"
     },
     "McLaren|600LT|2019|Spider": {
       "en": "3.8L twin-turbo V8 M838TL",
@@ -1053,7 +1107,8 @@
       "fh": "9.5L",
       "fx": "12.0L",
       "pr": "~$435,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.9 sec"
     },
     "McLaren|600LT|2020|Coupe": {
       "en": "3.8L twin-turbo V8 M838TL",
@@ -1072,7 +1127,8 @@
       "fh": "9.5L",
       "fx": "12.0L",
       "pr": "~$400,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.9 sec"
     },
     "McLaren|600LT|2020|Spider": {
       "en": "3.8L twin-turbo V8 M838TL",
@@ -1091,7 +1147,8 @@
       "fh": "9.5L",
       "fx": "12.0L",
       "pr": "~$435,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.9 sec"
     },
     "McLaren|720S|2017|Performance": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1297,7 +1354,11 @@
       "wt": "1,198 kg",
       "se": "2",
       "pr": "~$1,600,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.8 sec",
+      "fx": "~13.7L",
+      "fc": "~17.1L",
+      "fh": "~9.5L"
     },
     "McLaren|Senna|2018|GTR": {
       "en": "4.0L twin-turbo V8 M840TR",
@@ -1313,7 +1374,11 @@
       "wt": "1,198 kg",
       "se": "2",
       "pr": "~$2,000,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.8 sec",
+      "fx": "~13.9L",
+      "fc": "~17.4L",
+      "fh": "~9.6L"
     },
     "McLaren|Senna|2019|Standard": {
       "en": "4.0L twin-turbo V8 M840TR",
@@ -1329,7 +1394,11 @@
       "wt": "1,198 kg",
       "se": "2",
       "pr": "~$1,600,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.8 sec",
+      "fx": "~13.6L",
+      "fc": "~17.0L",
+      "fh": "~9.4L"
     },
     "McLaren|Senna|2019|GTR": {
       "en": "4.0L twin-turbo V8 M840TR",
@@ -1345,7 +1414,11 @@
       "wt": "1,198 kg",
       "se": "2",
       "pr": "~$2,000,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.8 sec",
+      "fx": "~13.8L",
+      "fc": "~17.3L",
+      "fh": "~9.5L"
     },
     "McLaren|GT|2019|Standard": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1364,7 +1437,8 @@
       "fh": "9.5L",
       "fx": "12.5L",
       "pr": "~$320,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.3 sec"
     },
     "McLaren|GT|2020|Standard": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1383,7 +1457,8 @@
       "fh": "9.5L",
       "fx": "12.5L",
       "pr": "~$320,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.3 sec"
     },
     "McLaren|GT|2021|Standard": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1402,7 +1477,8 @@
       "fh": "9.5L",
       "fx": "12.5L",
       "pr": "~$320,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.3 sec"
     },
     "McLaren|GT|2022|Standard": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1421,7 +1497,8 @@
       "fh": "9.5L",
       "fx": "12.5L",
       "pr": "~$320,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.3 sec"
     },
     "McLaren|GT|2023|Standard": {
       "en": "4.0L twin-turbo V8 M840T",
@@ -1440,7 +1517,8 @@
       "fh": "9.5L",
       "fx": "12.5L",
       "pr": "~$320,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.3 sec"
     },
     "McLaren|765LT|2020|Coupe": {
       "en": "4.0L twin-turbo V8 M840TL",
@@ -1456,7 +1534,11 @@
       "wt": "1,229 kg",
       "se": "2",
       "pr": "~$620,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.8 sec",
+      "fx": "~13.1L",
+      "fc": "~16.4L",
+      "fh": "~9.1L"
     },
     "McLaren|765LT|2020|Spider": {
       "en": "4.0L twin-turbo V8 M840TL",
@@ -1472,7 +1554,11 @@
       "wt": "1,279 kg",
       "se": "2",
       "pr": "~$670,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.8 sec",
+      "fx": "~13.2L",
+      "fc": "~16.5L",
+      "fh": "~9.2L"
     },
     "McLaren|765LT|2021|Coupe": {
       "en": "4.0L twin-turbo V8 M840TL",
@@ -1520,7 +1606,11 @@
       "wt": "1,229 kg",
       "se": "2",
       "pr": "~$620,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.8 sec",
+      "fx": "~12.8L",
+      "fc": "~16.0L",
+      "fh": "~8.9L"
     },
     "McLaren|765LT|2022|Spider": {
       "en": "4.0L twin-turbo V8 M840TL",
@@ -1536,7 +1626,11 @@
       "wt": "1,279 kg",
       "se": "2",
       "pr": "~$670,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.8 sec",
+      "fx": "~12.9L",
+      "fc": "~16.1L",
+      "fh": "~9.0L"
     },
     "McLaren|Artura|2022|Standard": {
       "en": "3.0L twin-turbo V6 + electric PHEV",
@@ -1555,7 +1649,8 @@
       "fh": "6.5L",
       "fx": "8.5L",
       "pr": "~$390,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.1 sec"
     },
     "McLaren|Artura|2022|Performance": {
       "en": "3.0L twin-turbo V6 + electric PHEV",
@@ -1574,7 +1669,8 @@
       "fh": "6.5L",
       "fx": "8.5L",
       "pr": "~$420,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.9 sec"
     },
     "McLaren|Artura|2023|Standard": {
       "en": "3.0L twin-turbo V6 + electric PHEV",
@@ -1593,7 +1689,8 @@
       "fh": "6.5L",
       "fx": "8.5L",
       "pr": "~$390,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.1 sec"
     },
     "McLaren|Artura|2023|Performance": {
       "en": "3.0L twin-turbo V6 + electric PHEV",
@@ -1612,7 +1709,8 @@
       "fh": "6.5L",
       "fx": "8.5L",
       "pr": "~$420,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.9 sec"
     },
     "McLaren|Artura|2024|Standard": {
       "en": "3.0L twin-turbo V6 + electric PHEV",
@@ -1631,7 +1729,8 @@
       "fh": "6.5L",
       "fx": "8.5L",
       "pr": "~$390,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.1 sec"
     },
     "McLaren|Artura|2024|Performance": {
       "en": "3.0L twin-turbo V6 + electric PHEV",
@@ -1650,7 +1749,8 @@
       "fh": "6.5L",
       "fx": "8.5L",
       "pr": "~$420,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.9 sec"
     },
     "McLaren|Artura|2025|Standard": {
       "en": "3.0L twin-turbo V6 + electric PHEV",
@@ -1669,7 +1769,8 @@
       "fh": "6.5L",
       "fx": "8.5L",
       "pr": "~$390,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~11.1 sec"
     },
     "McLaren|Artura|2025|Performance": {
       "en": "3.0L twin-turbo V6 + electric PHEV",
@@ -1688,7 +1789,8 @@
       "fh": "6.5L",
       "fx": "8.5L",
       "pr": "~$420,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.9 sec"
     },
     "McLaren|750S|2023|Coupe": {
       "en": "4.0L twin-turbo V8 M840TE",
@@ -1707,7 +1809,8 @@
       "fh": "10.0L",
       "fx": "13.0L",
       "pr": "~$530,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.8 sec"
     },
     "McLaren|750S|2023|Spider": {
       "en": "4.0L twin-turbo V8 M840TE",
@@ -1726,7 +1829,8 @@
       "fh": "10.0L",
       "fx": "13.0L",
       "pr": "~$570,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.8 sec"
     },
     "McLaren|750S|2024|Coupe": {
       "en": "4.0L twin-turbo V8 M840TE",
@@ -1745,7 +1849,8 @@
       "fh": "10.0L",
       "fx": "13.0L",
       "pr": "~$530,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.8 sec"
     },
     "McLaren|750S|2024|Spider": {
       "en": "4.0L twin-turbo V8 M840TE",
@@ -1764,7 +1869,8 @@
       "fh": "10.0L",
       "fx": "13.0L",
       "pr": "~$570,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.8 sec"
     },
     "McLaren|750S|2025|Coupe": {
       "en": "4.0L twin-turbo V8 M840TE",
@@ -1783,7 +1889,8 @@
       "fh": "10.0L",
       "fx": "13.0L",
       "pr": "~$530,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.8 sec"
     },
     "McLaren|750S|2025|Spider": {
       "en": "4.0L twin-turbo V8 M840TE",
@@ -1802,7 +1909,8 @@
       "fh": "10.0L",
       "fx": "13.0L",
       "pr": "~$570,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.8 sec"
     },
     "McLaren|750S|2026|Coupe": {
       "en": "4.0L twin-turbo V8 M840TE",
@@ -1821,7 +1929,8 @@
       "fh": "10.0L",
       "fx": "13.0L",
       "pr": "~$530,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.8 sec"
     },
     "McLaren|750S|2026|Spider": {
       "en": "4.0L twin-turbo V8 M840TE",
@@ -1840,7 +1949,8 @@
       "fh": "10.0L",
       "fx": "13.0L",
       "pr": "~$570,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "qm": "~10.8 sec"
     }
   }
 }

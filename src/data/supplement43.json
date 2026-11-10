@@ -2819,7 +2819,15 @@
       "price": "$45,000",
       "bodyStyle": "Sedan",
       "cargo": 278,
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "fx": 11.4,
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "fc": 14.3,
+      "fh": 7.9
     },
     "Honda|Integra|1996|Type R DC2": {
       "engine": "1.8 DOHC VTEC",
@@ -2837,7 +2845,15 @@
       "price": "$45,000",
       "bodyStyle": "Sedan",
       "cargo": 278,
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "fx": 11,
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "fc": 13.8,
+      "fh": 7.6
     },
     "Honda|Integra|1998|VTi-R DC2": {
       "engine": "1.8 DOHC VTEC",
@@ -2855,7 +2871,15 @@
       "price": "$45,000",
       "bodyStyle": "Sedan",
       "cargo": 278,
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "fx": 9.9,
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "fc": 12.4,
+      "fh": 6.8
     },
     "Honda|Integra|2000|VTi-R DC2": {
       "engine": "1.8 DOHC VTEC",
@@ -2873,7 +2897,15 @@
       "price": "$45,000",
       "bodyStyle": "Sedan",
       "cargo": 278,
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "fx": 9.7,
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "fc": 12.1,
+      "fh": 6.8
     },
     "Honda|Integra|2001|Type R DC5": {
       "engine": "2.0 DOHC VTEC",
@@ -2891,7 +2923,15 @@
       "price": "$45,000",
       "bodyStyle": "Sedan",
       "cargo": 278,
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "fx": 10.4,
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "fc": 13,
+      "fh": 7.2
     },
     "Honda|Integra|2003|Type R DC5": {
       "engine": "2.0 DOHC VTEC",
@@ -2909,7 +2949,15 @@
       "price": "$45,000",
       "bodyStyle": "Sedan",
       "cargo": 278,
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "fx": 10.1,
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "fc": 12.6,
+      "fh": 7
     },
     "Honda|Integra|2005|Type R DC5": {
       "engine": "2.0 DOHC VTEC",
@@ -2927,7 +2975,15 @@
       "price": "$45,000",
       "bodyStyle": "Sedan",
       "cargo": 278,
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "fx": 9.9,
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "fc": 12.4,
+      "fh": 6.8
     },
     "Honda|Integra|2023|Integra": {
       "engine": "1.5 VTEC Turbo",

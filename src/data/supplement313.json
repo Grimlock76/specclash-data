@@ -10,9 +10,9 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "RWD",
-      "acceleration": null,
-      "topSpeed": null,
-      "cargo": null,
+      "acceleration": 12.1,
+      "topSpeed": 180,
+      "cargo": 621,
       "towing": 3500,
       "seats": 7,
       "fuelTank": 80,
@@ -22,7 +22,12 @@
       "weight": 2045,
       "payload": 650,
       "groundClearance": 230,
-      "price": "$49,400"
+      "price": "$49,400",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Isuzu|MU-X|2024|LS-M": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -34,9 +39,9 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
-      "cargo": null,
+      "acceleration": 12.4,
+      "topSpeed": 175,
+      "cargo": 621,
       "towing": 3500,
       "seats": 7,
       "fuelTank": 80,
@@ -45,7 +50,12 @@
       "fx": 8.3,
       "weight": 2135,
       "payload": 660,
-      "price": "$55,400"
+      "price": "$55,400",
+      "quarterMile": "~19.0 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Isuzu|MU-X|2024|LS-U 4x2": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -57,9 +67,9 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "RWD",
-      "acceleration": null,
-      "topSpeed": null,
-      "cargo": null,
+      "acceleration": 12.1,
+      "topSpeed": 175,
+      "cargo": 621,
       "towing": 3500,
       "seats": 7,
       "fuelTank": 80,
@@ -68,7 +78,12 @@
       "fx": 7.8,
       "weight": 2060,
       "payload": 635,
-      "price": "$55,900"
+      "price": "$55,900",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Isuzu|MU-X|2024|LS-U": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -80,9 +95,9 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
-      "cargo": null,
+      "acceleration": 12.5,
+      "topSpeed": 175,
+      "cargo": 621,
       "towing": 3500,
       "seats": 7,
       "fuelTank": 80,
@@ -91,7 +106,12 @@
       "fx": 8.3,
       "weight": 2155,
       "payload": 640,
-      "price": "$61,900"
+      "price": "$61,900",
+      "quarterMile": "~19.1 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Isuzu|MU-X|2024|LS-T 4x2": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -103,9 +123,9 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "RWD",
-      "acceleration": null,
-      "topSpeed": null,
-      "cargo": null,
+      "acceleration": 12.3,
+      "topSpeed": 175,
+      "cargo": 621,
       "towing": 3500,
       "seats": 7,
       "fuelTank": 80,
@@ -114,7 +134,12 @@
       "fx": 7.8,
       "weight": 2090,
       "payload": 610,
-      "price": "$63,400"
+      "price": "$63,400",
+      "quarterMile": "~19.0 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Isuzu|MU-X|2024|LS-T": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -126,9 +151,9 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
-      "cargo": null,
+      "acceleration": 12.6,
+      "topSpeed": 175,
+      "cargo": 621,
       "towing": 3500,
       "seats": 7,
       "fuelTank": 80,
@@ -137,7 +162,12 @@
       "fx": 8.3,
       "weight": 2180,
       "payload": 620,
-      "price": "$69,400"
+      "price": "$69,400",
+      "quarterMile": "~19.2 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Isuzu|MU-X|2024|X-Terrain": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -149,9 +179,9 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
-      "cargo": null,
+      "acceleration": 12.7,
+      "topSpeed": 175,
+      "cargo": 621,
       "towing": 3500,
       "seats": 7,
       "fuelTank": 80,
@@ -161,7 +191,12 @@
       "weight": 2195,
       "payload": 605,
       "groundClearance": 235,
-      "price": "$75,100"
+      "price": "$75,100",
+      "quarterMile": "~19.2 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     }
   }
 }

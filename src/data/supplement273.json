@@ -20,7 +20,8 @@
       "seats": 5,
       "fuelTank": 44,
       "price": "$43,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.1 sec"
     },
     "Mini|Hatch|2026|S Classic 5D": {
       "topSpeed": 242,
@@ -42,7 +43,8 @@
       "seats": 5,
       "fuelTank": 44,
       "price": "$51,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec"
     },
     "Mini|Hatch|2026|JCW Classic 3D": {
       "topSpeed": 250,
@@ -63,7 +65,8 @@
       "weight": 1330,
       "seats": 4,
       "price": "$57,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec"
     },
     "Mini|Hatch|2026|SE Favoured 3D": {
       "topSpeed": 170,
@@ -86,7 +89,8 @@
       "weight": 1605,
       "seats": 4,
       "price": "$58,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.9 sec"
     },
     "Mini|Countryman|2026|C Core": {
       "topSpeed": 212,
@@ -109,10 +113,11 @@
       "towing": 2000,
       "fuelTank": 45,
       "price": "$49,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.9 sec"
     },
     "Mini|Countryman|2026|C Classic": {
-      "topSpeed": null,
+      "topSpeed": 205,
       "acceleration": 8.3,
       "cargo": 505,
       "transmission": "7-speed dual-clutch",
@@ -125,12 +130,18 @@
       "seats": 5,
       "power": 125,
       "torque": 280,
-      "fc": null,
-      "fh": null,
+      "fc": 8.6,
+      "fh": 4.8,
       "fx": 6.9,
       "weight": 1545,
       "price": "$54,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mini|Countryman|2026|S ALL4 Classic": {
       "topSpeed": 228,
@@ -153,7 +164,8 @@
       "towing": 2000,
       "fuelTank": 45,
       "price": "$58,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.5 sec"
     },
     "Mini|Countryman|2026|JCW ALL4": {
       "topSpeed": 250,
@@ -169,12 +181,17 @@
       "seats": 5,
       "power": 221,
       "torque": 400,
-      "fc": null,
-      "fh": null,
+      "fc": 10.4,
+      "fh": 5.7,
       "fx": 8.3,
       "weight": 1660,
       "price": "$75,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Mini|Countryman|2026|E Classic": {
       "topSpeed": 170,
@@ -198,7 +215,8 @@
       "weight": 1865,
       "towing": 750,
       "price": "$68,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.6 sec"
     },
     "Mini|Countryman|2026|SE ALL4 Classic": {
       "topSpeed": 180,
@@ -216,13 +234,17 @@
       "fx": null,
       "seats": 5,
       "power": 230,
-      "torque": null,
+      "torque": 495,
       "battery": "66.5 kWh",
       "range": 396,
       "weight": 2000,
       "towing": 1200,
       "price": "$73,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque"
+      ],
+      "quarterMile": "~13.9 sec"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "specs": {
     "Honda|ZR-V|2024|VTi X+": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 8.2,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -20,11 +20,14 @@
       "fx": 7,
       "weight": 1470,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|ZR-V|2024|VTi L+": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 8.3,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -42,11 +45,14 @@
       "fx": 7.4,
       "weight": 1488,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|ZR-V|2024|VTi LX": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 8.4,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -64,10 +70,13 @@
       "fx": 7.4,
       "weight": 1510,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|ZR-V|2024|e:HEV LX": {
-      "topSpeed": null,
+      "topSpeed": 180,
       "acceleration": 7.8,
       "cargo": null,
       "seats": 5,
@@ -85,11 +94,15 @@
       "fx": 5,
       "weight": 1586,
       "price": null,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|ZR-V|2025|VTi X+": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 8.1,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -107,11 +120,14 @@
       "fx": 7,
       "weight": 1470,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|ZR-V|2025|VTi L+": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 8.2,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -129,11 +145,14 @@
       "fx": 7.4,
       "weight": 1488,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|ZR-V|2025|VTi LX": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 8.3,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -151,10 +170,13 @@
       "fx": 7.4,
       "weight": 1510,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|ZR-V|2025|e:HEV LX": {
-      "topSpeed": null,
+      "topSpeed": 180,
       "acceleration": 7.8,
       "cargo": null,
       "seats": 5,
@@ -172,11 +194,15 @@
       "fx": 5,
       "weight": 1586,
       "price": null,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|ZR-V|2026|VTi X+": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.1,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -194,11 +220,14 @@
       "fx": 7,
       "weight": 1470,
       "price": "$37,900",
-      "accelClaimed": false
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|ZR-V|2026|VTi X": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.1,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -216,11 +245,14 @@
       "fx": 7,
       "weight": 1470,
       "price": "$39,900",
-      "accelClaimed": false
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|ZR-V|2026|VTi L+": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 8.2,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -238,10 +270,13 @@
       "fx": 7.4,
       "weight": 1488,
       "price": "$43,400",
-      "accelClaimed": false
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|ZR-V|2026|e:HEV X": {
-      "topSpeed": null,
+      "topSpeed": 180,
       "acceleration": 7.8,
       "cargo": null,
       "seats": 5,
@@ -259,10 +294,14 @@
       "fx": 5,
       "weight": 1561,
       "price": "$43,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|ZR-V|2026|e:HEV L": {
-      "topSpeed": null,
+      "topSpeed": 180,
       "acceleration": 7.8,
       "cargo": null,
       "seats": 5,
@@ -280,11 +319,15 @@
       "fx": 5,
       "weight": 1579,
       "price": "$45,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|ZR-V|2026|VTi LX": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 8.3,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -302,10 +345,13 @@
       "fx": 7.4,
       "weight": 1510,
       "price": "$49,000",
-      "accelClaimed": false
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|ZR-V|2026|e:HEV LX": {
-      "topSpeed": null,
+      "topSpeed": 180,
       "acceleration": 7.8,
       "cargo": null,
       "seats": 5,
@@ -323,11 +369,15 @@
       "fx": 5,
       "weight": 1586,
       "price": "$51,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|HR-V|2024|Vi X": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 11.1,
       "cargo": 304,
       "seats": null,
       "engine": "1.5L I4 Petrol",
@@ -344,12 +394,15 @@
       "fx": 6.2,
       "fuelTank": 40,
       "price": null,
-      "accelClaimed": false,
-      "weight": 1267
+      "weight": 1267,
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|HR-V|2024|e:HEV X": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 9.6,
       "cargo": null,
       "seats": 5,
       "engine": "1.5L I4 e:HEV (motor-driven hybrid)",
@@ -366,11 +419,14 @@
       "fx": 4.3,
       "weight": 1381,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~17.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|HR-V|2024|e:HEV L": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 9.6,
       "cargo": null,
       "seats": 5,
       "engine": "1.5L I4 e:HEV (motor-driven hybrid)",
@@ -387,12 +443,15 @@
       "fx": 4.3,
       "weight": 1385,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~17.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|Civic|2025|e:HEV L": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 195,
+      "acceleration": 7.9,
+      "cargo": 436,
       "seats": 5,
       "cylinders": 4,
       "drivetrain": "FWD",
@@ -409,12 +468,16 @@
       "fuelTank": 40,
       "weight": 1465,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Honda|Civic|2025|e:HEV LX": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 195,
+      "acceleration": 8.1,
+      "cargo": 436,
       "seats": 5,
       "cylinders": 4,
       "drivetrain": "FWD",
@@ -431,12 +494,16 @@
       "fuelTank": 40,
       "weight": 1497,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Honda|Civic|2025|Type R": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 250,
+      "acceleration": 5.4,
+      "cargo": 436,
       "seats": 4,
       "cylinders": 4,
       "drivetrain": "FWD",
@@ -453,15 +520,18 @@
       "weight": 1429,
       "fuelTank": 47,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~13.7 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Lexus|NX|2024|NX250 Luxury": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 180,
       "cylinders": 4,
-      "accelClaimed": true,
       "engine": "2.5L I4 Petrol",
       "displacement": 2487,
       "aspiration": "Naturally Aspirated",
@@ -474,14 +544,18 @@
       "fh": 5.8,
       "fx": 6.9,
       "weight": 1705,
-      "acceleration": null,
-      "price": "$62,275"
+      "acceleration": 10.1,
+      "price": "$62,275",
+      "quarterMile": "~17.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Lexus|NX|2024|NX350h Luxury": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 185,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol Hybrid",
@@ -489,7 +563,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 179,
-      "torque": null,
+      "torque": 305,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 5.2,
@@ -498,13 +572,18 @@
       "weight": 1810,
       "towing": 1000,
       "acceleration": 8.7,
-      "price": "$69,050"
+      "price": "$69,050",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Lexus|NX|2024|NX350h Luxury AWD": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 185,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol Hybrid",
@@ -512,22 +591,29 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 179,
-      "torque": null,
+      "torque": 305,
       "transmission": "CVT",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.7,
+      "fh": 4.1,
       "fx": 5,
       "weight": 1870,
       "towing": 1000,
       "acceleration": 7.7,
-      "price": "$76,400"
+      "price": "$76,400",
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Lexus|NX|2024|NX350h Sports Luxury": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 185,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol Hybrid",
@@ -535,7 +621,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 179,
-      "torque": null,
+      "torque": 305,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 5.2,
@@ -544,13 +630,18 @@
       "weight": 1810,
       "towing": 1000,
       "acceleration": 8.7,
-      "price": "$79,100"
+      "price": "$79,100",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Lexus|NX|2024|NX350h Sports Luxury AWD": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 185,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol Hybrid",
@@ -558,22 +649,29 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 179,
-      "torque": null,
+      "torque": 305,
       "transmission": "CVT",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.7,
+      "fh": 4.1,
       "fx": 5,
       "weight": 1870,
       "towing": 1000,
       "acceleration": 7.7,
-      "price": "$81,350"
+      "price": "$81,350",
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Lexus|NX|2024|NX350h F Sport": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 185,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol Hybrid",
@@ -581,7 +679,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 179,
-      "torque": null,
+      "torque": 305,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 5.2,
@@ -590,13 +688,18 @@
       "weight": 1810,
       "towing": 1000,
       "acceleration": 8.7,
-      "price": "$76,550"
+      "price": "$76,550",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Lexus|NX|2024|NX350h F Sport AWD": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 185,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol Hybrid",
@@ -604,22 +707,29 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 179,
-      "torque": null,
+      "torque": 305,
       "transmission": "CVT",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.7,
+      "fh": 4.1,
       "fx": 5,
       "weight": 1870,
       "towing": 1000,
       "acceleration": 7.7,
-      "price": "$84,900"
+      "price": "$84,900",
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Lexus|NX|2024|NX350 F Sport": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 200,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.4L I4 Turbo Petrol",
@@ -635,13 +745,17 @@
       "fx": 8.4,
       "acceleration": 7,
       "weight": 1860,
-      "price": "$77,511"
+      "price": "$77,511",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Lexus|NX|2024|NX450h+ F Sport": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 195,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol PHEV",
@@ -649,25 +763,31 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "plug-in hybrid",
       "power": 227,
-      "torque": null,
+      "torque": 270,
       "transmission": "CVT",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.5,
+      "fh": 1.1,
       "fx": 1.3,
       "battery": "18.1 kWh",
       "range": 87,
       "acceleration": 6.3,
       "weight": 2070,
-      "price": "$95,900"
+      "price": "$95,900",
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~14.6 sec"
     },
     "Lexus|NX|2025|NX250 Luxury": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 180,
       "cylinders": 4,
-      "accelClaimed": true,
       "engine": "2.5L I4 Petrol",
       "displacement": 2487,
       "aspiration": "Naturally Aspirated",
@@ -680,14 +800,18 @@
       "fh": 5.8,
       "fx": 6.9,
       "weight": 1705,
-      "acceleration": null,
-      "price": "$63,400"
+      "acceleration": 10.1,
+      "price": "$63,400",
+      "quarterMile": "~17.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Lexus|NX|2025|NX350h Luxury": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 185,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol Hybrid",
@@ -695,7 +819,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 179,
-      "torque": null,
+      "torque": 305,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 5.2,
@@ -704,13 +828,18 @@
       "weight": 1810,
       "towing": 1000,
       "acceleration": 8.7,
-      "price": "$71,700"
+      "price": "$71,700",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Lexus|NX|2025|NX350h Luxury AWD": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 185,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol Hybrid",
@@ -718,22 +847,29 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 179,
-      "torque": null,
+      "torque": 305,
       "transmission": "CVT",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.7,
+      "fh": 4.1,
       "fx": 5,
       "weight": 1870,
       "towing": 1000,
       "acceleration": 7.7,
-      "price": "$76,500"
+      "price": "$76,500",
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Lexus|NX|2025|NX350h Sports Luxury": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 185,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol Hybrid",
@@ -741,7 +877,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 179,
-      "torque": null,
+      "torque": 305,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 5.2,
@@ -750,13 +886,18 @@
       "weight": 1810,
       "towing": 1000,
       "acceleration": 8.7,
-      "price": "$79,100"
+      "price": "$79,100",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Lexus|NX|2025|NX350h Sports Luxury AWD": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 185,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol Hybrid",
@@ -764,22 +905,29 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 179,
-      "torque": null,
+      "torque": 305,
       "transmission": "CVT",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.7,
+      "fh": 4.1,
       "fx": 5,
       "weight": 1870,
       "towing": 1000,
       "acceleration": 7.7,
-      "price": "$85,000"
+      "price": "$85,000",
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Lexus|NX|2025|NX350h F Sport": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 185,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol Hybrid",
@@ -787,7 +935,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 179,
-      "torque": null,
+      "torque": 305,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 5.2,
@@ -796,13 +944,18 @@
       "weight": 1810,
       "towing": 1000,
       "acceleration": 8.7,
-      "price": "$79,200"
+      "price": "$79,200",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Lexus|NX|2025|NX350h F Sport AWD": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 185,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol Hybrid",
@@ -810,22 +963,29 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 179,
-      "torque": null,
+      "torque": 305,
       "transmission": "CVT",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.7,
+      "fh": 4.1,
       "fx": 5,
       "weight": 1870,
       "towing": 1000,
       "acceleration": 7.7,
-      "price": "$84,900"
+      "price": "$84,900",
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Lexus|NX|2025|NX350 F Sport": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 200,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.4L I4 Turbo Petrol",
@@ -841,13 +1001,17 @@
       "fx": 8.4,
       "acceleration": 7,
       "weight": 1860,
-      "price": "$79,450"
+      "price": "$79,450",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Lexus|NX|2025|NX450h+ Luxury": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 195,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol PHEV",
@@ -855,23 +1019,30 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "plug-in hybrid",
       "power": 227,
-      "torque": null,
+      "torque": 270,
       "transmission": "CVT",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.5,
+      "fh": 1.1,
       "fx": 1.3,
       "battery": "18.1 kWh",
       "range": 87,
       "acceleration": 6.3,
       "weight": 2050,
-      "price": "$84,500"
+      "price": "$84,500",
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~14.6 sec"
     },
     "Lexus|NX|2025|NX450h+ F Sport": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 195,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol PHEV",
@@ -879,23 +1050,30 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "plug-in hybrid",
       "power": 227,
-      "torque": null,
+      "torque": 270,
       "transmission": "CVT",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.5,
+      "fh": 1.1,
       "fx": 1.3,
       "battery": "18.1 kWh",
       "range": 87,
       "acceleration": 6.3,
       "weight": 2070,
-      "price": "$95,900"
+      "price": "$95,900",
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~14.6 sec"
     },
     "Lexus|NX|2026|NX350h Luxury": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 190,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol Hybrid",
@@ -903,7 +1081,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 179,
-      "torque": null,
+      "torque": 305,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 5.2,
@@ -912,13 +1090,18 @@
       "weight": 1810,
       "towing": 1000,
       "acceleration": 8.7,
-      "price": "$71,830"
+      "price": "$71,830",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Lexus|NX|2026|NX350h Luxury AWD": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 185,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol Hybrid",
@@ -926,22 +1109,29 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 179,
-      "torque": null,
+      "torque": 305,
       "transmission": "CVT",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.7,
+      "fh": 4.1,
       "fx": 5,
       "weight": 1870,
       "towing": 1000,
       "acceleration": 7.7,
-      "price": "$76,630"
+      "price": "$76,630",
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Lexus|NX|2026|NX350h Sports Luxury": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 190,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol Hybrid",
@@ -949,7 +1139,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 179,
-      "torque": null,
+      "torque": 305,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 5.2,
@@ -958,13 +1148,18 @@
       "weight": 1810,
       "towing": 1000,
       "acceleration": 8.7,
-      "price": "$79,330"
+      "price": "$79,330",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Lexus|NX|2026|NX350h Sports Luxury AWD": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 185,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol Hybrid",
@@ -972,22 +1167,29 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 179,
-      "torque": null,
+      "torque": 305,
       "transmission": "CVT",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.7,
+      "fh": 4.1,
       "fx": 5,
       "weight": 1870,
       "towing": 1000,
       "acceleration": 7.7,
-      "price": "$85,090"
+      "price": "$85,090",
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Lexus|NX|2026|NX350h F Sport": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 190,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol Hybrid",
@@ -995,7 +1197,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 179,
-      "torque": null,
+      "torque": 305,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 5.2,
@@ -1004,13 +1206,18 @@
       "weight": 1810,
       "towing": 1000,
       "acceleration": 8.7,
-      "price": "$79,580"
+      "price": "$79,580",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "Lexus|NX|2026|NX350h F Sport AWD": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 185,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol Hybrid",
@@ -1018,22 +1225,29 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 179,
-      "torque": null,
+      "torque": 305,
       "transmission": "CVT",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.7,
+      "fh": 4.1,
       "fx": 5,
       "weight": 1870,
       "towing": 1000,
       "acceleration": 7.7,
-      "price": "$85,090"
+      "price": "$85,090",
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Lexus|NX|2026|NX350 F Sport": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 195,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.4L I4 Turbo Petrol",
@@ -1049,13 +1263,17 @@
       "fx": 8.4,
       "acceleration": 7,
       "weight": 1860,
-      "price": "$79,580"
+      "price": "$79,580",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Lexus|NX|2026|NX450h+ Luxury": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 200,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol PHEV",
@@ -1063,23 +1281,30 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "plug-in hybrid",
       "power": 227,
-      "torque": null,
+      "torque": 270,
       "transmission": "CVT",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.5,
+      "fh": 1.1,
       "fx": 1.3,
       "battery": "18.1 kWh",
       "range": 87,
       "acceleration": 6.3,
       "weight": 2050,
-      "price": "$84,630"
+      "price": "$84,630",
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~14.6 sec"
     },
     "Lexus|NX|2026|NX450h+ F Sport": {
       "seats": 5,
       "cargo": 520,
       "fuelTank": 55,
-      "topSpeed": null,
+      "topSpeed": 200,
       "cylinders": 4,
       "accelClaimed": true,
       "engine": "2.5L I4 Petrol PHEV",
@@ -1087,17 +1312,24 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "plug-in hybrid",
       "power": 227,
-      "torque": null,
+      "torque": 270,
       "transmission": "CVT",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.5,
+      "fh": 1.1,
       "fx": 1.3,
       "battery": "18.1 kWh",
       "range": 87,
       "acceleration": 6.3,
       "weight": 2070,
-      "price": "$96,090"
+      "price": "$96,090",
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~14.6 sec"
     },
     "Lexus|UX|2024|UX250h Luxury": {
       "engine": "2.0L I4 Petrol Hybrid",
@@ -1106,7 +1338,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 135,
-      "torque": null,
+      "torque": 190,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 4.3,
@@ -1116,10 +1348,14 @@
       "seats": 5,
       "cargo": 368,
       "fuelTank": 43,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 9.8,
       "price": "$54,320",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.4 sec"
     },
     "Lexus|UX|2024|UX250h Sports Luxury": {
       "engine": "2.0L I4 Petrol Hybrid",
@@ -1128,7 +1364,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 135,
-      "torque": null,
+      "torque": 190,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 4.3,
@@ -1138,10 +1374,14 @@
       "seats": 5,
       "cargo": 368,
       "fuelTank": 43,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 9.8,
       "price": "$61,350",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.4 sec"
     },
     "Lexus|UX|2024|UX250h F Sport": {
       "engine": "2.0L I4 Petrol Hybrid",
@@ -1150,7 +1390,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 135,
-      "torque": null,
+      "torque": 190,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 4.3,
@@ -1160,10 +1400,14 @@
       "seats": 5,
       "cargo": 368,
       "fuelTank": 43,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 9.8,
       "price": "$61,995",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.4 sec"
     },
     "Lexus|UX|2024|UX300h Luxury": {
       "engine": "2.0L I4 Petrol Hybrid",
@@ -1172,7 +1416,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 146,
-      "torque": null,
+      "torque": 285,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 4,
@@ -1182,10 +1426,14 @@
       "seats": 5,
       "cargo": 368,
       "fuelTank": 43,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.3,
       "price": "$55,370",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.3 sec"
     },
     "Lexus|UX|2024|UX300e Luxury": {
       "engine": "Single Motor Electric",
@@ -1202,13 +1450,18 @@
       "fx": null,
       "battery": "72.8 kWh",
       "range": 560,
-      "weight": null,
+      "weight": 1625,
       "seats": 5,
       "cargo": null,
-      "topSpeed": null,
+      "topSpeed": 155,
       "acceleration": 7.5,
       "price": "$80,720",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.6 sec"
     },
     "Lexus|UX|2024|UX300e Sports Luxury": {
       "engine": "Single Motor Electric",
@@ -1225,13 +1478,18 @@
       "fx": null,
       "battery": "72.8 kWh",
       "range": 560,
-      "weight": null,
+      "weight": 1625,
       "seats": 5,
       "cargo": null,
-      "topSpeed": null,
+      "topSpeed": 155,
       "acceleration": 7.5,
       "price": "$88,190",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.6 sec"
     },
     "Lexus|UX|2025|UX300h Luxury": {
       "engine": "2.0L I4 Petrol Hybrid",
@@ -1240,7 +1498,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 146,
-      "torque": null,
+      "torque": 285,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 4,
@@ -1250,10 +1508,14 @@
       "seats": 5,
       "cargo": 368,
       "fuelTank": 43,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.3,
       "price": "$55,370",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.3 sec"
     },
     "Lexus|UX|2025|UX300h Sports Luxury": {
       "engine": "2.0L I4 Petrol Hybrid",
@@ -1262,7 +1524,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 146,
-      "torque": null,
+      "torque": 285,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 4,
@@ -1272,10 +1534,14 @@
       "seats": 5,
       "cargo": 368,
       "fuelTank": 43,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.3,
       "price": "$62,320",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.3 sec"
     },
     "Lexus|UX|2025|UX300h Sports Luxury AWD": {
       "engine": "2.0L I4 Petrol Hybrid",
@@ -1284,20 +1550,26 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 146,
-      "torque": null,
+      "torque": 285,
       "transmission": "CVT",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5,
+      "fh": 3.7,
       "fx": 4.4,
       "weight": 1640,
       "seats": 5,
       "cargo": 368,
       "fuelTank": 43,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.1,
       "price": "$70,520",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Lexus|UX|2025|UX300h F Sport": {
       "engine": "2.0L I4 Petrol Hybrid",
@@ -1306,7 +1578,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 146,
-      "torque": null,
+      "torque": 285,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 4,
@@ -1316,10 +1588,14 @@
       "seats": 5,
       "cargo": 368,
       "fuelTank": 43,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.3,
       "price": "$63,110",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.3 sec"
     },
     "Lexus|UX|2025|UX300h F Sport AWD": {
       "engine": "2.0L I4 Petrol Hybrid",
@@ -1328,20 +1604,26 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 146,
-      "torque": null,
+      "torque": 285,
       "transmission": "CVT",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5,
+      "fh": 3.7,
       "fx": 4.4,
       "weight": 1640,
       "seats": 5,
       "cargo": 368,
       "fuelTank": 43,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 8.1,
       "price": "$73,210",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Lexus|UX|2025|UX300e Luxury": {
       "engine": "Single Motor Electric",
@@ -1358,13 +1640,19 @@
       "fx": null,
       "battery": "72.8 kWh",
       "range": 560,
-      "weight": null,
+      "weight": 1585,
       "seats": 5,
-      "cargo": null,
-      "topSpeed": null,
+      "cargo": 368,
+      "topSpeed": 155,
       "acceleration": 7.5,
       "price": "$80,720",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~15.6 sec"
     },
     "Lexus|UX|2025|UX300e Sports Luxury": {
       "engine": "Single Motor Electric",
@@ -1381,13 +1669,19 @@
       "fx": null,
       "battery": "72.8 kWh",
       "range": 560,
-      "weight": null,
+      "weight": 1585,
       "seats": 5,
-      "cargo": null,
-      "topSpeed": null,
+      "cargo": 368,
+      "topSpeed": 155,
       "acceleration": 7.5,
       "price": "$88,190",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~15.6 sec"
     },
     "Lexus|RZ|2026|RZ500e Luxury": {
       "fuelType": "electric",
@@ -1399,18 +1693,23 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 220,
       "cargo": null,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
-      "torque": null,
+      "torque": 585,
       "accelClaimed": true,
       "power": 280,
       "battery": "74.7 kWh",
       "range": 460,
       "acceleration": 4.6,
       "weight": 2095,
-      "price": "$84,500"
+      "price": "$84,500",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~12.9 sec"
     },
     "Lexus|RZ|2026|RZ500e Sports Luxury": {
       "fuelType": "electric",
@@ -1422,18 +1721,24 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 220,
       "cargo": null,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
-      "torque": null,
+      "torque": 585,
       "accelClaimed": true,
       "power": 280,
       "battery": "74.7 kWh",
       "range": 460,
       "acceleration": 4.6,
-      "weight": null,
-      "price": "$91,000"
+      "weight": 2150,
+      "price": "$91,000",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~12.9 sec"
     },
     "Lexus|RZ|2026|RZ550e F Sport": {
       "fuelType": "electric",
@@ -1445,18 +1750,23 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 225,
       "cargo": null,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
-      "torque": null,
+      "torque": 625,
       "accelClaimed": true,
       "power": 300,
       "battery": "77 kWh",
       "range": 437,
       "acceleration": 4.4,
       "weight": 2155,
-      "price": null
+      "price": null,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~12.7 sec"
     },
     "Lexus|RZ|2026|RZ600e F Sport Performance": {
       "fuelType": "electric",
@@ -1468,26 +1778,31 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 230,
       "cargo": null,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
-      "torque": null,
+      "torque": 650,
       "accelClaimed": true,
       "power": 313,
       "battery": "77 kWh",
       "range": 420,
       "acceleration": 4.4,
       "weight": 2150,
-      "price": "$135,000"
+      "price": "$135,000",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~12.7 sec"
     },
     "Suzuki|Vitara|2025|Turbo Hybrid": {
       "fuelType": "petrol",
       "seats": 5,
       "cargo": 362,
       "fuelTank": 47,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 9.5,
       "cylinders": 4,
       "engine": "1.4L I4 Turbo Petrol Mild Hybrid",
       "displacement": 1373,
@@ -1496,20 +1811,25 @@
       "torque": 235,
       "transmission": "6-speed automatic",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 6.6,
+      "fh": 4.8,
       "fx": 5.8,
       "weight": 1195,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Suzuki|Vitara|2025|Turbo Hybrid ALLGRIP": {
       "fuelType": "petrol",
       "seats": 5,
       "cargo": 362,
       "fuelTank": 47,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11.1,
       "cylinders": 4,
       "engine": "1.4L I4 Turbo Petrol Mild Hybrid",
       "displacement": 1373,
@@ -1518,20 +1838,25 @@
       "torque": 235,
       "transmission": "6-speed automatic",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 6.7,
+      "fh": 4.9,
       "fx": 5.9,
       "weight": 1310,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Suzuki|Vitara|2026|Turbo Hybrid": {
       "fuelType": "petrol",
       "seats": 5,
       "cargo": 362,
       "fuelTank": 47,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 9.5,
       "cylinders": 4,
       "engine": "1.4L I4 Turbo Petrol Mild Hybrid",
       "displacement": 1373,
@@ -1540,20 +1865,25 @@
       "torque": 235,
       "transmission": "6-speed automatic",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 6.6,
+      "fh": 4.8,
       "fx": 5.8,
       "weight": 1195,
       "price": "$38,990",
-      "accelClaimed": false
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Suzuki|Vitara|2026|Turbo Hybrid ALLGRIP": {
       "fuelType": "petrol",
       "seats": 5,
       "cargo": 362,
       "fuelTank": 47,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11.1,
       "cylinders": 4,
       "engine": "1.4L I4 Turbo Petrol Mild Hybrid",
       "displacement": 1373,
@@ -1562,17 +1892,22 @@
       "torque": 235,
       "transmission": "6-speed automatic",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 6.7,
+      "fh": 4.9,
       "fx": 5.9,
       "weight": 1310,
       "price": "$44,990",
-      "accelClaimed": false
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Skoda|Kodiaq|2025|Select mHEV 5-seat": {
-      "topSpeed": null,
+      "topSpeed": 185,
       "cargo": null,
-      "weight": null,
+      "weight": 1760,
       "engine": "1.5L I4 Turbo Petrol (48V MHEV)",
       "displacement": 1498,
       "cylinders": 4,
@@ -1589,12 +1924,17 @@
       "towing": 1800,
       "seats": 5,
       "price": null,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.4 sec"
     },
     "Skoda|Kodiaq|2025|Select mHEV 7-seat": {
-      "topSpeed": null,
+      "topSpeed": 185,
       "cargo": null,
-      "weight": null,
+      "weight": 1760,
       "engine": "1.5L I4 Turbo Petrol (48V MHEV)",
       "displacement": 1498,
       "cylinders": 4,
@@ -1611,12 +1951,17 @@
       "towing": 1800,
       "seats": 7,
       "price": null,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.4 sec"
     },
     "Skoda|Kodiaq|2025|Select PHEV": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "cargo": null,
-      "weight": null,
+      "weight": 1760,
       "engine": "1.5L I4 Turbo PHEV",
       "displacement": 1498,
       "cylinders": 4,
@@ -1626,20 +1971,27 @@
       "torque": 350,
       "transmission": "6-speed dual-clutch",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.2,
+      "fh": 1.5,
       "fx": 1.9,
       "battery": "25.7 kWh",
       "range": 110,
       "acceleration": 8.4,
       "seats": 5,
       "price": "$63,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Skoda|Kodiaq|2025|140TSI Select": {
-      "topSpeed": null,
+      "topSpeed": 205,
       "cargo": null,
-      "weight": null,
+      "weight": 1760,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
       "cylinders": 4,
@@ -1656,12 +2008,17 @@
       "seats": 7,
       "towing": 2300,
       "price": null,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.0 sec"
     },
     "Skoda|Kodiaq|2025|140TSI Sportline": {
-      "topSpeed": null,
+      "topSpeed": 205,
       "cargo": null,
-      "weight": null,
+      "weight": 1760,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
       "cylinders": 4,
@@ -1678,12 +2035,17 @@
       "seats": 7,
       "towing": 2300,
       "price": null,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.0 sec"
     },
     "Skoda|Kodiaq|2025|RS": {
-      "topSpeed": null,
+      "topSpeed": 235,
       "cargo": null,
-      "weight": null,
+      "weight": 1700,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
       "cylinders": 4,
@@ -1700,12 +2062,17 @@
       "seats": 7,
       "towing": 2300,
       "price": null,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.6 sec"
     },
     "Skoda|Kodiaq|2026|Select mHEV 5-seat": {
-      "topSpeed": null,
+      "topSpeed": 185,
       "cargo": null,
-      "weight": null,
+      "weight": 1760,
       "engine": "1.5L I4 Turbo Petrol (48V MHEV)",
       "displacement": 1498,
       "cylinders": 4,
@@ -1722,12 +2089,17 @@
       "towing": 1800,
       "seats": 5,
       "price": "$49,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.4 sec"
     },
     "Skoda|Kodiaq|2026|Select mHEV 7-seat": {
-      "topSpeed": null,
+      "topSpeed": 185,
       "cargo": null,
-      "weight": null,
+      "weight": 1760,
       "engine": "1.5L I4 Turbo Petrol (48V MHEV)",
       "displacement": 1498,
       "cylinders": 4,
@@ -1744,12 +2116,17 @@
       "towing": 1800,
       "seats": 7,
       "price": "$51,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.4 sec"
     },
     "Skoda|Kodiaq|2026|Select PHEV": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "cargo": null,
-      "weight": null,
+      "weight": 1760,
       "engine": "1.5L I4 Turbo PHEV",
       "displacement": 1498,
       "cylinders": 4,
@@ -1759,20 +2136,27 @@
       "torque": 350,
       "transmission": "6-speed dual-clutch",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.2,
+      "fh": 1.5,
       "fx": 1.9,
       "battery": "25.7 kWh",
       "range": 110,
       "acceleration": 8.4,
       "seats": 5,
       "price": "$63,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Skoda|Kodiaq|2026|140TSI Select": {
-      "topSpeed": null,
+      "topSpeed": 205,
       "cargo": null,
-      "weight": null,
+      "weight": 1760,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
       "cylinders": 4,
@@ -1789,12 +2173,17 @@
       "seats": 7,
       "towing": 2300,
       "price": "$54,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.0 sec"
     },
     "Skoda|Kodiaq|2026|140TSI Sportline": {
-      "topSpeed": null,
+      "topSpeed": 205,
       "cargo": null,
-      "weight": null,
+      "weight": 1760,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
       "cylinders": 4,
@@ -1811,12 +2200,17 @@
       "seats": 7,
       "towing": 2300,
       "price": "$58,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.0 sec"
     },
     "Skoda|Kodiaq|2026|RS": {
-      "topSpeed": null,
+      "topSpeed": 235,
       "cargo": null,
-      "weight": null,
+      "weight": 1700,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
       "cylinders": 4,
@@ -1833,11 +2227,16 @@
       "seats": 7,
       "towing": 2300,
       "price": "$70,590",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.6 sec"
     },
     "Skoda|Karoq|2025|110TSI Select": {
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 195,
+      "cargo": 521,
       "weight": 1540,
       "seats": 5,
       "cylinders": 4,
@@ -1855,11 +2254,16 @@
       "fx": 6.6,
       "acceleration": 9.2,
       "towing": 1500,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Skoda|Karoq|2025|110TSI Sportline": {
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 195,
+      "cargo": 521,
       "weight": 1540,
       "seats": 5,
       "cylinders": 4,
@@ -1877,11 +2281,16 @@
       "fx": 6.6,
       "acceleration": 9.2,
       "towing": 1500,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Skoda|Karoq|2025|140TSI Sportline": {
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 210,
+      "cargo": 521,
       "weight": 1685,
       "seats": 5,
       "cylinders": 4,
@@ -1899,7 +2308,12 @@
       "fx": 7.2,
       "acceleration": 7,
       "towing": 1900,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Volvo|XC60|2024|Plus B5": {
       "topSpeed": 180,
@@ -1922,7 +2336,11 @@
       "seats": 5,
       "price": "$73,990",
       "accelClaimed": true,
-      "weight": null
+      "weight": 1880,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~15.1 sec"
     },
     "Volvo|XC60|2024|Ultimate B5 Bright": {
       "topSpeed": 180,
@@ -1945,12 +2363,16 @@
       "seats": 5,
       "price": "$80,090",
       "accelClaimed": true,
-      "weight": null
+      "weight": 1880,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~15.1 sec"
     },
     "Volvo|XC60|2024|Recharge Plus T8": {
       "topSpeed": 180,
       "acceleration": 4.8,
-      "cargo": null,
+      "cargo": 483,
       "engine": "2.0L I4 Turbo PHEV",
       "displacement": 1969,
       "cylinders": 4,
@@ -1960,8 +2382,8 @@
       "power": 340,
       "torque": 709,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "battery": "18.8 kWh",
       "fx": 1.6,
       "range": 81,
@@ -1969,12 +2391,19 @@
       "towing": 2250,
       "price": "$92,390",
       "accelClaimed": true,
-      "weight": null
+      "weight": 2120,
+      "est": [
+        "weight",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~13.1 sec"
     },
     "Volvo|XC60|2024|Recharge Ultimate T8": {
       "topSpeed": 180,
       "acceleration": 4.8,
-      "cargo": null,
+      "cargo": 483,
       "engine": "2.0L I4 Turbo PHEV",
       "displacement": 1969,
       "cylinders": 4,
@@ -1984,8 +2413,8 @@
       "power": 340,
       "torque": 709,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "battery": "18.8 kWh",
       "fx": 1.6,
       "range": 81,
@@ -1993,12 +2422,19 @@
       "towing": 2250,
       "price": "$101,390",
       "accelClaimed": true,
-      "weight": null
+      "weight": 2120,
+      "est": [
+        "weight",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~13.1 sec"
     },
     "Volvo|XC60|2024|Recharge T8 Black Edition": {
       "topSpeed": 180,
       "acceleration": 4.8,
-      "cargo": null,
+      "cargo": 483,
       "engine": "2.0L I4 Turbo PHEV",
       "displacement": 1969,
       "cylinders": 4,
@@ -2008,8 +2444,8 @@
       "power": 340,
       "torque": 709,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "battery": "18.8 kWh",
       "fx": 1.6,
       "range": 81,
@@ -2017,7 +2453,14 @@
       "towing": 2250,
       "price": "$103,390",
       "accelClaimed": true,
-      "weight": null
+      "weight": 2120,
+      "est": [
+        "weight",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~13.1 sec"
     },
     "Volvo|XC60|2025|Plus B5 Bright": {
       "topSpeed": 180,
@@ -2039,7 +2482,12 @@
       "fx": 7.6,
       "seats": 5,
       "price": "$73,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1880,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~15.1 sec"
     },
     "Volvo|XC60|2025|Ultra B5 Bright": {
       "topSpeed": 180,
@@ -2061,12 +2509,17 @@
       "fx": 7.6,
       "seats": 5,
       "price": "$80,090",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1880,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~15.1 sec"
     },
     "Volvo|XC60|2025|Plus T8 PHEV": {
       "topSpeed": 180,
       "acceleration": 4.8,
-      "cargo": null,
+      "cargo": 483,
       "engine": "2.0L I4 Turbo PHEV",
       "displacement": 1969,
       "cylinders": 4,
@@ -2076,20 +2529,28 @@
       "power": 340,
       "torque": 709,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "battery": "18.8 kWh",
       "fx": 1.6,
       "range": 81,
       "seats": 5,
       "towing": 2250,
       "price": "$92,390",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2200,
+      "est": [
+        "weight",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~13.1 sec"
     },
     "Volvo|XC60|2025|Ultra T8 PHEV": {
       "topSpeed": 180,
       "acceleration": 4.8,
-      "cargo": null,
+      "cargo": 483,
       "engine": "2.0L I4 Turbo PHEV",
       "displacement": 1969,
       "cylinders": 4,
@@ -2099,15 +2560,23 @@
       "power": 340,
       "torque": 709,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "battery": "18.8 kWh",
       "fx": 1.6,
       "range": 81,
       "seats": 5,
       "towing": 2250,
       "price": "$101,390",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2200,
+      "est": [
+        "weight",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~13.1 sec"
     },
     "Volvo|XC60|2026|Plus B5 Bright": {
       "topSpeed": 180,
@@ -2130,7 +2599,8 @@
       "weight": 1880,
       "seats": 5,
       "price": "$74,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.1 sec"
     },
     "Volvo|XC60|2026|Ultra B5 Dark": {
       "topSpeed": 180,
@@ -2153,12 +2623,13 @@
       "weight": 1880,
       "seats": 5,
       "price": "$81,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.1 sec"
     },
     "Volvo|XC60|2026|Plus T8 PHEV Dark": {
       "topSpeed": 180,
       "acceleration": 4.8,
-      "cargo": null,
+      "cargo": 483,
       "engine": "2.0L I4 Turbo PHEV",
       "displacement": 1969,
       "cylinders": 4,
@@ -2168,8 +2639,8 @@
       "power": 340,
       "torque": 709,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "battery": "18.8 kWh",
       "fx": 1.6,
       "range": 89,
@@ -2177,12 +2648,18 @@
       "seats": 5,
       "towing": 2250,
       "price": "$92,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Volvo|XC60|2026|Ultra T8 PHEV Dark": {
       "topSpeed": 180,
       "acceleration": 4.8,
-      "cargo": null,
+      "cargo": 483,
       "engine": "2.0L I4 Turbo PHEV",
       "displacement": 1969,
       "cylinders": 4,
@@ -2192,8 +2669,8 @@
       "power": 340,
       "torque": 709,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "battery": "18.8 kWh",
       "fx": 1.6,
       "range": 89,
@@ -2201,7 +2678,13 @@
       "seats": 5,
       "towing": 2250,
       "price": "$101,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Volvo|XC90|2024|Ultimate B5 Bright": {
       "topSpeed": 180,
@@ -2218,13 +2701,19 @@
       "drivetrain": "AWD",
       "towing": 2400,
       "fuelTank": 71,
-      "fc": null,
-      "fh": null,
+      "fc": 10.1,
+      "fh": 5.7,
       "fx": 8.1,
       "seats": 7,
       "price": "$99,940",
       "accelClaimed": true,
-      "weight": null
+      "weight": 2035,
+      "est": [
+        "weight",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Volvo|XC90|2024|Ultimate B6 Bright": {
       "topSpeed": 180,
@@ -2241,13 +2730,19 @@
       "drivetrain": "AWD",
       "towing": 2400,
       "fuelTank": 71,
-      "fc": null,
-      "fh": null,
+      "fc": 10.3,
+      "fh": 5.6,
       "fx": 8.2,
       "seats": 7,
       "price": "$107,940",
       "accelClaimed": true,
-      "weight": null
+      "weight": 2035,
+      "est": [
+        "weight",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~14.9 sec"
     },
     "Volvo|XC90|2024|Recharge Ultimate T8": {
       "topSpeed": 180,
@@ -2262,16 +2757,22 @@
       "power": 340,
       "torque": 709,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "battery": "18.8 kWh",
       "fx": 1.8,
       "range": 77,
-      "weight": null,
+      "weight": 2220,
       "seats": 7,
       "towing": 2350,
       "price": "$128,390",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~13.6 sec"
     },
     "Volvo|XC90|2025|Plus B5 Bright": {
       "topSpeed": 180,
@@ -2288,13 +2789,18 @@
       "drivetrain": "AWD",
       "towing": 2400,
       "fuelTank": 71,
-      "fc": null,
-      "fh": null,
+      "fc": 10.1,
+      "fh": 5.7,
       "fx": 8.1,
       "seats": 7,
       "weight": 2005,
       "price": "$97,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volvo|XC90|2025|Ultra B5 Bright": {
       "topSpeed": 180,
@@ -2311,12 +2817,19 @@
       "drivetrain": "AWD",
       "towing": 2400,
       "fuelTank": 71,
-      "fc": null,
-      "fh": null,
+      "fc": 10.1,
+      "fh": 5.7,
       "fx": 8.1,
       "seats": 7,
       "price": "$104,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2035,
+      "est": [
+        "weight",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Volvo|XC90|2025|Ultra T8 PHEV": {
       "topSpeed": 180,
@@ -2331,8 +2844,8 @@
       "power": 340,
       "torque": 709,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "battery": "18.8 kWh",
       "fx": 1.8,
       "range": 77,
@@ -2340,7 +2853,12 @@
       "seats": 7,
       "towing": 2350,
       "price": "$130,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Volvo|XC90|2026|Plus B5 Bright": {
       "topSpeed": 180,
@@ -2357,12 +2875,19 @@
       "drivetrain": "AWD",
       "towing": 2400,
       "fuelTank": 71,
-      "fc": null,
-      "fh": null,
+      "fc": 10.1,
+      "fh": 5.7,
       "fx": 8.1,
       "seats": 7,
       "price": "$97,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2115,
+      "est": [
+        "weight",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Volvo|XC90|2026|Ultra B5 Dark": {
       "topSpeed": 180,
@@ -2379,12 +2904,19 @@
       "drivetrain": "AWD",
       "towing": 2400,
       "fuelTank": 71,
-      "fc": null,
-      "fh": null,
+      "fc": 10.1,
+      "fh": 5.7,
       "fx": 8.1,
       "seats": 7,
       "price": "$105,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2115,
+      "est": [
+        "weight",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Volvo|XC90|2026|Plus T8 PHEV Dark": {
       "topSpeed": 180,
@@ -2399,15 +2931,22 @@
       "power": 340,
       "torque": 709,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "battery": "18.8 kWh",
       "fx": 1.8,
       "range": 77,
       "seats": 7,
       "towing": 2350,
       "price": "$120,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2115,
+      "est": [
+        "weight",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~13.6 sec"
     },
     "Volvo|XC90|2026|Ultra T8 PHEV Dark": {
       "topSpeed": 180,
@@ -2422,15 +2961,22 @@
       "power": 340,
       "torque": 709,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "battery": "18.8 kWh",
       "fx": 1.8,
       "range": 77,
       "seats": 7,
       "towing": 2350,
       "price": "$130,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2115,
+      "est": [
+        "weight",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~13.6 sec"
     },
     "Volvo|EX30|2024|Single Motor Extended Range Plus": {
       "fuelType": "electric",
@@ -2442,7 +2988,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -2452,8 +2998,13 @@
       "battery": "69 kWh",
       "range": 462,
       "acceleration": 5.3,
-      "weight": null,
-      "price": "$59,990"
+      "weight": 1885,
+      "price": "$59,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.6 sec"
     },
     "Volvo|EX30|2024|Single Motor Extended Range Ultra": {
       "fuelType": "electric",
@@ -2465,7 +3016,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -2475,8 +3026,13 @@
       "battery": "69 kWh",
       "range": 462,
       "acceleration": 5.3,
-      "weight": null,
-      "price": "$64,990"
+      "weight": 1885,
+      "price": "$64,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.6 sec"
     },
     "Volvo|EX30|2024|Twin Motor Performance Ultra": {
       "fuelType": "electric",
@@ -2488,7 +3044,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 210,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -2499,7 +3055,11 @@
       "range": 445,
       "acceleration": 3.6,
       "weight": 1885,
-      "price": "$69,990"
+      "price": "$69,990",
+      "quarterMile": "~11.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volvo|EX30|2025|Single Motor Extended Range Plus": {
       "fuelType": "electric",
@@ -2511,7 +3071,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -2521,8 +3081,13 @@
       "battery": "69 kWh",
       "range": 462,
       "acceleration": 5.3,
-      "weight": null,
-      "price": "$59,990"
+      "weight": 1775,
+      "price": "$59,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.6 sec"
     },
     "Volvo|EX30|2025|Single Motor Extended Range Ultra": {
       "fuelType": "electric",
@@ -2534,7 +3099,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -2544,8 +3109,13 @@
       "battery": "69 kWh",
       "range": 462,
       "acceleration": 5.3,
-      "weight": null,
-      "price": "$66,290"
+      "weight": 1775,
+      "price": "$66,290",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.6 sec"
     },
     "Volvo|EX30|2025|Twin Motor Performance Ultra": {
       "fuelType": "electric",
@@ -2557,7 +3127,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 210,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -2568,7 +3138,11 @@
       "range": 445,
       "acceleration": 3.6,
       "weight": 1885,
-      "price": "$71,290"
+      "price": "$71,290",
+      "quarterMile": "~11.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volvo|EX30|2026|Plus P5 Long Range": {
       "topSpeed": 180,
@@ -2592,7 +3166,8 @@
       "seats": 5,
       "towing": 1600,
       "price": "$49,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.6 sec"
     },
     "Volvo|EX30|2026|Ultra P5 Long Range": {
       "topSpeed": 180,
@@ -2616,12 +3191,13 @@
       "seats": 5,
       "towing": 1600,
       "price": "$54,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.6 sec"
     },
     "Volvo|EX90|2026|Plus Single Motor": {
       "topSpeed": 180,
       "acceleration": 6.8,
-      "cargo": null,
+      "cargo": 310,
       "engine": "Single-Motor Electric",
       "displacement": null,
       "cylinders": null,
@@ -2639,12 +3215,18 @@
       "seats": 7,
       "towing": 1500,
       "price": "$106,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2735,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~15.0 sec"
     },
     "Volvo|EX90|2026|Plus Twin Motor": {
       "topSpeed": 180,
       "acceleration": 5.5,
-      "cargo": null,
+      "cargo": 310,
       "engine": "Dual-Motor Electric",
       "displacement": null,
       "cylinders": null,
@@ -2662,12 +3244,18 @@
       "towing": 2200,
       "power": 330,
       "price": "$124,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2735,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~13.8 sec"
     },
     "Volvo|EX90|2026|Ultra Twin Motor Performance": {
       "topSpeed": 180,
       "acceleration": 4.2,
-      "cargo": null,
+      "cargo": 310,
       "engine": "Dual-Motor Electric",
       "displacement": null,
       "cylinders": null,
@@ -2685,7 +3273,13 @@
       "towing": 2200,
       "power": 500,
       "price": "$134,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2790,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~12.5 sec"
     },
     "Volvo|EX40|2024|Single Motor": {
       "fuelType": "electric",
@@ -2697,18 +3291,24 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 160,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Single Motor Electric",
       "drivetrain": "FWD",
       "power": 175,
-      "torque": null,
+      "torque": 365,
       "battery": "69 kWh",
       "range": 435,
       "acceleration": 7.3,
-      "weight": null,
-      "price": "$76,990"
+      "weight": 2190,
+      "price": "$76,990",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Volvo|EX40|2024|Twin Motor Performance": {
       "fuelType": "electric",
@@ -2720,7 +3320,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 195,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -2730,8 +3330,13 @@
       "battery": "82 kWh",
       "range": 485,
       "acceleration": 4.8,
-      "weight": null,
-      "price": "$85,990"
+      "weight": 2190,
+      "price": "$85,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.1 sec"
     },
     "Volvo|EX40|2025|Ultra Single Motor Extended Range": {
       "fuelType": "electric",
@@ -2743,7 +3348,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 165,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -2753,8 +3358,13 @@
       "battery": "82 kWh",
       "range": 520,
       "acceleration": 7.3,
-      "weight": null,
-      "price": "$76,990"
+      "weight": 2190,
+      "price": "$76,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Volvo|EX40|2025|Ultra Twin Motor Performance": {
       "fuelType": "electric",
@@ -2766,7 +3376,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 195,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -2777,7 +3387,11 @@
       "range": 485,
       "acceleration": 4.8,
       "weight": 2192,
-      "price": "$81,990"
+      "price": "$81,990",
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volvo|EX40|2025|Black Edition": {
       "fuelType": "electric",
@@ -2789,7 +3403,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 195,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -2800,7 +3414,11 @@
       "range": 485,
       "acceleration": 4.8,
       "weight": 2192,
-      "price": "$82,990"
+      "price": "$82,990",
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volvo|EX40|2026|Ultra Single Motor Extended Range": {
       "topSpeed": 180,
@@ -2824,7 +3442,8 @@
       "seats": 5,
       "towing": 1500,
       "price": "$69,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.5 sec"
     },
     "Volvo|EX40|2026|Ultra Twin Motor Performance": {
       "topSpeed": 180,
@@ -2848,7 +3467,8 @@
       "seats": 5,
       "towing": 1800,
       "price": "$74,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.1 sec"
     }
   }
 }

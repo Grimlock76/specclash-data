@@ -4,9 +4,9 @@
       "fuelType": "diesel",
       "drivetrain": "RWD",
       "transmission": "10-speed automatic",
-      "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "cargo": 810,
+      "acceleration": 10.8,
+      "topSpeed": 180,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -20,15 +20,20 @@
       "fx": 7.1,
       "weight": 2261,
       "seats": 5,
-      "price": "$53,490"
+      "price": "$53,490",
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Ford|Everest|2024|Ambiente": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
-      "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "cargo": 810,
+      "acceleration": 11.1,
+      "topSpeed": 175,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -42,15 +47,20 @@
       "fx": 7.2,
       "weight": 2369,
       "seats": 5,
-      "price": "$58,490"
+      "price": "$58,490",
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Ford|Everest|2024|Trend": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
-      "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "cargo": 810,
+      "acceleration": 11.2,
+      "topSpeed": 175,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -64,15 +74,20 @@
       "fx": 7.2,
       "weight": 2385,
       "seats": 7,
-      "price": "$65,990"
+      "price": "$65,990",
+      "quarterMile": "~18.3 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Ford|Everest|2024|Sport RWD": {
       "fuelType": "diesel",
       "drivetrain": "RWD",
       "transmission": "10-speed automatic",
-      "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "cargo": 810,
+      "acceleration": 10.9,
+      "topSpeed": 180,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -86,15 +101,20 @@
       "fx": 7.1,
       "weight": 2295,
       "seats": 7,
-      "price": "$62,990"
+      "price": "$62,990",
+      "quarterMile": "~18.1 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Ford|Everest|2024|Sport": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
-      "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "cargo": 810,
+      "acceleration": 9.7,
+      "topSpeed": 185,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "3.0L V6 Turbo Diesel",
@@ -108,15 +128,20 @@
       "fx": 8.5,
       "weight": 2457,
       "seats": 7,
-      "price": "$70,590"
+      "price": "$70,590",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Ford|Everest|2024|Wildtrak": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
-      "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "cargo": 810,
+      "acceleration": 9.9,
+      "topSpeed": 185,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "3.0L V6 Turbo Diesel",
@@ -130,15 +155,20 @@
       "fx": 8.5,
       "weight": 2488,
       "seats": 7,
-      "price": "$73,090"
+      "price": "$73,090",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Ford|Everest|2024|Tremor": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
-      "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "cargo": 810,
+      "acceleration": 10.1,
+      "topSpeed": 185,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "3.0L V6 Turbo Diesel",
@@ -153,15 +183,20 @@
       "weight": 2550,
       "seats": 7,
       "groundClearance": 255,
-      "price": "$76,590"
+      "price": "$76,590",
+      "quarterMile": "~17.6 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Ford|Everest|2024|Platinum": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
-      "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "cargo": 810,
+      "acceleration": 9.9,
+      "topSpeed": 185,
       "towing": 3500,
       "fuelTank": 80,
       "engine": "3.0L V6 Turbo Diesel",
@@ -175,11 +210,16 @@
       "fx": 8.5,
       "weight": 2501,
       "seats": 7,
-      "price": "$78,530"
+      "price": "$78,530",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Kia|Sportage|2024|S Manual": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 165,
+      "acceleration": 13.7,
       "cargo": 543,
       "seats": 5,
       "fuelTank": 54,
@@ -196,11 +236,17 @@
       "fc": 9.7,
       "fh": 6.6,
       "fx": 7.7,
-      "price": "$32,995"
+      "price": "$32,995",
+      "weight": 1740,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~19.7 sec"
     },
     "Kia|Sportage|2024|S": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 165,
+      "acceleration": 13.7,
       "cargo": 543,
       "seats": 5,
       "fuelTank": 54,
@@ -217,11 +263,17 @@
       "fc": 11,
       "fh": 6.5,
       "fx": 8.1,
-      "price": "$34,995"
+      "price": "$34,995",
+      "weight": 1740,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~19.7 sec"
     },
     "Kia|Sportage|2024|S Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 10.5,
       "cargo": 543,
       "seats": 5,
       "fuelTank": 54,
@@ -238,11 +290,17 @@
       "fh": 5.4,
       "fx": 6.3,
       "towing": 1900,
-      "price": "$40,395"
+      "price": "$40,395",
+      "weight": 1740,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.9 sec"
     },
     "Kia|Sportage|2024|SX Manual": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 165,
+      "acceleration": 13.7,
       "cargo": 543,
       "seats": 5,
       "fuelTank": 54,
@@ -259,11 +317,17 @@
       "fc": 9.7,
       "fh": 6.6,
       "fx": 7.7,
-      "price": "$35,550"
+      "price": "$35,550",
+      "weight": 1740,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~19.7 sec"
     },
     "Kia|Sportage|2024|SX": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 165,
+      "acceleration": 13.7,
       "cargo": 543,
       "seats": 5,
       "fuelTank": 54,
@@ -280,11 +344,17 @@
       "fc": 11,
       "fh": 6.5,
       "fx": 8.1,
-      "price": "$37,550"
+      "price": "$37,550",
+      "weight": 1740,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~19.7 sec"
     },
     "Kia|Sportage|2024|SX Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 10.5,
       "cargo": 543,
       "seats": 5,
       "fuelTank": 54,
@@ -301,11 +371,17 @@
       "fh": 5.4,
       "fx": 6.3,
       "towing": 1900,
-      "price": "$42,950"
+      "price": "$42,950",
+      "weight": 1740,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.9 sec"
     },
     "Kia|Sportage|2024|SX+": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 165,
+      "acceleration": 13.7,
       "cargo": 543,
       "seats": 5,
       "fuelTank": 54,
@@ -322,11 +398,17 @@
       "fc": 11,
       "fh": 6.5,
       "fx": 8.1,
-      "price": "$42,050"
+      "price": "$42,050",
+      "weight": 1740,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~19.7 sec"
     },
     "Kia|Sportage|2024|SX+ 1.6T AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11.3,
       "cargo": 543,
       "seats": 5,
       "fuelTank": 54,
@@ -342,11 +424,17 @@
       "fc": 8.8,
       "fh": 6.3,
       "fx": 7.2,
-      "price": "$44,050"
+      "price": "$44,050",
+      "weight": 1740,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.4 sec"
     },
     "Kia|Sportage|2024|SX+ Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 10.5,
       "cargo": 543,
       "seats": 5,
       "fuelTank": 54,
@@ -363,11 +451,17 @@
       "fh": 5.4,
       "fx": 6.3,
       "towing": 1900,
-      "price": "$47,450"
+      "price": "$47,450",
+      "weight": 1740,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.9 sec"
     },
     "Kia|Sportage|2024|GT-Line 1.6T AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11.3,
       "cargo": 543,
       "seats": 5,
       "fuelTank": 54,
@@ -383,11 +477,17 @@
       "fc": 8.8,
       "fh": 6.3,
       "fx": 7.2,
-      "price": "$49,920"
+      "price": "$49,920",
+      "weight": 1740,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.4 sec"
     },
     "Kia|Sportage|2024|GT-Line Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 10.5,
       "cargo": 543,
       "seats": 5,
       "fuelTank": 54,
@@ -404,11 +504,17 @@
       "fh": 5.4,
       "fx": 6.3,
       "towing": 1900,
-      "price": "$52,920"
+      "price": "$52,920",
+      "weight": 1740,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.9 sec"
     },
     "Kia|Sportage|2024|HEV SX": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.1,
       "cargo": 543,
       "seats": 5,
       "fuelTank": null,
@@ -418,7 +524,7 @@
       "aspiration": "Turbo",
       "fuelType": "hybrid",
       "power": 169,
-      "torque": null,
+      "torque": 265,
       "transmission": "6-speed automatic",
       "drivetrain": "FWD",
       "fc": 4.8,
@@ -426,11 +532,16 @@
       "fx": 4.9,
       "weight": 1738,
       "towing": 1650,
-      "price": "$45,950"
+      "price": "$45,950",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.6 sec"
     },
     "Kia|Sportage|2024|HEV GT-Line": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.1,
       "cargo": 543,
       "seats": 5,
       "fuelTank": null,
@@ -440,7 +551,7 @@
       "aspiration": "Turbo",
       "fuelType": "hybrid",
       "power": 169,
-      "torque": null,
+      "torque": 265,
       "transmission": "6-speed automatic",
       "drivetrain": "FWD",
       "fc": 4.8,
@@ -448,7 +559,12 @@
       "fx": 4.9,
       "weight": 1738,
       "towing": 1650,
-      "price": "$55,420"
+      "price": "$55,420",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.6 sec"
     }
   }
 }

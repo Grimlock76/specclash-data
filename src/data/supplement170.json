@@ -17,7 +17,8 @@
       "acceleration": 9.5,
       "topSpeed": 180,
       "price": "~$145,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec"
     },
     "Toyota|Vellfire|2025|Executive Lounge": {
       "engine": "2.5L I4 Hybrid Atkinson",
@@ -36,7 +37,8 @@
       "acceleration": 9.7,
       "topSpeed": 180,
       "price": "~$163,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec"
     },
     "Polestar|5|2025|Standard": {
       "engine": "Electric Dual Motor",
@@ -55,7 +57,8 @@
       "acceleration": 3.8,
       "topSpeed": 250,
       "price": "~$144,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.0 sec"
     },
     "Polestar|5|2025|Performance": {
       "engine": "Electric Dual Motor",
@@ -74,7 +77,8 @@
       "acceleration": 3.2,
       "topSpeed": 250,
       "price": "~$174,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.3 sec"
     },
     "BMW|X2|2025|xDrive20i": {
       "engine": "2.0L I4 TwinPower Turbo",
@@ -93,7 +97,12 @@
       "acceleration": 6.8,
       "topSpeed": 235,
       "price": "~$61,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.0 sec",
+      "cargo": 470,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|A7|2025|50 TFSI e quattro": {
       "engine": "3.0 TFSI V6 PHEV",
@@ -106,13 +115,20 @@
       "torque": 670,
       "weight": 2175,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "fx": 1.8,
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$154,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 535
     },
     "Audi|A8|2025|60 TFSI e quattro L": {
       "engine": "3.0 TFSI V6 PHEV",
@@ -125,13 +141,20 @@
       "torque": 700,
       "weight": 2350,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.3,
+      "fh": 1.6,
       "fx": 2,
       "acceleration": 4.1,
       "topSpeed": 250,
       "price": "~$284,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 400
     },
     "Audi|Q2|2025|40 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -150,7 +173,12 @@
       "acceleration": 7.1,
       "topSpeed": 224,
       "price": "~$62,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.3 sec",
+      "cargo": 405,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|A4 allroad|2025|50 TDI quattro": {
       "engine": "3.0 TDI V6",
@@ -169,7 +197,12 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$106,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 495,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RX|2025|RX 350h": {
       "engine": "2.5L I4 Atkinson Hybrid",
@@ -188,7 +221,8 @@
       "acceleration": 7.9,
       "topSpeed": 180,
       "price": "~$83,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.0 sec"
     },
     "Peugeot|308|2025|Allure": {
       "engine": "1.2 PureTech Turbo",
@@ -207,7 +241,12 @@
       "acceleration": 11,
       "topSpeed": 188,
       "price": "~$41,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.2 sec",
+      "cargo": 420,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|308|2025|GT": {
       "engine": "1.6 PureTech Turbo",
@@ -226,7 +265,12 @@
       "acceleration": 7.8,
       "topSpeed": 217,
       "price": "~$51,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.9 sec",
+      "cargo": 420,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|2008|2025|Allure": {
       "engine": "1.2 PureTech Turbo",
@@ -245,7 +289,12 @@
       "acceleration": 11.5,
       "topSpeed": 187,
       "price": "~$36,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.5 sec",
+      "cargo": 405,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|2008|2025|GT": {
       "engine": "1.2 PureTech Turbo",
@@ -264,7 +313,12 @@
       "acceleration": 11.2,
       "topSpeed": 190,
       "price": "~$41,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.3 sec",
+      "cargo": 405,
+      "est": [
+        "cargo"
+      ]
     },
     "Mini|Countryman|2025|Cooper": {
       "engine": "1.5L I3 TwinPower Turbo",
@@ -283,7 +337,8 @@
       "acceleration": 8.9,
       "topSpeed": 199,
       "price": "~$55,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.8 sec"
     },
     "Mini|Countryman|2025|Cooper S ALL4": {
       "engine": "2.0L I4 TwinPower Turbo",
@@ -302,7 +357,8 @@
       "acceleration": 6.4,
       "topSpeed": 228,
       "price": "~$64,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.7 sec"
     },
     "Toyota|LandCruiser 70|2025|GX": {
       "engine": "2.8L I4 Turbo Diesel",
@@ -321,7 +377,8 @@
       "acceleration": 12,
       "topSpeed": 175,
       "price": "~$72,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~18.8 sec"
     },
     "Toyota|LandCruiser 70|2025|GXL": {
       "engine": "2.8L I4 Turbo Diesel",
@@ -340,7 +397,8 @@
       "acceleration": 12.2,
       "topSpeed": 175,
       "price": "~$78,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~18.9 sec"
     },
     "Toyota|LandCruiser 70|2025|Workmate": {
       "engine": "2.8L I4 Turbo Diesel",
@@ -359,7 +417,8 @@
       "acceleration": 12,
       "topSpeed": 175,
       "price": "~$65,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~18.8 sec"
     }
   }
 }

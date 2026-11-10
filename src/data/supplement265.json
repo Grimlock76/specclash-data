@@ -2,10 +2,10 @@
   "specs": {
     "Audi|Q5|2026|TFSI 150kW": {
       "seats": 5,
-      "cargo": null,
+      "cargo": 520,
       "topSpeed": 226,
       "acceleration": 8.6,
-      "weight": null,
+      "weight": 1840,
       "engine": "2.0L I4 Turbo Petrol mild hybrid",
       "displacement": 1984,
       "cylinders": 4,
@@ -20,14 +20,19 @@
       "fx": 5.7,
       "towing": 2000,
       "price": "$85,927",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~16.6 sec"
     },
     "Audi|Q5|2026|TDI 150kW": {
       "seats": 5,
-      "cargo": null,
-      "topSpeed": null,
+      "cargo": 520,
+      "topSpeed": 220,
       "acceleration": 7.4,
-      "weight": null,
+      "weight": 1840,
       "engine": "2.0L I4 Turbo Diesel",
       "displacement": 1968,
       "cylinders": 4,
@@ -42,14 +47,20 @@
       "fx": 5.4,
       "towing": 2400,
       "price": "$88,527",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Audi|Q5|2026|TDI 150kW sport": {
       "seats": 5,
-      "cargo": null,
-      "topSpeed": null,
+      "cargo": 520,
+      "topSpeed": 220,
       "acceleration": 7.4,
-      "weight": null,
+      "weight": 1840,
       "engine": "2.0L I4 Turbo Diesel",
       "displacement": 1968,
       "cylinders": 4,
@@ -64,21 +75,27 @@
       "fx": 5.4,
       "towing": 2400,
       "price": "$98,527",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Audi|Q5|2026|e-hybrid 270kW": {
       "seats": 5,
-      "cargo": null,
+      "cargo": 520,
       "topSpeed": 250,
       "acceleration": 5.1,
-      "weight": null,
+      "weight": 1855,
       "engine": "2.0L I4 Turbo PHEV",
       "displacement": 1984,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "plug-in hybrid",
-      "fc": null,
-      "fh": null,
+      "fc": 3.8,
+      "fh": 2.7,
       "torque": 500,
       "transmission": "7-speed dual-clutch",
       "power": 270,
@@ -88,14 +105,21 @@
       "range": 82,
       "towing": 2000,
       "price": "$100,318",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~13.4 sec"
     },
     "Audi|Q5|2026|TFSI 200kW sport": {
       "seats": 5,
-      "cargo": null,
+      "cargo": 520,
       "topSpeed": 250,
       "acceleration": 6.2,
-      "weight": null,
+      "weight": 1855,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
       "cylinders": 4,
@@ -109,7 +133,12 @@
       "fh": 6.4,
       "fx": 7.9,
       "price": "$100,327",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~14.5 sec"
     }
   }
 }

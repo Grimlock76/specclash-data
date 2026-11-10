@@ -15,13 +15,19 @@
       "drivetrain": "AWD",
       "towing": 2400,
       "fuelTank": 71,
-      "fc": null,
-      "fh": null,
+      "fc": 10.1,
+      "fh": 5.7,
       "fx": 8.1,
       "seats": 7,
       "price": null,
       "accelClaimed": true,
-      "weight": null
+      "weight": 2035,
+      "est": [
+        "weight",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Volvo|XC90|2023|T8 Recharge": {
       "topSpeed": 180,
@@ -34,18 +40,25 @@
       "fuelType": "plug-in hybrid",
       "transmission": "8-speed automatic",
       "power": 340,
-      "torque": null,
+      "torque": 710,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "battery": "18.8 kWh",
       "fx": 1.8,
       "range": 77,
-      "weight": null,
+      "weight": 2200,
       "seats": 7,
       "towing": 2350,
       "price": null,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "torque",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~13.6 sec"
     }
   }
 }

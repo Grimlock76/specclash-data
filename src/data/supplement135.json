@@ -11,13 +11,18 @@
       "torque": 230,
       "weight": 1580,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.6,
+      "fh": 4.3,
       "fx": 6.1,
       "acceleration": 9.8,
       "topSpeed": 210,
       "price": "~$52,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Citroën|C5 X|2022|Hybrid4 PHEV": {
       "engine": "1.6L 4-cyl HYbrid4 PHEV",
@@ -30,14 +35,19 @@
       "torque": 360,
       "weight": 1850,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "acceleration": 7.2,
       "topSpeed": 225,
       "range": 55,
       "price": "~$65,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Citroën|C5 X|2023|Feel Pack": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -50,13 +60,18 @@
       "torque": 230,
       "weight": 1580,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.6,
+      "fh": 4.3,
       "fx": 6.1,
       "acceleration": 9.8,
       "topSpeed": 210,
       "price": "~$54,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Citroën|C5 X|2023|Hybrid4 PHEV": {
       "engine": "1.6L 4-cyl HYbrid4 PHEV",
@@ -69,14 +84,19 @@
       "torque": 360,
       "weight": 1850,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "acceleration": 7.2,
       "topSpeed": 225,
       "range": 55,
       "price": "~$67,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Citroën|C5 X|2024|Feel Pack": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -89,13 +109,18 @@
       "torque": 230,
       "weight": 1580,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.6,
+      "fh": 4.3,
       "fx": 6.1,
       "acceleration": 9.8,
       "topSpeed": 210,
       "price": "~$56,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Citroën|C5 X|2024|Hybrid4 PHEV": {
       "engine": "1.6L 4-cyl HYbrid4 PHEV",
@@ -108,14 +133,19 @@
       "torque": 360,
       "weight": 1850,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "acceleration": 7.2,
       "topSpeed": 225,
       "range": 55,
       "price": "~$69,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Citroën|C5 X|2025|Feel Pack": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -128,13 +158,18 @@
       "torque": 230,
       "weight": 1580,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.6,
+      "fh": 4.3,
       "fx": 6.1,
       "acceleration": 9.8,
       "topSpeed": 210,
       "price": "~$58,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Citroën|C5 X|2025|Hybrid4 PHEV": {
       "engine": "1.6L 4-cyl HYbrid4 PHEV",
@@ -147,14 +182,19 @@
       "torque": 360,
       "weight": 1850,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "acceleration": 7.2,
       "topSpeed": 225,
       "range": 55,
       "price": "~$71,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Citroën|C5 X|2026|Feel Pack": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -167,13 +207,18 @@
       "torque": 230,
       "weight": 1580,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.6,
+      "fh": 4.3,
       "fx": 6.1,
       "acceleration": 9.8,
       "topSpeed": 210,
       "price": "~$60,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Citroën|C5 X|2026|Hybrid4 PHEV": {
       "engine": "1.6L 4-cyl HYbrid4 PHEV",
@@ -186,14 +231,19 @@
       "torque": 360,
       "weight": 1850,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "acceleration": 7.2,
       "topSpeed": 225,
       "range": 55,
       "price": "~$73,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Citroën|C4|2024|Attraction": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -206,13 +256,20 @@
       "torque": 230,
       "weight": 1445,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.1,
+      "fh": 4,
       "fx": 5.7,
       "acceleration": 9.7,
       "topSpeed": 210,
       "price": "~$45,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "Citroën|C4|2024|Exclusive": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -225,13 +282,20 @@
       "torque": 230,
       "weight": 1445,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.1,
+      "fh": 4,
       "fx": 5.7,
       "acceleration": 9.7,
       "topSpeed": 210,
       "price": "~$51,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "Citroën|C4|2024|Shine": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -244,13 +308,20 @@
       "torque": 230,
       "weight": 1445,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.1,
+      "fh": 4,
       "fx": 5.7,
       "acceleration": 9.7,
       "topSpeed": 210,
       "price": "~$54,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "Citroën|C4|2024|e-C4": {
       "engine": "Single Electric Motor",
@@ -269,7 +340,12 @@
       "acceleration": 8.7,
       "topSpeed": 150,
       "price": "~$57,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.7 sec",
+      "cargo": 380,
+      "est": [
+        "cargo"
+      ]
     },
     "Citroën|C4|2025|Attraction": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -282,13 +358,20 @@
       "torque": 230,
       "weight": 1445,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.1,
+      "fh": 4,
       "fx": 5.7,
       "acceleration": 9.7,
       "topSpeed": 210,
       "price": "~$47,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "Citroën|C4|2025|Exclusive": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -301,13 +384,20 @@
       "torque": 230,
       "weight": 1445,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.1,
+      "fh": 4,
       "fx": 5.7,
       "acceleration": 9.7,
       "topSpeed": 210,
       "price": "~$53,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "Citroën|C4|2025|Shine": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -320,13 +410,20 @@
       "torque": 230,
       "weight": 1445,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.1,
+      "fh": 4,
       "fx": 5.7,
       "acceleration": 9.7,
       "topSpeed": 210,
       "price": "~$56,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 380
     },
     "Citroën|C4|2025|e-C4": {
       "engine": "Single Electric Motor",
@@ -345,7 +442,12 @@
       "acceleration": 8.7,
       "topSpeed": 150,
       "price": "~$59,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.7 sec",
+      "cargo": 380,
+      "est": [
+        "cargo"
+      ]
     },
     "Citroën|C4|2026|Attraction": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -358,13 +460,18 @@
       "torque": 230,
       "weight": 1445,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.1,
+      "fh": 4,
       "fx": 5.7,
       "acceleration": 9.7,
       "topSpeed": 210,
       "price": "~$49,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Citroën|C4|2026|Exclusive": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -377,13 +484,18 @@
       "torque": 230,
       "weight": 1445,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.1,
+      "fh": 4,
       "fx": 5.7,
       "acceleration": 9.7,
       "topSpeed": 210,
       "price": "~$55,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Citroën|C4|2026|Shine": {
       "engine": "1.2L 3-cyl PureTech 130",
@@ -396,13 +508,18 @@
       "torque": 230,
       "weight": 1445,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 7.1,
+      "fh": 4,
       "fx": 5.7,
       "acceleration": 9.7,
       "topSpeed": 210,
       "price": "~$58,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Citroën|C4|2026|e-C4": {
       "engine": "Single Electric Motor",
@@ -421,7 +538,8 @@
       "acceleration": 8.7,
       "topSpeed": 150,
       "price": "~$61,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.7 sec"
     },
     "Ford|E-Transit|2023|350 L2 H2": {
       "engine": "Single Electric Motor",
@@ -440,7 +558,8 @@
       "acceleration": 12,
       "topSpeed": 100,
       "price": "~$82,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~18.8 sec"
     },
     "Ford|E-Transit|2023|350 L3 H3": {
       "engine": "Single Electric Motor",
@@ -459,7 +578,8 @@
       "acceleration": 12,
       "topSpeed": 100,
       "price": "~$87,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~18.8 sec"
     },
     "Ford|E-Transit|2024|350 L2 H2": {
       "engine": "Single Electric Motor",
@@ -478,7 +598,8 @@
       "acceleration": 12,
       "topSpeed": 100,
       "price": "~$84,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~18.8 sec"
     },
     "Ford|E-Transit|2024|350 L3 H3": {
       "engine": "Single Electric Motor",
@@ -497,7 +618,8 @@
       "acceleration": 12,
       "topSpeed": 100,
       "price": "~$89,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~18.8 sec"
     },
     "Ford|E-Transit|2025|350 L2 H2": {
       "engine": "Single Electric Motor",
@@ -516,7 +638,8 @@
       "acceleration": 12,
       "topSpeed": 100,
       "price": "~$86,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~18.8 sec"
     },
     "Ford|E-Transit|2025|350 L3 H3": {
       "engine": "Single Electric Motor",
@@ -535,7 +658,8 @@
       "acceleration": 12,
       "topSpeed": 100,
       "price": "~$91,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~18.8 sec"
     },
     "Ford|E-Transit|2026|350 L2 H2": {
       "engine": "Single Electric Motor",
@@ -554,7 +678,8 @@
       "acceleration": 12,
       "topSpeed": 100,
       "price": "~$88,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~18.8 sec"
     },
     "Ford|E-Transit|2026|350 L3 H3": {
       "engine": "Single Electric Motor",
@@ -573,7 +698,8 @@
       "acceleration": 12,
       "topSpeed": 100,
       "price": "~$93,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~18.8 sec"
     },
     "Toyota|Coaster|2019|DX": {
       "engine": "4.0L 4-cyl 1GD-FTV Diesel",
@@ -586,13 +712,18 @@
       "torque": 300,
       "weight": 3900,
       "seats": 21,
-      "fc": null,
-      "fh": null,
+      "fc": 13.4,
+      "fh": 7.6,
       "fx": 10.8,
       "acceleration": 18,
       "topSpeed": 130,
       "price": "~$79,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Coaster|2019|EX": {
       "engine": "4.0L 4-cyl 1GD-FTV Diesel",
@@ -605,13 +736,18 @@
       "torque": 400,
       "weight": 4000,
       "seats": 29,
-      "fc": null,
-      "fh": null,
+      "fc": 13.4,
+      "fh": 7.6,
       "fx": 10.8,
       "acceleration": 18,
       "topSpeed": 130,
       "price": "~$89,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Coaster|2020|DX": {
       "engine": "4.0L 4-cyl 1GD-FTV Diesel",
@@ -624,13 +760,18 @@
       "torque": 300,
       "weight": 3900,
       "seats": 21,
-      "fc": null,
-      "fh": null,
+      "fc": 13.4,
+      "fh": 7.6,
       "fx": 10.8,
       "acceleration": 18,
       "topSpeed": 130,
       "price": "~$80,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Coaster|2020|EX": {
       "engine": "4.0L 4-cyl 1GD-FTV Diesel",
@@ -643,13 +784,18 @@
       "torque": 400,
       "weight": 4000,
       "seats": 29,
-      "fc": null,
-      "fh": null,
+      "fc": 13.4,
+      "fh": 7.6,
       "fx": 10.8,
       "acceleration": 18,
       "topSpeed": 130,
       "price": "~$90,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Coaster|2021|DX": {
       "engine": "4.0L 4-cyl 1GD-FTV Diesel",
@@ -662,13 +808,18 @@
       "torque": 300,
       "weight": 3900,
       "seats": 21,
-      "fc": null,
-      "fh": null,
+      "fc": 13.4,
+      "fh": 7.6,
       "fx": 10.8,
       "acceleration": 18,
       "topSpeed": 130,
       "price": "~$81,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Coaster|2021|EX": {
       "engine": "4.0L 4-cyl 1GD-FTV Diesel",
@@ -681,13 +832,18 @@
       "torque": 400,
       "weight": 4000,
       "seats": 29,
-      "fc": null,
-      "fh": null,
+      "fc": 13.4,
+      "fh": 7.6,
       "fx": 10.8,
       "acceleration": 18,
       "topSpeed": 130,
       "price": "~$91,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Coaster|2022|DX": {
       "engine": "4.0L 4-cyl 1GD-FTV Diesel",
@@ -700,13 +856,18 @@
       "torque": 300,
       "weight": 3900,
       "seats": 21,
-      "fc": null,
-      "fh": null,
+      "fc": 13.4,
+      "fh": 7.6,
       "fx": 10.8,
       "acceleration": 18,
       "topSpeed": 130,
       "price": "~$82,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Coaster|2022|EX": {
       "engine": "4.0L 4-cyl 1GD-FTV Diesel",
@@ -719,13 +880,18 @@
       "torque": 400,
       "weight": 4000,
       "seats": 29,
-      "fc": null,
-      "fh": null,
+      "fc": 13.4,
+      "fh": 7.6,
       "fx": 10.8,
       "acceleration": 18,
       "topSpeed": 130,
       "price": "~$92,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Coaster|2023|DX": {
       "engine": "4.0L 4-cyl 1GD-FTV Diesel",
@@ -738,13 +904,18 @@
       "torque": 300,
       "weight": 3900,
       "seats": 21,
-      "fc": null,
-      "fh": null,
+      "fc": 13.4,
+      "fh": 7.6,
       "fx": 10.8,
       "acceleration": 18,
       "topSpeed": 130,
       "price": "~$83,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Coaster|2023|EX": {
       "engine": "4.0L 4-cyl 1GD-FTV Diesel",
@@ -757,13 +928,18 @@
       "torque": 400,
       "weight": 4000,
       "seats": 29,
-      "fc": null,
-      "fh": null,
+      "fc": 13.4,
+      "fh": 7.6,
       "fx": 10.8,
       "acceleration": 18,
       "topSpeed": 130,
       "price": "~$93,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Coaster|2024|DX": {
       "engine": "4.0L 4-cyl 1GD-FTV Diesel",
@@ -776,13 +952,18 @@
       "torque": 300,
       "weight": 3900,
       "seats": 21,
-      "fc": null,
-      "fh": null,
+      "fc": 13.4,
+      "fh": 7.6,
       "fx": 10.8,
       "acceleration": 18,
       "topSpeed": 130,
       "price": "~$85,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Coaster|2024|EX": {
       "engine": "4.0L 4-cyl 1GD-FTV Diesel",
@@ -795,13 +976,18 @@
       "torque": 400,
       "weight": 4000,
       "seats": 29,
-      "fc": null,
-      "fh": null,
+      "fc": 13.4,
+      "fh": 7.6,
       "fx": 10.8,
       "acceleration": 18,
       "topSpeed": 130,
       "price": "~$95,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Coaster|2025|DX": {
       "engine": "4.0L 4-cyl 1GD-FTV Diesel",
@@ -814,13 +1000,18 @@
       "torque": 300,
       "weight": 3900,
       "seats": 21,
-      "fc": null,
-      "fh": null,
+      "fc": 13.4,
+      "fh": 7.6,
       "fx": 10.8,
       "acceleration": 18,
       "topSpeed": 130,
       "price": "~$87,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Coaster|2025|EX": {
       "engine": "4.0L 4-cyl 1GD-FTV Diesel",
@@ -833,13 +1024,18 @@
       "torque": 400,
       "weight": 4000,
       "seats": 29,
-      "fc": null,
-      "fh": null,
+      "fc": 13.4,
+      "fh": 7.6,
       "fx": 10.8,
       "acceleration": 18,
       "topSpeed": 130,
       "price": "~$97,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Coaster|2026|DX": {
       "engine": "4.0L 4-cyl 1GD-FTV Diesel",
@@ -852,13 +1048,18 @@
       "torque": 300,
       "weight": 3900,
       "seats": 21,
-      "fc": null,
-      "fh": null,
+      "fc": 13.4,
+      "fh": 7.6,
       "fx": 10.8,
       "acceleration": 18,
       "topSpeed": 130,
       "price": "~$89,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|Coaster|2026|EX": {
       "engine": "4.0L 4-cyl 1GD-FTV Diesel",
@@ -871,13 +1072,18 @@
       "torque": 400,
       "weight": 4000,
       "seats": 29,
-      "fc": null,
-      "fh": null,
+      "fc": 13.4,
+      "fh": 7.6,
       "fx": 10.8,
       "acceleration": 18,
       "topSpeed": 130,
       "price": "~$99,990",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~21.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|X3|2024|M50 xDrive": {
       "engine": "3.0L 6-cyl TwinPower Turbo B58",
@@ -890,13 +1096,20 @@
       "torque": 540,
       "weight": 1990,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.3,
       "fx": 9.1,
       "acceleration": 4.6,
       "topSpeed": 250,
       "price": "~$120,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 550
     },
     "BMW|X3|2025|M50 xDrive": {
       "engine": "3.0L 6-cyl TwinPower Turbo B58",
@@ -909,13 +1122,18 @@
       "torque": 540,
       "weight": 1990,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 11.4,
+      "fh": 6.3,
       "fx": 9.1,
       "acceleration": 4.6,
       "topSpeed": 250,
       "price": "~$124,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     }
   }
 }

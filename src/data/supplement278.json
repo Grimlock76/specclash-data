@@ -19,12 +19,19 @@
       "towing": 1800,
       "fuelTank": 54,
       "price": "$72,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.3 sec",
+      "fc": 8.1,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 4.5
     },
     "BMW|X2|2026|xDrive20i M Sport": {
       "topSpeed": 231,
       "acceleration": 7.4,
-      "cargo": null,
+      "cargo": 470,
       "seats": 5,
       "transmission": "7-speed dual-clutch",
       "engine": "2.0L I4 Turbo Petrol",
@@ -41,12 +48,16 @@
       "weight": 1620,
       "towing": 1800,
       "price": "$78,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|X2|2026|M35i xDrive": {
       "topSpeed": 250,
       "acceleration": 5.4,
-      "cargo": null,
+      "cargo": 470,
       "seats": 5,
       "transmission": "7-speed dual-clutch",
       "engine": "2.0L I4 Turbo Petrol",
@@ -60,7 +71,15 @@
       "fx": 8.3,
       "weight": 1695,
       "price": "$96,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.7 sec",
+      "fc": 10.4,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 5.7
     },
     "BMW|Z4|2026|sDrive20i M Sport": {
       "topSpeed": 235,
@@ -82,12 +101,13 @@
       "weight": 1450,
       "fuelTank": 52,
       "price": "$104,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.9 sec"
     },
     "BMW|Z4|2026|M40i": {
       "topSpeed": 250,
       "acceleration": 4.1,
-      "cargo": null,
+      "cargo": 281,
       "seats": 2,
       "transmission": "8-speed automatic",
       "engine": "3.0L I6 Turbo Petrol",
@@ -103,7 +123,11 @@
       "fx": 7.8,
       "weight": 1570,
       "price": "$143,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.4 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|2 Series Gran Coupe|2026|218 M Sport": {
       "topSpeed": 230,
@@ -125,7 +149,8 @@
       "weight": 1420,
       "fuelTank": 49,
       "price": "$61,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.6 sec"
     },
     "BMW|2 Series Gran Coupe|2026|220 M Sport": {
       "topSpeed": 250,
@@ -146,7 +171,8 @@
       "fx": 6.7,
       "weight": 1455,
       "price": "$64,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.5 sec"
     },
     "BMW|2 Series Gran Coupe|2026|M235 xDrive": {
       "topSpeed": 250,
@@ -167,12 +193,13 @@
       "fx": 7.7,
       "weight": 1575,
       "price": "$88,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.2 sec"
     },
     "BMW|2 Series|2026|230i M Sport Coupe": {
       "topSpeed": 250,
       "acceleration": 5.8,
-      "cargo": null,
+      "cargo": 390,
       "seats": 4,
       "transmission": "8-speed automatic",
       "engine": "2.0L I4 Turbo Petrol",
@@ -188,12 +215,16 @@
       "fx": 6.4,
       "weight": 1525,
       "price": "$80,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|2 Series|2026|M240i xDrive Coupe": {
       "topSpeed": 250,
       "acceleration": 4.3,
-      "cargo": null,
+      "cargo": 390,
       "seats": 4,
       "transmission": "8-speed automatic",
       "engine": "3.0L I6 Turbo Petrol",
@@ -209,7 +240,11 @@
       "fx": 8,
       "weight": 1690,
       "price": "$103,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.6 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|4 Series|2026|430i M Sport": {
       "topSpeed": 250,
@@ -231,12 +266,13 @@
       "weight": 1545,
       "fuelTank": 59,
       "price": "$115,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.1 sec"
     },
     "BMW|4 Series|2026|M440i xDrive": {
       "topSpeed": 250,
       "acceleration": 4.5,
-      "cargo": null,
+      "cargo": 440,
       "seats": 4,
       "transmission": "8-speed automatic",
       "engine": "3.0L I6 Turbo Petrol (MHEV)",
@@ -252,7 +288,11 @@
       "fx": 8,
       "weight": 1735,
       "price": "$138,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|4 Series Convertible|2026|420i M Sport Convertible": {
       "topSpeed": 236,
@@ -273,7 +313,8 @@
       "fx": 6.6,
       "weight": 1690,
       "price": "$112,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.2 sec"
     },
     "BMW|4 Series Convertible|2026|M440i xDrive Convertible": {
       "topSpeed": 250,
@@ -294,12 +335,13 @@
       "fx": 8.4,
       "weight": 1890,
       "price": "$155,200",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.2 sec"
     },
     "BMW|7 Series|2026|740i M Sport": {
       "topSpeed": 250,
       "acceleration": 5.4,
-      "cargo": null,
+      "cargo": 490,
       "seats": 5,
       "transmission": "8-speed automatic",
       "engine": "3.0L I6 Turbo Petrol (MHEV)",
@@ -316,12 +358,16 @@
       "weight": 2090,
       "fuelTank": 74,
       "price": "$277,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.7 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|7 Series|2026|740 M Sport (LCI)": {
       "topSpeed": 250,
       "acceleration": 5.4,
-      "cargo": null,
+      "cargo": 490,
       "seats": 5,
       "transmission": "8-speed automatic",
       "engine": "3.0L I6 Turbo Petrol (MHEV)",
@@ -337,7 +383,11 @@
       "fx": 7.9,
       "weight": 2115,
       "price": "$277,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.7 sec",
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

@@ -5,7 +5,7 @@
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1415,
       "accelClaimed": true,
       "engine": "1.3L I4 Turbo Petrol",
       "displacement": 1332,
@@ -20,14 +20,18 @@
       "topSpeed": 225,
       "fuelTank": 43,
       "cargo": 350,
-      "price": "$62,900"
+      "price": "$62,900",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Mercedes-Benz|A-Class|2024|A250": {
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1520,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -42,14 +46,18 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "cargo": 350,
-      "price": "$73,000"
+      "price": "$73,000",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~14.6 sec"
     },
     "Mercedes-Benz|A-Class|2024|A35 AMG": {
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1625,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -64,14 +72,18 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "cargo": 370,
-      "price": "$88,500"
+      "price": "$88,500",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~13.0 sec"
     },
     "Mercedes-Benz|A-Class|2024|A45 S AMG": {
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1670,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -86,14 +98,18 @@
       "acceleration": 3.9,
       "topSpeed": 270,
       "cargo": 370,
-      "price": "$121,000"
+      "price": "$121,000",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~12.2 sec"
     },
     "Mercedes-Benz|A-Class|2026|A200": {
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1640,
       "accelClaimed": true,
       "engine": "1.3L I4 Turbo Petrol",
       "displacement": 1332,
@@ -108,14 +124,18 @@
       "topSpeed": 225,
       "fuelTank": 43,
       "cargo": 350,
-      "price": "$58,100"
+      "price": "$58,100",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Mercedes-Benz|A-Class|2026|A200 Special Edition": {
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1640,
       "accelClaimed": true,
       "engine": "1.3L I4 Turbo Petrol",
       "displacement": 1332,
@@ -130,14 +150,18 @@
       "topSpeed": 225,
       "fuelTank": 43,
       "cargo": 350,
-      "price": "$58,100"
+      "price": "$58,100",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Mercedes-Benz|A-Class|2026|A250 Special Edition": {
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1640,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -152,14 +176,18 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "cargo": 350,
-      "price": "$74,600"
+      "price": "$74,600",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~14.6 sec"
     },
     "Mercedes-Benz|A-Class|2026|A35 AMG Edition R": {
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1640,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -174,14 +202,18 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "cargo": 370,
-      "price": "$87,327"
+      "price": "$87,327",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~13.0 sec"
     },
     "Mercedes-Benz|A-Class|2026|A45 S AMG Edition R+": {
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1640,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -196,7 +228,11 @@
       "acceleration": 3.9,
       "topSpeed": 270,
       "cargo": 370,
-      "price": "$123,927"
+      "price": "$123,927",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~12.2 sec"
     }
   }
 }

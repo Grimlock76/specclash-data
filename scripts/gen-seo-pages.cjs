@@ -45,14 +45,16 @@ const num = v => { const m = String(v ?? '').replace(/,/g, '').match(/\d+(\.\d+)
 function view(s) {
   const isNew = s.en === undefined && s.hp === undefined;
   const ev = /electric/i.test(s.ft || s.fuelType || '');
+  // "~" marks estimates, same rule as the app (src/data/index.js normalizeSpec)
+  const est = f => Array.isArray(s.est) && s.est.includes(f) ? '~' : '';
   const v = isNew ? {
     engine: s.engine || '—',
     power: s.power ? `${s.power} kW` : '—',
-    torque: s.torque ? `${s.torque} Nm` : '—',
-    z1: s.acceleration ? `${s.acceleration} s` : '—',
-    ts: s.topSpeed ? `${s.topSpeed} km/h` : '—',
-    fuel: ev ? (s.range ? `${s.range} km range` : '—') : (s.fx != null ? `${s.fx} L/100km` : '—'),
-    weight: s.weight ? `${s.weight} kg` : '—',
+    torque: s.torque ? `${est('torque')}${s.torque} Nm` : '—',
+    z1: s.acceleration ? `${s.accelClaimed ? '' : '~'}${s.acceleration} s` : '—',
+    ts: s.topSpeed ? `${est('topSpeed')}${s.topSpeed} km/h` : '—',
+    fuel: ev ? (s.range ? `${s.range} km range` : '—') : (s.fx != null ? `${est('fx')}${s.fx} L/100km` : '—'),
+    weight: s.weight ? `${est('weight')}${s.weight} kg` : '—',
     price: s.price || '—',
   } : {
     engine: s.en || '—', power: s.hp || '—', torque: s.tq || '—',

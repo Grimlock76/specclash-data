@@ -7,7 +7,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 104,
-      "torque": null,
+      "torque": 265,
       "transmission": "6-speed dual-clutch",
       "drivetrain": "FWD",
       "fc": 4,
@@ -17,10 +17,16 @@
       "cargo": 425,
       "fuelTank": 42,
       "towing": 1300,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
-      "price": "$44,930"
+      "weight": 1425,
+      "topSpeed": 165,
+      "acceleration": 10.6,
+      "price": "$44,930",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.9 sec"
     },
     "Kia|Niro|2024|HEV GT-Line": {
       "engine": "1.6L I4 Petrol Hybrid",
@@ -29,7 +35,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 104,
-      "torque": null,
+      "torque": 265,
       "transmission": "6-speed dual-clutch",
       "drivetrain": "FWD",
       "fc": 4,
@@ -39,10 +45,16 @@
       "cargo": 425,
       "fuelTank": 42,
       "towing": 1300,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
-      "price": "$50,580"
+      "weight": 1425,
+      "topSpeed": 165,
+      "acceleration": 10.6,
+      "price": "$50,580",
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.9 sec"
     },
     "Kia|Niro|2024|EV S": {
       "engine": "Single Motor Electric",
@@ -62,11 +74,16 @@
       "battery": "64.8 kWh",
       "range": 460,
       "towing": 750,
-      "weight": null,
-      "topSpeed": null,
+      "weight": 1725,
+      "topSpeed": 150,
       "acceleration": 7.8,
       "accelClaimed": true,
-      "price": "$66,590"
+      "price": "$66,590",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.9 sec"
     },
     "Kia|Niro|2024|EV GT-Line": {
       "engine": "Single Motor Electric",
@@ -86,11 +103,16 @@
       "battery": "64.8 kWh",
       "range": 460,
       "towing": 750,
-      "weight": null,
-      "topSpeed": null,
+      "weight": 1725,
+      "topSpeed": 150,
       "acceleration": 7.8,
       "accelClaimed": true,
-      "price": "$72,360"
+      "price": "$72,360",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.9 sec"
     }
   }
 }

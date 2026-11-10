@@ -11,14 +11,19 @@
       "torque": 800,
       "weight": 2710,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.5,
+      "fh": 2.6,
       "fx": 3.1,
       "acceleration": 4.3,
       "topSpeed": 250,
       "range": 88,
       "price": "~$249,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~12.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|XM|2023|XM Label Red": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -31,14 +36,19 @@
       "torque": 900,
       "weight": 2710,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.5,
+      "fh": 2.6,
       "fx": 3.1,
       "acceleration": 3.8,
       "topSpeed": 250,
       "range": 88,
       "price": "~$329,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|XM|2023|XM Label Gold": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -51,14 +61,19 @@
       "torque": 900,
       "weight": 2710,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.5,
+      "fh": 2.6,
       "fx": 3.1,
       "acceleration": 3.8,
       "topSpeed": 250,
       "range": 88,
       "price": "~$369,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|XM|2024|XM": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -71,14 +86,19 @@
       "torque": 800,
       "weight": 2710,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.5,
+      "fh": 2.6,
       "fx": 3.1,
       "acceleration": 4.3,
       "topSpeed": 250,
       "range": 88,
       "price": "~$254,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~12.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|XM|2024|XM Label Red": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -91,14 +111,19 @@
       "torque": 900,
       "weight": 2710,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.5,
+      "fh": 2.6,
       "fx": 3.1,
       "acceleration": 3.8,
       "topSpeed": 250,
       "range": 88,
       "price": "~$334,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|XM|2024|XM Label Gold": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -111,14 +136,19 @@
       "torque": 900,
       "weight": 2710,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.5,
+      "fh": 2.6,
       "fx": 3.1,
       "acceleration": 3.8,
       "topSpeed": 250,
       "range": 88,
       "price": "~$374,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|XM|2025|XM": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -131,14 +161,19 @@
       "torque": 800,
       "weight": 2710,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.5,
+      "fh": 2.6,
       "fx": 3.1,
       "acceleration": 4.3,
       "topSpeed": 250,
       "range": 88,
       "price": "~$257,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~12.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|XM|2025|XM Label Red": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -151,14 +186,19 @@
       "torque": 900,
       "weight": 2710,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.5,
+      "fh": 2.6,
       "fx": 3.1,
       "acceleration": 3.8,
       "topSpeed": 250,
       "range": 88,
       "price": "~$337,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|XM|2025|XM Label Gold": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -171,14 +211,19 @@
       "torque": 900,
       "weight": 2710,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.5,
+      "fh": 2.6,
       "fx": 3.1,
       "acceleration": 3.8,
       "topSpeed": 250,
       "range": 88,
       "price": "~$377,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|XM|2026|XM": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -191,14 +236,19 @@
       "torque": 800,
       "weight": 2710,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.5,
+      "fh": 2.6,
       "fx": 3.1,
       "acceleration": 4.3,
       "topSpeed": 250,
       "range": 88,
       "price": "~$260,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~12.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|XM|2026|XM Label Red": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -211,14 +261,19 @@
       "torque": 900,
       "weight": 2710,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.5,
+      "fh": 2.6,
       "fx": 3.1,
       "acceleration": 3.8,
       "topSpeed": 250,
       "range": 88,
       "price": "~$340,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|XM|2026|XM Label Gold": {
       "engine": "4.4L V8 TwinPower PHEV xDrive",
@@ -231,14 +286,19 @@
       "torque": 900,
       "weight": 2710,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.5,
+      "fh": 2.6,
       "fx": 3.1,
       "acceleration": 3.8,
       "topSpeed": 250,
       "range": 88,
       "price": "~$380,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Lexus|TX|2024|TX 350": {
       "engine": "2.4L 4-cyl Turbo",
@@ -251,13 +311,18 @@
       "torque": 430,
       "weight": 2145,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 12,
+      "fh": 6.7,
       "fx": 9.6,
       "acceleration": 7,
       "topSpeed": 200,
       "price": "~$99,990",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Lexus|TX|2024|TX 500h": {
       "engine": "2.4L 4-cyl Turbo Hybrid",
@@ -270,13 +335,18 @@
       "torque": 630,
       "weight": 2350,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 8.1,
+      "fh": 5.9,
       "fx": 7.1,
       "acceleration": 6.1,
       "topSpeed": 200,
       "price": "~$114,990",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Lexus|TX|2024|TX 550h+": {
       "engine": "2.4L 4-cyl Turbo PHEV",
@@ -289,14 +359,19 @@
       "torque": 680,
       "weight": 2455,
       "seats": 7,
-      "fc": null,
-      "fh": null,
+      "fc": 3.2,
+      "fh": 2.3,
       "fx": 2.8,
       "acceleration": 5.9,
       "topSpeed": 200,
       "range": 84,
       "price": "~$129,990",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Lexus|TX|2025|TX 350": {
       "engine": "2.4L 4-cyl Turbo",
@@ -309,13 +384,18 @@
       "torque": 430,
       "weight": 2145,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 12,
+      "fh": 6.7,
       "fx": 9.6,
       "acceleration": 7,
       "topSpeed": 200,
       "price": "~$102,990",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Lexus|TX|2025|TX 500h": {
       "engine": "2.4L 4-cyl Turbo Hybrid",
@@ -328,13 +408,18 @@
       "torque": 630,
       "weight": 2350,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 8.1,
+      "fh": 5.9,
       "fx": 7.1,
       "acceleration": 6.1,
       "topSpeed": 200,
       "price": "~$117,990",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Lexus|TX|2025|TX 550h+": {
       "engine": "2.4L 4-cyl Turbo PHEV",
@@ -347,14 +432,19 @@
       "torque": 680,
       "weight": 2455,
       "seats": 7,
-      "fc": null,
-      "fh": null,
+      "fc": 3.2,
+      "fh": 2.3,
       "fx": 2.8,
       "acceleration": 5.9,
       "topSpeed": 200,
       "range": 84,
       "price": "~$132,990",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Lexus|TX|2026|TX 350": {
       "engine": "2.4L 4-cyl Turbo",
@@ -367,13 +457,18 @@
       "torque": 430,
       "weight": 2145,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 12,
+      "fh": 6.7,
       "fx": 9.6,
       "acceleration": 7,
       "topSpeed": 200,
       "price": "~$104,990",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Lexus|TX|2026|TX 500h": {
       "engine": "2.4L 4-cyl Turbo Hybrid",
@@ -386,13 +481,18 @@
       "torque": 630,
       "weight": 2350,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 8.1,
+      "fh": 5.9,
       "fx": 7.1,
       "acceleration": 6.1,
       "topSpeed": 200,
       "price": "~$119,990",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Lexus|TX|2026|TX 550h+": {
       "engine": "2.4L 4-cyl Turbo PHEV",
@@ -405,14 +505,19 @@
       "torque": 680,
       "weight": 2455,
       "seats": 7,
-      "fc": null,
-      "fh": null,
+      "fc": 3.2,
+      "fh": 2.3,
       "fx": 2.8,
       "acceleration": 5.9,
       "topSpeed": 200,
       "range": 84,
       "price": "~$134,990",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Lexus|GX|2024|GX 550": {
       "engine": "3.4L V6 Twin-Turbo",
@@ -425,13 +530,20 @@
       "torque": 550,
       "weight": 2560,
       "seats": 7,
-      "fc": null,
-      "fh": null,
+      "fc": 15,
+      "fh": 8.3,
       "fx": 12,
       "acceleration": 6.7,
       "topSpeed": 210,
       "price": "~$119,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~14.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 560
     },
     "Lexus|GX|2025|GX 550": {
       "engine": "3.4L V6 Twin-Turbo",
@@ -444,13 +556,18 @@
       "torque": 550,
       "weight": 2560,
       "seats": 7,
-      "fc": null,
-      "fh": null,
+      "fc": 15,
+      "fh": 8.3,
       "fx": 12,
       "acceleration": 6.7,
       "topSpeed": 210,
       "price": "~$122,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~14.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Lexus|GX|2026|GX 550": {
       "engine": "3.4L V6 Twin-Turbo",
@@ -463,13 +580,18 @@
       "torque": 550,
       "weight": 2560,
       "seats": 7,
-      "fc": null,
-      "fh": null,
+      "fc": 15,
+      "fh": 8.3,
       "fx": 12,
       "acceleration": 6.7,
       "topSpeed": 210,
       "price": "~$124,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~14.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Porsche|Cayenne|2019|E-Hybrid": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -522,14 +644,21 @@
       "torque": 700,
       "weight": 2225,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.9,
+      "fh": 2.8,
       "fx": 3.4,
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
       "price": "~$151,900",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 770
     },
     "Porsche|Cayenne|2020|E-Hybrid Coupe": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -542,14 +671,21 @@
       "torque": 700,
       "weight": 2255,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.9,
+      "fh": 2.8,
       "fx": 3.4,
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
       "price": "~$158,900",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 770
     },
     "Porsche|Cayenne|2021|E-Hybrid": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -562,14 +698,21 @@
       "torque": 700,
       "weight": 2225,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.9,
+      "fh": 2.8,
       "fx": 3.4,
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
       "price": "~$153,900",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 770
     },
     "Porsche|Cayenne|2021|E-Hybrid Coupe": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -582,14 +725,21 @@
       "torque": 700,
       "weight": 2255,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.9,
+      "fh": 2.8,
       "fx": 3.4,
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
       "price": "~$160,900",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 770
     },
     "Porsche|Cayenne|2022|E-Hybrid": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -602,14 +752,21 @@
       "torque": 700,
       "weight": 2225,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.9,
+      "fh": 2.8,
       "fx": 3.4,
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
       "price": "~$155,900",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 770
     },
     "Porsche|Cayenne|2022|E-Hybrid Coupe": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -622,14 +779,21 @@
       "torque": 700,
       "weight": 2255,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.9,
+      "fh": 2.8,
       "fx": 3.4,
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
       "price": "~$162,900",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 770
     },
     "Porsche|Cayenne|2023|E-Hybrid": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -642,14 +806,21 @@
       "torque": 700,
       "weight": 2225,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.9,
+      "fh": 2.8,
       "fx": 3.4,
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
       "price": "~$157,900",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 770
     },
     "Porsche|Cayenne|2023|E-Hybrid Coupe": {
       "engine": "3.0L V6 Turbo E-Hybrid",
@@ -662,14 +833,21 @@
       "torque": 700,
       "weight": 2255,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.9,
+      "fh": 2.8,
       "fx": 3.4,
       "acceleration": 5,
       "topSpeed": 253,
       "range": 42,
       "price": "~$164,900",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 770
     },
     "Porsche|Panamera|2021|Turbo S E-Hybrid Sport Turismo": {
       "engine": "4.0L V8 TwinTurbo E-Hybrid Sport Turismo",
@@ -682,14 +860,19 @@
       "torque": 1050,
       "weight": 2380,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 4.2,
+      "fh": 3.1,
       "fx": 3.7,
       "acceleration": 3.2,
       "topSpeed": 310,
       "range": 61,
       "price": "~$399,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Porsche|Panamera|2022|Turbo S E-Hybrid Sport Turismo": {
       "engine": "4.0L V8 TwinTurbo E-Hybrid Sport Turismo",
@@ -702,14 +885,19 @@
       "torque": 1050,
       "weight": 2380,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 4.2,
+      "fh": 3.1,
       "fx": 3.7,
       "acceleration": 3.2,
       "topSpeed": 310,
       "range": 61,
       "price": "~$402,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Porsche|Panamera|2023|Turbo S E-Hybrid Sport Turismo": {
       "engine": "4.0L V8 TwinTurbo E-Hybrid Sport Turismo",
@@ -722,14 +910,21 @@
       "torque": 1050,
       "weight": 2380,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 4.2,
+      "fh": 3.1,
       "fx": 3.7,
       "acceleration": 3.2,
       "topSpeed": 310,
       "range": 61,
       "price": "~$405,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 520
     },
     "Volkswagen|ID.4|2022|Pro": {
       "engine": "Single Electric Motor",
@@ -748,7 +943,12 @@
       "acceleration": 8.5,
       "topSpeed": 160,
       "price": "~$69,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec",
+      "cargo": 543,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.4|2022|Pro 4MOTION": {
       "engine": "Dual Electric Motor 4MOTION",
@@ -767,7 +967,12 @@
       "acceleration": 6.2,
       "topSpeed": 180,
       "price": "~$79,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.5 sec",
+      "cargo": 543,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.4|2022|GTX": {
       "engine": "Dual Electric Motor GTX 4MOTION",
@@ -786,7 +991,12 @@
       "acceleration": 5.2,
       "topSpeed": 180,
       "price": "~$89,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.5 sec",
+      "cargo": 543,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.4|2023|Pro": {
       "engine": "Single Electric Motor",
@@ -805,7 +1015,12 @@
       "acceleration": 8.5,
       "topSpeed": 160,
       "price": "~$71,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec",
+      "cargo": 543,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.4|2023|Pro 4MOTION": {
       "engine": "Dual Electric Motor 4MOTION",
@@ -824,7 +1039,12 @@
       "acceleration": 6.2,
       "topSpeed": 180,
       "price": "~$81,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.5 sec",
+      "cargo": 543,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.4|2023|GTX": {
       "engine": "Dual Electric Motor GTX 4MOTION",
@@ -843,7 +1063,12 @@
       "acceleration": 5.2,
       "topSpeed": 180,
       "price": "~$91,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.5 sec",
+      "cargo": 543,
+      "est": [
+        "cargo"
+      ]
     },
     "Hyundai|Tucson|2021|Elite PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -896,14 +1121,21 @@
       "torque": 350,
       "weight": 1938,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "fx": 1.6,
       "acceleration": 8.3,
       "topSpeed": 193,
       "range": 62,
       "price": "~$49,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 540
     },
     "Hyundai|Tucson|2022|Elite PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -916,14 +1148,21 @@
       "torque": 350,
       "weight": 1938,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "fx": 1.6,
       "acceleration": 8.3,
       "topSpeed": 193,
       "range": 62,
       "price": "~$58,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 540
     },
     "Hyundai|Tucson|2022|Highlander PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -936,14 +1175,21 @@
       "torque": 350,
       "weight": 1938,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "fx": 1.6,
       "acceleration": 8.3,
       "topSpeed": 193,
       "range": 62,
       "price": "~$64,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 540
     },
     "Hyundai|Tucson|2023|Elite PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -956,14 +1202,21 @@
       "torque": 350,
       "weight": 1938,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "fx": 1.6,
       "acceleration": 8.3,
       "topSpeed": 193,
       "range": 62,
       "price": "~$59,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 540
     },
     "Hyundai|Tucson|2023|Highlander PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -976,14 +1229,21 @@
       "torque": 350,
       "weight": 1938,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "fx": 1.6,
       "acceleration": 8.3,
       "topSpeed": 193,
       "range": 62,
       "price": "~$65,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 540
     },
     "Hyundai|Santa Fe|2022|Elite PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1036,14 +1296,21 @@
       "torque": 350,
       "weight": 2005,
       "seats": 7,
-      "fc": null,
-      "fh": null,
+      "fc": 1.9,
+      "fh": 1.5,
       "fx": 1.7,
       "acceleration": 8.5,
       "topSpeed": 193,
       "range": 55,
       "price": "~$66,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 547
     },
     "Hyundai|Santa Fe|2023|Calligraphy PHEV": {
       "engine": "1.6L 4-cyl T-GDi PHEV",
@@ -1056,14 +1323,21 @@
       "torque": 350,
       "weight": 2005,
       "seats": 7,
-      "fc": null,
-      "fh": null,
+      "fc": 1.9,
+      "fh": 1.5,
       "fx": 1.7,
       "acceleration": 8.5,
       "topSpeed": 193,
       "range": 55,
       "price": "~$74,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 547
     }
   }
 }

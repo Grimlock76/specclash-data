@@ -17,7 +17,12 @@
       "acceleration": 4.1,
       "topSpeed": 193,
       "price": "~$124,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.4 sec",
+      "cargo": 1130,
+      "est": [
+        "cargo"
+      ]
     },
     "Tesla|Cybertruck|2025|Cyberbeast": {
       "engine": "Tri Motor Electric",
@@ -36,7 +41,12 @@
       "acceleration": 2.6,
       "topSpeed": 210,
       "price": "~$154,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~10.6 sec",
+      "cargo": 1130,
+      "est": [
+        "cargo"
+      ]
     },
     "Tesla|Cybertruck|2025|RWD": {
       "engine": "Single Motor Electric",
@@ -55,7 +65,12 @@
       "acceleration": 6.5,
       "topSpeed": 177,
       "price": "~$103,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.8 sec",
+      "cargo": 1130,
+      "est": [
+        "cargo"
+      ]
     },
     "Tesla|Cybertruck|2026|AWD": {
       "engine": "Dual Motor Electric",
@@ -74,7 +89,12 @@
       "acceleration": 4.1,
       "topSpeed": 193,
       "price": "~$129,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.4 sec",
+      "cargo": 1130,
+      "est": [
+        "cargo"
+      ]
     },
     "Tesla|Cybertruck|2026|Cyberbeast": {
       "engine": "Tri Motor Electric",
@@ -93,7 +113,12 @@
       "acceleration": 2.6,
       "topSpeed": 210,
       "price": "~$159,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~10.6 sec",
+      "cargo": 1130,
+      "est": [
+        "cargo"
+      ]
     },
     "Tesla|Cybertruck|2026|RWD": {
       "engine": "Single Motor Electric",
@@ -112,7 +137,12 @@
       "acceleration": 6.5,
       "topSpeed": 177,
       "price": "~$107,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.8 sec",
+      "cargo": 1130,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Discovery Sport|2025|SE": {
       "engine": "2.0L I4 D200 Ingenium",
@@ -131,7 +161,12 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "price": "~$58,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 981,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Discovery Sport|2025|HSE": {
       "engine": "2.0L I4 P250 Ingenium",
@@ -150,7 +185,12 @@
       "acceleration": 7.5,
       "topSpeed": 200,
       "price": "~$68,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec",
+      "cargo": 981,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Discovery Sport|2025|R-Dynamic": {
       "engine": "2.0L I4 P250 Ingenium",
@@ -169,7 +209,12 @@
       "acceleration": 7.5,
       "topSpeed": 200,
       "price": "~$73,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec",
+      "cargo": 981,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Discovery Sport|2026|SE": {
       "engine": "2.0L I4 D200 Ingenium",
@@ -188,7 +233,8 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "price": "~$60,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~17.2 sec"
     },
     "Land Rover|Discovery Sport|2026|HSE": {
       "engine": "2.0L I4 P250 Ingenium",
@@ -207,7 +253,8 @@
       "acceleration": 7.5,
       "topSpeed": 200,
       "price": "~$70,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec"
     },
     "Land Rover|Discovery Sport|2026|R-Dynamic": {
       "engine": "2.0L I4 P250 Ingenium",
@@ -226,7 +273,8 @@
       "acceleration": 7.5,
       "topSpeed": 200,
       "price": "~$75,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec"
     },
     "Land Rover|Range Rover Evoque|2025|S": {
       "engine": "2.0L I4 D165 Ingenium",
@@ -245,7 +293,12 @@
       "acceleration": 10.5,
       "topSpeed": 185,
       "price": "~$64,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~17.9 sec",
+      "cargo": 591,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Evoque|2025|SE": {
       "engine": "2.0L I4 P200 Ingenium",
@@ -264,7 +317,12 @@
       "acceleration": 8.8,
       "topSpeed": 195,
       "price": "~$74,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.8 sec",
+      "cargo": 591,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Evoque|2025|R-Dynamic": {
       "engine": "2.0L I4 P250 Ingenium",
@@ -283,7 +341,12 @@
       "acceleration": 7.3,
       "topSpeed": 210,
       "price": "~$79,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.5 sec",
+      "cargo": 591,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Evoque|2026|S": {
       "engine": "2.0L I4 D165 Ingenium",
@@ -302,7 +365,8 @@
       "acceleration": 10.5,
       "topSpeed": 185,
       "price": "~$66,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~17.9 sec"
     },
     "Land Rover|Range Rover Evoque|2026|SE": {
       "engine": "2.0L I4 P200 Ingenium",
@@ -321,7 +385,8 @@
       "acceleration": 8.8,
       "topSpeed": 195,
       "price": "~$76,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.8 sec"
     },
     "Land Rover|Range Rover Evoque|2026|R-Dynamic": {
       "engine": "2.0L I4 P250 Ingenium",
@@ -340,7 +405,8 @@
       "acceleration": 7.3,
       "topSpeed": 210,
       "price": "~$81,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.5 sec"
     },
     "Land Rover|Discovery|2025|SE": {
       "engine": "3.0L I6 D300 Ingenium",
@@ -359,7 +425,8 @@
       "acceleration": 7,
       "topSpeed": 200,
       "price": "~$87,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~15.2 sec"
     },
     "Land Rover|Discovery|2025|HSE": {
       "engine": "3.0L I6 P360 Mild Hybrid",
@@ -378,7 +445,8 @@
       "acceleration": 6.3,
       "topSpeed": 220,
       "price": "~$102,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.6 sec"
     },
     "Jaguar|F-Pace|2025|Prestige": {
       "engine": "2.0D Turbo Diesel",
@@ -397,7 +465,12 @@
       "acceleration": 8.5,
       "topSpeed": 213,
       "price": "~$84,490",
-      "aspiration": "Garrett VGT Diesel Turbo"
+      "aspiration": "Garrett VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2025|R-Dynamic S": {
       "engine": "2.0T Turbo P250",
@@ -416,7 +489,12 @@
       "acceleration": 6.8,
       "topSpeed": 222,
       "price": "~$93,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~15.0 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2025|R-Dynamic SE": {
       "engine": "2.0T Turbo P300",
@@ -435,7 +513,12 @@
       "acceleration": 6.3,
       "topSpeed": 235,
       "price": "~$105,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.6 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2026|Prestige": {
       "engine": "2.0D Turbo Diesel",
@@ -454,7 +537,8 @@
       "acceleration": 8.5,
       "topSpeed": 213,
       "price": "~$85,990",
-      "aspiration": "Garrett VGT Diesel Turbo"
+      "aspiration": "Garrett VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "Jaguar|F-Pace|2026|R-Dynamic S": {
       "engine": "2.0T Turbo P250",
@@ -473,7 +557,8 @@
       "acceleration": 6.8,
       "topSpeed": 222,
       "price": "~$95,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~15.0 sec"
     },
     "Jaguar|F-Pace|2026|R-Dynamic SE": {
       "engine": "2.0T Turbo P300",
@@ -492,7 +577,8 @@
       "acceleration": 6.3,
       "topSpeed": 235,
       "price": "~$107,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.6 sec"
     },
     "Genesis|GV80 Coupe|2024|3.5T Sport+": {
       "engine": "3.5L V6 Twin Turbo",
@@ -505,13 +591,18 @@
       "torque": 530,
       "weight": 2150,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.6,
+      "fh": 8.2,
       "fx": 11.7,
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$145,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Genesis|GV80 Coupe|2025|3.5T Sport+": {
       "engine": "3.5L V6 Twin Turbo",
@@ -524,13 +615,18 @@
       "torque": 530,
       "weight": 2150,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.6,
+      "fh": 8.2,
       "fx": 11.7,
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$150,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Genesis|GV80 Coupe|2026|3.5T Sport+": {
       "engine": "3.5L V6 Twin Turbo",
@@ -543,13 +639,18 @@
       "torque": 530,
       "weight": 2150,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.6,
+      "fh": 8.2,
       "fx": 11.7,
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$155,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     }
   }
 }

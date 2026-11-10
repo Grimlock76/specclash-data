@@ -10,14 +10,19 @@
       "drivetrain": "FWD",
       "acceleration": 7.5,
       "topSpeed": 205,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "fuelType": "hybrid",
       "weight": 1650,
       "seats": 5,
       "price": "~$52,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "CUPRA|Formentor|2021|VZ 2.0 TSI 4Drive": {
       "engine": "2.0L TSI",
@@ -36,7 +41,8 @@
       "weight": 1570,
       "seats": 5,
       "price": "~$62,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.2 sec"
     },
     "CUPRA|Formentor|2021|VZ5": {
       "engine": "2.5L TSI Five Cylinder",
@@ -55,7 +61,8 @@
       "weight": 1650,
       "seats": 5,
       "price": "~$79,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.5 sec"
     },
     "CUPRA|Formentor|2022|1.4 e-Hybrid": {
       "engine": "1.4L TSI e-Hybrid",
@@ -67,14 +74,19 @@
       "drivetrain": "FWD",
       "acceleration": 7.5,
       "topSpeed": 205,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "fuelType": "hybrid",
       "weight": 1650,
       "seats": 5,
       "price": "~$54,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "CUPRA|Formentor|2022|VZ 2.0 TSI 4Drive": {
       "engine": "2.0L TSI",
@@ -93,7 +105,8 @@
       "weight": 1570,
       "seats": 5,
       "price": "~$64,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.2 sec"
     },
     "CUPRA|Formentor|2022|VZ5": {
       "engine": "2.5L TSI Five Cylinder",
@@ -112,7 +125,8 @@
       "weight": 1650,
       "seats": 5,
       "price": "~$81,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.5 sec"
     },
     "CUPRA|Formentor|2023|1.4 e-Hybrid": {
       "engine": "1.4L TSI e-Hybrid",
@@ -124,14 +138,19 @@
       "drivetrain": "FWD",
       "acceleration": 7.5,
       "topSpeed": 205,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "fuelType": "hybrid",
       "weight": 1650,
       "seats": 5,
       "price": "~$55,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "CUPRA|Formentor|2023|VZ 2.0 TSI 4Drive": {
       "engine": "2.0L TSI",
@@ -150,7 +169,8 @@
       "weight": 1570,
       "seats": 5,
       "price": "~$65,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.2 sec"
     },
     "CUPRA|Formentor|2023|VZ5": {
       "engine": "2.5L TSI Five Cylinder",
@@ -169,7 +189,8 @@
       "weight": 1650,
       "seats": 5,
       "price": "~$82,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.5 sec"
     },
     "CUPRA|Formentor|2024|1.4 e-Hybrid": {
       "engine": "1.4L TSI e-Hybrid",
@@ -181,14 +202,19 @@
       "drivetrain": "FWD",
       "acceleration": 7.5,
       "topSpeed": 205,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "fuelType": "hybrid",
       "weight": 1650,
       "seats": 5,
       "price": "~$57,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "CUPRA|Formentor|2024|VZ 2.0 TSI 4Drive": {
       "engine": "2.0L TSI",
@@ -207,7 +233,8 @@
       "weight": 1570,
       "seats": 5,
       "price": "~$67,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.2 sec"
     },
     "CUPRA|Formentor|2024|VZ5": {
       "engine": "2.5L TSI Five Cylinder",
@@ -226,7 +253,8 @@
       "weight": 1650,
       "seats": 5,
       "price": "~$84,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.5 sec"
     },
     "CUPRA|Formentor|2025|1.4 e-Hybrid": {
       "engine": "1.4L TSI e-Hybrid",
@@ -238,14 +266,19 @@
       "drivetrain": "FWD",
       "acceleration": 7.5,
       "topSpeed": 205,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "fuelType": "hybrid",
       "weight": 1650,
       "seats": 5,
       "price": "~$58,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "CUPRA|Formentor|2025|VZ 2.0 TSI 4Drive": {
       "engine": "2.0L TSI",
@@ -264,7 +297,8 @@
       "weight": 1570,
       "seats": 5,
       "price": "~$68,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.2 sec"
     },
     "CUPRA|Formentor|2025|VZ5": {
       "engine": "2.5L TSI Five Cylinder",
@@ -283,7 +317,8 @@
       "weight": 1650,
       "seats": 5,
       "price": "~$85,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.5 sec"
     },
     "CUPRA|Born|2022|58 kWh": {
       "engine": "Electric",
@@ -304,7 +339,12 @@
       "seats": 5,
       "battery": "58 kWh",
       "price": "~$55,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Born|2022|77 kWh": {
       "engine": "Electric",
@@ -325,7 +365,12 @@
       "seats": 5,
       "battery": "77 kWh",
       "price": "~$63,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.9 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Born|2022|VZ 77 kWh": {
       "engine": "Electric",
@@ -346,7 +391,12 @@
       "seats": 5,
       "battery": "77 kWh",
       "price": "~$68,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Born|2023|58 kWh": {
       "engine": "Electric",
@@ -367,7 +417,12 @@
       "seats": 5,
       "battery": "58 kWh",
       "price": "~$57,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Born|2023|77 kWh": {
       "engine": "Electric",
@@ -388,7 +443,12 @@
       "seats": 5,
       "battery": "77 kWh",
       "price": "~$65,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.9 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Born|2023|VZ 77 kWh": {
       "engine": "Electric",
@@ -409,7 +469,12 @@
       "seats": 5,
       "battery": "77 kWh",
       "price": "~$70,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Born|2024|58 kWh": {
       "engine": "Electric",
@@ -430,7 +495,12 @@
       "seats": 5,
       "battery": "58 kWh",
       "price": "~$58,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Born|2024|77 kWh": {
       "engine": "Electric",
@@ -451,7 +521,12 @@
       "seats": 5,
       "battery": "77 kWh",
       "price": "~$66,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.9 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Born|2024|VZ 77 kWh": {
       "engine": "Electric",
@@ -472,7 +547,12 @@
       "seats": 5,
       "battery": "77 kWh",
       "price": "~$71,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Born|2025|58 kWh": {
       "engine": "Electric",
@@ -493,7 +573,12 @@
       "seats": 5,
       "battery": "58 kWh",
       "price": "~$60,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Born|2025|77 kWh": {
       "engine": "Electric",
@@ -514,7 +599,12 @@
       "seats": 5,
       "battery": "77 kWh",
       "price": "~$68,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.9 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Born|2025|VZ 77 kWh": {
       "engine": "Electric",
@@ -535,7 +625,12 @@
       "seats": 5,
       "battery": "77 kWh",
       "price": "~$73,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Born|2026|58 kWh": {
       "engine": "Electric",
@@ -556,7 +651,12 @@
       "seats": 5,
       "battery": "58 kWh",
       "price": "~$61,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Born|2026|77 kWh": {
       "engine": "Electric",
@@ -577,7 +677,12 @@
       "seats": 5,
       "battery": "77 kWh",
       "price": "~$69,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.9 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Born|2026|VZ 77 kWh": {
       "engine": "Electric",
@@ -598,7 +703,12 @@
       "seats": 5,
       "battery": "77 kWh",
       "price": "~$74,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Terramar|2024|1.5 e-Hybrid": {
       "engine": "1.5L TSI e-Hybrid",
@@ -610,14 +720,21 @@
       "drivetrain": "FWD",
       "acceleration": 7.5,
       "topSpeed": 210,
-      "fc": null,
-      "fh": null,
+      "fc": 1.6,
+      "fh": 1.2,
       "fx": 1.4,
       "fuelType": "hybrid",
       "weight": 1700,
       "seats": 5,
       "price": "~$58,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 400
     },
     "CUPRA|Terramar|2024|VZ 2.0 4Drive": {
       "engine": "2.0L TSI",
@@ -636,7 +753,12 @@
       "weight": 1665,
       "seats": 5,
       "price": "~$69,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.0 sec",
+      "cargo": 400,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Terramar|2025|1.5 e-Hybrid": {
       "engine": "1.5L TSI e-Hybrid",
@@ -648,14 +770,21 @@
       "drivetrain": "FWD",
       "acceleration": 7.5,
       "topSpeed": 210,
-      "fc": null,
-      "fh": null,
+      "fc": 1.6,
+      "fh": 1.2,
       "fx": 1.4,
       "fuelType": "hybrid",
       "weight": 1700,
       "seats": 5,
       "price": "~$60,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 400
     },
     "CUPRA|Terramar|2025|VZ 2.0 4Drive": {
       "engine": "2.0L TSI",
@@ -674,7 +803,12 @@
       "weight": 1665,
       "seats": 5,
       "price": "~$71,490",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.0 sec",
+      "cargo": 400,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Terramar|2026|1.5 e-Hybrid": {
       "engine": "1.5L TSI e-Hybrid",
@@ -686,14 +820,21 @@
       "drivetrain": "FWD",
       "acceleration": 7.5,
       "topSpeed": 210,
-      "fc": null,
-      "fh": null,
+      "fc": 1.6,
+      "fh": 1.2,
       "fx": 1.4,
       "fuelType": "hybrid",
       "weight": 1700,
       "seats": 5,
       "price": "~$61,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 400
     },
     "CUPRA|Terramar|2026|VZ 2.0 4Drive": {
       "engine": "2.0L TSI",
@@ -712,7 +853,12 @@
       "weight": 1665,
       "seats": 5,
       "price": "~$72,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.0 sec",
+      "cargo": 400,
+      "est": [
+        "cargo"
+      ]
     },
     "Polestar|2|2021|Standard Range": {
       "engine": "Electric Single Motor",
@@ -733,7 +879,8 @@
       "seats": 5,
       "battery": "69 kWh",
       "price": "~$62,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "Polestar|2|2021|Long Range Single Motor": {
       "engine": "Electric Single Motor",
@@ -754,7 +901,8 @@
       "seats": 5,
       "battery": "82 kWh",
       "price": "~$72,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.5 sec"
     },
     "Polestar|2|2021|Long Range AWD": {
       "engine": "Electric Dual Motor",
@@ -775,7 +923,8 @@
       "seats": 5,
       "battery": "82 kWh",
       "price": "~$82,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.8 sec"
     },
     "Polestar|2|2022|Standard Range": {
       "engine": "Electric Single Motor",
@@ -796,7 +945,12 @@
       "seats": 5,
       "battery": "69 kWh",
       "price": "~$64,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     },
     "Polestar|2|2022|Long Range Single Motor": {
       "engine": "Electric Single Motor",
@@ -817,7 +971,12 @@
       "seats": 5,
       "battery": "82 kWh",
       "price": "~$74,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.5 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     },
     "Polestar|2|2022|Long Range AWD": {
       "engine": "Electric Dual Motor",
@@ -838,7 +997,12 @@
       "seats": 5,
       "battery": "82 kWh",
       "price": "~$84,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.8 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     },
     "Polestar|2|2022|BST Edition 270": {
       "engine": "Electric Dual Motor",
@@ -880,7 +1044,12 @@
       "seats": 5,
       "battery": "69 kWh",
       "price": "~$65,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     },
     "Polestar|2|2023|Long Range Single Motor": {
       "engine": "Electric Single Motor",
@@ -901,7 +1070,12 @@
       "seats": 5,
       "battery": "82 kWh",
       "price": "~$75,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.5 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     },
     "Polestar|2|2023|Long Range AWD": {
       "engine": "Electric Dual Motor",
@@ -922,7 +1096,12 @@
       "seats": 5,
       "battery": "82 kWh",
       "price": "~$85,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.8 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     },
     "Polestar|2|2023|BST Edition 270": {
       "engine": "Electric Dual Motor",
@@ -943,7 +1122,12 @@
       "seats": 5,
       "battery": "82 kWh",
       "price": "~$101,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.5 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     },
     "BYD|Atto 3|2022|Standard Range": {
       "engine": "Electric",
@@ -964,7 +1148,12 @@
       "seats": 5,
       "battery": "49.9 kWh",
       "price": "~$44,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 440,
+      "est": [
+        "cargo"
+      ]
     },
     "BYD|Atto 3|2022|Extended Range": {
       "engine": "Electric",
@@ -985,7 +1174,12 @@
       "seats": 5,
       "battery": "60.5 kWh",
       "price": "~$48,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 440,
+      "est": [
+        "cargo"
+      ]
     },
     "BYD|Atto 3|2023|Standard Range": {
       "engine": "Electric",
@@ -1006,7 +1200,12 @@
       "seats": 5,
       "battery": "49.9 kWh",
       "price": "~$45,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 440,
+      "est": [
+        "cargo"
+      ]
     },
     "BYD|Atto 3|2023|Extended Range": {
       "engine": "Electric",
@@ -1027,7 +1226,12 @@
       "seats": 5,
       "battery": "60.5 kWh",
       "price": "~$49,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 440,
+      "est": [
+        "cargo"
+      ]
     },
     "BYD|Seal|2023|RWD Standard Range": {
       "engine": "Electric",
@@ -1048,7 +1252,12 @@
       "seats": 5,
       "battery": "61.4 kWh",
       "price": "~$54,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec",
+      "cargo": 402,
+      "est": [
+        "cargo"
+      ]
     },
     "BYD|Seal|2023|RWD Extended Range": {
       "engine": "Electric",
@@ -1069,7 +1278,12 @@
       "seats": 5,
       "battery": "82.6 kWh",
       "price": "~$61,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec",
+      "cargo": 402,
+      "est": [
+        "cargo"
+      ]
     },
     "BYD|Seal|2023|AWD Performance": {
       "engine": "Electric Dual Motor",
@@ -1090,7 +1304,12 @@
       "seats": 5,
       "battery": "82.6 kWh",
       "price": "~$69,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.0 sec",
+      "cargo": 402,
+      "est": [
+        "cargo"
+      ]
     },
     "BYD|Dolphin|2023|Standard Range": {
       "engine": "Electric",
@@ -1111,7 +1330,12 @@
       "seats": 5,
       "battery": "44.9 kWh",
       "price": "~$38,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~18.1 sec",
+      "cargo": 345,
+      "est": [
+        "cargo"
+      ]
     },
     "BYD|Dolphin|2023|Extended Range": {
       "engine": "Electric",
@@ -1132,7 +1356,12 @@
       "seats": 5,
       "battery": "60.4 kWh",
       "price": "~$43,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.2 sec",
+      "cargo": 345,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G70|2019|2.0T Sport": {
       "engine": "2.0L Turbo",
@@ -1151,7 +1380,12 @@
       "weight": 1575,
       "seats": 5,
       "price": "~$59,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.3 sec",
+      "cargo": 290,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G70|2019|3.3T Sport+": {
       "engine": "3.3L Twin-Turbo V6",
@@ -1170,7 +1404,12 @@
       "weight": 1660,
       "seats": 5,
       "price": "~$79,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.0 sec",
+      "cargo": 290,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G70|2020|2.0T Sport": {
       "engine": "2.0L Turbo",
@@ -1189,7 +1428,12 @@
       "weight": 1575,
       "seats": 5,
       "price": "~$61,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.3 sec",
+      "cargo": 290,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G70|2020|3.3T Sport+": {
       "engine": "3.3L Twin-Turbo V6",
@@ -1208,7 +1452,12 @@
       "weight": 1660,
       "seats": 5,
       "price": "~$81,490",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.0 sec",
+      "cargo": 290,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G70|2021|2.0T Sport": {
       "engine": "2.0L Turbo",
@@ -1227,7 +1476,12 @@
       "weight": 1575,
       "seats": 5,
       "price": "~$62,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.3 sec",
+      "cargo": 290,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G70|2021|3.3T Sport+": {
       "engine": "3.3L Twin-Turbo V6",
@@ -1246,7 +1500,12 @@
       "weight": 1660,
       "seats": 5,
       "price": "~$82,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.0 sec",
+      "cargo": 290,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G70|2022|2.0T Sport": {
       "engine": "2.0L Turbo",
@@ -1265,7 +1524,12 @@
       "weight": 1575,
       "seats": 5,
       "price": "~$64,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.3 sec",
+      "cargo": 290,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G70|2022|3.3T Sport+": {
       "engine": "3.3L Twin-Turbo V6",
@@ -1284,7 +1548,12 @@
       "weight": 1660,
       "seats": 5,
       "price": "~$84,490",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.0 sec",
+      "cargo": 290,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G70|2022|Shooting Brake 2.0T": {
       "engine": "2.0L Turbo",
@@ -1322,7 +1591,8 @@
       "weight": 1575,
       "seats": 5,
       "price": "~$65,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.3 sec"
     },
     "Genesis|G70|2023|3.3T Sport+": {
       "engine": "3.3L Twin-Turbo V6",
@@ -1341,7 +1611,8 @@
       "weight": 1660,
       "seats": 5,
       "price": "~$85,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.0 sec"
     },
     "Genesis|G70|2023|Shooting Brake 2.0T": {
       "engine": "2.0L Turbo",
@@ -1360,7 +1631,8 @@
       "weight": 1575,
       "seats": 5,
       "price": "~$71,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.3 sec"
     },
     "Genesis|G70|2024|2.0T Sport": {
       "engine": "2.0L Turbo",
@@ -1379,7 +1651,8 @@
       "weight": 1575,
       "seats": 5,
       "price": "~$67,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.3 sec"
     },
     "Genesis|G70|2024|3.3T Sport+": {
       "engine": "3.3L Twin-Turbo V6",
@@ -1398,7 +1671,8 @@
       "weight": 1660,
       "seats": 5,
       "price": "~$87,490",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.0 sec"
     },
     "Genesis|G70|2024|Shooting Brake 2.0T": {
       "engine": "2.0L Turbo",
@@ -1417,7 +1691,8 @@
       "weight": 1575,
       "seats": 5,
       "price": "~$72,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.3 sec"
     },
     "Genesis|G80|2017|2.0T": {
       "engine": "2.0L Turbo",
@@ -1436,7 +1711,8 @@
       "weight": 1840,
       "seats": 5,
       "price": "~$65,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.4 sec"
     },
     "Genesis|G80|2017|3.3T": {
       "engine": "3.3L Twin-Turbo V6",
@@ -1455,7 +1731,8 @@
       "weight": 1920,
       "seats": 5,
       "price": "~$89,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.4 sec"
     },
     "Genesis|G80|2018|2.0T": {
       "engine": "2.0L Turbo",
@@ -1474,7 +1751,8 @@
       "weight": 1840,
       "seats": 5,
       "price": "~$67,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.4 sec"
     },
     "Genesis|G80|2018|3.3T": {
       "engine": "3.3L Twin-Turbo V6",
@@ -1493,7 +1771,8 @@
       "weight": 1920,
       "seats": 5,
       "price": "~$91,490",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.4 sec"
     },
     "Genesis|G80|2019|2.0T": {
       "engine": "2.0L Turbo",
@@ -1512,7 +1791,8 @@
       "weight": 1840,
       "seats": 5,
       "price": "~$68,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.4 sec"
     },
     "Genesis|G80|2019|3.3T": {
       "engine": "3.3L Twin-Turbo V6",
@@ -1531,7 +1811,8 @@
       "weight": 1920,
       "seats": 5,
       "price": "~$92,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.4 sec"
     },
     "Genesis|G80|2020|2.0T": {
       "engine": "2.0L Turbo",
@@ -1550,7 +1831,8 @@
       "weight": 1840,
       "seats": 5,
       "price": "~$70,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.4 sec"
     },
     "Genesis|G80|2020|3.3T": {
       "engine": "3.3L Twin-Turbo V6",
@@ -1569,7 +1851,8 @@
       "weight": 1920,
       "seats": 5,
       "price": "~$94,490",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.4 sec"
     },
     "Genesis|G80|2021|2.5T Sport": {
       "engine": "2.5L Turbo",
@@ -1626,7 +1909,8 @@
       "weight": 1840,
       "seats": 5,
       "price": "~$91,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.5 sec"
     },
     "Genesis|G80|2022|3.5T Sport+": {
       "engine": "3.3L Twin-Turbo V6",
@@ -1645,7 +1929,8 @@
       "weight": 1920,
       "seats": 5,
       "price": "~$111,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.4 sec"
     },
     "Genesis|G80|2022|Electrified": {
       "engine": "Electric Dual Motor",
@@ -1666,7 +1951,8 @@
       "seats": 5,
       "battery": "87.2 kWh",
       "price": "~$119,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.2 sec"
     },
     "Genesis|G80|2023|2.5T Sport": {
       "engine": "2.5L Turbo",
@@ -1685,7 +1971,12 @@
       "weight": 1840,
       "seats": 5,
       "price": "~$93,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.5 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G80|2023|3.5T Sport+": {
       "engine": "3.3L Twin-Turbo V6",
@@ -1704,7 +1995,12 @@
       "weight": 1920,
       "seats": 5,
       "price": "~$113,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.4 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G80|2023|Electrified": {
       "engine": "Electric Dual Motor",
@@ -1725,7 +2021,12 @@
       "seats": 5,
       "battery": "87.2 kWh",
       "price": "~$121,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.2 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G80|2024|2.5T Sport": {
       "engine": "2.5L Turbo",
@@ -1744,7 +2045,12 @@
       "weight": 1840,
       "seats": 5,
       "price": "~$95,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.5 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G80|2024|3.5T Sport+": {
       "engine": "3.3L Twin-Turbo V6",
@@ -1763,7 +2069,12 @@
       "weight": 1920,
       "seats": 5,
       "price": "~$115,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.4 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G80|2024|Electrified": {
       "engine": "Electric Dual Motor",
@@ -1784,7 +2095,12 @@
       "seats": 5,
       "battery": "87.2 kWh",
       "price": "~$123,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.2 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G80|2025|2.5T Sport": {
       "engine": "2.5L Turbo",
@@ -1803,7 +2119,12 @@
       "weight": 1840,
       "seats": 5,
       "price": "~$97,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.5 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G80|2025|3.5T Sport+": {
       "engine": "3.3L Twin-Turbo V6",
@@ -1822,7 +2143,12 @@
       "weight": 1920,
       "seats": 5,
       "price": "~$117,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.4 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G80|2025|Electrified": {
       "engine": "Electric Dual Motor",
@@ -1843,7 +2169,12 @@
       "seats": 5,
       "battery": "87.2 kWh",
       "price": "~$125,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.2 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|GV70|2021|2.5T Sport": {
       "engine": "2.5L Turbo",
@@ -1862,7 +2193,12 @@
       "weight": 1890,
       "seats": 5,
       "price": "~$79,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.5 sec",
+      "cargo": 690,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|GV70|2021|3.5T Sport+": {
       "engine": "3.5L Twin-Turbo V6",
@@ -1881,7 +2217,12 @@
       "weight": 1980,
       "seats": 5,
       "price": "~$99,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.3 sec",
+      "cargo": 690,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|GV70|2022|2.5T Sport": {
       "engine": "2.5L Turbo",
@@ -1900,7 +2241,12 @@
       "weight": 1890,
       "seats": 5,
       "price": "~$81,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.5 sec",
+      "cargo": 690,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|GV70|2022|3.5T Sport+": {
       "engine": "3.5L Twin-Turbo V6",
@@ -1919,7 +2265,12 @@
       "weight": 1980,
       "seats": 5,
       "price": "~$101,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.3 sec",
+      "cargo": 690,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|GV70|2023|2.5T Sport": {
       "engine": "2.5L Turbo",
@@ -1938,7 +2289,8 @@
       "weight": 1890,
       "seats": 5,
       "price": "~$83,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.5 sec"
     },
     "Genesis|GV70|2023|3.5T Sport+": {
       "engine": "3.5L Twin-Turbo V6",
@@ -1957,7 +2309,8 @@
       "weight": 1980,
       "seats": 5,
       "price": "~$103,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.3 sec"
     },
     "Genesis|GV70|2023|Electrified": {
       "engine": "Electric Dual Motor",
@@ -1997,7 +2350,8 @@
       "weight": 1890,
       "seats": 5,
       "price": "~$85,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.5 sec"
     },
     "Genesis|GV70|2024|3.5T Sport+": {
       "engine": "3.5L Twin-Turbo V6",
@@ -2016,7 +2370,8 @@
       "weight": 1980,
       "seats": 5,
       "price": "~$105,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.3 sec"
     },
     "Genesis|GV70|2024|Electrified": {
       "engine": "Electric Dual Motor",
@@ -2037,7 +2392,8 @@
       "seats": 5,
       "battery": "77.4 kWh",
       "price": "~$111,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.8 sec"
     },
     "Genesis|GV80|2021|2.5T Sport": {
       "engine": "2.5L Turbo",
@@ -2056,7 +2412,12 @@
       "weight": 2090,
       "seats": 5,
       "price": "~$94,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.2 sec",
+      "cargo": 719,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|GV80|2021|3.5T Sport+": {
       "engine": "3.5L Twin-Turbo V6",
@@ -2075,7 +2436,12 @@
       "weight": 2160,
       "seats": 7,
       "price": "~$119,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.8 sec",
+      "cargo": 719,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|GV80|2022|2.5T Sport": {
       "engine": "2.5L Turbo",
@@ -2094,7 +2460,12 @@
       "weight": 2090,
       "seats": 5,
       "price": "~$96,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.2 sec",
+      "cargo": 719,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|GV80|2022|3.5T Sport+": {
       "engine": "3.5L Twin-Turbo V6",
@@ -2113,7 +2484,12 @@
       "weight": 2160,
       "seats": 7,
       "price": "~$121,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.8 sec",
+      "cargo": 719,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|GV80|2023|2.5T Sport": {
       "engine": "2.5L Turbo",
@@ -2132,7 +2508,12 @@
       "weight": 2090,
       "seats": 5,
       "price": "~$98,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.2 sec",
+      "cargo": 719,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|GV80|2023|3.5T Sport+": {
       "engine": "3.5L Twin-Turbo V6",
@@ -2151,7 +2532,12 @@
       "weight": 2160,
       "seats": 7,
       "price": "~$123,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.8 sec",
+      "cargo": 719,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|GV80|2024|2.5T Sport": {
       "engine": "2.5L Turbo",
@@ -2170,7 +2556,12 @@
       "weight": 2090,
       "seats": 5,
       "price": "~$100,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.2 sec",
+      "cargo": 719,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|GV80|2024|3.5T Sport+": {
       "engine": "3.5L Twin-Turbo V6",
@@ -2189,7 +2580,12 @@
       "weight": 2160,
       "seats": 7,
       "price": "~$125,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.8 sec",
+      "cargo": 719,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|GV80|2025|2.5T Sport": {
       "engine": "2.5L Turbo",
@@ -2208,7 +2604,12 @@
       "weight": 2090,
       "seats": 5,
       "price": "~$102,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.2 sec",
+      "cargo": 719,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|GV80|2025|3.5T Sport+": {
       "engine": "3.5L Twin-Turbo V6",
@@ -2227,7 +2628,12 @@
       "weight": 2160,
       "seats": 7,
       "price": "~$127,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.8 sec",
+      "cargo": 719,
+      "est": [
+        "cargo"
+      ]
     },
     "RAM|1500|2019|Express": {
       "engine": "5.7L V8 HEMI",
@@ -2246,7 +2652,12 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$69,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "RAM|1500|2019|Laramie": {
       "engine": "5.7L V8 HEMI",
@@ -2265,7 +2676,12 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$82,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "RAM|1500|2019|Longhorn": {
       "engine": "5.7L V8 HEMI",
@@ -2284,7 +2700,12 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$95,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "RAM|1500|2019|Limited": {
       "engine": "5.7L V8 HEMI eTorque",
@@ -2303,7 +2724,12 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$109,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "RAM|1500|2020|Express": {
       "engine": "5.7L V8 HEMI",
@@ -2322,7 +2748,12 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$71,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "RAM|1500|2020|Laramie": {
       "engine": "5.7L V8 HEMI",
@@ -2341,7 +2772,12 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$84,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "RAM|1500|2020|Longhorn": {
       "engine": "5.7L V8 HEMI",
@@ -2360,7 +2796,12 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$97,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "RAM|1500|2020|Limited": {
       "engine": "5.7L V8 HEMI eTorque",
@@ -2379,7 +2820,12 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$111,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "RAM|1500|2021|Express": {
       "engine": "5.7L V8 HEMI",
@@ -2398,7 +2844,12 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$73,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "RAM|1500|2021|Laramie": {
       "engine": "5.7L V8 HEMI",
@@ -2417,7 +2868,12 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$86,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "RAM|1500|2021|Longhorn": {
       "engine": "5.7L V8 HEMI",
@@ -2436,7 +2892,12 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$99,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "RAM|1500|2021|Limited": {
       "engine": "5.7L V8 HEMI eTorque",
@@ -2455,7 +2916,12 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$113,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "RAM|1500|2021|TRX": {
       "engine": "6.2L Supercharged V8",
@@ -2493,7 +2959,8 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$75,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec"
     },
     "RAM|1500|2022|Laramie": {
       "engine": "5.7L V8 HEMI",
@@ -2512,7 +2979,8 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$88,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec"
     },
     "RAM|1500|2022|Longhorn": {
       "engine": "5.7L V8 HEMI",
@@ -2531,7 +2999,8 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$101,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec"
     },
     "RAM|1500|2022|Limited": {
       "engine": "5.7L V8 HEMI eTorque",
@@ -2550,7 +3019,8 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$115,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec"
     },
     "RAM|1500|2022|TRX": {
       "engine": "6.2L Supercharged V8",
@@ -2569,7 +3039,8 @@
       "weight": 2740,
       "seats": 5,
       "price": "~$182,990",
-      "aspiration": "Eaton TVS2650 Supercharged"
+      "aspiration": "Eaton TVS2650 Supercharged",
+      "quarterMile": "~12.8 sec"
     },
     "RAM|1500|2023|Express": {
       "engine": "5.7L V8 HEMI",
@@ -2588,7 +3059,8 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$77,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec"
     },
     "RAM|1500|2023|Laramie": {
       "engine": "5.7L V8 HEMI",
@@ -2607,7 +3079,8 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$90,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec"
     },
     "RAM|1500|2023|Longhorn": {
       "engine": "5.7L V8 HEMI",
@@ -2626,7 +3099,8 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$103,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec"
     },
     "RAM|1500|2023|Limited": {
       "engine": "5.7L V8 HEMI eTorque",
@@ -2645,7 +3119,8 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$117,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec"
     },
     "RAM|1500|2023|TRX": {
       "engine": "6.2L Supercharged V8",
@@ -2664,7 +3139,8 @@
       "weight": 2740,
       "seats": 5,
       "price": "~$185,990",
-      "aspiration": "Eaton TVS2650 Supercharged"
+      "aspiration": "Eaton TVS2650 Supercharged",
+      "quarterMile": "~12.8 sec"
     },
     "RAM|1500|2024|Express": {
       "engine": "5.7L V8 HEMI",
@@ -2683,7 +3159,8 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$79,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec"
     },
     "RAM|1500|2024|Laramie": {
       "engine": "5.7L V8 HEMI",
@@ -2702,7 +3179,8 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$92,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec"
     },
     "RAM|1500|2024|Longhorn": {
       "engine": "5.7L V8 HEMI",
@@ -2721,7 +3199,8 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$105,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec"
     },
     "RAM|1500|2024|Limited": {
       "engine": "5.7L V8 HEMI eTorque",
@@ -2740,7 +3219,8 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$119,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec"
     },
     "RAM|1500|2024|TRX": {
       "engine": "6.2L Supercharged V8",
@@ -2759,7 +3239,8 @@
       "weight": 2740,
       "seats": 5,
       "price": "~$188,990",
-      "aspiration": "Eaton TVS2650 Supercharged"
+      "aspiration": "Eaton TVS2650 Supercharged",
+      "quarterMile": "~12.8 sec"
     },
     "RAM|1500|2025|Express": {
       "engine": "5.7L V8 HEMI",
@@ -2778,7 +3259,8 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$81,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec"
     },
     "RAM|1500|2025|Laramie": {
       "engine": "5.7L V8 HEMI",
@@ -2797,7 +3279,8 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$94,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec"
     },
     "RAM|1500|2025|Longhorn": {
       "engine": "5.7L V8 HEMI",
@@ -2816,7 +3299,8 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$107,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec"
     },
     "RAM|1500|2025|Limited": {
       "engine": "5.7L V8 HEMI eTorque",
@@ -2835,7 +3319,8 @@
       "weight": 2267,
       "seats": 5,
       "price": "~$121,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec"
     },
     "RAM|1500|2025|TRX": {
       "engine": "6.2L Supercharged V8",
@@ -2854,7 +3339,8 @@
       "weight": 2740,
       "seats": 5,
       "price": "~$191,990",
-      "aspiration": "Eaton TVS2650 Supercharged"
+      "aspiration": "Eaton TVS2650 Supercharged",
+      "quarterMile": "~12.8 sec"
     },
     "RAM|2500|2020|Laramie": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -2873,7 +3359,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$119,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "RAM|2500|2020|Longhorn": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -2892,7 +3379,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$139,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "RAM|2500|2020|Limited": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -2911,7 +3399,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$155,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "RAM|2500|2021|Laramie": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -2930,7 +3419,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$122,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "RAM|2500|2021|Longhorn": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -2949,7 +3439,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$142,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "RAM|2500|2021|Limited": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -2968,7 +3459,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$158,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "RAM|2500|2022|Laramie": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -2987,7 +3479,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$125,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "RAM|2500|2022|Longhorn": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -3006,7 +3499,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$145,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "RAM|2500|2022|Limited": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -3025,7 +3519,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$161,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "RAM|2500|2023|Laramie": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -3044,7 +3539,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$128,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "RAM|2500|2023|Longhorn": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -3063,7 +3559,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$148,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "RAM|2500|2023|Limited": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -3082,7 +3579,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$164,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "RAM|2500|2024|Laramie": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -3101,7 +3599,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$131,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "RAM|2500|2024|Longhorn": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -3120,7 +3619,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$151,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "RAM|2500|2024|Limited": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -3139,7 +3639,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$167,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "RAM|2500|2025|Laramie": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -3158,7 +3659,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$134,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "RAM|2500|2025|Longhorn": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -3177,7 +3679,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$154,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "RAM|2500|2025|Limited": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -3196,7 +3699,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$170,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "RAM|2500|2026|Laramie": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -3215,7 +3719,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$137,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "RAM|2500|2026|Longhorn": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -3234,7 +3739,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$157,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "RAM|2500|2026|Limited": {
       "engine": "6.7L Cummins Turbo Diesel",
@@ -3253,7 +3759,8 @@
       "weight": 3130,
       "seats": 5,
       "price": "~$173,990",
-      "aspiration": "Holset VGT Diesel Turbo"
+      "aspiration": "Holset VGT Diesel Turbo",
+      "quarterMile": "~16.5 sec"
     },
     "Renault|Megane|2017|GT": {
       "engine": "1.6L Turbo",
@@ -3272,7 +3779,8 @@
       "weight": 1400,
       "seats": 5,
       "price": "~$37,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.2 sec"
     },
     "Renault|Megane|2018|GT": {
       "engine": "1.6L Turbo",
@@ -3291,7 +3799,8 @@
       "weight": 1400,
       "seats": 5,
       "price": "~$38,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.2 sec"
     },
     "Renault|Megane|2018|RS 280": {
       "engine": "1.8L Turbo",
@@ -3310,7 +3819,8 @@
       "weight": 1450,
       "seats": 5,
       "price": "~$48,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.1 sec"
     },
     "Renault|Megane|2019|GT": {
       "engine": "1.6L Turbo",
@@ -3329,7 +3839,8 @@
       "weight": 1400,
       "seats": 5,
       "price": "~$39,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.2 sec"
     },
     "Renault|Megane|2019|RS 280": {
       "engine": "1.8L Turbo",
@@ -3348,7 +3859,8 @@
       "weight": 1450,
       "seats": 5,
       "price": "~$49,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.1 sec"
     },
     "Renault|Megane|2019|RS 300 Trophy": {
       "engine": "1.8L Turbo",
@@ -3367,7 +3879,8 @@
       "weight": 1450,
       "seats": 5,
       "price": "~$57,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.7 sec"
     },
     "Renault|Megane|2020|GT": {
       "engine": "1.6L Turbo",
@@ -3386,7 +3899,8 @@
       "weight": 1400,
       "seats": 5,
       "price": "~$40,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.2 sec"
     },
     "Renault|Megane|2020|RS 280": {
       "engine": "1.8L Turbo",
@@ -3405,7 +3919,8 @@
       "weight": 1450,
       "seats": 5,
       "price": "~$50,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.1 sec"
     },
     "Renault|Megane|2020|RS 300 Trophy": {
       "engine": "1.8L Turbo",
@@ -3424,7 +3939,8 @@
       "weight": 1450,
       "seats": 5,
       "price": "~$58,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.7 sec"
     },
     "Renault|Megane|2021|GT": {
       "engine": "1.6L Turbo",
@@ -3443,7 +3959,8 @@
       "weight": 1400,
       "seats": 5,
       "price": "~$41,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.2 sec"
     },
     "Renault|Megane|2021|RS 280": {
       "engine": "1.8L Turbo",
@@ -3462,7 +3979,8 @@
       "weight": 1450,
       "seats": 5,
       "price": "~$51,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.1 sec"
     },
     "Renault|Megane|2021|RS 300 Trophy": {
       "engine": "1.8L Turbo",
@@ -3481,7 +3999,8 @@
       "weight": 1450,
       "seats": 5,
       "price": "~$59,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.7 sec"
     },
     "Renault|Koleos|2017|Zen": {
       "engine": "2.0L Turbo Diesel",
@@ -3500,7 +4019,8 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$38,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|Koleos|2017|Intens": {
       "engine": "2.0L Turbo Diesel",
@@ -3519,7 +4039,8 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$45,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|Koleos|2017|Signature": {
       "engine": "2.0L Turbo Diesel",
@@ -3538,7 +4059,8 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$52,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|Koleos|2018|Zen": {
       "engine": "2.0L Turbo Diesel",
@@ -3557,7 +4079,8 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$39,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|Koleos|2018|Intens": {
       "engine": "2.0L Turbo Diesel",
@@ -3576,7 +4099,8 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$46,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|Koleos|2018|Signature": {
       "engine": "2.0L Turbo Diesel",
@@ -3595,7 +4119,8 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$53,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|Koleos|2019|Zen": {
       "engine": "2.0L Turbo Diesel",
@@ -3614,7 +4139,8 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$40,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|Koleos|2019|Intens": {
       "engine": "2.0L Turbo Diesel",
@@ -3633,7 +4159,8 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$47,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|Koleos|2019|Signature": {
       "engine": "2.0L Turbo Diesel",
@@ -3652,7 +4179,8 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$54,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|Koleos|2020|Zen": {
       "engine": "2.0L Turbo Diesel",
@@ -3671,7 +4199,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$41,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 458,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Koleos|2020|Intens": {
       "engine": "2.0L Turbo Diesel",
@@ -3690,7 +4223,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$48,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 458,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Koleos|2020|Signature": {
       "engine": "2.0L Turbo Diesel",
@@ -3709,7 +4247,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$55,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 458,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Koleos|2021|Zen": {
       "engine": "2.0L Turbo Diesel",
@@ -3728,7 +4271,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$42,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 458,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Koleos|2021|Intens": {
       "engine": "2.0L Turbo Diesel",
@@ -3747,7 +4295,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$49,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 458,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Koleos|2021|Signature": {
       "engine": "2.0L Turbo Diesel",
@@ -3766,7 +4319,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$56,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 458,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Koleos|2022|Zen": {
       "engine": "2.0L Turbo Diesel",
@@ -3785,7 +4343,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$43,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 458,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Koleos|2022|Intens": {
       "engine": "2.0L Turbo Diesel",
@@ -3804,7 +4367,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$50,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 458,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Koleos|2022|Signature": {
       "engine": "2.0L Turbo Diesel",
@@ -3823,7 +4391,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$57,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 458,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Koleos|2023|Zen": {
       "engine": "2.0L Turbo Diesel",
@@ -3842,7 +4415,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$44,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 458,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Koleos|2023|Intens": {
       "engine": "2.0L Turbo Diesel",
@@ -3861,7 +4439,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$51,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 458,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Koleos|2023|Signature": {
       "engine": "2.0L Turbo Diesel",
@@ -3880,7 +4463,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$58,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 458,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Koleos|2024|Zen": {
       "engine": "2.0L Turbo Diesel",
@@ -3899,7 +4487,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$45,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 458,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Koleos|2024|Intens": {
       "engine": "2.0L Turbo Diesel",
@@ -3918,7 +4511,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$52,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 458,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Koleos|2024|Signature": {
       "engine": "2.0L Turbo Diesel",
@@ -3937,7 +4535,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$59,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 458,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Clio|2013|RS 200": {
       "engine": "1.6L Turbo",
@@ -3956,7 +4559,8 @@
       "weight": 1228,
       "seats": 5,
       "price": "~$32,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec"
     },
     "Renault|Clio|2013|RS 220 Trophy": {
       "engine": "1.6L Turbo",
@@ -3975,7 +4579,8 @@
       "weight": 1228,
       "seats": 5,
       "price": "~$38,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.8 sec"
     },
     "Renault|Clio|2014|RS 200": {
       "engine": "1.6L Turbo",
@@ -3994,7 +4599,8 @@
       "weight": 1228,
       "seats": 5,
       "price": "~$33,790",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec"
     },
     "Renault|Clio|2014|RS 220 Trophy": {
       "engine": "1.6L Turbo",
@@ -4013,7 +4619,8 @@
       "weight": 1228,
       "seats": 5,
       "price": "~$39,790",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.8 sec"
     },
     "Renault|Clio|2015|RS 200": {
       "engine": "1.6L Turbo",
@@ -4032,7 +4639,8 @@
       "weight": 1228,
       "seats": 5,
       "price": "~$34,590",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec"
     },
     "Renault|Clio|2015|RS 220 Trophy": {
       "engine": "1.6L Turbo",
@@ -4051,7 +4659,8 @@
       "weight": 1228,
       "seats": 5,
       "price": "~$40,590",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.8 sec"
     },
     "Renault|Clio|2016|RS 200": {
       "engine": "1.6L Turbo",
@@ -4070,7 +4679,8 @@
       "weight": 1228,
       "seats": 5,
       "price": "~$35,390",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec"
     },
     "Renault|Clio|2016|RS 220 Trophy": {
       "engine": "1.6L Turbo",
@@ -4089,7 +4699,8 @@
       "weight": 1228,
       "seats": 5,
       "price": "~$41,390",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.8 sec"
     },
     "Renault|Clio|2017|RS 200": {
       "engine": "1.6L Turbo",
@@ -4108,7 +4719,8 @@
       "weight": 1228,
       "seats": 5,
       "price": "~$36,190",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec"
     },
     "Renault|Clio|2017|RS 220 Trophy": {
       "engine": "1.6L Turbo",
@@ -4127,7 +4739,8 @@
       "weight": 1228,
       "seats": 5,
       "price": "~$42,190",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.8 sec"
     },
     "Renault|Clio|2018|RS 200": {
       "engine": "1.6L Turbo",
@@ -4146,7 +4759,12 @@
       "weight": 1228,
       "seats": 5,
       "price": "~$36,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec",
+      "cargo": 391,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Clio|2018|RS 220 Trophy": {
       "engine": "1.6L Turbo",
@@ -4165,7 +4783,12 @@
       "weight": 1228,
       "seats": 5,
       "price": "~$42,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.8 sec",
+      "cargo": 391,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Clio|2020|RS Line": {
       "engine": "1.0L Turbo",
@@ -4184,7 +4807,12 @@
       "weight": 1270,
       "seats": 5,
       "price": "~$28,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.5 sec",
+      "cargo": 391,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Clio|2021|RS Line": {
       "engine": "1.0L Turbo",
@@ -4203,7 +4831,12 @@
       "weight": 1270,
       "seats": 5,
       "price": "~$29,790",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.5 sec",
+      "cargo": 391,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Clio|2022|RS Line": {
       "engine": "1.0L Turbo",
@@ -4222,7 +4855,12 @@
       "weight": 1270,
       "seats": 5,
       "price": "~$30,590",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.5 sec",
+      "cargo": 391,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Clio|2023|RS Line": {
       "engine": "1.0L Turbo",
@@ -4241,7 +4879,12 @@
       "weight": 1270,
       "seats": 5,
       "price": "~$31,390",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.5 sec",
+      "cargo": 391,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Clio|2024|RS Line": {
       "engine": "1.0L Turbo",
@@ -4260,7 +4903,12 @@
       "weight": 1270,
       "seats": 5,
       "price": "~$32,190",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.5 sec",
+      "cargo": 391,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Zoe|2020|Life": {
       "engine": "Electric",
@@ -4281,7 +4929,8 @@
       "seats": 5,
       "battery": "52 kWh",
       "price": "~$48,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|Zoe|2020|Intens": {
       "engine": "Electric",
@@ -4302,7 +4951,8 @@
       "seats": 5,
       "battery": "52 kWh",
       "price": "~$54,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|Zoe|2021|Life": {
       "engine": "Electric",
@@ -4323,7 +4973,8 @@
       "seats": 5,
       "battery": "52 kWh",
       "price": "~$49,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|Zoe|2021|Intens": {
       "engine": "Electric",
@@ -4344,7 +4995,8 @@
       "seats": 5,
       "battery": "52 kWh",
       "price": "~$55,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|Zoe|2022|Life": {
       "engine": "Electric",
@@ -4365,7 +5017,8 @@
       "seats": 5,
       "battery": "52 kWh",
       "price": "~$50,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|Zoe|2022|Intens": {
       "engine": "Electric",
@@ -4386,7 +5039,8 @@
       "seats": 5,
       "battery": "52 kWh",
       "price": "~$56,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|Zoe|2023|Life": {
       "engine": "Electric",
@@ -4407,7 +5061,8 @@
       "seats": 5,
       "battery": "52 kWh",
       "price": "~$51,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|Zoe|2023|Intens": {
       "engine": "Electric",
@@ -4428,7 +5083,8 @@
       "seats": 5,
       "battery": "52 kWh",
       "price": "~$57,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|Zoe|2024|Life": {
       "engine": "Electric",
@@ -4449,7 +5105,8 @@
       "seats": 5,
       "battery": "52 kWh",
       "price": "~$52,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.2 sec"
     },
     "Renault|Zoe|2024|Intens": {
       "engine": "Electric",
@@ -4470,7 +5127,8 @@
       "seats": 5,
       "battery": "52 kWh",
       "price": "~$58,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.2 sec"
     }
   }
 }

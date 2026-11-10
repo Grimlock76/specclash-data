@@ -5,8 +5,8 @@
       "seats": 5,
       "cargo": 375,
       "fuelTank": 47,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11.5,
       "cylinders": 4,
       "engine": "1.6L I4 Petrol",
       "displacement": 1586,
@@ -19,15 +19,19 @@
       "fh": 5.1,
       "fx": 5.8,
       "weight": 1165,
-      "price": null
+      "price": null,
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Vitara|2023|Vitara Auto": {
       "fuelType": "petrol",
       "seats": 5,
       "cargo": 375,
       "fuelTank": 47,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11.6,
       "cylinders": 4,
       "engine": "1.6L I4 Petrol",
       "displacement": 1586,
@@ -40,15 +44,19 @@
       "fh": 5.2,
       "fx": 6.2,
       "weight": 1180,
-      "price": null
+      "price": null,
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Vitara|2023|Shadow": {
       "fuelType": "petrol",
       "seats": 5,
       "cargo": 375,
       "fuelTank": 47,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11.6,
       "cylinders": 4,
       "engine": "1.6L I4 Petrol",
       "displacement": 1586,
@@ -61,15 +69,19 @@
       "fh": 5.2,
       "fx": 6.2,
       "weight": 1180,
-      "price": null
+      "price": null,
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Vitara|2023|Turbo": {
       "fuelType": "petrol",
       "seats": 5,
       "cargo": 375,
       "fuelTank": 47,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 9.6,
       "cylinders": 4,
       "engine": "1.4L I4 Turbo Petrol",
       "displacement": 1373,
@@ -82,15 +94,19 @@
       "fh": 4.9,
       "fx": 5.9,
       "weight": 1185,
-      "price": null
+      "price": null,
+      "quarterMile": "~17.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Vitara|2023|Turbo ALLGRIP": {
       "fuelType": "petrol",
       "seats": 5,
       "cargo": 375,
       "fuelTank": 47,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 9.9,
       "cylinders": 4,
       "engine": "1.4L I4 Turbo Petrol",
       "displacement": 1373,
@@ -103,15 +119,19 @@
       "fh": 5.2,
       "fx": 6.2,
       "weight": 1260,
-      "price": null
+      "price": null,
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Vitara|2023|Turbo Shadow": {
       "fuelType": "petrol",
       "seats": 5,
       "cargo": 375,
       "fuelTank": 47,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 9.6,
       "cylinders": 4,
       "engine": "1.4L I4 Turbo Petrol",
       "displacement": 1373,
@@ -124,15 +144,19 @@
       "fh": 4.9,
       "fx": 5.9,
       "weight": 1185,
-      "price": null
+      "price": null,
+      "quarterMile": "~17.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Vitara|2024|Vitara Manual": {
       "fuelType": "petrol",
       "seats": 5,
       "cargo": 375,
       "fuelTank": 47,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 10.3,
       "cylinders": 4,
       "engine": "1.6L I4 Petrol",
       "displacement": 1586,
@@ -145,15 +169,19 @@
       "fh": 5.1,
       "fx": 5.8,
       "weight": 1165,
-      "price": "$29,990"
+      "price": "$29,990",
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Vitara|2024|Vitara Auto": {
       "fuelType": "petrol",
       "seats": 5,
       "cargo": 375,
       "fuelTank": 47,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 10.4,
       "cylinders": 4,
       "engine": "1.6L I4 Petrol",
       "displacement": 1586,
@@ -166,15 +194,19 @@
       "fh": 5.2,
       "fx": 6.2,
       "weight": 1180,
-      "price": "$31,990"
+      "price": "$31,990",
+      "quarterMile": "~17.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Vitara|2024|Shadow": {
       "fuelType": "petrol",
       "seats": 5,
       "cargo": 375,
       "fuelTank": 47,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 10.4,
       "cylinders": 4,
       "engine": "1.6L I4 Petrol",
       "displacement": 1586,
@@ -187,15 +219,19 @@
       "fh": 5.2,
       "fx": 6.2,
       "weight": 1180,
-      "price": "$35,990"
+      "price": "$35,990",
+      "quarterMile": "~17.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Vitara|2024|Turbo": {
       "fuelType": "petrol",
       "seats": 5,
       "cargo": 375,
       "fuelTank": 47,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 8.5,
       "cylinders": 4,
       "engine": "1.4L I4 Turbo Petrol",
       "displacement": 1373,
@@ -208,15 +244,19 @@
       "fh": 4.9,
       "fx": 5.9,
       "weight": 1185,
-      "price": "$36,490"
+      "price": "$36,490",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Vitara|2024|Turbo ALLGRIP": {
       "fuelType": "petrol",
       "seats": 5,
       "cargo": 375,
       "fuelTank": 47,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 8.8,
       "cylinders": 4,
       "engine": "1.4L I4 Turbo Petrol",
       "displacement": 1373,
@@ -229,15 +269,19 @@
       "fh": 5.2,
       "fx": 6.2,
       "weight": 1260,
-      "price": "$40,490"
+      "price": "$40,490",
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Vitara|2024|Turbo Shadow": {
       "fuelType": "petrol",
       "seats": 5,
       "cargo": 375,
       "fuelTank": 47,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 8.5,
       "cylinders": 4,
       "engine": "1.4L I4 Turbo Petrol",
       "displacement": 1373,
@@ -250,7 +294,11 @@
       "fh": 4.9,
       "fx": 5.9,
       "weight": 1185,
-      "price": "$40,990"
+      "price": "$40,990",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

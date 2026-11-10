@@ -17,7 +17,12 @@
       "acceleration": 11,
       "topSpeed": 185,
       "price": "~$37,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec",
+      "cargo": 340,
+      "est": [
+        "cargo"
+      ]
     },
     "Subaru|XV|2023|2.0i-S": {
       "engine": "2.0L H4 Boxer",
@@ -36,7 +41,12 @@
       "acceleration": 11,
       "topSpeed": 185,
       "price": "~$41,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.2 sec",
+      "cargo": 340,
+      "est": [
+        "cargo"
+      ]
     },
     "Volvo|S60|2023|B4": {
       "engine": "2.0L I4 Turbo MHEV",
@@ -55,7 +65,12 @@
       "acceleration": 7.6,
       "topSpeed": 225,
       "price": "~$67,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.7 sec",
+      "cargo": 442,
+      "est": [
+        "cargo"
+      ]
     },
     "Volvo|S60|2023|B5": {
       "engine": "2.0L I4 Twin-Turbo MHEV",
@@ -74,7 +89,12 @@
       "acceleration": 5.8,
       "topSpeed": 250,
       "price": "~$79,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~14.1 sec",
+      "cargo": 442,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G90|2023|3.5T": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -93,7 +113,12 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$199,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.2 sec",
+      "cargo": 449,
+      "est": [
+        "cargo"
+      ]
     },
     "Genesis|G90|2023|3.5T e-AWD": {
       "engine": "3.5L V6 Twin-Turbo + Electric",
@@ -112,7 +137,12 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "price": "~$229,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.0 sec",
+      "cargo": 449,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Born|2023|V1": {
       "engine": "Single Motor Electric",
@@ -131,7 +161,12 @@
       "acceleration": 7.3,
       "topSpeed": 160,
       "price": "~$50,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "CUPRA|Born|2023|VZ": {
       "engine": "Single Motor Electric",
@@ -150,7 +185,12 @@
       "acceleration": 6.6,
       "topSpeed": 160,
       "price": "~$62,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.9 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|308|2023|e-308": {
       "engine": "Single Motor Electric",
@@ -169,7 +209,12 @@
       "acceleration": 10.2,
       "topSpeed": 150,
       "price": "~$63,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.7 sec",
+      "cargo": 420,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|308|2023|e-308 SW": {
       "engine": "Single Motor Electric",
@@ -188,7 +233,12 @@
       "acceleration": 10.2,
       "topSpeed": 150,
       "price": "~$69,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.7 sec",
+      "cargo": 420,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Mustang|2023|Dark Horse": {
       "engine": "5.0L Coyote V8 NA",
@@ -207,7 +257,12 @@
       "acceleration": 4.3,
       "topSpeed": 250,
       "price": "~$109,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.6 sec",
+      "cargo": 408,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|HiLux|2023|GR Sport": {
       "engine": "2.8L I4 Turbo Diesel",
@@ -226,7 +281,8 @@
       "acceleration": 9,
       "topSpeed": 175,
       "price": "~$74,490",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~16.9 sec"
     },
     "Toyota|GR Yaris|2023|Rallye": {
       "engine": "1.6L I3 Turbo G16E-GTS",
@@ -245,7 +301,8 @@
       "acceleration": 5.5,
       "topSpeed": 230,
       "price": "~$57,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.8 sec"
     },
     "Honda|Civic|2023|Type R FL5": {
       "engine": "2.0L I4 VTEC Turbo",
@@ -264,7 +321,8 @@
       "acceleration": 5.4,
       "topSpeed": 275,
       "price": "~$69,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.7 sec"
     },
     "Honda|Accord|2023|e:HEV Touring": {
       "engine": "2.0L I4 i-MMD Hybrid",
@@ -283,7 +341,12 @@
       "acceleration": 7.8,
       "topSpeed": 200,
       "price": "~$62,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.9 sec",
+      "cargo": 519,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|M3|2023|CS": {
       "engine": "3.0L I6 Twin-Turbo M TwinPower",
@@ -302,7 +365,8 @@
       "acceleration": 3.4,
       "topSpeed": 302,
       "price": "~$249,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.5 sec"
     },
     "Volkswagen|ID.3|2023|GTX": {
       "engine": "Dual Motor Electric",
@@ -321,7 +385,12 @@
       "acceleration": 5.7,
       "topSpeed": 180,
       "price": "~$74,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.0 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LS|2023|LS 500h": {
       "engine": "3.5L V6 Multi Stage Hybrid",
@@ -340,7 +409,12 @@
       "acceleration": 5.3,
       "topSpeed": 250,
       "price": "~$250,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.6 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

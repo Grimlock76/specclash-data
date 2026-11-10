@@ -9,8 +9,8 @@
       "power": 221,
       "torque": 400,
       "drivetrain": "AWD",
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 230,
+      "cargo": 217,
       "seats": 5,
       "fuelTank": 50,
       "transmission": "6-speed manual",
@@ -20,7 +20,12 @@
       "acceleration": 5.3,
       "weight": 1490,
       "price": "$67,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.6 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Toyota|GR Corolla|2024|GTS Auto": {
       "engine": "1.6L I3 Turbo Petrol (G16E-GTS)",
@@ -31,18 +36,22 @@
       "power": 221,
       "torque": 400,
       "drivetrain": "AWD",
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 230,
+      "cargo": 217,
       "seats": 5,
       "fuelTank": 50,
       "transmission": "8-speed automatic",
       "fc": 13.7,
       "fh": 7.1,
       "fx": 9.5,
-      "acceleration": null,
+      "acceleration": 5.4,
       "weight": 1510,
       "price": "$70,490",
-      "accelClaimed": false
+      "quarterMile": "~13.7 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Toyota|GR Corolla|2026|GTS Manual": {
       "engine": "1.6L I3 Turbo Petrol (G16E-GTS)",
@@ -53,7 +62,7 @@
       "power": 221,
       "torque": 400,
       "drivetrain": "AWD",
-      "topSpeed": null,
+      "topSpeed": 230,
       "cargo": null,
       "seats": 5,
       "fuelTank": 50,
@@ -64,7 +73,11 @@
       "acceleration": 5.3,
       "weight": 1490,
       "price": "$67,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|GR Corolla|2026|GTS Auto": {
       "engine": "1.6L I3 Turbo Petrol (G16E-GTS)",
@@ -75,7 +88,7 @@
       "power": 221,
       "torque": 400,
       "drivetrain": "AWD",
-      "topSpeed": null,
+      "topSpeed": 230,
       "cargo": null,
       "seats": 5,
       "fuelTank": 50,
@@ -83,10 +96,13 @@
       "fc": 13.7,
       "fh": 7.1,
       "fx": 9.5,
-      "acceleration": null,
+      "acceleration": 5.4,
       "weight": 1510,
       "price": "$70,490",
-      "accelClaimed": false
+      "quarterMile": "~13.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

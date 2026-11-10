@@ -49,12 +49,16 @@ async function fetchSuppFallback(n) {
   const res = await fetch(busted, { cache: 'no-store' })
   if (!res.ok) throw new Error(`supplement${n} fetch ${res.status}`)
   const data = await res.json()
+  suppSpecs.set(n, data.specs)
   Object.assign(cache, data.specs)
 }
 // Cache the in-flight/settled import promise per supplement so concurrent
 // callers (preloadMake on select + primeCache on LOAD) await the SAME import
 // rather than the second caller returning early before the chunk has landed.
 const suppPromises = new Map()
+// Loaded specs per supplement, kept so primeCache can re-apply a make's
+// supplements in numeric order once they've all landed.
+const suppSpecs = new Map()
 
 // supplements needed per make (supplements 1-9 / holden / ford are in the core above)
 const MAKE_SUPPS = makeSupps
@@ -64,7 +68,7 @@ function ensureSupp(n) {
   const loader = SUPP_LOADERS[`./supplement${n}.json`]
   if (!loader) return Promise.resolve()
   const pr = loader()
-    .then(mod => { Object.assign(cache, mod.default.specs) })
+    .then(mod => { suppSpecs.set(n, mod.default.specs); Object.assign(cache, mod.default.specs) })
     .catch(() => fetchSuppFallback(n))
   // A failed load (flaky network, stale SW referencing a purged chunk) must
   // not be memoized, or the make stays dead for the whole session — drop it so
@@ -89,6 +93,14 @@ async function primeCache(make) {
   const nums = suppsFor(make)
   if (!nums) return
   await Promise.all(nums.map(ensureSupp))
+  // Chunks land in network order, which is random. Where two supplements define
+  // the same car, the higher-numbered (newer) one must win every time — so
+  // re-apply this make's supplements in ascending order before any lookup.
+  // (scripts/spec-gaps.cjs and estimate-gaps.cjs assume exactly this order.)
+  for (const n of nums.slice().sort((a, b) => a - b)) {
+    const specs = suppSpecs.get(n)
+    if (specs) Object.assign(cache, specs)
+  }
 }
 
 // Models in new-format supplements that are RWD but don't advertise it in the engine string
@@ -121,28 +133,31 @@ function normalizeSpec(spec, make = '', model = '', trim = '') {
     const rlist = KNOWN_RWD[make] || []
     if (rlist.some(m => modelLow === m)) dr = 'RWD'
   }
-  const fmtL = v => (v === null || v === undefined) ? null : v + 'L'
+  // Fields listed in spec.est are best-guess estimates (scripts/estimate-gaps.cjs),
+  // not sourced figures — they show with a leading "~" like every other estimate.
+  const est = f => Array.isArray(spec.est) && spec.est.includes(f) ? '~' : ''
+  const fmtL = (v, f) => (v === null || v === undefined) ? null : est(f) + v + 'L'
   return {
     en: spec.engine || '—',
     di: isEV ? (spec.battery || '—') : disp,
     cy: isEV ? 'Electric' : (spec.cylinders ? String(spec.cylinders) : '—'),
     aspiration: isEV ? 'Electric' : (spec.aspiration || '—'),
     hp: spec.power ? spec.power + ' kW / ' + Math.round(spec.power * 1.34102) + ' hp' : '—',
-    tq: spec.torque ? spec.torque + ' Nm' : '—',
+    tq: spec.torque ? est('torque') + spec.torque + ' Nm' : '—',
     tx: spec.transmission || '—',
     dr,
     // Claimed (manufacturer, via Carsales/CarsGuide) figures show plain; anything
     // else is an estimate and keeps the "~".
     z1: spec.acceleration ? `${spec.accelClaimed ? '' : '~'}${spec.acceleration} sec` : '—',
     qm: spec.quarterMile || '—',
-    ts: spec.topSpeed ? spec.topSpeed + ' km/h' : '—',
-    fc: isEV ? (spec.range ? spec.range + ' km (WLTP)' : '—') : fmtL(spec.fc),
-    fh: fmtL(spec.fh),
-    fx: fmtL(spec.fx),
+    ts: spec.topSpeed ? est('topSpeed') + spec.topSpeed + ' km/h' : '—',
+    fc: isEV ? (spec.range ? spec.range + ' km (WLTP)' : '—') : fmtL(spec.fc, 'fc'),
+    fh: fmtL(spec.fh, 'fh'),
+    fx: fmtL(spec.fx, 'fx'),
     ft: spec.fuelType ? spec.fuelType.charAt(0).toUpperCase() + spec.fuelType.slice(1) : '—',
-    wt: spec.weight ? spec.weight + ' kg' : '—',
+    wt: spec.weight ? est('weight') + spec.weight + ' kg' : '—',
     se: spec.seats ? String(spec.seats) : '—',
-    ca: spec.cargo ? spec.cargo + ' L' : '—',
+    ca: spec.cargo ? est('cargo') + spec.cargo + ' L' : '—',
     pr: spec.price || '—',
     // Optional capability fields (only some trims have them; rows hide when nobody does)
     tw: spec.towing ? spec.towing.toLocaleString('en-AU') + ' kg' : undefined,

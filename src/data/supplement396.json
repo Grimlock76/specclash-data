@@ -10,16 +10,22 @@
       "seats": 4,
       "fuelTank": 50,
       "cargo": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 230,
+      "acceleration": 5.6,
       "power": 200,
       "torque": 370,
       "transmission": "6-speed manual",
-      "fc": null,
-      "fh": null,
+      "fc": 9.5,
+      "fh": 5.3,
       "fx": 7.6,
       "weight": 1320,
-      "price": "$51,390"
+      "price": "$51,390",
+      "quarterMile": "~13.9 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|GR Yaris|2024|Rallye": {
       "engine": "1.6L I3 Turbo Petrol (G16E-GTS)",
@@ -31,16 +37,22 @@
       "seats": 4,
       "fuelTank": 50,
       "cargo": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 230,
+      "acceleration": 5.6,
       "power": 200,
       "torque": 370,
       "transmission": "6-speed manual",
-      "fc": null,
-      "fh": null,
+      "fc": 9.5,
+      "fh": 5.3,
       "fx": 7.6,
       "weight": 1320,
-      "price": "$56,390"
+      "price": "$56,390",
+      "quarterMile": "~13.9 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|GR Yaris|2024|GR GT Manual": {
       "engine": "1.6L I3 Turbo Petrol (G16E-GTS)",
@@ -52,8 +64,8 @@
       "seats": 4,
       "fuelTank": 50,
       "cargo": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 240,
+      "acceleration": 5,
       "power": 221,
       "torque": 400,
       "transmission": "6-speed manual",
@@ -61,7 +73,11 @@
       "fh": 6.7,
       "fx": 8.2,
       "weight": 1280,
-      "price": "$55,490"
+      "price": "$55,490",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|GR Yaris|2024|GR GTS Manual": {
       "engine": "1.6L I3 Turbo Petrol (G16E-GTS)",
@@ -73,8 +89,8 @@
       "seats": 4,
       "fuelTank": 50,
       "cargo": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 240,
+      "acceleration": 5,
       "power": 221,
       "torque": 400,
       "transmission": "6-speed manual",
@@ -82,7 +98,11 @@
       "fh": 6.7,
       "fx": 8.2,
       "weight": 1280,
-      "price": "$60,490"
+      "price": "$60,490",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|GR Yaris|2025|GR GT Manual": {
       "engine": "1.6L I3 Turbo Petrol (G16E-GTS)",
@@ -94,8 +114,8 @@
       "seats": 4,
       "fuelTank": 50,
       "cargo": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 240,
+      "acceleration": 5.1,
       "power": 221,
       "torque": 400,
       "transmission": "6-speed manual",
@@ -103,7 +123,11 @@
       "fh": 6.7,
       "fx": 8.2,
       "weight": 1305,
-      "price": "$55,490"
+      "price": "$55,490",
+      "quarterMile": "~13.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|GR Yaris|2025|GR GT Auto": {
       "engine": "1.6L I3 Turbo Petrol (G16E-GTS)",
@@ -115,8 +139,8 @@
       "seats": 4,
       "fuelTank": 50,
       "cargo": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 240,
+      "acceleration": 5.1,
       "power": 221,
       "torque": 400,
       "transmission": "8-speed automatic",
@@ -124,7 +148,11 @@
       "fh": 6.9,
       "fx": 9.1,
       "weight": 1300,
-      "price": "$57,990"
+      "price": "$57,990",
+      "quarterMile": "~13.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|GR Yaris|2025|GR GTS Manual": {
       "engine": "1.6L I3 Turbo Petrol (G16E-GTS)",
@@ -136,8 +164,8 @@
       "seats": 4,
       "fuelTank": 50,
       "cargo": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 240,
+      "acceleration": 5,
       "power": 221,
       "torque": 400,
       "transmission": "6-speed manual",
@@ -145,7 +173,11 @@
       "fh": 6.7,
       "fx": 8.2,
       "weight": 1280,
-      "price": "$60,490"
+      "price": "$60,490",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|GR Yaris|2025|GR GTS Auto": {
       "engine": "1.6L I3 Turbo Petrol (G16E-GTS)",
@@ -157,8 +189,8 @@
       "seats": 4,
       "fuelTank": 50,
       "cargo": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 240,
+      "acceleration": 5.1,
       "power": 221,
       "torque": 400,
       "transmission": "8-speed automatic",
@@ -166,7 +198,11 @@
       "fh": 6.9,
       "fx": 9.1,
       "weight": 1300,
-      "price": "$62,990"
+      "price": "$62,990",
+      "quarterMile": "~13.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|GR Yaris|2026|GR GT Manual": {
       "engine": "1.6L I3 Turbo Petrol (G16E-GTS)",
@@ -178,8 +214,8 @@
       "seats": 4,
       "fuelTank": 50,
       "cargo": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 240,
+      "acceleration": 5.1,
       "power": 221,
       "torque": 400,
       "transmission": "6-speed manual",
@@ -187,7 +223,11 @@
       "fh": 6.7,
       "fx": 8.2,
       "weight": 1305,
-      "price": "$55,490"
+      "price": "$55,490",
+      "quarterMile": "~13.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|GR Yaris|2026|GR GT Auto": {
       "engine": "1.6L I3 Turbo Petrol (G16E-GTS)",
@@ -199,8 +239,8 @@
       "seats": 4,
       "fuelTank": 50,
       "cargo": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 240,
+      "acceleration": 5.1,
       "power": 221,
       "torque": 400,
       "transmission": "8-speed automatic",
@@ -208,7 +248,11 @@
       "fh": 6.9,
       "fx": 9.1,
       "weight": 1300,
-      "price": "$57,990"
+      "price": "$57,990",
+      "quarterMile": "~13.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|GR Yaris|2026|GR GTS Manual": {
       "engine": "1.6L I3 Turbo Petrol (G16E-GTS)",
@@ -220,8 +264,8 @@
       "seats": 4,
       "fuelTank": 50,
       "cargo": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 240,
+      "acceleration": 5,
       "power": 221,
       "torque": 400,
       "transmission": "6-speed manual",
@@ -229,7 +273,11 @@
       "fh": 6.7,
       "fx": 8.2,
       "weight": 1280,
-      "price": "$60,490"
+      "price": "$60,490",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|GR Yaris|2026|GR GTS Auto": {
       "engine": "1.6L I3 Turbo Petrol (G16E-GTS)",
@@ -241,8 +289,8 @@
       "seats": 4,
       "fuelTank": 50,
       "cargo": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 240,
+      "acceleration": 5.1,
       "power": 221,
       "torque": 400,
       "transmission": "8-speed automatic",
@@ -250,7 +298,11 @@
       "fh": 6.9,
       "fx": 9.1,
       "weight": 1300,
-      "price": "$62,990"
+      "price": "$62,990",
+      "quarterMile": "~13.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|GR Yaris|2026|GR GTS Aero Manual": {
       "engine": "1.6L I3 Turbo Petrol (G16E-GTS)",
@@ -262,16 +314,21 @@
       "seats": 4,
       "fuelTank": 50,
       "cargo": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 240,
+      "acceleration": 5.1,
       "power": 221,
       "torque": 400,
       "transmission": "6-speed manual",
       "fc": 10.8,
       "fh": 6.7,
       "fx": 8.2,
-      "weight": null,
-      "price": "$64,990"
+      "weight": 1300,
+      "price": "$64,990",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.4 sec"
     },
     "Toyota|GR Yaris|2026|GR GTS Aero Auto": {
       "engine": "1.6L I3 Turbo Petrol (G16E-GTS)",
@@ -283,16 +340,21 @@
       "seats": 4,
       "fuelTank": 50,
       "cargo": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 240,
+      "acceleration": 5.1,
       "power": 221,
       "torque": 400,
       "transmission": "8-speed automatic",
       "fc": 13,
       "fh": 6.9,
       "fx": 9.1,
-      "weight": null,
-      "price": "$67,490"
+      "weight": 1300,
+      "price": "$67,490",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.4 sec"
     }
   }
 }

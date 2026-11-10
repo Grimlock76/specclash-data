@@ -1,8 +1,8 @@
 {
   "specs": {
     "Honda|Civic|2026|e:HEV L": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 7.9,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -19,11 +19,15 @@
       "fx": 4.2,
       "fuelTank": 40,
       "weight": 1465,
-      "price": "$49,900"
+      "price": "$49,900",
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|Civic|2026|e:HEV LX": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 8.1,
       "cargo": null,
       "seats": 5,
       "cylinders": 4,
@@ -40,11 +44,15 @@
       "fx": 4.2,
       "fuelTank": 40,
       "weight": 1497,
-      "price": "$55,900"
+      "price": "$55,900",
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|Civic|2026|Type R": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 250,
+      "acceleration": 5.4,
       "cargo": null,
       "seats": 4,
       "cylinders": 4,
@@ -61,11 +69,15 @@
       "fx": 8.7,
       "weight": 1429,
       "fuelTank": 47,
-      "price": "$85,000"
+      "price": "$85,000",
+      "quarterMile": "~13.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Honda|HR-V|2026|Vi X": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 11.9,
       "cargo": 304,
       "seats": null,
       "engine": "1.5L I4 Petrol",
@@ -82,12 +94,17 @@
       "fx": 6.2,
       "fuelTank": 40,
       "price": "$32,900",
-      "accelClaimed": false
+      "weight": 1380,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.7 sec"
     },
     "Honda|HR-V|2026|e:HEV X": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 175,
+      "acceleration": 9.6,
+      "cargo": 304,
       "seats": 5,
       "engine": "1.5L I4 e:HEV (motor-driven hybrid)",
       "displacement": 1498,
@@ -103,12 +120,16 @@
       "fx": 4.3,
       "weight": 1381,
       "price": "$39,900",
-      "accelClaimed": false
+      "quarterMile": "~17.3 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Honda|HR-V|2026|e:HEV L": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 175,
+      "acceleration": 9.6,
+      "cargo": 304,
       "seats": 5,
       "engine": "1.5L I4 e:HEV (motor-driven hybrid)",
       "displacement": 1498,
@@ -124,12 +145,16 @@
       "fx": 4.3,
       "weight": 1385,
       "price": "$42,900",
-      "accelClaimed": false
+      "quarterMile": "~17.3 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Honda|HR-V|2026|e:HEV RS": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 175,
+      "acceleration": 9.6,
+      "cargo": 304,
       "seats": 5,
       "engine": "1.5L I4 e:HEV (motor-driven hybrid)",
       "displacement": 1498,
@@ -143,9 +168,14 @@
       "fc": 2.9,
       "fh": 5.1,
       "fx": 4.3,
-      "weight": null,
+      "weight": 1380,
       "price": "$44,400",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~17.3 sec"
     }
   }
 }

@@ -17,7 +17,12 @@
       "acceleration": 4.5,
       "topSpeed": 291,
       "price": "~$279,500",
-      "aspiration": "BorgWarner VTG Twin-Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo",
+      "quarterMile": "~12.8 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2022|GT3 RS": {
       "engine": "4.0L Flat-6 NA",
@@ -36,7 +41,12 @@
       "acceleration": 3.2,
       "topSpeed": 296,
       "price": "~$545,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~11.3 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2022|GT3 Touring": {
       "engine": "4.0L Flat-6 NA",
@@ -55,7 +65,12 @@
       "acceleration": 3.4,
       "topSpeed": 318,
       "price": "~$455,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~11.5 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2022|Sport Classic": {
       "engine": "3.7L Flat-6 Twin-Turbo",
@@ -74,7 +89,12 @@
       "acceleration": 3.7,
       "topSpeed": 315,
       "price": "~$700,000",
-      "aspiration": "BorgWarner VTG Twin-Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo",
+      "quarterMile": "~11.9 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2022|Turbo S": {
       "engine": "3.8L Flat-6 Twin-Turbo",
@@ -93,7 +113,12 @@
       "acceleration": 2.7,
       "topSpeed": 330,
       "price": "~$467,000",
-      "aspiration": "BorgWarner VTG Twin-Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo",
+      "quarterMile": "~10.7 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Everest|2022|UB Ambiente": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -112,7 +137,12 @@
       "acceleration": 11,
       "topSpeed": 185,
       "price": "~$49,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~18.2 sec",
+      "cargo": 810,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Everest|2022|UB Trend": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -131,7 +161,12 @@
       "acceleration": 10.5,
       "topSpeed": 185,
       "price": "~$55,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.9 sec",
+      "cargo": 810,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Everest|2022|UB Sport": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -150,7 +185,12 @@
       "acceleration": 10,
       "topSpeed": 185,
       "price": "~$65,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.5 sec",
+      "cargo": 810,
+      "est": [
+        "cargo"
+      ]
     },
     "Ford|Everest|2022|UB Titanium": {
       "engine": "2.0L I4 Bi-Turbo Diesel",
@@ -169,7 +209,12 @@
       "acceleration": 10,
       "topSpeed": 185,
       "price": "~$71,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~17.5 sec",
+      "cargo": 810,
+      "est": [
+        "cargo"
+      ]
     },
     "Kia|Sportage|2022|S Hybrid": {
       "engine": "1.6L I4 T-GDi Hybrid",
@@ -188,7 +233,12 @@
       "acceleration": 9,
       "topSpeed": 185,
       "price": "~$38,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.9 sec",
+      "cargo": 503,
+      "est": [
+        "cargo"
+      ]
     },
     "Kia|Sportage|2022|SX Hybrid": {
       "engine": "1.6L I4 T-GDi Hybrid",
@@ -207,7 +257,12 @@
       "acceleration": 9,
       "topSpeed": 185,
       "price": "~$44,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.9 sec",
+      "cargo": 503,
+      "est": [
+        "cargo"
+      ]
     },
     "Kia|Sportage|2022|GT-Line Hybrid": {
       "engine": "1.6L I4 T-GDi Hybrid",
@@ -226,7 +281,12 @@
       "acceleration": 9,
       "topSpeed": 185,
       "price": "~$48,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.9 sec",
+      "cargo": 503,
+      "est": [
+        "cargo"
+      ]
     },
     "Kia|Sportage|2022|GT-Line PHEV": {
       "engine": "1.6L I4 T-GDi PHEV",
@@ -239,13 +299,20 @@
       "torque": 350,
       "weight": 1890,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "fx": 1.6,
       "acceleration": 8.5,
       "topSpeed": 175,
       "price": "~$58,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 503
     },
     "Subaru|WRX|2022|WRX": {
       "engine": "2.4L H4 Turbo",
@@ -264,7 +331,8 @@
       "acceleration": 6,
       "topSpeed": 240,
       "price": "~$46,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.3 sec"
     },
     "Subaru|WRX|2022|WRX Premium": {
       "engine": "2.4L H4 Turbo",
@@ -283,7 +351,8 @@
       "acceleration": 6,
       "topSpeed": 240,
       "price": "~$51,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.3 sec"
     },
     "Subaru|WRX|2022|WRX SportTech": {
       "engine": "2.4L H4 Turbo",
@@ -302,7 +371,8 @@
       "acceleration": 6,
       "topSpeed": 240,
       "price": "~$59,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.3 sec"
     },
     "Subaru|WRX|2022|WRX tS": {
       "engine": "2.4L H4 Turbo",
@@ -321,7 +391,8 @@
       "acceleration": 5.9,
       "topSpeed": 240,
       "price": "~$65,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.2 sec"
     },
     "Porsche|718|2022|718 Cayman GTS 4.0": {
       "engine": "4.0L Flat-6 NA",
@@ -340,7 +411,12 @@
       "acceleration": 4,
       "topSpeed": 293,
       "price": "~$218,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.3 sec",
+      "cargo": 125,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|718|2022|Cayman GT4 RS": {
       "engine": "4.0L Flat-6 NA",
@@ -359,7 +435,12 @@
       "acceleration": 3.4,
       "topSpeed": 315,
       "price": "~$383,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~11.5 sec",
+      "cargo": 125,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

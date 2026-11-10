@@ -5186,7 +5186,8 @@
       "cargo": 490,
       "acceleration": 8.5,
       "topSpeed": 185,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Kia|EV6|2021|Earth": {
       "engine": "BLDC Motor FWD",
@@ -5208,7 +5209,8 @@
       "cargo": 490,
       "acceleration": 7.3,
       "topSpeed": 185,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "Kia|EV6|2021|GT-Line AWD": {
       "engine": "Dual BLDC Motor AWD",
@@ -5252,7 +5254,8 @@
       "cargo": 490,
       "acceleration": 8.5,
       "topSpeed": 185,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Kia|EV6|2022|Earth": {
       "engine": "BLDC Motor FWD",
@@ -5274,7 +5277,8 @@
       "cargo": 490,
       "acceleration": 7.3,
       "topSpeed": 185,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "Kia|EV6|2022|GT-Line AWD": {
       "engine": "Dual BLDC Motor AWD",
@@ -5318,7 +5322,8 @@
       "cargo": 490,
       "acceleration": 8.5,
       "topSpeed": 185,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec"
     },
     "Kia|EV6|2023|Earth": {
       "engine": "BLDC Motor FWD",
@@ -5340,7 +5345,8 @@
       "cargo": 490,
       "acceleration": 7.3,
       "topSpeed": 185,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "Kia|EV6|2023|GT-Line AWD": {
       "engine": "Dual BLDC Motor AWD",
@@ -5973,7 +5979,8 @@
       "cargo": 427,
       "acceleration": 7.8,
       "topSpeed": 167,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.9 sec"
     },
     "Kia|Niro|2020|Electric Si": {
       "engine": "BLDC Motor FWD",
@@ -5995,7 +6002,8 @@
       "cargo": 427,
       "acceleration": 7.8,
       "topSpeed": 167,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.9 sec"
     },
     "Kia|Niro|2021|Electric Si": {
       "engine": "BLDC Motor FWD",
@@ -6017,7 +6025,8 @@
       "cargo": 427,
       "acceleration": 7.8,
       "topSpeed": 167,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.9 sec"
     },
     "Kia|Niro|2022|Electric Si": {
       "engine": "BLDC Motor FWD",
@@ -6039,7 +6048,8 @@
       "cargo": 427,
       "acceleration": 7.8,
       "topSpeed": 167,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.9 sec"
     },
     "Kia|Niro|2022|Sport Hybrid": {
       "engine": "G4LE 1.6L GDi + Electric Motor",
@@ -6125,7 +6135,8 @@
       "cargo": 427,
       "acceleration": 7.8,
       "topSpeed": 167,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.9 sec"
     },
     "Kia|Picanto|2011|S": {
       "engine": "G3LA 1.0L DOHC I3",
@@ -6735,7 +6746,8 @@
       "cargo": 315,
       "acceleration": 7.6,
       "topSpeed": 167,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.7 sec"
     },
     "Kia|Soul|2020|Sport": {
       "engine": "G4NH 2.0L MPI I4",
@@ -6778,7 +6790,8 @@
       "cargo": 315,
       "acceleration": 7.6,
       "topSpeed": 167,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.7 sec"
     },
     "Kia|Soul|2021|Sport": {
       "engine": "G4NH 2.0L MPI I4",
@@ -6821,7 +6834,8 @@
       "cargo": 315,
       "acceleration": 7.6,
       "topSpeed": 167,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.7 sec"
     },
     "Kia|Soul|2022|Sport": {
       "engine": "G4NH 2.0L MPI I4",
@@ -6864,7 +6878,8 @@
       "cargo": 315,
       "acceleration": 7.6,
       "topSpeed": 167,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.7 sec"
     },
     "Kia|Soul|2023|Sport": {
       "engine": "G4NH 2.0L MPI I4",
@@ -6907,7 +6922,8 @@
       "cargo": 315,
       "acceleration": 7.6,
       "topSpeed": 167,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.7 sec"
     },
     "Kia|Soul|2024|Sport": {
       "engine": "G4NH 2.0L MPI I4",
@@ -6950,7 +6966,8 @@
       "cargo": 315,
       "acceleration": 7.6,
       "topSpeed": 167,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.7 sec"
     },
     "Kia|Optima|2010|Si": {
       "engine": "G4KA 2.0L DOHC I4",

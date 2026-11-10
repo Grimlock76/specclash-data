@@ -13,14 +13,18 @@
       "fh": 7,
       "fx": 7.6,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 13.9,
+      "topSpeed": 160,
       "weight": 2495,
       "seats": 5,
       "cargo": null,
       "price": "$72,500",
       "towing": 3500,
-      "payload": 605
+      "payload": 605,
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Prado|2024|GXL": {
       "engine": "2.8L I4 Turbo Diesel mild hybrid (1GD-FTV)",
@@ -35,13 +39,17 @@
       "fh": 7,
       "fx": 7.6,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 14.1,
+      "topSpeed": 160,
       "weight": 2535,
       "seats": 7,
       "cargo": null,
       "price": "$79,990",
-      "towing": 3500
+      "towing": 3500,
+      "quarterMile": "~19.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Prado|2024|VX": {
       "engine": "2.8L I4 Turbo Diesel mild hybrid (1GD-FTV)",
@@ -56,14 +64,18 @@
       "fh": 7,
       "fx": 7.6,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 14.2,
+      "topSpeed": 160,
       "weight": 2570,
       "seats": 7,
       "cargo": null,
       "price": "$87,400",
       "towing": 3500,
-      "payload": 610
+      "payload": 610,
+      "quarterMile": "~19.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Prado|2024|Altitude": {
       "engine": "2.8L I4 Turbo Diesel mild hybrid (1GD-FTV)",
@@ -78,14 +90,18 @@
       "fh": 7,
       "fx": 7.6,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 14,
+      "topSpeed": 160,
       "weight": 2520,
       "seats": 5,
       "cargo": null,
       "price": "$92,700",
       "towing": 3500,
-      "payload": 580
+      "payload": 580,
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|Prado|2024|Kakadu": {
       "engine": "2.8L I4 Turbo Diesel mild hybrid (1GD-FTV)",
@@ -100,14 +116,18 @@
       "fh": 7,
       "fx": 7.6,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 14.4,
+      "topSpeed": 160,
       "weight": 2595,
       "seats": 7,
       "cargo": null,
       "price": "$99,990",
       "towing": 3500,
-      "payload": 605
+      "payload": 605,
+      "quarterMile": "~20.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

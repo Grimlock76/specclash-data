@@ -160,7 +160,7 @@ export default function SpecTable({ loaded, onShare }) {
             ))}
           </tbody>
         </table>
-        <p style={{ color: '#1e1e1e', fontSize: 11, marginTop: 16, textAlign: 'center' }}>▲ = best value · greyed = identical · estimated prices are indicative only</p>
+        <p style={{ color: '#1e1e1e', fontSize: 11, marginTop: 16, textAlign: 'center' }}>▲ = best value · greyed = identical · ~ = estimate, not an official figure</p>
       </div>
     </div>
   )

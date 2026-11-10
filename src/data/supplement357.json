@@ -1,8 +1,8 @@
 {
   "specs": {
     "Kia|K4|2025|S Sedan": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 9.9,
       "cargo": 508,
       "transmission": "6-speed automatic",
       "engine": "2.0L I4 Petrol",
@@ -20,12 +20,16 @@
       "towing": null,
       "fuelTank": 47,
       "price": "$30,590",
-      "accelClaimed": false,
-      "weight": null
+      "weight": 1415,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.5 sec"
     },
     "Kia|K4|2025|Sport Sedan": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 9.9,
       "cargo": 508,
       "transmission": "6-speed automatic",
       "engine": "2.0L I4 Petrol",
@@ -43,12 +47,16 @@
       "towing": null,
       "fuelTank": 47,
       "price": "$35,190",
-      "accelClaimed": false,
-      "weight": null
+      "weight": 1415,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.5 sec"
     },
     "Kia|K4|2025|Sport+ Sedan": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 9.9,
       "cargo": 508,
       "transmission": "6-speed automatic",
       "engine": "2.0L I4 Petrol",
@@ -66,12 +74,16 @@
       "towing": null,
       "fuelTank": 47,
       "price": "$37,590",
-      "accelClaimed": false,
-      "weight": null
+      "weight": 1415,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.5 sec"
     },
     "Kia|K4|2025|GT-Line Sedan": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 210,
+      "acceleration": 7.9,
       "cargo": 508,
       "transmission": "8-speed automatic",
       "engine": "1.6L I4 Turbo Petrol",
@@ -88,13 +100,17 @@
       "seats": 5,
       "towing": null,
       "fuelTank": 47,
-      "weight": null,
+      "weight": 1415,
       "price": "$43,790",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.0 sec"
     },
     "Kia|K4|2026|S Sedan": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.2,
       "cargo": 508,
       "transmission": "CVT",
       "engine": "2.0L I4 Petrol",
@@ -112,11 +128,16 @@
       "towing": null,
       "fuelTank": 47,
       "price": "$32,090",
-      "accelClaimed": false
+      "weight": 1415,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.7 sec"
     },
     "Kia|K4|2026|Sport Sedan": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.2,
       "cargo": 508,
       "transmission": "CVT",
       "engine": "2.0L I4 Petrol",
@@ -134,11 +155,16 @@
       "towing": null,
       "fuelTank": 47,
       "price": "$36,690",
-      "accelClaimed": false
+      "weight": 1415,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.7 sec"
     },
     "Kia|K4|2026|Sport+ Sedan": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.2,
       "cargo": 508,
       "transmission": "CVT",
       "engine": "2.0L I4 Petrol",
@@ -156,11 +182,16 @@
       "towing": null,
       "fuelTank": 47,
       "price": "$39,090",
-      "accelClaimed": false
+      "weight": 1415,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.7 sec"
     },
     "Kia|K4|2026|GT-Line Sedan": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 210,
+      "acceleration": 7.9,
       "cargo": 508,
       "transmission": "8-speed automatic",
       "engine": "1.6L I4 Turbo Petrol",
@@ -177,13 +208,17 @@
       "seats": 5,
       "towing": null,
       "fuelTank": 47,
-      "weight": null,
+      "weight": 1415,
       "price": "$43,790",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.0 sec"
     },
     "Kia|K4|2026|S Hatch": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.2,
       "cargo": 438,
       "transmission": "CVT",
       "engine": "2.0L I4 Petrol",
@@ -201,11 +236,16 @@
       "towing": null,
       "fuelTank": 47,
       "price": "$32,090",
-      "accelClaimed": false
+      "weight": 1415,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.7 sec"
     },
     "Kia|K4|2026|Sport Hatch": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.2,
       "cargo": 438,
       "transmission": "CVT",
       "engine": "2.0L I4 Petrol",
@@ -223,12 +263,16 @@
       "towing": null,
       "fuelTank": 47,
       "price": "$36,690",
-      "accelClaimed": false,
-      "weight": null
+      "weight": 1415,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.7 sec"
     },
     "Kia|K4|2026|Sport+ Hatch": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 10.2,
       "cargo": 438,
       "transmission": "CVT",
       "engine": "2.0L I4 Petrol",
@@ -246,12 +290,16 @@
       "towing": null,
       "fuelTank": 47,
       "price": "$39,090",
-      "accelClaimed": false,
-      "weight": null
+      "weight": 1415,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.7 sec"
     },
     "Kia|K4|2026|GT-Line Hatch": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 210,
+      "acceleration": 7.9,
       "cargo": 438,
       "transmission": "8-speed automatic",
       "engine": "1.6L I4 Turbo Petrol",
@@ -270,7 +318,10 @@
       "fuelTank": 47,
       "weight": 1415,
       "price": "$43,790",
-      "accelClaimed": false
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

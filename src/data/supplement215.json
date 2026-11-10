@@ -17,7 +17,12 @@
       "acceleration": 5.9,
       "topSpeed": 210,
       "price": "~$299,900",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~14.2 sec",
+      "cargo": 682,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|AMG GT|2015|AMG GT": {
       "engine": "4.0L V8 Biturbo M178 DE40",
@@ -36,7 +41,12 @@
       "acceleration": 4,
       "topSpeed": 304,
       "price": "~$239,900",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~12.3 sec",
+      "cargo": 350,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|AMG GT|2015|AMG GT S": {
       "engine": "4.0L V8 Biturbo M178 DE40 AL",
@@ -55,7 +65,12 @@
       "acceleration": 3.8,
       "topSpeed": 310,
       "price": "~$279,900",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~12.0 sec",
+      "cargo": 350,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|A4|2015|2.0 TFSI": {
       "engine": "2.0L I4 Turbo TFSI EA888",
@@ -74,7 +89,12 @@
       "acceleration": 7.3,
       "topSpeed": 238,
       "price": "~$59,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.5 sec",
+      "cargo": 480,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|A6|2015|3.0 TFSI quattro": {
       "engine": "3.0L V6 SC TFSI",
@@ -93,7 +113,12 @@
       "acceleration": 5.5,
       "topSpeed": 250,
       "price": "~$109,900",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.8 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|R8|2015|V10": {
       "engine": "5.2L V10 NA FSI",
@@ -112,7 +137,8 @@
       "acceleration": 3.5,
       "topSpeed": 323,
       "price": "~$319,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~11.7 sec"
     },
     "Audi|R8|2015|V10 Plus": {
       "engine": "5.2L V10 NA FSI",
@@ -131,7 +157,8 @@
       "acceleration": 3.2,
       "topSpeed": 330,
       "price": "~$399,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~11.3 sec"
     },
     "Audi|A1|2015|1.4 TFSI": {
       "engine": "1.4L I4 Turbo TFSI EA211",
@@ -150,7 +177,12 @@
       "acceleration": 9.2,
       "topSpeed": 195,
       "price": "~$29,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.1 sec",
+      "cargo": 270,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|A7|2015|3.0 TFSI quattro": {
       "engine": "3.0L V6 SC TFSI",
@@ -169,7 +201,12 @@
       "acceleration": 5.3,
       "topSpeed": 250,
       "price": "~$129,900",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.6 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|S3|2015|S3": {
       "engine": "2.0L I4 Turbo EA888 TFSI",
@@ -188,7 +225,12 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$79,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.2 sec",
+      "cargo": 380,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|RS6|2015|RS6 Avant": {
       "engine": "4.0L V8 Biturbo TFSI EA825",
@@ -207,7 +249,8 @@
       "acceleration": 3.9,
       "topSpeed": 280,
       "price": "~$219,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.2 sec"
     },
     "Audi|RS Q3|2015|RS Q3": {
       "engine": "2.5L I5 Turbo TFSI EA855",
@@ -226,7 +269,8 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$89,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.1 sec"
     },
     "Porsche|911|2015|GT3 RS": {
       "engine": "4.0L H6 NA MA104",
@@ -245,7 +289,12 @@
       "acceleration": 3.3,
       "topSpeed": 310,
       "price": "~$399,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~11.4 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2015|Turbo S": {
       "engine": "3.8L H6 Biturbo 9A1",
@@ -264,7 +313,12 @@
       "acceleration": 2.9,
       "topSpeed": 318,
       "price": "~$399,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Cayenne|2015|Turbo S": {
       "engine": "4.8L V8 Biturbo M48.71",
@@ -283,7 +337,12 @@
       "acceleration": 4.1,
       "topSpeed": 289,
       "price": "~$349,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.4 sec",
+      "cargo": 770,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Macan|2015|GTS": {
       "engine": "3.0L V6 Biturbo M46.21 TFSI",
@@ -302,7 +361,8 @@
       "acceleration": 5.2,
       "topSpeed": 256,
       "price": "~$149,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.5 sec"
     },
     "Suzuki|Vitara|2015|RT": {
       "engine": "1.6L I4 NA K16B",
@@ -321,7 +381,12 @@
       "acceleration": 11.5,
       "topSpeed": 175,
       "price": "~$22,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.5 sec",
+      "cargo": 375,
+      "est": [
+        "cargo"
+      ]
     },
     "Suzuki|Vitara|2015|RT-S": {
       "engine": "1.6L I4 NA K16B",
@@ -340,7 +405,12 @@
       "acceleration": 12,
       "topSpeed": 170,
       "price": "~$29,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.8 sec",
+      "cargo": 375,
+      "est": [
+        "cargo"
+      ]
     },
     "Suzuki|Vitara|2015|S Turbo": {
       "engine": "1.4L I4 Turbo K14C Boosterjet",
@@ -359,7 +429,12 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "price": "~$33,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.2 sec",
+      "cargo": 375,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

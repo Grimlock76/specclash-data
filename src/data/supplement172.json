@@ -17,7 +17,12 @@
       "acceleration": 10.2,
       "topSpeed": 208,
       "price": "~$46,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.7 sec",
+      "cargo": 780,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|5008|2024|Allure": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -36,7 +41,12 @@
       "acceleration": 10.2,
       "topSpeed": 208,
       "price": "~$51,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.7 sec",
+      "cargo": 780,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|5008|2024|GT": {
       "engine": "1.6L I4 PHEV",
@@ -56,7 +66,12 @@
       "acceleration": 7.9,
       "topSpeed": 220,
       "price": "~$57,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.0 sec",
+      "cargo": 780,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|308|2024|Allure": {
       "engine": "1.2 PureTech Turbo",
@@ -75,7 +90,12 @@
       "acceleration": 11,
       "topSpeed": 188,
       "price": "~$39,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.2 sec",
+      "cargo": 420,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|308|2024|GT": {
       "engine": "1.6 PureTech Turbo",
@@ -94,7 +114,12 @@
       "acceleration": 7.8,
       "topSpeed": 217,
       "price": "~$49,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.9 sec",
+      "cargo": 420,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|2008|2024|Allure": {
       "engine": "1.2 PureTech Turbo",
@@ -113,7 +138,12 @@
       "acceleration": 11.5,
       "topSpeed": 187,
       "price": "~$34,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.5 sec",
+      "cargo": 405,
+      "est": [
+        "cargo"
+      ]
     },
     "Peugeot|2008|2024|GT": {
       "engine": "1.2 PureTech Turbo",
@@ -132,7 +162,12 @@
       "acceleration": 11.2,
       "topSpeed": 190,
       "price": "~$39,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~18.3 sec",
+      "cargo": 405,
+      "est": [
+        "cargo"
+      ]
     },
     "Bentley|Bentayga|2024|S": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -151,7 +186,8 @@
       "acceleration": 4.4,
       "topSpeed": 290,
       "price": "~$384,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.7 sec"
     },
     "Bentley|Bentayga|2024|EWB": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -170,7 +206,8 @@
       "acceleration": 4.5,
       "topSpeed": 290,
       "price": "~$484,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.8 sec"
     },
     "Volvo|EX90|2024|Twin Motor": {
       "engine": "Dual Motor Electric",
@@ -189,7 +226,12 @@
       "acceleration": 5.9,
       "topSpeed": 180,
       "price": "~$117,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.2 sec",
+      "cargo": 310,
+      "est": [
+        "cargo"
+      ]
     },
     "Volvo|EX90|2024|Twin Motor Performance": {
       "engine": "Dual Motor Electric Performance",
@@ -208,7 +250,12 @@
       "acceleration": 4.9,
       "topSpeed": 180,
       "price": "~$137,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.2 sec",
+      "cargo": 310,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

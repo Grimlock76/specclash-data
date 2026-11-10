@@ -19,7 +19,8 @@
       "seats": 5,
       "battery": "66.5 kWh",
       "price": "~$74,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.8 sec"
     },
     "Mercedes-Benz|EQA|2021|EQA 300 4MATIC": {
       "engine": "Electric",
@@ -40,7 +41,8 @@
       "seats": 5,
       "battery": "66.5 kWh",
       "price": "~$84,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec"
     },
     "Mercedes-Benz|EQA|2021|EQA 350 4MATIC": {
       "engine": "Electric",
@@ -61,7 +63,8 @@
       "seats": 5,
       "battery": "66.5 kWh",
       "price": "~$94,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.2 sec"
     },
     "Mercedes-Benz|EQA|2022|EQA 250": {
       "engine": "Electric",
@@ -82,7 +85,12 @@
       "seats": 5,
       "battery": "66.5 kWh",
       "price": "~$76,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.8 sec",
+      "cargo": 340,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQA|2022|EQA 300 4MATIC": {
       "engine": "Electric",
@@ -103,7 +111,12 @@
       "seats": 5,
       "battery": "66.5 kWh",
       "price": "~$86,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec",
+      "cargo": 340,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQA|2022|EQA 350 4MATIC": {
       "engine": "Electric",
@@ -124,7 +137,12 @@
       "seats": 5,
       "battery": "66.5 kWh",
       "price": "~$96,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.2 sec",
+      "cargo": 340,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQA|2023|EQA 250": {
       "engine": "Electric",
@@ -145,7 +163,12 @@
       "seats": 5,
       "battery": "66.5 kWh",
       "price": "~$78,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.8 sec",
+      "cargo": 340,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQA|2023|EQA 300 4MATIC": {
       "engine": "Electric",
@@ -166,7 +189,12 @@
       "seats": 5,
       "battery": "66.5 kWh",
       "price": "~$88,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec",
+      "cargo": 340,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQA|2023|EQA 350 4MATIC": {
       "engine": "Electric",
@@ -187,7 +215,12 @@
       "seats": 5,
       "battery": "66.5 kWh",
       "price": "~$98,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.2 sec",
+      "cargo": 340,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQB|2021|EQB 250": {
       "engine": "Electric",
@@ -208,7 +241,8 @@
       "seats": 7,
       "battery": "66.5 kWh",
       "price": "~$84,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.8 sec"
     },
     "Mercedes-Benz|EQB|2021|EQB 300 4MATIC": {
       "engine": "Electric",
@@ -229,7 +263,8 @@
       "seats": 7,
       "battery": "66.5 kWh",
       "price": "~$94,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.5 sec"
     },
     "Mercedes-Benz|EQB|2021|EQB 350 4MATIC": {
       "engine": "Electric",
@@ -250,7 +285,8 @@
       "seats": 7,
       "battery": "66.5 kWh",
       "price": "~$104,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Mercedes-Benz|EQB|2022|EQB 250": {
       "engine": "Electric",
@@ -271,7 +307,8 @@
       "seats": 7,
       "battery": "66.5 kWh",
       "price": "~$86,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.8 sec"
     },
     "Mercedes-Benz|EQB|2022|EQB 300 4MATIC": {
       "engine": "Electric",
@@ -292,7 +329,8 @@
       "seats": 7,
       "battery": "66.5 kWh",
       "price": "~$96,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.5 sec"
     },
     "Mercedes-Benz|EQB|2022|EQB 350 4MATIC": {
       "engine": "Electric",
@@ -313,7 +351,8 @@
       "seats": 7,
       "battery": "66.5 kWh",
       "price": "~$106,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Mercedes-Benz|EQB|2023|EQB 250": {
       "engine": "Electric",
@@ -334,7 +373,8 @@
       "seats": 7,
       "battery": "66.5 kWh",
       "price": "~$88,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.8 sec"
     },
     "Mercedes-Benz|EQB|2023|EQB 300 4MATIC": {
       "engine": "Electric",
@@ -355,7 +395,8 @@
       "seats": 7,
       "battery": "66.5 kWh",
       "price": "~$98,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.5 sec"
     },
     "Mercedes-Benz|EQB|2023|EQB 350 4MATIC": {
       "engine": "Electric",
@@ -376,7 +417,8 @@
       "seats": 7,
       "battery": "66.5 kWh",
       "price": "~$108,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Mercedes-Benz|EQB|2026|EQB 250": {
       "engine": "Electric",
@@ -397,7 +439,8 @@
       "seats": 7,
       "battery": "66.5 kWh",
       "price": "~$94,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.8 sec"
     },
     "Mercedes-Benz|EQB|2026|EQB 300 4MATIC": {
       "engine": "Electric",
@@ -418,7 +461,8 @@
       "seats": 7,
       "battery": "66.5 kWh",
       "price": "~$104,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.5 sec"
     },
     "Mercedes-Benz|EQB|2026|EQB 350 4MATIC": {
       "engine": "Electric",
@@ -439,7 +483,8 @@
       "seats": 7,
       "battery": "66.5 kWh",
       "price": "~$114,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Mercedes-Benz|EQC|2019|EQC 400 4MATIC": {
       "engine": "Electric Dual Motor",
@@ -460,7 +505,8 @@
       "seats": 5,
       "battery": "80 kWh",
       "price": "~$119,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Mercedes-Benz|EQC|2019|EQC 400 4MATIC Edition 1886": {
       "engine": "Electric Dual Motor",
@@ -481,7 +527,8 @@
       "seats": 5,
       "battery": "80 kWh",
       "price": "~$134,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Mercedes-Benz|EQC|2020|EQC 400 4MATIC": {
       "engine": "Electric Dual Motor",
@@ -502,7 +549,8 @@
       "seats": 5,
       "battery": "80 kWh",
       "price": "~$121,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Mercedes-Benz|EQC|2020|EQC 400 4MATIC Edition 1886": {
       "engine": "Electric Dual Motor",
@@ -523,7 +571,8 @@
       "seats": 5,
       "battery": "80 kWh",
       "price": "~$136,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Mercedes-Benz|EQC|2021|EQC 400 4MATIC": {
       "engine": "Electric Dual Motor",
@@ -544,7 +593,8 @@
       "seats": 5,
       "battery": "80 kWh",
       "price": "~$123,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Mercedes-Benz|EQC|2021|EQC 400 4MATIC Edition 1886": {
       "engine": "Electric Dual Motor",
@@ -565,7 +615,8 @@
       "seats": 5,
       "battery": "80 kWh",
       "price": "~$138,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Mercedes-Benz|EQC|2022|EQC 400 4MATIC": {
       "engine": "Electric Dual Motor",
@@ -586,7 +637,8 @@
       "seats": 5,
       "battery": "80 kWh",
       "price": "~$125,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Mercedes-Benz|EQC|2022|EQC 400 4MATIC Edition 1886": {
       "engine": "Electric Dual Motor",
@@ -607,7 +659,8 @@
       "seats": 5,
       "battery": "80 kWh",
       "price": "~$140,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Mercedes-Benz|EQC|2023|EQC 400 4MATIC": {
       "engine": "Electric Dual Motor",
@@ -628,7 +681,8 @@
       "seats": 5,
       "battery": "80 kWh",
       "price": "~$127,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Mercedes-Benz|EQC|2023|EQC 400 4MATIC Edition 1886": {
       "engine": "Electric Dual Motor",
@@ -649,7 +703,8 @@
       "seats": 5,
       "battery": "80 kWh",
       "price": "~$142,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Mercedes-Benz|EQC|2024|EQC 400 4MATIC": {
       "engine": "Electric Dual Motor",
@@ -670,7 +725,8 @@
       "seats": 5,
       "battery": "80 kWh",
       "price": "~$129,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Mercedes-Benz|EQC|2024|EQC 400 4MATIC Edition 1886": {
       "engine": "Electric Dual Motor",
@@ -691,7 +747,8 @@
       "seats": 5,
       "battery": "80 kWh",
       "price": "~$144,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.4 sec"
     },
     "Mercedes-Benz|EQE|2022|EQE 300": {
       "engine": "Electric",
@@ -712,7 +769,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$124,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE|2022|EQE 350+": {
       "engine": "Electric",
@@ -733,7 +795,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$134,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.7 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE|2022|EQE 500 4MATIC": {
       "engine": "Electric Dual Motor",
@@ -754,7 +821,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$154,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.0 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE|2022|AMG EQE 53 4MATIC+": {
       "engine": "Electric Dual Motor",
@@ -775,7 +847,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$199,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.4 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE|2023|EQE 300": {
       "engine": "Electric",
@@ -796,7 +873,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$126,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE|2023|EQE 350+": {
       "engine": "Electric",
@@ -817,7 +899,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$136,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.7 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE|2023|EQE 500 4MATIC": {
       "engine": "Electric Dual Motor",
@@ -838,7 +925,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$156,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.0 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE|2023|AMG EQE 53 4MATIC+": {
       "engine": "Electric Dual Motor",
@@ -859,7 +951,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$202,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.4 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE|2024|EQE 300": {
       "engine": "Electric",
@@ -880,7 +977,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$128,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE|2024|EQE 350+": {
       "engine": "Electric",
@@ -901,7 +1003,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$138,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.7 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE|2024|EQE 500 4MATIC": {
       "engine": "Electric Dual Motor",
@@ -922,7 +1029,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$158,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.0 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE|2024|AMG EQE 53 4MATIC+": {
       "engine": "Electric Dual Motor",
@@ -943,7 +1055,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$205,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.4 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE|2025|EQE 300": {
       "engine": "Electric",
@@ -964,7 +1081,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$130,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE|2025|EQE 350+": {
       "engine": "Electric",
@@ -985,7 +1107,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$140,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.7 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE|2025|EQE 500 4MATIC": {
       "engine": "Electric Dual Motor",
@@ -1006,7 +1133,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$160,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.0 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE|2025|AMG EQE 53 4MATIC+": {
       "engine": "Electric Dual Motor",
@@ -1027,7 +1159,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$208,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.4 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE|2026|EQE 300": {
       "engine": "Electric",
@@ -1048,7 +1185,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$132,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE|2026|EQE 350+": {
       "engine": "Electric",
@@ -1069,7 +1211,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$142,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.7 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE|2026|EQE 500 4MATIC": {
       "engine": "Electric Dual Motor",
@@ -1090,7 +1237,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$162,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.0 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE|2026|AMG EQE 53 4MATIC+": {
       "engine": "Electric Dual Motor",
@@ -1111,7 +1263,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$211,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.4 sec",
+      "cargo": 430,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE SUV|2023|EQE 350 4MATIC": {
       "engine": "Electric",
@@ -1132,7 +1289,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$149,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.9 sec",
+      "cargo": 520,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE SUV|2023|EQE 500 4MATIC": {
       "engine": "Electric Dual Motor",
@@ -1153,7 +1315,12 @@
       "seats": 7,
       "battery": "90.6 kWh",
       "price": "~$169,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.2 sec",
+      "cargo": 520,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE SUV|2023|AMG EQE 53 4MATIC+": {
       "engine": "Electric Dual Motor",
@@ -1174,7 +1341,12 @@
       "seats": 7,
       "battery": "90.6 kWh",
       "price": "~$219,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.2 sec",
+      "cargo": 520,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE SUV|2024|EQE 350 4MATIC": {
       "engine": "Electric",
@@ -1195,7 +1367,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$151,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.9 sec",
+      "cargo": 520,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE SUV|2024|EQE 500 4MATIC": {
       "engine": "Electric Dual Motor",
@@ -1216,7 +1393,12 @@
       "seats": 7,
       "battery": "90.6 kWh",
       "price": "~$171,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.2 sec",
+      "cargo": 520,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE SUV|2024|AMG EQE 53 4MATIC+": {
       "engine": "Electric Dual Motor",
@@ -1237,7 +1419,12 @@
       "seats": 7,
       "battery": "90.6 kWh",
       "price": "~$222,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.2 sec",
+      "cargo": 520,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE SUV|2025|EQE 350 4MATIC": {
       "engine": "Electric",
@@ -1258,7 +1445,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$153,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.9 sec",
+      "cargo": 520,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE SUV|2025|EQE 500 4MATIC": {
       "engine": "Electric Dual Motor",
@@ -1279,7 +1471,12 @@
       "seats": 7,
       "battery": "90.6 kWh",
       "price": "~$173,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.2 sec",
+      "cargo": 520,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE SUV|2025|AMG EQE 53 4MATIC+": {
       "engine": "Electric Dual Motor",
@@ -1300,7 +1497,12 @@
       "seats": 7,
       "battery": "90.6 kWh",
       "price": "~$225,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.2 sec",
+      "cargo": 520,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE SUV|2026|EQE 350 4MATIC": {
       "engine": "Electric",
@@ -1321,7 +1523,12 @@
       "seats": 5,
       "battery": "90.6 kWh",
       "price": "~$155,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.9 sec",
+      "cargo": 520,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE SUV|2026|EQE 500 4MATIC": {
       "engine": "Electric Dual Motor",
@@ -1342,7 +1549,12 @@
       "seats": 7,
       "battery": "90.6 kWh",
       "price": "~$175,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.2 sec",
+      "cargo": 520,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQE SUV|2026|AMG EQE 53 4MATIC+": {
       "engine": "Electric Dual Motor",
@@ -1363,7 +1575,12 @@
       "seats": 7,
       "battery": "90.6 kWh",
       "price": "~$228,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.2 sec",
+      "cargo": 520,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQS SUV|2023|EQS 450 4MATIC": {
       "engine": "Electric",
@@ -1384,7 +1601,12 @@
       "seats": 7,
       "battery": "107.8 kWh",
       "price": "~$189,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec",
+      "cargo": 645,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQS SUV|2023|EQS 580 4MATIC": {
       "engine": "Electric Dual Motor",
@@ -1405,7 +1627,12 @@
       "seats": 7,
       "battery": "107.8 kWh",
       "price": "~$219,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.9 sec",
+      "cargo": 645,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQS SUV|2023|AMG EQS 53 4MATIC+": {
       "engine": "Electric Dual Motor",
@@ -1426,7 +1653,12 @@
       "seats": 7,
       "battery": "107.8 kWh",
       "price": "~$279,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.0 sec",
+      "cargo": 645,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQS SUV|2024|EQS 450 4MATIC": {
       "engine": "Electric",
@@ -1447,7 +1679,12 @@
       "seats": 7,
       "battery": "107.8 kWh",
       "price": "~$192,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec",
+      "cargo": 645,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQS SUV|2024|EQS 580 4MATIC": {
       "engine": "Electric Dual Motor",
@@ -1468,7 +1705,12 @@
       "seats": 7,
       "battery": "107.8 kWh",
       "price": "~$222,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.9 sec",
+      "cargo": 645,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQS SUV|2024|AMG EQS 53 4MATIC+": {
       "engine": "Electric Dual Motor",
@@ -1489,7 +1731,12 @@
       "seats": 7,
       "battery": "107.8 kWh",
       "price": "~$282,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.0 sec",
+      "cargo": 645,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQS SUV|2025|EQS 450 4MATIC": {
       "engine": "Electric",
@@ -1510,7 +1757,12 @@
       "seats": 7,
       "battery": "107.8 kWh",
       "price": "~$195,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec",
+      "cargo": 645,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQS SUV|2025|EQS 580 4MATIC": {
       "engine": "Electric Dual Motor",
@@ -1531,7 +1783,12 @@
       "seats": 7,
       "battery": "107.8 kWh",
       "price": "~$225,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.9 sec",
+      "cargo": 645,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQS SUV|2025|AMG EQS 53 4MATIC+": {
       "engine": "Electric Dual Motor",
@@ -1552,7 +1809,12 @@
       "seats": 7,
       "battery": "107.8 kWh",
       "price": "~$285,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.0 sec",
+      "cargo": 645,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQS SUV|2026|EQS 450 4MATIC": {
       "engine": "Electric",
@@ -1573,7 +1835,12 @@
       "seats": 7,
       "battery": "107.8 kWh",
       "price": "~$198,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec",
+      "cargo": 645,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQS SUV|2026|EQS 580 4MATIC": {
       "engine": "Electric Dual Motor",
@@ -1594,7 +1861,12 @@
       "seats": 7,
       "battery": "107.8 kWh",
       "price": "~$228,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.9 sec",
+      "cargo": 645,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQS SUV|2026|AMG EQS 53 4MATIC+": {
       "engine": "Electric Dual Motor",
@@ -1615,7 +1887,12 @@
       "seats": 7,
       "battery": "107.8 kWh",
       "price": "~$288,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.0 sec",
+      "cargo": 645,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2019|CLS 350": {
       "engine": "2.0L Turbo",
@@ -1634,7 +1911,12 @@
       "weight": 1730,
       "seats": 4,
       "price": "~$129,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.3 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2019|CLS 450 4MATIC": {
       "engine": "3.0L Turbo I6",
@@ -1691,7 +1973,12 @@
       "weight": 1730,
       "seats": 4,
       "price": "~$131,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.3 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2020|CLS 450 4MATIC": {
       "engine": "3.0L Turbo I6",
@@ -1710,7 +1997,12 @@
       "weight": 1840,
       "seats": 4,
       "price": "~$151,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.3 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2020|AMG CLS 53 4MATIC+": {
       "engine": "3.0L AMG Turbo I6",
@@ -1729,7 +2021,12 @@
       "weight": 1900,
       "seats": 4,
       "price": "~$186,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.8 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2021|CLS 350": {
       "engine": "2.0L Turbo",
@@ -1748,7 +2045,12 @@
       "weight": 1730,
       "seats": 4,
       "price": "~$133,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.3 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2021|CLS 450 4MATIC": {
       "engine": "3.0L Turbo I6",
@@ -1767,7 +2069,12 @@
       "weight": 1840,
       "seats": 4,
       "price": "~$153,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.3 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2021|AMG CLS 53 4MATIC+": {
       "engine": "3.0L AMG Turbo I6",
@@ -1786,7 +2093,12 @@
       "weight": 1900,
       "seats": 4,
       "price": "~$188,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.8 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2022|CLS 350": {
       "engine": "2.0L Turbo",
@@ -1805,7 +2117,12 @@
       "weight": 1730,
       "seats": 4,
       "price": "~$135,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.3 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2022|CLS 450 4MATIC": {
       "engine": "3.0L Turbo I6",
@@ -1824,7 +2141,12 @@
       "weight": 1840,
       "seats": 4,
       "price": "~$155,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.3 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2022|AMG CLS 53 4MATIC+": {
       "engine": "3.0L AMG Turbo I6",
@@ -1843,7 +2165,12 @@
       "weight": 1900,
       "seats": 4,
       "price": "~$190,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.8 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2023|CLS 350": {
       "engine": "2.0L Turbo",
@@ -1862,7 +2189,12 @@
       "weight": 1730,
       "seats": 4,
       "price": "~$137,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.3 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2023|CLS 450 4MATIC": {
       "engine": "3.0L Turbo I6",
@@ -1881,7 +2213,12 @@
       "weight": 1840,
       "seats": 4,
       "price": "~$157,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.3 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2023|AMG CLS 53 4MATIC+": {
       "engine": "3.0L AMG Turbo I6",
@@ -1900,7 +2237,12 @@
       "weight": 1900,
       "seats": 4,
       "price": "~$192,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.8 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2024|CLS 350": {
       "engine": "2.0L Turbo",
@@ -1919,7 +2261,12 @@
       "weight": 1730,
       "seats": 4,
       "price": "~$139,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.3 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2024|CLS 450 4MATIC": {
       "engine": "3.0L Turbo I6",
@@ -1938,7 +2285,12 @@
       "weight": 1840,
       "seats": 4,
       "price": "~$159,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.3 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2024|AMG CLS 53 4MATIC+": {
       "engine": "3.0L AMG Turbo I6",
@@ -1957,7 +2309,12 @@
       "weight": 1900,
       "seats": 4,
       "price": "~$194,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.8 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2025|CLS 350": {
       "engine": "2.0L Turbo",
@@ -1976,7 +2333,12 @@
       "weight": 1730,
       "seats": 4,
       "price": "~$141,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.3 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2025|CLS 450 4MATIC": {
       "engine": "3.0L Turbo I6",
@@ -1995,7 +2357,12 @@
       "weight": 1840,
       "seats": 4,
       "price": "~$161,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.3 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2025|AMG CLS 53 4MATIC+": {
       "engine": "3.0L AMG Turbo I6",
@@ -2014,7 +2381,12 @@
       "weight": 1900,
       "seats": 4,
       "price": "~$196,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.8 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2026|CLS 350": {
       "engine": "2.0L Turbo",
@@ -2033,7 +2405,12 @@
       "weight": 1730,
       "seats": 4,
       "price": "~$143,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.3 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2026|CLS 450 4MATIC": {
       "engine": "3.0L Turbo I6",
@@ -2052,7 +2429,12 @@
       "weight": 1840,
       "seats": 4,
       "price": "~$163,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.3 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLS|2026|AMG CLS 53 4MATIC+": {
       "engine": "3.0L AMG Turbo I6",
@@ -2071,7 +2453,12 @@
       "weight": 1900,
       "seats": 4,
       "price": "~$198,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.8 sec",
+      "cargo": 565,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|i4|2021|eDrive35": {
       "engine": "Electric",
@@ -2092,7 +2479,12 @@
       "seats": 5,
       "battery": "70.2 kWh",
       "price": "~$89,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec",
+      "cargo": 470,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|i4|2021|eDrive40": {
       "engine": "Electric",
@@ -2113,7 +2505,12 @@
       "seats": 5,
       "battery": "83.9 kWh",
       "price": "~$99,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.0 sec",
+      "cargo": 470,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|i4|2021|M50 xDrive": {
       "engine": "Electric Dual Motor",
@@ -2134,7 +2531,12 @@
       "seats": 5,
       "battery": "83.9 kWh",
       "price": "~$129,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.2 sec",
+      "cargo": 470,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|i4|2022|eDrive35": {
       "engine": "Electric",
@@ -2155,7 +2557,12 @@
       "seats": 5,
       "battery": "70.2 kWh",
       "price": "~$91,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec",
+      "cargo": 470,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|i4|2022|eDrive40": {
       "engine": "Electric",
@@ -2176,7 +2583,12 @@
       "seats": 5,
       "battery": "83.9 kWh",
       "price": "~$101,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.0 sec",
+      "cargo": 470,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|i4|2022|M50 xDrive": {
       "engine": "Electric Dual Motor",
@@ -2197,7 +2609,12 @@
       "seats": 5,
       "battery": "83.9 kWh",
       "price": "~$131,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.2 sec",
+      "cargo": 470,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|i4|2023|eDrive35": {
       "engine": "Electric",
@@ -2218,7 +2635,12 @@
       "seats": 5,
       "battery": "70.2 kWh",
       "price": "~$93,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec",
+      "cargo": 470,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|i4|2023|eDrive40": {
       "engine": "Electric",
@@ -2239,7 +2661,12 @@
       "seats": 5,
       "battery": "83.9 kWh",
       "price": "~$103,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.0 sec",
+      "cargo": 470,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|i4|2023|M50 xDrive": {
       "engine": "Electric Dual Motor",
@@ -2260,7 +2687,12 @@
       "seats": 5,
       "battery": "83.9 kWh",
       "price": "~$133,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.2 sec",
+      "cargo": 470,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|iX3|2020|Impressive": {
       "engine": "Electric",
@@ -2281,7 +2713,8 @@
       "seats": 5,
       "battery": "80 kWh",
       "price": "~$94,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.0 sec"
     },
     "BMW|iX3|2020|M Sport": {
       "engine": "Electric",
@@ -2302,7 +2735,8 @@
       "seats": 5,
       "battery": "80 kWh",
       "price": "~$104,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.0 sec"
     },
     "BMW|iX3|2021|Impressive": {
       "engine": "Electric",
@@ -2323,7 +2757,8 @@
       "seats": 5,
       "battery": "80 kWh",
       "price": "~$96,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.0 sec"
     },
     "BMW|iX3|2021|M Sport": {
       "engine": "Electric",
@@ -2344,7 +2779,8 @@
       "seats": 5,
       "battery": "80 kWh",
       "price": "~$106,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.0 sec"
     },
     "BMW|iX3|2022|Impressive": {
       "engine": "Electric",
@@ -2365,7 +2801,8 @@
       "seats": 5,
       "battery": "80 kWh",
       "price": "~$98,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.0 sec"
     },
     "BMW|iX3|2022|M Sport": {
       "engine": "Electric",
@@ -2386,7 +2823,8 @@
       "seats": 5,
       "battery": "80 kWh",
       "price": "~$108,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.0 sec"
     },
     "BMW|iX3|2023|Impressive": {
       "engine": "Electric",
@@ -2407,7 +2845,8 @@
       "seats": 5,
       "battery": "80 kWh",
       "price": "~$100,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.0 sec"
     },
     "BMW|iX3|2023|M Sport": {
       "engine": "Electric",
@@ -2428,7 +2867,8 @@
       "seats": 5,
       "battery": "80 kWh",
       "price": "~$110,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.0 sec"
     },
     "BMW|iX|2021|xDrive40": {
       "engine": "Electric Dual Motor",
@@ -2638,7 +3078,8 @@
       "seats": 5,
       "battery": "84 kWh",
       "price": "~$124,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec"
     },
     "BMW|i5|2023|xDrive40": {
       "engine": "Electric",
@@ -2659,7 +3100,8 @@
       "seats": 5,
       "battery": "84 kWh",
       "price": "~$134,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.2 sec"
     },
     "BMW|i5|2023|M60 xDrive": {
       "engine": "Electric Dual Motor",
@@ -2680,7 +3122,8 @@
       "seats": 5,
       "battery": "84 kWh",
       "price": "~$174,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.0 sec"
     },
     "BMW|i7|2022|eDrive60": {
       "engine": "Electric",
@@ -2701,7 +3144,12 @@
       "seats": 5,
       "battery": "101.7 kWh",
       "price": "~$219,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.0 sec",
+      "cargo": 500,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|i7|2022|xDrive60": {
       "engine": "Electric",
@@ -2722,7 +3170,12 @@
       "seats": 5,
       "battery": "101.7 kWh",
       "price": "~$239,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.8 sec",
+      "cargo": 500,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|i7|2022|M70 xDrive": {
       "engine": "Electric",
@@ -2743,7 +3196,12 @@
       "seats": 5,
       "battery": "101.7 kWh",
       "price": "~$299,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.9 sec",
+      "cargo": 500,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|i7|2023|eDrive60": {
       "engine": "Electric",
@@ -2764,7 +3222,12 @@
       "seats": 5,
       "battery": "101.7 kWh",
       "price": "~$222,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.0 sec",
+      "cargo": 500,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|i7|2023|xDrive60": {
       "engine": "Electric",
@@ -2785,7 +3248,12 @@
       "seats": 5,
       "battery": "101.7 kWh",
       "price": "~$242,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.8 sec",
+      "cargo": 500,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|i7|2023|M70 xDrive": {
       "engine": "Electric",
@@ -2806,7 +3274,12 @@
       "seats": 5,
       "battery": "101.7 kWh",
       "price": "~$302,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.9 sec",
+      "cargo": 500,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|M2|2016|Competition": {
       "engine": "3.0L TwinPower Turbo I6",
@@ -2825,7 +3298,12 @@
       "weight": 1550,
       "seats": 4,
       "price": "~$99,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~12.5 sec",
+      "cargo": 390,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|M2|2016|CS": {
       "engine": "3.0L TwinPower Turbo I6",
@@ -2844,7 +3322,12 @@
       "weight": 1550,
       "seats": 4,
       "price": "~$129,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~12.3 sec",
+      "cargo": 390,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|M2|2017|Competition": {
       "engine": "3.0L TwinPower Turbo I6",
@@ -2863,7 +3346,12 @@
       "weight": 1550,
       "seats": 4,
       "price": "~$101,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~12.5 sec",
+      "cargo": 390,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|M2|2017|CS": {
       "engine": "3.0L TwinPower Turbo I6",
@@ -2882,7 +3370,12 @@
       "weight": 1550,
       "seats": 4,
       "price": "~$131,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~12.3 sec",
+      "cargo": 390,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|M2|2018|Competition": {
       "engine": "3.0L TwinPower Turbo I6",
@@ -2901,7 +3394,12 @@
       "weight": 1550,
       "seats": 4,
       "price": "~$103,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~12.5 sec",
+      "cargo": 390,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|M2|2018|CS": {
       "engine": "3.0L TwinPower Turbo I6",
@@ -2920,7 +3418,12 @@
       "weight": 1550,
       "seats": 4,
       "price": "~$133,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~12.3 sec",
+      "cargo": 390,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|M2|2019|Competition": {
       "engine": "3.0L TwinPower Turbo I6",
@@ -2939,7 +3442,12 @@
       "weight": 1550,
       "seats": 4,
       "price": "~$105,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~12.5 sec",
+      "cargo": 390,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|M2|2019|CS": {
       "engine": "3.0L TwinPower Turbo I6",
@@ -2958,7 +3466,12 @@
       "weight": 1550,
       "seats": 4,
       "price": "~$135,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~12.3 sec",
+      "cargo": 390,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|M2|2020|Competition": {
       "engine": "3.0L TwinPower Turbo I6",
@@ -2977,7 +3490,12 @@
       "weight": 1550,
       "seats": 4,
       "price": "~$107,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~12.5 sec",
+      "cargo": 390,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|M2|2020|CS": {
       "engine": "3.0L TwinPower Turbo I6",
@@ -2996,7 +3514,12 @@
       "weight": 1550,
       "seats": 4,
       "price": "~$137,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~12.3 sec",
+      "cargo": 390,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|M2|2023|Coupe": {
       "engine": "3.0L TwinPower Turbo I6",
@@ -3244,7 +3767,12 @@
       "seats": 5,
       "battery": "77 kWh",
       "price": "~$74,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.0 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.3|2025|Pro": {
       "engine": "Electric",
@@ -3307,7 +3835,12 @@
       "seats": 5,
       "battery": "77 kWh",
       "price": "~$75,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.0 sec",
+      "cargo": 385,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.3|2026|Pro": {
       "engine": "Electric",
@@ -3370,7 +3903,8 @@
       "seats": 5,
       "battery": "77 kWh",
       "price": "~$77,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.0 sec"
     },
     "Volkswagen|ID.4|2022|Pro": {
       "engine": "Electric",
@@ -3517,7 +4051,12 @@
       "seats": 5,
       "battery": "77 kWh",
       "price": "~$69,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec",
+      "cargo": 549,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.5|2022|Pro 4MOTION": {
       "engine": "Electric",
@@ -3538,7 +4077,12 @@
       "seats": 5,
       "battery": "77 kWh",
       "price": "~$77,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec",
+      "cargo": 549,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.5|2022|GTX": {
       "engine": "Electric Dual Motor",
@@ -3559,7 +4103,12 @@
       "seats": 5,
       "battery": "77 kWh",
       "price": "~$84,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.5 sec",
+      "cargo": 549,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.5|2023|Pro": {
       "engine": "Electric",
@@ -3580,7 +4129,12 @@
       "seats": 5,
       "battery": "77 kWh",
       "price": "~$71,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec",
+      "cargo": 549,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.5|2023|Pro 4MOTION": {
       "engine": "Electric",
@@ -3601,7 +4155,12 @@
       "seats": 5,
       "battery": "77 kWh",
       "price": "~$79,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.5 sec",
+      "cargo": 549,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.5|2023|GTX": {
       "engine": "Electric Dual Motor",
@@ -3622,7 +4181,12 @@
       "seats": 5,
       "battery": "77 kWh",
       "price": "~$86,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.5 sec",
+      "cargo": 549,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.7|2024|Pro": {
       "engine": "Electric",
@@ -3643,7 +4207,12 @@
       "seats": 5,
       "battery": "82 kWh",
       "price": "~$89,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.8 sec",
+      "cargo": 532,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.7|2024|Tourer Pro": {
       "engine": "Electric",
@@ -3664,7 +4233,12 @@
       "seats": 5,
       "battery": "82 kWh",
       "price": "~$94,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.8 sec",
+      "cargo": 532,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.7|2024|GTX": {
       "engine": "Electric",
@@ -3685,7 +4259,12 @@
       "seats": 5,
       "battery": "82 kWh",
       "price": "~$104,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.7 sec",
+      "cargo": 532,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.7|2025|Pro": {
       "engine": "Electric",
@@ -3706,7 +4285,12 @@
       "seats": 5,
       "battery": "82 kWh",
       "price": "~$91,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.8 sec",
+      "cargo": 532,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.7|2025|Tourer Pro": {
       "engine": "Electric",
@@ -3727,7 +4311,12 @@
       "seats": 5,
       "battery": "82 kWh",
       "price": "~$96,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.8 sec",
+      "cargo": 532,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.7|2025|GTX": {
       "engine": "Electric",
@@ -3748,7 +4337,12 @@
       "seats": 5,
       "battery": "82 kWh",
       "price": "~$106,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.7 sec",
+      "cargo": 532,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.7|2026|Pro": {
       "engine": "Electric",
@@ -3769,7 +4363,12 @@
       "seats": 5,
       "battery": "82 kWh",
       "price": "~$93,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.8 sec",
+      "cargo": 532,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.7|2026|Tourer Pro": {
       "engine": "Electric",
@@ -3790,7 +4389,12 @@
       "seats": 5,
       "battery": "82 kWh",
       "price": "~$98,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.8 sec",
+      "cargo": 532,
+      "est": [
+        "cargo"
+      ]
     },
     "Volkswagen|ID.7|2026|GTX": {
       "engine": "Electric",
@@ -3811,7 +4415,12 @@
       "seats": 5,
       "battery": "82 kWh",
       "price": "~$108,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.7 sec",
+      "cargo": 532,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|GR86|2022|GR86": {
       "engine": "2.4L Boxer",
@@ -3830,7 +4439,12 @@
       "weight": 1270,
       "seats": 4,
       "price": "~$33,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.6 sec",
+      "cargo": 237,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|GR86|2022|GR86 Premium": {
       "engine": "2.4L Boxer",
@@ -3849,7 +4463,12 @@
       "weight": 1270,
       "seats": 4,
       "price": "~$37,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.6 sec",
+      "cargo": 237,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|GR86|2022|GTS": {
       "engine": "2.4L Boxer",
@@ -3868,7 +4487,12 @@
       "weight": 1270,
       "seats": 4,
       "price": "~$41,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.6 sec",
+      "cargo": 237,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|GR86|2023|GR86": {
       "engine": "2.4L Boxer",
@@ -3887,7 +4511,12 @@
       "weight": 1270,
       "seats": 4,
       "price": "~$34,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.6 sec",
+      "cargo": 237,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|GR86|2023|GR86 Premium": {
       "engine": "2.4L Boxer",
@@ -3906,7 +4535,12 @@
       "weight": 1270,
       "seats": 4,
       "price": "~$38,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.6 sec",
+      "cargo": 237,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|GR86|2023|GTS": {
       "engine": "2.4L Boxer",
@@ -3925,7 +4559,12 @@
       "weight": 1270,
       "seats": 4,
       "price": "~$42,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.6 sec",
+      "cargo": 237,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|GR Corolla|2023|Core": {
       "engine": "1.6L Turbo 3-cyl",
@@ -3944,7 +4583,12 @@
       "weight": 1470,
       "seats": 5,
       "price": "~$59,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.3 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|GR Corolla|2023|Premium": {
       "engine": "1.6L Turbo 3-cyl",
@@ -3963,7 +4607,12 @@
       "weight": 1470,
       "seats": 5,
       "price": "~$65,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.3 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|GR Corolla|2023|Morizo Edition": {
       "engine": "1.6L Turbo 3-cyl",
@@ -3982,7 +4631,12 @@
       "weight": 1470,
       "seats": 2,
       "price": "~$74,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.0 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Prius C|2012|i-Tech": {
       "engine": "1.5L Atkinson + Electric",
@@ -4001,7 +4655,12 @@
       "weight": 1080,
       "seats": 5,
       "price": "~$24,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.7 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Prius C|2012|Q": {
       "engine": "1.5L Atkinson + Electric",
@@ -4020,7 +4679,12 @@
       "weight": 1080,
       "seats": 5,
       "price": "~$27,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.7 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Prius C|2013|i-Tech": {
       "engine": "1.5L Atkinson + Electric",
@@ -4039,7 +4703,12 @@
       "weight": 1080,
       "seats": 5,
       "price": "~$25,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.7 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Prius C|2013|Q": {
       "engine": "1.5L Atkinson + Electric",
@@ -4058,7 +4727,12 @@
       "weight": 1080,
       "seats": 5,
       "price": "~$28,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.7 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Prius C|2014|i-Tech": {
       "engine": "1.5L Atkinson + Electric",
@@ -4077,7 +4751,12 @@
       "weight": 1080,
       "seats": 5,
       "price": "~$25,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.7 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Prius C|2014|Q": {
       "engine": "1.5L Atkinson + Electric",
@@ -4096,7 +4775,12 @@
       "weight": 1080,
       "seats": 5,
       "price": "~$28,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.7 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Prius C|2015|i-Tech": {
       "engine": "1.5L Atkinson + Electric",
@@ -4115,7 +4799,12 @@
       "weight": 1080,
       "seats": 5,
       "price": "~$26,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.7 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Prius C|2015|Q": {
       "engine": "1.5L Atkinson + Electric",
@@ -4134,7 +4823,12 @@
       "weight": 1080,
       "seats": 5,
       "price": "~$29,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.7 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Prius C|2016|i-Tech": {
       "engine": "1.5L Atkinson + Electric",
@@ -4153,7 +4847,12 @@
       "weight": 1080,
       "seats": 5,
       "price": "~$26,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.7 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Prius C|2016|Q": {
       "engine": "1.5L Atkinson + Electric",
@@ -4172,7 +4871,12 @@
       "weight": 1080,
       "seats": 5,
       "price": "~$29,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.7 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Prius C|2017|i-Tech": {
       "engine": "1.5L Atkinson + Electric",
@@ -4191,7 +4895,12 @@
       "weight": 1080,
       "seats": 5,
       "price": "~$27,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.7 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Prius C|2017|Q": {
       "engine": "1.5L Atkinson + Electric",
@@ -4210,7 +4919,12 @@
       "weight": 1080,
       "seats": 5,
       "price": "~$30,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.7 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Prius C|2018|i-Tech": {
       "engine": "1.5L Atkinson + Electric",
@@ -4229,7 +4943,12 @@
       "weight": 1080,
       "seats": 5,
       "price": "~$27,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.7 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Prius C|2018|Q": {
       "engine": "1.5L Atkinson + Electric",
@@ -4248,7 +4967,12 @@
       "weight": 1080,
       "seats": 5,
       "price": "~$30,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.7 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Prius C|2019|i-Tech": {
       "engine": "1.5L Atkinson + Electric",
@@ -4267,7 +4991,12 @@
       "weight": 1080,
       "seats": 5,
       "price": "~$28,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.7 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|Prius C|2019|Q": {
       "engine": "1.5L Atkinson + Electric",
@@ -4286,7 +5015,12 @@
       "weight": 1080,
       "seats": 5,
       "price": "~$31,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.7 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|bZ4X|2022|GX FWD": {
       "engine": "Electric",
@@ -4307,7 +5041,12 @@
       "seats": 5,
       "battery": "71.4 kWh",
       "price": "~$59,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec",
+      "cargo": 452,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|bZ4X|2022|GXL FWD": {
       "engine": "Electric",
@@ -4328,7 +5067,12 @@
       "seats": 5,
       "battery": "71.4 kWh",
       "price": "~$66,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec",
+      "cargo": 452,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|bZ4X|2022|GXL AWD": {
       "engine": "Electric Dual Motor",
@@ -4349,7 +5093,12 @@
       "seats": 5,
       "battery": "72.8 kWh",
       "price": "~$72,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.1 sec",
+      "cargo": 452,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|bZ4X|2022|Koba AWD": {
       "engine": "Electric Dual Motor",
@@ -4370,7 +5119,12 @@
       "seats": 5,
       "battery": "72.8 kWh",
       "price": "~$78,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.1 sec",
+      "cargo": 452,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|bZ4X|2023|GX FWD": {
       "engine": "Electric",
@@ -4391,7 +5145,12 @@
       "seats": 5,
       "battery": "71.4 kWh",
       "price": "~$61,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec",
+      "cargo": 452,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|bZ4X|2023|GXL FWD": {
       "engine": "Electric",
@@ -4412,7 +5171,12 @@
       "seats": 5,
       "battery": "71.4 kWh",
       "price": "~$68,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec",
+      "cargo": 452,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|bZ4X|2023|GXL AWD": {
       "engine": "Electric Dual Motor",
@@ -4433,7 +5197,12 @@
       "seats": 5,
       "battery": "72.8 kWh",
       "price": "~$74,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.1 sec",
+      "cargo": 452,
+      "est": [
+        "cargo"
+      ]
     },
     "Toyota|bZ4X|2023|Koba AWD": {
       "engine": "Electric Dual Motor",
@@ -4454,7 +5223,12 @@
       "seats": 5,
       "battery": "72.8 kWh",
       "price": "~$80,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.1 sec",
+      "cargo": 452,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

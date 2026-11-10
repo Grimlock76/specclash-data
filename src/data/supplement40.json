@@ -20,7 +20,8 @@
       "cargo": 385,
       "acceleration": 10,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.5 sec"
     },
     "Volkswagen|ID.3|2021|Pro": {
       "engine": "AC Motor (Rear) 150kW",
@@ -86,7 +87,8 @@
       "cargo": 385,
       "acceleration": 10,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.5 sec"
     },
     "Volkswagen|ID.3|2022|Pro": {
       "engine": "AC Motor (Rear) 150kW",
@@ -152,7 +154,8 @@
       "cargo": 385,
       "acceleration": 10,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~17.5 sec"
     },
     "Volkswagen|ID.3|2023|Pro": {
       "engine": "AC Motor (Rear) 150kW",

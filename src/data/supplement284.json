@@ -18,7 +18,8 @@
       "weight": 1573,
       "seats": 5,
       "cargo": 463,
-      "price": "~$38,990"
+      "price": "~$38,990",
+      "quarterMile": "~17.5 sec"
     },
     "MG|HS|2020|Excite": {
       "engine": "1.5L I4 Turbo",
@@ -38,7 +39,8 @@
       "weight": 1543,
       "seats": 5,
       "cargo": 463,
-      "price": "~$34,990"
+      "price": "~$34,990",
+      "quarterMile": "~17.5 sec"
     },
     "MG|HS|2020|Vibe": {
       "engine": "1.5L I4 Turbo",
@@ -58,7 +60,8 @@
       "weight": 1523,
       "seats": 5,
       "cargo": 463,
-      "price": "~$31,990"
+      "price": "~$31,990",
+      "quarterMile": "~17.5 sec"
     },
     "MG|HS|2020|Core": {
       "engine": "1.5L I4 Turbo",
@@ -98,7 +101,16 @@
       "seats": 5,
       "price": "~$44,990",
       "aspiration": "BorgWarner Single-Turbo",
-      "fx": 1.7
+      "fx": 1.7,
+      "quarterMile": "~15.1 sec",
+      "fc": 1.9,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 1.5,
+      "cargo": 463
     },
     "MG|HS|2021|Essence": {
       "engine": "1.5L I4 Turbo",
@@ -118,7 +130,8 @@
       "weight": 1573,
       "seats": 5,
       "cargo": 463,
-      "price": "~$38,990"
+      "price": "~$38,990",
+      "quarterMile": "~17.5 sec"
     },
     "MG|HS|2021|Excite": {
       "engine": "1.5L I4 Turbo",
@@ -138,7 +151,8 @@
       "weight": 1543,
       "seats": 5,
       "cargo": 463,
-      "price": "~$34,990"
+      "price": "~$34,990",
+      "quarterMile": "~17.5 sec"
     },
     "MG|HS|2021|Vibe": {
       "engine": "1.5L I4 Turbo",
@@ -158,7 +172,8 @@
       "weight": 1523,
       "seats": 5,
       "cargo": 463,
-      "price": "~$31,990"
+      "price": "~$31,990",
+      "quarterMile": "~17.5 sec"
     },
     "MG|HS|2021|Core": {
       "engine": "1.5L I4 Turbo",
@@ -198,7 +213,16 @@
       "seats": 5,
       "price": "~$45,790",
       "aspiration": "BorgWarner Single-Turbo",
-      "fx": 1.7
+      "fx": 1.7,
+      "quarterMile": "~15.1 sec",
+      "fc": 1.9,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 1.5,
+      "cargo": 463
     },
     "MG|HS|2022|Essence": {
       "engine": "1.5L I4 Turbo",
@@ -218,7 +242,8 @@
       "weight": 1573,
       "seats": 5,
       "cargo": 463,
-      "price": "~$38,990"
+      "price": "~$38,990",
+      "quarterMile": "~17.5 sec"
     },
     "MG|HS|2022|Excite": {
       "engine": "1.5L I4 Turbo",
@@ -238,7 +263,8 @@
       "weight": 1543,
       "seats": 5,
       "cargo": 463,
-      "price": "~$34,990"
+      "price": "~$34,990",
+      "quarterMile": "~17.5 sec"
     },
     "MG|HS|2022|Vibe": {
       "engine": "1.5L I4 Turbo",
@@ -258,7 +284,8 @@
       "weight": 1523,
       "seats": 5,
       "cargo": 463,
-      "price": "~$31,990"
+      "price": "~$31,990",
+      "quarterMile": "~17.5 sec"
     },
     "MG|HS|2022|Core": {
       "engine": "1.5L I4 Turbo",
@@ -298,7 +325,16 @@
       "seats": 5,
       "price": "~$46,590",
       "aspiration": "BorgWarner Single-Turbo",
-      "fx": 1.7
+      "fx": 1.7,
+      "quarterMile": "~15.1 sec",
+      "fc": 1.9,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 1.5,
+      "cargo": 463
     },
     "MG|HS|2022|PHEV Trophy": {
       "engine": "1.5L I4 Turbo PHEV",
@@ -311,13 +347,20 @@
       "torque": 440,
       "weight": 1835,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.9,
+      "fh": 1.5,
       "fx": 1.7,
       "acceleration": 6.9,
       "topSpeed": 200,
       "price": "~$47,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 463
     },
     "MG|HS|2023|Essence": {
       "engine": "1.5L I4 Turbo",
@@ -337,7 +380,8 @@
       "weight": 1573,
       "seats": 5,
       "cargo": 463,
-      "price": "~$38,990"
+      "price": "~$38,990",
+      "quarterMile": "~17.5 sec"
     },
     "MG|HS|2023|Excite": {
       "engine": "1.5L I4 Turbo",
@@ -357,7 +401,8 @@
       "weight": 1543,
       "seats": 5,
       "cargo": 463,
-      "price": "~$34,990"
+      "price": "~$34,990",
+      "quarterMile": "~17.5 sec"
     },
     "MG|HS|2023|Vibe": {
       "engine": "1.5L I4 Turbo",
@@ -377,7 +422,8 @@
       "weight": 1523,
       "seats": 5,
       "cargo": 463,
-      "price": "~$31,990"
+      "price": "~$31,990",
+      "quarterMile": "~17.5 sec"
     },
     "MG|HS|2023|Core": {
       "engine": "1.5L I4 Turbo",
@@ -412,13 +458,20 @@
       "torque": 370,
       "weight": 1875,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "fx": 1.2,
       "acceleration": 7.5,
       "topSpeed": 175,
       "price": "~$54,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 485
     },
     "MG|HS|2023|PHEV Essence": {
       "engine": "1.5L Turbo PHEV",
@@ -436,7 +489,16 @@
       "seats": 5,
       "price": "~$47,390",
       "aspiration": "BorgWarner Single-Turbo",
-      "fx": 1.7
+      "fx": 1.7,
+      "quarterMile": "~15.1 sec",
+      "fc": 1.9,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 1.5,
+      "cargo": 485
     },
     "MG|HS|2023|PHEV Trophy": {
       "engine": "1.5L Turbo PHEV",
@@ -454,7 +516,16 @@
       "seats": 5,
       "price": "~$50,790",
       "aspiration": "BorgWarner Single-Turbo",
-      "fx": 1.7
+      "fx": 1.7,
+      "quarterMile": "~15.1 sec",
+      "fc": 1.9,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 1.5,
+      "cargo": 485
     },
     "MG|HS|2024|Essence": {
       "engine": "1.5L I4 Turbo",
@@ -474,7 +545,8 @@
       "weight": 1580,
       "seats": 5,
       "cargo": 507,
-      "price": "~$40,990"
+      "price": "~$40,990",
+      "quarterMile": "~17.2 sec"
     },
     "MG|HS|2024|Excite": {
       "engine": "1.5L I4 Turbo",
@@ -494,7 +566,8 @@
       "weight": 1560,
       "seats": 5,
       "cargo": 507,
-      "price": "~$36,990"
+      "price": "~$36,990",
+      "quarterMile": "~17.2 sec"
     },
     "MG|HS|2024|Vibe": {
       "engine": "1.5L I4 Turbo",
@@ -514,7 +587,8 @@
       "weight": 1540,
       "seats": 5,
       "cargo": 507,
-      "price": "~$33,990"
+      "price": "~$33,990",
+      "quarterMile": "~17.2 sec"
     },
     "MG|HS|2024|Core": {
       "engine": "1.5L I4 Turbo",
@@ -549,13 +623,20 @@
       "torque": 370,
       "weight": 1875,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "fx": 1.2,
       "acceleration": 7.5,
       "topSpeed": 175,
       "price": "~$54,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 507
     },
     "MG|HS|2024|PHEV Essence": {
       "engine": "1.5L Turbo PHEV",
@@ -573,7 +654,16 @@
       "seats": 5,
       "price": "~$48,190",
       "aspiration": "BorgWarner Single-Turbo",
-      "fx": 1.7
+      "fx": 1.7,
+      "quarterMile": "~15.1 sec",
+      "fc": 1.9,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 1.5,
+      "cargo": 507
     },
     "MG|HS|2024|PHEV Trophy": {
       "engine": "1.5L Turbo PHEV",
@@ -591,7 +681,16 @@
       "seats": 5,
       "price": "~$51,590",
       "aspiration": "BorgWarner Single-Turbo",
-      "fx": 1.7
+      "fx": 1.7,
+      "quarterMile": "~15.1 sec",
+      "fc": 1.9,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 1.5,
+      "cargo": 507
     },
     "MG|HS|2025|Essence": {
       "engine": "1.5L I4 Turbo",
@@ -611,7 +710,8 @@
       "weight": 1580,
       "seats": 5,
       "cargo": 507,
-      "price": "~$40,990"
+      "price": "~$40,990",
+      "quarterMile": "~17.2 sec"
     },
     "MG|HS|2025|Excite": {
       "engine": "1.5L I4 Turbo",
@@ -631,7 +731,8 @@
       "weight": 1560,
       "seats": 5,
       "cargo": 507,
-      "price": "~$36,990"
+      "price": "~$36,990",
+      "quarterMile": "~17.2 sec"
     },
     "MG|HS|2025|Vibe": {
       "engine": "1.5L I4 Turbo",
@@ -651,7 +752,8 @@
       "weight": 1540,
       "seats": 5,
       "cargo": 507,
-      "price": "~$33,990"
+      "price": "~$33,990",
+      "quarterMile": "~17.2 sec"
     },
     "MG|HS|2025|PHEV": {
       "engine": "1.5L I4 Turbo PHEV",
@@ -691,7 +793,16 @@
       "seats": 5,
       "price": "~$48,990",
       "aspiration": "BorgWarner Single-Turbo",
-      "fx": 1.7
+      "fx": 1.7,
+      "quarterMile": "~15.1 sec",
+      "fc": 1.9,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 1.5,
+      "cargo": 507
     },
     "MG|HS|2025|PHEV Trophy": {
       "engine": "1.5L Turbo PHEV",
@@ -709,7 +820,16 @@
       "seats": 5,
       "price": "~$52,390",
       "aspiration": "BorgWarner Single-Turbo",
-      "fx": 1.7
+      "fx": 1.7,
+      "quarterMile": "~15.1 sec",
+      "fc": 1.9,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 1.5,
+      "cargo": 507
     }
   }
 }

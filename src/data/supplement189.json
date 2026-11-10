@@ -17,7 +17,8 @@
       "acceleration": 9.7,
       "topSpeed": 195,
       "price": "~$56,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.4 sec"
     },
     "Volvo|XC40|2021|B5": {
       "engine": "2.0L I4 Turbo MHEV",
@@ -36,7 +37,8 @@
       "acceleration": 6.4,
       "topSpeed": 210,
       "price": "~$69,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.7 sec"
     },
     "Volvo|XC40|2021|Recharge P8": {
       "engine": "Dual Motor Electric",
@@ -55,7 +57,8 @@
       "acceleration": 4.9,
       "topSpeed": 180,
       "price": "~$79,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.2 sec"
     },
     "Volvo|XC60|2021|B5 AWD": {
       "engine": "2.0L I4 Turbo MHEV",
@@ -74,7 +77,12 @@
       "acceleration": 6.4,
       "topSpeed": 230,
       "price": "~$83,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.7 sec",
+      "cargo": 505,
+      "est": [
+        "cargo"
+      ]
     },
     "Volvo|S90|2021|B5": {
       "engine": "2.0L I4 Turbo MHEV",
@@ -93,7 +101,12 @@
       "acceleration": 6.4,
       "topSpeed": 230,
       "price": "~$109,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.7 sec",
+      "cargo": 500,
+      "est": [
+        "cargo"
+      ]
     },
     "Volvo|V90|2021|B5": {
       "engine": "2.0L I4 Turbo MHEV",
@@ -112,7 +125,12 @@
       "acceleration": 6.4,
       "topSpeed": 230,
       "price": "~$113,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.7 sec",
+      "cargo": 560,
+      "est": [
+        "cargo"
+      ]
     },
     "Subaru|Forester|2021|Hybrid L": {
       "engine": "2.0L I4 Boxer e-BOXER Hybrid",
@@ -131,7 +149,12 @@
       "acceleration": 11.5,
       "topSpeed": 195,
       "price": "~$44,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.5 sec",
+      "cargo": 520,
+      "est": [
+        "cargo"
+      ]
     },
     "Subaru|Forester|2021|Hybrid S": {
       "engine": "2.0L I4 Boxer e-BOXER Hybrid",
@@ -150,7 +173,12 @@
       "acceleration": 11.5,
       "topSpeed": 195,
       "price": "~$50,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~18.5 sec",
+      "cargo": 520,
+      "est": [
+        "cargo"
+      ]
     },
     "Subaru|Levorg|2021|1.8GT": {
       "engine": "1.8L I4 Turbo FA18",
@@ -169,7 +197,12 @@
       "acceleration": 8.6,
       "topSpeed": 225,
       "price": "~$54,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.6 sec",
+      "cargo": 522,
+      "est": [
+        "cargo"
+      ]
     },
     "Subaru|Levorg|2021|1.8GT-H": {
       "engine": "1.8L I4 Turbo FA18",
@@ -188,7 +221,12 @@
       "acceleration": 8.6,
       "topSpeed": 225,
       "price": "~$57,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.6 sec",
+      "cargo": 522,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2021|IS 300": {
       "engine": "2.0L I4 Turbo",
@@ -207,7 +245,12 @@
       "acceleration": 7.2,
       "topSpeed": 230,
       "price": "~$65,990",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.4 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2021|IS 350 F Sport": {
       "engine": "3.5L V6 NA",
@@ -226,7 +269,12 @@
       "acceleration": 5.5,
       "topSpeed": 230,
       "price": "~$85,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.8 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RC|2021|RC 300": {
       "engine": "2.0L I4 Turbo",
@@ -245,7 +293,12 @@
       "acceleration": 7.2,
       "topSpeed": 230,
       "price": "~$72,990",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.4 sec",
+      "cargo": 368,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|UX|2021|UX 300e": {
       "engine": "Single Motor Electric",
@@ -264,7 +317,12 @@
       "acceleration": 7.5,
       "topSpeed": 160,
       "price": "~$74,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.6 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Skoda|Octavia|2021|Ambition 110 TSI": {
       "engine": "1.5L I4 TSI",
@@ -283,7 +341,12 @@
       "acceleration": 8.8,
       "topSpeed": 210,
       "price": "~$34,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.8 sec",
+      "cargo": 600,
+      "est": [
+        "cargo"
+      ]
     },
     "Skoda|Octavia|2021|Style 140 TSI": {
       "engine": "2.0L I4 TSI",
@@ -302,7 +365,12 @@
       "acceleration": 7.5,
       "topSpeed": 220,
       "price": "~$43,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "cargo": 600,
+      "est": [
+        "cargo"
+      ]
     },
     "Skoda|Octavia|2021|RS Combi": {
       "engine": "2.0L I4 TSI",
@@ -321,7 +389,12 @@
       "acceleration": 6.8,
       "topSpeed": 250,
       "price": "~$52,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.0 sec",
+      "cargo": 600,
+      "est": [
+        "cargo"
+      ]
     },
     "Tesla|Model 3|2021|Standard Range RWD": {
       "engine": "Single Motor Electric",
@@ -340,7 +413,12 @@
       "acceleration": 6.1,
       "topSpeed": 225,
       "price": "~$63,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.4 sec",
+      "cargo": 594,
+      "est": [
+        "cargo"
+      ]
     },
     "MG|ZS|2021|Excite+ Turbo": {
       "engine": "1.3L I4 Turbo",
@@ -359,7 +437,8 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "price": "~$28,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.2 sec"
     },
     "MG|ZS|2021|Essence Turbo": {
       "engine": "1.3L I4 Turbo",
@@ -378,7 +457,8 @@
       "acceleration": 9.5,
       "topSpeed": 195,
       "price": "~$31,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.2 sec"
     }
   }
 }

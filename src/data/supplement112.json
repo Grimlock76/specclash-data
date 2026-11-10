@@ -17,7 +17,12 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$78,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.9 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2016|P300 R-Dynamic SE": {
       "engine": "2.0L Turbo",
@@ -36,7 +41,12 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$92,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.5 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2016|SVR": {
       "engine": "5.0L V8 Supercharged",
@@ -55,7 +65,12 @@
       "weight": 1990,
       "seats": 5,
       "price": "~$139,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~12.6 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2017|P250 S": {
       "engine": "2.0L Turbo",
@@ -74,7 +89,12 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$80,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.9 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2017|P300 R-Dynamic SE": {
       "engine": "2.0L Turbo",
@@ -93,7 +113,12 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$94,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.5 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2017|SVR": {
       "engine": "5.0L V8 Supercharged",
@@ -112,7 +137,12 @@
       "weight": 1990,
       "seats": 5,
       "price": "~$141,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~12.6 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2018|P250 S": {
       "engine": "2.0L Turbo",
@@ -131,7 +161,12 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$81,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.9 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2018|P300 R-Dynamic SE": {
       "engine": "2.0L Turbo",
@@ -150,7 +185,12 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$95,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.5 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2018|SVR": {
       "engine": "5.0L V8 Supercharged",
@@ -169,7 +209,12 @@
       "weight": 1990,
       "seats": 5,
       "price": "~$143,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~12.6 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2019|P250 S": {
       "engine": "2.0L Turbo",
@@ -188,7 +233,12 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$83,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.9 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2019|P300 R-Dynamic SE": {
       "engine": "2.0L Turbo",
@@ -207,7 +257,12 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$97,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.5 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2019|P400e R-Dynamic SE": {
       "engine": "2.0L Turbo PHEV",
@@ -244,7 +299,12 @@
       "weight": 1990,
       "seats": 5,
       "price": "~$145,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~12.6 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2020|P250 S": {
       "engine": "2.0L Turbo",
@@ -263,7 +323,12 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$84,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.9 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2020|P300 R-Dynamic SE": {
       "engine": "2.0L Turbo",
@@ -282,7 +347,12 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$98,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.5 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2020|P400e R-Dynamic SE": {
       "engine": "2.0L Turbo PHEV",
@@ -300,7 +370,16 @@
       "seats": 5,
       "price": "~$107,490",
       "aspiration": "Garrett Single-Turbo",
-      "fx": 2.5
+      "fx": 2.5,
+      "quarterMile": "~13.6 sec",
+      "fc": 2.9,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 2,
+      "cargo": 650
     },
     "Jaguar|F-Pace|2020|SVR": {
       "engine": "5.0L V8 Supercharged",
@@ -319,7 +398,12 @@
       "weight": 1990,
       "seats": 5,
       "price": "~$147,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~12.6 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2021|P250 S": {
       "engine": "2.0L Turbo",
@@ -338,7 +422,12 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$86,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.9 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2021|P300 R-Dynamic SE": {
       "engine": "2.0L Turbo",
@@ -357,7 +446,12 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$100,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.5 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2021|P400e R-Dynamic SE": {
       "engine": "2.0L Turbo PHEV",
@@ -375,7 +469,16 @@
       "seats": 5,
       "price": "~$108,990",
       "aspiration": "Garrett Single-Turbo",
-      "fx": 2.5
+      "fx": 2.5,
+      "quarterMile": "~13.6 sec",
+      "fc": 2.9,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 2,
+      "cargo": 650
     },
     "Jaguar|F-Pace|2021|SVR": {
       "engine": "5.0L V8 Supercharged",
@@ -394,7 +497,12 @@
       "weight": 1990,
       "seats": 5,
       "price": "~$149,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~12.6 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2022|P250 S": {
       "engine": "2.0L Turbo",
@@ -413,7 +521,12 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$87,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.9 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2022|P300 R-Dynamic SE": {
       "engine": "2.0L Turbo",
@@ -432,7 +545,12 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$101,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.5 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2022|P400e R-Dynamic SE": {
       "engine": "2.0L Turbo PHEV",
@@ -450,7 +568,16 @@
       "seats": 5,
       "price": "~$110,490",
       "aspiration": "Garrett Single-Turbo",
-      "fx": 2.5
+      "fx": 2.5,
+      "quarterMile": "~13.6 sec",
+      "fc": 2.9,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 2,
+      "cargo": 650
     },
     "Jaguar|F-Pace|2022|SVR": {
       "engine": "5.0L V8 Supercharged",
@@ -469,7 +596,12 @@
       "weight": 1990,
       "seats": 5,
       "price": "~$151,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~12.6 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2023|P250 S": {
       "engine": "2.0L Turbo",
@@ -488,7 +620,12 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$89,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.9 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2023|P300 R-Dynamic SE": {
       "engine": "2.0L Turbo",
@@ -507,7 +644,12 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$103,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.5 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2023|P400e R-Dynamic SE": {
       "engine": "2.0L Turbo PHEV",
@@ -525,7 +667,16 @@
       "seats": 5,
       "price": "~$111,990",
       "aspiration": "Garrett Single-Turbo",
-      "fx": 2.5
+      "fx": 2.5,
+      "quarterMile": "~13.6 sec",
+      "fc": 2.9,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 2,
+      "cargo": 650
     },
     "Jaguar|F-Pace|2023|SVR": {
       "engine": "5.0L V8 Supercharged",
@@ -544,7 +695,12 @@
       "weight": 1990,
       "seats": 5,
       "price": "~$153,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~12.6 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2024|P250 S": {
       "engine": "2.0L Turbo",
@@ -563,7 +719,12 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$90,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.9 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2024|P300 R-Dynamic SE": {
       "engine": "2.0L Turbo",
@@ -582,7 +743,12 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$104,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.5 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2024|P400e R-Dynamic SE": {
       "engine": "2.0L Turbo PHEV",
@@ -600,7 +766,16 @@
       "seats": 5,
       "price": "~$113,490",
       "aspiration": "Garrett Single-Turbo",
-      "fx": 2.5
+      "fx": 2.5,
+      "quarterMile": "~13.6 sec",
+      "fc": 2.9,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 2,
+      "cargo": 650
     },
     "Jaguar|F-Pace|2024|SVR": {
       "engine": "5.0L V8 Supercharged",
@@ -619,7 +794,12 @@
       "weight": 1990,
       "seats": 5,
       "price": "~$155,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~12.6 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2025|P250 S": {
       "engine": "2.0L Turbo",
@@ -638,7 +818,12 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$92,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.9 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2025|P300 R-Dynamic SE": {
       "engine": "2.0L Turbo",
@@ -657,7 +842,12 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$106,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.5 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2025|P400e R-Dynamic SE": {
       "engine": "2.0L Turbo PHEV",
@@ -675,7 +865,16 @@
       "seats": 5,
       "price": "~$114,990",
       "aspiration": "Garrett Single-Turbo",
-      "fx": 2.5
+      "fx": 2.5,
+      "quarterMile": "~13.6 sec",
+      "fc": 2.9,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 2,
+      "cargo": 650
     },
     "Jaguar|F-Pace|2025|SVR": {
       "engine": "5.0L V8 Supercharged",
@@ -694,7 +893,12 @@
       "weight": 1990,
       "seats": 5,
       "price": "~$157,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~12.6 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Pace|2026|P250 S": {
       "engine": "2.0L Turbo",
@@ -713,7 +917,8 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$93,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.9 sec"
     },
     "Jaguar|F-Pace|2026|P300 R-Dynamic SE": {
       "engine": "2.0L Turbo",
@@ -732,7 +937,8 @@
       "weight": 1820,
       "seats": 5,
       "price": "~$107,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.5 sec"
     },
     "Jaguar|F-Pace|2026|P400e R-Dynamic SE": {
       "engine": "2.0L Turbo PHEV",
@@ -750,7 +956,14 @@
       "seats": 5,
       "price": "~$116,490",
       "aspiration": "Garrett Single-Turbo",
-      "fx": 2.5
+      "fx": 2.5,
+      "quarterMile": "~13.6 sec",
+      "fc": 2.9,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 2
     },
     "Jaguar|F-Pace|2026|SVR": {
       "engine": "5.0L V8 Supercharged",
@@ -769,7 +982,8 @@
       "weight": 1990,
       "seats": 5,
       "price": "~$159,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~12.6 sec"
     },
     "Jaguar|F-Type|2013|P300 Coupe": {
       "engine": "2.0L Turbo",
@@ -788,7 +1002,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$89,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2013|P300 Convertible": {
       "engine": "2.0L Turbo",
@@ -807,7 +1026,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$98,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2013|P450 R Coupe": {
       "engine": "3.0L V6 Supercharged",
@@ -826,7 +1050,12 @@
       "weight": 1672,
       "seats": 2,
       "price": "~$129,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.1 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2013|P575 R Coupe": {
       "engine": "5.0L V8 Supercharged",
@@ -845,7 +1074,12 @@
       "weight": 1785,
       "seats": 2,
       "price": "~$189,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~11.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2014|P300 Coupe": {
       "engine": "2.0L Turbo",
@@ -864,7 +1098,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$91,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2014|P300 Convertible": {
       "engine": "2.0L Turbo",
@@ -883,7 +1122,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$100,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2014|P450 R Coupe": {
       "engine": "3.0L V6 Supercharged",
@@ -902,7 +1146,12 @@
       "weight": 1672,
       "seats": 2,
       "price": "~$131,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.1 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2014|P575 R Coupe": {
       "engine": "5.0L V8 Supercharged",
@@ -921,7 +1170,12 @@
       "weight": 1785,
       "seats": 2,
       "price": "~$191,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~11.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2015|P300 Coupe": {
       "engine": "2.0L Turbo",
@@ -940,7 +1194,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$92,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2015|P300 Convertible": {
       "engine": "2.0L Turbo",
@@ -959,7 +1218,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$101,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2015|P450 R Coupe": {
       "engine": "3.0L V6 Supercharged",
@@ -978,7 +1242,12 @@
       "weight": 1672,
       "seats": 2,
       "price": "~$133,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.1 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2015|P575 R Coupe": {
       "engine": "5.0L V8 Supercharged",
@@ -997,7 +1266,12 @@
       "weight": 1785,
       "seats": 2,
       "price": "~$193,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~11.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2016|P300 Coupe": {
       "engine": "2.0L Turbo",
@@ -1016,7 +1290,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$94,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2016|P300 Convertible": {
       "engine": "2.0L Turbo",
@@ -1035,7 +1314,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$103,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2016|P450 R Coupe": {
       "engine": "3.0L V6 Supercharged",
@@ -1054,7 +1338,12 @@
       "weight": 1672,
       "seats": 2,
       "price": "~$135,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.1 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2016|P575 R Coupe": {
       "engine": "5.0L V8 Supercharged",
@@ -1073,7 +1362,12 @@
       "weight": 1785,
       "seats": 2,
       "price": "~$195,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~11.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2017|P300 Coupe": {
       "engine": "2.0L Turbo",
@@ -1092,7 +1386,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$95,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2017|P300 Convertible": {
       "engine": "2.0L Turbo",
@@ -1111,7 +1410,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$104,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2017|P450 R Coupe": {
       "engine": "3.0L V6 Supercharged",
@@ -1130,7 +1434,12 @@
       "weight": 1672,
       "seats": 2,
       "price": "~$137,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.1 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2017|P575 R Coupe": {
       "engine": "5.0L V8 Supercharged",
@@ -1149,7 +1458,12 @@
       "weight": 1785,
       "seats": 2,
       "price": "~$197,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~11.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2018|P300 Coupe": {
       "engine": "2.0L Turbo",
@@ -1168,7 +1482,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$97,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2018|P300 Convertible": {
       "engine": "2.0L Turbo",
@@ -1187,7 +1506,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$106,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2018|P450 R Coupe": {
       "engine": "3.0L V6 Supercharged",
@@ -1206,7 +1530,12 @@
       "weight": 1672,
       "seats": 2,
       "price": "~$139,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.1 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2018|P575 R Coupe": {
       "engine": "5.0L V8 Supercharged",
@@ -1225,7 +1554,12 @@
       "weight": 1785,
       "seats": 2,
       "price": "~$199,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~11.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2019|P300 Coupe": {
       "engine": "2.0L Turbo",
@@ -1244,7 +1578,8 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$98,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec"
     },
     "Jaguar|F-Type|2019|P300 Convertible": {
       "engine": "2.0L Turbo",
@@ -1263,7 +1598,8 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$107,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec"
     },
     "Jaguar|F-Type|2019|P450 R Coupe": {
       "engine": "3.0L V6 Supercharged",
@@ -1282,7 +1618,8 @@
       "weight": 1672,
       "seats": 2,
       "price": "~$141,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.1 sec"
     },
     "Jaguar|F-Type|2019|P575 R Coupe": {
       "engine": "5.0L V8 Supercharged",
@@ -1301,7 +1638,8 @@
       "weight": 1785,
       "seats": 2,
       "price": "~$201,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~11.7 sec"
     },
     "Jaguar|F-Type|2020|P300 Coupe": {
       "engine": "2.0L Turbo",
@@ -1320,7 +1658,8 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$100,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec"
     },
     "Jaguar|F-Type|2020|P300 Convertible": {
       "engine": "2.0L Turbo",
@@ -1339,7 +1678,8 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$109,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec"
     },
     "Jaguar|F-Type|2020|P450 R Coupe": {
       "engine": "3.0L V6 Supercharged",
@@ -1358,7 +1698,8 @@
       "weight": 1672,
       "seats": 2,
       "price": "~$143,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.1 sec"
     },
     "Jaguar|F-Type|2020|P575 R Coupe": {
       "engine": "5.0L V8 Supercharged",
@@ -1377,7 +1718,8 @@
       "weight": 1785,
       "seats": 2,
       "price": "~$203,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~11.7 sec"
     },
     "Jaguar|F-Type|2021|P300 Coupe": {
       "engine": "2.0L Turbo",
@@ -1396,7 +1738,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$101,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2021|P300 Convertible": {
       "engine": "2.0L Turbo",
@@ -1415,7 +1762,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$110,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2021|P450 R Coupe": {
       "engine": "3.0L V6 Supercharged",
@@ -1434,7 +1786,12 @@
       "weight": 1672,
       "seats": 2,
       "price": "~$145,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.1 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2021|P575 R Coupe": {
       "engine": "5.0L V8 Supercharged",
@@ -1453,7 +1810,12 @@
       "weight": 1785,
       "seats": 2,
       "price": "~$205,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~11.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2022|P300 Coupe": {
       "engine": "2.0L Turbo",
@@ -1472,7 +1834,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$103,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2022|P300 Convertible": {
       "engine": "2.0L Turbo",
@@ -1491,7 +1858,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$112,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2022|P450 R Coupe": {
       "engine": "3.0L V6 Supercharged",
@@ -1510,7 +1882,12 @@
       "weight": 1672,
       "seats": 2,
       "price": "~$147,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.1 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2022|P575 R Coupe": {
       "engine": "5.0L V8 Supercharged",
@@ -1529,7 +1906,12 @@
       "weight": 1785,
       "seats": 2,
       "price": "~$207,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~11.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2023|P300 Coupe": {
       "engine": "2.0L Turbo",
@@ -1548,7 +1930,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$104,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2023|P300 Convertible": {
       "engine": "2.0L Turbo",
@@ -1567,7 +1954,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$113,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2023|P450 R Coupe": {
       "engine": "3.0L V6 Supercharged",
@@ -1586,7 +1978,12 @@
       "weight": 1672,
       "seats": 2,
       "price": "~$149,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.1 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2023|P575 R Coupe": {
       "engine": "5.0L V8 Supercharged",
@@ -1605,7 +2002,12 @@
       "weight": 1785,
       "seats": 2,
       "price": "~$209,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~11.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2024|P300 Coupe": {
       "engine": "2.0L Turbo",
@@ -1624,7 +2026,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$106,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2024|P300 Convertible": {
       "engine": "2.0L Turbo",
@@ -1643,7 +2050,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$115,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2024|P450 R Coupe": {
       "engine": "3.0L V6 Supercharged",
@@ -1662,7 +2074,12 @@
       "weight": 1672,
       "seats": 2,
       "price": "~$151,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.1 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2024|P575 R Coupe": {
       "engine": "5.0L V8 Supercharged",
@@ -1681,7 +2098,12 @@
       "weight": 1785,
       "seats": 2,
       "price": "~$211,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~11.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2025|P300 Coupe": {
       "engine": "2.0L Turbo",
@@ -1700,7 +2122,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$107,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2025|P300 Convertible": {
       "engine": "2.0L Turbo",
@@ -1719,7 +2146,12 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$116,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2025|P450 R Coupe": {
       "engine": "3.0L V6 Supercharged",
@@ -1738,7 +2170,12 @@
       "weight": 1672,
       "seats": 2,
       "price": "~$153,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.1 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2025|P575 R Coupe": {
       "engine": "5.0L V8 Supercharged",
@@ -1757,7 +2194,12 @@
       "weight": 1785,
       "seats": 2,
       "price": "~$213,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~11.7 sec",
+      "cargo": 196,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2026|P300 Coupe": {
       "engine": "2.0L Turbo",
@@ -1776,7 +2218,8 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$109,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec"
     },
     "Jaguar|F-Type|2026|P300 Convertible": {
       "engine": "2.0L Turbo",
@@ -1795,7 +2238,8 @@
       "weight": 1614,
       "seats": 2,
       "price": "~$118,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec"
     },
     "Jaguar|F-Type|2026|P450 R Coupe": {
       "engine": "3.0L V6 Supercharged",
@@ -1814,7 +2258,8 @@
       "weight": 1672,
       "seats": 2,
       "price": "~$155,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.1 sec"
     },
     "Jaguar|F-Type|2026|P575 R Coupe": {
       "engine": "5.0L V8 Supercharged",
@@ -1833,7 +2278,8 @@
       "weight": 1785,
       "seats": 2,
       "price": "~$215,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~11.7 sec"
     },
     "Jaguar|XF|2016|P250 S": {
       "engine": "2.0L Turbo",
@@ -1852,7 +2298,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$78,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~15.5 sec",
+      "cargo": 540,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XF|2016|D200 SE": {
       "engine": "2.0L Turbo Diesel",
@@ -1871,7 +2322,12 @@
       "weight": 1755,
       "seats": 5,
       "price": "~$74,990",
-      "aspiration": "Garrett VGT Diesel Turbo"
+      "aspiration": "Garrett VGT Diesel Turbo",
+      "quarterMile": "~15.9 sec",
+      "cargo": 540,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XF|2016|P300 R-Sport": {
       "engine": "2.0L Turbo",
@@ -1890,7 +2346,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$95,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.2 sec",
+      "cargo": 540,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XF|2017|P250 S": {
       "engine": "2.0L Turbo",
@@ -1909,7 +2370,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$80,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~15.5 sec",
+      "cargo": 540,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XF|2017|D200 SE": {
       "engine": "2.0L Turbo Diesel",
@@ -1928,7 +2394,12 @@
       "weight": 1755,
       "seats": 5,
       "price": "~$76,490",
-      "aspiration": "Garrett VGT Diesel Turbo"
+      "aspiration": "Garrett VGT Diesel Turbo",
+      "quarterMile": "~15.9 sec",
+      "cargo": 540,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XF|2017|P300 R-Sport": {
       "engine": "2.0L Turbo",
@@ -1947,7 +2418,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$97,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.2 sec",
+      "cargo": 540,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XF|2018|P250 S": {
       "engine": "2.0L Turbo",
@@ -1966,7 +2442,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$81,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~15.5 sec",
+      "cargo": 540,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XF|2018|D200 SE": {
       "engine": "2.0L Turbo Diesel",
@@ -1985,7 +2466,12 @@
       "weight": 1755,
       "seats": 5,
       "price": "~$77,990",
-      "aspiration": "Garrett VGT Diesel Turbo"
+      "aspiration": "Garrett VGT Diesel Turbo",
+      "quarterMile": "~15.9 sec",
+      "cargo": 540,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XF|2018|P300 R-Sport": {
       "engine": "2.0L Turbo",
@@ -2004,7 +2490,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$98,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.2 sec",
+      "cargo": 540,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XF|2019|P250 S": {
       "engine": "2.0L Turbo",
@@ -2023,7 +2514,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$83,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~15.5 sec",
+      "cargo": 540,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XF|2019|D200 SE": {
       "engine": "2.0L Turbo Diesel",
@@ -2042,7 +2538,12 @@
       "weight": 1755,
       "seats": 5,
       "price": "~$79,490",
-      "aspiration": "Garrett VGT Diesel Turbo"
+      "aspiration": "Garrett VGT Diesel Turbo",
+      "quarterMile": "~15.9 sec",
+      "cargo": 540,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XF|2019|P300 R-Sport": {
       "engine": "2.0L Turbo",
@@ -2061,7 +2562,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$100,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.2 sec",
+      "cargo": 540,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XF|2020|P250 S": {
       "engine": "2.0L Turbo",
@@ -2080,7 +2586,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$84,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~15.5 sec",
+      "cargo": 540,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XF|2020|D200 SE": {
       "engine": "2.0L Turbo Diesel",
@@ -2099,7 +2610,12 @@
       "weight": 1755,
       "seats": 5,
       "price": "~$80,990",
-      "aspiration": "Garrett VGT Diesel Turbo"
+      "aspiration": "Garrett VGT Diesel Turbo",
+      "quarterMile": "~15.9 sec",
+      "cargo": 540,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XF|2020|P300 R-Sport": {
       "engine": "2.0L Turbo",
@@ -2118,7 +2634,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$101,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.2 sec",
+      "cargo": 540,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XF|2021|P250 S": {
       "engine": "2.0L Turbo",
@@ -2137,7 +2658,8 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$86,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~15.5 sec"
     },
     "Jaguar|XF|2021|D200 SE": {
       "engine": "2.0L Turbo Diesel",
@@ -2156,7 +2678,8 @@
       "weight": 1755,
       "seats": 5,
       "price": "~$82,490",
-      "aspiration": "Garrett VGT Diesel Turbo"
+      "aspiration": "Garrett VGT Diesel Turbo",
+      "quarterMile": "~15.9 sec"
     },
     "Jaguar|XF|2021|P300 R-Sport": {
       "engine": "2.0L Turbo",
@@ -2175,7 +2698,8 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$103,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.2 sec"
     },
     "Jaguar|XE|2015|P300 R-Sport": {
       "engine": "2.0L Turbo",
@@ -2213,7 +2737,12 @@
       "weight": 1595,
       "seats": 5,
       "price": "~$76,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 455,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XE|2017|P300 R-Sport": {
       "engine": "2.0L Turbo",
@@ -2232,7 +2761,12 @@
       "weight": 1595,
       "seats": 5,
       "price": "~$77,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 455,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XE|2018|P300 R-Sport": {
       "engine": "2.0L Turbo",
@@ -2251,7 +2785,12 @@
       "weight": 1595,
       "seats": 5,
       "price": "~$79,490",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 455,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XE|2018|SV Project 8": {
       "engine": "5.0L V8 Supercharged",
@@ -2270,7 +2809,12 @@
       "weight": 1748,
       "seats": 4,
       "price": "~$299,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~11.4 sec",
+      "cargo": 455,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XE|2019|P300 R-Sport": {
       "engine": "2.0L Turbo",
@@ -2289,7 +2833,12 @@
       "weight": 1595,
       "seats": 5,
       "price": "~$80,990",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.7 sec",
+      "cargo": 455,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|XE|2019|SV Project 8": {
       "engine": "5.0L V8 Supercharged",
@@ -2308,7 +2857,12 @@
       "weight": 1748,
       "seats": 4,
       "price": "~$299,990",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~11.4 sec",
+      "cargo": 455,
+      "est": [
+        "cargo"
+      ]
     },
     "LDV|T60|2019|Trailrider": {
       "engine": "2.0L Turbo Diesel",
@@ -2327,7 +2881,12 @@
       "weight": 1970,
       "seats": 5,
       "price": "~$37,790",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.1 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "LDV|T60|2020|Trailrider": {
       "engine": "2.0L Turbo Diesel",
@@ -2346,7 +2905,12 @@
       "weight": 1970,
       "seats": 5,
       "price": "~$38,590",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.1 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "LDV|T60|2021|Trailrider": {
       "engine": "2.0L Turbo Diesel",
@@ -2365,7 +2929,12 @@
       "weight": 1970,
       "seats": 5,
       "price": "~$39,390",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.1 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "LDV|eT60|2024|EV": {
       "engine": "Electric",
@@ -2386,7 +2955,8 @@
       "seats": 5,
       "battery": "88 kWh",
       "price": "~$69,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.9 sec"
     },
     "LDV|eT60|2025|EV": {
       "engine": "Electric",
@@ -2407,7 +2977,8 @@
       "seats": 5,
       "battery": "88 kWh",
       "price": "~$71,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.9 sec"
     },
     "LDV|eT60|2026|EV": {
       "engine": "Electric",
@@ -2428,7 +2999,8 @@
       "seats": 5,
       "battery": "88 kWh",
       "price": "~$72,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.9 sec"
     },
     "LDV|Deliver 9|2021|LWB": {
       "engine": "2.0L Turbo Diesel",
@@ -2447,7 +3019,8 @@
       "weight": 2200,
       "seats": 3,
       "price": "~$42,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec"
     },
     "LDV|Deliver 9|2021|LWB Plus": {
       "engine": "2.0L Turbo Diesel",
@@ -2466,7 +3039,8 @@
       "weight": 2200,
       "seats": 3,
       "price": "~$48,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec"
     },
     "LDV|Deliver 9|2022|LWB": {
       "engine": "2.0L Turbo Diesel",
@@ -2485,7 +3059,8 @@
       "weight": 2200,
       "seats": 3,
       "price": "~$43,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec"
     },
     "LDV|Deliver 9|2022|LWB Plus": {
       "engine": "2.0L Turbo Diesel",
@@ -2504,7 +3079,8 @@
       "weight": 2200,
       "seats": 3,
       "price": "~$49,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec"
     },
     "LDV|Deliver 9|2023|LWB": {
       "engine": "2.0L Turbo Diesel",
@@ -2523,7 +3099,8 @@
       "weight": 2200,
       "seats": 3,
       "price": "~$44,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec"
     },
     "LDV|Deliver 9|2023|LWB Plus": {
       "engine": "2.0L Turbo Diesel",
@@ -2542,7 +3119,8 @@
       "weight": 2200,
       "seats": 3,
       "price": "~$50,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec"
     },
     "LDV|Deliver 9|2024|LWB": {
       "engine": "2.0L Turbo Diesel",
@@ -2561,7 +3139,8 @@
       "weight": 2200,
       "seats": 3,
       "price": "~$45,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec"
     },
     "LDV|Deliver 9|2024|LWB Plus": {
       "engine": "2.0L Turbo Diesel",
@@ -2580,7 +3159,8 @@
       "weight": 2200,
       "seats": 3,
       "price": "~$51,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec"
     },
     "LDV|Deliver 9|2025|LWB": {
       "engine": "2.0L Turbo Diesel",
@@ -2599,7 +3179,8 @@
       "weight": 2200,
       "seats": 3,
       "price": "~$46,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec"
     },
     "LDV|Deliver 9|2025|LWB Plus": {
       "engine": "2.0L Turbo Diesel",
@@ -2618,7 +3199,8 @@
       "weight": 2200,
       "seats": 3,
       "price": "~$52,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec"
     },
     "LDV|Deliver 9|2026|LWB": {
       "engine": "2.0L Turbo Diesel",
@@ -2637,7 +3219,8 @@
       "weight": 2200,
       "seats": 3,
       "price": "~$47,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec"
     },
     "LDV|Deliver 9|2026|LWB Plus": {
       "engine": "2.0L Turbo Diesel",
@@ -2656,7 +3239,8 @@
       "weight": 2200,
       "seats": 3,
       "price": "~$53,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.8 sec"
     },
     "LDV|MIFA 9|2023|EV Premium": {
       "engine": "Electric",
@@ -2677,7 +3261,12 @@
       "seats": 7,
       "battery": "90 kWh",
       "price": "~$69,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.9 sec",
+      "cargo": 600,
+      "est": [
+        "cargo"
+      ]
     },
     "LDV|MIFA 9|2023|EV Signature": {
       "engine": "Electric",
@@ -2698,7 +3287,12 @@
       "seats": 7,
       "battery": "90 kWh",
       "price": "~$77,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.9 sec",
+      "cargo": 600,
+      "est": [
+        "cargo"
+      ]
     },
     "LDV|MIFA 9|2024|EV Premium": {
       "engine": "Electric",
@@ -2719,7 +3313,12 @@
       "seats": 7,
       "battery": "90 kWh",
       "price": "~$71,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.9 sec",
+      "cargo": 600,
+      "est": [
+        "cargo"
+      ]
     },
     "LDV|MIFA 9|2024|EV Signature": {
       "engine": "Electric",
@@ -2740,7 +3339,12 @@
       "seats": 7,
       "battery": "90 kWh",
       "price": "~$79,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.9 sec",
+      "cargo": 600,
+      "est": [
+        "cargo"
+      ]
     },
     "LDV|MIFA 9|2025|EV Premium": {
       "engine": "Electric",
@@ -2761,7 +3365,12 @@
       "seats": 7,
       "battery": "90 kWh",
       "price": "~$72,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.9 sec",
+      "cargo": 600,
+      "est": [
+        "cargo"
+      ]
     },
     "LDV|MIFA 9|2025|EV Signature": {
       "engine": "Electric",
@@ -2782,7 +3391,12 @@
       "seats": 7,
       "battery": "90 kWh",
       "price": "~$80,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.9 sec",
+      "cargo": 600,
+      "est": [
+        "cargo"
+      ]
     },
     "LDV|MIFA 9|2026|EV Premium": {
       "engine": "Electric",
@@ -2803,7 +3417,12 @@
       "seats": 7,
       "battery": "90 kWh",
       "price": "~$74,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.9 sec",
+      "cargo": 600,
+      "est": [
+        "cargo"
+      ]
     },
     "LDV|MIFA 9|2026|EV Signature": {
       "engine": "Electric",
@@ -2824,7 +3443,12 @@
       "seats": 7,
       "battery": "90 kWh",
       "price": "~$82,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.9 sec",
+      "cargo": 600,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|GT|2008|FG GT": {
       "engine": "5.4L V8 Supercharged",
@@ -2843,7 +3467,12 @@
       "weight": 1780,
       "seats": 5,
       "price": "~$65,000",
-      "aspiration": "Lysholm Twin-Screw Supercharged"
+      "aspiration": "Lysholm Twin-Screw Supercharged",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|GT|2008|FG GT RSPEC": {
       "engine": "5.4L V8 Supercharged",
@@ -2862,7 +3491,12 @@
       "weight": 1780,
       "seats": 5,
       "price": "~$75,000",
-      "aspiration": "Lysholm Twin-Screw Supercharged"
+      "aspiration": "Lysholm Twin-Screw Supercharged",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|GT|2009|FG GT": {
       "engine": "5.4L V8 Supercharged",
@@ -2881,7 +3515,12 @@
       "weight": 1780,
       "seats": 5,
       "price": "~$67,000",
-      "aspiration": "Lysholm Twin-Screw Supercharged"
+      "aspiration": "Lysholm Twin-Screw Supercharged",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|GT|2009|FG GT RSPEC": {
       "engine": "5.4L V8 Supercharged",
@@ -2900,7 +3539,12 @@
       "weight": 1780,
       "seats": 5,
       "price": "~$77,000",
-      "aspiration": "Lysholm Twin-Screw Supercharged"
+      "aspiration": "Lysholm Twin-Screw Supercharged",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|GT|2010|FG GT": {
       "engine": "5.4L V8 Supercharged",
@@ -2919,7 +3563,12 @@
       "weight": 1780,
       "seats": 5,
       "price": "~$69,000",
-      "aspiration": "Lysholm Twin-Screw Supercharged"
+      "aspiration": "Lysholm Twin-Screw Supercharged",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|GT|2010|FG GT RSPEC": {
       "engine": "5.4L V8 Supercharged",
@@ -2938,7 +3587,12 @@
       "weight": 1780,
       "seats": 5,
       "price": "~$79,000",
-      "aspiration": "Lysholm Twin-Screw Supercharged"
+      "aspiration": "Lysholm Twin-Screw Supercharged",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|GT|2011|FG GT": {
       "engine": "5.4L V8 Supercharged",
@@ -2957,7 +3611,12 @@
       "weight": 1780,
       "seats": 5,
       "price": "~$71,000",
-      "aspiration": "Lysholm Twin-Screw Supercharged"
+      "aspiration": "Lysholm Twin-Screw Supercharged",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|GT|2011|FG GT RSPEC": {
       "engine": "5.4L V8 Supercharged",
@@ -2976,7 +3635,12 @@
       "weight": 1780,
       "seats": 5,
       "price": "~$81,000",
-      "aspiration": "Lysholm Twin-Screw Supercharged"
+      "aspiration": "Lysholm Twin-Screw Supercharged",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|GT|2012|FG GT": {
       "engine": "5.4L V8 Supercharged",
@@ -2995,7 +3659,12 @@
       "weight": 1780,
       "seats": 5,
       "price": "~$73,000",
-      "aspiration": "Lysholm Twin-Screw Supercharged"
+      "aspiration": "Lysholm Twin-Screw Supercharged",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|GT|2012|FG GT RSPEC": {
       "engine": "5.4L V8 Supercharged",
@@ -3014,7 +3683,12 @@
       "weight": 1780,
       "seats": 5,
       "price": "~$83,000",
-      "aspiration": "Lysholm Twin-Screw Supercharged"
+      "aspiration": "Lysholm Twin-Screw Supercharged",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|GT|2013|FG GT": {
       "engine": "5.4L V8 Supercharged",
@@ -3033,7 +3707,12 @@
       "weight": 1780,
       "seats": 5,
       "price": "~$75,000",
-      "aspiration": "Lysholm Twin-Screw Supercharged"
+      "aspiration": "Lysholm Twin-Screw Supercharged",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|GT|2013|FG GT RSPEC": {
       "engine": "5.4L V8 Supercharged",
@@ -3052,7 +3731,12 @@
       "weight": 1780,
       "seats": 5,
       "price": "~$85,000",
-      "aspiration": "Lysholm Twin-Screw Supercharged"
+      "aspiration": "Lysholm Twin-Screw Supercharged",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|GT|2014|FG GT": {
       "engine": "5.4L V8 Supercharged",
@@ -3071,7 +3755,12 @@
       "weight": 1780,
       "seats": 5,
       "price": "~$77,000",
-      "aspiration": "Lysholm Twin-Screw Supercharged"
+      "aspiration": "Lysholm Twin-Screw Supercharged",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|GT|2014|FG GT RSPEC": {
       "engine": "5.4L V8 Supercharged",
@@ -3090,7 +3779,12 @@
       "weight": 1780,
       "seats": 5,
       "price": "~$87,000",
-      "aspiration": "Lysholm Twin-Screw Supercharged"
+      "aspiration": "Lysholm Twin-Screw Supercharged",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|GT|2015|FG GT": {
       "engine": "5.4L V8 Supercharged",
@@ -3109,7 +3803,12 @@
       "weight": 1780,
       "seats": 5,
       "price": "~$79,000",
-      "aspiration": "Lysholm Twin-Screw Supercharged"
+      "aspiration": "Lysholm Twin-Screw Supercharged",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|GT|2015|FG GT RSPEC": {
       "engine": "5.4L V8 Supercharged",
@@ -3128,7 +3827,12 @@
       "weight": 1780,
       "seats": 5,
       "price": "~$89,000",
-      "aspiration": "Lysholm Twin-Screw Supercharged"
+      "aspiration": "Lysholm Twin-Screw Supercharged",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|F6|2004|Typhoon Sedan": {
       "engine": "4.0L Turbo 6",
@@ -3147,7 +3851,12 @@
       "weight": 1720,
       "seats": 5,
       "price": "~$55,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|F6|2004|Typhoon Ute": {
       "engine": "4.0L Turbo 6",
@@ -3166,7 +3875,12 @@
       "weight": 1750,
       "seats": 2,
       "price": "~$52,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|F6|2005|Typhoon Sedan": {
       "engine": "4.0L Turbo 6",
@@ -3185,7 +3899,12 @@
       "weight": 1720,
       "seats": 5,
       "price": "~$57,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|F6|2005|Typhoon Ute": {
       "engine": "4.0L Turbo 6",
@@ -3204,7 +3923,12 @@
       "weight": 1750,
       "seats": 2,
       "price": "~$54,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|F6|2006|Typhoon Sedan": {
       "engine": "4.0L Turbo 6",
@@ -3223,7 +3947,12 @@
       "weight": 1720,
       "seats": 5,
       "price": "~$59,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|F6|2006|Typhoon Ute": {
       "engine": "4.0L Turbo 6",
@@ -3242,7 +3971,12 @@
       "weight": 1750,
       "seats": 2,
       "price": "~$56,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|F6|2007|Typhoon Sedan": {
       "engine": "4.0L Turbo 6",
@@ -3261,7 +3995,12 @@
       "weight": 1720,
       "seats": 5,
       "price": "~$61,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|F6|2007|Typhoon Ute": {
       "engine": "4.0L Turbo 6",
@@ -3280,7 +4019,12 @@
       "weight": 1750,
       "seats": 2,
       "price": "~$58,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|F6|2008|Typhoon Sedan": {
       "engine": "4.0L Turbo 6",
@@ -3299,7 +4043,12 @@
       "weight": 1720,
       "seats": 5,
       "price": "~$63,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|F6|2008|Typhoon Ute": {
       "engine": "4.0L Turbo 6",
@@ -3318,7 +4067,12 @@
       "weight": 1750,
       "seats": 2,
       "price": "~$60,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|F6|2009|Typhoon Sedan": {
       "engine": "4.0L Turbo 6",
@@ -3337,7 +4091,12 @@
       "weight": 1720,
       "seats": 5,
       "price": "~$65,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|F6|2009|Typhoon Ute": {
       "engine": "4.0L Turbo 6",
@@ -3356,7 +4115,12 @@
       "weight": 1750,
       "seats": 2,
       "price": "~$62,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|F6|2010|Typhoon Sedan": {
       "engine": "4.0L Turbo 6",
@@ -3375,7 +4139,12 @@
       "weight": 1720,
       "seats": 5,
       "price": "~$67,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|F6|2010|Typhoon Ute": {
       "engine": "4.0L Turbo 6",
@@ -3394,7 +4163,12 @@
       "weight": 1750,
       "seats": 2,
       "price": "~$64,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|F6|2011|Typhoon Sedan": {
       "engine": "4.0L Turbo 6",
@@ -3413,7 +4187,12 @@
       "weight": 1720,
       "seats": 5,
       "price": "~$69,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|F6|2011|Typhoon Ute": {
       "engine": "4.0L Turbo 6",
@@ -3432,7 +4211,12 @@
       "weight": 1750,
       "seats": 2,
       "price": "~$66,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|F6|2012|Typhoon Sedan": {
       "engine": "4.0L Turbo 6",
@@ -3451,7 +4235,12 @@
       "weight": 1720,
       "seats": 5,
       "price": "~$71,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|F6|2012|Typhoon Ute": {
       "engine": "4.0L Turbo 6",
@@ -3470,7 +4259,12 @@
       "weight": 1750,
       "seats": 2,
       "price": "~$68,000",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|Boss|2008|290": {
       "engine": "5.4L V8",
@@ -3489,7 +4283,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$58,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.5 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|Boss|2008|315": {
       "engine": "5.4L V8",
@@ -3508,7 +4307,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$62,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|Boss|2009|290": {
       "engine": "5.4L V8",
@@ -3527,7 +4331,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$60,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.5 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|Boss|2009|315": {
       "engine": "5.4L V8",
@@ -3546,7 +4355,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$64,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|Boss|2010|290": {
       "engine": "5.4L V8",
@@ -3565,7 +4379,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$62,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.5 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|Boss|2010|315": {
       "engine": "5.4L V8",
@@ -3584,7 +4403,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$66,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|Boss|2011|290": {
       "engine": "5.4L V8",
@@ -3603,7 +4427,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$64,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.5 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|Boss|2011|315": {
       "engine": "5.4L V8",
@@ -3622,7 +4451,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$68,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|Boss|2012|290": {
       "engine": "5.4L V8",
@@ -3641,7 +4475,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$66,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.5 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|Boss|2012|315": {
       "engine": "5.4L V8",
@@ -3660,7 +4499,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$70,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|Boss|2013|290": {
       "engine": "5.4L V8",
@@ -3679,7 +4523,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$68,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.5 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|Boss|2013|315": {
       "engine": "5.4L V8",
@@ -3698,7 +4547,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$72,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|Boss|2014|290": {
       "engine": "5.4L V8",
@@ -3717,7 +4571,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$70,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.5 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|Boss|2014|315": {
       "engine": "5.4L V8",
@@ -3736,7 +4595,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$74,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|Boss|2015|290": {
       "engine": "5.4L V8",
@@ -3755,7 +4619,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$72,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.5 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "FPV|Boss|2015|315": {
       "engine": "5.4L V8",
@@ -3774,7 +4643,12 @@
       "weight": 1740,
       "seats": 5,
       "price": "~$76,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.3 sec",
+      "cargo": 535,
+      "est": [
+        "cargo"
+      ]
     },
     "McLaren|720S|2017|Coupe": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -3793,7 +4667,8 @@
       "weight": 1283,
       "seats": 2,
       "price": "~$419,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec"
     },
     "McLaren|720S|2017|Performance": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -3812,7 +4687,8 @@
       "weight": 1283,
       "seats": 2,
       "price": "~$469,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec"
     },
     "McLaren|720S|2018|Coupe": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -3831,7 +4707,8 @@
       "weight": 1283,
       "seats": 2,
       "price": "~$424,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec"
     },
     "McLaren|720S|2018|Performance": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -3850,7 +4727,8 @@
       "weight": 1283,
       "seats": 2,
       "price": "~$474,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec"
     },
     "McLaren|720S|2019|Coupe": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -3869,7 +4747,8 @@
       "weight": 1283,
       "seats": 2,
       "price": "~$429,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec"
     },
     "McLaren|720S|2019|Performance": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -3888,7 +4767,8 @@
       "weight": 1283,
       "seats": 2,
       "price": "~$479,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec"
     },
     "McLaren|720S|2019|Spider": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -3907,7 +4787,8 @@
       "weight": 1332,
       "seats": 2,
       "price": "~$469,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec"
     },
     "McLaren|720S|2020|Coupe": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -3926,7 +4807,8 @@
       "weight": 1283,
       "seats": 2,
       "price": "~$434,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec"
     },
     "McLaren|720S|2020|Performance": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -3945,7 +4827,8 @@
       "weight": 1283,
       "seats": 2,
       "price": "~$484,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec"
     },
     "McLaren|720S|2020|Spider": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -3964,7 +4847,8 @@
       "weight": 1332,
       "seats": 2,
       "price": "~$474,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec"
     },
     "McLaren|720S|2021|Coupe": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -3983,7 +4867,8 @@
       "weight": 1283,
       "seats": 2,
       "price": "~$439,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec"
     },
     "McLaren|720S|2021|Performance": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -4002,7 +4887,8 @@
       "weight": 1283,
       "seats": 2,
       "price": "~$489,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec"
     },
     "McLaren|720S|2021|Spider": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -4021,7 +4907,8 @@
       "weight": 1332,
       "seats": 2,
       "price": "~$479,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec"
     },
     "McLaren|720S|2022|Coupe": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -4040,7 +4927,8 @@
       "weight": 1283,
       "seats": 2,
       "price": "~$444,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec"
     },
     "McLaren|720S|2022|Performance": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -4059,7 +4947,8 @@
       "weight": 1283,
       "seats": 2,
       "price": "~$494,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec"
     },
     "McLaren|720S|2022|Spider": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -4078,7 +4967,8 @@
       "weight": 1332,
       "seats": 2,
       "price": "~$484,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec"
     },
     "McLaren|720S|2023|Coupe": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -4097,7 +4987,8 @@
       "weight": 1283,
       "seats": 2,
       "price": "~$449,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec"
     },
     "McLaren|720S|2023|Performance": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -4116,7 +5007,8 @@
       "weight": 1283,
       "seats": 2,
       "price": "~$499,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec"
     },
     "McLaren|720S|2023|Spider": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -4135,7 +5027,8 @@
       "weight": 1332,
       "seats": 2,
       "price": "~$489,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.9 sec"
     },
     "McLaren|570S|2016|Coupe": {
       "engine": "3.8L V8 Twin-Turbo",
@@ -4154,7 +5047,8 @@
       "weight": 1313,
       "seats": 2,
       "price": "~$289,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec"
     },
     "McLaren|570S|2016|Spider": {
       "engine": "3.8L V8 Twin-Turbo",
@@ -4173,7 +5067,8 @@
       "weight": 1359,
       "seats": 2,
       "price": "~$319,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec"
     },
     "McLaren|570GT|2016|GT": {
       "engine": "3.8L V8 Twin-Turbo",
@@ -4192,7 +5087,8 @@
       "weight": 1313,
       "seats": 2,
       "price": "~$299,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec"
     },
     "McLaren|570S|2017|Coupe": {
       "engine": "3.8L V8 Twin-Turbo",
@@ -4211,7 +5107,8 @@
       "weight": 1313,
       "seats": 2,
       "price": "~$292,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec"
     },
     "McLaren|570S|2017|Spider": {
       "engine": "3.8L V8 Twin-Turbo",
@@ -4230,7 +5127,8 @@
       "weight": 1359,
       "seats": 2,
       "price": "~$322,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec"
     },
     "McLaren|570GT|2017|GT": {
       "engine": "3.8L V8 Twin-Turbo",
@@ -4249,7 +5147,8 @@
       "weight": 1313,
       "seats": 2,
       "price": "~$302,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec"
     },
     "McLaren|570S|2018|Coupe": {
       "engine": "3.8L V8 Twin-Turbo",
@@ -4268,7 +5167,8 @@
       "weight": 1313,
       "seats": 2,
       "price": "~$295,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec"
     },
     "McLaren|570S|2018|Spider": {
       "engine": "3.8L V8 Twin-Turbo",
@@ -4287,7 +5187,8 @@
       "weight": 1359,
       "seats": 2,
       "price": "~$325,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec"
     },
     "McLaren|570GT|2018|GT": {
       "engine": "3.8L V8 Twin-Turbo",
@@ -4306,7 +5207,8 @@
       "weight": 1313,
       "seats": 2,
       "price": "~$305,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec"
     },
     "McLaren|570S|2019|Coupe": {
       "engine": "3.8L V8 Twin-Turbo",
@@ -4325,7 +5227,8 @@
       "weight": 1313,
       "seats": 2,
       "price": "~$298,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec"
     },
     "McLaren|570S|2019|Spider": {
       "engine": "3.8L V8 Twin-Turbo",
@@ -4344,7 +5247,8 @@
       "weight": 1359,
       "seats": 2,
       "price": "~$328,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec"
     },
     "McLaren|570GT|2019|GT": {
       "engine": "3.8L V8 Twin-Turbo",
@@ -4363,7 +5267,8 @@
       "weight": 1313,
       "seats": 2,
       "price": "~$308,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec"
     },
     "McLaren|570S|2020|Coupe": {
       "engine": "3.8L V8 Twin-Turbo",
@@ -4382,7 +5287,8 @@
       "weight": 1313,
       "seats": 2,
       "price": "~$301,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec"
     },
     "McLaren|570S|2020|Spider": {
       "engine": "3.8L V8 Twin-Turbo",
@@ -4401,7 +5307,8 @@
       "weight": 1359,
       "seats": 2,
       "price": "~$331,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec"
     },
     "McLaren|570GT|2020|GT": {
       "engine": "3.8L V8 Twin-Turbo",
@@ -4420,7 +5327,8 @@
       "weight": 1313,
       "seats": 2,
       "price": "~$311,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec"
     },
     "McLaren|Artura|2022|Coupe": {
       "engine": "3.0L V6 Twin-Turbo PHEV",
@@ -4438,7 +5346,14 @@
       "seats": 2,
       "price": "~$399,990",
       "aspiration": "BorgWarner Twin-Turbo",
-      "fx": 3.5
+      "fx": 3.5,
+      "quarterMile": "~11.1 sec",
+      "fc": 4,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 2.9
     },
     "McLaren|Artura|2023|Coupe": {
       "engine": "3.0L V6 Twin-Turbo PHEV",
@@ -4456,7 +5371,14 @@
       "seats": 2,
       "price": "~$407,990",
       "aspiration": "BorgWarner Twin-Turbo",
-      "fx": 3.5
+      "fx": 3.5,
+      "quarterMile": "~11.1 sec",
+      "fc": 4,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 2.9
     },
     "McLaren|Artura|2024|Coupe": {
       "engine": "3.0L V6 Twin-Turbo PHEV",
@@ -4474,7 +5396,14 @@
       "seats": 2,
       "price": "~$415,990",
       "aspiration": "BorgWarner Twin-Turbo",
-      "fx": 3.5
+      "fx": 3.5,
+      "quarterMile": "~11.1 sec",
+      "fc": 4,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 2.9
     },
     "McLaren|Artura|2025|Coupe": {
       "engine": "3.0L V6 Twin-Turbo PHEV",
@@ -4492,7 +5421,14 @@
       "seats": 2,
       "price": "~$423,990",
       "aspiration": "BorgWarner Twin-Turbo",
-      "fx": 3.5
+      "fx": 3.5,
+      "quarterMile": "~11.1 sec",
+      "fc": 4,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 2.9
     },
     "McLaren|GT|2020|GT": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -4530,7 +5466,8 @@
       "weight": 1466,
       "seats": 2,
       "price": "~$304,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec"
     },
     "McLaren|GT|2022|GT": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -4549,7 +5486,8 @@
       "weight": 1466,
       "seats": 2,
       "price": "~$309,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec"
     },
     "McLaren|GT|2023|GT": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -4568,7 +5506,8 @@
       "weight": 1466,
       "seats": 2,
       "price": "~$314,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec"
     },
     "McLaren|GT|2024|GT": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -4587,7 +5526,8 @@
       "weight": 1466,
       "seats": 2,
       "price": "~$319,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.3 sec"
     },
     "Abarth|595|2013|595": {
       "engine": "1.4L Turbo",
@@ -4606,7 +5546,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$29,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.7 sec"
     },
     "Abarth|595|2013|595C Convertible": {
       "engine": "1.4L Turbo",
@@ -4625,7 +5566,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$35,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.1 sec"
     },
     "Abarth|595|2013|695": {
       "engine": "1.4L Turbo T-Jet",
@@ -4644,7 +5586,8 @@
       "weight": 1075,
       "seats": 4,
       "price": "~$42,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.5 sec"
     },
     "Abarth|595|2013|695 Biposto": {
       "engine": "1.4L Turbo T-Jet",
@@ -4663,7 +5606,8 @@
       "weight": 997,
       "seats": 2,
       "price": "~$69,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec"
     },
     "Abarth|595|2014|595": {
       "engine": "1.4L Turbo",
@@ -4682,7 +5626,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$30,790",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.7 sec"
     },
     "Abarth|595|2014|595C Convertible": {
       "engine": "1.4L Turbo",
@@ -4701,7 +5646,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$36,790",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.1 sec"
     },
     "Abarth|595|2014|695": {
       "engine": "1.4L Turbo T-Jet",
@@ -4720,7 +5666,8 @@
       "weight": 1075,
       "seats": 4,
       "price": "~$43,790",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.5 sec"
     },
     "Abarth|595|2014|695 Biposto": {
       "engine": "1.4L Turbo T-Jet",
@@ -4739,7 +5686,8 @@
       "weight": 997,
       "seats": 2,
       "price": "~$70,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec"
     },
     "Abarth|595|2015|595": {
       "engine": "1.4L Turbo",
@@ -4758,7 +5706,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$31,590",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.7 sec"
     },
     "Abarth|595|2015|595C Convertible": {
       "engine": "1.4L Turbo",
@@ -4777,7 +5726,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$37,590",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.1 sec"
     },
     "Abarth|595|2015|695": {
       "engine": "1.4L Turbo T-Jet",
@@ -4796,7 +5746,8 @@
       "weight": 1075,
       "seats": 4,
       "price": "~$44,590",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.5 sec"
     },
     "Abarth|595|2015|695 Biposto": {
       "engine": "1.4L Turbo T-Jet",
@@ -4815,7 +5766,8 @@
       "weight": 997,
       "seats": 2,
       "price": "~$71,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec"
     },
     "Abarth|595|2016|595": {
       "engine": "1.4L Turbo",
@@ -4834,7 +5786,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$32,390",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.7 sec"
     },
     "Abarth|595|2016|595C Convertible": {
       "engine": "1.4L Turbo",
@@ -4853,7 +5806,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$38,390",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.1 sec"
     },
     "Abarth|595|2016|695": {
       "engine": "1.4L Turbo T-Jet",
@@ -4872,7 +5826,8 @@
       "weight": 1075,
       "seats": 4,
       "price": "~$45,390",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.5 sec"
     },
     "Abarth|595|2016|695 Biposto": {
       "engine": "1.4L Turbo T-Jet",
@@ -4891,7 +5846,8 @@
       "weight": 997,
       "seats": 2,
       "price": "~$72,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec"
     },
     "Abarth|595|2017|595": {
       "engine": "1.4L Turbo",
@@ -4910,7 +5866,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$33,190",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.7 sec"
     },
     "Abarth|595|2017|595C Convertible": {
       "engine": "1.4L Turbo",
@@ -4929,7 +5886,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$39,190",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.1 sec"
     },
     "Abarth|595|2017|695": {
       "engine": "1.4L Turbo T-Jet",
@@ -4948,7 +5906,8 @@
       "weight": 1075,
       "seats": 4,
       "price": "~$46,190",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.5 sec"
     },
     "Abarth|595|2017|695 Biposto": {
       "engine": "1.4L Turbo T-Jet",
@@ -4967,7 +5926,8 @@
       "weight": 997,
       "seats": 2,
       "price": "~$73,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec"
     },
     "Abarth|595|2018|595": {
       "engine": "1.4L Turbo",
@@ -4986,7 +5946,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$33,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.7 sec"
     },
     "Abarth|595|2018|595C Convertible": {
       "engine": "1.4L Turbo",
@@ -5005,7 +5966,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$39,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.1 sec"
     },
     "Abarth|595|2018|695": {
       "engine": "1.4L Turbo T-Jet",
@@ -5024,7 +5986,8 @@
       "weight": 1075,
       "seats": 4,
       "price": "~$46,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.5 sec"
     },
     "Abarth|595|2018|695 Biposto": {
       "engine": "1.4L Turbo T-Jet",
@@ -5043,7 +6006,8 @@
       "weight": 997,
       "seats": 2,
       "price": "~$74,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec"
     },
     "Abarth|595|2019|595": {
       "engine": "1.4L Turbo",
@@ -5062,7 +6026,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$34,790",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.7 sec"
     },
     "Abarth|595|2019|595C Convertible": {
       "engine": "1.4L Turbo",
@@ -5081,7 +6046,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$40,790",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.1 sec"
     },
     "Abarth|595|2019|695": {
       "engine": "1.4L Turbo T-Jet",
@@ -5100,7 +6066,8 @@
       "weight": 1075,
       "seats": 4,
       "price": "~$47,790",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.5 sec"
     },
     "Abarth|595|2019|695 Biposto": {
       "engine": "1.4L Turbo T-Jet",
@@ -5119,7 +6086,8 @@
       "weight": 997,
       "seats": 2,
       "price": "~$75,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec"
     },
     "Abarth|595|2020|595": {
       "engine": "1.4L Turbo",
@@ -5138,7 +6106,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$35,590",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.7 sec"
     },
     "Abarth|595|2020|595C Convertible": {
       "engine": "1.4L Turbo",
@@ -5157,7 +6126,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$41,590",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.1 sec"
     },
     "Abarth|595|2020|695": {
       "engine": "1.4L Turbo T-Jet",
@@ -5176,7 +6146,8 @@
       "weight": 1075,
       "seats": 4,
       "price": "~$48,590",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.5 sec"
     },
     "Abarth|595|2020|695 Biposto": {
       "engine": "1.4L Turbo T-Jet",
@@ -5195,7 +6166,8 @@
       "weight": 997,
       "seats": 2,
       "price": "~$76,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec"
     },
     "Abarth|595|2021|595": {
       "engine": "1.4L Turbo",
@@ -5214,7 +6186,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$36,390",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.7 sec"
     },
     "Abarth|595|2021|595C Convertible": {
       "engine": "1.4L Turbo",
@@ -5233,7 +6206,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$42,390",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.1 sec"
     },
     "Abarth|595|2021|695": {
       "engine": "1.4L Turbo T-Jet",
@@ -5252,7 +6226,8 @@
       "weight": 1075,
       "seats": 4,
       "price": "~$49,390",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.5 sec"
     },
     "Abarth|595|2021|695 Biposto": {
       "engine": "1.4L Turbo T-Jet",
@@ -5271,7 +6246,8 @@
       "weight": 997,
       "seats": 2,
       "price": "~$77,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec"
     },
     "Abarth|595|2022|595": {
       "engine": "1.4L Turbo",
@@ -5290,7 +6266,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$37,190",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.7 sec"
     },
     "Abarth|595|2022|595C Convertible": {
       "engine": "1.4L Turbo",
@@ -5309,7 +6286,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$43,190",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.1 sec"
     },
     "Abarth|595|2022|695": {
       "engine": "1.4L Turbo T-Jet",
@@ -5328,7 +6306,8 @@
       "weight": 1075,
       "seats": 4,
       "price": "~$50,190",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.5 sec"
     },
     "Abarth|595|2022|695 Biposto": {
       "engine": "1.4L Turbo T-Jet",
@@ -5347,7 +6326,8 @@
       "weight": 997,
       "seats": 2,
       "price": "~$78,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec"
     },
     "Abarth|595|2023|595": {
       "engine": "1.4L Turbo",
@@ -5366,7 +6346,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$37,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.7 sec"
     },
     "Abarth|595|2023|595C Convertible": {
       "engine": "1.4L Turbo",
@@ -5385,7 +6366,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$43,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.1 sec"
     },
     "Abarth|595|2023|695": {
       "engine": "1.4L Turbo T-Jet",
@@ -5404,7 +6386,8 @@
       "weight": 1075,
       "seats": 4,
       "price": "~$50,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.5 sec"
     },
     "Abarth|595|2023|695 Biposto": {
       "engine": "1.4L Turbo T-Jet",
@@ -5423,7 +6406,8 @@
       "weight": 997,
       "seats": 2,
       "price": "~$79,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec"
     },
     "Abarth|595|2024|595": {
       "engine": "1.4L Turbo",
@@ -5442,7 +6426,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$38,790",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.7 sec"
     },
     "Abarth|595|2024|595C Convertible": {
       "engine": "1.4L Turbo",
@@ -5461,7 +6446,8 @@
       "weight": 1050,
       "seats": 4,
       "price": "~$44,790",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.1 sec"
     },
     "Abarth|595|2024|695": {
       "engine": "1.4L Turbo T-Jet",
@@ -5480,7 +6466,8 @@
       "weight": 1075,
       "seats": 4,
       "price": "~$51,790",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.5 sec"
     },
     "Abarth|595|2024|695 Biposto": {
       "engine": "1.4L Turbo T-Jet",
@@ -5499,7 +6486,8 @@
       "weight": 997,
       "seats": 2,
       "price": "~$80,990",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec"
     },
     "DS|DS 3 Crossback|2019|PureTech 130": {
       "engine": "1.2L PureTech 130",
@@ -5518,7 +6506,8 @@
       "weight": 1255,
       "seats": 5,
       "price": "~$38,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec"
     },
     "DS|DS 3 Crossback|2019|E-Tense": {
       "engine": "Electric",
@@ -5539,7 +6528,8 @@
       "seats": 5,
       "battery": "50 kWh",
       "price": "~$49,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.7 sec"
     },
     "DS|DS 3 Crossback|2020|PureTech 130": {
       "engine": "1.2L PureTech 130",
@@ -5558,7 +6548,8 @@
       "weight": 1255,
       "seats": 5,
       "price": "~$39,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec"
     },
     "DS|DS 3 Crossback|2020|E-Tense": {
       "engine": "Electric",
@@ -5579,7 +6570,8 @@
       "seats": 5,
       "battery": "50 kWh",
       "price": "~$50,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.7 sec"
     },
     "DS|DS 3 Crossback|2021|PureTech 130": {
       "engine": "1.2L PureTech 130",
@@ -5598,7 +6590,8 @@
       "weight": 1255,
       "seats": 5,
       "price": "~$40,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec"
     },
     "DS|DS 3 Crossback|2021|E-Tense": {
       "engine": "Electric",
@@ -5619,7 +6612,8 @@
       "seats": 5,
       "battery": "50 kWh",
       "price": "~$51,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.7 sec"
     },
     "DS|DS 3 Crossback|2022|PureTech 130": {
       "engine": "1.2L PureTech 130",
@@ -5638,7 +6632,8 @@
       "weight": 1255,
       "seats": 5,
       "price": "~$41,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec"
     },
     "DS|DS 3 Crossback|2022|E-Tense": {
       "engine": "Electric",
@@ -5659,7 +6654,8 @@
       "seats": 5,
       "battery": "50 kWh",
       "price": "~$52,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.7 sec"
     },
     "DS|DS 3 Crossback|2023|PureTech 130": {
       "engine": "1.2L PureTech 130",
@@ -5678,7 +6674,8 @@
       "weight": 1255,
       "seats": 5,
       "price": "~$42,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec"
     },
     "DS|DS 3 Crossback|2023|E-Tense": {
       "engine": "Electric",
@@ -5699,7 +6696,8 @@
       "seats": 5,
       "battery": "50 kWh",
       "price": "~$53,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.7 sec"
     },
     "DS|DS 3 Crossback|2024|PureTech 130": {
       "engine": "1.2L PureTech 130",
@@ -5718,7 +6716,8 @@
       "weight": 1255,
       "seats": 5,
       "price": "~$43,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec"
     },
     "DS|DS 3 Crossback|2024|E-Tense": {
       "engine": "Electric",
@@ -5739,7 +6738,8 @@
       "seats": 5,
       "battery": "50 kWh",
       "price": "~$54,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.7 sec"
     },
     "DS|DS 3 Crossback|2025|PureTech 130": {
       "engine": "1.2L PureTech 130",
@@ -5758,7 +6758,8 @@
       "weight": 1255,
       "seats": 5,
       "price": "~$44,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec"
     },
     "DS|DS 3 Crossback|2025|E-Tense": {
       "engine": "Electric",
@@ -5779,7 +6780,8 @@
       "seats": 5,
       "battery": "50 kWh",
       "price": "~$55,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.7 sec"
     },
     "DS|DS 3 Crossback|2026|PureTech 130": {
       "engine": "1.2L PureTech 130",
@@ -5798,7 +6800,8 @@
       "weight": 1255,
       "seats": 5,
       "price": "~$45,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec"
     },
     "DS|DS 3 Crossback|2026|E-Tense": {
       "engine": "Electric",
@@ -5819,7 +6822,8 @@
       "seats": 5,
       "battery": "50 kWh",
       "price": "~$56,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.7 sec"
     },
     "DS|DS 7 Crossback|2018|PureTech 180": {
       "engine": "1.6L PureTech",
@@ -5838,7 +6842,8 @@
       "weight": 1570,
       "seats": 5,
       "price": "~$59,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec"
     },
     "DS|DS 7 Crossback|2018|E-Tense 4x4 300": {
       "engine": "1.6L PureTech PHEV",
@@ -5856,7 +6861,14 @@
       "seats": 5,
       "price": "~$79,990",
       "aspiration": "NA",
-      "fx": 1.8
+      "fx": 1.8,
+      "quarterMile": "~14.2 sec",
+      "fc": 2.1,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.4
     },
     "DS|DS 7 Crossback|2019|PureTech 180": {
       "engine": "1.6L PureTech",
@@ -5875,7 +6887,8 @@
       "weight": 1570,
       "seats": 5,
       "price": "~$60,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec"
     },
     "DS|DS 7 Crossback|2019|E-Tense 4x4 300": {
       "engine": "1.6L PureTech PHEV",
@@ -5893,7 +6906,14 @@
       "seats": 5,
       "price": "~$80,990",
       "aspiration": "NA",
-      "fx": 1.8
+      "fx": 1.8,
+      "quarterMile": "~14.2 sec",
+      "fc": 2.1,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.4
     },
     "DS|DS 7 Crossback|2020|PureTech 180": {
       "engine": "1.6L PureTech",
@@ -5912,7 +6932,8 @@
       "weight": 1570,
       "seats": 5,
       "price": "~$61,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec"
     },
     "DS|DS 7 Crossback|2020|E-Tense 4x4 300": {
       "engine": "1.6L PureTech PHEV",
@@ -5930,7 +6951,14 @@
       "seats": 5,
       "price": "~$81,990",
       "aspiration": "NA",
-      "fx": 1.8
+      "fx": 1.8,
+      "quarterMile": "~14.2 sec",
+      "fc": 2.1,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.4
     },
     "DS|DS 7 Crossback|2021|PureTech 180": {
       "engine": "1.6L PureTech",
@@ -5949,7 +6977,8 @@
       "weight": 1570,
       "seats": 5,
       "price": "~$62,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec"
     },
     "DS|DS 7 Crossback|2021|E-Tense 4x4 300": {
       "engine": "1.6L PureTech PHEV",
@@ -5967,7 +6996,14 @@
       "seats": 5,
       "price": "~$82,990",
       "aspiration": "NA",
-      "fx": 1.8
+      "fx": 1.8,
+      "quarterMile": "~14.2 sec",
+      "fc": 2.1,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.4
     },
     "DS|DS 7 Crossback|2022|PureTech 180": {
       "engine": "1.6L PureTech",
@@ -5986,7 +7022,8 @@
       "weight": 1570,
       "seats": 5,
       "price": "~$63,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec"
     },
     "DS|DS 7 Crossback|2022|E-Tense 4x4 300": {
       "engine": "1.6L PureTech PHEV",
@@ -6004,7 +7041,14 @@
       "seats": 5,
       "price": "~$83,990",
       "aspiration": "NA",
-      "fx": 1.8
+      "fx": 1.8,
+      "quarterMile": "~14.2 sec",
+      "fc": 2.1,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.4
     },
     "DS|DS 7 Crossback|2023|PureTech 180": {
       "engine": "1.6L PureTech",
@@ -6023,7 +7067,8 @@
       "weight": 1570,
       "seats": 5,
       "price": "~$64,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec"
     },
     "DS|DS 7 Crossback|2023|E-Tense 4x4 300": {
       "engine": "1.6L PureTech PHEV",
@@ -6041,7 +7086,14 @@
       "seats": 5,
       "price": "~$84,990",
       "aspiration": "NA",
-      "fx": 1.8
+      "fx": 1.8,
+      "quarterMile": "~14.2 sec",
+      "fc": 2.1,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.4
     },
     "DS|DS 7 Crossback|2024|PureTech 180": {
       "engine": "1.6L PureTech",
@@ -6060,7 +7112,8 @@
       "weight": 1570,
       "seats": 5,
       "price": "~$65,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec"
     },
     "DS|DS 7 Crossback|2024|E-Tense 4x4 300": {
       "engine": "1.6L PureTech PHEV",
@@ -6078,7 +7131,14 @@
       "seats": 5,
       "price": "~$85,990",
       "aspiration": "NA",
-      "fx": 1.8
+      "fx": 1.8,
+      "quarterMile": "~14.2 sec",
+      "fc": 2.1,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.4
     },
     "DS|DS 7 Crossback|2025|PureTech 180": {
       "engine": "1.6L PureTech",
@@ -6097,7 +7157,8 @@
       "weight": 1570,
       "seats": 5,
       "price": "~$66,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec"
     },
     "DS|DS 7 Crossback|2025|E-Tense 4x4 300": {
       "engine": "1.6L PureTech PHEV",
@@ -6115,7 +7176,14 @@
       "seats": 5,
       "price": "~$86,990",
       "aspiration": "NA",
-      "fx": 1.8
+      "fx": 1.8,
+      "quarterMile": "~14.2 sec",
+      "fc": 2.1,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.4
     },
     "DS|DS 7 Crossback|2026|PureTech 180": {
       "engine": "1.6L PureTech",
@@ -6134,7 +7202,8 @@
       "weight": 1570,
       "seats": 5,
       "price": "~$67,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.6 sec"
     },
     "DS|DS 7 Crossback|2026|E-Tense 4x4 300": {
       "engine": "1.6L PureTech PHEV",
@@ -6152,7 +7221,14 @@
       "seats": 5,
       "price": "~$87,990",
       "aspiration": "NA",
-      "fx": 1.8
+      "fx": 1.8,
+      "quarterMile": "~14.2 sec",
+      "fc": 2.1,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.4
     },
     "DS|DS9|2021|E-Tense 225": {
       "engine": "1.6L PHEV",
@@ -6170,7 +7246,14 @@
       "seats": 5,
       "price": "~$74,990",
       "aspiration": "NA",
-      "fx": 1.5
+      "fx": 1.5,
+      "quarterMile": "~16.0 sec",
+      "fc": 1.7,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.3
     },
     "DS|DS9|2021|E-Tense 360 4x4": {
       "engine": "1.6L PHEV",
@@ -6188,7 +7271,14 @@
       "seats": 5,
       "price": "~$89,990",
       "aspiration": "NA",
-      "fx": 1.5
+      "fx": 1.5,
+      "quarterMile": "~14.0 sec",
+      "fc": 1.7,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.3
     },
     "DS|DS9|2022|E-Tense 225": {
       "engine": "1.6L PHEV",
@@ -6206,7 +7296,14 @@
       "seats": 5,
       "price": "~$76,490",
       "aspiration": "NA",
-      "fx": 1.5
+      "fx": 1.5,
+      "quarterMile": "~16.0 sec",
+      "fc": 1.7,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.3
     },
     "DS|DS9|2022|E-Tense 360 4x4": {
       "engine": "1.6L PHEV",
@@ -6224,7 +7321,14 @@
       "seats": 5,
       "price": "~$91,490",
       "aspiration": "NA",
-      "fx": 1.5
+      "fx": 1.5,
+      "quarterMile": "~14.0 sec",
+      "fc": 1.7,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.3
     },
     "DS|DS9|2023|E-Tense 225": {
       "engine": "1.6L PHEV",
@@ -6242,7 +7346,14 @@
       "seats": 5,
       "price": "~$77,990",
       "aspiration": "NA",
-      "fx": 1.5
+      "fx": 1.5,
+      "quarterMile": "~16.0 sec",
+      "fc": 1.7,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.3
     },
     "DS|DS9|2023|E-Tense 360 4x4": {
       "engine": "1.6L PHEV",
@@ -6260,7 +7371,14 @@
       "seats": 5,
       "price": "~$92,990",
       "aspiration": "NA",
-      "fx": 1.5
+      "fx": 1.5,
+      "quarterMile": "~14.0 sec",
+      "fc": 1.7,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.3
     },
     "DS|DS9|2024|E-Tense 225": {
       "engine": "1.6L PHEV",
@@ -6278,7 +7396,14 @@
       "seats": 5,
       "price": "~$79,490",
       "aspiration": "NA",
-      "fx": 1.5
+      "fx": 1.5,
+      "quarterMile": "~16.0 sec",
+      "fc": 1.7,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.3
     },
     "DS|DS9|2024|E-Tense 360 4x4": {
       "engine": "1.6L PHEV",
@@ -6296,7 +7421,14 @@
       "seats": 5,
       "price": "~$94,490",
       "aspiration": "NA",
-      "fx": 1.5
+      "fx": 1.5,
+      "quarterMile": "~14.0 sec",
+      "fc": 1.7,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.3
     },
     "DS|DS9|2025|E-Tense 225": {
       "engine": "1.6L PHEV",
@@ -6314,7 +7446,14 @@
       "seats": 5,
       "price": "~$80,990",
       "aspiration": "NA",
-      "fx": 1.5
+      "fx": 1.5,
+      "quarterMile": "~16.0 sec",
+      "fc": 1.7,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.3
     },
     "DS|DS9|2025|E-Tense 360 4x4": {
       "engine": "1.6L PHEV",
@@ -6332,7 +7471,14 @@
       "seats": 5,
       "price": "~$95,990",
       "aspiration": "NA",
-      "fx": 1.5
+      "fx": 1.5,
+      "quarterMile": "~14.0 sec",
+      "fc": 1.7,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.3
     },
     "DS|DS9|2026|E-Tense 225": {
       "engine": "1.6L PHEV",
@@ -6350,7 +7496,14 @@
       "seats": 5,
       "price": "~$82,490",
       "aspiration": "NA",
-      "fx": 1.5
+      "fx": 1.5,
+      "quarterMile": "~16.0 sec",
+      "fc": 1.7,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.3
     },
     "DS|DS9|2026|E-Tense 360 4x4": {
       "engine": "1.6L PHEV",
@@ -6368,7 +7521,14 @@
       "seats": 5,
       "price": "~$97,490",
       "aspiration": "NA",
-      "fx": 1.5
+      "fx": 1.5,
+      "quarterMile": "~14.0 sec",
+      "fc": 1.7,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 1.3
     },
     "LDV|T60|2018|Pro": {
       "engine": "2.0L Turbo Diesel",
@@ -6387,7 +7547,12 @@
       "weight": 1970,
       "seats": 5,
       "price": "~$29,990",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.1 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "LDV|T60|2019|Pro": {
       "engine": "2.0L Turbo Diesel",
@@ -6406,7 +7571,12 @@
       "weight": 1970,
       "seats": 5,
       "price": "~$30,790",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.1 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "LDV|T60|2020|Pro": {
       "engine": "2.0L Turbo Diesel",
@@ -6425,7 +7595,12 @@
       "weight": 1970,
       "seats": 5,
       "price": "~$31,590",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.1 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "LDV|T60|2021|Pro": {
       "engine": "2.0L Turbo Diesel",
@@ -6444,7 +7619,12 @@
       "weight": 1970,
       "seats": 5,
       "price": "~$32,390",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.1 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "LDV|T60|2022|Pro": {
       "engine": "2.0L Turbo Diesel",
@@ -6463,7 +7643,12 @@
       "weight": 1970,
       "seats": 5,
       "price": "~$33,190",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~19.1 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

@@ -11,13 +11,18 @@
       "torque": 430,
       "weight": 2085,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.4,
+      "fh": 8,
       "fx": 11.5,
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$44,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2021|Big Bend": {
       "engine": "2.3L 4-cyl EcoBoost",
@@ -30,13 +35,18 @@
       "torque": 430,
       "weight": 2110,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.4,
+      "fh": 8,
       "fx": 11.5,
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$51,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2021|Wildtrak": {
       "engine": "2.7L V6 EcoBoost",
@@ -49,13 +59,18 @@
       "torque": 542,
       "weight": 2155,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 16,
+      "fh": 8.9,
       "fx": 12.8,
       "acceleration": 6.5,
       "topSpeed": 195,
       "price": "~$57,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2021|Badlands": {
       "engine": "2.3L 4-cyl EcoBoost",
@@ -68,13 +83,18 @@
       "torque": 430,
       "weight": 2130,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.4,
+      "fh": 8,
       "fx": 11.5,
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$59,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2022|Base": {
       "engine": "2.3L 4-cyl EcoBoost",
@@ -87,13 +107,18 @@
       "torque": 430,
       "weight": 2085,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.4,
+      "fh": 8,
       "fx": 11.5,
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$45,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2022|Big Bend": {
       "engine": "2.3L 4-cyl EcoBoost",
@@ -106,13 +131,18 @@
       "torque": 430,
       "weight": 2110,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.4,
+      "fh": 8,
       "fx": 11.5,
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$52,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2022|Wildtrak": {
       "engine": "2.7L V6 EcoBoost",
@@ -125,13 +155,18 @@
       "torque": 542,
       "weight": 2155,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 16,
+      "fh": 8.9,
       "fx": 12.8,
       "acceleration": 6.5,
       "topSpeed": 195,
       "price": "~$58,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2022|Badlands": {
       "engine": "2.3L 4-cyl EcoBoost",
@@ -144,13 +179,18 @@
       "torque": 430,
       "weight": 2130,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.4,
+      "fh": 8,
       "fx": 11.5,
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$60,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2022|Raptor": {
       "engine": "3.0L V6 EcoBoost Raptor",
@@ -182,13 +222,18 @@
       "torque": 430,
       "weight": 2085,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.4,
+      "fh": 8,
       "fx": 11.5,
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$47,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2023|Big Bend": {
       "engine": "2.3L 4-cyl EcoBoost",
@@ -201,13 +246,18 @@
       "torque": 430,
       "weight": 2110,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.4,
+      "fh": 8,
       "fx": 11.5,
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$54,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2023|Wildtrak": {
       "engine": "2.7L V6 EcoBoost",
@@ -220,13 +270,18 @@
       "torque": 542,
       "weight": 2155,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 16,
+      "fh": 8.9,
       "fx": 12.8,
       "acceleration": 6.5,
       "topSpeed": 195,
       "price": "~$60,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2023|Badlands": {
       "engine": "2.3L 4-cyl EcoBoost",
@@ -239,13 +294,18 @@
       "torque": 430,
       "weight": 2130,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.4,
+      "fh": 8,
       "fx": 11.5,
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$62,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2023|Raptor": {
       "engine": "3.0L V6 EcoBoost Raptor",
@@ -258,13 +318,18 @@
       "torque": 570,
       "weight": 2240,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 18.1,
+      "fh": 10.1,
       "fx": 14.5,
       "acceleration": 5.8,
       "topSpeed": 200,
       "price": "~$82,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2024|Base": {
       "engine": "2.3L 4-cyl EcoBoost",
@@ -277,13 +342,18 @@
       "torque": 430,
       "weight": 2085,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.4,
+      "fh": 8,
       "fx": 11.5,
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$49,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2024|Big Bend": {
       "engine": "2.3L 4-cyl EcoBoost",
@@ -296,13 +366,18 @@
       "torque": 430,
       "weight": 2110,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.4,
+      "fh": 8,
       "fx": 11.5,
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$56,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2024|Wildtrak": {
       "engine": "2.7L V6 EcoBoost",
@@ -315,13 +390,18 @@
       "torque": 542,
       "weight": 2155,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 16,
+      "fh": 8.9,
       "fx": 12.8,
       "acceleration": 6.5,
       "topSpeed": 195,
       "price": "~$62,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2024|Badlands": {
       "engine": "2.3L 4-cyl EcoBoost",
@@ -334,13 +414,18 @@
       "torque": 430,
       "weight": 2130,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.4,
+      "fh": 8,
       "fx": 11.5,
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$64,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2024|Raptor": {
       "engine": "3.0L V6 EcoBoost Raptor",
@@ -353,13 +438,18 @@
       "torque": 570,
       "weight": 2240,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 18.1,
+      "fh": 10.1,
       "fx": 14.5,
       "acceleration": 5.8,
       "topSpeed": 200,
       "price": "~$85,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2025|Base": {
       "engine": "2.3L 4-cyl EcoBoost",
@@ -372,13 +462,18 @@
       "torque": 430,
       "weight": 2085,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.4,
+      "fh": 8,
       "fx": 11.5,
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$51,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2025|Big Bend": {
       "engine": "2.3L 4-cyl EcoBoost",
@@ -391,13 +486,18 @@
       "torque": 430,
       "weight": 2110,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.4,
+      "fh": 8,
       "fx": 11.5,
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$58,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2025|Wildtrak": {
       "engine": "2.7L V6 EcoBoost",
@@ -410,13 +510,18 @@
       "torque": 542,
       "weight": 2155,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 16,
+      "fh": 8.9,
       "fx": 12.8,
       "acceleration": 6.5,
       "topSpeed": 195,
       "price": "~$64,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2025|Badlands": {
       "engine": "2.3L 4-cyl EcoBoost",
@@ -429,13 +534,18 @@
       "torque": 430,
       "weight": 2130,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.4,
+      "fh": 8,
       "fx": 11.5,
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$66,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2025|Raptor": {
       "engine": "3.0L V6 EcoBoost Raptor",
@@ -448,13 +558,18 @@
       "torque": 570,
       "weight": 2240,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 18.1,
+      "fh": 10.1,
       "fx": 14.5,
       "acceleration": 5.8,
       "topSpeed": 200,
       "price": "~$88,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2026|Base": {
       "engine": "2.3L 4-cyl EcoBoost",
@@ -467,13 +582,18 @@
       "torque": 430,
       "weight": 2085,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.4,
+      "fh": 8,
       "fx": 11.5,
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$53,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2026|Big Bend": {
       "engine": "2.3L 4-cyl EcoBoost",
@@ -486,13 +606,18 @@
       "torque": 430,
       "weight": 2110,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.4,
+      "fh": 8,
       "fx": 11.5,
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$60,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2026|Wildtrak": {
       "engine": "2.7L V6 EcoBoost",
@@ -505,13 +630,18 @@
       "torque": 542,
       "weight": 2155,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 16,
+      "fh": 8.9,
       "fx": 12.8,
       "acceleration": 6.5,
       "topSpeed": 195,
       "price": "~$66,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2026|Badlands": {
       "engine": "2.3L 4-cyl EcoBoost",
@@ -524,13 +654,18 @@
       "torque": 430,
       "weight": 2130,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.4,
+      "fh": 8,
       "fx": 11.5,
       "acceleration": 7.5,
       "topSpeed": 185,
       "price": "~$68,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|Bronco|2026|Raptor": {
       "engine": "3.0L V6 EcoBoost Raptor",
@@ -543,13 +678,18 @@
       "torque": 570,
       "weight": 2240,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 18.1,
+      "fh": 10.1,
       "fx": 14.5,
       "acceleration": 5.8,
       "topSpeed": 200,
       "price": "~$91,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Grand Cherokee|2018|Trackhawk": {
       "engine": "6.2L V8 Supercharged Trackhawk",
@@ -562,13 +702,18 @@
       "torque": 868,
       "weight": 2436,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 21.8,
+      "fh": 12,
       "fx": 17.4,
       "acceleration": 3.5,
       "topSpeed": 290,
       "price": "~$125,990",
-      "aspiration": "IHI Twin-Screw Supercharged"
+      "aspiration": "IHI Twin-Screw Supercharged",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Grand Cherokee|2019|Trackhawk": {
       "engine": "6.2L V8 Supercharged Trackhawk",
@@ -581,13 +726,18 @@
       "torque": 868,
       "weight": 2436,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 21.8,
+      "fh": 12,
       "fx": 17.4,
       "acceleration": 3.5,
       "topSpeed": 290,
       "price": "~$128,990",
-      "aspiration": "IHI Twin-Screw Supercharged"
+      "aspiration": "IHI Twin-Screw Supercharged",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Grand Cherokee|2020|Trackhawk": {
       "engine": "6.2L V8 Supercharged Trackhawk",
@@ -600,13 +750,20 @@
       "torque": 868,
       "weight": 2436,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 21.8,
+      "fh": 12,
       "fx": 17.4,
       "acceleration": 3.5,
       "topSpeed": 290,
       "price": "~$131,990",
-      "aspiration": "IHI Twin-Screw Supercharged"
+      "aspiration": "IHI Twin-Screw Supercharged",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 1000
     },
     "Jeep|Grand Cherokee|2021|Trackhawk": {
       "engine": "6.2L V8 Supercharged Trackhawk",
@@ -619,13 +776,20 @@
       "torque": 868,
       "weight": 2436,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 21.8,
+      "fh": 12,
       "fx": 17.4,
       "acceleration": 3.5,
       "topSpeed": 290,
       "price": "~$134,990",
-      "aspiration": "IHI Twin-Screw Supercharged"
+      "aspiration": "IHI Twin-Screw Supercharged",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 1000
     },
     "Jeep|Grand Cherokee|2021|4xe": {
       "engine": "2.0L 4-cyl Turbo PHEV 4xe",
@@ -638,14 +802,21 @@
       "torque": 637,
       "weight": 2449,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.9,
+      "fh": 2.8,
       "fx": 3.4,
       "acceleration": 6.1,
       "topSpeed": 210,
       "range": 40,
       "price": "~$89,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 1000
     },
     "Jeep|Grand Cherokee|2022|4xe": {
       "engine": "2.0L 4-cyl Turbo PHEV 4xe",
@@ -658,14 +829,21 @@
       "torque": 637,
       "weight": 2449,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.9,
+      "fh": 2.8,
       "fx": 3.4,
       "acceleration": 6.1,
       "topSpeed": 210,
       "range": 40,
       "price": "~$92,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 1000
     },
     "Jeep|Grand Cherokee|2023|4xe": {
       "engine": "2.0L 4-cyl Turbo PHEV 4xe",
@@ -678,14 +856,21 @@
       "torque": 637,
       "weight": 2449,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.9,
+      "fh": 2.8,
       "fx": 3.4,
       "acceleration": 6.1,
       "topSpeed": 210,
       "range": 40,
       "price": "~$94,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 1000
     },
     "Jeep|Grand Cherokee|2024|4xe": {
       "engine": "2.0L 4-cyl Turbo PHEV 4xe",
@@ -698,14 +883,21 @@
       "torque": 637,
       "weight": 2449,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.9,
+      "fh": 2.8,
       "fx": 3.4,
       "acceleration": 6.1,
       "topSpeed": 210,
       "range": 40,
       "price": "~$97,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 1000
     },
     "Jeep|Grand Cherokee|2025|4xe": {
       "engine": "2.0L 4-cyl Turbo PHEV 4xe",
@@ -718,14 +910,19 @@
       "torque": 637,
       "weight": 2449,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.9,
+      "fh": 2.8,
       "fx": 3.4,
       "acceleration": 6.1,
       "topSpeed": 210,
       "range": 40,
       "price": "~$99,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Grand Cherokee|2026|4xe": {
       "engine": "2.0L 4-cyl Turbo PHEV 4xe",
@@ -738,14 +935,19 @@
       "torque": 637,
       "weight": 2449,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.9,
+      "fh": 2.8,
       "fx": 3.4,
       "acceleration": 6.1,
       "topSpeed": 210,
       "range": 40,
       "price": "~$102,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Grand Cherokee|2014|SRT": {
       "engine": "6.4L V8 HEMI SRT",
@@ -758,13 +960,20 @@
       "torque": 624,
       "weight": 2235,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 19.9,
+      "fh": 11,
       "fx": 15.9,
       "acceleration": 4.8,
       "topSpeed": 257,
       "price": "~$87,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 970
     },
     "Jeep|Grand Cherokee|2016|SRT": {
       "engine": "6.4L V8 HEMI SRT",
@@ -777,13 +986,20 @@
       "torque": 624,
       "weight": 2235,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 19.9,
+      "fh": 11,
       "fx": 15.9,
       "acceleration": 4.8,
       "topSpeed": 257,
       "price": "~$92,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 970
     },
     "Jeep|Grand Cherokee|2018|SRT": {
       "engine": "6.4L V8 HEMI SRT",
@@ -796,13 +1012,18 @@
       "torque": 624,
       "weight": 2235,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 19.9,
+      "fh": 11,
       "fx": 15.9,
       "acceleration": 4.8,
       "topSpeed": 257,
       "price": "~$97,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Jeep|Grand Cherokee|2020|SRT": {
       "engine": "6.4L V8 HEMI SRT",
@@ -834,13 +1055,20 @@
       "torque": 556,
       "weight": 2350,
       "seats": 6,
-      "fc": null,
-      "fh": null,
+      "fc": 19.6,
+      "fh": 10.9,
       "fx": 15.7,
       "acceleration": 6.5,
       "topSpeed": 195,
       "price": "~$89,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 1090
     },
     "RAM|1500|2021|Warlock": {
       "engine": "5.7L V8 HEMI",
@@ -853,13 +1081,20 @@
       "torque": 556,
       "weight": 2350,
       "seats": 6,
-      "fc": null,
-      "fh": null,
+      "fc": 19.6,
+      "fh": 10.9,
       "fx": 15.7,
       "acceleration": 6.5,
       "topSpeed": 195,
       "price": "~$91,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 1090
     },
     "RAM|1500|2022|Warlock": {
       "engine": "5.7L V8 HEMI",
@@ -872,13 +1107,18 @@
       "torque": 556,
       "weight": 2350,
       "seats": 6,
-      "fc": null,
-      "fh": null,
+      "fc": 19.6,
+      "fh": 10.9,
       "fx": 15.7,
       "acceleration": 6.5,
       "topSpeed": 195,
       "price": "~$92,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "RAM|1500|2023|Warlock": {
       "engine": "5.7L V8 HEMI",
@@ -891,13 +1131,18 @@
       "torque": 556,
       "weight": 2350,
       "seats": 6,
-      "fc": null,
-      "fh": null,
+      "fc": 19.6,
+      "fh": 10.9,
       "fx": 15.7,
       "acceleration": 6.5,
       "topSpeed": 195,
       "price": "~$94,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "RAM|1500|2024|Warlock": {
       "engine": "5.7L V8 HEMI",
@@ -910,13 +1155,18 @@
       "torque": 556,
       "weight": 2350,
       "seats": 6,
-      "fc": null,
-      "fh": null,
+      "fc": 19.6,
+      "fh": 10.9,
       "fx": 15.7,
       "acceleration": 6.5,
       "topSpeed": 195,
       "price": "~$95,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "RAM|1500|2025|Warlock": {
       "engine": "5.7L V8 HEMI",
@@ -929,13 +1179,18 @@
       "torque": 556,
       "weight": 2350,
       "seats": 6,
-      "fc": null,
-      "fh": null,
+      "fc": 19.6,
+      "fh": 10.9,
       "fx": 15.7,
       "acceleration": 6.5,
       "topSpeed": 195,
       "price": "~$97,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|F-150|2022|Lightning": {
       "engine": "Dual Electric Motor Lightning",
@@ -967,13 +1222,18 @@
       "torque": 678,
       "weight": 2495,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 18.9,
+      "fh": 10.5,
       "fx": 15.1,
       "acceleration": 5.5,
       "topSpeed": 200,
       "price": "~$109,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|F-150|2023|Lightning": {
       "engine": "Dual Electric Motor Lightning",
@@ -992,7 +1252,8 @@
       "acceleration": 4.5,
       "topSpeed": 180,
       "price": "~$92,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.8 sec"
     },
     "Ford|F-150|2023|Raptor": {
       "engine": "3.5L V6 EcoBoost High Output",
@@ -1005,13 +1266,18 @@
       "torque": 678,
       "weight": 2495,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 18.9,
+      "fh": 10.5,
       "fx": 15.1,
       "acceleration": 5.5,
       "topSpeed": 200,
       "price": "~$112,490",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|F-150|2023|Raptor R": {
       "engine": "5.2L V8 Supercharged R (Raptor R)",
@@ -1049,7 +1315,8 @@
       "acceleration": 4.5,
       "topSpeed": 180,
       "price": "~$95,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.8 sec"
     },
     "Ford|F-150|2024|Raptor": {
       "engine": "3.5L V6 EcoBoost High Output",
@@ -1062,13 +1329,18 @@
       "torque": 678,
       "weight": 2495,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 18.9,
+      "fh": 10.5,
       "fx": 15.1,
       "acceleration": 5.5,
       "topSpeed": 200,
       "price": "~$114,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ford|F-150|2024|Raptor R": {
       "engine": "5.2L V8 Supercharged R (Raptor R)",
@@ -1081,13 +1353,18 @@
       "torque": 868,
       "weight": 2580,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 22.5,
+      "fh": 12.5,
       "fx": 18,
       "acceleration": 4.5,
       "topSpeed": 210,
       "price": "~$152,990",
-      "aspiration": "Eaton TVS2650 Supercharged"
+      "aspiration": "Eaton TVS2650 Supercharged",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 70|2008|GX": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1100,13 +1377,18 @@
       "torque": 430,
       "weight": 2165,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.6,
+      "fh": 8.4,
       "fx": 11.8,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$52,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 70|2008|GXL": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1119,13 +1401,18 @@
       "torque": 430,
       "weight": 2165,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.6,
+      "fh": 8.4,
       "fx": 11.8,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$62,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 70|2012|GX": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1138,13 +1425,18 @@
       "torque": 430,
       "weight": 2165,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.6,
+      "fh": 8.4,
       "fx": 11.8,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$58,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 70|2012|GXL": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1157,13 +1449,18 @@
       "torque": 430,
       "weight": 2165,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.6,
+      "fh": 8.4,
       "fx": 11.8,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$68,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 70|2016|GX": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1176,13 +1473,18 @@
       "torque": 430,
       "weight": 2165,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.6,
+      "fh": 8.4,
       "fx": 11.8,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$63,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 70|2016|GXL": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1195,13 +1497,18 @@
       "torque": 430,
       "weight": 2165,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.6,
+      "fh": 8.4,
       "fx": 11.8,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$73,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 70|2020|GX": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1214,13 +1521,18 @@
       "torque": 430,
       "weight": 2165,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.6,
+      "fh": 8.4,
       "fx": 11.8,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$67,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 70|2020|GXL": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1233,13 +1545,18 @@
       "torque": 430,
       "weight": 2165,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.6,
+      "fh": 8.4,
       "fx": 11.8,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$77,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 70|2024|GX": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1252,13 +1569,18 @@
       "torque": 430,
       "weight": 2165,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.6,
+      "fh": 8.4,
       "fx": 11.8,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$80,900",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 70|2024|GXL": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1271,13 +1593,18 @@
       "torque": 430,
       "weight": 2165,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.6,
+      "fh": 8.4,
       "fx": 11.8,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$94,900",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2008|GX": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1290,13 +1617,18 @@
       "torque": 615,
       "weight": 2760,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.5,
       "topSpeed": 200,
       "price": "~$66,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2008|GXL": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1309,13 +1641,18 @@
       "torque": 615,
       "weight": 2760,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.5,
       "topSpeed": 200,
       "price": "~$77,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2008|VX": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1328,13 +1665,18 @@
       "torque": 615,
       "weight": 2760,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.5,
       "topSpeed": 200,
       "price": "~$93,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2008|Sahara": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1347,13 +1689,18 @@
       "torque": 615,
       "weight": 2820,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.5,
       "topSpeed": 200,
       "price": "~$107,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2010|GX": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1366,13 +1713,18 @@
       "torque": 615,
       "weight": 2760,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.5,
       "topSpeed": 200,
       "price": "~$71,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2010|GXL": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1385,13 +1737,18 @@
       "torque": 615,
       "weight": 2760,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.5,
       "topSpeed": 200,
       "price": "~$82,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2010|VX": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1404,13 +1761,18 @@
       "torque": 615,
       "weight": 2760,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.5,
       "topSpeed": 200,
       "price": "~$98,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2010|Sahara": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1423,13 +1785,18 @@
       "torque": 615,
       "weight": 2820,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.5,
       "topSpeed": 200,
       "price": "~$112,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2013|GX": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1442,13 +1809,18 @@
       "torque": 615,
       "weight": 2760,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.5,
       "topSpeed": 200,
       "price": "~$75,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2013|GXL": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1461,13 +1833,18 @@
       "torque": 615,
       "weight": 2760,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.5,
       "topSpeed": 200,
       "price": "~$86,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2013|VX": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1480,13 +1857,18 @@
       "torque": 615,
       "weight": 2760,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.5,
       "topSpeed": 200,
       "price": "~$101,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2013|Sahara": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1499,13 +1881,18 @@
       "torque": 615,
       "weight": 2820,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.5,
       "topSpeed": 200,
       "price": "~$116,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2016|GX": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1518,13 +1905,18 @@
       "torque": 650,
       "weight": 2790,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.2,
       "topSpeed": 200,
       "price": "~$80,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2016|GXL": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1537,13 +1929,18 @@
       "torque": 650,
       "weight": 2790,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.2,
       "topSpeed": 200,
       "price": "~$91,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2016|VX": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1556,13 +1953,18 @@
       "torque": 650,
       "weight": 2790,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.2,
       "topSpeed": 200,
       "price": "~$108,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2016|Sahara": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1575,13 +1977,18 @@
       "torque": 650,
       "weight": 2840,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.2,
       "topSpeed": 200,
       "price": "~$121,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2019|GX": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1594,13 +2001,18 @@
       "torque": 650,
       "weight": 2790,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.2,
       "topSpeed": 200,
       "price": "~$85,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2019|GXL": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1613,13 +2025,18 @@
       "torque": 650,
       "weight": 2790,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.2,
       "topSpeed": 200,
       "price": "~$95,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2019|VX": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1632,13 +2049,18 @@
       "torque": 650,
       "weight": 2790,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.2,
       "topSpeed": 200,
       "price": "~$113,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2019|Sahara": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1651,13 +2073,18 @@
       "torque": 650,
       "weight": 2840,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.2,
       "topSpeed": 200,
       "price": "~$128,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2021|GX": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1670,13 +2097,18 @@
       "torque": 650,
       "weight": 2790,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.2,
       "topSpeed": 200,
       "price": "~$89,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2021|GXL": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1689,13 +2121,18 @@
       "torque": 650,
       "weight": 2790,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.2,
       "topSpeed": 200,
       "price": "~$98,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2021|VX": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1708,13 +2145,18 @@
       "torque": 650,
       "weight": 2790,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.2,
       "topSpeed": 200,
       "price": "~$119,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 200|2021|Sahara": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1727,13 +2169,18 @@
       "torque": 650,
       "weight": 2840,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 14.2,
+      "fh": 8.2,
       "fx": 11.5,
       "acceleration": 9.2,
       "topSpeed": 200,
       "price": "~$135,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 70|2008|Workmate": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1746,13 +2193,18 @@
       "torque": 430,
       "weight": 2165,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.6,
+      "fh": 8.4,
       "fx": 11.8,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$44,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 70|2012|Workmate": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1765,13 +2217,18 @@
       "torque": 430,
       "weight": 2165,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.6,
+      "fh": 8.4,
       "fx": 11.8,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$50,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 70|2016|Workmate": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1784,13 +2241,18 @@
       "torque": 430,
       "weight": 2165,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.6,
+      "fh": 8.4,
       "fx": 11.8,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$55,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 70|2020|Workmate": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1803,13 +2265,18 @@
       "torque": 430,
       "weight": 2165,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.6,
+      "fh": 8.4,
       "fx": 11.8,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$61,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Toyota|LandCruiser 70|2024|Workmate": {
       "engine": "4.5L V8 Twin-Turbo Diesel 1VD-FTV",
@@ -1822,13 +2289,18 @@
       "torque": 430,
       "weight": 2165,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 14.6,
+      "fh": 8.4,
       "fx": 11.8,
       "acceleration": 11.5,
       "topSpeed": 180,
       "price": "~$72,900",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     }
   }
 }

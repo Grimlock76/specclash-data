@@ -1,8 +1,8 @@
 {
   "specs": {
     "Mazda|3|2026|G20 Pure": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.2,
+      "topSpeed": 200,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -19,11 +19,15 @@
       "fh": 5,
       "fx": 5.9,
       "weight": 1418,
-      "price": "$31,610"
+      "price": "$31,610",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|3|2026|G20 Evolve": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.2,
+      "topSpeed": 200,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -40,11 +44,15 @@
       "fh": 5,
       "fx": 5.9,
       "weight": 1418,
-      "price": "$33,410"
+      "price": "$33,410",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|3|2026|G20 Touring": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.2,
+      "topSpeed": 200,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -61,11 +69,15 @@
       "fh": 5,
       "fx": 5.9,
       "weight": 1418,
-      "price": "$37,410"
+      "price": "$37,410",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|3|2026|G25 Evolve SP": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8,
+      "topSpeed": 215,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -82,11 +94,15 @@
       "fh": 5.4,
       "fx": 6.6,
       "weight": 1417,
-      "price": "$37,410"
+      "price": "$37,410",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|3|2026|G25 GT": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8,
+      "topSpeed": 215,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -103,11 +119,15 @@
       "fh": 5.4,
       "fx": 6.6,
       "weight": 1417,
-      "price": "$40,410"
+      "price": "$40,410",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|3|2026|G25 Astina": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8,
+      "topSpeed": 215,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -124,11 +144,15 @@
       "fh": 5.4,
       "fx": 6.6,
       "weight": 1429,
-      "price": "$43,610"
+      "price": "$43,610",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-30|2026|G20 Pure": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.6,
+      "topSpeed": 175,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -146,11 +170,15 @@
       "fh": 5.6,
       "fx": 6.3,
       "weight": 1468,
-      "price": "$34,360"
+      "price": "$34,360",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-30|2026|G20 Evolve": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.6,
+      "topSpeed": 175,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -168,11 +196,15 @@
       "fh": 5.6,
       "fx": 6.3,
       "weight": 1468,
-      "price": "$36,260"
+      "price": "$36,260",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-30|2026|G20 Touring": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.6,
+      "topSpeed": 175,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -190,11 +222,15 @@
       "fh": 5.6,
       "fx": 6.3,
       "weight": 1468,
-      "price": "$40,060"
+      "price": "$40,060",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-30|2026|G20 Touring LE": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.6,
+      "topSpeed": 175,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -212,11 +248,15 @@
       "fh": 5.6,
       "fx": 6.3,
       "weight": 1468,
-      "price": "$42,360"
+      "price": "$42,360",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-30|2026|G20 Astina": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.6,
+      "topSpeed": 175,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -234,11 +274,15 @@
       "fh": 5.6,
       "fx": 6.3,
       "weight": 1479,
-      "price": "$45,260"
+      "price": "$45,260",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-30|2026|G25 Touring": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.9,
+      "topSpeed": 190,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -256,11 +300,15 @@
       "fh": 5.5,
       "fx": 6.6,
       "weight": 1468,
-      "price": "$41,560"
+      "price": "$41,560",
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-30|2026|G25 GT SP": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.9,
+      "topSpeed": 190,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -278,11 +326,15 @@
       "fh": 5.5,
       "fx": 6.6,
       "weight": 1479,
-      "price": "$43,560"
+      "price": "$43,560",
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-30|2026|G25 Astina": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.9,
+      "topSpeed": 190,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -300,7 +352,11 @@
       "fh": 5.5,
       "fx": 6.6,
       "weight": 1479,
-      "price": "$46,760"
+      "price": "$46,760",
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

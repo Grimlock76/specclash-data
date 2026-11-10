@@ -2722,7 +2722,8 @@
       "bodyStyle": "SUV",
       "topSpeed": 200,
       "cargo": 682,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.0 sec"
     },
     "Mercedes-Benz|G-Class|2024|G 500": {
       "engine": "4.0",
@@ -3958,7 +3959,8 @@
       "drivetrain": "RWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.7 sec"
     },
     "Mercedes-Benz|EQE|2022|EQE 500 4MATIC": {
       "engine": "Dual Electric Motor",
@@ -3994,7 +3996,8 @@
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.5 sec"
     },
     "Mercedes-Benz|EQE|2023|EQE 350": {
       "engine": "Electric Motor",
@@ -4012,7 +4015,8 @@
       "drivetrain": "RWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.7 sec"
     },
     "Mercedes-Benz|EQE|2023|EQE 500 4MATIC": {
       "engine": "Dual Electric Motor",
@@ -4048,7 +4052,8 @@
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.5 sec"
     },
     "Mercedes-Benz|EQE|2024|EQE 350": {
       "engine": "Electric Motor",
@@ -4066,7 +4071,8 @@
       "drivetrain": "RWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.7 sec"
     },
     "Mercedes-Benz|EQE|2024|EQE 500 4MATIC": {
       "engine": "Dual Electric Motor",
@@ -4102,7 +4108,8 @@
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.5 sec"
     },
     "Mercedes-Benz|EQE|2025|EQE 350": {
       "engine": "Electric Motor",
@@ -4120,7 +4127,8 @@
       "drivetrain": "RWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.7 sec"
     },
     "Mercedes-Benz|EQE|2025|EQE 500 4MATIC": {
       "engine": "Dual Electric Motor",
@@ -4156,7 +4164,8 @@
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.5 sec"
     },
     "Mercedes-Benz|EQE|2026|EQE 350": {
       "engine": "Electric Motor",
@@ -4174,7 +4183,8 @@
       "drivetrain": "RWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.7 sec"
     },
     "Mercedes-Benz|EQE|2026|EQE 500 4MATIC": {
       "engine": "Dual Electric Motor",
@@ -4210,7 +4220,8 @@
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.5 sec"
     },
     "Mercedes-Benz|EQS|2021|EQS 450": {
       "engine": "Electric Motor",
@@ -4228,7 +4239,8 @@
       "drivetrain": "RWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.5 sec"
     },
     "Mercedes-Benz|EQS|2021|EQS 580 4MATIC": {
       "engine": "Dual Electric Motor",
@@ -4246,7 +4258,8 @@
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.6 sec"
     },
     "Mercedes-Benz|EQS|2021|AMG EQS 53": {
       "engine": "Dual Electric Motor",
@@ -4264,7 +4277,8 @@
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.0 sec"
     },
     "Mercedes-Benz|EQS|2022|EQS 450": {
       "engine": "Electric Motor",
@@ -4282,7 +4296,8 @@
       "drivetrain": "RWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.5 sec"
     },
     "Mercedes-Benz|EQS|2022|EQS 580 4MATIC": {
       "engine": "Dual Electric Motor",
@@ -4300,7 +4315,8 @@
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.6 sec"
     },
     "Mercedes-Benz|EQS|2022|AMG EQS 53": {
       "engine": "Dual Electric Motor",
@@ -4318,7 +4334,8 @@
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.0 sec"
     },
     "Mercedes-Benz|EQS|2023|EQS 450": {
       "engine": "Electric Motor",
@@ -4336,7 +4353,8 @@
       "drivetrain": "RWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.5 sec"
     },
     "Mercedes-Benz|EQS|2023|EQS 580 4MATIC": {
       "engine": "Dual Electric Motor",
@@ -4354,7 +4372,8 @@
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.6 sec"
     },
     "Mercedes-Benz|EQS|2023|AMG EQS 53": {
       "engine": "Dual Electric Motor",
@@ -4372,7 +4391,8 @@
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.0 sec"
     },
     "Mercedes-Benz|EQS|2024|EQS 450": {
       "engine": "Electric Motor",
@@ -4390,7 +4410,8 @@
       "drivetrain": "RWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.5 sec"
     },
     "Mercedes-Benz|EQS|2024|EQS 580 4MATIC": {
       "engine": "Dual Electric Motor",
@@ -4408,7 +4429,8 @@
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.6 sec"
     },
     "Mercedes-Benz|EQS|2024|AMG EQS 53": {
       "engine": "Dual Electric Motor",
@@ -4426,7 +4448,8 @@
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.0 sec"
     },
     "Mercedes-Benz|EQS|2025|EQS 450": {
       "engine": "Electric Motor",
@@ -4444,7 +4467,8 @@
       "drivetrain": "RWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.5 sec"
     },
     "Mercedes-Benz|EQS|2025|EQS 580 4MATIC": {
       "engine": "Dual Electric Motor",
@@ -4462,7 +4486,8 @@
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.6 sec"
     },
     "Mercedes-Benz|EQS|2025|AMG EQS 53": {
       "engine": "Dual Electric Motor",
@@ -4480,7 +4505,8 @@
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.0 sec"
     },
     "Mercedes-Benz|EQS|2026|EQS 450": {
       "engine": "Electric Motor",
@@ -4498,7 +4524,8 @@
       "drivetrain": "RWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.5 sec"
     },
     "Mercedes-Benz|EQS|2026|EQS 580 4MATIC": {
       "engine": "Dual Electric Motor",
@@ -4516,7 +4543,8 @@
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.6 sec"
     },
     "Mercedes-Benz|EQS|2026|AMG EQS 53": {
       "engine": "Dual Electric Motor",
@@ -4534,7 +4562,8 @@
       "drivetrain": "AWD",
       "bodyStyle": "Sedan",
       "topSpeed": 200,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.0 sec"
     }
   }
 }

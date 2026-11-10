@@ -5,8 +5,8 @@
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 7.7,
+      "topSpeed": 215,
       "towing": 3500,
       "fuelTank": 110,
       "engine": "3.3L V6 Twin-Turbo Diesel",
@@ -22,15 +22,19 @@
       "seats": 5,
       "payload": 785,
       "groundClearance": 245,
-      "price": "$94,301"
+      "price": "$94,301",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2022|GXL": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8,
+      "topSpeed": 210,
       "towing": 3500,
       "fuelTank": 110,
       "engine": "3.3L V6 Twin-Turbo Diesel",
@@ -44,15 +48,19 @@
       "fx": 8.9,
       "weight": 2580,
       "seats": 7,
-      "price": "$106,101"
+      "price": "$106,101",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2022|VX": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.1,
+      "topSpeed": 210,
       "towing": 3500,
       "fuelTank": 110,
       "engine": "3.3L V6 Twin-Turbo Diesel",
@@ -66,15 +74,19 @@
       "fx": 8.9,
       "weight": 2630,
       "seats": 7,
-      "price": "$118,301"
+      "price": "$118,301",
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2022|Sahara": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.1,
+      "topSpeed": 210,
       "towing": 3500,
       "fuelTank": 110,
       "engine": "3.3L V6 Twin-Turbo Diesel",
@@ -88,15 +100,19 @@
       "fx": 8.9,
       "weight": 2630,
       "seats": 7,
-      "price": "$135,501"
+      "price": "$135,501",
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2022|GR Sport": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.1,
+      "topSpeed": 210,
       "towing": 3500,
       "fuelTank": 110,
       "engine": "3.3L V6 Twin-Turbo Diesel",
@@ -111,15 +127,19 @@
       "weight": 2630,
       "seats": 5,
       "groundClearance": 245,
-      "price": "$142,101"
+      "price": "$142,101",
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2022|Sahara ZX": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8,
+      "topSpeed": 210,
       "towing": 3500,
       "fuelTank": 110,
       "engine": "3.3L V6 Twin-Turbo Diesel",
@@ -134,15 +154,19 @@
       "weight": 2610,
       "seats": 5,
       "groundClearance": 245,
-      "price": "$143,101"
+      "price": "$143,101",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2023|GX": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.7,
+      "topSpeed": 215,
       "towing": 3500,
       "fuelTank": 110,
       "engine": "3.3L V6 Twin-Turbo Diesel",
@@ -158,15 +182,19 @@
       "seats": 5,
       "payload": 785,
       "groundClearance": 245,
-      "price": "$96,991"
+      "price": "$96,991",
+      "quarterMile": "~16.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2023|GXL": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9,
+      "topSpeed": 210,
       "towing": 3500,
       "fuelTank": 110,
       "engine": "3.3L V6 Twin-Turbo Diesel",
@@ -180,15 +208,19 @@
       "fx": 8.9,
       "weight": 2580,
       "seats": 7,
-      "price": "$108,791"
+      "price": "$108,791",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2023|VX": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.2,
+      "topSpeed": 210,
       "towing": 3500,
       "fuelTank": 110,
       "engine": "3.3L V6 Twin-Turbo Diesel",
@@ -202,15 +234,19 @@
       "fx": 8.9,
       "weight": 2630,
       "seats": 7,
-      "price": "$120,991"
+      "price": "$120,991",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2023|Sahara": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.2,
+      "topSpeed": 210,
       "towing": 3500,
       "fuelTank": 110,
       "engine": "3.3L V6 Twin-Turbo Diesel",
@@ -224,15 +260,19 @@
       "fx": 8.9,
       "weight": 2630,
       "seats": 7,
-      "price": "$138,191"
+      "price": "$138,191",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2023|GR Sport": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.2,
+      "topSpeed": 210,
       "towing": 3500,
       "fuelTank": 110,
       "engine": "3.3L V6 Twin-Turbo Diesel",
@@ -247,15 +287,19 @@
       "weight": 2630,
       "seats": 5,
       "groundClearance": 245,
-      "price": "$144,791"
+      "price": "$144,791",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2023|Sahara ZX": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.1,
+      "topSpeed": 210,
       "towing": 3500,
       "fuelTank": 110,
       "engine": "3.3L V6 Twin-Turbo Diesel",
@@ -270,15 +314,19 @@
       "weight": 2610,
       "seats": 5,
       "groundClearance": 245,
-      "price": "$145,791"
+      "price": "$145,791",
+      "quarterMile": "~17.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2024|GX": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.7,
+      "topSpeed": 215,
       "towing": 3500,
       "fuelTank": 110,
       "engine": "3.3L V6 Twin-Turbo Diesel",
@@ -294,15 +342,19 @@
       "seats": 5,
       "payload": 785,
       "groundClearance": 245,
-      "price": "$96,991"
+      "price": "$96,991",
+      "quarterMile": "~16.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2024|GXL": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9,
+      "topSpeed": 215,
       "towing": 3500,
       "fuelTank": 110,
       "engine": "3.3L V6 Twin-Turbo Diesel",
@@ -316,15 +368,19 @@
       "fx": 8.9,
       "weight": 2580,
       "seats": 7,
-      "price": "$108,791"
+      "price": "$108,791",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2024|VX": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.2,
+      "topSpeed": 210,
       "towing": 3500,
       "fuelTank": 110,
       "engine": "3.3L V6 Twin-Turbo Diesel",
@@ -338,15 +394,19 @@
       "fx": 8.9,
       "weight": 2630,
       "seats": 7,
-      "price": "$120,991"
+      "price": "$120,991",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2024|Sahara": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.2,
+      "topSpeed": 210,
       "towing": 3500,
       "fuelTank": 110,
       "engine": "3.3L V6 Twin-Turbo Diesel",
@@ -360,15 +420,19 @@
       "fx": 8.9,
       "weight": 2630,
       "seats": 7,
-      "price": "$138,191"
+      "price": "$138,191",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2024|GR Sport": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.2,
+      "topSpeed": 210,
       "towing": 3500,
       "fuelTank": 110,
       "engine": "3.3L V6 Twin-Turbo Diesel",
@@ -383,15 +447,19 @@
       "weight": 2630,
       "seats": 5,
       "groundClearance": 245,
-      "price": "$144,791"
+      "price": "$144,791",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2024|Sahara ZX": {
       "fuelType": "diesel",
       "drivetrain": "4WD",
       "transmission": "10-speed automatic",
       "cargo": null,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.1,
+      "topSpeed": 210,
       "towing": 3500,
       "fuelTank": 110,
       "engine": "3.3L V6 Twin-Turbo Diesel",
@@ -406,7 +474,11 @@
       "weight": 2610,
       "seats": 5,
       "groundClearance": 245,
-      "price": "$145,791"
+      "price": "$145,791",
+      "quarterMile": "~17.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

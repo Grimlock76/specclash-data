@@ -17,7 +17,8 @@
       "acceleration": 7.1,
       "topSpeed": 225,
       "price": "~$52,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.3 sec"
     },
     "Audi|A3|2020|45 TFSI quattro": {
       "engine": "2.0L I4 Turbo TFSI",
@@ -36,7 +37,8 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "price": "~$59,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.6 sec"
     },
     "Audi|Q7|2020|45 TFSI quattro": {
       "engine": "2.0L I4 Turbo TFSI",
@@ -55,7 +57,12 @@
       "acceleration": 6.7,
       "topSpeed": 230,
       "price": "~$109,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.9 sec",
+      "cargo": 770,
+      "est": [
+        "cargo"
+      ]
     },
     "Bentley|Bentayga|2020|Hybrid": {
       "engine": "3.0L V6 Turbo PHEV",
@@ -68,13 +75,18 @@
       "torque": 700,
       "weight": 2540,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 4,
+      "fh": 2.9,
       "fx": 3.5,
       "acceleration": 5.2,
       "topSpeed": 254,
       "price": "~$429,000",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~13.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Chevrolet|Bolt EV|2020|2LT": {
       "engine": "Single Motor Electric",
@@ -93,7 +105,8 @@
       "acceleration": 6.5,
       "topSpeed": 145,
       "price": "~$57,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.8 sec"
     },
     "Chevrolet|Equinox|2020|RS": {
       "engine": "2.0L I4 Turbo",
@@ -112,7 +125,8 @@
       "acceleration": 7.8,
       "topSpeed": 190,
       "price": "~$45,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.9 sec"
     },
     "Honda|Accord|2020|VTi-LX": {
       "engine": "1.5L I4 Turbo VTEC",
@@ -131,7 +145,8 @@
       "acceleration": 9.3,
       "topSpeed": 195,
       "price": "~$38,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~17.1 sec"
     },
     "Hyundai|Sonata|2020|Hybrid": {
       "engine": "2.0L I4 Atkinson Hybrid",
@@ -150,7 +165,12 @@
       "acceleration": 9.5,
       "topSpeed": 185,
       "price": "~$50,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.2 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Isuzu|D-MAX|2020|X-Terrain": {
       "engine": "3.0L I4 TD 4JJ3-TCX",
@@ -169,7 +189,12 @@
       "acceleration": 10.5,
       "topSpeed": 175,
       "price": "~$62,990",
-      "aspiration": "Isuzu IHI VGT Diesel Turbo"
+      "aspiration": "Isuzu IHI VGT Diesel Turbo",
+      "quarterMile": "~17.9 sec",
+      "cargo": 1090,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|F-Type|2020|P300": {
       "engine": "2.0L I4 Turbo Ingenium",
@@ -188,7 +213,8 @@
       "acceleration": 5.7,
       "topSpeed": 250,
       "price": "~$119,900",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.0 sec"
     },
     "Jaguar|F-Type|2020|R": {
       "engine": "5.0L V8 Supercharged",
@@ -207,7 +233,8 @@
       "acceleration": 3.7,
       "topSpeed": 300,
       "price": "~$274,900",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~11.9 sec"
     },
     "Jeep|Compass|2020|Longitude": {
       "engine": "2.4L I4 NA Tigershark",
@@ -226,7 +253,12 @@
       "acceleration": 9.8,
       "topSpeed": 185,
       "price": "~$35,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec",
+      "cargo": 438,
+      "est": [
+        "cargo"
+      ]
     },
     "Jeep|Compass|2020|4xe": {
       "engine": "1.3L I4 Turbo PHEV",
@@ -239,13 +271,20 @@
       "torque": 270,
       "weight": 1710,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "acceleration": 7.5,
       "topSpeed": 200,
       "price": "~$49,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 438
     },
     "Jeep|Grand Cherokee|2020|Laredo": {
       "engine": "3.6L V6 Pentastar NA",
@@ -264,7 +303,12 @@
       "acceleration": 7.9,
       "topSpeed": 195,
       "price": "~$69,950",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.0 sec",
+      "cargo": 1000,
+      "est": [
+        "cargo"
+      ]
     },
     "Jeep|Grand Cherokee|2020|Limited": {
       "engine": "3.6L V6 Pentastar NA",
@@ -283,7 +327,12 @@
       "acceleration": 7.9,
       "topSpeed": 195,
       "price": "~$79,950",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.0 sec",
+      "cargo": 1000,
+      "est": [
+        "cargo"
+      ]
     },
     "Jeep|Grand Cherokee|2020|SRT": {
       "engine": "6.4L V8 HEMI NA",
@@ -302,7 +351,12 @@
       "acceleration": 4.8,
       "topSpeed": 257,
       "price": "~$129,950",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.1 sec",
+      "cargo": 1000,
+      "est": [
+        "cargo"
+      ]
     },
     "Jeep|Grand Cherokee|2020|Summit": {
       "engine": "5.7L V8 HEMI NA",
@@ -321,7 +375,12 @@
       "acceleration": 6.3,
       "topSpeed": 210,
       "price": "~$99,950",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.6 sec",
+      "cargo": 1000,
+      "est": [
+        "cargo"
+      ]
     },
     "Jeep|Grand Cherokee|2020|4xe": {
       "engine": "2.0L I4 Turbo PHEV",
@@ -334,13 +393,20 @@
       "torque": 637,
       "weight": 2460,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.4,
+      "fh": 2.5,
       "fx": 3,
       "acceleration": 6.1,
       "topSpeed": 210,
       "price": "~$94,950",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 1000
     }
   }
 }

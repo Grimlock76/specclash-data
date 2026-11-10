@@ -1,14 +1,14 @@
 {
   "specs": {
     "Toyota|Kluger|2025|GX Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 8.4,
       "cargo": null,
       "seats": 7,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
+      "torque": 220,
       "transmission": "CVT",
       "engine": "2.5L I4 Hybrid",
       "displacement": 2487,
@@ -20,17 +20,22 @@
       "towing": 2000,
       "fuelTank": 65,
       "weight": 2050,
-      "price": "$62,410"
+      "price": "$62,410",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Toyota|Kluger|2025|GXL Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 8.4,
       "cargo": null,
       "seats": 7,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
+      "torque": 220,
       "transmission": "CVT",
       "engine": "2.5L I4 Hybrid",
       "displacement": 2487,
@@ -42,17 +47,22 @@
       "towing": 2000,
       "fuelTank": 65,
       "weight": 2050,
-      "price": "$71,930"
+      "price": "$71,930",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Toyota|Kluger|2025|Grande Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 8.5,
       "cargo": null,
       "seats": 7,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
+      "torque": 220,
       "transmission": "CVT",
       "engine": "2.5L I4 Hybrid",
       "displacement": 2487,
@@ -64,7 +74,12 @@
       "towing": 2000,
       "fuelTank": 65,
       "weight": 2095,
-      "price": "$85,135"
+      "price": "$85,135",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.5 sec"
     }
   }
 }

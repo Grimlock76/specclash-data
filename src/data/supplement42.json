@@ -11769,7 +11769,8 @@
       "acceleration": 4.8,
       "topSpeed": 200,
       "cargo": 441,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.1 sec"
     },
     "Subaru|Solterra|2023|AWD": {
       "engine": "Dual Electric Motor AWD",
@@ -11792,7 +11793,8 @@
       "acceleration": 4.8,
       "topSpeed": 200,
       "cargo": 441,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.1 sec"
     }
   }
 }

@@ -10,9 +10,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 160,
+      "cargo": 401,
+      "weight": 1985,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 111,
@@ -21,7 +21,13 @@
       "range": 429,
       "acceleration": 8.8,
       "price": "$66,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.8 sec"
     },
     "Hyundai|Ioniq 6|2024|Long Range RWD": {
       "fuelType": "electric",
@@ -33,9 +39,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 185,
+      "cargo": 401,
+      "weight": 1985,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 168,
@@ -44,7 +50,13 @@
       "range": 614,
       "acceleration": 8.8,
       "price": "$72,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.8 sec"
     },
     "Hyundai|Ioniq 6|2024|Dynamiq RWD": {
       "fuelType": "electric",
@@ -56,9 +68,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 185,
+      "cargo": 401,
+      "weight": 1985,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 168,
@@ -67,7 +79,13 @@
       "range": 545,
       "acceleration": 7.4,
       "price": "$78,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Hyundai|Ioniq 6|2024|Epiq RWD": {
       "fuelType": "electric",
@@ -79,9 +97,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 185,
+      "cargo": 401,
+      "weight": 1985,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 168,
@@ -90,7 +108,13 @@
       "range": 545,
       "acceleration": 7.4,
       "price": "$82,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Hyundai|Ioniq 6|2024|Dynamiq AWD": {
       "fuelType": "electric",
@@ -102,18 +126,25 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 185,
+      "cargo": 401,
+      "weight": 2195,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 239,
-      "torque": null,
+      "torque": 605,
       "battery": "77.4 kWh",
       "range": 519,
       "acceleration": 5.1,
       "price": "$83,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.4 sec"
     },
     "Hyundai|Ioniq 6|2024|Epiq AWD": {
       "fuelType": "electric",
@@ -125,18 +156,25 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 185,
+      "cargo": 401,
+      "weight": 2195,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 239,
-      "torque": null,
+      "torque": 605,
       "battery": "77.4 kWh",
       "range": 519,
       "acceleration": 5.1,
       "price": "$86,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.4 sec"
     }
   }
 }

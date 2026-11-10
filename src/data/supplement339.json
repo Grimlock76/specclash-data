@@ -1,9 +1,9 @@
 {
   "specs": {
     "Honda|Civic|2024|VTi LX": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 195,
+      "acceleration": 8.3,
+      "cargo": 436,
       "seats": 5,
       "cylinders": 4,
       "drivetrain": "FWD",
@@ -20,12 +20,16 @@
       "fuelTank": 47,
       "weight": 1369,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Honda|Civic|2024|e:HEV L": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 195,
+      "acceleration": 7.9,
+      "cargo": 436,
       "seats": 5,
       "cylinders": 4,
       "drivetrain": "FWD",
@@ -42,12 +46,16 @@
       "fuelTank": 40,
       "weight": 1465,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~16.0 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Honda|Civic|2024|e:HEV LX": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 195,
+      "acceleration": 8.1,
+      "cargo": 436,
       "seats": 5,
       "cylinders": 4,
       "drivetrain": "FWD",
@@ -64,12 +72,16 @@
       "fuelTank": 40,
       "weight": 1497,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Honda|Civic|2024|Type R": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 250,
+      "acceleration": 5.4,
+      "cargo": 436,
       "seats": 4,
       "cylinders": 4,
       "drivetrain": "FWD",
@@ -86,7 +98,11 @@
       "weight": 1429,
       "fuelTank": 47,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~13.7 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     }
   }
 }

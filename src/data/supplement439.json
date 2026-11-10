@@ -22,7 +22,8 @@
       "accelClaimed": true,
       "range": 400,
       "acceleration": 8.5,
-      "price": "$56,770"
+      "price": "$56,770",
+      "quarterMile": "~16.5 sec"
     },
     "Kia|EV5|2025|Air Long Range": {
       "fuelType": "electric",
@@ -46,7 +47,8 @@
       "accelClaimed": true,
       "range": 555,
       "acceleration": 8.9,
-      "price": "$61,170"
+      "price": "$61,170",
+      "quarterMile": "~16.8 sec"
     },
     "Kia|EV5|2025|Earth AWD": {
       "fuelType": "electric",
@@ -70,7 +72,8 @@
       "accelClaimed": true,
       "range": 500,
       "acceleration": 6.1,
-      "price": "$64,770"
+      "price": "$64,770",
+      "quarterMile": "~14.4 sec"
     },
     "Kia|EV5|2025|GT-Line AWD": {
       "fuelType": "electric",
@@ -94,7 +97,8 @@
       "accelClaimed": true,
       "range": 470,
       "acceleration": 6.3,
-      "price": "$71,770"
+      "price": "$71,770",
+      "quarterMile": "~14.6 sec"
     },
     "Kia|EV5|2026|Air Standard Range": {
       "fuelType": "electric",
@@ -118,7 +122,8 @@
       "accelClaimed": true,
       "range": 400,
       "acceleration": 8.5,
-      "price": "$56,770"
+      "price": "$56,770",
+      "quarterMile": "~16.5 sec"
     },
     "Kia|EV5|2026|Air Long Range": {
       "fuelType": "electric",
@@ -142,7 +147,8 @@
       "accelClaimed": true,
       "range": 555,
       "acceleration": 8.9,
-      "price": "$61,170"
+      "price": "$61,170",
+      "quarterMile": "~16.8 sec"
     },
     "Kia|EV5|2026|Earth AWD": {
       "fuelType": "electric",
@@ -166,7 +172,8 @@
       "accelClaimed": true,
       "range": 500,
       "acceleration": 6.1,
-      "price": "$64,770"
+      "price": "$64,770",
+      "quarterMile": "~14.4 sec"
     },
     "Kia|EV5|2026|GT-Line AWD": {
       "fuelType": "electric",
@@ -190,7 +197,8 @@
       "accelClaimed": true,
       "range": 470,
       "acceleration": 6.3,
-      "price": "$71,770"
+      "price": "$71,770",
+      "quarterMile": "~14.6 sec"
     },
     "Kia|EV6|2025|Air RWD": {
       "displacement": null,
@@ -201,9 +209,9 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 185,
       "acceleration": 7.3,
-      "cargo": null,
+      "cargo": 490,
       "seats": 5,
       "engine": "Single-Motor Electric",
       "drivetrain": "RWD",
@@ -212,7 +220,14 @@
       "battery": "77.4 kWh",
       "range": 528,
       "price": "$72,590",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2020,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Kia|EV6|2025|GT-Line RWD": {
       "displacement": null,
@@ -223,9 +238,9 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 185,
       "acceleration": 7.3,
-      "cargo": null,
+      "cargo": 490,
       "seats": 5,
       "engine": "Single-Motor Electric",
       "drivetrain": "RWD",
@@ -234,7 +249,14 @@
       "battery": "77.4 kWh",
       "range": 504,
       "price": "$79,590",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2020,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Kia|EV6|2025|GT": {
       "displacement": null,
@@ -247,7 +269,7 @@
       "fx": null,
       "topSpeed": 260,
       "acceleration": 3.5,
-      "cargo": null,
+      "cargo": 490,
       "seats": 5,
       "engine": "Dual-Motor Electric",
       "drivetrain": "AWD",
@@ -256,7 +278,13 @@
       "battery": "77.4 kWh",
       "range": 424,
       "price": "$99,590",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2175,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~11.7 sec"
     },
     "Kia|EV6|2026|Air RWD": {
       "fuelType": "electric",
@@ -267,9 +295,9 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 185,
       "acceleration": 7.7,
-      "weight": null,
+      "weight": 2020,
       "seats": 5,
       "cargo": 490,
       "engine": "Single Motor Electric",
@@ -280,7 +308,12 @@
       "range": 582,
       "towing": 1800,
       "price": "$72,590",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Kia|EV6|2026|GT-Line RWD": {
       "fuelType": "electric",
@@ -291,9 +324,9 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 185,
       "acceleration": 7.7,
-      "weight": null,
+      "weight": 2020,
       "seats": 5,
       "cargo": 490,
       "engine": "Single Motor Electric",
@@ -304,7 +337,12 @@
       "range": 560,
       "towing": 1800,
       "price": "$79,590",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.8 sec"
     },
     "Kia|EV6|2026|GT": {
       "fuelType": "electric",
@@ -317,9 +355,9 @@
       "fx": null,
       "topSpeed": 260,
       "acceleration": 3.5,
-      "weight": null,
+      "weight": 2175,
       "seats": 5,
-      "cargo": null,
+      "cargo": 485,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 478,
@@ -327,7 +365,12 @@
       "battery": "84.0 kWh",
       "range": 450,
       "price": "$99,590",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~11.7 sec"
     },
     "Kia|EV9|2025|Air RWD": {
       "displacement": null,
@@ -338,7 +381,7 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 160,
       "acceleration": 8.2,
       "cargo": null,
       "seats": 7,
@@ -351,7 +394,11 @@
       "weight": 2315,
       "towing": 900,
       "price": "$97,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|EV9|2025|Earth AWD": {
       "displacement": null,
@@ -362,7 +409,7 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 195,
       "acceleration": 6,
       "cargo": null,
       "seats": 7,
@@ -374,7 +421,11 @@
       "range": 512,
       "weight": 2550,
       "price": "$106,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|EV9|2025|GT-Line AWD": {
       "displacement": null,
@@ -385,7 +436,7 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 190,
       "acceleration": 5.3,
       "cargo": null,
       "seats": 7,
@@ -397,7 +448,11 @@
       "range": 505,
       "weight": 2634,
       "price": "$121,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Kia|EV9|2025|GT": {
       "displacement": null,
@@ -408,18 +463,25 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 215,
       "acceleration": 4.5,
       "cargo": null,
       "seats": 6,
       "engine": "Dual-Motor Electric",
       "drivetrain": "AWD",
-      "torque": null,
+      "torque": 740,
       "power": 374,
       "battery": "99.8 kWh",
       "range": 510,
       "price": "$129,250",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2550,
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~12.8 sec"
     },
     "Kia|EV9|2026|Air RWD": {
       "fuelType": "electric",
@@ -430,9 +492,9 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 155,
       "acceleration": 8.2,
-      "weight": null,
+      "weight": 2550,
       "seats": 7,
       "cargo": null,
       "engine": "Single Motor Electric",
@@ -443,7 +505,12 @@
       "range": 443,
       "towing": 900,
       "price": "$97,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Kia|EV9|2026|Earth AWD": {
       "fuelType": "electric",
@@ -454,9 +521,9 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 195,
       "acceleration": 6,
-      "weight": null,
+      "weight": 2550,
       "seats": 7,
       "cargo": null,
       "engine": "Dual Motor Electric",
@@ -467,7 +534,12 @@
       "range": 512,
       "towing": 2500,
       "price": "$106,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.3 sec"
     },
     "Kia|EV9|2026|GT-Line AWD": {
       "fuelType": "electric",
@@ -478,9 +550,9 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 195,
       "acceleration": 5.3,
-      "weight": null,
+      "weight": 2550,
       "seats": 7,
       "cargo": null,
       "engine": "Dual Motor Electric",
@@ -491,7 +563,12 @@
       "range": 505,
       "towing": 2500,
       "price": "$121,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.6 sec"
     },
     "Kia|EV9|2026|GT": {
       "fuelType": "electric",
@@ -502,9 +579,9 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 215,
       "acceleration": 4.5,
-      "weight": null,
+      "weight": 2550,
       "seats": 6,
       "cargo": null,
       "engine": "Dual Motor Electric",
@@ -515,7 +592,12 @@
       "range": 510,
       "towing": 2500,
       "price": "$129,250",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~12.8 sec"
     },
     "Hyundai|Ioniq 5 N|2025|N": {
       "displacement": null,
@@ -537,7 +619,8 @@
       "battery": "84 kWh",
       "range": 448,
       "price": "$110,383",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.7 sec"
     },
     "Hyundai|Ioniq 5 N|2026|N": {
       "fuelType": "electric",
@@ -560,7 +643,8 @@
       "battery": "84.0 kWh",
       "range": 448,
       "price": "$114,918",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.7 sec"
     },
     "Hyundai|Ioniq 6|2025|Standard Range RWD": {
       "fuelType": "electric",
@@ -572,9 +656,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 160,
+      "cargo": 401,
+      "weight": 1985,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 111,
@@ -583,7 +667,13 @@
       "range": 429,
       "acceleration": 8.8,
       "price": "$67,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.8 sec"
     },
     "Hyundai|Ioniq 6|2025|Long Range RWD": {
       "fuelType": "electric",
@@ -595,9 +685,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 185,
+      "cargo": 401,
+      "weight": 1985,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 168,
@@ -606,7 +696,13 @@
       "range": 614,
       "acceleration": 8.8,
       "price": "$73,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.8 sec"
     },
     "Hyundai|Ioniq 6|2025|Dynamiq RWD": {
       "fuelType": "electric",
@@ -618,9 +714,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 185,
+      "cargo": 401,
+      "weight": 1985,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 168,
@@ -629,7 +725,13 @@
       "range": 545,
       "acceleration": 7.4,
       "price": "$78,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Hyundai|Ioniq 6|2025|Epiq RWD": {
       "fuelType": "electric",
@@ -641,9 +743,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 185,
+      "cargo": 401,
+      "weight": 1985,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 168,
@@ -652,7 +754,13 @@
       "range": 545,
       "acceleration": 7.4,
       "price": "$82,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Hyundai|Ioniq 6|2025|Dynamiq AWD": {
       "fuelType": "electric",
@@ -664,9 +772,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 185,
+      "cargo": 401,
+      "weight": 2195,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 239,
@@ -675,7 +783,13 @@
       "range": 519,
       "acceleration": 5.1,
       "price": "$83,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.4 sec"
     },
     "Hyundai|Ioniq 6|2025|Epiq AWD": {
       "fuelType": "electric",
@@ -687,9 +801,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 185,
+      "cargo": 401,
+      "weight": 2195,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 239,
@@ -698,7 +812,13 @@
       "range": 519,
       "acceleration": 5.1,
       "price": "$86,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.4 sec"
     },
     "Hyundai|Ioniq 6|2025|N": {
       "fuelType": "electric",
@@ -711,17 +831,23 @@
       "fx": null,
       "seats": 5,
       "topSpeed": 257,
-      "cargo": null,
-      "weight": null,
+      "cargo": 401,
+      "weight": 2195,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 448,
-      "torque": null,
+      "torque": 770,
       "battery": "84 kWh",
       "range": 487,
       "acceleration": 3.4,
       "price": "$114,918",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "torque",
+        "cargo"
+      ],
+      "quarterMile": "~11.5 sec"
     },
     "Hyundai|Ioniq 6|2026|Standard Range RWD": {
       "fuelType": "electric",
@@ -733,9 +859,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 160,
       "cargo": null,
-      "weight": null,
+      "weight": 1985,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 111,
@@ -744,7 +870,12 @@
       "range": 429,
       "acceleration": 8.8,
       "price": "$67,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.8 sec"
     },
     "Hyundai|Ioniq 6|2026|Long Range RWD": {
       "fuelType": "electric",
@@ -756,9 +887,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 185,
       "cargo": null,
-      "weight": null,
+      "weight": 1985,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 168,
@@ -767,7 +898,12 @@
       "range": 614,
       "acceleration": 8.8,
       "price": "$73,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.8 sec"
     },
     "Hyundai|Ioniq 6|2026|Dynamiq RWD": {
       "fuelType": "electric",
@@ -779,9 +915,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 185,
       "cargo": null,
-      "weight": null,
+      "weight": 1985,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 168,
@@ -790,7 +926,12 @@
       "range": 545,
       "acceleration": 7.4,
       "price": "$78,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Hyundai|Ioniq 6|2026|Epiq RWD": {
       "fuelType": "electric",
@@ -802,9 +943,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 185,
       "cargo": null,
-      "weight": null,
+      "weight": 1985,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 168,
@@ -813,7 +954,12 @@
       "range": 545,
       "acceleration": 7.4,
       "price": "$82,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Hyundai|Ioniq 6|2026|Dynamiq AWD": {
       "fuelType": "electric",
@@ -825,9 +971,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 185,
       "cargo": null,
-      "weight": null,
+      "weight": 2195,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 239,
@@ -836,7 +982,12 @@
       "range": 519,
       "acceleration": 5.1,
       "price": "$83,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.4 sec"
     },
     "Hyundai|Ioniq 6|2026|Epiq AWD": {
       "fuelType": "electric",
@@ -848,9 +999,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 185,
       "cargo": null,
-      "weight": null,
+      "weight": 2195,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 239,
@@ -859,7 +1010,12 @@
       "range": 519,
       "acceleration": 5.1,
       "price": "$86,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.4 sec"
     },
     "Hyundai|Ioniq 6|2026|N": {
       "fuelType": "electric",
@@ -873,7 +1029,7 @@
       "seats": 5,
       "topSpeed": 257,
       "cargo": null,
-      "weight": null,
+      "weight": 2195,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 448,
@@ -882,10 +1038,14 @@
       "range": 487,
       "acceleration": 3.4,
       "price": "$114,918",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~11.5 sec"
     },
     "Hyundai|Ioniq 9|2025|Calligraphy AWD 7 Seat": {
-      "topSpeed": null,
+      "topSpeed": 195,
       "acceleration": 5.2,
       "cargo": null,
       "seats": 7,
@@ -906,10 +1066,14 @@
       "weight": 2774,
       "towing": 2500,
       "price": "$119,668",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Ioniq 9|2026|Calligraphy AWD 7 Seat": {
-      "topSpeed": null,
+      "topSpeed": 195,
       "acceleration": 5.2,
       "cargo": null,
       "seats": 7,
@@ -930,10 +1094,14 @@
       "weight": 2774,
       "towing": 2500,
       "price": "$119,668",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Ioniq 9|2026|Calligraphy AWD 6 Seat": {
-      "topSpeed": null,
+      "topSpeed": 195,
       "acceleration": 5.2,
       "cargo": null,
       "seats": 6,
@@ -954,7 +1122,11 @@
       "weight": 2774,
       "towing": 2500,
       "price": "$121,668",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

@@ -19,7 +19,8 @@
       "cargo": 1152,
       "acceleration": 8.6,
       "topSpeed": 160,
-      "price": "~$114,500"
+      "price": "~$114,500",
+      "quarterMile": "~16.6 sec"
     },
     "INEOS|Grenadier|2023|Trialmaster Diesel": {
       "engine": "3.0L I6 Turbo-Diesel (BMW B57)",
@@ -40,7 +41,8 @@
       "cargo": 1152,
       "acceleration": 9.9,
       "topSpeed": 160,
-      "price": "~$114,500"
+      "price": "~$114,500",
+      "quarterMile": "~17.5 sec"
     },
     "INEOS|Grenadier|2023|Fieldmaster Petrol": {
       "engine": "3.0L I6 Turbo (BMW B58)",
@@ -61,7 +63,8 @@
       "cargo": 1152,
       "acceleration": 8.6,
       "topSpeed": 160,
-      "price": "~$114,500"
+      "price": "~$114,500",
+      "quarterMile": "~16.6 sec"
     },
     "INEOS|Grenadier|2023|Fieldmaster Diesel": {
       "engine": "3.0L I6 Turbo-Diesel (BMW B57)",
@@ -82,7 +85,8 @@
       "cargo": 1152,
       "acceleration": 9.9,
       "topSpeed": 160,
-      "price": "~$114,500"
+      "price": "~$114,500",
+      "quarterMile": "~17.5 sec"
     },
     "INEOS|Grenadier|2024|Trialmaster Petrol": {
       "engine": "3.0L I6 Turbo (BMW B58)",
@@ -103,7 +107,8 @@
       "cargo": 1152,
       "acceleration": 8.6,
       "topSpeed": 160,
-      "price": "~$114,500"
+      "price": "~$114,500",
+      "quarterMile": "~16.6 sec"
     },
     "INEOS|Grenadier|2024|Trialmaster Diesel": {
       "engine": "3.0L I6 Turbo-Diesel (BMW B57)",
@@ -124,7 +129,8 @@
       "cargo": 1152,
       "acceleration": 9.9,
       "topSpeed": 160,
-      "price": "~$114,500"
+      "price": "~$114,500",
+      "quarterMile": "~17.5 sec"
     },
     "INEOS|Grenadier|2024|Fieldmaster Petrol": {
       "engine": "3.0L I6 Turbo (BMW B58)",
@@ -145,7 +151,8 @@
       "cargo": 1152,
       "acceleration": 8.6,
       "topSpeed": 160,
-      "price": "~$114,500"
+      "price": "~$114,500",
+      "quarterMile": "~16.6 sec"
     },
     "INEOS|Grenadier|2024|Fieldmaster Diesel": {
       "engine": "3.0L I6 Turbo-Diesel (BMW B57)",
@@ -166,7 +173,8 @@
       "cargo": 1152,
       "acceleration": 9.9,
       "topSpeed": 160,
-      "price": "~$114,500"
+      "price": "~$114,500",
+      "quarterMile": "~17.5 sec"
     },
     "INEOS|Grenadier|2025|Trialmaster Petrol": {
       "engine": "3.0L I6 Turbo (BMW B58)",
@@ -187,7 +195,8 @@
       "cargo": 1152,
       "acceleration": 8.6,
       "topSpeed": 160,
-      "price": "~$114,500"
+      "price": "~$114,500",
+      "quarterMile": "~16.6 sec"
     },
     "INEOS|Grenadier|2025|Trialmaster Diesel": {
       "engine": "3.0L I6 Turbo-Diesel (BMW B57)",
@@ -208,7 +217,8 @@
       "cargo": 1152,
       "acceleration": 9.9,
       "topSpeed": 160,
-      "price": "~$114,500"
+      "price": "~$114,500",
+      "quarterMile": "~17.5 sec"
     },
     "INEOS|Grenadier|2025|Fieldmaster Petrol": {
       "engine": "3.0L I6 Turbo (BMW B58)",
@@ -229,7 +239,8 @@
       "cargo": 1152,
       "acceleration": 8.6,
       "topSpeed": 160,
-      "price": "~$114,500"
+      "price": "~$114,500",
+      "quarterMile": "~16.6 sec"
     },
     "INEOS|Grenadier|2025|Fieldmaster Diesel": {
       "engine": "3.0L I6 Turbo-Diesel (BMW B57)",
@@ -250,7 +261,8 @@
       "cargo": 1152,
       "acceleration": 9.9,
       "topSpeed": 160,
-      "price": "~$114,500"
+      "price": "~$114,500",
+      "quarterMile": "~17.5 sec"
     },
     "INEOS|Quartermaster|2024|Trialmaster Petrol": {
       "engine": "3.0L I6 Turbo (BMW B58)",
@@ -271,7 +283,8 @@
       "cargo": 1075,
       "acceleration": 8.8,
       "topSpeed": 160,
-      "price": "~$116,500"
+      "price": "~$116,500",
+      "quarterMile": "~16.8 sec"
     },
     "INEOS|Quartermaster|2024|Fieldmaster Diesel": {
       "engine": "3.0L I6 Turbo-Diesel (BMW B57)",
@@ -292,7 +305,8 @@
       "cargo": 1075,
       "acceleration": 10.1,
       "topSpeed": 160,
-      "price": "~$116,500"
+      "price": "~$116,500",
+      "quarterMile": "~17.6 sec"
     },
     "INEOS|Quartermaster|2025|Trialmaster Petrol": {
       "engine": "3.0L I6 Turbo (BMW B58)",
@@ -313,7 +327,8 @@
       "cargo": 1075,
       "acceleration": 8.8,
       "topSpeed": 160,
-      "price": "~$116,500"
+      "price": "~$116,500",
+      "quarterMile": "~16.8 sec"
     },
     "INEOS|Quartermaster|2025|Fieldmaster Diesel": {
       "engine": "3.0L I6 Turbo-Diesel (BMW B57)",
@@ -334,7 +349,8 @@
       "cargo": 1075,
       "acceleration": 10.1,
       "topSpeed": 160,
-      "price": "~$116,500"
+      "price": "~$116,500",
+      "quarterMile": "~17.6 sec"
     },
     "INEOS|Quartermaster|2026|Trialmaster Petrol": {
       "engine": "3.0L I6 Turbo (BMW B58)",
@@ -355,7 +371,8 @@
       "cargo": 1075,
       "acceleration": 8.8,
       "topSpeed": 160,
-      "price": "~$116,500"
+      "price": "~$116,500",
+      "quarterMile": "~16.8 sec"
     },
     "INEOS|Quartermaster|2026|Fieldmaster Diesel": {
       "engine": "3.0L I6 Turbo-Diesel (BMW B57)",
@@ -376,7 +393,8 @@
       "cargo": 1075,
       "acceleration": 10.1,
       "topSpeed": 160,
-      "price": "~$116,500"
+      "price": "~$116,500",
+      "quarterMile": "~17.6 sec"
     },
     "JAC|T9|2024|Oasis": {
       "engine": "2.0L I4 Turbo-Diesel",
@@ -397,7 +415,8 @@
       "cargo": 1075,
       "acceleration": 12,
       "topSpeed": 170,
-      "price": "~$42,662"
+      "price": "~$42,662",
+      "quarterMile": "~18.8 sec"
     },
     "JAC|T9|2024|Haven": {
       "engine": "2.0L I4 Turbo-Diesel",
@@ -418,7 +437,8 @@
       "cargo": 1075,
       "acceleration": 12,
       "topSpeed": 170,
-      "price": "~$45,630"
+      "price": "~$45,630",
+      "quarterMile": "~18.8 sec"
     },
     "JAC|T9|2025|Oasis": {
       "engine": "2.0L I4 Turbo-Diesel",
@@ -439,7 +459,8 @@
       "cargo": 1075,
       "acceleration": 12,
       "topSpeed": 170,
-      "price": "~$42,662"
+      "price": "~$42,662",
+      "quarterMile": "~18.8 sec"
     },
     "JAC|T9|2025|Haven": {
       "engine": "2.0L I4 Turbo-Diesel",
@@ -460,7 +481,8 @@
       "cargo": 1075,
       "acceleration": 12,
       "topSpeed": 170,
-      "price": "~$45,630"
+      "price": "~$45,630",
+      "quarterMile": "~18.8 sec"
     },
     "JAC|T9|2026|Oasis": {
       "engine": "2.0L I4 Turbo-Diesel",
@@ -481,7 +503,8 @@
       "cargo": 1075,
       "acceleration": 12,
       "topSpeed": 170,
-      "price": "~$42,662"
+      "price": "~$42,662",
+      "quarterMile": "~18.8 sec"
     },
     "JAC|T9|2026|Haven": {
       "engine": "2.0L I4 Turbo-Diesel",
@@ -502,7 +525,8 @@
       "cargo": 1075,
       "acceleration": 12,
       "topSpeed": 170,
-      "price": "~$45,630"
+      "price": "~$45,630",
+      "quarterMile": "~18.8 sec"
     },
     "Foton|Tunland V7|2024|Lux": {
       "engine": "2.0L I4 Bi-Turbo-Diesel",
@@ -523,7 +547,8 @@
       "cargo": 1080,
       "acceleration": 12.5,
       "topSpeed": 170,
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "quarterMile": "~19.1 sec"
     },
     "Foton|Tunland V7|2025|Lux": {
       "engine": "2.0L I4 Bi-Turbo-Diesel",
@@ -544,7 +569,8 @@
       "cargo": 1080,
       "acceleration": 12.5,
       "topSpeed": 170,
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "quarterMile": "~19.1 sec"
     },
     "Foton|Tunland V7|2026|Lux": {
       "engine": "2.0L I4 Bi-Turbo-Diesel",
@@ -565,7 +591,8 @@
       "cargo": 1080,
       "acceleration": 12.5,
       "topSpeed": 170,
-      "price": "~$44,990"
+      "price": "~$44,990",
+      "quarterMile": "~19.1 sec"
     },
     "Foton|Tunland V9|2025|Lux": {
       "engine": "2.0L I4 Bi-Turbo-Diesel",
@@ -586,7 +613,8 @@
       "cargo": 1100,
       "acceleration": 12.8,
       "topSpeed": 170,
-      "price": "~$50,990"
+      "price": "~$50,990",
+      "quarterMile": "~19.3 sec"
     },
     "Foton|Tunland V9|2026|Lux": {
       "engine": "2.0L I4 Bi-Turbo-Diesel",
@@ -607,7 +635,8 @@
       "cargo": 1100,
       "acceleration": 12.8,
       "topSpeed": 170,
-      "price": "~$50,990"
+      "price": "~$50,990",
+      "quarterMile": "~19.3 sec"
     },
     "Citroën|C3|2018|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -628,7 +657,8 @@
       "cargo": 300,
       "acceleration": 9.3,
       "topSpeed": 187,
-      "price": "~$23,990"
+      "price": "~$23,990",
+      "quarterMile": "~17.1 sec"
     },
     "Citroën|C3|2019|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -649,7 +679,8 @@
       "cargo": 300,
       "acceleration": 9.3,
       "topSpeed": 187,
-      "price": "~$23,990"
+      "price": "~$23,990",
+      "quarterMile": "~17.1 sec"
     },
     "Citroën|C3|2020|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -670,7 +701,8 @@
       "cargo": 300,
       "acceleration": 9.3,
       "topSpeed": 187,
-      "price": "~$23,990"
+      "price": "~$23,990",
+      "quarterMile": "~17.1 sec"
     },
     "Citroën|C3|2021|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -691,7 +723,8 @@
       "cargo": 300,
       "acceleration": 9.3,
       "topSpeed": 187,
-      "price": "~$23,990"
+      "price": "~$23,990",
+      "quarterMile": "~17.1 sec"
     },
     "Citroën|C3|2022|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -712,7 +745,8 @@
       "cargo": 300,
       "acceleration": 9.3,
       "topSpeed": 187,
-      "price": "~$23,990"
+      "price": "~$23,990",
+      "quarterMile": "~17.1 sec"
     },
     "Citroën|C4|2022|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -733,7 +767,8 @@
       "cargo": 380,
       "acceleration": 8.8,
       "topSpeed": 207,
-      "price": "~$34,990"
+      "price": "~$34,990",
+      "quarterMile": "~16.8 sec"
     },
     "Citroën|e-C4|2022|Shine": {
       "engine": "Single Motor Electric",
@@ -754,7 +789,8 @@
       "cargo": 380,
       "acceleration": 9,
       "topSpeed": 150,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "quarterMile": "~16.9 sec"
     },
     "Citroën|C4|2023|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -775,7 +811,8 @@
       "cargo": 380,
       "acceleration": 8.8,
       "topSpeed": 207,
-      "price": "~$34,990"
+      "price": "~$34,990",
+      "quarterMile": "~16.8 sec"
     },
     "Citroën|e-C4|2023|Shine": {
       "engine": "Single Motor Electric",
@@ -796,7 +833,8 @@
       "cargo": 380,
       "acceleration": 9,
       "topSpeed": 150,
-      "price": "~$54,990"
+      "price": "~$54,990",
+      "quarterMile": "~16.9 sec"
     },
     "Citroën|C5 Aircross|2019|Shine": {
       "engine": "1.6L I4 PureTech Turbo",
@@ -817,7 +855,8 @@
       "cargo": 580,
       "acceleration": 9.6,
       "topSpeed": 200,
-      "price": "~$45,990"
+      "price": "~$45,990",
+      "quarterMile": "~17.3 sec"
     },
     "Citroën|C5 Aircross|2020|Shine": {
       "engine": "1.6L I4 PureTech Turbo",
@@ -838,7 +877,8 @@
       "cargo": 580,
       "acceleration": 9.6,
       "topSpeed": 200,
-      "price": "~$45,990"
+      "price": "~$45,990",
+      "quarterMile": "~17.3 sec"
     },
     "Citroën|C5 Aircross|2021|Shine": {
       "engine": "1.6L I4 PureTech Turbo",
@@ -859,7 +899,8 @@
       "cargo": 580,
       "acceleration": 9.6,
       "topSpeed": 200,
-      "price": "~$45,990"
+      "price": "~$45,990",
+      "quarterMile": "~17.3 sec"
     },
     "Citroën|C5 Aircross|2022|Shine": {
       "engine": "1.6L I4 PureTech Turbo",
@@ -880,7 +921,8 @@
       "cargo": 580,
       "acceleration": 9.6,
       "topSpeed": 200,
-      "price": "~$45,990"
+      "price": "~$45,990",
+      "quarterMile": "~17.3 sec"
     },
     "Citroën|C5 Aircross|2023|Shine": {
       "engine": "1.6L I4 PureTech Turbo",
@@ -901,7 +943,8 @@
       "cargo": 580,
       "acceleration": 9.6,
       "topSpeed": 200,
-      "price": "~$45,990"
+      "price": "~$45,990",
+      "quarterMile": "~17.3 sec"
     },
     "Citroën|C5 Aircross|2022|Plug-in Hybrid": {
       "engine": "1.6L I4 PureTech PHEV",
@@ -922,7 +965,8 @@
       "cargo": 460,
       "acceleration": 8.7,
       "topSpeed": 225,
-      "price": "~$59,990"
+      "price": "~$59,990",
+      "quarterMile": "~16.7 sec"
     },
     "Citroën|C5 Aircross|2023|Plug-in Hybrid": {
       "engine": "1.6L I4 PureTech PHEV",
@@ -943,7 +987,8 @@
       "cargo": 460,
       "acceleration": 8.7,
       "topSpeed": 225,
-      "price": "~$59,990"
+      "price": "~$59,990",
+      "quarterMile": "~16.7 sec"
     },
     "Citroën|C5 X|2022|Shine": {
       "engine": "1.6L I4 PureTech Turbo",
@@ -964,7 +1009,8 @@
       "cargo": 545,
       "acceleration": 8.8,
       "topSpeed": 211,
-      "price": "~$53,990"
+      "price": "~$53,990",
+      "quarterMile": "~16.8 sec"
     },
     "Citroën|C5 X|2022|Plug-in Hybrid": {
       "engine": "1.6L I4 PureTech PHEV",
@@ -985,7 +1031,8 @@
       "cargo": 485,
       "acceleration": 7.8,
       "topSpeed": 233,
-      "price": "~$62,990"
+      "price": "~$62,990",
+      "quarterMile": "~15.9 sec"
     },
     "Citroën|C5 X|2023|Shine": {
       "engine": "1.6L I4 PureTech Turbo",
@@ -1006,7 +1053,8 @@
       "cargo": 545,
       "acceleration": 8.8,
       "topSpeed": 211,
-      "price": "~$53,990"
+      "price": "~$53,990",
+      "quarterMile": "~16.8 sec"
     },
     "Citroën|C5 X|2023|Plug-in Hybrid": {
       "engine": "1.6L I4 PureTech PHEV",
@@ -1027,7 +1075,8 @@
       "cargo": 485,
       "acceleration": 7.8,
       "topSpeed": 233,
-      "price": "~$62,990"
+      "price": "~$62,990",
+      "quarterMile": "~15.9 sec"
     },
     "Citroën|Berlingo|2019|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -1048,7 +1097,8 @@
       "cargo": 775,
       "acceleration": 11,
       "topSpeed": 183,
-      "price": "~$32,990"
+      "price": "~$32,990",
+      "quarterMile": "~18.2 sec"
     },
     "Citroën|Berlingo|2020|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -1069,7 +1119,8 @@
       "cargo": 775,
       "acceleration": 11,
       "topSpeed": 183,
-      "price": "~$32,990"
+      "price": "~$32,990",
+      "quarterMile": "~18.2 sec"
     },
     "Citroën|Berlingo|2021|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -1090,7 +1141,8 @@
       "cargo": 775,
       "acceleration": 11,
       "topSpeed": 183,
-      "price": "~$32,990"
+      "price": "~$32,990",
+      "quarterMile": "~18.2 sec"
     },
     "Citroën|Berlingo|2022|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -1111,7 +1163,8 @@
       "cargo": 775,
       "acceleration": 11,
       "topSpeed": 183,
-      "price": "~$32,990"
+      "price": "~$32,990",
+      "quarterMile": "~18.2 sec"
     },
     "Citroën|Berlingo|2023|Shine": {
       "engine": "1.2L I3 PureTech Turbo",
@@ -1132,7 +1185,8 @@
       "cargo": 775,
       "acceleration": 11,
       "topSpeed": 183,
-      "price": "~$32,990"
+      "price": "~$32,990",
+      "quarterMile": "~18.2 sec"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "specs": {
     "Lexus|LBX|2024|Luxury 2WD": {
-      "topSpeed": null,
+      "topSpeed": 180,
       "acceleration": 9.2,
       "cargo": 402,
       "seats": 5,
@@ -11,7 +11,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 100,
-      "torque": null,
+      "torque": 195,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 3.6,
@@ -20,10 +20,15 @@
       "weight": 1330,
       "fuelTank": 36,
       "price": "$47,550",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Lexus|LBX|2024|Sports Luxury 2WD": {
-      "topSpeed": null,
+      "topSpeed": 180,
       "acceleration": 9.2,
       "cargo": 402,
       "seats": 5,
@@ -33,7 +38,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 100,
-      "torque": null,
+      "torque": 195,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 3.6,
@@ -42,11 +47,16 @@
       "weight": 1330,
       "fuelTank": 36,
       "price": "$52,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Lexus|LBX|2024|Sports Luxury AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 9.5,
       "cargo": 402,
       "seats": 5,
       "engine": "1.5L I3 Hybrid",
@@ -55,7 +65,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 100,
-      "torque": null,
+      "torque": 195,
       "transmission": "CVT",
       "drivetrain": "AWD",
       "fc": 3.7,
@@ -64,12 +74,16 @@
       "weight": 1415,
       "fuelTank": 36,
       "price": "$56,990",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.2 sec"
     },
     "Lexus|LBX|2024|Morizo RR": {
       "topSpeed": 230,
       "acceleration": 5.2,
-      "cargo": null,
+      "cargo": 402,
       "seats": 5,
       "engine": "1.6L I3 Turbo Petrol",
       "displacement": 1618,
@@ -86,10 +100,14 @@
       "weight": 1485,
       "fuelTank": 50,
       "price": "$76,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.5 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LBX|2025|Luxury 2WD": {
-      "topSpeed": null,
+      "topSpeed": 180,
       "acceleration": 9.2,
       "cargo": 402,
       "seats": 5,
@@ -99,7 +117,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 100,
-      "torque": null,
+      "torque": 195,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 3.6,
@@ -108,10 +126,15 @@
       "weight": 1330,
       "fuelTank": 36,
       "price": "$47,200",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Lexus|LBX|2025|Sports Luxury 2WD": {
-      "topSpeed": null,
+      "topSpeed": 180,
       "acceleration": 9.2,
       "cargo": 402,
       "seats": 5,
@@ -121,7 +144,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 100,
-      "torque": null,
+      "torque": 195,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 3.6,
@@ -130,11 +153,16 @@
       "weight": 1330,
       "fuelTank": 36,
       "price": "$52,640",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Lexus|LBX|2025|Sports Luxury AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 9.4,
       "cargo": 402,
       "seats": 5,
       "engine": "1.5L I3 Hybrid",
@@ -143,7 +171,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 100,
-      "torque": null,
+      "torque": 195,
       "transmission": "CVT",
       "drivetrain": "AWD",
       "fc": 3.7,
@@ -152,12 +180,16 @@
       "weight": 1415,
       "fuelTank": 36,
       "price": "$56,640",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.2 sec"
     },
     "Lexus|LBX|2025|Morizo RR": {
       "topSpeed": 230,
       "acceleration": 5.2,
-      "cargo": null,
+      "cargo": 402,
       "seats": 5,
       "engine": "1.6L I3 Turbo Petrol",
       "displacement": 1618,
@@ -174,7 +206,11 @@
       "weight": 1485,
       "fuelTank": 50,
       "price": "$76,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.5 sec",
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

@@ -17,7 +17,8 @@
       "acceleration": 7,
       "topSpeed": 155,
       "price": "~$60,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.2 sec"
     },
     "Abarth|500e|2024|500e": {
       "engine": "Single Electric Motor",
@@ -36,7 +37,8 @@
       "acceleration": 7,
       "topSpeed": 155,
       "price": "~$62,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.2 sec"
     },
     "Abarth|500e|2025|500e": {
       "engine": "Single Electric Motor",
@@ -55,7 +57,8 @@
       "acceleration": 7,
       "topSpeed": 155,
       "price": "~$64,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.2 sec"
     },
     "Abarth|500e|2026|500e": {
       "engine": "Single Electric Motor",
@@ -74,7 +77,8 @@
       "acceleration": 7,
       "topSpeed": 155,
       "price": "~$66,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.2 sec"
     },
     "Ora|Funky Cat|2023|Cat": {
       "engine": "Single Electric Motor",
@@ -93,7 +97,8 @@
       "acceleration": 8.3,
       "topSpeed": 160,
       "price": "~$44,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.3 sec"
     },
     "Ora|Funky Cat|2023|Cat GT": {
       "engine": "Single Electric Motor",
@@ -112,7 +117,8 @@
       "acceleration": 8.3,
       "topSpeed": 160,
       "price": "~$48,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.3 sec"
     },
     "Ora|Funky Cat|2024|Cat": {
       "engine": "Single Electric Motor",
@@ -131,7 +137,8 @@
       "acceleration": 8.3,
       "topSpeed": 160,
       "price": "~$46,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.3 sec"
     },
     "Ora|Funky Cat|2024|Cat GT": {
       "engine": "Single Electric Motor",
@@ -150,7 +157,8 @@
       "acceleration": 8.3,
       "topSpeed": 160,
       "price": "~$50,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.3 sec"
     },
     "Ora|Funky Cat|2025|Cat": {
       "engine": "Single Electric Motor",
@@ -169,7 +177,8 @@
       "acceleration": 8.3,
       "topSpeed": 160,
       "price": "~$47,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.3 sec"
     },
     "Ora|Funky Cat|2025|Cat GT": {
       "engine": "Single Electric Motor",
@@ -188,7 +197,8 @@
       "acceleration": 8.3,
       "topSpeed": 160,
       "price": "~$51,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.3 sec"
     },
     "Ora|Funky Cat|2026|Cat": {
       "engine": "Single Electric Motor",
@@ -207,7 +217,8 @@
       "acceleration": 8.3,
       "topSpeed": 160,
       "price": "~$49,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.3 sec"
     },
     "Ora|Funky Cat|2026|Cat GT": {
       "engine": "Single Electric Motor",
@@ -226,7 +237,8 @@
       "acceleration": 8.3,
       "topSpeed": 160,
       "price": "~$53,490",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.3 sec"
     },
     "Lamborghini|Urus|2025|S": {
       "engine": "4.0L V8 twin-turbo",
@@ -239,13 +251,20 @@
       "torque": 850,
       "weight": 2197,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 18.1,
+      "fh": 10.1,
       "fx": 14.5,
       "acceleration": 3.5,
       "topSpeed": 305,
       "price": "~$575,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 616
     },
     "Lamborghini|Urus|2025|Performante": {
       "engine": "4.0L V8 twin-turbo",
@@ -258,13 +277,20 @@
       "torque": 850,
       "weight": 2150,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 18.1,
+      "fh": 10.1,
       "fx": 14.5,
       "acceleration": 3.3,
       "topSpeed": 306,
       "price": "~$600,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 616
     },
     "Lamborghini|Urus|2026|S": {
       "engine": "4.0L V8 twin-turbo",
@@ -277,13 +303,20 @@
       "torque": 850,
       "weight": 2197,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 18.1,
+      "fh": 10.1,
       "fx": 14.5,
       "acceleration": 3.5,
       "topSpeed": 305,
       "price": "~$590,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 616
     },
     "Lamborghini|Urus|2026|Performante": {
       "engine": "4.0L V8 twin-turbo",
@@ -296,13 +329,20 @@
       "torque": 850,
       "weight": 2150,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 18.1,
+      "fh": 10.1,
       "fx": 14.5,
       "acceleration": 3.3,
       "topSpeed": 306,
       "price": "~$615,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 616
     },
     "Ferrari|SF90 Stradale|2024|Stradale": {
       "engine": "4.0L V8 twin-turbo + 3 electric motors PHEV",
@@ -315,14 +355,21 @@
       "torque": 800,
       "weight": 1570,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 6.5,
+      "fh": 4.7,
       "fx": 5.7,
       "acceleration": 2.5,
       "topSpeed": 340,
       "range": 25,
       "price": "~$1,280,000",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 92
     },
     "Ferrari|SF90 Stradale|2024|Spider": {
       "engine": "4.0L V8 twin-turbo + 3 electric motors PHEV",
@@ -335,14 +382,21 @@
       "torque": 800,
       "weight": 1640,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 6.5,
+      "fh": 4.7,
       "fx": 5.7,
       "acceleration": 2.5,
       "topSpeed": 340,
       "range": 25,
       "price": "~$1,430,000",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 92
     },
     "Ferrari|SF90 Stradale|2025|Stradale": {
       "engine": "4.0L V8 twin-turbo + 3 electric motors PHEV",
@@ -355,14 +409,21 @@
       "torque": 800,
       "weight": 1570,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 6.5,
+      "fh": 4.7,
       "fx": 5.7,
       "acceleration": 2.5,
       "topSpeed": 340,
       "range": 25,
       "price": "~$1,320,000",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 92
     },
     "Ferrari|SF90 Stradale|2025|Spider": {
       "engine": "4.0L V8 twin-turbo + 3 electric motors PHEV",
@@ -375,14 +436,21 @@
       "torque": 800,
       "weight": 1640,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 6.5,
+      "fh": 4.7,
       "fx": 5.7,
       "acceleration": 2.5,
       "topSpeed": 340,
       "range": 25,
       "price": "~$1,470,000",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 92
     },
     "Ferrari|SF90 Stradale|2026|Stradale": {
       "engine": "4.0L V8 twin-turbo + 3 electric motors PHEV",
@@ -395,14 +463,19 @@
       "torque": 800,
       "weight": 1570,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 6.5,
+      "fh": 4.7,
       "fx": 5.7,
       "acceleration": 2.5,
       "topSpeed": 340,
       "range": 25,
       "price": "~$1,360,000",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Ferrari|SF90 Stradale|2026|Spider": {
       "engine": "4.0L V8 twin-turbo + 3 electric motors PHEV",
@@ -415,14 +488,19 @@
       "torque": 800,
       "weight": 1640,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 6.5,
+      "fh": 4.7,
       "fx": 5.7,
       "acceleration": 2.5,
       "topSpeed": 340,
       "range": 25,
       "price": "~$1,510,000",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "DS|DS3|2024|E-Tense": {
       "engine": "Single Electric Motor",
@@ -441,7 +519,8 @@
       "acceleration": 8.7,
       "topSpeed": 150,
       "price": "~$54,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.7 sec"
     },
     "DS|DS3|2025|E-Tense": {
       "engine": "Single Electric Motor",
@@ -460,7 +539,8 @@
       "acceleration": 8.7,
       "topSpeed": 150,
       "price": "~$56,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.7 sec"
     },
     "DS|DS3|2026|E-Tense": {
       "engine": "Single Electric Motor",
@@ -479,7 +559,8 @@
       "acceleration": 8.7,
       "topSpeed": 150,
       "price": "~$58,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.7 sec"
     }
   }
 }

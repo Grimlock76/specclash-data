@@ -5,7 +5,7 @@
       "cargo": 455,
       "topSpeed": 246,
       "acceleration": 7.3,
-      "weight": null,
+      "weight": 1855,
       "engine": "1.5L I4 Turbo Petrol",
       "displacement": 1496,
       "cylinders": 4,
@@ -20,14 +20,18 @@
       "fx": 6.9,
       "fuelTank": 66,
       "price": "$92,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Mercedes-Benz|C-Class|2024|C200 Sport Edition": {
       "seats": 5,
       "cargo": 455,
       "topSpeed": 246,
       "acceleration": 7.3,
-      "weight": null,
+      "weight": 1855,
       "engine": "1.5L I4 Turbo Petrol",
       "displacement": 1496,
       "cylinders": 4,
@@ -42,14 +46,18 @@
       "fx": 6.8,
       "fuelTank": 66,
       "price": "$88,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Mercedes-Benz|C-Class|2024|C200 Night Edition": {
       "seats": 5,
       "cargo": 455,
       "topSpeed": 246,
       "acceleration": 7.3,
-      "weight": null,
+      "weight": 1855,
       "engine": "1.5L I4 Turbo Petrol",
       "displacement": 1496,
       "cylinders": 4,
@@ -64,14 +72,18 @@
       "fx": 6.8,
       "fuelTank": 66,
       "price": "$87,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Mercedes-Benz|C-Class|2024|C300": {
       "seats": 5,
       "cargo": 455,
       "topSpeed": 250,
       "acceleration": 6,
-      "weight": null,
+      "weight": 1855,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1999,
       "cylinders": 4,
@@ -86,12 +98,16 @@
       "fx": 7.1,
       "fuelTank": 66,
       "price": "$98,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~14.3 sec"
     },
     "Mercedes-Benz|C-Class|2024|C350 e": {
       "seats": 5,
-      "cargo": null,
-      "topSpeed": null,
+      "cargo": 455,
+      "topSpeed": 260,
       "acceleration": 6.1,
       "weight": 2100,
       "engine": "2.0L I4 Turbo PHEV",
@@ -99,8 +115,8 @@
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "plug-in hybrid",
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "torque": 550,
       "transmission": "9-speed automatic",
       "power": 230,
@@ -109,11 +125,18 @@
       "battery": "25.4 kWh",
       "range": 104,
       "price": "$98,200",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Mercedes-Benz|C-Class|2024|C43 AMG": {
       "seats": 5,
-      "cargo": null,
+      "cargo": 455,
       "topSpeed": 250,
       "acceleration": 4.6,
       "weight": 1856,
@@ -130,11 +153,15 @@
       "fh": 7.2,
       "fx": 9.1,
       "price": "$142,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|C-Class|2024|C43 AMG Edition R": {
       "seats": 5,
-      "cargo": null,
+      "cargo": 455,
       "topSpeed": 250,
       "acceleration": 4.6,
       "weight": 1856,
@@ -151,11 +178,15 @@
       "fh": 7.2,
       "fx": 9.1,
       "price": "$114,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|C-Class|2024|C63 S AMG E Performance": {
       "seats": 5,
-      "cargo": null,
+      "cargo": 455,
       "topSpeed": 250,
       "acceleration": 3.4,
       "weight": 2165,
@@ -164,8 +195,8 @@
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "plug-in hybrid",
-      "fc": null,
-      "fh": null,
+      "fc": 7.3,
+      "fh": 5.3,
       "torque": 1020,
       "transmission": "9-speed automatic",
       "power": 500,
@@ -173,14 +204,20 @@
       "fx": 6.4,
       "battery": "6.1 kWh",
       "price": "$193,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Mercedes-Benz|C-Class|2025|C200": {
       "seats": 5,
       "cargo": 455,
       "topSpeed": 246,
       "acceleration": 7.3,
-      "weight": null,
+      "weight": 2100,
       "engine": "1.5L I4 Turbo Petrol",
       "displacement": 1496,
       "cylinders": 4,
@@ -195,14 +232,18 @@
       "fx": 6.8,
       "fuelTank": 66,
       "price": "$87,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Mercedes-Benz|C-Class|2025|C200 Sport Edition": {
       "seats": 5,
       "cargo": 455,
       "topSpeed": 246,
       "acceleration": 7.3,
-      "weight": null,
+      "weight": 2100,
       "engine": "1.5L I4 Turbo Petrol",
       "displacement": 1496,
       "cylinders": 4,
@@ -217,14 +258,18 @@
       "fx": 6.8,
       "fuelTank": 66,
       "price": "$88,327",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Mercedes-Benz|C-Class|2025|C300": {
       "seats": 5,
       "cargo": 455,
       "topSpeed": 250,
       "acceleration": 6,
-      "weight": null,
+      "weight": 2100,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1999,
       "cylinders": 4,
@@ -239,14 +284,18 @@
       "fx": 7.1,
       "fuelTank": 66,
       "price": "$98,200",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~14.3 sec"
     },
     "Mercedes-Benz|C-Class|2025|C300 AMG Line Plus Edition": {
       "seats": 5,
       "cargo": 455,
       "topSpeed": 250,
       "acceleration": 6,
-      "weight": null,
+      "weight": 2100,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1999,
       "cylinders": 4,
@@ -261,12 +310,16 @@
       "fx": 7.1,
       "fuelTank": 66,
       "price": "$95,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~14.3 sec"
     },
     "Mercedes-Benz|C-Class|2025|C350 e": {
       "seats": 5,
-      "cargo": null,
-      "topSpeed": null,
+      "cargo": 455,
+      "topSpeed": 270,
       "acceleration": 6.1,
       "weight": 2100,
       "engine": "2.0L I4 Turbo PHEV",
@@ -274,8 +327,8 @@
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "plug-in hybrid",
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "torque": 550,
       "transmission": "9-speed automatic",
       "power": 230,
@@ -284,11 +337,18 @@
       "battery": "25.4 kWh",
       "range": 104,
       "price": "$98,200",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Mercedes-Benz|C-Class|2025|C43 AMG": {
       "seats": 5,
-      "cargo": null,
+      "cargo": 455,
       "topSpeed": 250,
       "acceleration": 4.3,
       "weight": 1856,
@@ -305,11 +365,15 @@
       "fh": 7.2,
       "fx": 9.1,
       "price": "$123,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.6 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|C-Class|2025|C63 S AMG E Performance": {
       "seats": 5,
-      "cargo": null,
+      "cargo": 455,
       "topSpeed": 250,
       "acceleration": 3.4,
       "weight": 2165,
@@ -318,8 +382,8 @@
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "plug-in hybrid",
-      "fc": null,
-      "fh": null,
+      "fc": 7.3,
+      "fh": 5.3,
       "torque": 1020,
       "transmission": "9-speed automatic",
       "power": 500,
@@ -327,14 +391,20 @@
       "fx": 6.4,
       "battery": "6.1 kWh",
       "price": "$193,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Mercedes-Benz|C-Class|2026|C200": {
       "seats": 5,
       "cargo": 455,
       "topSpeed": 246,
       "acceleration": 7.3,
-      "weight": null,
+      "weight": 1855,
       "engine": "1.5L I4 Turbo Petrol",
       "displacement": 1496,
       "cylinders": 4,
@@ -349,14 +419,18 @@
       "fx": 6.8,
       "fuelTank": 66,
       "price": "$88,928",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Mercedes-Benz|C-Class|2026|C300": {
       "seats": 5,
       "cargo": 455,
       "topSpeed": 250,
       "acceleration": 6,
-      "weight": null,
+      "weight": 1855,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1999,
       "cylinders": 4,
@@ -371,14 +445,18 @@
       "fx": 7.1,
       "fuelTank": 66,
       "price": "$99,428",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~14.3 sec"
     },
     "Mercedes-Benz|C-Class|2026|C300 AMG Line Plus Edition": {
       "seats": 5,
       "cargo": 455,
       "topSpeed": 250,
       "acceleration": 6,
-      "weight": null,
+      "weight": 1855,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1999,
       "cylinders": 4,
@@ -393,21 +471,25 @@
       "fx": 7.1,
       "fuelTank": 66,
       "price": "$95,327",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~14.3 sec"
     },
     "Mercedes-Benz|C-Class|2026|C350 e": {
       "seats": 5,
-      "cargo": null,
-      "topSpeed": null,
+      "cargo": 455,
+      "topSpeed": 270,
       "acceleration": 6.1,
-      "weight": null,
+      "weight": 1855,
       "engine": "2.0L I4 Turbo PHEV",
       "displacement": 1999,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "plug-in hybrid",
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "torque": 550,
       "transmission": "9-speed automatic",
       "power": 230,
@@ -416,11 +498,19 @@
       "battery": "25.4 kWh",
       "range": 104,
       "price": "$99,418",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~14.4 sec"
     },
     "Mercedes-Benz|C-Class|2026|C400 electric": {
       "seats": 5,
-      "cargo": null,
+      "cargo": 455,
       "topSpeed": 210,
       "acceleration": 4,
       "weight": 2460,
@@ -439,11 +529,15 @@
       "battery": "94.4 kWh",
       "range": 687,
       "price": "$105,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.3 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|C-Class|2026|C43 AMG": {
       "seats": 5,
-      "cargo": null,
+      "cargo": 455,
       "topSpeed": 250,
       "acceleration": 4.3,
       "weight": 1856,
@@ -460,11 +554,15 @@
       "fh": 7.2,
       "fx": 9.1,
       "price": "$125,229",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.6 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|C-Class|2026|C43 AMG Edition R+": {
       "seats": 5,
-      "cargo": null,
+      "cargo": 455,
       "topSpeed": 250,
       "acceleration": 4.3,
       "weight": 1856,
@@ -481,11 +579,15 @@
       "fh": 7.2,
       "fx": 9.1,
       "price": "$121,127",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.6 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|C-Class|2026|C63 S AMG E Performance": {
       "seats": 5,
-      "cargo": null,
+      "cargo": 455,
       "topSpeed": 250,
       "acceleration": 3.4,
       "weight": 2165,
@@ -494,8 +596,8 @@
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "plug-in hybrid",
-      "fc": null,
-      "fh": null,
+      "fc": 7.3,
+      "fh": 5.3,
       "torque": 1020,
       "transmission": "9-speed automatic",
       "power": 500,
@@ -503,12 +605,18 @@
       "fx": 6.4,
       "battery": "6.1 kWh",
       "price": "$195,228",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Mercedes-Benz|E-Class|2024|E200": {
       "seats": 5,
       "cargo": 540,
-      "topSpeed": null,
+      "topSpeed": 235,
       "acceleration": 7.5,
       "weight": 1825,
       "engine": "2.0L I4 Turbo Petrol",
@@ -525,12 +633,16 @@
       "fx": 7.2,
       "fuelTank": 66,
       "price": "$117,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mercedes-Benz|E-Class|2024|E300": {
       "seats": 5,
       "cargo": 540,
-      "topSpeed": null,
+      "topSpeed": 250,
       "acceleration": 6.3,
       "weight": 1865,
       "engine": "2.0L I4 Turbo Petrol",
@@ -547,11 +659,15 @@
       "fx": 7.2,
       "fuelTank": 66,
       "price": "$131,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mercedes-Benz|E-Class|2024|E53 AMG": {
       "seats": 5,
-      "cargo": null,
+      "cargo": 540,
       "topSpeed": 280,
       "acceleration": 3.8,
       "weight": 2408,
@@ -564,18 +680,24 @@
       "power": 450,
       "torque": 750,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.9,
+      "fh": 1.5,
       "fx": 1.7,
       "battery": "28.6 kWh",
       "range": 100,
       "price": "$199,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Mercedes-Benz|E-Class|2025|E200": {
       "seats": 5,
       "cargo": 540,
-      "topSpeed": null,
+      "topSpeed": 235,
       "acceleration": 7.5,
       "weight": 1825,
       "engine": "2.0L I4 Turbo Petrol",
@@ -592,12 +714,16 @@
       "fx": 7.2,
       "fuelTank": 66,
       "price": "$117,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mercedes-Benz|E-Class|2025|E300": {
       "seats": 5,
       "cargo": 540,
-      "topSpeed": null,
+      "topSpeed": 240,
       "acceleration": 6.3,
       "weight": 1865,
       "engine": "2.0L I4 Turbo Petrol",
@@ -614,14 +740,18 @@
       "fx": 7.2,
       "fuelTank": 66,
       "price": "$132,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mercedes-Benz|E-Class|2025|E300 AMG Night Edition": {
       "seats": 5,
       "cargo": 540,
-      "topSpeed": null,
+      "topSpeed": 240,
       "acceleration": 6.3,
-      "weight": null,
+      "weight": 1865,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1999,
       "cylinders": 4,
@@ -631,15 +761,22 @@
       "power": 190,
       "torque": 400,
       "drivetrain": "RWD",
-      "fc": null,
-      "fh": null,
+      "fc": 9.4,
+      "fh": 5.2,
       "fx": 7.5,
       "price": "$129,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~14.6 sec"
     },
     "Mercedes-Benz|E-Class|2025|E53 AMG": {
       "seats": 5,
-      "cargo": null,
+      "cargo": 540,
       "topSpeed": 280,
       "acceleration": 3.8,
       "weight": 2408,
@@ -652,20 +789,26 @@
       "power": 450,
       "torque": 750,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.9,
+      "fh": 1.5,
       "fx": 1.7,
       "battery": "28.6 kWh",
       "range": 100,
       "price": "$199,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Mercedes-Benz|E-Class|2025|E53 AMG Dark Carbon Edition": {
       "seats": 5,
-      "cargo": null,
+      "cargo": 540,
       "topSpeed": 280,
       "acceleration": 3.8,
-      "weight": null,
+      "weight": 1865,
       "transmission": "9-speed automatic",
       "engine": "3.0L I6 Turbo PHEV",
       "displacement": 2999,
@@ -675,18 +818,25 @@
       "power": 450,
       "torque": 750,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.9,
+      "fh": 1.5,
       "fx": 1.7,
       "battery": "28.6 kWh",
       "range": 100,
       "price": "$206,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~12.0 sec"
     },
     "Mercedes-Benz|E-Class|2026|E200": {
       "seats": 5,
       "cargo": 540,
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 7.5,
       "weight": 1825,
       "engine": "2.0L I4 Turbo Petrol",
@@ -703,12 +853,16 @@
       "fx": 7.2,
       "fuelTank": 66,
       "price": "$119,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mercedes-Benz|E-Class|2026|E300": {
       "seats": 5,
       "cargo": 540,
-      "topSpeed": null,
+      "topSpeed": 215,
       "acceleration": 6.3,
       "weight": 1865,
       "engine": "2.0L I4 Turbo Petrol",
@@ -725,14 +879,18 @@
       "fx": 7.2,
       "fuelTank": 66,
       "price": "$133,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mercedes-Benz|E-Class|2026|E300 AMG Night Edition": {
       "seats": 5,
       "cargo": 540,
-      "topSpeed": null,
+      "topSpeed": 215,
       "acceleration": 6.3,
-      "weight": null,
+      "weight": 1865,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1999,
       "cylinders": 4,
@@ -742,18 +900,25 @@
       "power": 190,
       "torque": 400,
       "drivetrain": "RWD",
-      "fc": null,
-      "fh": null,
+      "fc": 9.4,
+      "fh": 5.2,
       "fx": 7.5,
       "price": "$129,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~14.6 sec"
     },
     "Mercedes-Benz|E-Class|2026|E53 AMG": {
       "seats": 5,
-      "cargo": null,
+      "cargo": 540,
       "topSpeed": 280,
       "acceleration": 3.8,
-      "weight": null,
+      "weight": 1865,
       "transmission": "9-speed automatic",
       "engine": "3.0L I6 Turbo PHEV",
       "displacement": 2999,
@@ -763,20 +928,27 @@
       "power": 450,
       "torque": 750,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.9,
+      "fh": 1.5,
       "fx": 1.7,
       "battery": "28.6 kWh",
       "range": 100,
       "price": "$202,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~12.0 sec"
     },
     "Mercedes-Benz|E-Class|2026|E53 AMG Dark Carbon Edition": {
       "seats": 5,
-      "cargo": null,
+      "cargo": 540,
       "topSpeed": 280,
       "acceleration": 3.8,
-      "weight": null,
+      "weight": 1865,
       "transmission": "9-speed automatic",
       "engine": "3.0L I6 Turbo PHEV",
       "displacement": 2999,
@@ -786,13 +958,20 @@
       "power": 450,
       "torque": 750,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.9,
+      "fh": 1.5,
       "fx": 1.7,
       "battery": "28.6 kWh",
       "range": 100,
       "price": "$206,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~12.0 sec"
     },
     "Mercedes-Benz|GLA|2025|GLA200": {
       "topSpeed": 210,
@@ -813,7 +992,12 @@
       "fx": 7.4,
       "fuelTank": 43,
       "price": "$63,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1735,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.8 sec"
     },
     "Mercedes-Benz|GLA|2025|GLA200 Special Edition": {
       "topSpeed": 210,
@@ -834,12 +1018,17 @@
       "fx": 7.4,
       "fuelTank": 43,
       "price": "$63,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1735,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.8 sec"
     },
     "Mercedes-Benz|GLA|2025|GLA250 e": {
       "topSpeed": 210,
       "acceleration": 7.9,
-      "cargo": null,
+      "cargo": 440,
       "seats": 5,
       "engine": "1.3L I4 Turbo PHEV",
       "displacement": 1332,
@@ -850,18 +1039,26 @@
       "drivetrain": "FWD",
       "power": 160,
       "torque": 450,
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "fx": 1.2,
       "battery": "13 kWh",
       "range": 65,
       "price": "$78,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1735,
+      "est": [
+        "weight",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~16.0 sec"
     },
     "Mercedes-Benz|GLA|2025|GLA250 4MATIC": {
       "topSpeed": 240,
       "acceleration": 6.8,
-      "cargo": null,
+      "cargo": 440,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -877,12 +1074,16 @@
       "fx": 7.9,
       "weight": 1736,
       "price": "$80,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLA|2025|GLA250 4MATIC Special Edition": {
       "topSpeed": 240,
       "acceleration": 6.8,
-      "cargo": null,
+      "cargo": 440,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -898,12 +1099,16 @@
       "fx": 7.9,
       "weight": 1736,
       "price": "$80,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLA|2025|GLA35 AMG 4MATIC": {
       "topSpeed": 250,
       "acceleration": 5.2,
-      "cargo": null,
+      "cargo": 440,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -918,7 +1123,13 @@
       "fh": 7.1,
       "fx": 9,
       "price": "$99,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1735,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~13.5 sec"
     },
     "Mercedes-Benz|GLA|2026|GLA200": {
       "topSpeed": 210,
@@ -939,12 +1150,17 @@
       "fx": 7.4,
       "fuelTank": 43,
       "price": "$64,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1735,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.8 sec"
     },
     "Mercedes-Benz|GLA|2026|GLA250 e": {
       "topSpeed": 210,
       "acceleration": 7.9,
-      "cargo": null,
+      "cargo": 425,
       "seats": 5,
       "engine": "1.3L I4 Turbo PHEV",
       "displacement": 1332,
@@ -955,18 +1171,26 @@
       "drivetrain": "FWD",
       "power": 160,
       "torque": 450,
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "fx": 1.2,
       "battery": "13 kWh",
       "range": 65,
       "price": "$78,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1735,
+      "est": [
+        "weight",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~16.0 sec"
     },
     "Mercedes-Benz|GLA|2026|GLA250 4MATIC": {
       "topSpeed": 240,
       "acceleration": 6.8,
-      "cargo": null,
+      "cargo": 425,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -982,12 +1206,16 @@
       "fx": 7.9,
       "weight": 1736,
       "price": "$81,527",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLA|2026|GLA35 AMG 4MATIC": {
       "topSpeed": 250,
       "acceleration": 5.2,
-      "cargo": null,
+      "cargo": 425,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -1002,7 +1230,13 @@
       "fh": 7.1,
       "fx": 9,
       "price": "$100,026",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1735,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~13.5 sec"
     },
     "Mercedes-Benz|GLC|2024|GLC200 4MATIC": {
       "topSpeed": 221,
@@ -1025,12 +1259,13 @@
       "weight": 1976,
       "fuelTank": 62,
       "price": "$89,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.9 sec"
     },
     "Mercedes-Benz|GLC|2024|GLC300 4MATIC": {
       "topSpeed": 240,
       "acceleration": 6.3,
-      "cargo": null,
+      "cargo": 575,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1999,
@@ -1047,12 +1282,16 @@
       "fx": 7.7,
       "weight": 1998,
       "price": "$113,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.6 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLC|2024|GLC300 4MATIC Avantgarde": {
       "topSpeed": 240,
       "acceleration": 6.3,
-      "cargo": null,
+      "cargo": 575,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1999,
@@ -1069,12 +1308,16 @@
       "fx": 7.7,
       "weight": 1998,
       "price": "$95,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.6 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLC|2024|GLC43 AMG 4MATIC": {
       "topSpeed": 250,
       "acceleration": 4.8,
-      "cargo": null,
+      "cargo": 575,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -1091,12 +1334,16 @@
       "fx": 10,
       "weight": 2037,
       "price": "$146,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLC|2024|GLC43 AMG 4MATIC Edition R": {
       "topSpeed": 250,
       "acceleration": 4.8,
-      "cargo": null,
+      "cargo": 575,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -1113,12 +1360,16 @@
       "fx": 10,
       "weight": 2037,
       "price": "$141,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLC|2024|GLC63 S E Performance": {
       "topSpeed": 275,
       "acceleration": 3.5,
-      "cargo": null,
+      "cargo": 575,
       "seats": 5,
       "engine": "2.0L I4 Turbo PHEV",
       "displacement": 1991,
@@ -1130,14 +1381,20 @@
       "towing": null,
       "power": 500,
       "torque": 1020,
-      "fc": null,
-      "fh": null,
+      "fc": 8.3,
+      "fh": 6.1,
       "fx": 7.3,
       "battery": "6.1 kWh",
       "range": 14,
       "weight": 2374,
       "price": "$199,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLC|2025|GLC200 4MATIC": {
       "topSpeed": 221,
@@ -1160,7 +1417,8 @@
       "weight": 1976,
       "fuelTank": 62,
       "price": "$89,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.9 sec"
     },
     "Mercedes-Benz|GLC|2025|GLC200 4MATIC Avantgarde": {
       "topSpeed": 221,
@@ -1183,12 +1441,13 @@
       "weight": 1976,
       "fuelTank": 62,
       "price": "$85,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.9 sec"
     },
     "Mercedes-Benz|GLC|2025|GLC300 4MATIC": {
       "topSpeed": 240,
       "acceleration": 6.3,
-      "cargo": null,
+      "cargo": 575,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1999,
@@ -1205,12 +1464,16 @@
       "fx": 7.7,
       "weight": 1998,
       "price": "$117,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.6 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLC|2025|GLC350 e 4MATIC": {
-      "topSpeed": null,
+      "topSpeed": 260,
       "acceleration": 6.7,
-      "cargo": null,
+      "cargo": 575,
       "seats": 5,
       "engine": "2.0L I4 Turbo PHEV",
       "displacement": 1999,
@@ -1222,18 +1485,27 @@
       "towing": 2400,
       "power": 230,
       "torque": 550,
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "fx": 1.2,
       "battery": "25.3 kWh",
       "range": 132,
       "price": "$99,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1975,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~14.9 sec"
     },
     "Mercedes-Benz|GLC|2025|GLC43 AMG 4MATIC": {
       "topSpeed": 250,
       "acceleration": 4.8,
-      "cargo": null,
+      "cargo": 575,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -1250,12 +1522,16 @@
       "fx": 10,
       "weight": 2037,
       "price": "$147,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLC|2025|GLC43 AMG 4MATIC Edition R": {
       "topSpeed": 250,
       "acceleration": 4.8,
-      "cargo": null,
+      "cargo": 575,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -1272,12 +1548,16 @@
       "fx": 10,
       "weight": 2037,
       "price": "$141,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLC|2025|GLC43 AMG 4MATIC Carbon Edition": {
       "topSpeed": 250,
       "acceleration": 4.8,
-      "cargo": null,
+      "cargo": 575,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -1294,12 +1574,16 @@
       "fx": 10,
       "weight": 2037,
       "price": "$145,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLC|2025|GLC63 S E Performance": {
       "topSpeed": 275,
       "acceleration": 3.5,
-      "cargo": null,
+      "cargo": 575,
       "seats": 5,
       "engine": "2.0L I4 Turbo PHEV",
       "displacement": 1991,
@@ -1311,14 +1595,20 @@
       "towing": null,
       "power": 500,
       "torque": 1020,
-      "fc": null,
-      "fh": null,
+      "fc": 8.3,
+      "fh": 6.1,
       "fx": 7.3,
       "battery": "6.1 kWh",
       "range": 14,
       "weight": 2374,
       "price": "$200,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLC|2026|GLC200 4MATIC": {
       "topSpeed": 221,
@@ -1341,12 +1631,13 @@
       "weight": 1976,
       "fuelTank": 62,
       "price": "$90,127",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.9 sec"
     },
     "Mercedes-Benz|GLC|2026|GLC300 4MATIC": {
       "topSpeed": 240,
       "acceleration": 6.3,
-      "cargo": null,
+      "cargo": 620,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1999,
@@ -1363,12 +1654,16 @@
       "fx": 7.7,
       "weight": 1998,
       "price": "$118,427",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.6 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLC|2026|GLC350 e 4MATIC": {
-      "topSpeed": null,
+      "topSpeed": 230,
       "acceleration": 6.7,
-      "cargo": null,
+      "cargo": 620,
       "seats": 5,
       "engine": "2.0L I4 Turbo PHEV",
       "displacement": 1999,
@@ -1380,18 +1675,27 @@
       "towing": 2400,
       "power": 230,
       "torque": 550,
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "fx": 1.2,
       "battery": "25.3 kWh",
       "range": 132,
       "price": "$99,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2000,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~14.9 sec"
     },
     "Mercedes-Benz|GLC|2026|GLC400 4MATIC Electric": {
       "topSpeed": 210,
       "acceleration": 4.3,
-      "cargo": null,
+      "cargo": 620,
       "seats": 5,
       "transmission": "2-speed automatic",
       "drivetrain": "AWD",
@@ -1410,12 +1714,16 @@
       "range": 630,
       "weight": 2535,
       "price": "$112,200",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.6 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLC|2026|GLC43 AMG 4MATIC": {
       "topSpeed": 250,
       "acceleration": 4.8,
-      "cargo": null,
+      "cargo": 620,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -1432,12 +1740,16 @@
       "fx": 10,
       "weight": 2037,
       "price": "$149,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLC|2026|GLC53 AMG 4MATIC+": {
       "topSpeed": 250,
       "acceleration": 4.2,
-      "cargo": null,
+      "cargo": 620,
       "seats": 5,
       "engine": "3.0L I6 Turbo Petrol (MHEV)",
       "displacement": 2999,
@@ -1449,16 +1761,24 @@
       "towing": 2400,
       "power": 330,
       "torque": 600,
-      "fc": null,
-      "fh": null,
+      "fc": 12,
+      "fh": 6.7,
       "fx": 9.6,
       "price": "$140,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2035,
+      "est": [
+        "weight",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~12.5 sec"
     },
     "Mercedes-Benz|GLC|2026|GLC63 S E Performance": {
       "topSpeed": 275,
       "acceleration": 3.5,
-      "cargo": null,
+      "cargo": 620,
       "seats": 5,
       "engine": "2.0L I4 Turbo PHEV",
       "displacement": 1991,
@@ -1470,14 +1790,20 @@
       "towing": null,
       "power": 500,
       "torque": 1020,
-      "fc": null,
-      "fh": null,
+      "fc": 8.3,
+      "fh": 6.1,
       "fx": 7.3,
       "battery": "6.1 kWh",
       "range": 14,
       "weight": 2374,
       "price": "$203,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "Mercedes-Benz|EQA|2024|EQA250+": {
       "fuelType": "electric",
@@ -1500,7 +1826,8 @@
       "weight": 2048,
       "seats": 5,
       "cargo": 340,
-      "price": "$84,900"
+      "price": "$84,900",
+      "quarterMile": "~16.6 sec"
     },
     "Mercedes-Benz|EQA|2024|EQA250+ Night Edition": {
       "fuelType": "electric",
@@ -1523,7 +1850,8 @@
       "weight": 2048,
       "seats": 5,
       "cargo": 340,
-      "price": "$85,800"
+      "price": "$85,800",
+      "quarterMile": "~16.6 sec"
     },
     "Mercedes-Benz|EQA|2024|EQA350 4MATIC": {
       "fuelType": "electric",
@@ -1534,7 +1862,7 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 185,
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
@@ -1546,7 +1874,11 @@
       "weight": 2100,
       "seats": 5,
       "cargo": 340,
-      "price": "$102,283"
+      "price": "$102,283",
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mercedes-Benz|EQA|2026|EQA250+": {
       "fuelType": "electric",
@@ -1569,7 +1901,8 @@
       "weight": 2048,
       "seats": 5,
       "cargo": 340,
-      "price": "$85,800"
+      "price": "$85,800",
+      "quarterMile": "~16.6 sec"
     },
     "Mercedes-Benz|CLE|2026|CLE200 Coupe": {
       "topSpeed": 240,
@@ -1591,12 +1924,13 @@
       "weight": 1823,
       "fuelTank": 66,
       "price": "$104,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.5 sec"
     },
     "Mercedes-Benz|CLE|2026|CLE300 4MATIC Coupe": {
       "topSpeed": 250,
       "acceleration": 6.2,
-      "cargo": null,
+      "cargo": 420,
       "seats": 4,
       "transmission": "9-speed automatic",
       "drivetrain": "AWD",
@@ -1612,12 +1946,16 @@
       "fx": 7.5,
       "weight": 1879,
       "price": "$125,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.5 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|CLE|2026|CLE53 AMG 4MATIC+ Coupe": {
-      "topSpeed": null,
+      "topSpeed": 270,
       "acceleration": 4,
-      "cargo": null,
+      "cargo": 420,
       "seats": 4,
       "transmission": "9-speed automatic",
       "drivetrain": "AWD",
@@ -1633,14 +1971,19 @@
       "fx": 9.6,
       "weight": 2015,
       "price": "$158,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.3 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Mercedes-Benz|A-Class|2025|A200": {
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1640,
       "accelClaimed": true,
       "engine": "1.3L I4 Turbo Petrol",
       "displacement": 1332,
@@ -1655,14 +1998,18 @@
       "topSpeed": 225,
       "fuelTank": 43,
       "cargo": 350,
-      "price": "$57,500"
+      "price": "$57,500",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Mercedes-Benz|A-Class|2025|A200 Special Edition": {
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1640,
       "accelClaimed": true,
       "engine": "1.3L I4 Turbo Petrol",
       "displacement": 1332,
@@ -1677,7 +2024,11 @@
       "topSpeed": 225,
       "fuelTank": 43,
       "cargo": 350,
-      "price": "$57,500"
+      "price": "$57,500",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "Mercedes-Benz|A-Class|2025|A250": {
       "seats": 5,
@@ -1699,14 +2050,15 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "cargo": 350,
-      "price": "$73,800"
+      "price": "$73,800",
+      "quarterMile": "~14.6 sec"
     },
     "Mercedes-Benz|A-Class|2025|A250 Special Edition": {
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1640,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -1721,7 +2073,11 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "cargo": 350,
-      "price": "$73,800"
+      "price": "$73,800",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~14.6 sec"
     },
     "Mercedes-Benz|A-Class|2025|A35 AMG": {
       "seats": 5,
@@ -1743,14 +2099,15 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "cargo": 370,
-      "price": "$89,700"
+      "price": "$89,700",
+      "quarterMile": "~13.0 sec"
     },
     "Mercedes-Benz|A-Class|2025|A35 AMG Edition R": {
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1640,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -1765,7 +2122,11 @@
       "acceleration": 4.7,
       "topSpeed": 250,
       "cargo": 370,
-      "price": "$86,200"
+      "price": "$86,200",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~13.0 sec"
     },
     "Mercedes-Benz|A-Class|2025|A45 S AMG": {
       "seats": 5,
@@ -1787,14 +2148,15 @@
       "acceleration": 3.9,
       "topSpeed": 270,
       "cargo": 370,
-      "price": "$122,500"
+      "price": "$122,500",
+      "quarterMile": "~12.2 sec"
     },
     "Mercedes-Benz|A-Class|2025|A45 S AMG Edition R+": {
       "seats": 5,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "weight": null,
+      "weight": 1640,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -1809,7 +2171,11 @@
       "acceleration": 3.9,
       "topSpeed": 270,
       "cargo": 370,
-      "price": "$122,500"
+      "price": "$122,500",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~12.2 sec"
     },
     "Mercedes-Benz|GLA|2024|GLA200": {
       "topSpeed": 210,
@@ -1830,7 +2196,12 @@
       "fx": 7.4,
       "fuelTank": 43,
       "price": "$68,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1590,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.8 sec"
     },
     "Mercedes-Benz|GLA|2024|GLA200 City Edition": {
       "topSpeed": 210,
@@ -1852,12 +2223,13 @@
       "fuelTank": 43,
       "price": "$64,600",
       "accelClaimed": true,
-      "weight": 1562
+      "weight": 1562,
+      "quarterMile": "~16.8 sec"
     },
     "Mercedes-Benz|GLA|2024|GLA250 4MATIC": {
       "topSpeed": 240,
       "acceleration": 6.8,
-      "cargo": null,
+      "cargo": 454,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -1873,12 +2245,16 @@
       "fx": 7.9,
       "weight": 1736,
       "price": "$78,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLA|2024|GLA35 AMG 4MATIC": {
       "topSpeed": 250,
       "acceleration": 5.2,
-      "cargo": null,
+      "cargo": 454,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -1893,12 +2269,18 @@
       "fh": 7.1,
       "fx": 9,
       "price": "$96,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1735,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~13.5 sec"
     },
     "Mercedes-Benz|GLE|2025|GLE300 d 4MATIC": {
       "topSpeed": 230,
       "acceleration": 6.9,
-      "cargo": null,
+      "cargo": 630,
       "seats": 5,
       "transmission": "9-speed automatic",
       "drivetrain": "AWD",
@@ -1916,12 +2298,16 @@
       "fuelTank": 85,
       "price": "$136,600",
       "accelClaimed": true,
-      "weight": 2458
+      "weight": 2458,
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLE|2025|GLE300 d 4MATIC Edition 7": {
       "topSpeed": 230,
       "acceleration": 6.9,
-      "cargo": null,
+      "cargo": 630,
       "seats": 7,
       "transmission": "9-speed automatic",
       "drivetrain": "AWD",
@@ -1939,12 +2325,16 @@
       "fuelTank": 85,
       "price": "$141,800",
       "accelClaimed": true,
-      "weight": 2458
+      "weight": 2458,
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLE|2025|GLE450 d 4MATIC": {
       "topSpeed": 250,
       "acceleration": 5.6,
-      "cargo": null,
+      "cargo": 630,
       "seats": 5,
       "engine": "3.0L I6 Turbo Diesel",
       "displacement": 2989,
@@ -1960,12 +2350,18 @@
       "fh": 6.4,
       "fx": 7.4,
       "price": "$154,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2460,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~13.9 sec"
     },
     "Mercedes-Benz|GLE|2025|GLE450 4MATIC": {
-      "topSpeed": null,
+      "topSpeed": 255,
       "acceleration": 5.6,
-      "cargo": null,
+      "cargo": 630,
       "seats": 5,
       "engine": "3.0L I6 Turbo Petrol (MHEV)",
       "displacement": 2998,
@@ -1981,12 +2377,19 @@
       "fh": 7.8,
       "fx": 9.5,
       "price": "$163,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2460,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.9 sec"
     },
     "Mercedes-Benz|GLE|2025|GLE450 4MATIC AMG Line Plus Edition": {
-      "topSpeed": null,
+      "topSpeed": 255,
       "acceleration": 5.6,
-      "cargo": null,
+      "cargo": 630,
       "seats": 5,
       "engine": "3.0L I6 Turbo Petrol (MHEV)",
       "displacement": 2998,
@@ -2002,12 +2405,19 @@
       "fh": 7.8,
       "fx": 9.5,
       "price": "$163,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2460,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.9 sec"
     },
     "Mercedes-Benz|GLE|2025|GLE53 AMG 4MATIC+": {
       "topSpeed": 250,
       "acceleration": 5,
-      "cargo": null,
+      "cargo": 630,
       "seats": 5,
       "engine": "3.0L I6 Turbo Petrol (MHEV)",
       "displacement": 2999,
@@ -2019,16 +2429,24 @@
       "towing": 2700,
       "power": 320,
       "torque": 560,
-      "fc": null,
-      "fh": null,
+      "fc": 12.6,
+      "fh": 7,
       "fx": 10.1,
       "price": "$195,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2460,
+      "est": [
+        "weight",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~13.3 sec"
     },
     "Mercedes-Benz|GLE|2025|GLE53 AMG 4MATIC+ Edition R": {
       "topSpeed": 250,
       "acceleration": 5,
-      "cargo": null,
+      "cargo": 630,
       "seats": 5,
       "engine": "3.0L I6 Turbo Petrol (MHEV)",
       "displacement": 2999,
@@ -2040,16 +2458,24 @@
       "towing": 2700,
       "power": 320,
       "torque": 560,
-      "fc": null,
-      "fh": null,
+      "fc": 12.6,
+      "fh": 7,
       "fx": 10.1,
       "price": "$188,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2460,
+      "est": [
+        "weight",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~13.3 sec"
     },
     "Mercedes-Benz|GLE|2025|GLE63 S AMG 4MATIC+": {
       "topSpeed": 280,
       "acceleration": 3.9,
-      "cargo": null,
+      "cargo": 630,
       "seats": 5,
       "transmission": "9-speed automatic",
       "drivetrain": "AWD",
@@ -2065,7 +2491,13 @@
       "fh": 10,
       "fx": 13,
       "price": "$275,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2460,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~12.2 sec"
     },
     "Mercedes-Benz|CLA|2025|CLA200": {
       "seats": 5,
@@ -2073,7 +2505,7 @@
       "aspiration": "Turbo",
       "fuelType": "petrol",
       "cargo": null,
-      "weight": null,
+      "weight": 1685,
       "accelClaimed": true,
       "engine": "1.3L I4 Turbo Petrol",
       "displacement": 1332,
@@ -2087,7 +2519,11 @@
       "acceleration": 8.4,
       "topSpeed": 229,
       "fuelTank": 43,
-      "price": "$73,200"
+      "price": "$73,200",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Mercedes-Benz|CLA|2025|CLA200 Special Edition": {
       "seats": 5,
@@ -2095,7 +2531,7 @@
       "aspiration": "Turbo",
       "fuelType": "petrol",
       "cargo": null,
-      "weight": null,
+      "weight": 1685,
       "accelClaimed": true,
       "engine": "1.3L I4 Turbo Petrol",
       "displacement": 1332,
@@ -2109,7 +2545,11 @@
       "acceleration": 8.4,
       "topSpeed": 229,
       "fuelTank": 43,
-      "price": "$73,200"
+      "price": "$73,200",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Mercedes-Benz|CLA|2025|CLA250": {
       "seats": 5,
@@ -2131,7 +2571,8 @@
       "fx": 7.3,
       "acceleration": 6.4,
       "topSpeed": 250,
-      "price": "$87,600"
+      "price": "$87,600",
+      "quarterMile": "~14.7 sec"
     },
     "Mercedes-Benz|CLA|2025|CLA250 Special Edition": {
       "seats": 5,
@@ -2139,7 +2580,7 @@
       "aspiration": "Turbo",
       "fuelType": "petrol",
       "cargo": null,
-      "weight": null,
+      "weight": 1685,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -2153,7 +2594,11 @@
       "fx": 7.3,
       "acceleration": 6.4,
       "topSpeed": 250,
-      "price": "$87,527"
+      "price": "$87,527",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~14.7 sec"
     },
     "Mercedes-Benz|CLA|2025|CLA35 AMG": {
       "seats": 5,
@@ -2161,7 +2606,7 @@
       "aspiration": "Turbo",
       "fuelType": "petrol",
       "cargo": null,
-      "weight": null,
+      "weight": 1685,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -2175,7 +2620,11 @@
       "fx": 8.2,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "$102,000"
+      "price": "$102,000",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~13.2 sec"
     },
     "Mercedes-Benz|CLA|2025|CLA35 AMG Edition R": {
       "seats": 5,
@@ -2183,7 +2632,7 @@
       "aspiration": "Turbo",
       "fuelType": "petrol",
       "cargo": null,
-      "weight": null,
+      "weight": 1685,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -2197,7 +2646,11 @@
       "fx": 8.2,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "$97,627"
+      "price": "$97,627",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~13.2 sec"
     },
     "Mercedes-Benz|CLA|2025|CLA45 S AMG": {
       "seats": 5,
@@ -2219,7 +2672,8 @@
       "fx": 9.3,
       "acceleration": 4.1,
       "topSpeed": 270,
-      "price": "$129,300"
+      "price": "$129,300",
+      "quarterMile": "~12.4 sec"
     },
     "Mercedes-Benz|CLA|2025|CLA45 S AMG Edition R+": {
       "seats": 5,
@@ -2241,15 +2695,16 @@
       "fx": 9.3,
       "acceleration": 4.1,
       "topSpeed": 270,
-      "price": "$129,227"
+      "price": "$129,227",
+      "quarterMile": "~12.4 sec"
     },
     "Mercedes-Benz|GLB|2025|GLB200": {
       "seats": 7,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "cargo": null,
-      "weight": null,
+      "cargo": 570,
+      "weight": 1850,
       "accelClaimed": true,
       "engine": "1.3L I4 Turbo Petrol",
       "displacement": 1332,
@@ -2264,14 +2719,19 @@
       "topSpeed": 207,
       "fuelTank": 52,
       "towing": 1500,
-      "price": "$67,600"
+      "price": "$67,600",
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Mercedes-Benz|GLB|2025|GLB200 Special Edition": {
       "seats": 7,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "cargo": null,
+      "cargo": 570,
       "weight": 1708,
       "accelClaimed": true,
       "engine": "1.3L I4 Turbo Petrol",
@@ -2287,15 +2747,19 @@
       "topSpeed": 207,
       "fuelTank": 52,
       "towing": 1500,
-      "price": "$67,600"
+      "price": "$67,600",
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLB|2025|GLB250 4MATIC": {
       "seats": 7,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "cargo": null,
-      "weight": null,
+      "cargo": 570,
+      "weight": 1850,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -2310,14 +2774,19 @@
       "acceleration": 7,
       "topSpeed": 236,
       "towing": 1900,
-      "price": "$85,800"
+      "price": "$85,800",
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~15.2 sec"
     },
     "Mercedes-Benz|GLB|2025|GLB250 4MATIC Special Edition": {
       "seats": 7,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "cargo": null,
+      "cargo": 570,
       "weight": 1849,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
@@ -2333,14 +2802,18 @@
       "acceleration": 7,
       "topSpeed": 236,
       "towing": 1900,
-      "price": "$85,800"
+      "price": "$85,800",
+      "quarterMile": "~15.2 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLB|2025|GLB35 AMG 4MATIC": {
       "seats": 7,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "petrol",
-      "cargo": null,
+      "cargo": 570,
       "weight": 1862,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
@@ -2356,7 +2829,11 @@
       "acceleration": 5.5,
       "topSpeed": 250,
       "towing": 1800,
-      "price": "$105,100"
+      "price": "$105,100",
+      "quarterMile": "~13.8 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|GLB|2026|GLB200": {
       "seats": 7,
@@ -2379,7 +2856,8 @@
       "topSpeed": 207,
       "fuelTank": 52,
       "towing": 1500,
-      "price": "$68,300"
+      "price": "$68,300",
+      "quarterMile": "~17.1 sec"
     },
     "Mercedes-Benz|GLB|2026|GLB200 Special Edition": {
       "seats": 7,
@@ -2402,7 +2880,8 @@
       "topSpeed": 207,
       "fuelTank": 52,
       "towing": 1500,
-      "price": "$68,300"
+      "price": "$68,300",
+      "quarterMile": "~17.1 sec"
     },
     "Mercedes-Benz|GLB|2026|GLB250 4MATIC": {
       "seats": 7,
@@ -2425,7 +2904,8 @@
       "acceleration": 7,
       "topSpeed": 236,
       "towing": 1900,
-      "price": "$86,828"
+      "price": "$86,828",
+      "quarterMile": "~15.2 sec"
     },
     "Mercedes-Benz|GLB|2026|GLB250 4MATIC Special Edition": {
       "seats": 7,
@@ -2448,7 +2928,8 @@
       "acceleration": 7,
       "topSpeed": 236,
       "towing": 1900,
-      "price": "$86,828"
+      "price": "$86,828",
+      "quarterMile": "~15.2 sec"
     },
     "Mercedes-Benz|GLB|2026|GLB35 AMG 4MATIC": {
       "seats": 7,
@@ -2471,7 +2952,8 @@
       "acceleration": 5.5,
       "topSpeed": 250,
       "towing": 1800,
-      "price": "$106,228"
+      "price": "$106,228",
+      "quarterMile": "~13.8 sec"
     },
     "BMW|X1|2026|sDrive18i": {
       "topSpeed": 215,
@@ -2494,7 +2976,8 @@
       "towing": 1700,
       "fuelTank": 54,
       "price": "$63,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.9 sec"
     },
     "BMW|X1|2026|sDrive20i M Sport": {
       "topSpeed": 216,
@@ -2514,12 +2997,21 @@
       "towing": 1800,
       "fuelTank": 54,
       "price": null,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.3 sec",
+      "fx": 6.7,
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "fc": 8.4,
+      "fh": 4.6
     },
     "BMW|X1|2026|xDrive20i M Sport": {
       "topSpeed": 233,
       "acceleration": 7.4,
-      "cargo": null,
+      "cargo": 505,
       "seats": 5,
       "transmission": "7-speed dual-clutch",
       "engine": "2.0L I4 Turbo Petrol",
@@ -2536,12 +3028,16 @@
       "weight": 1595,
       "towing": 2000,
       "price": "$76,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|X1|2026|xDrive25e M Sport": {
       "topSpeed": 190,
       "acceleration": 6.8,
-      "cargo": null,
+      "cargo": 505,
       "seats": 5,
       "transmission": "7-speed dual-clutch",
       "engine": "1.5L I3 Turbo PHEV",
@@ -2557,12 +3053,22 @@
       "towing": 1700,
       "fuelTank": 47,
       "price": "$79,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec",
+      "fx": 3.7,
+      "est": [
+        "fx",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fc": 4.2,
+      "fh": 3.1
     },
     "BMW|X1|2026|M35i xDrive": {
       "topSpeed": 250,
       "acceleration": 5.4,
-      "cargo": null,
+      "cargo": 505,
       "seats": 5,
       "transmission": "7-speed dual-clutch",
       "engine": "2.0L I4 Turbo Petrol",
@@ -2576,11 +3082,19 @@
       "fx": 8.3,
       "weight": 1665,
       "price": "$94,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.7 sec",
+      "fc": 10.4,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 5.7
     },
     "BMW|X3|2026|20 xDrive": {
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 210,
       "transmission": "8-speed automatic",
       "engine": "2.0L I4 Turbo Petrol (B48)",
       "displacement": 1998,
@@ -2599,11 +3113,15 @@
       "fuelTank": 65,
       "cargo": 570,
       "price": "$88,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|X3|2026|30e xDrive": {
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 230,
       "transmission": "8-speed automatic",
       "engine": "2.0L I4 Turbo PHEV (B48)",
       "displacement": 1998,
@@ -2613,8 +3131,8 @@
       "power": 220,
       "torque": 450,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "fx": 1.6,
       "battery": "22.1 kWh",
       "acceleration": 6.2,
@@ -2623,11 +3141,17 @@
       "fuelTank": 50,
       "cargo": 460,
       "price": "$107,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.5 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BMW|X3|2026|40d xDrive": {
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 230,
       "transmission": "8-speed automatic",
       "engine": "3.0L I6 Turbo Diesel (B57)",
       "displacement": 2993,
@@ -2645,7 +3169,11 @@
       "towing": 2200,
       "cargo": 570,
       "price": "$112,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|X3|2026|M50 xDrive": {
       "seats": 5,
@@ -2667,11 +3195,12 @@
       "towing": 2200,
       "cargo": 570,
       "price": "$131,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.9 sec"
     },
     "BMW|X5|2026|xDrive30d xLine": {
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 225,
       "transmission": "8-speed automatic",
       "engine": "3.0L I6 Turbo Diesel (B57)",
       "displacement": 2993,
@@ -2690,11 +3219,15 @@
       "fuelTank": 80,
       "cargo": 650,
       "price": "$139,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|X5|2026|xDrive30d M Sport": {
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 225,
       "transmission": "8-speed automatic",
       "engine": "3.0L I6 Turbo Diesel (B57)",
       "displacement": 2993,
@@ -2713,11 +3246,15 @@
       "fuelTank": 80,
       "cargo": 650,
       "price": "$139,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|X5|2026|Shadow Edition": {
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 225,
       "transmission": "8-speed automatic",
       "engine": "3.0L I6 Turbo Diesel (B57)",
       "displacement": 2993,
@@ -2736,11 +3273,15 @@
       "fuelTank": 80,
       "cargo": 650,
       "price": "$146,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|X5|2026|xDrive40i M Sport": {
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 255,
       "transmission": "8-speed automatic",
       "engine": "3.0L I6 Turbo Petrol (B58)",
       "displacement": 2998,
@@ -2757,11 +3298,17 @@
       "weight": 2165,
       "towing": 2700,
       "price": "$143,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.7 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ],
+      "cargo": 650
     },
     "BMW|X5|2026|40d xDrive M Sport (G65)": {
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 230,
       "transmission": "8-speed automatic",
       "engine": "3.0L I6 Turbo Diesel (B57)",
       "displacement": 2993,
@@ -2771,18 +3318,27 @@
       "power": 230,
       "torque": 670,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.9,
+      "fh": 5.7,
+      "fx": 8,
       "acceleration": 6.1,
       "weight": 2355,
       "towing": 3500,
       "price": "$143,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "topSpeed",
+        "fx",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 650
     },
     "BMW|X5|2026|40 xDrive M Sport (G65)": {
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 255,
       "transmission": "8-speed automatic",
       "engine": "3.0L I6 Turbo Petrol (B58)",
       "displacement": 2998,
@@ -2792,18 +3348,27 @@
       "power": 294,
       "torque": 540,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.5,
+      "fh": 7.5,
+      "fx": 10.8,
       "acceleration": 5.3,
       "weight": 2290,
       "towing": 3500,
       "price": "$145,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.6 sec",
+      "est": [
+        "topSpeed",
+        "fx",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 650
     },
     "BMW|X5|2026|xDrive50e M Sport": {
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 270,
       "transmission": "8-speed automatic",
       "engine": "3.0L I6 Turbo PHEV (B58)",
       "displacement": 2998,
@@ -2813,8 +3378,8 @@
       "power": 360,
       "torque": 700,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.2,
+      "fh": 1.5,
       "fx": 1.9,
       "battery": "29.5 kWh",
       "range": 94,
@@ -2823,7 +3388,15 @@
       "towing": 2700,
       "fuelTank": 69,
       "price": "$154,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 650
     },
     "BMW|X5|2026|M60i": {
       "seats": 5,
@@ -2845,7 +3418,12 @@
       "towing": 2700,
       "fuelTank": 83,
       "price": "$177,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.6 sec",
+      "cargo": 650,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|i4|2024|eDrive35": {
       "topSpeed": 190,
@@ -2869,7 +3447,8 @@
       "weight": 1990,
       "towing": 1600,
       "price": "$87,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.3 sec"
     },
     "BMW|i4|2024|eDrive40 M Sport": {
       "topSpeed": 190,
@@ -2890,13 +3469,17 @@
       "fx": null,
       "battery": "83.9 kWh",
       "range": 520,
-      "weight": null,
+      "weight": 2050,
       "towing": 1600,
       "price": "$102,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~14.0 sec"
     },
     "BMW|i4|2024|M50": {
-      "topSpeed": null,
+      "topSpeed": 225,
       "acceleration": 3.9,
       "cargo": 470,
       "seats": 5,
@@ -2917,7 +3500,11 @@
       "weight": 2215,
       "towing": 1600,
       "price": "$133,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|i4|2025|eDrive35": {
       "topSpeed": 190,
@@ -2941,7 +3528,8 @@
       "weight": 1990,
       "towing": 1600,
       "price": "$88,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.3 sec"
     },
     "BMW|i4|2026|eDrive35": {
       "topSpeed": 190,
@@ -2965,7 +3553,8 @@
       "weight": 1990,
       "towing": 1600,
       "price": "$88,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.3 sec"
     },
     "BMW|iX|2024|xDrive40 Sport": {
       "fuelType": "electric",
@@ -2977,7 +3566,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 200,
       "cargo": null,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
@@ -2988,7 +3577,11 @@
       "range": 420,
       "acceleration": 6.1,
       "weight": 2365,
-      "price": "$136,900"
+      "price": "$136,900",
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX|2024|xDrive50 Sport": {
       "fuelType": "electric",
@@ -3000,7 +3593,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 235,
       "cargo": null,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
@@ -3011,7 +3604,11 @@
       "range": 620,
       "acceleration": 4.6,
       "weight": 2510,
-      "price": "$185,400"
+      "price": "$185,400",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX|2024|M60": {
       "fuelType": "electric",
@@ -3023,7 +3620,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 245,
       "cargo": null,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
@@ -3034,7 +3631,11 @@
       "range": 585,
       "acceleration": 3.8,
       "weight": 2584,
-      "price": "$233,400"
+      "price": "$233,400",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX|2025|xDrive40 Sport": {
       "fuelType": "electric",
@@ -3046,7 +3647,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 200,
       "cargo": null,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
@@ -3057,7 +3658,11 @@
       "range": 420,
       "acceleration": 6.1,
       "weight": 2365,
-      "price": "$136,900"
+      "price": "$136,900",
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX|2025|xDrive45 M Sport": {
       "fuelType": "electric",
@@ -3069,7 +3674,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 215,
       "cargo": null,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
@@ -3080,7 +3685,11 @@
       "range": 522,
       "acceleration": 5.1,
       "weight": 2450,
-      "price": "$142,900"
+      "price": "$142,900",
+      "quarterMile": "~13.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX|2025|xDrive50 Sport": {
       "fuelType": "electric",
@@ -3092,7 +3701,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 235,
       "cargo": null,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
@@ -3103,7 +3712,11 @@
       "range": 620,
       "acceleration": 4.6,
       "weight": 2510,
-      "price": "$185,400"
+      "price": "$185,400",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX|2025|M60": {
       "fuelType": "electric",
@@ -3115,7 +3728,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 245,
       "cargo": null,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
@@ -3126,7 +3739,11 @@
       "range": 585,
       "acceleration": 3.8,
       "weight": 2584,
-      "price": "$233,400"
+      "price": "$233,400",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX|2026|xDrive45 M Sport": {
       "fuelType": "electric",
@@ -3138,7 +3755,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 215,
       "cargo": null,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
@@ -3149,7 +3766,11 @@
       "range": 522,
       "acceleration": 5.1,
       "weight": 2450,
-      "price": "$142,900"
+      "price": "$142,900",
+      "quarterMile": "~13.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX3|2026|40 M Sport": {
       "fuelType": "electric",
@@ -3161,7 +3782,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 190,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -3172,7 +3793,11 @@
       "range": 635,
       "acceleration": 5.9,
       "weight": 2085,
-      "price": "$89,900"
+      "price": "$89,900",
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX3|2026|50 xDrive M Sport": {
       "fuelType": "electric",
@@ -3184,7 +3809,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 210,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -3195,7 +3820,11 @@
       "range": 634,
       "acceleration": 4.9,
       "weight": 2285,
-      "price": "$112,500"
+      "price": "$112,500",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|i5|2024|eDrive40 M Sport": {
       "fuelType": "electric",
@@ -3207,7 +3836,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 190,
       "cargo": null,
       "battery": "84 kWh",
       "accelClaimed": true,
@@ -3218,7 +3847,11 @@
       "range": 550,
       "acceleration": 6,
       "weight": 2130,
-      "price": "$155,900"
+      "price": "$155,900",
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|i5|2024|M60 xDrive": {
       "fuelType": "electric",
@@ -3230,7 +3863,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 230,
       "cargo": null,
       "battery": "84 kWh",
       "accelClaimed": true,
@@ -3241,7 +3874,11 @@
       "range": 506,
       "acceleration": 3.8,
       "weight": 2305,
-      "price": "$215,900"
+      "price": "$215,900",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|i5|2024|M60 xDrive Touring": {
       "fuelType": "electric",
@@ -3253,7 +3890,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 230,
       "cargo": null,
       "battery": "84 kWh",
       "accelClaimed": true,
@@ -3264,7 +3901,11 @@
       "range": 501,
       "acceleration": 3.9,
       "weight": 2350,
-      "price": "$219,900"
+      "price": "$219,900",
+      "quarterMile": "~12.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|i5|2025|eDrive40 M Sport": {
       "fuelType": "electric",
@@ -3276,7 +3917,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 190,
       "cargo": null,
       "battery": "84 kWh",
       "accelClaimed": true,
@@ -3287,7 +3928,11 @@
       "range": 550,
       "acceleration": 6,
       "weight": 2130,
-      "price": "$155,900"
+      "price": "$155,900",
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|i5|2025|M60 xDrive": {
       "fuelType": "electric",
@@ -3299,7 +3944,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 230,
       "cargo": null,
       "battery": "84 kWh",
       "accelClaimed": true,
@@ -3310,7 +3955,11 @@
       "range": 506,
       "acceleration": 3.8,
       "weight": 2305,
-      "price": "$215,900"
+      "price": "$215,900",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|i5|2025|M60 xDrive Touring": {
       "fuelType": "electric",
@@ -3322,7 +3971,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 230,
       "cargo": null,
       "battery": "84 kWh",
       "accelClaimed": true,
@@ -3333,7 +3982,11 @@
       "range": 501,
       "acceleration": 3.9,
       "weight": 2350,
-      "price": "$219,900"
+      "price": "$219,900",
+      "quarterMile": "~12.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|i5|2026|eDrive40 M Sport": {
       "fuelType": "electric",
@@ -3345,7 +3998,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 190,
       "cargo": null,
       "battery": "84 kWh",
       "accelClaimed": true,
@@ -3356,7 +4009,11 @@
       "range": 550,
       "acceleration": 6,
       "weight": 2130,
-      "price": "$155,900"
+      "price": "$155,900",
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|i5|2026|M60 xDrive": {
       "fuelType": "electric",
@@ -3368,7 +4025,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 230,
       "cargo": null,
       "battery": "84 kWh",
       "accelClaimed": true,
@@ -3379,7 +4036,11 @@
       "range": 506,
       "acceleration": 3.8,
       "weight": 2305,
-      "price": "$215,900"
+      "price": "$215,900",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|i5|2026|M60 xDrive Touring": {
       "fuelType": "electric",
@@ -3391,7 +4052,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 230,
       "cargo": null,
       "battery": "84 kWh",
       "accelClaimed": true,
@@ -3402,12 +4063,16 @@
       "range": 501,
       "acceleration": 3.9,
       "weight": 2350,
-      "price": "$219,900"
+      "price": "$219,900",
+      "quarterMile": "~12.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|i7|2024|60 xDrive M Sport": {
       "topSpeed": 240,
       "acceleration": 4.7,
-      "cargo": null,
+      "cargo": 500,
       "seats": 5,
       "transmission": "1-speed automatic",
       "engine": "Dual-Motor Electric",
@@ -3425,12 +4090,16 @@
       "range": 625,
       "weight": 2640,
       "price": "$306,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.0 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|i7|2024|M70 xDrive": {
       "topSpeed": 250,
       "acceleration": 3.7,
-      "cargo": null,
+      "cargo": 500,
       "seats": 5,
       "transmission": "1-speed automatic",
       "engine": "Dual-Motor Electric",
@@ -3448,12 +4117,16 @@
       "range": 576,
       "weight": 2695,
       "price": "$344,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.9 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|i7|2025|60 xDrive M Sport": {
       "topSpeed": 240,
       "acceleration": 4.7,
-      "cargo": null,
+      "cargo": 500,
       "seats": 5,
       "transmission": "1-speed automatic",
       "engine": "Dual-Motor Electric",
@@ -3471,12 +4144,16 @@
       "range": 625,
       "weight": 2640,
       "price": "$306,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.0 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|i7|2025|M70 xDrive": {
       "topSpeed": 250,
       "acceleration": 3.7,
-      "cargo": null,
+      "cargo": 500,
       "seats": 5,
       "transmission": "1-speed automatic",
       "engine": "Dual-Motor Electric",
@@ -3494,7 +4171,11 @@
       "range": 576,
       "weight": 2695,
       "price": "$344,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.9 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|i7|2026|60 xDrive M Sport": {
       "topSpeed": 240,
@@ -3517,7 +4198,8 @@
       "range": 727,
       "weight": 2695,
       "price": "$306,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.1 sec"
     },
     "BMW|i7|2026|M70 xDrive": {
       "topSpeed": 250,
@@ -3540,7 +4222,8 @@
       "range": 576,
       "weight": 2695,
       "price": "$344,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.9 sec"
     },
     "BMW|M5|2024|M5 Sedan": {
       "engine": "4.4L V8 Twin-Turbo PHEV",
@@ -3552,18 +4235,24 @@
       "torque": 1000,
       "transmission": "8-speed automatic",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 3.4,
+      "fh": 2.5,
       "fx": 3,
       "battery": "18.6 kWh",
       "range": 68,
       "acceleration": 3.5,
       "accelClaimed": true,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 300,
       "cargo": null,
       "weight": 2435,
-      "price": "$259,900"
+      "price": "$259,900",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BMW|M5|2025|M5 Sedan": {
       "engine": "4.4L V8 Twin-Turbo PHEV",
@@ -3575,18 +4264,24 @@
       "torque": 1000,
       "transmission": "8-speed automatic",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 3.4,
+      "fh": 2.5,
       "fx": 3,
       "battery": "18.6 kWh",
       "range": 68,
       "acceleration": 3.5,
       "accelClaimed": true,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 300,
       "cargo": null,
       "weight": 2435,
-      "price": "$261,700"
+      "price": "$261,700",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BMW|M5|2025|M5 Touring": {
       "engine": "4.4L V8 Twin-Turbo PHEV",
@@ -3598,18 +4293,24 @@
       "torque": 1000,
       "transmission": "8-speed automatic",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 3.4,
+      "fh": 2.5,
       "fx": 3,
       "battery": "18.6 kWh",
       "range": 68,
       "acceleration": 3.5,
       "accelClaimed": true,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 300,
       "cargo": null,
       "weight": 2475,
-      "price": "$263,900"
+      "price": "$263,900",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BMW|M5|2026|M5 Sedan": {
       "engine": "4.4L V8 Twin-Turbo PHEV",
@@ -3621,18 +4322,24 @@
       "torque": 1000,
       "transmission": "8-speed automatic",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 3.4,
+      "fh": 2.5,
       "fx": 3,
       "battery": "18.6 kWh",
       "range": 68,
       "acceleration": 3.5,
       "accelClaimed": true,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 300,
       "cargo": null,
       "weight": 2435,
-      "price": "$263,400"
+      "price": "$263,400",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BMW|M5|2026|M5 Touring": {
       "engine": "4.4L V8 Twin-Turbo PHEV",
@@ -3644,18 +4351,24 @@
       "torque": 1000,
       "transmission": "8-speed automatic",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 3.4,
+      "fh": 2.5,
       "fx": 3,
       "battery": "18.6 kWh",
       "range": 68,
       "acceleration": 3.5,
       "accelClaimed": true,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 300,
       "cargo": null,
       "weight": 2475,
-      "price": "$267,400"
+      "price": "$267,400",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "BMW|iX2|2024|eDrive20 M Sport": {
       "fuelType": "electric",
@@ -3667,7 +4380,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 165,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -3678,7 +4391,11 @@
       "battery": "67 kWh",
       "range": 427,
       "weight": 1885,
-      "price": "$84,700"
+      "price": "$84,700",
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX2|2024|xDrive30 M Sport": {
       "fuelType": "electric",
@@ -3690,7 +4407,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 190,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -3701,7 +4418,11 @@
       "battery": "67 kWh",
       "range": 395,
       "weight": 2020,
-      "price": "$87,600"
+      "price": "$87,600",
+      "quarterMile": "~13.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX2|2025|eDrive20 M Sport": {
       "fuelType": "electric",
@@ -3713,7 +4434,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 165,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -3724,7 +4445,11 @@
       "battery": "67 kWh",
       "range": 427,
       "weight": 1885,
-      "price": "$84,700"
+      "price": "$84,700",
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX2|2025|xDrive30 M Sport": {
       "fuelType": "electric",
@@ -3736,7 +4461,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 190,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -3747,7 +4472,11 @@
       "battery": "67 kWh",
       "range": 395,
       "weight": 2020,
-      "price": "$87,600"
+      "price": "$87,600",
+      "quarterMile": "~13.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX2|2026|eDrive20 M Sport": {
       "fuelType": "electric",
@@ -3759,7 +4488,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 165,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -3770,7 +4499,11 @@
       "battery": "67 kWh",
       "range": 427,
       "weight": 1885,
-      "price": "$84,700"
+      "price": "$84,700",
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX2|2026|xDrive30 M Sport": {
       "fuelType": "electric",
@@ -3782,7 +4515,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 190,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -3793,7 +4526,11 @@
       "battery": "67 kWh",
       "range": 395,
       "weight": 2020,
-      "price": "$79,900"
+      "price": "$79,900",
+      "quarterMile": "~13.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX1|2024|eDrive20 xLine": {
       "fuelType": "electric",
@@ -3805,7 +4542,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 160,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -3816,7 +4553,11 @@
       "battery": "66.5 kWh",
       "range": 464,
       "weight": 1865,
-      "price": "$80,600"
+      "price": "$80,600",
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX1|2024|xDrive30 xLine": {
       "fuelType": "electric",
@@ -3828,7 +4569,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -3839,7 +4580,11 @@
       "battery": "66.5 kWh",
       "range": 400,
       "weight": 2010,
-      "price": "$86,800"
+      "price": "$86,800",
+      "quarterMile": "~13.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX1|2024|xDrive30 M Sport": {
       "fuelType": "electric",
@@ -3851,7 +4596,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -3862,7 +4607,11 @@
       "battery": "66.5 kWh",
       "range": 400,
       "weight": 2010,
-      "price": "$86,800"
+      "price": "$86,800",
+      "quarterMile": "~13.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX1|2025|eDrive20 xLine": {
       "fuelType": "electric",
@@ -3874,7 +4623,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 160,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -3885,7 +4634,11 @@
       "battery": "66.5 kWh",
       "range": 464,
       "weight": 1865,
-      "price": "$80,600"
+      "price": "$80,600",
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX1|2025|xDrive30 xLine": {
       "fuelType": "electric",
@@ -3897,7 +4650,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -3908,7 +4661,11 @@
       "battery": "66.5 kWh",
       "range": 400,
       "weight": 2010,
-      "price": "$86,800"
+      "price": "$86,800",
+      "quarterMile": "~13.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX1|2025|xDrive30 M Sport": {
       "fuelType": "electric",
@@ -3920,7 +4677,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -3931,7 +4688,11 @@
       "battery": "66.5 kWh",
       "range": 400,
       "weight": 2010,
-      "price": "$86,800"
+      "price": "$86,800",
+      "quarterMile": "~13.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX1|2026|eDrive20 xLine": {
       "fuelType": "electric",
@@ -3943,7 +4704,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 160,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -3954,7 +4715,11 @@
       "battery": "66.5 kWh",
       "range": 464,
       "weight": 1865,
-      "price": "$80,600"
+      "price": "$80,600",
+      "quarterMile": "~16.6 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX1|2026|xDrive30 xLine": {
       "fuelType": "electric",
@@ -3966,7 +4731,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -3977,7 +4742,11 @@
       "battery": "66.5 kWh",
       "range": 400,
       "weight": 2010,
-      "price": "$86,800"
+      "price": "$86,800",
+      "quarterMile": "~13.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BMW|iX1|2026|xDrive30 M Sport": {
       "fuelType": "electric",
@@ -3989,7 +4758,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "cargo": null,
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -4000,7 +4769,11 @@
       "battery": "66.5 kWh",
       "range": 400,
       "weight": 2010,
-      "price": "$77,900"
+      "price": "$77,900",
+      "quarterMile": "~13.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Audi|Q5|2024|35 TDI": {
       "cylinders": 4,
@@ -4009,8 +4782,8 @@
       "seats": 5,
       "cargo": 520,
       "fuelTank": 65,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 200,
+      "weight": 1840,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Diesel",
       "displacement": 1968,
@@ -4023,7 +4796,12 @@
       "fh": 4.4,
       "fx": 4.8,
       "acceleration": 9,
-      "price": "$73,400"
+      "price": "$73,400",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.9 sec"
     },
     "Audi|Q5|2024|35 TDI Dynamic Black": {
       "cylinders": 4,
@@ -4032,8 +4810,8 @@
       "seats": 5,
       "cargo": 520,
       "fuelTank": 65,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 200,
+      "weight": 1840,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Diesel",
       "displacement": 1968,
@@ -4046,7 +4824,12 @@
       "fh": 4.4,
       "fx": 4.8,
       "acceleration": 9,
-      "price": "$76,200"
+      "price": "$76,200",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.9 sec"
     },
     "Audi|Q5|2024|40 TDI Sport": {
       "cylinders": 4,
@@ -4055,8 +4838,8 @@
       "seats": 5,
       "cargo": 520,
       "fuelTank": 65,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 220,
+      "weight": 1840,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Diesel",
       "displacement": 1968,
@@ -4069,7 +4852,12 @@
       "fh": 5,
       "fx": 5.4,
       "acceleration": 7.6,
-      "price": "$87,000"
+      "price": "$87,000",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.7 sec"
     },
     "Audi|Q5|2024|40 TDI S line": {
       "cylinders": 4,
@@ -4078,8 +4866,8 @@
       "seats": 5,
       "cargo": 520,
       "fuelTank": 65,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 220,
+      "weight": 1840,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Diesel",
       "displacement": 1968,
@@ -4092,7 +4880,12 @@
       "fh": 5,
       "fx": 5.4,
       "acceleration": 7.6,
-      "price": "$89,769"
+      "price": "$89,769",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.7 sec"
     },
     "Audi|Q5|2024|45 TFSI Sport": {
       "cylinders": 4,
@@ -4101,8 +4894,8 @@
       "seats": 5,
       "cargo": 520,
       "fuelTank": 65,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 235,
+      "weight": 1855,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
@@ -4114,7 +4907,12 @@
       "fh": 7,
       "fx": 8,
       "acceleration": 6.3,
-      "price": "$88,315"
+      "price": "$88,315",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.6 sec"
     },
     "Audi|Q5|2024|45 TFSI S line": {
       "cylinders": 4,
@@ -4123,8 +4921,8 @@
       "seats": 5,
       "cargo": 520,
       "fuelTank": 65,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 235,
+      "weight": 1855,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
@@ -4136,7 +4934,12 @@
       "fh": 7,
       "fx": 8,
       "acceleration": 6.3,
-      "price": "$96,515"
+      "price": "$96,515",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.6 sec"
     },
     "Audi|Q5|2024|45 TFSI Dynamic Black": {
       "cylinders": 4,
@@ -4145,8 +4948,8 @@
       "seats": 5,
       "cargo": 520,
       "fuelTank": 65,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 235,
+      "weight": 1855,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
@@ -4158,7 +4961,12 @@
       "fh": 7,
       "fx": 8,
       "acceleration": 6.3,
-      "price": "$92,115"
+      "price": "$92,115",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.6 sec"
     },
     "Audi|Q5|2024|55 TFSI e S line": {
       "cylinders": 4,
@@ -4167,8 +4975,8 @@
       "seats": 5,
       "cargo": 520,
       "fuelTank": 65,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 270,
+      "weight": 1855,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo PHEV",
       "displacement": 1984,
@@ -4176,13 +4984,20 @@
       "power": 270,
       "torque": 500,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.3,
+      "fh": 1.6,
       "fx": 2,
       "battery": "17.9 kWh",
       "range": 53,
       "acceleration": 5.3,
-      "price": "$113,984"
+      "price": "$113,984",
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~13.6 sec"
     },
     "Audi|Q5|2025|35 TDI": {
       "cylinders": 4,
@@ -4191,8 +5006,8 @@
       "seats": 5,
       "cargo": 520,
       "fuelTank": 65,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 205,
+      "weight": 1840,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Diesel",
       "displacement": 1968,
@@ -4205,7 +5020,12 @@
       "fh": 4.4,
       "fx": 4.8,
       "acceleration": 9,
-      "price": "$73,400"
+      "price": "$73,400",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.9 sec"
     },
     "Audi|Q5|2025|40 TDI Sport": {
       "cylinders": 4,
@@ -4214,8 +5034,8 @@
       "seats": 5,
       "cargo": 520,
       "fuelTank": 65,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 220,
+      "weight": 1840,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Diesel",
       "displacement": 1968,
@@ -4228,7 +5048,12 @@
       "fh": 5,
       "fx": 5.4,
       "acceleration": 7.6,
-      "price": "$88,930"
+      "price": "$88,930",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.7 sec"
     },
     "Audi|Q5|2025|45 TFSI Sport": {
       "cylinders": 4,
@@ -4237,8 +5062,8 @@
       "seats": 5,
       "cargo": 520,
       "fuelTank": 65,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 235,
+      "weight": 1855,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
@@ -4250,7 +5075,12 @@
       "fh": 7,
       "fx": 8,
       "acceleration": 6.3,
-      "price": "$88,315"
+      "price": "$88,315",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.6 sec"
     },
     "Audi|Q5|2025|45 TFSI S line": {
       "cylinders": 4,
@@ -4259,8 +5089,8 @@
       "seats": 5,
       "cargo": 520,
       "fuelTank": 65,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 235,
+      "weight": 1855,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1984,
@@ -4272,7 +5102,12 @@
       "fh": 7,
       "fx": 8,
       "acceleration": 6.3,
-      "price": "$96,515"
+      "price": "$96,515",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.6 sec"
     },
     "Audi|Q5|2025|55 TFSI e S line": {
       "cylinders": 4,
@@ -4281,8 +5116,8 @@
       "seats": 5,
       "cargo": 520,
       "fuelTank": 65,
-      "topSpeed": null,
-      "weight": null,
+      "topSpeed": 275,
+      "weight": 1855,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo PHEV",
       "displacement": 1984,
@@ -4290,13 +5125,20 @@
       "power": 270,
       "torque": 500,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.3,
+      "fh": 1.6,
       "fx": 2,
       "battery": "17.9 kWh",
       "range": 53,
       "acceleration": 5.3,
-      "price": "$113,984"
+      "price": "$113,984",
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~13.6 sec"
     },
     "Audi|Q4 e-tron|2024|45": {
       "fuelType": "electric",
@@ -4308,9 +5150,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 180,
+      "cargo": 520,
+      "weight": 2130,
       "battery": "82 kWh",
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -4320,7 +5162,13 @@
       "range": 540,
       "acceleration": 6.7,
       "towing": 1000,
-      "price": null
+      "price": null,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~14.9 sec"
     },
     "Audi|Q4 e-tron|2024|55 quattro": {
       "fuelType": "electric",
@@ -4332,9 +5180,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 190,
+      "cargo": 520,
+      "weight": 2130,
       "battery": "82 kWh",
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -4344,7 +5192,13 @@
       "range": 503,
       "acceleration": 5.4,
       "towing": 1200,
-      "price": null
+      "price": null,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.7 sec"
     },
     "Audi|Q4 e-tron|2025|45": {
       "fuelType": "electric",
@@ -4356,9 +5210,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 180,
+      "cargo": 520,
+      "weight": 2130,
       "battery": "82 kWh",
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -4368,7 +5222,13 @@
       "range": 540,
       "acceleration": 6.7,
       "towing": 1000,
-      "price": null
+      "price": null,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~14.9 sec"
     },
     "Audi|Q4 e-tron|2025|55 quattro": {
       "fuelType": "electric",
@@ -4380,9 +5240,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 190,
+      "cargo": 520,
+      "weight": 2130,
       "battery": "82 kWh",
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -4392,7 +5252,13 @@
       "range": 503,
       "acceleration": 5.4,
       "towing": 1200,
-      "price": null
+      "price": null,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.7 sec"
     },
     "Audi|Q4 e-tron|2026|45": {
       "fuelType": "electric",
@@ -4404,9 +5270,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "cargo": null,
-      "weight": null,
+      "weight": 2095,
       "battery": "82 kWh",
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -4416,7 +5282,12 @@
       "range": 531,
       "acceleration": 6.7,
       "towing": 1000,
-      "price": null
+      "price": null,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.9 sec"
     },
     "Audi|Q4 e-tron|2026|55 quattro": {
       "fuelType": "electric",
@@ -4428,9 +5299,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 190,
       "cargo": null,
-      "weight": null,
+      "weight": 2095,
       "battery": "82 kWh",
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -4440,7 +5311,12 @@
       "range": 503,
       "acceleration": 5.4,
       "towing": 1200,
-      "price": null
+      "price": null,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.7 sec"
     },
     "Audi|Q4 Sportback e-tron|2024|45": {
       "fuelType": "electric",
@@ -4452,9 +5328,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 175,
       "cargo": null,
-      "weight": null,
+      "weight": 2235,
       "battery": "82 kWh",
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -4464,7 +5340,12 @@
       "range": 540,
       "acceleration": 6.7,
       "towing": 1000,
-      "price": "$86,500"
+      "price": "$86,500",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.9 sec"
     },
     "Audi|Q4 Sportback e-tron|2024|55 quattro": {
       "fuelType": "electric",
@@ -4476,9 +5357,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 190,
       "cargo": null,
-      "weight": null,
+      "weight": 2235,
       "battery": "82 kWh",
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -4488,7 +5369,12 @@
       "range": 503,
       "acceleration": 5.4,
       "towing": 1200,
-      "price": "$109,500"
+      "price": "$109,500",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.7 sec"
     },
     "Audi|Q4 Sportback e-tron|2025|45": {
       "fuelType": "electric",
@@ -4500,9 +5386,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "cargo": null,
-      "weight": null,
+      "weight": 2235,
       "battery": "82 kWh",
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -4512,7 +5398,12 @@
       "range": 540,
       "acceleration": 6.7,
       "towing": 1000,
-      "price": "$86,500"
+      "price": "$86,500",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.9 sec"
     },
     "Audi|Q4 Sportback e-tron|2025|55 quattro": {
       "fuelType": "electric",
@@ -4524,9 +5415,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 190,
       "cargo": null,
-      "weight": null,
+      "weight": 2235,
       "battery": "82 kWh",
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -4536,7 +5427,12 @@
       "range": 503,
       "acceleration": 5.4,
       "towing": 1200,
-      "price": "$107,500"
+      "price": "$107,500",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.7 sec"
     },
     "Audi|Q4 Sportback e-tron|2026|45": {
       "fuelType": "electric",
@@ -4548,9 +5444,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "cargo": null,
-      "weight": null,
+      "weight": 2185,
       "battery": "82 kWh",
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -4560,7 +5456,12 @@
       "range": 531,
       "acceleration": 6.7,
       "towing": 1000,
-      "price": "$86,500"
+      "price": "$86,500",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~14.9 sec"
     },
     "Audi|Q4 Sportback e-tron|2026|55 quattro": {
       "fuelType": "electric",
@@ -4572,9 +5473,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 190,
       "cargo": null,
-      "weight": null,
+      "weight": 2185,
       "battery": "82 kWh",
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -4584,7 +5485,12 @@
       "range": 503,
       "acceleration": 5.4,
       "towing": 1200,
-      "price": "$99,818"
+      "price": "$99,818",
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.7 sec"
     },
     "Audi|Q8 e-tron|2024|50 quattro": {
       "fuelType": "electric",
@@ -4596,9 +5502,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 185,
+      "cargo": 569,
+      "weight": 2725,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "torque": 664,
@@ -4608,7 +5514,13 @@
       "battery": "89 kWh",
       "range": 405,
       "acceleration": 7,
-      "price": "$139,984"
+      "price": "$139,984",
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~15.2 sec"
     },
     "Audi|Q8 e-tron|2024|55 quattro": {
       "fuelType": "electric",
@@ -4620,9 +5532,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 200,
+      "cargo": 569,
+      "weight": 2725,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "torque": 664,
@@ -4632,7 +5544,13 @@
       "battery": "106 kWh",
       "range": 475,
       "acceleration": 5.6,
-      "price": "$165,984"
+      "price": "$165,984",
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.9 sec"
     },
     "Audi|Q8 e-tron|2024|SQ8": {
       "fuelType": "electric",
@@ -4644,9 +5562,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 215,
+      "cargo": 569,
+      "weight": 2730,
       "engine": "Tri Motor Electric",
       "drivetrain": "AWD",
       "torque": 973,
@@ -4656,7 +5574,13 @@
       "battery": "106 kWh",
       "range": 444,
       "acceleration": 4.5,
-      "price": "$179,984"
+      "price": "$179,984",
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~12.8 sec"
     },
     "Audi|Q8 e-tron|2025|50 quattro": {
       "fuelType": "electric",
@@ -4668,9 +5592,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 185,
+      "cargo": 569,
+      "weight": 2725,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "torque": 664,
@@ -4680,7 +5604,13 @@
       "battery": "89 kWh",
       "range": 411,
       "acceleration": 7,
-      "price": "$140,090"
+      "price": "$140,090",
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~15.2 sec"
     },
     "Audi|Q8 e-tron|2025|55 quattro": {
       "fuelType": "electric",
@@ -4692,9 +5622,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 195,
+      "cargo": 569,
+      "weight": 2725,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "torque": 664,
@@ -4704,7 +5634,13 @@
       "battery": "106 kWh",
       "range": 475,
       "acceleration": 5.6,
-      "price": "$166,090"
+      "price": "$166,090",
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~13.9 sec"
     },
     "Audi|Q8 e-tron|2025|SQ8": {
       "fuelType": "electric",
@@ -4716,9 +5652,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
-      "weight": null,
+      "topSpeed": 215,
+      "cargo": 569,
+      "weight": 2730,
       "engine": "Tri Motor Electric",
       "drivetrain": "AWD",
       "torque": 973,
@@ -4728,7 +5664,13 @@
       "battery": "106 kWh",
       "range": 444,
       "acceleration": 4.5,
-      "price": "$180,090"
+      "price": "$180,090",
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~12.8 sec"
     },
     "Audi|Q8 e-tron Sportback|2024|50 quattro": {
       "fuelType": "electric",
@@ -4740,9 +5682,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "cargo": null,
-      "weight": null,
+      "weight": 2585,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "torque": 664,
@@ -4752,7 +5694,12 @@
       "battery": "89 kWh",
       "range": 405,
       "acceleration": 7,
-      "price": null
+      "price": null,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.2 sec"
     },
     "Audi|Q8 e-tron Sportback|2024|55 quattro": {
       "fuelType": "electric",
@@ -4764,9 +5711,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 195,
       "cargo": null,
-      "weight": null,
+      "weight": 2585,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "torque": 664,
@@ -4776,7 +5723,12 @@
       "battery": "106 kWh",
       "range": 475,
       "acceleration": 5.6,
-      "price": null
+      "price": null,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.9 sec"
     },
     "Audi|Q8 e-tron Sportback|2024|SQ8": {
       "fuelType": "electric",
@@ -4788,9 +5740,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 210,
       "cargo": null,
-      "weight": null,
+      "weight": 2585,
       "engine": "Tri Motor Electric",
       "drivetrain": "AWD",
       "torque": 973,
@@ -4800,7 +5752,12 @@
       "battery": "106 kWh",
       "range": 444,
       "acceleration": 4.5,
-      "price": null
+      "price": null,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~12.8 sec"
     },
     "Audi|Q8 e-tron Sportback|2025|50 quattro": {
       "fuelType": "electric",
@@ -4812,9 +5769,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 180,
       "cargo": null,
-      "weight": null,
+      "weight": 2585,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "torque": 664,
@@ -4824,7 +5781,12 @@
       "battery": "89 kWh",
       "range": 411,
       "acceleration": 7,
-      "price": null
+      "price": null,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.2 sec"
     },
     "Audi|Q8 e-tron Sportback|2025|55 quattro": {
       "fuelType": "electric",
@@ -4836,9 +5798,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 195,
       "cargo": null,
-      "weight": null,
+      "weight": 2585,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "torque": 664,
@@ -4848,7 +5810,12 @@
       "battery": "106 kWh",
       "range": 475,
       "acceleration": 5.6,
-      "price": null
+      "price": null,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.9 sec"
     },
     "Audi|Q8 e-tron Sportback|2025|SQ8": {
       "fuelType": "electric",
@@ -4860,9 +5827,9 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 210,
       "cargo": null,
-      "weight": null,
+      "weight": 2585,
       "engine": "Tri Motor Electric",
       "drivetrain": "AWD",
       "torque": 973,
@@ -4872,11 +5839,16 @@
       "battery": "106 kWh",
       "range": 444,
       "acceleration": 4.5,
-      "price": null
+      "price": null,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~12.8 sec"
     },
     "GWM|Haval H6|2024|Premium": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 8.2,
       "cargo": null,
       "seats": 5,
       "price": null,
@@ -4894,12 +5866,16 @@
       "fx": 7.4,
       "towing": 2000,
       "fuelTank": 61,
-      "weight": null,
-      "accelClaimed": false
+      "weight": 1700,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "GWM|Haval H6|2024|Lux": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 8.2,
       "cargo": null,
       "seats": 5,
       "price": null,
@@ -4917,12 +5893,16 @@
       "fx": 7.4,
       "towing": 2000,
       "fuelTank": 61,
-      "weight": null,
-      "accelClaimed": false
+      "weight": 1700,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "GWM|Haval H6|2024|Vanta": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 8.2,
       "cargo": null,
       "seats": 5,
       "price": null,
@@ -4940,12 +5920,16 @@
       "fx": 7.4,
       "towing": 2000,
       "fuelTank": 61,
-      "weight": null,
-      "accelClaimed": false
+      "weight": 1700,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "GWM|Haval H6|2024|Ultra": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 8.2,
       "cargo": null,
       "seats": 5,
       "price": null,
@@ -4963,11 +5947,15 @@
       "fx": 7.4,
       "towing": 2000,
       "fuelTank": 61,
-      "weight": null,
-      "accelClaimed": false
+      "weight": 1700,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.2 sec"
     },
     "GWM|Haval H6|2024|Lux Hybrid": {
-      "topSpeed": null,
+      "topSpeed": 190,
       "acceleration": 8.3,
       "cargo": null,
       "seats": 5,
@@ -4985,11 +5973,16 @@
       "fh": 6.2,
       "fx": 5.2,
       "towing": 1500,
-      "weight": null,
-      "accelClaimed": true
+      "weight": 1780,
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.3 sec"
     },
     "GWM|Haval H6|2024|Ultra Hybrid": {
-      "topSpeed": null,
+      "topSpeed": 190,
       "acceleration": 8.3,
       "cargo": null,
       "seats": 5,
@@ -5007,13 +6000,18 @@
       "fh": 6.2,
       "fx": 5.2,
       "towing": 1500,
-      "weight": null,
-      "accelClaimed": true
+      "weight": 1780,
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~16.3 sec"
     },
     "GWM|Haval H6|2025|Premium": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 200,
+      "acceleration": 9.9,
+      "cargo": 398,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1998,
@@ -5030,12 +6028,18 @@
       "towing": 2000,
       "fuelTank": 61,
       "price": null,
-      "accelClaimed": false
+      "weight": 1630,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~17.5 sec"
     },
     "GWM|Haval H6|2025|Vanta": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 200,
+      "acceleration": 9.9,
+      "cargo": 398,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1998,
@@ -5052,12 +6056,18 @@
       "towing": 2000,
       "fuelTank": 61,
       "price": null,
-      "accelClaimed": false
+      "weight": 1630,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~17.5 sec"
     },
     "GWM|Haval H6|2025|Lux (150kW)": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 200,
+      "acceleration": 9.9,
+      "cargo": 398,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1998,
@@ -5075,12 +6085,16 @@
       "fuelTank": 61,
       "weight": 1630,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "GWM|Haval H6|2025|Ultra (150kW)": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 200,
+      "acceleration": 9.9,
+      "cargo": 398,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1998,
@@ -5098,12 +6112,16 @@
       "fuelTank": 61,
       "weight": 1630,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "GWM|Haval H6|2025|Ultra AWD (150kW)": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 200,
+      "acceleration": 9.6,
+      "cargo": 398,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1998,
@@ -5120,12 +6138,18 @@
       "towing": 2000,
       "fuelTank": 61,
       "price": null,
-      "accelClaimed": false
+      "weight": 1630,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~17.3 sec"
     },
     "GWM|Haval H6|2025|Lux": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 190,
+      "acceleration": 8.8,
+      "cargo": 398,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1998,
@@ -5136,19 +6160,25 @@
       "torque": 380,
       "transmission": "9-speed dual-clutch",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 9.3,
+      "fh": 5.1,
       "fx": 7.4,
       "towing": 2000,
       "fuelTank": 61,
       "weight": 1630,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "GWM|Haval H6|2025|Ultra": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 190,
+      "acceleration": 8.8,
+      "cargo": 398,
       "seats": 5,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1998,
@@ -5159,19 +6189,25 @@
       "torque": 380,
       "transmission": "9-speed dual-clutch",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 9.3,
+      "fh": 5.1,
       "fx": 7.4,
       "towing": 2000,
       "fuelTank": 61,
       "weight": 1630,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "GWM|Haval H6|2025|Lux Hybrid": {
-      "topSpeed": null,
+      "topSpeed": 195,
       "acceleration": 8.3,
-      "cargo": null,
+      "cargo": 398,
       "seats": 5,
       "engine": "1.5L I4 Turbo Hybrid",
       "displacement": 1499,
@@ -5187,12 +6223,19 @@
       "fx": 5.2,
       "towing": 1500,
       "price": null,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1630,
+      "est": [
+        "weight",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~16.3 sec"
     },
     "GWM|Haval H6|2025|Ultra Hybrid": {
-      "topSpeed": null,
+      "topSpeed": 190,
       "acceleration": 8.3,
-      "cargo": null,
+      "cargo": 398,
       "seats": 5,
       "engine": "1.5L I4 Turbo Hybrid",
       "displacement": 1499,
@@ -5209,12 +6252,17 @@
       "towing": 1500,
       "weight": 1720,
       "price": null,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "GWM|Haval H6|2025|Lux PHEV": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 205,
+      "acceleration": 7.5,
+      "cargo": 398,
       "seats": 5,
       "engine": "1.5L I4 Turbo PHEV",
       "displacement": 1499,
@@ -5225,20 +6273,26 @@
       "torque": 540,
       "transmission": "2-speed DHT",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.1,
+      "fh": 0.9,
       "fx": 1,
       "towing": 1500,
       "battery": "19.1 kWh",
       "range": 106,
       "weight": 1895,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "GWM|Haval H6|2025|Ultra PHEV": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 205,
+      "acceleration": 7.5,
+      "cargo": 398,
       "seats": 5,
       "engine": "1.5L I4 Turbo PHEV",
       "displacement": 1499,
@@ -5249,20 +6303,26 @@
       "torque": 540,
       "transmission": "2-speed DHT",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.1,
+      "fh": 0.9,
       "fx": 1,
       "towing": 1500,
       "battery": "19.1 kWh",
       "range": 106,
       "weight": 1895,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "GWM|Haval H6|2025|Ultra PHEV AWD": {
-      "topSpeed": null,
+      "topSpeed": 215,
       "acceleration": 4.8,
-      "cargo": null,
+      "cargo": 398,
       "seats": 5,
       "engine": "1.5L I4 Turbo PHEV",
       "displacement": 1499,
@@ -5273,19 +6333,26 @@
       "torque": 760,
       "transmission": "6-speed automatic",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.3,
+      "fh": 0.9,
       "fx": 1.1,
       "towing": 1500,
       "battery": "19.1 kWh",
       "range": 100,
       "weight": 1980,
       "price": null,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ]
     },
     "GWM|Haval H6|2026|Lux": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 9.1,
       "cargo": null,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1998,
@@ -5296,19 +6363,24 @@
       "torque": 380,
       "transmission": "9-speed dual-clutch",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 9.3,
+      "fh": 5.1,
       "fx": 7.4,
       "weight": 1630,
       "seats": 5,
       "towing": 2000,
       "fuelTank": 61,
       "price": "$34,490",
-      "accelClaimed": false
+      "quarterMile": "~17.0 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Haval H6|2026|Ultra": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 9.1,
       "cargo": null,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1998,
@@ -5319,18 +6391,23 @@
       "torque": 380,
       "transmission": "9-speed dual-clutch",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 9.3,
+      "fh": 5.1,
       "fx": 7.4,
       "weight": 1630,
       "seats": 5,
       "towing": 2000,
       "fuelTank": 61,
       "price": "$37,490",
-      "accelClaimed": false
+      "quarterMile": "~17.0 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Haval H6|2026|Lux Hybrid": {
-      "topSpeed": null,
+      "topSpeed": 190,
       "acceleration": 8.3,
       "cargo": null,
       "engine": "1.5L I4 Turbo Hybrid",
@@ -5349,10 +6426,14 @@
       "towing": 1500,
       "weight": 1690,
       "price": "$39,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "GWM|Haval H6|2026|Ultra Hybrid": {
-      "topSpeed": null,
+      "topSpeed": 190,
       "acceleration": 8.3,
       "cargo": null,
       "engine": "1.5L I4 Turbo Hybrid",
@@ -5371,11 +6452,15 @@
       "towing": 1500,
       "weight": 1720,
       "price": "$42,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "GWM|Haval H6|2026|Lux PHEV": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 210,
+      "acceleration": 7.7,
       "cargo": null,
       "engine": "1.5L I4 Turbo PHEV",
       "displacement": 1499,
@@ -5386,8 +6471,8 @@
       "torque": 540,
       "transmission": "2-speed DHT",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.1,
+      "fh": 0.9,
       "fx": 1,
       "seats": 5,
       "towing": 1500,
@@ -5395,11 +6480,16 @@
       "range": 106,
       "weight": 1895,
       "price": "$43,490",
-      "accelClaimed": false
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Haval H6|2026|Ultra PHEV": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 210,
+      "acceleration": 7.7,
       "cargo": null,
       "engine": "1.5L I4 Turbo PHEV",
       "displacement": 1499,
@@ -5410,8 +6500,8 @@
       "torque": 540,
       "transmission": "2-speed DHT",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.1,
+      "fh": 0.9,
       "fx": 1,
       "seats": 5,
       "towing": 1500,
@@ -5419,7 +6509,12 @@
       "range": 106,
       "weight": 1895,
       "price": "$46,490",
-      "accelClaimed": false
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Haval Jolion|2024|HEV": {
       "engine": "1.5T HEV I4 + Electric",
@@ -5441,7 +6536,8 @@
       "acceleration": 8.5,
       "topSpeed": 170,
       "price": "~$36,990",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~16.5 sec"
     },
     "GWM|Haval Jolion|2024|Hybrid Ultra": {
       "engine": "1.5L Turbo + Electric",
@@ -5461,7 +6557,8 @@
       "seats": 5,
       "price": "~$37,390",
       "aspiration": "BorgWarner Single-Turbo",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~16.5 sec"
     },
     "GWM|Haval Jolion|2024|Lux": {
       "engine": "1.5L I4 Turbo",
@@ -5506,7 +6603,8 @@
       "acceleration": 7.8,
       "topSpeed": 175,
       "price": "~$39,990",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~15.9 sec"
     },
     "GWM|Haval Jolion|2024|Premium": {
       "engine": "4B15A 1.5T I4",
@@ -5528,7 +6626,8 @@
       "acceleration": 10.5,
       "topSpeed": 175,
       "price": "~$28,990",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~17.9 sec"
     },
     "GWM|Haval Jolion|2024|Standard": {
       "engine": "4B15A 1.5T I4",
@@ -5550,7 +6649,8 @@
       "acceleration": 10.5,
       "topSpeed": 175,
       "price": "~$24,990",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~17.9 sec"
     },
     "GWM|Haval Jolion|2024|Ultra": {
       "engine": "4B15A 1.5T I4",
@@ -5572,11 +6672,12 @@
       "acceleration": 10.5,
       "topSpeed": 175,
       "price": "~$33,990",
-      "accelClaimed": false
+      "accelClaimed": false,
+      "quarterMile": "~17.9 sec"
     },
     "GWM|Haval Jolion|2025|Premium": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 10.5,
       "cargo": 337,
       "seats": 5,
       "engine": "1.5L I4 Turbo Petrol",
@@ -5586,8 +6687,8 @@
       "fuelType": "petrol",
       "transmission": "7-speed dual-clutch",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 8.4,
+      "fh": 4.6,
       "towing": 1500,
       "fuelTank": 55,
       "price": null,
@@ -5595,11 +6696,16 @@
       "torque": 210,
       "fx": 6.7,
       "weight": 1410,
-      "accelClaimed": false
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Haval Jolion|2025|Lux": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 10.5,
       "cargo": 337,
       "seats": 5,
       "engine": "1.5L I4 Turbo Petrol",
@@ -5609,8 +6715,8 @@
       "fuelType": "petrol",
       "transmission": "7-speed dual-clutch",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 8.4,
+      "fh": 4.6,
       "towing": 1500,
       "fuelTank": 55,
       "price": null,
@@ -5618,11 +6724,16 @@
       "torque": 210,
       "fx": 6.7,
       "weight": 1410,
-      "accelClaimed": false
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Haval Jolion|2025|Ultra": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 9.2,
       "cargo": 337,
       "seats": 5,
       "engine": "1.5L I4 Turbo Petrol",
@@ -5641,11 +6752,14 @@
       "torque": 270,
       "weight": 1520,
       "fx": 7.5,
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "GWM|Haval Jolion|2025|Vanta": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 9.2,
       "cargo": 337,
       "seats": 5,
       "engine": "1.5L I4 Turbo Petrol",
@@ -5655,8 +6769,8 @@
       "fuelType": "petrol",
       "transmission": "7-speed dual-clutch",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 8.1,
+      "fh": 4.5,
       "towing": 1500,
       "fuelTank": 55,
       "price": null,
@@ -5664,11 +6778,16 @@
       "torque": 270,
       "weight": 1520,
       "fx": 6.5,
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Haval Jolion|2025|Premium Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 8.2,
       "cargo": 337,
       "seats": 5,
       "engine": "1.5L I4 Hybrid",
@@ -5678,8 +6797,8 @@
       "fuelType": "hybrid",
       "transmission": "2-speed DHT",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.5,
+      "fh": 3.9,
       "towing": 1300,
       "fuelTank": 55,
       "price": null,
@@ -5687,11 +6806,16 @@
       "torque": 375,
       "fx": 4.8,
       "weight": 1575,
-      "accelClaimed": false
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Haval Jolion|2025|Lux Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 8.4,
       "cargo": 337,
       "seats": 5,
       "engine": "1.5L I4 Hybrid",
@@ -5710,11 +6834,14 @@
       "torque": 375,
       "fx": 5.1,
       "weight": 1620,
-      "accelClaimed": false
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "GWM|Haval Jolion|2025|Ultra Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 8.4,
       "cargo": 337,
       "seats": 5,
       "engine": "1.5L I4 Hybrid",
@@ -5733,11 +6860,14 @@
       "torque": 375,
       "fx": 5.1,
       "weight": 1620,
-      "accelClaimed": false
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "GWM|Haval Jolion|2025|Vanta Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 8.2,
       "cargo": 337,
       "seats": 5,
       "engine": "1.5L I4 Hybrid",
@@ -5747,8 +6877,8 @@
       "fuelType": "hybrid",
       "transmission": "2-speed DHT",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.5,
+      "fh": 3.9,
       "towing": 1300,
       "fuelTank": 55,
       "price": null,
@@ -5756,11 +6886,16 @@
       "torque": 375,
       "fx": 4.8,
       "weight": 1575,
-      "accelClaimed": false
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Haval Jolion|2026|Premium": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 10.5,
       "cargo": 337,
       "engine": "1.5L I4 Turbo Petrol",
       "displacement": 1497,
@@ -5769,8 +6904,8 @@
       "fuelType": "petrol",
       "transmission": "7-speed dual-clutch",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 8.4,
+      "fh": 4.6,
       "seats": 5,
       "towing": 1500,
       "fuelTank": 55,
@@ -5779,11 +6914,16 @@
       "fx": 6.7,
       "weight": 1410,
       "price": "$25,790",
-      "accelClaimed": false
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Haval Jolion|2026|Vanta": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 170,
+      "acceleration": 9.2,
       "cargo": 337,
       "engine": "1.5L I4 Turbo Petrol",
       "displacement": 1497,
@@ -5792,8 +6932,8 @@
       "fuelType": "petrol",
       "transmission": "7-speed dual-clutch",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 8.1,
+      "fh": 4.5,
       "seats": 5,
       "towing": 1500,
       "fuelTank": 55,
@@ -5802,11 +6942,16 @@
       "fx": 6.5,
       "weight": 1520,
       "price": "$32,490",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Haval Jolion|2026|Premium Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 8.2,
       "cargo": 337,
       "engine": "1.5L I4 Hybrid",
       "displacement": 1497,
@@ -5815,8 +6960,8 @@
       "fuelType": "hybrid",
       "transmission": "2-speed DHT",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.5,
+      "fh": 3.9,
       "seats": 5,
       "towing": 1300,
       "fuelTank": 55,
@@ -5824,12 +6969,17 @@
       "torque": 375,
       "fx": 4.8,
       "price": "$31,790",
-      "accelClaimed": false,
-      "weight": 1575
+      "weight": 1575,
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Haval Jolion|2026|Lux Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 8.2,
       "cargo": 337,
       "engine": "1.5L I4 Hybrid",
       "displacement": 1497,
@@ -5838,8 +6988,8 @@
       "fuelType": "hybrid",
       "transmission": "2-speed DHT",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.5,
+      "fh": 3.9,
       "seats": 5,
       "towing": 1300,
       "fuelTank": 55,
@@ -5848,11 +6998,16 @@
       "fx": 4.8,
       "weight": 1575,
       "price": "$34,790",
-      "accelClaimed": false
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Haval Jolion|2026|Ultra Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 8.2,
       "cargo": 337,
       "engine": "1.5L I4 Hybrid",
       "displacement": 1497,
@@ -5861,8 +7016,8 @@
       "fuelType": "hybrid",
       "transmission": "2-speed DHT",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.5,
+      "fh": 3.9,
       "seats": 5,
       "towing": 1300,
       "fuelTank": 55,
@@ -5871,11 +7026,16 @@
       "fx": 4.8,
       "weight": 1575,
       "price": "$37,490",
-      "accelClaimed": false
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "GWM|Haval Jolion|2026|Vanta Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 8.2,
       "cargo": 337,
       "engine": "1.5L I4 Hybrid",
       "displacement": 1497,
@@ -5884,8 +7044,8 @@
       "fuelType": "hybrid",
       "transmission": "2-speed DHT",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.5,
+      "fh": 3.9,
       "seats": 5,
       "towing": 1300,
       "fuelTank": 55,
@@ -5893,8 +7053,13 @@
       "torque": 375,
       "fx": 4.8,
       "price": "$38,490",
-      "accelClaimed": false,
-      "weight": 1575
+      "weight": 1575,
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "MG|MG3|2024|Core": {
       "engine": "1.5L I4 Petrol",
@@ -5912,11 +7077,15 @@
       "seats": 5,
       "cargo": 307,
       "fuelTank": 45,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 1200,
+      "topSpeed": 170,
+      "acceleration": 13,
       "price": "$18,490",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~19.4 sec"
     },
     "MG|MG3|2024|Core Nav": {
       "engine": "1.5L I4 Petrol",
@@ -5934,11 +7103,15 @@
       "seats": 5,
       "cargo": 307,
       "fuelTank": 45,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 1200,
+      "topSpeed": 170,
+      "acceleration": 13,
       "price": "$18,990",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~19.4 sec"
     },
     "MG|MG3|2024|Excite (old shape)": {
       "engine": "1.5L I4 Petrol",
@@ -5956,15 +7129,19 @@
       "seats": 5,
       "cargo": 307,
       "fuelTank": 45,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 1200,
+      "topSpeed": 170,
+      "acceleration": 13,
       "price": "$19,990",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~19.4 sec"
     },
     "MG|MG3|2024|Excite": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 13.3,
+      "topSpeed": 170,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Petrol",
@@ -5980,11 +7157,16 @@
       "fx": 6,
       "weight": 1199,
       "price": "$23,990",
-      "accelClaimed": false
+      "quarterMile": "~19.5 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ],
+      "cargo": 307
     },
     "MG|MG3|2024|Essence": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 13.3,
+      "topSpeed": 170,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Petrol",
@@ -6000,11 +7182,16 @@
       "fx": 6,
       "weight": 1199,
       "price": "$25,990",
-      "accelClaimed": false
+      "quarterMile": "~19.5 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ],
+      "cargo": 307
     },
     "MG|MG3|2024|Excite Hybrid+": {
       "acceleration": 8,
-      "topSpeed": null,
+      "topSpeed": 210,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Hybrid",
@@ -6012,19 +7199,28 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 155,
-      "torque": null,
+      "torque": 305,
       "transmission": "3-speed automatic",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 4.9,
+      "fh": 3.6,
       "fx": 4.3,
       "weight": 1298,
       "price": "$27,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~16.1 sec",
+      "cargo": 307
     },
     "MG|MG3|2024|Essence Hybrid+": {
       "acceleration": 8,
-      "topSpeed": null,
+      "topSpeed": 210,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Hybrid",
@@ -6032,19 +7228,28 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 155,
-      "torque": null,
+      "torque": 305,
       "transmission": "3-speed automatic",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 4.9,
+      "fh": 3.6,
       "fx": 4.3,
       "weight": 1308,
       "price": "$29,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~16.1 sec",
+      "cargo": 307
     },
     "MG|MG3|2025|Vibe": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 13.3,
+      "topSpeed": 170,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Petrol",
@@ -6060,11 +7265,16 @@
       "fx": 6,
       "weight": 1199,
       "price": null,
-      "accelClaimed": false
+      "quarterMile": "~19.5 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ],
+      "cargo": 307
     },
     "MG|MG3|2025|Excite": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 13.3,
+      "topSpeed": 170,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Petrol",
@@ -6080,11 +7290,16 @@
       "fx": 6,
       "weight": 1199,
       "price": "$23,990",
-      "accelClaimed": false
+      "quarterMile": "~19.5 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ],
+      "cargo": 307
     },
     "MG|MG3|2025|Essence": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 13.3,
+      "topSpeed": 170,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Petrol",
@@ -6100,11 +7315,16 @@
       "fx": 6,
       "weight": 1199,
       "price": "$25,990",
-      "accelClaimed": false
+      "quarterMile": "~19.5 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ],
+      "cargo": 307
     },
     "MG|MG3|2025|Excite Hybrid+": {
       "acceleration": 8,
-      "topSpeed": null,
+      "topSpeed": 210,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Hybrid",
@@ -6112,19 +7332,28 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 155,
-      "torque": null,
+      "torque": 305,
       "transmission": "3-speed automatic",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 4.9,
+      "fh": 3.6,
       "fx": 4.3,
       "weight": 1298,
       "price": "$27,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~16.1 sec",
+      "cargo": 307
     },
     "MG|MG3|2025|Essence Hybrid+": {
       "acceleration": 8,
-      "topSpeed": null,
+      "topSpeed": 210,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Hybrid",
@@ -6132,19 +7361,28 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 155,
-      "torque": null,
+      "torque": 305,
       "transmission": "3-speed automatic",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 4.9,
+      "fh": 3.6,
       "fx": 4.3,
       "weight": 1308,
       "price": "$29,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~16.1 sec",
+      "cargo": 307
     },
     "MG|MG3|2026|Vibe": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 13.3,
+      "topSpeed": 170,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Petrol",
@@ -6160,11 +7398,16 @@
       "fx": 6,
       "weight": 1199,
       "price": "$21,990",
-      "accelClaimed": false
+      "quarterMile": "~19.5 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ],
+      "cargo": 307
     },
     "MG|MG3|2026|Excite": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 13.3,
+      "topSpeed": 170,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Petrol",
@@ -6180,11 +7423,16 @@
       "fx": 6,
       "weight": 1199,
       "price": "$23,990",
-      "accelClaimed": false
+      "quarterMile": "~19.5 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ],
+      "cargo": 307
     },
     "MG|MG3|2026|Essence": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 13.3,
+      "topSpeed": 170,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Petrol",
@@ -6200,11 +7448,16 @@
       "fx": 6,
       "weight": 1199,
       "price": "$25,990",
-      "accelClaimed": false
+      "quarterMile": "~19.5 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ],
+      "cargo": 307
     },
     "MG|MG3|2026|Excite Hybrid+": {
       "acceleration": 8,
-      "topSpeed": null,
+      "topSpeed": 215,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Hybrid",
@@ -6212,19 +7465,28 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 155,
-      "torque": null,
+      "torque": 305,
       "transmission": "3-speed automatic",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 4.9,
+      "fh": 3.6,
       "fx": 4.3,
       "weight": 1298,
       "price": "$26,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~16.1 sec",
+      "cargo": 307
     },
     "MG|MG3|2026|Essence Hybrid+": {
       "acceleration": 8,
-      "topSpeed": null,
+      "topSpeed": 210,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Hybrid",
@@ -6232,21 +7494,30 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 155,
-      "torque": null,
+      "torque": 305,
       "transmission": "3-speed automatic",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 4.9,
+      "fh": 3.6,
       "fx": 4.3,
       "weight": 1308,
       "price": "$29,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~16.1 sec",
+      "cargo": 307
     },
     "MG|ZS|2024|Excite": {
       "seats": 5,
       "drivetrain": "FWD",
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 165,
+      "acceleration": 11.9,
       "cylinders": 4,
       "displacement": 1498,
       "aspiration": "Naturally Aspirated",
@@ -6260,14 +7531,18 @@
       "fx": 7.1,
       "cargo": 359,
       "fuelTank": 48,
-      "weight": null,
+      "weight": 1410,
       "price": "$22,990",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.7 sec"
     },
     "MG|ZS|2024|Excite Hybrid+": {
       "seats": 5,
       "drivetrain": "FWD",
-      "topSpeed": null,
+      "topSpeed": 220,
       "acceleration": 8.7,
       "cylinders": 4,
       "displacement": 1498,
@@ -6275,21 +7550,28 @@
       "engine": "1.5L I4 Petrol Hybrid",
       "fuelType": "hybrid",
       "power": 158,
-      "torque": null,
+      "torque": 310,
       "transmission": "3-speed automatic",
-      "fc": null,
-      "fh": null,
+      "fc": 5.4,
+      "fh": 3.8,
       "fx": 4.7,
       "cargo": 443,
       "fuelTank": 41,
       "price": null,
       "weight": 1410,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "MG|ZS|2024|Essence Hybrid+": {
       "seats": 5,
       "drivetrain": "FWD",
-      "topSpeed": null,
+      "topSpeed": 220,
       "acceleration": 8.7,
       "cylinders": 4,
       "displacement": 1498,
@@ -6297,20 +7579,27 @@
       "engine": "1.5L I4 Petrol Hybrid",
       "fuelType": "hybrid",
       "power": 158,
-      "torque": null,
+      "torque": 310,
       "transmission": "3-speed automatic",
-      "fc": null,
-      "fh": null,
+      "fc": 5.4,
+      "fh": 3.8,
       "fx": 4.7,
       "cargo": 443,
       "fuelTank": 41,
       "price": null,
       "weight": 1420,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "MG|ZS|2025|Vibe": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 14.6,
+      "topSpeed": 170,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Petrol",
@@ -6329,11 +7618,14 @@
       "cargo": 443,
       "price": null,
       "weight": 1295,
-      "accelClaimed": false
+      "quarterMile": "~20.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "MG|ZS|2025|Excite": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 14.6,
+      "topSpeed": 170,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Petrol",
@@ -6352,11 +7644,14 @@
       "cargo": 443,
       "price": null,
       "weight": 1295,
-      "accelClaimed": false
+      "quarterMile": "~20.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "MG|ZS|2025|Essence": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 15,
+      "topSpeed": 170,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Petrol",
@@ -6375,11 +7670,14 @@
       "cargo": 443,
       "price": null,
       "weight": 1330,
-      "accelClaimed": false
+      "quarterMile": "~20.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "MG|ZS|2025|Vibe Turbo": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10,
+      "topSpeed": 200,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Turbo Petrol",
@@ -6398,11 +7696,14 @@
       "cargo": 443,
       "price": null,
       "weight": 1390,
-      "accelClaimed": false
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "MG|ZS|2025|Essence Turbo": {
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10,
+      "topSpeed": 200,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Turbo Petrol",
@@ -6421,11 +7722,14 @@
       "cargo": 443,
       "price": null,
       "weight": 1390,
-      "accelClaimed": false
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "MG|ZS|2025|Excite Hybrid+": {
       "acceleration": 8.7,
-      "topSpeed": null,
+      "topSpeed": 220,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Hybrid",
@@ -6433,22 +7737,29 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 158,
-      "torque": null,
+      "torque": 310,
       "transmission": "3-speed automatic",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.4,
+      "fh": 3.8,
       "fx": 4.7,
       "towing": 500,
       "fuelTank": 55,
       "cargo": 443,
       "price": null,
       "weight": 1410,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "MG|ZS|2025|Essence Hybrid+": {
       "acceleration": 8.7,
-      "topSpeed": null,
+      "topSpeed": 220,
       "seats": 5,
       "cylinders": 4,
       "engine": "1.5L I4 Hybrid",
@@ -6456,18 +7767,25 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 158,
-      "torque": null,
+      "torque": 310,
       "transmission": "3-speed automatic",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.4,
+      "fh": 3.8,
       "fx": 4.7,
       "towing": 500,
       "fuelTank": 55,
       "cargo": 443,
       "price": null,
       "weight": 1420,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "MG|ZS|2026|Vibe": {
       "engine": "1.5L I4 Petrol",
@@ -6481,8 +7799,8 @@
       "towing": 500,
       "fuelTank": 55,
       "cargo": 443,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 14.6,
+      "topSpeed": 170,
       "power": 81,
       "torque": 140,
       "fc": 8.5,
@@ -6490,7 +7808,10 @@
       "fx": 6.7,
       "weight": 1295,
       "price": "$23,990",
-      "accelClaimed": false
+      "quarterMile": "~20.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "MG|ZS|2026|Excite Turbo": {
       "engine": "1.5L I4 Turbo Petrol",
@@ -6504,8 +7825,8 @@
       "towing": 500,
       "fuelTank": 55,
       "cargo": 443,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10,
+      "topSpeed": 200,
       "power": 125,
       "torque": 275,
       "fc": 9.4,
@@ -6513,7 +7834,10 @@
       "fx": 6.9,
       "weight": 1390,
       "price": "$24,990",
-      "accelClaimed": false
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "MG|ZS|2026|Vibe Turbo": {
       "engine": "1.5L I4 Turbo Petrol",
@@ -6527,8 +7851,8 @@
       "towing": 500,
       "fuelTank": 55,
       "cargo": 443,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10,
+      "topSpeed": 200,
       "power": 125,
       "torque": 275,
       "fc": 9.4,
@@ -6536,7 +7860,10 @@
       "fx": 6.9,
       "weight": 1390,
       "price": "$25,990",
-      "accelClaimed": false
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "MG|ZS|2026|Essence Turbo": {
       "engine": "1.5L I4 Turbo Petrol",
@@ -6550,8 +7877,8 @@
       "towing": 500,
       "fuelTank": 55,
       "cargo": 443,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10,
+      "topSpeed": 200,
       "power": 125,
       "torque": 275,
       "fc": 9.4,
@@ -6559,7 +7886,10 @@
       "fx": 6.9,
       "weight": 1390,
       "price": "$29,990",
-      "accelClaimed": false
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "MG|ZS|2026|Excite Hybrid+": {
       "engine": "1.5L I4 Hybrid",
@@ -6574,15 +7904,22 @@
       "fuelTank": 55,
       "cargo": 443,
       "acceleration": 8.7,
-      "topSpeed": null,
+      "topSpeed": 215,
       "power": 158,
-      "torque": null,
-      "fc": null,
-      "fh": null,
+      "torque": 310,
+      "fc": 5.4,
+      "fh": 3.8,
       "fx": 4.7,
       "weight": 1410,
       "price": "$30,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "MG|ZS|2026|Essence Hybrid+": {
       "engine": "1.5L I4 Hybrid",
@@ -6597,15 +7934,22 @@
       "fuelTank": 55,
       "cargo": 443,
       "acceleration": 8.7,
-      "topSpeed": null,
+      "topSpeed": 215,
       "power": 158,
-      "torque": null,
-      "fc": null,
-      "fh": null,
+      "torque": 310,
+      "fc": 5.4,
+      "fh": 3.8,
       "fx": 4.7,
       "weight": 1420,
       "price": "$34,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~16.7 sec"
     },
     "MG|MG4|2024|Excite 51": {
       "fuelType": "electric",
@@ -6617,8 +7961,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 150,
+      "cargo": 350,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 125,
@@ -6628,7 +7972,12 @@
       "acceleration": 7.7,
       "weight": 1655,
       "price": "$39,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "MG|MG4|2024|Excite 64": {
       "fuelType": "electric",
@@ -6640,8 +7989,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 165,
+      "cargo": 350,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 150,
@@ -6651,7 +8000,12 @@
       "acceleration": 7.2,
       "weight": 1648,
       "price": "$44,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "MG|MG4|2024|Essence 64": {
       "fuelType": "electric",
@@ -6663,8 +8017,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 160,
+      "cargo": 350,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 150,
@@ -6674,7 +8028,12 @@
       "acceleration": 7.2,
       "weight": 1672,
       "price": "$46,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "MG|MG4|2024|Long Range 77": {
       "fuelType": "electric",
@@ -6686,8 +8045,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 170,
+      "cargo": 350,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 180,
@@ -6697,7 +8056,12 @@
       "acceleration": 6.5,
       "weight": 1748,
       "price": "$52,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "MG|MG4|2024|XPOWER": {
       "fuelType": "electric",
@@ -6709,8 +8073,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 205,
+      "cargo": 350,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 300,
@@ -6720,7 +8084,12 @@
       "acceleration": 3.8,
       "weight": 1800,
       "price": "$59,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "MG|MG4|2025|Excite 51": {
       "fuelType": "electric",
@@ -6732,8 +8101,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 150,
+      "cargo": 350,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 125,
@@ -6743,7 +8112,12 @@
       "acceleration": 7.7,
       "weight": 1655,
       "price": "$37,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "MG|MG4|2025|Essence 64 (140kW)": {
       "fuelType": "electric",
@@ -6755,8 +8129,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 155,
+      "cargo": 350,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 140,
@@ -6766,7 +8140,12 @@
       "acceleration": 7.5,
       "weight": 1765,
       "price": null,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "MG|MG4|2025|Essence 64": {
       "fuelType": "electric",
@@ -6778,8 +8157,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 160,
+      "cargo": 350,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 150,
@@ -6789,7 +8168,12 @@
       "acceleration": 7.2,
       "weight": 1672,
       "price": "$44,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.4 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "MG|MG4|2025|Long Range 77": {
       "fuelType": "electric",
@@ -6801,8 +8185,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 170,
+      "cargo": 350,
       "engine": "Single Motor Electric",
       "drivetrain": "RWD",
       "power": 180,
@@ -6812,7 +8196,12 @@
       "acceleration": 6.5,
       "weight": 1748,
       "price": "$50,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "MG|MG4|2025|XPOWER": {
       "fuelType": "electric",
@@ -6824,8 +8213,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 205,
+      "cargo": 350,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
       "power": 300,
@@ -6835,7 +8224,12 @@
       "acceleration": 3.8,
       "weight": 1800,
       "price": "$55,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "MG|MG4|2026|Essence 64": {
       "topSpeed": 180,
@@ -6858,12 +8252,13 @@
       "range": 452,
       "weight": 1765,
       "price": "$36,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.6 sec"
     },
     "MG|MG4|2026|XPOWER": {
       "topSpeed": 200,
       "acceleration": 3.8,
-      "cargo": null,
+      "cargo": 350,
       "engine": "Dual-Motor Electric",
       "displacement": null,
       "cylinders": null,
@@ -6881,7 +8276,11 @@
       "range": 405,
       "weight": 1810,
       "price": "$55,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "MG|Cyberster|2024|AWD": {
       "fuelType": "electric",
@@ -6904,7 +8303,8 @@
       "acceleration": 3.2,
       "topSpeed": 208,
       "weight": 1985,
-      "price": "$115,000"
+      "price": "$115,000",
+      "quarterMile": "~11.3 sec"
     },
     "MG|Cyberster|2025|RWD": {
       "fuelType": "electric",
@@ -6927,7 +8327,8 @@
       "acceleration": 5.2,
       "topSpeed": 199,
       "weight": 1885,
-      "price": "$99,900"
+      "price": "$99,900",
+      "quarterMile": "~13.5 sec"
     },
     "MG|Cyberster|2025|AWD": {
       "fuelType": "electric",
@@ -6950,7 +8351,8 @@
       "acceleration": 3.2,
       "topSpeed": 208,
       "weight": 1985,
-      "price": "$115,000"
+      "price": "$115,000",
+      "quarterMile": "~11.3 sec"
     },
     "MG|Cyberster|2026|RWD": {
       "fuelType": "electric",
@@ -6973,7 +8375,8 @@
       "acceleration": 5.2,
       "topSpeed": 199,
       "weight": 1885,
-      "price": "$99,900"
+      "price": "$99,900",
+      "quarterMile": "~13.5 sec"
     },
     "MG|Cyberster|2026|AWD": {
       "fuelType": "electric",
@@ -6996,11 +8399,12 @@
       "acceleration": 3.2,
       "topSpeed": 208,
       "weight": 1985,
-      "price": "$115,000"
+      "price": "$115,000",
+      "quarterMile": "~11.3 sec"
     },
     "MG|HS|2026|Vibe": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 9.4,
       "cargo": 507,
       "engine": "1.5L I4 Turbo Petrol",
       "displacement": 1498,
@@ -7019,11 +8423,14 @@
       "fuelTank": 55,
       "weight": 1585,
       "price": "$33,990",
-      "accelClaimed": false
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "MG|HS|2026|Excite": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 9.6,
       "cargo": 507,
       "engine": "1.5L I4 Turbo Petrol",
       "displacement": 1498,
@@ -7041,11 +8448,16 @@
       "towing": 1500,
       "fuelTank": 55,
       "price": "$36,990",
-      "accelClaimed": false
+      "weight": 1630,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.3 sec"
     },
     "MG|HS|2026|Essence": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 9.6,
       "cargo": 507,
       "engine": "1.5L I4 Turbo Petrol",
       "displacement": 1498,
@@ -7064,11 +8476,14 @@
       "fuelTank": 55,
       "weight": 1630,
       "price": "$39,990",
-      "accelClaimed": false
+      "quarterMile": "~17.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "MG|HS|2026|Hybrid+ Excite": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 205,
+      "acceleration": 8.1,
       "cargo": 507,
       "engine": "1.5L I4 Hybrid",
       "displacement": 1498,
@@ -7088,11 +8503,14 @@
       "battery": "1.8 kWh",
       "weight": 1690,
       "price": "$40,990",
-      "accelClaimed": false
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "MG|HS|2026|Hybrid+ Essence": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 205,
+      "acceleration": 8.2,
       "cargo": 507,
       "engine": "1.5L I4 Hybrid",
       "displacement": 1498,
@@ -7112,11 +8530,14 @@
       "battery": "1.8 kWh",
       "weight": 1720,
       "price": "$44,990",
-      "accelClaimed": false
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "MG|HS|2026|Super Hybrid Excite": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 215,
+      "acceleration": 6.5,
       "cargo": 507,
       "engine": "1.5L I4 PHEV",
       "displacement": 1498,
@@ -7127,8 +8548,8 @@
       "torque": 350,
       "transmission": "3-speed DHT",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 0.8,
+      "fh": 0.6,
       "fx": 0.7,
       "seats": 5,
       "towing": 1500,
@@ -7137,11 +8558,16 @@
       "range": 135,
       "weight": 1854,
       "price": "$48,990",
-      "accelClaimed": false
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "MG|HS|2026|Super Hybrid Essence": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 210,
+      "acceleration": 6.7,
       "cargo": 507,
       "engine": "1.5L I4 PHEV",
       "displacement": 1498,
@@ -7152,8 +8578,8 @@
       "torque": 350,
       "transmission": "3-speed DHT",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 0.8,
+      "fh": 0.6,
       "fx": 0.7,
       "seats": 5,
       "towing": 1500,
@@ -7162,7 +8588,12 @@
       "range": 135,
       "weight": 1904,
       "price": "$52,990",
-      "accelClaimed": false
+      "quarterMile": "~14.9 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     }
   }
 }

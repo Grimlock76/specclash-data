@@ -13,13 +13,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.5,
+      "fh": 8.1,
+      "fx": 11.6,
       "ft": "Petrol",
       "acceleration": 3.8,
       "topSpeed": 260,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M12 GTO|2001|3R": {
       "engine": "Ford 2.5T V6 Twin-Turbo",
@@ -34,13 +40,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.3,
+      "fh": 7.9,
+      "fx": 11.4,
       "ft": "Petrol",
       "acceleration": 3.8,
       "topSpeed": 260,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M12 GTO|2002|3R": {
       "engine": "Ford 2.5T V6 Twin-Turbo",
@@ -55,13 +67,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.1,
+      "fh": 7.9,
+      "fx": 11.3,
       "ft": "Petrol",
       "acceleration": 3.8,
       "topSpeed": 260,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M12 GTO|2003|3R": {
       "engine": "Ford 2.5T V6 Twin-Turbo",
@@ -76,13 +94,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.9,
+      "fh": 7.7,
+      "fx": 11.1,
       "ft": "Petrol",
       "acceleration": 3.8,
       "topSpeed": 260,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M12 GTO|2004|3R": {
       "engine": "Ford 2.5T V6 Twin-Turbo",
@@ -97,13 +121,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.8,
+      "fh": 7.6,
+      "fx": 11,
       "ft": "Petrol",
       "acceleration": 3.8,
       "topSpeed": 260,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M12 GTO|2005|3R": {
       "engine": "Ford 2.5T V6 Twin-Turbo",
@@ -118,13 +148,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.6,
+      "fh": 7.6,
+      "fx": 10.9,
       "ft": "Petrol",
       "acceleration": 3.8,
       "topSpeed": 260,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M12 GTO|2006|3R": {
       "engine": "Ford 2.5T V6 Twin-Turbo",
@@ -139,13 +175,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.4,
+      "fh": 7.4,
+      "fx": 10.7,
       "ft": "Petrol",
       "acceleration": 3.8,
       "topSpeed": 260,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M14|2005|Standard": {
       "engine": "Ford 3.0T V6 Twin-Turbo",
@@ -160,13 +202,19 @@
       "weight": 1050,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.4,
+      "fh": 8.5,
+      "fx": 12.3,
       "ft": "Petrol",
       "acceleration": 3.5,
       "topSpeed": 275,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M14|2006|Standard": {
       "engine": "Ford 3.0T V6 Twin-Turbo",
@@ -181,13 +229,19 @@
       "weight": 1050,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.3,
+      "fh": 8.4,
+      "fx": 12.2,
       "ft": "Petrol",
       "acceleration": 3.5,
       "topSpeed": 275,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2010|Standard": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -202,13 +256,19 @@
       "weight": 1198,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.1,
+      "fh": 9.5,
+      "fx": 13.7,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 362,
-      "price": "~$330,000"
+      "price": "~$330,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2010|Carbon Sport": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -223,13 +283,19 @@
       "weight": 1165,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.4,
+      "fh": 9.6,
+      "fx": 13.9,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 370,
-      "price": "~$380,000"
+      "price": "~$380,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2011|Standard": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -244,13 +310,19 @@
       "weight": 1198,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17,
+      "fh": 9.4,
+      "fx": 13.6,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 362,
-      "price": "~$330,000"
+      "price": "~$330,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2011|Carbon Sport": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -265,13 +337,19 @@
       "weight": 1165,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.3,
+      "fh": 9.5,
+      "fx": 13.8,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 370,
-      "price": "~$380,000"
+      "price": "~$380,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2012|Standard": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -286,13 +364,19 @@
       "weight": 1198,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.8,
+      "fh": 9.2,
+      "fx": 13.4,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 362,
-      "price": "~$330,000"
+      "price": "~$330,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2012|Carbon Sport": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -307,13 +391,19 @@
       "weight": 1165,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17,
+      "fh": 9.4,
+      "fx": 13.6,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 370,
-      "price": "~$380,000"
+      "price": "~$380,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2013|Standard": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -328,13 +418,19 @@
       "weight": 1198,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.5,
+      "fh": 9.2,
+      "fx": 13.2,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 362,
-      "price": "~$330,000"
+      "price": "~$330,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2013|Carbon Sport": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -349,13 +445,19 @@
       "weight": 1165,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.8,
+      "fh": 9.2,
+      "fx": 13.4,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 370,
-      "price": "~$380,000"
+      "price": "~$380,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2014|Standard": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -370,13 +472,19 @@
       "weight": 1198,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.4,
+      "fh": 9.1,
+      "fx": 13.1,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 362,
-      "price": "~$330,000"
+      "price": "~$330,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2014|Carbon Sport": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -391,13 +499,19 @@
       "weight": 1165,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.6,
+      "fh": 9.3,
+      "fx": 13.3,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 370,
-      "price": "~$380,000"
+      "price": "~$380,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2015|Standard": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -412,13 +526,19 @@
       "weight": 1198,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.1,
+      "fh": 9,
+      "fx": 12.9,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 362,
-      "price": "~$330,000"
+      "price": "~$330,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2015|Carbon Sport": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -433,13 +553,19 @@
       "weight": 1165,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.4,
+      "fh": 9.1,
+      "fx": 13.1,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 370,
-      "price": "~$380,000"
+      "price": "~$380,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2016|Standard": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -454,13 +580,19 @@
       "weight": 1198,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16,
+      "fh": 8.9,
+      "fx": 12.8,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 362,
-      "price": "~$330,000"
+      "price": "~$330,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2016|Carbon Sport": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -475,13 +607,19 @@
       "weight": 1165,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.3,
+      "fh": 9,
+      "fx": 13,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 370,
-      "price": "~$380,000"
+      "price": "~$380,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2017|Standard": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -496,13 +634,19 @@
       "weight": 1198,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.8,
+      "fh": 8.7,
+      "fx": 12.6,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 362,
-      "price": "~$330,000"
+      "price": "~$330,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2017|Carbon Sport": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -517,13 +661,19 @@
       "weight": 1165,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16,
+      "fh": 8.9,
+      "fx": 12.8,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 370,
-      "price": "~$380,000"
+      "price": "~$380,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2018|Standard": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -538,13 +688,19 @@
       "weight": 1198,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.5,
+      "fh": 8.6,
+      "fx": 12.4,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 362,
-      "price": "~$330,000"
+      "price": "~$330,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2018|Carbon Sport": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -559,13 +715,19 @@
       "weight": 1165,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.8,
+      "fh": 8.7,
+      "fx": 12.6,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 370,
-      "price": "~$380,000"
+      "price": "~$380,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2019|Standard": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -580,13 +742,19 @@
       "weight": 1198,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.4,
+      "fh": 8.5,
+      "fx": 12.3,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 362,
-      "price": "~$330,000"
+      "price": "~$330,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2019|Carbon Sport": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -601,13 +769,19 @@
       "weight": 1165,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.6,
+      "fh": 8.7,
+      "fx": 12.5,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 370,
-      "price": "~$380,000"
+      "price": "~$380,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2020|Standard": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -622,13 +796,19 @@
       "weight": 1198,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.1,
+      "fh": 8.4,
+      "fx": 12.1,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 362,
-      "price": "~$330,000"
+      "price": "~$330,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Noble|M600|2020|Carbon Sport": {
       "engine": "Volvo/Noble 4.4T V8 Twin-Turbo",
@@ -643,13 +823,19 @@
       "weight": 1165,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.4,
+      "fh": 8.5,
+      "fx": 12.3,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 370,
-      "price": "~$380,000"
+      "price": "~$380,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Laviolette|2000|Standard": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -664,13 +850,19 @@
       "weight": 1200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.9,
+      "fh": 9.3,
+      "fx": 13.5,
       "ft": "Petrol",
       "acceleration": 4.5,
       "topSpeed": 280,
-      "price": "~$230,000"
+      "price": "~$230,000",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Spyder|2000|Convertible": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -685,13 +877,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.1,
+      "fh": 9.5,
+      "fx": 13.7,
       "ft": "Petrol",
       "acceleration": 4.6,
       "topSpeed": 275,
-      "price": "~$240,000"
+      "price": "~$240,000",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Laviolette|2001|Standard": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -706,13 +904,19 @@
       "weight": 1200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.8,
+      "fh": 9.2,
+      "fx": 13.4,
       "ft": "Petrol",
       "acceleration": 4.5,
       "topSpeed": 280,
-      "price": "~$230,000"
+      "price": "~$230,000",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Spyder|2001|Convertible": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -727,13 +931,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.9,
+      "fh": 9.3,
+      "fx": 13.5,
       "ft": "Petrol",
       "acceleration": 4.6,
       "topSpeed": 275,
-      "price": "~$240,000"
+      "price": "~$240,000",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Laviolette|2002|Standard": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -748,13 +958,19 @@
       "weight": 1200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.5,
+      "fh": 9.2,
+      "fx": 13.2,
       "ft": "Petrol",
       "acceleration": 4.5,
       "topSpeed": 280,
-      "price": "~$230,000"
+      "price": "~$230,000",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Spyder|2002|Convertible": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -769,13 +985,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.6,
+      "fh": 9.3,
+      "fx": 13.3,
       "ft": "Petrol",
       "acceleration": 4.6,
       "topSpeed": 275,
-      "price": "~$240,000"
+      "price": "~$240,000",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Laviolette|2003|Standard": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -790,13 +1012,19 @@
       "weight": 1200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.3,
+      "fh": 9,
+      "fx": 13,
       "ft": "Petrol",
       "acceleration": 4.5,
       "topSpeed": 280,
-      "price": "~$230,000"
+      "price": "~$230,000",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Spyder|2003|Convertible": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -811,13 +1039,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.5,
+      "fh": 9.2,
+      "fx": 13.2,
       "ft": "Petrol",
       "acceleration": 4.6,
       "topSpeed": 275,
-      "price": "~$240,000"
+      "price": "~$240,000",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Laviolette|2004|Standard": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -832,13 +1066,19 @@
       "weight": 1200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.1,
+      "fh": 9,
+      "fx": 12.9,
       "ft": "Petrol",
       "acceleration": 4.5,
       "topSpeed": 280,
-      "price": "~$230,000"
+      "price": "~$230,000",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Spyder|2004|Convertible": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -853,13 +1093,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.3,
+      "fh": 9,
+      "fx": 13,
       "ft": "Petrol",
       "acceleration": 4.6,
       "topSpeed": 275,
-      "price": "~$240,000"
+      "price": "~$240,000",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Laviolette|2005|Standard": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -874,13 +1120,19 @@
       "weight": 1200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.9,
+      "fh": 8.8,
+      "fx": 12.7,
       "ft": "Petrol",
       "acceleration": 4.5,
       "topSpeed": 280,
-      "price": "~$230,000"
+      "price": "~$230,000",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Spyder|2005|Convertible": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -895,13 +1147,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16,
+      "fh": 8.9,
+      "fx": 12.8,
       "ft": "Petrol",
       "acceleration": 4.6,
       "topSpeed": 275,
-      "price": "~$240,000"
+      "price": "~$240,000",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Laviolette|2006|Standard": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -916,13 +1174,19 @@
       "weight": 1200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.8,
+      "fh": 8.7,
+      "fx": 12.6,
       "ft": "Petrol",
       "acceleration": 4.5,
       "topSpeed": 280,
-      "price": "~$230,000"
+      "price": "~$230,000",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Spyder|2006|Convertible": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -937,13 +1201,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.9,
+      "fh": 8.8,
+      "fx": 12.7,
       "ft": "Petrol",
       "acceleration": 4.6,
       "topSpeed": 275,
-      "price": "~$240,000"
+      "price": "~$240,000",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Laviolette|2007|Standard": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -958,13 +1228,19 @@
       "weight": 1200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.5,
+      "fh": 8.6,
+      "fx": 12.4,
       "ft": "Petrol",
       "acceleration": 4.5,
       "topSpeed": 280,
-      "price": "~$230,000"
+      "price": "~$230,000",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Spyder|2007|Convertible": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -979,13 +1255,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.6,
+      "fh": 8.7,
+      "fx": 12.5,
       "ft": "Petrol",
       "acceleration": 4.6,
       "topSpeed": 275,
-      "price": "~$240,000"
+      "price": "~$240,000",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Laviolette|2008|Standard": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -1000,13 +1282,19 @@
       "weight": 1200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.4,
+      "fh": 8.5,
+      "fx": 12.3,
       "ft": "Petrol",
       "acceleration": 4.5,
       "topSpeed": 280,
-      "price": "~$230,000"
+      "price": "~$230,000",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Spyder|2008|Convertible": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -1021,13 +1309,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.5,
+      "fh": 8.6,
+      "fx": 12.4,
       "ft": "Petrol",
       "acceleration": 4.6,
       "topSpeed": 275,
-      "price": "~$240,000"
+      "price": "~$240,000",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Laviolette|2009|Standard": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -1042,13 +1336,19 @@
       "weight": 1200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.1,
+      "fh": 8.4,
+      "fx": 12.1,
       "ft": "Petrol",
       "acceleration": 4.5,
       "topSpeed": 280,
-      "price": "~$230,000"
+      "price": "~$230,000",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Spyder|2009|Convertible": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -1063,13 +1363,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.3,
+      "fh": 8.4,
+      "fx": 12.2,
       "ft": "Petrol",
       "acceleration": 4.6,
       "topSpeed": 275,
-      "price": "~$240,000"
+      "price": "~$240,000",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Laviolette|2010|Standard": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -1084,13 +1390,19 @@
       "weight": 1200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15,
+      "fh": 8.3,
+      "fx": 12,
       "ft": "Petrol",
       "acceleration": 4.5,
       "topSpeed": 280,
-      "price": "~$230,000"
+      "price": "~$230,000",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Spyder|2010|Convertible": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -1105,13 +1417,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.1,
+      "fh": 8.4,
+      "fx": 12.1,
       "ft": "Petrol",
       "acceleration": 4.6,
       "topSpeed": 275,
-      "price": "~$240,000"
+      "price": "~$240,000",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Laviolette|2011|Standard": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -1126,13 +1444,19 @@
       "weight": 1200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.8,
+      "fh": 8.1,
+      "fx": 11.8,
       "ft": "Petrol",
       "acceleration": 4.5,
       "topSpeed": 280,
-      "price": "~$230,000"
+      "price": "~$230,000",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Spyder|2011|Convertible": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -1147,13 +1471,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.9,
+      "fh": 8.2,
+      "fx": 11.9,
       "ft": "Petrol",
       "acceleration": 4.6,
       "topSpeed": 275,
-      "price": "~$240,000"
+      "price": "~$240,000",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Laviolette|2012|Standard": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -1168,13 +1498,19 @@
       "weight": 1200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.6,
+      "fh": 8.2,
+      "fx": 11.7,
       "ft": "Petrol",
       "acceleration": 4.5,
       "topSpeed": 280,
-      "price": "~$230,000"
+      "price": "~$230,000",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Spyder|2012|Convertible": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -1189,13 +1525,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.8,
+      "fh": 8.1,
+      "fx": 11.8,
       "ft": "Petrol",
       "acceleration": 4.6,
       "topSpeed": 275,
-      "price": "~$240,000"
+      "price": "~$240,000",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Laviolette|2013|Standard": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -1210,13 +1552,19 @@
       "weight": 1200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.4,
+      "fh": 8,
+      "fx": 11.5,
       "ft": "Petrol",
       "acceleration": 4.5,
       "topSpeed": 280,
-      "price": "~$230,000"
+      "price": "~$230,000",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Spyder|2013|Convertible": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -1231,13 +1579,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.6,
+      "fh": 8.2,
+      "fx": 11.7,
       "ft": "Petrol",
       "acceleration": 4.6,
       "topSpeed": 275,
-      "price": "~$240,000"
+      "price": "~$240,000",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Laviolette|2014|Standard": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -1252,13 +1606,19 @@
       "weight": 1200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.3,
+      "fh": 7.9,
+      "fx": 11.4,
       "ft": "Petrol",
       "acceleration": 4.5,
       "topSpeed": 280,
-      "price": "~$230,000"
+      "price": "~$230,000",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Spyder|2014|Convertible": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -1273,13 +1633,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.4,
+      "fh": 8,
+      "fx": 11.5,
       "ft": "Petrol",
       "acceleration": 4.6,
       "topSpeed": 275,
-      "price": "~$240,000"
+      "price": "~$240,000",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Laviolette|2015|Standard": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -1294,13 +1660,19 @@
       "weight": 1200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.1,
+      "fh": 7.9,
+      "fx": 11.3,
       "ft": "Petrol",
       "acceleration": 4.5,
       "topSpeed": 280,
-      "price": "~$230,000"
+      "price": "~$230,000",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Spyder|2015|Convertible": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -1315,13 +1687,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.3,
+      "fh": 7.9,
+      "fx": 11.4,
       "ft": "Petrol",
       "acceleration": 4.6,
       "topSpeed": 275,
-      "price": "~$240,000"
+      "price": "~$240,000",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Laviolette|2016|Standard": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -1336,13 +1714,19 @@
       "weight": 1200,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.9,
+      "fh": 7.7,
+      "fx": 11.1,
       "ft": "Petrol",
       "acceleration": 4.5,
       "topSpeed": 280,
-      "price": "~$230,000"
+      "price": "~$230,000",
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C8 Spyder|2016|Convertible": {
       "engine": "Audi 4.2L V8 DOHC",
@@ -1357,13 +1741,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14,
+      "fh": 7.8,
+      "fx": 11.2,
       "ft": "Petrol",
       "acceleration": 4.6,
       "topSpeed": 275,
-      "price": "~$240,000"
+      "price": "~$240,000",
+      "quarterMile": "~12.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C12 Zagato|2007|Coupe": {
       "engine": "VW 6.0L W12 Twin-Turbo",
@@ -1378,13 +1768,19 @@
       "weight": 1665,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.3,
+      "fh": 10.6,
+      "fx": 15.4,
       "ft": "Petrol",
       "acceleration": 3.8,
       "topSpeed": 320,
-      "price": "~$680,000"
+      "price": "~$680,000",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C12 Zagato|2008|Coupe": {
       "engine": "VW 6.0L W12 Twin-Turbo",
@@ -1399,13 +1795,19 @@
       "weight": 1665,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19,
+      "fh": 10.6,
+      "fx": 15.2,
       "ft": "Petrol",
       "acceleration": 3.8,
       "topSpeed": 320,
-      "price": "~$680,000"
+      "price": "~$680,000",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Spyker|C12 Zagato|2009|Coupe": {
       "engine": "VW 6.0L W12 Twin-Turbo",
@@ -1420,13 +1822,19 @@
       "weight": 1665,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.8,
+      "fh": 10.4,
+      "fx": 15,
       "ft": "Petrol",
       "acceleration": 3.8,
       "topSpeed": 320,
-      "price": "~$680,000"
+      "price": "~$680,000",
+      "quarterMile": "~12.0 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Vector|W8|1989|Twin Turbo": {
       "engine": "6.0L V8 Twin-Turbo",
@@ -1441,13 +1849,19 @@
       "weight": 1505,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 22,
+      "fh": 12.2,
+      "fx": 17.6,
       "ft": "Petrol",
       "acceleration": 4.2,
       "topSpeed": 370,
-      "price": "~$185,000"
+      "price": "~$185,000",
+      "quarterMile": "~12.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Vector|W8|1990|Twin Turbo": {
       "engine": "6.0L V8 Twin-Turbo",
@@ -1462,13 +1876,19 @@
       "weight": 1505,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.8,
+      "fh": 12,
+      "fx": 17.4,
       "ft": "Petrol",
       "acceleration": 4.2,
       "topSpeed": 370,
-      "price": "~$185,000"
+      "price": "~$185,000",
+      "quarterMile": "~12.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Vector|W8|1991|Twin Turbo": {
       "engine": "6.0L V8 Twin-Turbo",
@@ -1483,13 +1903,19 @@
       "weight": 1505,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.5,
+      "fh": 11.9,
+      "fx": 17.2,
       "ft": "Petrol",
       "acceleration": 4.2,
       "topSpeed": 370,
-      "price": "~$185,000"
+      "price": "~$185,000",
+      "quarterMile": "~12.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Vector|W8|1992|Twin Turbo": {
       "engine": "6.0L V8 Twin-Turbo",
@@ -1504,13 +1930,19 @@
       "weight": 1505,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21.3,
+      "fh": 11.7,
+      "fx": 17,
       "ft": "Petrol",
       "acceleration": 4.2,
       "topSpeed": 370,
-      "price": "~$185,000"
+      "price": "~$185,000",
+      "quarterMile": "~12.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Vector|W8|1993|Twin Turbo": {
       "engine": "6.0L V8 Twin-Turbo",
@@ -1525,13 +1957,19 @@
       "weight": 1505,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 21,
+      "fh": 11.7,
+      "fx": 16.8,
       "ft": "Petrol",
       "acceleration": 4.2,
       "topSpeed": 370,
-      "price": "~$185,000"
+      "price": "~$185,000",
+      "quarterMile": "~12.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Vector|M12|1995|V12": {
       "engine": "Lamborghini 5.7L V12",
@@ -1546,13 +1984,19 @@
       "weight": 1451,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.3,
+      "fh": 11.2,
+      "fx": 16.2,
       "ft": "Petrol",
       "acceleration": 4,
       "topSpeed": 306,
-      "price": "~$184,000"
+      "price": "~$184,000",
+      "quarterMile": "~12.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Vector|M12|1996|V12": {
       "engine": "Lamborghini 5.7L V12",
@@ -1567,13 +2011,19 @@
       "weight": 1451,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20,
+      "fh": 11.1,
+      "fx": 16,
       "ft": "Petrol",
       "acceleration": 4,
       "topSpeed": 306,
-      "price": "~$184,000"
+      "price": "~$184,000",
+      "quarterMile": "~12.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2000|Standard": {
       "engine": "LS1 5.7L V8",
@@ -1588,13 +2038,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16,
+      "fh": 8.9,
+      "fx": 12.8,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 315,
-      "price": "~$188,000"
+      "price": "~$188,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2000|S": {
       "engine": "LS7 7.0L V8",
@@ -1609,13 +2065,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.3,
+      "fh": 10.1,
+      "fx": 14.6,
       "ft": "Petrol",
       "acceleration": 3.1,
       "topSpeed": 337,
-      "price": "~$250,000"
+      "price": "~$250,000",
+      "quarterMile": "~11.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2001|Standard": {
       "engine": "LS1 5.7L V8",
@@ -1630,13 +2092,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.8,
+      "fh": 8.7,
+      "fx": 12.6,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 315,
-      "price": "~$188,000"
+      "price": "~$188,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2001|S": {
       "engine": "LS7 7.0L V8",
@@ -1651,13 +2119,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18,
+      "fh": 10,
+      "fx": 14.4,
       "ft": "Petrol",
       "acceleration": 3.1,
       "topSpeed": 337,
-      "price": "~$250,000"
+      "price": "~$250,000",
+      "quarterMile": "~11.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2002|Standard": {
       "engine": "LS1 5.7L V8",
@@ -1672,13 +2146,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.6,
+      "fh": 8.7,
+      "fx": 12.5,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 315,
-      "price": "~$188,000"
+      "price": "~$188,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2002|S": {
       "engine": "LS7 7.0L V8",
@@ -1693,13 +2173,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.9,
+      "fh": 9.9,
+      "fx": 14.3,
       "ft": "Petrol",
       "acceleration": 3.1,
       "topSpeed": 337,
-      "price": "~$250,000"
+      "price": "~$250,000",
+      "quarterMile": "~11.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2003|Standard": {
       "engine": "LS1 5.7L V8",
@@ -1714,13 +2200,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.4,
+      "fh": 8.5,
+      "fx": 12.3,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 315,
-      "price": "~$188,000"
+      "price": "~$188,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2003|S": {
       "engine": "LS7 7.0L V8",
@@ -1735,13 +2227,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.6,
+      "fh": 9.8,
+      "fx": 14.1,
       "ft": "Petrol",
       "acceleration": 3.1,
       "topSpeed": 337,
-      "price": "~$250,000"
+      "price": "~$250,000",
+      "quarterMile": "~11.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2004|Standard": {
       "engine": "LS1 5.7L V8",
@@ -1756,13 +2254,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.3,
+      "fh": 8.4,
+      "fx": 12.2,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 315,
-      "price": "~$188,000"
+      "price": "~$188,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2004|S": {
       "engine": "LS7 7.0L V8",
@@ -1777,13 +2281,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.4,
+      "fh": 9.6,
+      "fx": 13.9,
       "ft": "Petrol",
       "acceleration": 3.1,
       "topSpeed": 337,
-      "price": "~$250,000"
+      "price": "~$250,000",
+      "quarterMile": "~11.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2005|Standard": {
       "engine": "LS1 5.7L V8",
@@ -1798,13 +2308,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15,
+      "fh": 8.3,
+      "fx": 12,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 315,
-      "price": "~$188,000"
+      "price": "~$188,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2005|S": {
       "engine": "LS7 7.0L V8",
@@ -1819,13 +2335,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.1,
+      "fh": 9.5,
+      "fx": 13.7,
       "ft": "Petrol",
       "acceleration": 3.1,
       "topSpeed": 337,
-      "price": "~$250,000"
+      "price": "~$250,000",
+      "quarterMile": "~11.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2006|Standard": {
       "engine": "LS1 5.7L V8",
@@ -1840,13 +2362,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.9,
+      "fh": 8.2,
+      "fx": 11.9,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 315,
-      "price": "~$188,000"
+      "price": "~$188,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2006|S": {
       "engine": "LS7 7.0L V8",
@@ -1861,13 +2389,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17,
+      "fh": 9.4,
+      "fx": 13.6,
       "ft": "Petrol",
       "acceleration": 3.1,
       "topSpeed": 337,
-      "price": "~$250,000"
+      "price": "~$250,000",
+      "quarterMile": "~11.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2007|Standard": {
       "engine": "LS1 5.7L V8",
@@ -1882,13 +2416,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.8,
+      "fh": 8.1,
+      "fx": 11.8,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 315,
-      "price": "~$188,000"
+      "price": "~$188,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2007|S": {
       "engine": "LS7 7.0L V8",
@@ -1903,13 +2443,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.8,
+      "fh": 9.2,
+      "fx": 13.4,
       "ft": "Petrol",
       "acceleration": 3.1,
       "topSpeed": 337,
-      "price": "~$250,000"
+      "price": "~$250,000",
+      "quarterMile": "~11.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2008|Standard": {
       "engine": "LS1 5.7L V8",
@@ -1924,13 +2470,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.5,
+      "fh": 8.1,
+      "fx": 11.6,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 315,
-      "price": "~$188,000"
+      "price": "~$188,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2008|S": {
       "engine": "LS7 7.0L V8",
@@ -1945,13 +2497,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.6,
+      "fh": 9.3,
+      "fx": 13.3,
       "ft": "Petrol",
       "acceleration": 3.1,
       "topSpeed": 337,
-      "price": "~$250,000"
+      "price": "~$250,000",
+      "quarterMile": "~11.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2009|Standard": {
       "engine": "LS1 5.7L V8",
@@ -1966,13 +2524,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.4,
+      "fh": 8,
+      "fx": 11.5,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 315,
-      "price": "~$188,000"
+      "price": "~$188,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2009|S": {
       "engine": "LS7 7.0L V8",
@@ -1987,13 +2551,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.4,
+      "fh": 9.1,
+      "fx": 13.1,
       "ft": "Petrol",
       "acceleration": 3.1,
       "topSpeed": 337,
-      "price": "~$250,000"
+      "price": "~$250,000",
+      "quarterMile": "~11.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2010|Standard": {
       "engine": "LS1 5.7L V8",
@@ -2008,13 +2578,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.1,
+      "fh": 7.9,
+      "fx": 11.3,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 315,
-      "price": "~$188,000"
+      "price": "~$188,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2010|S": {
       "engine": "LS7 7.0L V8",
@@ -2029,13 +2605,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.1,
+      "fh": 9,
+      "fx": 12.9,
       "ft": "Petrol",
       "acceleration": 3.1,
       "topSpeed": 337,
-      "price": "~$250,000"
+      "price": "~$250,000",
+      "quarterMile": "~11.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2011|Standard": {
       "engine": "LS1 5.7L V8",
@@ -2050,13 +2632,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14,
+      "fh": 7.8,
+      "fx": 11.2,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 315,
-      "price": "~$188,000"
+      "price": "~$188,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2011|S": {
       "engine": "LS7 7.0L V8",
@@ -2071,13 +2659,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16,
+      "fh": 8.9,
+      "fx": 12.8,
       "ft": "Petrol",
       "acceleration": 3.1,
       "topSpeed": 337,
-      "price": "~$250,000"
+      "price": "~$250,000",
+      "quarterMile": "~11.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2012|Standard": {
       "engine": "LS1 5.7L V8",
@@ -2092,13 +2686,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.9,
+      "fh": 7.7,
+      "fx": 11.1,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 315,
-      "price": "~$188,000"
+      "price": "~$188,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Mosler|MT900|2012|S": {
       "engine": "LS7 7.0L V8",
@@ -2113,13 +2713,19 @@
       "weight": 930,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.8,
+      "fh": 8.7,
+      "fx": 12.6,
       "ft": "Petrol",
       "acceleration": 3.1,
       "topSpeed": 337,
-      "price": "~$250,000"
+      "price": "~$250,000",
+      "quarterMile": "~11.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 1|2000|Honda": {
       "engine": "Honda 1.8L I4 DOHC VTEC",
@@ -2134,13 +2740,19 @@
       "weight": 456,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.9,
+      "fh": 5.5,
+      "fx": 7.9,
       "ft": "Petrol",
       "acceleration": 5,
       "topSpeed": 217,
-      "price": "~$25,000"
+      "price": "~$25,000",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 1|2001|Honda": {
       "engine": "Honda 1.8L I4 DOHC VTEC",
@@ -2155,13 +2767,19 @@
       "weight": 456,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.8,
+      "fh": 5.4,
+      "fx": 7.8,
       "ft": "Petrol",
       "acceleration": 5,
       "topSpeed": 217,
-      "price": "~$25,000"
+      "price": "~$25,000",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 1|2002|Honda": {
       "engine": "Honda 1.8L I4 DOHC VTEC",
@@ -2176,13 +2794,19 @@
       "weight": 456,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.6,
+      "fh": 5.4,
+      "fx": 7.7,
       "ft": "Petrol",
       "acceleration": 5,
       "topSpeed": 217,
-      "price": "~$25,000"
+      "price": "~$25,000",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 2|2003|220": {
       "engine": "Honda 2.0L I4 DOHC VTEC",
@@ -2197,13 +2821,19 @@
       "weight": 490,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.8,
+      "fh": 5.9,
+      "fx": 8.6,
       "ft": "Petrol",
       "acceleration": 3.5,
       "topSpeed": 233,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 2|2003|300 Supercharged": {
       "engine": "Honda 2.0L I4 DOHC VTEC Supercharged",
@@ -2218,13 +2848,19 @@
       "weight": 500,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12,
+      "fh": 6.7,
+      "fx": 9.6,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 240,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 2|2004|220": {
       "engine": "Honda 2.0L I4 DOHC VTEC",
@@ -2239,13 +2875,19 @@
       "weight": 490,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.6,
+      "fh": 5.9,
+      "fx": 8.5,
       "ft": "Petrol",
       "acceleration": 3.5,
       "topSpeed": 233,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 2|2004|300 Supercharged": {
       "engine": "Honda 2.0L I4 DOHC VTEC Supercharged",
@@ -2260,13 +2902,19 @@
       "weight": 500,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.9,
+      "fh": 6.6,
+      "fx": 9.5,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 240,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 2|2005|220": {
       "engine": "Honda 2.0L I4 DOHC VTEC",
@@ -2281,13 +2929,19 @@
       "weight": 490,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.5,
+      "fh": 5.8,
+      "fx": 8.4,
       "ft": "Petrol",
       "acceleration": 3.5,
       "topSpeed": 233,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 2|2005|300 Supercharged": {
       "engine": "Honda 2.0L I4 DOHC VTEC Supercharged",
@@ -2302,13 +2956,19 @@
       "weight": 500,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.8,
+      "fh": 6.5,
+      "fx": 9.4,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 240,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 2|2006|220": {
       "engine": "Honda 2.0L I4 DOHC VTEC",
@@ -2323,13 +2983,19 @@
       "weight": 490,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.4,
+      "fh": 5.7,
+      "fx": 8.3,
       "ft": "Petrol",
       "acceleration": 3.5,
       "topSpeed": 233,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 2|2006|300 Supercharged": {
       "engine": "Honda 2.0L I4 DOHC VTEC Supercharged",
@@ -2344,13 +3010,19 @@
       "weight": 500,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.6,
+      "fh": 6.5,
+      "fx": 9.3,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 240,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 2|2007|220": {
       "engine": "Honda 2.0L I4 DOHC VTEC",
@@ -2365,13 +3037,19 @@
       "weight": 490,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.3,
+      "fh": 5.6,
+      "fx": 8.2,
       "ft": "Petrol",
       "acceleration": 3.5,
       "topSpeed": 233,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 2|2007|300 Supercharged": {
       "engine": "Honda 2.0L I4 DOHC VTEC Supercharged",
@@ -2386,13 +3064,19 @@
       "weight": 500,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.5,
+      "fh": 6.4,
+      "fx": 9.2,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 240,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 2|2008|220": {
       "engine": "Honda 2.0L I4 DOHC VTEC",
@@ -2407,13 +3091,19 @@
       "weight": 490,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.1,
+      "fh": 5.7,
+      "fx": 8.1,
       "ft": "Petrol",
       "acceleration": 3.5,
       "topSpeed": 233,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 2|2008|300 Supercharged": {
       "engine": "Honda 2.0L I4 DOHC VTEC Supercharged",
@@ -2428,13 +3118,19 @@
       "weight": 500,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.3,
+      "fh": 6.2,
+      "fx": 9,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 240,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 2|2009|220": {
       "engine": "Honda 2.0L I4 DOHC VTEC",
@@ -2449,13 +3145,19 @@
       "weight": 490,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10,
+      "fh": 5.6,
+      "fx": 8,
       "ft": "Petrol",
       "acceleration": 3.5,
       "topSpeed": 233,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 2|2009|300 Supercharged": {
       "engine": "Honda 2.0L I4 DOHC VTEC Supercharged",
@@ -2470,13 +3172,19 @@
       "weight": 500,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11.1,
+      "fh": 6.2,
+      "fx": 8.9,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 240,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 2|2010|220": {
       "engine": "Honda 2.0L I4 DOHC VTEC",
@@ -2491,13 +3199,19 @@
       "weight": 490,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.9,
+      "fh": 5.5,
+      "fx": 7.9,
       "ft": "Petrol",
       "acceleration": 3.5,
       "topSpeed": 233,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 2|2010|300 Supercharged": {
       "engine": "Honda 2.0L I4 DOHC VTEC Supercharged",
@@ -2512,13 +3226,19 @@
       "weight": 500,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11,
+      "fh": 6.1,
+      "fx": 8.8,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 240,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 2|2011|220": {
       "engine": "Honda 2.0L I4 DOHC VTEC",
@@ -2533,13 +3253,19 @@
       "weight": 490,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.8,
+      "fh": 5.4,
+      "fx": 7.8,
       "ft": "Petrol",
       "acceleration": 3.5,
       "topSpeed": 233,
-      "price": "~$45,000"
+      "price": "~$45,000",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 2|2011|300 Supercharged": {
       "engine": "Honda 2.0L I4 DOHC VTEC Supercharged",
@@ -2554,13 +3280,19 @@
       "weight": 500,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.9,
+      "fh": 6,
+      "fx": 8.7,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 240,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 3|2011|Honda 245": {
       "engine": "Honda K20Z 2.0L I4 DOHC VTEC",
@@ -2575,13 +3307,19 @@
       "weight": 550,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.4,
+      "fh": 5.7,
+      "fx": 8.3,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 241,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 3|2011|500 V8": {
       "engine": "Honda V8 3.0L",
@@ -2596,13 +3334,19 @@
       "weight": 550,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.3,
+      "fh": 7.3,
+      "fx": 10.6,
       "ft": "Petrol",
       "acceleration": 2.5,
       "topSpeed": 273,
-      "price": "~$150,000"
+      "price": "~$150,000",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 3|2012|Honda 245": {
       "engine": "Honda K20Z 2.0L I4 DOHC VTEC",
@@ -2617,13 +3361,19 @@
       "weight": 550,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.3,
+      "fh": 5.6,
+      "fx": 8.2,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 241,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 3|2012|500 V8": {
       "engine": "Honda V8 3.0L",
@@ -2638,13 +3388,19 @@
       "weight": 550,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.1,
+      "fh": 7.3,
+      "fx": 10.5,
       "ft": "Petrol",
       "acceleration": 2.5,
       "topSpeed": 273,
-      "price": "~$150,000"
+      "price": "~$150,000",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 3|2013|Honda 245": {
       "engine": "Honda K20Z 2.0L I4 DOHC VTEC",
@@ -2659,13 +3415,19 @@
       "weight": 550,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.1,
+      "fh": 5.7,
+      "fx": 8.1,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 241,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 3|2013|500 V8": {
       "engine": "Honda V8 3.0L",
@@ -2680,13 +3442,19 @@
       "weight": 550,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.9,
+      "fh": 7.1,
+      "fx": 10.3,
       "ft": "Petrol",
       "acceleration": 2.5,
       "topSpeed": 273,
-      "price": "~$150,000"
+      "price": "~$150,000",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 3|2014|Honda 245": {
       "engine": "Honda K20Z 2.0L I4 DOHC VTEC",
@@ -2701,13 +3469,19 @@
       "weight": 550,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10,
+      "fh": 5.6,
+      "fx": 8,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 241,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 3|2014|500 V8": {
       "engine": "Honda V8 3.0L",
@@ -2722,13 +3496,19 @@
       "weight": 550,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.8,
+      "fh": 7,
+      "fx": 10.2,
       "ft": "Petrol",
       "acceleration": 2.5,
       "topSpeed": 273,
-      "price": "~$150,000"
+      "price": "~$150,000",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 3|2015|Honda 245": {
       "engine": "Honda K20Z 2.0L I4 DOHC VTEC",
@@ -2743,13 +3523,19 @@
       "weight": 550,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.9,
+      "fh": 5.5,
+      "fx": 7.9,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 241,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 3|2015|500 V8": {
       "engine": "Honda V8 3.0L",
@@ -2764,13 +3550,19 @@
       "weight": 550,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.6,
+      "fh": 7,
+      "fx": 10.1,
       "ft": "Petrol",
       "acceleration": 2.5,
       "topSpeed": 273,
-      "price": "~$150,000"
+      "price": "~$150,000",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 3|2016|Honda 245": {
       "engine": "Honda K20Z 2.0L I4 DOHC VTEC",
@@ -2785,13 +3577,19 @@
       "weight": 550,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.8,
+      "fh": 5.4,
+      "fx": 7.8,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 241,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 3|2016|500 V8": {
       "engine": "Honda V8 3.0L",
@@ -2806,13 +3604,19 @@
       "weight": 550,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.5,
+      "fh": 6.9,
+      "fx": 10,
       "ft": "Petrol",
       "acceleration": 2.5,
       "topSpeed": 273,
-      "price": "~$150,000"
+      "price": "~$150,000",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 3|2017|Honda 245": {
       "engine": "Honda K20Z 2.0L I4 DOHC VTEC",
@@ -2827,13 +3631,19 @@
       "weight": 550,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.6,
+      "fh": 5.4,
+      "fx": 7.7,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 241,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 3|2017|500 V8": {
       "engine": "Honda V8 3.0L",
@@ -2848,13 +3658,19 @@
       "weight": 550,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.3,
+      "fh": 6.7,
+      "fx": 9.8,
       "ft": "Petrol",
       "acceleration": 2.5,
       "topSpeed": 273,
-      "price": "~$150,000"
+      "price": "~$150,000",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 3|2018|Honda 245": {
       "engine": "Honda K20Z 2.0L I4 DOHC VTEC",
@@ -2869,13 +3685,19 @@
       "weight": 550,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.5,
+      "fh": 5.3,
+      "fx": 7.6,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 241,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 3|2018|500 V8": {
       "engine": "Honda V8 3.0L",
@@ -2890,13 +3712,19 @@
       "weight": 550,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 12.1,
+      "fh": 6.8,
+      "fx": 9.7,
       "ft": "Petrol",
       "acceleration": 2.5,
       "topSpeed": 273,
-      "price": "~$150,000"
+      "price": "~$150,000",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 4|2019|Honda Turbo": {
       "engine": "Honda K20C 2.0T I4 DOHC VTEC",
@@ -2911,13 +3739,19 @@
       "weight": 595,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.3,
+      "fh": 5.6,
+      "fx": 8.2,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 257,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 4|2020|Honda Turbo": {
       "engine": "Honda K20C 2.0T I4 DOHC VTEC",
@@ -2932,13 +3766,19 @@
       "weight": 595,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.1,
+      "fh": 5.7,
+      "fx": 8.1,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 257,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 4|2021|Honda Turbo": {
       "engine": "Honda K20C 2.0T I4 DOHC VTEC",
@@ -2953,13 +3793,19 @@
       "weight": 595,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10,
+      "fh": 5.6,
+      "fx": 8,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 257,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 4|2022|Honda Turbo": {
       "engine": "Honda K20C 2.0T I4 DOHC VTEC",
@@ -2974,13 +3820,19 @@
       "weight": 595,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.9,
+      "fh": 5.5,
+      "fx": 7.9,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 257,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 4|2023|Honda Turbo": {
       "engine": "Honda K20C 2.0T I4 DOHC VTEC",
@@ -2995,13 +3847,19 @@
       "weight": 595,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.8,
+      "fh": 5.4,
+      "fx": 7.8,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 257,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 4|2024|Honda Turbo": {
       "engine": "Honda K20C 2.0T I4 DOHC VTEC",
@@ -3016,13 +3874,19 @@
       "weight": 595,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.6,
+      "fh": 5.4,
+      "fx": 7.7,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 257,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Atom 4|2025|Honda Turbo": {
       "engine": "Honda K20C 2.0T I4 DOHC VTEC",
@@ -3037,13 +3901,19 @@
       "weight": 595,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.5,
+      "fh": 5.3,
+      "fx": 7.6,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 257,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Nomad|2015|Standard": {
       "engine": "Honda 2.4L I4 DOHC i-VTEC",
@@ -3058,13 +3928,19 @@
       "weight": 670,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.5,
+      "fh": 5.3,
+      "fx": 7.6,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 217,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Nomad|2016|Standard": {
       "engine": "Honda 2.4L I4 DOHC i-VTEC",
@@ -3079,13 +3955,19 @@
       "weight": 670,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.4,
+      "fh": 5.2,
+      "fx": 7.5,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 217,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Nomad|2017|Standard": {
       "engine": "Honda 2.4L I4 DOHC i-VTEC",
@@ -3100,13 +3982,19 @@
       "weight": 670,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.3,
+      "fh": 5.1,
+      "fx": 7.4,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 217,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Nomad|2018|Standard": {
       "engine": "Honda 2.4L I4 DOHC i-VTEC",
@@ -3121,13 +4009,19 @@
       "weight": 670,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9.1,
+      "fh": 5.1,
+      "fx": 7.3,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 217,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Nomad|2019|Standard": {
       "engine": "Honda 2.4L I4 DOHC i-VTEC",
@@ -3142,13 +4036,19 @@
       "weight": 670,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 9,
+      "fh": 5,
+      "fx": 7.2,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 217,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Nomad|2020|Standard": {
       "engine": "Honda 2.4L I4 DOHC i-VTEC",
@@ -3163,13 +4063,19 @@
       "weight": 670,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 8.9,
+      "fh": 4.9,
+      "fx": 7.1,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 217,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Nomad|2021|Standard": {
       "engine": "Honda 2.4L I4 DOHC i-VTEC",
@@ -3184,13 +4090,19 @@
       "weight": 670,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 8.9,
+      "fh": 4.9,
+      "fx": 7.1,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 217,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Nomad|2022|Standard": {
       "engine": "Honda 2.4L I4 DOHC i-VTEC",
@@ -3205,13 +4117,19 @@
       "weight": 670,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 8.8,
+      "fh": 4.8,
+      "fx": 7,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 217,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Nomad|2023|Standard": {
       "engine": "Honda 2.4L I4 DOHC i-VTEC",
@@ -3226,13 +4144,19 @@
       "weight": 670,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 8.6,
+      "fh": 4.8,
+      "fx": 6.9,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 217,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Nomad|2024|Standard": {
       "engine": "Honda 2.4L I4 DOHC i-VTEC",
@@ -3247,13 +4171,19 @@
       "weight": 670,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 8.5,
+      "fh": 4.7,
+      "fx": 6.8,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 217,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Ariel|Nomad|2025|Standard": {
       "engine": "Honda 2.4L I4 DOHC i-VTEC",
@@ -3268,13 +4198,19 @@
       "weight": 670,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 8.4,
+      "fh": 4.6,
+      "fx": 6.7,
       "ft": "Petrol",
       "acceleration": 3.4,
       "topSpeed": 217,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "BAC|Mono|2011|Standard": {
       "engine": "Cosworth 2.3T I4",
@@ -3289,13 +4225,19 @@
       "weight": 555,
       "seats": 1,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 11,
+      "fh": 6.1,
+      "fx": 8.8,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 274,
-      "price": "~$170,000"
+      "price": "~$170,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "BAC|Mono|2012|Standard": {
       "engine": "Cosworth 2.3T I4",
@@ -3310,13 +4252,19 @@
       "weight": 555,
       "seats": 1,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.9,
+      "fh": 6,
+      "fx": 8.7,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 274,
-      "price": "~$170,000"
+      "price": "~$170,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "BAC|Mono|2013|Standard": {
       "engine": "Cosworth 2.3T I4",
@@ -3331,13 +4279,19 @@
       "weight": 555,
       "seats": 1,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.8,
+      "fh": 5.9,
+      "fx": 8.6,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 274,
-      "price": "~$170,000"
+      "price": "~$170,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "BAC|Mono|2014|Standard": {
       "engine": "Cosworth 2.3T I4",
@@ -3352,13 +4306,19 @@
       "weight": 555,
       "seats": 1,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.6,
+      "fh": 5.9,
+      "fx": 8.5,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 274,
-      "price": "~$170,000"
+      "price": "~$170,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "BAC|Mono|2015|Standard": {
       "engine": "Cosworth 2.3T I4",
@@ -3373,13 +4333,19 @@
       "weight": 555,
       "seats": 1,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.5,
+      "fh": 5.8,
+      "fx": 8.4,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 274,
-      "price": "~$170,000"
+      "price": "~$170,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "BAC|Mono|2016|Standard": {
       "engine": "Cosworth 2.3T I4",
@@ -3394,13 +4360,19 @@
       "weight": 555,
       "seats": 1,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.4,
+      "fh": 5.7,
+      "fx": 8.3,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 274,
-      "price": "~$170,000"
+      "price": "~$170,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "BAC|Mono|2017|Standard": {
       "engine": "Cosworth 2.3T I4",
@@ -3415,13 +4387,19 @@
       "weight": 555,
       "seats": 1,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.3,
+      "fh": 5.6,
+      "fx": 8.2,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 274,
-      "price": "~$170,000"
+      "price": "~$170,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "BAC|Mono|2018|Standard": {
       "engine": "Cosworth 2.3T I4",
@@ -3436,13 +4414,19 @@
       "weight": 555,
       "seats": 1,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.1,
+      "fh": 5.7,
+      "fx": 8.1,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 274,
-      "price": "~$170,000"
+      "price": "~$170,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "BAC|Mono|2019|Standard": {
       "engine": "Cosworth 2.3T I4",
@@ -3457,13 +4441,19 @@
       "weight": 555,
       "seats": 1,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10,
+      "fh": 5.6,
+      "fx": 8,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 274,
-      "price": "~$170,000"
+      "price": "~$170,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "BAC|Mono R|2020|Standard": {
       "engine": "Mountune 2.3T I4",
@@ -3478,13 +4468,19 @@
       "weight": 555,
       "seats": 1,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.6,
+      "fh": 5.9,
+      "fx": 8.5,
       "ft": "Petrol",
       "acceleration": 2.5,
       "topSpeed": 280,
-      "price": "~$220,000"
+      "price": "~$220,000",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "BAC|Mono R|2021|Standard": {
       "engine": "Mountune 2.3T I4",
@@ -3499,13 +4495,19 @@
       "weight": 555,
       "seats": 1,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.5,
+      "fh": 5.8,
+      "fx": 8.4,
       "ft": "Petrol",
       "acceleration": 2.5,
       "topSpeed": 280,
-      "price": "~$220,000"
+      "price": "~$220,000",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "BAC|Mono R|2022|Standard": {
       "engine": "Mountune 2.3T I4",
@@ -3520,13 +4522,19 @@
       "weight": 555,
       "seats": 1,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.4,
+      "fh": 5.7,
+      "fx": 8.3,
       "ft": "Petrol",
       "acceleration": 2.5,
       "topSpeed": 280,
-      "price": "~$220,000"
+      "price": "~$220,000",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "BAC|Mono R|2023|Standard": {
       "engine": "Mountune 2.3T I4",
@@ -3541,13 +4549,19 @@
       "weight": 555,
       "seats": 1,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.3,
+      "fh": 5.6,
+      "fx": 8.2,
       "ft": "Petrol",
       "acceleration": 2.5,
       "topSpeed": 280,
-      "price": "~$220,000"
+      "price": "~$220,000",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "BAC|Mono R|2024|Standard": {
       "engine": "Mountune 2.3T I4",
@@ -3562,13 +4576,19 @@
       "weight": 555,
       "seats": 1,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10.1,
+      "fh": 5.7,
+      "fx": 8.1,
       "ft": "Petrol",
       "acceleration": 2.5,
       "topSpeed": 280,
-      "price": "~$220,000"
+      "price": "~$220,000",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "BAC|Mono R|2025|Standard": {
       "engine": "Mountune 2.3T I4",
@@ -3583,13 +4603,19 @@
       "weight": 555,
       "seats": 1,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 10,
+      "fh": 5.6,
+      "fx": 8,
       "ft": "Petrol",
       "acceleration": 2.5,
       "topSpeed": 280,
-      "price": "~$220,000"
+      "price": "~$220,000",
+      "quarterMile": "~10.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|Sport|2005|Twin Turbo": {
       "engine": "Audi 4.2T V8 Twin-Turbo",
@@ -3604,13 +4630,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.3,
+      "fh": 10.1,
+      "fx": 14.6,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 360,
-      "price": "~$490,000"
+      "price": "~$490,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|R|2005|Race": {
       "engine": "Audi 4.2T V8 Twin-Turbo",
@@ -3625,13 +4657,19 @@
       "weight": 1050,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.8,
+      "fh": 10.4,
+      "fx": 15,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 370,
-      "price": "~$620,000"
+      "price": "~$620,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|Sport|2006|Twin Turbo": {
       "engine": "Audi 4.2T V8 Twin-Turbo",
@@ -3646,13 +4684,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18,
+      "fh": 10,
+      "fx": 14.4,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 360,
-      "price": "~$490,000"
+      "price": "~$490,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|R|2006|Race": {
       "engine": "Audi 4.2T V8 Twin-Turbo",
@@ -3667,13 +4711,19 @@
       "weight": 1050,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.5,
+      "fh": 10.3,
+      "fx": 14.8,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 370,
-      "price": "~$620,000"
+      "price": "~$620,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|Sport|2007|Twin Turbo": {
       "engine": "Audi 4.2T V8 Twin-Turbo",
@@ -3688,13 +4738,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.9,
+      "fh": 9.9,
+      "fx": 14.3,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 360,
-      "price": "~$490,000"
+      "price": "~$490,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|R|2007|Race": {
       "engine": "Audi 4.2T V8 Twin-Turbo",
@@ -3709,13 +4765,19 @@
       "weight": 1050,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.3,
+      "fh": 10.1,
+      "fx": 14.6,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 370,
-      "price": "~$620,000"
+      "price": "~$620,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|Sport|2008|Twin Turbo": {
       "engine": "Audi 4.2T V8 Twin-Turbo",
@@ -3730,13 +4792,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.6,
+      "fh": 9.8,
+      "fx": 14.1,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 360,
-      "price": "~$490,000"
+      "price": "~$490,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|R|2008|Race": {
       "engine": "Audi 4.2T V8 Twin-Turbo",
@@ -3751,13 +4819,19 @@
       "weight": 1050,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18,
+      "fh": 10,
+      "fx": 14.4,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 370,
-      "price": "~$620,000"
+      "price": "~$620,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|Sport|2009|Twin Turbo": {
       "engine": "Audi 4.2T V8 Twin-Turbo",
@@ -3772,13 +4846,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.4,
+      "fh": 9.6,
+      "fx": 13.9,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 360,
-      "price": "~$490,000"
+      "price": "~$490,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|R|2009|Race": {
       "engine": "Audi 4.2T V8 Twin-Turbo",
@@ -3793,13 +4873,19 @@
       "weight": 1050,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.9,
+      "fh": 9.9,
+      "fx": 14.3,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 370,
-      "price": "~$620,000"
+      "price": "~$620,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|Sport|2010|Twin Turbo": {
       "engine": "Audi 4.2T V8 Twin-Turbo",
@@ -3814,13 +4900,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.3,
+      "fh": 9.5,
+      "fx": 13.8,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 360,
-      "price": "~$490,000"
+      "price": "~$490,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|R|2010|Race": {
       "engine": "Audi 4.2T V8 Twin-Turbo",
@@ -3835,13 +4927,19 @@
       "weight": 1050,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.6,
+      "fh": 9.8,
+      "fx": 14.1,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 370,
-      "price": "~$620,000"
+      "price": "~$620,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|Sport|2011|Twin Turbo": {
       "engine": "Audi 4.2T V8 Twin-Turbo",
@@ -3856,13 +4954,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17,
+      "fh": 9.4,
+      "fx": 13.6,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 360,
-      "price": "~$490,000"
+      "price": "~$490,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|R|2011|Race": {
       "engine": "Audi 4.2T V8 Twin-Turbo",
@@ -3877,13 +4981,19 @@
       "weight": 1050,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.4,
+      "fh": 9.6,
+      "fx": 13.9,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 370,
-      "price": "~$620,000"
+      "price": "~$620,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|Sport|2012|Twin Turbo": {
       "engine": "Audi 4.2T V8 Twin-Turbo",
@@ -3898,13 +5008,19 @@
       "weight": 1100,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.8,
+      "fh": 9.2,
+      "fx": 13.4,
       "ft": "Petrol",
       "acceleration": 3,
       "topSpeed": 360,
-      "price": "~$490,000"
+      "price": "~$490,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|R|2012|Race": {
       "engine": "Audi 4.2T V8 Twin-Turbo",
@@ -3919,13 +5035,19 @@
       "weight": 1050,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.1,
+      "fh": 9.5,
+      "fx": 13.7,
       "ft": "Petrol",
       "acceleration": 2.8,
       "topSpeed": 370,
-      "price": "~$620,000"
+      "price": "~$620,000",
+      "quarterMile": "~10.8 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|IE|2019|V12": {
       "engine": "6.3L V12 NA",
@@ -3940,13 +5062,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17,
+      "fh": 9.4,
+      "fx": 13.6,
       "ft": "Petrol",
       "acceleration": 2.7,
       "topSpeed": 335,
-      "price": "~$2,700,000"
+      "price": "~$2,700,000",
+      "quarterMile": "~10.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|IE|2020|V12": {
       "engine": "6.3L V12 NA",
@@ -3961,13 +5089,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.9,
+      "fh": 9.3,
+      "fx": 13.5,
       "ft": "Petrol",
       "acceleration": 2.7,
       "topSpeed": 335,
-      "price": "~$2,700,000"
+      "price": "~$2,700,000",
+      "quarterMile": "~10.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|IE|2021|V12": {
       "engine": "6.3L V12 NA",
@@ -3982,13 +5116,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.6,
+      "fh": 9.3,
+      "fx": 13.3,
       "ft": "Petrol",
       "acceleration": 2.7,
       "topSpeed": 335,
-      "price": "~$2,700,000"
+      "price": "~$2,700,000",
+      "quarterMile": "~10.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|IE|2022|V12": {
       "engine": "6.3L V12 NA",
@@ -4003,13 +5143,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.4,
+      "fh": 9.1,
+      "fx": 13.1,
       "ft": "Petrol",
       "acceleration": 2.7,
       "topSpeed": 335,
-      "price": "~$2,700,000"
+      "price": "~$2,700,000",
+      "quarterMile": "~10.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Apollo|IE|2023|V12": {
       "engine": "6.3L V12 NA",
@@ -4024,13 +5170,19 @@
       "weight": 1250,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.3,
+      "fh": 9,
+      "fx": 13,
       "ft": "Petrol",
       "acceleration": 2.7,
       "topSpeed": 335,
-      "price": "~$2,700,000"
+      "price": "~$2,700,000",
+      "quarterMile": "~10.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Glickenhaus|SCG 003|2015|Competizione": {
       "engine": "Ferrari 3.5T V8 Twin-Turbo",
@@ -4045,13 +5197,19 @@
       "weight": 900,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.5,
+      "fh": 8.1,
+      "fx": 11.6,
       "ft": "Petrol",
       "acceleration": 3.5,
       "topSpeed": 320,
-      "price": "~$2,500,000"
+      "price": "~$2,500,000",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Glickenhaus|SCG 003|2016|Competizione": {
       "engine": "Ferrari 3.5T V8 Twin-Turbo",
@@ -4066,13 +5224,19 @@
       "weight": 900,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.4,
+      "fh": 8,
+      "fx": 11.5,
       "ft": "Petrol",
       "acceleration": 3.5,
       "topSpeed": 320,
-      "price": "~$2,500,000"
+      "price": "~$2,500,000",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Glickenhaus|SCG 003|2017|Competizione": {
       "engine": "Ferrari 3.5T V8 Twin-Turbo",
@@ -4087,13 +5251,19 @@
       "weight": 900,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.1,
+      "fh": 7.9,
+      "fx": 11.3,
       "ft": "Petrol",
       "acceleration": 3.5,
       "topSpeed": 320,
-      "price": "~$2,500,000"
+      "price": "~$2,500,000",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Glickenhaus|SCG 003|2018|Competizione": {
       "engine": "Ferrari 3.5T V8 Twin-Turbo",
@@ -4108,13 +5278,19 @@
       "weight": 900,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14,
+      "fh": 7.8,
+      "fx": 11.2,
       "ft": "Petrol",
       "acceleration": 3.5,
       "topSpeed": 320,
-      "price": "~$2,500,000"
+      "price": "~$2,500,000",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Glickenhaus|SCG 003|2019|Competizione": {
       "engine": "Ferrari 3.5T V8 Twin-Turbo",
@@ -4129,13 +5305,19 @@
       "weight": 900,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.9,
+      "fh": 7.7,
+      "fx": 11.1,
       "ft": "Petrol",
       "acceleration": 3.5,
       "topSpeed": 320,
-      "price": "~$2,500,000"
+      "price": "~$2,500,000",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Glickenhaus|SCG 003|2020|Competizione": {
       "engine": "Ferrari 3.5T V8 Twin-Turbo",
@@ -4150,13 +5332,19 @@
       "weight": 900,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.6,
+      "fh": 7.6,
+      "fx": 10.9,
       "ft": "Petrol",
       "acceleration": 3.5,
       "topSpeed": 320,
-      "price": "~$2,500,000"
+      "price": "~$2,500,000",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Glickenhaus|SCG 007|2021|LMH": {
       "engine": "3.5T V6 Twin-Turbo + Hybrid",
@@ -4171,13 +5359,19 @@
       "weight": 1030,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 8.8,
+      "fh": 6.4,
+      "fx": 7.7,
       "ft": "Petrol Hybrid",
       "acceleration": 3,
       "topSpeed": 340,
-      "price": "~$3,500,000"
+      "price": "~$3,500,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Glickenhaus|SCG 007|2022|LMH": {
       "engine": "3.5T V6 Twin-Turbo + Hybrid",
@@ -4192,13 +5386,19 @@
       "weight": 1030,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 8.7,
+      "fh": 6.3,
+      "fx": 7.6,
       "ft": "Petrol Hybrid",
       "acceleration": 3,
       "topSpeed": 340,
-      "price": "~$3,500,000"
+      "price": "~$3,500,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Glickenhaus|SCG 007|2023|LMH": {
       "engine": "3.5T V6 Twin-Turbo + Hybrid",
@@ -4213,13 +5413,19 @@
       "weight": 1030,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 8.7,
+      "fh": 6.3,
+      "fx": 7.6,
       "ft": "Petrol Hybrid",
       "acceleration": 3,
       "topSpeed": 340,
-      "price": "~$3,500,000"
+      "price": "~$3,500,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Glickenhaus|SCG 007|2024|LMH": {
       "engine": "3.5T V6 Twin-Turbo + Hybrid",
@@ -4234,13 +5440,19 @@
       "weight": 1030,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 8.6,
+      "fh": 6.2,
+      "fx": 7.5,
       "ft": "Petrol Hybrid",
       "acceleration": 3,
       "topSpeed": 340,
-      "price": "~$3,500,000"
+      "price": "~$3,500,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Glickenhaus|SCG 007|2025|LMH": {
       "engine": "3.5T V6 Twin-Turbo + Hybrid",
@@ -4255,13 +5467,19 @@
       "weight": 1030,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 8.5,
+      "fh": 6.1,
+      "fx": 7.4,
       "ft": "Petrol Hybrid",
       "acceleration": 3,
       "topSpeed": 340,
-      "price": "~$3,500,000"
+      "price": "~$3,500,000",
+      "quarterMile": "~11.1 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Gordon Murray|T.50|2022|Standard": {
       "engine": "GMA/Cosworth V12 3.9L",
@@ -4276,13 +5494,19 @@
       "weight": 986,
       "seats": 3,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.5,
+      "fh": 8.1,
+      "fx": 11.6,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 402,
-      "price": "~$3,600,000"
+      "price": "~$3,600,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Gordon Murray|T.50s|2022|Niki Lauda": {
       "engine": "GMA/Cosworth V12 3.9L",
@@ -4297,13 +5521,19 @@
       "weight": 852,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.4,
+      "fh": 8,
+      "fx": 11.5,
       "ft": "Petrol",
       "acceleration": 2.7,
       "topSpeed": 380,
-      "price": "~$4,300,000"
+      "price": "~$4,300,000",
+      "quarterMile": "~10.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Gordon Murray|T.50|2023|Standard": {
       "engine": "GMA/Cosworth V12 3.9L",
@@ -4318,13 +5548,19 @@
       "weight": 986,
       "seats": 3,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.3,
+      "fh": 7.9,
+      "fx": 11.4,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 402,
-      "price": "~$3,600,000"
+      "price": "~$3,600,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Gordon Murray|T.50s|2023|Niki Lauda": {
       "engine": "GMA/Cosworth V12 3.9L",
@@ -4339,13 +5575,19 @@
       "weight": 852,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.3,
+      "fh": 7.9,
+      "fx": 11.4,
       "ft": "Petrol",
       "acceleration": 2.7,
       "topSpeed": 380,
-      "price": "~$4,300,000"
+      "price": "~$4,300,000",
+      "quarterMile": "~10.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Gordon Murray|T.50|2024|Standard": {
       "engine": "GMA/Cosworth V12 3.9L",
@@ -4360,13 +5602,19 @@
       "weight": 986,
       "seats": 3,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.1,
+      "fh": 7.9,
+      "fx": 11.3,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 402,
-      "price": "~$3,600,000"
+      "price": "~$3,600,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Gordon Murray|T.50s|2024|Niki Lauda": {
       "engine": "GMA/Cosworth V12 3.9L",
@@ -4381,13 +5629,19 @@
       "weight": 852,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14,
+      "fh": 7.8,
+      "fx": 11.2,
       "ft": "Petrol",
       "acceleration": 2.7,
       "topSpeed": 380,
-      "price": "~$4,300,000"
+      "price": "~$4,300,000",
+      "quarterMile": "~10.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Gordon Murray|T.50|2025|Standard": {
       "engine": "GMA/Cosworth V12 3.9L",
@@ -4402,13 +5656,19 @@
       "weight": 986,
       "seats": 3,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14,
+      "fh": 7.8,
+      "fx": 11.2,
       "ft": "Petrol",
       "acceleration": 2.9,
       "topSpeed": 402,
-      "price": "~$3,600,000"
+      "price": "~$3,600,000",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Gordon Murray|T.50s|2025|Niki Lauda": {
       "engine": "GMA/Cosworth V12 3.9L",
@@ -4423,13 +5683,19 @@
       "weight": 852,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.9,
+      "fh": 7.7,
+      "fx": 11.1,
       "ft": "Petrol",
       "acceleration": 2.7,
       "topSpeed": 380,
-      "price": "~$4,300,000"
+      "price": "~$4,300,000",
+      "quarterMile": "~10.7 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hispano-Suiza|Carmen|2019|Standard": {
       "engine": "Quad-Motor Electric",
@@ -4450,7 +5716,8 @@
       "ft": "Electric",
       "acceleration": 3,
       "topSpeed": 250,
-      "price": "~$1,500,000"
+      "price": "~$1,500,000",
+      "quarterMile": "~11.1 sec"
     },
     "Hispano-Suiza|Carmen Biturbo|2019|Petrol": {
       "engine": "V8 Biturbo 4.0L",
@@ -4465,13 +5732,19 @@
       "weight": 1650,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.6,
+      "fh": 11.5,
+      "fx": 16.5,
       "ft": "Petrol",
       "acceleration": 2.6,
       "topSpeed": 290,
-      "price": "~$1,700,000"
+      "price": "~$1,700,000",
+      "quarterMile": "~10.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hispano-Suiza|Carmen|2020|Standard": {
       "engine": "Quad-Motor Electric",
@@ -4492,7 +5765,8 @@
       "ft": "Electric",
       "acceleration": 3,
       "topSpeed": 250,
-      "price": "~$1,500,000"
+      "price": "~$1,500,000",
+      "quarterMile": "~11.1 sec"
     },
     "Hispano-Suiza|Carmen Biturbo|2020|Petrol": {
       "engine": "V8 Biturbo 4.0L",
@@ -4507,13 +5781,19 @@
       "weight": 1650,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.4,
+      "fh": 11.3,
+      "fx": 16.3,
       "ft": "Petrol",
       "acceleration": 2.6,
       "topSpeed": 290,
-      "price": "~$1,700,000"
+      "price": "~$1,700,000",
+      "quarterMile": "~10.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hispano-Suiza|Carmen|2021|Standard": {
       "engine": "Quad-Motor Electric",
@@ -4534,7 +5814,8 @@
       "ft": "Electric",
       "acceleration": 3,
       "topSpeed": 250,
-      "price": "~$1,500,000"
+      "price": "~$1,500,000",
+      "quarterMile": "~11.1 sec"
     },
     "Hispano-Suiza|Carmen Biturbo|2021|Petrol": {
       "engine": "V8 Biturbo 4.0L",
@@ -4549,13 +5830,19 @@
       "weight": 1650,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20.1,
+      "fh": 11.2,
+      "fx": 16.1,
       "ft": "Petrol",
       "acceleration": 2.6,
       "topSpeed": 290,
-      "price": "~$1,700,000"
+      "price": "~$1,700,000",
+      "quarterMile": "~10.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hispano-Suiza|Carmen|2022|Standard": {
       "engine": "Quad-Motor Electric",
@@ -4576,7 +5863,8 @@
       "ft": "Electric",
       "acceleration": 3,
       "topSpeed": 250,
-      "price": "~$1,500,000"
+      "price": "~$1,500,000",
+      "quarterMile": "~11.1 sec"
     },
     "Hispano-Suiza|Carmen Biturbo|2022|Petrol": {
       "engine": "V8 Biturbo 4.0L",
@@ -4591,13 +5879,19 @@
       "weight": 1650,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 20,
+      "fh": 11.1,
+      "fx": 16,
       "ft": "Petrol",
       "acceleration": 2.6,
       "topSpeed": 290,
-      "price": "~$1,700,000"
+      "price": "~$1,700,000",
+      "quarterMile": "~10.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hispano-Suiza|Carmen|2023|Standard": {
       "engine": "Quad-Motor Electric",
@@ -4618,7 +5912,8 @@
       "ft": "Electric",
       "acceleration": 3,
       "topSpeed": 250,
-      "price": "~$1,500,000"
+      "price": "~$1,500,000",
+      "quarterMile": "~11.1 sec"
     },
     "Hispano-Suiza|Carmen Biturbo|2023|Petrol": {
       "engine": "V8 Biturbo 4.0L",
@@ -4633,13 +5928,19 @@
       "weight": 1650,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.8,
+      "fh": 10.9,
+      "fx": 15.8,
       "ft": "Petrol",
       "acceleration": 2.6,
       "topSpeed": 290,
-      "price": "~$1,700,000"
+      "price": "~$1,700,000",
+      "quarterMile": "~10.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hispano-Suiza|Carmen|2024|Standard": {
       "engine": "Quad-Motor Electric",
@@ -4660,7 +5961,8 @@
       "ft": "Electric",
       "acceleration": 3,
       "topSpeed": 250,
-      "price": "~$1,500,000"
+      "price": "~$1,500,000",
+      "quarterMile": "~11.1 sec"
     },
     "Hispano-Suiza|Carmen Biturbo|2024|Petrol": {
       "engine": "V8 Biturbo 4.0L",
@@ -4675,13 +5977,19 @@
       "weight": 1650,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19.5,
+      "fh": 10.8,
+      "fx": 15.6,
       "ft": "Petrol",
       "acceleration": 2.6,
       "topSpeed": 290,
-      "price": "~$1,700,000"
+      "price": "~$1,700,000",
+      "quarterMile": "~10.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     }
   }
 }

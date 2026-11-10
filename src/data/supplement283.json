@@ -1,7 +1,7 @@
 {
   "specs": {
     "CUPRA|Formentor|2026|V": {
-      "topSpeed": null,
+      "topSpeed": 195,
       "acceleration": 6.7,
       "cargo": 420,
       "seats": 5,
@@ -12,16 +12,24 @@
       "fuelType": "petrol",
       "transmission": "7-speed dual-clutch",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 8.8,
+      "fh": 4.8,
       "power": 150,
       "torque": 320,
       "fx": 7,
       "price": "$51,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1645,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~14.9 sec"
     },
     "CUPRA|Formentor|2026|VZx": {
-      "topSpeed": null,
+      "topSpeed": 250,
       "acceleration": 4.8,
       "cargo": 420,
       "seats": 5,
@@ -32,13 +40,21 @@
       "fuelType": "petrol",
       "transmission": "7-speed dual-clutch",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 10.4,
+      "fh": 5.7,
       "power": 245,
       "torque": 420,
       "fx": 8.3,
       "price": "$65,790",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1645,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~13.1 sec"
     },
     "CUPRA|Formentor|2026|VZ5": {
       "topSpeed": 280,
@@ -52,14 +68,21 @@
       "fuelType": "petrol",
       "transmission": "7-speed dual-clutch",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 11.6,
+      "fh": 6.5,
       "power": 287,
       "torque": 480,
       "fx": 9.3,
       "fuelTank": 55,
       "price": "$94,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1645,
+      "est": [
+        "weight",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~12.5 sec"
     },
     "Polestar|Polestar 2|2026|Standard Range Single Motor": {
       "topSpeed": 205,

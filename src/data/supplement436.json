@@ -6,7 +6,7 @@
       "aspiration": "Turbo",
       "fuelType": "petrol",
       "cargo": null,
-      "weight": null,
+      "weight": 1655,
       "accelClaimed": true,
       "engine": "1.3L I4 Turbo Petrol",
       "displacement": 1332,
@@ -20,7 +20,11 @@
       "acceleration": 8.4,
       "topSpeed": 229,
       "fuelTank": 43,
-      "price": "$76,900"
+      "price": "$76,900",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~16.4 sec"
     },
     "Mercedes-Benz|CLA|2024|CLA250": {
       "seats": 5,
@@ -28,7 +32,7 @@
       "aspiration": "Turbo",
       "fuelType": "petrol",
       "cargo": null,
-      "weight": null,
+      "weight": 1655,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -42,7 +46,11 @@
       "fx": 7.3,
       "acceleration": 6.4,
       "topSpeed": 250,
-      "price": "$85,900"
+      "price": "$85,900",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~14.7 sec"
     },
     "Mercedes-Benz|CLA|2024|CLA35 AMG": {
       "seats": 5,
@@ -50,7 +58,7 @@
       "aspiration": "Turbo",
       "fuelType": "petrol",
       "cargo": null,
-      "weight": null,
+      "weight": 1685,
       "accelClaimed": true,
       "engine": "2.0L I4 Turbo Petrol",
       "displacement": 1991,
@@ -64,7 +72,11 @@
       "fx": 8.2,
       "acceleration": 4.9,
       "topSpeed": 250,
-      "price": "$99,900"
+      "price": "$99,900",
+      "est": [
+        "weight"
+      ],
+      "quarterMile": "~13.2 sec"
     },
     "Mercedes-Benz|CLA|2024|CLA45 S AMG": {
       "seats": 5,
@@ -86,7 +98,8 @@
       "fx": 9.3,
       "acceleration": 4.1,
       "topSpeed": 270,
-      "price": "$126,500"
+      "price": "$126,500",
+      "quarterMile": "~12.4 sec"
     }
   }
 }

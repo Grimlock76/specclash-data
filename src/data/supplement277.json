@@ -20,7 +20,8 @@
       "weight": 1390,
       "fuelTank": 49,
       "price": "$59,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.5 sec"
     },
     "BMW|1 Series|2026|118 M Sport Sport Collection": {
       "topSpeed": 226,
@@ -42,7 +43,8 @@
       "weight": 1390,
       "fuelTank": 49,
       "price": "$64,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.5 sec"
     },
     "BMW|1 Series|2026|120 M Sport": {
       "topSpeed": 246,
@@ -64,7 +66,8 @@
       "weight": 1425,
       "fuelTank": 49,
       "price": "$62,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.4 sec"
     },
     "BMW|1 Series|2026|M135 xDrive": {
       "topSpeed": 250,
@@ -86,7 +89,8 @@
       "weight": 1550,
       "fuelTank": 49,
       "price": "$85,500",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~13.2 sec"
     },
     "BMW|M2|2026|M2 Coupe Auto": {
       "topSpeed": 250,
@@ -105,7 +109,14 @@
       "fx": 9.7,
       "weight": 1730,
       "price": "$128,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.3 sec",
+      "fc": 12.1,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 6.8
     },
     "BMW|M2|2026|M2 Coupe Manual": {
       "topSpeed": 250,
@@ -124,7 +135,14 @@
       "fx": 10.1,
       "weight": 1704,
       "price": "$128,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.5 sec",
+      "fc": 12.6,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 7
     },
     "BMW|M2|2026|M2 M xDrive": {
       "topSpeed": 250,
@@ -142,7 +160,16 @@
       "torque": 600,
       "weight": 1790,
       "price": "$133,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.9 sec",
+      "fx": 9.8,
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "fc": 12.3,
+      "fh": 6.7
     },
     "BMW|M2|2026|M2 CS": {
       "topSpeed": 302,
@@ -161,12 +188,19 @@
       "fx": 10,
       "weight": 1700,
       "price": "$172,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.0 sec",
+      "fc": 12.5,
+      "est": [
+        "fc",
+        "fh"
+      ],
+      "fh": 6.9
     },
     "BMW|M4|2026|M4 Coupe Manual": {
       "topSpeed": 250,
       "acceleration": 4.2,
-      "cargo": null,
+      "cargo": 440,
       "seats": 4,
       "transmission": "6-speed manual",
       "engine": "3.0L I6 Twin-Turbo Petrol",
@@ -183,12 +217,16 @@
       "weight": 1700,
       "fuelTank": 59,
       "price": "$174,600",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.5 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|M4|2026|M4 Competition xDrive": {
       "topSpeed": 250,
       "acceleration": 3.5,
-      "cargo": null,
+      "cargo": 440,
       "seats": 4,
       "transmission": "8-speed automatic",
       "engine": "3.0L I6 Twin-Turbo Petrol",
@@ -204,12 +242,16 @@
       "fx": 9.6,
       "weight": 1775,
       "price": "$192,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|M4|2026|M4 Competition xDrive Convertible": {
       "topSpeed": 250,
       "acceleration": 3.7,
-      "cargo": null,
+      "cargo": 440,
       "seats": 4,
       "transmission": "8-speed automatic",
       "engine": "3.0L I6 Twin-Turbo Petrol",
@@ -225,7 +267,11 @@
       "fx": 10.4,
       "weight": 1925,
       "price": "$203,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~11.9 sec",
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

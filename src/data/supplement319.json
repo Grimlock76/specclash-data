@@ -1,8 +1,8 @@
 {
   "specs": {
     "Hyundai|Santa Fe|2024|Santa Fe": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 200,
+      "acceleration": 8.2,
       "cargo": null,
       "engine": "2.5L I4 Turbo Petrol",
       "displacement": 2497,
@@ -20,11 +20,15 @@
       "fuelTank": 67,
       "drivetrain": "FWD",
       "weight": 1969,
-      "price": "$53,250"
+      "price": "$53,250",
+      "quarterMile": "~16.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Santa Fe|2024|Elite AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 200,
+      "acceleration": 8,
       "cargo": null,
       "engine": "2.5L I4 Turbo Petrol",
       "displacement": 2497,
@@ -42,11 +46,15 @@
       "fuelTank": 67,
       "drivetrain": "AWD",
       "weight": 2034,
-      "price": "$62,750"
+      "price": "$62,750",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Santa Fe|2024|Calligraphy AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 200,
+      "acceleration": 8,
       "cargo": null,
       "engine": "2.5L I4 Turbo Petrol",
       "displacement": 2497,
@@ -64,11 +72,15 @@
       "fuelTank": 67,
       "drivetrain": "AWD",
       "weight": 2034,
-      "price": "$72,750"
+      "price": "$72,750",
+      "quarterMile": "~16.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Santa Fe|2024|Hybrid": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 9.7,
       "cargo": null,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -85,11 +97,15 @@
       "towing": 1650,
       "drivetrain": "FWD",
       "weight": 2040,
-      "price": "$57,250"
+      "price": "$57,250",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Hyundai|Santa Fe|2024|Hybrid Elite AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 9.5,
       "cargo": null,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -105,11 +121,17 @@
       "seats": 7,
       "towing": 1650,
       "drivetrain": "AWD",
-      "price": "$66,750"
+      "price": "$66,750",
+      "weight": 2035,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.2 sec"
     },
     "Hyundai|Santa Fe|2024|Hybrid Calligraphy AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 9.5,
       "cargo": null,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -125,12 +147,18 @@
       "seats": 7,
       "towing": 1650,
       "drivetrain": "AWD",
-      "price": "$76,750"
+      "price": "$76,750",
+      "weight": 2035,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.2 sec"
     },
     "Kia|Carnival|2024|S (KA4)": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 185,
+      "acceleration": 11.5,
+      "cargo": 627,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
       "cylinders": 4,
@@ -147,12 +175,17 @@
       "towing": 2000,
       "fuelTank": 72,
       "weight": 2134,
-      "price": null
+      "price": null,
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Kia|Carnival|2024|Si (KA4)": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 185,
+      "acceleration": 11.5,
+      "cargo": 627,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
       "cylinders": 4,
@@ -169,12 +202,17 @@
       "towing": 2000,
       "fuelTank": 72,
       "weight": 2134,
-      "price": null
+      "price": null,
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Kia|Carnival|2024|SLi (KA4)": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 185,
+      "acceleration": 11.5,
+      "cargo": 627,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
       "cylinders": 4,
@@ -191,12 +229,17 @@
       "towing": 2000,
       "fuelTank": 72,
       "weight": 2134,
-      "price": null
+      "price": null,
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Kia|Carnival|2024|Platinum (KA4)": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 185,
+      "acceleration": 11.5,
+      "cargo": 627,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
       "cylinders": 4,
@@ -213,12 +256,17 @@
       "towing": 2000,
       "fuelTank": 72,
       "weight": 2134,
-      "price": null
+      "price": null,
+      "quarterMile": "~18.5 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Kia|Carnival|2024|S": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 185,
+      "acceleration": 11.9,
+      "cargo": 627,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
       "cylinders": 4,
@@ -235,12 +283,17 @@
       "towing": 2000,
       "fuelTank": 72,
       "weight": 2245,
-      "price": "$52,380"
+      "price": "$52,380",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Kia|Carnival|2024|Sport": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 185,
+      "acceleration": 11.9,
+      "cargo": 627,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
       "cylinders": 4,
@@ -257,12 +310,17 @@
       "towing": 2000,
       "fuelTank": 72,
       "weight": 2245,
-      "price": "$58,280"
+      "price": "$58,280",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Kia|Carnival|2024|Sport+": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 185,
+      "acceleration": 11.9,
+      "cargo": 627,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
       "cylinders": 4,
@@ -279,12 +337,17 @@
       "towing": 2000,
       "fuelTank": 72,
       "weight": 2245,
-      "price": "$64,610"
+      "price": "$64,610",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Kia|Carnival|2024|GT-Line": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 185,
+      "acceleration": 11.9,
+      "cargo": 627,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
       "cylinders": 4,
@@ -301,19 +364,24 @@
       "towing": 2000,
       "fuelTank": 72,
       "weight": 2245,
-      "price": "$72,910"
+      "price": "$72,910",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Kia|Carnival|2024|GT-Line HEV": {
-      "topSpeed": null,
-      "acceleration": null,
-      "cargo": null,
+      "topSpeed": 195,
+      "acceleration": 10.9,
+      "cargo": 627,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
       "cylinders": 4,
       "aspiration": "Turbo",
       "fuelType": "hybrid",
       "power": 180,
-      "torque": null,
+      "torque": 365,
       "transmission": "6-speed automatic",
       "drivetrain": "FWD",
       "fc": 4.2,
@@ -322,11 +390,17 @@
       "weight": 2334,
       "seats": 8,
       "towing": 1000,
-      "price": "$76,210"
+      "price": "$76,210",
+      "est": [
+        "torque",
+        "topSpeed",
+        "cargo"
+      ],
+      "quarterMile": "~18.1 sec"
     },
     "Kia|Sorento|2024|S Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 9.2,
       "cargo": null,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
@@ -343,11 +417,17 @@
       "seats": 7,
       "towing": 2000,
       "fuelTank": 67,
-      "price": "$53,680"
+      "price": "$53,680",
+      "weight": 1830,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Kia|Sorento|2024|Sport Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 9.2,
       "cargo": null,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
@@ -364,11 +444,17 @@
       "seats": 7,
       "towing": 2000,
       "fuelTank": 67,
-      "price": "$56,300"
+      "price": "$56,300",
+      "weight": 1830,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Kia|Sorento|2024|Sport+ Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 9.2,
       "cargo": null,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
@@ -385,11 +471,17 @@
       "seats": 7,
       "towing": 2000,
       "fuelTank": 67,
-      "price": "$61,230"
+      "price": "$61,230",
+      "weight": 1830,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Kia|Sorento|2024|GT-Line Diesel AWD": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 9.2,
       "cargo": null,
       "engine": "2.2L I4 Turbo Diesel",
       "displacement": 2151,
@@ -406,11 +498,17 @@
       "seats": 7,
       "towing": 2000,
       "fuelTank": 67,
-      "price": "$68,590"
+      "price": "$68,590",
+      "weight": 1830,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Kia|Sorento|2024|HEV GT-Line": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 190,
+      "acceleration": 9.2,
       "cargo": null,
       "engine": "1.6L I4 Turbo Hybrid",
       "displacement": 1598,
@@ -418,7 +516,7 @@
       "aspiration": "Turbo",
       "fuelType": "hybrid",
       "power": 169,
-      "torque": null,
+      "torque": 350,
       "transmission": "6-speed automatic",
       "drivetrain": "FWD",
       "fc": 4.7,
@@ -427,11 +525,16 @@
       "seats": 7,
       "towing": 1650,
       "weight": 1951,
-      "price": "$70,330"
+      "price": "$70,330",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Kia|Sorento|2024|PHEV GT-Line": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 200,
+      "acceleration": 8.2,
       "cargo": null,
       "engine": "1.6L I4 Turbo PHEV",
       "displacement": 1598,
@@ -439,17 +542,26 @@
       "aspiration": "Turbo",
       "fuelType": "plug-in hybrid",
       "power": 195,
-      "torque": null,
+      "torque": 350,
       "transmission": "6-speed automatic",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.8,
+      "fh": 1.4,
       "fx": 1.6,
       "seats": 7,
       "towing": 1010,
       "battery": "14 kWh",
       "range": 55,
-      "price": "$84,660"
+      "price": "$84,660",
+      "weight": 1995,
+      "est": [
+        "weight",
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~16.2 sec"
     }
   }
 }

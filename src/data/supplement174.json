@@ -17,7 +17,12 @@
       "acceleration": 3.3,
       "topSpeed": 312,
       "price": "~$264,000",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~11.4 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2023|GT3 RS": {
       "engine": "4.0L Flat-6 NA",
@@ -36,7 +41,12 @@
       "acceleration": 3.2,
       "topSpeed": 296,
       "price": "~$530,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~11.3 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2023|Turbo": {
       "engine": "3.8L Flat-6 Twin-Turbo",
@@ -55,7 +65,12 @@
       "acceleration": 3,
       "topSpeed": 320,
       "price": "~$365,000",
-      "aspiration": "BorgWarner VTG Twin-Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo",
+      "quarterMile": "~11.1 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2023|Turbo Cabriolet": {
       "engine": "3.8L Flat-6 Twin-Turbo",
@@ -74,7 +89,12 @@
       "acceleration": 3.1,
       "topSpeed": 320,
       "price": "~$385,000",
-      "aspiration": "BorgWarner VTG Twin-Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo",
+      "quarterMile": "~11.2 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2023|Turbo S": {
       "engine": "3.7 Flat-6 Biturbo",
@@ -93,7 +113,12 @@
       "acceleration": 2.7,
       "topSpeed": 330,
       "price": "~$454,000",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~10.7 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|911|2023|Turbo S Cabriolet": {
       "engine": "3.8L Flat-6 Twin-Turbo",
@@ -112,7 +137,12 @@
       "acceleration": 2.7,
       "topSpeed": 330,
       "price": "~$445,000",
-      "aspiration": "BorgWarner VTG Twin-Turbo"
+      "aspiration": "BorgWarner VTG Twin-Turbo",
+      "quarterMile": "~10.7 sec",
+      "cargo": 132,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Taycan|2023|Sport Turismo": {
       "engine": "Single Motor Electric",
@@ -131,7 +161,12 @@
       "acceleration": 5.5,
       "topSpeed": 230,
       "price": "~$151,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.8 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Taycan|2023|Taycan 4": {
       "engine": "Dual Motor Electric",
@@ -150,7 +185,12 @@
       "acceleration": 4.8,
       "topSpeed": 230,
       "price": "~$163,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.1 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Taycan|2023|Taycan Turbo": {
       "engine": "Dual Motor Electric",
@@ -169,7 +209,12 @@
       "acceleration": 2.8,
       "topSpeed": 260,
       "price": "~$282,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~10.8 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|S-Class|2023|S 450": {
       "engine": "3.0L I6 Turbo MHEV",
@@ -188,7 +233,12 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$249,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.2 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|S-Class|2023|S 580 4MATIC": {
       "engine": "4.0L V8 Biturbo MHEV",
@@ -207,7 +257,12 @@
       "acceleration": 4.3,
       "topSpeed": 250,
       "price": "~$339,900",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~12.6 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|S-Class|2023|S 63 AMG e Performance": {
       "engine": "4.0L V8 PHEV AMG",
@@ -220,13 +275,20 @@
       "torque": 1150,
       "weight": 2655,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.2,
+      "fh": 2.3,
       "fx": 2.8,
       "acceleration": 3.3,
       "topSpeed": 250,
       "price": "~$509,900",
-      "aspiration": "IHI Twin-Turbo PHEV"
+      "aspiration": "IHI Twin-Turbo PHEV",
+      "quarterMile": "~11.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 510
     },
     "Mercedes-Benz|S-Class|2023|Maybach S 580 4MATIC": {
       "engine": "4.0L V8 Biturbo MHEV",
@@ -245,7 +307,12 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$679,900",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|AMG GT|2023|AMG GT 55 4MATIC+": {
       "engine": "4.0L V8 Biturbo AMG",
@@ -264,7 +331,12 @@
       "acceleration": 4,
       "topSpeed": 290,
       "price": "~$259,900",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~12.3 sec",
+      "cargo": 350,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|AMG GT|2023|AMG GT 63 S E Performance": {
       "engine": "4.0L V8 PHEV AMG",
@@ -277,13 +349,20 @@
       "torque": 1400,
       "weight": 2370,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 2.7,
+      "fh": 2,
       "fx": 2.4,
       "acceleration": 2.9,
       "topSpeed": 316,
       "price": "~$479,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~10.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 350
     },
     "Lexus|ES|2023|ES 300h F Sport": {
       "engine": "2.5L I4 Atkinson Hybrid",
@@ -302,7 +381,12 @@
       "acceleration": 8.1,
       "topSpeed": 180,
       "price": "~$76,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.2 sec",
+      "cargo": 473,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|ES|2023|ES 300h Sports Luxury": {
       "engine": "2.5L I4 Atkinson Hybrid",
@@ -321,7 +405,12 @@
       "acceleration": 8.1,
       "topSpeed": 180,
       "price": "~$71,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.2 sec",
+      "cargo": 473,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LX|2023|LX 600 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -340,7 +429,12 @@
       "acceleration": 7.4,
       "topSpeed": 210,
       "price": "~$209,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~15.5 sec",
+      "cargo": 500,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LX|2023|LX 600 Sports Luxury": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -359,7 +453,12 @@
       "acceleration": 7.4,
       "topSpeed": 210,
       "price": "~$199,990",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~15.5 sec",
+      "cargo": 500,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RX|2023|RX 350h": {
       "engine": "2.5L I4 Atkinson Hybrid",
@@ -378,7 +477,8 @@
       "acceleration": 7.9,
       "topSpeed": 180,
       "price": "~$74,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.0 sec"
     },
     "Lexus|RX|2023|RX 350h F Sport": {
       "engine": "2.5L I4 Atkinson Hybrid AWD",
@@ -397,7 +497,8 @@
       "acceleration": 7.2,
       "topSpeed": 200,
       "price": "~$85,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.4 sec"
     },
     "Lexus|RX|2023|RX 500h F Sport Performance": {
       "engine": "2.4L I4 Turbo Hybrid AWD",
@@ -416,7 +517,8 @@
       "acceleration": 5,
       "topSpeed": 200,
       "price": "~$112,990",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~13.3 sec"
     },
     "Bentley|Bentayga|2023|S": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -435,7 +537,8 @@
       "acceleration": 4.4,
       "topSpeed": 290,
       "price": "~$354,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.7 sec"
     },
     "Bentley|Bentayga|2023|EWB": {
       "engine": "4.0L V8 Twin-Turbo",
@@ -454,7 +557,8 @@
       "acceleration": 4.5,
       "topSpeed": 290,
       "price": "~$454,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.8 sec"
     }
   }
 }

@@ -17,7 +17,8 @@
       "acceleration": 6.7,
       "topSpeed": 180,
       "price": "~$45,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.9 sec"
     },
     "Smart|#1|2024|Premium": {
       "engine": "Electric Single Motor",
@@ -36,7 +37,8 @@
       "acceleration": 6.7,
       "topSpeed": 180,
       "price": "~$52,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.9 sec"
     },
     "Smart|#1|2024|Brabus": {
       "engine": "Electric Dual Motor",
@@ -55,7 +57,8 @@
       "acceleration": 3.9,
       "topSpeed": 180,
       "price": "~$59,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.2 sec"
     },
     "Smart|#3|2024|Pro+": {
       "engine": "Electric Single Motor",
@@ -74,7 +77,8 @@
       "acceleration": 6.7,
       "topSpeed": 180,
       "price": "~$47,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.9 sec"
     },
     "Smart|#3|2024|Brabus": {
       "engine": "Electric Dual Motor",
@@ -93,7 +97,8 @@
       "acceleration": 3.7,
       "topSpeed": 180,
       "price": "~$63,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.9 sec"
     },
     "Audi|Q3|2025|40 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -112,7 +117,12 @@
       "acceleration": 7.9,
       "topSpeed": 209,
       "price": "~$55,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.0 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|Q5 Sportback|2025|SQ5 Sportback": {
       "engine": "3.0 TFSI V6",
@@ -131,7 +141,12 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$112,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.2 sec",
+      "cargo": 515,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|A4|2025|40 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -150,7 +165,12 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "price": "~$78,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.6 sec",
+      "cargo": 495,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|A6|2025|55 TFSI quattro": {
       "engine": "3.0 TFSI V6",
@@ -169,7 +189,12 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$122,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.4 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|Q7|2025|45 TDI quattro": {
       "engine": "3.0 TDI V6",
@@ -188,7 +213,12 @@
       "acceleration": 6.5,
       "topSpeed": 230,
       "price": "~$107,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~14.8 sec",
+      "cargo": 770,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

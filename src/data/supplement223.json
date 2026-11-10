@@ -13,13 +13,19 @@
       "weight": 3654,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 32.2,
+      "fh": 18.4,
+      "fx": 26,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1992|Open Top": {
       "engine": "6.5L Turbo Diesel V8",
@@ -34,13 +40,19 @@
       "weight": 3560,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 31.2,
+      "fh": 17.9,
+      "fx": 25.2,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$75,000"
+      "price": "~$75,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1992|Wagon": {
       "engine": "6.5L Turbo Diesel V8",
@@ -55,13 +67,19 @@
       "weight": 3765,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 33.4,
+      "fh": 19.2,
+      "fx": 27,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1992|Pickup": {
       "engine": "6.5L Turbo Diesel V8",
@@ -76,13 +94,19 @@
       "weight": 3654,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 32.2,
+      "fh": 18.4,
+      "fx": 26,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$82,000"
+      "price": "~$82,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1993|Hard Top": {
       "engine": "6.5L Turbo Diesel V8",
@@ -97,13 +121,19 @@
       "weight": 3654,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 31.7,
+      "fh": 18.1,
+      "fx": 25.6,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1993|Open Top": {
       "engine": "6.5L Turbo Diesel V8",
@@ -118,13 +148,19 @@
       "weight": 3560,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30.7,
+      "fh": 17.6,
+      "fx": 24.8,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$75,000"
+      "price": "~$75,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1993|Wagon": {
       "engine": "6.5L Turbo Diesel V8",
@@ -139,13 +175,19 @@
       "weight": 3765,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 32.8,
+      "fh": 18.8,
+      "fx": 26.5,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1993|Pickup": {
       "engine": "6.5L Turbo Diesel V8",
@@ -160,13 +202,19 @@
       "weight": 3654,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 31.7,
+      "fh": 18.1,
+      "fx": 25.6,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$82,000"
+      "price": "~$82,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1994|Hard Top": {
       "engine": "6.5L Turbo Diesel V8",
@@ -181,13 +229,19 @@
       "weight": 3654,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 31.1,
+      "fh": 17.8,
+      "fx": 25.1,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1994|Open Top": {
       "engine": "6.5L Turbo Diesel V8",
@@ -202,13 +256,19 @@
       "weight": 3560,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30.2,
+      "fh": 17.3,
+      "fx": 24.4,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$75,000"
+      "price": "~$75,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1994|Wagon": {
       "engine": "6.5L Turbo Diesel V8",
@@ -223,13 +283,19 @@
       "weight": 3765,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 32.2,
+      "fh": 18.4,
+      "fx": 26,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1994|Pickup": {
       "engine": "6.5L Turbo Diesel V8",
@@ -244,13 +310,19 @@
       "weight": 3654,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 31.1,
+      "fh": 17.8,
+      "fx": 25.1,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$82,000"
+      "price": "~$82,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1995|Hard Top": {
       "engine": "6.5L Turbo Diesel V8",
@@ -265,13 +337,19 @@
       "weight": 3654,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30.6,
+      "fh": 17.5,
+      "fx": 24.7,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1995|Open Top": {
       "engine": "6.5L Turbo Diesel V8",
@@ -286,13 +364,19 @@
       "weight": 3560,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.7,
+      "fh": 17,
+      "fx": 24,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$75,000"
+      "price": "~$75,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1995|Wagon": {
       "engine": "6.5L Turbo Diesel V8",
@@ -307,13 +391,19 @@
       "weight": 3765,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 31.7,
+      "fh": 18.1,
+      "fx": 25.6,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1995|Pickup": {
       "engine": "6.5L Turbo Diesel V8",
@@ -328,13 +418,19 @@
       "weight": 3654,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30.6,
+      "fh": 17.5,
+      "fx": 24.7,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$82,000"
+      "price": "~$82,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1996|Hard Top": {
       "engine": "6.5L Turbo Diesel V8",
@@ -349,13 +445,19 @@
       "weight": 3654,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30.1,
+      "fh": 17.2,
+      "fx": 24.3,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1996|Open Top": {
       "engine": "6.5L Turbo Diesel V8",
@@ -370,13 +472,19 @@
       "weight": 3560,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.2,
+      "fh": 16.8,
+      "fx": 23.6,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1996|Wagon": {
       "engine": "6.5L Turbo Diesel V8",
@@ -391,13 +499,19 @@
       "weight": 3765,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 31.1,
+      "fh": 17.8,
+      "fx": 25.1,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1996|Pickup": {
       "engine": "6.5L Turbo Diesel V8",
@@ -412,13 +526,19 @@
       "weight": 3654,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30.1,
+      "fh": 17.2,
+      "fx": 24.3,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$92,000"
+      "price": "~$92,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1997|Hard Top": {
       "engine": "6.5L Turbo Diesel V8",
@@ -433,13 +553,19 @@
       "weight": 3654,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.6,
+      "fh": 16.9,
+      "fx": 23.9,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1997|Open Top": {
       "engine": "6.5L Turbo Diesel V8",
@@ -454,13 +580,19 @@
       "weight": 3560,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.6,
+      "fh": 16.4,
+      "fx": 23.1,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1997|Wagon": {
       "engine": "6.5L Turbo Diesel V8",
@@ -475,13 +607,19 @@
       "weight": 3765,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30.6,
+      "fh": 17.5,
+      "fx": 24.7,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1997|Pickup": {
       "engine": "6.5L Turbo Diesel V8",
@@ -496,13 +634,19 @@
       "weight": 3654,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.6,
+      "fh": 16.9,
+      "fx": 23.9,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$92,000"
+      "price": "~$92,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1998|Hard Top": {
       "engine": "6.5L Turbo Diesel V8",
@@ -517,13 +661,19 @@
       "weight": 3654,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.1,
+      "fh": 16.7,
+      "fx": 23.5,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1998|Open Top": {
       "engine": "6.5L Turbo Diesel V8",
@@ -538,13 +688,19 @@
       "weight": 3560,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.1,
+      "fh": 16.1,
+      "fx": 22.7,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1998|Wagon": {
       "engine": "6.5L Turbo Diesel V8",
@@ -559,13 +715,19 @@
       "weight": 3765,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 30.1,
+      "fh": 17.2,
+      "fx": 24.3,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1998|Pickup": {
       "engine": "6.5L Turbo Diesel V8",
@@ -580,13 +742,19 @@
       "weight": 3654,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.1,
+      "fh": 16.7,
+      "fx": 23.5,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$92,000"
+      "price": "~$92,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1999|Hard Top": {
       "engine": "6.5L Turbo Diesel V8",
@@ -601,13 +769,19 @@
       "weight": 3654,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.5,
+      "fh": 16.3,
+      "fx": 23,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1999|Open Top": {
       "engine": "6.5L Turbo Diesel V8",
@@ -622,13 +796,19 @@
       "weight": 3560,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.7,
+      "fh": 15.9,
+      "fx": 22.4,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1999|Wagon": {
       "engine": "6.5L Turbo Diesel V8",
@@ -643,13 +823,19 @@
       "weight": 3765,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.6,
+      "fh": 16.9,
+      "fx": 23.9,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|1999|Pickup": {
       "engine": "6.5L Turbo Diesel V8",
@@ -664,13 +850,19 @@
       "weight": 3654,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.5,
+      "fh": 16.3,
+      "fx": 23,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$92,000"
+      "price": "~$92,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2000|Hard Top": {
       "engine": "6.5L Turbo Diesel V8",
@@ -685,13 +877,19 @@
       "weight": 3654,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.1,
+      "fh": 16.1,
+      "fx": 22.7,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2000|Open Top": {
       "engine": "6.5L Turbo Diesel V8",
@@ -706,13 +904,19 @@
       "weight": 3560,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.2,
+      "fh": 15.6,
+      "fx": 22,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$85,000"
+      "price": "~$85,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2000|Wagon": {
       "engine": "6.5L Turbo Diesel V8",
@@ -727,13 +931,19 @@
       "weight": 3765,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 29.1,
+      "fh": 16.7,
+      "fx": 23.5,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2000|Pickup": {
       "engine": "6.5L Turbo Diesel V8",
@@ -748,13 +958,19 @@
       "weight": 3654,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.1,
+      "fh": 16.1,
+      "fx": 22.7,
       "ft": "Diesel",
       "acceleration": 17,
       "topSpeed": 145,
-      "price": "~$92,000"
+      "price": "~$92,000",
+      "quarterMile": "~21.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2001|Hard Top": {
       "engine": "6.6L Duramax Diesel V8",
@@ -769,13 +985,19 @@
       "weight": 3720,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.5,
+      "fh": 15.7,
+      "fx": 22.2,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$130,000"
+      "price": "~$130,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2001|Open Top": {
       "engine": "6.6L Duramax Diesel V8",
@@ -790,13 +1012,19 @@
       "weight": 3620,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.6,
+      "fh": 15.3,
+      "fx": 21.5,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$125,000"
+      "price": "~$125,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2001|Wagon": {
       "engine": "6.6L Duramax Diesel V8",
@@ -811,13 +1039,19 @@
       "weight": 3800,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 28.2,
+      "fh": 16.2,
+      "fx": 22.8,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$135,000"
+      "price": "~$135,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2001|Alpha": {
       "engine": "6.6L Duramax Diesel V8",
@@ -832,13 +1066,19 @@
       "weight": 3720,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.5,
+      "fh": 15.7,
+      "fx": 22.2,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$145,000"
+      "price": "~$145,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2002|Hard Top": {
       "engine": "6.6L Duramax Diesel V8",
@@ -853,13 +1093,19 @@
       "weight": 3720,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27,
+      "fh": 15.4,
+      "fx": 21.8,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$130,000"
+      "price": "~$130,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2002|Open Top": {
       "engine": "6.6L Duramax Diesel V8",
@@ -874,13 +1120,19 @@
       "weight": 3620,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.1,
+      "fh": 15,
+      "fx": 21.1,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$125,000"
+      "price": "~$125,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2002|Wagon": {
       "engine": "6.6L Duramax Diesel V8",
@@ -895,13 +1147,19 @@
       "weight": 3800,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.7,
+      "fh": 15.9,
+      "fx": 22.4,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$135,000"
+      "price": "~$135,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2002|Alpha": {
       "engine": "6.6L Duramax Diesel V8",
@@ -916,13 +1174,19 @@
       "weight": 3720,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27,
+      "fh": 15.4,
+      "fx": 21.8,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$145,000"
+      "price": "~$145,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2003|Hard Top": {
       "engine": "6.6L Duramax Diesel V8",
@@ -937,13 +1201,19 @@
       "weight": 3720,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.5,
+      "fh": 15.2,
+      "fx": 21.4,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$130,000"
+      "price": "~$130,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2003|Open Top": {
       "engine": "6.6L Duramax Diesel V8",
@@ -958,13 +1228,19 @@
       "weight": 3620,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.8,
+      "fh": 14.7,
+      "fx": 20.8,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$125,000"
+      "price": "~$125,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2003|Wagon": {
       "engine": "6.6L Duramax Diesel V8",
@@ -979,13 +1255,19 @@
       "weight": 3800,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 27.2,
+      "fh": 15.6,
+      "fx": 22,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$135,000"
+      "price": "~$135,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2003|Alpha": {
       "engine": "6.6L Duramax Diesel V8",
@@ -1000,13 +1282,19 @@
       "weight": 3720,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.5,
+      "fh": 15.2,
+      "fx": 21.4,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$145,000"
+      "price": "~$145,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2004|Hard Top": {
       "engine": "6.6L Duramax Diesel V8",
@@ -1021,13 +1309,19 @@
       "weight": 3720,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.1,
+      "fh": 15,
+      "fx": 21.1,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$130,000"
+      "price": "~$130,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2004|Open Top": {
       "engine": "6.6L Duramax Diesel V8",
@@ -1042,13 +1336,19 @@
       "weight": 3620,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.3,
+      "fh": 14.4,
+      "fx": 20.4,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$125,000"
+      "price": "~$125,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2004|Wagon": {
       "engine": "6.6L Duramax Diesel V8",
@@ -1063,13 +1363,19 @@
       "weight": 3800,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.7,
+      "fh": 15.4,
+      "fx": 21.6,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$135,000"
+      "price": "~$135,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2004|Alpha": {
       "engine": "6.6L Duramax Diesel V8",
@@ -1084,13 +1390,19 @@
       "weight": 3720,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26,
+      "fh": 14.9,
+      "fx": 21,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$145,000"
+      "price": "~$145,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2005|Hard Top": {
       "engine": "6.6L Duramax Diesel V8",
@@ -1105,13 +1417,19 @@
       "weight": 3720,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.6,
+      "fh": 14.7,
+      "fx": 20.7,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$130,000"
+      "price": "~$130,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2005|Open Top": {
       "engine": "6.6L Duramax Diesel V8",
@@ -1126,13 +1444,19 @@
       "weight": 3620,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24.9,
+      "fh": 14.2,
+      "fx": 20.1,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$125,000"
+      "price": "~$125,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2005|Wagon": {
       "engine": "6.6L Duramax Diesel V8",
@@ -1147,13 +1471,19 @@
       "weight": 3800,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 26.2,
+      "fh": 15.1,
+      "fx": 21.2,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$135,000"
+      "price": "~$135,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2005|Alpha": {
       "engine": "6.6L Duramax Diesel V8",
@@ -1168,13 +1498,19 @@
       "weight": 3720,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.6,
+      "fh": 14.7,
+      "fx": 20.7,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$145,000"
+      "price": "~$145,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2006|Hard Top": {
       "engine": "6.6L Duramax Diesel V8",
@@ -1189,13 +1525,19 @@
       "weight": 3720,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.3,
+      "fh": 14.4,
+      "fx": 20.4,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$130,000"
+      "price": "~$130,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2006|Open Top": {
       "engine": "6.6L Duramax Diesel V8",
@@ -1210,13 +1552,19 @@
       "weight": 3620,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 24.4,
+      "fh": 14,
+      "fx": 19.7,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$125,000"
+      "price": "~$125,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2006|Wagon": {
       "engine": "6.6L Duramax Diesel V8",
@@ -1231,13 +1579,19 @@
       "weight": 3800,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.9,
+      "fh": 14.8,
+      "fx": 20.9,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$135,000"
+      "price": "~$135,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H1|2006|Alpha": {
       "engine": "6.6L Duramax Diesel V8",
@@ -1252,13 +1606,19 @@
       "weight": 3720,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 25.1,
+      "fh": 14.4,
+      "fx": 20.3,
       "ft": "Diesel",
       "acceleration": 13.5,
       "topSpeed": 145,
-      "price": "~$145,000"
+      "price": "~$145,000",
+      "quarterMile": "~19.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H2|2003|Base": {
       "engine": "LQ4 6.0L V8 Vortec",
@@ -1273,13 +1633,19 @@
       "weight": 2903,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.6,
+      "fh": 10.4,
+      "fx": 14.9,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 165,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H2|2003|Luxury": {
       "engine": "LQ4 6.0L V8 Vortec",
@@ -1294,13 +1660,19 @@
       "weight": 2903,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.6,
+      "fh": 10.4,
+      "fx": 14.9,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 165,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H2|2004|Base": {
       "engine": "LQ4 6.0L V8 Vortec",
@@ -1315,13 +1687,19 @@
       "weight": 2903,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.4,
+      "fh": 10.2,
+      "fx": 14.7,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 165,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H2|2004|Luxury": {
       "engine": "LQ4 6.0L V8 Vortec",
@@ -1336,13 +1714,19 @@
       "weight": 2903,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.4,
+      "fh": 10.2,
+      "fx": 14.7,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 165,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H2|2005|Base": {
       "engine": "LQ4 6.0L V8 Vortec",
@@ -1357,13 +1741,19 @@
       "weight": 2903,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.1,
+      "fh": 10.1,
+      "fx": 14.5,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 165,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H2|2005|Luxury": {
       "engine": "LQ4 6.0L V8 Vortec",
@@ -1378,13 +1768,19 @@
       "weight": 2903,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.1,
+      "fh": 10.1,
+      "fx": 14.5,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 165,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H2|2005|SUT": {
       "engine": "LQ4 6.0L V8 Vortec",
@@ -1399,13 +1795,19 @@
       "weight": 2903,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.1,
+      "fh": 10.1,
+      "fx": 14.5,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 165,
-      "price": "~$67,000"
+      "price": "~$67,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H2|2006|Base": {
       "engine": "LQ4 6.0L V8 Vortec",
@@ -1420,13 +1822,19 @@
       "weight": 2903,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.9,
+      "fh": 9.9,
+      "fx": 14.3,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 165,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H2|2006|Luxury": {
       "engine": "LQ4 6.0L V8 Vortec",
@@ -1441,13 +1849,19 @@
       "weight": 2903,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.9,
+      "fh": 9.9,
+      "fx": 14.3,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 165,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H2|2006|SUT": {
       "engine": "LQ4 6.0L V8 Vortec",
@@ -1462,13 +1876,19 @@
       "weight": 2903,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.9,
+      "fh": 9.9,
+      "fx": 14.3,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 165,
-      "price": "~$67,000"
+      "price": "~$67,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H2|2007|Base": {
       "engine": "LQ4 6.0L V8 Vortec",
@@ -1483,13 +1903,19 @@
       "weight": 2903,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.6,
+      "fh": 9.8,
+      "fx": 14.1,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 165,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H2|2007|Luxury": {
       "engine": "LQ4 6.0L V8 Vortec",
@@ -1504,13 +1930,19 @@
       "weight": 2903,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.6,
+      "fh": 9.8,
+      "fx": 14.1,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 165,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H2|2007|SUT": {
       "engine": "LQ4 6.0L V8 Vortec",
@@ -1525,13 +1957,19 @@
       "weight": 2903,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.6,
+      "fh": 9.8,
+      "fx": 14.1,
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 165,
-      "price": "~$67,000"
+      "price": "~$67,000",
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H2|2008|Base": {
       "engine": "LY6 6.2L V8",
@@ -1546,13 +1984,19 @@
       "weight": 2950,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19,
+      "fh": 10.6,
+      "fx": 15.2,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 170,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H2|2008|Luxury": {
       "engine": "LY6 6.2L V8",
@@ -1567,13 +2011,19 @@
       "weight": 2950,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19,
+      "fh": 10.6,
+      "fx": 15.2,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 170,
-      "price": "~$76,000"
+      "price": "~$76,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H2|2008|SUT": {
       "engine": "LY6 6.2L V8",
@@ -1588,13 +2038,19 @@
       "weight": 2950,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 19,
+      "fh": 10.6,
+      "fx": 15.2,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 170,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H2|2009|Base": {
       "engine": "LY6 6.2L V8",
@@ -1609,13 +2065,19 @@
       "weight": 2950,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.8,
+      "fh": 10.4,
+      "fx": 15,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 170,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H2|2009|Luxury": {
       "engine": "LY6 6.2L V8",
@@ -1630,13 +2092,19 @@
       "weight": 2950,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.8,
+      "fh": 10.4,
+      "fx": 15,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 170,
-      "price": "~$76,000"
+      "price": "~$76,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H2|2009|SUT": {
       "engine": "LY6 6.2L V8",
@@ -1651,13 +2119,19 @@
       "weight": 2950,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 18.8,
+      "fh": 10.4,
+      "fx": 15,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 170,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H3|2006|Base": {
       "engine": "LLR 3.5L I5",
@@ -1672,13 +2146,19 @@
       "weight": 2132,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15,
+      "fh": 8.3,
+      "fx": 12,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H3|2006|H3x": {
       "engine": "LLR 3.5L I5",
@@ -1693,13 +2173,19 @@
       "weight": 2132,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15,
+      "fh": 8.3,
+      "fx": 12,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 175,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H3|2006|H3T": {
       "engine": "LLR 3.5L I5",
@@ -1714,13 +2200,19 @@
       "weight": 2132,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15,
+      "fh": 8.3,
+      "fx": 12,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 175,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H3|2007|Base": {
       "engine": "LLR 3.5L I5",
@@ -1735,13 +2227,19 @@
       "weight": 2132,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.8,
+      "fh": 8.1,
+      "fx": 11.8,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H3|2007|H3x": {
       "engine": "LLR 3.5L I5",
@@ -1756,13 +2254,19 @@
       "weight": 2132,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.8,
+      "fh": 8.1,
+      "fx": 11.8,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 175,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H3|2007|H3T": {
       "engine": "LLR 3.5L I5",
@@ -1777,13 +2281,19 @@
       "weight": 2132,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.8,
+      "fh": 8.1,
+      "fx": 11.8,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 175,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H3|2008|Base": {
       "engine": "LLR 3.5L I5",
@@ -1798,13 +2308,19 @@
       "weight": 2132,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.6,
+      "fh": 8.2,
+      "fx": 11.7,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H3|2008|H3x": {
       "engine": "LLR 3.5L I5",
@@ -1819,13 +2335,19 @@
       "weight": 2132,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.6,
+      "fh": 8.2,
+      "fx": 11.7,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 175,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H3|2008|H3T": {
       "engine": "LLR 3.5L I5",
@@ -1840,13 +2362,19 @@
       "weight": 2132,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.6,
+      "fh": 8.2,
+      "fx": 11.7,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 175,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H3|2008|H3 Alpha": {
       "engine": "LL8 5.3L V8 Vortec",
@@ -1861,13 +2389,19 @@
       "weight": 2245,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.1,
+      "fh": 9,
+      "fx": 12.9,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H3|2009|Base": {
       "engine": "LLR 3.5L I5",
@@ -1882,13 +2416,19 @@
       "weight": 2132,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.5,
+      "fh": 8.1,
+      "fx": 11.6,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H3|2009|H3x": {
       "engine": "LLR 3.5L I5",
@@ -1903,13 +2443,19 @@
       "weight": 2132,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.5,
+      "fh": 8.1,
+      "fx": 11.6,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 175,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H3|2009|H3T": {
       "engine": "LLR 3.5L I5",
@@ -1924,13 +2470,19 @@
       "weight": 2132,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.5,
+      "fh": 8.1,
+      "fx": 11.6,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 175,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H3|2009|H3 Alpha": {
       "engine": "LL8 5.3L V8 Vortec",
@@ -1945,13 +2497,19 @@
       "weight": 2245,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16,
+      "fh": 8.9,
+      "fx": 12.8,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H3|2010|Base": {
       "engine": "LLR 3.5L I5",
@@ -1966,13 +2524,19 @@
       "weight": 2132,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.3,
+      "fh": 7.9,
+      "fx": 11.4,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H3|2010|H3x": {
       "engine": "LLR 3.5L I5",
@@ -1987,13 +2551,19 @@
       "weight": 2132,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.3,
+      "fh": 7.9,
+      "fx": 11.4,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 175,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H3|2010|H3T": {
       "engine": "LLR 3.5L I5",
@@ -2008,13 +2578,19 @@
       "weight": 2132,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.3,
+      "fh": 7.9,
+      "fx": 11.4,
       "ft": "Petrol",
       "acceleration": 9.8,
       "topSpeed": 175,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|H3|2010|H3 Alpha": {
       "engine": "LL8 5.3L V8 Vortec",
@@ -2029,13 +2605,19 @@
       "weight": 2245,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.8,
+      "fh": 8.7,
+      "fx": 12.6,
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~16.5 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "Hummer|EV Pickup|2022|Edition 1": {
       "fuelType": "electric",
@@ -2056,7 +2638,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 170,
-      "price": "~$162,000"
+      "price": "~$162,000",
+      "quarterMile": "~11.4 sec"
     },
     "Hummer|EV Pickup|2022|EV3X": {
       "fuelType": "electric",
@@ -2077,7 +2660,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 170,
-      "price": "~$145,000"
+      "price": "~$145,000",
+      "quarterMile": "~11.4 sec"
     },
     "Hummer|EV Pickup|2022|EV2X": {
       "fuelType": "electric",
@@ -2098,7 +2682,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 170,
-      "price": "~$118,000"
+      "price": "~$118,000",
+      "quarterMile": "~12.8 sec"
     },
     "Hummer|EV Pickup|2022|EV2": {
       "fuelType": "electric",
@@ -2119,7 +2704,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 170,
-      "price": "~$105,000"
+      "price": "~$105,000",
+      "quarterMile": "~12.8 sec"
     },
     "Hummer|EV Pickup|2023|Edition 1": {
       "fuelType": "electric",
@@ -2140,7 +2726,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 170,
-      "price": "~$162,000"
+      "price": "~$162,000",
+      "quarterMile": "~11.4 sec"
     },
     "Hummer|EV Pickup|2023|EV3X": {
       "fuelType": "electric",
@@ -2161,7 +2748,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 170,
-      "price": "~$145,000"
+      "price": "~$145,000",
+      "quarterMile": "~11.4 sec"
     },
     "Hummer|EV Pickup|2023|EV2X": {
       "fuelType": "electric",
@@ -2182,7 +2770,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 170,
-      "price": "~$118,000"
+      "price": "~$118,000",
+      "quarterMile": "~12.8 sec"
     },
     "Hummer|EV Pickup|2023|EV2": {
       "fuelType": "electric",
@@ -2203,7 +2792,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 170,
-      "price": "~$105,000"
+      "price": "~$105,000",
+      "quarterMile": "~12.8 sec"
     },
     "Hummer|EV Pickup|2024|Edition 1": {
       "fuelType": "electric",
@@ -2224,7 +2814,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 170,
-      "price": "~$162,000"
+      "price": "~$162,000",
+      "quarterMile": "~11.4 sec"
     },
     "Hummer|EV Pickup|2024|EV3X": {
       "fuelType": "electric",
@@ -2245,7 +2836,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 170,
-      "price": "~$145,000"
+      "price": "~$145,000",
+      "quarterMile": "~11.4 sec"
     },
     "Hummer|EV Pickup|2024|EV2X": {
       "fuelType": "electric",
@@ -2266,7 +2858,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 170,
-      "price": "~$118,000"
+      "price": "~$118,000",
+      "quarterMile": "~12.8 sec"
     },
     "Hummer|EV Pickup|2024|EV2": {
       "fuelType": "electric",
@@ -2287,7 +2880,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 170,
-      "price": "~$105,000"
+      "price": "~$105,000",
+      "quarterMile": "~12.8 sec"
     },
     "Hummer|EV SUV|2024|Edition 1": {
       "fuelType": "electric",
@@ -2308,7 +2902,8 @@
       "fx": null,
       "acceleration": 3.5,
       "topSpeed": 170,
-      "price": "~$155,000"
+      "price": "~$155,000",
+      "quarterMile": "~11.7 sec"
     },
     "Hummer|EV SUV|2024|EV3X": {
       "fuelType": "electric",
@@ -2329,7 +2924,8 @@
       "fx": null,
       "acceleration": 3.5,
       "topSpeed": 170,
-      "price": "~$138,000"
+      "price": "~$138,000",
+      "quarterMile": "~11.7 sec"
     },
     "Hummer|EV Pickup|2025|Edition 1": {
       "fuelType": "electric",
@@ -2350,7 +2946,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 170,
-      "price": "~$162,000"
+      "price": "~$162,000",
+      "quarterMile": "~11.4 sec"
     },
     "Hummer|EV Pickup|2025|EV3X": {
       "fuelType": "electric",
@@ -2371,7 +2968,8 @@
       "fx": null,
       "acceleration": 3.3,
       "topSpeed": 170,
-      "price": "~$145,000"
+      "price": "~$145,000",
+      "quarterMile": "~11.4 sec"
     },
     "Hummer|EV Pickup|2025|EV2X": {
       "fuelType": "electric",
@@ -2392,7 +2990,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 170,
-      "price": "~$118,000"
+      "price": "~$118,000",
+      "quarterMile": "~12.8 sec"
     },
     "Hummer|EV Pickup|2025|EV2": {
       "fuelType": "electric",
@@ -2413,7 +3012,8 @@
       "fx": null,
       "acceleration": 4.5,
       "topSpeed": 170,
-      "price": "~$105,000"
+      "price": "~$105,000",
+      "quarterMile": "~12.8 sec"
     },
     "Hummer|EV SUV|2025|Edition 1": {
       "fuelType": "electric",
@@ -2434,7 +3034,8 @@
       "fx": null,
       "acceleration": 3.5,
       "topSpeed": 170,
-      "price": "~$155,000"
+      "price": "~$155,000",
+      "quarterMile": "~11.7 sec"
     },
     "Hummer|EV SUV|2025|EV3X": {
       "fuelType": "electric",
@@ -2455,7 +3056,8 @@
       "fx": null,
       "acceleration": 3.5,
       "topSpeed": 170,
-      "price": "~$138,000"
+      "price": "~$138,000",
+      "quarterMile": "~11.7 sec"
     }
   }
 }

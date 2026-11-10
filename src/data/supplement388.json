@@ -1,8 +1,8 @@
 {
   "specs": {
     "Volkswagen|Tayron|2025|110TSI Life": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 9.2,
       "cargo": 345,
       "cylinders": 4,
       "aspiration": "Turbo",
@@ -21,10 +21,13 @@
       "towing": 1800,
       "fuelTank": 55,
       "price": "$48,290",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Tayron|2025|150TSI Life": {
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 7.4,
       "cargo": 345,
       "cylinders": 4,
@@ -44,10 +47,15 @@
       "seats": 5,
       "price": "$53,990",
       "accelClaimed": true,
-      "weight": null
+      "weight": 1830,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Volkswagen|Tayron|2025|150TSI Elegance": {
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 7.4,
       "cargo": 345,
       "cylinders": 4,
@@ -64,13 +72,18 @@
       "fx": 7.7,
       "towing": 2500,
       "fuelTank": 58,
-      "weight": null,
+      "weight": 1830,
       "seats": 7,
       "price": "$59,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.5 sec"
     },
     "Volkswagen|Tayron|2025|195TSI R-Line": {
-      "topSpeed": null,
+      "topSpeed": 220,
       "acceleration": 6.1,
       "cargo": 345,
       "cylinders": 4,
@@ -90,7 +103,11 @@
       "weight": 1844,
       "seats": 7,
       "price": "$73,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

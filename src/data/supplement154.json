@@ -17,7 +17,8 @@
       "acceleration": 6.4,
       "topSpeed": 230,
       "price": "~$99,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~14.7 sec"
     },
     "Land Rover|Discovery|2025|Dynamic HSE": {
       "engine": "3.0L I6 MHEV P360 Petrol",
@@ -36,7 +37,8 @@
       "acceleration": 6.4,
       "topSpeed": 230,
       "price": "~$109,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~14.7 sec"
     },
     "Renault|Megane E-Tech|2025|EV40": {
       "engine": "Electric 40 kWh",
@@ -55,7 +57,12 @@
       "acceleration": 8.7,
       "topSpeed": 150,
       "price": "~$49,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.7 sec",
+      "cargo": 440,
+      "est": [
+        "cargo"
+      ]
     },
     "Renault|Megane E-Tech|2026|EV40": {
       "engine": "Electric 40 kWh",
@@ -74,7 +81,12 @@
       "acceleration": 8.7,
       "topSpeed": 150,
       "price": "~$51,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.7 sec",
+      "cargo": 440,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|RS5|2023|RS5": {
       "engine": "2.9L V6 biturbo TFSI",
@@ -93,7 +105,12 @@
       "acceleration": 3.9,
       "topSpeed": 280,
       "price": "~$149,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.2 sec",
+      "cargo": 455,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|RS5|2024|RS5": {
       "engine": "2.9L V6 biturbo TFSI",
@@ -112,7 +129,8 @@
       "acceleration": 3.9,
       "topSpeed": 280,
       "price": "~$159,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.2 sec"
     },
     "Porsche|Macan|2025|Electric": {
       "engine": "Electric Single Motor 95 kWh",
@@ -131,7 +149,8 @@
       "acceleration": 6,
       "topSpeed": 220,
       "price": "~$98,200",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec"
     },
     "Porsche|Macan|2025|Turbo Electric": {
       "engine": "Electric Dual Motor 100 kWh",
@@ -150,7 +169,8 @@
       "acceleration": 3.3,
       "topSpeed": 260,
       "price": "~$167,500",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.4 sec"
     },
     "Porsche|Macan|2026|Electric": {
       "engine": "Electric Single Motor 95 kWh",
@@ -169,7 +189,8 @@
       "acceleration": 6,
       "topSpeed": 220,
       "price": "~$103,200",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec"
     },
     "Porsche|Macan|2026|Turbo Electric": {
       "engine": "Electric Dual Motor 100 kWh",
@@ -188,7 +209,8 @@
       "acceleration": 3.3,
       "topSpeed": 260,
       "price": "~$172,500",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.4 sec"
     },
     "Mini|Convertible|2026|Cooper": {
       "engine": "1.5L I3 TwinPower Turbo",
@@ -207,7 +229,12 @@
       "acceleration": 9.2,
       "topSpeed": 204,
       "price": "~$48,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~17.1 sec",
+      "cargo": 211,
+      "est": [
+        "cargo"
+      ]
     },
     "Mini|Convertible|2026|Cooper S": {
       "engine": "2.0L I4 TwinPower Turbo",
@@ -226,7 +253,12 @@
       "acceleration": 7.1,
       "topSpeed": 228,
       "price": "~$56,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.3 sec",
+      "cargo": 211,
+      "est": [
+        "cargo"
+      ]
     },
     "Mini|Convertible|2026|JCW": {
       "engine": "2.0L I4 TwinPower Turbo JCW",
@@ -245,7 +277,12 @@
       "acceleration": 6.5,
       "topSpeed": 247,
       "price": "~$67,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.8 sec",
+      "cargo": 211,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|M4|2024|M4 CS": {
       "engine": "3.0L I6 TwinPower Turbo S58",
@@ -264,7 +301,12 @@
       "acceleration": 3.4,
       "topSpeed": 302,
       "price": "~$329,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.5 sec",
+      "cargo": 440,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|M4|2025|M4 CS": {
       "engine": "3.0L I6 TwinPower Turbo S58",
@@ -283,7 +325,12 @@
       "acceleration": 3.4,
       "topSpeed": 302,
       "price": "~$339,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.5 sec",
+      "cargo": 440,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

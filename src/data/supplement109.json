@@ -17,7 +17,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$64,400",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.3 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2015|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -36,7 +41,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$65,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.3 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2016|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -55,7 +65,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$67,400",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.3 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2017|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -74,7 +89,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$68,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.3 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2018|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -93,7 +113,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$70,400",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.3 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2019|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -112,7 +137,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$71,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.3 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2014|IS 350": {
       "engine": "3.5L V6",
@@ -131,7 +161,12 @@
       "weight": 1695,
       "seats": 5,
       "price": "~$75,400",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.9 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2015|IS 350": {
       "engine": "3.5L V6",
@@ -150,7 +185,12 @@
       "weight": 1695,
       "seats": 5,
       "price": "~$76,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.9 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2017|IS 350": {
       "engine": "3.5L V6",
@@ -169,7 +209,12 @@
       "weight": 1695,
       "seats": 5,
       "price": "~$77,400",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.9 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2018|IS 350": {
       "engine": "3.5L V6",
@@ -188,7 +233,12 @@
       "weight": 1695,
       "seats": 5,
       "price": "~$81,400",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.9 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2014|IS 350 F Sport": {
       "engine": "3.5L V6",
@@ -207,7 +257,12 @@
       "weight": 1695,
       "seats": 5,
       "price": "~$83,400",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.9 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2015|IS 350 F Sport": {
       "engine": "3.5L V6",
@@ -226,7 +281,12 @@
       "weight": 1695,
       "seats": 5,
       "price": "~$84,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.9 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2016|IS 350 F Sport": {
       "engine": "3.5L V6",
@@ -245,7 +305,12 @@
       "weight": 1695,
       "seats": 5,
       "price": "~$86,400",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.9 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2017|IS 350 F Sport": {
       "engine": "3.5L V6",
@@ -264,7 +329,12 @@
       "weight": 1695,
       "seats": 5,
       "price": "~$87,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.9 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2018|IS 350 F Sport": {
       "engine": "3.5L V6",
@@ -283,7 +353,12 @@
       "weight": 1695,
       "seats": 5,
       "price": "~$89,400",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.9 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2010|IS F": {
       "engine": "5.0L V8",
@@ -302,7 +377,12 @@
       "weight": 1768,
       "seats": 5,
       "price": "~$116,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.1 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2011|IS F": {
       "engine": "5.0L V8",
@@ -321,7 +401,12 @@
       "weight": 1768,
       "seats": 5,
       "price": "~$118,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.1 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2012|IS F": {
       "engine": "5.0L V8",
@@ -340,7 +425,12 @@
       "weight": 1768,
       "seats": 5,
       "price": "~$120,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.1 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2013|IS F": {
       "engine": "5.0L V8",
@@ -359,7 +449,12 @@
       "weight": 1768,
       "seats": 5,
       "price": "~$122,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.1 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2014|IS F": {
       "engine": "5.0L V8",
@@ -378,7 +473,12 @@
       "weight": 1768,
       "seats": 5,
       "price": "~$124,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.1 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2017|IS 200t": {
       "engine": "2.0L Turbo",
@@ -397,7 +497,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$59,900",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2018|IS 200t": {
       "engine": "2.0L Turbo",
@@ -416,7 +521,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$61,900",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2019|IS 300 F Sport": {
       "engine": "2.0L Turbo",
@@ -454,7 +564,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$69,500",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2021|IS 300 F Sport": {
       "engine": "2.0L Turbo",
@@ -473,7 +588,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$71,000",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2022|IS 300 F Sport": {
       "engine": "2.0L Turbo",
@@ -492,7 +612,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$72,500",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2023|IS 300 F Sport": {
       "engine": "2.0L Turbo",
@@ -511,7 +636,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$74,000",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2024|IS 300 F Sport": {
       "engine": "2.0L Turbo",
@@ -530,7 +660,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$75,500",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2025|IS 300 F Sport": {
       "engine": "2.0L Turbo",
@@ -549,7 +684,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$77,000",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2026|IS 300 F Sport": {
       "engine": "2.0L Turbo",
@@ -568,7 +708,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$78,500",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2021|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -587,7 +732,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$71,500",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.3 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2022|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -606,7 +756,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$73,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.3 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2023|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -625,7 +780,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$74,500",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.3 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2024|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -644,7 +804,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$76,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.3 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2025|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -663,7 +828,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$77,500",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.3 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2026|IS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -682,7 +852,12 @@
       "weight": 1625,
       "seats": 5,
       "price": "~$79,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.3 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|GS|2013|GS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -701,7 +876,12 @@
       "weight": 1790,
       "seats": 5,
       "price": "~$82,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.5 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|GS|2014|GS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -720,7 +900,12 @@
       "weight": 1790,
       "seats": 5,
       "price": "~$84,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.5 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|GS|2015|GS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -739,7 +924,8 @@
       "weight": 1790,
       "seats": 5,
       "price": "~$86,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.5 sec"
     },
     "Lexus|GS|2016|GS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -758,7 +944,12 @@
       "weight": 1790,
       "seats": 5,
       "price": "~$88,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.5 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|GS|2017|GS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -777,7 +968,12 @@
       "weight": 1790,
       "seats": 5,
       "price": "~$90,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.5 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|GS|2018|GS 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -796,7 +992,12 @@
       "weight": 1790,
       "seats": 5,
       "price": "~$92,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.5 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|GS|2013|GS 350": {
       "engine": "3.5L V6",
@@ -815,7 +1016,12 @@
       "weight": 1790,
       "seats": 5,
       "price": "~$95,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.2 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|GS|2014|GS 350": {
       "engine": "3.5L V6",
@@ -834,7 +1040,12 @@
       "weight": 1790,
       "seats": 5,
       "price": "~$97,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.2 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|GS|2015|GS 350": {
       "engine": "3.5L V6",
@@ -853,7 +1064,8 @@
       "weight": 1790,
       "seats": 5,
       "price": "~$99,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.2 sec"
     },
     "Lexus|GS|2016|GS 350": {
       "engine": "3.5L V6",
@@ -872,7 +1084,12 @@
       "weight": 1790,
       "seats": 5,
       "price": "~$101,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.2 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|GS|2017|GS 350": {
       "engine": "3.5L V6",
@@ -891,7 +1108,12 @@
       "weight": 1790,
       "seats": 5,
       "price": "~$103,900",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.2 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|GS|2016|GS F": {
       "engine": "5.0L V8",
@@ -910,7 +1132,12 @@
       "weight": 1845,
       "seats": 5,
       "price": "~$141,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.9 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|GS|2017|GS F": {
       "engine": "5.0L V8",
@@ -929,7 +1156,12 @@
       "weight": 1845,
       "seats": 5,
       "price": "~$143,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.9 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|GS|2018|GS F": {
       "engine": "5.0L V8",
@@ -948,7 +1180,12 @@
       "weight": 1845,
       "seats": 5,
       "price": "~$145,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.9 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RC|2016|RC 200t": {
       "engine": "2.0L Turbo",
@@ -967,7 +1204,12 @@
       "weight": 1660,
       "seats": 4,
       "price": "~$65,000",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "cargo": 368,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RC|2017|RC 200t": {
       "engine": "2.0L Turbo",
@@ -986,7 +1228,12 @@
       "weight": 1660,
       "seats": 4,
       "price": "~$67,000",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "cargo": 368,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RC|2018|RC 200t": {
       "engine": "2.0L Turbo",
@@ -1005,7 +1252,12 @@
       "weight": 1660,
       "seats": 4,
       "price": "~$69,000",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "cargo": 368,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RC|2016|RC 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -1024,7 +1276,12 @@
       "weight": 1750,
       "seats": 4,
       "price": "~$69,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.6 sec",
+      "cargo": 368,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RC|2017|RC 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -1043,7 +1300,12 @@
       "weight": 1750,
       "seats": 4,
       "price": "~$71,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.6 sec",
+      "cargo": 368,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RC|2018|RC 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -1062,7 +1324,12 @@
       "weight": 1750,
       "seats": 4,
       "price": "~$73,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.6 sec",
+      "cargo": 368,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RC|2019|RC 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -1081,7 +1348,12 @@
       "weight": 1750,
       "seats": 4,
       "price": "~$75,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.6 sec",
+      "cargo": 368,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RC|2020|RC 300h": {
       "engine": "2.5L Atkinson + Electric",
@@ -1100,7 +1372,12 @@
       "weight": 1750,
       "seats": 4,
       "price": "~$77,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.6 sec",
+      "cargo": 368,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RC|2016|RC 350": {
       "engine": "3.5L V6",
@@ -1119,7 +1396,12 @@
       "weight": 1725,
       "seats": 4,
       "price": "~$80,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.2 sec",
+      "cargo": 368,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RC|2017|RC 350": {
       "engine": "3.5L V6",
@@ -1138,7 +1420,12 @@
       "weight": 1725,
       "seats": 4,
       "price": "~$82,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.2 sec",
+      "cargo": 368,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RC|2018|RC 350": {
       "engine": "3.5L V6",
@@ -1157,7 +1444,12 @@
       "weight": 1725,
       "seats": 4,
       "price": "~$84,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.2 sec",
+      "cargo": 368,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RC|2019|RC 350": {
       "engine": "3.5L V6",
@@ -1176,7 +1468,12 @@
       "weight": 1725,
       "seats": 4,
       "price": "~$86,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.2 sec",
+      "cargo": 368,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RC|2020|RC 350": {
       "engine": "3.5L V6",
@@ -1195,7 +1492,12 @@
       "weight": 1725,
       "seats": 4,
       "price": "~$88,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.2 sec",
+      "cargo": 368,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RC|2016|RC F": {
       "engine": "5.0L V8",
@@ -1214,7 +1516,12 @@
       "weight": 1785,
       "seats": 4,
       "price": "~$123,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.8 sec",
+      "cargo": 368,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RC|2017|RC F": {
       "engine": "5.0L V8",
@@ -1233,7 +1540,12 @@
       "weight": 1785,
       "seats": 4,
       "price": "~$126,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.8 sec",
+      "cargo": 368,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RC|2019|RC F": {
       "engine": "5.0L V8",
@@ -1252,7 +1564,12 @@
       "weight": 1785,
       "seats": 4,
       "price": "~$132,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~12.8 sec",
+      "cargo": 368,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|NX|2022|NX 350 F Sport": {
       "engine": "2.4L Turbo",
@@ -1271,7 +1588,12 @@
       "weight": 1760,
       "seats": 5,
       "price": "~$71,000",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.2 sec",
+      "cargo": 520,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|NX|2023|NX 350 F Sport": {
       "engine": "2.4L Turbo",
@@ -1290,7 +1612,12 @@
       "weight": 1760,
       "seats": 5,
       "price": "~$72,500",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.2 sec",
+      "cargo": 520,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RX|2016|RX 350 F Sport": {
       "engine": "3.5L V6",
@@ -1309,7 +1636,12 @@
       "weight": 2015,
       "seats": 5,
       "price": "~$86,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.1 sec",
+      "cargo": 580,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RX|2016|RX 450h F Sport": {
       "engine": "3.5L V6 Hybrid",
@@ -1328,7 +1660,12 @@
       "weight": 2100,
       "seats": 5,
       "price": "~$95,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "cargo": 580,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RX|2017|RX 350 F Sport": {
       "engine": "3.5L V6",
@@ -1347,7 +1684,12 @@
       "weight": 2015,
       "seats": 5,
       "price": "~$88,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.1 sec",
+      "cargo": 580,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RX|2017|RX 450h F Sport": {
       "engine": "3.5L V6 Hybrid",
@@ -1366,7 +1708,12 @@
       "weight": 2100,
       "seats": 5,
       "price": "~$97,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "cargo": 580,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RX|2018|RX 350 F Sport": {
       "engine": "3.5L V6",
@@ -1385,7 +1732,12 @@
       "weight": 2015,
       "seats": 5,
       "price": "~$90,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.1 sec",
+      "cargo": 580,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RX|2018|RX 450h F Sport": {
       "engine": "3.5L V6 Hybrid",
@@ -1404,7 +1756,12 @@
       "weight": 2100,
       "seats": 5,
       "price": "~$99,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec",
+      "cargo": 580,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RX|2019|RX 350 F Sport": {
       "engine": "3.5L V6",
@@ -1423,7 +1780,8 @@
       "weight": 2015,
       "seats": 5,
       "price": "~$92,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.1 sec"
     },
     "Lexus|RX|2019|RX 450h F Sport": {
       "engine": "3.5L V6 Hybrid",
@@ -1442,7 +1800,8 @@
       "weight": 2100,
       "seats": 5,
       "price": "~$101,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec"
     },
     "Lexus|RX|2020|RX 350 F Sport": {
       "engine": "3.5L V6",
@@ -1461,7 +1820,8 @@
       "weight": 2015,
       "seats": 5,
       "price": "~$94,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.1 sec"
     },
     "Lexus|RX|2020|RX 450h F Sport": {
       "engine": "3.5L V6 Hybrid",
@@ -1480,7 +1840,8 @@
       "weight": 2100,
       "seats": 5,
       "price": "~$103,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec"
     },
     "Lexus|RX|2021|RX 350 F Sport": {
       "engine": "3.5L V6",
@@ -1499,7 +1860,8 @@
       "weight": 2015,
       "seats": 5,
       "price": "~$96,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.1 sec"
     },
     "Lexus|RX|2021|RX 450h F Sport": {
       "engine": "3.5L V6 Hybrid",
@@ -1518,7 +1880,8 @@
       "weight": 2100,
       "seats": 5,
       "price": "~$105,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.8 sec"
     },
     "Lexus|UX|2019|UX 250h F Sport": {
       "engine": "2.0L Atkinson + Electric",
@@ -1537,7 +1900,12 @@
       "weight": 1540,
       "seats": 5,
       "price": "~$54,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.5 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|UX|2020|UX 250h F Sport": {
       "engine": "2.0L Atkinson + Electric",
@@ -1556,7 +1924,12 @@
       "weight": 1540,
       "seats": 5,
       "price": "~$55,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.5 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|UX|2021|UX 250h F Sport": {
       "engine": "2.0L Atkinson + Electric",
@@ -1575,7 +1948,12 @@
       "weight": 1540,
       "seats": 5,
       "price": "~$56,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.5 sec",
+      "cargo": 217,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|UX|2022|UX 250h F Sport": {
       "engine": "2.0L Atkinson + Electric",
@@ -1594,7 +1972,8 @@
       "weight": 1540,
       "seats": 5,
       "price": "~$57,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.5 sec"
     },
     "Lexus|UX|2023|UX 250h F Sport": {
       "engine": "2.0L Atkinson + Electric",
@@ -1613,7 +1992,8 @@
       "weight": 1540,
       "seats": 5,
       "price": "~$58,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~16.5 sec"
     },
     "Lexus|LS|2008|LS 460": {
       "engine": "4.6L V8",
@@ -1632,7 +2012,12 @@
       "weight": 2020,
       "seats": 5,
       "price": "~$178,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.0 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LS|2009|LS 460": {
       "engine": "4.6L V8",
@@ -1651,7 +2036,12 @@
       "weight": 2020,
       "seats": 5,
       "price": "~$181,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.0 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LS|2010|LS 460": {
       "engine": "4.6L V8",
@@ -1670,7 +2060,8 @@
       "weight": 2020,
       "seats": 5,
       "price": "~$184,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.0 sec"
     },
     "Lexus|LS|2011|LS 460": {
       "engine": "4.6L V8",
@@ -1689,7 +2080,12 @@
       "weight": 2020,
       "seats": 5,
       "price": "~$187,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.0 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LS|2012|LS 460": {
       "engine": "4.6L V8",
@@ -1708,7 +2104,12 @@
       "weight": 2020,
       "seats": 5,
       "price": "~$190,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.0 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LS|2008|LS 600h": {
       "engine": "5.0L V8 Hybrid",
@@ -1727,7 +2128,12 @@
       "weight": 2425,
       "seats": 5,
       "price": "~$253,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.6 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LS|2009|LS 600h": {
       "engine": "5.0L V8 Hybrid",
@@ -1746,7 +2152,12 @@
       "weight": 2425,
       "seats": 5,
       "price": "~$256,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.6 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LS|2010|LS 600h": {
       "engine": "5.0L V8 Hybrid",
@@ -1765,7 +2176,8 @@
       "weight": 2425,
       "seats": 5,
       "price": "~$259,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.6 sec"
     },
     "Lexus|LS|2011|LS 600h": {
       "engine": "5.0L V8 Hybrid",
@@ -1784,7 +2196,12 @@
       "weight": 2425,
       "seats": 5,
       "price": "~$262,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.6 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LS|2012|LS 600h": {
       "engine": "5.0L V8 Hybrid",
@@ -1803,7 +2220,12 @@
       "weight": 2425,
       "seats": 5,
       "price": "~$265,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.6 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LS|2018|LS 500h": {
       "engine": "3.5L V6 Hybrid",
@@ -1822,7 +2244,12 @@
       "weight": 2305,
       "seats": 5,
       "price": "~$200,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.7 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LS|2019|LS 500h": {
       "engine": "3.5L V6 Hybrid",
@@ -1841,7 +2268,12 @@
       "weight": 2305,
       "seats": 5,
       "price": "~$203,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.7 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LS|2020|LS 500h": {
       "engine": "3.5L V6 Hybrid",
@@ -1860,7 +2292,12 @@
       "weight": 2305,
       "seats": 5,
       "price": "~$206,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.7 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LS|2021|LS 500h": {
       "engine": "3.5L V6 Hybrid",
@@ -1879,7 +2316,8 @@
       "weight": 2305,
       "seats": 5,
       "price": "~$209,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~13.7 sec"
     },
     "Lexus|LS|2018|LS 500 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -1898,7 +2336,12 @@
       "weight": 2205,
       "seats": 5,
       "price": "~$215,000",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~12.8 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LS|2019|LS 500 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -1917,7 +2360,12 @@
       "weight": 2205,
       "seats": 5,
       "price": "~$218,000",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~12.8 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LS|2020|LS 500 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -1936,7 +2384,12 @@
       "weight": 2205,
       "seats": 5,
       "price": "~$221,000",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~12.8 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LS|2021|LS 500 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -1955,7 +2408,8 @@
       "weight": 2205,
       "seats": 5,
       "price": "~$224,000",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~12.8 sec"
     },
     "Lexus|LS|2022|LS 500 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -1974,7 +2428,12 @@
       "weight": 2205,
       "seats": 5,
       "price": "~$227,000",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~12.8 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LS|2023|LS 500 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -1993,7 +2452,12 @@
       "weight": 2205,
       "seats": 5,
       "price": "~$230,000",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~12.8 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LS|2024|LS 500 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -2012,7 +2476,12 @@
       "weight": 2205,
       "seats": 5,
       "price": "~$233,000",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~12.8 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LS|2025|LS 500 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -2031,7 +2500,12 @@
       "weight": 2205,
       "seats": 5,
       "price": "~$236,000",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~12.8 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|LS|2026|LS 500 F Sport": {
       "engine": "3.5L V6 Twin-Turbo",
@@ -2050,7 +2524,12 @@
       "weight": 2205,
       "seats": 5,
       "price": "~$239,000",
-      "aspiration": "Toyota Twin-Turbo"
+      "aspiration": "Toyota Twin-Turbo",
+      "quarterMile": "~12.8 sec",
+      "cargo": 510,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

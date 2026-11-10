@@ -17,9 +17,13 @@
       "seats": 5,
       "cargo": 304,
       "fuelTank": 37,
-      "topSpeed": null,
-      "acceleration": null,
-      "price": "$28,990"
+      "topSpeed": 160,
+      "acceleration": 13.8,
+      "price": "$28,990",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Suzuki|Fronx|2026|Hybrid": {
       "engine": "1.5L I4 Petrol Mild Hybrid",
@@ -38,9 +42,13 @@
       "seats": 5,
       "cargo": 304,
       "fuelTank": 37,
-      "topSpeed": null,
-      "acceleration": null,
-      "price": "$28,990"
+      "topSpeed": 160,
+      "acceleration": 13.8,
+      "price": "$28,990",
+      "quarterMile": "~19.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

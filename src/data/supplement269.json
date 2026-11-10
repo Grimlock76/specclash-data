@@ -22,7 +22,8 @@
       "fuelTank": 89,
       "groundClearance": 207,
       "price": "$117,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.6 sec"
     },
     "Land Rover|Discovery|2026|D350 Dynamic SE": {
       "topSpeed": 209,
@@ -46,7 +47,8 @@
       "fuelTank": 89,
       "groundClearance": 207,
       "price": "$124,929",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.6 sec"
     },
     "Land Rover|Discovery|2026|D350 Landmark": {
       "topSpeed": 209,
@@ -70,7 +72,8 @@
       "fuelTank": 89,
       "groundClearance": 207,
       "price": "$132,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.6 sec"
     },
     "Land Rover|Discovery|2026|D350 Gemini": {
       "topSpeed": 209,
@@ -94,7 +97,8 @@
       "fuelTank": 89,
       "groundClearance": 207,
       "price": "$134,763",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.6 sec"
     },
     "Land Rover|Discovery|2026|D350 Tempest": {
       "topSpeed": 209,
@@ -118,7 +122,8 @@
       "fuelTank": 89,
       "groundClearance": 207,
       "price": "$147,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.6 sec"
     }
   }
 }

@@ -10,8 +10,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.4,
+      "topSpeed": 175,
       "cargo": null,
       "towing": 3500,
       "seats": 7,
@@ -22,7 +22,11 @@
       "weight": 2140,
       "payload": 660,
       "groundClearance": 230,
-      "price": "$57,900"
+      "price": "$57,900",
+      "quarterMile": "~19.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|MU-X|2025|LS-U": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -34,8 +38,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.5,
+      "topSpeed": 175,
       "cargo": null,
       "towing": 3500,
       "seats": 7,
@@ -45,7 +49,11 @@
       "fx": 7.6,
       "weight": 2160,
       "payload": 640,
-      "price": "$64,900"
+      "price": "$64,900",
+      "quarterMile": "~19.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|MU-X|2025|LS-T": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -57,8 +65,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.6,
+      "topSpeed": 175,
       "cargo": null,
       "towing": 3500,
       "seats": 7,
@@ -68,7 +76,11 @@
       "fx": 7.6,
       "weight": 2185,
       "payload": 615,
-      "price": "$73,400"
+      "price": "$73,400",
+      "quarterMile": "~19.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Isuzu|MU-X|2025|X-Terrain": {
       "engine": "3.0L I4 Turbo Diesel (4JJ3-TCX)",
@@ -80,8 +92,8 @@
       "torque": 450,
       "transmission": "6-speed automatic",
       "drivetrain": "4WD",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.7,
+      "topSpeed": 175,
       "cargo": null,
       "towing": 3500,
       "seats": 7,
@@ -92,7 +104,11 @@
       "weight": 2195,
       "payload": 605,
       "groundClearance": 235,
-      "price": "$77,100"
+      "price": "$77,100",
+      "quarterMile": "~19.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

@@ -4577,7 +4577,8 @@
       "cargo": 260,
       "acceleration": 7.3,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "BMW|i3|2013|i3 REx": {
       "engine": "AC Motor + 650cc REx Generator",
@@ -4599,7 +4600,8 @@
       "cargo": 260,
       "acceleration": 7.3,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "BMW|i3|2014|i3": {
       "engine": "AC Synchronous Motor (Rear)",
@@ -4621,7 +4623,8 @@
       "cargo": 260,
       "acceleration": 7.3,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "BMW|i3|2014|i3 REx": {
       "engine": "AC Motor + 650cc REx Generator",
@@ -4643,7 +4646,8 @@
       "cargo": 260,
       "acceleration": 7.3,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "BMW|i3|2015|i3": {
       "engine": "AC Synchronous Motor (Rear)",
@@ -4665,7 +4669,8 @@
       "cargo": 260,
       "acceleration": 7.3,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "BMW|i3|2015|i3 REx": {
       "engine": "AC Motor + 650cc REx Generator",
@@ -4687,7 +4692,8 @@
       "cargo": 260,
       "acceleration": 7.3,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "BMW|i3|2016|i3": {
       "engine": "AC Synchronous Motor (Rear)",
@@ -4709,7 +4715,8 @@
       "cargo": 260,
       "acceleration": 7.3,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "BMW|i3|2016|i3 REx": {
       "engine": "AC Motor + 650cc REx Generator",
@@ -4731,7 +4738,8 @@
       "cargo": 260,
       "acceleration": 7.3,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "BMW|i3|2017|i3": {
       "engine": "AC Synchronous Motor (Rear)",
@@ -4753,7 +4761,8 @@
       "cargo": 260,
       "acceleration": 7.3,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "BMW|i3|2017|i3 REx": {
       "engine": "AC Motor + 650cc REx Generator",
@@ -4775,7 +4784,8 @@
       "cargo": 260,
       "acceleration": 7.3,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "BMW|i3|2018|i3s": {
       "engine": "AC Synchronous Motor (Rear) — i3s tune",
@@ -4841,7 +4851,8 @@
       "cargo": 260,
       "acceleration": 7.3,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "BMW|i3|2019|i3s REx": {
       "engine": "AC Motor + 650cc REx Generator — i3s tune",
@@ -4863,7 +4874,8 @@
       "cargo": 260,
       "acceleration": 7.3,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "BMW|i3|2020|i3s": {
       "engine": "AC Synchronous Motor (Rear) — i3s tune",
@@ -4885,7 +4897,8 @@
       "cargo": 260,
       "acceleration": 7.3,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "BMW|i3|2020|i3s REx": {
       "engine": "AC Motor + 650cc REx Generator — i3s tune",
@@ -4907,7 +4920,8 @@
       "cargo": 260,
       "acceleration": 7.3,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "BMW|i3|2021|i3s": {
       "engine": "AC Synchronous Motor (Rear) — i3s tune",
@@ -4929,7 +4943,8 @@
       "cargo": 260,
       "acceleration": 7.3,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "BMW|i3|2021|i3s REx": {
       "engine": "AC Motor + 650cc REx Generator — i3s tune",
@@ -4951,7 +4966,8 @@
       "cargo": 260,
       "acceleration": 7.3,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "BMW|i3|2022|i3s": {
       "engine": "AC Synchronous Motor (Rear) — i3s tune",
@@ -4973,7 +4989,8 @@
       "cargo": 260,
       "acceleration": 7.3,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "BMW|i3|2022|i3s REx": {
       "engine": "AC Motor + 650cc REx Generator — i3s tune",
@@ -4995,7 +5012,8 @@
       "cargo": 260,
       "acceleration": 7.3,
       "topSpeed": 150,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.5 sec"
     },
     "BMW|i4|2021|eDrive40": {
       "engine": "AC Motor (Rear) 250kW",
@@ -5039,7 +5057,8 @@
       "cargo": 470,
       "acceleration": 3.9,
       "topSpeed": 225,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.2 sec"
     },
     "BMW|i4|2022|eDrive40": {
       "engine": "AC Motor (Rear) 250kW",
@@ -5083,7 +5102,8 @@
       "cargo": 470,
       "acceleration": 3.9,
       "topSpeed": 225,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.2 sec"
     },
     "BMW|i4|2023|eDrive40": {
       "engine": "AC Motor (Rear) 250kW",
@@ -5127,7 +5147,8 @@
       "cargo": 470,
       "acceleration": 3.9,
       "topSpeed": 225,
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~12.2 sec"
     },
     "BMW|iX|2021|xDrive40": {
       "engine": "Dual AC Motors AWD — 240kW combined",

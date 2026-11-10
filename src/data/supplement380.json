@@ -11,7 +11,7 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 175,
       "seats": 5,
       "power": 230,
       "torque": 380,
@@ -22,7 +22,11 @@
       "towing": 750,
       "cargo": 500,
       "price": "$54,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "BYD|Sealion 7|2025|Performance": {
       "fuelType": "electric",
@@ -35,7 +39,7 @@
       "fc": null,
       "fh": null,
       "fx": null,
-      "topSpeed": null,
+      "topSpeed": 205,
       "seats": 5,
       "power": 390,
       "torque": 690,
@@ -46,7 +50,11 @@
       "towing": 1500,
       "cargo": 500,
       "price": "$63,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     }
   }
 }

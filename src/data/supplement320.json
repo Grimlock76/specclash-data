@@ -13,15 +13,19 @@
       "fc": 9.5,
       "fh": 6.7,
       "fx": 7.7,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.8,
+      "topSpeed": 170,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
       "fuelTank": 76,
       "weight": 1929,
       "payload": 1071,
-      "price": "$48,210"
+      "price": "$48,210",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|BT-50|2024|XTR 4x2": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -36,15 +40,19 @@
       "fc": 9.5,
       "fh": 6.7,
       "fx": 7.7,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11.9,
+      "topSpeed": 170,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
       "fuelTank": 76,
       "weight": 1945,
       "payload": 1055,
-      "price": "$51,540"
+      "price": "$51,540",
+      "quarterMile": "~18.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|BT-50|2024|XT 4x4": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -59,15 +67,19 @@
       "fc": 9.8,
       "fh": 6.9,
       "fx": 8,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12,
+      "topSpeed": 165,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
       "fuelTank": 76,
       "weight": 2015,
       "payload": 1085,
-      "price": "$56,220"
+      "price": "$56,220",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|BT-50|2024|GT": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -82,15 +94,19 @@
       "fc": 9.8,
       "fh": 6.9,
       "fx": 8,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.1,
+      "topSpeed": 165,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
       "fuelTank": 76,
       "weight": 2035,
       "payload": 1065,
-      "price": "$62,660"
+      "price": "$62,660",
+      "quarterMile": "~18.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|BT-50|2024|XTR 4x4": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -105,15 +121,19 @@
       "fc": 9.8,
       "fh": 6.9,
       "fx": 8,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 12.4,
+      "topSpeed": 165,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
       "fuelTank": 76,
       "weight": 2098,
       "payload": 1002,
-      "price": "$62,750"
+      "price": "$62,750",
+      "quarterMile": "~19.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|BT-50|2024|SP": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -128,15 +148,19 @@
       "fc": 9.8,
       "fh": 6.9,
       "fx": 8,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 13,
+      "topSpeed": 160,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
       "fuelTank": 76,
       "weight": 2208,
       "payload": 892,
-      "price": "$68,690"
+      "price": "$68,690",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|BT-50|2024|Thunder": {
       "engine": "3.0L I4 Turbo Diesel",
@@ -151,8 +175,8 @@
       "fc": 9.8,
       "fh": 6.9,
       "fx": 8,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 13,
+      "topSpeed": 160,
       "cargo": null,
       "seats": 5,
       "towing": 3500,
@@ -160,7 +184,11 @@
       "weight": 2213,
       "payload": 887,
       "groundClearance": 240,
-      "price": "$74,095"
+      "price": "$74,095",
+      "quarterMile": "~19.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Nissan|Patrol|2024|Ti": {
       "engine": "5.6L V8 Petrol",
@@ -175,15 +203,20 @@
       "fc": 20.2,
       "fh": 11,
       "fx": 14.4,
-      "acceleration": null,
-      "topSpeed": null,
-      "cargo": null,
+      "acceleration": 7.6,
+      "topSpeed": 200,
+      "cargo": 490,
       "towing": 3500,
       "fuelTank": 140,
       "weight": 2812,
       "seats": 8,
       "groundClearance": 272,
-      "price": "$88,900"
+      "price": "$88,900",
+      "quarterMile": "~15.7 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Nissan|Patrol|2024|Ti-L": {
       "engine": "5.6L V8 Petrol",
@@ -198,14 +231,19 @@
       "fc": 20.2,
       "fh": 11,
       "fx": 14.4,
-      "acceleration": null,
-      "topSpeed": null,
-      "cargo": null,
+      "acceleration": 7.7,
+      "topSpeed": 200,
+      "cargo": 490,
       "towing": 3500,
       "fuelTank": 140,
       "weight": 2861,
       "seats": 7,
-      "price": "$101,960"
+      "price": "$101,960",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Nissan|Patrol|2024|Warrior": {
       "engine": "5.6L V8 Petrol",
@@ -220,15 +258,20 @@
       "fc": 20.2,
       "fh": 11,
       "fx": 14.4,
-      "acceleration": null,
-      "topSpeed": null,
-      "cargo": null,
+      "acceleration": 7.7,
+      "topSpeed": 200,
+      "cargo": 490,
       "towing": 3500,
       "fuelTank": 140,
       "weight": 2884,
       "seats": 8,
       "groundClearance": 323,
-      "price": "$105,520"
+      "price": "$105,520",
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     }
   }
 }

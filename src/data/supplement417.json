@@ -3,7 +3,7 @@
     "BMW|M2|2024|M2 Coupe Auto": {
       "topSpeed": 250,
       "acceleration": 4.1,
-      "cargo": null,
+      "cargo": 390,
       "seats": 4,
       "transmission": "8-speed automatic",
       "engine": "3.0L I6 Twin-Turbo Petrol",
@@ -17,12 +17,20 @@
       "fx": 9.7,
       "weight": 1725,
       "price": "$121,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.4 sec",
+      "fc": 12.1,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 6.8
     },
     "BMW|M2|2024|M2 Coupe Manual": {
       "topSpeed": 250,
       "acceleration": 4.3,
-      "cargo": null,
+      "cargo": 390,
       "seats": 4,
       "transmission": "6-speed manual",
       "engine": "3.0L I6 Twin-Turbo Petrol",
@@ -36,12 +44,20 @@
       "fx": 10.2,
       "weight": 1700,
       "price": "$121,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.6 sec",
+      "fc": 12.8,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 7
     },
     "BMW|M2|2025|M2 Coupe Auto": {
       "topSpeed": 250,
       "acceleration": 4,
-      "cargo": null,
+      "cargo": 390,
       "seats": 4,
       "transmission": "8-speed automatic",
       "engine": "3.0L I6 Twin-Turbo Petrol",
@@ -55,12 +71,20 @@
       "fx": 9.7,
       "weight": 1730,
       "price": "$127,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.3 sec",
+      "fc": 12.1,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 6.8
     },
     "BMW|M2|2025|M2 Coupe Manual": {
       "topSpeed": 250,
       "acceleration": 4.2,
-      "cargo": null,
+      "cargo": 390,
       "seats": 4,
       "transmission": "6-speed manual",
       "engine": "3.0L I6 Twin-Turbo Petrol",
@@ -74,12 +98,20 @@
       "fx": 10.1,
       "weight": 1704,
       "price": "$127,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.5 sec",
+      "fc": 12.6,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 7
     },
     "BMW|M2|2025|M2 CS": {
       "topSpeed": 302,
       "acceleration": 3.8,
-      "cargo": null,
+      "cargo": 390,
       "seats": 4,
       "transmission": "8-speed automatic",
       "engine": "3.0L I6 Twin-Turbo Petrol",
@@ -93,7 +125,15 @@
       "fx": 10,
       "weight": 1700,
       "price": "$172,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~12.0 sec",
+      "fc": 12.5,
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "fh": 6.9
     }
   }
 }

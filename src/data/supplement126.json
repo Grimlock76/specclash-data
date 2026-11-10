@@ -11,13 +11,18 @@
       "torque": 650,
       "weight": 1730,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 13.5,
+      "fh": 7.5,
       "fx": 10.8,
       "acceleration": 3.9,
       "topSpeed": 290,
       "price": "~$155,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|M3|2021|Competition xDrive": {
       "engine": "3.0L 6-cyl S58 TwinPower Turbo xDrive",
@@ -30,13 +35,18 @@
       "torque": 650,
       "weight": 1795,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 13.9,
+      "fh": 7.7,
       "fx": 11.1,
       "acceleration": 3.5,
       "topSpeed": 290,
       "price": "~$163,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|M3|2022|Competition": {
       "engine": "3.0L 6-cyl S58 TwinPower Turbo",
@@ -49,13 +59,18 @@
       "torque": 650,
       "weight": 1730,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 13.5,
+      "fh": 7.5,
       "fx": 10.8,
       "acceleration": 3.9,
       "topSpeed": 290,
       "price": "~$159,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|M3|2022|Competition xDrive": {
       "engine": "3.0L 6-cyl S58 TwinPower Turbo xDrive",
@@ -68,13 +83,18 @@
       "torque": 650,
       "weight": 1795,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 13.9,
+      "fh": 7.7,
       "fx": 11.1,
       "acceleration": 3.5,
       "topSpeed": 290,
       "price": "~$167,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|M3|2023|Competition": {
       "engine": "3.0L 6-cyl S58 TwinPower Turbo",
@@ -87,13 +107,18 @@
       "torque": 650,
       "weight": 1730,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 13.5,
+      "fh": 7.5,
       "fx": 10.8,
       "acceleration": 3.9,
       "topSpeed": 290,
       "price": "~$163,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|M3|2023|Competition xDrive": {
       "engine": "3.0L 6-cyl S58 TwinPower Turbo xDrive",
@@ -106,13 +131,18 @@
       "torque": 650,
       "weight": 1795,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 13.9,
+      "fh": 7.7,
       "fx": 11.1,
       "acceleration": 3.5,
       "topSpeed": 290,
       "price": "~$171,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|M3|2024|Competition": {
       "engine": "3.0L 6-cyl S58 TwinPower Turbo",
@@ -125,13 +155,18 @@
       "torque": 650,
       "weight": 1730,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 13.5,
+      "fh": 7.5,
       "fx": 10.8,
       "acceleration": 3.9,
       "topSpeed": 290,
       "price": "~$167,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|M3|2024|Competition xDrive": {
       "engine": "3.0L 6-cyl S58 TwinPower Turbo xDrive",
@@ -144,13 +179,18 @@
       "torque": 650,
       "weight": 1795,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 13.9,
+      "fh": 7.7,
       "fx": 11.1,
       "acceleration": 3.5,
       "topSpeed": 290,
       "price": "~$175,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|M3|2025|Competition": {
       "engine": "3.0L 6-cyl S58 TwinPower Turbo",
@@ -163,13 +203,18 @@
       "torque": 650,
       "weight": 1730,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 13.5,
+      "fh": 7.5,
       "fx": 10.8,
       "acceleration": 3.9,
       "topSpeed": 290,
       "price": "~$171,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|M3|2025|Competition xDrive": {
       "engine": "3.0L 6-cyl S58 TwinPower Turbo xDrive",
@@ -182,13 +227,18 @@
       "torque": 650,
       "weight": 1795,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 13.9,
+      "fh": 7.7,
       "fx": 11.1,
       "acceleration": 3.5,
       "topSpeed": 290,
       "price": "~$179,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|M3|2026|Competition": {
       "engine": "3.0L 6-cyl S58 TwinPower Turbo",
@@ -201,13 +251,18 @@
       "torque": 650,
       "weight": 1730,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 13.5,
+      "fh": 7.5,
       "fx": 10.8,
       "acceleration": 3.9,
       "topSpeed": 290,
       "price": "~$175,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~12.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|M3|2026|Competition xDrive": {
       "engine": "3.0L 6-cyl S58 TwinPower Turbo xDrive",
@@ -220,13 +275,18 @@
       "torque": 650,
       "weight": 1795,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 13.9,
+      "fh": 7.7,
       "fx": 11.1,
       "acceleration": 3.5,
       "topSpeed": 290,
       "price": "~$183,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.7 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "BMW|M3|2023|CS": {
       "engine": "3.0L 6-cyl S58 TwinPower Turbo M xDrive",
@@ -258,13 +318,18 @@
       "torque": 650,
       "weight": 1808,
       "seats": 4,
-      "fc": null,
-      "fh": null,
+      "fc": 14.4,
+      "fh": 8,
       "fx": 11.5,
       "acceleration": 3.4,
       "topSpeed": 302,
       "price": "~$249,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~11.5 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Nissan|Z|2023|ST Manual": {
       "engine": "3.0L V6 Twin-Turbo VR30DDTT",
@@ -277,13 +342,18 @@
       "torque": 475,
       "weight": 1497,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 13.1,
+      "fh": 7.3,
       "fx": 10.5,
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$74,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Nissan|Z|2023|ST Auto": {
       "engine": "3.0L V6 Twin-Turbo VR30DDTT",
@@ -296,13 +366,18 @@
       "torque": 475,
       "weight": 1533,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 13.5,
+      "fh": 7.5,
       "fx": 10.8,
       "acceleration": 5,
       "topSpeed": 250,
       "price": "~$76,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Nissan|Z|2023|Proto Spec": {
       "engine": "3.0L V6 Twin-Turbo VR30DDTT Proto Spec",
@@ -315,13 +390,18 @@
       "torque": 475,
       "weight": 1533,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 13.5,
+      "fh": 7.5,
       "fx": 10.8,
       "acceleration": 5,
       "topSpeed": 250,
       "price": "~$82,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Nissan|Z|2024|ST Manual": {
       "engine": "3.0L V6 Twin-Turbo VR30DDTT",
@@ -334,13 +414,18 @@
       "torque": 475,
       "weight": 1497,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 13.1,
+      "fh": 7.3,
       "fx": 10.5,
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$77,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Nissan|Z|2024|ST Auto": {
       "engine": "3.0L V6 Twin-Turbo VR30DDTT",
@@ -353,13 +438,18 @@
       "torque": 475,
       "weight": 1533,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 13.5,
+      "fh": 7.5,
       "fx": 10.8,
       "acceleration": 5,
       "topSpeed": 250,
       "price": "~$79,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Nissan|Z|2025|ST Manual": {
       "engine": "3.0L V6 Twin-Turbo VR30DDTT",
@@ -372,13 +462,18 @@
       "torque": 475,
       "weight": 1497,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 13.1,
+      "fh": 7.3,
       "fx": 10.5,
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$79,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Nissan|Z|2025|ST Auto": {
       "engine": "3.0L V6 Twin-Turbo VR30DDTT",
@@ -391,13 +486,18 @@
       "torque": 475,
       "weight": 1533,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 13.5,
+      "fh": 7.5,
       "fx": 10.8,
       "acceleration": 5,
       "topSpeed": 250,
       "price": "~$81,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Nissan|Z|2026|ST Manual": {
       "engine": "3.0L V6 Twin-Turbo VR30DDTT",
@@ -410,13 +510,18 @@
       "torque": 475,
       "weight": 1497,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 13.1,
+      "fh": 7.3,
       "fx": 10.5,
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$82,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.4 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Nissan|Z|2026|ST Auto": {
       "engine": "3.0L V6 Twin-Turbo VR30DDTT",
@@ -429,13 +534,18 @@
       "torque": 475,
       "weight": 1533,
       "seats": 2,
-      "fc": null,
-      "fh": null,
+      "fc": 13.5,
+      "fh": 7.5,
       "fx": 10.8,
       "acceleration": 5,
       "topSpeed": 250,
       "price": "~$84,990",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~13.3 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Porsche|Taycan|2022|GTS": {
       "engine": "Dual Electric Motor GTS AWD",
@@ -473,7 +583,12 @@
       "acceleration": 3.7,
       "topSpeed": 250,
       "price": "~$252,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.9 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Taycan|2024|GTS": {
       "engine": "Dual Electric Motor GTS AWD",
@@ -492,7 +607,12 @@
       "acceleration": 3.5,
       "topSpeed": 250,
       "price": "~$259,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.7 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Taycan|2025|GTS": {
       "engine": "Dual Electric Motor GTS AWD",
@@ -511,7 +631,12 @@
       "acceleration": 3.5,
       "topSpeed": 250,
       "price": "~$265,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.7 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Defender|2022|130 S": {
       "engine": "3.0L 6-cyl MHEV P300",
@@ -581,13 +706,18 @@
       "torque": 550,
       "weight": 2325,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 12.8,
+      "fh": 7,
       "fx": 10.2,
       "acceleration": 7.8,
       "topSpeed": 191,
       "price": "~$123,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Land Rover|Defender|2023|130 X": {
       "engine": "3.0L 6-cyl MHEV P400",
@@ -600,13 +730,18 @@
       "torque": 550,
       "weight": 2380,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 13.9,
+      "fh": 7.7,
       "fx": 11.1,
       "acceleration": 5.9,
       "topSpeed": 209,
       "price": "~$153,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Land Rover|Defender|2023|130 V8": {
       "engine": "5.0L V8 Supercharged V8",
@@ -619,13 +754,18 @@
       "torque": 625,
       "weight": 2415,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 21.9,
+      "fh": 12.1,
       "fx": 17.5,
       "acceleration": 4.9,
       "topSpeed": 240,
       "price": "~$265,490",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Land Rover|Defender|2024|130 S": {
       "engine": "3.0L 6-cyl MHEV P300",
@@ -638,13 +778,18 @@
       "torque": 550,
       "weight": 2325,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 12.8,
+      "fh": 7,
       "fx": 10.2,
       "acceleration": 7.8,
       "topSpeed": 191,
       "price": "~$127,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.9 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Land Rover|Defender|2024|130 X": {
       "engine": "3.0L 6-cyl MHEV P400",
@@ -657,13 +802,18 @@
       "torque": 550,
       "weight": 2380,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 13.9,
+      "fh": 7.7,
       "fx": 11.1,
       "acceleration": 5.9,
       "topSpeed": 209,
       "price": "~$157,490",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Land Rover|Defender|2024|130 V8": {
       "engine": "5.0L V8 Supercharged V8",
@@ -676,13 +826,18 @@
       "torque": 625,
       "weight": 2415,
       "seats": 8,
-      "fc": null,
-      "fh": null,
+      "fc": 21.9,
+      "fh": 12.1,
       "fx": 17.5,
       "acceleration": 4.9,
       "topSpeed": 240,
       "price": "~$271,490",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     }
   }
 }

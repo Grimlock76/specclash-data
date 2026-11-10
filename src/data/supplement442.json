@@ -1,14 +1,14 @@
 {
   "specs": {
     "Toyota|Camry|2025|Ascent Hybrid": {
-      "topSpeed": null,
+      "topSpeed": 220,
       "acceleration": 7.2,
       "cargo": 524,
       "seats": 5,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
+      "torque": 335,
       "transmission": "CVT",
       "engine": "2.5L I4 Hybrid",
       "displacement": 2487,
@@ -21,17 +21,22 @@
       "fuelTank": 50,
       "weight": 1565,
       "price": "$39,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.4 sec"
     },
     "Toyota|Camry|2025|Ascent Sport Hybrid": {
-      "topSpeed": null,
+      "topSpeed": 220,
       "acceleration": 7.2,
       "cargo": 524,
       "seats": 5,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
+      "torque": 335,
       "transmission": "CVT",
       "engine": "2.5L I4 Hybrid",
       "displacement": 2487,
@@ -44,17 +49,22 @@
       "fuelTank": 50,
       "weight": 1565,
       "price": "$42,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.4 sec"
     },
     "Toyota|Camry|2025|SL Hybrid": {
-      "topSpeed": null,
+      "topSpeed": 215,
       "acceleration": 7.2,
       "cargo": 524,
       "seats": 5,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
+      "torque": 335,
       "transmission": "CVT",
       "engine": "2.5L I4 Hybrid",
       "displacement": 2487,
@@ -67,14 +77,19 @@
       "fuelTank": 50,
       "weight": 1625,
       "price": "$53,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.4 sec"
     },
     "Toyota|Camry|2026|Ascent Hybrid": {
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
-      "topSpeed": null,
+      "torque": 335,
+      "topSpeed": 220,
       "cargo": 524,
       "engine": "2.5L I4 Hybrid (A25A-FXS)",
       "displacement": 2487,
@@ -89,14 +104,19 @@
       "acceleration": 7.2,
       "weight": 1565,
       "price": "$39,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.4 sec"
     },
     "Toyota|Camry|2026|Ascent Sport Hybrid": {
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
-      "topSpeed": null,
+      "torque": 335,
+      "topSpeed": 220,
       "cargo": 524,
       "engine": "2.5L I4 Hybrid (A25A-FXS)",
       "displacement": 2487,
@@ -111,14 +131,19 @@
       "acceleration": 7.2,
       "weight": 1565,
       "price": "$42,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.4 sec"
     },
     "Toyota|Camry|2026|SL Hybrid": {
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "cylinders": 4,
-      "torque": null,
-      "topSpeed": null,
+      "torque": 335,
+      "topSpeed": 215,
       "cargo": 524,
       "engine": "2.5L I4 Hybrid (A25A-FXS)",
       "displacement": 2487,
@@ -133,7 +158,12 @@
       "acceleration": 7.2,
       "weight": 1625,
       "price": "$53,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.4 sec"
     },
     "Toyota|bZ4X|2024|FWD": {
       "fuelType": "electric",
@@ -145,8 +175,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 160,
+      "cargo": 452,
       "battery": "71.4 kWh",
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -156,7 +186,12 @@
       "range": 535,
       "acceleration": 7.5,
       "weight": 1960,
-      "price": "$66,000"
+      "price": "$66,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Toyota|bZ4X|2024|AWD": {
       "fuelType": "electric",
@@ -168,8 +203,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 160,
+      "cargo": 452,
       "battery": "71.4 kWh",
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -179,7 +214,12 @@
       "range": 485,
       "acceleration": 6.9,
       "weight": 2055,
-      "price": "$74,900"
+      "price": "$74,900",
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Toyota|bZ4X|2025|FWD": {
       "fuelType": "electric",
@@ -191,8 +231,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 160,
+      "cargo": 452,
       "battery": "71.4 kWh",
       "accelClaimed": true,
       "engine": "Single Motor Electric",
@@ -202,7 +242,12 @@
       "range": 535,
       "acceleration": 7.5,
       "weight": 1960,
-      "price": "$66,000"
+      "price": "$66,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Toyota|bZ4X|2025|AWD": {
       "fuelType": "electric",
@@ -214,8 +259,8 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "cargo": null,
+      "topSpeed": 160,
+      "cargo": 452,
       "battery": "71.4 kWh",
       "accelClaimed": true,
       "engine": "Dual Motor Electric",
@@ -225,10 +270,15 @@
       "range": 485,
       "acceleration": 6.9,
       "weight": 2055,
-      "price": "$74,900"
+      "price": "$74,900",
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed",
+        "cargo"
+      ]
     },
     "Toyota|Yaris Cross|2025|GX Hybrid": {
-      "topSpeed": null,
+      "topSpeed": 175,
       "acceleration": 11.2,
       "cargo": 390,
       "seats": 5,
@@ -238,7 +288,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 85,
-      "torque": null,
+      "torque": 120,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 3.4,
@@ -248,10 +298,15 @@
       "towing": 400,
       "fuelTank": 36,
       "price": "$30,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.3 sec"
     },
     "Toyota|Yaris Cross|2025|GX Hybrid AWD": {
-      "topSpeed": null,
+      "topSpeed": 170,
       "acceleration": 11.8,
       "cargo": 390,
       "seats": 5,
@@ -261,7 +316,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 85,
-      "torque": null,
+      "torque": 120,
       "transmission": "CVT",
       "drivetrain": "AWD",
       "fc": 3.6,
@@ -271,10 +326,15 @@
       "towing": 400,
       "fuelTank": 36,
       "price": "$33,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.7 sec"
     },
     "Toyota|Yaris Cross|2025|GXL Hybrid": {
-      "topSpeed": null,
+      "topSpeed": 175,
       "acceleration": 11.2,
       "cargo": 390,
       "seats": 5,
@@ -284,7 +344,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 85,
-      "torque": null,
+      "torque": 120,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 3.4,
@@ -294,10 +354,15 @@
       "towing": 400,
       "fuelTank": 36,
       "price": "$33,950",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.3 sec"
     },
     "Toyota|Yaris Cross|2025|GXL Hybrid AWD": {
-      "topSpeed": null,
+      "topSpeed": 170,
       "acceleration": 11.8,
       "cargo": 390,
       "seats": 5,
@@ -307,7 +372,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 85,
-      "torque": null,
+      "torque": 120,
       "transmission": "CVT",
       "drivetrain": "AWD",
       "fc": 3.6,
@@ -317,10 +382,15 @@
       "towing": 400,
       "fuelTank": 36,
       "price": "$36,950",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.7 sec"
     },
     "Toyota|Yaris Cross|2025|Urban Hybrid": {
-      "topSpeed": null,
+      "topSpeed": 175,
       "acceleration": 11.2,
       "cargo": 390,
       "seats": 5,
@@ -330,7 +400,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 85,
-      "torque": null,
+      "torque": 120,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 3.4,
@@ -340,10 +410,15 @@
       "towing": 400,
       "fuelTank": 36,
       "price": "$36,880",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.3 sec"
     },
     "Toyota|Yaris Cross|2025|Urban Hybrid AWD": {
-      "topSpeed": null,
+      "topSpeed": 170,
       "acceleration": 11.8,
       "cargo": 390,
       "seats": 5,
@@ -353,7 +428,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 85,
-      "torque": null,
+      "torque": 120,
       "transmission": "CVT",
       "drivetrain": "AWD",
       "fc": 3.6,
@@ -363,10 +438,15 @@
       "towing": 400,
       "fuelTank": 36,
       "price": "$39,880",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.7 sec"
     },
     "Toyota|Yaris Cross|2025|GR Sport Hybrid": {
-      "topSpeed": null,
+      "topSpeed": 175,
       "acceleration": 11.2,
       "cargo": 390,
       "seats": 5,
@@ -376,7 +456,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 85,
-      "torque": null,
+      "torque": 120,
       "transmission": "CVT",
       "drivetrain": "FWD",
       "fc": 3.7,
@@ -386,17 +466,22 @@
       "towing": 400,
       "fuelTank": 36,
       "price": "$36,930",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.3 sec"
     },
     "Toyota|Yaris Cross|2026|GX Hybrid": {
       "acceleration": 11.2,
-      "topSpeed": null,
+      "topSpeed": 175,
       "seats": 5,
       "cylinders": 3,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 120,
       "engine": "1.5L I3 Hybrid",
       "displacement": 1490,
       "power": 85,
@@ -409,40 +494,53 @@
       "fuelTank": 36,
       "cargo": 390,
       "price": "$31,790",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.3 sec"
     },
     "Toyota|Yaris Cross|2026|GX Hybrid AWD": {
       "acceleration": 11.8,
-      "topSpeed": null,
+      "topSpeed": 170,
       "seats": 5,
       "cylinders": 3,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 120,
       "engine": "1.5L I3 Hybrid",
       "displacement": 1490,
       "power": 85,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 4.1,
+      "fh": 3,
+      "fx": 3.6,
       "weight": 1305,
       "towing": 400,
       "fuelTank": 36,
       "cargo": 390,
       "price": "$34,790",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~18.7 sec"
     },
     "Toyota|Yaris Cross|2026|GXL Hybrid": {
       "acceleration": 11.2,
-      "topSpeed": null,
+      "topSpeed": 175,
       "seats": 5,
       "cylinders": 3,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 120,
       "engine": "1.5L I3 Hybrid",
       "displacement": 1490,
       "power": 85,
@@ -455,40 +553,53 @@
       "fuelTank": 36,
       "cargo": 390,
       "price": "$33,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.3 sec"
     },
     "Toyota|Yaris Cross|2026|GXL Hybrid AWD": {
       "acceleration": 11.8,
-      "topSpeed": null,
+      "topSpeed": 170,
       "seats": 5,
       "cylinders": 3,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 120,
       "engine": "1.5L I3 Hybrid",
       "displacement": 1490,
       "power": 85,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 4.1,
+      "fh": 3,
+      "fx": 3.6,
       "weight": 1305,
       "towing": 400,
       "fuelTank": 36,
       "cargo": 390,
       "price": "$36,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~18.7 sec"
     },
     "Toyota|Yaris Cross|2026|Urban Hybrid": {
       "acceleration": 11.2,
-      "topSpeed": null,
+      "topSpeed": 175,
       "seats": 5,
       "cylinders": 3,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 120,
       "engine": "1.5L I3 Hybrid",
       "displacement": 1490,
       "power": 85,
@@ -501,40 +612,53 @@
       "fuelTank": 36,
       "cargo": 390,
       "price": "$36,930",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.3 sec"
     },
     "Toyota|Yaris Cross|2026|Urban Hybrid AWD": {
       "acceleration": 11.8,
-      "topSpeed": null,
+      "topSpeed": 170,
       "seats": 5,
       "cylinders": 3,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 120,
       "engine": "1.5L I3 Hybrid",
       "displacement": 1490,
       "power": 85,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 4.1,
+      "fh": 3,
+      "fx": 3.6,
       "weight": 1305,
       "towing": 400,
       "fuelTank": 36,
       "cargo": 390,
       "price": "$39,930",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed",
+        "fx",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~18.7 sec"
     },
     "Toyota|Yaris Cross|2026|GR Sport Hybrid": {
       "acceleration": 11.2,
-      "topSpeed": null,
+      "topSpeed": 175,
       "seats": 5,
       "cylinders": 3,
       "fuelType": "hybrid",
       "aspiration": "Naturally Aspirated",
       "transmission": "CVT",
-      "torque": null,
+      "torque": 120,
       "engine": "1.5L I3 Hybrid",
       "displacement": 1490,
       "power": 85,
@@ -547,7 +671,12 @@
       "fuelTank": 36,
       "cargo": 390,
       "price": "$36,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.3 sec"
     },
     "Toyota|LandCruiser 300|2026|GX": {
       "engine": "3.3L V6 Twin-Turbo Diesel (F33A-FTV)",
@@ -562,8 +691,8 @@
       "fh": 7.6,
       "fx": 8.9,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.7,
+      "topSpeed": 215,
       "weight": 2480,
       "seats": 5,
       "cargo": null,
@@ -572,7 +701,10 @@
       "payload": 800,
       "fuelTank": 110,
       "groundClearance": 245,
-      "accelClaimed": false
+      "quarterMile": "~16.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2026|GXL": {
       "engine": "3.3L V6 Twin-Turbo Diesel (F33A-FTV)",
@@ -587,8 +719,8 @@
       "fh": 7.6,
       "fx": 8.9,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 8.9,
+      "topSpeed": 215,
       "weight": 2545,
       "seats": 7,
       "cargo": null,
@@ -597,7 +729,10 @@
       "payload": 735,
       "fuelTank": 110,
       "groundClearance": 245,
-      "accelClaimed": false
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2026|VX": {
       "engine": "3.3L V6 Twin-Turbo Diesel (F33A-FTV)",
@@ -612,8 +747,8 @@
       "fh": 7.6,
       "fx": 8.9,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.2,
+      "topSpeed": 215,
       "weight": 2620,
       "seats": 7,
       "cargo": null,
@@ -622,7 +757,10 @@
       "payload": 660,
       "fuelTank": 110,
       "groundClearance": 245,
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2026|Sahara": {
       "engine": "3.3L V6 Twin-Turbo Diesel (F33A-FTV)",
@@ -637,8 +775,8 @@
       "fh": 7.6,
       "fx": 8.9,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.2,
+      "topSpeed": 215,
       "weight": 2620,
       "seats": 7,
       "cargo": null,
@@ -647,7 +785,10 @@
       "payload": 660,
       "fuelTank": 110,
       "groundClearance": 245,
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2026|GR Sport": {
       "engine": "3.3L V6 Twin-Turbo Diesel (F33A-FTV)",
@@ -662,8 +803,8 @@
       "fh": 7.6,
       "fx": 8.9,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.2,
+      "topSpeed": 215,
       "weight": 2620,
       "seats": 5,
       "cargo": null,
@@ -671,7 +812,10 @@
       "towing": 3500,
       "fuelTank": 110,
       "groundClearance": 245,
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2026|Sahara ZX": {
       "engine": "3.3L V6 Twin-Turbo Diesel (F33A-FTV)",
@@ -686,8 +830,8 @@
       "fh": 7.6,
       "fx": 8.9,
       "fuelType": "diesel",
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.1,
+      "topSpeed": 215,
       "weight": 2600,
       "seats": 5,
       "cargo": null,
@@ -696,7 +840,10 @@
       "payload": 680,
       "fuelTank": 110,
       "groundClearance": 245,
-      "accelClaimed": false
+      "quarterMile": "~17.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2026|Performance Hybrid Sahara ZX": {
       "engine": "3.4L V6 Twin-Turbo Hybrid (V35A-FTS)",
@@ -712,7 +859,7 @@
       "fx": 10,
       "fuelType": "hybrid",
       "acceleration": 6.5,
-      "topSpeed": null,
+      "topSpeed": 245,
       "weight": 2650,
       "seats": 5,
       "cargo": null,
@@ -720,7 +867,11 @@
       "towing": 3500,
       "fuelTank": 98,
       "groundClearance": 231,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Toyota|LandCruiser 300|2026|Performance Hybrid GR Sport": {
       "engine": "3.4L V6 Twin-Turbo Hybrid (V35A-FTS)",
@@ -736,7 +887,7 @@
       "fx": 10,
       "fuelType": "hybrid",
       "acceleration": 6.6,
-      "topSpeed": null,
+      "topSpeed": 245,
       "weight": 2650,
       "seats": 5,
       "cargo": null,
@@ -744,13 +895,17 @@
       "towing": 3500,
       "fuelTank": 98,
       "groundClearance": 231,
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2024|G40e Evolve": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 190,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Petrol Mild Hybrid",
       "displacement": 3283,
@@ -767,13 +922,17 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 1921,
-      "price": "$60,550"
+      "price": "$60,550",
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2024|G40e GT": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 190,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Petrol Mild Hybrid",
       "displacement": 3283,
@@ -790,13 +949,17 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 1949,
-      "price": "$68,550"
+      "price": "$68,550",
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2024|G40e Azami": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 190,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Petrol Mild Hybrid",
       "displacement": 3283,
@@ -813,13 +976,17 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 1949,
-      "price": "$73,750"
+      "price": "$73,750",
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2024|D50e Evolve": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 180,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Diesel Mild Hybrid",
       "displacement": 3283,
@@ -836,13 +1003,17 @@
       "accelClaimed": true,
       "towing": 2000,
       "weight": 1963,
-      "price": "$62,550"
+      "price": "$62,550",
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2024|D50e GT": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 180,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Diesel Mild Hybrid",
       "displacement": 3283,
@@ -859,13 +1030,17 @@
       "accelClaimed": true,
       "towing": 2000,
       "weight": 1990,
-      "price": "$70,550"
+      "price": "$70,550",
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2024|D50e Azami": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 180,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Diesel Mild Hybrid",
       "displacement": 3283,
@@ -882,13 +1057,17 @@
       "accelClaimed": true,
       "towing": 2000,
       "weight": 1990,
-      "price": "$75,750"
+      "price": "$75,750",
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2024|P50e Evolve": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 195,
       "fuelTank": 50,
       "engine": "2.5L I4 Petrol PHEV",
       "displacement": 2488,
@@ -898,8 +1077,8 @@
       "power": 241,
       "torque": 500,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "battery": "17.8 kWh",
       "range": 76,
@@ -907,13 +1086,19 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 2111,
-      "price": "$73,600"
+      "price": "$73,600",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2024|P50e GT": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 195,
       "fuelTank": 50,
       "engine": "2.5L I4 Petrol PHEV",
       "displacement": 2488,
@@ -923,8 +1108,8 @@
       "power": 241,
       "torque": 500,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "battery": "17.8 kWh",
       "range": 76,
@@ -932,13 +1117,19 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 2139,
-      "price": "$81,600"
+      "price": "$81,600",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2024|P50e Azami": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 195,
       "fuelTank": 50,
       "engine": "2.5L I4 Petrol PHEV",
       "displacement": 2488,
@@ -948,8 +1139,8 @@
       "power": 241,
       "torque": 500,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "battery": "17.8 kWh",
       "range": 76,
@@ -957,13 +1148,19 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 2139,
-      "price": "$86,800"
+      "price": "$86,800",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2025|G25 Pure": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 165,
       "fuelTank": 58,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
@@ -976,17 +1173,20 @@
       "fc": 9.3,
       "fh": 6.4,
       "fx": 7.5,
-      "acceleration": null,
+      "acceleration": 9.6,
       "towing": 1800,
       "weight": 1772,
       "price": "$44,240",
-      "accelClaimed": false
+      "quarterMile": "~17.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2025|G25 Evolve": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 165,
       "fuelTank": 58,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
@@ -999,17 +1199,20 @@
       "fc": 9.3,
       "fh": 6.4,
       "fx": 7.5,
-      "acceleration": null,
+      "acceleration": 9.6,
       "towing": 1800,
       "weight": 1772,
       "price": "$49,240",
-      "accelClaimed": false
+      "quarterMile": "~17.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2025|G25 Touring": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 165,
       "fuelTank": 58,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
@@ -1022,17 +1225,20 @@
       "fc": 9.3,
       "fh": 6.4,
       "fx": 7.5,
-      "acceleration": null,
+      "acceleration": 9.6,
       "towing": 1800,
       "weight": 1772,
       "price": "$52,240",
-      "accelClaimed": false
+      "quarterMile": "~17.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2025|G40e Pure": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 190,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Petrol Mild Hybrid",
       "displacement": 3283,
@@ -1049,13 +1255,17 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 1930,
-      "price": "$50,240"
+      "price": "$50,240",
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2025|G40e Evolve": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 190,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Petrol Mild Hybrid",
       "displacement": 3283,
@@ -1072,13 +1282,17 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 1930,
-      "price": "$55,240"
+      "price": "$55,240",
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2025|G40e Touring": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 190,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Petrol Mild Hybrid",
       "displacement": 3283,
@@ -1095,13 +1309,17 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 1930,
-      "price": "$58,240"
+      "price": "$58,240",
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2025|G40e GT": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 190,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Petrol Mild Hybrid",
       "displacement": 3283,
@@ -1118,13 +1336,17 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 1949,
-      "price": "$68,800"
+      "price": "$68,800",
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2025|G40e Azami": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 190,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Petrol Mild Hybrid",
       "displacement": 3283,
@@ -1141,13 +1363,17 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 1958,
-      "price": "$68,440"
+      "price": "$68,440",
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2025|D50e Pure": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 180,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Diesel Mild Hybrid",
       "displacement": 3283,
@@ -1157,20 +1383,26 @@
       "power": 187,
       "torque": 550,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.7,
+      "fh": 4.1,
       "fx": 5,
       "acceleration": 7.3,
       "accelClaimed": true,
       "towing": 2000,
       "weight": 1963,
-      "price": "$52,240"
+      "price": "$52,240",
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2025|D50e Evolve": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 180,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Diesel Mild Hybrid",
       "displacement": 3283,
@@ -1180,20 +1412,26 @@
       "power": 187,
       "torque": 550,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.7,
+      "fh": 4.1,
       "fx": 5,
       "acceleration": 7.3,
       "accelClaimed": true,
       "towing": 2000,
       "weight": 1963,
-      "price": "$57,240"
+      "price": "$57,240",
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2025|D50e Touring": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 180,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Diesel Mild Hybrid",
       "displacement": 3283,
@@ -1203,20 +1441,26 @@
       "power": 187,
       "torque": 550,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.7,
+      "fh": 4.1,
       "fx": 5,
       "acceleration": 7.3,
       "accelClaimed": true,
       "towing": 2000,
       "weight": 1971,
-      "price": "$60,240"
+      "price": "$60,240",
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2025|D50e GT": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 180,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Diesel Mild Hybrid",
       "displacement": 3283,
@@ -1226,20 +1470,26 @@
       "power": 187,
       "torque": 550,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.7,
+      "fh": 4.1,
       "fx": 5,
       "acceleration": 7.3,
       "accelClaimed": true,
       "towing": 2000,
       "weight": 1990,
-      "price": "$70,800"
+      "price": "$70,800",
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2025|D50e Azami": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 180,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Diesel Mild Hybrid",
       "displacement": 3283,
@@ -1249,20 +1499,26 @@
       "power": 187,
       "torque": 550,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.7,
+      "fh": 4.1,
       "fx": 5,
       "acceleration": 7.3,
       "accelClaimed": true,
       "towing": 2000,
       "weight": 1998,
-      "price": "$70,440"
+      "price": "$70,440",
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2025|P50e Pure": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 195,
       "fuelTank": 50,
       "engine": "2.5L I4 Petrol PHEV",
       "displacement": 2488,
@@ -1272,8 +1528,8 @@
       "power": 241,
       "torque": 500,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "battery": "17.8 kWh",
       "range": 76,
@@ -1281,13 +1537,19 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 2111,
-      "price": "$63,290"
+      "price": "$63,290",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2025|P50e Evolve": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 195,
       "fuelTank": 50,
       "engine": "2.5L I4 Petrol PHEV",
       "displacement": 2488,
@@ -1297,8 +1559,8 @@
       "power": 241,
       "torque": 500,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "battery": "17.8 kWh",
       "range": 76,
@@ -1306,13 +1568,19 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 2118,
-      "price": "$68,290"
+      "price": "$68,290",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2025|P50e Touring": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 195,
       "fuelTank": 50,
       "engine": "2.5L I4 Petrol PHEV",
       "displacement": 2488,
@@ -1322,8 +1590,8 @@
       "power": 241,
       "torque": 500,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "battery": "17.8 kWh",
       "range": 76,
@@ -1331,13 +1599,19 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 2111,
-      "price": "$71,290"
+      "price": "$71,290",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2025|P50e GT": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 195,
       "fuelTank": 50,
       "engine": "2.5L I4 Petrol PHEV",
       "displacement": 2488,
@@ -1347,8 +1621,8 @@
       "power": 241,
       "torque": 500,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "battery": "17.8 kWh",
       "range": 76,
@@ -1356,13 +1630,19 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 2139,
-      "price": "$81,850"
+      "price": "$81,850",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2025|P50e Azami": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 195,
       "fuelTank": 50,
       "engine": "2.5L I4 Petrol PHEV",
       "displacement": 2488,
@@ -1372,8 +1652,8 @@
       "power": 241,
       "torque": 500,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "battery": "17.8 kWh",
       "range": 76,
@@ -1381,13 +1661,19 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 2139,
-      "price": "$81,490"
+      "price": "$81,490",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2026|G25 Pure": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 165,
       "fuelTank": 58,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
@@ -1400,17 +1686,20 @@
       "fc": 9.3,
       "fh": 6.4,
       "fx": 7.5,
-      "acceleration": null,
+      "acceleration": 9.6,
       "towing": 1800,
       "weight": 1772,
       "price": "$45,640",
-      "accelClaimed": false
+      "quarterMile": "~17.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2026|G25 Evolve": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 165,
       "fuelTank": 58,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
@@ -1423,17 +1712,20 @@
       "fc": 9.3,
       "fh": 6.4,
       "fx": 7.5,
-      "acceleration": null,
+      "acceleration": 9.6,
       "towing": 1800,
       "weight": 1772,
       "price": "$50,640",
-      "accelClaimed": false
+      "quarterMile": "~17.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2026|G25 Touring": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 165,
       "fuelTank": 58,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
@@ -1446,17 +1738,20 @@
       "fc": 9.3,
       "fh": 6.4,
       "fx": 7.5,
-      "acceleration": null,
+      "acceleration": 9.6,
       "towing": 1800,
       "weight": 1772,
       "price": "$53,640",
-      "accelClaimed": false
+      "quarterMile": "~17.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2026|G40e Pure": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 190,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Petrol Mild Hybrid",
       "displacement": 3283,
@@ -1473,13 +1768,17 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 1930,
-      "price": "$51,640"
+      "price": "$51,640",
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2026|G40e Evolve": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 190,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Petrol Mild Hybrid",
       "displacement": 3283,
@@ -1496,13 +1795,17 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 1930,
-      "price": "$56,640"
+      "price": "$56,640",
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2026|G40e Touring": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 190,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Petrol Mild Hybrid",
       "displacement": 3283,
@@ -1519,13 +1822,17 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 1930,
-      "price": "$59,640"
+      "price": "$59,640",
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2026|G40e GT": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 190,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Petrol Mild Hybrid",
       "displacement": 3283,
@@ -1542,13 +1849,17 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 1949,
-      "price": "$65,640"
+      "price": "$65,640",
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2026|G40e Azami": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 190,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Petrol Mild Hybrid",
       "displacement": 3283,
@@ -1565,13 +1876,17 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 1958,
-      "price": "$69,840"
+      "price": "$69,840",
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-60|2026|D50e Pure": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 180,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Diesel Mild Hybrid",
       "displacement": 3283,
@@ -1581,20 +1896,26 @@
       "power": 187,
       "torque": 550,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.7,
+      "fh": 4.1,
       "fx": 5,
       "acceleration": 7.3,
       "accelClaimed": true,
       "towing": 2000,
       "weight": 1963,
-      "price": "$51,640"
+      "price": "$51,640",
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2026|D50e Evolve": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 180,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Diesel Mild Hybrid",
       "displacement": 3283,
@@ -1604,20 +1925,26 @@
       "power": 187,
       "torque": 550,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.7,
+      "fh": 4.1,
       "fx": 5,
       "acceleration": 7.3,
       "accelClaimed": true,
       "towing": 2000,
       "weight": 1963,
-      "price": "$56,640"
+      "price": "$56,640",
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2026|D50e Touring": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 180,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Diesel Mild Hybrid",
       "displacement": 3283,
@@ -1627,20 +1954,26 @@
       "power": 187,
       "torque": 550,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.7,
+      "fh": 4.1,
       "fx": 5,
       "acceleration": 7.3,
       "accelClaimed": true,
       "towing": 2000,
       "weight": 1971,
-      "price": "$59,640"
+      "price": "$59,640",
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2026|D50e GT": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 180,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Diesel Mild Hybrid",
       "displacement": 3283,
@@ -1650,20 +1983,26 @@
       "power": 187,
       "torque": 550,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.7,
+      "fh": 4.1,
       "fx": 5,
       "acceleration": 7.3,
       "accelClaimed": true,
       "towing": 2000,
       "weight": 1998,
-      "price": "$65,640"
+      "price": "$65,640",
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2026|D50e Azami": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 180,
       "fuelTank": 58,
       "engine": "3.3L I6 Turbo Diesel Mild Hybrid",
       "displacement": 3283,
@@ -1673,20 +2012,26 @@
       "power": 187,
       "torque": 550,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 5.7,
+      "fh": 4.1,
       "fx": 5,
       "acceleration": 7.3,
       "accelClaimed": true,
       "towing": 2000,
       "weight": 1998,
-      "price": "$69,840"
+      "price": "$69,840",
+      "quarterMile": "~15.5 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2026|P50e Pure": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 195,
       "fuelTank": 50,
       "engine": "2.5L I4 Petrol PHEV",
       "displacement": 2488,
@@ -1696,8 +2041,8 @@
       "power": 241,
       "torque": 500,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "battery": "17.8 kWh",
       "range": 76,
@@ -1705,13 +2050,19 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 2111,
-      "price": "$56,640"
+      "price": "$56,640",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2026|P50e Evolve": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 195,
       "fuelTank": 50,
       "engine": "2.5L I4 Petrol PHEV",
       "displacement": 2488,
@@ -1721,8 +2072,8 @@
       "power": 241,
       "torque": 500,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "battery": "17.8 kWh",
       "range": 76,
@@ -1730,13 +2081,19 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 2118,
-      "price": "$61,640"
+      "price": "$61,640",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2026|P50e Touring": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 195,
       "fuelTank": 50,
       "engine": "2.5L I4 Petrol PHEV",
       "displacement": 2488,
@@ -1746,8 +2103,8 @@
       "power": 241,
       "torque": 500,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "battery": "17.8 kWh",
       "range": 76,
@@ -1755,13 +2112,19 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 2111,
-      "price": "$64,640"
+      "price": "$64,640",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2026|P50e GT": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 195,
       "fuelTank": 50,
       "engine": "2.5L I4 Petrol PHEV",
       "displacement": 2488,
@@ -1771,8 +2134,8 @@
       "power": 241,
       "torque": 500,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "battery": "17.8 kWh",
       "range": 76,
@@ -1780,13 +2143,19 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 2139,
-      "price": "$70,640"
+      "price": "$70,640",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-60|2026|P50e Azami": {
       "transmission": "8-speed automatic",
       "seats": 5,
       "cargo": 477,
-      "topSpeed": null,
+      "topSpeed": 195,
       "fuelTank": 50,
       "engine": "2.5L I4 Petrol PHEV",
       "displacement": 2488,
@@ -1796,8 +2165,8 @@
       "power": 241,
       "torque": 500,
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 2.4,
+      "fh": 1.7,
       "fx": 2.1,
       "battery": "17.8 kWh",
       "range": 76,
@@ -1805,11 +2174,17 @@
       "accelClaimed": true,
       "towing": 2500,
       "weight": 2139,
-      "price": "$74,840"
+      "price": "$74,840",
+      "quarterMile": "~14.1 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-80|2024|G40e Pure": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 220,
+      "acceleration": 7.7,
       "cargo": 258,
       "seats": 7,
       "transmission": "8-speed automatic",
@@ -1828,11 +2203,14 @@
       "fx": 8.4,
       "weight": 2089,
       "price": "$55,200",
-      "accelClaimed": false
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-80|2024|G40e Touring": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 220,
+      "acceleration": 7.6,
       "cargo": 258,
       "seats": 7,
       "transmission": "8-speed automatic",
@@ -1851,11 +2229,14 @@
       "fx": 8.4,
       "weight": 2084,
       "price": "$62,200",
-      "accelClaimed": false
+      "quarterMile": "~15.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-80|2024|G40e GT": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 220,
+      "acceleration": 7.7,
       "cargo": 258,
       "seats": 7,
       "transmission": "8-speed automatic",
@@ -1874,11 +2255,14 @@
       "fx": 8.4,
       "weight": 2114,
       "price": "$69,200",
-      "accelClaimed": false
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-80|2024|G40e Azami": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 220,
+      "acceleration": 7.8,
       "cargo": 258,
       "seats": 7,
       "transmission": "8-speed automatic",
@@ -1897,10 +2281,13 @@
       "fx": 8.4,
       "weight": 2120,
       "price": "$74,400",
-      "accelClaimed": false
+      "quarterMile": "~15.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-80|2024|D50e Touring": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.4,
       "cargo": 258,
       "seats": 7,
@@ -1920,10 +2307,14 @@
       "fx": 5.2,
       "weight": 2106,
       "price": "$64,200",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-80|2024|D50e GT": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.4,
       "cargo": 258,
       "seats": 7,
@@ -1943,10 +2334,14 @@
       "fx": 5.2,
       "weight": 2130,
       "price": "$71,200",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-80|2024|D50e Azami": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.4,
       "cargo": 258,
       "seats": 7,
@@ -1966,10 +2361,14 @@
       "fx": 5.2,
       "weight": 2136,
       "price": "$76,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-80|2024|P50e Touring": {
-      "topSpeed": null,
+      "topSpeed": 225,
       "acceleration": 6.8,
       "cargo": 258,
       "seats": 7,
@@ -1984,17 +2383,23 @@
       "fuelType": "plug-in hybrid",
       "power": 241,
       "torque": 500,
-      "fc": null,
-      "fh": null,
+      "fc": 3.1,
+      "fh": 2.2,
       "fx": 2.7,
       "battery": "17.8 kWh",
       "range": 65,
       "weight": 2237,
       "price": "$75,250",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-80|2024|P50e GT": {
-      "topSpeed": null,
+      "topSpeed": 225,
       "acceleration": 6.8,
       "cargo": 258,
       "seats": 7,
@@ -2009,17 +2414,23 @@
       "fuelType": "plug-in hybrid",
       "power": 241,
       "torque": 500,
-      "fc": null,
-      "fh": null,
+      "fc": 3.1,
+      "fh": 2.2,
       "fx": 2.7,
       "battery": "17.8 kWh",
       "range": 65,
       "weight": 2273,
       "price": "$82,250",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-80|2024|P50e Azami": {
-      "topSpeed": null,
+      "topSpeed": 225,
       "acceleration": 6.8,
       "cargo": 258,
       "seats": 7,
@@ -2034,18 +2445,24 @@
       "fuelType": "plug-in hybrid",
       "power": 241,
       "torque": 500,
-      "fc": null,
-      "fh": null,
+      "fc": 3.1,
+      "fh": 2.2,
       "fx": 2.7,
       "battery": "17.8 kWh",
       "range": 65,
       "weight": 2267,
       "price": "$87,450",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-80|2025|G40e Pure": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 220,
+      "acceleration": 7.7,
       "cargo": 258,
       "seats": 7,
       "transmission": "8-speed automatic",
@@ -2064,11 +2481,14 @@
       "fx": 8.4,
       "weight": 2089,
       "price": "$55,200",
-      "accelClaimed": false
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-80|2025|G40e Touring": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 220,
+      "acceleration": 7.6,
       "cargo": 258,
       "seats": 7,
       "transmission": "8-speed automatic",
@@ -2087,11 +2507,14 @@
       "fx": 8.4,
       "weight": 2084,
       "price": "$62,200",
-      "accelClaimed": false
+      "quarterMile": "~15.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-80|2025|G40e GT": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 220,
+      "acceleration": 7.7,
       "cargo": 258,
       "seats": 7,
       "transmission": "8-speed automatic",
@@ -2110,11 +2533,14 @@
       "fx": 8.4,
       "weight": 2114,
       "price": "$69,200",
-      "accelClaimed": false
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-80|2025|G40e Azami": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 220,
+      "acceleration": 7.8,
       "cargo": 258,
       "seats": 7,
       "transmission": "8-speed automatic",
@@ -2133,10 +2559,13 @@
       "fx": 8.4,
       "weight": 2120,
       "price": "$74,400",
-      "accelClaimed": false
+      "quarterMile": "~15.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-80|2025|D50e Touring": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.4,
       "cargo": 258,
       "seats": 7,
@@ -2156,10 +2585,14 @@
       "fx": 5.2,
       "weight": 2106,
       "price": "$64,200",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-80|2025|D50e GT": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.4,
       "cargo": 258,
       "seats": 7,
@@ -2179,10 +2612,14 @@
       "fx": 5.2,
       "weight": 2130,
       "price": "$71,200",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-80|2025|D50e Azami": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.4,
       "cargo": 258,
       "seats": 7,
@@ -2202,10 +2639,14 @@
       "fx": 5.2,
       "weight": 2136,
       "price": "$76,400",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-80|2025|P50e Touring": {
-      "topSpeed": null,
+      "topSpeed": 225,
       "acceleration": 6.8,
       "cargo": 258,
       "seats": 7,
@@ -2220,17 +2661,23 @@
       "fuelType": "plug-in hybrid",
       "power": 241,
       "torque": 500,
-      "fc": null,
-      "fh": null,
+      "fc": 3.1,
+      "fh": 2.2,
       "fx": 2.7,
       "battery": "17.8 kWh",
       "range": 65,
       "weight": 2237,
       "price": "$75,250",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-80|2025|P50e GT": {
-      "topSpeed": null,
+      "topSpeed": 225,
       "acceleration": 6.8,
       "cargo": 258,
       "seats": 7,
@@ -2245,17 +2692,23 @@
       "fuelType": "plug-in hybrid",
       "power": 241,
       "torque": 500,
-      "fc": null,
-      "fh": null,
+      "fc": 3.1,
+      "fh": 2.2,
       "fx": 2.7,
       "battery": "17.8 kWh",
       "range": 65,
       "weight": 2273,
       "price": "$82,250",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-80|2025|P50e Azami": {
-      "topSpeed": null,
+      "topSpeed": 225,
       "acceleration": 6.8,
       "cargo": 258,
       "seats": 7,
@@ -2270,18 +2723,24 @@
       "fuelType": "plug-in hybrid",
       "power": 241,
       "torque": 500,
-      "fc": null,
-      "fh": null,
+      "fc": 3.1,
+      "fh": 2.2,
       "fx": 2.7,
       "battery": "17.8 kWh",
       "range": 65,
       "weight": 2267,
       "price": "$87,450",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-80|2026|G40e Pure": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 220,
+      "acceleration": 7.7,
       "cargo": 258,
       "seats": 7,
       "transmission": "8-speed automatic",
@@ -2300,11 +2759,14 @@
       "fx": 8.4,
       "weight": 2089,
       "price": "$56,100",
-      "accelClaimed": false
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-80|2026|G40e GT": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 220,
+      "acceleration": 7.7,
       "cargo": 258,
       "seats": 7,
       "transmission": "8-speed automatic",
@@ -2323,10 +2785,13 @@
       "fx": 8.4,
       "weight": 2114,
       "price": "$70,100",
-      "accelClaimed": false
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-80|2026|D50e Pure": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.4,
       "cargo": 258,
       "seats": 7,
@@ -2346,10 +2811,14 @@
       "fx": 5.2,
       "weight": 2099,
       "price": "$56,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-80|2026|D50e Azami": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 8.4,
       "cargo": 258,
       "seats": 7,
@@ -2369,10 +2838,14 @@
       "fx": 5.2,
       "weight": 2136,
       "price": "$75,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-80|2026|P50e Touring": {
-      "topSpeed": null,
+      "topSpeed": 225,
       "acceleration": 6.8,
       "cargo": 258,
       "seats": 7,
@@ -2387,17 +2860,23 @@
       "fuelType": "plug-in hybrid",
       "power": 241,
       "torque": 500,
-      "fc": null,
-      "fh": null,
+      "fc": 3.1,
+      "fh": 2.2,
       "fx": 2.7,
       "battery": "17.8 kWh",
       "range": 65,
       "weight": 2237,
       "price": "$68,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-80|2026|P50e Azami": {
-      "topSpeed": null,
+      "topSpeed": 225,
       "acceleration": 6.8,
       "cargo": 258,
       "seats": 7,
@@ -2412,20 +2891,26 @@
       "fuelType": "plug-in hybrid",
       "power": 241,
       "torque": 500,
-      "fc": null,
-      "fh": null,
+      "fc": 3.1,
+      "fh": 2.2,
       "fx": 2.7,
       "battery": "17.8 kWh",
       "range": 65,
       "weight": 2267,
       "price": "$80,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec",
+      "est": [
+        "topSpeed",
+        "fc",
+        "fh"
+      ]
     },
     "Mazda|CX-90|2024|G50e Touring": {
       "transmission": "8-speed automatic",
       "seats": 7,
       "cargo": 608,
-      "topSpeed": null,
+      "topSpeed": 235,
       "acceleration": 6.9,
       "fuelTank": 74,
       "displacement": 3283,
@@ -2442,13 +2927,17 @@
       "towing": 2500,
       "weight": 2190,
       "price": "$74,550",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-90|2024|G50e GT": {
       "transmission": "8-speed automatic",
       "seats": 7,
       "cargo": 608,
-      "topSpeed": null,
+      "topSpeed": 230,
       "acceleration": 6.9,
       "fuelTank": 74,
       "displacement": 3283,
@@ -2465,13 +2954,17 @@
       "towing": 2500,
       "weight": 2220,
       "price": "$85,530",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-90|2024|G50e Azami": {
       "transmission": "8-speed automatic",
       "seats": 7,
       "cargo": 608,
-      "topSpeed": null,
+      "topSpeed": 230,
       "acceleration": 6.9,
       "fuelTank": 74,
       "displacement": 3283,
@@ -2488,13 +2981,17 @@
       "towing": 2500,
       "weight": 2220,
       "price": "$94,630",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-90|2024|D50e Touring": {
       "transmission": "8-speed automatic",
       "seats": 7,
       "cargo": 608,
-      "topSpeed": null,
+      "topSpeed": 205,
       "acceleration": 8.4,
       "fuelTank": 74,
       "displacement": 3283,
@@ -2511,13 +3008,17 @@
       "towing": 2000,
       "weight": 2211,
       "price": "$76,550",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-90|2024|D50e GT": {
       "transmission": "8-speed automatic",
       "seats": 7,
       "cargo": 608,
-      "topSpeed": null,
+      "topSpeed": 205,
       "acceleration": 8.4,
       "fuelTank": 74,
       "displacement": 3283,
@@ -2534,13 +3035,17 @@
       "towing": 2000,
       "weight": 2241,
       "price": "$85,550",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-90|2024|D50e Azami": {
       "transmission": "8-speed automatic",
       "seats": 7,
       "cargo": 608,
-      "topSpeed": null,
+      "topSpeed": 205,
       "acceleration": 8.4,
       "fuelTank": 74,
       "displacement": 3283,
@@ -2557,13 +3062,17 @@
       "towing": 2000,
       "weight": 2241,
       "price": "$93,515",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-90|2025|G50e Touring": {
       "transmission": "8-speed automatic",
       "seats": 7,
       "cargo": 608,
-      "topSpeed": null,
+      "topSpeed": 235,
       "acceleration": 6.9,
       "fuelTank": 74,
       "displacement": 3283,
@@ -2580,13 +3089,17 @@
       "towing": 2500,
       "weight": 2190,
       "price": "$68,800",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-90|2025|G50e GT": {
       "transmission": "8-speed automatic",
       "seats": 7,
       "cargo": 608,
-      "topSpeed": null,
+      "topSpeed": 230,
       "acceleration": 6.9,
       "fuelTank": 74,
       "displacement": 3283,
@@ -2603,13 +3116,17 @@
       "towing": 2500,
       "weight": 2220,
       "price": "$78,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-90|2025|G50e Azami": {
       "transmission": "8-speed automatic",
       "seats": 7,
       "cargo": 608,
-      "topSpeed": null,
+      "topSpeed": 230,
       "acceleration": 6.9,
       "fuelTank": 74,
       "displacement": 3283,
@@ -2626,13 +3143,17 @@
       "towing": 2500,
       "weight": 2226,
       "price": "$86,720",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-90|2025|D50e Touring": {
       "transmission": "8-speed automatic",
       "seats": 7,
       "cargo": 608,
-      "topSpeed": null,
+      "topSpeed": 205,
       "acceleration": 8.4,
       "fuelTank": 74,
       "displacement": 3283,
@@ -2649,13 +3170,17 @@
       "towing": 2000,
       "weight": 2211,
       "price": "$71,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-90|2025|D50e GT": {
       "transmission": "8-speed automatic",
       "seats": 7,
       "cargo": 608,
-      "topSpeed": null,
+      "topSpeed": 205,
       "acceleration": 8.4,
       "fuelTank": 74,
       "displacement": 3283,
@@ -2672,13 +3197,17 @@
       "towing": 2000,
       "weight": 2241,
       "price": "$80,300",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-90|2025|D50e Azami": {
       "transmission": "8-speed automatic",
       "seats": 7,
       "cargo": 608,
-      "topSpeed": null,
+      "topSpeed": 205,
       "acceleration": 8.4,
       "fuelTank": 74,
       "displacement": 3283,
@@ -2695,13 +3224,17 @@
       "towing": 2000,
       "weight": 2241,
       "price": "$89,320",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-90|2026|G50e Touring": {
       "transmission": "8-speed automatic",
       "seats": 7,
       "cargo": 608,
-      "topSpeed": null,
+      "topSpeed": 235,
       "acceleration": 6.9,
       "fuelTank": 74,
       "displacement": 3283,
@@ -2718,13 +3251,17 @@
       "towing": 2500,
       "weight": 2190,
       "price": "$66,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-90|2026|G50e GT": {
       "transmission": "8-speed automatic",
       "seats": 7,
       "cargo": 608,
-      "topSpeed": null,
+      "topSpeed": 230,
       "acceleration": 6.9,
       "fuelTank": 74,
       "displacement": 3283,
@@ -2741,13 +3278,17 @@
       "towing": 2500,
       "weight": 2220,
       "price": "$75,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-90|2026|G50e Azami": {
       "transmission": "8-speed automatic",
       "seats": 7,
       "cargo": 608,
-      "topSpeed": null,
+      "topSpeed": 230,
       "acceleration": 6.9,
       "fuelTank": 74,
       "displacement": 3283,
@@ -2764,13 +3305,17 @@
       "towing": 2500,
       "weight": 2226,
       "price": "$82,487",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-90|2026|D50e Touring": {
       "transmission": "8-speed automatic",
       "seats": 7,
       "cargo": 608,
-      "topSpeed": null,
+      "topSpeed": 205,
       "acceleration": 8.4,
       "fuelTank": 74,
       "displacement": 3283,
@@ -2787,13 +3332,17 @@
       "towing": 2000,
       "weight": 2211,
       "price": "$66,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-90|2026|D50e GT": {
       "transmission": "8-speed automatic",
       "seats": 7,
       "cargo": 608,
-      "topSpeed": null,
+      "topSpeed": 205,
       "acceleration": 8.4,
       "fuelTank": 74,
       "displacement": 3283,
@@ -2810,13 +3359,17 @@
       "towing": 2000,
       "weight": 2241,
       "price": "$75,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-90|2026|D50e Azami": {
       "transmission": "8-speed automatic",
       "seats": 7,
       "cargo": 608,
-      "topSpeed": null,
+      "topSpeed": 205,
       "acceleration": 8.4,
       "fuelTank": 74,
       "displacement": 3283,
@@ -2833,11 +3386,15 @@
       "towing": 2000,
       "weight": 2241,
       "price": "$82,487",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~16.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2024|G20 Maxx": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 10.6,
       "cargo": 438,
       "seats": 5,
       "cylinders": 4,
@@ -2856,11 +3413,14 @@
       "towing": 1800,
       "fuelTank": 56,
       "price": "$36,740",
-      "accelClaimed": false
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2024|G25 Maxx Sport": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 200,
+      "acceleration": 9,
       "cargo": 438,
       "seats": 5,
       "cylinders": 4,
@@ -2878,11 +3438,14 @@
       "fx": 7.2,
       "weight": 1607,
       "price": "$40,460",
-      "accelClaimed": false
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2024|G25 Touring": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 8.7,
       "cargo": 438,
       "seats": 5,
       "cylinders": 4,
@@ -2900,11 +3463,14 @@
       "fx": 7.4,
       "weight": 1659,
       "price": "$45,100",
-      "accelClaimed": false
+      "quarterMile": "~16.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2024|G25 GT SP": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 8.9,
       "cargo": 438,
       "seats": 5,
       "cylinders": 4,
@@ -2922,11 +3488,14 @@
       "fx": 7.4,
       "weight": 1693,
       "price": "$50,460",
-      "accelClaimed": false
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2024|G25 Akera": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 8.9,
       "cargo": 438,
       "seats": 5,
       "cylinders": 4,
@@ -2944,10 +3513,13 @@
       "fx": 7.4,
       "weight": 1693,
       "price": "$52,650",
-      "accelClaimed": false
+      "quarterMile": "~16.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2024|G35 GT SP": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 7.7,
       "cargo": 438,
       "seats": 5,
@@ -2966,10 +3538,14 @@
       "weight": 1730,
       "towing": 2000,
       "price": "$52,960",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2024|G35 Akera": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 7.7,
       "cargo": 438,
       "seats": 5,
@@ -2988,11 +3564,15 @@
       "weight": 1730,
       "towing": 2000,
       "price": "$55,150",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2025|G20 Maxx": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 11,
       "cargo": 438,
       "seats": 5,
       "cylinders": 4,
@@ -3011,11 +3591,14 @@
       "towing": 1800,
       "fuelTank": 56,
       "price": "$36,740",
-      "accelClaimed": false
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2025|G25 Maxx Sport": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 200,
+      "acceleration": 9.4,
       "cargo": 438,
       "seats": 5,
       "cylinders": 4,
@@ -3033,11 +3616,14 @@
       "fx": 7.2,
       "weight": 1607,
       "price": "$40,460",
-      "accelClaimed": false
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2025|G25 Touring": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 200,
+      "acceleration": 9.4,
       "cargo": 438,
       "seats": 5,
       "cylinders": 4,
@@ -3055,11 +3641,14 @@
       "fx": 7.4,
       "weight": 1603,
       "price": "$42,600",
-      "accelClaimed": false
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2025|G25 GT SP": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 9.3,
       "cargo": 438,
       "seats": 5,
       "cylinders": 4,
@@ -3077,11 +3666,14 @@
       "fx": 7.4,
       "weight": 1693,
       "price": "$50,460",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2025|G25 Akera": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 195,
+      "acceleration": 9.3,
       "cargo": 438,
       "seats": 5,
       "cylinders": 4,
@@ -3099,10 +3691,13 @@
       "fx": 7.4,
       "weight": 1693,
       "price": "$52,650",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2025|G35 GT SP": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 7.7,
       "cargo": 438,
       "seats": 5,
@@ -3121,10 +3716,14 @@
       "weight": 1730,
       "towing": 2000,
       "price": "$52,960",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2025|G35 Akera": {
-      "topSpeed": null,
+      "topSpeed": 210,
       "acceleration": 7.7,
       "cargo": 438,
       "seats": 5,
@@ -3143,12 +3742,16 @@
       "weight": 1730,
       "towing": 2000,
       "price": "$55,650",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2026|G20 Maxx": {
       "cargo": 438,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 11,
+      "topSpeed": 185,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -3166,12 +3769,15 @@
       "weight": 1575,
       "price": "$37,240",
       "towing": 1800,
-      "accelClaimed": false
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2026|G25 Maxx Sport": {
       "cargo": 438,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.4,
+      "topSpeed": 200,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -3189,12 +3795,15 @@
       "weight": 1603,
       "price": "$40,960",
       "towing": 1800,
-      "accelClaimed": false
+      "quarterMile": "~17.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2026|G25 Pure": {
       "cargo": 466,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.9,
+      "topSpeed": 190,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -3212,12 +3821,15 @@
       "weight": 1720,
       "towing": 1800,
       "price": "$39,990",
-      "accelClaimed": false
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2026|G25 Evolve": {
       "cargo": 466,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.9,
+      "topSpeed": 190,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -3235,12 +3847,15 @@
       "weight": 1720,
       "towing": 1800,
       "price": "$42,990",
-      "accelClaimed": false
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2026|G25 Touring": {
       "cargo": 466,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.9,
+      "topSpeed": 190,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -3258,12 +3873,15 @@
       "weight": 1720,
       "towing": 1800,
       "price": "$47,490",
-      "accelClaimed": false
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2026|G25 GT SP": {
       "cargo": 466,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.9,
+      "topSpeed": 190,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -3281,12 +3899,15 @@
       "weight": 1720,
       "towing": 1800,
       "price": "$51,990",
-      "accelClaimed": false
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2026|G25 Akera": {
       "cargo": 466,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 9.9,
+      "topSpeed": 190,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -3304,12 +3925,15 @@
       "weight": 1720,
       "towing": 1800,
       "price": "$54,990",
-      "accelClaimed": false
+      "quarterMile": "~17.5 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2026|G35 GT SP": {
       "cargo": 438,
       "acceleration": 7.7,
-      "topSpeed": null,
+      "topSpeed": 210,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -3327,12 +3951,16 @@
       "weight": 1730,
       "towing": 2000,
       "price": "$53,960",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mazda|CX-5|2026|G35 Akera": {
       "cargo": 438,
       "acceleration": 7.7,
-      "topSpeed": null,
+      "topSpeed": 210,
       "seats": 5,
       "cylinders": 4,
       "transmission": "6-speed automatic",
@@ -3350,7 +3978,11 @@
       "weight": 1730,
       "towing": 2000,
       "price": "$56,150",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Solterra|2024|AWD": {
       "fuelType": "electric",
@@ -3362,7 +3994,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 6.9,
       "cargo": 410,
       "engine": "Dual Motor Electric",
@@ -3371,10 +4003,15 @@
       "power": 160,
       "battery": "71.4 kWh",
       "range": 485,
-      "weight": null,
+      "weight": 1930,
       "towing": 750,
       "price": "$69,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.1 sec"
     },
     "Subaru|Solterra|2024|AWD Touring": {
       "fuelType": "electric",
@@ -3386,7 +4023,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 6.9,
       "cargo": 410,
       "engine": "Dual Motor Electric",
@@ -3395,10 +4032,15 @@
       "power": 160,
       "battery": "71.4 kWh",
       "range": 485,
-      "weight": null,
+      "weight": 1930,
       "towing": 750,
       "price": "$76,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.1 sec"
     },
     "Subaru|Solterra|2025|AWD": {
       "fuelType": "electric",
@@ -3410,7 +4052,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 6.9,
       "cargo": 410,
       "engine": "Dual Motor Electric",
@@ -3419,10 +4061,15 @@
       "power": 160,
       "battery": "71.4 kWh",
       "range": 485,
-      "weight": null,
+      "weight": 2000,
       "towing": 750,
       "price": "$69,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.1 sec"
     },
     "Subaru|Solterra|2025|AWD Touring": {
       "fuelType": "electric",
@@ -3434,7 +4081,7 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
+      "topSpeed": 200,
       "acceleration": 6.9,
       "cargo": 410,
       "engine": "Dual Motor Electric",
@@ -3443,14 +4090,19 @@
       "power": 160,
       "battery": "71.4 kWh",
       "range": 485,
-      "weight": null,
+      "weight": 2000,
       "towing": 750,
       "price": "$76,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.1 sec"
     },
     "Subaru|Crosstrek|2025|2.0L": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 10.8,
       "cargo": 291,
       "seats": 5,
       "engine": "2.0L H4 Petrol (Boxer)",
@@ -3470,11 +4122,14 @@
       "groundClearance": 220,
       "weight": 1494,
       "price": "$35,490",
-      "accelClaimed": false
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Crosstrek|2025|2.0X": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 10.9,
       "cargo": 291,
       "seats": 5,
       "engine": "2.0L H4 Petrol (Boxer)",
@@ -3492,13 +4147,17 @@
       "towing": 1400,
       "fuelTank": 63,
       "groundClearance": 220,
-      "weight": null,
+      "weight": 1510,
       "price": "$36,990",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.1 sec"
     },
     "Subaru|Crosstrek|2025|2.0R": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 10.9,
       "cargo": 291,
       "seats": 5,
       "engine": "2.0L H4 Petrol (Boxer)",
@@ -3518,11 +4177,14 @@
       "groundClearance": 220,
       "weight": 1510,
       "price": "$38,990",
-      "accelClaimed": false
+      "quarterMile": "~18.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Crosstrek|2025|Hybrid L": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11.6,
       "cargo": 291,
       "seats": 5,
       "engine": "2.0L H4 Hybrid (Boxer)",
@@ -3531,7 +4193,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 110,
-      "torque": null,
+      "torque": 215,
       "transmission": "CVT",
       "drivetrain": "AWD",
       "fc": 7.4,
@@ -3542,11 +4204,15 @@
       "groundClearance": 220,
       "weight": 1575,
       "price": "$39,090",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.5 sec"
     },
     "Subaru|Crosstrek|2025|2.0S": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 11,
       "cargo": 291,
       "seats": 5,
       "engine": "2.0L H4 Petrol (Boxer)",
@@ -3566,11 +4232,14 @@
       "groundClearance": 220,
       "weight": 1533,
       "price": "$41,990",
-      "accelClaimed": false
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Crosstrek|2025|2.0S Onyx": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 11,
       "cargo": 291,
       "seats": 5,
       "engine": "2.0L H4 Petrol (Boxer)",
@@ -3590,11 +4259,14 @@
       "groundClearance": 220,
       "weight": 1533,
       "price": "$43,890",
-      "accelClaimed": false
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Crosstrek|2025|Hybrid S": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 175,
+      "acceleration": 11.9,
       "cargo": 291,
       "seats": 5,
       "engine": "2.0L H4 Hybrid (Boxer)",
@@ -3603,7 +4275,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 110,
-      "torque": null,
+      "torque": 215,
       "transmission": "CVT",
       "drivetrain": "AWD",
       "fc": 7.4,
@@ -3614,11 +4286,15 @@
       "groundClearance": 220,
       "weight": 1614,
       "price": "$45,590",
-      "accelClaimed": false
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.7 sec"
     },
     "Subaru|Crosstrek|2026|2.0L": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 10.8,
       "cargo": 291,
       "seats": 5,
       "engine": "2.0L H4 Petrol (Boxer)",
@@ -3638,11 +4314,14 @@
       "groundClearance": 220,
       "weight": 1494,
       "price": "$36,490",
-      "accelClaimed": false
+      "quarterMile": "~18.0 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Crosstrek|2026|2.0R": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 185,
+      "acceleration": 10.9,
       "cargo": 291,
       "seats": 5,
       "engine": "2.0L H4 Petrol (Boxer)",
@@ -3662,11 +4341,14 @@
       "groundClearance": 220,
       "weight": 1510,
       "price": "$40,990",
-      "accelClaimed": false
+      "quarterMile": "~18.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Crosstrek|2026|Sport": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 11,
       "cargo": 291,
       "seats": 5,
       "engine": "2.0L H4 Petrol (Boxer)",
@@ -3686,11 +4368,14 @@
       "groundClearance": 220,
       "weight": 1531,
       "price": "$43,990",
-      "accelClaimed": false
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Crosstrek|2026|2.0S": {
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 11,
       "cargo": 291,
       "seats": 5,
       "engine": "2.0L H4 Petrol (Boxer)",
@@ -3710,10 +4395,13 @@
       "groundClearance": 220,
       "weight": 1533,
       "price": "$43,990",
-      "accelClaimed": false
+      "quarterMile": "~18.2 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Crosstrek|2026|Hybrid L": {
-      "topSpeed": null,
+      "topSpeed": 170,
       "acceleration": 10.8,
       "cargo": 291,
       "seats": 5,
@@ -3723,7 +4411,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 100,
-      "torque": null,
+      "torque": 195,
       "transmission": "CVT",
       "drivetrain": "AWD",
       "fc": 7.4,
@@ -3734,10 +4422,15 @@
       "groundClearance": 220,
       "weight": 1575,
       "price": "$40,090",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.0 sec"
     },
     "Subaru|Crosstrek|2026|Hybrid S": {
-      "topSpeed": null,
+      "topSpeed": 170,
       "acceleration": 10.8,
       "cargo": 291,
       "seats": 5,
@@ -3747,7 +4440,7 @@
       "aspiration": "Naturally Aspirated",
       "fuelType": "hybrid",
       "power": 100,
-      "torque": null,
+      "torque": 195,
       "transmission": "CVT",
       "drivetrain": "AWD",
       "fc": 7.4,
@@ -3758,7 +4451,12 @@
       "groundClearance": 220,
       "weight": 1614,
       "price": "$47,590",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~18.0 sec"
     },
     "Subaru|Impreza|2025|2.0L": {
       "engine": "2.0L H4 Petrol (Boxer)",
@@ -3776,11 +4474,15 @@
       "seats": 5,
       "cargo": 291,
       "fuelTank": 50,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 1490,
+      "topSpeed": 180,
+      "acceleration": 9.2,
       "price": "$31,990",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Subaru|Impreza|2025|2.0R": {
       "engine": "2.0L H4 Petrol (Boxer)",
@@ -3798,11 +4500,15 @@
       "seats": 5,
       "cargo": 291,
       "fuelTank": 50,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 1490,
+      "topSpeed": 180,
+      "acceleration": 9.2,
       "price": "$35,490",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Subaru|Impreza|2025|2.0S": {
       "engine": "2.0L H4 Petrol (Boxer)",
@@ -3821,10 +4527,13 @@
       "cargo": 291,
       "fuelTank": 50,
       "weight": 1488,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 9.2,
       "price": "$38,490",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Impreza|2025|2.0S S-Edition": {
       "engine": "2.0L H4 Petrol (Boxer)",
@@ -3843,10 +4552,13 @@
       "cargo": 291,
       "fuelTank": 50,
       "weight": 1488,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 9.2,
       "price": "$42,490",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Impreza|2026|2.0L": {
       "engine": "2.0L H4 Petrol (Boxer)",
@@ -3865,10 +4577,13 @@
       "cargo": 291,
       "fuelTank": 50,
       "weight": 1446,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 9,
       "price": "$32,490",
-      "accelClaimed": false
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|Impreza|2026|2.0R": {
       "engine": "2.0L H4 Petrol (Boxer)",
@@ -3886,11 +4601,15 @@
       "seats": 5,
       "cargo": 291,
       "fuelTank": 50,
-      "weight": null,
-      "topSpeed": null,
-      "acceleration": null,
+      "weight": 1490,
+      "topSpeed": 180,
+      "acceleration": 9.2,
       "price": "$35,990",
-      "accelClaimed": false
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.1 sec"
     },
     "Subaru|Impreza|2026|2.0S": {
       "engine": "2.0L H4 Petrol (Boxer)",
@@ -3909,13 +4628,16 @@
       "cargo": 291,
       "fuelTank": 50,
       "weight": 1488,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 180,
+      "acceleration": 9.2,
       "price": "$38,990",
-      "accelClaimed": false
+      "quarterMile": "~17.1 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|WRX|2025|WRX Manual": {
-      "topSpeed": null,
+      "topSpeed": 250,
       "acceleration": 6,
       "cargo": 414,
       "seats": 5,
@@ -3934,10 +4656,14 @@
       "fx": 9.9,
       "weight": 1524,
       "price": "$47,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|WRX|2025|WRX Auto": {
-      "topSpeed": null,
+      "topSpeed": 245,
       "acceleration": 6.1,
       "cargo": 414,
       "seats": 5,
@@ -3956,10 +4682,14 @@
       "fx": 8.5,
       "weight": 1596,
       "price": "$49,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|WRX|2025|RS Manual": {
-      "topSpeed": null,
+      "topSpeed": 245,
       "acceleration": 6,
       "cargo": 414,
       "seats": 5,
@@ -3978,10 +4708,14 @@
       "fx": 9.9,
       "weight": 1561,
       "price": "$52,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|WRX|2025|RS Auto": {
-      "topSpeed": null,
+      "topSpeed": 245,
       "acceleration": 6.1,
       "cargo": 414,
       "seats": 5,
@@ -4000,10 +4734,14 @@
       "fx": 8.5,
       "weight": 1633,
       "price": "$55,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|WRX|2025|tS": {
-      "topSpeed": null,
+      "topSpeed": 245,
       "acceleration": 6.1,
       "cargo": 414,
       "seats": 5,
@@ -4022,10 +4760,14 @@
       "fx": 8.5,
       "weight": 1631,
       "price": "$57,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|WRX|2025|Sportswagon": {
-      "topSpeed": null,
+      "topSpeed": 245,
       "acceleration": 6.1,
       "cargo": 492,
       "seats": 5,
@@ -4044,10 +4786,14 @@
       "fx": 8.5,
       "weight": 1622,
       "price": "$51,790",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|WRX|2025|GT Sportswagon": {
-      "topSpeed": null,
+      "topSpeed": 240,
       "acceleration": 6.1,
       "cargo": 492,
       "seats": 5,
@@ -4066,10 +4812,14 @@
       "fx": 8.5,
       "weight": 1655,
       "price": "$57,290",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|WRX|2025|tS Sportswagon": {
-      "topSpeed": null,
+      "topSpeed": 240,
       "acceleration": 6.1,
       "cargo": 492,
       "seats": 5,
@@ -4088,10 +4838,14 @@
       "fx": 8.5,
       "weight": 1658,
       "price": "$59,790",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.4 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|WRX|2025|tS Spec B Manual": {
-      "topSpeed": null,
+      "topSpeed": 245,
       "acceleration": 6,
       "cargo": 414,
       "seats": 5,
@@ -4110,7 +4864,11 @@
       "fx": 10.4,
       "weight": 1562,
       "price": "$61,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Subaru|BRZ|2026|BRZ Manual": {
       "topSpeed": 226,
@@ -4132,7 +4890,8 @@
       "fx": 9.5,
       "weight": 1277,
       "price": "$44,290",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.6 sec"
     },
     "Subaru|BRZ|2026|BRZ Auto": {
       "topSpeed": 226,
@@ -4154,7 +4913,8 @@
       "fx": 8.8,
       "weight": 1297,
       "price": "$45,290",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec"
     },
     "Subaru|BRZ|2026|S Manual": {
       "topSpeed": 226,
@@ -4176,7 +4936,8 @@
       "fx": 9.5,
       "weight": 1280,
       "price": "$45,590",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.6 sec"
     },
     "Subaru|BRZ|2026|S Auto": {
       "topSpeed": 226,
@@ -4198,7 +4959,8 @@
       "fx": 8.8,
       "weight": 1300,
       "price": "$46,590",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec"
     },
     "Subaru|BRZ|2026|tS Manual": {
       "topSpeed": 226,
@@ -4220,7 +4982,8 @@
       "fx": 9.5,
       "weight": 1286,
       "price": "$49,190",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~14.6 sec"
     },
     "Subaru|BRZ|2026|tS Auto": {
       "topSpeed": 226,
@@ -4242,7 +5005,8 @@
       "fx": 8.8,
       "weight": 1306,
       "price": "$50,190",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "quarterMile": "~15.0 sec"
     }
   }
 }

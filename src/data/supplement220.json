@@ -13,13 +13,19 @@
       "weight": 1440,
       "seats": 2,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.9,
+      "fh": 9.3,
+      "fx": 13.5,
       "ft": "Petrol",
       "acceleration": 4.9,
       "topSpeed": 196,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Typhoon|1992|Typhoon": {
       "engine": "LB4 4.3L V6 Turbo",
@@ -34,13 +40,19 @@
       "weight": 1640,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.3,
+      "fh": 9.5,
+      "fx": 13.8,
       "ft": "Petrol",
       "acceleration": 5.3,
       "topSpeed": 190,
-      "price": "~$31,000"
+      "price": "~$31,000",
+      "quarterMile": "~13.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Typhoon|1993|Typhoon": {
       "engine": "LB4 4.3L V6 Turbo",
@@ -55,13 +67,19 @@
       "weight": 1640,
       "seats": 4,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17,
+      "fh": 9.4,
+      "fx": 13.6,
       "ft": "Petrol",
       "acceleration": 5.3,
       "topSpeed": 190,
-      "price": "~$31,000"
+      "price": "~$31,000",
+      "quarterMile": "~13.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|1995|SL": {
       "engine": "4.3L V6 Vortec",
@@ -76,13 +94,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15,
+      "fh": 8.3,
+      "fx": 12,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|1995|SLE": {
       "engine": "4.3L V6 Vortec",
@@ -97,13 +121,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15,
+      "fh": 8.3,
+      "fx": 12,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$32,000"
+      "price": "~$32,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|1995|SLT": {
       "engine": "4.3L V6 Vortec",
@@ -118,13 +148,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15,
+      "fh": 8.3,
+      "fx": 12,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$36,000"
+      "price": "~$36,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|1996|SL": {
       "engine": "4.3L V6 Vortec",
@@ -139,13 +175,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.9,
+      "fh": 8.2,
+      "fx": 11.9,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|1996|SLE": {
       "engine": "4.3L V6 Vortec",
@@ -160,13 +202,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.9,
+      "fh": 8.2,
+      "fx": 11.9,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$32,000"
+      "price": "~$32,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|1996|SLT": {
       "engine": "4.3L V6 Vortec",
@@ -181,13 +229,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.9,
+      "fh": 8.2,
+      "fx": 11.9,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$36,000"
+      "price": "~$36,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|1997|SL": {
       "engine": "4.3L V6 Vortec",
@@ -202,13 +256,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.6,
+      "fh": 8.2,
+      "fx": 11.7,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|1997|SLE": {
       "engine": "4.3L V6 Vortec",
@@ -223,13 +283,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.6,
+      "fh": 8.2,
+      "fx": 11.7,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$32,000"
+      "price": "~$32,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|1997|SLT": {
       "engine": "4.3L V6 Vortec",
@@ -244,13 +310,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.6,
+      "fh": 8.2,
+      "fx": 11.7,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$36,000"
+      "price": "~$36,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|1998|SL": {
       "engine": "4.3L V6 Vortec",
@@ -265,13 +337,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.5,
+      "fh": 8.1,
+      "fx": 11.6,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|1998|SLE": {
       "engine": "4.3L V6 Vortec",
@@ -286,13 +364,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.5,
+      "fh": 8.1,
+      "fx": 11.6,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$32,000"
+      "price": "~$32,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|1998|SLT": {
       "engine": "4.3L V6 Vortec",
@@ -307,13 +391,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.5,
+      "fh": 8.1,
+      "fx": 11.6,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$36,000"
+      "price": "~$36,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|1999|SL": {
       "engine": "4.3L V6 Vortec",
@@ -328,13 +418,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.3,
+      "fh": 7.9,
+      "fx": 11.4,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|1999|SLE": {
       "engine": "4.3L V6 Vortec",
@@ -349,13 +445,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.3,
+      "fh": 7.9,
+      "fx": 11.4,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$32,000"
+      "price": "~$32,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|1999|SLT": {
       "engine": "4.3L V6 Vortec",
@@ -370,13 +472,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.3,
+      "fh": 7.9,
+      "fx": 11.4,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$36,000"
+      "price": "~$36,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|2000|SL": {
       "engine": "4.3L V6 Vortec",
@@ -391,13 +499,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.1,
+      "fh": 7.9,
+      "fx": 11.3,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|2000|SLE": {
       "engine": "4.3L V6 Vortec",
@@ -412,13 +526,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.1,
+      "fh": 7.9,
+      "fx": 11.3,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$32,000"
+      "price": "~$32,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|2000|SLT": {
       "engine": "4.3L V6 Vortec",
@@ -433,13 +553,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.1,
+      "fh": 7.9,
+      "fx": 11.3,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$36,000"
+      "price": "~$36,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|2001|SL": {
       "engine": "4.3L V6 Vortec",
@@ -454,13 +580,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14,
+      "fh": 7.8,
+      "fx": 11.2,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|2001|SLE": {
       "engine": "4.3L V6 Vortec",
@@ -475,13 +607,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14,
+      "fh": 7.8,
+      "fx": 11.2,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$32,000"
+      "price": "~$32,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|2001|SLT": {
       "engine": "4.3L V6 Vortec",
@@ -496,13 +634,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14,
+      "fh": 7.8,
+      "fx": 11.2,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$36,000"
+      "price": "~$36,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|2002|SL": {
       "engine": "4.3L V6 Vortec",
@@ -517,13 +661,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.8,
+      "fh": 7.6,
+      "fx": 11,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|2002|SLE": {
       "engine": "4.3L V6 Vortec",
@@ -538,13 +688,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.8,
+      "fh": 7.6,
+      "fx": 11,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$32,000"
+      "price": "~$32,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|2002|SLT": {
       "engine": "4.3L V6 Vortec",
@@ -559,13 +715,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.8,
+      "fh": 7.6,
+      "fx": 11,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$36,000"
+      "price": "~$36,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|2003|SL": {
       "engine": "4.3L V6 Vortec",
@@ -580,13 +742,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.6,
+      "fh": 7.6,
+      "fx": 10.9,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|2003|SLE": {
       "engine": "4.3L V6 Vortec",
@@ -601,13 +769,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.6,
+      "fh": 7.6,
+      "fx": 10.9,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$32,000"
+      "price": "~$32,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|2003|SLT": {
       "engine": "4.3L V6 Vortec",
@@ -622,13 +796,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.6,
+      "fh": 7.6,
+      "fx": 10.9,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$36,000"
+      "price": "~$36,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|2004|SL": {
       "engine": "4.3L V6 Vortec",
@@ -643,13 +823,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.5,
+      "fh": 7.5,
+      "fx": 10.8,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|2004|SLE": {
       "engine": "4.3L V6 Vortec",
@@ -664,13 +850,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.5,
+      "fh": 7.5,
+      "fx": 10.8,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$32,000"
+      "price": "~$32,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|2004|SLT": {
       "engine": "4.3L V6 Vortec",
@@ -685,13 +877,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.5,
+      "fh": 7.5,
+      "fx": 10.8,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$36,000"
+      "price": "~$36,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|2005|SL": {
       "engine": "4.3L V6 Vortec",
@@ -706,13 +904,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.3,
+      "fh": 7.3,
+      "fx": 10.6,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|2005|SLE": {
       "engine": "4.3L V6 Vortec",
@@ -727,13 +931,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.3,
+      "fh": 7.3,
+      "fx": 10.6,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$32,000"
+      "price": "~$32,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Jimmy|2005|SLT": {
       "engine": "4.3L V6 Vortec",
@@ -748,13 +958,19 @@
       "weight": 1720,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 13.3,
+      "fh": 7.3,
+      "fx": 10.6,
       "ft": "Petrol",
       "topSpeed": 175,
       "acceleration": 10.5,
-      "price": "~$36,000"
+      "price": "~$36,000",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2002|SLE": {
       "engine": "L52 4.2L I6",
@@ -769,13 +985,19 @@
       "weight": 2010,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.3,
+      "fh": 8.4,
+      "fx": 12.2,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 185,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2002|SLT": {
       "engine": "L52 4.2L I6",
@@ -790,13 +1012,19 @@
       "weight": 2010,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.3,
+      "fh": 8.4,
+      "fx": 12.2,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 185,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2002|Denali": {
       "engine": "LM4 5.3L V8",
@@ -811,13 +1039,19 @@
       "weight": 2095,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 17.1,
+      "fh": 9.5,
+      "fx": 13.7,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2003|SLE": {
       "engine": "L52 4.2L I6",
@@ -832,13 +1066,19 @@
       "weight": 2010,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.1,
+      "fh": 8.4,
+      "fx": 12.1,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 185,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2003|SLT": {
       "engine": "L52 4.2L I6",
@@ -853,13 +1093,19 @@
       "weight": 2010,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.1,
+      "fh": 8.4,
+      "fx": 12.1,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 185,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2003|Denali": {
       "engine": "LM4 5.3L V8",
@@ -874,13 +1120,19 @@
       "weight": 2095,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.9,
+      "fh": 9.3,
+      "fx": 13.5,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2004|SLE": {
       "engine": "L52 4.2L I6",
@@ -895,13 +1147,19 @@
       "weight": 2010,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.9,
+      "fh": 8.2,
+      "fx": 11.9,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 185,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2004|SLT": {
       "engine": "L52 4.2L I6",
@@ -916,13 +1174,19 @@
       "weight": 2010,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.9,
+      "fh": 8.2,
+      "fx": 11.9,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 185,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2004|Denali": {
       "engine": "LM4 5.3L V8",
@@ -937,13 +1201,19 @@
       "weight": 2095,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.8,
+      "fh": 9.2,
+      "fx": 13.4,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2005|SLE": {
       "engine": "L52 4.2L I6",
@@ -958,13 +1228,19 @@
       "weight": 2010,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.8,
+      "fh": 8.1,
+      "fx": 11.8,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 185,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2005|SLT": {
       "engine": "L52 4.2L I6",
@@ -979,13 +1255,19 @@
       "weight": 2010,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.8,
+      "fh": 8.1,
+      "fx": 11.8,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 185,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2005|Denali": {
       "engine": "LM4 5.3L V8",
@@ -1000,13 +1282,19 @@
       "weight": 2095,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.5,
+      "fh": 9.2,
+      "fx": 13.2,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2006|SLE": {
       "engine": "L52 4.2L I6",
@@ -1021,13 +1309,19 @@
       "weight": 2010,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.5,
+      "fh": 8.1,
+      "fx": 11.6,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 185,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2006|SLT": {
       "engine": "L52 4.2L I6",
@@ -1042,13 +1336,19 @@
       "weight": 2010,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.5,
+      "fh": 8.1,
+      "fx": 11.6,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 185,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2006|Denali": {
       "engine": "LM4 5.3L V8",
@@ -1063,13 +1363,19 @@
       "weight": 2095,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.3,
+      "fh": 9,
+      "fx": 13,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2007|SLE": {
       "engine": "L52 4.2L I6",
@@ -1084,13 +1390,19 @@
       "weight": 2010,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.4,
+      "fh": 8,
+      "fx": 11.5,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 185,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2007|SLT": {
       "engine": "L52 4.2L I6",
@@ -1105,13 +1417,19 @@
       "weight": 2010,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.4,
+      "fh": 8,
+      "fx": 11.5,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 185,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2007|Denali": {
       "engine": "LM4 5.3L V8",
@@ -1126,13 +1444,19 @@
       "weight": 2095,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 16.1,
+      "fh": 9,
+      "fx": 12.9,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2008|SLE": {
       "engine": "L52 4.2L I6",
@@ -1147,13 +1471,19 @@
       "weight": 2010,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.3,
+      "fh": 7.9,
+      "fx": 11.4,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 185,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2008|SLT": {
       "engine": "L52 4.2L I6",
@@ -1168,13 +1498,19 @@
       "weight": 2010,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14.3,
+      "fh": 7.9,
+      "fx": 11.4,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 185,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2008|Denali": {
       "engine": "LM4 5.3L V8",
@@ -1189,13 +1525,19 @@
       "weight": 2095,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.9,
+      "fh": 8.8,
+      "fx": 12.7,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2009|SLE": {
       "engine": "L52 4.2L I6",
@@ -1210,13 +1552,19 @@
       "weight": 2010,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14,
+      "fh": 7.8,
+      "fx": 11.2,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 185,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2009|SLT": {
       "engine": "L52 4.2L I6",
@@ -1231,13 +1579,19 @@
       "weight": 2010,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 14,
+      "fh": 7.8,
+      "fx": 11.2,
       "ft": "Petrol",
       "acceleration": 9,
       "topSpeed": 185,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~16.9 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Envoy|2009|Denali": {
       "engine": "LM4 5.3L V8",
@@ -1252,13 +1606,19 @@
       "weight": 2095,
       "seats": 5,
       "cargo": null,
-      "fc": null,
-      "fh": null,
-      "fx": null,
+      "fc": 15.8,
+      "fh": 8.7,
+      "fx": 12.6,
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.6 sec",
+      "est": [
+        "fx",
+        "fc",
+        "fh"
+      ]
     },
     "GMC|Terrain|2010|SLE": {
       "engine": "2.4L I4 SIDI",
@@ -1279,7 +1639,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2010|SLT": {
       "engine": "2.4L I4 SIDI",
@@ -1300,7 +1661,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2010|Denali": {
       "engine": "2.4L I4 SIDI",
@@ -1321,7 +1683,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2011|SLE": {
       "engine": "2.4L I4 SIDI",
@@ -1342,7 +1705,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2011|SLT": {
       "engine": "2.4L I4 SIDI",
@@ -1363,7 +1727,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2011|Denali": {
       "engine": "2.4L I4 SIDI",
@@ -1384,7 +1749,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2012|SLE": {
       "engine": "2.4L I4 SIDI",
@@ -1405,7 +1771,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2012|SLT": {
       "engine": "2.4L I4 SIDI",
@@ -1426,7 +1793,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2012|Denali": {
       "engine": "2.4L I4 SIDI",
@@ -1447,7 +1815,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2013|SLE": {
       "engine": "2.4L I4 SIDI",
@@ -1468,7 +1837,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2013|SLT": {
       "engine": "2.4L I4 SIDI",
@@ -1489,7 +1859,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2013|Denali": {
       "engine": "2.4L I4 SIDI",
@@ -1510,7 +1881,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2014|SLE": {
       "engine": "2.4L I4 SIDI",
@@ -1531,7 +1903,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2014|SLT": {
       "engine": "2.4L I4 SIDI",
@@ -1552,7 +1925,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2014|Denali": {
       "engine": "2.4L I4 SIDI",
@@ -1573,7 +1947,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2015|SLE": {
       "engine": "2.4L I4 SIDI",
@@ -1594,7 +1969,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2015|SLT": {
       "engine": "2.4L I4 SIDI",
@@ -1615,7 +1991,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2015|Denali": {
       "engine": "2.4L I4 SIDI",
@@ -1636,7 +2013,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2016|SLE": {
       "engine": "2.4L I4 SIDI",
@@ -1657,7 +2035,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2016|SLT": {
       "engine": "2.4L I4 SIDI",
@@ -1678,7 +2057,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2016|Denali": {
       "engine": "2.4L I4 SIDI",
@@ -1699,7 +2079,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2017|SLE": {
       "engine": "2.4L I4 SIDI",
@@ -1720,7 +2101,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2017|SLT": {
       "engine": "2.4L I4 SIDI",
@@ -1741,7 +2123,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2017|Denali": {
       "engine": "2.4L I4 SIDI",
@@ -1762,7 +2145,8 @@
       "ft": "Petrol",
       "acceleration": 9.5,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Terrain|2018|SLE": {
       "engine": "1.5T I4",
@@ -1783,7 +2167,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2018|SLT": {
       "engine": "2.0T I4",
@@ -1804,7 +2189,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2018|AT4": {
       "engine": "2.0T I4",
@@ -1825,7 +2211,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2018|Denali": {
       "engine": "2.0T I4",
@@ -1846,7 +2233,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2018|SLT Diesel": {
       "engine": "1.6L Diesel I4",
@@ -1867,7 +2255,8 @@
       "ft": "Diesel",
       "acceleration": 11.5,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~18.5 sec"
     },
     "GMC|Terrain|2019|SLE": {
       "engine": "1.5T I4",
@@ -1888,7 +2277,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2019|SLT": {
       "engine": "2.0T I4",
@@ -1909,7 +2299,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2019|AT4": {
       "engine": "2.0T I4",
@@ -1930,7 +2321,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2019|Denali": {
       "engine": "2.0T I4",
@@ -1951,7 +2343,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2019|SLT Diesel": {
       "engine": "1.6L Diesel I4",
@@ -1972,7 +2365,8 @@
       "ft": "Diesel",
       "acceleration": 11.5,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~18.5 sec"
     },
     "GMC|Terrain|2020|SLE": {
       "engine": "1.5T I4",
@@ -1993,7 +2387,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2020|SLT": {
       "engine": "2.0T I4",
@@ -2014,7 +2409,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2020|AT4": {
       "engine": "2.0T I4",
@@ -2035,7 +2431,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2020|Denali": {
       "engine": "2.0T I4",
@@ -2056,7 +2453,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2020|SLT Diesel": {
       "engine": "1.6L Diesel I4",
@@ -2077,7 +2475,8 @@
       "ft": "Diesel",
       "acceleration": 11.5,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~18.5 sec"
     },
     "GMC|Terrain|2021|SLE": {
       "engine": "1.5T I4",
@@ -2098,7 +2497,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2021|SLT": {
       "engine": "2.0T I4",
@@ -2119,7 +2519,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2021|AT4": {
       "engine": "2.0T I4",
@@ -2140,7 +2541,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2021|Denali": {
       "engine": "2.0T I4",
@@ -2161,7 +2563,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2021|SLT Diesel": {
       "engine": "1.6L Diesel I4",
@@ -2182,7 +2585,8 @@
       "ft": "Diesel",
       "acceleration": 11.5,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~18.5 sec"
     },
     "GMC|Terrain|2022|SLE": {
       "engine": "1.5T I4",
@@ -2203,7 +2607,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2022|SLT": {
       "engine": "2.0T I4",
@@ -2224,7 +2629,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2022|AT4": {
       "engine": "2.0T I4",
@@ -2245,7 +2651,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2022|Denali": {
       "engine": "2.0T I4",
@@ -2266,7 +2673,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2023|SLE": {
       "engine": "1.5T I4",
@@ -2287,7 +2695,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2023|SLT": {
       "engine": "2.0T I4",
@@ -2308,7 +2717,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2023|AT4": {
       "engine": "2.0T I4",
@@ -2329,7 +2739,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2023|Denali": {
       "engine": "2.0T I4",
@@ -2350,7 +2761,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2024|SLE": {
       "engine": "1.5T I4",
@@ -2371,7 +2783,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2024|SLT": {
       "engine": "2.0T I4",
@@ -2392,7 +2805,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2024|AT4": {
       "engine": "2.0T I4",
@@ -2413,7 +2827,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2024|Denali": {
       "engine": "2.0T I4",
@@ -2434,7 +2849,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2025|SLE": {
       "engine": "1.5T I4",
@@ -2455,7 +2871,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$29,000"
+      "price": "~$29,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2025|SLT": {
       "engine": "2.0T I4",
@@ -2476,7 +2893,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$34,000"
+      "price": "~$34,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2025|AT4": {
       "engine": "2.0T I4",
@@ -2497,7 +2915,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Terrain|2025|Denali": {
       "engine": "2.0T I4",
@@ -2518,7 +2937,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 190,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2015|SL": {
       "engine": "LCV 2.5L I4",
@@ -2539,7 +2959,8 @@
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$30,000"
+      "price": "~$30,000",
+      "quarterMile": "~17.9 sec"
     },
     "GMC|Canyon|2015|SLE": {
       "engine": "LGZ 3.6L V6",
@@ -2560,7 +2981,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$36,000"
+      "price": "~$36,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2015|SLT": {
       "engine": "LGZ 3.6L V6",
@@ -2581,7 +3003,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2015|Denali": {
       "engine": "LGZ 3.6L V6",
@@ -2602,7 +3025,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2015|AT4": {
       "engine": "LGZ 3.6L V6",
@@ -2623,7 +3047,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$44,000"
+      "price": "~$44,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2015|SLE Diesel": {
       "engine": "LWN 2.8L Duramax Diesel I4",
@@ -2644,7 +3069,8 @@
       "ft": "Diesel",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Canyon|2015|Denali Diesel": {
       "engine": "LWN 2.8L Duramax Diesel I4",
@@ -2665,7 +3091,8 @@
       "ft": "Diesel",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Canyon|2016|SL": {
       "engine": "LCV 2.5L I4",
@@ -2686,7 +3113,8 @@
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$30,000"
+      "price": "~$30,000",
+      "quarterMile": "~17.9 sec"
     },
     "GMC|Canyon|2016|SLE": {
       "engine": "LGZ 3.6L V6",
@@ -2707,7 +3135,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$36,000"
+      "price": "~$36,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2016|SLT": {
       "engine": "LGZ 3.6L V6",
@@ -2728,7 +3157,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2016|Denali": {
       "engine": "LGZ 3.6L V6",
@@ -2749,7 +3179,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2016|AT4": {
       "engine": "LGZ 3.6L V6",
@@ -2770,7 +3201,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$44,000"
+      "price": "~$44,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2016|SLE Diesel": {
       "engine": "LWN 2.8L Duramax Diesel I4",
@@ -2791,7 +3223,8 @@
       "ft": "Diesel",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Canyon|2016|Denali Diesel": {
       "engine": "LWN 2.8L Duramax Diesel I4",
@@ -2812,7 +3245,8 @@
       "ft": "Diesel",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Canyon|2017|SL": {
       "engine": "LCV 2.5L I4",
@@ -2833,7 +3267,8 @@
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$30,000"
+      "price": "~$30,000",
+      "quarterMile": "~17.9 sec"
     },
     "GMC|Canyon|2017|SLE": {
       "engine": "LGZ 3.6L V6",
@@ -2854,7 +3289,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$36,000"
+      "price": "~$36,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2017|SLT": {
       "engine": "LGZ 3.6L V6",
@@ -2875,7 +3311,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2017|Denali": {
       "engine": "LGZ 3.6L V6",
@@ -2896,7 +3333,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2017|AT4": {
       "engine": "LGZ 3.6L V6",
@@ -2917,7 +3355,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$44,000"
+      "price": "~$44,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2017|SLE Diesel": {
       "engine": "LWN 2.8L Duramax Diesel I4",
@@ -2938,7 +3377,8 @@
       "ft": "Diesel",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Canyon|2017|Denali Diesel": {
       "engine": "LWN 2.8L Duramax Diesel I4",
@@ -2959,7 +3399,8 @@
       "ft": "Diesel",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Canyon|2018|SL": {
       "engine": "LCV 2.5L I4",
@@ -2980,7 +3421,8 @@
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$30,000"
+      "price": "~$30,000",
+      "quarterMile": "~17.9 sec"
     },
     "GMC|Canyon|2018|SLE": {
       "engine": "LGZ 3.6L V6",
@@ -3001,7 +3443,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$36,000"
+      "price": "~$36,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2018|SLT": {
       "engine": "LGZ 3.6L V6",
@@ -3022,7 +3465,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2018|Denali": {
       "engine": "LGZ 3.6L V6",
@@ -3043,7 +3487,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2018|AT4": {
       "engine": "LGZ 3.6L V6",
@@ -3064,7 +3509,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$44,000"
+      "price": "~$44,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2018|SLE Diesel": {
       "engine": "LWN 2.8L Duramax Diesel I4",
@@ -3085,7 +3531,8 @@
       "ft": "Diesel",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Canyon|2018|Denali Diesel": {
       "engine": "LWN 2.8L Duramax Diesel I4",
@@ -3106,7 +3553,8 @@
       "ft": "Diesel",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Canyon|2019|SL": {
       "engine": "LCV 2.5L I4",
@@ -3127,7 +3575,8 @@
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$30,000"
+      "price": "~$30,000",
+      "quarterMile": "~17.9 sec"
     },
     "GMC|Canyon|2019|SLE": {
       "engine": "LGZ 3.6L V6",
@@ -3148,7 +3597,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$36,000"
+      "price": "~$36,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2019|SLT": {
       "engine": "LGZ 3.6L V6",
@@ -3169,7 +3619,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2019|Denali": {
       "engine": "LGZ 3.6L V6",
@@ -3190,7 +3641,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2019|AT4": {
       "engine": "LGZ 3.6L V6",
@@ -3211,7 +3663,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$44,000"
+      "price": "~$44,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2019|SLE Diesel": {
       "engine": "LWN 2.8L Duramax Diesel I4",
@@ -3232,7 +3685,8 @@
       "ft": "Diesel",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Canyon|2019|Denali Diesel": {
       "engine": "LWN 2.8L Duramax Diesel I4",
@@ -3253,7 +3707,8 @@
       "ft": "Diesel",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Canyon|2020|SL": {
       "engine": "LCV 2.5L I4",
@@ -3274,7 +3729,8 @@
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$30,000"
+      "price": "~$30,000",
+      "quarterMile": "~17.9 sec"
     },
     "GMC|Canyon|2020|SLE": {
       "engine": "LGZ 3.6L V6",
@@ -3295,7 +3751,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$36,000"
+      "price": "~$36,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2020|SLT": {
       "engine": "LGZ 3.6L V6",
@@ -3316,7 +3773,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2020|Denali": {
       "engine": "LGZ 3.6L V6",
@@ -3337,7 +3795,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2020|AT4": {
       "engine": "LGZ 3.6L V6",
@@ -3358,7 +3817,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$44,000"
+      "price": "~$44,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2020|SLE Diesel": {
       "engine": "LWN 2.8L Duramax Diesel I4",
@@ -3379,7 +3839,8 @@
       "ft": "Diesel",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Canyon|2020|Denali Diesel": {
       "engine": "LWN 2.8L Duramax Diesel I4",
@@ -3400,7 +3861,8 @@
       "ft": "Diesel",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Canyon|2021|SL": {
       "engine": "LCV 2.5L I4",
@@ -3421,7 +3883,8 @@
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$30,000"
+      "price": "~$30,000",
+      "quarterMile": "~17.9 sec"
     },
     "GMC|Canyon|2021|SLE": {
       "engine": "LGZ 3.6L V6",
@@ -3442,7 +3905,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$36,000"
+      "price": "~$36,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2021|SLT": {
       "engine": "LGZ 3.6L V6",
@@ -3463,7 +3927,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2021|Denali": {
       "engine": "LGZ 3.6L V6",
@@ -3484,7 +3949,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2021|AT4": {
       "engine": "LGZ 3.6L V6",
@@ -3505,7 +3971,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$44,000"
+      "price": "~$44,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2021|SLE Diesel": {
       "engine": "LWN 2.8L Duramax Diesel I4",
@@ -3526,7 +3993,8 @@
       "ft": "Diesel",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Canyon|2021|Denali Diesel": {
       "engine": "LWN 2.8L Duramax Diesel I4",
@@ -3547,7 +4015,8 @@
       "ft": "Diesel",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Canyon|2022|SL": {
       "engine": "LCV 2.5L I4",
@@ -3568,7 +4037,8 @@
       "ft": "Petrol",
       "acceleration": 10.5,
       "topSpeed": 175,
-      "price": "~$30,000"
+      "price": "~$30,000",
+      "quarterMile": "~17.9 sec"
     },
     "GMC|Canyon|2022|SLE": {
       "engine": "LGZ 3.6L V6",
@@ -3589,7 +4059,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$36,000"
+      "price": "~$36,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2022|SLT": {
       "engine": "LGZ 3.6L V6",
@@ -3610,7 +4081,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2022|Denali": {
       "engine": "LGZ 3.6L V6",
@@ -3631,7 +4103,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2022|AT4": {
       "engine": "LGZ 3.6L V6",
@@ -3652,7 +4125,8 @@
       "ft": "Petrol",
       "acceleration": 7.8,
       "topSpeed": 195,
-      "price": "~$44,000"
+      "price": "~$44,000",
+      "quarterMile": "~15.9 sec"
     },
     "GMC|Canyon|2022|SLE Diesel": {
       "engine": "LWN 2.8L Duramax Diesel I4",
@@ -3673,7 +4147,8 @@
       "ft": "Diesel",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$40,000"
+      "price": "~$40,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Canyon|2022|Denali Diesel": {
       "engine": "LWN 2.8L Duramax Diesel I4",
@@ -3694,7 +4169,8 @@
       "ft": "Diesel",
       "acceleration": 9.5,
       "topSpeed": 180,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~17.2 sec"
     },
     "GMC|Canyon|2023|SLE": {
       "engine": "L3B 2.7T I4",
@@ -3715,7 +4191,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 195,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Canyon|2023|SLT": {
       "engine": "L3B 2.7T I4",
@@ -3736,7 +4213,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 195,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Canyon|2023|AT4": {
       "engine": "L3B 2.7T I4",
@@ -3757,7 +4235,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 195,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Canyon|2023|AT4X": {
       "engine": "L3B 2.7T I4",
@@ -3778,7 +4257,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 195,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Canyon|2023|Denali": {
       "engine": "L3B 2.7T I4",
@@ -3799,7 +4279,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 195,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Canyon|2024|SLE": {
       "engine": "L3B 2.7T I4",
@@ -3820,7 +4301,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 195,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Canyon|2024|SLT": {
       "engine": "L3B 2.7T I4",
@@ -3841,7 +4323,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 195,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Canyon|2024|AT4": {
       "engine": "L3B 2.7T I4",
@@ -3862,7 +4345,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 195,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Canyon|2024|AT4X": {
       "engine": "L3B 2.7T I4",
@@ -3883,7 +4367,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 195,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Canyon|2024|Denali": {
       "engine": "L3B 2.7T I4",
@@ -3904,7 +4389,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 195,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Canyon|2025|SLE": {
       "engine": "L3B 2.7T I4",
@@ -3925,7 +4411,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 195,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Canyon|2025|SLT": {
       "engine": "L3B 2.7T I4",
@@ -3946,7 +4433,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 195,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Canyon|2025|AT4": {
       "engine": "L3B 2.7T I4",
@@ -3967,7 +4455,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 195,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Canyon|2025|AT4X": {
       "engine": "L3B 2.7T I4",
@@ -3988,7 +4477,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 195,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Canyon|2025|Denali": {
       "engine": "L3B 2.7T I4",
@@ -4009,7 +4499,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 195,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Acadia|2007|SLE": {
       "engine": "LLT 3.6L V6",
@@ -4030,7 +4521,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2007|SLT": {
       "engine": "LLT 3.6L V6",
@@ -4051,7 +4543,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$44,000"
+      "price": "~$44,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2007|Denali": {
       "engine": "LLT 3.6L V6",
@@ -4072,7 +4565,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2008|SLE": {
       "engine": "LLT 3.6L V6",
@@ -4093,7 +4587,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2008|SLT": {
       "engine": "LLT 3.6L V6",
@@ -4114,7 +4609,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$44,000"
+      "price": "~$44,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2008|Denali": {
       "engine": "LLT 3.6L V6",
@@ -4135,7 +4631,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2009|SLE": {
       "engine": "LLT 3.6L V6",
@@ -4156,7 +4653,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2009|SLT": {
       "engine": "LLT 3.6L V6",
@@ -4177,7 +4675,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$44,000"
+      "price": "~$44,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2009|Denali": {
       "engine": "LLT 3.6L V6",
@@ -4198,7 +4697,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2010|SLE": {
       "engine": "LLT 3.6L V6",
@@ -4219,7 +4719,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2010|SLT": {
       "engine": "LLT 3.6L V6",
@@ -4240,7 +4741,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$44,000"
+      "price": "~$44,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2010|Denali": {
       "engine": "LLT 3.6L V6",
@@ -4261,7 +4763,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2011|SLE": {
       "engine": "LLT 3.6L V6",
@@ -4282,7 +4785,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2011|SLT": {
       "engine": "LLT 3.6L V6",
@@ -4303,7 +4807,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$44,000"
+      "price": "~$44,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2011|Denali": {
       "engine": "LLT 3.6L V6",
@@ -4324,7 +4829,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2012|SLE": {
       "engine": "LLT 3.6L V6",
@@ -4345,7 +4851,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2012|SLT": {
       "engine": "LLT 3.6L V6",
@@ -4366,7 +4873,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$44,000"
+      "price": "~$44,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2012|Denali": {
       "engine": "LLT 3.6L V6",
@@ -4387,7 +4895,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2013|SLE": {
       "engine": "LLT 3.6L V6",
@@ -4408,7 +4917,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2013|SLT": {
       "engine": "LLT 3.6L V6",
@@ -4429,7 +4939,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$44,000"
+      "price": "~$44,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2013|Denali": {
       "engine": "LLT 3.6L V6",
@@ -4450,7 +4961,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2014|SLE": {
       "engine": "LLT 3.6L V6",
@@ -4471,7 +4983,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2014|SLT": {
       "engine": "LLT 3.6L V6",
@@ -4492,7 +5005,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$44,000"
+      "price": "~$44,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2014|Denali": {
       "engine": "LLT 3.6L V6",
@@ -4513,7 +5027,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2015|SLE": {
       "engine": "LLT 3.6L V6",
@@ -4534,7 +5049,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2015|SLT": {
       "engine": "LLT 3.6L V6",
@@ -4555,7 +5071,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$44,000"
+      "price": "~$44,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2015|Denali": {
       "engine": "LLT 3.6L V6",
@@ -4576,7 +5093,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2016|SLE": {
       "engine": "LLT 3.6L V6",
@@ -4597,7 +5115,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2016|SLT": {
       "engine": "LLT 3.6L V6",
@@ -4618,7 +5137,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$44,000"
+      "price": "~$44,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2016|Denali": {
       "engine": "LLT 3.6L V6",
@@ -4639,7 +5159,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 185,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Acadia|2017|SLE": {
       "engine": "LYX 2.5L I4",
@@ -4660,7 +5181,8 @@
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~17.5 sec"
     },
     "GMC|Acadia|2017|SLT": {
       "engine": "LGX 3.6L V6",
@@ -4681,7 +5203,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2017|AT4": {
       "engine": "LGX 3.6L V6",
@@ -4702,7 +5225,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2017|Denali": {
       "engine": "LGX 3.6L V6",
@@ -4723,7 +5247,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$56,000"
+      "price": "~$56,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2018|SLE": {
       "engine": "LYX 2.5L I4",
@@ -4744,7 +5269,8 @@
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~17.5 sec"
     },
     "GMC|Acadia|2018|SLT": {
       "engine": "LGX 3.6L V6",
@@ -4765,7 +5291,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2018|AT4": {
       "engine": "LGX 3.6L V6",
@@ -4786,7 +5313,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2018|Denali": {
       "engine": "LGX 3.6L V6",
@@ -4807,7 +5335,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$56,000"
+      "price": "~$56,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2019|SLE": {
       "engine": "LYX 2.5L I4",
@@ -4828,7 +5357,8 @@
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~17.5 sec"
     },
     "GMC|Acadia|2019|SLT": {
       "engine": "LGX 3.6L V6",
@@ -4849,7 +5379,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2019|AT4": {
       "engine": "LGX 3.6L V6",
@@ -4870,7 +5401,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2019|Denali": {
       "engine": "LGX 3.6L V6",
@@ -4891,7 +5423,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$56,000"
+      "price": "~$56,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2020|SLE": {
       "engine": "LYX 2.5L I4",
@@ -4912,7 +5445,8 @@
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~17.5 sec"
     },
     "GMC|Acadia|2020|SLT": {
       "engine": "LGX 3.6L V6",
@@ -4933,7 +5467,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2020|AT4": {
       "engine": "LGX 3.6L V6",
@@ -4954,7 +5489,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2020|Denali": {
       "engine": "LGX 3.6L V6",
@@ -4975,7 +5511,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$56,000"
+      "price": "~$56,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2021|SLE": {
       "engine": "LYX 2.5L I4",
@@ -4996,7 +5533,8 @@
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~17.5 sec"
     },
     "GMC|Acadia|2021|SLT": {
       "engine": "LGX 3.6L V6",
@@ -5017,7 +5555,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2021|AT4": {
       "engine": "LGX 3.6L V6",
@@ -5038,7 +5577,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2021|Denali": {
       "engine": "LGX 3.6L V6",
@@ -5059,7 +5599,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$56,000"
+      "price": "~$56,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2022|SLE": {
       "engine": "LYX 2.5L I4",
@@ -5080,7 +5621,8 @@
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~17.5 sec"
     },
     "GMC|Acadia|2022|SLT": {
       "engine": "LGX 3.6L V6",
@@ -5101,7 +5643,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2022|AT4": {
       "engine": "LGX 3.6L V6",
@@ -5122,7 +5665,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2022|Denali": {
       "engine": "LGX 3.6L V6",
@@ -5143,7 +5687,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$56,000"
+      "price": "~$56,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2023|SLE": {
       "engine": "LYX 2.5L I4",
@@ -5164,7 +5709,8 @@
       "ft": "Petrol",
       "acceleration": 10,
       "topSpeed": 175,
-      "price": "~$38,000"
+      "price": "~$38,000",
+      "quarterMile": "~17.5 sec"
     },
     "GMC|Acadia|2023|SLT": {
       "engine": "LGX 3.6L V6",
@@ -5185,7 +5731,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$46,000"
+      "price": "~$46,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2023|AT4": {
       "engine": "LGX 3.6L V6",
@@ -5206,7 +5753,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2023|Denali": {
       "engine": "LGX 3.6L V6",
@@ -5227,7 +5775,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 195,
-      "price": "~$56,000"
+      "price": "~$56,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Acadia|2024|SLE": {
       "engine": "2.5L I4",
@@ -5248,7 +5797,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 190,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Acadia|2024|SLT": {
       "engine": "LSY 2.0T I4",
@@ -5269,7 +5819,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 190,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Acadia|2024|AT4": {
       "engine": "LSY 2.0T I4",
@@ -5290,7 +5841,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 190,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Acadia|2024|Denali": {
       "engine": "LSY 2.0T I4",
@@ -5311,7 +5863,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 190,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Acadia|2025|SLE": {
       "engine": "2.5L I4",
@@ -5332,7 +5885,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 190,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Acadia|2025|SLT": {
       "engine": "LSY 2.0T I4",
@@ -5353,7 +5907,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 190,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Acadia|2025|AT4": {
       "engine": "LSY 2.0T I4",
@@ -5374,7 +5929,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 190,
-      "price": "~$55,000"
+      "price": "~$55,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Acadia|2025|Denali": {
       "engine": "LSY 2.0T I4",
@@ -5395,7 +5951,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 190,
-      "price": "~$60,000"
+      "price": "~$60,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2014|SLE": {
       "engine": "LV3 4.3L V6 EcoTec3",
@@ -5416,7 +5973,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 180,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Sierra 1500|2014|SLT": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -5437,7 +5995,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 185,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Sierra 1500|2014|Denali": {
       "engine": "L86 6.2L V8 EcoTec3",
@@ -5458,7 +6017,8 @@
       "ft": "Petrol",
       "acceleration": 5.8,
       "topSpeed": 195,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~14.1 sec"
     },
     "GMC|Sierra 1500|2015|SLE": {
       "engine": "LV3 4.3L V6 EcoTec3",
@@ -5479,7 +6039,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 180,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Sierra 1500|2015|SLT": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -5500,7 +6061,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 185,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Sierra 1500|2015|Denali": {
       "engine": "L86 6.2L V8 EcoTec3",
@@ -5521,7 +6083,8 @@
       "ft": "Petrol",
       "acceleration": 5.8,
       "topSpeed": 195,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~14.1 sec"
     },
     "GMC|Sierra 1500|2016|SLE": {
       "engine": "LV3 4.3L V6 EcoTec3",
@@ -5542,7 +6105,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 180,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Sierra 1500|2016|SLT": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -5563,7 +6127,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 185,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Sierra 1500|2016|Denali": {
       "engine": "L86 6.2L V8 EcoTec3",
@@ -5584,7 +6149,8 @@
       "ft": "Petrol",
       "acceleration": 5.8,
       "topSpeed": 195,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~14.1 sec"
     },
     "GMC|Sierra 1500|2017|SLE": {
       "engine": "LV3 4.3L V6 EcoTec3",
@@ -5605,7 +6171,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 180,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Sierra 1500|2017|SLT": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -5626,7 +6193,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 185,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Sierra 1500|2017|Denali": {
       "engine": "L86 6.2L V8 EcoTec3",
@@ -5647,7 +6215,8 @@
       "ft": "Petrol",
       "acceleration": 5.8,
       "topSpeed": 195,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~14.1 sec"
     },
     "GMC|Sierra 1500|2018|SLE": {
       "engine": "LV3 4.3L V6 EcoTec3",
@@ -5668,7 +6237,8 @@
       "ft": "Petrol",
       "acceleration": 8.5,
       "topSpeed": 180,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~16.5 sec"
     },
     "GMC|Sierra 1500|2018|SLT": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -5689,7 +6259,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 185,
-      "price": "~$52,000"
+      "price": "~$52,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Sierra 1500|2018|Denali": {
       "engine": "L86 6.2L V8 EcoTec3",
@@ -5710,7 +6281,8 @@
       "ft": "Petrol",
       "acceleration": 5.8,
       "topSpeed": 195,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~14.1 sec"
     },
     "GMC|Sierra 1500|2019|Regular": {
       "engine": "L3B 2.7T I4",
@@ -5731,7 +6303,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 180,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2019|SLE": {
       "engine": "L3B 2.7T I4",
@@ -5752,7 +6325,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 180,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2019|Elevation": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -5773,7 +6347,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2019|SLT": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -5794,7 +6369,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2019|AT4": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -5815,7 +6391,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2019|Denali": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -5836,7 +6413,8 @@
       "ft": "Petrol",
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~13.9 sec"
     },
     "GMC|Sierra 1500|2019|SLT Diesel": {
       "engine": "LM2 3.0L Duramax Diesel I6",
@@ -5857,7 +6435,8 @@
       "ft": "Diesel",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2019|AT4 Diesel": {
       "engine": "LM2 3.0L Duramax Diesel I6",
@@ -5878,7 +6457,8 @@
       "ft": "Diesel",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2020|Regular": {
       "engine": "L3B 2.7T I4",
@@ -5899,7 +6479,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 180,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2020|SLE": {
       "engine": "L3B 2.7T I4",
@@ -5920,7 +6501,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 180,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2020|Elevation": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -5941,7 +6523,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2020|SLT": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -5962,7 +6545,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2020|AT4": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -5983,7 +6567,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2020|Denali": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -6004,7 +6589,8 @@
       "ft": "Petrol",
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~13.9 sec"
     },
     "GMC|Sierra 1500|2020|SLT Diesel": {
       "engine": "LM2 3.0L Duramax Diesel I6",
@@ -6025,7 +6611,8 @@
       "ft": "Diesel",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2020|AT4 Diesel": {
       "engine": "LM2 3.0L Duramax Diesel I6",
@@ -6046,7 +6633,8 @@
       "ft": "Diesel",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2021|Regular": {
       "engine": "L3B 2.7T I4",
@@ -6067,7 +6655,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 180,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2021|SLE": {
       "engine": "L3B 2.7T I4",
@@ -6088,7 +6677,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 180,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2021|Elevation": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -6109,7 +6699,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2021|SLT": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -6130,7 +6721,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2021|AT4": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -6151,7 +6743,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2021|Denali": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -6172,7 +6765,8 @@
       "ft": "Petrol",
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~13.9 sec"
     },
     "GMC|Sierra 1500|2021|SLT Diesel": {
       "engine": "LM2 3.0L Duramax Diesel I6",
@@ -6193,7 +6787,8 @@
       "ft": "Diesel",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2021|AT4 Diesel": {
       "engine": "LM2 3.0L Duramax Diesel I6",
@@ -6214,7 +6809,8 @@
       "ft": "Diesel",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2022|Regular": {
       "engine": "L3B 2.7T I4",
@@ -6235,7 +6831,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 180,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2022|SLE": {
       "engine": "L3B 2.7T I4",
@@ -6256,7 +6853,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 180,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2022|Elevation": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -6277,7 +6875,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2022|SLT": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -6298,7 +6897,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2022|AT4": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -6319,7 +6919,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2022|Denali": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -6340,7 +6941,8 @@
       "ft": "Petrol",
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~13.9 sec"
     },
     "GMC|Sierra 1500|2022|SLT Diesel": {
       "engine": "LM2 3.0L Duramax Diesel I6",
@@ -6361,7 +6963,8 @@
       "ft": "Diesel",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2022|AT4 Diesel": {
       "engine": "LM2 3.0L Duramax Diesel I6",
@@ -6382,7 +6985,8 @@
       "ft": "Diesel",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2022|Denali Ultimate": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -6403,7 +7007,8 @@
       "ft": "Petrol",
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~13.9 sec"
     },
     "GMC|Sierra 1500|2023|Regular": {
       "engine": "L3B 2.7T I4",
@@ -6424,7 +7029,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 180,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2023|SLE": {
       "engine": "L3B 2.7T I4",
@@ -6445,7 +7051,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 180,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2023|Elevation": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -6466,7 +7073,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2023|SLT": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -6487,7 +7095,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2023|AT4": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -6508,7 +7117,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2023|Denali": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -6529,7 +7139,8 @@
       "ft": "Petrol",
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~13.9 sec"
     },
     "GMC|Sierra 1500|2023|SLT Diesel": {
       "engine": "LM2 3.0L Duramax Diesel I6",
@@ -6550,7 +7161,8 @@
       "ft": "Diesel",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2023|AT4 Diesel": {
       "engine": "LM2 3.0L Duramax Diesel I6",
@@ -6571,7 +7183,8 @@
       "ft": "Diesel",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2023|Denali Ultimate": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -6592,7 +7205,8 @@
       "ft": "Petrol",
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~13.9 sec"
     },
     "GMC|Sierra 1500|2024|Regular": {
       "engine": "L3B 2.7T I4",
@@ -6613,7 +7227,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 180,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2024|SLE": {
       "engine": "L3B 2.7T I4",
@@ -6634,7 +7249,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 180,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2024|Elevation": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -6655,7 +7271,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2024|SLT": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -6676,7 +7293,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2024|AT4": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -6697,7 +7315,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2024|Denali": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -6718,7 +7337,8 @@
       "ft": "Petrol",
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~13.9 sec"
     },
     "GMC|Sierra 1500|2024|SLT Diesel": {
       "engine": "LM2 3.0L Duramax Diesel I6",
@@ -6739,7 +7359,8 @@
       "ft": "Diesel",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2024|AT4 Diesel": {
       "engine": "LM2 3.0L Duramax Diesel I6",
@@ -6760,7 +7381,8 @@
       "ft": "Diesel",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2024|Denali Ultimate": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -6781,7 +7403,8 @@
       "ft": "Petrol",
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~13.9 sec"
     },
     "GMC|Sierra 1500|2025|Regular": {
       "engine": "L3B 2.7T I4",
@@ -6802,7 +7425,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 180,
-      "price": "~$42,000"
+      "price": "~$42,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2025|SLE": {
       "engine": "L3B 2.7T I4",
@@ -6823,7 +7447,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 180,
-      "price": "~$48,000"
+      "price": "~$48,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2025|Elevation": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -6844,7 +7469,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2025|SLT": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -6865,7 +7491,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2025|AT4": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -6886,7 +7513,8 @@
       "ft": "Petrol",
       "acceleration": 6.8,
       "topSpeed": 190,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~15.0 sec"
     },
     "GMC|Sierra 1500|2025|Denali": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -6907,7 +7535,8 @@
       "ft": "Petrol",
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~13.9 sec"
     },
     "GMC|Sierra 1500|2025|SLT Diesel": {
       "engine": "LM2 3.0L Duramax Diesel I6",
@@ -6928,7 +7557,8 @@
       "ft": "Diesel",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2025|AT4 Diesel": {
       "engine": "LM2 3.0L Duramax Diesel I6",
@@ -6949,7 +7579,8 @@
       "ft": "Diesel",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Sierra 1500|2025|Denali Ultimate": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -6970,7 +7601,8 @@
       "ft": "Petrol",
       "acceleration": 5.6,
       "topSpeed": 200,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~13.9 sec"
     },
     "GMC|Yukon|2000|SLE": {
       "engine": "LMG 5.3L V8",
@@ -6991,7 +7623,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2000|SLT": {
       "engine": "LMG 5.3L V8",
@@ -7012,7 +7645,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2000|Denali": {
       "engine": "LMG 5.3L V8",
@@ -7033,7 +7667,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2000|SLE": {
       "engine": "LMG 5.3L V8",
@@ -7054,7 +7689,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2000|SLT": {
       "engine": "LMG 5.3L V8",
@@ -7075,7 +7711,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2000|Denali": {
       "engine": "LMG 5.3L V8",
@@ -7096,7 +7733,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2001|SLE": {
       "engine": "LMG 5.3L V8",
@@ -7117,7 +7755,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2001|SLT": {
       "engine": "LMG 5.3L V8",
@@ -7138,7 +7777,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2001|Denali": {
       "engine": "LMG 5.3L V8",
@@ -7159,7 +7799,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2001|SLE": {
       "engine": "LMG 5.3L V8",
@@ -7180,7 +7821,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2001|SLT": {
       "engine": "LMG 5.3L V8",
@@ -7201,7 +7843,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2001|Denali": {
       "engine": "LMG 5.3L V8",
@@ -7222,7 +7865,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2002|SLE": {
       "engine": "LMG 5.3L V8",
@@ -7243,7 +7887,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2002|SLT": {
       "engine": "LMG 5.3L V8",
@@ -7264,7 +7909,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2002|Denali": {
       "engine": "LMG 5.3L V8",
@@ -7285,7 +7931,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2002|SLE": {
       "engine": "LMG 5.3L V8",
@@ -7306,7 +7953,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2002|SLT": {
       "engine": "LMG 5.3L V8",
@@ -7327,7 +7975,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2002|Denali": {
       "engine": "LMG 5.3L V8",
@@ -7348,7 +7997,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2003|SLE": {
       "engine": "LMG 5.3L V8",
@@ -7369,7 +8019,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2003|SLT": {
       "engine": "LMG 5.3L V8",
@@ -7390,7 +8041,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2003|Denali": {
       "engine": "LMG 5.3L V8",
@@ -7411,7 +8063,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2003|SLE": {
       "engine": "LMG 5.3L V8",
@@ -7432,7 +8085,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2003|SLT": {
       "engine": "LMG 5.3L V8",
@@ -7453,7 +8107,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2003|Denali": {
       "engine": "LMG 5.3L V8",
@@ -7474,7 +8129,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2004|SLE": {
       "engine": "LMG 5.3L V8",
@@ -7495,7 +8151,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2004|SLT": {
       "engine": "LMG 5.3L V8",
@@ -7516,7 +8173,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2004|Denali": {
       "engine": "LMG 5.3L V8",
@@ -7537,7 +8195,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2004|SLE": {
       "engine": "LMG 5.3L V8",
@@ -7558,7 +8217,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2004|SLT": {
       "engine": "LMG 5.3L V8",
@@ -7579,7 +8239,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2004|Denali": {
       "engine": "LMG 5.3L V8",
@@ -7600,7 +8261,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2005|SLE": {
       "engine": "LMG 5.3L V8",
@@ -7621,7 +8283,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2005|SLT": {
       "engine": "LMG 5.3L V8",
@@ -7642,7 +8305,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2005|Denali": {
       "engine": "LMG 5.3L V8",
@@ -7663,7 +8327,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2005|SLE": {
       "engine": "LMG 5.3L V8",
@@ -7684,7 +8349,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2005|SLT": {
       "engine": "LMG 5.3L V8",
@@ -7705,7 +8371,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2005|Denali": {
       "engine": "LMG 5.3L V8",
@@ -7726,7 +8393,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2006|SLE": {
       "engine": "LMG 5.3L V8",
@@ -7747,7 +8415,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2006|SLT": {
       "engine": "LMG 5.3L V8",
@@ -7768,7 +8437,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2006|Denali": {
       "engine": "LMG 5.3L V8",
@@ -7789,7 +8459,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2006|SLE": {
       "engine": "LMG 5.3L V8",
@@ -7810,7 +8481,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2006|SLT": {
       "engine": "LMG 5.3L V8",
@@ -7831,7 +8503,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2006|Denali": {
       "engine": "LMG 5.3L V8",
@@ -7852,7 +8525,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2007|SLE": {
       "engine": "LMG 5.3L V8",
@@ -7873,7 +8547,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2007|SLT": {
       "engine": "LMG 5.3L V8",
@@ -7894,7 +8569,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2007|Denali": {
       "engine": "LMG 5.3L V8",
@@ -7915,7 +8591,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2007|SLE": {
       "engine": "LMG 5.3L V8",
@@ -7936,7 +8613,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2007|SLT": {
       "engine": "LMG 5.3L V8",
@@ -7957,7 +8635,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2007|Denali": {
       "engine": "LMG 5.3L V8",
@@ -7978,7 +8657,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2008|SLE": {
       "engine": "LMG 5.3L V8",
@@ -7999,7 +8679,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2008|SLT": {
       "engine": "LMG 5.3L V8",
@@ -8020,7 +8701,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2008|Denali": {
       "engine": "LMG 5.3L V8",
@@ -8041,7 +8723,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2008|SLE": {
       "engine": "LMG 5.3L V8",
@@ -8062,7 +8745,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2008|SLT": {
       "engine": "LMG 5.3L V8",
@@ -8083,7 +8767,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2008|Denali": {
       "engine": "LMG 5.3L V8",
@@ -8104,7 +8789,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2009|SLE": {
       "engine": "LMG 5.3L V8",
@@ -8125,7 +8811,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2009|SLT": {
       "engine": "LMG 5.3L V8",
@@ -8146,7 +8833,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2009|Denali": {
       "engine": "LMG 5.3L V8",
@@ -8167,7 +8855,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2009|SLE": {
       "engine": "LMG 5.3L V8",
@@ -8188,7 +8877,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2009|SLT": {
       "engine": "LMG 5.3L V8",
@@ -8209,7 +8899,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2009|Denali": {
       "engine": "LMG 5.3L V8",
@@ -8230,7 +8921,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2010|SLE": {
       "engine": "LMG 5.3L V8",
@@ -8251,7 +8943,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2010|SLT": {
       "engine": "LMG 5.3L V8",
@@ -8272,7 +8965,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2010|Denali": {
       "engine": "LMG 5.3L V8",
@@ -8293,7 +8987,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2010|SLE": {
       "engine": "LMG 5.3L V8",
@@ -8314,7 +9009,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2010|SLT": {
       "engine": "LMG 5.3L V8",
@@ -8335,7 +9031,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2010|Denali": {
       "engine": "LMG 5.3L V8",
@@ -8356,7 +9053,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2011|SLE": {
       "engine": "LMG 5.3L V8",
@@ -8377,7 +9075,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2011|SLT": {
       "engine": "LMG 5.3L V8",
@@ -8398,7 +9097,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2011|Denali": {
       "engine": "LMG 5.3L V8",
@@ -8419,7 +9119,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2011|SLE": {
       "engine": "LMG 5.3L V8",
@@ -8440,7 +9141,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2011|SLT": {
       "engine": "LMG 5.3L V8",
@@ -8461,7 +9163,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2011|Denali": {
       "engine": "LMG 5.3L V8",
@@ -8482,7 +9185,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2012|SLE": {
       "engine": "LMG 5.3L V8",
@@ -8503,7 +9207,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2012|SLT": {
       "engine": "LMG 5.3L V8",
@@ -8524,7 +9229,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2012|Denali": {
       "engine": "LMG 5.3L V8",
@@ -8545,7 +9251,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2012|SLE": {
       "engine": "LMG 5.3L V8",
@@ -8566,7 +9273,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2012|SLT": {
       "engine": "LMG 5.3L V8",
@@ -8587,7 +9295,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2012|Denali": {
       "engine": "LMG 5.3L V8",
@@ -8608,7 +9317,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2013|SLE": {
       "engine": "LMG 5.3L V8",
@@ -8629,7 +9339,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2013|SLT": {
       "engine": "LMG 5.3L V8",
@@ -8650,7 +9361,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2013|Denali": {
       "engine": "LMG 5.3L V8",
@@ -8671,7 +9383,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2013|SLE": {
       "engine": "LMG 5.3L V8",
@@ -8692,7 +9405,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2013|SLT": {
       "engine": "LMG 5.3L V8",
@@ -8713,7 +9427,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2013|Denali": {
       "engine": "LMG 5.3L V8",
@@ -8734,7 +9449,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2014|SLE": {
       "engine": "LMG 5.3L V8",
@@ -8755,7 +9471,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$50,000"
+      "price": "~$50,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2014|SLT": {
       "engine": "LMG 5.3L V8",
@@ -8776,7 +9493,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2014|Denali": {
       "engine": "LMG 5.3L V8",
@@ -8797,7 +9515,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2014|SLE": {
       "engine": "LMG 5.3L V8",
@@ -8818,7 +9537,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$54,000"
+      "price": "~$54,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2014|SLT": {
       "engine": "LMG 5.3L V8",
@@ -8839,7 +9559,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2014|Denali": {
       "engine": "LMG 5.3L V8",
@@ -8860,7 +9581,8 @@
       "ft": "Petrol",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon|2015|SLE": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -8881,7 +9603,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon|2015|SLT": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -8902,7 +9625,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$66,000"
+      "price": "~$66,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon|2015|Denali": {
       "engine": "L86 6.2L V8 EcoTec3",
@@ -8923,7 +9647,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 193,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Yukon XL|2015|SLE": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -8944,7 +9669,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon XL|2015|SLT": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -8965,7 +9691,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon XL|2015|Denali": {
       "engine": "L86 6.2L V8 EcoTec3",
@@ -8986,7 +9713,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 193,
-      "price": "~$86,000"
+      "price": "~$86,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Yukon|2016|SLE": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -9007,7 +9735,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon|2016|SLT": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -9028,7 +9757,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$66,000"
+      "price": "~$66,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon|2016|Denali": {
       "engine": "L86 6.2L V8 EcoTec3",
@@ -9049,7 +9779,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 193,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Yukon XL|2016|SLE": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -9070,7 +9801,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon XL|2016|SLT": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -9091,7 +9823,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon XL|2016|Denali": {
       "engine": "L86 6.2L V8 EcoTec3",
@@ -9112,7 +9845,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 193,
-      "price": "~$86,000"
+      "price": "~$86,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Yukon|2017|SLE": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -9133,7 +9867,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon|2017|SLT": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -9154,7 +9889,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$66,000"
+      "price": "~$66,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon|2017|Denali": {
       "engine": "L86 6.2L V8 EcoTec3",
@@ -9175,7 +9911,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 193,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Yukon XL|2017|SLE": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -9196,7 +9933,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon XL|2017|SLT": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -9217,7 +9955,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon XL|2017|Denali": {
       "engine": "L86 6.2L V8 EcoTec3",
@@ -9238,7 +9977,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 193,
-      "price": "~$86,000"
+      "price": "~$86,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Yukon|2018|SLE": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -9259,7 +9999,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon|2018|SLT": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -9280,7 +10021,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$66,000"
+      "price": "~$66,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon|2018|Denali": {
       "engine": "L86 6.2L V8 EcoTec3",
@@ -9301,7 +10043,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 193,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Yukon XL|2018|SLE": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -9322,7 +10065,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon XL|2018|SLT": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -9343,7 +10087,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon XL|2018|Denali": {
       "engine": "L86 6.2L V8 EcoTec3",
@@ -9364,7 +10109,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 193,
-      "price": "~$86,000"
+      "price": "~$86,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Yukon|2019|SLE": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -9385,7 +10131,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon|2019|SLT": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -9406,7 +10153,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$66,000"
+      "price": "~$66,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon|2019|Denali": {
       "engine": "L86 6.2L V8 EcoTec3",
@@ -9427,7 +10175,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 193,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Yukon XL|2019|SLE": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -9448,7 +10197,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon XL|2019|SLT": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -9469,7 +10219,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon XL|2019|Denali": {
       "engine": "L86 6.2L V8 EcoTec3",
@@ -9490,7 +10241,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 193,
-      "price": "~$86,000"
+      "price": "~$86,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Yukon|2020|SLE": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -9511,7 +10263,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$58,000"
+      "price": "~$58,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon|2020|SLT": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -9532,7 +10285,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$66,000"
+      "price": "~$66,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon|2020|Denali": {
       "engine": "L86 6.2L V8 EcoTec3",
@@ -9553,7 +10307,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 193,
-      "price": "~$80,000"
+      "price": "~$80,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Yukon XL|2020|SLE": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -9574,7 +10329,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$62,000"
+      "price": "~$62,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon XL|2020|SLT": {
       "engine": "L83 5.3L V8 EcoTec3",
@@ -9595,7 +10351,8 @@
       "ft": "Petrol",
       "acceleration": 7.5,
       "topSpeed": 185,
-      "price": "~$70,000"
+      "price": "~$70,000",
+      "quarterMile": "~15.6 sec"
     },
     "GMC|Yukon XL|2020|Denali": {
       "engine": "L86 6.2L V8 EcoTec3",
@@ -9616,7 +10373,8 @@
       "ft": "Petrol",
       "acceleration": 6.5,
       "topSpeed": 193,
-      "price": "~$86,000"
+      "price": "~$86,000",
+      "quarterMile": "~14.8 sec"
     },
     "GMC|Yukon|2021|SLE": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -9637,7 +10395,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon|2021|SLT": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -9658,7 +10417,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon|2021|AT4": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -9679,7 +10439,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$78,000"
+      "price": "~$78,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon|2021|Denali": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -9700,7 +10461,8 @@
       "ft": "Petrol",
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~14.4 sec"
     },
     "GMC|Yukon|2021|Denali Ultimate": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -9721,7 +10483,8 @@
       "ft": "Petrol",
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$98,000"
+      "price": "~$98,000",
+      "quarterMile": "~14.4 sec"
     },
     "GMC|Yukon|2021|SLT Diesel": {
       "engine": "LM2 3.0L Duramax Diesel I6",
@@ -9742,7 +10505,8 @@
       "ft": "Diesel",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$76,000"
+      "price": "~$76,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2021|SLE": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -9763,7 +10527,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon XL|2021|SLT": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -9784,7 +10549,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$76,000"
+      "price": "~$76,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon XL|2021|Denali": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -9805,7 +10571,8 @@
       "ft": "Petrol",
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~14.4 sec"
     },
     "GMC|Yukon|2022|SLE": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -9826,7 +10593,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon|2022|SLT": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -9847,7 +10615,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon|2022|AT4": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -9868,7 +10637,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$78,000"
+      "price": "~$78,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon|2022|Denali": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -9889,7 +10659,8 @@
       "ft": "Petrol",
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~14.4 sec"
     },
     "GMC|Yukon|2022|Denali Ultimate": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -9910,7 +10681,8 @@
       "ft": "Petrol",
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$98,000"
+      "price": "~$98,000",
+      "quarterMile": "~14.4 sec"
     },
     "GMC|Yukon|2022|SLT Diesel": {
       "engine": "LM2 3.0L Duramax Diesel I6",
@@ -9931,7 +10703,8 @@
       "ft": "Diesel",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$76,000"
+      "price": "~$76,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2022|SLE": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -9952,7 +10725,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon XL|2022|SLT": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -9973,7 +10747,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$76,000"
+      "price": "~$76,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon XL|2022|Denali": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -9994,7 +10769,8 @@
       "ft": "Petrol",
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~14.4 sec"
     },
     "GMC|Yukon|2023|SLE": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -10015,7 +10791,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon|2023|SLT": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -10036,7 +10813,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon|2023|AT4": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -10057,7 +10835,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$78,000"
+      "price": "~$78,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon|2023|Denali": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -10078,7 +10857,8 @@
       "ft": "Petrol",
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~14.4 sec"
     },
     "GMC|Yukon|2023|Denali Ultimate": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -10099,7 +10879,8 @@
       "ft": "Petrol",
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$98,000"
+      "price": "~$98,000",
+      "quarterMile": "~14.4 sec"
     },
     "GMC|Yukon|2023|SLT Diesel": {
       "engine": "LM2 3.0L Duramax Diesel I6",
@@ -10120,7 +10901,8 @@
       "ft": "Diesel",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$76,000"
+      "price": "~$76,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2023|SLE": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -10141,7 +10923,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon XL|2023|SLT": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -10162,7 +10945,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$76,000"
+      "price": "~$76,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon XL|2023|Denali": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -10183,7 +10967,8 @@
       "ft": "Petrol",
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~14.4 sec"
     },
     "GMC|Yukon|2024|SLE": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -10204,7 +10989,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon|2024|SLT": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -10225,7 +11011,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon|2024|AT4": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -10246,7 +11033,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$78,000"
+      "price": "~$78,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon|2024|Denali": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -10267,7 +11055,8 @@
       "ft": "Petrol",
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~14.4 sec"
     },
     "GMC|Yukon|2024|Denali Ultimate": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -10288,7 +11077,8 @@
       "ft": "Petrol",
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$98,000"
+      "price": "~$98,000",
+      "quarterMile": "~14.4 sec"
     },
     "GMC|Yukon|2024|SLT Diesel": {
       "engine": "LM2 3.0L Duramax Diesel I6",
@@ -10309,7 +11099,8 @@
       "ft": "Diesel",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$76,000"
+      "price": "~$76,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2024|SLE": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -10330,7 +11121,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon XL|2024|SLT": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -10351,7 +11143,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$76,000"
+      "price": "~$76,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon XL|2024|Denali": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -10372,7 +11165,8 @@
       "ft": "Petrol",
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~14.4 sec"
     },
     "GMC|Yukon|2025|SLE": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -10393,7 +11187,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$65,000"
+      "price": "~$65,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon|2025|SLT": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -10414,7 +11209,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$72,000"
+      "price": "~$72,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon|2025|AT4": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -10435,7 +11231,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$78,000"
+      "price": "~$78,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon|2025|Denali": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -10456,7 +11253,8 @@
       "ft": "Petrol",
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$90,000"
+      "price": "~$90,000",
+      "quarterMile": "~14.4 sec"
     },
     "GMC|Yukon|2025|Denali Ultimate": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -10477,7 +11275,8 @@
       "ft": "Petrol",
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$98,000"
+      "price": "~$98,000",
+      "quarterMile": "~14.4 sec"
     },
     "GMC|Yukon|2025|SLT Diesel": {
       "engine": "LM2 3.0L Duramax Diesel I6",
@@ -10498,7 +11297,8 @@
       "ft": "Diesel",
       "acceleration": 8,
       "topSpeed": 185,
-      "price": "~$76,000"
+      "price": "~$76,000",
+      "quarterMile": "~16.1 sec"
     },
     "GMC|Yukon XL|2025|SLE": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -10519,7 +11319,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$68,000"
+      "price": "~$68,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon XL|2025|SLT": {
       "engine": "L84 5.3L V8 EcoTec3",
@@ -10540,7 +11341,8 @@
       "ft": "Petrol",
       "acceleration": 7.2,
       "topSpeed": 190,
-      "price": "~$76,000"
+      "price": "~$76,000",
+      "quarterMile": "~15.4 sec"
     },
     "GMC|Yukon XL|2025|Denali": {
       "engine": "L87 6.2L V8 EcoTec3",
@@ -10561,7 +11363,8 @@
       "ft": "Petrol",
       "acceleration": 6.1,
       "topSpeed": 200,
-      "price": "~$95,000"
+      "price": "~$95,000",
+      "quarterMile": "~14.4 sec"
     }
   }
 }

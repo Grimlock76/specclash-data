@@ -10,18 +10,23 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 235,
+      "acceleration": 4.6,
       "cargo": 410,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
-      "torque": null,
+      "torque": 525,
       "power": 252,
       "battery": "74.7 kWh",
       "towing": 1500,
       "range": 566,
       "weight": 2000,
-      "price": "$61,990"
+      "price": "$61,990",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~12.9 sec"
     },
     "Subaru|Solterra|2026|AWD Touring": {
       "fuelType": "electric",
@@ -33,18 +38,23 @@
       "fh": null,
       "fx": null,
       "seats": 5,
-      "topSpeed": null,
-      "acceleration": null,
+      "topSpeed": 230,
+      "acceleration": 4.7,
       "cargo": 410,
       "engine": "Dual Motor Electric",
       "drivetrain": "AWD",
-      "torque": null,
+      "torque": 525,
       "power": 252,
       "battery": "74.7 kWh",
       "towing": 1500,
       "range": 517,
       "weight": 2035,
-      "price": "$67,990"
+      "price": "$67,990",
+      "est": [
+        "torque",
+        "topSpeed"
+      ],
+      "quarterMile": "~13.0 sec"
     }
   }
 }

@@ -17,7 +17,12 @@
       "acceleration": 6.3,
       "topSpeed": 250,
       "price": "~$75,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~14.6 sec",
+      "cargo": 495,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|A6|2024|55 TFSI quattro": {
       "engine": "3.0 TFSI V6",
@@ -36,7 +41,12 @@
       "acceleration": 5.1,
       "topSpeed": 250,
       "price": "~$119,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.4 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|Q3|2024|40 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -55,7 +65,12 @@
       "acceleration": 7.9,
       "topSpeed": 209,
       "price": "~$52,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~16.0 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|Q7|2024|45 TDI quattro": {
       "engine": "3.0 TDI V6",
@@ -74,7 +89,12 @@
       "acceleration": 6.5,
       "topSpeed": 230,
       "price": "~$104,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~14.8 sec",
+      "cargo": 770,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|Q5 Sportback|2024|SQ5 Sportback": {
       "engine": "3.0 TFSI V6",
@@ -93,7 +113,12 @@
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$109,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.2 sec",
+      "cargo": 515,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|A7|2024|50 TFSI e quattro": {
       "engine": "3.0 TFSI V6 PHEV",
@@ -106,13 +131,20 @@
       "torque": 670,
       "weight": 2175,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.1,
+      "fh": 1.4,
       "fx": 1.8,
       "acceleration": 4.9,
       "topSpeed": 250,
       "price": "~$149,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.2 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 535
     },
     "Audi|A8|2024|60 TFSI e quattro L": {
       "engine": "3.0 TFSI V6 PHEV",
@@ -125,13 +157,20 @@
       "torque": 700,
       "weight": 2350,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 2.3,
+      "fh": 1.6,
       "fx": 2,
       "acceleration": 4.1,
       "topSpeed": 250,
       "price": "~$279,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~12.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 400
     },
     "Audi|Q2|2024|40 TFSI quattro": {
       "engine": "2.0 TFSI",
@@ -150,7 +189,12 @@
       "acceleration": 7.1,
       "topSpeed": 224,
       "price": "~$60,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~15.3 sec",
+      "cargo": 405,
+      "est": [
+        "cargo"
+      ]
     },
     "Audi|A4 allroad|2024|50 TDI quattro": {
       "engine": "3.0 TDI V6",
@@ -169,7 +213,12 @@
       "acceleration": 4.8,
       "topSpeed": 250,
       "price": "~$103,900",
-      "aspiration": "BorgWarner VGT Diesel Turbo"
+      "aspiration": "BorgWarner VGT Diesel Turbo",
+      "quarterMile": "~13.1 sec",
+      "cargo": 495,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Macan|2024|Electric": {
       "engine": "Electric Single Motor 95 kWh",
@@ -188,7 +237,12 @@
       "acceleration": 6,
       "topSpeed": 220,
       "price": "~$95,200",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.3 sec",
+      "cargo": 500,
+      "est": [
+        "cargo"
+      ]
     },
     "Volvo|C40 Recharge|2024|Extended Range": {
       "engine": "Single Motor Electric",
@@ -207,7 +261,12 @@
       "acceleration": 6.2,
       "topSpeed": 180,
       "price": "~$67,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.5 sec",
+      "cargo": 419,
+      "est": [
+        "cargo"
+      ]
     },
     "GWM|Tank 300|2024|Ultra PHEV": {
       "engine": "2.0L I4 Turbo PHEV",
@@ -226,7 +285,8 @@
       "acceleration": 7.5,
       "topSpeed": 195,
       "price": "~$67,990",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~15.6 sec"
     },
     "Renault|Megane E-Tech|2024|EV40": {
       "engine": "Electric 40 kWh",
@@ -245,7 +305,12 @@
       "acceleration": 8.7,
       "topSpeed": 150,
       "price": "~$47,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~16.7 sec",
+      "cargo": 440,
+      "est": [
+        "cargo"
+      ]
     },
     "Lamborghini|Revuelto|2024|Spider": {
       "engine": "6.5L V12 NA + 3 Electric Motors",
@@ -264,7 +329,12 @@
       "acceleration": 2.5,
       "topSpeed": 350,
       "price": "~$1,129,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~10.4 sec",
+      "cargo": 150,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

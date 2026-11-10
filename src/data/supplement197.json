@@ -11,13 +11,20 @@
       "torque": 640,
       "weight": 2150,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 3.1,
+      "fh": 2.2,
       "fx": 2.7,
       "acceleration": 5.3,
       "topSpeed": 209,
       "price": "~$119,900",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~13.6 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 650
     },
     "Jaguar|I-Pace|2019|EV400 S": {
       "engine": "Dual Motor Electric",
@@ -36,7 +43,12 @@
       "acceleration": 4.8,
       "topSpeed": 200,
       "price": "~$119,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.1 sec",
+      "cargo": 656,
+      "est": [
+        "cargo"
+      ]
     },
     "Jaguar|I-Pace|2019|EV400 HSE": {
       "engine": "Dual Motor Electric",
@@ -55,7 +67,12 @@
       "acceleration": 4.8,
       "topSpeed": 200,
       "price": "~$139,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~13.1 sec",
+      "cargo": 656,
+      "est": [
+        "cargo"
+      ]
     },
     "Kia|Niro|2019|EV": {
       "engine": "Single Motor Electric",
@@ -74,7 +91,12 @@
       "acceleration": 7.8,
       "topSpeed": 167,
       "price": "~$65,990",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~15.9 sec",
+      "cargo": 427,
+      "est": [
+        "cargo"
+      ]
     },
     "Kia|Niro|2019|PHEV Sport": {
       "engine": "1.6L I4 GDI Hybrid PHEV",
@@ -87,13 +109,20 @@
       "torque": 265,
       "weight": 1545,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.5,
+      "fh": 1.1,
       "fx": 1.3,
       "acceleration": 9.8,
       "topSpeed": 162,
       "price": "~$45,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~17.4 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 427
     },
     "Lamborghini|Huracan|2019|Evo": {
       "engine": "5.2L V10 NA",
@@ -112,7 +141,12 @@
       "acceleration": 2.9,
       "topSpeed": 325,
       "price": "~$499,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~10.9 sec",
+      "cargo": 100,
+      "est": [
+        "cargo"
+      ]
     },
     "Lamborghini|Huracan|2019|Evo Spyder": {
       "engine": "5.2L V10 NA",
@@ -131,7 +165,12 @@
       "acceleration": 3.1,
       "topSpeed": 324,
       "price": "~$559,000",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~11.2 sec",
+      "cargo": 100,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Evoque|2019|S": {
       "engine": "2.0L I4 Turbo Ingenium",
@@ -150,7 +189,12 @@
       "acceleration": 8,
       "topSpeed": 210,
       "price": "~$59,900",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~16.1 sec",
+      "cargo": 591,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Evoque|2019|SE": {
       "engine": "2.0L I4 Turbo Ingenium",
@@ -169,7 +213,12 @@
       "acceleration": 8,
       "topSpeed": 210,
       "price": "~$69,900",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~16.1 sec",
+      "cargo": 591,
+      "est": [
+        "cargo"
+      ]
     },
     "Land Rover|Range Rover Evoque|2019|R-Dynamic": {
       "engine": "2.0L I4 Turbo Ingenium",
@@ -188,7 +237,12 @@
       "acceleration": 7.3,
       "topSpeed": 217,
       "price": "~$79,900",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~15.5 sec",
+      "cargo": 591,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|GS|2019|GS 300": {
       "engine": "2.0L I4 Turbo 8AR-FTS",
@@ -207,7 +261,12 @@
       "acceleration": 7.5,
       "topSpeed": 230,
       "price": "~$75,990",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "cargo": 530,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2019|IS 300": {
       "engine": "2.0L I4 Turbo 8AR-FTS",
@@ -226,7 +285,12 @@
       "acceleration": 7.5,
       "topSpeed": 230,
       "price": "~$63,990",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.6 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|IS|2019|IS 300 F Sport": {
       "engine": "2.0L I4 Turbo 8AR-FTS",
@@ -245,7 +309,12 @@
       "acceleration": 7.4,
       "topSpeed": 230,
       "price": "~$71,990",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.5 sec",
+      "cargo": 450,
+      "est": [
+        "cargo"
+      ]
     },
     "Maserati|Ghibli|2019|Trofeo": {
       "engine": "3.8L V8 Biturbo Ferrari",
@@ -264,7 +333,12 @@
       "acceleration": 4.3,
       "topSpeed": 326,
       "price": "~$339,900",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~12.6 sec",
+      "cargo": 500,
+      "est": [
+        "cargo"
+      ]
     },
     "Maserati|Levante|2019|Trofeo": {
       "engine": "3.8L V8 Biturbo Ferrari",
@@ -283,7 +357,12 @@
       "acceleration": 4.3,
       "topSpeed": 304,
       "price": "~$379,900",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~12.6 sec",
+      "cargo": 580,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

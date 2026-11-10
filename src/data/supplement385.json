@@ -1,7 +1,7 @@
 {
   "specs": {
     "Volkswagen|Polo|2024|85TSI Life": {
-      "topSpeed": null,
+      "topSpeed": 195,
       "acceleration": 10.4,
       "cargo": 351,
       "engine": "1.0L I3 Turbo Petrol",
@@ -13,17 +13,24 @@
       "torque": 200,
       "transmission": "7-speed dual-clutch",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 6.3,
+      "fh": 3.4,
       "fx": 5,
       "seats": 5,
       "fuelTank": 40,
-      "weight": null,
+      "weight": 1170,
       "price": "$29,490",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~17.8 sec"
     },
     "Volkswagen|Polo|2024|85TSI Style": {
-      "topSpeed": null,
+      "topSpeed": 195,
       "acceleration": 10.4,
       "cargo": 351,
       "engine": "1.0L I3 Turbo Petrol",
@@ -35,17 +42,24 @@
       "torque": 200,
       "transmission": "7-speed dual-clutch",
       "drivetrain": "FWD",
-      "fc": null,
-      "fh": null,
+      "fc": 6.3,
+      "fh": 3.4,
       "fx": 5,
       "seats": 5,
       "fuelTank": 40,
-      "weight": null,
+      "weight": 1170,
       "price": "$32,540",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~17.8 sec"
     },
     "Volkswagen|Polo|2024|GTI": {
-      "topSpeed": null,
+      "topSpeed": 235,
       "acceleration": 6.8,
       "cargo": 305,
       "engine": "2.0L I4 Turbo Petrol",
@@ -64,10 +78,15 @@
       "fuelTank": 40,
       "price": "$40,390",
       "accelClaimed": true,
-      "weight": null
+      "weight": 1170,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.0 sec"
     },
     "Volkswagen|Polo|2025|85TSI Life": {
-      "topSpeed": null,
+      "topSpeed": 195,
       "acceleration": 10.4,
       "cargo": 351,
       "engine": "1.0L I3 Turbo Petrol",
@@ -84,12 +103,17 @@
       "fx": 5.4,
       "seats": 5,
       "fuelTank": 40,
-      "weight": null,
+      "weight": 1170,
       "price": "$30,790",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.8 sec"
     },
     "Volkswagen|Polo|2025|85TSI CityLife": {
-      "topSpeed": null,
+      "topSpeed": 195,
       "acceleration": 10.4,
       "cargo": 351,
       "engine": "1.0L I3 Turbo Petrol",
@@ -106,12 +130,17 @@
       "fx": 5.4,
       "seats": 5,
       "fuelTank": 40,
-      "weight": null,
+      "weight": 1170,
       "price": "$32,790",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.8 sec"
     },
     "Volkswagen|Polo|2025|85TSI Style": {
-      "topSpeed": null,
+      "topSpeed": 190,
       "acceleration": 10.4,
       "cargo": 351,
       "engine": "1.0L I3 Turbo Petrol",
@@ -130,10 +159,14 @@
       "fuelTank": 40,
       "price": "$34,790",
       "accelClaimed": true,
-      "weight": 1210
+      "weight": 1210,
+      "quarterMile": "~17.8 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Volkswagen|Polo|2025|GTI": {
-      "topSpeed": null,
+      "topSpeed": 235,
       "acceleration": 6.8,
       "cargo": 305,
       "engine": "2.0L I4 Turbo Petrol",
@@ -152,10 +185,15 @@
       "fuelTank": 40,
       "price": "$41,790",
       "accelClaimed": true,
-      "weight": null
+      "weight": 1210,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.0 sec"
     },
     "Volkswagen|Polo|2026|85TSI Life": {
-      "topSpeed": null,
+      "topSpeed": 195,
       "acceleration": 10.4,
       "cargo": 351,
       "engine": "1.0L I3 Turbo Petrol",
@@ -172,12 +210,17 @@
       "fx": 5.4,
       "seats": 5,
       "fuelTank": 40,
-      "weight": null,
+      "weight": 1170,
       "price": "$30,990",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.8 sec"
     },
     "Volkswagen|Polo|2026|85TSI CityLife": {
-      "topSpeed": null,
+      "topSpeed": 195,
       "acceleration": 10.4,
       "cargo": 351,
       "engine": "1.0L I3 Turbo Petrol",
@@ -194,12 +237,17 @@
       "fx": 5.4,
       "seats": 5,
       "fuelTank": 40,
-      "weight": null,
+      "weight": 1170,
       "price": "$32,790",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.8 sec"
     },
     "Volkswagen|Polo|2026|85TSI Style": {
-      "topSpeed": null,
+      "topSpeed": 195,
       "acceleration": 10.4,
       "cargo": 351,
       "engine": "1.0L I3 Turbo Petrol",
@@ -218,10 +266,15 @@
       "fuelTank": 40,
       "price": "$34,990",
       "accelClaimed": true,
-      "weight": null
+      "weight": 1170,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~17.8 sec"
     },
     "Volkswagen|Polo|2026|GTI": {
-      "topSpeed": null,
+      "topSpeed": 235,
       "acceleration": 6.8,
       "cargo": 305,
       "engine": "2.0L I4 Turbo Petrol",
@@ -239,7 +292,13 @@
       "seats": 5,
       "fuelTank": 40,
       "price": "$41,790",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 1210,
+      "est": [
+        "weight",
+        "topSpeed"
+      ],
+      "quarterMile": "~15.0 sec"
     }
   }
 }

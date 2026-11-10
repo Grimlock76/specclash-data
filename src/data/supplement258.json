@@ -2,8 +2,8 @@
   "specs": {
     "Mitsubishi|Outlander|2026|ES": {
       "cargo": 485,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.2,
+      "topSpeed": 190,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -20,12 +20,16 @@
       "fx": 7.5,
       "weight": 1604,
       "seats": 5,
-      "price": "$39,990"
+      "price": "$39,990",
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Outlander|2026|LS": {
       "cargo": 163,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.6,
+      "topSpeed": 185,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -42,12 +46,16 @@
       "fx": 7.7,
       "weight": 1694,
       "seats": 7,
-      "price": "$44,040"
+      "price": "$44,040",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Outlander|2026|Black Edition": {
       "cargo": 163,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.6,
+      "topSpeed": 185,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -64,12 +72,16 @@
       "fx": 7.7,
       "weight": 1694,
       "seats": 7,
-      "price": "$45,490"
+      "price": "$45,490",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Outlander|2026|Aspire": {
       "cargo": 163,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.6,
+      "topSpeed": 185,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -86,12 +98,16 @@
       "fx": 7.7,
       "weight": 1694,
       "seats": 7,
-      "price": "$48,540"
+      "price": "$48,540",
+      "quarterMile": "~17.9 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Outlander|2026|Exceed": {
       "cargo": 163,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.3,
+      "topSpeed": 185,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -108,12 +124,16 @@
       "fx": 8.1,
       "weight": 1729,
       "seats": 5,
-      "price": "$55,890"
+      "price": "$55,890",
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Outlander|2026|Exceed Tourer": {
       "cargo": 163,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 10.3,
+      "topSpeed": 185,
       "engine": "2.5L I4 Petrol",
       "displacement": 2488,
       "cylinders": 4,
@@ -130,23 +150,27 @@
       "fx": 8.1,
       "weight": 1729,
       "seats": 5,
-      "price": "$58,740"
+      "price": "$58,740",
+      "quarterMile": "~17.7 sec",
+      "est": [
+        "topSpeed"
+      ]
     },
     "Mitsubishi|Outlander|2026|PHEV ES": {
       "cargo": 472,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 5.3,
+      "topSpeed": 200,
       "engine": "2.4L I4 PHEV (twin motor)",
       "displacement": 2360,
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "power": 221,
-      "torque": null,
+      "torque": 435,
       "transmission": "1-speed automatic",
       "fuelType": "plug-in hybrid",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "fx": 1.2,
       "battery": "22.7 kWh",
       "range": 103,
@@ -154,23 +178,30 @@
       "fuelTank": 53,
       "weight": 2098,
       "seats": 5,
-      "price": "$58,990"
+      "price": "$58,990",
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~13.6 sec"
     },
     "Mitsubishi|Outlander|2026|PHEV Aspire": {
       "cargo": 468,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 5.5,
+      "topSpeed": 200,
       "engine": "2.4L I4 PHEV (twin motor)",
       "displacement": 2360,
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "power": 221,
-      "torque": null,
+      "torque": 435,
       "transmission": "1-speed automatic",
       "fuelType": "plug-in hybrid",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "fx": 1.2,
       "battery": "22.7 kWh",
       "range": 103,
@@ -178,23 +209,30 @@
       "fuelTank": 53,
       "weight": 2188,
       "seats": 7,
-      "price": "$66,790"
+      "price": "$66,790",
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~13.8 sec"
     },
     "Mitsubishi|Outlander|2026|PHEV Exceed": {
       "cargo": 472,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 5.4,
+      "topSpeed": 200,
       "engine": "2.4L I4 PHEV (twin motor)",
       "displacement": 2360,
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "power": 221,
-      "torque": null,
+      "torque": 435,
       "transmission": "1-speed automatic",
       "fuelType": "plug-in hybrid",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "fx": 1.2,
       "battery": "22.7 kWh",
       "range": 103,
@@ -202,23 +240,30 @@
       "fuelTank": 53,
       "weight": 2158,
       "seats": 5,
-      "price": "$71,640"
+      "price": "$71,640",
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~13.7 sec"
     },
     "Mitsubishi|Outlander|2026|PHEV Exceed Tourer": {
       "cargo": 472,
-      "acceleration": null,
-      "topSpeed": null,
+      "acceleration": 5.4,
+      "topSpeed": 200,
       "engine": "2.4L I4 PHEV (twin motor)",
       "displacement": 2360,
       "cylinders": 4,
       "aspiration": "Naturally Aspirated",
       "power": 221,
-      "torque": null,
+      "torque": 435,
       "transmission": "1-speed automatic",
       "fuelType": "plug-in hybrid",
       "drivetrain": "AWD",
-      "fc": null,
-      "fh": null,
+      "fc": 1.4,
+      "fh": 1,
       "fx": 1.2,
       "battery": "22.7 kWh",
       "range": 103,
@@ -226,7 +271,14 @@
       "fuelTank": 53,
       "weight": 2158,
       "seats": 5,
-      "price": "$74,490"
+      "price": "$74,490",
+      "est": [
+        "torque",
+        "topSpeed",
+        "fc",
+        "fh"
+      ],
+      "quarterMile": "~13.7 sec"
     }
   }
 }

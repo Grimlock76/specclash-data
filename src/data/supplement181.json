@@ -17,7 +17,8 @@
       "acceleration": 12,
       "topSpeed": 175,
       "price": "~$59,900",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~18.8 sec"
     },
     "Toyota|HiAce|2022|Commuter GL": {
       "engine": "2.8L I4 Turbo Diesel",
@@ -36,7 +37,8 @@
       "acceleration": 13,
       "topSpeed": 170,
       "price": "~$72,900",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~19.4 sec"
     },
     "Toyota|HiAce|2022|Commuter Deluxe": {
       "engine": "2.8L I4 Turbo Diesel",
@@ -55,7 +57,8 @@
       "acceleration": 13,
       "topSpeed": 170,
       "price": "~$78,900",
-      "aspiration": "Toyota VGT Diesel Turbo"
+      "aspiration": "Toyota VGT Diesel Turbo",
+      "quarterMile": "~19.4 sec"
     },
     "BMW|X1|2022|sDrive20i": {
       "engine": "1.5L I3 Turbo TwinPower",
@@ -74,7 +77,12 @@
       "acceleration": 8.5,
       "topSpeed": 210,
       "price": "~$57,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.5 sec",
+      "cargo": 505,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|X1|2022|xDrive23i": {
       "engine": "2.0L I4 Twin-Turbo TwinPower",
@@ -93,7 +101,12 @@
       "acceleration": 7,
       "topSpeed": 225,
       "price": "~$72,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~15.2 sec",
+      "cargo": 505,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|X1|2022|iX1 xDrive30": {
       "engine": "Dual Motor Electric",
@@ -112,7 +125,12 @@
       "acceleration": 5.7,
       "topSpeed": 180,
       "price": "~$82,900",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~14.0 sec",
+      "cargo": 505,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|2 Series Active Tourer|2022|220i xDrive": {
       "engine": "2.0L I4 Turbo TwinPower",
@@ -131,7 +149,12 @@
       "acceleration": 7.9,
       "topSpeed": 228,
       "price": "~$66,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~16.0 sec",
+      "cargo": 468,
+      "est": [
+        "cargo"
+      ]
     },
     "BMW|2 Series Active Tourer|2022|225e xDrive": {
       "engine": "1.5L I3 Turbo PHEV",
@@ -144,13 +167,20 @@
       "torque": 350,
       "weight": 1740,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.7,
+      "fh": 1.3,
       "fx": 1.5,
       "acceleration": 6.7,
       "topSpeed": 215,
       "price": "~$76,900",
-      "aspiration": "BorgWarner Single-Turbo"
+      "aspiration": "BorgWarner Single-Turbo",
+      "quarterMile": "~14.9 sec",
+      "est": [
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "cargo": 468
     },
     "BMW|2 Series Active Tourer|2022|M235i xDrive": {
       "engine": "2.0L I4 Twin-Turbo M TwinPower",
@@ -169,7 +199,12 @@
       "acceleration": 5.9,
       "topSpeed": 250,
       "price": "~$84,900",
-      "aspiration": "BorgWarner Twin-Turbo"
+      "aspiration": "BorgWarner Twin-Turbo",
+      "quarterMile": "~14.2 sec",
+      "cargo": 468,
+      "est": [
+        "cargo"
+      ]
     },
     "Lexus|RX|2022|RX 350": {
       "engine": "2.4L I4 Turbo",
@@ -188,7 +223,8 @@
       "acceleration": 7.2,
       "topSpeed": 200,
       "price": "~$69,990",
-      "aspiration": "Single-Turbo"
+      "aspiration": "Single-Turbo",
+      "quarterMile": "~15.4 sec"
     },
     "Lexus|RX|2022|RX 350h": {
       "engine": "2.5L I4 Atkinson Hybrid AWD",
@@ -207,7 +243,8 @@
       "acceleration": 7.2,
       "topSpeed": 200,
       "price": "~$79,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~15.4 sec"
     },
     "Lexus|RX|2022|RX 450h+": {
       "engine": "2.5L I4 Atkinson PHEV",
@@ -220,13 +257,18 @@
       "torque": 270,
       "weight": 2175,
       "seats": 5,
-      "fc": null,
-      "fh": null,
+      "fc": 1.5,
+      "fh": 1.1,
       "fx": 1.3,
       "acceleration": 6,
       "topSpeed": 180,
       "price": "~$109,990",
-      "aspiration": "NA"
+      "aspiration": "NA",
+      "quarterMile": "~14.3 sec",
+      "est": [
+        "fc",
+        "fh"
+      ]
     },
     "Land Rover|Defender|2022|130 S": {
       "engine": "3.0L I6 Turbo MHEV",
@@ -245,7 +287,8 @@
       "acceleration": 6,
       "topSpeed": 210,
       "price": "~$169,900",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.3 sec"
     },
     "Land Rover|Defender|2022|130 X": {
       "engine": "3.0L I6 Turbo MHEV",
@@ -264,7 +307,8 @@
       "acceleration": 6,
       "topSpeed": 210,
       "price": "~$202,900",
-      "aspiration": "Garrett Single-Turbo"
+      "aspiration": "Garrett Single-Turbo",
+      "quarterMile": "~14.3 sec"
     },
     "Land Rover|Defender|2022|130 V8": {
       "engine": "5.0L V8 Supercharged",
@@ -283,7 +327,8 @@
       "acceleration": 5.2,
       "topSpeed": 240,
       "price": "~$259,900",
-      "aspiration": "Eaton TVS Supercharged"
+      "aspiration": "Eaton TVS Supercharged",
+      "quarterMile": "~13.5 sec"
     },
     "Mercedes-Benz|SL|2022|SL 43": {
       "engine": "2.0L I4 Turbo AMG",
@@ -302,7 +347,12 @@
       "acceleration": 4.9,
       "topSpeed": 275,
       "price": "~$229,900",
-      "aspiration": "IHI Single-Turbo"
+      "aspiration": "IHI Single-Turbo",
+      "quarterMile": "~13.2 sec",
+      "cargo": 348,
+      "est": [
+        "cargo"
+      ]
     },
     "Mercedes-Benz|SL|2022|SL 63 AMG": {
       "engine": "4.0L V8 Biturbo AMG",
@@ -321,7 +371,12 @@
       "acceleration": 3.6,
       "topSpeed": 315,
       "price": "~$419,900",
-      "aspiration": "IHI Twin-Turbo"
+      "aspiration": "IHI Twin-Turbo",
+      "quarterMile": "~11.8 sec",
+      "cargo": 348,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Taycan|2022|GTS": {
       "engine": "Dual Motor Electric",
@@ -340,7 +395,12 @@
       "acceleration": 3.7,
       "topSpeed": 250,
       "price": "~$277,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~11.9 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     },
     "Porsche|Taycan|2022|Taycan Turbo": {
       "engine": "Dual Motor Electric",
@@ -359,7 +419,12 @@
       "acceleration": 2.8,
       "topSpeed": 260,
       "price": "~$320,000",
-      "aspiration": "Electric"
+      "aspiration": "Electric",
+      "quarterMile": "~10.8 sec",
+      "cargo": 407,
+      "est": [
+        "cargo"
+      ]
     }
   }
 }

@@ -3,7 +3,7 @@
     "Mercedes-Benz|GLS|2024|GLS450 d 4MATIC": {
       "topSpeed": 250,
       "acceleration": 6.1,
-      "cargo": null,
+      "cargo": 680,
       "seats": 7,
       "transmission": "9-speed automatic",
       "drivetrain": "AWD",
@@ -20,12 +20,18 @@
       "fh": 6.7,
       "fx": 7.8,
       "price": "$184,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2600,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~14.4 sec"
     },
     "Mercedes-Benz|GLS|2024|GLS63 AMG 4MATIC+": {
       "topSpeed": 280,
       "acceleration": 4.2,
-      "cargo": null,
+      "cargo": 680,
       "seats": 7,
       "transmission": "9-speed automatic",
       "drivetrain": "AWD",
@@ -42,7 +48,13 @@
       "fh": 10.5,
       "fx": 13.4,
       "price": "$299,900",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2640,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~12.5 sec"
     },
     "Mercedes-Benz|GLS|2024|Maybach GLS600 4MATIC": {
       "engine": "4.0L V8 Twin-Turbo Petrol (MHEV)",
@@ -57,18 +69,22 @@
       "fc": 19.3,
       "fh": 10.4,
       "fx": 13.7,
-      "acceleration": null,
+      "acceleration": 3.9,
       "topSpeed": 250,
       "seats": null,
-      "cargo": null,
-      "weight": null,
-      "accelClaimed": true,
-      "price": "$409,900"
+      "cargo": 680,
+      "weight": 2640,
+      "price": "$409,900",
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~12.2 sec"
     },
     "Mercedes-Benz|GLS|2025|GLS450 4MATIC": {
       "topSpeed": 250,
       "acceleration": 5.6,
-      "cargo": null,
+      "cargo": 680,
       "seats": 7,
       "transmission": "9-speed automatic",
       "drivetrain": "AWD",
@@ -81,16 +97,24 @@
       "fuelTank": 90,
       "power": 280,
       "torque": 500,
-      "fc": null,
-      "fh": null,
+      "fc": 13.8,
+      "fh": 7.6,
       "fx": 11,
       "price": "$176,700",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2600,
+      "est": [
+        "weight",
+        "fc",
+        "fh",
+        "cargo"
+      ],
+      "quarterMile": "~13.9 sec"
     },
     "Mercedes-Benz|GLS|2025|GLS450 d 4MATIC": {
       "topSpeed": 250,
       "acceleration": 6.1,
-      "cargo": null,
+      "cargo": 680,
       "seats": 7,
       "transmission": "9-speed automatic",
       "drivetrain": "AWD",
@@ -107,12 +131,18 @@
       "fh": 6.7,
       "fx": 7.8,
       "price": "$189,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2600,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~14.4 sec"
     },
     "Mercedes-Benz|GLS|2025|GLS450 d 4MATIC Edition 7": {
       "topSpeed": 250,
       "acceleration": 6.1,
-      "cargo": null,
+      "cargo": 680,
       "seats": 7,
       "transmission": "9-speed automatic",
       "drivetrain": "AWD",
@@ -129,12 +159,18 @@
       "fh": 6.7,
       "fx": 7.8,
       "price": "$171,000",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2600,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~14.4 sec"
     },
     "Mercedes-Benz|GLS|2025|GLS63 AMG 4MATIC+": {
       "topSpeed": 280,
       "acceleration": 4.2,
-      "cargo": null,
+      "cargo": 680,
       "seats": 7,
       "transmission": "9-speed automatic",
       "drivetrain": "AWD",
@@ -151,7 +187,13 @@
       "fh": 10.5,
       "fx": 13.4,
       "price": "$307,100",
-      "accelClaimed": true
+      "accelClaimed": true,
+      "weight": 2640,
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~12.5 sec"
     },
     "Mercedes-Benz|GLS|2025|Maybach GLS600 4MATIC": {
       "engine": "4.0L V8 Twin-Turbo Petrol (MHEV)",
@@ -166,13 +208,17 @@
       "fc": 19.3,
       "fh": 10.4,
       "fx": 13.7,
-      "acceleration": null,
+      "acceleration": 4.4,
       "topSpeed": 250,
       "seats": null,
-      "cargo": null,
-      "weight": null,
-      "accelClaimed": true,
-      "price": "$419,900"
+      "cargo": 680,
+      "weight": 2640,
+      "price": "$419,900",
+      "est": [
+        "weight",
+        "cargo"
+      ],
+      "quarterMile": "~12.7 sec"
     }
   }
 }
