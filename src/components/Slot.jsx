@@ -155,9 +155,9 @@ export default function Slot({ index, initial, onResult, onClear }) {
           archetype={model
             ? pickArchetype(getBodyType(model, trim, make), {
                 year: year || resolveYear() || Object.keys(modelYears).sort().pop(),
-                make, model,
+                make, model, trim,
               })
-            : 'sedanModern'}
+            : 'sedan'}
           color={ok ? color : model ? '#3a3a3a' : '#161616'}
         />
       </div>

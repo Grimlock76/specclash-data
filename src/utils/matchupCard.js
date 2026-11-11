@@ -2,7 +2,7 @@
 // Instagram / Shorts) and triggers a download. Drawn entirely on canvas —
 // silhouettes via Path2D from the shared hand-authored path data, text in
 // the app's Barlow Condensed (already loaded by the page).
-import { DARK, poly, PATHS } from './silhouettePaths.js'
+import { drawShape } from './silhouettePaths.js'
 import { pickArchetype } from './archetype.js'
 import { getBodyType } from './bodyType.js'
 
@@ -16,34 +16,9 @@ const num = v => {
   return m ? parseFloat(m[0]) : null
 }
 
+// Silhouette box is 300x126 in viewBox units (v2 lineup); w sets its width.
 export function drawSilhouette(ctx, key, color, x, y, w) {
-  const { body, windows = [], lite = [], deco = [], dark = [] } = PATHS[key] || PATHS.sedanModern
-  const s = w / 200
-  ctx.save()
-  ctx.translate(x, y)
-  ctx.scale(s, s)
-  const fill = (paths, colour) => {
-    if (!paths.length) return
-    ctx.fillStyle = colour
-    for (const p of paths) ctx.fill(new Path2D(poly(p)))
-  }
-  ctx.fillStyle = 'rgba(0,0,0,0.5)'
-  ctx.beginPath(); ctx.ellipse(100, 72, 92, 2.5, 0, 0, Math.PI * 2); ctx.fill()
-  fill(deco, color)
-  ctx.fillStyle = color
-  ctx.fill(new Path2D(body))
-  fill(windows, DARK)
-  fill(dark.length ? dark : [], DARK)
-  ctx.globalAlpha = 0.4
-  fill(lite, '#ffffff')
-  ctx.globalAlpha = 1
-  const wheelR = /fourWheelDriveBox|uteDualcab/.test(key) ? 10.5 : 9.5
-  for (const cx of [48, 152]) {
-    ctx.fillStyle = color; ctx.beginPath(); ctx.arc(cx, 64, wheelR, 0, Math.PI * 2); ctx.fill()
-    ctx.fillStyle = DARK; ctx.beginPath(); ctx.arc(cx, 64, wheelR - 4, 0, Math.PI * 2); ctx.fill()
-    ctx.fillStyle = color; ctx.beginPath(); ctx.arc(cx, 64, wheelR - 7, 0, Math.PI * 2); ctx.fill()
-  }
-  ctx.restore()
+  drawShape(ctx, key, color, x, y, w)
 }
 
 export const CARD_W = 1080
@@ -81,7 +56,7 @@ export function drawMatchupCard(ctx, cars, { font = '"Barlow Condensed", sans-se
   cars.forEach((c, i) => {
     const y = i === 0 ? 255 : 665
     const color = SLOT_COLORS[i]
-    const arch = pickArchetype(getBodyType(c.model, c.trim, c.make), { year: c.year, make: c.make, model: c.model })
+    const arch = pickArchetype(getBodyType(c.model, c.trim, c.make), { year: c.year, make: c.make, model: c.model, trim: c.trim })
     drawSilhouette(ctx, arch, color, (W - 620) / 2, y, 620)
     ctx.fillStyle = color
     fitFont(ctx, c.label.toUpperCase(), 700, 52, W - 100, F)

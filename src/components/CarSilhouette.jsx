@@ -1,40 +1,51 @@
 import { pickArchetype } from '../utils/archetype.js'
-import { DARK, poly, PATHS } from '../utils/silhouettePaths.js'
+import { DARK, VIEWBOX, WHEELS, shapeFor, spokePath } from '../utils/silhouettePaths.js'
 
-// Stylised side-profile silhouettes — the "image slot" for every make/model.
-// All paths are hand-authored original vector art (NOT traced from photos),
-// so there is no image licensing or copyright exposure. Tinted via `color`.
-// viewBox 200x76, ground y=64, front of car faces right.
-// Each archetype = body (currentColor) + windows (punched dark) + lite
-// (head/tail lights, lightened) + deco (body-coloured accents) + dark
-// (dark accents) + rimmed wheels + ground shadow.
+// Side-profile silhouette for every make/model — the v2 Spec-Clash lineup.
+// All shapes are original vector art (see utils/silhouettePaths.js), tinted
+// with `color` (Car 1 red, Car 2 blue). Front of the car faces right.
 
-function Wheel({ cx, r }) {
+function Part({ e }) {
   return (
-    <>
-      <circle cx={cx} cy="64" r={r} />
-      <circle cx={cx} cy="64" r={r - 4} fill={DARK} />
-      <circle cx={cx} cy="64" r={r - 7} />
-    </>
+    <path d={e.d}
+      fill={e.f ? (e.f === 'body' ? 'currentColor' : e.f) : 'none'}
+      fillOpacity={e.f ? e.o : undefined}
+      stroke={e.s || undefined} strokeOpacity={e.s ? e.so : undefined}
+      strokeWidth={e.s ? (e.w || 1) : undefined}
+      strokeLinecap={e.cap} strokeLinejoin={e.join}
+      strokeDasharray={e.dash ? e.dash.join(' ') : undefined} />
   )
 }
 
-export default function CarSilhouette({ archetype, bodyType, color = '#333', height = 52 }) {
-  const key = archetype || pickArchetype(bodyType)
-  const { body, windows, lite = [], deco = [], dark = [] } = PATHS[key] || PATHS.sedanModern
-  const wheelR = /fourWheelDriveBox|uteDualcab/.test(key) ? 10.5 : 9.5
+function Wheel({ x, y, k, s = 1 }) {
+  const W = WHEELS[k]
   return (
-    <svg viewBox="0 0 200 76" height={height} width="100%"
+    <g transform={`translate(${x},${y}) scale(${s})`}>
+      <circle r={W.r} fill="#141414" />
+      {W.tread && <circle r={W.r - 1.5} fill="none" stroke="#3a3a3a" strokeWidth="3" strokeDasharray="3 3" />}
+      <circle r={W.rim} fill="#2b2b2b" />
+      <path d={spokePath(W.spoke)} stroke="#9a9a9a" strokeWidth={W.sw} fill="none" />
+      <circle r={W.hub} fill="#9a9a9a" />
+    </g>
+  )
+}
+
+export default function CarSilhouette({ archetype, bodyType, color = '#333', height = 58 }) {
+  const S = shapeFor(archetype || pickArchetype(bodyType))
+  const [scx, scy, srx] = S.shadow
+  return (
+    <svg viewBox={`${VIEWBOX.x} ${VIEWBOX.y} ${VIEWBOX.w} ${VIEWBOX.h}`} height={height} width="100%"
+      preserveAspectRatio="xMidYMax meet"
       style={{ display: 'block', color, transition: 'color 0.3s' }} aria-hidden>
-      <ellipse cx="100" cy="72" rx="92" ry="2.5" fill="#000" opacity="0.5" />
-      <g fill="currentColor">
-        {deco.length > 0 && <path d={deco.map(poly).join(' ')} />}
-        <path d={body} />
-        <path d={windows.map(poly).join(' ')} fill={DARK} />
-        {dark.length > 0 && <path d={dark.map(poly).join(' ')} fill={DARK} />}
-        {lite.length > 0 && <path d={lite.map(poly).join(' ')} fill="#fff" opacity="0.4" />}
-        <Wheel cx={48} r={wheelR} />
-        <Wheel cx={152} r={wheelR} />
+      <g transform={`translate(${S.dx},${S.dy})`}>
+        <ellipse cx={scx} cy={scy} rx={srx} ry="3" fill="#000" opacity="0.5" />
+        <g transform={S.bodyDy ? `translate(0,${S.bodyDy})` : undefined}>
+          {(S.pre || []).map((e, i) => <Part key={'p' + i} e={e} />)}
+          <path d={S.body} fill="currentColor" />
+          {S.glass && <path d={S.glass} fill={DARK} />}
+          {(S.post || []).map((e, i) => <Part key={'q' + i} e={e} />)}
+        </g>
+        {S.wheels.map((w, i) => <Wheel key={i} {...w} />)}
       </g>
     </svg>
   )

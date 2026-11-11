@@ -93,7 +93,7 @@ export default function UltimateClash({ cars, onClose }) {
   const leader = fin[0] === fin[1] ? -1 : fin[0] > fin[1] ? 0 : 1
   const pull = score[0] + score[1] ? 50 + ((score[0] - score[1]) / Math.max(total, 1)) * 50 : 50
   const name = c => `${c.year} ${c.make} ${c.model}`
-  const arch = c => pickArchetype(getBodyType(c.model, c.trim, c.make), { year: c.year, make: c.make, model: c.model })
+  const arch = c => pickArchetype(getBodyType(c.model, c.trim, c.make), { year: c.year, make: c.make, model: c.model, trim: c.trim })
   const r = stage >= 0 && stage < total ? rounds[stage] : null
 
   return (
