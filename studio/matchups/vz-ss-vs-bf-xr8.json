@@ -1,0 +1,67 @@
+{
+  "makeA": "Holden",
+  "makeB": "Ford",
+  "eyebrow": "V8 Sedans · 2006 manuals",
+  "a": "VZ SS",
+  "b": "BF XR8",
+  "hook": "Both 260 kW. $460 apart new. LS-based 6.0 vs Ford's 5.4 Boss. The original V8 war.",
+  "cta": "VZ SS or BF XR8? Pick a side 👇",
+  "handle": "@specclash05",
+  "specs": [
+    {
+      "g": "Engine room",
+      "l": "Engine",
+      "a": "6.0 V8 (L76)",
+      "b": "5.4 V8 (Boss)",
+      "m": "none"
+    },
+    {
+      "g": "Engine room",
+      "l": "Power",
+      "a": "260 kW",
+      "b": "260 kW",
+      "m": "high"
+    },
+    {
+      "g": "Engine room",
+      "l": "Torque",
+      "a": "510 Nm",
+      "b": "500 Nm",
+      "m": "high"
+    },
+    {
+      "g": "On the road",
+      "l": "Fuel (L/100km)",
+      "a": "14.6",
+      "b": "13.8",
+      "m": "low"
+    },
+    {
+      "g": "On the road",
+      "l": "Weight (kerb)",
+      "a": "1,654 kg",
+      "b": "1,800 kg",
+      "m": "low"
+    },
+    {
+      "g": "The wallet",
+      "l": "Price new",
+      "a": "$51,790",
+      "b": "$51,330",
+      "m": "low"
+    }
+  ],
+  "stories": [
+    {
+      "t": "Pushrod vs quad-cam",
+      "a": "The new 6.0 L76 brought 10 Nm more and a lighter body. Simple pushrod V8 with an endless aftermarket.",
+      "b": "Quad-cam, 32-valve Boss 5.4 built in Geelong. Heavier car, but it sipped less on the official cycle.",
+      "take": "Dead even on power. The comments will decide the rest."
+    }
+  ],
+  "_sources": [
+    "Carsales research: 2006 Holden Commodore SS VZ Manual MY06 (260 kW @ 5600, 510 Nm @ 4400, 14.6 L/100km, kerb 1654 kg, price new $51,790); Carsales editorial 'Holden Commodore VZ V8 L76 6.0 litre update' (1 Feb 2006) confirms 260/510 and $51,790",
+    "Carsales research: 2006 Ford Falcon XR8 BF Manual (Boss 260 5.4 DOHC 32v, 260 kW @ 5250, 500 Nm @ 4000, 13.8 L/100km, kerb 1800 kg, price new $51,330)",
+    "0-100 left off: no like-for-like published figure found for both"
+  ]
+}

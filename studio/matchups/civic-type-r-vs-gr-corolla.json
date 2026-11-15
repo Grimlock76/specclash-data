@@ -1,0 +1,74 @@
+{
+  "makeA": "Honda",
+  "makeB": "Toyota",
+  "eyebrow": "Hot Hatches · 2023",
+  "a": "Civic Type R",
+  "b": "GR Corolla GTS",
+  "hook": "Front-drive four vs all-wheel-drive three-pot. Both manual, both over $69k drive-away. 0.1 s apart.",
+  "cta": "Type R or GR Corolla? Comment 👇",
+  "handle": "@specclash05",
+  "specs": [
+    {
+      "g": "Engine room",
+      "l": "Engine",
+      "a": "2.0 turbo 4cyl",
+      "b": "1.6 turbo 3cyl",
+      "m": "none"
+    },
+    {
+      "g": "Engine room",
+      "l": "Drive",
+      "a": "FWD, 6MT",
+      "b": "AWD, 6MT",
+      "m": "none"
+    },
+    {
+      "g": "Engine room",
+      "l": "Power",
+      "a": "235 kW",
+      "b": "221 kW",
+      "m": "high"
+    },
+    {
+      "g": "Engine room",
+      "l": "Torque",
+      "a": "420 Nm",
+      "b": "370 Nm",
+      "m": "high"
+    },
+    {
+      "g": "On the road",
+      "l": "Weight (tare)",
+      "a": "1,406 kg",
+      "b": "1,455 kg",
+      "m": "low"
+    },
+    {
+      "g": "On the road",
+      "l": "0-100 (claimed)",
+      "a": "5.4 s",
+      "b": "5.3 s",
+      "m": "low"
+    },
+    {
+      "g": "The wallet",
+      "l": "Price (drive-away)",
+      "a": "$72,600",
+      "b": "$69,836",
+      "m": "low"
+    }
+  ],
+  "stories": [
+    {
+      "t": "Same track, same day",
+      "a": "CarExpert's best lap at Haunted Hills: 1:03.16. More power, less weight, front-drive only.",
+      "b": "Best lap 1:03.24, eight hundredths behind. AWD grip and a rally-bred three-cylinder.",
+      "take": "0.08 seconds. That's the whole argument."
+    }
+  ],
+  "_sources": [
+    "CarExpert/CarAdvice '2023 Honda Civic Type R vs Toyota GR Corolla GTS comparison': Type R 235 kW, 420 Nm, FWD 6MT, tare 1406 kg, $72,600 drive-away, best lap 1:03.16; GR Corolla GTS 221 kW, 370 Nm, AWD 6MT, tare 1455 kg, $69,836 drive-away ($64,190 +ORC), best lap 1:03.24 (Haunted Hills)",
+    "WhichCar '2023 Honda Civic Type R review': claimed 0-100 Type R 5.4 s, GR Corolla 5.3 s",
+    "Fuel left off: no ADR figure found for the GR Corolla in the sources used"
+  ]
+}

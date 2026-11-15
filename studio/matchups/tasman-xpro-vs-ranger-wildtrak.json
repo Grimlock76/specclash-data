@@ -1,0 +1,74 @@
+{
+  "makeA": "Kia",
+  "makeB": "Ford",
+  "eyebrow": "Dual-Cab Utes · 2025",
+  "a": "Tasman X-Pro",
+  "b": "Ranger Wildtrak",
+  "hook": "Same 154 kW. Same 3.5-tonne tow rating. Kia's controversial newcomer vs Australia's best-seller.",
+  "cta": "Tasman or Ranger? Pick one 👇",
+  "handle": "@specclash05",
+  "specs": [
+    {
+      "g": "Engine room",
+      "l": "Engine",
+      "a": "2.2 turbo diesel",
+      "b": "2.0 bi-turbo diesel",
+      "m": "none"
+    },
+    {
+      "g": "Engine room",
+      "l": "Power",
+      "a": "154 kW",
+      "b": "154 kW",
+      "m": "high"
+    },
+    {
+      "g": "Engine room",
+      "l": "Torque",
+      "a": "440 Nm",
+      "b": "500 Nm",
+      "m": "high"
+    },
+    {
+      "g": "Work",
+      "l": "Payload",
+      "a": "1,013 kg",
+      "b": "985 kg",
+      "m": "high"
+    },
+    {
+      "g": "Work",
+      "l": "Fuel (L/100km)",
+      "a": "8.1",
+      "b": "8.7",
+      "m": "low"
+    },
+    {
+      "g": "Work",
+      "l": "Ground clearance",
+      "a": "252 mm",
+      "b": "234 mm",
+      "m": "high"
+    },
+    {
+      "g": "The wallet",
+      "l": "Price (+ORC)",
+      "a": "$74,990",
+      "b": "$69,890",
+      "m": "low"
+    }
+  ],
+  "stories": [
+    {
+      "t": "Looks vs badge",
+      "a": "The styling split the internet, but it carries more, sits higher and uses less fuel on paper.",
+      "b": "Australia's favourite ute brings 60 Nm more torque and a $5k smaller sticker.",
+      "take": "Spec sheet says Kia. Sales charts say Ford."
+    }
+  ],
+  "_sources": [
+    "4X4 Australia 'Kia Tasman X-Pro vs Ford Ranger Wildtrak' (7 Sep 2025) specs table: Tasman X-Pro 2.2 diesel 154 kW, 440 Nm, payload 1013 kg, ADR 8.1 L/100km, 252 mm clearance, 3500 kg towing, $74,990 +ORC; Ranger Wildtrak 2.0 bi-turbo 154 kW, 500 Nm, payload 985 kg, ADR 8.7 L/100km, 234 mm clearance, 3500 kg towing, $69,890 +ORC",
+    "CarExpert '2025 Kia Tasman review' (1 Aug 2025) and CarsGuide Tasman X-Pro off-road test (12 Oct 2025): confirm 154 kW/440 Nm, 3500 kg, 1013 kg payload, 8.1 L/100km, $74,990",
+    "Prices are 2025 launch-era list prices before on-roads"
+  ]
+}
