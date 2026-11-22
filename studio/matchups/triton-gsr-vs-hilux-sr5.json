@@ -1,0 +1,75 @@
+{
+  "makeA": "Mitsubishi",
+  "makeB": "Toyota",
+  "eyebrow": "Dual-Cab Utes · 2026",
+  "a": "Triton GSR",
+  "b": "HiLux SR5",
+  "hook": "Both 150 kW. Both tow 3.5 tonnes. $400 apart. The new Triton takes on the new 48V HiLux.",
+  "cta": "Triton or HiLux? Pick one 👇",
+  "handle": "@specclash05",
+  "specs": [
+    {
+      "g": "Engine room",
+      "l": "Engine",
+      "a": "2.4 bi-turbo diesel",
+      "b": "2.8 diesel 48V",
+      "m": "none"
+    },
+    {
+      "g": "Engine room",
+      "l": "Power",
+      "a": "150 kW",
+      "b": "150 kW",
+      "m": "high"
+    },
+    {
+      "g": "Engine room",
+      "l": "Torque",
+      "a": "470 Nm",
+      "b": "500 Nm",
+      "m": "high"
+    },
+    {
+      "g": "Work",
+      "l": "Payload",
+      "a": "1,030 kg",
+      "b": "965 kg",
+      "m": "high"
+    },
+    {
+      "g": "Work",
+      "l": "Fuel (L/100km)",
+      "a": "7.7",
+      "b": "7.2",
+      "m": "low"
+    },
+    {
+      "g": "The wallet",
+      "l": "Warranty",
+      "a": "10 yrs",
+      "b": "5 yrs",
+      "m": "high"
+    },
+    {
+      "g": "The wallet",
+      "l": "Price (+ORC)",
+      "a": "$65,590",
+      "b": "$65,990",
+      "m": "low"
+    }
+  ],
+  "stories": [
+    {
+      "t": "Badge vs warranty",
+      "a": "Carries more, costs less and comes with a 10-year warranty.",
+      "b": "30 Nm more, a 48V mild-hybrid and the resale of Australia's most famous badge.",
+      "take": "Toyota buyers buy the badge. Mitsubishi buyers buy the warranty."
+    }
+  ],
+  "_sources": [
+    "CarExpert 'Mitsubishi Triton GSR (2026) price & specs' (2.4L utility 4x4 diesel auto): 4N16 2.4 twin-turbo diesel 150 kW / 470 Nm, 3500 kg braked towing, 1030 kg payload, 7.7 L/100km ADR combined, 228 mm clearance, $65,590 before on-roads, 10-year/200,000 km warranty (conditional on dealer servicing)",
+    "CarExpert 'Toyota HiLux SR5 (2026) price & specs' (2.8L utility 4x4 diesel auto, dual-cab pickup): 1GD-FTV 2.8 turbo diesel with 48V mild hybrid, 150 kW / 500 Nm, 3500 kg braked towing, 965 kg payload, 7.2 L/100km ADR combined, 224 mm clearance, $65,990 before on-roads, 5-year unlimited km warranty",
+    "CarExpert '2026 Toyota HiLux price and specs' (26 Jan 2026): SR5 2.8 48V 6AT double-cab pickup $65,990 +ORC",
+    "Prices are 2026 list prices before on-roads"
+  ]
+}

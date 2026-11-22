@@ -1,0 +1,70 @@
+{
+  "makeA": "Holden",
+  "makeB": "Ford",
+  "eyebrow": "V8 Sedans · 2008",
+  "a": "VE SS",
+  "b": "FG XR8",
+  "hook": "April 2008. Ford's new quad-cam Boss finally out-muscles the SS by 20 kW. And they're just $200 apart.",
+  "cta": "VE SS or FG XR8? Pick a side 👇",
+  "handle": "@specclash05",
+  "specs": [
+    {
+      "g": "Engine room",
+      "l": "Engine",
+      "a": "6.0 V8",
+      "b": "5.4 quad-cam V8",
+      "m": "none"
+    },
+    {
+      "g": "Engine room",
+      "l": "Valvetrain",
+      "a": "Pushrod (Gen IV)",
+      "b": "Quad-cam (DOHC)",
+      "m": "none"
+    },
+    {
+      "g": "Engine room",
+      "l": "Power",
+      "a": "270 kW",
+      "b": "290 kW",
+      "m": "high"
+    },
+    {
+      "g": "Engine room",
+      "l": "Torque",
+      "a": "530 Nm",
+      "b": "520 Nm",
+      "m": "high"
+    },
+    {
+      "g": "Safety",
+      "l": "Airbags",
+      "a": "6",
+      "b": "4",
+      "m": "high"
+    },
+    {
+      "g": "The wallet",
+      "l": "Price (new)",
+      "a": "$45,290",
+      "b": "$45,490",
+      "m": "low"
+    }
+  ],
+  "stories": [
+    {
+      "t": "The 2008 price war",
+      "a": "Big cubes, more torque and two extra airbags for $200 less.",
+      "b": "Boss 290 brought more power, a bonnet bulge and a muffler that opens up.",
+      "take": "Ford won the kilowatts. Holden won torque, airbags and price."
+    }
+  ],
+  "_sources": [
+    "CarAdvice '2008 Ford FG Falcon XR8 specifications': 5.4-litre quad-cam Boss 290 V8, 290 kW / 520 Nm",
+    "GoAuto FG Falcon XR8 sedan launch review (10 Apr 2008): 5.4 DOHC Boss V8, six-speed manual (six-speed ZF auto optional); XR8 has 20 kW more and 10 Nm less than the Commodore SS; SS $200 cheaper; SS has six airbags vs XR8's four",
+    "GoAuto (10 Apr 2008) describes the SS's 6.0 as a Gen IV V8 (GM's pushrod small-block family) and the XR8's Boss 290 as DOHC",
+    "Carsales 'FG Falcon drops almost $3000 into Aussie pockets' (14 Apr 2008): Falcon XR8 manual $45,490; Commodore SS $45,290, 270 kW / 530 Nm",
+    "Carsales 'Ford FG Falcon XR6, XR6 Turbo and XR8' review (11 Apr 2008): XR8 $45,490, 290 kW / 520 Nm",
+    "Prices are April 2008 list prices before on-roads"
+  ]
+}

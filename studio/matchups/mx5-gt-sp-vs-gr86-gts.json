@@ -1,0 +1,75 @@
+{
+  "makeA": "Mazda",
+  "makeB": "Toyota",
+  "eyebrow": "Sports Cars · 2023 manuals",
+  "a": "MX-5 GT SP",
+  "b": "GR86 GTS",
+  "hook": "39 kW down and 238 kg lighter. Featherweight roadster vs the bigger-engined coupe. Only 0.2 s apart.",
+  "cta": "MX-5 or GR86? Comment 👇",
+  "handle": "@specclash05",
+  "specs": [
+    {
+      "g": "Engine room",
+      "l": "Engine",
+      "a": "2.0 4cyl",
+      "b": "2.4 flat-four",
+      "m": "none"
+    },
+    {
+      "g": "Engine room",
+      "l": "Power",
+      "a": "135 kW",
+      "b": "174 kW",
+      "m": "high"
+    },
+    {
+      "g": "Engine room",
+      "l": "Torque",
+      "a": "205 Nm",
+      "b": "250 Nm",
+      "m": "high"
+    },
+    {
+      "g": "Feel",
+      "l": "Weight",
+      "a": "1,053 kg",
+      "b": "1,291 kg",
+      "m": "low"
+    },
+    {
+      "g": "Feel",
+      "l": "0-100 km/h (claimed)",
+      "a": "6.5 s",
+      "b": "6.3 s",
+      "m": "low"
+    },
+    {
+      "g": "Feel",
+      "l": "Seats",
+      "a": "2",
+      "b": "4",
+      "m": "high"
+    },
+    {
+      "g": "The wallet",
+      "l": "Price (+ORC)",
+      "a": "$47,320",
+      "b": "$45,390",
+      "m": "low"
+    }
+  ],
+  "stories": [
+    {
+      "t": "Light vs mighty",
+      "a": "Roof off, under 1,100 kg. The purist's pick since 1989.",
+      "b": "More power, more torque, back seats and a fixed roof for less money.",
+      "take": "Spec sheet says Toyota. Your heart might say Mazda."
+    }
+  ],
+  "_sources": [
+    "WhichCar '2023 Toyota GR86 v Mazda MX-5 review' comparison specs: GR86 GTS manual 2387cc flat-four 174 kW / 250 Nm, 1291 kg, 0-100 6.3 s claimed, 4 seats, $45,390 +ORC; MX-5 GT SP manual 1998cc 135 kW / 205 Nm, 1053 kg, 0-100 6.5 s claimed, 2 seats, $47,320 +ORC; MX-5 238 kg lighter",
+    "CarExpert Mazda MX-5 vs Toyota GR86 comparison (2026/27 models): confirms 135 kW / 205 Nm and 174 kW / 250 Nm",
+    "Fuel dropped: WhichCar page gives two different ADR figures for the MX-5",
+    "Prices are 2023 list prices before on-roads"
+  ]
+}
